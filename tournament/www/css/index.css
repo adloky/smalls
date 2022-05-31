@@ -25,7 +25,8 @@ td { border: 1px solid #ccc; padding: 2pt; }
 .menu-wrapper.visible { visibility: visible; }
 .menu-wrapper td { border: none; }
 .menu { min-width: 150pt; vertical-align: top; padding: 5pt; background-color: #fff; }
-.menu-cancel { width: 100%; background-color: #000; opacity: 0.5; }
-.menu-item { padding-bottom: 5pt; }
+.menu-cancel { width: 100%; background-color: #000; opacity: 0.3; }
+.menu-item { padding-bottom: 10pt; }
 .panel { border-bottom: 1px solid #ccc; position: fixed; width: 100%; background-color: #fff; height: 27pt; }
-.panel-box { display: inline-box; padding: 5pt; }
+.panel-box { display: inline-block; padding: 5pt; }
+.active-group { color: #d80; border-bottom: 2pt solid #d80; padding-bottom: 3pt; }

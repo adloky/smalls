@@ -18,6 +18,14 @@
 <body>
     <div class="panel">
       <div class="panel-box" data-bind="click: menuClick">Меню</div>
+      <!-- ko foreach: groups -->
+        <!-- ko if: num === $root.groupNumber() -->
+        <div class="panel-box active-group"><span data-bind="text: name"/></div>
+        <!-- /ko -->
+        <!-- ko ifnot: num === $root.groupNumber() -->
+        <div class="panel-box" data-bind="click: $root.groupClick"><span data-bind="text: name"/></div>
+        <!-- /ko -->
+      <!-- /ko -->
     </div>
     
     <table class="menu-wrapper" data-bind="class: 'menu-wrapper' + (menu() ? ' visible' : '')">

@@ -42,39 +42,11 @@ $(document).ready(function() {
         vm.menu(false);
     }
     
-    /*
-    function linkedPair() {
-        var a = ko.observable(null);
-        var b = ko.observable(null);
-        
-        function create(obsA, obsB) {
-            var result = ko.pureComputed({
-                read: function () {
-                    return obsA();
-                },
-                write: function (value) {
-                    if (value === null) {
-                        obsA(null);
-                        obsB(null);
-                        return;
-                    }
-                    
-                    value = Number(value);
-                    if (value > gamePerRound()) {
-                        obsA(null);
-                        obsB(null);
-                    } else {
-                        obsA(value);
-                        obsB(gamePerRound()-value);
-                    }
-                }
-            });
-            return result;
-        }
-        
-        return [create(a,b),create(b,a)];
+    vm.groups = ["A", "B", "C", "D"].map((x,i) => { return { name: x, num: i}});
+    vm.groupNumber = ko.observable(0);
+    vm.groupClick = function () {
+        vm.groupNumber(this.num);
     }
-    */
     
     function createGrid() {
         var grid = [];
@@ -101,7 +73,10 @@ $(document).ready(function() {
         return grid;
     }
     
-    vm.grid = createGrid();
+    var grids = vm.groups.map(() => createGrid());    
+    vm.grid = ko.computed(() => {
+        return grids[vm.groupNumber()];
+    });
     
     vm.scoreView = function(s) {
         if (ko.isObservable(s)) {
@@ -111,7 +86,7 @@ $(document).ready(function() {
     }
     
     vm.nameClick = function (_,e) {
-        vm.grid.filter(x => x != this).forEach(x => x.edit(false));
+        vm.grid().filter(x => x != this).forEach(x => x.edit(false));
         this.edit(true);
         $(e.target).find("input").focus();
     }
@@ -121,7 +96,7 @@ $(document).ready(function() {
     }
     
     vm.playerCount = ko.computed(() => {
-        var names = vm.grid.map(x => x.name());
+        var names = vm.grid().map(x => x.name());
         var n = 0;
         for (var i = 0; i < maxPlayers; i++) {
             if (names[i] === "") break;
@@ -134,6 +109,7 @@ $(document).ready(function() {
     vm.pairs = ko.computed(() => {
         var result = [];
         var n = vm.playerCount();
+        var grid = vm.grid();
         var dn = (n % 2 === 0) ? 0 : 1;
         if (n < 3) {
             return result;
@@ -149,8 +125,8 @@ $(document).ready(function() {
                     continue;
                 }
                 var pair = { title: ko.observable(false), players: [] };
-                pair.players.push({ name: vm.grid[a].name, score: vm.grid[a].scores[b] });
-                pair.players.push({ name: vm.grid[b].name, score: vm.grid[b].scores[a] });
+                pair.players.push({ name: grid[a].name, score: grid[a].scores[b] });
+                pair.players.push({ name: grid[b].name, score: grid[b].scores[a] });
                 result.push(pair);
             }
         }
@@ -175,25 +151,29 @@ $(document).ready(function() {
     }
     
     function save() {
-        var gridJson = JSON.stringify(ko.mapping.toJS(vm.grid));
-        localStorage.setItem(autosaveKey, gridJson);
+        var gridsJson = JSON.stringify(ko.mapping.toJS(grids));
+        localStorage.setItem(autosaveKey, gridsJson);
     }
     
     function load() {
-        var gridJson = localStorage.getItem(autosaveKey);
-        if (!gridJson) {
+        var gridsJson = localStorage.getItem(autosaveKey);
+        if (!gridsJson) {
             return;
         }
         
-        var gridDto = JSON.parse(gridJson);
+        var gridsDto = JSON.parse(gridsJson);
         
         try {
-            for (var g = 0; g < gridDto.length; g++) {
-                var go = gridDto[g];
-                vm.grid[g].name(go.name);
-                var sa = go.scores;
-                for (var s = 0; s < sa.length; s++) {
-                    vm.grid[g].scores[s](sa[s]);
+            for (var p = 0; p < gridsDto.length; p++) {
+                var gridDto = gridsDto[p];
+                var grid = grids[p];
+                for (var g = 0; g < gridDto.length; g++) {
+                    var go = gridDto[g];
+                    grid[g].name(go.name);
+                    var sa = go.scores;
+                    for (var s = 0; s < sa.length; s++) {
+                        grid[g].scores[s](sa[s]);
+                    }
                 }
             }
         }
@@ -201,42 +181,36 @@ $(document).ready(function() {
     }
     
     vm.reset = function() {
-        for (var i = 0; i < maxPlayers; i++) {
-            vm.grid[i].name("");
-        }
-        
-        for (var j = 0; j < maxPlayers-1; j++) {
-            for (var i = j+1; i < maxPlayers; i++) {
-                vm.grid[j].scores[i](null);
-                vm.grid[i].scores[j](null);
+        for (var k = 0; k < grids.length; k++) {
+            var grid = grids[k];
+            for (var i = 0; i < maxPlayers; i++) {
+                grid[i].name("");
+            }
+            
+            for (var j = 0; j < maxPlayers-1; j++) {
+                for (var i = j+1; i < maxPlayers; i++) {
+                    grid[j].scores[i](null);
+                    grid[i].scores[j](null);
+                }
             }
         }
+        vm.groupNumber(0);
     }
     
     vm.resetClick = function() {
         vm.reset();
         vm.menu(false);
     }
-    /*
-    var autosaveTimerId = null;
-
-    var autosaveComp = ko.computed(() => {
-        vm.grid.map(x => x.name());
-        vm.grid.map(x => x.scores.map(y => y()));
-        
-        if (autosaveTimerId !== null) {
-            clearTimeout(autosaveTimerId);
-        }
-        
-        autosaveTimerId = setTimeout(() => { save(); }, 10 * 1000);
-    });
-    */
     
     vm.test = function () {
         //save();
     }
 
     $(document).on("pause", () => {
+        save();
+    });    
+
+    $(window).on("beforeunload", () => {
         save();
     });    
     
