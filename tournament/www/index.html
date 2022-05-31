@@ -16,12 +16,30 @@
   <title>Tournament</title>
 </head>
 <body>
+    <div class="panel">
+      <div class="panel-box" data-bind="click: menuClick">Меню</div>
+    </div>
+    
+    <!-- ko if: menu -->
+    <table class="menu-wrapper">
+      <tbody>
+      <tr>
+        <td class="menu">
+          <div class="menu-item" data-bind="click: menuCancelClick">Меню</div>
+          <div class="menu-item" data-bind="click: resetClick">Сбросить</div>
+        </td>
+        <td class="menu-cancel" data-bind="click: menuCancelClick">
+        </td>
+      </tr>
+      </tbody>
+    </table>
+    <!-- /ko -->
     <!--
     <input class="test-input"/>
     -->
     <!-- <button data-bind="click: test">test</button>-->
-    <button data-bind="click: reset">Сбросить</button>
-    <p/>
+
+    <div class="body-container">
     
     <table class="grid">
       <tbody>
@@ -67,6 +85,7 @@
     </table>
     <!-- /k -->
     
+    </div>
     <script src="cordova.js"></script>
 </body>
 </html>

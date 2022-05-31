@@ -31,6 +31,16 @@ $(document).ready(function() {
       [[7,6],[0,5],[1,4],[2,3]],
       [[3,7],[4,2],[5,1],[6,0]]
     ];
+
+    vm.menu = ko.observable(false);
+    
+    vm.menuClick = function() {
+        vm.menu(true);
+    }
+    
+    vm.menuCancelClick = function() {
+        vm.menu(false);
+    }
     
     /*
     function linkedPair() {
@@ -202,7 +212,11 @@ $(document).ready(function() {
             }
         }
     }
-
+    
+    vm.resetClick = function() {
+        vm.reset();
+        vm.menu(false);
+    }
     /*
     var autosaveTimerId = null;
 
