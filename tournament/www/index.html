@@ -20,8 +20,7 @@
       <div class="panel-box" data-bind="click: menuClick">Меню</div>
     </div>
     
-    <!-- ko if: menu -->
-    <table class="menu-wrapper">
+    <table class="menu-wrapper" data-bind="class: 'menu-wrapper' + (menu() ? ' visible' : '')">
       <tbody>
       <tr>
         <td class="menu">
@@ -33,7 +32,7 @@
       </tr>
       </tbody>
     </table>
-    <!-- /ko -->
+
     <!--
     <input class="test-input"/>
     -->
