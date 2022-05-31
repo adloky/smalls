@@ -1,0 +1,19 @@
+body {
+    /*height:100vh;
+    margin:0px;
+    padding:0px;
+    width:100%;
+    */
+}
+
+body, input, button {
+    font-family: sans-serif;
+    font-size:14pt;
+}
+
+table { border-collapse: collapse; }
+td { border: 1px solid #ccc; padding: 2pt; }
+.grid input { border: none; width: 100%; }
+.grid-score, .pair-score { width: 25pt; min-width: 15pt; text-align: center; }
+.grid-name, .pair-name { width: 120pt; min-width: 80pt; padding-left: 5pt; padding-right: 5pt; }
+.pair-title { border: none; padding-top: 12pt; }

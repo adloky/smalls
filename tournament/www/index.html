@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="msapplication-tap-highlight" content="no">
+  <meta name="viewport" content="initial-scale=1, width=device-width, viewport-fit=cover">
+  <meta name="color-scheme" content="light">
+  <link rel="stylesheet" href="css/index.css">
+  <script src="js/jquery-3.3.1.js"></script>
+  <script src="js/knockout-3.5.1.js"></script>
+  <script src="js/knockout.mapping.js"></script>
+  <script src="js/index.js"></script>
+  
+  <title>Tournament</title>
+</head>
+<body>
+    <!--
+    <input class="test-input"/>
+    -->
+    <!-- <button data-bind="click: test">test</button>-->
+    <button data-bind="click: reset">Сбросить</button>
+    <p/>
+    
+    <table class="grid">
+      <tbody>
+        <!-- ko foreach: grid -->
+        <tr>
+          <td class="grid-name" data-bind="click: $root.nameClick">
+            <!-- ko ifnot: edit -->
+            <span data-bind="text: name"></span>
+            <!-- /ko -->
+            <!-- ko if: edit -->
+            <input data-bind="value: name, event: { blur: $root.nameBlur }"/>
+            <!-- /ko -->
+          </td>
+          <!-- ko foreach: scores -->
+          <td class="grid-score">
+            <span data-bind="text: $root.scoreView($data)"></span>
+          </td>
+          <!-- /ko -->
+        </tr>
+        <!-- /ko -->
+      </tbody>
+    </table>
+    
+    <!-- k if: playerCount > 2 -->
+    <table class="pairs">
+      <tbody>
+        <!-- ko foreach: pairs -->
+          <!-- ko if: title -->
+          <tr><td colspan="4" class="pair-title"><b><span data-bind="text: title"></span></b></td></tr>
+          <!-- /ko -->
+
+          <!-- ko ifnot: title -->
+          <tr>
+            <!-- ko foreach: players -->
+            <td class="pair-name"><span data-bind="text: name"></span></td>
+            <td class="pair-score" data-bind="click: $root.scoreClick"><span data-bind="text: $root.scoreView(score)"></span></td>
+            <!-- /ko -->
+            <td class="pair-score" data-bind="click: $root.scoreResetClick">x</td>
+          </tr>
+          <!-- /ko -->
+        <!-- /ko -->
+      </tbody>
+    </table>
+    <!-- /k -->
+    
+    <script src="cordova.js"></script>
+</body>
+</html>
