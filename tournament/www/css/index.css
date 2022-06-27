@@ -11,22 +11,24 @@ body {
 
 body, input, button {
     font-family: sans-serif;
-    font-size:14pt;
+    font-size:12pt;
 }
 
 table { border-collapse: collapse; }
 td { border: 1px solid #ccc; padding: 2pt; }
-.body-container { padding: 10pt; padding-top: 37pt; }
+.body-container { padding: 10pt; padding-top: 34pt; }
 .grid input { border: none; width: 100%; }
-.grid-score, .pair-score { width: 30pt; min-width: 20pt; text-align: center; }
-.grid-name, .pair-name { width: 120pt; min-width: 80pt; padding-left: 5pt; padding-right: 5pt; }
+.grid-score, .pair-score, .grid-sum { width: 25pt; min-width: 15pt; text-align: center; }
+.grid-sum { width: 35pt; min-width: 25pt; }
+.grid-name, .pair-name { width: 100pt; min-width: 70pt; padding-left: 5pt; padding-right: 5pt; }
 .pair-title { border: none; padding-top: 12pt; }
+.pair-score { font-size: 16pt; width: 35pt; min-width: 25pt; }
 .menu-wrapper { width: 100%; height: 100%; position: fixed; left: 0; top: 0; visibility: collapse; }
 .menu-wrapper.visible { visibility: visible; }
 .menu-wrapper td { border: none; }
 .menu { min-width: 150pt; vertical-align: top; padding: 5pt; background-color: #fff; }
 .menu-cancel { width: 100%; background-color: #000; opacity: 0.3; }
 .menu-item { padding-bottom: 10pt; }
-.panel { border-bottom: 1px solid #ccc; position: fixed; width: 100%; background-color: #fff; height: 27pt; }
+.panel { border-bottom: 1px solid #ccc; position: fixed; width: 100%; background-color: #fff; height: 24pt; }
 .panel-box { display: inline-block; padding: 5pt; }
 .active-group { color: #d80; border-bottom: 2pt solid #d80; padding-bottom: 3pt; }

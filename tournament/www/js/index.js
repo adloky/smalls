@@ -3,7 +3,7 @@
 $(document).ready(function() {
     var vm = {};
     var gamePerRound = ko.observable(2);
-    var maxPlayers = 8;
+    var maxPlayers = 10;
     var autosaveKey ="autosave";
     
     var berger = [];
@@ -32,6 +32,19 @@ $(document).ready(function() {
       [[3,7],[4,2],[5,1],[6,0]]
     ];
 
+    berger[10] = [
+      [[0,9],[1,8],[2,7],[3,6],[4,5]],
+      [[9,5],[6,4],[7,3],[8,2],[0,1]],
+      [[1,9],[2,0],[3,8],[4,7],[5,6]],
+      [[9,6],[7,5],[8,4],[0,3],[1,2]],
+      [[2,9],[3,1],[4,0],[5,8],[6,7]],
+      [[9,7],[8,6],[0,5],[1,4],[2,3]],
+      [[3,9],[4,2],[5,1],[6,0],[7,8]],
+      [[9,8],[0,7],[1,6],[2,5],[3,4]],
+      [[4,9],[5,3],[6,2],[7,1],[8,0]]
+    ];
+    
+    
     vm.menu = ko.observable(false);
     
     vm.menuClick = function() {
@@ -68,6 +81,20 @@ $(document).ready(function() {
         
         for (var i = 0; i < maxPlayers; i++) {
             grid[i].scores[i] = ko.observable("x");
+        }
+        
+        for (var i = 0; i < maxPlayers; i++) {
+            grid[i].sum = ko.computed(function() {
+                var scores = this.scores
+                    .map(x => x())
+                    .filter(x => x !== null && !isNaN(x));
+                    
+                if (scores.length === 0) {
+                    return null;
+                }
+                
+                return scores.reduce((a,b) => a + b, 0);
+            }, grid[i]);
         }
         
         return grid;
