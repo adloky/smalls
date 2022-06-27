@@ -1,0 +1,218 @@
+<html>
+  <head>
+    <style>
+      .z0 { background-color: #eddcbe; }
+      .z1 { background-color: #c2a480; }
+      .square-sel { background-color: #447788; opacity: 0.5; }
+      .z0.last { background-color: #ccc; }
+      .z1.last { background-color: #bbb; }
+      .board td { width: 12.5%; height: 12.5%; }
+      .arrows { position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none; }
+      .board td, .drag-piece, .arrows { background-repeat: no-repeat; background-position: center center; background-size: cover; }
+      .draggable { position: absolute; top: 0; left: 0; width: 100%; height: 100%; padding: 0; margin: 0; }
+      .hidden { visibility: collapse; }
+      
+      .pbr { background-image: url(img/br.svg); }
+      .pbn { background-image: url(img/bn.svg); }
+      .pbb { background-image: url(img/bb.svg); }
+      .pbq { background-image: url(img/bq.svg); }
+      .pbk { background-image: url(img/bk.svg); }
+      .pbp { background-image: url(img/bp.svg); }
+      .pwr { background-image: url(img/wr.svg); }
+      .pwn { background-image: url(img/wn.svg); }
+      .pwb { background-image: url(img/wb.svg); }
+      .pwq { background-image: url(img/wq.svg); }
+      .pwk { background-image: url(img/wk.svg); }
+      .pwp { background-image: url(img/wp.svg); }
+      .pzz { background-image: none; }
+    </style>
+
+    <script src="jquery-3.3.1.js"></script>
+    <script src="jquery-ui.js"></script>
+    <script src="jquery.ui.touch-punch.js"></script>
+    <script src="chess.js"></script>
+  </head>
+  <body style="font-family: sans-serif; ">
+      <div style="display: inline-block; float: left; width: 400pt; height: 400pt; position: relative">
+          <table class="board" cellpadding="0" cellspacing="0" style="width: 100%; height: 100%">
+              <tr><td class="sa8 z0 pzz">&nbsp;</td><td class="sb8 z1 pzz">&nbsp;</td><td class="sc8 z0 pzz">&nbsp;</td><td class="sd8 z1 pzz">&nbsp;</td><td class="se8 z0 pzz">&nbsp;</td><td class="sf8 z1 pzz">&nbsp;</td><td class="sg8 z0 pzz">&nbsp;</td><td class="sh8 z1 pzz"></td></tr>
+              <tr><td class="sa7 z1 pzz">&nbsp;</td><td class="sb7 z0 pzz">&nbsp;</td><td class="sc7 z1 pzz">&nbsp;</td><td class="sd7 z0 pzz">&nbsp;</td><td class="se7 z1 pzz">&nbsp;</td><td class="sf7 z0 pzz">&nbsp;</td><td class="sg7 z1 pzz">&nbsp;</td><td class="sh7 z0 pzz"></td></tr>
+              <tr><td class="sa6 z0 pzz">&nbsp;</td><td class="sb6 z1 pzz">&nbsp;</td><td class="sc6 z0 pzz">&nbsp;</td><td class="sd6 z1 pzz">&nbsp;</td><td class="se6 z0 pzz">&nbsp;</td><td class="sf6 z1 pzz">&nbsp;</td><td class="sg6 z0 pzz">&nbsp;</td><td class="sh6 z1 pzz"></td></tr>
+              <tr><td class="sa5 z1 pzz">&nbsp;</td><td class="sb5 z0 pzz">&nbsp;</td><td class="sc5 z1 pzz">&nbsp;</td><td class="sd5 z0 pzz">&nbsp;</td><td class="se5 z1 pzz">&nbsp;</td><td class="sf5 z0 pzz">&nbsp;</td><td class="sg5 z1 pzz">&nbsp;</td><td class="sh5 z0 pzz"></td></tr>
+              <tr><td class="sa4 z0 pzz">&nbsp;</td><td class="sb4 z1 pzz">&nbsp;</td><td class="sc4 z0 pzz">&nbsp;</td><td class="sd4 z1 pzz">&nbsp;</td><td class="se4 z0 pzz">&nbsp;</td><td class="sf4 z1 pzz">&nbsp;</td><td class="sg4 z0 pzz">&nbsp;</td><td class="sh4 z1 pzz"></td></tr>
+              <tr><td class="sa3 z1 pzz">&nbsp;</td><td class="sb3 z0 pzz">&nbsp;</td><td class="sc3 z1 pzz">&nbsp;</td><td class="sd3 z0 pzz">&nbsp;</td><td class="se3 z1 pzz">&nbsp;</td><td class="sf3 z0 pzz">&nbsp;</td><td class="sg3 z1 pzz">&nbsp;</td><td class="sh3 z0 pzz"></td></tr>
+              <tr><td class="sa2 z0 pzz">&nbsp;</td><td class="sb2 z1 pzz">&nbsp;</td><td class="sc2 z0 pzz">&nbsp;</td><td class="sd2 z1 pzz">&nbsp;</td><td class="se2 z0 pzz">&nbsp;</td><td class="sf2 z1 pzz">&nbsp;</td><td class="sg2 z0 pzz">&nbsp;</td><td class="sh2 z1 pzz"></td></tr>
+              <tr><td class="sa1 z1 pzz">&nbsp;</td><td class="sb1 z0 pzz">&nbsp;</td><td class="sc1 z1 pzz">&nbsp;</td><td class="sd1 z0 pzz">&nbsp;</td><td class="se1 z1 pzz">&nbsp;</td><td class="sf1 z0 pzz">&nbsp;</td><td class="sg1 z1 pzz">&nbsp;</td><td class="sh1 z0 pzz"></td></tr>
+          </table>
+          
+          <div class="arrows">
+              &nbsp;
+          </div>
+
+          <div class="draggable">
+              <div class="drag-piece pzz hidden" style=" position: absolute; top: 0; left: 0; width: 50pt; height: 50pt; ">&nbsp;</div>
+          </div>
+      </div>
+
+      <div style=" width: 300pt; float: left; padding: 0pt 10pt; ">
+          <div style="align-content: center; display: flex; ">
+            <button class="help" style=" font-size: 12pt; ">&nbsp;?&nbsp;</button>
+          </div>
+      </div>
+      <script>
+          var startFen = "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1";
+          var pieceClassMap = new Map([["P", "pwp"], ["R", "pwr"], ["N", "pwn"], ["B", "pwb"], ["Q", "pwq"], ["K", "pwk"],
+                                       ["p", "pbp"], ["r", "pbr"], ["n", "pbn"], ["b", "pbb"], ["q", "pbq"], ["k", "pbk"], ["z", "pzz"]]);
+                                       
+          var curFen;
+          
+          var opens = [
+              "e4 e5 Nf3 Nc6 Bc4 Bc5 c3~s Nf6 d4 exd4 cxd4 Bb4+ Nc3 Nxe4 O-O Bxc3 d5 Bf6 Re1 Ne7 Rxe4 d6" // it с3 d4 (d5)
+            , "e4 e5 Nf3 Nc6 Bc4 Bc5 c3 Nf6 d4 exd4 cxd4 Bb4+ Nc3 Nxe4 O-O Bxc3 bxc3~s d5 Re1 O-O"        // it с3 d4 (bxc3)
+            , "e4 e5 Nf3 Nc6 Bc4 Bc5 c3 Nf6 d4 exd4 e5~s d5 Bb5 Ne4 cxd4 Bb4+ Bd2 Nxd2 Nbxd2 O-O O-O Ne7" // it c3 d4 engine
+            , "e4 e5 Nf3 Nc6 Bc4 Bc5 c3 Nf6 d3~s h6 O-O d6 h3 O-O Re1 Be6 Bb5 Bb6"                        // it c3 d3
+            , "e4 e5 Nf3 Nc6 Bc4 Bc5 d3~s h6 O-O Nf6 Nc3 d6 h3 O-O"                                       // it d3 (Nc3)
+            , "e4 e5 Nf3 Nc6 Bc4 Bc5 d3 h6 O-O Nf6 c3~s d6 h3 O-O Re1 Be6"                                // it d3 (c3)
+            , "e4 e5 Nf3 Nc6 Bc4 Bc5 d3 h6 c3~s Nf6 O-O d6 h3 Bb6 a4 a5"                                  // it d3 engine
+            , "e4 e5 Nf3 Nc6 Bc4 Bc5 d4~s Bxd4 Nxd4 Nxd4 Be3 Nc6 Qh5 Qe7 Nc3 Nf6"                         // it d4
+            , "e4 e5 Nf3 Nc6 Bc4 Bc5 b4~s Bxb4 c3 Ba5 d4 d6 Qb3 Qd7 dxe5 Bb6 Bb5 Nge7 exd6 Qxd6"          // it Evans
+          ];
+          
+          var pos = [];
+          var curPos;
+
+          (function() {
+              for (var j = 0; j < opens.length; j++) {
+                  var moves = opens[j].split(" ");
+                  chess.load(startFen);
+                  
+                  var i = 0;
+                  for (; i < moves.length; i++) {
+                      if (moves[i].indexOf("~s") > -1) {
+                          break;
+                      }
+                      chess.move(moves[i]);
+                  }
+                  
+                  for (; i < moves.length-1; i+=2) {
+                      var move = moves[i].replace(/~.*/,"");
+                      var mr = chess.move(move);
+                      var p = {};
+                      p.last = mr.from + mr.to;
+                      p.fen = chess.fen();
+                      p.right = moves[i+1];
+                      chess.move(p.right);
+                      pos.push(p);
+                  }
+              }
+          })();
+          
+          function pieceClass(elem, newClass) {
+              var elemSel = $(elem);
+              var curClass = elemSel.attr("class").match(/p(zz|[bw][prnbqk])/)[0];
+              if (newClass) {
+                  elemSel.attr("class", elemSel.attr("class").replace(curClass, newClass));
+                  curClass = newClass;
+              }
+              return curClass;
+          }
+
+          function applyFen(fen) {
+              var fen0 = fen.split(" ")[0];
+              fen0 = fen0.replaceAll("1", "z",).replaceAll("2", "zz").replaceAll("3", "zzz").replaceAll("4", "zzzz")
+                  .replaceAll("5", "zzzzz").replaceAll("6", "zzzzzz").replaceAll("7", "zzzzzzz").replaceAll("8", "zzzzzzzz");
+
+              var fs = fen0.split("/");
+              var cols = "abcdefgh";
+              var rows = "87654321";
+
+              for (var y = 0; y < 8; y++) {
+                  for (var x = 0; x < 8; x++) {
+                      var elem = $(".s" + cols[x] + rows[y]);
+                      pieceClass(elem, pieceClassMap.get(fs[y][x]));
+                  }
+              }
+
+              curFen = fen;
+          }
+
+          function getSquare(ev) {
+              var boardElem = $(".board");
+              var squareSize = boardElem.width() / 8;
+              var boardPos = boardElem.offset();
+              r = {};
+              r.x = Math.floor((ev.pageX - boardPos.left) / squareSize);
+              r.y = Math.floor((ev.pageY - boardPos.top) / squareSize);
+              r.name = "abcdefgh".charAt(r.x) + "87654321".charAt(r.y);
+              r.pieceClass = $(".board .s" + r.name).attr("class").match(/p(zz|[bw][prnbqk])/)[0];
+              return r;
+          }
+          
+          function applyMove(move) {
+              chess.load(curPos.fen);
+              var mr = chess.move(move, { sloppy: true });
+              if (mr === null || mr.san !== curPos.right) {
+                  return;
+              }
+              
+              nextPos();
+          }
+
+          function nextPos() {
+              var i;
+              do {
+                  i = Math.floor(Math.random() * pos.length);
+              } while (pos[i] == curPos);
+          
+              curPos = pos[i];
+              $(".last").removeClass("last");
+              applyFen(curPos.fen);
+              
+              $(".s" + curPos.last.substring(0,2)).addClass("last");
+              $(".s" + curPos.last.substring(2,4)).addClass("last");
+          }
+          
+          $(document).ready(function () {
+              nextPos();
+              
+              $(".help").click(function() {
+                  alert(curPos.right);
+              });
+              
+              $(".draggable").draggable({
+                  start: function (ev) {
+                      var s = getSquare(ev);
+                      $(".draggable").css({ width: ((s.x + 1) * 12.5) + "%", height: ((s.y + 1) * 12.5) + "%" });
+
+                      var turn = curFen.split(" ")[1];
+                      if (s.pieceClass.charAt(1) !== turn) {
+                          return;
+                      }
+                      
+                      var pieceElem = $(".drag-piece");
+                      pieceElem.css({ left: (s.x * 50) + "pt", top: (s.y * 50) + "pt" });
+                      pieceClass(pieceElem, s.pieceClass);
+                      pieceElem.removeClass("hidden");
+                      $(".s" + s.name).addClass("square-sel");
+                  },
+                  stop: function (ev) {
+                      var curSel = $(".square-sel");
+                      curSel.removeClass("square-sel");
+                      $(".drag-piece").addClass("hidden");
+                      $(".draggable").css({ left: "0%", top: "0%", width: "100%", height: "100%" });
+
+                      if (curSel.length == 0) {
+                          return;
+                      }
+
+                      var srcSquare = curSel.attr("class").match(/s[a-h][1-8]/)[0].substring(1);
+                      var dstSquare = getSquare(ev).name;
+                      var move = srcSquare + dstSquare;
+
+                      applyMove(move);
+                  }
+              });
+          });
+      </script>
+  </body>
+</html>
