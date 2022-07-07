@@ -60,12 +60,6 @@
           </div>
       </div>
       <script>
-          var startFen = "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1";
-          var pieceClassMap = new Map([["P", "pwp"], ["R", "pwr"], ["N", "pwn"], ["B", "pwb"], ["Q", "pwq"], ["K", "pwk"],
-                                       ["p", "pbp"], ["r", "pbr"], ["n", "pbn"], ["b", "pbb"], ["q", "pbq"], ["k", "pbk"], ["z", "pzz"]]);
-                                       
-          var curFen;
-          
           var opens = [
               "e4 e5 Nf3 Nc6 Bc4 Bc5 c3~s Nf6 d4 exd4 cxd4 Bb4+ Nc3 Nxe4 O-O Bxc3 d5 Bf6 Re1 Ne7 Rxe4 d6" // it с3 d4 (d5)
             , "e4 e5 Nf3 Nc6 Bc4 Bc5 c3 Nf6 d4 exd4 cxd4 Bb4+ Nc3 Nxe4 O-O Bxc3 bxc3~s d5 Re1 O-O"        // it с3 d4 (bxc3)
@@ -77,10 +71,14 @@
             , "e4 e5 Nf3 Nc6 Bc4 Bc5 d4~s Bxd4 Nxd4 Nxd4 Be3 Nc6 Qh5 Qe7 Nc3 Nf6"                         // it d4
             , "e4 e5 Nf3 Nc6 Bc4 Bc5 b4~s Bxb4 c3 Ba5 d4 d6 Qb3 Qd7 dxe5 Bb6 Bb5 Nge7 exd6 Qxd6"          // it Evans
           ];
-          
+      
+          var startFen = "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1";
+          var pieceClassMap = new Map([["P", "pwp"], ["R", "pwr"], ["N", "pwn"], ["B", "pwb"], ["Q", "pwq"], ["K", "pwk"],
+                                       ["p", "pbp"], ["r", "pbr"], ["n", "pbn"], ["b", "pbb"], ["q", "pbq"], ["k", "pbk"], ["z", "pzz"]]);
+          var curFen;                             
           var pos = [];
           var curPos;
-
+          
           (function() {
               for (var j = 0; j < opens.length; j++) {
                   var moves = opens[j].split(" ");
@@ -107,6 +105,23 @@
               }
           })();
           
+          var whiteSide = [];
+          var blackSide = [];
+          
+          (function() {
+              for (var j = 0; j < 8; j++) {
+                  for (var i = 0; i < 8; i++) {
+                      whiteSide.push("abcdefgh".charAt(i) + "87654321".charAt(j));
+                  }
+              }
+              
+              for (var j = 0; j < 8; j++) {
+                  for (var i = 0; i < 8; i++) {
+                      blackSide.push("hgfedcba".charAt(i) + "12345678".charAt(j));
+                  }
+              }
+          })();
+          
           function pieceClass(elem, newClass) {
               var elemSel = $(elem);
               var curClass = elemSel.attr("class").match(/p(zz|[bw][prnbqk])/)[0];
@@ -118,6 +133,12 @@
           }
 
           function applyFen(fen) {
+              var side = (fen.indexOf(" w ")> -1) ? whiteSide : blackSide;
+              $(".board td").toArray().forEach((e,i) => {
+                  var newClass = $(e).attr("class").replace(/s[a-h][1-8]/, "s" + side[i]);
+                  $(e).attr("class",newClass);
+              });
+          
               var fen0 = fen.split(" ")[0];
               fen0 = fen0.replaceAll("1", "z",).replaceAll("2", "zz").replaceAll("3", "zzz").replaceAll("4", "zzzz")
                   .replaceAll("5", "zzzzz").replaceAll("6", "zzzzzz").replaceAll("7", "zzzzzzz").replaceAll("8", "zzzzzzzz");
@@ -132,18 +153,22 @@
                       pieceClass(elem, pieceClassMap.get(fs[y][x]));
                   }
               }
-
+              
               curFen = fen;
           }
 
           function getSquare(ev) {
+              var w = $(".board td:first").attr("class").indexOf("sa8") > -1;
+              var cols = w ? "abcdefgh" : "hgfedcba";
+              var rows = w ? "87654321" : "12345678";
+          
               var boardElem = $(".board");
               var squareSize = boardElem.width() / 8;
               var boardPos = boardElem.offset();
               r = {};
               r.x = Math.floor((ev.pageX - boardPos.left) / squareSize);
               r.y = Math.floor((ev.pageY - boardPos.top) / squareSize);
-              r.name = "abcdefgh".charAt(r.x) + "87654321".charAt(r.y);
+              r.name = cols.charAt(r.x) + rows.charAt(r.y);
               r.pieceClass = $(".board .s" + r.name).attr("class").match(/p(zz|[bw][prnbqk])/)[0];
               return r;
           }
