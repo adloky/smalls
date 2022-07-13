@@ -7,6 +7,14 @@ using System.Threading;
 using System.Threading.Tasks;
 using OpenCvSharp;
 using SharpDX.MediaFoundation;
+using Microsoft.AspNet.SignalR;
+using Microsoft.Owin.Hosting;
+using Owin;
+using Microsoft.Owin.Cors;
+using System.Net;
+using System.IO;
+using Chess;
+using System.Text.RegularExpressions;
 
 namespace ConApp
 {
@@ -33,8 +41,19 @@ namespace ConApp
         }
     }
 
-    class Program
+    public class Program
     {
+        #region recognize
+
+        public static Scalar ScalarBGR2HSV(Scalar s) {
+            Mat bgr = new Mat(1, 1, MatType.CV_8UC3, s);
+            Mat hsv = new Mat();
+            Cv2.CvtColor(bgr, hsv, ColorConversionCodes.BGR2HSV);
+            var v = hsv.Get<Vec3b>(0, 0);
+
+            return new Scalar(v[0], v[1], v[2]);
+        }
+
         static void HueShift(Mat src, int shift) {
             for (var j = 0; j < src.Rows; j++) {
                 for (var i = 0; i < src.Cols; i++) {
@@ -65,7 +84,7 @@ namespace ConApp
             }
         }
 
-        public static Point FindNearest(Point sp, Point[] ps) {
+        public static Point FindNearestPoint(Point sp, Point[] ps) {
             var minDest = int.MaxValue;
             var result = new Point(0, 0);
             foreach (var p in ps) {
@@ -195,7 +214,7 @@ namespace ConApp
             var redColor = new Scalar();
             {
                 var minRedDist = double.MaxValue;
-                var redColorStd = new Scalar(64,64,192);
+                var redColorStd = new Scalar(0,0,255);
                 for (var j = 0; j < imgSmall.Height; j++) {
                     for (var i = 0; i < imgSmall.Width; i++) {
                         var cv3 = imgSmall.At<Vec3b>(j, i);
@@ -210,25 +229,25 @@ namespace ConApp
             }
 
             var imgHsv = new Mat();
+            Cv2.CvtColor(img, imgHsv, ColorConversionCodes.BGR2HSV);
+            var redColorHsv = ScalarBGR2HSV(redColor);
+            HueShift(imgHsv,30);
+            redColorHsv.Val0 = (redColorHsv.Val0 + 30) % 180;
             var mask = new Mat();
-            Cv2.InRange(img, redColor.Add(new Scalar(-32, -32, -32)), redColor.Add(new Scalar(32, 32, 32)), mask);
-            // new Window("mask", mask);
-            // Cv2.WaitKey(1);
+            Cv2.InRange(imgHsv, redColorHsv.Add(new Scalar(-10, -60, -80)), redColorHsv.Add(new Scalar(10, 80, 80)), mask);
+            //new Window("mask", mask);
+            //Cv2.WaitKey(1);
 
             // Circles
-            Cv2.GaussianBlur(mask, mask, new Size(9, 9), 0);
+            Cv2.GaussianBlur(mask, mask, new Size(13, 13), 0);
             var circles = Cv2.HoughCircles(mask, HoughModes.Gradient, 1,
                          10,  // change this value to detect circles with different distances to each other
                          100, 30,
                          5, 30 // change the last two parameters (min_radius & max_radius) to detect larger circles
             );
 
-            //foreach (var circle in circles) {
-            //    Cv2.Circle(img, circle.Center.ToPoint(), (int)circle.Radius, new Scalar(0, 255, 0), 3, LineTypes.AntiAlias);
-            //}
-
             if (circles.Length != 4) {
-                throw new Exception("Red circles count != 4.");
+                throw new Exception("Red circles count (" + circles.Length + ") != 4.");
             }
 
             circles = circles.OrderBy(x => x.Center.X).ToArray();
@@ -240,10 +259,10 @@ namespace ConApp
             // Correct points
             Point2f[] srcTrans = new Point2f[4];
             var cirPoints = circles.Select(x => x.Center.ToPoint()).ToArray();
-            srcTrans[0] = FindNearest(new Point(0, 0), cirPoints);
-            srcTrans[1] = FindNearest(new Point(0, img.Rows), cirPoints);
-            srcTrans[2] = FindNearest(new Point(img.Cols, 0), cirPoints);
-            srcTrans[3] = FindNearest(new Point(img.Cols, img.Rows), cirPoints);
+            srcTrans[0] = FindNearestPoint(new Point(0, 0), cirPoints);
+            srcTrans[1] = FindNearestPoint(new Point(0, img.Rows), cirPoints);
+            srcTrans[2] = FindNearestPoint(new Point(img.Cols, 0), cirPoints);
+            srcTrans[3] = FindNearestPoint(new Point(img.Cols, img.Rows), cirPoints);
 
             // Transform
             var size = 400;
@@ -260,7 +279,7 @@ namespace ConApp
 
             // Test contour
             var blackColor = SquareAvgColor(img, new Point(0,0), 5);
-            Cv2.InRange(img, blackColor.Add(new Scalar(-30, -30, -30)), blackColor.Add(new Scalar(30, 30, 30)), mask);
+            Cv2.InRange(img, blackColor.Add(new Scalar(-50, -50, -50)), blackColor.Add(new Scalar(50, 50, 50)), mask);
             var blackSeq = 0;
             foreach (var p in SquareContour(new Point(0,0), size)) {
                 var c = mask.At<byte>(p.Y,p.X);
@@ -281,7 +300,7 @@ namespace ConApp
             var whiteSquareColor = SquareAvgColor(imgHsv, new Point(sqs * 0.5 - 5, sqs * 2.5 - 5), 10);
             Cv2.InRange(imgHsv, blackSquareColor.Add(new Scalar(-20, -110, -110)), blackSquareColor.Add(new Scalar(20, 110, 110)), mask);
 
-            Cv2.Rectangle(mask, new Rect(sqs, sqs, size - 2 * sqs, size - 2 * sqs), new Scalar(255), 2);
+            Cv2.Rectangle(mask, new Rect(sqs, sqs, size - 2 * sqs, size - 2 * sqs), new Scalar(255), 4);
             var mask2 = new Mat(mask.Size(), mask.Type(), new Scalar());
             Cv2.Rectangle(mask2, new Rect(sqs, sqs, size - 2 * sqs, size - 2 * sqs), new Scalar(255), -1);
             Cv2.BitwiseAnd(mask, mask2, mask);
@@ -306,12 +325,12 @@ namespace ConApp
                     gl.gray = (byte)((int)avgColor.Val0);
                 }
                 grayLabels.Add(gl);
-                //Cv2.Rectangle(img, new Rect(p, new Size(sqs,sqs)), fColor, -1);
             }
 
             var pieceGrayLabels = grayLabels.Where(x => x.gray < 255).ToArray();
             FindPieceColors(pieceGrayLabels);
 
+            // Build result
             var resultSb = new StringBuilder();
             var sqi = 0;
             foreach (var gl in grayLabels) {
@@ -325,27 +344,236 @@ namespace ConApp
             return resultSb.ToString();
         }
 
+        #endregion
+
+        #region lichess
+
+        public static string Curl(string url, string method = "GET") {
+            var request = WebRequest.Create(url);
+            request.Method = method;
+            request.Headers.Add("Authorization: Bearer lip_vCoNPyCoEXaQ5tDBUwDA");
+            WebResponse response;
+            try {
+                response = request.GetResponse();
+            }
+            catch (WebException e) {
+                response = e.Response;
+                // ((HttpWebResponse)e.Response).StatusCode
+            }
+
+            string result;
+            using (Stream dataStream = response.GetResponseStream()) {
+                var reader = new StreamReader(dataStream);
+                result = reader.ReadToEnd();
+            }
+
+            response.Close();
+
+            return result;
+        }
+
+        
+        public static string GetGameId() {
+            var pgnStr = Curl("https://lichess.org/api/user/adlokyy/current-game");
+            var pgn = Pgn.Load(pgnStr);
+            return pgn.Site.Split('/').Last();
+        }
+
+        public static bool Move(string gameId, string move) {
+            var s = Curl($"https://lichess.org/api/board/game/{gameId}/move/{move}", "POST");
+            return s.IndexOf(@"""ok"":true") > -1;
+        }
+
+        #endregion
+
+        #region find move
+
+        public static string FindMove(string fen, string board) {
+            Func<Point, string> getSquare = (p) => "" + "abcdefgh"[p.X] + "87654321"[p.Y];
+
+            var fen0 = fen.Split(' ')[0];
+            fen0 = fen0.Replace("1", ".").Replace("2", "..").Replace("3", "...").Replace("4", "....")
+                .Replace("5", ".....").Replace("6", "......").Replace("7", ".......").Replace("8", "........");
+
+            fen0 = Regex.Replace(fen0, "[pnbrqk]", "b");
+            fen0 = Regex.Replace(fen0, "[PNBRQK]", "w");
+
+            var a = fen0.Split('/');
+            var b = board.Split('/');
+
+            var ps = new List<Point>();
+            for (var y = 0; y < 8; y++) {
+                for (var x = 0; x < 8; x++) {
+                    if (a[y][x] != b[y][x]) {
+                        ps.Add(new Point(x,y));
+                    }
+                }
+            }
+
+            if (ps.Count == 0) {
+                return null;
+            }
+
+            if (ps.Count != 2 && ps.Count != 4) {
+                throw new Exception($"Find move diff count is {ps.Count}.");
+            }
+
+            if (ps.Count == 2) {
+                ps = ps.OrderBy(p => b[p.Y][p.X]).ToList();
+                var bcs = string.Join("", ps.Select(p => b[p.Y][p.X])).Replace("b", "w");
+                if (bcs != ".w") {
+                    throw new Exception("Find move error.");
+                }
+
+                return getSquare(ps[0]) + getSquare(ps[1]);
+            }
+            else if (ps.Count == 4) {
+                var ys = ps.Select(p => p.Y).Distinct().ToArray();
+                if (ys.Length > 1 || (ys[0] != 0 && ys[0] != 7)) {
+                    throw new Exception("Find move error.");
+                }
+                var y = ys[0];
+                var xs = string.Join("", ps.Select(p => p.X.ToString()));
+                if (xs != "0234" && xs != "4567") {
+                    throw new Exception("Find move error.");
+                }
+
+                var bcs = string.Join("", ps.Select(p => b[p.Y][p.X])).Replace("b", "w");
+                if (bcs != ".ww.") {
+                    throw new Exception("Find move error.");
+                }
+
+                var targetX = (ps[0].X == 0) ? 2 : 6;
+
+                return getSquare(new Point(4,y)) + getSquare(new Point(targetX, y));
+            }
+
+            return null;
+        }
+
+        #endregion
+
+        public static void SendState(string s) {
+            foreach (var hub in CvHub.Hubs) {
+                hub.Clients.All.setBoardState(s);
+            }
+        }
+
         static void Main(string[] args)
         {
             /*
-            var frame = new Mat();
-            var capture = CreateVideoCapture(2);
-            capture.Read(frame);
+            var gameId = GetGameId();
 
-            frame.SaveImage("d:/chess-cv-2.jpg");
+            while (true) {
+                var s = Console.ReadLine();
+                if (s == "q") {
+                    break;
+                }
+
+                Move(gameId, s);
+            }
+
+            
+            return;
+            */
+            /*
+            var imgS = new Mat();
+            var captureS = CreateVideoCapture(2);
+            captureS.Read(imgS);
+
+            imgS.SaveImage("d:/chess-cv-3.jpg");
 
             return;
             */
 
-            var img = new Mat("d:/chess-cv-2.jpg", ImreadModes.Color);
+            /*
+            var imgR = new Mat("d:/chess-cv-1.jpg", ImreadModes.Color);
+            Console.WriteLine(recognizeBoard(imgR));
 
-            Console.WriteLine(recognizeBoard(img));
-
-            // Quantize
-            //Kmeans(img,img,15);
-
-            new Window("src", img);
+            new Window("src", imgR);
             Cv2.WaitKey();
+
+            return;
+            */
+
+            using (WebApp.Start("http://192.168.0.2:8081")) {
+                Console.WriteLine("ChessCv started...");
+
+                var img = new Mat();
+                var capture = CreateVideoCapture(2);
+
+                var fen = Board.DEFAULT_STARTING_FEN;
+                var gameId = (string)null;
+                var isWhite = true;
+                while (true) {
+                    var state = "";
+                    Cv2.WaitKey(333);
+                    capture.Read(img);
+
+                    var board = (string)null;
+                    var boardError = (string)null;
+                    try {
+                        board = recognizeBoard(img);
+                    } catch (Exception e) {
+                        boardError = e.Message;
+                    }
+
+                    if (board == null) {
+                        SendState(boardError);
+                        continue;
+                    }
+
+                    state += board.Replace("/", "\n");
+
+                    if (board == "bbbbbbbb/bbbbbbbb/......../......../......../......../wwwwwwww/wwwwwwww"
+                     || board == "wwwwwwww/wwwwwwww/......../......../......../......../bbbbbbbb/bbbbbbbb")
+                    {
+                        gameId = null;
+                        fen = Board.DEFAULT_STARTING_FEN;
+                        isWhite = board[0] == 'b';
+                        SendState(state);
+                        continue;
+                    }
+
+                    board = (isWhite) ? board : string.Join("", board.Reverse());
+                    try {
+                        var move = FindMove(fen, board);
+                        if (move != null) {
+                            var sendMove = isWhite == (fen.IndexOf(" w ") > -1);
+                            fen = FEN.Move(fen, move);
+                            if (sendMove) {
+                                gameId = gameId ?? GetGameId();
+                                Move(gameId, move);
+                            }
+                        }
+                    } catch (Exception e) {
+                        state += "\n" + e.Message;
+                    }
+                    SendState(state);
+                }
+            }
+        }
+    }
+
+    class Startup {
+        public void Configuration(IAppBuilder app) {
+            app.UseCors(CorsOptions.AllowAll);
+            app.MapSignalR();
+        }
+    }
+
+    public class CvHub : Hub {
+        static Queue<CvHub> hubQueue = new Queue<CvHub>();
+
+        public static CvHub[] Hubs {
+            get { return hubQueue.ToArray(); }
+        }
+
+        public void enqueHub() {
+            hubQueue.Enqueue(this);
+            while (hubQueue.Count > 10) {
+                hubQueue.Dequeue();
+            }
         }
     }
 }
