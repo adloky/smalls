@@ -414,10 +414,6 @@ namespace ConApp
                 return null;
             }
 
-            if (ps.Count != 2 && ps.Count != 4) {
-                throw new Exception($"Find move diff count is {ps.Count}.");
-            }
-
             if (ps.Count == 2) {
                 ps = ps.OrderBy(p => b[p.Y][p.X]).ToList();
                 var bcs = string.Join("", ps.Select(p => b[p.Y][p.X])).Replace("b", "w");
@@ -426,6 +422,49 @@ namespace ConApp
                 }
 
                 return getSquare(ps[0]) + getSquare(ps[1]);
+            }
+            else if (ps.Count == 3) {
+                var xMin = ps.Select(p => p.X).Min();
+                var xMax = ps.Select(p => p.X).Max();
+                var yMin = ps.Select(p => p.Y).Min();
+                var yMax = ps.Select(p => p.Y).Max();
+
+                if (xMax - xMin != 1 || yMax - yMin != 1) {
+                    throw new Exception("Find move error.");
+                }
+
+                var ptrnA = "xxxx".ToArray();
+                foreach (var p in ps) {
+                    var i = (p.X - xMin) + (p.Y - yMin) * 2;
+                    ptrnA[i] = b[p.Y][p.X];
+                }
+                var ptrn = string.Join("", ptrnA);
+
+                if (yMin == 2) {
+                    if (ptrn == "xw..") {
+                        return getSquare(ps[1]) + getSquare(ps[0]);
+                    }
+                    else if (ptrn == "wx..") {
+                        return getSquare(ps[2]) + getSquare(ps[0]);
+                    }
+                    else {
+                        throw new Exception("Find move error.");
+                    }
+                }
+                else if (yMin == 4) {
+                    if (ptrn == "..xb") {
+                        return getSquare(ps[0]) + getSquare(ps[2]);
+                    }
+                    else if (ptrn == "..bx") {
+                        return getSquare(ps[1]) + getSquare(ps[2]);
+                    }
+                    else {
+                        throw new Exception("Find move error.");
+                    }
+                }
+                else {
+                    throw new Exception("Find move error.");
+                }
             }
             else if (ps.Count == 4) {
                 var ys = ps.Select(p => p.Y).Distinct().ToArray();
@@ -445,10 +484,11 @@ namespace ConApp
 
                 var targetX = (ps[0].X == 0) ? 2 : 6;
 
-                return getSquare(new Point(4,y)) + getSquare(new Point(targetX, y));
+                return getSquare(new Point(4, y)) + getSquare(new Point(targetX, y));
             }
-
-            return null;
+            else {
+                throw new Exception($"Find move diff count is {ps.Count}.");
+            }
         }
 
         #endregion
@@ -461,6 +501,10 @@ namespace ConApp
 
         static void Main(string[] args)
         {
+            // rnbqkbnr/pp1ppppp/8/8/1Pp5/8/P1PPPPPP/RNBQKBNR b KQkq b3 0 1
+            // rnbqkbnr/pp1ppppp/8/8/8/1p6/P1PPPPPP/RNBQKBNR w KQkq - 0 2
+            var m = FindMove("rnbqkbnr/pp1ppppp/8/8/1Pp5/8/P1PPPPPP/RNBQKBNR b KQkq b3 0 1", "bbbbbbbb/bb.bbbbb/......../......../......../.b....../w.wwwwww/wwwwwwww");
+            return;
             /*
             var gameId = GetGameId();
 
