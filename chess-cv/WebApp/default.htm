@@ -1,0 +1,30 @@
+<html>
+<head>
+    <style>
+    </style>
+
+    <script src="jquery-3.3.1.js"></script>
+    <script src="Scripts/jquery.signalR-2.4.2.js"></script>
+    <script src="http://192.168.0.2:8081/signalr/hubs"></script>
+</head>
+  <body style="font-family: sans-serif; ">
+      <pre class="board-state">
+      </pre>
+      <script>
+          var engine;
+
+          $(document).ready(function () {
+              
+              hub = $.connection.cvHub;
+              $.connection.hub.url = "http://192.168.0.2:8081/signalr";
+              hub.client.setBoardState = function (s) {
+                  $(".board-state").text(s);
+              };
+
+              $.connection.hub.start().done(function () {
+                  hub.server.enqueHub();
+              });
+          });
+      </script>
+  </body>
+</html>
