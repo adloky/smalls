@@ -1,6 +1,7 @@
 <html>
 <head>
     <style>
+    * { font-size: 16pt; }
     </style>
 
     <script src="jquery-3.3.1.js"></script>
@@ -8,17 +9,24 @@
     <script src="http://192.168.0.2:8081/signalr/hubs"></script>
 </head>
   <body style="font-family: sans-serif; ">
+      <audio class="beep" src="beep.mp3"></audio>
       <pre class="board-state">
       </pre>
       <script>
           var engine;
 
           $(document).ready(function () {
-              
+              var beep = $(".beep")[0];
+
               hub = $.connection.cvHub;
               $.connection.hub.url = "http://192.168.0.2:8081/signalr";
+              
               hub.client.setBoardState = function (s) {
                   $(".board-state").text(s);
+              };
+              
+              hub.client.beep = function () {
+                  beep.play();
               };
 
               $.connection.hub.start().done(function () {

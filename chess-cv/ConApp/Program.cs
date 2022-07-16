@@ -388,7 +388,7 @@ namespace ConApp
 
         #region find move
 
-        public static string FindMove(string fen, string board) {
+        public static string FindMoves(string fen, string board) {
             Func<Point, string> getSquare = (p) => "" + "abcdefgh"[p.X] + "87654321"[p.Y];
 
             var fen0 = fen.Split(' ')[0];
@@ -416,8 +416,8 @@ namespace ConApp
 
             if (ps.Count == 2) {
                 ps = ps.OrderBy(p => b[p.Y][p.X]).ToList();
-                var bcs = string.Join("", ps.Select(p => b[p.Y][p.X])).Replace("b", "w");
-                if (bcs != ".w") {
+                var bcs = string.Join("", ps.Select(p => b[p.Y][p.X]));
+                if (bcs != ".w" && bcs != ".b") {
                     throw new Exception("Find move error.");
                 }
 
@@ -430,7 +430,7 @@ namespace ConApp
                 var yMax = ps.Select(p => p.Y).Max();
 
                 if (xMax - xMin != 1 || yMax - yMin != 1) {
-                    throw new Exception("Find move error.");
+                    goto twoMoves;
                 }
 
                 var ptrnA = "xxxx".ToArray();
@@ -448,7 +448,7 @@ namespace ConApp
                         return getSquare(ps[2]) + getSquare(ps[0]);
                     }
                     else {
-                        throw new Exception("Find move error.");
+                        goto twoMoves;
                     }
                 }
                 else if (yMin == 4) {
@@ -459,27 +459,27 @@ namespace ConApp
                         return getSquare(ps[1]) + getSquare(ps[2]);
                     }
                     else {
-                        throw new Exception("Find move error.");
+                        goto twoMoves;
                     }
                 }
                 else {
-                    throw new Exception("Find move error.");
+                    goto twoMoves;
                 }
             }
             else if (ps.Count == 4) {
                 var ys = ps.Select(p => p.Y).Distinct().ToArray();
                 if (ys.Length > 1 || (ys[0] != 0 && ys[0] != 7)) {
-                    throw new Exception("Find move error.");
+                    goto twoMoves;
                 }
                 var y = ys[0];
                 var xs = string.Join("", ps.Select(p => p.X.ToString()));
                 if (xs != "0234" && xs != "4567") {
-                    throw new Exception("Find move error.");
+                    goto twoMoves;
                 }
 
-                var bcs = string.Join("", ps.Select(p => b[p.Y][p.X])).Replace("b", "w");
-                if (bcs != ".ww.") {
-                    throw new Exception("Find move error.");
+                var bcs = string.Join("", ps.Select(p => b[p.Y][p.X]));
+                if (bcs != ".ww." && bcs != ".bb.") {
+                    goto twoMoves;
                 }
 
                 var targetX = (ps[0].X == 0) ? 2 : 6;
@@ -488,6 +488,42 @@ namespace ConApp
             }
             else {
                 throw new Exception($"Find move diff count is {ps.Count}.");
+            }
+
+        twoMoves:
+            // target
+            ps = ps.OrderBy(p => b[p.Y][p.X]).ToList();
+            var targetPtrn = string.Join("", ps.Select(p => b[p.Y][p.X]));
+            if (targetPtrn != "..bw" && targetPtrn != "..b" && targetPtrn != "..w" && targetPtrn != ".bw") {
+                throw new Exception("Find move error.");
+            }
+
+            var targetWhiteSquare = (string)null;
+            var targetBlackSquare = (string)null;
+            if (targetPtrn == "..b" || targetPtrn == "..w") {
+                targetWhiteSquare = getSquare(ps[2]);
+                targetBlackSquare = getSquare(ps[2]);
+            }
+            else {
+                targetWhiteSquare = getSquare(ps.First(p => b[p.Y][p.X] == 'w'));
+                targetBlackSquare = getSquare(ps.First(p => b[p.Y][p.X] == 'b'));
+            }
+
+            // source
+            ps = ps.OrderByDescending(p => a[p.Y][p.X]).ToList();
+            var sourcePtrn = string.Join("", ps.Take(2).Select(p => a[p.Y][p.X]));
+            if (sourcePtrn != "wb") {
+                throw new Exception("Find move error.");
+            }
+
+            var whiteMove = getSquare(ps[0]) + targetWhiteSquare;
+            var blackMove = getSquare(ps[1]) + targetBlackSquare;
+
+            if (fen.IndexOf(" w ") > -1) {
+                return whiteMove + " " + blackMove;
+            }
+            else {
+                return blackMove + " " + whiteMove;
             }
         }
 
@@ -499,27 +535,7 @@ namespace ConApp
             }
         }
 
-        static void Main(string[] args)
-        {
-            // rnbqkbnr/pp1ppppp/8/8/1Pp5/8/P1PPPPPP/RNBQKBNR b KQkq b3 0 1
-            // rnbqkbnr/pp1ppppp/8/8/8/1p6/P1PPPPPP/RNBQKBNR w KQkq - 0 2
-            var m = FindMove("rnbqkbnr/pp1ppppp/8/8/1Pp5/8/P1PPPPPP/RNBQKBNR b KQkq b3 0 1", "bbbbbbbb/bb.bbbbb/......../......../......../.b....../w.wwwwww/wwwwwwww");
-            return;
-            /*
-            var gameId = GetGameId();
-
-            while (true) {
-                var s = Console.ReadLine();
-                if (s == "q") {
-                    break;
-                }
-
-                Move(gameId, s);
-            }
-
-            
-            return;
-            */
+        static void Main(string[] args) {
             /*
             var imgS = new Mat();
             var captureS = CreateVideoCapture(2);
@@ -544,15 +560,18 @@ namespace ConApp
                 Console.WriteLine("ChessCv started...");
 
                 var img = new Mat();
-                var capture = CreateVideoCapture(2);
+                var capture = CreateVideoCapture(3);
 
                 var fen = Board.DEFAULT_STARTING_FEN;
                 var gameId = (string)null;
                 var isWhite = true;
-                while (true) {
+                for (var gi = 0; ; gi++) {
+                    if (gi % 33 == 0) { GC.Collect(); };
                     var state = "";
                     Cv2.WaitKey(333);
                     capture.Read(img);
+                    // new Window("img", img);
+                    // Cv2.WaitKey(1);
 
                     var board = (string)null;
                     var boardError = (string)null;
@@ -581,13 +600,30 @@ namespace ConApp
 
                     board = (isWhite) ? board : string.Join("", board.Reverse());
                     try {
-                        var move = FindMove(fen, board);
-                        if (move != null) {
-                            var sendMove = isWhite == (fen.IndexOf(" w ") > -1);
-                            fen = FEN.Move(fen, move);
-                            if (sendMove) {
+                        var movesStr = FindMoves(fen, board);
+                        if (movesStr != null) {
+                            var moves = movesStr.Split(' ');
+                            if (moves.Length == 1) {
+                                var sendMove = isWhite == (fen.IndexOf(" w ") > -1);
+                                fen = FEN.Move(fen, movesStr);
+                                if (sendMove) {
+                                    gameId = gameId ?? GetGameId();
+                                    Move(gameId, movesStr);
+                                }
+                                else {
+                                    foreach (var hub in CvHub.Hubs) {
+                                        hub.Clients.All.beep();
+                                    }
+                                }
+                            }
+                            else {
                                 gameId = gameId ?? GetGameId();
-                                Move(gameId, move);
+                                var newFen = fen;
+                                foreach (var move in moves) {
+                                    newFen = FEN.Move(newFen, move);
+                                }
+                                fen = newFen;
+                                Move(gameId, moves[1]);
                             }
                         }
                     } catch (Exception e) {
@@ -618,6 +654,9 @@ namespace ConApp
             while (hubQueue.Count > 10) {
                 hubQueue.Dequeue();
             }
+        }
+        public void test() {
+            Console.WriteLine("test");
         }
     }
 }
