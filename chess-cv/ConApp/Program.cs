@@ -388,9 +388,7 @@ namespace ConApp
 
         #region find move
 
-        public static string FindMoves(string fen, string board) {
-            Func<Point, string> getSquare = (p) => "" + "abcdefgh"[p.X] + "87654321"[p.Y];
-
+        public static string GetFenMask(string fen) {
             var fen0 = fen.Split(' ')[0];
             fen0 = fen0.Replace("1", ".").Replace("2", "..").Replace("3", "...").Replace("4", "....")
                 .Replace("5", ".....").Replace("6", "......").Replace("7", ".......").Replace("8", "........");
@@ -398,7 +396,15 @@ namespace ConApp
             fen0 = Regex.Replace(fen0, "[pnbrqk]", "b");
             fen0 = Regex.Replace(fen0, "[PNBRQK]", "w");
 
-            var a = fen0.Split('/');
+            return fen0;
+        }
+
+        public static string FindMoves(string fen, string board) {
+            Func<Point, string> getSquare = (p) => "" + "abcdefgh"[p.X] + "87654321"[p.Y];
+
+            var fenMask = GetFenMask(fen);
+
+            var a = fenMask.Split('/');
             var b = board.Split('/');
 
             var ps = new List<Point>();
@@ -510,14 +516,33 @@ namespace ConApp
             }
 
             // source
-            ps = ps.OrderByDescending(p => a[p.Y][p.X]).ToList();
-            var sourcePtrn = string.Join("", ps.Take(2).Select(p => a[p.Y][p.X]));
-            if (sourcePtrn != "wb") {
-                throw new Exception("Find move error.");
+            var sourceWhiteSquare = (string)null;
+            var sourceBlackSquare = (string)null;
+            if (targetPtrn == ".bw") {
+                var empty = ps[0];
+                var emptyChar = a[empty.Y][empty.X];
+                var nonEmpty = ps.First(p => b[p.Y][p.X] == emptyChar);
+                if (emptyChar == 'w') {
+                    sourceWhiteSquare = getSquare(empty);
+                    sourceBlackSquare = getSquare(nonEmpty);
+                }
+                else {
+                    sourceWhiteSquare = getSquare(nonEmpty);
+                    sourceBlackSquare = getSquare(empty);
+                }
+            }
+            else {
+                ps = ps.Take(2).OrderBy(p => a[p.Y][p.X]).ToList();
+                var sourcePtrn = string.Join("", ps.Select(p => a[p.Y][p.X]));
+                if (sourcePtrn != "bw") {
+                    throw new Exception("Find move error.");
+                }
+                sourceWhiteSquare = getSquare(ps[1]);
+                sourceBlackSquare = getSquare(ps[0]);
             }
 
-            var whiteMove = getSquare(ps[0]) + targetWhiteSquare;
-            var blackMove = getSquare(ps[1]) + targetBlackSquare;
+            var whiteMove = sourceWhiteSquare + targetWhiteSquare;
+            var blackMove = sourceBlackSquare + targetBlackSquare;
 
             if (fen.IndexOf(" w ") > -1) {
                 return whiteMove + " " + blackMove;
@@ -536,6 +561,9 @@ namespace ConApp
         }
 
         static void Main(string[] args) {
+            //var _moves = FindMoves("rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2", GetFenMask("rnb1kbnr/ppp1pppp/8/3q4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3"));
+            //return;
+
             /*
             var imgS = new Mat();
             var captureS = CreateVideoCapture(2);
