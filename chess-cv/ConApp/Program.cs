@@ -399,6 +399,30 @@ namespace ConApp
             return fen0;
         }
 
+        public static string FindMoves2Captures(string fen, string white, string black) {
+            var squareStrs = (fen.IndexOf(" w ") > -1) ? new string[] { white, black } : new string[] { black, white };
+            var sources = squareStrs.Select(x => (Square)Enum.Parse(typeof(Square), x.ToUpper())).ToArray();
+            var board = Board.Load(fen);
+            var targets = board[sources[0]].GetValidMoves().Where(x => x.CapturedPiece != null).Select(x => x.Target).ToArray();
+            var validTargetList = new List<Square>();
+            foreach (var target in targets) {
+                board = Board.Load(fen);
+                if (board.Move(sources[0], target, typeof(Chess.Pieces.Queen))
+                 && board.Move(sources[1], target, typeof(Chess.Pieces.Queen)))
+                {
+                    validTargetList.Add(target);
+                }
+            }
+
+            if (validTargetList.Count != 1) {
+                throw new Exception("Find move error.");
+            }
+
+            var targetStr = validTargetList[0].ToString().ToLower();
+
+            return squareStrs[0] + targetStr + " " + squareStrs[1] + targetStr;
+        }
+
         public static string FindMoves(string fen, string board) {
             Func<Point, string> getSquare = (p) => "" + "abcdefgh"[p.X] + "87654321"[p.Y];
 
@@ -423,11 +447,21 @@ namespace ConApp
             if (ps.Count == 2) {
                 ps = ps.OrderBy(p => b[p.Y][p.X]).ToList();
                 var bcs = string.Join("", ps.Select(p => b[p.Y][p.X]));
-                if (bcs != ".w" && bcs != ".b") {
+                if (bcs != ".w" && bcs != ".b" && bcs != "..") {
                     throw new Exception("Find move error.");
                 }
 
-                return getSquare(ps[0]) + getSquare(ps[1]);
+                if (bcs == "..") {
+                    ps = ps.OrderByDescending(p => a[p.Y][p.X]).ToList();
+                    var acs = string.Join("", ps.Select(p => a[p.Y][p.X]));
+                    if (acs != "wb") {
+                        throw new Exception("Find move error.");
+                    }
+                    return FindMoves2Captures(fen, getSquare(ps[0]), getSquare(ps[1]));
+                }
+                else {
+                    return getSquare(ps[0]) + getSquare(ps[1]);
+                }
             }
             else if (ps.Count == 3) {
                 var xMin = ps.Select(p => p.X).Min();
