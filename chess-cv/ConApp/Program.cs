@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using OpenCvSharp;
+using OpenCvSharp.XPhoto;
 using SharpDX.MediaFoundation;
 using Microsoft.AspNet.SignalR;
 using Microsoft.Owin.Hosting;
@@ -15,6 +16,7 @@ using System.Net;
 using System.IO;
 using Chess;
 using System.Text.RegularExpressions;
+using System.Xml.XPath;
 
 namespace ConApp
 {
@@ -200,6 +202,12 @@ namespace ConApp
                 img = src.Clone();
             }
 
+            // White balance
+            // var balancer = SimpleWB.Create();
+            // balancer.BalanceWhite(img,img);
+            //new Window("img", img);
+            //Cv2.WaitKey(1);
+
             // blur
             Cv2.GaussianBlur(img, img, new Size(3, 3), 0);
 
@@ -234,22 +242,31 @@ namespace ConApp
             HueShift(imgHsv,30);
             redColorHsv.Val0 = (redColorHsv.Val0 + 30) % 180;
             var mask = new Mat();
-            Cv2.InRange(imgHsv, redColorHsv.Add(new Scalar(-10, -60, -80)), redColorHsv.Add(new Scalar(10, 80, 80)), mask);
+            Cv2.InRange(imgHsv, redColorHsv.Add(new Scalar(-7, -60, -80)), redColorHsv.Add(new Scalar(7, 80, 80)), mask);
             //new Window("mask", mask);
             //Cv2.WaitKey(1);
 
             // Circles
-            Cv2.GaussianBlur(mask, mask, new Size(13, 13), 0);
+            Cv2.GaussianBlur(mask, mask, new Size(11, 11), 0);
             var circles = Cv2.HoughCircles(mask, HoughModes.Gradient, 1,
                          10,  // change this value to detect circles with different distances to each other
                          100, 30,
-                         5, 30 // change the last two parameters (min_radius & max_radius) to detect larger circles
+                         5, 50 // change the last two parameters (min_radius & max_radius) to detect larger circles
             );
 
+            foreach (var circle in circles) {
+                Cv2.Circle(img, circle.Center.ToPoint(), (int)circle.Radius, new Scalar(0,255,0));
+            }
+            
+            //new Window("img", img);
+            //Cv2.WaitKey(1);
+            
             if (circles.Length != 4) {
+                // img.SaveImage("d:/" + Guid.NewGuid().ToString("D") + ".jpg");
                 throw new Exception("Red circles count (" + circles.Length + ") != 4.");
             }
 
+            // Rotation
             circles = circles.OrderBy(x => x.Center.X).ToArray();
             var rotation = Math.Abs(circles[0].Center.X - circles[1].Center.X) / Math.Abs(circles[0].Center.Y - circles[1].Center.Y);
             if (rotation > 0.5) {
@@ -298,7 +315,7 @@ namespace ConApp
             Cv2.CvtColor(img, imgHsv, ColorConversionCodes.BGR2HSV);
             var blackSquareColor = SquareAvgColor(imgHsv, new Point(sqs * 0.5 - 5, sqs * 1.5 - 5), 10);
             var whiteSquareColor = SquareAvgColor(imgHsv, new Point(sqs * 0.5 - 5, sqs * 2.5 - 5), 10);
-            Cv2.InRange(imgHsv, blackSquareColor.Add(new Scalar(-20, -110, -110)), blackSquareColor.Add(new Scalar(20, 110, 110)), mask);
+            Cv2.InRange(imgHsv, blackSquareColor.Add(new Scalar(-20, -80, -100)), blackSquareColor.Add(new Scalar(20, 100, 100)), mask);
 
             Cv2.Rectangle(mask, new Rect(sqs, sqs, size - 2 * sqs, size - 2 * sqs), new Scalar(255), 4);
             var mask2 = new Mat(mask.Size(), mask.Type(), new Scalar());
@@ -308,8 +325,8 @@ namespace ConApp
             Cv2.CvtColor(mask, mask, ColorConversionCodes.GRAY2BGR);
             Cv2.BitwiseOr(img, mask, img);
 
-            //new Window("img", img);
-            //Cv2.WaitKey(1);
+             //new Window("img", img);
+             //Cv2.WaitKey(1);
 
             // Calc pieces
             var imgGray = new Mat();
@@ -321,7 +338,7 @@ namespace ConApp
                 double perc;
                 SquareStats(imgGray, p, sqs, out avgColor, out perc);
                 var gl = new GrayLabel();
-                if (perc >= 0.1) {
+                if (perc >= 0.08) {
                     gl.gray = (byte)((int)avgColor.Val0);
                 }
                 grayLabels.Add(gl);
@@ -352,7 +369,7 @@ namespace ConApp
             var request = WebRequest.Create(url);
             request.Method = method;
             request.Headers.Add("Authorization: Bearer lip_vCoNPyCoEXaQ5tDBUwDA");
-            WebResponse response;
+            WebResponse response = null;
             try {
                 response = request.GetResponse();
             }
@@ -372,7 +389,20 @@ namespace ConApp
             return result;
         }
 
-        
+        public static StreamReader GetHttpReader(string url) {
+            var request = WebRequest.Create(url);
+            request.Headers.Add("Authorization: Bearer lip_vCoNPyCoEXaQ5tDBUwDA");
+            request.Timeout = 1000;
+            var reader = (StreamReader)null;
+            try {
+                var response = request.GetResponse();
+                var dataStream = response.GetResponseStream();
+                reader = new StreamReader(dataStream);
+            } catch { }
+
+            return reader;
+        }
+
         public static string GetGameId() {
             var pgnStr = Curl("https://lichess.org/api/user/adlokyy/current-game");
             var pgn = Pgn.Load(pgnStr);
@@ -382,6 +412,86 @@ namespace ConApp
         public static bool Move(string gameId, string move) {
             var s = Curl($"https://lichess.org/api/board/game/{gameId}/move/{move}", "POST");
             return s.IndexOf(@"""ok"":true") > -1;
+        }
+
+        public static string GetFenByMoves(string moveStr) {
+            var board = Board.Load();
+            var moves = moveStr.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+            foreach (var move in moves) {
+                board.Move(move);
+            }
+
+            return board.GetFEN();
+        }
+
+        public static void LichessMain() {
+            var dt = DateTime.Now.AddMilliseconds(-1000);
+            while (true) {
+                var dtDiff = (DateTime.Now - dt).TotalMilliseconds;
+                Thread.Sleep(Math.Max(1, 1000 - (int)dtDiff));
+                dt = DateTime.Now;
+                var eventReader = GetHttpReader("https://lichess.org/api/stream/event");
+                if (eventReader == null) {
+                    continue;
+                }
+                using (eventReader) {
+                    while (true) {
+                        var eventStr = (string)null;
+                        try {
+                            eventStr = eventReader.ReadLine();
+                        } catch {
+                            break;
+                        }
+                        if (eventStr == "") {
+                            continue;
+                        }
+                        var eventXml = JsonHelper.JsonToXml(eventStr);
+                        var eventType = eventXml.XPathSelectElement("type").Value;
+                        if (eventType == "gameStart") {
+                            lock (syncRoot) {
+                                fen = Board.DEFAULT_STARTING_FEN;
+                                gameId = eventXml.XPathSelectElement("game/gameId").Value;
+                                isWhite = eventXml.XPathSelectElement("game/color").Value == "white";
+                            }
+
+                            var stateReader = GetHttpReader($"https://lichess.org/api/board/game/stream/{gameId}");
+                            if (stateReader == null) {
+                                continue;
+                            }
+
+                            while (true) {
+                                var stateStr = (string)null;
+                                try {
+                                    stateStr = stateReader.ReadLine();
+                                } catch {
+                                    break;
+                                }
+
+                                if (stateStr == "") {
+                                    continue;
+                                }
+
+                                if (stateStr == null) {
+                                    break;
+                                }
+
+                                var stateXml = JsonHelper.JsonToXml(stateStr);
+                                var stateType = stateXml.XPathSelectElement("type").Value;
+                                if (stateType != "gameState" && stateType != "gameFull") {
+                                    continue;
+                                }
+                                var movesPath = (stateType == "gameFull") ? "state/moves" : "moves";
+                                var moves = stateXml.XPathSelectElement(movesPath).Value;
+                                var newFen = GetFenByMoves(moves);
+                                lock (syncRoot) {
+                                    fen = newFen;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
         }
 
         #endregion
@@ -452,16 +562,10 @@ namespace ConApp
                 }
 
                 if (bcs == "..") {
-                    ps = ps.OrderByDescending(p => a[p.Y][p.X]).ToList();
-                    var acs = string.Join("", ps.Select(p => a[p.Y][p.X]));
-                    if (acs != "wb") {
-                        throw new Exception("Find move error.");
-                    }
-                    return FindMoves2Captures(fen, getSquare(ps[0]), getSquare(ps[1]));
+                    goto twoMoves;
                 }
-                else {
-                    return getSquare(ps[0]) + getSquare(ps[1]);
-                }
+
+                return getSquare(ps[0]) + getSquare(ps[1]);
             }
             else if (ps.Count == 3) {
                 var xMin = ps.Select(p => p.X).Min();
@@ -531,6 +635,17 @@ namespace ConApp
             }
 
         twoMoves:
+            throw new Exception("Find move error.");
+
+            if (ps.Count == 2) {
+                ps = ps.OrderByDescending(p => a[p.Y][p.X]).ToList();
+                var srcPtrn = string.Join("", ps.Select(p => a[p.Y][p.X]));
+                if (srcPtrn != "wb") {
+                    throw new Exception("Find move error.");
+                }
+                return FindMoves2Captures(fen, getSquare(ps[0]), getSquare(ps[1]));
+            }
+
             // target
             ps = ps.OrderBy(p => b[p.Y][p.X]).ToList();
             var targetPtrn = string.Join("", ps.Select(p => b[p.Y][p.X]));
@@ -594,8 +709,13 @@ namespace ConApp
             }
         }
 
+        private static object syncRoot = new object();
+        private static volatile string fen = Board.DEFAULT_STARTING_FEN;
+        private static volatile string gameId;
+        private static volatile bool isWhite = true;
+
         static void Main(string[] args) {
-            //var _moves = FindMoves("rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2", GetFenMask("rnb1kbnr/ppp1pppp/8/3q4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3"));
+            //var _moves = FindMoves("r1bqkbnr/1p3ppp/p1n1p3/1BppP3/3P4/2P5/PP3PPP/RNBQK1NR w KQkq - 0 6", GetFenMask("r1bqkbnr/5ppp/p1p1p3/2ppP3/3P4/2P5/PP3PPP/RNBQK1NR w KQkq - 0 7"));
             //return;
 
             /*
@@ -603,13 +723,13 @@ namespace ConApp
             var captureS = CreateVideoCapture(2);
             captureS.Read(imgS);
 
-            imgS.SaveImage("d:/chess-cv-3.jpg");
+            imgS.SaveImage("d:/chess-cv-6.jpg");
 
             return;
             */
 
             /*
-            var imgR = new Mat("d:/chess-cv-1.jpg", ImreadModes.Color);
+            var imgR = new Mat("d:/chess-cv-4.jpg", ImreadModes.Color);
             Console.WriteLine(recognizeBoard(imgR));
 
             new Window("src", imgR);
@@ -621,16 +741,21 @@ namespace ConApp
             using (WebApp.Start("http://192.168.0.2:8081")) {
                 Console.WriteLine("ChessCv started...");
 
+                var lichessThread = new Thread(LichessMain);
+                lichessThread.Start();
+
                 var img = new Mat();
                 var capture = CreateVideoCapture(3);
 
-                var fen = Board.DEFAULT_STARTING_FEN;
-                var gameId = (string)null;
-                var isWhite = true;
+                var dt = DateTime.Now;
                 for (var gi = 0; ; gi++) {
                     if (gi % 33 == 0) { GC.Collect(); };
-                    var state = "";
-                    Cv2.WaitKey(333);
+                    var state = (string)null;
+
+                    var dtDiff = (DateTime.Now - dt).TotalMilliseconds;
+                    Cv2.WaitKey(Math.Max(1, 300 - (int)dtDiff));
+                    dt = DateTime.Now;
+
                     capture.Read(img);
                     // new Window("img", img);
                     // Cv2.WaitKey(1);
@@ -648,8 +773,8 @@ namespace ConApp
                         continue;
                     }
 
-                    state += board.Replace("/", "\n");
-
+                    state = board.Replace("/", "\n");
+                    /*
                     if (board == "bbbbbbbb/bbbbbbbb/......../......../......../......../wwwwwwww/wwwwwwww"
                      || board == "wwwwwwww/wwwwwwww/......../......../......../......../bbbbbbbb/bbbbbbbb")
                     {
@@ -659,37 +784,29 @@ namespace ConApp
                         SendState(state);
                         continue;
                     }
-
+                    */
                     board = (isWhite) ? board : string.Join("", board.Reverse());
-                    try {
-                        var movesStr = FindMoves(fen, board);
-                        if (movesStr != null) {
-                            var moves = movesStr.Split(' ');
-                            if (moves.Length == 1) {
+                    lock (syncRoot) {
+                        try {
+                            var moveStr = FindMoves(fen, board);
+                            if (moveStr != null) {
                                 var sendMove = isWhite == (fen.IndexOf(" w ") > -1);
-                                fen = FEN.Move(fen, movesStr);
+                                // fen = FEN.Move(fen, moveStr);
                                 if (sendMove) {
-                                    gameId = gameId ?? GetGameId();
-                                    Move(gameId, movesStr);
+                                    // gameId = gameId ?? GetGameId();
+                                    Move(gameId, moveStr);
                                 }
+                                /*
                                 else {
                                     foreach (var hub in CvHub.Hubs) {
                                         hub.Clients.All.beep();
                                     }
                                 }
+                                */
                             }
-                            else {
-                                gameId = gameId ?? GetGameId();
-                                var newFen = fen;
-                                foreach (var move in moves) {
-                                    newFen = FEN.Move(newFen, move);
-                                }
-                                fen = newFen;
-                                Move(gameId, moves[1]);
-                            }
+                        } catch (Exception e) {
+                            state += "\n" + e.Message;
                         }
-                    } catch (Exception e) {
-                        state += "\n" + e.Message;
                     }
                     SendState(state);
                 }
