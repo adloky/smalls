@@ -17,27 +17,29 @@ using System.IO;
 using Chess;
 using System.Text.RegularExpressions;
 using System.Xml.XPath;
+using System.Diagnostics;
 
 namespace ConApp
 {
     public static class OpenCvExtensions {
         public static Scalar Add(this Scalar val, Scalar valAdd) {
-            Func<double, double, double> addD = (a, b) => {
-                a += b;
-                if (a > 255) {
-                    a = 255;
-                }
-                else if (a < 0) {
-                    a = 0;
-                }
+            double add(double a, double b) => Math.Min(255, Math.Max(0, a + b));
+            val.Val0 = add(val.Val0, valAdd.Val0);
+            val.Val1 = add(val.Val1, valAdd.Val1);
+            val.Val2 = add(val.Val2, valAdd.Val2);
+            val.Val3 = add(val.Val3, valAdd.Val3);
 
-                return a;
-            };
+            return val;
+        }
 
-            val.Val0 = addD(val.Val0, valAdd.Val0);
-            val.Val1 = addD(val.Val1, valAdd.Val1);
-            val.Val2 = addD(val.Val2, valAdd.Val2);
-            val.Val3 = addD(val.Val3, valAdd.Val3);
+        public static Scalar HsvAdd(this Scalar val, Scalar valAdd) {
+            double add(double a, double b) => Math.Min(255, Math.Max(0, a + b));
+            double addHue(double a, double b) => (a + b + 180) % 180;
+
+            val.Val0 = addHue(val.Val0, valAdd.Val0);
+            val.Val1 = add(val.Val1, valAdd.Val1);
+            val.Val2 = add(val.Val2, valAdd.Val2);
+            val.Val3 = add(val.Val3, valAdd.Val3);
 
             return val;
         }
@@ -57,11 +59,17 @@ namespace ConApp
         }
 
         static void HueShift(Mat src, int shift) {
+            var src3b = new Mat<Vec3b>(src);
+            var indexer = src3b.GetIndexer();
             for (var j = 0; j < src.Rows; j++) {
                 for (var i = 0; i < src.Cols; i++) {
-                    src.At<Vec3b>(j, i)[0] = (byte)((src.At<Vec3b>(j, i)[0] + shift) % 180);
+                    var color = indexer[j, i];
+                    color.Item0 = (byte)((color.Item0 + shift + 180) % 180);
+                    indexer[j, i] = color;
+                    // src.At<Vec3b>(j, i)[0] = (byte)((src.At<Vec3b>(j, i)[0] + shift + 180) % 180);
                 }
             }
+            src3b.CopyTo(src);
         }
 
         class GrayLabel {
@@ -138,16 +146,19 @@ namespace ConApp
         public static void SquareStats(Mat img, Point sp, int size, out Scalar avgColor, out double perc) {
             var sum = new Scalar(0, 0, 0);
             var count = 0;
-            foreach (var p in SquarePoints(sp, size)) {
-                var c = img.At<Vec3b>(p.Y, p.X);
-                if (c[0] == 255 && c[1] == 255 && c[2] == 255) {
-                    continue;
-                }
-                sum.Val0 += c[0];
-                sum.Val1 += c[1];
-                sum.Val2 += c[2];
 
-                count++;
+            for (var y = sp.Y; y < sp.Y + size; y++) {
+                for (var x = sp.X; x < sp.X + size; x++) {
+                    var c = img.At<Vec3b>(y, x);
+                    if (c[0] == 255 && c[1] == 255 && c[2] == 255) {
+                        continue;
+                    }
+                    sum.Val0 += c[0];
+                    sum.Val1 += c[1];
+                    sum.Val2 += c[2];
+
+                    count++;
+                }
             }
             avgColor = new Scalar(0, 0, 0);
             avgColor.Val0 = sum.Val0 / count;
@@ -191,6 +202,7 @@ namespace ConApp
 
         public static string recognizeBoard(Mat src) {
             // Resize the image
+
             Mat img;
             if (src.Height > 720)
             {
@@ -222,7 +234,7 @@ namespace ConApp
             var redColor = new Scalar();
             {
                 var minRedDist = double.MaxValue;
-                var redColorStd = new Scalar(0,0,255);
+                var redColorStd = new Scalar(128,32,160);
                 for (var j = 0; j < imgSmall.Height; j++) {
                     for (var i = 0; i < imgSmall.Width; i++) {
                         var cv3 = imgSmall.At<Vec3b>(j, i);
@@ -238,16 +250,23 @@ namespace ConApp
 
             var imgHsv = new Mat();
             Cv2.CvtColor(img, imgHsv, ColorConversionCodes.BGR2HSV);
-            var redColorHsv = ScalarBGR2HSV(redColor);
-            HueShift(imgHsv,30);
-            redColorHsv.Val0 = (redColorHsv.Val0 + 30) % 180;
+            var redHsv = ScalarBGR2HSV(redColor);
+            var redHsvMin = redHsv.HsvAdd(new Scalar(-7, -80, -80));
+            var redHsvMax = redHsv.HsvAdd(new Scalar(+7, +80, +80));
             var mask = new Mat();
-            Cv2.InRange(imgHsv, redColorHsv.Add(new Scalar(-7, -60, -80)), redColorHsv.Add(new Scalar(7, 80, 80)), mask);
+            var mask2 = new Mat();
+            if (redHsvMin.Val0 > redHsvMax.Val0) {
+                Cv2.InRange(imgHsv, redHsvMin, new Scalar(179, redHsvMax.Val1, redHsvMax.Val2), mask);
+                Cv2.InRange(imgHsv, new Scalar(0, redHsvMin.Val1, redHsvMin.Val2), redHsvMax, mask2);
+                Cv2.BitwiseOr(mask, mask2, mask);
+            } else {
+                Cv2.InRange(imgHsv, redHsvMin, redHsvMax, mask);
+            }
             //new Window("mask", mask);
             //Cv2.WaitKey(1);
 
             // Circles
-            Cv2.GaussianBlur(mask, mask, new Size(11, 11), 0);
+            Cv2.GaussianBlur(mask, mask, new Size(9, 9), 0);
             var circles = Cv2.HoughCircles(mask, HoughModes.Gradient, 1,
                          10,  // change this value to detect circles with different distances to each other
                          100, 30,
@@ -259,10 +278,11 @@ namespace ConApp
             }
             
             //new Window("img", img);
-            //Cv2.WaitKey(1);
+            //Cv2.WaitKey();
             
             if (circles.Length != 4) {
                 // img.SaveImage("d:/" + Guid.NewGuid().ToString("D") + ".jpg");
+                // Console.WriteLine("Red circles count (" + circles.Length + ") != 4.");
                 throw new Exception("Red circles count (" + circles.Length + ") != 4.");
             }
 
@@ -313,20 +333,18 @@ namespace ConApp
 
             // Squares mask
             Cv2.CvtColor(img, imgHsv, ColorConversionCodes.BGR2HSV);
-            var blackSquareColor = SquareAvgColor(imgHsv, new Point(sqs * 0.5 - 5, sqs * 1.5 - 5), 10);
-            var whiteSquareColor = SquareAvgColor(imgHsv, new Point(sqs * 0.5 - 5, sqs * 2.5 - 5), 10);
-            Cv2.InRange(imgHsv, blackSquareColor.Add(new Scalar(-20, -80, -100)), blackSquareColor.Add(new Scalar(20, 100, 100)), mask);
+            var squareColor = SquareAvgColor(imgHsv, new Point(sqs * 0.5 - 5, sqs * 1.5 - 5), 10);
+            Cv2.InRange(imgHsv, squareColor.Add(new Scalar(-40, -100, -100)), squareColor.Add(new Scalar(30, 255, 60)), mask);
 
-            Cv2.Rectangle(mask, new Rect(sqs, sqs, size - 2 * sqs, size - 2 * sqs), new Scalar(255), 4);
-            var mask2 = new Mat(mask.Size(), mask.Type(), new Scalar());
+            mask2 = new Mat(mask.Size(), mask.Type(), new Scalar());
             Cv2.Rectangle(mask2, new Rect(sqs, sqs, size - 2 * sqs, size - 2 * sqs), new Scalar(255), -1);
             Cv2.BitwiseAnd(mask, mask2, mask);
 
             Cv2.CvtColor(mask, mask, ColorConversionCodes.GRAY2BGR);
             Cv2.BitwiseOr(img, mask, img);
 
-             //new Window("img", img);
-             //Cv2.WaitKey(1);
+             new Window("img", img);
+             Cv2.WaitKey(1);
 
             // Calc pieces
             var imgGray = new Mat();
@@ -338,7 +356,7 @@ namespace ConApp
                 double perc;
                 SquareStats(imgGray, p, sqs, out avgColor, out perc);
                 var gl = new GrayLabel();
-                if (perc >= 0.08) {
+                if (perc >= 0.1) {
                     gl.gray = (byte)((int)avgColor.Val0);
                 }
                 grayLabels.Add(gl);
@@ -486,6 +504,11 @@ namespace ConApp
                                 lock (syncRoot) {
                                     fen = newFen;
                                 }
+                            }
+                        } else if (eventType == "gameFinish") {
+                            lock (syncRoot) {
+                                fen = Board.DEFAULT_STARTING_FEN;
+                                gameId = null;
                             }
                         }
                     }
@@ -703,7 +726,8 @@ namespace ConApp
 
         #endregion
 
-        public static void SendState(string s) {
+        public static void SendState(string s, int i) {
+            if ((i % 5) != 0) return;
             foreach (var hub in CvHub.Hubs) {
                 hub.Clients.All.setBoardState(s);
             }
@@ -723,13 +747,13 @@ namespace ConApp
             var captureS = CreateVideoCapture(2);
             captureS.Read(imgS);
 
-            imgS.SaveImage("d:/chess-cv-6.jpg");
+            imgS.SaveImage("d:/chess-cv-8.jpg");
 
             return;
             */
 
             /*
-            var imgR = new Mat("d:/chess-cv-4.jpg", ImreadModes.Color);
+            var imgR = new Mat("d:/chess-cv-8.jpg", ImreadModes.Color);
             Console.WriteLine(recognizeBoard(imgR));
 
             new Window("src", imgR);
@@ -749,11 +773,11 @@ namespace ConApp
 
                 var dt = DateTime.Now;
                 for (var gi = 0; ; gi++) {
-                    if (gi % 33 == 0) { GC.Collect(); };
+                    if (gi % 100 == 0) { GC.Collect(); };
                     var state = (string)null;
 
                     var dtDiff = (DateTime.Now - dt).TotalMilliseconds;
-                    Cv2.WaitKey(Math.Max(1, 300 - (int)dtDiff));
+                    Cv2.WaitKey(Math.Max(1, 100 - (int)dtDiff));
                     dt = DateTime.Now;
 
                     capture.Read(img);
@@ -769,25 +793,24 @@ namespace ConApp
                     }
 
                     if (board == null) {
-                        SendState(boardError);
+                        SendState(boardError, gi);
                         continue;
                     }
 
                     state = board.Replace("/", "\n");
-                    /*
-                    if (board == "bbbbbbbb/bbbbbbbb/......../......../......../......../wwwwwwww/wwwwwwww"
-                     || board == "wwwwwwww/wwwwwwww/......../......../......../......../bbbbbbbb/bbbbbbbb")
-                    {
-                        gameId = null;
-                        fen = Board.DEFAULT_STARTING_FEN;
-                        isWhite = board[0] == 'b';
-                        SendState(state);
-                        continue;
-                    }
-                    */
-                    board = (isWhite) ? board : string.Join("", board.Reverse());
+                    
                     lock (syncRoot) {
                         try {
+                            if (gameId == null && (
+                                board == "bbbbbbbb/bbbbbbbb/......../......../......../......../wwwwwwww/wwwwwwww"
+                             || board == "wwwwwwww/wwwwwwww/......../......../......../......../bbbbbbbb/bbbbbbbb"))
+                            {
+                                fen = Board.DEFAULT_STARTING_FEN;
+                                isWhite = board[0] == 'b';
+                            }
+
+                            board = (isWhite) ? board : string.Join("", board.Reverse());
+
                             var moveStr = FindMoves(fen, board);
                             if (moveStr != null) {
                                 var sendMove = isWhite == (fen.IndexOf(" w ") > -1);
@@ -808,7 +831,7 @@ namespace ConApp
                             state += "\n" + e.Message;
                         }
                     }
-                    SendState(state);
+                    SendState(state, gi);
                 }
             }
         }
