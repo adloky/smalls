@@ -1,0 +1,60 @@
+<html>
+<head>
+    <style>
+    * { font-size: 16pt; }
+    </style>
+
+    <script src="jquery-3.3.1.js"></script>
+    <script src="Scripts/jquery.signalR-2.4.2.js"></script>
+    <script src="http://192.168.0.2:8081/signalr/hubs"></script>
+    <style>
+        input[type='range']::-webkit-slider-runnable-track {
+            background: #ddd;
+        }
+    </style>
+</head>
+<body style="font-family: sans-serif; ">
+    <input type="range" class="range" id="hl" min="-100" max="0" step="5" value="0"><output>0</output>
+    <input type="range" class="range" id="hh" min="0" max="100" step="5" value="0"><output>0</output><br />
+    <input type="range" class="range" id="sl" min="-100" max="0" step="5" value="0"><output>0</output>
+    <input type="range" class="range" id="sh" min="0" max="100" step="5" value="0"><output>0</output><br />
+    <input type="range" class="range" id="vl" min="-100" max="0" step="5" value="0"><output>0</output>
+    <input type="range" class="range" id="vh" min="0" max="100" step="5" value="0"><output>0</output><br />
+
+    <script>
+        var engine;
+
+        function refreshRange(el) {
+            el = $(el)[0];
+            el.nextElementSibling.value = el.value;
+        }
+
+        $(document).ready(function () {
+            var beep = $(".beep")[0];
+
+            hub = $.connection.cvHub;
+            $.connection.hub.url = "http://192.168.0.2:8081/signalr";
+
+            $(".range").on("input", function () {
+                this.nextElementSibling.value = this.value;
+            });
+
+            $(".range").on("input", function () {
+                hub.server.val(this.id, this.value);
+            });
+
+            $.connection.hub.start().done(function () {
+                hub.server.enqueHub();
+
+                $(".range").each(function () {
+                    var el = this;
+                    hub.server.val(this.id).done(function (result) {
+                        $(el).val(result);
+                        refreshRange($(el));
+                    });
+                });
+            });
+        });
+    </script>
+</body>
+</html>
