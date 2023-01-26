@@ -47,7 +47,49 @@ namespace ConApp
 
     public class Program
     {
+        public static object[] uiValues = new object[6];
+        public static object[] uiNames = new string[] { "hl", "hh", "sl", "sh", "vl", "vh" };
+
+        public static int uiVal(string name, int val) {
+            var i = Array.IndexOf(uiNames,name) ;
+            if (i < 0) return 0;
+
+            if (uiValues[i] == null) uiValues[i] = val;
+            return (int)uiValues[i];
+        }
+
         #region recognize
+
+        public static void SafeInRange(Mat src, Scalar lowerb, Scalar upperb, Mat dst) {
+            if (lowerb.Val0 <= upperb.Val0) {
+                Cv2.InRange(src, lowerb, upperb, dst);
+            }
+            else {
+                var dst2 = new Mat();
+                Cv2.InRange(src, lowerb, new Scalar(179, upperb.Val1, upperb.Val2), dst);
+                Cv2.InRange(src, new Scalar(0, lowerb.Val1, lowerb.Val2), upperb, dst2);
+                Cv2.BitwiseOr(dst, dst2, dst);
+            }
+        }
+
+        public static Scalar FindNearestColor(Mat src, Scalar baseColor) {
+            var resultColor = new Scalar();
+            var minRedDist = double.MaxValue;
+                
+            for (var j = 0; j < src.Height; j++) {
+                for (var i = 0; i < src.Width; i++) {
+                    var cv3 = src.At<Vec3b>(j, i);
+                    var c = new Scalar(cv3[0], cv3[1], cv3[2]);
+                    var dist = ColorDistanсe(baseColor, c);
+                    if (dist < minRedDist) {
+                        resultColor = c;
+                        minRedDist = dist;
+                    }
+                }
+            }
+
+            return resultColor;
+        }
 
         public static Scalar ScalarBGR2HSV(Scalar s) {
             Mat bgr = new Mat(1, 1, MatType.CV_8UC3, s);
@@ -221,7 +263,7 @@ namespace ConApp
             //Cv2.WaitKey(1);
 
             // blur
-            Cv2.GaussianBlur(img, img, new Size(3, 3), 0);
+            //Cv2.GaussianBlur(img, img, new Size(3, 3), 0);
 
             // Red threshold
             Mat imgSmall;
@@ -231,37 +273,22 @@ namespace ConApp
                 imgSmall = src.Resize(new Size(imgWidth, imgHeight), interpolation: InterpolationFlags.Linear);
             }
 
-            var redColor = new Scalar();
-            {
-                var minRedDist = double.MaxValue;
-                var redColorStd = new Scalar(128,32,160);
-                for (var j = 0; j < imgSmall.Height; j++) {
-                    for (var i = 0; i < imgSmall.Width; i++) {
-                        var cv3 = imgSmall.At<Vec3b>(j, i);
-                        var c = new Scalar(cv3[0], cv3[1], cv3[2]);
-                        var dist = ColorDistanсe(redColorStd, c);
-                        if (dist < minRedDist) {
-                            redColor = c;
-                            minRedDist = dist;
-                        }
-                    }
-                }
-            }
+            var redColor = FindNearestColor(imgSmall, new Scalar(120, 70, 200));
 
             var imgHsv = new Mat();
             Cv2.CvtColor(img, imgHsv, ColorConversionCodes.BGR2HSV);
             var redHsv = ScalarBGR2HSV(redColor);
-            var redHsvMin = redHsv.HsvAdd(new Scalar(-7, -80, -80));
-            var redHsvMax = redHsv.HsvAdd(new Scalar(+7, +80, +80));
             var mask = new Mat();
             var mask2 = new Mat();
-            if (redHsvMin.Val0 > redHsvMax.Val0) {
-                Cv2.InRange(imgHsv, redHsvMin, new Scalar(179, redHsvMax.Val1, redHsvMax.Val2), mask);
-                Cv2.InRange(imgHsv, new Scalar(0, redHsvMin.Val1, redHsvMin.Val2), redHsvMax, mask2);
-                Cv2.BitwiseOr(mask, mask2, mask);
-            } else {
-                Cv2.InRange(imgHsv, redHsvMin, redHsvMax, mask);
-            }
+            SafeInRange(imgHsv,
+                redHsv.HsvAdd(new Scalar(-10, -80, -80)),
+                redHsv.HsvAdd(new Scalar(+10, +80, +80)),
+                mask);
+
+            var imgGray = new Mat();
+            Cv2.CvtColor(img, imgGray, ColorConversionCodes.BGR2GRAY);
+            Cv2.AdaptiveThreshold(imgGray, mask2, 255, AdaptiveThresholdTypes.MeanC, ThresholdTypes.Binary, 21, 5);
+            Cv2.BitwiseAnd(mask,mask2,mask);
             //new Window("mask", mask);
             //Cv2.WaitKey(1);
 
@@ -278,11 +305,11 @@ namespace ConApp
             }
             
             //new Window("img", img);
-            //Cv2.WaitKey();
+            //Cv2.WaitKey(1);
             
             if (circles.Length != 4) {
                 // img.SaveImage("d:/" + Guid.NewGuid().ToString("D") + ".jpg");
-                // Console.WriteLine("Red circles count (" + circles.Length + ") != 4.");
+                Console.WriteLine("Red circles count (" + circles.Length + ") != 4.");
                 throw new Exception("Red circles count (" + circles.Length + ") != 4.");
             }
 
@@ -316,7 +343,7 @@ namespace ConApp
 
             // Test contour
             var blackColor = SquareAvgColor(img, new Point(0,0), 5);
-            Cv2.InRange(img, blackColor.Add(new Scalar(-50, -50, -50)), blackColor.Add(new Scalar(50, 50, 50)), mask);
+            Cv2.InRange(img, blackColor.Add(new Scalar(-80, -80, -80)), blackColor.Add(new Scalar(80, 80, 80)), mask);
             var blackSeq = 0;
             foreach (var p in SquareContour(new Point(0,0), size)) {
                 var c = mask.At<byte>(p.Y,p.X);
@@ -334,7 +361,10 @@ namespace ConApp
             // Squares mask
             Cv2.CvtColor(img, imgHsv, ColorConversionCodes.BGR2HSV);
             var squareColor = SquareAvgColor(imgHsv, new Point(sqs * 0.5 - 5, sqs * 1.5 - 5), 10);
-            Cv2.InRange(imgHsv, squareColor.Add(new Scalar(-40, -100, -100)), squareColor.Add(new Scalar(30, 255, 60)), mask);
+            Cv2.InRange(imgHsv,
+                squareColor.HsvAdd(new Scalar(uiVal("hl", -20), uiVal("sl", -70), uiVal("vl", -70))),
+                squareColor.HsvAdd(new Scalar(uiVal("hh", +20), uiVal("sh", +100), uiVal("vh", +50))),
+                mask);    
 
             mask2 = new Mat(mask.Size(), mask.Type(), new Scalar());
             Cv2.Rectangle(mask2, new Rect(sqs, sqs, size - 2 * sqs, size - 2 * sqs), new Scalar(255), -1);
@@ -343,24 +373,28 @@ namespace ConApp
             Cv2.CvtColor(mask, mask, ColorConversionCodes.GRAY2BGR);
             Cv2.BitwiseOr(img, mask, img);
 
-             new Window("img", img);
-             Cv2.WaitKey(1);
+            new Window("img2", img);
+            Cv2.WaitKey(1);
 
             // Calc pieces
-            var imgGray = new Mat();
+            imgGray = new Mat();
             Cv2.CvtColor(img, imgGray, ColorConversionCodes.BGR2GRAY);
             Cv2.CvtColor(imgGray, imgGray, ColorConversionCodes.GRAY2BGR);
             var grayLabels = new List<GrayLabel>();
+            // var percs = new List<double>();
             foreach (var p in SquarePoints(new Point(sqs, sqs), 8, sqs)) {
                 Scalar avgColor;
                 double perc;
                 SquareStats(imgGray, p, sqs, out avgColor, out perc);
                 var gl = new GrayLabel();
-                if (perc >= 0.1) {
+                // if (perc != 0) percs.Add(perc);
+                if (perc >= 0.09) {
                     gl.gray = (byte)((int)avgColor.Val0);
                 }
                 grayLabels.Add(gl);
             }
+
+            // Console.WriteLine(percs.Min());
 
             var pieceGrayLabels = grayLabels.Where(x => x.gray < 255).ToArray();
             FindPieceColors(pieceGrayLabels);
@@ -739,6 +773,13 @@ namespace ConApp
         private static volatile bool isWhite = true;
 
         static void Main(string[] args) {
+
+            /*
+
+            Cv2.WaitKey();
+            return;
+            */
+
             //var _moves = FindMoves("r1bqkbnr/1p3ppp/p1n1p3/1BppP3/3P4/2P5/PP3PPP/RNBQK1NR w KQkq - 0 6", GetFenMask("r1bqkbnr/5ppp/p1p1p3/2ppP3/3P4/2P5/PP3PPP/RNBQK1NR w KQkq - 0 7"));
             //return;
 
@@ -747,13 +788,13 @@ namespace ConApp
             var captureS = CreateVideoCapture(2);
             captureS.Read(imgS);
 
-            imgS.SaveImage("d:/chess-cv-8.jpg");
+            imgS.SaveImage("d:/chess-cv-colors.jpg");
 
             return;
             */
 
             /*
-            var imgR = new Mat("d:/chess-cv-8.jpg", ImreadModes.Color);
+            var imgR = new Mat("d:/chess-cv-1.jpg", ImreadModes.Color);
             Console.WriteLine(recognizeBoard(imgR));
 
             new Window("src", imgR);
@@ -769,7 +810,7 @@ namespace ConApp
                 lichessThread.Start();
 
                 var img = new Mat();
-                var capture = CreateVideoCapture(3);
+                var capture = CreateVideoCapture(2);
 
                 var dt = DateTime.Now;
                 for (var gi = 0; ; gi++) {
@@ -781,7 +822,7 @@ namespace ConApp
                     dt = DateTime.Now;
 
                     capture.Read(img);
-                    // new Window("img", img);
+                    // new Window("src", img);
                     // Cv2.WaitKey(1);
 
                     var board = (string)null;
@@ -859,6 +900,18 @@ namespace ConApp
         }
         public void test() {
             Console.WriteLine("test");
+        }
+
+        public int val(string name) {
+            var i = Array.IndexOf(Program.uiNames, name);
+            if (i < 0) return 0;
+            return (int)Program.uiValues[i];
+        }
+
+        public void val(string name, int val) {
+            var i = Array.IndexOf(Program.uiNames, name);
+            if (i < 0) return;
+            Program.uiValues[i] = val;
         }
     }
 }
