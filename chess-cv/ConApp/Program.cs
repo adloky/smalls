@@ -47,6 +47,7 @@ namespace ConApp
 
     public class Program
     {
+        public static string token = "lip_hfsqBESVItGp6FmW9FFk";
         public static object[] uiValues = new object[6];
         public static object[] uiNames = new string[] { "hl", "hh", "sl", "sh", "vl", "vh" };
 
@@ -273,7 +274,7 @@ namespace ConApp
                 imgSmall = src.Resize(new Size(imgWidth, imgHeight), interpolation: InterpolationFlags.Linear);
             }
 
-            var redColor = FindNearestColor(imgSmall, new Scalar(120, 70, 200));
+            var redColor = FindNearestColor(imgSmall, new Scalar(140, 70, 200));
 
             var imgHsv = new Mat();
             Cv2.CvtColor(img, imgHsv, ColorConversionCodes.BGR2HSV);
@@ -281,8 +282,8 @@ namespace ConApp
             var mask = new Mat();
             var mask2 = new Mat();
             SafeInRange(imgHsv,
-                redHsv.HsvAdd(new Scalar(-10, -80, -80)),
-                redHsv.HsvAdd(new Scalar(+10, +80, +80)),
+                redHsv.HsvAdd(new Scalar(-15, -80, -80)),
+                redHsv.HsvAdd(new Scalar(+15, +80, +80)),
                 mask);
 
             var imgGray = new Mat();
@@ -293,8 +294,8 @@ namespace ConApp
             //Cv2.WaitKey(1);
 
             // Circles
-            Cv2.GaussianBlur(mask, mask, new Size(9, 9), 0);
-            var circles = Cv2.HoughCircles(mask, HoughModes.Gradient, 1,
+            Cv2.GaussianBlur(mask, mask2, new Size(9, 9), 0);
+            var circles = Cv2.HoughCircles(mask2, HoughModes.Gradient, 1,
                          10,  // change this value to detect circles with different distances to each other
                          100, 30,
                          5, 50 // change the last two parameters (min_radius & max_radius) to detect larger circles
@@ -302,6 +303,7 @@ namespace ConApp
 
             foreach (var circle in circles) {
                 Cv2.Circle(img, circle.Center.ToPoint(), (int)circle.Radius, new Scalar(0,255,0));
+                Cv2.Circle(mask, circle.Center.ToPoint(), (int)circle.Radius, new Scalar(0, 255, 0)); // ***
             }
             
             //new Window("img", img);
@@ -309,7 +311,7 @@ namespace ConApp
             
             if (circles.Length != 4) {
                 // img.SaveImage("d:/" + Guid.NewGuid().ToString("D") + ".jpg");
-                Console.WriteLine("Red circles count (" + circles.Length + ") != 4.");
+                // Console.WriteLine("Red circles count (" + circles.Length + ") != 4.");
                 throw new Exception("Red circles count (" + circles.Length + ") != 4.");
             }
 
@@ -362,8 +364,8 @@ namespace ConApp
             Cv2.CvtColor(img, imgHsv, ColorConversionCodes.BGR2HSV);
             var squareColor = SquareAvgColor(imgHsv, new Point(sqs * 0.5 - 5, sqs * 1.5 - 5), 10);
             Cv2.InRange(imgHsv,
-                squareColor.HsvAdd(new Scalar(uiVal("hl", -20), uiVal("sl", -70), uiVal("vl", -70))),
-                squareColor.HsvAdd(new Scalar(uiVal("hh", +20), uiVal("sh", +100), uiVal("vh", +50))),
+                squareColor.HsvAdd(new Scalar(uiVal("hl", -15), uiVal("sl", -50), uiVal("vl", -40))),
+                squareColor.HsvAdd(new Scalar(uiVal("hh", +25), uiVal("sh", +100), uiVal("vh", +70))),
                 mask);    
 
             mask2 = new Mat(mask.Size(), mask.Type(), new Scalar());
@@ -381,20 +383,21 @@ namespace ConApp
             Cv2.CvtColor(img, imgGray, ColorConversionCodes.BGR2GRAY);
             Cv2.CvtColor(imgGray, imgGray, ColorConversionCodes.GRAY2BGR);
             var grayLabels = new List<GrayLabel>();
-            // var percs = new List<double>();
+            // var percs = new List<double>(); // ***
             foreach (var p in SquarePoints(new Point(sqs, sqs), 8, sqs)) {
                 Scalar avgColor;
                 double perc;
-                SquareStats(imgGray, p, sqs, out avgColor, out perc);
+                SquareStats(imgGray, p + new Point(sqs / 8, sqs / 8), sqs - sqs / 8 * 2, out avgColor, out perc);
                 var gl = new GrayLabel();
-                // if (perc != 0) percs.Add(perc);
-                if (perc >= 0.09) {
+                // if (perc != 0) percs.Add(perc); // ***
+                if (perc >= 0.16) {
                     gl.gray = (byte)((int)avgColor.Val0);
                 }
                 grayLabels.Add(gl);
             }
 
-            // Console.WriteLine(percs.Min());
+            // foreach (var perc in percs.OrderBy(x => x)) Console.WriteLine(perc); // ***
+            // Cv2.WaitKey();
 
             var pieceGrayLabels = grayLabels.Where(x => x.gray < 255).ToArray();
             FindPieceColors(pieceGrayLabels);
@@ -420,7 +423,7 @@ namespace ConApp
         public static string Curl(string url, string method = "GET") {
             var request = WebRequest.Create(url);
             request.Method = method;
-            request.Headers.Add("Authorization: Bearer lip_vCoNPyCoEXaQ5tDBUwDA");
+            request.Headers.Add("Authorization: Bearer " + token);
             WebResponse response = null;
             try {
                 response = request.GetResponse();
@@ -443,7 +446,7 @@ namespace ConApp
 
         public static StreamReader GetHttpReader(string url) {
             var request = WebRequest.Create(url);
-            request.Headers.Add("Authorization: Bearer lip_vCoNPyCoEXaQ5tDBUwDA");
+            request.Headers.Add("Authorization: Bearer " + token);
             request.Timeout = 1000;
             var reader = (StreamReader)null;
             try {
@@ -463,7 +466,11 @@ namespace ConApp
 
         public static bool Move(string gameId, string move) {
             var s = Curl($"https://lichess.org/api/board/game/{gameId}/move/{move}", "POST");
-            return s.IndexOf(@"""ok"":true") > -1;
+            var isSuccess = s.IndexOf(@"""ok"":true") > -1;
+            if (!isSuccess) {
+                Console.WriteLine(s);
+            }
+            return isSuccess;
         }
 
         public static string GetFenByMoves(string moveStr) {
@@ -504,6 +511,7 @@ namespace ConApp
                                 fen = Board.DEFAULT_STARTING_FEN;
                                 gameId = eventXml.XPathSelectElement("game/gameId").Value;
                                 isWhite = eventXml.XPathSelectElement("game/color").Value == "white";
+                                // Console.WriteLine(gameId);
                             }
 
                             var stateReader = GetHttpReader($"https://lichess.org/api/board/game/stream/{gameId}");
@@ -534,6 +542,7 @@ namespace ConApp
                                 }
                                 var movesPath = (stateType == "gameFull") ? "state/moves" : "moves";
                                 var moves = stateXml.XPathSelectElement(movesPath).Value;
+                                // Console.WriteLine(moves);
                                 var newFen = GetFenByMoves(moves);
                                 lock (syncRoot) {
                                     fen = newFen;
@@ -809,6 +818,13 @@ namespace ConApp
                 var lichessThread = new Thread(LichessMain);
                 lichessThread.Start();
 
+                /*
+                while (true) {
+                    var m = Console.ReadLine();
+                    Move(gameId, m);
+                }
+                */
+
                 var img = new Mat();
                 var capture = CreateVideoCapture(2);
 
@@ -856,7 +872,7 @@ namespace ConApp
                             if (moveStr != null) {
                                 var sendMove = isWhite == (fen.IndexOf(" w ") > -1);
                                 // fen = FEN.Move(fen, moveStr);
-                                if (sendMove) {
+                                if (sendMove && gameId != null) {
                                     // gameId = gameId ?? GetGameId();
                                     Move(gameId, moveStr);
                                 }
