@@ -1,10 +1,17 @@
 #include <FastLED.h>
+#include <ESP8266WiFi.h>
+#include <ESP8266WebServer.h>
+
 #define NUM_LEDS 100
 #define NUM_MAX 11
 CRGB leds[NUM_LEDS];
 CRGB colors[8] = { CRGB::Black, CRGB::Blue, CRGB::Green, CRGB::Cyan,
     CRGB::Red, CRGB::Magenta, CRGB::Yellow, CRGB::White };
 int nums[NUM_MAX+1];
+
+const char* ssid = "Anton2";  // SSID
+const char* password = "02111958"; // пароль
+ESP8266WebServer server(80);
 
 void split(char* s) {
     if (s[0] == 0) {
@@ -28,6 +35,12 @@ void split(char* s) {
     nums[j+1] = -1;
 }
 
+void show() {
+    FastLED.show();
+    delay(10);
+    FastLED.show();
+}
+
 void apply(char* s) {
     for (byte i = 0; i < NUM_LEDS; i++) {
         leds[i] = CRGB::Black;
@@ -36,7 +49,7 @@ void apply(char* s) {
     split(s);
 
     if (nums[0] == -1 || nums[1] == -1) {
-        FastLED.show();
+        show();
         return;
     }
 
@@ -45,7 +58,15 @@ void apply(char* s) {
         leds[nums[i]] = color;
     }
 
-    FastLED.show();
+    show();
+}
+
+void handleRequest() {
+    String s = server.arg("q");
+    char* ca = "                                                  ";
+    s.toCharArray(ca, 50);
+    apply(ca);
+    server.send(200, "text/plain", ca);
 }
 
 void setup() {
@@ -54,9 +75,16 @@ void setup() {
     delay(1000);
 
     apply("");
-    apply("7-0");
+
+    WiFi.begin(ssid, password);
+    while (WiFi.status() != WL_CONNECTED) {
+        delay(1000);
+    }
+    server.on("/", handleRequest);
+    server.begin();
+    Serial.println("Server listening");
 }
 
 void loop() {
-    delay(1000);
+    server.handleClient();
 }
