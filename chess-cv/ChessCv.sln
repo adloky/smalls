@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess", "..\..\chess\Chess\Chess.csproj", "{CB0FFBF8-54D2-4EB1-B28A-FEDFB7B8C960}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{67B59984-A7AC-4BAC-8DD0-6ABE87B1EA57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,18 @@ Global
 		{CB0FFBF8-54D2-4EB1-B28A-FEDFB7B8C960}.Release|x64.Build.0 = Release|x64
 		{CB0FFBF8-54D2-4EB1-B28A-FEDFB7B8C960}.Release|x86.ActiveCfg = Release|x86
 		{CB0FFBF8-54D2-4EB1-B28A-FEDFB7B8C960}.Release|x86.Build.0 = Release|x86
+		{67B59984-A7AC-4BAC-8DD0-6ABE87B1EA57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B59984-A7AC-4BAC-8DD0-6ABE87B1EA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B59984-A7AC-4BAC-8DD0-6ABE87B1EA57}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{67B59984-A7AC-4BAC-8DD0-6ABE87B1EA57}.Debug|x64.Build.0 = Debug|Any CPU
+		{67B59984-A7AC-4BAC-8DD0-6ABE87B1EA57}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{67B59984-A7AC-4BAC-8DD0-6ABE87B1EA57}.Debug|x86.Build.0 = Debug|Any CPU
+		{67B59984-A7AC-4BAC-8DD0-6ABE87B1EA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B59984-A7AC-4BAC-8DD0-6ABE87B1EA57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67B59984-A7AC-4BAC-8DD0-6ABE87B1EA57}.Release|x64.ActiveCfg = Release|Any CPU
+		{67B59984-A7AC-4BAC-8DD0-6ABE87B1EA57}.Release|x64.Build.0 = Release|Any CPU
+		{67B59984-A7AC-4BAC-8DD0-6ABE87B1EA57}.Release|x86.ActiveCfg = Release|Any CPU
+		{67B59984-A7AC-4BAC-8DD0-6ABE87B1EA57}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

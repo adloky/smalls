@@ -599,13 +599,13 @@ namespace ConApp
             return squareStrs[0] + targetStr + " " + squareStrs[1] + targetStr;
         }
 
-        public static string FindMoves(string fen, string board) {
+        public static string FindMoves(string fen, string mask) {
             Func<Point, string> getSquare = (p) => "" + "abcdefgh"[p.X] + "87654321"[p.Y];
 
             var fenMask = GetFenMask(fen);
 
             var a = fenMask.Split('/');
-            var b = board.Split('/');
+            var b = mask.Split('/');
 
             var ps = new List<Point>();
             for (var y = 0; y < 8; y++) {
