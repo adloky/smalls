@@ -423,8 +423,6 @@ namespace TestApp {
 
                 CmState.run();
             }
-
-            Console.ReadLine();
         }
     }
 }
