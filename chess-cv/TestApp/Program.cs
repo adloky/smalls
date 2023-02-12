@@ -60,7 +60,8 @@ namespace TestApp {
     }
 
     class Program {
-        private static string startMask = GetFenMask(Board.DEFAULT_STARTING_FEN);
+        private static string[] startMasks = { GetFenMask(Board.DEFAULT_STARTING_FEN)
+                                             , string.Join("", GetFenMask(Board.DEFAULT_STARTING_FEN).Reverse()) };
 
         public static string GetFenMask(string fen) {
             var fen0 = fen.Split(' ')[0];
@@ -209,26 +210,29 @@ namespace TestApp {
             return string.Join("", ps.Select(p => getSquare(p)));
         }
 
+        public static int isPossibleMove(string fen, string mask) {
+            var m = (string)null;
+            try {
+                m = FindMoves(fen, mask);
+                if (m == null) return 0;
+
+                FEN.Move(fen,m);
+            }
+            catch {
+                return -1;
+            }
+
+            return 1;
+        }
+
         static void Main(string[] args) {
-            var mask = startMask;
+            var mask = startMasks[0].Replace("w", ".").Replace("b", ".");
             var cur = Board.DEFAULT_STARTING_FEN;
             var prev = cur;
             var gameId = (string)null;
             var side = 0;
 
-            Func<int> isPossible = () => {
-                var s = (string)null;
-                try {
-                    s = FindMoves(cur, mask);
-                }
-                catch {
-                    return -1;
-                }
-
-                if (s == null) return 0;
-
-                return 1;
-            };
+            Func<int> isPossible = () => isPossibleMove(cur,mask);
 
             Func<string,string> diffOp = fen => diff(fen, mask, -1 * side);
 
@@ -238,15 +242,15 @@ namespace TestApp {
             };
 
             var reset = new CmState("reset", s => { Console.WriteLine(s.name); });
-            var noGame = new CmState("noGame", s => { Console.WriteLine(s.name); });
+            var noGame = new CmState("noGame", s => { side = (mask[0] == 'b') ? 1 : -1; Console.WriteLine(s.name); });
             var startGame = new CmState("startGame", s => { Console.WriteLine(s.name); });
             var wait = new CmState("wait", s => { Console.WriteLine(s.name); });
-            var waitOp = new CmState("waitOp", s => { var m = FindMoves(cur, mask); push(FEN.Move(cur, m)); Console.WriteLine(m); Console.WriteLine(s.name); });
+            var waitOp = new CmState("waitOp", s => { var m = FindMoves(cur, mask); push(FEN.Move(cur, m)); Console.WriteLine(s.name); });
             var corOp = new CmState("corOp", s => { Console.WriteLine(s.name); });
             var err = new CmState("err", s => { Console.WriteLine(s.name); });
             var errOp = new CmState("errOp", s => { Console.WriteLine(s.name); });
 
-            new CmGuard(reset, noGame, () => mask == startMask);
+            new CmGuard(reset, noGame, () => startMasks.Contains(mask));
             new CmGuard(noGame, startGame, () => gameId != null);
             new CmGuard(startGame, wait, () => side == 1);
             new CmGuard(startGame, waitOp, () => side == -1);
@@ -265,7 +269,7 @@ namespace TestApp {
 
             CmState.run();
 
-            mask = startMask;
+            mask = startMasks[0];
 
             CmState.run();
 
@@ -282,7 +286,7 @@ namespace TestApp {
 
             CmState.run();
 
-            mask = GetFenMask(FEN.Move(prev, "e7e5"));
+            mask = GetFenMask(FEN.Move(cur, "d2d4"));
 
             CmState.run();
 
