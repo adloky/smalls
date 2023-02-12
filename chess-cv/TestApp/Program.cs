@@ -1,9 +1,11 @@
 ﻿using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
+using System.Threading;
 using System.Threading.Tasks;
 using Chess;
 
@@ -59,9 +61,46 @@ namespace TestApp {
         }
     }
 
+    public class SyncQueue<T> {
+        private AutoResetEvent _waiter = new AutoResetEvent(false);
+        private ConcurrentQueue<T> _queue = new ConcurrentQueue<T>();
+
+        public void Enqueue(T item) {
+            _queue.Enqueue(item);
+            _waiter.Set();
+        }
+
+        public T Dequeue() {
+            while (true) {
+                T item;
+                if (_queue.TryDequeue(out item)) return item;
+                
+                _waiter.WaitOne();
+            }
+        }
+    }
+
+    public enum CcvCommandEnum {
+        game
+      , fen
+      , mask
+    }
+
+    public class CcvCommand {
+        public CcvCommandEnum name { get; set; }
+        public string id { get; set; }
+        public int side { get; set; }
+        public string cur { get; set; }
+        public string prev { get; set; }
+        public string last { get; set; }
+        public string mask { get; set; }
+    }
+
     class Program {
         private static string[] startMasks = { GetFenMask(Board.DEFAULT_STARTING_FEN)
-                                             , string.Join("", GetFenMask(Board.DEFAULT_STARTING_FEN).Reverse()) };
+                                             , rotateMask(GetFenMask(Board.DEFAULT_STARTING_FEN), -1) };
+
+        private static SyncQueue<CcvCommand> cmdQue = new SyncQueue<CcvCommand>();
 
         public static string GetFenMask(string fen) {
             var fen0 = fen.Split(' ')[0];
@@ -179,6 +218,12 @@ namespace TestApp {
             throw new Exception("Find move error.");
         }
 
+        public static string rotateMask(string mask, int side) {
+            if (side != -1) return mask;
+
+            return string.Join("", mask.Reverse());
+        }
+
         public static string diff(string fen, string mask, int side = 0) {
             Func<Point, string> getSquare = (p) => "" + "abcdefgh"[p.X] + "87654321"[p.Y];
 
@@ -225,27 +270,104 @@ namespace TestApp {
             return 1;
         }
 
+        public static string simpleMaskMove(string mask, string move) {
+            Func<string, Point> getPoint = x => new Point("abcdefgh".IndexOf(x[0]), "87654321".IndexOf(x[1]));
+
+            var ms = mask.Split('/').Select(x => new StringBuilder(x)).ToArray();
+            var src = getPoint(move);
+            var dst = getPoint(move.Substring(2));
+            ms[dst.Y][dst.X] = ms[src.Y][src.X];
+            ms[src.Y][src.X] = '.';
+
+            return string.Join("/", ms.Select(x => x.ToString()));
+        }
+
+        public static void commandThread() {
+            var fen = Board.DEFAULT_STARTING_FEN;
+            var mask = startMasks[0];
+            var side = 1;
+            while (true) {
+                var split = Console.ReadLine().Split(' ');
+                var name = split[0];
+                var args = split.Skip(1).ToArray();
+
+                var cmd = new CcvCommand();
+                switch (name) {
+                    case "game":
+                        cmd.name = CcvCommandEnum.game;
+                        if (args[0] != "null") {
+                            cmd.id = args[0];
+                        }
+                        else {
+                            fen = Board.DEFAULT_STARTING_FEN;
+                            mask = startMasks[0];
+                        }
+
+                        if (args.Length > 1) {
+                            side = int.Parse(args[1]);
+                            cmd.side = side;
+                        }
+
+                        break;
+
+                    case "fen":
+                        cmd.name = CcvCommandEnum.fen;
+                        foreach (var arg in args) {
+                            cmd.prev = fen;
+                            cmd.last = arg;
+                            fen = FEN.Move(fen, arg);
+                            cmd.cur = fen;
+                        }
+                        break;
+
+                    case "mask":
+                        cmd.name = CcvCommandEnum.mask;
+                        foreach (var arg in args) {
+                            mask = simpleMaskMove(mask, arg);
+                        }
+
+                        cmd.mask = rotateMask(mask, side);
+
+                        break;
+                }
+
+                cmdQue.Enqueue(cmd);
+            }
+        }
+
         static void Main(string[] args) {
-            var mask = startMasks[0].Replace("w", ".").Replace("b", ".");
-            var cur = Board.DEFAULT_STARTING_FEN;
-            var prev = cur;
+            var mask = (string)null;
+            var cur = (string)null;
+            var prev = (string)null;
+            var last = (string)null;
             var gameId = (string)null;
-            var side = 0;
+            var side = 1;
 
             Func<int> isPossible = () => isPossibleMove(cur,mask);
-
             Func<string,string> diffOp = fen => diff(fen, mask, -1 * side);
+            Action<string> push = fen => { prev = cur; cur = fen; };
 
-            Action<string> push = fen => {
+            var reset = new CmState("reset", s => {
+                mask = startMasks[0].Replace("w", ".").Replace("b", ".");
+                cur = Board.DEFAULT_STARTING_FEN;
                 prev = cur;
-                cur = fen;
-            };
+                last = null;
+                gameId = null;
+                Console.WriteLine(s.name);
+            });
 
-            var reset = new CmState("reset", s => { Console.WriteLine(s.name); });
             var noGame = new CmState("noGame", s => { side = (mask[0] == 'b') ? 1 : -1; Console.WriteLine(s.name); });
             var startGame = new CmState("startGame", s => { Console.WriteLine(s.name); });
             var wait = new CmState("wait", s => { Console.WriteLine(s.name); });
-            var waitOp = new CmState("waitOp", s => { var m = FindMoves(cur, mask); push(FEN.Move(cur, m)); Console.WriteLine(s.name); });
+
+            var waitOp = new CmState("waitOp", s => {
+                var m = FindMoves(cur, mask);
+                if (m != null) {
+                    push(FEN.Move(cur, m));
+                }
+                Console.WriteLine(s.name);
+            });
+
             var corOp = new CmState("corOp", s => { Console.WriteLine(s.name); });
             var err = new CmState("err", s => { Console.WriteLine(s.name); });
             var errOp = new CmState("errOp", s => { Console.WriteLine(s.name); });
@@ -256,41 +378,52 @@ namespace TestApp {
             new CmGuard(startGame, waitOp, () => side == -1);
 
             new CmGuard(wait, waitOp, () => isPossible() == 1);
+            new CmGuard(corOp, waitOp, () => isPossible() == 1);
             new CmGuard(waitOp, corOp, () => diffOp(cur) != null && diffOp(prev) == null);
             new CmGuard(corOp, wait, () => diffOp(cur) == null);
 
             new CmGuard(wait, err, () => isPossible() == -1);
             new CmGuard(err, waitOp, () => isPossible() == 1);
-            new CmGuard(corOp, errOp, () => diffOp(cur) != null && diffOp(prev) != null);
+            new CmGuard(corOp, errOp, () => diffOp(cur) != null && diffOp(prev) != null && isPossible() != 1);
             new CmGuard(errOp, wait, () => diffOp(cur) == null);
+
+            (new Thread(commandThread)).Start();
 
             CmState.cur = reset;
             reset.a();
-
             CmState.run();
 
-            mask = startMasks[0];
+            while (true) {
+                var cmd = cmdQue.Dequeue();
 
-            CmState.run();
+                switch (cmd.name) {
+                    case CcvCommandEnum.game:
+                        if (cmd.id == null) {
+                            CmState.cur = reset;
+                            reset.a();
+                            break;
+                        }
 
-            gameId = "1";
-            side = 1;
+                        gameId = cmd.id;
+                        side = cmd.side;
 
-            CmState.run();
+                        break;
 
-            mask = GetFenMask(FEN.Move(cur, "e2e4"));
-            
-            CmState.run();
+                    case CcvCommandEnum.fen:
+                        cur = cmd.cur;
+                        prev = cmd.prev;
+                        last = cmd.last;
 
-            push(FEN.Move(cur, "e7e5"));
+                        break;
 
-            CmState.run();
+                    case CcvCommandEnum.mask:
+                        mask = rotateMask(cmd.mask, side);
+                        break;
+                }
 
-            mask = GetFenMask(FEN.Move(cur, "d2d4"));
+                CmState.run();
+            }
 
-            CmState.run();
-
-            Console.WriteLine();
             Console.ReadLine();
         }
     }
