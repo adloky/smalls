@@ -18,6 +18,7 @@ using Chess;
 using System.Text.RegularExpressions;
 using System.Xml.XPath;
 using System.Diagnostics;
+using System.Collections.Concurrent;
 
 namespace ConApp
 {
@@ -45,9 +46,99 @@ namespace ConApp
         }
     }
 
+    #region state machine classes
+
+    public class CmState {
+        public static CmState cur { get; set; }
+        public string name { get; }
+        public List<CmGuard> guards { get; } = new List<CmGuard>();
+        private Action<CmState> _a;
+        
+        public CmState(string n, Action<CmState> a) {
+            name = n;
+            _a = a;
+        }
+
+        public bool TryTrans() {
+            foreach (var g in guards) {
+                if (!g.TryTrans()) continue;
+
+                cur._a(cur);
+                return true;
+            }
+            return false;
+        }
+
+        public static void run() {
+            while (cur.TryTrans());
+        }
+
+        public void a() {
+            _a(this);
+        }
+    }
+
+    public class CmGuard {
+        private Func<bool> _f;
+        private CmState _sb;
+
+        public CmGuard(CmState sa, CmState sb, Func<bool> f) {
+            _f = f;
+            _sb = sb;
+            sa.guards.Add(this);
+        }
+
+        public bool TryTrans() {
+            var r = _f();
+            if (r) {
+                CmState.cur = _sb;
+            };
+            
+            return r;
+        }
+    }
+
+    public class SyncQueue<T> {
+        private AutoResetEvent _waiter = new AutoResetEvent(false);
+        private ConcurrentQueue<T> _queue = new ConcurrentQueue<T>();
+
+        public void Enqueue(T item) {
+            _queue.Enqueue(item);
+            _waiter.Set();
+        }
+
+        public T Dequeue() {
+            while (true) {
+                T item;
+                if (_queue.TryDequeue(out item)) return item;
+                
+                _waiter.WaitOne();
+            }
+        }
+    }
+
+    public enum CcvCommandEnum {
+        game
+      , fen
+      , mask
+    }
+
+    public class CcvCommand {
+        public CcvCommandEnum name { get; set; }
+        public string id { get; set; }
+        public int side { get; set; }
+        public string cur { get; set; }
+        public string prev { get; set; }
+        public string last { get; set; }
+        public string mask { get; set; }
+    }
+
+    #endregion
+
     public class Program
     {
-        public static string token = "lip_hfsqBESVItGp6FmW9FFk";
+        #region ui range
+
         public static object[] uiValues = new object[6];
         public static object[] uiNames = new string[] { "hl", "hh", "sl", "sh", "vl", "vh" };
 
@@ -58,6 +149,8 @@ namespace ConApp
             if (uiValues[i] == null) uiValues[i] = val;
             return (int)uiValues[i];
         }
+
+        #endregion
 
         #region recognize
 
@@ -473,6 +566,7 @@ namespace ConApp
             return isSuccess;
         }
 
+        // ***
         public static string GetFenByMoves(string moveStr) {
             var board = Board.Load();
             var moves = moveStr.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
@@ -483,7 +577,7 @@ namespace ConApp
             return board.GetFEN();
         }
 
-        public static void LichessMain() {
+        public static void lichessThread() {
             var dt = DateTime.Now.AddMilliseconds(-1000);
             while (true) {
                 var dtDiff = (DateTime.Now - dt).TotalMilliseconds;
@@ -507,12 +601,12 @@ namespace ConApp
                         var eventXml = JsonHelper.JsonToXml(eventStr);
                         var eventType = eventXml.XPathSelectElement("type").Value;
                         if (eventType == "gameStart") {
-                            lock (syncRoot) {
-                                fen = Board.DEFAULT_STARTING_FEN;
-                                gameId = eventXml.XPathSelectElement("game/gameId").Value;
-                                isWhite = eventXml.XPathSelectElement("game/color").Value == "white";
-                                // Console.WriteLine(gameId);
-                            }
+                            var gameId = eventXml.XPathSelectElement("game/gameId").Value;
+                            cmdQue.Enqueue(new CcvCommand() {
+                                name = CcvCommandEnum.game
+                              , id = gameId
+                              , side = (eventXml.XPathSelectElement("game/color").Value == "white") ? 1 : -1
+                            });
 
                             var stateReader = GetHttpReader($"https://lichess.org/api/board/game/stream/{gameId}");
                             if (stateReader == null) {
@@ -541,18 +635,28 @@ namespace ConApp
                                     continue;
                                 }
                                 var movesPath = (stateType == "gameFull") ? "state/moves" : "moves";
-                                var moves = stateXml.XPathSelectElement(movesPath).Value;
-                                // Console.WriteLine(moves);
-                                var newFen = GetFenByMoves(moves);
-                                lock (syncRoot) {
-                                    fen = newFen;
+                                var movesStr = stateXml.XPathSelectElement(movesPath).Value;
+
+
+                                // fen command
+                                var cmd = new CcvCommand() { name = CcvCommandEnum.fen
+                                    , cur = Board.DEFAULT_STARTING_FEN
+                                    , prev = Board.DEFAULT_STARTING_FEN
+                                };
+
+                                var board = Board.Load();
+                                var moves = movesStr.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+                                foreach (var move in moves) {
+                                    board.Move(move);
+                                    cmd.prev = cmd.cur;
+                                    cmd.cur = board.GetFEN();
+                                    cmd.last = move;
                                 }
+                                cmdQue.Enqueue(cmd);
                             }
-                        } else if (eventType == "gameFinish") {
-                            lock (syncRoot) {
-                                fen = Board.DEFAULT_STARTING_FEN;
-                                gameId = null;
-                            }
+                        }
+                        else if (eventType == "gameFinish") {
+                            cmdQue.Enqueue(new CcvCommand() { name = CcvCommandEnum.game });;
                         }
                     }
                 }
@@ -776,13 +880,135 @@ namespace ConApp
             }
         }
 
-        private static object syncRoot = new object();
-        private static volatile string fen = Board.DEFAULT_STARTING_FEN;
-        private static volatile string gameId;
-        private static volatile bool isWhite = true;
+        #region state macine
+
+        public static string rotateMask(string mask, int side) {
+            if (side != -1) return mask;
+
+            return string.Join("", mask.Reverse());
+        }
+
+        public static string diff(string fen, string mask, int side = 0) {
+            Func<Point, string> getSquare = (p) => "" + "abcdefgh"[p.X] + "87654321"[p.Y];
+
+            var fenMask = GetFenMask(fen);
+
+            if (side == 1) {
+                mask = mask.Replace("b", ".");
+                fenMask = fenMask.Replace("b", ".");
+            }
+            else if (side == -1) {
+                mask = mask.Replace("w", ".");
+                fenMask = fenMask.Replace("w", ".");
+            }
+
+            var a = fenMask.Split('/');
+            var b = mask.Split('/');
+
+            var ps = new List<Point>();
+            for (var y = 0; y < 8; y++) {
+                for (var x = 0; x < 8; x++) {
+                    if (a[y][x] != b[y][x]) {
+                        ps.Add(new Point(x, y));
+                    }
+                }
+            }
+
+            if (ps.Count == 0) return null;
+
+            return string.Join("", ps.Select(p => getSquare(p)));
+        }
+
+        public static int isPossibleMove(string fen, string mask) {
+            var m = (string)null;
+            try {
+                m = FindMoves(fen, mask);
+                if (m == null) return 0;
+
+                FEN.Move(fen,m);
+            }
+            catch {
+                return -1;
+            }
+
+            return 1;
+        }
+
+        public static string simpleMaskMove(string mask, string move) {
+            Func<string, Point> getPoint = x => new Point("abcdefgh".IndexOf(x[0]), "87654321".IndexOf(x[1]));
+
+            var ms = mask.Split('/').Select(x => new StringBuilder(x)).ToArray();
+            var src = getPoint(move);
+            var dst = getPoint(move.Substring(2));
+            ms[dst.Y][dst.X] = ms[src.Y][src.X];
+            ms[src.Y][src.X] = '.';
+
+            return string.Join("/", ms.Select(x => x.ToString()));
+        }
+
+        public static void commandThread() {
+            var fen = Board.DEFAULT_STARTING_FEN;
+            var mask = startMasks[0];
+            var side = 1;
+            while (true) {
+                var split = Console.ReadLine().Split(' ');
+                var name = split[0];
+                var args = split.Skip(1).ToArray();
+
+                var cmd = new CcvCommand();
+                switch (name) {
+                    case "game":
+                        cmd.name = CcvCommandEnum.game;
+                        if (args[0] != "null") {
+                            cmd.id = args[0];
+                        }
+                        else {
+                            fen = Board.DEFAULT_STARTING_FEN;
+                            mask = startMasks[0];
+                        }
+
+                        if (args.Length > 1) {
+                            side = int.Parse(args[1]);
+                            cmd.side = side;
+                        }
+
+                        break;
+
+                    case "fen":
+                        cmd.name = CcvCommandEnum.fen;
+                        foreach (var arg in args) {
+                            cmd.prev = fen;
+                            cmd.last = arg;
+                            fen = FEN.Move(fen, arg);
+                            cmd.cur = fen;
+                        }
+                        break;
+
+                    case "mask":
+                        cmd.name = CcvCommandEnum.mask;
+                        foreach (var arg in args) {
+                            mask = simpleMaskMove(mask, arg);
+                        }
+
+                        cmd.mask = rotateMask(mask, side);
+
+                        break;
+                }
+
+                cmdQue.Enqueue(cmd);
+            }
+        }
+
+        #endregion
+
+        public static string token = "lip_hfsqBESVItGp6FmW9FFk";
+
+        private static string[] startMasks = { GetFenMask(Board.DEFAULT_STARTING_FEN)
+                                             , rotateMask(GetFenMask(Board.DEFAULT_STARTING_FEN), -1) };
+
+        private static SyncQueue<CcvCommand> cmdQue = new SyncQueue<CcvCommand>();
 
         static void Main(string[] args) {
-
             /*
 
             Cv2.WaitKey();
@@ -812,19 +1038,140 @@ namespace ConApp
             return;
             */
 
-            using (WebApp.Start("http://192.168.0.2:8081")) {
-                Console.WriteLine("ChessCv started...");
+            WebApp.Start("http://192.168.0.2:8081");
 
-                var lichessThread = new Thread(LichessMain);
-                lichessThread.Start();
+            var mask = (string)null;
+            var cur = (string)null;
+            var prev = (string)null;
+            var last = (string)null;
+            var gameId = (string)null;
+            var side = 1;
 
-                /*
-                while (true) {
-                    var m = Console.ReadLine();
+            Func<int> isPossible = () => isPossibleMove(cur,mask);
+            Func<string,string> diffOp = fen => diff(fen, mask, -1 * side);
+            Action<string> push = fen => { prev = cur; cur = fen; };
+
+            var reset = new CmState("reset", s => {
+                mask = startMasks[0].Replace("w", ".").Replace("b", ".");
+                cur = Board.DEFAULT_STARTING_FEN;
+                prev = cur;
+                last = null;
+                gameId = null;
+                Console.WriteLine(s.name);
+            });
+
+            var noGame = new CmState("noGame", s => { side = (mask[0] == 'b') ? 1 : -1; Console.WriteLine(s.name); });
+            var startGame = new CmState("startGame", s => { Console.WriteLine(s.name); });
+            var wait = new CmState("wait", s => { Console.WriteLine(s.name); });
+
+            var waitOp = new CmState("waitOp", s => {
+                var m = FindMoves(cur, mask);
+                if (m != null) {
+                    push(FEN.Move(cur, m));
                     Move(gameId, m);
+                    last = m;
                 }
-                */
+                Console.WriteLine(s.name);
+            });
 
+            var corOp = new CmState("corOp", s => { Console.WriteLine(s.name); });
+            var err = new CmState("err", s => { Console.WriteLine(s.name); });
+            var errOp = new CmState("errOp", s => { Console.WriteLine(s.name); });
+
+            new CmGuard(reset, noGame, () => startMasks.Contains(mask));
+            new CmGuard(noGame, startGame, () => gameId != null);
+            new CmGuard(startGame, wait, () => side == 1);
+            new CmGuard(startGame, waitOp, () => side == -1);
+
+            new CmGuard(wait, waitOp, () => isPossible() == 1);
+            new CmGuard(corOp, waitOp, () => isPossible() == 1);
+            new CmGuard(waitOp, corOp, () => diffOp(cur) != null && diffOp(prev) == null);
+            new CmGuard(corOp, wait, () => diffOp(cur) == null);
+
+            new CmGuard(wait, err, () => isPossible() == -1);
+            new CmGuard(err, waitOp, () => isPossible() == 1);
+            new CmGuard(corOp, errOp, () => diffOp(cur) != null && diffOp(prev) != null && isPossible() != 1);
+            new CmGuard(errOp, wait, () => diffOp(cur) == null);
+
+            CmState.cur = reset;
+            reset.a();
+            CmState.run();
+
+            (new Thread(lichessThread)).Start();
+            (new Thread(commandThread)).Start();
+
+            while (true) {
+                var cmd = cmdQue.Dequeue();
+
+                switch (cmd.name) {
+                    case CcvCommandEnum.game:
+                        if (cmd.id == null) {
+                            CmState.cur = reset;
+                            reset.a();
+                            break;
+                        }
+
+                        gameId = cmd.id;
+                        side = cmd.side;
+
+                        break;
+
+                    case CcvCommandEnum.fen:
+                        cur = cmd.cur;
+                        prev = cmd.prev;
+                        last = cmd.last;
+
+                        break;
+
+                    case CcvCommandEnum.mask:
+                        mask = rotateMask(cmd.mask, side);
+                        break;
+                }
+
+                CmState.run();
+            }
+        }
+    }
+
+    class Startup {
+        public void Configuration(IAppBuilder app) {
+            app.UseCors(CorsOptions.AllowAll);
+            app.MapSignalR();
+        }
+    }
+
+    public class CvHub : Hub {
+        static Queue<CvHub> hubQueue = new Queue<CvHub>();
+
+        public static CvHub[] Hubs {
+            get { return hubQueue.ToArray(); }
+        }
+
+        public void enqueHub() {
+            hubQueue.Enqueue(this);
+            while (hubQueue.Count > 10) {
+                hubQueue.Dequeue();
+            }
+        }
+        public void test() {
+            Console.WriteLine("test");
+        }
+
+        public int val(string name) {
+            var i = Array.IndexOf(Program.uiNames, name);
+            if (i < 0) return 0;
+            return (int)Program.uiValues[i];
+        }
+
+        public void val(string name, int val) {
+            var i = Array.IndexOf(Program.uiNames, name);
+            if (i < 0) return;
+            Program.uiValues[i] = val;
+        }
+    }
+}
+
+/*
                 var img = new Mat();
                 var capture = CreateVideoCapture(2);
 
@@ -876,13 +1223,12 @@ namespace ConApp
                                     // gameId = gameId ?? GetGameId();
                                     Move(gameId, moveStr);
                                 }
-                                /*
-                                else {
-                                    foreach (var hub in CvHub.Hubs) {
-                                        hub.Clients.All.beep();
-                                    }
-                                }
-                                */
+                                
+                                //else {
+                                //    foreach (var hub in CvHub.Hubs) {
+                                //        hub.Clients.All.beep();
+                                //    }
+                                //}
                             }
                         } catch (Exception e) {
                             state += "\n" + e.Message;
@@ -890,47 +1236,8 @@ namespace ConApp
                     }
                     SendState(state, gi);
                 }
-            }
-        }
-    }
 
-    class Startup {
-        public void Configuration(IAppBuilder app) {
-            app.UseCors(CorsOptions.AllowAll);
-            app.MapSignalR();
-        }
-    }
-
-    public class CvHub : Hub {
-        static Queue<CvHub> hubQueue = new Queue<CvHub>();
-
-        public static CvHub[] Hubs {
-            get { return hubQueue.ToArray(); }
-        }
-
-        public void enqueHub() {
-            hubQueue.Enqueue(this);
-            while (hubQueue.Count > 10) {
-                hubQueue.Dequeue();
-            }
-        }
-        public void test() {
-            Console.WriteLine("test");
-        }
-
-        public int val(string name) {
-            var i = Array.IndexOf(Program.uiNames, name);
-            if (i < 0) return 0;
-            return (int)Program.uiValues[i];
-        }
-
-        public void val(string name, int val) {
-            var i = Array.IndexOf(Program.uiNames, name);
-            if (i < 0) return;
-            Program.uiValues[i] = val;
-        }
-    }
-}
+ */
 
 
 /*
