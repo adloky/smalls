@@ -566,17 +566,6 @@ namespace ConApp
             return isSuccess;
         }
 
-        // ***
-        public static string GetFenByMoves(string moveStr) {
-            var board = Board.Load();
-            var moves = moveStr.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
-            foreach (var move in moves) {
-                board.Move(move);
-            }
-
-            return board.GetFEN();
-        }
-
         public static void lichessThread() {
             var dt = DateTime.Now.AddMilliseconds(-1000);
             while (true) {
@@ -652,6 +641,13 @@ namespace ConApp
                                     cmd.cur = board.GetFEN();
                                     cmd.last = move;
                                 }
+
+                                // normalize castling move
+                                if (cmd.last == "e1h1" || cmd.last == "e1a1" || cmd.last == "e8h8" || cmd.last == "e8a8") {
+                                    var san = FEN.Uci2San(cmd.prev, cmd.last);
+                                    cmd.last = FEN.San2Uci(cmd.prev, san);
+                                }
+
                                 cmdQue.Enqueue(cmd);
                             }
                         }
@@ -880,6 +876,40 @@ namespace ConApp
             }
         }
 
+        public static void recognizeThread() {
+            var img = new Mat();
+            var capture = CreateVideoCapture(2);
+
+            var dt = DateTime.Now;
+            for (var gi = 0; ; gi++) {
+                if (gi % 100 == 0) { GC.Collect(); };
+                // var state = (string)null;
+
+                var dtDiff = (DateTime.Now - dt).TotalMilliseconds;
+                Cv2.WaitKey(Math.Max(1, 100 - (int)dtDiff));
+                dt = DateTime.Now;
+
+                capture.Read(img);
+                // new Window("src", img);
+                // Cv2.WaitKey(1);
+
+                var board = (string)null;
+                // var boardError = (string)null;
+                try {
+                    board = recognizeBoard(img);
+                } catch (Exception e) {
+                    // boardError = e.Message;
+                }
+
+                if (board == null) {
+                    continue;
+                }
+
+                var cmd = new CcvCommand() { name = CcvCommandEnum.mask, mask = board };
+                cmdQue.Enqueue(cmd);
+            }
+        }
+
         #region state macine
 
         public static string rotateMask(string mask, int side) {
@@ -916,7 +946,7 @@ namespace ConApp
 
             if (ps.Count == 0) return null;
 
-            return string.Join("", ps.Select(p => getSquare(p)));
+            return string.Join(" ", ps.Select(p => getSquare(p)));
         }
 
         public static int isPossibleMove(string fen, string mask) {
@@ -950,6 +980,7 @@ namespace ConApp
             var fen = Board.DEFAULT_STARTING_FEN;
             var mask = startMasks[0];
             var side = 1;
+            cmdVarProxy = (f, s) => { fen = f; side = s; };
             while (true) {
                 var split = Console.ReadLine().Split(' ');
                 var name = split[0];
@@ -993,6 +1024,13 @@ namespace ConApp
                         cmd.mask = rotateMask(mask, side);
 
                         break;
+
+                    case "cor":
+                        cmd.name = CcvCommandEnum.mask;
+                        mask = GetFenMask(fen);
+                        cmd.mask = rotateMask(mask, side);
+
+                        break;
                 }
 
                 cmdQue.Enqueue(cmd);
@@ -1001,12 +1039,70 @@ namespace ConApp
 
         #endregion
 
-        public static string token = "lip_hfsqBESVItGp6FmW9FFk";
+        #region leds
+
+        private static int[] skipLeds = { 0, 1, 11, 12, 22, 23, 33, 34, 44, 45, 55, 56, 66, 67, 77, 78, 88, 89, 99 };
+
+        private static List<int> leds = Enumerable.Range(0, 100).Where(x => !skipLeds.Contains(x)).ToList();
+
+        private static int[][] matrix = initMatrix();
+
+        private static int[][] initMatrix() {
+            int[][] matrix = new int[9][];
+            var i = 0;
+            for (var y = 0; y < 9; y++) {
+                matrix[y] = new int[9];
+                for (var x = 0; x < 9; x++) {
+                    var xx = (y % 2 == 1) ? x : 8 - x;
+                    matrix[y][xx] = leds[i];
+                    i++;
+                }
+            }
+
+            return matrix;
+        }
+
+        private static int[] sqLeds(string s) {
+            var x = "abcdefgh".IndexOf(s[0]);
+            var y = "87654321".IndexOf(s[1]);
+            return new int[] { matrix[y][x], matrix[y][x + 1], matrix[y + 1][x], matrix[y + 1][x + 1] };
+        }
+
+        private static int[] squaresLeds(string s) {
+            if (s[2] != ' ') {
+                s = s.Substring(0, 2) + " " + s.Substring(2);
+            }
+
+            Console.WriteLine(s);
+
+            var leds = s.Split(' ').SelectMany(x => sqLeds(x)).Distinct().ToArray();
+            if (leds.Length > 10) {
+                return new int[] { matrix[0][0], matrix[0][8], matrix[8][0], matrix[8][8] };
+            }
+            return leds;
+        }
+
+        #endregion
+
+        private static void sendSquares(string s) {
+            var url = "http://192.168.0.3/?q=";
+            if (s == null || s.Length <= 2) {
+                Curl(url);
+                return;
+            }
+
+            var q = s[0] + "-" + string.Join("-", squaresLeds(s.Substring(2)));
+            Curl(url + q);
+        }
+
+        private static string token = "lip_hfsqBESVItGp6FmW9FFk";
 
         private static string[] startMasks = { GetFenMask(Board.DEFAULT_STARTING_FEN)
                                              , rotateMask(GetFenMask(Board.DEFAULT_STARTING_FEN), -1) };
 
         private static SyncQueue<CcvCommand> cmdQue = new SyncQueue<CcvCommand>();
+
+        private static Action<string, int> cmdVarProxy = (f, s) => { }; 
 
         static void Main(string[] args) {
             /*
@@ -1057,12 +1153,13 @@ namespace ConApp
                 prev = cur;
                 last = null;
                 gameId = null;
+                sendSquares("4 a1 a8 h1 h8");
                 Console.WriteLine(s.name);
             });
 
-            var noGame = new CmState("noGame", s => { side = (mask[0] == 'b') ? 1 : -1; Console.WriteLine(s.name); });
+            var noGame = new CmState("noGame", s => { side = (mask[0] == 'b') ? 1 : -1; sendSquares(null); Console.WriteLine(s.name); });
             var startGame = new CmState("startGame", s => { Console.WriteLine(s.name); });
-            var wait = new CmState("wait", s => { Console.WriteLine(s.name); });
+            var wait = new CmState("wait", s => { sendSquares("1 " + last); Console.WriteLine(s.name); });
 
             var waitOp = new CmState("waitOp", s => {
                 var m = FindMoves(cur, mask);
@@ -1070,13 +1167,14 @@ namespace ConApp
                     push(FEN.Move(cur, m));
                     Move(gameId, m);
                     last = m;
+                    sendSquares("1 " + last);
                 }
                 Console.WriteLine(s.name);
             });
 
-            var corOp = new CmState("corOp", s => { Console.WriteLine(s.name); });
-            var err = new CmState("err", s => { Console.WriteLine(s.name); });
-            var errOp = new CmState("errOp", s => { Console.WriteLine(s.name); });
+            var corOp = new CmState("corOp", s => { sendSquares("7 " + last); Console.WriteLine(s.name); });
+            var err = new CmState("err", s => { sendSquares("4 " +  diff(cur,mask)); Console.WriteLine(s.name); });
+            var errOp = new CmState("errOp", s => { sendSquares("4 " + diff(cur, mask)); Console.WriteLine(s.name); });
 
             new CmGuard(reset, noGame, () => startMasks.Contains(mask));
             new CmGuard(noGame, startGame, () => gameId != null);
@@ -1099,6 +1197,7 @@ namespace ConApp
 
             (new Thread(lichessThread)).Start();
             (new Thread(commandThread)).Start();
+            (new Thread(recognizeThread)).Start();
 
             while (true) {
                 var cmd = cmdQue.Dequeue();
@@ -1120,7 +1219,6 @@ namespace ConApp
                         cur = cmd.cur;
                         prev = cmd.prev;
                         last = cmd.last;
-
                         break;
 
                     case CcvCommandEnum.mask:
@@ -1129,6 +1227,7 @@ namespace ConApp
                 }
 
                 CmState.run();
+                cmdVarProxy(cur, side);
             }
         }
     }
