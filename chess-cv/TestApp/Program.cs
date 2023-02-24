@@ -368,15 +368,28 @@ namespace TestApp {
             return result;
         }
 
+        private static Task delayTask = Task.Run(() => { });
+        private static CancellationTokenSource delayTaskCts = new CancellationTokenSource();
+
+        private static void sendSquares(string s, int timeout = int.MaxValue)
+        {
+            delayTaskCts.Cancel();
+            delayTask.ContinueWith(t => {
+                Console.WriteLine("task " + s);
+                if (timeout == int.MaxValue) return;
+
+                delayTaskCts.Dispose();
+                delayTaskCts = new CancellationTokenSource();
+                delayTask = Task.Delay(timeout, delayTaskCts.Token).ContinueWith(t2 => {
+                    Console.WriteLine("clear");
+                });
+            });
+        }
 
         static void Main(string[] args) {
-            var qs = new string[] { "7-2-3-4-5-6-7-8-9-10", "7-13-14-15-16-17-18-19-20-21" };
-
-            for (var i = 0; true; i++) {
-                var r = Curl("http://192.168.0.3/?q=" + qs[i % 2]);
-                if (r == null) Console.WriteLine("NULLNULLNULL");
-                Console.WriteLine(i);
-                //Thread.Sleep(500);
+            while (true) {
+                var s = Console.ReadLine();
+                sendSquares(s,2000);
             }
 
             return;
