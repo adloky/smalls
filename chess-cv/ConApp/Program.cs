@@ -118,7 +118,8 @@ namespace ConApp
     }
 
     public enum CcvCommandEnum {
-        game
+        none
+      , game
       , fen
       , mask
     }
@@ -397,7 +398,7 @@ namespace ConApp
             
             if (circles.Length != 4) {
                 // img.SaveImage("d:/" + Guid.NewGuid().ToString("D") + ".jpg");
-                Console.WriteLine("Red circles count (" + circles.Length + ") != 4.");
+                // Console.WriteLine("Red circles count (" + circles.Length + ") != 4.");
                 //new Window("mask", mask);
                 //Cv2.WaitKey(1);
                 throw new Exception("Red circles count (" + circles.Length + ") != 4.");
@@ -438,7 +439,7 @@ namespace ConApp
                 .Select(p => (int)SquareAvgColor(imgGray, p.Add(new Point(-3, -3)), 6).Val0)
                 .OrderByDescending(x => x).Skip(1).First();
 
-            Cv2.InRange(imgGray, new Scalar(0), new Scalar(black + 60), mask);
+            Cv2.InRange(imgGray, new Scalar(0), new Scalar(black + 40), mask);
 
             var blackSeq = 0;
             foreach (var p in SquareContour(new Point(0,0), size)) {
@@ -1006,7 +1007,10 @@ namespace ConApp
             var mask = startMask;
             cmdVarProxy = f => { fen = f; };
             while (true) {
-                var split = Console.ReadLine().Split(' ');
+                var input = Console.ReadLine();
+                var split = input.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+                if (split.Length == 0) continue;
+
                 var name = split[0];
                 var args = split.Skip(1).ToArray();
 
@@ -1038,7 +1042,7 @@ namespace ConApp
                         }
                         break;
 
-                    case "resetmask":
+                    case "mask":
                         cmd.name = CcvCommandEnum.mask;
                         mask = startMask;
                         cmd.mask = mask;
@@ -1053,13 +1057,21 @@ namespace ConApp
                         break;
 
                     default:
-                        foreach (var arg in args) {
-                            mask = simpleMaskMove(mask, arg);
+                        if (!Regex.IsMatch(input + " ", "^(([a-h][1-8]){2} )+$")) break;
+
+                        foreach (var move in split) {
+                            mask = simpleMaskMove(mask, move);
                         }
+
+                        cmd.name = CcvCommandEnum.mask;
+                        cmd.mask = mask;
+
                         break;
                 }
 
-                cmdQue.Enqueue(cmd);
+                if (cmd.name != CcvCommandEnum.none) {
+                    cmdQue.Enqueue(cmd);
+                }
             }
         }
 
@@ -1076,7 +1088,7 @@ namespace ConApp
         private static bool ledsIsAvailable = testLedsAvailability();
 
         private static bool testLedsAvailability() {
-            return curl("http://192.168.0.3/ping", timeout: 1000) != null;
+            return curl("http://192.168.0.3/ping", timeout: 3000) != null;
         }
 
         private static int[][] initMatrix() {
@@ -1114,13 +1126,27 @@ namespace ConApp
 
         #endregion
 
-//         private static DateTime lastSendSquareTime = DateTime.Now;
+        //         private static DateTime lastSendSquareTime = DateTime.Now;
 
-        private static void sendSquares(string s) {
+        private static Task delayTask = Task.Run(() => { });
+        private static CancellationTokenSource delayTaskCts = new CancellationTokenSource();
+
+        private static void sendSquares(string s, int timeout = int.MaxValue) {
             if (!ledsIsAvailable) return;
 
             var q = (s == null || s.Length <= 2) ? "" : s[0] + "-" + string.Join("-", squaresLeds(s.Substring(2)));
-            curl("http://192.168.0.3/?q=" + q);
+
+            delayTaskCts.Cancel();
+            delayTask.ContinueWith(t => {
+                curl("http://192.168.0.3/?q=" + q);
+                if (timeout == int.MaxValue) return;
+
+                delayTaskCts.Dispose();
+                delayTaskCts = new CancellationTokenSource();
+                delayTask = Task.Delay(timeout, delayTaskCts.Token).ContinueWith(t2 => {
+                    curl("http://192.168.0.3/?q=");
+                });
+            });
         }
 
         private static string token = "lip_hfsqBESVItGp6FmW9FFk";
@@ -1180,7 +1206,7 @@ namespace ConApp
 
             var noGame = new CmState("noGame", s => { side = (mask[0] == 'b') ? 1 : -1; sendSquares(null); Console.WriteLine(s.name); });
             var startGame = new CmState("startGame", s => { Console.WriteLine(s.name); });
-            var wait = new CmState("wait", s => { sendSquares("1 " + last); Console.WriteLine(s.name); });
+            var wait = new CmState("wait", s => { sendSquares("1 " + last, 1000); Console.WriteLine(s.name); });
 
             var waitOp = new CmState("waitOp", s => {
                 var m = FindMoves(cur, mask);
@@ -1188,7 +1214,7 @@ namespace ConApp
                     push(FEN.Move(cur, m));
                     move(gameId, m);
                     last = m;
-                    sendSquares("1 " + last);
+                    sendSquares("1 " + last, 1000);
                 }
                 Console.WriteLine(s.name);
             });
