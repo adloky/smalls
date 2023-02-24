@@ -143,7 +143,7 @@ namespace ConApp
         public static object[] uiNames = new string[] { "hl", "hh", "sl", "sh", "vl", "vh" };
 
         public static int uiVal(string name, int val) {
-            var i = Array.IndexOf(uiNames,name) ;
+            var i = Array.IndexOf(uiNames, name);
             if (i < 0) return 0;
 
             if (uiValues[i] == null) uiValues[i] = val;
@@ -169,7 +169,7 @@ namespace ConApp
         public static Scalar FindNearestColor(Mat src, Scalar baseColor) {
             var resultColor = new Scalar();
             var minRedDist = double.MaxValue;
-                
+
             for (var j = 0; j < src.Height; j++) {
                 for (var i = 0; i < src.Width; i++) {
                     var cv3 = src.At<Vec3b>(j, i);
@@ -244,20 +244,6 @@ namespace ConApp
             }
 
             return result;
-        }
-
-        public static string[] ListOfAttachedCameras()
-        {
-            var cameras = new List<string>();
-            var attributes = new MediaAttributes(1);
-            attributes.Set(CaptureDeviceAttributeKeys.SourceType.Guid, CaptureDeviceAttributeKeys.SourceTypeVideoCapture.Guid);
-            var devices = MediaFactory.EnumDeviceSources(attributes);
-            for (var i = 0; i < devices.Count(); i++)
-            {
-                var friendlyName = devices[i].Get(CaptureDeviceAttributeKeys.FriendlyName);
-                cameras.Add(friendlyName);
-            }
-            return cameras.ToArray();
         }
 
         public static VideoCapture CreateVideoCapture(int n) {
@@ -336,6 +322,13 @@ namespace ConApp
             }
         }
 
+        private static IEnumerable<Point> rotate90(Point p, int size) {
+            for (var i = 0; i < 4; i++) {
+                yield return p;
+                p = new Point(size - p.Y, p.X);
+            }
+        }
+
         public static string recognizeBoard(Mat src) {
             // Resize the image
 
@@ -395,7 +388,7 @@ namespace ConApp
             );
 
             foreach (var circle in circles) {
-                Cv2.Circle(img, circle.Center.ToPoint(), (int)circle.Radius, new Scalar(0,255,0));
+                // Cv2.Circle(img, circle.Center.ToPoint(), (int)circle.Radius, new Scalar(0,255,0));
                 Cv2.Circle(mask, circle.Center.ToPoint(), (int)circle.Radius, new Scalar(0, 255, 0)); // ***
             }
             
@@ -404,7 +397,9 @@ namespace ConApp
             
             if (circles.Length != 4) {
                 // img.SaveImage("d:/" + Guid.NewGuid().ToString("D") + ".jpg");
-                // Console.WriteLine("Red circles count (" + circles.Length + ") != 4.");
+                Console.WriteLine("Red circles count (" + circles.Length + ") != 4.");
+                //new Window("mask", mask);
+                //Cv2.WaitKey(1);
                 throw new Exception("Red circles count (" + circles.Length + ") != 4.");
             }
 
@@ -437,8 +432,14 @@ namespace ConApp
             Cv2.WarpPerspective(img, img, warp, new Size(size, size));
 
             // Test contour
-            var blackColor = SquareAvgColor(img, new Point(0,0), 5);
-            Cv2.InRange(img, blackColor.Add(new Scalar(-80, -80, -80)), blackColor.Add(new Scalar(80, 80, 80)), mask);
+            Cv2.CvtColor(img, imgGray, ColorConversionCodes.BGR2GRAY);
+
+            var black = rotate90(new Point(3, 3), size)
+                .Select(p => (int)SquareAvgColor(imgGray, p.Add(new Point(-3, -3)), 6).Val0)
+                .OrderByDescending(x => x).Skip(1).First();
+
+            Cv2.InRange(imgGray, new Scalar(0), new Scalar(black + 60), mask);
+
             var blackSeq = 0;
             foreach (var p in SquareContour(new Point(0,0), size)) {
                 var c = mask.At<byte>(p.Y,p.X);
@@ -453,12 +454,28 @@ namespace ConApp
                 }
             }
 
+            // rotate to white side
+            var colorRotate = rotate90(new Point(sqs * 0.5, size - sqs * 1.5), size)
+                .Select(p => new Point(SquareAvgColor(imgGray, p.Add(new Point(-3, -3)), 6).Val0, 0)).ToArray();
+
+            colorRotate[0].Y = -1;
+            colorRotate[1].Y = (int)RotateFlags.Rotate90Counterclockwise;
+            colorRotate[2].Y = (int)RotateFlags.Rotate180;
+            colorRotate[3].Y = (int)RotateFlags.Rotate90Clockwise;
+            var rotate = colorRotate.OrderByDescending(x => x.X).First().Y;
+            if (rotate > -1) {
+                Cv2.Rotate(img, img, (RotateFlags)rotate);
+            }
+
             // Squares mask
             Cv2.CvtColor(img, imgHsv, ColorConversionCodes.BGR2HSV);
-            var squareColor = SquareAvgColor(imgHsv, new Point(sqs * 0.5 - 5, sqs * 1.5 - 5), 10);
+            var squareColor = rotate90(new Point(sqs * 0.5, sqs * 1.5), size)
+                .Select(p => SquareAvgColor(imgHsv, p.Add(new Point(-3, -3)), 6))
+                .Aggregate(new Scalar(0,0,0), (a,b) => new Scalar(a.Val0 + b.Val0 / 4, a.Val1 + b.Val1 / 4, a.Val2 + b.Val2 / 4));
+
             Cv2.InRange(imgHsv,
-                squareColor.HsvAdd(new Scalar(uiVal("hl", -15), uiVal("sl", -50), uiVal("vl", -40))),
-                squareColor.HsvAdd(new Scalar(uiVal("hh", +25), uiVal("sh", +100), uiVal("vh", +70))),
+                squareColor.HsvAdd(new Scalar(uiVal("hl", -15), uiVal("sl", -100), uiVal("vl", -60))),
+                squareColor.HsvAdd(new Scalar(uiVal("hh", +25), uiVal("sh", +100), uiVal("vh", +100))),
                 mask);    
 
             mask2 = new Mat(mask.Size(), mask.Type(), new Scalar());
@@ -467,6 +484,13 @@ namespace ConApp
 
             Cv2.CvtColor(mask, mask, ColorConversionCodes.GRAY2BGR);
             Cv2.BitwiseOr(img, mask, img);
+
+            // hide leds
+            for (var y = 1; y < 10; y++) {
+                for (var x = 1; x < 10; x++) {
+                    Cv2.Circle(img, new Point(sqs * x, sqs * y), sqs/6, new Scalar(255, 255, 255), -1);
+                }
+            }
 
             new Window("img2", img);
             Cv2.WaitKey(1);
@@ -513,10 +537,14 @@ namespace ConApp
 
         #region lichess
 
-        public static string Curl(string url, string method = "GET") {
+        public static string curl(string url, string method = "GET", int timeout = int.MaxValue) {
             var request = WebRequest.Create(url);
             request.Method = method;
             request.Headers.Add("Authorization: Bearer " + token);
+            if (timeout != int.MaxValue) {
+                request.Timeout = timeout;
+            }
+            
             WebResponse response = null;
             try {
                 response = request.GetResponse();
@@ -524,6 +552,10 @@ namespace ConApp
             catch (WebException e) {
                 response = e.Response;
                 // ((HttpWebResponse)e.Response).StatusCode
+            }
+
+            if (response == null) {
+                return null;
             }
 
             string result;
@@ -551,21 +583,14 @@ namespace ConApp
             return reader;
         }
 
-        public static string GetGameId() {
-            var pgnStr = Curl("https://lichess.org/api/user/adlokyy/current-game");
-            var pgn = Pgn.Load(pgnStr);
-            return pgn.Site.Split('/').Last();
-        }
-
-        public static bool Move(string gameId, string move) {
-            var s = Curl($"https://lichess.org/api/board/game/{gameId}/move/{move}", "POST");
+        public static bool move(string gameId, string move) {
+            var s = curl($"https://lichess.org/api/board/game/{gameId}/move/{move}", "POST");
             var isSuccess = s.IndexOf(@"""ok"":true") > -1;
             if (!isSuccess) {
                 Console.WriteLine(s);
             }
             return isSuccess;
         }
-
         public static void lichessThread() {
             var dt = DateTime.Now.AddMilliseconds(-1000);
             while (true) {
@@ -978,9 +1003,8 @@ namespace ConApp
 
         public static void commandThread() {
             var fen = Board.DEFAULT_STARTING_FEN;
-            var mask = startMasks[0];
-            var side = 1;
-            cmdVarProxy = (f, s) => { fen = f; side = s; };
+            var mask = startMask;
+            cmdVarProxy = f => { fen = f; };
             while (true) {
                 var split = Console.ReadLine().Split(' ');
                 var name = split[0];
@@ -995,12 +1019,11 @@ namespace ConApp
                         }
                         else {
                             fen = Board.DEFAULT_STARTING_FEN;
-                            mask = startMasks[0];
+                            mask = startMask;
                         }
 
                         if (args.Length > 1) {
-                            side = int.Parse(args[1]);
-                            cmd.side = side;
+                            cmd.side = int.Parse(args[1]);
                         }
 
                         break;
@@ -1015,21 +1038,24 @@ namespace ConApp
                         }
                         break;
 
-                    case "mask":
+                    case "resetmask":
                         cmd.name = CcvCommandEnum.mask;
-                        foreach (var arg in args) {
-                            mask = simpleMaskMove(mask, arg);
-                        }
-
-                        cmd.mask = rotateMask(mask, side);
+                        mask = startMask;
+                        cmd.mask = mask;
 
                         break;
 
                     case "cor":
                         cmd.name = CcvCommandEnum.mask;
                         mask = GetFenMask(fen);
-                        cmd.mask = rotateMask(mask, side);
+                        cmd.mask = mask;
 
+                        break;
+
+                    default:
+                        foreach (var arg in args) {
+                            mask = simpleMaskMove(mask, arg);
+                        }
                         break;
                 }
 
@@ -1046,6 +1072,12 @@ namespace ConApp
         private static List<int> leds = Enumerable.Range(0, 100).Where(x => !skipLeds.Contains(x)).ToList();
 
         private static int[][] matrix = initMatrix();
+
+        private static bool ledsIsAvailable = testLedsAvailability();
+
+        private static bool testLedsAvailability() {
+            return curl("http://192.168.0.3/ping", timeout: 1000) != null;
+        }
 
         private static int[][] initMatrix() {
             int[][] matrix = new int[9][];
@@ -1073,8 +1105,6 @@ namespace ConApp
                 s = s.Substring(0, 2) + " " + s.Substring(2);
             }
 
-            Console.WriteLine(s);
-
             var leds = s.Split(' ').SelectMany(x => sqLeds(x)).Distinct().ToArray();
             if (leds.Length > 10) {
                 return new int[] { matrix[0][0], matrix[0][8], matrix[8][0], matrix[8][8] };
@@ -1084,33 +1114,24 @@ namespace ConApp
 
         #endregion
 
-        private static void sendSquares(string s) {
-            var url = "http://192.168.0.3/?q=";
-            if (s == null || s.Length <= 2) {
-                Curl(url);
-                return;
-            }
+//         private static DateTime lastSendSquareTime = DateTime.Now;
 
-            var q = s[0] + "-" + string.Join("-", squaresLeds(s.Substring(2)));
-            Curl(url + q);
+        private static void sendSquares(string s) {
+            if (!ledsIsAvailable) return;
+
+            var q = (s == null || s.Length <= 2) ? "" : s[0] + "-" + string.Join("-", squaresLeds(s.Substring(2)));
+            curl("http://192.168.0.3/?q=" + q);
         }
 
         private static string token = "lip_hfsqBESVItGp6FmW9FFk";
 
-        private static string[] startMasks = { GetFenMask(Board.DEFAULT_STARTING_FEN)
-                                             , rotateMask(GetFenMask(Board.DEFAULT_STARTING_FEN), -1) };
+        private static string startMask = GetFenMask(Board.DEFAULT_STARTING_FEN);
 
         private static SyncQueue<CcvCommand> cmdQue = new SyncQueue<CcvCommand>();
 
-        private static Action<string, int> cmdVarProxy = (f, s) => { }; 
+        private static Action<string> cmdVarProxy = (f) => { }; 
 
         static void Main(string[] args) {
-            /*
-
-            Cv2.WaitKey();
-            return;
-            */
-
             //var _moves = FindMoves("r1bqkbnr/1p3ppp/p1n1p3/1BppP3/3P4/2P5/PP3PPP/RNBQK1NR w KQkq - 0 6", GetFenMask("r1bqkbnr/5ppp/p1p1p3/2ppP3/3P4/2P5/PP3PPP/RNBQK1NR w KQkq - 0 7"));
             //return;
 
@@ -1148,7 +1169,7 @@ namespace ConApp
             Action<string> push = fen => { prev = cur; cur = fen; };
 
             var reset = new CmState("reset", s => {
-                mask = startMasks[0].Replace("w", ".").Replace("b", ".");
+                mask = startMask.Replace("w", ".").Replace("b", ".");
                 cur = Board.DEFAULT_STARTING_FEN;
                 prev = cur;
                 last = null;
@@ -1165,7 +1186,7 @@ namespace ConApp
                 var m = FindMoves(cur, mask);
                 if (m != null) {
                     push(FEN.Move(cur, m));
-                    Move(gameId, m);
+                    move(gameId, m);
                     last = m;
                     sendSquares("1 " + last);
                 }
@@ -1176,7 +1197,7 @@ namespace ConApp
             var err = new CmState("err", s => { sendSquares("4 " +  diff(cur,mask)); Console.WriteLine(s.name); });
             var errOp = new CmState("errOp", s => { sendSquares("4 " + diff(cur, mask)); Console.WriteLine(s.name); });
 
-            new CmGuard(reset, noGame, () => startMasks.Contains(mask));
+            new CmGuard(reset, noGame, () => startMask == mask);
             new CmGuard(noGame, startGame, () => gameId != null);
             new CmGuard(startGame, wait, () => side == 1);
             new CmGuard(startGame, waitOp, () => side == -1);
@@ -1222,12 +1243,12 @@ namespace ConApp
                         break;
 
                     case CcvCommandEnum.mask:
-                        mask = rotateMask(cmd.mask, side);
+                        mask = cmd.mask;
                         break;
                 }
 
                 CmState.run();
-                cmdVarProxy(cur, side);
+                cmdVarProxy(cur);
             }
         }
     }
