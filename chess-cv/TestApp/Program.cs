@@ -2,7 +2,9 @@
 using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Drawing;
+using System.IO;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading;
@@ -335,7 +337,50 @@ namespace TestApp {
             }
         }
 
+        public static string Curl(string url, string method = "GET", int timeout = int.MaxValue) {
+            var request = WebRequest.Create(url);
+            request.Method = method;
+            if (timeout != int.MaxValue) {
+                request.Timeout = timeout;
+            }
+            
+            WebResponse response = null;
+            try {
+                response = request.GetResponse();
+            }
+            catch (WebException e) {
+                response = e.Response;
+                // ((HttpWebResponse)e.Response).StatusCode
+            }
+
+            if (response == null) {
+                return null;
+            }
+
+            string result;
+            using (Stream dataStream = response.GetResponseStream()) {
+                var reader = new StreamReader(dataStream);
+                result = reader.ReadToEnd();
+            }
+
+            response.Close();
+
+            return result;
+        }
+
+
         static void Main(string[] args) {
+            var qs = new string[] { "7-2-3-4-5-6-7-8-9-10", "7-13-14-15-16-17-18-19-20-21" };
+
+            for (var i = 0; true; i++) {
+                var r = Curl("http://192.168.0.3/?q=" + qs[i % 2]);
+                if (r == null) Console.WriteLine("NULLNULLNULL");
+                Console.WriteLine(i);
+                //Thread.Sleep(500);
+            }
+
+            return;
+
             var mask = (string)null;
             var cur = (string)null;
             var prev = (string)null;

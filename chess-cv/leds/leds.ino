@@ -1,3 +1,5 @@
+#define FASTLED_ALLOW_INTERRUPTS 0
+
 #include <FastLED.h>
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
@@ -49,9 +51,9 @@ void split(char* s) {
 }
 
 void show() {
-    noInterrupts();
+    // noInterrupts();
     FastLED.show();
-    interrupts();
+    // interrupts();
 }
 
 void apply(char* s) {
@@ -77,7 +79,7 @@ void apply(char* s) {
 
     if (nums[0] < 0 || nums[1] < 0) return;
 
-    CRGB color = colors[nums[0]];
+    CRGB color = colors[nums[0] > 7 ? 7 : nums[0]];
     for (byte i = 1; nums[i] > -1; i++) {
         // bool is_changed = leds[nums[i]] != color;
         leds[nums[i]] = color;
@@ -88,10 +90,14 @@ void apply(char* s) {
 
 void handleRequest() {
     String s = server.arg("q");
-    char ca[(NUM_MAX + 1) * 3];
+    char ca[(NUM_MAX + 2) * 3];
     s.toCharArray(ca, sizeof(ca));
     server.send(200, "text/plain", ca);
     apply(ca);
+}
+
+void handlePingRequest() {
+    server.send(200, "text/plain", "");
 }
 
 void clear() {
@@ -111,9 +117,10 @@ void setup() {
         delay(1000);
     }
     server.on("/", handleRequest);
+    server.on("/ping", handlePing);
     server.begin();
 
-    test_leds();
+    // test_leds();
 }
 
 void loop() {
