@@ -304,7 +304,7 @@ namespace ConApp
             return Math.Sqrt(d0 * d0 + d1 * d1 + d2 * d2);
         }
 
-        public static IEnumerable<Point> SquareContour(Point p, int size) {
+        public static IEnumerable<Point> SquareContour(Point p, int size, int tail = 0) {
             var l = size - 1;
             for (var i = 0; i < l; i++) {
                 yield return new Point(p.X + i, p.Y);
@@ -320,6 +320,10 @@ namespace ConApp
 
             for (var i = l; i > 0; i--) {
                 yield return new Point(p.X, p.Y + i);
+            }
+
+            for (var i = 0; i < tail; i++) {
+                yield return new Point(p.X + 1 + i, p.Y);
             }
         }
 
@@ -441,16 +445,17 @@ namespace ConApp
 
             Cv2.InRange(imgGray, new Scalar(0), new Scalar(black + 40), mask);
 
-            var blackSeq = 0;
+            var blackCount = 0;
+            var conturQue = new Queue<byte>();
             foreach (var p in SquareContour(new Point(0,0), size)) {
                 var c = mask.At<byte>(p.Y,p.X);
-                if (c == 0) {
-                    blackSeq++;
+                conturQue.Enqueue(c);
+                if (c == 0) blackCount++;
+                if (conturQue.Count > sqs) {
+                    if (conturQue.Dequeue() == 0) blackCount--;
                 }
-                else {
-                    blackSeq = 0;
-                }
-                if (blackSeq > sqs / 4) {
+
+                if (blackCount > sqs / 4) {
                     throw new Exception("Black contour is not closed.");
                 }
             }
@@ -1128,7 +1133,7 @@ namespace ConApp
 
         //         private static DateTime lastSendSquareTime = DateTime.Now;
 
-        private static Task delayTask = Task.Run(() => { });
+        private static Task lastSendSquareTask = Task.Run(() => { });
         private static CancellationTokenSource delayTaskCts = new CancellationTokenSource();
 
         private static void sendSquares(string s, int timeout = int.MaxValue) {
@@ -1137,15 +1142,19 @@ namespace ConApp
             var q = (s == null || s.Length <= 2) ? "" : s[0] + "-" + string.Join("-", squaresLeds(s.Substring(2)));
 
             delayTaskCts.Cancel();
-            delayTask.ContinueWith(t => {
-                curl("http://192.168.0.3/?q=" + q);
-                if (timeout == int.MaxValue) return;
+            lastSendSquareTask = lastSendSquareTask.ContinueWith(t => {
+                curl("http://192.168.0.3/?q=" + q, timeout: 2000);
+            });
 
-                delayTaskCts.Dispose();
-                delayTaskCts = new CancellationTokenSource();
-                delayTask = Task.Delay(timeout, delayTaskCts.Token).ContinueWith(t2 => {
-                    curl("http://192.168.0.3/?q=");
-                });
+            if (timeout == int.MaxValue) return;
+
+            delayTaskCts.Dispose();
+            delayTaskCts = new CancellationTokenSource();
+
+            lastSendSquareTask = lastSendSquareTask.ContinueWith(async t => {
+                await Task.Delay(timeout, delayTaskCts.Token);
+                if (delayTaskCts.IsCancellationRequested) return;
+                curl("http://192.168.0.3/?q=", timeout: 2000);
             });
         }
 
@@ -1190,7 +1199,7 @@ namespace ConApp
             var gameId = (string)null;
             var side = 1;
 
-            Func<int> isPossible = () => isPossibleMove(cur,mask);
+            Func<int> poss = () => isPossibleMove(cur,mask);
             Func<string,string> diffOp = fen => diff(fen, mask, -1 * side);
             Action<string> push = fen => { prev = cur; cur = fen; };
 
@@ -1228,15 +1237,17 @@ namespace ConApp
             new CmGuard(startGame, wait, () => side == 1);
             new CmGuard(startGame, waitOp, () => side == -1);
 
-            new CmGuard(wait, waitOp, () => isPossible() == 1);
-            new CmGuard(corOp, waitOp, () => isPossible() == 1);
+            new CmGuard(wait, waitOp, () => poss() == 1);
+            new CmGuard(corOp, waitOp, () => poss() == 1);
             new CmGuard(waitOp, corOp, () => diffOp(cur) != null && diffOp(prev) == null);
             new CmGuard(corOp, wait, () => diffOp(cur) == null);
 
-            new CmGuard(wait, err, () => isPossible() == -1);
-            new CmGuard(err, waitOp, () => isPossible() == 1);
-            new CmGuard(corOp, errOp, () => diffOp(cur) != null && diffOp(prev) != null && isPossible() != 1);
+            new CmGuard(wait, err, () => poss() == -1);
+            new CmGuard(err, waitOp, () => poss() == 1);
+            new CmGuard(corOp, errOp, () => diffOp(cur) != null && diffOp(prev) != null && poss() != 1);
             new CmGuard(errOp, wait, () => diffOp(cur) == null);
+            new CmGuard(errOp, corOp, () => diffOp(prev) == null);
+            new CmGuard(err, wait, () => poss() == 0);
 
             CmState.cur = reset;
             reset.a();
