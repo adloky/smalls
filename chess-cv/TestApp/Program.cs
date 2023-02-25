@@ -368,21 +368,24 @@ namespace TestApp {
             return result;
         }
 
-        private static Task delayTask = Task.Run(() => { });
+        private static Task lastSendSquareTask = Task.Run(() => { });
         private static CancellationTokenSource delayTaskCts = new CancellationTokenSource();
 
-        private static void sendSquares(string s, int timeout = int.MaxValue)
-        {
+        private static void sendSquares(string s, int timeout = int.MaxValue) {
             delayTaskCts.Cancel();
-            delayTask.ContinueWith(t => {
-                Console.WriteLine("task " + s);
-                if (timeout == int.MaxValue) return;
+            lastSendSquareTask = lastSendSquareTask.ContinueWith(t => {
+                Console.WriteLine(s);
+            });
 
-                delayTaskCts.Dispose();
-                delayTaskCts = new CancellationTokenSource();
-                delayTask = Task.Delay(timeout, delayTaskCts.Token).ContinueWith(t2 => {
-                    Console.WriteLine("clear");
-                });
+            if (timeout == int.MaxValue) return;
+
+            delayTaskCts.Dispose();
+            delayTaskCts = new CancellationTokenSource();
+
+            lastSendSquareTask = lastSendSquareTask.ContinueWith(async t => {
+                await Task.Delay(timeout, delayTaskCts.Token);
+                if (delayTaskCts.IsCancellationRequested) return;
+                Console.WriteLine("clear");
             });
         }
 
