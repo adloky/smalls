@@ -69,6 +69,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Scripts\jquery-1.6.4-vsdoc.js" />
+    <Content Include="img\bb.svg" />
+    <Content Include="img\bk.svg" />
+    <Content Include="img\bn.svg" />
+    <Content Include="img\bp.svg" />
+    <Content Include="img\bq.svg" />
+    <Content Include="img\br.svg" />
+    <Content Include="img\wb.svg" />
+    <Content Include="img\wk.svg" />
+    <Content Include="img\wn.svg" />
+    <Content Include="img\wp.svg" />
+    <Content Include="img\wq.svg" />
+    <Content Include="img\wr.svg" />
     <Content Include="ui.htm" />
     <Content Include="default.htm" />
     <Content Include="jquery-3.3.1.js" />

@@ -15,16 +15,19 @@ const char* ssid = "Anton2";  // SSID
 const char* password = "02111958"; // пароль
 ESP8266WebServer server(80);
 
-void test_leds() {
-    apply("7-1-2-3-4-5-6-7-8-9-10-11"); delay(1000);
-    apply("7-12-13-14-15-16-17-18-19-20-21-22"); delay(1000);
-    apply("7-23-24-25-26-27-28-29-30-31-32-33"); delay(1000);
-    apply("7-34-35-36-37-38-39-40-41-42-43-44"); delay(1000);
-    apply("7-45-46-47-48-49-50-51-52-53-54-55"); delay(1000);
-    apply("7-56-57-58-59-60-61-62-63-64-65-66"); delay(1000);
-    apply("7-67-68-69-70-71-72-73-74-75-76-77"); delay(1000);
-    apply("7-78-79-80-81-82-83-84-85-86-87-88"); delay(1000);
-    apply("7-89-90-91-92-93-94-95-96-97-98-99"); delay(1000);
+char* test_leds[] = { "7-1-2-3-4-5-6-7-8-9-10-11"
+  , "7-12-13-14-15-16-17-18-19-20-21-22", "7-23-24-25-26-27-28-29-30-31-32-33"
+  , "7-34-35-36-37-38-39-40-41-42-43-44", "7-45-46-47-48-49-50-51-52-53-54-55"
+  , "7-56-57-58-59-60-61-62-63-64-65-66", "7-67-68-69-70-71-72-73-74-75-76-77"
+  , "7-78-79-80-81-82-83-84-85-86-87-88", "7-89-90-91-92-93-94-95-96-97-98-99"
+  };
+
+void handle_test() {
+    server.send(200, "text/plain", "");
+    for (byte i = 0; i < 9; i++) {
+        apply(test_leds[i]);    
+        delay(1000);
+    }
     apply("");
 }
 
@@ -51,9 +54,7 @@ void split(char* s) {
 }
 
 void show() {
-    // noInterrupts();
     FastLED.show();
-    // interrupts();
 }
 
 void apply(char* s) {
@@ -71,9 +72,8 @@ void apply(char* s) {
 
     for (byte i = 0; i < LED_MAX; i++) {
         if (on_leds[i]) continue;
-        // bool is_changed = leds[i] != colors[0];
+
         leds[i] = colors[0];
-        // if (is_changed) show();
     }
     show();
 
@@ -81,28 +81,21 @@ void apply(char* s) {
 
     CRGB color = colors[nums[0] > 7 ? 7 : nums[0]];
     for (byte i = 1; nums[i] > -1; i++) {
-        // bool is_changed = leds[nums[i]] != color;
         leds[nums[i]] = color;
-        // if (is_changed) show();
     }
     show();
 }
 
-void handleRequest() {
+void handle_leds() {
     String s = server.arg("q");
     char ca[(NUM_MAX + 2) * 3];
     s.toCharArray(ca, sizeof(ca));
+    apply(ca);    
     server.send(200, "text/plain", ca);
-    apply(ca);
 }
 
-void handlePingRequest() {
+void handle_ping() {
     server.send(200, "text/plain", "");
-}
-
-void clear() {
-    FastLED.clear(true);
-    show();
 }
 
 void setup() {
@@ -110,17 +103,21 @@ void setup() {
     Serial.begin(9600);
     delay(1000);
 
-    clear();
+    FastLED.clear(true);
+    show();
     
     WiFi.begin(ssid, password);
-    while (WiFi.status() != WL_CONNECTED) {
-        delay(1000);
+    for (int i = 0; i < 32767 && WiFi.status() != WL_CONNECTED; i++) {
+        apply(test_leds[(i % 3) + 3]);
+        delay(500);
     }
-    server.on("/", handleRequest);
-    server.on("/ping", handlePing);
+
+    server.on("/leds", handle_leds);
+    server.on("/ping", handle_ping);
+    server.on("/test", handle_test);
     server.begin();
 
-    // test_leds();
+    apply("");
 }
 
 void loop() {

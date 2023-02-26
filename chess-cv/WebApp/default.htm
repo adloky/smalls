@@ -1,7 +1,32 @@
 <html>
 <head>
     <style>
-    * { font-size: 16pt; }
+      .z0 { background-color: #999; }
+      .z1 { background-color: #888; }
+      .diff { background-color: #B66; }
+      .board td { width: 12.5%; height: 12.5%; }
+      .board td { background-repeat: no-repeat; background-position: center center; background-size: cover; }
+      .hidden { visibility: collapse; }
+      .board { border: 4px solid black; }
+      .board.bad_reds { border: 4px solid red; }
+      .board.bad_contour { border: 4px dashed black; }
+
+      .pbr { background-image: url(img/br.svg); }
+      .pbn { background-image: url(img/bn.svg); }
+      .pbb { background-image: url(img/bb.svg); }
+      .pbq { background-image: url(img/bq.svg); }
+      .pbk { background-image: url(img/bk.svg); }
+      .pbp { background-image: url(img/bp.svg); }
+      .pwr { background-image: url(img/wr.svg); }
+      .pwn { background-image: url(img/wn.svg); }
+      .pwb { background-image: url(img/wb.svg); }
+      .pwq { background-image: url(img/wq.svg); }
+      .pwk { background-image: url(img/wk.svg); }
+      .pwp { background-image: url(img/wp.svg); }
+      .pzz { background-image: none; }
+      .mb { border: 4px dotted black; }
+      .mw { border: 4px dotted white; }
+      .mz { border: 4px dotted transparent; }
     </style>
 
     <script src="jquery-3.3.1.js"></script>
@@ -9,28 +34,172 @@
     <script src="http://192.168.0.2:8081/signalr/hubs"></script>
 </head>
   <body style="font-family: sans-serif; ">
-      <audio class="beep" src="beep.mp3"></audio>
-      <pre class="board-state">
-      </pre>
+      <div style="display: inline-block; float: left; width: 400pt; height: 400pt; position: relative">
+          <table class="board" cellpadding="0" cellspacing="0" style="width: 100%; height: 100%">
+              <tr><td class="sa8 z0 pzz mz">&nbsp;</td><td class="sb8 z1 pzz mz">&nbsp;</td><td class="sc8 z0 pzz mz">&nbsp;</td><td class="sd8 z1 pzz mz">&nbsp;</td><td class="se8 z0 pzz mz">&nbsp;</td><td class="sf8 z1 pzz mz">&nbsp;</td><td class="sg8 z0 pzz mz">&nbsp;</td><td class="sh8 z1 pzz mz">&nbsp;</td></tr>
+              <tr><td class="sa7 z1 pzz mz">&nbsp;</td><td class="sb7 z0 pzz mz">&nbsp;</td><td class="sc7 z1 pzz mz">&nbsp;</td><td class="sd7 z0 pzz mz">&nbsp;</td><td class="se7 z1 pzz mz">&nbsp;</td><td class="sf7 z0 pzz mz">&nbsp;</td><td class="sg7 z1 pzz mz">&nbsp;</td><td class="sh7 z0 pzz mz">&nbsp;</td></tr>
+              <tr><td class="sa6 z0 pzz mz">&nbsp;</td><td class="sb6 z1 pzz mz">&nbsp;</td><td class="sc6 z0 pzz mz">&nbsp;</td><td class="sd6 z1 pzz mz">&nbsp;</td><td class="se6 z0 pzz mz">&nbsp;</td><td class="sf6 z1 pzz mz">&nbsp;</td><td class="sg6 z0 pzz mz">&nbsp;</td><td class="sh6 z1 pzz mz">&nbsp;</td></tr>
+              <tr><td class="sa5 z1 pzz mz">&nbsp;</td><td class="sb5 z0 pzz mz">&nbsp;</td><td class="sc5 z1 pzz mz">&nbsp;</td><td class="sd5 z0 pzz mz">&nbsp;</td><td class="se5 z1 pzz mz">&nbsp;</td><td class="sf5 z0 pzz mz">&nbsp;</td><td class="sg5 z1 pzz mz">&nbsp;</td><td class="sh5 z0 pzz mz">&nbsp;</td></tr>
+              <tr><td class="sa4 z0 pzz mz">&nbsp;</td><td class="sb4 z1 pzz mz">&nbsp;</td><td class="sc4 z0 pzz mz">&nbsp;</td><td class="sd4 z1 pzz mz">&nbsp;</td><td class="se4 z0 pzz mz">&nbsp;</td><td class="sf4 z1 pzz mz">&nbsp;</td><td class="sg4 z0 pzz mz">&nbsp;</td><td class="sh4 z1 pzz mz">&nbsp;</td></tr>
+              <tr><td class="sa3 z1 pzz mz">&nbsp;</td><td class="sb3 z0 pzz mz">&nbsp;</td><td class="sc3 z1 pzz mz">&nbsp;</td><td class="sd3 z0 pzz mz">&nbsp;</td><td class="se3 z1 pzz mz">&nbsp;</td><td class="sf3 z0 pzz mz">&nbsp;</td><td class="sg3 z1 pzz mz">&nbsp;</td><td class="sh3 z0 pzz mz">&nbsp;</td></tr>
+              <tr><td class="sa2 z0 pzz mz">&nbsp;</td><td class="sb2 z1 pzz mz">&nbsp;</td><td class="sc2 z0 pzz mz">&nbsp;</td><td class="sd2 z1 pzz mz">&nbsp;</td><td class="se2 z0 pzz mz">&nbsp;</td><td class="sf2 z1 pzz mz">&nbsp;</td><td class="sg2 z0 pzz mz">&nbsp;</td><td class="sh2 z1 pzz mz">&nbsp;</td></tr>
+              <tr><td class="sa1 z1 pzz mz">&nbsp;</td><td class="sb1 z0 pzz mz">&nbsp;</td><td class="sc1 z1 pzz mz">&nbsp;</td><td class="sd1 z0 pzz mz">&nbsp;</td><td class="se1 z1 pzz mz">&nbsp;</td><td class="sf1 z0 pzz mz">&nbsp;</td><td class="sg1 z1 pzz mz">&nbsp;</td><td class="sh1 z0 pzz mz">&nbsp;</td></tr>
+          </table>
+      </div>
+
       <script>
+          // { fen, mask, side, err };
           var engine;
 
+          var state = {
+              fen:  "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"
+            , mask: "bbbbbbbb/bbbbbbbb/......../......../......../......../wwwwwwww/wwwwwwww"
+            , side: 1, err: null
+          };
+
+          var pieceClassMap = new Map([["P", "pwp"], ["R", "pwr"], ["N", "pwn"], ["B", "pwb"], ["Q", "pwq"], ["K", "pwk"],
+                                       ["p", "pbp"], ["r", "pbr"], ["n", "pbn"], ["b", "pbb"], ["q", "pbq"], ["k", "pbk"], ["z", "pzz"]]);
+
+          var whiteSide = ["a8", "b8", "c8", "d8", "e8", "f8", "g8", "h8", "a7", "b7", "c7", "d7", "e7", "f7", "g7", "h7",
+                           "a6", "b6", "c6", "d6", "e6", "f6", "g6", "h6", "a5", "b5", "c5", "d5", "e5", "f5", "g5", "h5",
+                           "a4", "b4", "c4", "d4", "e4", "f4", "g4", "h4", "a3", "b3", "c3", "d3", "e3", "f3", "g3", "h3",
+                           "a2", "b2", "c2", "d2", "e2", "f2", "g2", "h2", "a1", "b1", "c1", "d1", "e1", "f1", "g1", "h1"];
+          var blackSide = ["h1", "g1", "f1", "e1", "d1", "c1", "b1", "a1", "h2", "g2", "f2", "e2", "d2", "c2", "b2", "a2",
+                           "h3", "g3", "f3", "e3", "d3", "c3", "b3", "a3", "h4", "g4", "f4", "e4", "d4", "c4", "b4", "a4",
+                           "h5", "g5", "f5", "e5", "d5", "c5", "b5", "a5", "h6", "g6", "f6", "e6", "d6", "c6", "b6", "a6",
+                           "h7", "g7", "f7", "e7", "d7", "c7", "b7", "a7", "h8", "g8", "f8", "e8", "d8", "c8", "b8", "a8"];
+
+          function getXY(s) {
+              var r = {};
+              r.x = "abcdefgh".indexOf(s[0]);
+              r.y = "87654321".indexOf(s[1]);
+              return r;
+          }
+
+          function objClass(elem, newClass, re) {
+              var elemSel = $(elem);
+              var fullClass = elemSel.attr("class");
+              var curClass = fullClass.match(re)[0];
+              if (newClass) {
+                  elemSel.attr("class", fullClass.replace(curClass, newClass));
+                  curClass = newClass;
+              }
+              return curClass;
+          }
+
+          function pieceClass(elem, newClass) {
+              return objClass(elem, newClass, /p(zz|[bw][prnbqk])/);
+          }
+
+          function maskClass(elem, newClass) {
+              return objClass(elem, newClass, /m[bwz]/);
+          }
+
+          function unpackFen(fen) {
+              var fen0 = fen.split(" ")[0];
+              fen0 = fen0.replaceAll("1", "z",).replaceAll("2", "zz").replaceAll("3", "zzz").replaceAll("4", "zzzz")
+                  .replaceAll("5", "zzzzz").replaceAll("6", "zzzzzz").replaceAll("7", "zzzzzzz").replaceAll("8", "zzzzzzzz");
+
+              return fen0;
+          }
+
+          function applyFen(fen) {
+              var fs = unpackFen(fen).split("/");
+
+              $(".board td").each(function () {
+                  var s = $(this).attr("class").match(/s([a-h][1-8])/)[1];
+                  var p = getXY(s);
+                  pieceClass(this, pieceClassMap.get(fs[p.y][p.x]));
+              });
+          }
+
+          function applyMask(mask) {
+              var ms = mask.replaceAll(".", "z",).split("/");
+
+              $(".board td").each(function () {
+                  var s = $(this).attr("class").match(/s([a-h][1-8])/)[1];
+                  var p = getXY(s);
+                  maskClass(this, "m" + ms[p.y][p.x]);
+              });
+          }
+
+          function diff(fen, mask) {
+              var r = [];
+              fs = unpackFen(fen).replaceAll(/[PRNBQK]/g, "w").replaceAll(/[prnbqk]/g, "b").split("/");
+              ms = mask.replaceAll(".", "z").split("/");
+              for (var y = 0; y < 8; y++) {
+                  for (var x = 0; x < 8; x++) {
+                      if (fs[y][x] === ms[y][x]) continue;
+
+                      r.push("abcdefgh"[x] + "87654321"[y]);
+                  }
+              }
+
+              return r;
+          }
+
+          function applySide(sideN) {
+              var side = sideN === 1 ? whiteSide : blackSide;
+              $(".board td").toArray().forEach((e, i) => {
+                  var newClass = $(e).attr("class").replace(/s[a-h][1-8]/, "s" + side[i]);
+                  $(e).attr("class", newClass);
+              });
+          }
+
+          function applyDiff(fen, mask) {
+              var elems = $(".board td");
+              var d = diff(fen,mask);
+              elems.removeClass("diff");
+              for (var i = 0; i < d.length; i++) {
+                  s = d[i];
+                  $(".board .s" + s).addClass("diff");
+              }
+          }
+
           $(document).ready(function () {
-              var beep = $(".beep")[0];
+              applyFen(state.fen);
+              var d = (new Date).getTime();
+              applyDiff(state.fen, state.mask);
+              console.log((new Date).getTime() - d);
+
+              applyMask(state.mask);
 
               hub = $.connection.cvHub;
               $.connection.hub.url = "http://192.168.0.2:8081/signalr";
               
-              hub.client.setBoardState = function (s) {
-                  $(".board-state").text(s);
+              hub.client.setState = function (s) {
+                  if (state.side !== s.side) {
+                      applySide(s.side);
+                  }
+
+                  if (state.fen !== s.fen || state.mask !== s.mask || state.side !== s.side) {
+                      applyDiff(s.fen, s.mask);
+                  }
+
+                  if (state.fen !== s.fen || state.side !== s.side) {
+                      applyFen(s.fen);
+                  }
+
+                  if (state.mask !== s.mask || state.side !== s.side) {
+                      applyMask(s.mask);
+                  }
+
+                  if (state.err !== s.err) {
+                      var boardClass = " " + $(".board").attr("class");
+                      boardClass = boardClass.replace(" bad_reds", "").replace(" bad_contour", "");
+                      if (s.err !== null) {
+                          boardClass = boardClass + " " + s.err;
+                      }
+                      boardClass = boardClass.substr(1);
+                      $(".board").attr("class", boardClass);
+                  }
+
+                  state = s;
               };
               
-              hub.client.beep = function () {
-                  beep.play();
-              };
-
               $.connection.hub.start().done(function () {
                   hub.server.enqueHub();
+                  hub.server.enqueNoneCmd();
               });
           });
       </script>
