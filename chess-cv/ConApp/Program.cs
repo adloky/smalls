@@ -970,13 +970,14 @@ namespace ConApp
             return string.Join(" ", ps.Select(p => getSquare(p)));
         }
 
-        public static int isPossibleMove(string fen, string mask) {
+        public static int isPossibleMove(string fen, string mask, out string nextFen) {
             var m = (string)null;
+            nextFen = null;
             try {
                 m = FindMoves(fen, mask);
                 if (m == null) return 0;
 
-                FEN.Move(fen,m);
+                nextFen = FEN.Move(fen,m);
             }
             catch {
                 return -1;
@@ -984,6 +985,20 @@ namespace ConApp
 
             return 1;
         }
+
+        public static int isPossibleMove(string fen, string mask) {
+            var nextFen = (string)null;
+            return isPossibleMove(fen, mask, out nextFen);
+        }
+
+        public static int isPossible2Move(string fen, string mask) {
+            var nextFen = (string)null;
+            var r = isPossibleMove(fen, mask, out nextFen);
+            if (r != 1) return r;
+
+            return diff(nextFen, mask) == null ? 1 : -1;
+        }
+
 
         public static string simpleMaskMove(string mask, string move) {
             Func<string, Point> getPoint = x => new Point("abcdefgh".IndexOf(x[0]), "87654321".IndexOf(x[1]));
@@ -1194,6 +1209,7 @@ namespace ConApp
             var lastJson = (string)null;
 
             Func<int> poss = () => isPossibleMove(cur,mask);
+            Func<int> poss2 = () => isPossible2Move(cur, mask);
             Func<string,string> diffOp = fen => diff(fen, mask, -1 * side);
             Action<string> push = fen => { prev = cur; cur = fen; };
 
@@ -1209,7 +1225,7 @@ namespace ConApp
 
             var noGame = new CmState("noGame", s => { side = (mask[0] == 'b') ? 1 : -1; sendSquares(null); Console.WriteLine(s.name); });
             var startGame = new CmState("startGame", s => { Console.WriteLine(s.name); });
-            var wait = new CmState("wait", s => { sendSquares("1 " + last, 1000); Console.WriteLine(s.name); });
+            var wait = new CmState("wait", s => { sendSquares("2 " + last, 1000); Console.WriteLine(s.name); });
 
             var waitOp = new CmState("waitOp", s => {
                 var m = FindMoves(cur, mask);
@@ -1217,7 +1233,7 @@ namespace ConApp
                     push(FEN.Move(cur, m));
                     move(gameId, m);
                     last = m;
-                    sendSquares("1 " + last, 1000);
+                    sendSquares("2 " + last, 1000);
                 }
                 Console.WriteLine(s.name);
             });
@@ -1232,13 +1248,13 @@ namespace ConApp
             new CmGuard(startGame, waitOp, () => side == -1);
 
             new CmGuard(wait, waitOp, () => poss() == 1);
-            new CmGuard(corOp, waitOp, () => poss() == 1);
+            new CmGuard(corOp, waitOp, () => poss2() == 1);
             new CmGuard(waitOp, corOp, () => diffOp(cur) != null && diffOp(prev) == null);
             new CmGuard(corOp, wait, () => diffOp(cur) == null);
 
             new CmGuard(wait, err, () => poss() == -1);
             new CmGuard(err, waitOp, () => poss() == 1);
-            new CmGuard(corOp, errOp, () => diffOp(cur) != null && diffOp(prev) != null && poss() != 1);
+            new CmGuard(corOp, errOp, () => diffOp(cur) != null && diffOp(prev) != null && poss2() != 1);
             new CmGuard(errOp, wait, () => diffOp(cur) == null);
             new CmGuard(errOp, corOp, () => diffOp(prev) == null);
             new CmGuard(err, wait, () => poss() == 0);
