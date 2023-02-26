@@ -19,6 +19,7 @@ using System.Text.RegularExpressions;
 using System.Xml.XPath;
 using System.Diagnostics;
 using System.Collections.Concurrent;
+using Newtonsoft.Json;
 
 namespace ConApp
 {
@@ -132,6 +133,7 @@ namespace ConApp
         public string prev { get; set; }
         public string last { get; set; }
         public string mask { get; set; }
+        public string err { get; set; }
     }
 
     #endregion
@@ -405,14 +407,14 @@ namespace ConApp
                 // Console.WriteLine("Red circles count (" + circles.Length + ") != 4.");
                 //new Window("mask", mask);
                 //Cv2.WaitKey(1);
-                throw new Exception("Red circles count (" + circles.Length + ") != 4.");
+                throw new Exception("bad_reds");
             }
 
             // Rotation
             circles = circles.OrderBy(x => x.Center.X).ToArray();
             var rotation = Math.Abs(circles[0].Center.X - circles[1].Center.X) / Math.Abs(circles[0].Center.Y - circles[1].Center.Y);
             if (rotation > 0.5) {
-                throw new Exception("Bad rotation.");
+                throw new Exception("bad_rot");
             }
 
             // Correct points
@@ -443,7 +445,7 @@ namespace ConApp
                 .Select(p => (int)SquareAvgColor(imgGray, p.Add(new Point(-3, -3)), 6).Val0)
                 .OrderByDescending(x => x).Skip(1).First();
 
-            Cv2.InRange(imgGray, new Scalar(0), new Scalar(black + 40), mask);
+            Cv2.InRange(imgGray, new Scalar(0), new Scalar(black + 50), mask);
 
             var blackCount = 0;
             var conturQue = new Queue<byte>();
@@ -456,7 +458,7 @@ namespace ConApp
                 }
 
                 if (blackCount > sqs / 4) {
-                    throw new Exception("Black contour is not closed.");
+                    throw new Exception("bad_contour");
                 }
             }
 
@@ -900,13 +902,6 @@ namespace ConApp
 
         #endregion
 
-        public static void SendState(string s, int i) {
-            if ((i % 5) != 0) return;
-            foreach (var hub in CvHub.Hubs) {
-                hub.Clients.All.setBoardState(s);
-            }
-        }
-
         public static void recognizeThread() {
             var img = new Mat();
             var capture = CreateVideoCapture(2);
@@ -917,26 +912,21 @@ namespace ConApp
                 // var state = (string)null;
 
                 var dtDiff = (DateTime.Now - dt).TotalMilliseconds;
-                Cv2.WaitKey(Math.Max(1, 100 - (int)dtDiff));
+                Cv2.WaitKey(1);
+                Thread.Sleep(Math.Max(0, 100 - (int)dtDiff));
                 dt = DateTime.Now;
 
                 capture.Read(img);
-                // new Window("src", img);
-                // Cv2.WaitKey(1);
 
-                var board = (string)null;
-                // var boardError = (string)null;
+                var mask = (string)null;
+                var err = (string)null;
                 try {
-                    board = recognizeBoard(img);
+                    mask = recognizeBoard(img);
                 } catch (Exception e) {
-                    // boardError = e.Message;
+                    err = e.Message;
                 }
 
-                if (board == null) {
-                    continue;
-                }
-
-                var cmd = new CcvCommand() { name = CcvCommandEnum.mask, mask = board };
+                var cmd = new CcvCommand() { name = CcvCommandEnum.mask, mask = mask, err = err };
                 cmdQue.Enqueue(cmd);
             }
         }
@@ -1093,7 +1083,9 @@ namespace ConApp
         private static bool ledsIsAvailable = testLedsAvailability();
 
         private static bool testLedsAvailability() {
-            return curl("http://192.168.0.3/ping", timeout: 3000) != null;
+            var r = curl("http://192.168.0.3/ping", timeout: 3000) != null;
+            if (!r) Console.WriteLine("Leds disconnected.");
+            return r;
         }
 
         private static int[][] initMatrix() {
@@ -1143,7 +1135,7 @@ namespace ConApp
 
             delayTaskCts.Cancel();
             lastSendSquareTask = lastSendSquareTask.ContinueWith(t => {
-                curl("http://192.168.0.3/?q=" + q, timeout: 2000);
+                curl("http://192.168.0.3/leds?q=" + q, timeout: 2000);
             });
 
             if (timeout == int.MaxValue) return;
@@ -1154,7 +1146,7 @@ namespace ConApp
             lastSendSquareTask = lastSendSquareTask.ContinueWith(async t => {
                 await Task.Delay(timeout, delayTaskCts.Token);
                 if (delayTaskCts.IsCancellationRequested) return;
-                curl("http://192.168.0.3/?q=", timeout: 2000);
+                curl("http://192.168.0.3/leds?q=", timeout: 2000);
             });
         }
 
@@ -1162,7 +1154,7 @@ namespace ConApp
 
         private static string startMask = GetFenMask(Board.DEFAULT_STARTING_FEN);
 
-        private static SyncQueue<CcvCommand> cmdQue = new SyncQueue<CcvCommand>();
+        public static SyncQueue<CcvCommand> cmdQue = new SyncQueue<CcvCommand>();
 
         private static Action<string> cmdVarProxy = (f) => { }; 
 
@@ -1198,6 +1190,8 @@ namespace ConApp
             var last = (string)null;
             var gameId = (string)null;
             var side = 1;
+            var maskErr = (string)null;
+            var lastJson = (string)null;
 
             Func<int> poss = () => isPossibleMove(cur,mask);
             Func<string,string> diffOp = fen => diff(fen, mask, -1 * side);
@@ -1280,12 +1274,24 @@ namespace ConApp
                         break;
 
                     case CcvCommandEnum.mask:
-                        mask = cmd.mask;
+                        if (cmd.mask != null) {
+                            mask = cmd.mask;
+                        }
+                        maskErr = cmd.err;
                         break;
                 }
 
                 CmState.run();
                 cmdVarProxy(cur);
+
+                var state = new { fen = cur, mask = mask, side = side, err = maskErr };
+                var json = JsonConvert.SerializeObject(state);
+                if (json == lastJson && cmd.name != CcvCommandEnum.none) continue;
+
+                lastJson = json;
+                foreach (var hub in CvHub.Hubs) {
+                    hub.Clients.All.setState(state);
+                }
             }
         }
     }
@@ -1310,8 +1316,10 @@ namespace ConApp
                 hubQueue.Dequeue();
             }
         }
-        public void test() {
-            Console.WriteLine("test");
+
+        public void enqueNoneCmd() {
+            var cmd = new CcvCommand();
+            Program.cmdQue.Enqueue(cmd);
         }
 
         public int val(string name) {
@@ -1327,75 +1335,6 @@ namespace ConApp
         }
     }
 }
-
-/*
-                var img = new Mat();
-                var capture = CreateVideoCapture(2);
-
-                var dt = DateTime.Now;
-                for (var gi = 0; ; gi++) {
-                    if (gi % 100 == 0) { GC.Collect(); };
-                    var state = (string)null;
-
-                    var dtDiff = (DateTime.Now - dt).TotalMilliseconds;
-                    Cv2.WaitKey(Math.Max(1, 100 - (int)dtDiff));
-                    dt = DateTime.Now;
-
-                    capture.Read(img);
-                    // new Window("src", img);
-                    // Cv2.WaitKey(1);
-
-                    var board = (string)null;
-                    var boardError = (string)null;
-                    try {
-                        board = recognizeBoard(img);
-                    } catch (Exception e) {
-                        boardError = e.Message;
-                    }
-
-                    if (board == null) {
-                        SendState(boardError, gi);
-                        continue;
-                    }
-
-                    state = board.Replace("/", "\n");
-                    
-                    lock (syncRoot) {
-                        try {
-                            if (gameId == null && (
-                                board == "bbbbbbbb/bbbbbbbb/......../......../......../......../wwwwwwww/wwwwwwww"
-                             || board == "wwwwwwww/wwwwwwww/......../......../......../......../bbbbbbbb/bbbbbbbb"))
-                            {
-                                fen = Board.DEFAULT_STARTING_FEN;
-                                isWhite = board[0] == 'b';
-                            }
-
-                            board = (isWhite) ? board : string.Join("", board.Reverse());
-
-                            var moveStr = FindMoves(fen, board);
-                            if (moveStr != null) {
-                                var sendMove = isWhite == (fen.IndexOf(" w ") > -1);
-                                // fen = FEN.Move(fen, moveStr);
-                                if (sendMove && gameId != null) {
-                                    // gameId = gameId ?? GetGameId();
-                                    Move(gameId, moveStr);
-                                }
-                                
-                                //else {
-                                //    foreach (var hub in CvHub.Hubs) {
-                                //        hub.Clients.All.beep();
-                                //    }
-                                //}
-                            }
-                        } catch (Exception e) {
-                            state += "\n" + e.Message;
-                        }
-                    }
-                    SendState(state, gi);
-                }
-
- */
-
 
 /*
 public static void Kmeans(Mat input, Mat output, int k) {

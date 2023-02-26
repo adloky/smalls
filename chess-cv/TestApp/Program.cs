@@ -337,7 +337,7 @@ namespace TestApp {
             }
         }
 
-        public static string Curl(string url, string method = "GET", int timeout = int.MaxValue) {
+        public static string curl(string url, string method = "GET", int timeout = int.MaxValue) {
             var request = WebRequest.Create(url);
             request.Method = method;
             if (timeout != int.MaxValue) {
@@ -372,27 +372,19 @@ namespace TestApp {
         private static CancellationTokenSource delayTaskCts = new CancellationTokenSource();
 
         private static void sendSquares(string s, int timeout = int.MaxValue) {
-            delayTaskCts.Cancel();
-            lastSendSquareTask = lastSendSquareTask.ContinueWith(t => {
-                Console.WriteLine(s);
-            });
-
-            if (timeout == int.MaxValue) return;
-
-            delayTaskCts.Dispose();
-            delayTaskCts = new CancellationTokenSource();
-
-            lastSendSquareTask = lastSendSquareTask.ContinueWith(async t => {
-                await Task.Delay(timeout, delayTaskCts.Token);
-                if (delayTaskCts.IsCancellationRequested) return;
-                Console.WriteLine("clear");
-            });
+            var r = curl("http://192.168.0.3/leds?q=" + s, timeout: 2000);
+            Console.Write(".");
+            if (r == null) {
+                Console.WriteLine("\r\nNULL");
+            }
         }
 
+        private static string[] leds = { "7-1-2-3-4-5-6-7-8-9-10-11", "7-89-90-91-92-93-94-95-96-97-98-99" };
+
         static void Main(string[] args) {
-            while (true) {
-                var s = Console.ReadLine();
-                sendSquares(s,2000);
+            for (var i = 0; true; i++) {
+                sendSquares(leds[i % 2], 2000);
+                Thread.Sleep(666);
             }
 
             return;
