@@ -197,20 +197,6 @@ namespace ConApp
             return new Scalar(v[0], v[1], v[2]);
         }
 
-        static void HueShift(Mat src, int shift) {
-            var src3b = new Mat<Vec3b>(src);
-            var indexer = src3b.GetIndexer();
-            for (var j = 0; j < src.Rows; j++) {
-                for (var i = 0; i < src.Cols; i++) {
-                    var color = indexer[j, i];
-                    color.Item0 = (byte)((color.Item0 + shift + 180) % 180);
-                    indexer[j, i] = color;
-                    // src.At<Vec3b>(j, i)[0] = (byte)((src.At<Vec3b>(j, i)[0] + shift + 180) % 180);
-                }
-            }
-            src3b.CopyTo(src);
-        }
-
         class GrayLabel {
             public byte gray = 255;
             public char label = '.';
@@ -336,6 +322,85 @@ namespace ConApp
             }
         }
 
+        private static Size getSize(IEnumerable<Point> ps) {
+            var minX = int.MaxValue;
+            var maxX = int.MinValue;
+            var minY = int.MaxValue;
+            var maxY = int.MinValue;
+
+            foreach (var p in ps) {
+                if (p.X < minX) { minX = p.X; }
+                if (p.X > maxX) { maxX = p.X; }
+                if (p.Y < minY) { minY = p.Y; }
+                if (p.Y > maxY) { maxY = p.Y; }
+            }
+
+            return new Size(maxX - minX, maxY - minY);
+        }
+
+        private static CircleSegment[] getCircles(Mat img, int minRadius, int maxRadius) {
+            if (img.Channels() > 1) {
+                var imgGray = new Mat();
+                Cv2.CvtColor(img,imgGray, ColorConversionCodes.BGR2HSV);
+                img = imgGray;
+            }
+            else {
+                img = img.Clone();
+            }
+            
+            Point[][] contours;
+            HierarchyIndex[] hierarchy;
+            Cv2.FindContours(img, out contours, out hierarchy, RetrievalModes.List, ContourApproximationModes.ApproxSimple);
+
+            // filter by size
+            contours = contours.Where(ps => {
+                var sz = getSize(ps);
+                var si = (new int[] { sz.Width / 2, sz.Height / 2 }).OrderBy(x => x).ToArray();
+                return si[0] >= minRadius && si[1] <= maxRadius;
+            }).ToArray();
+
+            List<List<Point>> pointListList = new List<List<Point>>();
+            foreach (var contour in contours) {
+                var hull = Cv2.ConvexHull(contour);
+                pointListList.Clear();
+                pointListList.Add(hull.ToList());
+                Cv2.FillPoly(img, pointListList, new Scalar(255));
+            }
+
+            var detectorParams = new SimpleBlobDetector.Params {
+                FilterByArea = true,
+                MinArea = (int)(minRadius * minRadius * 3.14),
+                MaxArea = (int)(maxRadius * maxRadius * 3.14),
+
+                FilterByCircularity = true,
+                MinCircularity = 0.9f,
+
+                FilterByConvexity = false,
+                MinConvexity = 0.9f,
+
+                FilterByInertia = true,
+                MinInertiaRatio = 0.9f,
+
+                FilterByColor = false
+            };
+            var detector = SimpleBlobDetector.Create(detectorParams);
+            var keyPoints = detector.Detect(img);
+
+            var circles = keyPoints.Select(kp => new CircleSegment(kp.Pt.ToPoint(), (int)(kp.Size / 2))).ToArray();
+
+            /*
+            if (circles.Length != 4) {
+                foreach (var circle in circles) {
+                    Cv2.Circle(img, circle.Center.ToPoint(), (int)circle.Radius + 5, new Scalar(255));
+                }
+                new Window("img2", img);
+                Cv2.WaitKey();
+            }
+            */
+
+            return circles;
+        }
+
         public static string recognizeBoard(Mat src) {
             // Resize the image
 
@@ -349,15 +414,6 @@ namespace ConApp
             else {
                 img = src.Clone();
             }
-
-            // White balance
-            // var balancer = SimpleWB.Create();
-            // balancer.BalanceWhite(img,img);
-            //new Window("img", img);
-            //Cv2.WaitKey(1);
-
-            // blur
-            //Cv2.GaussianBlur(img, img, new Size(3, 3), 0);
 
             // Red threshold
             Mat imgSmall;
@@ -387,26 +443,15 @@ namespace ConApp
             //Cv2.WaitKey(1);
 
             // Circles
-            Cv2.GaussianBlur(mask, mask2, new Size(9, 9), 0);
-            var circles = Cv2.HoughCircles(mask2, HoughModes.Gradient, 1,
-                         10,  // change this value to detect circles with different distances to each other
-                         100, 30,
-                         5, 50 // change the last two parameters (min_radius & max_radius) to detect larger circles
-            );
+            Cv2.GaussianBlur(mask, mask, new Size(7, 7), 0);
+            SafeInRange(mask, new Scalar(128, 128, 128), new Scalar(255, 255, 255), mask);
+            var circles = getCircles(mask, img.Height / 240, img.Height / 32);
 
             foreach (var circle in circles) {
-                // Cv2.Circle(img, circle.Center.ToPoint(), (int)circle.Radius, new Scalar(0,255,0));
-                Cv2.Circle(mask, circle.Center.ToPoint(), (int)circle.Radius, new Scalar(0, 255, 0)); // ***
+                Cv2.Circle(mask, circle.Center.ToPoint(), (int)circle.Radius + 5, new Scalar(255, 255, 255)); // ***
             }
             
-            //new Window("img", img);
-            //Cv2.WaitKey(1);
-            
             if (circles.Length != 4) {
-                // img.SaveImage("d:/" + Guid.NewGuid().ToString("D") + ".jpg");
-                // Console.WriteLine("Red circles count (" + circles.Length + ") != 4.");
-                //new Window("mask", mask);
-                //Cv2.WaitKey(1);
                 throw new Exception("bad_reds");
             }
 
@@ -482,8 +527,8 @@ namespace ConApp
                 .Aggregate(new Scalar(0,0,0), (a,b) => new Scalar(a.Val0 + b.Val0 / 4, a.Val1 + b.Val1 / 4, a.Val2 + b.Val2 / 4));
 
             Cv2.InRange(imgHsv,
-                squareColor.HsvAdd(new Scalar(uiVal("hl", -15), uiVal("sl", -100), uiVal("vl", -60))),
-                squareColor.HsvAdd(new Scalar(uiVal("hh", +25), uiVal("sh", +100), uiVal("vh", +100))),
+                squareColor.HsvAdd(new Scalar(uiVal("hl", -20), uiVal("sl", -100), uiVal("vl", -70))),
+                squareColor.HsvAdd(new Scalar(uiVal("hh", +25), uiVal("sh", +255), uiVal("vh", +100))),
                 mask);    
 
             mask2 = new Mat(mask.Size(), mask.Type(), new Scalar());
@@ -991,6 +1036,7 @@ namespace ConApp
             return isPossibleMove(fen, mask, out nextFen);
         }
 
+        /*
         public static int isPossible2Move(string fen, string mask) {
             var nextFen = (string)null;
             var r = isPossibleMove(fen, mask, out nextFen);
@@ -998,7 +1044,7 @@ namespace ConApp
 
             return diff(nextFen, mask) == null ? 1 : -1;
         }
-
+        */
 
         public static string simpleMaskMove(string mask, string move) {
             Func<string, Point> getPoint = x => new Point("abcdefgh".IndexOf(x[0]), "87654321".IndexOf(x[1]));
@@ -1174,9 +1220,53 @@ namespace ConApp
         private static Action<string> cmdVarProxy = (f) => { }; 
 
         static void Main(string[] args) {
-            //var _moves = FindMoves("r1bqkbnr/1p3ppp/p1n1p3/1BppP3/3P4/2P5/PP3PPP/RNBQK1NR w KQkq - 0 6", GetFenMask("r1bqkbnr/5ppp/p1p1p3/2ppP3/3P4/2P5/PP3PPP/RNBQK1NR w KQkq - 0 7"));
-            //return;
+            goto next;
+            var img = Cv2.ImRead("d:/rounds.tif");
 
+            Point[][] contours;
+            HierarchyIndex[] hierarchy;
+            var imgGray = new Mat();
+            Cv2.CvtColor(img,imgGray, ColorConversionCodes.BGR2GRAY);
+            Cv2.FindContours(imgGray, out contours, out hierarchy, RetrievalModes.List, ContourApproximationModes.ApproxSimple);
+
+            List<List<Point>> ListOfListOfPoint = new List<List<Point>>();
+
+            foreach (var contour in contours) {
+                var hull = Cv2.ConvexHull(contour);
+                ListOfListOfPoint.Clear();
+                ListOfListOfPoint.Add(hull.ToList());
+                Cv2.FillPoly(img, ListOfListOfPoint, new Scalar(255, 255, 255));
+            }
+
+            var detectorParams = new SimpleBlobDetector.Params {
+                FilterByArea = true,
+                MinArea = 15*15,
+                MaxArea = 30*30,
+
+                FilterByCircularity = true,
+                MinCircularity = 0.9f,
+
+                FilterByConvexity = false,
+                MinConvexity = 0.9f,
+
+                FilterByInertia = true,
+                MinInertiaRatio = 0.9f,
+
+                FilterByColor = false
+            };
+            var detector = SimpleBlobDetector.Create(detectorParams);
+            var keyPoints = detector.Detect(img);
+            foreach (var kp in keyPoints) {
+                Cv2.Circle(img, kp.Pt.ToPoint(), (int)(kp.Size / 2), new Scalar(0,255,0));
+            }
+
+            // Cv2.DrawKeypoints(img, keyPoints, img, new Scalar(0, 255,0), DrawMatchesFlags.DrawRichKeypoints);
+
+            new Window("img", img);
+            Cv2.WaitKey();
+
+            return;
+        next:
             /*
             var imgS = new Mat();
             var captureS = CreateVideoCapture(2);
@@ -1209,7 +1299,8 @@ namespace ConApp
             var lastJson = (string)null;
 
             Func<int> poss = () => isPossibleMove(cur,mask);
-            Func<int> poss2 = () => isPossible2Move(cur, mask);
+            // Func<int> poss2 = () => isPossible2Move(cur, mask);
+            Func<bool> twoMoves = () => diff(cur,mask, side) != null;
             Func<string,string> diffOp = fen => diff(fen, mask, -1 * side);
             Action<string> push = fen => { prev = cur; cur = fen; };
 
@@ -1223,9 +1314,9 @@ namespace ConApp
                 Console.WriteLine(s.name);
             });
 
-            var noGame = new CmState("noGame", s => { side = (mask[0] == 'b') ? 1 : -1; sendSquares(null); Console.WriteLine(s.name); });
+            var noGame = new CmState("noGame", s => { sendSquares(null); Console.WriteLine(s.name); });
             var startGame = new CmState("startGame", s => { Console.WriteLine(s.name); });
-            var wait = new CmState("wait", s => { sendSquares("2 " + last, 1000); Console.WriteLine(s.name); });
+            var wait = new CmState("wait", s => { sendSquares("2 " + last, 1500); Console.WriteLine(s.name); });
 
             var waitOp = new CmState("waitOp", s => {
                 var m = FindMoves(cur, mask);
@@ -1233,14 +1324,14 @@ namespace ConApp
                     push(FEN.Move(cur, m));
                     move(gameId, m);
                     last = m;
-                    sendSquares("2 " + last, 1000);
+                    sendSquares("2 " + last, 1500);
                 }
                 Console.WriteLine(s.name);
             });
 
             var corOp = new CmState("corOp", s => { sendSquares("7 " + last); Console.WriteLine(s.name); });
-            var err = new CmState("err", s => { sendSquares("4 " +  diff(cur,mask)); Console.WriteLine(s.name); });
-            var errOp = new CmState("errOp", s => { sendSquares("4 " + diff(cur, mask)); Console.WriteLine(s.name); });
+            var err = new CmState("err", s => { sendSquares("4 " +  diff(cur, mask)); Console.WriteLine(s.name); });
+            var errOp = new CmState("errOp", s => { sendSquares("4 " + diff(twoMoves() ? cur : prev, mask)); Console.WriteLine(s.name); });
 
             new CmGuard(reset, noGame, () => startMask == mask);
             new CmGuard(noGame, startGame, () => gameId != null);
@@ -1248,13 +1339,13 @@ namespace ConApp
             new CmGuard(startGame, waitOp, () => side == -1);
 
             new CmGuard(wait, waitOp, () => poss() == 1);
-            new CmGuard(corOp, waitOp, () => poss2() == 1);
+            new CmGuard(corOp, waitOp, () => poss() == 1);
             new CmGuard(waitOp, corOp, () => diffOp(cur) != null && diffOp(prev) == null);
             new CmGuard(corOp, wait, () => diffOp(cur) == null);
 
             new CmGuard(wait, err, () => poss() == -1);
             new CmGuard(err, waitOp, () => poss() == 1);
-            new CmGuard(corOp, errOp, () => diffOp(cur) != null && diffOp(prev) != null && poss2() != 1);
+            new CmGuard(corOp, errOp, () => diffOp(cur) != null && diffOp(prev) != null && poss() != 1);
             new CmGuard(errOp, wait, () => diffOp(cur) == null);
             new CmGuard(errOp, corOp, () => diffOp(prev) == null);
             new CmGuard(err, wait, () => poss() == 0);
