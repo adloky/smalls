@@ -1220,53 +1220,6 @@ namespace ConApp
         private static Action<string> cmdVarProxy = (f) => { }; 
 
         static void Main(string[] args) {
-            goto next;
-            var img = Cv2.ImRead("d:/rounds.tif");
-
-            Point[][] contours;
-            HierarchyIndex[] hierarchy;
-            var imgGray = new Mat();
-            Cv2.CvtColor(img,imgGray, ColorConversionCodes.BGR2GRAY);
-            Cv2.FindContours(imgGray, out contours, out hierarchy, RetrievalModes.List, ContourApproximationModes.ApproxSimple);
-
-            List<List<Point>> ListOfListOfPoint = new List<List<Point>>();
-
-            foreach (var contour in contours) {
-                var hull = Cv2.ConvexHull(contour);
-                ListOfListOfPoint.Clear();
-                ListOfListOfPoint.Add(hull.ToList());
-                Cv2.FillPoly(img, ListOfListOfPoint, new Scalar(255, 255, 255));
-            }
-
-            var detectorParams = new SimpleBlobDetector.Params {
-                FilterByArea = true,
-                MinArea = 15*15,
-                MaxArea = 30*30,
-
-                FilterByCircularity = true,
-                MinCircularity = 0.9f,
-
-                FilterByConvexity = false,
-                MinConvexity = 0.9f,
-
-                FilterByInertia = true,
-                MinInertiaRatio = 0.9f,
-
-                FilterByColor = false
-            };
-            var detector = SimpleBlobDetector.Create(detectorParams);
-            var keyPoints = detector.Detect(img);
-            foreach (var kp in keyPoints) {
-                Cv2.Circle(img, kp.Pt.ToPoint(), (int)(kp.Size / 2), new Scalar(0,255,0));
-            }
-
-            // Cv2.DrawKeypoints(img, keyPoints, img, new Scalar(0, 255,0), DrawMatchesFlags.DrawRichKeypoints);
-
-            new Window("img", img);
-            Cv2.WaitKey();
-
-            return;
-        next:
             /*
             var imgS = new Mat();
             var captureS = CreateVideoCapture(2);
@@ -1287,7 +1240,7 @@ namespace ConApp
             return;
             */
 
-            WebApp.Start("http://192.168.0.2:8081");
+            WebApp.Start("https://+:8081/");
 
             var mask = (string)null;
             var cur = (string)null;

@@ -31,7 +31,7 @@
 
     <script src="jquery-3.3.1.js"></script>
     <script src="Scripts/jquery.signalR-2.4.2.js"></script>
-    <script src="http://192.168.0.2:8081/signalr/hubs"></script>
+    <script src="https://192.168.0.2:8081/signalr/hubs"></script>
 </head>
   <body style="font-family: sans-serif; ">
       <div style="display: inline-block; float: left; width: 400pt; height: 400pt; position: relative">
@@ -147,9 +147,8 @@
           }
 
           function applyDiff(fen, mask) {
-              var elems = $(".board td");
               var d = diff(fen,mask);
-              elems.removeClass("diff");
+              $(".board td").removeClass("diff");
               for (var i = 0; i < d.length; i++) {
                   s = d[i];
                   $(".board .s" + s).addClass("diff");
@@ -165,7 +164,7 @@
               applyMask(state.mask);
 
               hub = $.connection.cvHub;
-              $.connection.hub.url = "http://192.168.0.2:8081/signalr";
+              $.connection.hub.url = "https://192.168.0.2:8081/signalr";
               
               hub.client.setState = function (s) {
                   if (state.side !== s.side) {
@@ -186,7 +185,7 @@
 
                   if (state.err !== s.err) {
                       var boardClass = " " + $(".board").attr("class");
-                      boardClass = boardClass.replace(" bad_reds", "").replace(" bad_contour", "");
+                      boardClass = boardClass.replace(" bad_reds", "").replace(" bad_contour", "").replace("bad_rot", "");
                       if (s.err !== null) {
                           boardClass = boardClass + " " + s.err;
                       }
