@@ -9,6 +9,10 @@ body {
     width: 100%;
 }
 
+html, body, .ion-app, .ion-content {
+  background-color: transparent;
+}
+
 body, input, button {
     font-family: sans-serif;
     font-size:12pt;

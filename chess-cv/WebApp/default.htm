@@ -31,7 +31,7 @@
 
     <script src="jquery-3.3.1.js"></script>
     <script src="Scripts/jquery.signalR-2.4.2.js"></script>
-    <script src="https://192.168.0.2:8081/signalr/hubs"></script>
+    <script src="http://192.168.0.2:8081/signalr/hubs"></script>
 </head>
   <body style="font-family: sans-serif; ">
       <div style="display: inline-block; float: left; width: 400pt; height: 400pt; position: relative">
@@ -46,10 +46,22 @@
               <tr><td class="sa1 z1 pzz mz">&nbsp;</td><td class="sb1 z0 pzz mz">&nbsp;</td><td class="sc1 z1 pzz mz">&nbsp;</td><td class="sd1 z0 pzz mz">&nbsp;</td><td class="se1 z1 pzz mz">&nbsp;</td><td class="sf1 z0 pzz mz">&nbsp;</td><td class="sg1 z1 pzz mz">&nbsp;</td><td class="sh1 z0 pzz mz">&nbsp;</td></tr>
           </table>
       </div>
+      <div style="display: inline-block; float: left; position: relative; margin: 10px;">
+          <button class="show-btn" value="0">Show</button>
+          <div class="show-box hidden">
+              <input type="range" class="range" id="hl" min="-100" max="0" step="5" value="0"><output>0</output>
+              <input type="range" class="range" id="hh" min="0" max="100" step="5" value="0"><output>0</output><br />
+              <input type="range" class="range" id="sl" min="-150" max="0" step="5" value="0"><output>0</output>
+              <input type="range" class="range" id="sh" min="0" max="255" step="5" value="0"><output>0</output><br />
+              <input type="range" class="range" id="vl" min="-150" max="0" step="5" value="0"><output>0</output>
+              <input type="range" class="range" id="vh" min="0" max="150" step="5" value="0"><output>0</output><br />
+              <img class="snapshot" />
+          </div>
+      </div>
+
 
       <script>
-          // { fen, mask, side, err };
-          var engine;
+          var hub;
 
           var state = {
               fen:  "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"
@@ -155,16 +167,66 @@
               }
           }
 
+          function refreshRange(el) {
+              el = $(el)[0];
+              el.nextElementSibling.value = el.value;
+          }
+
+          function initRanges() {
+              $(".range").each(function () {
+                  var el = this;
+                  hub.server.val(this.id).done(function (result) {
+                      $(el).val(result);
+                      refreshRange($(el));
+                  });
+              });
+          }
+
+          function applySnapshot(img) {
+              $(".snapshot").attr("src", "data:image/jpeg;base64," + img);
+          }
+
           $(document).ready(function () {
               applyFen(state.fen);
-              var d = (new Date).getTime();
               applyDiff(state.fen, state.mask);
-              console.log((new Date).getTime() - d);
-
               applyMask(state.mask);
 
+              $(".range").on("input", function () {
+                  this.nextElementSibling.value = this.value;
+              });
+
+              $(".range").on("input", function () {
+                  hub.server.val(this.id, this.value);
+              });
+              
+              $(".snapshot").on("load", function () {
+                  if ($(".show-btn").val() === "0") return;
+
+                  setTimeout(function () {
+                      hub.server.getImage().done(function (img) {
+                          applySnapshot(img);
+                      });
+                  }, 1000);
+              });
+              
+              $(".show-btn").click(function () {
+                  if ($(this).val() === "0") {
+                      $(this).val("1");
+                      $(this).text("Hide");
+                      $(".show-box").removeClass("hidden");
+                      hub.server.getImage().done(function (img) {
+                          applySnapshot(img);
+                      });
+                  }
+                  else {
+                      $(this).val("0");
+                      $(".show-box").addClass("hidden");
+                      $(this).text("Show");
+                  }
+              });
+
               hub = $.connection.cvHub;
-              $.connection.hub.url = "https://192.168.0.2:8081/signalr";
+              $.connection.hub.url = "http://192.168.0.2:8081/signalr";
               
               hub.client.setState = function (s) {
                   if (state.side !== s.side) {
@@ -199,6 +261,7 @@
               $.connection.hub.start().done(function () {
                   hub.server.enqueHub();
                   hub.server.enqueNoneCmd();
+                  initRanges();
               });
           });
       </script>

@@ -6,7 +6,7 @@
 
     <script src="jquery-3.3.1.js"></script>
     <script src="Scripts/jquery.signalR-2.4.2.js"></script>
-    <script src="https://192.168.0.2:8081/signalr/hubs"></script>
+    <script src="http://192.168.0.2:8081/signalr/hubs"></script>
     <style>
         input[type='range']::-webkit-slider-runnable-track {
             background: #ddd;
@@ -30,10 +30,8 @@
         }
 
         $(document).ready(function () {
-            var beep = $(".beep")[0];
-
             hub = $.connection.cvHub;
-            $.connection.hub.url = "https://192.168.0.2:8081/signalr";
+            $.connection.hub.url = "http://192.168.0.2:8081/signalr";
 
             $(".range").on("input", function () {
                 this.nextElementSibling.value = this.value;

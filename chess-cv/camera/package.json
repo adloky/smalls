@@ -14,12 +14,16 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "cordova-android": "^10.1.2",
-    "cordova-browser": "^6.0.0"
+    "cordova-browser": "^6.0.0",
+    "cordova-plugin-camera-preview": "^0.12.3"
   },
   "cordova": {
     "platforms": [
       "browser",
       "android"
-    ]
+    ],
+    "plugins": {
+      "cordova-plugin-camera-preview": {}
+    }
   }
 }
