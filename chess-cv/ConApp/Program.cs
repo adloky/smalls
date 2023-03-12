@@ -6,7 +6,6 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using OpenCvSharp;
-using OpenCvSharp.XPhoto;
 using SharpDX.MediaFoundation;
 using Microsoft.AspNet.SignalR;
 using Microsoft.Owin.Hosting;
@@ -134,6 +133,8 @@ namespace ConApp
         public string last { get; set; }
         public string mask { get; set; }
         public string err { get; set; }
+
+        public string img { get; set; }
     }
 
     #endregion
@@ -373,13 +374,13 @@ namespace ConApp
                 MaxArea = (int)(maxRadius * maxRadius * 3.14),
 
                 FilterByCircularity = true,
-                MinCircularity = 0.9f,
+                MinCircularity = 0.88f,
 
                 FilterByConvexity = false,
-                MinConvexity = 0.9f,
+                MinConvexity = 0.88f,
 
                 FilterByInertia = true,
-                MinInertiaRatio = 0.9f,
+                MinInertiaRatio = 0.88f,
 
                 FilterByColor = false
             };
@@ -393,7 +394,7 @@ namespace ConApp
                 foreach (var circle in circles) {
                     Cv2.Circle(img, circle.Center.ToPoint(), (int)circle.Radius + 5, new Scalar(255));
                 }
-                new Window("img2", img);
+                new Window("img3", img);
                 Cv2.WaitKey();
             }
             */
@@ -401,27 +402,42 @@ namespace ConApp
             return circles;
         }
 
+        private static Size sizeToMin(Size s, int minSize) {
+            var rs = new Size();
+            if (s.Width > s.Height) {
+                rs.Height = minSize;
+                rs.Width = (int)(((float)s.Width) / s.Height * minSize);
+            }
+            else {
+                rs.Width = minSize;
+                rs.Height = (int)(((float)s.Height) / s.Width * minSize);
+            }
+
+            return rs;
+        }
+
+        public static volatile string recogImg = initRecogImg();
+
+        private static string initRecogImg() {
+            Mat img = new Mat(new Size(1,1), MatType.CV_8UC3, new Scalar(255,255,255));
+            return encodeImage(img, 80);
+        }
+
         public static string recognizeBoard(Mat src) {
             // Resize the image
-
             Mat img;
-            if (src.Height > 720)
-            {
-                var imgHeight = 720;
-                var imgWidth = (int)(((float)src.Width) / src.Height * imgHeight);
-                img = src.Resize(new Size(imgWidth, imgHeight));
+            var minSize = Math.Min(src.Width, src.Height);
+            if (minSize > 720) {
+                var newSize = sizeToMin(new Size(src.Width, src.Height), 720);
+                img = src.Resize(newSize, interpolation: InterpolationFlags.Cubic);
+                minSize = Math.Min(img.Width, img.Height);
             }
             else {
                 img = src.Clone();
             }
 
             // Red threshold
-            Mat imgSmall;
-            {
-                var imgHeight = 100;
-                var imgWidth = (int)(((float)src.Width) / src.Height * imgHeight);
-                imgSmall = src.Resize(new Size(imgWidth, imgHeight), interpolation: InterpolationFlags.Linear);
-            }
+            Mat imgSmall = src.Resize(sizeToMin(new Size(img.Width, img.Height), 100), interpolation: InterpolationFlags.Cubic);
 
             var redColor = FindNearestColor(imgSmall, new Scalar(140, 70, 200));
 
@@ -431,8 +447,8 @@ namespace ConApp
             var mask = new Mat();
             var mask2 = new Mat();
             SafeInRange(imgHsv,
-                redHsv.HsvAdd(new Scalar(-15, -80, -80)),
-                redHsv.HsvAdd(new Scalar(+15, +80, +80)),
+                redHsv.HsvAdd(new Scalar(-20, -80, -80)),
+                redHsv.HsvAdd(new Scalar(+20, +80, +80)),
                 mask);
 
             var imgGray = new Mat();
@@ -445,7 +461,7 @@ namespace ConApp
             // Circles
             Cv2.GaussianBlur(mask, mask, new Size(7, 7), 0);
             SafeInRange(mask, new Scalar(128, 128, 128), new Scalar(255, 255, 255), mask);
-            var circles = getCircles(mask, img.Height / 240, img.Height / 32);
+            var circles = getCircles(mask, minSize / 120, minSize / 32);
 
             foreach (var circle in circles) {
                 Cv2.Circle(mask, circle.Center.ToPoint(), (int)circle.Radius + 5, new Scalar(255, 255, 255)); // ***
@@ -481,7 +497,7 @@ namespace ConApp
             dstTrans[2] = new Point2f(size - sqs / 2, sqs / 2);
             dstTrans[3] = new Point2f(size - sqs / 2, size - sqs / 2);
             var warp = Cv2.GetPerspectiveTransform(srcTrans, dstTrans);
-            Cv2.WarpPerspective(img, img, warp, new Size(size, size));
+            Cv2.WarpPerspective(img, img, warp, new Size(size, size), flags: InterpolationFlags.Cubic);
 
             // Test contour
             Cv2.CvtColor(img, imgGray, ColorConversionCodes.BGR2GRAY);
@@ -527,7 +543,7 @@ namespace ConApp
                 .Aggregate(new Scalar(0,0,0), (a,b) => new Scalar(a.Val0 + b.Val0 / 4, a.Val1 + b.Val1 / 4, a.Val2 + b.Val2 / 4));
 
             Cv2.InRange(imgHsv,
-                squareColor.HsvAdd(new Scalar(uiVal("hl", -20), uiVal("sl", -100), uiVal("vl", -70))),
+                squareColor.HsvAdd(new Scalar(uiVal("hl", -10), uiVal("sl", -60), uiVal("vl", -60))),
                 squareColor.HsvAdd(new Scalar(uiVal("hh", +25), uiVal("sh", +255), uiVal("vh", +100))),
                 mask);    
 
@@ -545,6 +561,7 @@ namespace ConApp
                 }
             }
 
+            recogImg = encodeImage(img, 80);
             new Window("img2", img);
             Cv2.WaitKey(1);
 
@@ -958,7 +975,7 @@ namespace ConApp
 
                 var dtDiff = (DateTime.Now - dt).TotalMilliseconds;
                 Cv2.WaitKey(1);
-                Thread.Sleep(Math.Max(0, 100 - (int)dtDiff));
+                Thread.Sleep(Math.Max(0, 200 - (int)dtDiff));
                 dt = DateTime.Now;
 
                 capture.Read(img);
@@ -1123,6 +1140,7 @@ namespace ConApp
                         cmd.mask = mask;
 
                         break;
+
                 }
 
                 if (cmd.name != CcvCommandEnum.none) {
@@ -1164,18 +1182,42 @@ namespace ConApp
             return matrix;
         }
 
-        private static int[] sqLeds(string s) {
+        private static Point[] sqLedsPoints(string s) {
             var x = "abcdefgh".IndexOf(s[0]);
             var y = "87654321".IndexOf(s[1]);
-            return new int[] { matrix[y][x], matrix[y][x + 1], matrix[y + 1][x], matrix[y + 1][x + 1] };
+            return new Point[] { new Point(x,y), new Point(x + 1, y), new Point(x, y + 1), new Point(x + 1, y + 1) };
+        }
+
+        private static int[] sqLeds(string s) {
+            return sqLedsPoints(s).Select(p => matrix[p.Y][p.X]).ToArray();
         }
 
         private static int[] squaresLeds(string s) {
-            if (s[2] != ' ') {
+            if (s != null && s.Length > 2 && s[2] != ' ') {
                 s = s.Substring(0, 2) + " " + s.Substring(2);
             }
 
-            var leds = s.Split(' ').SelectMany(x => sqLeds(x)).Distinct().ToArray();
+            var split = (s ?? "").Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+
+            // for ex move
+            int[] exLeds = null;
+            if (split.Length == 2) {
+                var ps = split.SelectMany(x => sqLedsPoints(x)).ToArray();
+                var min = new Point(ps.Min(p => p.X), ps.Min(p => p.Y));
+                var max = new Point(ps.Max(p => p.X), ps.Max(p => p.Y));
+                var szs = (new int[] { max.X - min.X, max.Y - min.Y }).OrderBy(x => x).ToArray();
+                // knight or one square diag move 
+                if (szs[0] == 2 && (szs[1] == 2 || szs[1] == 3)) { 
+                    var pList = new List<Point>();
+                    pList.Add(ps.Where(p => p.X == min.X && (p.Y == min.Y || p.Y == max.Y)).First());
+                    pList.Add(ps.Where(p => p.X == max.X && (p.Y == min.Y || p.Y == max.Y)).First());
+                    pList.AddRange(ps.Where(p => p.X != min.X && p.X != max.X && p.Y != min.Y && p.Y != max.Y));
+                    exLeds = pList.Select(p => matrix[p.Y][p.X]).ToArray();
+                }
+            }
+
+            var leds = exLeds != null ? exLeds : split.SelectMany(x => sqLeds(x)).Distinct().ToArray();
+
             if (leds.Length > 10) {
                 return new int[] { matrix[0][0], matrix[0][8], matrix[8][0], matrix[8][8] };
             }
@@ -1183,8 +1225,6 @@ namespace ConApp
         }
 
         #endregion
-
-        //         private static DateTime lastSendSquareTime = DateTime.Now;
 
         private static Task lastSendSquareTask = Task.Run(() => { });
         private static CancellationTokenSource delayTaskCts = new CancellationTokenSource();
@@ -1211,6 +1251,14 @@ namespace ConApp
             });
         }
 
+        private static string encodeImage(Mat img, int? quality = null) {
+            ImageEncodingParam[] prms = (quality == null) ? new ImageEncodingParam[] { }
+                : new ImageEncodingParam[] { new ImageEncodingParam(ImwriteFlags.JpegQuality, quality.Value) };
+            using (var ms = img.ToMemoryStream(".jpeg", prms)) {
+                return Convert.ToBase64String(ms.ToArray());
+            }
+        }
+
         private static string token = "lip_hfsqBESVItGp6FmW9FFk";
 
         private static string startMask = GetFenMask(Board.DEFAULT_STARTING_FEN);
@@ -1220,12 +1268,16 @@ namespace ConApp
         private static Action<string> cmdVarProxy = (f) => { }; 
 
         static void Main(string[] args) {
-            /*
+            // squaresLeds("b1c3");
+            // return;
+            /*            
             var imgS = new Mat();
             var captureS = CreateVideoCapture(2);
             captureS.Read(imgS);
 
-            imgS.SaveImage("d:/chess-cv-colors.jpg");
+            //imgS.SaveImage("d:/chess-cv-colors.jpg");
+            new Window("imgS", imgS);
+            Cv2.WaitKey();
 
             return;
             */
@@ -1240,7 +1292,7 @@ namespace ConApp
             return;
             */
 
-            WebApp.Start("https://+:8081/");
+            WebApp.Start("http://+:8081/");
 
             var mask = (string)null;
             var cur = (string)null;
@@ -1340,7 +1392,6 @@ namespace ConApp
                         maskErr = cmd.err;
                         break;
                 }
-
                 CmState.run();
                 cmdVarProxy(cur);
 
@@ -1360,6 +1411,7 @@ namespace ConApp
         public void Configuration(IAppBuilder app) {
             app.UseCors(CorsOptions.AllowAll);
             app.MapSignalR();
+            // GlobalHost.Configuration.MaxIncomingWebSocketMessageSize = 10 * 1024 * 1024;
         }
     }
 
@@ -1382,6 +1434,14 @@ namespace ConApp
             Program.cmdQue.Enqueue(cmd);
         }
 
+        public void log(string s) {
+            Console.WriteLine(s);
+        }
+
+        public string getImage() {
+            return Program.recogImg;
+        }
+
         public int val(string name) {
             var i = Array.IndexOf(Program.uiNames, name);
             if (i < 0) return 0;
@@ -1396,63 +1456,3 @@ namespace ConApp
     }
 }
 
-/*
-public static void Kmeans(Mat input, Mat output, int k) {
-    using (Mat points = new Mat())
-    using (Mat labels = new Mat())
-    using (Mat centers = new Mat()) {
-        int width = input.Cols;
-        int height = input.Rows;
-
-        points.Create(width * height, 1, MatType.CV_32FC3);
-        centers.Create(k, 1, points.Type());
-        output.Create(height, width, input.Type());
-
-        // Input Image Data
-        int i = 0;
-        for (int y = 0; y < height; y++) {
-            for (int x = 0; x < width; x++, i++) {
-                var vec3f = new Vec3f() {
-                    Item0 = input.At<Vec3b>(y, x).Item0,
-                    Item1 = input.At<Vec3b>(y, x).Item1,
-                    Item2 = input.At<Vec3b>(y, x).Item2
-                };
-
-                points.Set(i, vec3f);
-            }
-        }
-
-        // Criteria:
-        // – Stop the algorithm iteration if specified accuracy, epsilon, is reached.
-        // – Stop the algorithm after the specified number of iterations, MaxIter.
-        var criteria = new TermCriteria(type: CriteriaTypes.Eps | CriteriaTypes.MaxIter, maxCount: 10, epsilon: 1.0);
-
-        // Finds centers of clusters and groups input samples around the clusters.
-        Cv2.Kmeans(data: points, k: k, bestLabels: labels, criteria: criteria, attempts: 3, flags: KMeansFlags.PpCenters, centers: centers);
-
-        // Output Image Data
-        i = 0;
-        for (int y = 0; y < height; y++) {
-            for (int x = 0; x < width; x++, i++) {
-                int index = labels.Get<int>(i);
-
-                var vec3b = new Vec3b();
-
-                int firstComponent = Convert.ToInt32(Math.Round(centers.At<Vec3f>(index).Item0));
-                firstComponent = firstComponent > 255 ? 255 : firstComponent < 0 ? 0 : firstComponent;
-                vec3b.Item0 = Convert.ToByte(firstComponent);
-
-                int secondComponent = Convert.ToInt32(Math.Round(centers.At<Vec3f>(index).Item1));
-                secondComponent = secondComponent > 255 ? 255 : secondComponent < 0 ? 0 : secondComponent;
-                vec3b.Item1 = Convert.ToByte(secondComponent);
-
-                int thirdComponent = Convert.ToInt32(Math.Round(centers.At<Vec3f>(index).Item2));
-                thirdComponent = thirdComponent > 255 ? 255 : thirdComponent < 0 ? 0 : thirdComponent;
-                vec3b.Item2 = Convert.ToByte(thirdComponent);
-
-                output.Set(y, x, vec3b);
-            }
-        }
-    }
-}
-*/
