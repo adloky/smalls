@@ -380,7 +380,7 @@ namespace ConApp
                 MinConvexity = 0.88f,
 
                 FilterByInertia = true,
-                MinInertiaRatio = 0.88f,
+                MinInertiaRatio = 0.86f,
 
                 FilterByColor = false
             };
@@ -398,7 +398,6 @@ namespace ConApp
                 Cv2.WaitKey();
             }
             */
-
             return circles;
         }
 
@@ -969,9 +968,8 @@ namespace ConApp
             var capture = CreateVideoCapture(2);
 
             var dt = DateTime.Now;
-            for (var gi = 0; ; gi++) {
-                if (gi % 100 == 0) { GC.Collect(); };
-                // var state = (string)null;
+            for (var gi = 0; ; gi = (gi + 1) % 20) {
+                if (gi == 0) { GC.Collect(); };
 
                 var dtDiff = (DateTime.Now - dt).TotalMilliseconds;
                 Cv2.WaitKey(1);
