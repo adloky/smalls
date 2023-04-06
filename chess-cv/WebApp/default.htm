@@ -167,6 +167,36 @@
               }
           }
 
+          function applyState(s) {
+              if (state.side !== s.side) {
+                  applySide(s.side);
+              }
+
+              if (state.fen !== s.fen || state.mask !== s.mask || state.side !== s.side) {
+                  applyDiff(s.fen, s.mask);
+              }
+
+              if (state.fen !== s.fen || state.side !== s.side) {
+                  applyFen(s.fen);
+              }
+
+              if (state.mask !== s.mask || state.side !== s.side) {
+                  applyMask(s.mask);
+              }
+
+              if (state.err !== s.err) {
+                  var boardClass = " " + $(".board").attr("class");
+                  boardClass = boardClass.replace(" bad_reds", "").replace(" bad_contour", "").replace("bad_rot", "");
+                  if (s.err !== null) {
+                      boardClass = boardClass + " " + s.err;
+                  }
+                  boardClass = boardClass.substr(1);
+                  $(".board").attr("class", boardClass);
+              }
+
+              state = s;
+          }
+
           function refreshRange(el) {
               el = $(el)[0];
               el.nextElementSibling.value = el.value;
@@ -183,7 +213,7 @@
           }
 
           function applySnapshot(img) {
-              $(".snapshot").attr("src", "data:image/jpeg;base64," + img);
+              $(".snapshot").attr("src", "data:image/jpeg;base64;" + Math.floor(Math.random() * 1000000) + "," + img);
           }
 
           $(document).ready(function () {
@@ -206,7 +236,7 @@
                       hub.server.getImage().done(function (img) {
                           applySnapshot(img);
                       });
-                  }, 1000);
+                  }, 500);
               });
               
               $(".show-btn").click(function () {
@@ -225,37 +255,12 @@
                   }
               });
 
+              // SignalR
               hub = $.connection.cvHub;
               $.connection.hub.url = "http://192.168.0.2:8081/signalr";
               
               hub.client.setState = function (s) {
-                  if (state.side !== s.side) {
-                      applySide(s.side);
-                  }
-
-                  if (state.fen !== s.fen || state.mask !== s.mask || state.side !== s.side) {
-                      applyDiff(s.fen, s.mask);
-                  }
-
-                  if (state.fen !== s.fen || state.side !== s.side) {
-                      applyFen(s.fen);
-                  }
-
-                  if (state.mask !== s.mask || state.side !== s.side) {
-                      applyMask(s.mask);
-                  }
-
-                  if (state.err !== s.err) {
-                      var boardClass = " " + $(".board").attr("class");
-                      boardClass = boardClass.replace(" bad_reds", "").replace(" bad_contour", "").replace("bad_rot", "");
-                      if (s.err !== null) {
-                          boardClass = boardClass + " " + s.err;
-                      }
-                      boardClass = boardClass.substr(1);
-                      $(".board").attr("class", boardClass);
-                  }
-
-                  state = s;
+                  applyState(s);
               };
               
               $.connection.hub.start().done(function () {
