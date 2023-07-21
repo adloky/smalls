@@ -2128,7 +2128,7 @@ K перестановке ходов ведет 17.Re1 Qd6 18.dxe6 Kc7.
 
 ![](http://localhost/nimzo-lysyy/144.png)
 
-Угроза 19...Ba4 вынуждает белых отложить взятие на f7.<add start="19...Ba4" value="19.XX"/>
+Угроза 19...Ba4 вынуждает белых отложить взятие на f7.<add start="19...Ba4" value="19.Bf7"/>
 
 **19.O-O**
 
@@ -2302,9 +2302,9 @@ K перестановке ходов ведет 17.Re1 Qd6 18.dxe6 Kc7.
 
 **8.cxd5**
 
-К равной игре ведёт 8.a3 dxc4 9.Bxc4 b6=, так как заманчивый размен коней 10.Ne4, S. Atalik — Ratkovic, Vmjacka Banja 2021, 10...Be7 11.Nxf6+? Bxf6 не позволяет белым выиграть ладью a8 путём 12.Qe4 Ba6∓, и отставание белых в развитии становится критическим.
+К равной игре ведёт 8.a3 dxc4 9.Bxc4 b6=, так как заманчивый размен коней 10.Ne4, S. Atalik — Ratkovic, Vrnjacka Banja 2021, 10...Be7 11.Nxf6+? Bxf6 не позволяет белым выиграть ладью a8 путём 12.Qe4 Ba6∓, и отставание белых в развитии становится критическим.
 
-**8...exd5 9.Be2 Nc6 10.O-O** Be6!?⇄ Mendoza — Henriquez Villagra, Santa Cruz 2014.
+**8...exd5 9.Be2 Nc6 10.O-O Be6!?⇄** Mendoza — Henriquez Villagra, Santa Cruz 2014.
 
 ![](http://localhost/nimzo-lysyy/156.png)
 
@@ -2350,7 +2350,7 @@ K перестановке ходов ведет 17.Re1 Qd6 18.dxe6 Kc7.
 
 9.cxd5 Bxd3 10.Qxd3 Bxc3 11.Bxc3 Qxd5 12.O-O Nbd7=.
 
-9.dxc5 dxc4 10.Bxc4 Bxc4 11.Qxc4 Bxc5 12.O-O Nbd7= Hluse- vich — Panchenko, Sverdlovsk 1985.
+9.dxc5 dxc4 10.Bxc4 Bxc4 11.Qxc4 Bxc5 12.O-O Nbd7= Hlusevich — Panchenko, Sverdlovsk 1985.
 
 9.O-O cxd4 10.Nxd4 Seres — Ajay Krishna, Budapest 2021 10...dxc4 11.Bxc4 Bxc4 12.Qxc4 Bc5= — в планах чёрных привести коня с b8 на e5.
 
