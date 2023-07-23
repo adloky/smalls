@@ -2438,7 +2438,7 @@ K перестановке ходов ведет 17.Re1 Qd6 18.dxe6 Kc7.
 
 Важно заставить белых взять на c3 пешкой до exd5.
 
-9...exd5?! 10.O-O Bxc3 11.Bxc3∓.
+9...exd5?! 10.O-O Bxc3 11.Bxc3⩲.
 
 9...Nxd5? 10.a3 Be7 11.Qc2 h6 12.Nxd5 exd5 13.O-O± Schreiner — Donchenko, Berlin 2017.
 
@@ -2510,7 +2510,7 @@ K перестановке ходов ведет 17.Re1 Qd6 18.dxe6 Kc7.
 
 ![](http://localhost/nimzo-lysyy/174.png)
 
-Мне нравится идея перевода слона на диагональ b1-h7, чтобы воспрепятствовать единственному активному плану белых. 10.f3, Degtiarev — Meier, Berlin 2015 (10.hЗ?! Eingom — Veingold, Tallinn 1980 10...h6 11.g4 Bh7⩱. После 10.Qb3, Aleksandrov — Durarbeyli, Baku 2008, 10...Qb6 пешка b7 не проигрывается: 11.Na4 Qa5 12.a3? Bd6 13.Qxb7? Qxa4 14.Qxa8 Qa6−+) 10...h6 — таким образом мы препятствуем идее g4-Bg6-Nf4. 11.e4?! (11.Qb3 Qb6⩱; 11.Bd2, Markus — Andrejic, Valjevo 2012, 11...Nbd7⩱).
+Мне нравится идея перевода слона на диагональ b1-h7, чтобы воспрепятствовать единственному активному плану белых. 10.f3, Degtiarev — Meier, Berlin 2015 (10.h3?! Eingorn — Veingold, Tallinn 1980 10...h6 11.g4 Bh7⩱. После 10.Qb3, Aleksandrov — Durarbeyli, Baku 2008, 10...Qb6 пешка b7 не проигрывается: 11.Na4 Qa5 12.a3? Bd6 13.Qxb7? Qxa4 14.Qxa8 Qa6−+) 10...h6 — таким образом мы препятствуем идее g4-Bg6-Nf4. 11.e4?! (11.Qb3 Qb6⩱; 11.Bd2, Markus — Andrejic, Valjevo 2012, 11...Nbd7⩱).
 
 ![](http://localhost/nimzo-lysyy/175.png)
 
