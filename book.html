@@ -67,6 +67,8 @@
     
     function applyLast(move) {
         $(".last-move").removeClass("last-move");
+        if (!move) return;
+        
         $(".s" + move.substring(0, 2)).addClass("last-move");
         $(".s" + move.substring(2, 4)).addClass("last-move");
     }
