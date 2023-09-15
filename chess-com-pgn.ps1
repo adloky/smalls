@@ -8,6 +8,7 @@ $Response=Invoke-RestMethod -uri "https://api.chess.com/pub/player/$($User)/game
 $PGN=@()
 foreach ($Month in $Response.archives)
     {
+    Write-Output $Month
     $PGN+=(Invoke-RestMethod -uri "$Month").Games.pgn}
     ($PGN | ForEach-Object {$_ + "`r`n"}) |
     Out-File -FilePath $folder\$User.pgn -Encoding ascii
