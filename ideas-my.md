@@ -92,7 +92,7 @@
 
 15...c5 16.dxe5 dxe5 17.Qxd8 Rexd8 [link](https://www.chess.com/game/live/80947398653)
 
-### Блокировка b4
+### Фиксация b4
 
 <fen value="3q1rk1/2p3p1/1rnppn1p/1p2p3/4P3/2PP1N1P/1P1N1PP1/R2Q1RK1 w - - 0 16"/>
 

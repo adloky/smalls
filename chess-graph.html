@@ -53,11 +53,14 @@
     <br/>
     <button class="nav" key="37" data-delta="-1"> < </button>
     <button class="nav" key="39" data-delta="1" > > </button>
-    <button class="hide-eval-btn"> HE </button>
+    <button class="nav" key="39" data-delta="1" > > </button>
+    <button class="md-nav" value="-1" > - </button>
+    <button class="md-nav" value="1" > + </button>
     <input id="fen" type="text" readonly style="margin-top: 10pt; width: 100%; " onClick="this.setSelectionRange(0, this.value.length)"/>
+    <textarea id="md" rows="8" readonly style="margin-top: 10pt; width: 100%; " onClick="this.setSelectionRange(0, this.value.length)"></textarea>
   </div>
 </div>
-<textarea class="pgn" rows="3" cols="50">1. e4 {0.32} 1... c6 {0.37} 2. d4 {0.33} 2... d5 {0.62}</textarea>
+<textarea class="pgn" rows="3" cols="50">[Link "link"]&#13;&#10;&#13;&#10;1. e4 {0.32} 1... c6 {0.37} 2. d4 {0.33} 2... d5 {0.62}</textarea>
 <br/>
 <br/>
 <table class="moves">
@@ -74,8 +77,10 @@
                      "h7", "g7", "f7", "e7", "d7", "c7", "b7", "a7", "h8", "g8", "f8", "e8", "d8", "c8", "b8", "a8"];
 
     var chess = new Chess();
-                     
     var flip = false;
+    var moves = [];
+    var subMovesCount = 1;
+    var pgnLink;
                      
     if (flip) {
         $(".board td").toArray().forEach((e, i) => {
@@ -153,7 +158,14 @@
     }
     
     function getMoves(s) {
-        s = s.replaceAll(/\d+\.(\.\.)?\s/g, "");
+        var lines = s.replaceAll("\r", "").split("\n");
+        var linkTag = lines.find(x => x.indexOf("[Link ") === 0);
+        if (linkTag) {
+            pgnLink = linkTag.match(/"[^]*"/)[0].replaceAll('"', "");
+        }
+    
+        s = lines.find(x => x !== "" && x[0] !== "[")
+            .replaceAll(/\d+\.(\.\.)?\s/g, "");
         var ss = s.split(" ");
         moves = [];
         for (var i = 0; i < ss.length; i+=2) {
@@ -166,22 +178,14 @@
         return moves;
     }
 
-    function selMove(elem) {
-        elem = $(elem);
-        $(".move.sel").removeClass("sel");
-        applyFen(elem.attr("fen"));
-        applyLast(elem.attr("uci"));
-        $(elem).addClass("sel");
-    }
-    
     function applyMoves(s) {
-        var moves = getMoves(s);
+        moves = getMoves(s);
         var ss = [];
         for (var i = 0; i < moves.length; i+=2) {
             var ms = moves.slice(i, i+2);
             var graphStyle = getGraphStyle(ms.map(x => x.eval)).replaceAll('"', "&quot;");
             var n = Math.floor(i/2) + 1;
-            var movesTds = ms.map(m => `<td id="${m.num}" class="move" fen="${m.fen}" uci="${m.last}"><div class="move-san">${m.san}</div><div  class="move-eval">${m.eval}</div></td>`).join("");
+            var movesTds = ms.map(m => `<td id="move${m.num}" class="move" fen="${m.fen}" uci="${m.last}"><div class="move-san">${m.san}</div><div  class="move-eval">${m.eval}</div></td>`).join("");
             ss.push(`<tr><td style="${graphStyle}">&nbsp;</td><td>${n}.</td>${movesTds}</tr>`);
         }
         var r = ss.join("");
@@ -189,12 +193,42 @@
         selMove($(".move").first());
     }
 
+    function selMove(elem) {
+        elem = $(elem);
+        $(".move.sel").removeClass("sel");
+        applyFen(elem.attr("fen"));
+        applyLast(elem.attr("uci"));
+        $(elem).addClass("sel");
+        subMovesCount = 1;
+        applyMd();
+    }
+    
+    function getSel() {
+        return Number($(".move.sel").first().attr("id").replace("move", ""));
+    }
+    
     function changeMove(n) {
-        var id = Number($(".move.sel").first().attr("id"));
-        id += n;
-        var next = $(`#${id}`).first();
+        var num = getSel();
+        num += n;
+        var next = $(`#move${num}`).first();
         if (next.length == 0) return;
         selMove(next);
+    }
+
+    function applyMd() {
+        var num = getSel();
+        var sm = moves.slice(num, num + subMovesCount);
+        var pgn = sm.map(m => {
+            var isEven = (m.num % 2) === 0;
+            var n = Math.floor(m.num / 2) + 1;
+            return `${isEven || m.num === num ? n + (isEven ? "." : "...") : ""}${m.san}`;
+        }).join(" ");
+        
+        var fen = $(`#move${num - 1}`).attr("fen");
+        if (!fen) { fen = startFen; }
+
+        var r = `<fen value="${fen}"/>\n\n(S) ${pgn} [link](${pgnLink})\n\n`; 
+        $("#md").val(r);
     }
     
     applyFen(startFen);
@@ -206,7 +240,7 @@
     });
     
     $(".pgn").on("change", function() {
-        applyMoves($(this).val().trim());
+        applyMoves($(this).val());
     });
     
     $(".nav").click(function() {
@@ -214,8 +248,10 @@
         changeMove(delta);
     });
 
-    $(".hide-eval-btn").click(function() {
-        $(".moves").toggleClass("hide-eval");
+    $(".md-nav").click(function() {
+        var delta = Number($(this).val());
+        subMovesCount += delta;
+        applyMd();
     });
     
     $(window).keydown(function(e) {
