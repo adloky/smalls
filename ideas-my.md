@@ -146,6 +146,26 @@
 
 (S) 5...g6 6.c3 Bg7 7.d4 [link](https://www.chess.com/game/live/18822023741)
 
+<fen value="r2qkb1r/pppb1p1p/2np1np1/1B2p3/4P3/2PP1N2/PP3PPP/RNBQ1RK1 w kq - 0 7"/>
+
+(S) 7.d4 [link](https://www.chess.com/game/live/28404663245)
+
+<fen value="r2qr1k1/2pb1pb1/p1np1npp/1p2p3/4P3/2PP1NNP/PPB2PP1/R1BQR1K1 b - - 0 13"/>
+
+(S) 13...Ne7 14.d4 [link](https://www.chess.com/game/live/33175194465)
+
+<fen value="r1bq1rk1/ppp1nppp/3p1n2/1Bb1p3/4P3/2PP1N2/PP1N1PPP/R1BQ1RK1 w - - 2 8"/>
+
+(S) 8.d4 exd4 9.cxd4 [link](https://www.chess.com/game/live/45963016023)
+
+<fen value="r4rk1/pppq1pbp/3p1np1/n3p3/4P3/2PP1N2/PP3PPP/R1BQRNK1 w - - 0 11"/>
+
+(S) 11.d4 [link](https://www.chess.com/game/live/47167162539)
+
+<fen value="r1bqrbk1/pp1p1pp1/2p2nnp/4p3/B3P3/2PP1NN1/PP3PPP/R1BQR1K1 w - - 0 12"/>
+
+(S) 12.d4 d6 [link](https://www.chess.com/game/live/73930753037)
+
 ## Проведение a4 (a5)
 
 <fen value="r2qrbk1/1bpn1ppp/p2p1n2/1p2p3/3PP3/2P2NN1/PPB2PPP/R1BQR1K1 w - - 3 14"/>
@@ -214,6 +234,10 @@
 
 (S) 14.f4 [link](https://www.chess.com/game/live/5001179637)
 
+<fen value="r2qr1k1/4bppp/p1np1n2/1pp1p1N1/4P1b1/2PP1PN1/PPB3PP/R1BQR1K1 b - - 0 15"/>
+
+(S) 15...Bd7 16.f4 [link](https://www.chess.com/game/live/30307776887)
+
 ## Ход c3 без d4
 
 <fen value="r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/3P1N2/PPPN1PPP/R1BQK2R b KQkq - 2 5"/>
@@ -239,6 +263,12 @@
 <fen value="r1bqkb1r/1pp2ppp/p1np1n2/4p3/B3P3/3P1N2/PPP2PPP/RNBQK2R w KQkq - 0 6"/>
 
 (S) 6.c3 [link](https://www.chess.com/game/live/14247666947)
+
+## Проведение c4
+
+<fen value="r1bqkb1r/1pp2ppp/p1np1n2/4p3/B3P3/3P1N2/PPP2PPP/RNBQK2R w KQkq - 0 6"/>
+
+(S) 6.c4 g6 7.Nc3 [link](https://www.chess.com/game/live/77469346265)
 
 ## Реакция на ...d5
 
@@ -294,6 +324,22 @@
 
 (S) 11...d5 12.Nxe5 dxe4 [link](https://www.chess.com/game/live/17172843321)
 
+<fen value="r1bqkb1r/ppppnppp/2n5/1B2p3/4P3/2P2N2/PP1P1PPP/RNBQK2R b KQkq - 0 4"/>
+
+(S) 4...d5 5.d3 dxe4 6.dxe4 Qxd1+ 7.Kxd1 [link](https://www.chess.com/game/live/31421356861)
+
+<fen value="r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2PP1N2/PP3PPP/RNBQK2R b KQkq - 0 5"/>
+
+(S) 5...d5 6.exd5 Qxd5 [link](https://www.chess.com/game/live/61151381579)
+
+<fen value="r1bqr1k1/1ppp1ppp/p1n2n2/2b1p3/B3P3/2PP1N2/PP3PPP/RNBQR1K1 b - - 1 8"/>
+
+(S) 8...d5 9.Nbd2 [link](https://www.chess.com/game/live/64703014221)
+
+<fen value="r1bq1rk1/1ppp1ppp/p1n2n2/2b1p3/B3P3/2PP1N2/PP3PPP/RNBQ1RK1 b - - 2 7"/>
+
+(S) 7...d5 8.Qe2 [link](https://www.chess.com/game/live/66604824607)
+
 ## Реакция на ...f5
 
 <fen value="r1bq1rk1/2p2ppp/1nnb4/p3p3/4P3/2PPBN2/2BN1PPP/R2QR1K1 b - - 6 17"/>
@@ -315,6 +361,10 @@
 <fen value="r1bq1rk1/1pp2pbp/p1np2p1/4p2n/B3P3/2PP1N2/PP3PPP/R1BQRNK1 b - - 7 10"/>
 
 (S) 10...f5 11.exf5 gxf5 [link](https://www.chess.com/game/live/5221246186)
+
+<fen value="r3qrk1/1ppb1pbp/p1np2p1/4p2n/4P3/2PP1N1P/PPB2PP1/R1BQRNK1 b - - 2 12"/>
+
+(S) 12...f5 13.d4 f4 [link](https://www.chess.com/game/live/30148716907)
 
 ## Реакция на поздний ...a6
 
@@ -420,6 +470,14 @@
 
 (S) 14...c5 15.d5 [link](https://www.chess.com/game/live/14247666947)
 
+<fen value="r2qk2r/pppb1pbp/2np1np1/1B2p3/3PP3/2P2N2/PP3PPP/RNBQ1RK1 w kq - 1 8"/>
+
+(S) 8.d5 Ne7 9.Bxd7+ Nxd7 [link](https://www.chess.com/game/live/28404663245)
+
+<fen value="r3r1k1/pppq1pbp/2np1np1/4p3/3PP3/2P2NN1/PP3PPP/R1BQR1K1 w - - 3 13"/>
+
+(S) 13.d5 Na5 [link](https://www.chess.com/game/live/47167162539)
+
 ## Нет ...a6
 
 <fen value="r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/3P1N2/PPP2PPP/RNBQK2R w KQkq - 1 5"/>
@@ -444,6 +502,12 @@
 
 (S) 22.e5 dxe5 23.Qxe5 [link](https://www.chess.com/game/live/3200372691)
 
+## Выйгрышь пешки e5
+
+<fen value="r1bq1rk1/2pp1ppp/p1p2n2/2b1p3/4P3/2PP1N2/PP3PPP/RNBQK2R w KQ - 0 8"/>
+
+(S) 8.Nxe5 d5 9.d4 Bb6 10.exd5 Qxd5 [link](https://www.chess.com/game/live/80493628549)
+
 ## Гамбит Яниша
 
 <fen value="r1bqkbnr/1ppp1ppp/p1n5/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 4"/>
@@ -457,6 +521,14 @@
 <fen value="r1bqkbnr/1ppp1ppp/p1n5/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 4"/>
 
 (S) 4...f5 5.Nc3 b5 6.Bb3 b4 7.Nd5 fxe4 [link](https://www.chess.com/game/live/20020869005)
+
+<fen value="r1bqkbnr/1ppp1ppp/p1n5/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 4"/>
+
+(S) 4...f5 5.d3 fxe4 6.dxe4 [link](https://www.chess.com/game/live/23734748635)
+
+<fen value="r1bqkbnr/1ppp1ppp/p1n5/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 4"/>
+
+(S) 4...f5 5.d4 exd4 6.e5 [link](https://www.chess.com/game/live/45963605663)
 
 ## Реакция на ...Bc5
 
@@ -642,6 +714,10 @@
 
 (S) 11.Be3 Bxe3 12.fxe3  [link](https://www.chess.com/game/live/66500575139)
 
+<fen value="r1bqk2r/ppp2ppp/2np1n2/1Bb1p3/4P3/3P1N2/PPP2PPP/RNBQ1RK1 w kq - 0 6"/>
+
+(S) 6.Be3 Bxe3 7.Bxc6+ bxc6 8.fxe3 [link](https://www.chess.com/game/live/21160777891)
+
 ## Ловля конем нашего белопольника на размен (+1.0)
 
 <fen value="r1bqkbnr/2pp1ppp/p1n5/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQK2R b KQkq - 1 5"/>
@@ -675,6 +751,14 @@
 <fen value="r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/3P1N2/PPP2PPP/RNBQ1RK1 b kq - 2 5"/>
 
 (S) 5...Nd4 6.Be3 c6 7.Bxd4 exd4 8.Ba4 [link](https://www.chess.com/game/live/21151208637)
+
+<fen value="r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/3P1N2/PPPN1PPP/R1BQK2R b KQkq - 2 5"/>
+
+(S) 5...Nd4 6.Nxd4 Bxd4 7.c3 [link](https://www.chess.com/game/live/25890015243)
+
+<fen value="r1bqk2r/pppp1ppp/5n2/1Bb1p3/3nP3/3P1N2/PPP2PPP/RNBQ1RK1 w kq - 3 6"/>
+
+(S) 6.Be3 c6 7.Bxd4 Bxd4 8.Nxd4 exd4 9.Ba4 [link](https://www.chess.com/game/live/27281437457)
 
 ## Развитие чернопольника
 
@@ -724,6 +808,10 @@
 
 (S) 13.Nc3 [link](https://www.chess.com/game/live/18822023741)
 
+<fen value="r2q1rk1/1bppbppp/p1n2n2/1p2p3/P3P3/1B1P1N2/1PP2PPP/RNBQ1RK1 w - - 1 9"/>
+
+(S) 9.Nc3 b4 10.Nd5 [link](https://www.chess.com/game/live/39380458683)
+
 ## Ускоренный маневр коня на g3
 
 <fen value="r1bq1rk1/1pp2ppp/p1np1n2/2b1p3/B3P3/2PP1N2/PP1N1PPP/R1BQK2R w KQ - 2 8"/>
@@ -749,6 +837,18 @@
 <fen value="r2qkb1r/pppb1ppp/2np1n2/1B2p3/4P3/3P1N2/PPP2PPP/RNBQR1K1 b kq - 3 6"/>
 
 (S) 6...g6 7.d4 Bg7 8.d5 [link](https://www.chess.com/game/live/2015738545)
+
+## Рекация на уход коня с c6
+
+<fen value="r2q1rk1/pppb1pbp/2np1np1/1B2p3/4P3/2PP1N2/PP3PPP/R1BQRNK1 b - - 7 9"/>
+
+(S) 9...Na5 10.Bxd7 Qxd7 [link](https://www.chess.com/game/live/47167162539)
+
+## Атака пункта f7 (Ng5)
+
+<fen value="r2qkb1r/2pb1ppp/p1np1n2/1p2p3/P3P3/1B1P1N2/1PP2PPP/RNBQK2R w KQkq - 1 8"/>
+
+(S) 8.Ng5 [link](https://www.chess.com/game/live/77469042283)
 
 ## Тактика
 
