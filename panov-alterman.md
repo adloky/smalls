@@ -1,74 +1,72 @@
-﻿**Chapter 8**
-
-**The Panov Attack**
+﻿**The Panov Attack**
 
 **1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4**
 
-**Introduction**
+## Introduction
 
-**l.e4 c6**
+**1.e4 c6**
 
-The Caro-Kann Defense, named after two little-known players - an Englishman called Horatio Caro and an Austrian, Marcus Kann. Its basic idea, to play ...d7-d5 with the support of a pawn and then to attack White’s center and eliminate the e4-pawn, is similar to that of the French Defense. Perhaps the major difference is that Black’s light-squared bishop enjoys more mobility in the Caro-Kann.
+Защита Каро-Канн, названная в честь двух малоизвестных игроков - англичанина Горацио Каро и австрийца Маркуса Канна. Ее основная идея - сыграть ...d7-d5 с поддержкой пешки, а затем атаковать центр белых и ликвидировать пешку e4 - схожа с французской защитой. Пожалуй, главное отличие заключается в том, что в Каро-Канн белопольный слон черных обладает большей подвижностью.
 
 **2.d4 d5**
 
-The c8-h3 diagonal is open, whereas in the French after l...e6 2.d4 d5 Black faces problems with his light-squared bishop hemmed in and passive.
+Диагональ c8-h3 открыта, тогда как во французской после 1...e6 2.d4 d5 черные сталкиваются с проблемой скованности и пассивности своего белопольного слона.<level value="1"/>
 
-The Caro-Kann has enjoyed popularity throughout the years: Capablanca utilized it to great effect with his well-known win over Nimzowitsch in 1927, and it was one of Botvinnik’s main weapons against Tai, a legendary attacker, in their World Championship matches. The Caro- Kann also formed a significant part of the 12th World Champion Anatoly Karpov’s repertoire. Today, stars such as World Champion Vishy Anand and Veselin Topalov also play the Caro-Kann Defense regularly.
+Каро-Канн пользовался популярностью на протяжении многих лет: Капабланка с успехом использовал ее в своей знаменитой победе над Нимцовичем в 1927 году, а в матчах на первенство мира она была одним из главных оружий Ботвинника против Таля, легендарного атакующего игрока. Каро-канн также составлял значительную часть репертуара 12-го чемпиона мира Анатолия Карпова. Сегодня такие звезды, как чемпион мира Виши Ананд и Веселин Топалов, также регулярно играют защиту Каро-Канн.
 
-In this position, White has several possibilities:
+В этой позиции у белых есть несколько возможностей:
 
-The main theoretical continuation is **3.Nc3,** and after 3...dxe4 4.Nxe4 we reach the classical position of the Caro-Kann Defense. Black then usually chooses between 4...Bf5 and 4...Nd7, although 4...Nf6 is also possible. Of course 3.Nd2 leads to the same position after 3...dxe4 4.Nxe4.
+Основным теоретическим продолжением является 3.Nc3, и после 3...dxe4 4.Nxe4 мы достигаем классической позиции защиты Каро-Канн. Далее черные обычно выбирают между 4...Bf5 и 4...Nd7, хотя возможно и 4...Nf6. Конечно, 3.Nd2 приводит к той же позиции после 3...dxe4 4.Nxe4.
 
-Another possibility is the Advance Variation with 3.e5, but in this chapter we shall instead concentrate on the immediate pawn capture:
+Другой возможностью является закрытый вариант с 3.e5, но в этой главе мы сосредоточимся на немедленном взятии пешки:
 
 **3.exd5 cxd5**
 
-This is sometimes called the Exchange Variation, for obvious reasons. The most important move now is the aggressive:
+По понятным причинам этот ход иногда называют разменным вариантом. Теперь самый важный ход - агрессивный:
 
 **4.c4**
 
-In the early 1930s Soviet master Vasily Panov developed this interesting opening line. White is trying to destroy Black’s center by getting rid of the important d5-pawn. White is not afraid of getting an isolated pawn, as often occurs in the Panov Attack, since the activity of Whites pieces fully compensates for the slight weakness of the isolated d4-pawn. This line became one of the most popular choices against the Caro-Kann Defense. For example, in the late 1930s up until the Second World War, Mikhail Botvinnik, the greatest Soviet player in those years, used to play the Panov Attack very successfully. Before that, in the early 1920s, World Champion Alexander Alekhine also used 4.c4. Sometimes the line is called the Alekhine Attack, but the popularity of 4.c4 only started after Botvinnik played a few instructive games in this variation. It is thus appropriate that many refer to this line as the Panov-Botvinnik Attack.
+В начале 1930-х годов советский мастер Василий Панов разработал эту интересную дебютную линию. Белые пытаются разрушить центр черных, избавившись от важной пешки d5. Белые не боятся получить изолированную пешку, как это часто бывает в атаке Панова, поскольку активность белых фигур полностью компенсирует небольшую слабость изолированной пешки d4. Эта линия стала одним из самых популярных вариантов против защиты Каро-Канн. Например, в конце 1930-х годов вплоть до Второй мировой войны атаку Панова с большим успехом разыгрывал Михаил Ботвинник, величайший советский игрок тех лет. До этого, в начале 1920-х годов, чемпион мира Александр Алехин также использовал 4.c4. Иногда эту линию называют атакой Алехина, но популярность 4.c4 началась только после того, как Ботвинник сыграл несколько поучительных партий в этом варианте. Поэтому вполне уместно, что многие называют эту линию "атакой Панова-Ботвинника".
 
-Attentive readers may be thinking: where is the gambit? I could bluff and claim that since White often ends up with an isolated queen’s pawn, he is sacrificing the soundness of his pawn structure. However, I will instead go with the truth: early gambit lines against the Caro-Kann are not as interesting and sound as the Panov Attack, which leads to open attacking play for White that is very much in gambit-style. Also, one of the sub-variations of the Panov that we shall look at later, Alekhine’s Gambit, is a genuine pawn sac, so I am remaining true to the title of this book.
+Внимательный читатель может подумать: а где же гамбит? Я мог бы блефовать и утверждать, что, поскольку белые часто оказываются с изолированной ферзевой пешкой, они жертвуют прочностью своей пешечной структуры. Однако я буду придерживаться истины: ранние гамбитные линии против Каро-Канн не так интересны и звучны, как атака Панова, которая приводит к открытой атакующей игре белых, что очень подходит к гамбитному стилю. Кроме того, одна из подвариантов "Панова", которую мы рассмотрим позже, - гамбит Алехина - является настоящим жертвованием пешки, так что я остаюсь верен названию этой книги.
 
-Incidentally, Bobby Fischer occasionally played the Exchange Variation with 4.Bd3, which nowadays is not so popular at the top level.
+Кстати, Бобби Фишер иногда играл разменный вариант с 4.Bd3, который сейчас не так популярен на высшем уровне.<level value="1"/>
 
-4...Nf6
+**4...Nf6**
 
-The most natural continuation, fortifying the d5-pawn that White hopes to destroy. This also begins to clear the back rank so Black can castle short. Let’s briefly check out a couple of alternatives:
+Наиболее естественное продолжение, укрепляющее пешку d5, которую белые надеются уничтожить. Это также позволяет освободить последний ряд, чтобы черные могли сделать короткую рокировку. Кратко рассмотрим несколько альтернатив:
 
-After 4...dxc4 5...Bxc4 White’s pieces come into the game very quickly.
+После 4...dxc4 5.Bxc4 фигуры белых очень быстро входят в игру.
 
-4...Nc6 Trying to counterattack against the d4-pawn, but I would not recommend this for Black, because after 5.Nc3 dxc4 (instead 5...Nf6 is almost forced, transposing to a line we shall look at later) 6.d5 White gains territory and has a good initiative.
+4...Nc6 Попытка контратаки против пешки d4, но я бы не рекомендовал это делать черным, так как после 5.Nc3 dxc4 (вместо этого 5...Nf6 почти форсировано, переходя в линию, которую мы рассмотрим позже) 6.d5 белые выигрывают пространство и имеют хорошую инициативу.
 
 **5.Nc3**
 
-Increasing the pressure on d5. In this position Black has several options, and his main moves are 5...Nc6, 5...e6 and 5...g6.
+Усиливая давление на d5. В этой позиции у черных несколько вариантов, и основные ходы - 5...Nc6, 5...e6 и 5...g6.
 
-**Fighting for the d5-square**
+## Борьба за поле d5
 
 **1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 g6**
 
-This move is not so popular in today’s practice. Botvinnik discovered that after:
+Этот ход не так популярен в современной практике. Ботвинник обнаружил это после:
 
 **6.Qb3**
 
-Black is almost forced to sacrifice the pawn on d5.
+Черные практически вынуждены пожертвовать пешку на d5.
 
 **6...Bg7**
 
-If 6...e6 White creates a strong initiative after 7.Bg5, pinning the knight and increasing the pressure on Black’s position. White also has a good alternative in 7.cxd5, since Black has weakened his dark squares on the kingside. 7...Nxd5 (once again, after 7...exd5 8.Bg5 is very unpleasant) 8.Nf3 White intends Bg5 and Bb5, with a very active position.
+Если 6...e6, то белые создают сильную инициативу после 7.Bg5, связывая коня и усиливая давление на позицию черных. У белых также есть хорошая альтернатива в виде 7.cxd5, так как черные ослабили свои черные поля на королевском фланге. 7...Nxd5 (опять же, после 7...exd5 8.Bg5 очень неприятно) 8.Nf3 Белые намереваются Bg5 и Bb5, имея очень активную позицию.
 
 **7.cxd5 O-O**
 
-Black may keep some compensation. However, after 8.Nge2 intending Nf4, Be2 or Bc4*,* and O-O completing development, Black will have to work very hard to regain his pawn on d5.
+Черные могут сохранить некоторую компенсацию. Однако после 8.Nge2 с намерением Nf4, Be2 или Bc4 и O-O, завершающего развитие, черным придется очень постараться, чтобы вернуть себе пешку на d5.
 
-**What we have learned:**
+**Что мы узнали:**
 
-♦♦♦ The white queen can involve herself in the fight for d5 - 6.Qb3.
+- Белый ферзь может включиться в борьбу за d5 - 6.Qb3.
 
-**Game 58**
+**Партия 58**
 
 **B-Alterman - Pawntastic**
 
@@ -76,355 +74,359 @@ Internet Chess Club 2004
 
 **1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Bf5?!**
 
-A rare option that can easily be dismissed.
+Редкий вариант, от которого можно легко отказаться.
 
-By utilizing the open h3-c8 diagonal, Black develops his bishop outside the pawn chain which will be sealed after ...e7-e6. However, this is an inaccuracy, and after the typical response:
+Используя открытую диагональ h3-c8, черные развивают своего слона вне пешечной цепи, которая будет закрыта после ...e7-e6. Однако это неточность, и после типичного ответа:
 
 **6.Qb3!**
 
-Black is in trouble. There is no good way to protect the b7- and d5-pawns at the same time.
+У черных проблемы. Нет хорошего способа защитить пешки b7- и d5 одновременно.
 
 **6...b6?**
 
-It would be better to continue in gambit-style, sacrificing a pawn for development: 6...Nc6! 7.cxd5 (the exceptionally greedy 7.Qxb7? loses to 7...Nxd4, with the terrible threat of ...Nc2) 7...Na5 (now not 7...Nxd4?? because of the double attack 8.Qa4 and c6 is unavailable as a retreat square for the knight) 8.Qa4 Bd7 9.Bb5 But the key point is that White is still a pawn up!
+Лучше было бы продолжить в гамбитном стиле, пожертвовав пешку ради развития: 6...Nc6! 7.cxd5 (исключительно жадное 7.Qxb7? проигрывает 7...Nxd4 со страшной угрозой ...Nc2) 7...Na5 (теперь не 7...Nxd4?? из-за двойной атаки 8.Qa4 и c6 недоступна как поле для отступления коня) 8.Qa4 Bd7 9.Bb5 Но главное, что у белых все равно на пешку больше!
 
-Liquidating would not help: 6...dxc4? 7.Bxc4 e6 8.Qxb7 and White wins a pawn without allowing any compensation.
+Ликвидация не поможет: 6...dxc4? 7.Bxc4 e6 8.Qxb7 и белые выигрывают пешку, не допуская никакой компенсации.
 
-**7	.cxd5 e6 8.Bb5**
+**7.cxd5 e6 8.Bb5**
 
-Development...
+Развитие...
 
 **8...Nbd7 9.Nf3**
 
-...and yet more development! The pawn does not really matter, because Black will not be able to maintain material equality when White is so well-developed.
+...и еще большее развития! Пешка не имеет значения, так как черные не смогут сохранить материальное равенство, когда белые так хорошо развиты.
 
 **9...exd5 10.O-O Be7 11.Re1 O-O**
 
-If Black tries to hold on to his d5-pawn with 11...Be6, then after 12.Ng5 he will lose a pawn on d5 or e6 anyway.
+Если черные попытаются удержать пешку d5 путем 11...Be6, то после 12.Ng5 они все равно потеряют пешку на d5 или e6.
 
-**12.£lxd5**
+**12.Nxd5**
 
-It is clear that Black has no compensation for his pawn deficit.
+Понятно, что у черных нет компенсации за дефицит пешек.
 
 **12...Be6??**
 
-Pin and win — but not this time!
+Связка и выигрышь - но не в этот раз!
 
-***White to play! How would you continue?***
+***Ход белых! Как бы вы продолжили?***
 
 **13.Nxe7 Qxe7 14.d5**
 
-How ironic that Black loses a piece thanks to a pin, this time on the e-file.
+Как иронично, что черные теряют фигуру благодаря связке, на этот раз по линии "е".
 
 **14...Nxd5 15.Qxd5**
 
-Black resigns.
+Черные сдаются.
 
-**What we have learned:**
+**Что мы узнали:**
 
-❖ A typical response to the development of the enemy queen’s bishop is to bring your queen out to b3.
+- Типичным ответом на развитие ферзевого слона противника является вывод своего ферзя на b3.
 
-❖ Continuing developing your pieces is more important than holding on to extra material.
+- Продолжение развития своих фигур важнее, чем удержание лишнего материала.
 
-**Game 59**
+**Партия 59**
 
 **B-Alterman - thejudge**
 
 Internet Chess Club 2006
 
-**l.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4	5.Nc3**
+**1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3**
 
-Now we can have a look at one of Black’s main moves:
+Теперь мы можем рассмотреть один из основных ходов черных:
 
 **5...Nc6**
 
-Putting pressure on the d4-pawn while keeping the h3-c8 diagonal open.
+Оказывая давление на пешку d4, сохраняя открытой диагональ h3-c8.
 
-In a famous clash between a future World Champion, Bobby Fischer, and an ex-World Champion, Max Euwe, at the 1960 Olympiad, the former played:
+В знаменитом поединке между будущим чемпионом мира Бобби Фишером и бывшим чемпионом мира Максом Эйве на Олимпиаде 1960 года первый играл:
 
 6.Nf3 Bg4
 
-Black piles more pressure on d4, and is ready to support his center with ...e7-e6, now that his light-squared bishop has developed outside the pawn chain. Whites only try for an advantage is:
+Черные усиливают давление на d4 и готовы поддержать центр ходом ...e7-e6, когда их легкоподвижный слон развился за пределы пешечной цепи. Единственной возможностью попыткой белых получить преимущество является:
 
 7.cxd5 Nxd5 8.Qb3
 
-Unpinning and attacking both d5 and b7.
+Развязываясь и атакуя как d5, так и b7.
 
 8...Bxf3 9.gxf3 e6 10.Qxb7 Nxd4
 
-But Black nonetheless has strong counterplay. This forces White to head into complications with:
+Но у черных, тем не менее, сильная контригра. Это вынуждает белых идти на осложнения с:
 
-11.Bb5 Nxb5 12.Bc6!
+11.Bb5 Nxb5 12.Qc6!
 
-A key intermediate check.
+Ключевой промежуточный шах.
 
 12...Ke7 13.Qxb5
 
-Now, not 13...Nxc3 14.bxc3 as Euwe played, which allowed Fischer to fight for an advantage, but the theoretical recommendation:
+Теперь не 13...Nxc3 14.bxc3, как играл Эйве, что позволяло Фишеру бороться за перевес, а теоретическая рекомендация:
 
 13...Qd7!
 
-Trying to exchange queens because otherwise Blacks exposed king would be a target. 14.Nxd5 Qxd5 15.Qxd5 exd5
+Попытка размена ферзей, так как в противном случае обнаженный король черных стал бы мишенью. 14.Nxd5 Qxd5 15.Qxd5 exd5
 
-In spite of his isolated pawn, Black is very close to equality, because the reduced material limits White’s options. He plans ...Ke6 followed by either ...Bc5 or ...Bd6, when all his pieces would swiftly enter the game. As White has little chance of gaining an advantage large enough to force a win, this line has gradually become less popular.
+Несмотря на изолированную пешку, черные очень близки к равенству, так как уменьшение материала ограничивает возможности белых. Они планируют ...Ke6 с последующим либо ...Bc5, либо ...Bd6, когда все их фигуры быстро войдут в игру. Поскольку у белых мало шансов получить преимущество, достаточное для форсированного выигрыша, эта линия постепенно становится все менее популярной.
 
-While learning how to play the endgame well is important, our focus is on getting an active game and playing interesting chess. Therefore, we will look at the aggressive:
+Хотя научиться хорошо играть в эндшпиле очень важно, наше внимание сосредоточено на том, чтобы получить активную игру и играть в интересные шахматы. Поэтому мы рассмотрим агрессивную игру:
 
 **6.Bg5**
 
-This follows the main idea of fighting for the d5-square in the Panov Attack.
+Это соответствует основной идее борьбы за поле d5 в атаке Панова.
 
 **6...Bf5??**
 
-Black develops his bishop before playing ...e7-e6, and gets into trouble once more.
+Черные развивают своего слона перед тем, как сыграть ...e7-e6, и вновь попадают в затруднительное положение.
 
-***White to play - How should he continue?***
+***Ход белых - как им следует продолжать?***
 
 **7.Bxf6**
 
-Removing a defender of d5.
+Устранение защитника d5.
 
 **7...gxf6 8.cxd5**
 
-Now 8...Nb8 was the only move, but Black panicked and played:
+Теперь 8...Nb8 было единственным ходом, но черные запаниковали и сыграли:
 
 **8...Nb4?**
 
-When after:
+Когда после:
 
 **9.Qa4**
 
-White picks up the hanging knight due to a double attack. Black resigned.
+Белые забирают висящего коня в результате двойной атаки. Черные сдались.
 
-**What we have learned:**
+**Что мы узнали:**
 
-♦♦♦ In the variation with 5...Nc6, Black plans to exert strong pressure on Whites d4-pawn, when the most aggressive response is to counterattack with 6.Bg5! fighting for the center.
+- В варианте с 5...Nc6 черные планируют оказать сильное давление на белую пешку d4, когда наиболее агрессивным ответом является контратака 6.Bg5! с борьбой за центр.
 
-**1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4	5.Nc3 Nc6 6.Bg5 Be6!?**
+**1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 Be6!?**
 
-A non-classical idea, supporting d5 with yet another piece! The downside is that the dark- squared bishop is blocked. More usual is to support the center not only with pieces but also pawns: 6...e6.
+Неклассическая идея - поддержка d5 еще одной фигурой! Недостатком является блокирование чернопольного слона. Более привычно поддерживать центр не только фигурами, но и пешками: 6...e6.
 
 **7.Nf3 dxc4??**
 
-This greedy move loses. More usual would be 7...Qd7 or 7...g6, but 7...Ne4 is also possible.
+Этот жадный ход проигрывает. Более привычным было бы 7...Qd7 или 7...g6, но возможно и 7...Ne4.
 
-***White to play! - Can you find the refutation?***
+***Ход белых! - Сможете ли вы найти опровержение?***
 
 **8.Bxf6!**
 
-Exchanging the defender of d5. Now if 8...exf6 or 8...gxf6 then 9.d5 wins a piece for nothing.
+Размен защитника d5. Теперь, если 8...exf6 или 8...gxf6, то 9.d5 выигрывает фигуру бесплатно.
 
-**White’s development advantage**
+ ## Преимущество белых в развитии
 
-**Game 60**
+**Партия 60**
 
 **Mikhail Botvinnik - Rudolf Spielmann**
 
 Moscow 1935
 
-In this game Rudolf Spielmann decided to use an interesting gambit line (6...Qb6) for the first time against Mikhail Botvinnik, and this was what happened:
+В этой партии Рудольф Шпильман впервые решил применить интересную гамбитную линию (6...Qb6) против Михаила Ботвинника, и вот что из этого вышло:
 
 **1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 Qb6**
 
-A typical reply to the development of the enemy queen’s bishop, escaping from a possible pin and also attacking the b-pawn which is no longer protected. On the flip side, Black violates one principle of opening play that recommends not bringing the queen out early in the game, when the other pieces are undeveloped.
+Типичный ответ на развитие ферзевого слона противника, уходящий от возможной связки, а также атакующий пешку "b", которая уже не защищена. С другой стороны, черные нарушают один из принципов дебютной игры, который рекомендует не выводить ферзя в начале игры, когда остальные фигуры не развиты.
 
 **7.cxd5!**
 
-Botvinnik picks up the gauntlet. Instead 7.Nb5 a6 8.c5 Qd8 keeps the tension.
+Ботвинник принимает вызов. Вместо этого 7.Nb5 a6 8.c5 Qd8 сохраняет напряжение.
 
 **7...Qxb2?**
 
-This is already the decisive mistake. According to Botvinnik, 7...Nxd5 8.Nxd5 Qa5 9.Nc3 Qxg5 10.Nf3 is also insufficient.
+Это уже решающая ошибка. По мнению Ботвинника, 7...Nxd5 8.Nxd5 Qa5 9.Nc3 Qxg5 10.Nf3 также недостаточно.<level value="1"/>
 
-It was later discovered that Black could still fight for the initiative with 7...Nxd4 8.Be3 e5 9.dxe6 Bc5 10.exf7 Kxf7, when Black manages to gain a lead in development at the cost of a pawn. Most chess players, however, are unwilling to play with an exposed king on f7 which can become an easy target for the enemy pieces. For example, the developing 11.Bc4 is with a check. Theory evaluates that Black’s compensation is insufficient and White has a clear advantage, which is why 6...Qb6 has disappeared from high-level praxis.
+Позже выяснилось, что черные еще могут бороться за инициативу ходом 7...Nxd4 8.Be3 e5 9.dxe6 Bc5 10.exf7 Kxf7, когда ценой пешки им удается получить перевес в развитии. Однако большинство шахматистов не желают играть с обнаженным королем на f7, который может стать легкой мишенью для фигур противника. Например, развивающее 11.Bc4 - с шахом. Теория считает, что компенсация черных недостаточна и у белых явный перевес, поэтому 6...Qb6 исчезло из практики высокого уровня.<level value="1"/>
 
-Returning to the game move, according to Spielmann’s home analysis, if now 8.Na4 Black gains a good initiative. For example: 8...Qb4 9.Bd2 Qxd4 10.dxc6 Ne4 11.Be3 Qb4 12.Ke2 (or 12.Bd2 Nxd2 13.Qxd2 Qxa4) 12...bxc6 Unfortunately, Botvinniks novelty provides the cold shower:
+Возвращаясь к игровому ходу, согласно домашнему анализу Шпильмана, если теперь 8.Na4, то черные получают хорошую инициативу. Например: 8...Qb4 9.Bd2 Qxd4 10.dxc6 Ne4 11.Be3 Qb4 12.Ke2 (или 12.Bd2 Nxd2 13.Qxd2 Qxa4) 12...bxc6 К сожалению, новинка Ботвинника оказывает холодный душ:
 
 **8.Rc1!**
 
-Development! Another piece comes into play.
+Развитие! Еще одна фигура вступает в игру.
 
 **8...Nb4**
 
-The alternatives were no better. For example, 8...Nb8 9.Nb5 Qb4 10.Bd2 and the game is over, or 8...Na5 9.Qa4 winning on the spot.
+Альтернативы были не лучше. Например, 8...Nb8 9.Nb5 Qb4 10.Bd2 и игра закончена, или 8...Na5 9.Qa4 с выигрышем на месте.
 
 **9.Na4 Qxa2 10.Bc4**
 
-After a series of strong and accurate moves, Spielmann found his queen trapped - that’s the price he had to pay for his early queen sortie.
+После серии сильных и точных ходов Шпильман обнаружил, что его ферзь попал в ловушку - такова цена, которую ему пришлось заплатить за раннюю вылазку ферзя.
 
 **10...Bg4**
 
-Spielmann tries his last chance. Instead after 10...Qa3 11.Rc3 the queen has no escape squares.
+Шпильман пытается использовать свой последний шанс. Вместо этого после 10...Qa3 11.Rc3 у ферзя нет свободных полей.
 
-***White to play! Can you find how Botvinnik finished off the game?***
+***Ход белых! Можете ли вы найти, как Ботвинник закончил партию?***
 
 **11.Nf3**
 
-Spielmann’s dream was 11.f3? Qxg2 and Black wins!
+Мечтой Шпильмана было 11.f3? Qxg2 и черные выигрывают!
 
 **11...Bxf3 12.gxf3**
 
 After just 12 moves, Spielmann resigned, since he cannot avoid losing material: 12...Qa3 13.Rc3 and 13...Nc2 14.Qxc2 is forced in order to save the queen.
 
-**What we have learned:**
+**Что мы узнали:**
 
-♦♦♦ This miniature reminds us of the importance of considering basic principles in the opening. Although ...Qd8-b6 is a typical response to Bc1-g5, Black’s queen ran into trouble because it entered the game too early.
+- Эта миниатюра напоминает нам о важности учета основных принципов в дебюте. Хотя ...Qd8-b6 - типичный ответ на Bc1-g5, ферзь черных столкнулся с проблемами, поскольку слишком рано вступил в игру.
 
-**Alekhine’s Gambit I**
+**Гамбит Алехина I**
 
-**Game 61**
+**Партия 61**
 
 **Alekhine — Strazdins**
 
 Riga Simultaneous 1935
 
-**1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4	5.Nc3 Nc6 6.Bg5 dxc4**
+**1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 dxc4**
 
-Black decides to give up the center and uncover an attack on d4.
+Черные решают отдать центр и развернуть атаку на d4.
 
 **7.d5**
 
-White managed to occupy d5, gaining space with tempo.
+Белым удалось занять d5, получив пространство с темпом.
 
-It was only later that Alekhine came to the conclusion that it is possible to sacrifice the d4-pawn with **7.Bxc4,** which we will take a look at later (see Alekhine’s Gambit II, page 322).
+Лишь позднее Алехин пришел к выводу, что можно пожертвовать пешку d4 путем 7.Bxc4, что мы рассмотрим позже (см. "Гамбит Алехина II", с. 322).
 
 **7...Ne5**
 
-This position is currently quite interesting from a theoretical point of view.
+В настоящее время эта позиция достаточно интересна с теоретической точки зрения.
 
-7...Na5 should be met by 8.Nf3 when if 8...e6 9.Bxf6 and Black cannot play 9...Qxf6 because the knight is hanging after 10.Qa4! but Karpov’s idea of 8...a6! deserves attention, keeping an extra pawn.
+На 7...Na5 следует ответить 8.Nf3, если 8...e6 9.Bxf6, и черные не могут сыграть 9...Qxf6, так как конь висит после 10.Qa4! но заслуживает внимания идея Карпова 8...a6!, сохраняющая лишнюю пешку.
 
 **8.Nf3**
 
-Continuing with development, which is a more important factor than trying to regain the sacrificed pawn.
+Продолжая развитие, что является более важным фактором, чем попытка вернуть пожертвованную пешку.
 
-Against Flohr, Botvinnik played 8.Qd4, see page 318 later in this chapter.
+Против Флора Ботвинник сыграл 8.Qd4, см. стр. 318 далее в этой главе.<level value="1"/>
 
-Black wins the bishop pair, but is left with an undeveloped army.
+**8...Nd3**
 
-Also unsatisfactory is 8...Nxf3? since Black loses time - his knight took two moves to enter the game while Whites took only one. After 9.Qxf3 White will regain his pawn with play similar to the game continuation. For example, 9...g6 10.Bxc4 followed by castling and bringing the rooks to the center, or if 9...e6 then 10.O-O-O with a clear advantage.
+Черные выигрывают пару слонов, но остаются с неразвитой армией.
 
-Probably the only move here is 8...Bg4!. Then after: 9.Bxc4 Nxc4 10.Qa4 (double attack!) 10...Qd7 11.Qxc4 Rc8 Black keeps an equal game.
+Неудовлетворительным является и 8...Nxf3?, так как черные теряют время - их коню потребовалось два хода для вступления в игру, а белым - всего один. После 9.Qxf3 белые вернут себе пешку игрой, аналогичной продолжению партии. Например, 9...g6 10.Bxc4 с последующей рокировкой и выводом ладей в центр, а если 9...e6, то 10.O-O-O с явным преимуществом.
+
+Пожалуй, единственным ходом здесь является 8...Bg4! Тогда после: 9.Bxc4 Nxc4 10.Qa4 (двойной удар!) 10...Qd7 11.Qxc4 Rc8 черные сохраняют равную игру.
 
 **9.Bxd3 cxd3 10.Qxd3**
 
-White’s superior development is obvious. All that remains is to castle and bring the rooks to the center files, when the game would effectively be over. Compounding Black’s problems is the difficulties he faces in developing his pieces.
+Преимущество белых в развитии очевидно. Остается только сделать рокировку и вывести ладьи на центральные файлы, после чего игра фактически будет закончена. Проблемы черных усугубляются трудностями развития фигур.
 
 **10...a6 11.O-O e6 12.Rad1**
 
-Now if 12...Be7 then 13.d6 with a winning position.
+Теперь, если 12...Be7, то 13.d6 с выигранной позицией.
 
 **12...exd5**
 
-***White to play! - How should he make use of his lead in development!***
+***Ход белых! - Как они должены использовать свое преимущество в развитии!***
 
 **13.Bxf6!**
 
-Exchanging the opponent’s only developed piece.
+Размен единственной развитой фигуры противника.
 
 **13...Qxf6 14.Nxd5 Qd8**
 
-With all of Black’s pieces undeveloped, Alekhine finished the game with an elegant combination. Can you find it?
+Когда все фигуры черных были неразвиты, Алехин закончил партию элегантной комбинацией. Можете ли вы найти ее?
 
 **15.Nf6!**
 
-The point is that after 15...Qxf6 (15...gxf6 16.Qxd8#) with the important intermediate check 16.Rfe1! White forces mate with 16...Be7 17.Qd8# or 16...Be6 17.Qd7#.
+Дело в том, что после 15...Qxf6 (15...gxf6 16.Qxd8#) с важным промежуточным шахом 16.Rfe1! белые добиваются мата путем 16...Be7 17.Qd8# или 16...Be6 17.Qd7#.
 
-This miniature highlights once again the importance of development and following basic chess principles when playing the opening.
+Эта миниатюра еще раз подчеркивает важность развития и следования основным шахматным принципам при игре в дебюте.
 
 **1-0**
 
-**Games 62 B-Alterman - carnex** Internet Chess Club 2007
+**Games 62**
 
-**1.d4 c6 2.e4 d5 3.exd5 cxd5 4.c4	5.Nc3 Nc6 6.Bg5 dxc4 7.d5 &e5**
+**B-Alterman - carnex**
 
-In this game I decided to follow Alekhine’s recommendation:
+Internet Chess Club 2007
+
+**1.d4 c6 2.e4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 dxc4 7.d5 Ne5**
+
+В этой партии я решил последовать рекомендации Алехина:
 
 **8.Nf3**
 
-Now my opponent decided to hold on to his extra c4-pawn for as long as he could.
+Теперь мой соперник решил как можно дольше удерживать лишнюю пешку с4.
 
 **8...Qc7?! 9.Qd4**
 
-White is ready to accept doubled pawns after 9...Nxf3, but in return his pieces will develop rapidly on the open lines: Bxc4, O-O-O and so on.
+Белые готовы согласиться на сдвоенные пешки после 9...Nxf3, но взамен их фигуры будут быстро развиваться по открытым линиям: Bxc4, O-O-O и т.д.
 
-**9...Nd7?!**
+**9...Nfd7?!**
 
-Undeveloping the knight from the center...
+Убирая коня из центра...
 
 **10.O-O-O!**
 
-Unfazed by Black’s artificial play, White calmly develops.
+Не обращая внимания на искусную игру черных, белые спокойно развиваются.
 
 **10...Nxf3**
 
-Or 10...a6 11.Bf4 Nxf3 12.gxf3 with a lasting initiative
+Или 10...a6 11.Bf4 Nxf3 12.gxf3 с прочной инициативой.
 
 **11.gxf3 Nb6 12.Bf4**
 
-The bishop has done its job on g5 and is relocated to a more active post, bearing down on the open h2-b8 diagonal.
+Слон сделал свое дело на g5 и переместился на более активную позицию, нацелившись на открытую диагональ h2-b8.
 
-12.Nb5! was also powerful, targeting c7 while Black’s king is still uncastled. After 12...Qd7 13.Qc5 f6 14.Nc7 15.Nxa8 White is simply winning.
+Сильным было и 12.Nb5!, нацеленное на с7, пока король черных еще не рокирован. После 12...Qd7 13.Qc5 f6 14.Nc7 Kf7 15.Nxa8 белые просто выигрывают.
 
-**12...Qd8**
+**12...Qd8 13.Bxc4?**
 
-**13.Bxc4?**
-
-White is playing for development, but that is no excuse for missing the killing 13.Nb5!.
+Белые играют на развитие, но это не оправдание для того, чтобы пропустить убийственное 13.Nb5!
 
 **13...Nxc4 14.Qxc4**
 
-A picturesque sight - all Black’s pieces are undeveloped and on the back rank!
+Живописное зрелище - все фигуры черных неразвиты и находятся на последнем ряду!
 
 **14...Bd7 15.Rhe1**
 
-White has played according to the principles: develop, castle, attack the center, bring the rooks to the center, and so on. It is simply impossible for Black to develop.
+Белые играли по принципам: развитие, рокировка, атака центра, вывод ладей в центр и так далее. Развиваться черным просто невозможно.
 
-Now White needs to find a way to infiltrate into Black’s camp and convert his overwhelming development into something more. The most obvious way is to bring his knight to c7, but first he needs to get his queen and king off the c-file before ...Rc8 causes trouble. The simple Kb1 would do the trick, and then White’s attack would be irresistible.
+Теперь белым нужно найти способ проникнуть в лагерь черных и превратить их подавляющее развитие в нечто большее. Самый очевидный способ - вывести коня на с7, но сначала нужно убрать ферзя и короля с линии "c", пока ...Rc8 не создало проблем. Для этого достаточно простого Kb1, и тогда атака белых станет неотразимой.
 
 **15...Qc8**
 
-Trying to dampen White’s initiative with a queen trade, but White refuses:
+Попытка погасить инициативу белых разменом ферзей, но белые отказываются:
 
 **16.Qb3 e6**
 
-This looks suicidal, but how else is Black going to develop his kingside?
+Это выглядит самоубийственно, но как еще черные собираются развивать свой королевский фланг?
 
 **17.Kb1 b6?**
 
-17...Be7 was a slightly better try, but still not good enough after 18.Nb5 O-O 19.Nc7 Rb8 20.dxe6 with a decisive advantage.
+17...Be7 была чуть лучшей идеей, но все равно недостаточно хорошей после 18.Nb5 O-O 19.Nc7 Rb8 20.dxe6 с решающим перевесом.
 
 **18.dxe6 fxe6 19.Nd5**
 
-Black is lost, as there is no way of stopping 20.Nc7.
+Черные проиграли, так как нет возможности остановить 20.Nc7.<add start="20.Nc7" value="19...XX"/>
 
 **19...Kf7 20.Nc7 Rb8**
 
-***White to play! - Can you find the decisive combination?***
+***Ход белых! - Сможете ли вы найти решающую комбинацию?***
 
 **21.Rxd7!**
 
-Removing the defender of e6.
+Устранение защитника е6.
 
-**21...	Qxd7 22.Nxe6**
+**21...Qxd7 22.Nxe6**
 
-Clearing the f4-b8 diagonal, while also setting the scene for a devastating discovered check.
+Расчищая диагональ f4-b8 и одновременно создавая условия для разрушительного вскрытого шаха.
 
 **22...Kf6 23.Bxb8**
 
-Black resigns.
+Черные сдаются.
 
 **What we have learned:**
 
-♦	♦♦ Development is more important than material in the opening.
+- В дебюте развитие важнее, чем материал.
 
-♦	♦♦ Do not be afraid of accepting long-term weaknesses such as doubled pawns (10...Bxf3) if in return you can get strong enough short-term advantages, such as development.
+- Не бойтесь соглашаться на долгосрочные слабости, такие как сдвоенные пешки (10...Nxf3), если взамен можно получить достаточно сильные краткосрочные преимущества, например, развитие.
 
-♦	♦♦ Other than the usual f7-square, c7 is also a target when Black’s king is uncastled.
+- Кроме обычного поля f7, c7 также является целью, когда король черных не рокирован.
 
-♦	♦♦ To convert your overwhelming development advantage, look out for tactical possibilities.
+- Чтобы преобразовать свое подавляющее преимущество в развитии, обратите внимание на тактические возможности.
 
-**Botvinnik’s 8.Qd4**
+## 8.Qd4 Ботвинника
 
 **Game 63**
 
@@ -432,109 +434,107 @@ Black resigns.
 
 Moscow-Leningrad match, Leningrad 1933
 
-This game is of historical interest: 7.d5 was played for the first time in Moscow in 1933 between the young Soviet Champion, Mikhail Botvinnik, and the famous Czech Grandmaster, Salo Flohr. Botvinnik lost the first game, but in the second he was well prepared, and this was what happened:
+Эта партия представляет исторический интерес: 7.d5 впервые было сыграно в Москве в 1933 году между молодым чемпионом СССР Михаилом Ботвинником и знаменитым чешским гроссмейстером Сало Флором. Первую партию Ботвинник проиграл, но во второй он был хорошо подготовлен, и вот что получилось:
 
-**1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4	5.Nc3 Nc6 6.Bg5 dxc4 7.d5 Ne5 8.Qd4**
+**1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 dxc4 7.d5 Ne5 8.Qd4**
 
-Centralizing the queen to the square cleared by the pawn on the previous move. Since there is no way for Black to make use of the queen’s position, this can be considered a developing move.
+Централизация ферзя на поле, освобожденное пешкой на предыдущем ходу. Поскольку у черных нет возможности использовать позицию ферзя, этот ход можно считать развивающим.
 
 **8...Nd3?**
 
-Once again trading off Black’s developed piece. Today’s theory says Black can instead play 8...h6! and the position is not so simple, because White has to solve the question of what to do with his bishop. If 9.Bxf6 then Black replies 9...exf6. Possible is 9.Bf4 or 9.Bh4, but the position is still not as promising as it would be after 8...Nd3?. Also the position after 9.Qxe5 hxg5 is playable for Black.
+И снова размен развитой фигуры черных. Сегодняшняя теория говорит, что вместо этого черные могут сыграть 8...h6! и позиция не так проста, поскольку белым приходится решать вопрос, что делать со своим слоном. Если 9.Bxf6, то черные отвечают 9...exf6. Возможны варианты 9.Bf4 или 9.Bh4, но позиция все равно не столь перспективна, как после 8...Nd3? Также за черных можно играть и после 9.Qxe5 hxg5.<level start="8...Nd3" value="1"/>
 
 **9.Bxd3 cxd3**
 
-Improving on his previous game with Flohr (where he played the premature 10.Bxf6) Botvinnik played:
+Совершенствуя свою предыдущую партию с Флором (где он сыграл преждевременное 10.Bxf6), Ботвинник сыграл:
 
 **10.Nf3!**
 
-Completing the development of his minor pieces. This is considered the strongest even today. All of White’s pieces are in the game, and he is one move away from castling, while Black has some problems in the center since White is controlling the most important squares. Also the d3- pawn will soon be lost, and White has a clear initiative. It is extremely difficult for Black to find a solution...
+Завершает развитие своих легких фигур. Этот вариант и сегодня считается сильнейшим. Все фигуры белых в игре, и они находятся в одном ходу от рокировки, в то время как у черных есть проблемы в центре, так как белые контролируют важнейшие поля. Кроме того, пешка d3 скоро будет потеряна, и белые обладают явной инициативой. Черным крайне сложно найти решение...
 
-The problem is that after:
+Проблема в том, что после:
 
 **10...g6 11.Bxf6**
 
-Getting rid of the opponent’s only developed piece.
+Избавление от единственной развитой фигуры противника.
 
 **11...exf6 12.O-O**
 
-It is extremely difficult for Black to complete his development, despite having the two bishops and an extra pawn. Flohr decided to counterattack with:
+Черным крайне сложно завершить свое развитие, несмотря на наличие двух слонов и лишней пешки. Флор решил контратаковать с:
 
 **12...Qb6**
 
 **13.Rfe1**
 
-Now his king is forced to stay in the center.
+Теперь его король вынужден оставаться в центре.
 
 **13...Kd8**
 
 **14.Qh4!**
 
-White has an enormous attack.
+У белых мощная атака.
 
 **14...g5 15.Qh5 Bd6 16.Qxf7 Rf8 17.Qxh7**
 
-White just collects the pawns, and with the black king in the center, Black cannot do much about it.
+Белые просто собирают пешки, и, имея черного короля в центре, черные ничего не могут с этим поделать.
 
 **17...g4 18.Nd2 Qc7 19.Qh6**
 
-With Black’s king so exposed, there is no point in exchanging queens.
+При таком обнажении короля черных нет смысла разменивать ферзей.
 
 **19...Qf7 20.Nc4**
 
-White has a decisive material and positional advantage.
+У белых решающий материальный и позиционный перевес.
 
-**20...Be5 21.Nxe5 fxe5 22.Qg5t Qe7 23.Qxe5**
+**20...Be5 21.Nxe5 fxe5 22.Qg5 Qe7 23.Qxe5**
 
-White has taken so many pawns that trading queens is now an easy way to win.
+Белые забрали столько пешек, что размен ферзей стал простым способом выиграть.
 
-**23...Qxe5 24.Rxe5 Bf5 25.Rf1 Kd7 26.f3 b5 27.fxg4 Bxg4 28.h3 b4 29.Ne4 Rxf1 30.Kxf1**
+**23...Qxe5 24.Rxe5 Bf5 25.Rf1 Kd7 26.f3 b5 27.fxg4 Bxg4 28.h3 b4 29.Ne4 Rxf1 30.Kxf1 Rf8 31.Ke1 Bf5 32.g4 Bg6 33.Re6 1-0**
 
-**Rf8 31.Ke1 Bf5 32.g4 Bg6 33.Re6 1-0**
+Эта партия - хороший пример того, как можно использовать преимущество в развитии. После завершения развития белым не составило большого труда вернуть пожертвованный материал, и в итоге они даже получили материальный перевес. После этой партии ошибкой стало считаться 8...Nd3.
 
-This game is a nice example of how to use a lead in development. After completing his development, White did not have too many difficulties in regaining the sacrificed material, and he even emerged with a material advantage in the end. Since this game, 8...Nd3 has been recognized as an error.
-
-**Game 64**
+**Партия 64**
 
 **Jozsef Szily - Kovach**
 
 Budapest 1936
 
-**l.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4	5.Nc3 Nc6 6.Bg5 dxc4 7.d5 Ne5 8.Qd4 Nd3?**
+**1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 dxc4 7.d5 Ne5 8.Qd4 Nd3? 9.Bxd3 cxd3 10.Nf3 g6 11.Bxf6 exf6 12.O-O**
 
-**9.Bxd3 cxd3 10.Nf3 g6 11.Bxf6 exf6 12.O-O**
-
-All as in Botvinnik — Flohr, as we have just seen. Now, Black decided to “improve” on Flohr’s play with:
+Все, как в партии Ботвинник - Флор, как мы только что видели. Теперь черные решили "улучшить" игру Флора с помощью:
 
 **12...Bd6?**
 
-***White to play! - How should he exploit his better development?***
+***Ход белых! - Как они должны использовать свое лучшее развитие?***
 
 **13.Ne4**
 
-Attacking f6 and supporting the potential d5-d6 push by his passed pawn.
+Атакуя f6 и поддерживая потенциальный натиск d5-d6 своей проходной пешкой.
 
 **13...Be7 14.d6!**
 
-Black is in a critical position.
+Черные находятся в критическом положении.
 
-The last chance to mix things up. Now if 15.dxe7 Qxd4 16.Nxd4 Bxe4 and Black survives.
+**14...Bf5**
+
+Последний шанс все изменить. Теперь, если 15.dxe7 Qxd4 16.Nxd4 Bxe4 и черные выживут.
 
 **15.Rae1**
 
-Sadly for Black, after the text move he has to resign, since after 15...Bxe4 16.Rxe4 Black will lose his pinned e7-bishop.
+К сожалению для черных, после хода в тексте они вынуждены отступить, так как после 15...Bxe4 16.Rxe4 черные потеряют связанного слона e7.
 
 **1-0**
 
-**Alekhine’s Gambit II**
+## Гамбит Алехина II
 
-**Game 65**
+**Партия 65**
 
 **Popivoda - Morozova**
 
 Soviet Union 1977
 
-**1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4	5.Nc3 Nc6 6.Bg5 dxc4**
+**1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 dxc4**
 
 Because of Black’s possible improvements, nowadays White usually avoids 7.d5 and instead prefers:
 
@@ -590,7 +590,7 @@ Bringing the final piece into the game with tempo. Instead Black could stumble o
 
 The bishop wreaks havoc once more!
 
-**15...	Ke7 16.Qd3**
+**15... Ke7 16.Qd3**
 
 Mate is inevitable, so Black resigned.
 
@@ -666,15 +666,15 @@ White keeps a very strong attack, and already has two pawns for the sacrificed p
 
 **What we have learned:**
 
-♦	♦♦ Black paid for just one mistake in the opening - 5...a6? - which allowed White to break through in the center very, very quickly. White’s well-developed pieces dominated the open lines.
+♦ ♦♦ Black paid for just one mistake in the opening - 5...a6? - which allowed White to break through in the center very, very quickly. White’s well-developed pieces dominated the open lines.
 
-♦	♦♦ A bishop on the a2-g8 diagonal puts strong pressure down that diagonal all the way to f7.
+♦ ♦♦ A bishop on the a2-g8 diagonal puts strong pressure down that diagonal all the way to f7.
 
-♦	♦♦ A bishop on the a2-g8 diagonal also supports the d4-d5 break.
+♦ ♦♦ A bishop on the a2-g8 diagonal also supports the d4-d5 break.
 
-♦	♦♦ It makes sense to exchange queens when defending.
+♦ ♦♦ It makes sense to exchange queens when defending.
 
-♦	♦♦ 13.b3 — the dark-squared bishop can develop via other diagonals too!
+♦ ♦♦ 13.b3 — the dark-squared bishop can develop via other diagonals too!
 
 **Game 67**
 
@@ -760,15 +760,15 @@ White has an easily winning endgame.
 
 **What we have learned:**
 
-♦	♦♦ 10.a3! stops the useful move ...Nb4.
+♦ ♦♦ 10.a3! stops the useful move ...Nb4.
 
-♦	♦♦ Bg5 hits the f6-knight that covers d5 and h7.
+♦ ♦♦ Bg5 hits the f6-knight that covers d5 and h7.
 
-♦	♦♦ d4-d5! opens lines for White’s better-developed pieces.
+♦ ♦♦ d4-d5! opens lines for White’s better-developed pieces.
 
-♦	♦♦ Whites light-squared bishop on the a2-g8 diagonal played an important role in supporting the d4-d5 push.
+♦ ♦♦ Whites light-squared bishop on the a2-g8 diagonal played an important role in supporting the d4-d5 push.
 
-♦	♦♦ By using all his pieces and opening lines in the center, White easily converting his advantage into extra material.
+♦ ♦♦ By using all his pieces and opening lines in the center, White easily converting his advantage into extra material.
 
 **The Weakness of the exposed h1 -a8 diagonal**
 
@@ -846,7 +846,7 @@ Black resigns, since he will lose at least a piece.
 
 Russia 1997
 
-**1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4	5.Nc3 e6 6.Nf3 Be7 7.cxd5 Nxd5 8.Bd3 Nc6 9.O-O**
+**1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 5.Nc3 e6 6.Nf3 Be7 7.cxd5 Nxd5 8.Bd3 Nc6 9.O-O**
 
 **O-O 10.Re1 b6?**
 
@@ -894,11 +894,11 @@ Exchanging the defender of the pinned d4-bishop. After 19...Bxc6 20.Be5 Black lo
 
 **What we have learned:**
 
-♦	♦♦ After 10...b6? both the hl-a8 diagonal and the pieces on that diagonal are exposed.
+♦ ♦♦ After 10...b6? both the hl-a8 diagonal and the pieces on that diagonal are exposed.
 
-♦	♦♦ This game is another example of how to use a lead in development: develop with tempo and create threats.
+♦ ♦♦ This game is another example of how to use a lead in development: develop with tempo and create threats.
 
-♦	♦♦ Bring as many pieces into the attack as possible (14...Rfe8 15.Bxh7! and so on).
+♦ ♦♦ Bring as many pieces into the attack as possible (14...Rfe8 15.Bxh7! and so on).
 
 Thus, like in any other opening, you must play very carefully with the most accurate move order, as otherwise you could immediately land in an inferior or even losing position.
 
@@ -982,13 +982,13 @@ Bringing another piece into the attack and Black is helpless to stop Rg3. Black 
 
 **What we have learned:**
 
-♦	♦♦ a2-a3 is useful to stop ...Nb4.
+♦ ♦♦ a2-a3 is useful to stop ...Nb4.
 
-♦	♦♦ ...Rf8-e8 leaves f7 weakened.
+♦ ♦♦ ...Rf8-e8 leaves f7 weakened.
 
-❖	White must be willing to sacrifice to open lines towards the black king.
+❖ White must be willing to sacrifice to open lines towards the black king.
 
-♦	♦♦ A rook lift is a powerful way of bringing another piece into the attack
+♦ ♦♦ A rook lift is a powerful way of bringing another piece into the attack
 
 This game helps us to understand the kind of problems Black faces in the Panov Attack, when Whites isolated pawn also secures a space advantage.
 
@@ -1216,7 +1216,7 @@ After Black’s knight goes to f6, White tries to increase his pressure on d5. A
 
 A second standard plan could be considered:
 
-11.	a3!?
+11. a3!?
 
 The b4-square is controlled and White is ready to build the usual battery with Bc2 and Qd3. 11...b6 12.Bc2 Bb7 13.Qd3
 
@@ -1224,7 +1224,7 @@ Now let's consider three possible continuations: a) 13...Rc8?, b) 13...Re8? and 
 
 a) 13...Rc8? 14.d5! This break gives White an enormous attack: 14...exd5 15.Bg5 Trying to get rid of the only defender of the h7-pawn: 15...Ne4 (15...g6? weakens the f6-knight and is flattened by 16.Rxe7! Qxe7 17.Nxd5+-) 16.Nxe4 dxe4 17.Qxe4 g6 18.Rad1! (after 18.Bxe7 Qxe7 19.Qxe7 Nxe7 20.Rxe7 Bxf3! Black escapes) 18...Qc7 19.Bf4 White wins.
 
-b)	13...Re8? This is certainly not an improvement on the previous line. In fact it is crushed in similar fashion. 14.d5! exd5 15.Bg5! Ne4 16.Nxe4 dxe4 17.Qxe4 g6 Now the e7-bishop is defended. Nevertheless, White can still break down Black’s defenses: 18.Qh4 Transferring the queen to attack the kingside. 18...Qc7 19.Bb3! Threatening to take on f7. 19...h5 20.Qe4! (Threatening 21.Qxg6, utilizing the pin on the f7-pawn.) 20...Kg7
+b) 13...Re8? This is certainly not an improvement on the previous line. In fact it is crushed in similar fashion. 14.d5! exd5 15.Bg5! Ne4 16.Nxe4 dxe4 17.Qxe4 g6 Now the e7-bishop is defended. Nevertheless, White can still break down Black’s defenses: 18.Qh4 Transferring the queen to attack the kingside. 18...Qc7 19.Bb3! Threatening to take on f7. 19...h5 20.Qe4! (Threatening 21.Qxg6, utilizing the pin on the f7-pawn.) 20...Kg7
 
 21.Bxf7! Boom! Despite Black’s efforts, this works anyway! 21...Kxf7 22.Bh6! Black has to suffer huge material losses to save his exposed king. 22...Qd7 23.Qc4 Kf6 24.Qc3t Nd4 25.Nxd4 Kf7 26.Nf3 Bf8 27.Bxf8 1-0 Stoica — Flis, Poland 1983.
 
@@ -1444,7 +1444,7 @@ Less exciting is 13...Re8. For example: 14.Ng5 Bxg5 15.Bxg5 Qd6 16.Qh5 f5??
 
 White is a pawn down, but his two bishops, strong center, and open lines on the kingside provide sufficient compensation. Of course there is an immediate threat to the h7-pawn with Rh3.
 
-**15...	g6 16.Rg3**
+**15... g6 16.Rg3**
 
 Already threatening Bg5. Note that after 15...g6 all the dark squares in Blacks camp are very weak.
 
@@ -1456,9 +1456,9 @@ Black should not remove his queen so far from the action. More normal is 16...Qf
 
 Also interesting is 17.Qg4, with a further split:
 
-a)	17...e5 18.Bg5 Qg7 19.Qh4 f5 20.Bc4 Kh8 Here a draw was agreed in Skytte - Malakhatko, Cappelle la Grande 2003, however 21.Rh3! h5 22.Be2 Kg8 23.d5 offered White a strong attack.
+a) 17...e5 18.Bg5 Qg7 19.Qh4 f5 20.Bc4 Kh8 Here a draw was agreed in Skytte - Malakhatko, Cappelle la Grande 2003, however 21.Rh3! h5 22.Be2 Kg8 23.d5 offered White a strong attack.
 
-b)	17...Qg7 18.Qh4 f5 19.Bh6 Qf6 20.Bg5 Qf7 21.Re1 with a long-term initiative for White, Anand —G. Morrison, Blackpool 1988.
+b) 17...Qg7 18.Qh4 f5 19.Bh6 Qf6 20.Bg5 Qf7 21.Re1 with a long-term initiative for White, Anand —G. Morrison, Blackpool 1988.
 
 **17.Bh6**
 
@@ -1480,7 +1480,7 @@ This is decisive.
 
 **21.Bxg6!**
 
-21	.Bxe6 was also possible, but why not try to mate the opponent!
+21 .Bxe6 was also possible, but why not try to mate the opponent!
 
 **21...fxe5**
 
@@ -1604,11 +1604,11 @@ What we have covered on the isolated pawn is merely the tip of the iceberg. The 
 
 As you might have observed, the isolated pawn is part of a family of pawn structures:
 
-♦	♦♦ Symmetrical pawns on d4 and d5
+♦ ♦♦ Symmetrical pawns on d4 and d5
 
-❖	Isolated queen’s pawn
+❖ Isolated queen’s pawn
 
-♦	♦♦ Hanging pawns
+♦ ♦♦ Hanging pawns
 
 **Symmetrical pawns on d4 and d5**
 
