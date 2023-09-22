@@ -488,3 +488,169 @@ Declining the pawn doesn't make much sense. After
 **11.a3 Bd6 12.O-O O-O 13.Re1⩲**
 
 White has a very pleasant IQP position, where the b6-knight is sorely missed from f6.
+
+###  Fork 10...Nxd4
+
+**10...Nxd4**
+
+Black basically has to go for this.
+
+**11.Nxd4 Qxd4 12.O-O**
+
+Back in the day, Capablanca taught us that a pawn could be sacrificed for 3 tempi. On that metric, you might think that this position doesn't look impressive for White, who is only slightly ahead in development. However, the attack on the h7 pawn will cost Black more time to meet, and his queen on d4 will be exposed to attack (admittedly, in the main line, Black will try to solve both of these problems in one move).
+
+The centre is open, which makes it easier for White to develop his initiative. And the developed Black pieces aren't well-placed. The b4-bishop is always a tactical target. To channel more classical wisdom of dubious provenance, one of the greats (Tarrasch? Tartatkower?) is meant to have said something about Knights on b3 or b6 always being misplaced.
+
+If you're not convinced by my general description from first principles, you can rest assured that both Stockfish and Leela say this line works for White. For the moment, Nb5 is a huge threat, so Black's options are quite restricted.
+
+**12...Qh4**
+
+This might look artificial, but the black queen steps away from Be3 or Rd1 with tempo, while defending h7 (and so preparing kingside castling) and potentially attacking h2.
+
+In the main course we also cover 12...Bd7, which has been tested in correspondence chess.
+
+**13.Bb5+!**
+
+A strong novelty proposed by Leela.
+
+13.Ne4 O-O! led to a draw after very high quality play in I.Mende - P.Raivio, ICCF email 2016 (draw in 22 moves)
+
+**13...Bd7 14.Bxd7+ Nxd7 15.Qa4**
+
+Keeping the black king in the centre for a while. My analysis shows that Black survives with very precise play but it is dangerous for him.
+
+## Fork 5...g6
+
+**5...g6**
+
+This line has always been in the shadow of 5...Nc6 and 5...e6, both of which have much better theoretical reputations. Black plays ambitiously, aiming to develop his pieces to their most active squares and achieve some sort of super-Grunfeld where he's already got the c5-break in. However, his pieces aren't well placed to defend the d5-pawn meaning that this line involves a pawn sacrifice.
+
+The variation has become more important recently since Sam Shankland recommended it for Black in his Lifetime Repertoires series against all moves except 1.e4 and 1.d4 (he gets there via the 1.c4 c6 2.e4 d5 3.exd5 cxd5 4.d4 move order).
+
+**6.Qb3!**
+
+The critical move. Black has no comfortable way to defend d5, so he doesn't even try.
+
+**6...Bg7 7.cxd5 O-O 8.Be2**
+
+So what's going on here? White has an extra doubled d-pawn. Although his structure is imperfect, the d-pawns control important central squares on the c- and e-files (for example, ...Nc6 and ...Be6 are ruled out, and the c5- and e5-squares are attractive spots for a white knight).
+
+If White is allowed simply to consolidate the position, he'll certainly have an advantage, both in the structure as it stands, and due to the space advantage and dynamic possibilities it offers. In particular, we'll see White playing d6 himself in many positions. This can be used tactically (for instance, if there's a Bishop on f3 which can capture on b7), or to play a symmetrical IQP structure after ...exd6 where White's pieces are more actively placed.
+
+It can also be used to disrupt Black's position slightly (for example, ...Qxd6 might allow Nb5 with tempo).
+
+Black has two basic approaches to this position (and also to related lines, for example after 8.Nge2). The first, and most popular, is to build up pressure on the d5-pawn, with the aim of recapturing the pawn under favourable conditions. Often White won't aim to hold this pawn forever, instead forcing Black to make concessions to regain it. The second plan involves playing for an endgame where Black hopes that the white pawns in the centre and on the queenside will provide ready targets.
+
+**8...Na6**
+
+Black's major alternative is to go for an endgame.
+
+**9.Bf3 Qb6**
+
+as recommended by Sam Shankland. As often happens with these Qb3 vs. Qb6 face offs, White has a choice between doubling Black's b-pawns or allowing his own b-pawns to be doubled. The right answer depends on the position, and both approaches have been tried here, but I prefer allowing Black to take on b3, which increases the activity of White's pieces (in particular, the Rook on a1 immediately finds useful work, and can laterally defend the d5-pawn from a5).
+
+**10.Nge2**
+
+is my recommendation, when I agree with Sam Shankland that Black can equalise with accurate play.
+
+10.Qxb6 axb6 11.Nge2 Nb4 12.O-O Rd8 has been played in hundreds of games, but looks comfortable for Black.
+
+### Fork 8...Nbd7
+
+**8...Nbd7**
+
+By far the most popular move, with almost 1, 400 games compared to 450 with 8...Na6. Black prepares to bring the knight to b6, to exert pressure on the d5-pawn. The knight also blocks the half-open b-file, allowing the c8-bishop to develop without dropping the b7-pawn.
+
+**9.Nh3!**
+
+The most accurate continuation, directly bringing the knight to f4. It's only been played in about 25 games compared to almost 1,300 with 9.Bf3 but it's just a better move. This is also the reason why Sam Shankland assessed 8...Nbd7 as dubious and preferred 8...Na6 in his Lifetime Repertoires series. After the far more popular<level value="+1"/>
+
+9.Bf3 Nb6 10.Nge2 Bg4! is a good move, forcing 11.Bxg4 Nxg4 White's light-squared Bishop has taken several moves to trade itself on g4. If Black wants to achieve a similar trade after 9. Nh3, White will be a tempo up.
+
+**9...Qb6 10.Nf4 Qxb3 11.axb3 Nb6 12.h3 Rd8 13.Bf3⩲**
+
+is mentioned by Sam Shankland in his Lifetime Repertoires series. The position is comparable to those arising after 8...Na6 9.Bf3 Qb6 10.Nge2 Qxb3 11.axb3, but with the knight on b6 instead of c7 or b4. Similar themes arise compared to that line, and I think White has chances of fighting for an edge.
+
+### Fork 9...Nb6
+
+**9...Nb6 10.Nf4 Bg4 11.Bxg4 Nxg4**
+
+White has saved a tempo, which he should spend on
+
+**12.h3!**
+
+clarifying the g4-knight's intentions.
+
+### Fork 10...Bf5
+
+**10...Bf5 11.O-O h6**
+
+This is a typical waiting move, making ...g5 a much more serious option by defending the pawn in advance. We discuss the alternatives in the full course but nothing works very well.
+
+**12.a4 a5**
+
+a4 and ...a5 is always a useful inclusion for White, who gains the b5-square for his knight and de-stabilises the b6-knight. Here my silicon co-authors have found a good move.
+
+**13.h4!**
+
+This is a natural improvement suggested by Stockfish and Leela over T.Gelashvili - A.Stefanova, Chalkida 2009 (draw in 48 moves), where
+
+13.Rd1 g5 14.Nh5 Nxh5 15.Bxh5 led to unclear play. We continue further in the main course, but Black is in bad shape after 13.h4.
+
+## Fork 5...Be6
+
+**5...Be6**
+
+This speciality of Swedish GM Evgeny Agrest is recommended by GM Daniel Fernandez in his black repertoire on the Caro Kann. The bishop move might look clumsy, but an immediate threat is created on c4.
+
+**6.Nge2**
+
+Creating an immediate threat of Nf4, hitting the bishop and the d5-pawn.
+
+**6...dxc4**
+
+Almost a universal choice.
+
+Retaining the tension with 6...Nc6 doesn't work well for Black, as shown in the full course!
+
+**7.Nf4 Bg4**
+
+Trying to disrupt White's co-ordination by luring the pawn to f3.
+
+**8.f3 Bd7 9.Bxc4**
+
+Creating a threat of Qb3, hitting the b7- and f7-pawns.
+
+**9...e6 10.d5**
+
+Trying to open the centre immediately is White's most promising option, since Black's development is unimpressive.
+
+**10...Nxd5**
+
+This is Fernandez' recommendation in his book.
+
+Agrest has preferred to keep the centre closed with 10...e5 and we also look at that in the full repertoire.
+
+**11.Bxd5**
+
+Not the most obvious capture on d5, but a good one.
+
+**11...exd5 12.Qxd5**
+
+Leela's preference, not mentioned by Fernandez.
+
+**12...Be7**
+
+Sacrificing the b7-pawn to remove the king from the centre looks like the best approach.
+
+**13.O-O O-O 14.Qxb7 Bc6 15.Qb3⩲**
+
+Black has some compensation thanks to his Bishop pair but I would take White, who will follow with Be3, Rad1 and playing in the centre. Note that cutting out Be3 with
+
+**15...Bc5+ 16.Kh1 Re8**
+
+allows a more active setup with
+
+**17.Nfd5**
+
+and **Bf4**.
