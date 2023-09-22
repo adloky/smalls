@@ -1,8 +1,10 @@
-﻿**The Panov Attack**
+﻿<config hilight="1"/>
+
+**Атака Панова**
 
 **1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4**
 
-## Introduction
+## Введение
 
 **1.e4 c6**
 
