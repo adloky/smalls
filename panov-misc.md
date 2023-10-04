@@ -761,7 +761,7 @@
 
 **1-0**
 
-## Timofeev A - Eliet N, Cappelle la Grande (Game 40) 2004
+## Timofeev A - Eliet N, Cappelle la Grande 2004
 
 (Starting Out - 1.e4 - McDonald Neil)
 
