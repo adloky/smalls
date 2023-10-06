@@ -93,7 +93,7 @@ a) После 1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 (а не 3...a6) можно избеж
 
 c) 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7. Белые показали свою готовность допустить открытый вариант ходом 5...Nxe4, но мы не готовы играть против атаки Маршалла и поэтому отсекаем ее ходом 6.d3 или, в равной степени, 6.Re1 b5 7.Bb3 O-O 8.d3.<level start="5...Nxe4" value="+1"/>
 
-Помните, что чем раньше вы сыграете d2-d3, тем больше информации вы дадите своему противнику о типе пешечного центра в миттельшпиле. Он может соответствующим образом модифицировать развитие своих фигур. Например, рассмотрим 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3. Черные могут позволить себе позиционно желательное, но трудоемкое фианкетто на королевском фланге ходом 5...d6 6.c3 g6 7.O-O Bg7, поскольку белые лишили себя возможности быстрой атаки на е5 ходом d2-d4. Если бы белые выждали ход с 5.O-O, и только после 5...Be7 сыграли 6.d3, идея Bg7 для черных исчезла бы. Но тогда черные могли не играть 5...Be7 -- вы могли бы оказаться в открытом варианте после 5... ... Nxe4. Невозможно иметь все!
+Помните, что чем раньше вы сыграете d2-d3, тем больше информации вы дадите своему противнику о типе пешечного центра в миттельшпиле. Он может соответствующим образом модифицировать развитие своих фигур. Например, рассмотрим 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3. Черные могут позволить себе позиционно желательное, но трудоемкое фианкетто на королевском фланге ходом 5...d6 6.c3 g6 7.O-O Bg7, поскольку белые лишили себя возможности быстрой атаки на е5 ходом d2-d4. Если бы белые выждали ход с 5.O-O, и только после 5...Be7 сыграли 6.d3, идея Bg7 для черных исчезла бы. Но тогда черные могли не играть 5...Be7 -- вы могли бы оказаться в открытом варианте после 5...Nxe4. Невозможно иметь все!
 
 ## Сдержанный центр против закрытой Испанки
 
@@ -793,7 +793,7 @@ c) 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7. Белые показали �
 
 > Вопрос: Как белые должны ответить на 17...h6?
 
-Ответ: После 17...h6 18.Bh4 g5, ответ 19.Nxg5! hxg5 20.Bxg5 оставляет черных беззащитными против усиления связки на f6 путем 21.Nh5 и/или 22.Qf3. Этот тип жертвы стоит знать, поскольку такая возможность легко может возникнуть в партии Меллера или архангельской, где черные сыграли .... Bc5 и ... d7-d6, отрезая своего слона от королевского фланга, а затем отгоняют слона с g5 с помощью ... h7-h6 и ... g7-g5. В данном конкретном примере это форсированный выигрыш, но сработает ли жертва за белых в более сложной ситуации, может быть вопросом очень тонкого суждения, а также расчета.<addx start="21.Nh5"/><addx start="22.Qf3"/>
+Ответ: После 17...h6 18.Bh4 g5, ответ 19.Nxg5! hxg5 20.Bxg5 оставляет черных беззащитными против усиления связки на f6 путем 21.Nh5 и/или 22.Qf3. Этот тип жертвы стоит знать, поскольку такая возможность легко может возникнуть в партии Меллера или архангельской, где черные сыграли ...Bc5 и ... d7-d6, отрезая своего слона от королевского фланга, а затем отгоняют слона с g5 с помощью ... h7-h6 и ... g7-g5. В данном конкретном примере это форсированный выигрыш, но сработает ли жертва за белых в более сложной ситуации, может быть вопросом очень тонкого суждения, а также расчета.<addx start="21.Nh5"/><addx start="22.Qf3"/>
 
 ![](http://www.fen-to-image.com/image/single/r2q1rk1/2p2ppp/pb1p1n2/n5B1/P2pP3/2P2NN1/R4PPP/3Q1RK1)
 
@@ -853,7 +853,7 @@ c) 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7. Белые показали �
 
 ![](http://www.fen-to-image.com/image/single/r1bq1rk1/1pp1bppp/p1np1n2/4p3/B3P3/2PP1N1P/PP2QPP1/RNB1K2R)
 
-Еще одна мера предосторожности против любой попытки опрокинуть пешку е4. Белые также расчищают путь для рокировки на ферзевый фланг. Еще раз отметим, что современная игра предпочитает 8.O-O или 8.Nbd2, с последующими действиями в центре, хотя это означает, что 7.h3 - довольно ненужная предосторожность против .... Bg4.
+Еще одна мера предосторожности против любой попытки опрокинуть пешку е4. Белые также расчищают путь для рокировки на ферзевый фланг. Еще раз отметим, что современная игра предпочитает 8.O-O или 8.Nbd2, с последующими действиями в центре, хотя это означает, что 7.h3 - довольно ненужная предосторожность против ...Bg4.
 
 **8...Ne8?**
 
@@ -2105,7 +2105,7 @@ b) При 12...exd4 13.cxd4 Nc6 черные уступают центр в на
 
 > Вопрос: Почему белые просто не сыграли 17.Bd2? Разве 17...h6 не является полезным ходом для черных?
 
-Ответ: Как и в предыдущей партии, белые провоцируют ...h7-h6 перед отступлением своего слона на d2. Теперь слон на g7 связан с защитой h6 и лишен возможности проявить активность с .... Bh6, если слон белых когда-нибудь покинет диагональ c1-h6. Небольшое ослабление королевского фланга черных также окажется жизненно важным для успеха последней атаки белых.
+Ответ: Как и в предыдущей партии, белые провоцируют ...h7-h6 перед отступлением своего слона на d2. Теперь слон на g7 связан с защитой h6 и лишен возможности проявить активность с ...Bh6, если слон белых когда-нибудь покинет диагональ c1-h6. Небольшое ослабление королевского фланга черных также окажется жизненно важным для успеха последней атаки белых.
 
 **18...Qc7 19.Qc2 Rad8 20.b4**
 
@@ -2295,7 +2295,7 @@ b) При 12...exd4 13.cxd4 Nc6 черные уступают центр в на
 
 Тем не менее, его вылазка на g5 была отнюдь не напрасной.
 
-**23.... Bf6**
+**23...Bf6**
 
 ![](http://www.fen-to-image.com/image/single/1r1qr1k1/1b3p1n/p2p1bp1/1pnPp2p/P1p1P3/R1P1BNNP/1PBQ1PP1/R5K1)
 
@@ -2559,7 +2559,7 @@ b) При 12...exd4 13.cxd4 Nc6 черные уступают центр в на
 
 ![](http://www.fen-to-image.com/image/single/2r2n2/4r1k1/2p3p1/q1NbpP2/7p/2R4P/3QBPP1/2R3K1)
 
-> Упражнение: После 41.... c6 пришло время проверить свою тактику. Белые играют и выигрывают!
+> Упражнение: После 41...c6 пришло время проверить свою тактику. Белые играют и выигрывают!
 
 **42.f6+!**
 
@@ -2725,7 +2725,7 @@ b) При 12...exd4 13.cxd4 Nc6 черные уступают центр в на
 
 **23...axb4**
 
-> Вопрос: Почему бы не забрать пешку "е" с помощью 23...Bxe4 или следующим ходом с 24.... Bxe4?
+> Вопрос: Почему бы не забрать пешку "е" с помощью 23...Bxe4 или следующим ходом с 24...Bxe4?
 
 **24.cxb4 Ra3**
 
@@ -2759,11 +2759,11 @@ b) При 12...exd4 13.cxd4 Nc6 черные уступают центр в на
 
 Белый ферзь ненадолго отвлекся от королевского фланга.
 
-**31.... Qa7 32.Qf3 Qd4 33.Rc3 Qd2 34.Re3**
+**31...Qa7 32.Qf3 Qd4 33.Rc3 Qd2 34.Re3**
 
 Может показаться, что Найдича стесняют, но, как говорилось выше, прекрасный конь гарантирует, что логика позиции благоприятствует его атаке, а не атаке черных.
 
-**34.... Ra1+ 35.Kh2 Ra2 36.Qg4 Qxf2**
+**34...Ra1+ 35.Kh2 Ra2 36.Qg4 Qxf2**
 
 ![](http://www.fen-to-image.com/image/single/5bk1/5ppp/3p4/1p1Np1P1/1P2P1Q1/4R3/r4qPK/8)
 
@@ -2779,7 +2779,7 @@ b) При 12...exd4 13.cxd4 Nc6 черные уступают центр в на
 
 Белые ставят свою ладью против f7 с выигрышем времени и таким образом готовят свой выигрывающий ход.
 
-**38.... Qc2 39.Nxh7! 1-0**
+**38...Qc2 39.Nxh7! 1-0**
 
 ![](http://www.fen-to-image.com/image/single/5b1k/5ppN/3p4/1p2p1P1/1P2P1Q1/5R2/r1q3PK/8)
 
@@ -2845,7 +2845,7 @@ Deep Blue блокирует центр в стиле игры Адамса-То
 
 Напротив, среди белых фигур и пешек на ферзевом фланге мы вскоре увидим положительную отдачу. Их фигуры лучше, чем у черных, могут влиять на ситуацию на этом фланге -- чтобы понять это, достаточно сравнить слона на e3 с его замурованным коллегой на f8. Благодаря потенциалу белых фигур, белые пешки заряжены энергией, что, в свою очередь, дает фигурам больше возможностей блеснуть.
 
-**18..... Nh7?**
+**18...Nh7?**
 
 В стесненной позиции, не имея конструктивного способа получить контригру, Каспаров прибегает к проверенному временем рецепту -- пытается разменять фигуры. Тем не менее, после 18...Qc8 19.Kh2 Qb7 20.a4 Reb8 его позиция стала бы крепким орешком, когда на ферзевом фланге полно черных защитников. Напротив, план Nh4 теряет много времени и дает белым свободу действий на ферзевом фланге.
 
@@ -2911,7 +2911,7 @@ c) Третья позиция - 3...d6, которая является "ста
 
 ![](http://www.fen-to-image.com/image/single/r1bqkbnr/ppp2ppp/2np4/1B2p3/3PP3/5N2/PPP2PPP/RNBQK2R)
 
-Например, 4...Bd7 (пытаясь сохранить пешку e5, так как 4...exd4 4.Nxd4 - небольшой, но приятный перевес для белых) 5.Nc3 Nf6 (или 5...exd4 6.Nxd4 g6 7.Be3 Bg7 8.Qd2 Nf6 9.Bxc6 bxc6 10.Bh6! и размен чернопольных слонов для нейтрализации фианкетто черных хорошо работает для белых -- 10 .... O-O 11.Bxg7 Kxg7 12.O-O-O Re8 13.f3 Qb8 14.g4 и у белых превосходные атакующие шансы) 6.O-O Be7 7.Bxc6 Bxc6 8.Qd3! (защищая e4, так что угроза 9.dxe5, забирающая пешку, становится реальной) 8...exd4 9.Nxd4 Bd7 10.b3 O-O 11.Bb2 c6 12.Rad1 Qc7 13.Rfe1. Белые получили полноценное развитие, преимущество в пространстве и общее превосходство в центре, которое перевешивает слоновую пару черных.
+Например, 4...Bd7 (пытаясь сохранить пешку e5, так как 4...exd4 4.Nxd4 - небольшой, но приятный перевес для белых) 5.Nc3 Nf6 (или 5...exd4 6.Nxd4 g6 7.Be3 Bg7 8.Qd2 Nf6 9.Bxc6 bxc6 10.Bh6! и размен чернопольных слонов для нейтрализации фианкетто черных хорошо работает для белых -- 10...O-O 11.Bxg7 Kxg7 12.O-O-O Re8 13.f3 Qb8 14.g4 и у белых превосходные атакующие шансы) 6.O-O Be7 7.Bxc6 Bxc6 8.Qd3! (защищая e4, так что угроза 9.dxe5, забирающая пешку, становится реальной) 8...exd4 9.Nxd4 Bd7 10.b3 O-O 11.Bb2 c6 12.Rad1 Qc7 13.Rfe1. Белые получили полноценное развитие, преимущество в пространстве и общее превосходство в центре, которое перевешивает слоновую пару черных.
 
 d) После 3...Nge7 4.O-O g6 5.c3 Bg7 6.d4 черные вынуждены уступить центр, так как белые угрожают 7.d5, атакуя коня на c6, а затем 8.d6, создавая слабые пешеки по линии "d". Поэтому обычно играют 6...exd4 7.cxd4 d5 (получая жизненно важное пространство для своих фигур) 8.exd5 Nxd5 9.Re1+ Be6 10.Bg5 Qd6 11.Nbd2 O-O 12.Ne4 Qb4 13.Bxc6 bxc6 14.Qc1! и белые могут утверждать, что сдвоенные черные с-пешки являются более важным фактором, чем два слона.
 
@@ -3543,7 +3543,7 @@ c2-c3 before playing ... b7-b5) then after 6.c3 b5 7.Bb3 d6 8.a4
 
 he has wangled the chance to play 8...Bg4.
 
-*Answer:* Yes. But 8...Bg4 isn’t that great for him – see the note to 7...Nxe4?! in Nijboer-Vedder above for two examples – and* anyway most players tend to prefer 8 ... .Rb8, transposing back to the 7.a4 Rb8 8.c3 d6 line we are discussing here. But whatever its merits, there is no reason to allow ... Bg4 unless we have to.
+*Answer:* Yes. But 8...Bg4 isn’t that great for him – see the note to 7...Nxe4?! in Nijboer-Vedder above for two examples – and* anyway most players tend to prefer 8...Rb8, transposing back to the 7.a4 Rb8 8.c3 d6 line we are discussing here. But whatever its merits, there is no reason to allow ... Bg4 unless we have to.
 
 **7...Rb8**
 
@@ -4572,7 +4572,7 @@ Once this is achieved he can try to exploit the structural weakness on the black
 
 Whatever the demerits of Black’s pawn configuration, there is no denying that he has a freer development of his minor pieces than in the Closed Lopez. The absence of the white pawn on d4 allows him to utilize the c5- square as a base for either his bishop or his knight. On the other hand, the thematic advance ... c7- c5 is now blocked by minor pieces on both c5 and c6. Do Black’s active pieces pardon him for this sin against the requirements of the pawn structure?
 
-The alternatives 9 ... .Be7 and 9 ... .Nc5 are the subject of the next two games.
+The alternatives 9...Be7 and 9...Nc5 are the subject of the next two games.
 
 **10.Qe2!?**
 
@@ -4598,7 +4598,7 @@ White would have to take immediate action to escape the pin with 13.Qd3! hitting
 
 *Answer:* **13.Be3!**
 
-With his previous move Black showed too much anxiety about protecting d5: he added a third defender to the pawn, when he needed to reduce the number to one with 12 ... .Bg4. At the same time he showed no concern whatsoever about holding onto control of the dark squares in the centre. The forced exchange of bishops leaves him with no way to guard the c5- or d4-squares.
+With his previous move Black showed too much anxiety about protecting d5: he added a third defender to the pawn, when he needed to reduce the number to one with 12...Bg4. At the same time he showed no concern whatsoever about holding onto control of the dark squares in the centre. The forced exchange of bishops leaves him with no way to guard the c5- or d4-squares.
 
 **13...Bxe3 14.Qxe3 Qd7 15.Qc5**
 
@@ -4610,7 +4610,7 @@ Such a move makes a pleasing impression: Karjakin is revelling in his control of
 
 *Exercise:* Let’s put the white queen back on e3. After 14...Qd7 is there a more incisive plan for White in the position?
 
-*Answer:* If 15.Nd4?! then 15...Rac8! 16.c3 c5 17.Nxe6 fxe6 looks very comfortable, perhaps better, for Black. After 15.h3 White can* answer 15...Rac8?! with 16.Qc5, but 15...c6 preparing 16 ... .Qa7 looks secure for Black.
+*Answer:* If 15.Nd4?! then 15...Rac8! 16.c3 c5 17.Nxe6 fxe6 looks very comfortable, perhaps better, for Black. After 15.h3 White can* answer 15...Rac8?! with 16.Qc5, but 15...c6 preparing 16...Qa7 looks secure for Black.
 
 Therefore a radically different approach with 15.c4! appears to be the best plan. After 15...bxc4 (see below for 15...c6) 16.Bxc4 c6
 
@@ -4658,7 +4658,7 @@ try to find the best plan for Black.
 
 **18...Rb6?**
 
-*Answer:* With 18...Qe7! 19.Qxe7 Nxe7 Black can achieve 20 ... .c5. This was his big chance to punish White for his inaccurate 16.c3.
+*Answer:* With 18...Qe7! 19.Qxe7 Nxe7 Black can achieve 20...c5. This was his big chance to punish White for his inaccurate 16.c3.
 
 **19.Bc2 Qe7**
 
@@ -4676,7 +4676,7 @@ White’s mobile kingside pawn majority makes a striking contrast to Black’s d
 
 **23...Bc8 24.a4!**
 
-After his early hesitancy Karjakin displays some exemplary strategic chess. Here he increases his dark squared bind as 24 ... .bxa4 25.Bxa4 leaves the black pawns further disfigured.
+After his early hesitancy Karjakin displays some exemplary strategic chess. Here he increases his dark squared bind as 24...bxa4 25.Bxa4 leaves the black pawns further disfigured.
 
 **24...Bd7 25.a5 Rbb8 26.Nb3!**
 
@@ -4740,7 +4740,7 @@ As his bishop is boxed in on b3, White clears the way to retreat it to c2, so th
 
 **10...O-O 11.Bc2 f5**
 
-Standing his ground in the centre. Instead after 11 ... .Nc5 12.Nb3 White has a pleasant game with clear diagonals for both his bishops.
+Standing his ground in the centre. Instead after 11...Nc5 12.Nb3 White has a pleasant game with clear diagonals for both his bishops.
 
 **12.Nb3**
 
@@ -4774,7 +4774,7 @@ The fact that the recapture 14.Nxd4 is preferable here shows that there are no h
 
 **17...Rad8**
 
-Of course if 17 ... .Qxe5? 18.f4 wins a piece.
+Of course if 17...Qxe5? 18.f4 wins a piece.
 
 **18.axb5 axb5**
 
@@ -4926,7 +4926,7 @@ the correct reply to the game move 18...Bxg5,
 
 and also the alternatives 18...O-O, 18...Nxg5 and 18...Kf8?
 
-**18 ... .Bxg5**
+**18...Bxg5**
 
 *Answer:* Black loses the exchange after 18...O-O 19.Nxe7+ Nxe7 20.Bxh7+! Kxh7 21.Qh4+ Kg8 22.Bxe7.
 
@@ -5062,7 +5062,7 @@ It was possible to utilize the kingside pawn majority with 28.f4, with ideas of 
 
 **28...Kxg7**
 
-Or 28 ... .Nxg7 29.Rxc7.
+Or 28...Nxg7 29.Rxc7.
 
 **29.Bxh6+ Kg8 30.Rxc7**
 
@@ -5128,7 +5128,7 @@ If Black intends to attack e4, it isn’t a good idea to interpose 3...a6 4.Ba4 
 
 The most popular response. It allows Black to build a big centre, but White aims to cut it down to size with the help of some sharp tactics.
 
-Another possibility is 4.d3 (see Chapter One), but let’s not take the pawn with 4.exf5? as Black gains the initiative with 4 ... .e4, disturbing our knight on f3.
+Another possibility is 4.d3 (see Chapter One), but let’s not take the pawn with 4.exf5? as Black gains the initiative with 4...e4, disturbing our knight on f3.
 
 **4...fxe4**
 
@@ -5228,7 +5228,7 @@ Now it is White’s turn to whisk away the king to avoid a pin on the e-file.
 
 *Answer:* After the immediate 12...Rxe6 13.Qd3 White has the strong idea of 14.Nd4 followed at an appropriate moment by Nf5,* putting the knight on the outpost square in front of the isolated f6-pawn. Black would have no wish to be forced into the exchange Bxf5 as after Qxf5 her dynamism has dwindled – whereas the static pawn weaknesses remain.
 
-After 12 ... .Rxe6 13.Qd3 Black could still play 13...c5, but Nemcova has another reason in mind to delay the capture on e6.
+After 12...Rxe6 13.Qd3 Black could still play 13...c5, but Nemcova has another reason in mind to delay the capture on e6.
 
 **13.Bf4**
 
@@ -5370,7 +5370,7 @@ Black takes the chance to recapture with the queen.
 
 **7.Qe2**
 
-If now 7 ... .d6 8.d4 is very awkward for Black. So he gambits a pawn with:
+If now 7...d6 8.d4 is very awkward for Black. So he gambits a pawn with:
 
 **7...Be7! 8.Bxc6 dxc6**
 
@@ -5702,7 +5702,7 @@ If White retreats his knight from f3 he would lose the chance to attack.
 
 *Answer:* Yes, but don’t forget we are following Kasparov’s preparation as White, so there’s bound to be some pretty potent* compensation. In fact after 11.Bb3 Bg6 12.O-O Black’s king is trapped in the centre, and there is no way to unwind his game.
 
-For example 12...Nf6 13.Bh6! (a clever way to prevent the developing 13...Be7 as 14.Bxg7 would follow; meanwhile after 13...gxh6 14.Rfe1+ Be7 15.Qxf6 Rf8 16.Qg7 Black would have ho defence against White doubling rooks along the e- file) 13...d5 14.Rfe1+ Be4 15.Rad1 Be7 (after 15 ... .Qe7 16.Qh3 gxh6 17.f3 and 18.fxe4 White’s attack is unrelenting) 16.Rxe4! dxe4 17.Rxd8+ Bxd8 18.Qg3 gxh6 19.Qe5+ Be7 20.Qxc7 Rd8 21.Qb7 Nd5 22.c7 Nxc7 23.Qxc7 and White has got his material back with a continuing initiative. The game A.Karklins-D.Nance, Chicago 1989, saw a lot of black pawns drop before an unexpected mating finish: 23...Rd6 24.Qb8+ Rd8 25.Qe5 Rf8 26.Qh5+ Kd7 27.Qxh6 Rf6 28.Qxh7 Rdf8 29.Qxe4 Rxf2 30.Qb7+ Ke8 31.Qc8+ Bd8 32.Qc6+ 1-0.
+For example 12...Nf6 13.Bh6! (a clever way to prevent the developing 13...Be7 as 14.Bxg7 would follow; meanwhile after 13...gxh6 14.Rfe1+ Be7 15.Qxf6 Rf8 16.Qg7 Black would have ho defence against White doubling rooks along the e- file) 13...d5 14.Rfe1+ Be4 15.Rad1 Be7 (after 15...Qe7 16.Qh3 gxh6 17.f3 and 18.fxe4 White’s attack is unrelenting) 16.Rxe4! dxe4 17.Rxd8+ Bxd8 18.Qg3 gxh6 19.Qe5+ Be7 20.Qxc7 Rd8 21.Qb7 Nd5 22.c7 Nxc7 23.Qxc7 and White has got his material back with a continuing initiative. The game A.Karklins-D.Nance, Chicago 1989, saw a lot of black pawns drop before an unexpected mating finish: 23...Rd6 24.Qb8+ Rd8 25.Qe5 Rf8 26.Qh5+ Kd7 27.Qxh6 Rf6 28.Qxh7 Rdf8 29.Qxe4 Rxf2 30.Qb7+ Ke8 31.Qc8+ Bd8 32.Qc6+ 1-0.
 
 **10.Kd1**
 
@@ -5824,7 +5824,7 @@ A very strong blow. The black knight is driven from a5 after which White can exp
 
 **16...Nc4**
 
-*Answer:* I hope you aren’t immersed in the complications after 16 ... .Bxb4 17.Bg5 Be7 18.Rad1, as White has the simple 17.Nxf6+* Qxf6 18.Qe4! winning a piece as both b4 and h7 are attacked.
+*Answer:* I hope you aren’t immersed in the complications after 16...Bxb4 17.Bg5 Be7 18.Rad1, as White has the simple 17.Nxf6+* Qxf6 18.Qe4! winning a piece as both b4 and h7 are attacked.
 
 **17.Nc6 Qd7 18.Nxe7+ Qxe7 19.Bg5 Ne5**
 
@@ -5895,7 +5895,7 @@ It turns out that the black knight gets to c4 with an attack on the white queen.
 
 **21.Nxc4 bxc4 22.Qxc2 Rc8 23.Bd2 Bf6 24.Rad1**
 
-You might have noticed that efficient play by White against the gambits in this chapter leads almost invariably to positions where Black is saddled with a weak pawn or a loose pawn structure. Even the attacking energy displayed by White in this game has boiled down to ‘merely’ a better endgame after Black found the good defensive move 15 ... .Bb7. Still, White definitely has the edge here because of the weakness of the c4-pawn, and can probe away to increase it. Brkic is uncomfortable and tries to force matters by putting his queen on d3, evidently as he fears the pawn being blocked on c4 with 25.Bc3 etc. This gives White the chance to win a pawn after which he eventually ground put a win. The remaining moves were:
+You might have noticed that efficient play by White against the gambits in this chapter leads almost invariably to positions where Black is saddled with a weak pawn or a loose pawn structure. Even the attacking energy displayed by White in this game has boiled down to ‘merely’ a better endgame after Black found the good defensive move 15...Bb7. Still, White definitely has the edge here because of the weakness of the c4-pawn, and can probe away to increase it. Brkic is uncomfortable and tries to force matters by putting his queen on d3, evidently as he fears the pawn being blocked on c4 with 25.Bc3 etc. This gives White the chance to win a pawn after which he eventually ground put a win. The remaining moves were:
 
 **24...Qd3 25.Qxd3 cxd3 26.Re6 Kf7 27.Rxa6 Ra8 28.Rxa8 Rxa8 29.Be3 Ra3 30.b5 Be5 31.g3 Ke6 32.b6 Kd7 33.Bc5 Rc3 34.Bb4 Rc2 35.Rxd3+ Kc6 36.a4 Rb2 37.Bd2 Rxb6 38.Ra3 Kb7 39.a5 Rb1+ 40.Kg2 Ka6 41.Bc3 Bd6 42.Ra2 g6 43.Rd2 Bc5 44.Rd5 Ba7 45.Rd6+ Kb5 46.Rd7 Ka6 47.Rxh7 Rc1 48.Bd2 1-0**
 
@@ -5981,7 +5981,7 @@ Establishing a solid triangle of pawns to limit the scope of Black’s bishop on
 
 **14...Qh3 15.Be3**
 
-We’ll focus on Anand’s move, though White has worthy alternatives in 15.Qe2!? intending 16.Qf1 to challenge the black queen, and 15.Re4!? when play might continue 15...g5! (a bizarre looking move, but it stops 16.Rh4, and is playable because 16.Bxg5? would drop material after 16 ... .Qf5) 16.Qf1 Qh5 17.Nd2 Bf5 18.f3! Nf6 19.Qg2. White shows his willingness to give up the exchange to gain a strong centre after 19...Bxe4 20.fxe4, and Black sensibly declines the offer leading to well analysed lines after 19...Qg6 20.Re3 Rae8.
+We’ll focus on Anand’s move, though White has worthy alternatives in 15.Qe2!? intending 16.Qf1 to challenge the black queen, and 15.Re4!? when play might continue 15...g5! (a bizarre looking move, but it stops 16.Rh4, and is playable because 16.Bxg5? would drop material after 16...Qf5) 16.Qf1 Qh5 17.Nd2 Bf5 18.f3! Nf6 19.Qg2. White shows his willingness to give up the exchange to gain a strong centre after 19...Bxe4 20.fxe4, and Black sensibly declines the offer leading to well analysed lines after 19...Qg6 20.Re3 Rae8.
 
 **15...Bg4**
 
@@ -6099,7 +6099,7 @@ Still, it’s not all bad news for White: the d5-pawn is hanging and the retreat
 
 Vajda solves the problem of how to defend his d5-pawn: he simply let’s White take it!
 
-*Question:* How would you assess the possibility of 21 ... .Re4!? here?
+*Question:* How would you assess the possibility of 21...Re4!? here?
 
 *Answer:* After 22.Nxe4 fxe4 Black is serious material down – the exchange and a pawn. On the other hand he has increased his* ascendancy over the light squares and gained the f3-square for his bishop. It is also important that the white rooks are deprived of open files.
 
@@ -6237,7 +6237,7 @@ It was also possible to adopt a Chigorin approach with 10...Na5, for example 11.
 
 now covers the d5- and f5-squares, and his rook has the open f-file?
 
-*Answer:* In fact the f-file proves pretty irrelevant and the black centre is a rather unwieldy mass, a target rather than a source of* strength. With 16.b4 White is able to start nibbling away at it. The game G.Kamsky-E.Bacrot, Jermuk 2009, continued 16...d5 (looking for counterplay by exposing the pawn on d3 to attack) 17.Ng3 dxe4 18.Nxe4 Nxe4 19.Rxe4 Qd5 20.Qe2 Rad8 21.Ne1 Qb3 22.Qa2 Qxa2? (not 22 ... .Qxc3? 23.Bd2 winning the queen, but it was better for her to go back with 22...Qd5! when White wouldn’t be able to exchange queens as it would straighten out the black pawns) 23.Rxa2 Rd5 24.Kf1 Nb8 25.Ke2 Nd7 and having secured the d3-pawn with his king, White was able to start probing the black pawns with 26.Nf3 etc.
+*Answer:* In fact the f-file proves pretty irrelevant and the black centre is a rather unwieldy mass, a target rather than a source of* strength. With 16.b4 White is able to start nibbling away at it. The game G.Kamsky-E.Bacrot, Jermuk 2009, continued 16...d5 (looking for counterplay by exposing the pawn on d3 to attack) 17.Ng3 dxe4 18.Nxe4 Nxe4 19.Rxe4 Qd5 20.Qe2 Rad8 21.Ne1 Qb3 22.Qa2 Qxa2? (not 22...Qxc3? 23.Bd2 winning the queen, but it was better for her to go back with 22...Qd5! when White wouldn’t be able to exchange queens as it would straighten out the black pawns) 23.Rxa2 Rd5 24.Kf1 Nb8 25.Ke2 Nd7 and having secured the d3-pawn with his king, White was able to start probing the black pawns with 26.Nf3 etc.
 
 **11.Nbd2 Nbd7 12.Nf1 Re8 13.Ba2 Bf8**
 
