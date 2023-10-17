@@ -3779,201 +3779,183 @@ a) 7...Nxe5 8.Nxe5! не оставляет черным хорошего отв
 
 Ответ: Белые получили возможность завоевать пешкой поле е5. Это противоречит философии предыдущих разделов, в которых черные делают все возможное, чтобы сохранить свою пешку на е5 в качестве опорного пункта в центре. Однако, как мы увидим, в обмен на эту позиционную уступку черные получают активную игру для своих фигур.
 
-## The Berlin Defence with 4.O-O Nxe4 5.d4 Be7
+## Берлинская защита 4.O-O Nxe4 5.d4 Be7
 
-We’ll begin by examining a game in which Black declines the chance for the Berlin Endgame in favour of 5...Be7. This will also give us the chance to look at other early options.
+Для начала мы рассмотрим партию, в которой черные отказываются от шансов на Берлинский эндшпиль в пользу 5...Be7. Это даст нам возможность рассмотреть и другие ранние варианты.
 
-*Game 25*
-
-**M.Adams-D.Howell**
-
-London Classic 2010
+> Game 25, M.Adams-D.Howell, London Classic 2010
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6**
 
-Black spurns 3...a6 in favour of immediate development and a counterattack against e4. This was an approach advocated by World Champion Emanuel Lasker in his book *Common Sense in Chess* way back in 1895. For most of the 20th Century 3...a6 held unchallenged sway. But will the 21st Century be a new age of the Berlin Defence?
+Черные отказываются от 3...a6 в пользу немедленного развития и контратаки на е4. Этот подход еще в 1895 году отстаивал чемпион мира Эмануил Ласкер в своей книге "Здравый смысл в шахматах". На протяжении большей части XX века 3...a6 оставалось неоспоримым. Но станет ли XXI век новой эрой Берлинской защиты?
 
 **4.O-O Nxe4**
 
-*Question:* So what are the pros and cons for Black
+Вопрос: Так какие же плюсы и минусы для черных во взятии пешки на е4?
 
-in taking the pawn on e4?
+Ответ: Положительный момент взятия состоит в том, что, хотя белые и получат пешку на е5, они уже не смогут построить "идеальный" центр с пешками на d4 и е4. Уменьшив размеры и гибкость белого центра, черные в меньшей степени рискуют попасть в долгосрочную позиционную зависимость. Их фигуры имеют в своем распоряжении больше центральных полей.
 
-*Answer:* The positive point of the capture is that, although White will get a pawn on e5, he won’t be able to construct a ‘perfect’* centre with pawns on d4 and e4 any longer. Having reduced the white centre in size and flexibility, Black is in less danger of falling into a long term positional bind. His pieces have more centre squares available to them.
-
-On the minus side, capturing on e4 and getting the knight away takes three moves, so the white pieces are getting out more quickly than the black pieces. Black will have to make some concession to survive the increased energy he is giving the white pieces by opening lines in the centre. In the Berlin Endgame, for example, Black ‘buys off’ White’s immediate pressure by forfeiting the right to castle.
+Минусом является то, что взятие на е4 и увод коня занимают три хода, поэтому белые фигуры входят в игру быстрее, чем черные. Черным придется пойти на некоторые уступки, чтобы пережить увеличение энергии, которую они дают белым фигурам, открывая линии в центре. Например, в Берлинском эндшпиле черные "откупаются" от немедленного давления белых, уступая им право на рокировку.
 
 **5.d4!**
 
-More energetic than 5.Re1. White wants to keep the initiative as well as regain his pawn.
+Более энергично, чем 5.Re1. Белые хотят не только сохранить инициативу, но и вернуть пешку.
 
 **5...Be7**
 
-The Rio de Janeiro Variation. Howell returns the pawn at once to speed up his development. Similar to the game would be 5...Nd6 6.Bxc6 bxc6 (6...dxc6 is the Berlin Endgame discussed below) 7.dxe5 Nb7, and now Hubner suggests 8.Nd4!? intending 9.Qf3 as clearly better for White. Black would certainly have problems unravelling his game.
+Вариант Рио-де-Жанейро. Хауэлл сразу возвращает пешку, чтобы ускорить свое развитие. Похожим на игру было бы 5...Nd6 6.Bxc6 bxc6 (6...dxc6 - Берлинский эндшпиль, о котором речь пойдет ниже) 7.dxe5 Nb7, а теперь Хюбнер предлагает 8.Nd4!?, имея в виду 9.Qf3 как явно лучшее для белых. У черных, конечно, возникнут проблемы с развязыванием своей игры.<addx start="9.Qf3"/>
 
-*Question:* But why not grab a pawn with 5...exd4 or 5...Nxd4?
+Вопрос: Но почему бы не взять пешку с помощью 5...exd4 или 5...Nxd4?
 
-*Answer:* We can quickly dismiss 5...Nxd4? as after 6.Nxd4 exd4 7.Re1 f5 8.f3 White wins a piece. More tricky is 5...exd4, though 6* Re1 f5 7.Nxd4 Nxd4 8.Qxd4 c6 9.f3! leads to a good endgame for White after 9...cxb5 10.fxe4 Qb6 – Black gets the queens off to avoid the frontal attack on his king – 11.exf5+ Kf7, and now rather than 12.Be3, which turned out pretty well for White in O.Korneev -Z.Varga, Zalaegerszeg 2004, the simple 12.Qxb6 axb6 13.Nc3, leaving Black with mangled pawns, looks even stronger to me – if 13...Bc5+ 14.Be3.
+Ответ: Можно быстро отбросить 5...Nxd4?, так как после 6.Nxd4 exd4 7.Re1 f5 8.f3 белые выигрывают фигуру. Сложнее 5...exd4, хотя 6.Re1 f5 7.Nxd4 Nxd4 8.Qxd4 c6 9.f3! приводит к хорошему эндшпилю для белых после 9...cxb5 10.fxe4 Qb6 - черные убирают ферзей, чтобы избежать фронтальной атаки на своего короля - 11.exf5+ Kf7, и теперь вместо 12.Be3, что неплохо получилось у белых в партии О.Корнеев - З.Варга, Залаэгершег 2004, простое 12.Qxb6 axb6 13.Nc3, оставляющее черных с растерзанными пешками, выглядит для меня еще сильнее - если 13...Bc5+ 14.Be3.
 
 **6.Qe2**
 
-*Question:* Can you guess why this might be preferred to 6.Re1?
+Вопрос: Можете ли вы предположить, почему это может быть предпочтительнее, чем 6.Re1? (Подсказка: вспомните Берлинский вариант с 5...Nd6 6.Bxc6 dxc6).
 
-(Hint: think of the Berlin Variation with 5...Nd6 6.Bxc6 dxc6.)
-
-*Answer:* after 6.Re1 Nd6 7.Bxc6 dxc6 8.dxe5 Nf5, in contrast to the normal Berlin Endgame Black has his bishop on e7, so that 9* Qxd8+ doesn’t displace his king – he can recapture 9...Bxd8. Therefore White plays 6.Qe2 instead of 6.Re1, so if Black headed for this line he could be hit at the end by 9.Rd1, embarrassing his queen. That is why he recaptures with 7...bxc6 rather than 7...dxc6 below.
+Ответ: после 6.Re1 Nd6 7.Bxc6 dxc6 8.dxe5 Nf5, в отличие от обычного берлинского эндшпиля, у черных слон на e7, так что 9.Qxd8+ не оттесняет их короля - он может вернуться на 9...Bxd8. Поэтому белые играют 6.Qe2 вместо 6.Re1, и если бы черные пошли по этой линии, то в конце могли бы попасть под удар 9.Rd1, стеснив своего ферзя. Поэтому ниже они играют 7...bxc6, а не 7...dxc6.<add start="9.Rd1" value="6.Qe2 Nd6 7.Bxc6 dxc6 8.dxe5 Nf5"/>
 
 **6...Nd6**
 
-Black saves his knight with gain of time by hitting the white bishop. Besides, he doesn’t want to walk into a pin on c6 after 6...d5 7.Nxe5.
+Черные спасают своего коня с выигрышем времени за счет удара по белому слону. Кроме того, они не хотят нарваться на связку с6 после 6...d5 7.Nxe5.
 
 **7.Bxc6 bxc6 8.dxe5 Nb7**
 
-Strategically speaking, a very double edged situation has arisen. Black’s development has suffered – the bishop on c8 is still shut in – and his knight is on a strange square, though given time it could go from c5 to e6, where it would sit nicely in the centre. Meanwhile White has a serious space advantage, but Black hopes to neutralize it with ...f7-f6, when his bishop pair might become the defining feature of the position.
+Со стратегической точки зрения возникла очень двусмысленная ситуация. Развитие черных пострадало - слон на с8 по-прежнему закрыт, а конь находится на странном поле, хотя при наличии времени он мог бы перейти с с5 на е6, где прекрасно расположился бы в центре. Тем временем у белых серьезный пространственный перевес, но черные надеются нейтрализовать его путем ...f7-f6, когда пара слонов может стать определяющей в позиции.
 
-Instead after 8...Nf5 the black horse can become a target for White’s kingside expansion. For example 9.c4 0- 0 10.Nc3 d5 11.Rd1 Be6 12.g4! Nh4 13.Nxh4 Bxh4 14.f4 when Black had no answer to the double threat of 15.f5, winning the d5-pawn, or 15.g5, shutting in the bishop on h4, in M.Vachier Lagrave-A.Kosten, Haute Le Port Marly 2009.
+Вместо этого после 8...Nf5 черный конь может стать мишенью для расширения королевского фланга белых. Например, 9.c4 O-O 10.Nc3 d5 11.Rd1 Be6 12.g4! Nh4 13.Nxh4 Bxh4 14.f4, когда у черных не было ответа на двойную угрозу 15.f5, выигрывая пешку d5, или 15.g5, закрывая слона на h4, в партии М.Вашье - Лаграв - А.Костен, Haute Le Port Marly 2009.<addx start="15.f5"/>
 
 **9.c4**
 
-Adams increases his pawn presence in the centre before developing his knight to c3.
+Адамс усиливает присутствие пешек в центре перед развитием коня на с3.
 
 **9...O-O 10.Nc3 f6**
 
-The thematic challenge to the white centre. Even so, Black has to be careful not to try for too much activity when his queenside is still undeveloped. I have seen a photograph of the game M.Tal-V.Smyslov, Moscow 1971, and Tal looked pretty satisfied with his position from the opening after 10...Nc5 11.b3 f6 12.Bb2 fxe5 13.Nxe5 etc.
+Тематический вызов белому центру. Но даже в этом случае черные должны быть осторожны и не пытаться проявлять излишнюю активность, когда их ферзевый фланг еще не развит. Я видел фотографию партии М.Таль - В.Смыслов, Москва 1971, и Таль выглядел вполне довольным своей позицией из дебюта после 10...Nc5 11.b3 f6 12.Bb2 fxe5 13.Nxe5 и т.д.
 
 **11.Re1 fxe5 12.Qxe5 Bf6 13.Qg3 Nc5**
 
-After 13...Nd6, trying to exploit the white queen by putting the knight on f5, White got the edge in D.Stellwagen -V.Erdos, Remagen 2011, with 14.c5 Nf5 15.Qf4 Rb8 16.Ne4 d6 17.Nxf6+ Qxf6 18.Qc4+ Qf7 19.Qxf7+ Rxf7 20.b3! as the black queenside pawns are mouldy.
+После 13...Nd6, пытаясь использовать белого ферзя путем перевода коня на f5, белые получили перевес в партии Д.Стеллваген - В.Эрдос, Ремаген 2011, с 14.c5 Nf5 15.Qf4 Rb8 16.Ne4 d6 17.Nxf6+ Qxf6 18.Qc4+ Qf7 19.Qxf7+ Rxf7 20.b3! поскольку пешки черного ферзевого фланга заплесневели.
 
 **14.Bg5 Nd3**
 
-*Question:* Now how should White deal with the threat to e1 and b2?
+Вопрос: Как теперь белым поступить с угрозой на е1 и b2?
 
-*Answer:* **15.Re3!**
+Ответ: **15.Re3!**
 
-A moment that shows the importance of the initiative. It was possible to play the safe, respectable-looking, routine move 15.Re2, defending the b2-pawn. However, that would give Black vital breathing space to develop his pieces. He might for example try 15...d5, stopping the white knight going to e4 and getting his bishop involved in the game. Also after a ...Bxg5 exchange, the black knight could jump to f4, where it is available for the defence and gains time by hitting the rook on e2.
+Момент, показывающий важность инициативы. Можно было сыграть безопасный, респектабельный, рутинный ход 15.Re2, защищая пешку b2. Однако это дало бы черным жизненно необходимую передышку для развития своих фигур. Например, они могли бы попробовать 15...d5, не позволяя белому коню пойти на е4 и вернуть в игру своего слона. Также после размена ...Bxg5 черный конь может перескочить на f4, где он доступен для защиты, и выиграть время, напав на ладью е2.
 
-You can see the energy would have drained from the white position after 15.Re2. Whereas after the game move, Black has to deal with the threat to the knight, giving him no time to develop his other pieces.
+Видно, что после 15.Re2 из позиции белых ушла бы вся энергия. Тогда как после хода в партии черные вынуждены бороться с угрозой коню, не получая времени на развитие других фигур.
 
-As his knight raid ends in disaster, Black should have thought about development with 14...d6 and 15...Bf5, though White can still build up in the style of the game with 15.Re3 and 16.Rae1.
+Поскольку их рейд конем заканчивается катастрофой, черным следовало подумать о развитии с помощью 14...d6 и 15...Bf5, хотя белые все еще могут построиться в стиле партии с помощью 15.Re3 и 16.Rae1.<addx start="15...Bf5"/><addx start="16.Rae1"/>
 
 **15...Nxb2**
 
-Black grabs a pawn, but it means the knight won’t be able to help his king.
+Черные забирают пешку, но это означает, что конь не сможет помочь своему королю.
 
 **16.Rae1!**
 
-Played in Morphy style. The American genius specialized in making pawn sacrifices so that his rooks could outpace the enemy rooks in gaining control of an open file. Incidentally, that was also a hallmark of the style of Kasparov, especially in his younger days.
+Игра в стиле Морфи. Американский гений специализировался на жертвах пешек, чтобы его ладьи могли опередить ладьи противника при установлении контроля над открытыми линиями. Кстати, это было характерно и для стиля Каспарова, особенно в молодые годы.
 
-*Exercise:* Try to work out what happens after 16...Nxc4.
+Упражнение: Попробуйте разобраться, что происходит после 16...Nxc4.
 
 **16...Bxg5**
 
-*Answer:* After 16...Nxc4 17.Re7! the pressure on g7 is decisive. For example 17...Bxe7 18.Rxe7 (one threat is now 19.Rxg7+ Kxg7* 20.Bxd8+) 18...Rxf3 (clearing f8 for the queen) 19.gxf3 Qf8 20.Ne4 d5 21.Bf6 Qxe7 (or 21...g6 22.Qxc7 dxe4 23.Rg7+ Kh8 24.Rxh7+ Kg8 25.Rh8 mate) 22.Bxe7 dxe4 23.Bf6 g6 24.Qxc7 and the mate threat on g7 soon decides – it’s mate in three at the latest. That might seem a long variation, but the writing was on the wall after 20.Ne4 as Black’s defence was hopelessly outnumbered.
+Ответ: После 16...Nxc4 17.Re7! давление на g7 становится решающим. Например, 17...Bxe7 18.Rxe7 (одна из угроз - теперь 19.Rxg7+ Kxg7 20.Bxd8+) 18...Rxf3 (освобождая f8 для ферзя) 19.gxf3 Qf8 20.Ne4 d5 21.Bf6 Qxe7 (или 21...g6 22.Qxc7 dxe4 23.Rg7+ Kh8 24.Rxh7+ Kg8 25.Rh8 мат) 22.Bxe7 dxe4 23.Bf6 g6 24.Qxc7 и угроза мата на g7 вскоре решает дело - максимум мат в три хода. Казалось бы, длинный вариант, но после 20.Ne4 защита черных оказалась в безнадежном меньшинстве.<addx start="19.Rxg7"/>
 
 **17.Nxg5 Qf6 18.Rf3 Qd8 19.Nce4**
 
-*Exercise:* How should White continue after 19...Nxc4?
+Упражнение: Как должны продолжать белые после 19...Nxc4?
 
-Generally speaking, in order to carry out a successful attack on the enemy king, a large superiority in firepower is required. This is because the king himself and his defensive wall of pawns can be surprisingly resilient.
+Как правило, для успешной атаки на короля противника необходимо значительное превосходство в огневой мощи. Это связано с тем, что сам король и его защитная стена из пешек могут оказаться на удивление устойчивыми.
 
-Here, however, White’s advantage is overwhelming. He has all his pieces – the queen, two rooks and a knight – engaged in the attack, whereas only the black queen and rook on f8 are available to the defence.
+Однако здесь преимущество белых подавляющее. В атаке участвуют все их фигуры - ферзь, две ладьи и конь, тогда как в защите доступны только черный ферзь и ладья на f8.
 
 **19...Ba6**
 
-*Answer:* After 19...Nxc4, 20.Rxf8+ Qxf8 21.Nf6+! wins: 21...gxf6 22.Ne6+ picks up the queen, as does 21...Qxf6 22.Re8+ Qf8 23* Rxf8+ Kxf8 with the knight to follow as well after 24.Qf4+, while upon 21...Kh8 the quickest of many wins is 22.Qh4 h6 23.Qe4! with catastrophe on h7 for the black king.
+Ответ: После 19...Nxc4 выигрывает 20.Rxf8+ Qxf8 21.Nf6+!: 21...gxf6 22.Ne6+ забирает ферзя, как и 21...Qxf6 22.Re8+ Qf8 23.Rxf8+ Kxf8 с последующим взятем коня после 24.Qf4+, а после 21...Kh8 быстрейший из многих выигрышей - 22.Qh4 h6 23.Qe4! с катастрофой на h7 для черного короля.
 
 **20.Nxh7!**
 
-*Question:* I guess you need strong powers of
+Вопрос: Наверное, для проведения атаки на королевском фланге нужны сильные расчеты?
 
-calculation to carry out a kingside attack?
+Ответ: Не особенно, главное - знать стандартные схемы атаки. Например, вы могли видеть жертву "греческого дара". Вот самый ранний пример из рукописи XVI века, написанной Полерио: 1.e4 e6 2.d4 Nf6 3.Bd3 Bb4+ 4.c3 Ba5 5.Nf3 O-O 6.e5 Nd5 7.Bxh7+!<level value="+1"/>
 
-*Answer:* Not particularly, the important thing is to be familiar with standard attacking patterns. For example you might have seen the* ‘Greek Gift’ sacrifice. Here is the earliest example, from a 16th century manuscript by Polerio: 1.e4 e6 2.d4 Nf6 3.Bd3 Bb4+ 4.c3 Ba5 5.Nf3 O-O 6.e5 Nd5 7.Bxh7+!.
+Жертва греческого дара. Выигрывается время для решающей атаки белого ферзя и коня на черного короля. После 7...Kxh7 8.Ng5+ все скоро заканчивается, например, 8...Kg8 (или 8...Kh6 9.Nxe6+ с выигрышем ферзя, тогда как после 8...Kg6 9.h4! с последующим 10.h5+ или 10.Qg4 черный король беззащитен) 9.Qh5 Re8 (им пришлось отдать ферзя при 9...Qxg5) 10.Qxf7+ Kh8 11.Qh5+ Kg8 12.Qh7+ Kf8 13.Qh8+ Ke7 14.Qxg7 мат.<addx start="10.h5+"/><level value="+1"/>
 
-The Greek Gift sacrifice. It wins time for the white queen and knight to launch a decisive attack on the black king. After 7...Kxh7 8
+Последний известный мне пример был сыгран одним из моих товарищей по команде Redhill Chess Club, Клиффом Чендлером: 1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.h4 O-O 7.Bd3 c5 8.Nh3 cxd4?? 9.Bxe7 Qxe7 и, знакомый с схемой греческого подарка, Клифф сыграл 10.Bxh7+!. Его противник тоже это знал и поэтому сдался, вместо того чтобы сыграть 10...Kxh7 11.Qh5+ Kg8 12.Ng5.<level value="+1"/>
 
-Ng5+ it is soon over, for example 8...Kg8 (or 8...Kh6 9.Nxe6+ winning the queen, while after 8...Kg6 9.h4! followed by 10.h5+ or 10
-
-Qg4 the black king is defenceless) 9.Qh5 Re8 (he had to give up the queen with 9...Qxg5) 10.Qxf7+ Kh8 11.Qh5+ Kg8 12.Qh7+ Kf8 13
-
-Qh8+ Ke7 14.Qxg7 mate.
-
-The latest example I know about was played by one of my Redhill Chess Club team mates, Cliff Chandler: 1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.h4 0 -0 7.Bd3 c5 8.Nh3 cxd4?? 9.Bxe7 Qxe7 and, familiar with the Greek Gift pattern, Cliff played 10.Bxh7+!. His opponent knew it as well and so resigned rather than face 10...Kxh7 11.Qh5+ Kg8 12.Qh5.
-
-If you look at Adams’ move 20.Nxh7!, you can see it borrows the theme of the Greek Gift – a piece is sacrificed on h7 to expose the black king and so win time for a decisive combination by the white queen and knight. It isn’t quite as forcing as there is no check, but Black can’t ignore the destruction of his kingside. So Howell decides to take the knight and in sporting style lets his opponent carry out a neat mate in the centre of the board.
+Если вы посмотрите на ход Адамса 20.Nxh7!, то увидите, что он заимствует тему «Греческого дара»: на h7 жертвуется фигура, чтобы обнажить черного короля и таким образом выиграть время для решающей комбинации белого ферзя и коня. Это не так сильно, поскольку нет шаха, но черные не могут игнорировать разрушение своего королевского фланга. Тогда Хауэлл решает взять коня и в спортивном стиле позволяет противнику провести аккуратный мат в центре доски.
 
 **20...Rxf3 21.gxf3!**
 
-The white queen has to stay on g3 to support his next move.
+Белый ферзь должен остаться на g3, чтобы поддержать свой следующий ход.
 
 **21...Kxh7 22.Ng5+ Kg8 23.Qh4 Bxc4 24.Qh7+ Kf8 25.Re5!**
 
-Threatening 26.Rf5+.
+Угрожающее 26.Rf5+.<addx start="26.Rf5+"/>
 
 **25...Be6 26.Qh8+ Ke7 27.Qxg7+ Kd6 28.Ne4 mate.**
 
-**The Berlin Endgame**
+## Берлинский эндшпиль
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6**
 
-At the time of writing, 3...Nf6 has become a choice of champions, being adopted by the current World Champion Anand, former World Champions Kramnik and Topalov, and the highest-rated player in the world Magnus Carlsen. The emphasis has very much been on the endgame reached after:
+На момент написания 3...Nf6 стало выбором чемпионов: его применяют действующий чемпион мира Ананд, бывшие чемпионы мира Крамник и Топалов, а также самый высокорейтинговый игрок в мире Магнус Карлсен. Особое внимание уделяется эндшпилю, достигаемому после:
 
-**4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6** (Lasker preferred 6...bxc6) **7.dxe5 f5 8.Qxd8+ Kxd8**
+**4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6** (Lasker preferred 6...bxc6) **7.dxe5 Nf5 8.Qxd8+ Kxd8**
 
-![ref1]
+Используя Берлинскую защиту как неожиданное оружие, Крамник в матче на первенство мира с Каспаровым в 2000 г. в четырех партиях из этой позиции черными остался непобежденным. Это было огромным достижением, учитывая грозный рекорд Каспарова по игре белыми фигурами, и оно существенно помогло Крамнику в борьбе за титул.
 
-Using the Berlin Defence as a surprise weapon, Kramnik was undefeated as Black in four games from this position in his World Championship match against Kasparov in 2000. This was a tremendous achievement in view of Kasparov’s fearsome record with the white pieces, and it helped Kramnik considerably in his bid to win the title.
+Несмотря на глубокий анализ, проведенный за десять с лишним лет после матча 2000 года, белым необычайно трудно доказать преимущество в берлинском эндшпиле. Возможно, этим и объясняется его популярность - Берлинская защита удивительным образом не поддается компьютерному анализу вариантов. Белые могут найти способ получить небольшое преимущество, но это будет относиться к области стратегии - вряд ли они найдут потрясающий комбинационный удар в конце длинной последовательности ходов.
 
-Despite deep analysis in the decade or so since the 2000 match, White has found it extraordinarily difficult to prove an advantage in the Berlin endgame. Perhaps that explains its popularity – the Berlin Defence is curiously resistant to computer -based analysis of variations. White might find a way to get a slight advantage, but it will be in the field of strategy – he is unlikely to find a stunning combinative blow at the end of a long sequence of moves.
+Эндшпиль с этой диаграммы станет центральным элементом нашего обсуждения Берлинской защиты. У черных компактная пешечная структура. Она сильна в защите, но в простом эндшпиле может оказаться динамически слабой по той простой причине, что большинство белых 4-3 на королевском фланге может быть превращено в проходную пешку простым продвижением вперед, в то время как большинство черных на ферзевом фланге с удвоенными пешками может быть блокировано тремя пешками белых. Конечно, мы представляем себе сценарий, в котором у черных все пошло не так, но стоит иметь в виду, что при большом количестве разменных фигур пешки королевского фланга белых могут оказаться значительно более мобильными, чем пешки ферзевого фланга черных.
 
-The endgame from this diagram will form the centrepiece of our discussion of the Berlin Defence. Black has a compact pawn structure. It is defensively strong, but in a simple endgame it might prove dynamically weak, for the basic reason that White’s 4-3 pawn majority on the kingside can be converted into a passed pawn just by advancing, whereas black’s queenside majority with its doubled pawns can be blocked by White’s three pawns. Of course, we are imagining a scenario where things have gone seriously wrong for Black, but it is worth bearing in mind that if a lot of pieces are exchanged off, White’s kingside pawns could prove significantly more mobile than Black’s queenside pawns.
+Прежде чем рассматривать теорию и идеи миттельшпиля (я по-прежнему считаю позицию после 8...Kxd8 миттельшпилем, несмотря на размен ферзей!), следует ознакомиться с типом упрощенного эндшпиля, к которому стремятся белые.
 
-Before looking at theory and middlegame ideas (I still regard the position after 8...Kxd8 as a middlegame despite the queen exchange!), we should familiarize ourselves with the type of simplified endgame that White is aiming for.
+**Первый сценарий эндшпиля**
 
-**Endgame Scenario One**
+На диаграмме показана позиция, достигнутая в партии Д.Кокарев - П.Палачев, Тольятти 2011, после ходов **1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8 9.Nc3 Bd7 10.h3 h6 11.b3 Kc8 12.Bb2 Be7 13.Rfd1 a5 14.a4 b6 15.Rd3 Be6 16.Ne2 c5 17.c4 Kb7 18.Nf4 Rad8 19.Rad1 Rxd3 20.Rxd3**.
 
-The diagram shows the position reached in the game **D.Kokarev- P.Palachev**, Tolyatti 2011, after the moves 1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8 9.Nc3 Bd7 10.h3 h6 11.b3 Kc8 12.Bb2 Be7 13.Rfd1 a5 14.a4 b6 15.Rd3 Be6 16.Ne2 c5 17.c4 Kb7 18.Nf4 Rad8 19.Rad1 Rxd3 20.Rxd3.
+Обратите внимание, что белым было разрешено провести коня на поле f4. Это дает им возможность разбить черные пешки королевского фланга ходом Nxe6 – размен, который часто, хотя и далеко не всегда, связан с перевесом белых.
 
-Note that White has been allowed to manoeuvre his knight to the f4- square. This gives him the chance to fracture the black kingside pawns with Nxe6 – an exchange that is often, though by no means always, associated with an advantage to White.
+Вопрос: Вы имеете в виду, что черные обычно останавливают этот маневр коня – как?
 
-*Question:* Do you mean Black normally stops
+Ответ: Несмотря на свой слабеющий вид, в Берлине черные часто играют ...g7-g5, чтобы сдержать пешки белого королевского фланга. Одним из его положительных моментов является то, что он останавливает ход Nf4 белыми, а другой — освобождение поля g7 для черного слона. Пример структуры ...g7-g5 вы можете увидеть в третьем эндшпиле.
 
-this knight manoeuvre – how?
-
-*Answer:* Despite its weakening appearance, in the Berlin Black often plays ...g7-g5 to restrain White’s kingside pawns. One of its good* points is that it stops Nf4 by White – another is the freeing of the g7-square for Black’s bishop. You can see an example of the ...g7-g5 structure in the third endgame scenario.
-
-From the diagram, play continued:
+Судя по всему, игра продолжалась:
 
 **20...Rd8?**
 
-Black confidently exchanges off all the pieces. As his king is so far away from the kingside, where White is planning a breakthrough, this is a dubious strategy. He should keep the rook to fight White’s pawns – perhaps by supporting an immediate 20...h5!?. Alternatively he could sit tight and secure the d-file against invasion with 20...Kc8.
+Черные уверенно разменивают все фигуры. Поскольку их король находится так далеко от королевского фланга, где белые планируют прорыв, это сомнительная стратегия. Им следует сохранить ладью для борьбы с пешками белых - возможно, поддержав немедленное 20...h5!? В качестве альтернативы они могут отсидеться и обезопасить линию "d" от вторжения путем 20...Kc8.
 
-**21.Rxd8 Bxd8 22.Nxe6 fxe6 23.g4**
+**21.Rxd8 Bxd8 22.Nxe6 fxe6 23.g4 Nh4**
 
-**23...Nh4**
-
-Again we must recommend avoiding exchanges, this time with 23...Ne7.
+И снова мы должны рекомендовать избегать разменов, на этот раз с помощью 23...Ne7.
 
 **24.Nxh4 Bxh4 25.Bc1 Kc6 26.Kg2 Kd7 27.Bf4 Ke8 28.Bg3 Be7**
 
-At least Black realizes that with doubled pawns the king and pawn endgame would be hopeless for him.
+По крайней мере, черные понимают, что при сдвоенных пешках эндшпиль с королем и пешкой для них безнадежен.
 
 **29.h4 g5 30.f4 gxf4 31.Bxf4 Bxh4 32.Bxh6 Kf7 33.Kh3 Be7 34.Bf4 Kg6 35.Bg3 Bf8 36.Bh4 Bg7 37.Bf6!**
 
-Nakamura escaped when a pawn down versus Anand in a Berlin bishop endgame at the 2010 London Classic, but Black has no such luck here.
+Накамура спасся, уступив пешку Ананду в эндшпиле с берлинским слоном на London Classic 2010, но здесь черным не повезло.
 
 **37...Bxf6**
 
-He cannot refuse the offer, as 37...Bh6 allows the massacre of his queenside pawns with 38.Bd8.
+Отказаться от этого предложения они не могут, так как 37...Bh6 позволяет расправиться с пешками ферзевого фланга путем 38.Bd8.
 
 **38.exf6 Kxf6**
 
-Now White’s outside passed pawn will deflect the black king long enough for his own king to chomp on the e-pawn and then reach the queenside first. Still, Kokarev had to calculate it accurately as the result of the game depends on a single tempo.
+Теперь отдаленная проходная пешка белых отвлечет черного короля на достаточное время, чтобы его собственный король смог догнать пешку "е" и первым выйти на ферзевый фланг. И все же Кокарев должен был точно рассчитать, ведь результат партии зависит от одного темпа.
 
-**39.Kg3 e5 40.Kf3 Kg5 41.Ke4 Kxg4 42.Kxe5 Kf3 43.Kd5 Ke3 44.Kc6 Kd3 45.Kxc7 Kc3 46.Kxb6 Kb4** Or 46...Kxb3 47.Kb5!
+**39.Kg3 e5 40.Kf3 Kg5 41.Ke4 Kxg4 42.Kxe5 Kf3 43.Kd5 Ke3 44.Kc6 Kd3 45.Kxc7 Kc3 46.Kxb6 Kb4** 
 
-47. **Kc6 Kxb3 48.Kb5 1-0 Endgame Scenario Two**
+Or 46...Kxb3 47.Kb5!
+
+**47.Kc6 Kxb3 48.Kb5 1-0**
+
+**Endgame Scenario Two**
 
 The diagrammed position was reached in **A.Timofeev-A.Mastrovasilis**, Warsaw 2005, after 1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8 9.Nc3 Bd7 10.h3 b6 11.Bf4 Kc8 12.Rad1 h6 13.Ne4 Be6 14.g4 Ne7 15.Nd4 Bd5 16.Nc3 Bc4 17.Rfe1 Kb7 18.b3 Be6 19.Nxe6 fxe6 20.Ne2 Re8 21.Bg3 g5. As in the example above, White has been allowed to exchange a knight for a bishop on the e6-square, weakening Black’s pawns. Timofeev showed some impressive technique to exploit his advantage – the first step is to get his king to the e4-square.
 
