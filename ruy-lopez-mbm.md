@@ -1304,7 +1304,7 @@ c) 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7. Белые показали �
 
 Мат следует после 21...g6 22.Re7+ Kg8 23.Qxg6+ Kf8 24.Qg7#.
 
-# 2 Белые играют d2-d4
+# Глава 2. Белые играют d2-d4
 
 Здесь мы рассмотрим следующие варианты закрытой испанской партии:
 1. Вариант Чигорина
@@ -3033,7 +3033,7 @@ d) После 3...Nge7 4.O-O g6 5.c3 Bg7 6.d4 черные вынуждены у
 
 После 49...Kh8 50.Qxh6+ Kg8 51.Qe6+ Kh8 52.Qe1 белые могут начать продвигать свои проходные пешки.
 
-# 3 Черные играют ...Bc5
+# Глава 3. Черные играют ...Bc5
 
 Здесь мы рассмотрим следующие способы защиты:
 
@@ -3671,125 +3671,115 @@ a) 7...Nxe5 8.Nxe5! не оставляет черным хорошего отв
 
 **35.Qe2 Ra8 36.Rc4 Qd6 37.Nf1 f5 38.Ng3 Ra1+ 39.Kg2 f4 40.Qe8+ Kh7 41.Qxh5+ Kg8 42.Qe8+ Kh7 43.Qe4+ Kg8 44.Qxf4 Ra2+ 45.Kh3 1-0**
 
-## Bird’s Defence
+## Защита Берда
 
-*Game 24*
-
-**R.Hubner-J.Nunn**
-
-Brussels 1986
+>  Game 24, R.Hubner-J.Nunn, Brussels 1986
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 Nd4**
 
-The hunted becomes the hunter ... Black counterattacks against the white bishop.
+Охотник становится охотником ... Черные контратакуют белого слона.
 
 **4.Nxd4 exd4**
 
-*Question:* Generally speaking, do you think the transfer of the black pawn from e5 to d4 has helped or hindered the development of* White’s game?
+Вопрос: В целом, как Вы считаете, перевод черной пешки с e5 на d4 помог или помешал развитию игры белых?
 
-*Answer:* With the pawn on d4 White is denied the natural developing move Nc3. The advance d2-d4 is also at least temporarily* blocked. On the other hand, White’s kingside pawns are more mobile – not only is the obstacle on e5 removed, but the white knight on f3 is no longer getting in the way of f2-f4.
+Ответ: С пешкой на d4 белые лишены естественного развивающего хода Nc3. Продвижение d2-d4 также, по крайней мере, временно заблокировано. С другой стороны, пешки королевского фланга белых более подвижны - не только устранено препятствие на e5, но и белый конь на f3 больше не мешает f2-f4.
 
 **5.O-O Bc5**
 
-Black defends the d4 point and prepares to develop with ...Ne7 without blocking in his bishop. He doesn’t want to put the knight on f6 as in the absence of his own e-pawn it could be attacked by White’s with e4-e5.
+Черные защищают пункт d4 и готовятся к развитию путем ...Ne7, не блокируя своего слона. Они не хотят ставить коня на f6, так как в отсутствие собственной пешки "е" она может быть атакована белыми с e4-e5.
 
 **6.c3**
 
-Hubner’s first priority is to dissolve the pawn on d4. He will be aided in this by the chance to gain time by attacking the bishop on c5 with Nd2 and Nb3. Only then will he begin to assert his potential space advantage on the kingside.
+Первоочередной задачей Хюбнера является ликвидация пешки на d4. В этом ему поможет возможность выиграть время, атаковав слона на с5 ходами Nd2 и Nb3. Только после этого он начнет реализовывать свой потенциальный пространственный перевес на королевском фланге.
 
-Another way for White to play is 6.d3, ignoring the pawn on d4 for the moment and intending to advance quickly on the kingside with f2-f4.
+Другой вариант игры белых - 6.d3, игнорируя пока пешку на d4 и намереваясь быстро продвинуться на королевском фланге с помощью f2-f4.
 
 **6...c6**
 
-It would be entirely wrong for Black to relinquish his hold on d4 with 6...dxc3. White could even play a gambit with 7.d4 cxb2 8.Bxb2 with excellent attacking chances. Black needs to force White to spend a couple of moves to conquer d4, so that in the meantime he can establish a second foothold in the centre with ...d7-d5 (or less ambitiously with ...d7-d6).
+Было бы совершенно неправильно, если бы черные отказались от контроля над d4, сыграв 6...dxc3. Белые могли бы даже разыграть гамбит 7.d4 cxb2 8.Bxb2 с отличными атакующими шансами. Черным необходимо вынудить белых потратить пару ходов на завоевание d4, чтобы тем временем закрепиться в центре путем ...d7-d5 (или менее амбициозным ...d7-d6).
 
-*Question:* Why does Black attack the bishop?
-
-And should it retreat to a4 or c4?
+Вопрос: Почему черные атакуют слона? И должен ли он отступать на a4 или c4?
 
 **7.Ba4**
 
-*Answer:* Black plays ...c7-c6 to break the pin on his d7-pawn, so that it can advance one or two squares as desired.
+Ответ: Черные играют ...c7-c6, чтобы избавиться от связки пешки d7, чтобы она могла продвинуться на одно или два поля по желанию.
 
-After 7.Bc4, White is actually threatening to win a pawn with 8.Bxf7+! Kxf7 9.Qh5+. Black can play solidly with 7...d6 planning ...
+После 7.Bc4 белые фактически угрожают выиграть пешку с помощью 8.Bxf7+! Kxf7 9.Qh5+. Черные могут сыграть надежно с 7...d6, планируя ...Nf6, или спекулировать 7...d5 8.exd5 cxd5 9.Bb5+ Bd7 (или 9...Kf8!?), когда белым нелегко доказать свое преимущество.<addx start="8.Bxf7+"/>
 
-Nf6, or else speculate with 7...d5 8.exd5 cxd5 9.Bb5+ Bd7 (or 9...Kf8!?) when it’s not easy for White to prove his advantage.
-
-The retreat to a4 doesn’t allow Black to gain time by hitting the bishop with ...d7-d5, so White maintains a pawn presence on e4.
+Отступление на a4 не позволяет черным выиграть время за счет удара по слону с ...d7-d5, поэтому белые сохраняют присутствие пешки на e4.
 
 **7...Ne7 8.d3 d5 9.Nd2 Bb6**
 
-The bishop retreats before it is hit by 10.Nb3, which would win the d4-pawn.
+Слон отступает перед ударом 10.Nb3, который позволил бы выиграть пешку d4.
 
 **10.cxd4 Bxd4**
 
-*Question:* Hasn’t Black just lost time with his bishop? Since the pawn on d4 has dropped anyway, why not 9...dxc3 without any more* ado?
+Вопрос: Не потеряли ли черные просто время со своим слоном? Раз уж пешка на d4 все равно упала, почему бы не сделать 9...dxc3 без лишних слов?
 
-*Answer:* Nunn is happy that the pawn exchange took place on d4. If instead 9...dxc3, after 10.bxc3 another white pawn comes to* the centre, meaning that White can expand with d3-d4 and then possibly e4-e5. If the black bishop retreated to b6, Ba3 would bring White’s bishop to life. So the loss of time with ...Bb6 and ...Bxd4 was positionally worth it for Black.
+Ответ: Нанн доволен тем, что размен пешек произошел на d4. Если вместо этого 9...dxc3, то после 10.bxc3 в центр приходит еще одна белая пешка, что означает, что белые могут расшириться путем d3-d4 и затем, возможно, e4-e5. Если бы черный слон отступил на b6, то Ba3 оживило бы слона белых. Таким образом, потеря времени на ...Bb6 и ...Bxd4 позиционно стоила того, чтобы ее сделали черные.
 
 **11.Kh1**
 
-He needs to break the pin on f2 before he can advance on the kingside.
+Им необходимо от связки f2, прежде чем они смогут продвинуться на королевском фланге.
 
 **11...O-O 12.f4 f5**
 
-*Question:* Isn’t this a really bad move, shutting in his bishop on c8
+Вопрос: Разве это не очень плохой ход, закрывающий слона на с8 и позволяющий белым получить защищенную проходную пешку на е5?
 
-and allowing White a protected passed pawn on e5?
-
-*Answer:* Black is more afraid of being struck down by White’s mobile kingside pawns than he is of the passed pawn on e5. For* example if White were allowed to play 13.f5 the bishop on c8 would in any case be boxed in, and by following up with Nf3 White would be pushing for the further advance e4-e5. Hence 12...f5 is a positionally well founded move which restrains White’s aspirations on the kingside.
+Ответ: Черные больше боятся попасть под удар подвижных пешек белого королевского фланга, чем проходной пешки на е5. Например, если бы белым позволили сыграть 13.f5, слон на с8 в любом случае оказался бы в коробке, а последующим Nf3 белые подтолкнули бы дальнейшее продвижение е4-е5. Следовательно, 12...f5 - позиционно обоснованный ход, сдерживающий устремления белых на королевском фланге.<addx start="13.f5"/>
 
 **13.e5 b5?**
 
-This move, however, is highly suspect. Having stopped White’s kingside progress Black becomes ambitious and aims to utilize his 4-3 majority of pawns on the queenside.
+Однако этот ход весьма подозрительный. Остановив продвижение белых на королевском фланге, черные становятся амбициозными и стремятся использовать свое большинство пешек 4 на 3 на ферзевом фланге.
 
-It’s difficult to point out a typically good or bad plan in the Ruy Lopez, because the same moves or plans can be good or bad according to circumstances. John Nunn was rated in the top 10 players in the World around the time of this game, but even he can make an error of judgment – or more specifically a tactical oversight, as he had missed White’s 16th move.
+Трудно выделить типично хороший или плохой план в Испанской партии, поскольку одни и те же ходы или планы могут быть хорошими или плохими в зависимости от обстоятельств. Джон Нанн на момент этой партии входил в десятку лучших игроков мира, но даже он может допустить ошибку, точнее, тактическую оплошность, так как он пропустил 16-й ход белых.
 
-Instead Nunn suggests 13...Bb6 with the plan of ...c6-c5 and ...Be6.
+Вместо этого Нанн предлагает 13...Bb6 с планом ...c6-c5 и ...Be6.
 
 **14.Bb3 c5 15.Nf3 Nc6**
 
-*Exercise:* Try to find the move Nunn missed and the idea behind it.
+Упражнение: Попробуйте найти ход, который пропустил Нанн, и идею, лежащую в его основе.
 
-*Answer:* **16.a4!**
+Ответ: **16.a4!**
 
-Our old friend the a2-a4 attack makes an unexpected entrance. The point is that after 16...b4 17.a5! White has the positionally crushing idea of Ba4, Bxc6 and then Nxd4, when after the forced recapture ...c5xd4 Black will be left with a horrible collection of weak pawns on b4, d4 and d5. A sample line, given in the book of the Brussels 1986 tournament, runs 16...h6 18.a6 (saving the pawn from capture before putting the bishop on a4) 18...Be6 19.Ba4 Qb6 20.Bxc6 Qxc6 21.Nxd4 cxd4 22.Bd2 etc. There would be zero chance of escape from such a mess against a strategic maestro such as Robert Hubner. Notice that if after 17.a5 Black took the pawn with 17...Nxa5? he would lose a piece to 18.Rxa5 Qxa5 19.Bxd5+ and 20.Bxa8.
+Наш старый друг, атака а2-а4, неожиданно появляется. Дело в том, что после 16...b4 17.a5! у белых есть позиционно сокрушительная идея Ba4, Bxc6 и затем Nxd4, когда после форсированного взятия ...c5xd4 черные останутся с ужасной кучей слабых пешек на b4, d4 и d5. Примерная линия, приведенная в книге турнира в Брюсселе 1986 года, выглядит так: 17...h6 18.a6 (спасая пешку от взятия перед тем, как поставить слона на a4) 18...Be6 19.Ba4 Qb6 20.Bxc6 Qxc6 21.Nxd4 cxd4 22.Bd2 и т.д. Против такого стратегического маэстро, как Роберт Хюбнер, шансы на спасение из такой передряги были бы нулевыми. Обратите внимание, что если бы после 17.a5 черные забрали пешку путем 17...Nxa5?, то потеряли бы фигуру после 18.Rxa5 Qxa5 19.Bxd5+ и 20.Bxa8.<addx start="20.Bxa8"/>
 
 **16...Ba6 17.Nxd4 Nxd4 18.axb5 Bxb5 19.Be3 Ne6**
 
-The c5-pawn will drop after 19...Nxb3 20.Qxb3 as the black bishop is hanging.
+Пешка c5 падает после 19...Nxb3 20.Qxb3, так как черный слон находится в подвешенном состоянии.
 
 **20.Qf3 Bc6 21.Ra6 Qd7**
 
-*Exercise:* Can you see the elegant way that White now breaks open the* centre for his bishop pair and acquires central united passed pawns? *Answer:* **22.Rxc6! Qxc6 23.Bxd5 Qc8 24.Rc1!**
+Упражнение: Видите ли вы, как элегантно белые вскрывают центр для своей пары слонов и приобретают центральные связанные проходные пешки?
 
-Much stronger than taking back the exchange with 24.Bxa8. The c5-pawn now drops and Black can do nothing about the pin on e6 which will abet the advance of the white centre pawns.
+Ответ: **22.Rxc6! Qxc6 23.Bxd5 Qc8 24.Rc1!**
+
+Гораздо сильнее, чем отыгрывать качество ходом 24.Bxa8. Пешка с5 теперь падает, и черные ничего не могут сделать со связкой на е6, которая будет способствовать продвижению белых центральных пешек.
 
 **24...Rb8 25.Rxc5 Qd7 26.Rc6 Rfe8 27.Rd6 Qf7 28.Bc4! 1-0**
 
-If 28...Rxb2 then 29.Rxe6 Rb1+ 30.Bg1 Rxe6 31.Qa8+ and mates.
+Если 28...Rxb2, то 29.Rxe6 Rb1+ 30.Bg1 Rxe6 31.Qa8+ и мат.
 
-**Chapter Four**
+# Глава 4. Пешечный центр белых e5
 
-**White’s e5 Pawn Centre**
 
-Here we’ll examine two defences. The first is the Berlin Endgame, with the standard sequence **1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O** **Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8**.
 
-The second is the Open Variation of the Ruy Lopez, which typically begins **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6** **d4 b5 7.Bb3 d5 8.dxe5 Be6**.
+Здесь мы рассмотрим две защиты. Первая - Берлинский эндшпиль, со стандартной очередностью **1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8**.
 
-Note that, if White wishes, he can rule out the Berlin Endgame by 4.d3 (or 4.Qe2). Similarly, 5.d3 stops the capture on e4 and so prevents the Open Variation.
+Второй - открытый вариант Испанской, который обычно начинается так **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6**.
 
-*Question:* Should I allow the Berlin Endgame and Open Variation?
+Заметим, что при желании белые могут исключить Берлинский эндшпиль путем 4.d3 (или 4.Qe2). Аналогично, 5.d3 останавливает взятие на е4 и тем самым предотвращает открытый вариант.<level start="4.d3" value="+1"/>
 
-*Answer:* You should give serious consideration to these avoidance measures, which have been examined in Chapter One. They have* been used regularly by Carlsen and other top players and don’t give Black an easy life. From a practical point of view, it saves on the amount of theory you have to learn and denies the opponent the chance to play what might be his favourite defence.
+Вопрос: Должен ли я допускать Берлинский эндшпиль и Открытый вариант?
 
-*Question:* Why is the pawn structure in these defences
+Ответ: Вам следует серьезно рассмотреть эти меры уклонения, которые были рассмотрены в первой главе. Они регулярно применяются Карлсеном и другими ведущими игроками и не дают черным легкой жизни. С практической точки зрения, они позволяют сэкономить на изучении теории и лишают соперника возможности играть то, что может быть его любимой защитой.
 
-so different from what we have seen so far?
+Вопрос: Почему структура пешек в этих защитах так отличается от того, что мы видели до сих пор?
 
-*Answer:* White has been allowed to conquer the e5- square with a pawn. This is contrary to the philosophy of the previous sections, in* which Black does his utmost to maintain his own pawn on e5 as a stronghold in the centre. However, as we shall see, in return for this positional concession Black gains active play for his pieces.
+Ответ: Белые получили возможность завоевать пешкой поле е5. Это противоречит философии предыдущих разделов, в которых черные делают все возможное, чтобы сохранить свою пешку на е5 в качестве опорного пункта в центре. Однако, как мы увидим, в обмен на эту позиционную уступку черные получают активную игру для своих фигур.
 
-**The Berlin Defence with 4.O-O Nxe4 5.d4 Be7**
+## The Berlin Defence with 4.O-O Nxe4 5.d4 Be7
 
 We’ll begin by examining a game in which Black declines the chance for the Berlin Endgame in favour of 5...Be7. This will also give us the chance to look at other early options.
 
