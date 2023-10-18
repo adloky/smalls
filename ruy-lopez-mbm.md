@@ -4089,163 +4089,139 @@ a) 7...Nxe5 8.Nxe5! не оставляет черным хорошего отв
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8**
 
-*Question:* After 9.Rd1+ would Black do better to block the check with 9...Bd7 or move his king to e8? In general, do you think giving* the check
-
-is a good, bad or simply okay idea for White?
+Вопрос: После 9.Rd1+ черным лучше заблокировать шах путем 9...Bd7 или перевести короля на е8? И вообще, как Вы считаете, дать шах - это хорошая, плохая или просто нормальная идея для белых?
 
 **9.Nc3**
 
-*Answer:* 9.Rd1+ would lead to embarrassment for Black after 9...Bd7? 10.g4! Ne7 11.e6! (the pawn advance that Black must always* ensure is never good for White) 11...fxe6 12.Ne5 Nd5 and White wins material with 13.Nf7+ or 13.c4.
+Ответ: 9.Rd1+ поставило бы черных в затруднительное положение после 9...Bd7? 10.g4! Ne7 11.e6! (продвижение пешки, которое черные должны всегда обеспечивать, никогда не пойдет на пользу белым) 11...fxe6 12.Ne5 Nd5, и белые выигрывают материал с помощью 13.Nf7+ или 13.c4.
 
-However, after 13.Rd1+ Ke8! White has achieved less than nothing with his rook check. Black might have been intending to play ...Ke8 of his own accord, so White has been rather silly to chase the king there. Furthermore, the rook might well prove to be misplaced on d1, especially as White is aiming at kingside action. Speaking in general, Rad1 rather than Rfd1 would be the correct occupation of the d-file by White.
+Однако после 9.Rd1+ Ke8! белые своим шахом ладьи не добились практически ничего. Возможно, черные намеревались сыграть ...Ke8 по собственной инициативе, поэтому белым было довольно глупо гонять туда короля. Кроме того, ладья вполне может оказаться неуместной на d1, тем более что белые нацелены на действия на королевском фланге. Если говорить в целом, то правильным занятием линии "d" белыми было бы Rad1, а не Rfd1.
 
-The game move 9.Nc3 is good way for White to start. It makes more sense to put a piece on what is almost certainly its best square than speculate with the rook check.
+Ход 9.Nc3 - хорошее начало для белых. Логичнее поставить фигуру на почти наверняка лучшее поле, чем спекулировать с шахом ладьи.
 
 **9...h6**
 
-*Question:* What is the purpose of this move?
+Вопрос: Какова цель этого хода? И каков был бы лучший ответ на 9...Be6?
 
-And what would the best response be to 9...Be6?
+Ответ: Ход 9...h6 устанавливает контроль над полем g5. Если бы черные сыграли 9...Be6, что, на первый взгляд, лучше, так как освобождает с8 для короля и защищает f7, то 10.Ng5! несколько неудобно. Например, 10...Ke7 (чтобы избежать разгрома пешек путем 11.Nxe6+ fxe6) 11.f4!? (планируя атаковать 12.g4 и 13.f5) 11...h5 12.Rd1 Rd8 13.Rxd8 Kxd8 14.Nxe6+ fxe6 15.Ne4, а в партии М.Карлсен - А.Харлов, Варшава 2005, совсем молодой Магнус Карлсен постепенно продвигал пешки на королевском фланге, завершившись прорывом f4-f5. Черные ни в коем случае не проигрывают после 10...Ke7, но создается ощущение, что они создали себе лишние проблемы.<addx start="11.Nxe6+"/><addx start="12.g4"/><add start="13.f5" value="12...Nd4"/>
 
-*Answer:* The move 9...h6 takes control of the g5-square. If Black had played 9...Be6, which on the face of it seems better as it* clears c8 for the king and defends f7, 10.Ng5! is somewhat awkward. For example 10...Ke7 (to avoid his pawns being broken up by 11.Nxe6+ fxe6) 11.f4!? (planning to charge with 12.g4 and 13.f5) 11...h5 13.Rd1 Rd8 14.Rxd8 Kxd8 15.Nxe6+ fxe6 16.Ne4 and in M.Carlsen-A.Kharlov, Warsaw 2005, a very young Magnus Carlsen gradually edged forwards his pawns on the kingside culminating in an f4-f5 breakthrough. Black is by no means losing after 10...Ke7, but it feels as if he has created unnecessary trouble for himself.
+Брузон намерен продолжить ...Bd7 и ...Kc8. Поэтому он использует 9...h6 для защиты g5, так как в противном случае Ng5, угрожая Nxf7, будет трудно встретить c королем на с8.
 
-Bruzon intends to follow up with ...Bd7 and ...Kc8. He therefore uses 9...h6 to guard g5 as otherwise Ng5, threatening Nxf7, would be hard to meet with the king on c8.
+Черные также исключили Bg5, которое с черным королем на с8 может быть частью плана по сдвоению белых ладей по линии "d" и последующему вторжению на d8.
 
-Black has also ruled out Bg5 by White, which with the black king on c8 might be part of a plan to double the white rooks on the d-file and then invade on d8.
-
-We shall soon see another role that 9...h6 serves in the kingside struggle.
+Вскоре мы увидим еще одну роль, которую играет 9...h6 в борьбе на королевском фланге.
 
 **10.h3**
 
-A very subtle opening this, with both players making little moves with their h-pawns.
+Очень тонкий розыгрышь дебюта, в котором оба игрока делают небольшие ходы своими пешками "h".
 
-White’s h2-h3 will almost certainly prove useful at some point in supporting g2-g4. If Black plays 10...Be6, we can charge straightaway with 11.g4!? Ne7 12.Nd4 (clearing the way for the f-pawn with gain of time as Black has no wish to allow 13.Nxe6+) 12 ...
+Почти наверняка h2-h3 белых в какой-то момент окажется полезным для поддержки g2-g4. Если черные сыграют 10...Be6, то можно сразу атаковать ходами 11.g4!? Ne7 12.Nd4 (освобождая дорогу пешке "f" с выигрышем времени, так как черные не хотят допускать 13.Nxe6+) 12...Bd7 13.f4 Nd5 14.Nxd5 cxd5 15.f5 и т.д., как в партии А.Широв - Ф.Вальехо-Понс, Арвье 2010. Широву удалось выиграть эту партию, но ему пришлось проявить всю свою тактическую и позиционную виртуозность, чтобы удержать контроль. У черных огромные оборонительные/контратакующие ресурсы за счет пары слонов.<addx start="13.Nxe6+"/>
 
-Bd7 13.f4 Nd5 14.Nxd5 cxd5 15.f5 etc., as in A.Shirov-F.Vallejo Pons, Arvier 2010. Shirov managed to win this game but he had to show all his tactical and positional virtuosity to keep control. Black has enormous defensive/counterattacking resources due to the bishop pair.
-
-It won’t always be a good idea for White to push his pawns in this fashion, but 10.h3 keeps the latent threat of g2-g4 hanging over Black’s head. It also rules out any idea of ...Bg4 by Black after the knight retreats to e7 (the regrouping ...Ne7 and ...Ng6 is a common manoeuvre for Black in the Berlin).
+Не всегда белым будет выгодно так надвигать пешки, но 10.h3 сохраняет скрытую угрозу g2-g4, нависшую над головой черных. Кроме того, исключается идея ...Bg4 после отступления коня на е7 (перегруппировка ...Ne7 и ...Ng6 - обычный маневр черных в берлине).
 
 **10...Bd7!?**
 
-A move favoured by Kramnik, the pioneer of the Berlin Defence in its 21st Century version.
+Ход, который предпочитает Крамник, основоположник Берлинской защиты в ее варианте XXI века.
 
 **11.b3**
 
-The 11.g4?! advance is much less attractive now that there is no black bishop on e6 to gain a tempo off with Nd4. After 11...Ne7 White already has to worry about 12...h5. The white pawns look like targets rather than a dynamic mass.
+Продвижение 11.g4?! гораздо менее привлекательно теперь, когда нет черного слона на е6, чтобы выиграть темп с помощью Nd4. После 11...Ne7 белым уже приходится опасаться 12...h5. Белые пешки выглядят как мишени, а не как динамичная масса.<addx start="12...h5"/>
 
-The game move is very sensible. White’s bishop doesn’t have much scope along the c1-h6 diagonal, so Nepomniachtchi elects to put it on b2, where it overprotects e5 and might suddenly come alive if the chance for an e5-e6 breakthrough arises.
+Ход в партии очень разумный. У слона белых не так много возможностей по диагонали c1-h6, поэтому Непомнящий решает поставить его на b2, где он надежно защищает e5 и может внезапно ожить, если возникнет шанс на прорыв e5-e6.
 
 **11...c5**
 
-Encouraged by White’s ‘slow’ 11.b3, Black immediately utilizes his queenside pawns to gain control of the d4-square. See the note to 14...g5 for one reason why this is positionally useful.
+Воодушевленные "медленным" 11.b3 белых, черные немедленно используют свои пешки ферзевого фланга для установления контроля над полем d4. О том, почему это позиционно полезно, см. примечание к 14...g5.<skip start="14...g5"/>
 
-*Question:* Assuming the black king won’t stay
+Вопрос: Если предположить, что черный король не будет бесконечно долго находиться на d8, то ему следует идти на c8 или e8?
 
-indefinitely on d8, should it go to c8 or e8?
+Ответ: В современном понимании король должен идти на с8, как это сделал Брузон в этой партии и Карлсен далее в этой главе. Скорее всего, он будет эвакуирован с первого ряда путем ...b7 -b6 и ...Kb7, когда черные ладьи будут связаны. В качестве альтернативы он может остаться на c8, помогая защищать линию "d" от ладей белых. В этом случае ладья на a8 может попытаться проскользнуть в игру через a6 (в данной партии это невозможно после того, как черные сыграют 15...b6).<skip start="15...b6"/>
 
-*Answer:* The modern preference is for the king to go to c8, as played by Bruzon in this game and by Carlsen later in the chapter. Most* likely it will be evacuated from the first rank by ...b7 -b6 and ...Kb7, when the black rooks are connected. Alternatively it could stay on c8, helping to guard the d -file against White’s rooks. In that case the rook on a8 might try to slip into the game via a6 (this isn’t possible in the present game after Black plays 15...b6).
+Альтернативное направление с ...Ke8 менее популярно, хотя оно имеет те преимущества, что f7 защищено и ...Rd8 может быть быстро сыграно. Видимо, считается, что король мешает защитным действиям черных ладей на королевском фланге - например, ход ...Rag8 был бы заблокирован. Более остро черные столкнулись с проблемой в партии Г.Каспаров - В.Крамник, Астана 2001, после 11...Ke8 12.Bb2 Rd8 13.Rad1 Ne7 14.Rfe1 Ng6 15.Ne4 Nf4 16.e6!
 
-The alternative direction with ...Ke8 is less popular, even though it has the good features that f7 is defended and ...Rd8 can be quickly played. I guess it is considered that the king gets in the way of defensive action by the black rooks on the kingside – the move ...
+Это ключевая идея в берлинской партии: Белые продвигают е5-е6, чтобы сорвать построение черных. Игра продолжалась 16...Nxe6 (если 16...Bxe6 17.Nf6+! и черные должны отступить за счет 17...gxf6 18.Rxd8+ Kxd8 19.Bxf6+ Be7 20.Bxh8 или 17...Ke7 18.Ba3+ Kxf6 19.Rxd8) 17.Nd4 c5 18.Nf5 Rh7 19.Bf6! (используя еще одну потенциальную развилку) 19...Rc8, и теперь Каспаров вырывает победу после 20.Bxg7, но после партии он сказал, что 20.f4!, удерживающее черных в узде, было еще сильнее, например, 20...Bc6 21.Nfg3 со страшной угрозой 22.f5.<addx start="22.f5"/>
 
-Rag8 would for example be blocked. More acutely, Black got into trouble in G.Kasparov-V.Kramnik, Astana 2001, after 11...Ke8 12.Bb2 Rd8 13.Rad1 Ne7 14.Rfe1 Ng6 15.Ne4 Nf4 16.e6!.
+Кстати, если бы Каспарову удалось так мощно сыграть против Берлинской защиты Крамника в их матче 2000 года, то современная шахматная история могла бы выглядеть совсем иначе.
 
-This is a key idea in the Berlin: White advance e5-e6 to disrupt Black’s build-up. The game continued 16...Nxe6 (if 16...Bxe6 17.Nf6+! and Black should resign on account of 17...gxf6 18.Rxd8+ Kxd8 19.Bxf6+ Be7 20.Bxh8 or 17...Ke7 18.Ba3+ Kxf6 19.Rxd8) 17.Nd4 c5 18.Nf5 Rh7 19.Bf6! (exploiting another potential fork) 19...Rc8 and now Kasparov ground out a win after 20.Bxg7, but he said after the game that 20.f4! keeping Black in a bind was even stronger, for example 20...Bc6 21.Nfg3 with the terrible threat of 22.f5.
-
-Incidentally, if Kasparov had managed to play this powerfully against Kramnik’s Berlin Defence in their 2000 match, modern chess history might have looked very different.
-
-From this extract we can conclude that with the black king on e8, White has the chance to break through before the defence is properly organized. Even with the king on c8 it is usually a serious positional trump for White if he manages to advance e5-e6 in a safe way, even if it amounts to no more than the exchange of the e-pawn for the f7- pawn. Not only would he be breaking Black’s potential light-square blockade, he would also be opening lines for his pieces in the centre – and the black king’s enforced stay in the centre, whether on c8 or e8, might then become a real liability.
+Из этого отрывка можно сделать вывод, что при наличии черного короля на е8 белые имеют шанс прорваться до того, как защита будет должным образом организована. Даже с королем на с8 для белых обычно является серьезным позиционным козырем, если им удается безопасно продвинуться е5-е6, даже если это сводится не более чем к размену пешки "е" на пешку f7. Белые не только прорвут потенциальную блокаду белых полей, но и откроют линии для своих фигур в центре, а вынужденное пребывание черного короля в центре, будь то на c8 или e8, может стать реальной помехой.
 
 **12.Rd1 Kc8 13.Bb2 Be6 14.Nd5 g5**
 
-*Question:* Why on Earth does Black weaken his kingside pawns?
+Вопрос: Зачем черные ослабляют пешки королевского фланга?
 
-*Answer:* The general answer is that Black is establishing a barrier to White’s looming kingside pawn advance. You will see in the* present game that the g5-pawn, supported by the black pieces, is a hard nut for Nepomniachtchi to crack. Indeed, White’s game might collapse if he pushes too hard against it.
+Ответ: Общий ответ заключается в том, что черные создают барьер на пути надвигающейся пешки на королевском фланге белых. В данной партии вы увидите, что пешка g5, поддерживаемая черными фигурами, является для Непомнящего крепким орешком. Действительно, игра белых может развалиться, если они будут слишком настойчивы в борьбе с ней.
 
-More specifically, Black is preventing White from carrying out the exchange Nf4 and Nxe6, when after ...f7xe6 his kingside pawns are split and he is deprived of his light-squared bishop, which amongst other things is helping to prevent an invasion by the white rooks on d7. Black has already played 11...c5 to guard the bishop against possible exchange by Ne2 and Nd4.
+Точнее, черные мешают белым осуществить размен Nf4 и Nxe6, когда после ...f7xe6 их пешки королевского фланга разделены и они лишены своего белопольного слона, который, кроме всего прочего, помогает предотвратить вторжение белых ладей на d7. Черные уже сыграли 11...c5, чтобы защитить слона от возможных разменов путем Ne2 и Nd4.
 
 **15.c4 b6 16.Kh2 Ne7 17.g4 Ng6 18.Kg3**
 
-Now White is ready to advance 19.h4, beginning to remove the black obstacles in the path of his pawn majority.
+Теперь белые готовы к продвижению 19.h4, начиная устранять черные препятствия на пути своего пешечного большинства.<addx start="19.h4"/>
 
 **18...Be7!**
 
-Preventing White’s plan by guarding h4 a third time.
+Препятствуя плану белых, защищая h4 в третий раз.
 
 **19.Rd2 Kb7**
 
-After 19.Nxe7+ Nxe7 White can’t advance with 20.h4? because 20...gxh4+ puts his king under too much pressure – 21.Nxh4 Rg8 22.f3 h5 or more subtly 21.Kxh4 h5! 22.gxh5 Rg8! and the threats of 23...Nf5+ or 23...Rg4+ forcing the white king into a discovered check are too painful.
+После 19.Nxe7+ Nxe7 белые не могут продвинуться 20.h4?, так как 20...gxh4+ создает слишком сильное давление на короля - 21.Nxh4 Rg8 22.f3 h5 или более тонко 21.Kxh4 h5! 22.gxh5 Rg8! и угрозы 23...Nf5+ или 23...Rg4+, вынуждающие белого короля к вскрытому шаху, слишком болезненны.<addx start="23...Nf5+"/>
 
 **20.Rh1 a5 21.a4!**
 
-Not giving Black the chance to open a second front with 21...a4.
+Не давая черным возможности открыть второй фронт путем 21...a4.<addx start="21...a4"/>
 
 **21...Rad8 22.Bc1**
 
-*Exercise:* We have reached a critical point in the game.
+Упражнение: Мы достигли критической точки в партии. Можете ли вы предложить хороший план для черных?
 
-Can you suggest a good plan for Black?
+Ответ: Пассивная игра не кажется достаточной для удержания равновесия за черных. Как мы увидим, после нескольких повторений Непомнящий конструирует h3-h4, после чего блокада на королевском фланге начинает рушиться. Поэтому представляется подходящим моментом контратака в центре путем 22...Bxd5! После 23.cxd5?! f6! черные неожиданно выглядят лучше, так как 24.e6? (разумнее отступить 24.exf6, хотя после 24...Bxf6 у черных все равно лучше, так как d5 слабо) 24...Bd6+ 25.Kg2 Bf4 очень неудобно для белых - если ладья перейдет с d2, то последует ...Bxc1 и ...Nf4+.
 
-*Answer:* Passive play doesn’t seem sufficient to hold the balance for Black. As we shall see, after some repetitions Nepomniachtchi* engineers h3-h4 whereupon the blockade on the kingside starts to crumble. Therefore this seems the moment to counterattack in the centre with 22...Bxd5!. After 23.cxd5?! f6! Black suddenly seems better, as 24.e6? (it’s wiser to bail out with 24.exf6 though Black is still better after 24...Bxf6 as d5 is weak) 24...Bd6+ 25.Kg2 Bf4 is highly awkward for White – if the rook moves from d2 then ...Bxc1 and ...Nf4+ follows.
-
-So 23.Rxd5 is forced: 23...Rxd5 24.cxd5 Rd8 25.Rd1 f6 26.exf6 Bxf6. Now Black threatens to pick up d5 with 27...Ne7, so White has to act fast: 27.h4! gxh4+ 28.Kh3. White is a pawn down but he threatens 29.Bxh6 which would create a passed pawn. 28...Rh8 is too passive because of 29.Re1; meanwhile 28...Bg7 allows 29.Nxh4. If instead 28...Ne7, then 29.Bxh6 Nxd5 (threatening 30...Nf4+) 30.Rg1 looks quite promising for White.
+Поэтому форсируется 23.Rxd5: 23...Rxd5 24.cxd5 Rd8 25.Rd1 f6 26.exf6 Bxf6. Теперь черные грозят забрать d5 путем 27...Ne7, поэтому белым приходится действовать быстро: 27.h4! gxh4+ 28.Kh3. У белых на пешку меньше, но они угрожают 29.Bxh6, что создаст проходную пешку. 28...Rh8 слишком пассивно из-за 29.Re1; между тем 28...Bg7 допускает 29.Nxh4. Если вместо этого 28...Ne7, то 29.Bxh6 Nxd5 (угрожая 30...Nf4+) 30.Rg1 выглядит вполне перспективно для белых.<addx start="27...Ne7"/><addx start="29.Bxh6"/><addx start="30...Nf4+"/>
 
 **22...Rdg8 23.Rhd1 Kc8 24.Nf6 Rd8**
 
-Note that 24...Bxf6?! would be dubious as after 20.exf6 White’s far advanced pawn is a menace in the endgame – see Endgame Scenario Three above. The idea of Re1 followed by a Rxe6 exchange sacrifice becomes available to White, clearing the way for the f6-pawn; then Ne5 to help the advance of the pawn is possible.
+Заметим, что 24...Bxf6?! было бы сомнительно, так как после 25.exf6 далеко продвинутая пешка белых представляет угрозу в эндшпиле - см. выше третий эндшпильный сценарий. Для белых становится доступной идея Re1 с последующей разменной жертвой Rxe6, освобождающей путь пешке f6; затем возможно Ne5, способствующее продвижению пешки.
 
 **25.Nd5 Rdg8 26.Rd3 Re8 27.Bb2 Bd8 28.Nf6 Ref8 29.Re3 Be7 30.h4**
 
-After a lot of positional jockeying White finally tries to storm the barricades.
+После позиционной борьбы белые, наконец, пытаются штурмовать баррикады.
 
 **30...gxh4+ 31.Nxh4 Rfg8**
 
-It’s important that White can keep his king shielded from the black rooks, for example 31...Nxh4 32.Kxh4 Rfg8 33.f3 h5 34.g5 keeps lines closed whilst maintaining the integrity of White’s pawn mass. Or alternatively if 31...h5 White can choose between 32.g5 and 32.Nxg6 fxg6 33.f3.
+Важно, чтобы белые могли оградить своего короля от черных ладей, например, 31...Nxh4 32.Kxh4 Rfg8 33.f3 h5 34.g5 закрывает линии, сохраняя целостность пешечной массы белых. Или, наоборот, если 31...h5, белые могут выбирать между 32.g5 и 32.Nxg6 fxg6 33.f3.
 
 **32.Nf3?!**
 
-Certainly not 32.Nxg8? Bxh4+. Perhaps more precise was 32.Nxg6 Rxg6 33.f3! keeping his kingside secure. For example if 33...Bxf6 (or 33...h5 34.Rh1) 34.exf6 the counterattack with 34...h5 fails after 35.Rh1! Rgg8 36.Rxe6! fxe6 37.f7 Rf8 38.Bxh8 Rxh8 39.Rxh5 and wins.
+Конечно же, не 32.Nxg8? Bxh4+. Возможно, точнее было 32.Nxg6 Rxg6 33.f3! сохраняя свой королевский фланг в безопасности. Например, если 33...Bxf6 (или 33...h5 34.Rh1) 34.exf6, то контратака с 34...h5 проваливается после 35.Rh1! Rgg8 36.Rxe6! fxe6 37.f7 Rf8 38.Bxh8 Rxh8 39.Rxh5 и победа.
 
 **32...Rd8?!**
 
-Black could have put up more resistance with 32...Bxf6 33.exf6 Nf8.
+Черные могли оказать большее сопротивление, если бы 32...Bxf6 33.exf6 Nf8.
 
 **33.Rh1!**
 
-White’s play hereabouts is very thematic – he intends Bc3, Nd2 and then f2-f4 and there is nothing Black can do to stop it.
+Игра белых здесь очень тематична - они намереваются Bc3, Nd2 и затем f2-f4, и черные ничего не могут сделать, чтобы этому помешать.
 
 **33...c6 34.Bc3 Kc7 35.Nd2 Bf8 36.f4 Ne7 37.Nde4!**
 
-Of course he shouldn’t allow 37.f5 Bxf5!.
+Конечно, они не должены допускать 37.f5 Bxf5!
 
 **37...Bg7 38.Rf3 Bxf6 39.exf6 Nc8 40.f5 1-0**
 
-Black either lost on time or gave up in exasperation. Contrary to most Berlin scenarios, White hasn’t needed to turn his kingside juggernaut into passed pawns, as its mere presence stops the black pieces functioning properly. After 40...Bd7 41.Be5+ Kb7 42.Rd1 Black has no good way to stop 43.Rfd3 winning a piece, as 42...Na7 allows 43.Nd6+ and 44.Nxf7.
+Черные либо проиграли по времени, либо в раздражении сдались. В отличие от большинства берлинских сценариев, белым не нужно было превращать свою мощь королевского фланга в проходные пешки, поскольку само их присутствие мешает черным фигурам функционировать должным образом. После 40...Bd7 41.Be5+ Kb7 42.Rd1 у черных нет хорошего способа помешать 43.Rfd3 выиграть фигуру, поскольку 42...Na7 позволяет 43.Nd6+ и 44.Nxf7.<addx start="43.Rfd3"/><addx start="44.Nxf7"/>
 
-A good demonstration of the power of White’s kingside pawns if they overcome the barriers in their path. You will also have noticed what a strain it was for White to keep control – he got there in the end, but it looked at times as if his kingside might disintegrate. It’s no easy task to beat the Berlin Defence!
+Хорошая демонстрация силы пешек королевского фланга белых, если они преодолевают препятствия на своем пути. Вы также заметили, с каким трудом белые удерживали контроль - в конце концов, они добились своего, но временами казалось, что их королевский фланг может распасться. Победить Берлинскую защиту - задача не из легких!
 
 **Black plays ...h7-h5**
 
-*Exercise:* You might like to play through the following two game scores
+Упражнение: Вы можете просмотреть следующие две партии и спросить себя: почему в первой партии белые потерпели катастрофу, а во второй одержали красивую тематическую победу? В чем ключевые различия? (Не будьте слишком строги к себе, ведь проигравшие в обеих партиях имели рейтинг гораздо выше 2600).
 
-and ask yourself: why did White suffer a catastrophe in the first game,
+**Game One:** 1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8 9.Nc3 Bd7 10.h3 b6 11.b3 Kc8 12.Bb2 h5 13.g3 Be7 14.Rad1 a5 15.a4 Re8 16.Rd3 c5 17.Nd5 c4 18.Rc3 Bc5 19.Kh2 Bc6 20.bxc4 Bxa4 21.Ra1 Bc6 22.Rf1 a4 23.Ba3 Ra5 24.g4 hxg4 25.hxg4 Ne7 26.Nb4 Bb7 27.Kg3 Ng6 28.Re1 Bxf3 29.Rxf3 Rxe5 30.Rd1 Re4 31.Rxf7 Rxg4+ 32.Kxg4 Ne5+ 33.Kg3 Nxf7 0-1
 
-and record a beautifully thematic victory in the second? What are
+**Game Two:** 1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8 9.Nc3 Bd7 10.b3 Kc8 11.Bb2 h5 12.Ne4 Be7 13.Rad1 a5 14.a4 c5 15.c4 Ra6 16.Rd3 Rg8 17.Rfd1 Bc6 18.Nc3 g5 19.Nd5 Bxd5 20.cxd5 Rd8 21.Bc3 g4 22.Ne1 Bg5 23.g3 f6 24.e6 h4 25.f4 gxf3 26.Nxf3 hxg3 27.h3 Rad6 28.Nxg5 fxg5 29.Be5 Rb6 30.Rf1 Nd6 31.Rdf3 Rb4 32.Rf8 1-0
 
-the key differences? (Don’t be too hard on yourself, as the losers
+Вот две партии с аннотациями.
 
-in both games were rated well over 2600.)
-
-**Game One:** 1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8 9.Nc3 Bd7 10.h3 b6 11.b3** Kc8 12.Bb2 h5 13.g3 Be7 14.Rad1 a5 15.a4 Re8 16.Rd3 c5 17.Nd5 c4 18.Rc3 Bc5 19.Kh2 Bc6 20.bxc4 Bxa4 21.Ra1 Bc6 22.Rf1 a4 23.Ba3 Ra5 24.g4 hxg4 25.hxg4 Ne7 26.Nb4 Bb7 27.Kg3 Ng6 28.Re1 Bxf3 29.Rxf3 Rxe5 30.Rd1 Re4 31.Rxf7 Rxg4+ 32.Kxg4 Ne5+ 33.Kg3 Nxf7 0-1
-
-**Game Two:** 1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4 0- 0.Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8 9.Nc3 Bd7 10.b3 Kc8 11.Bb2** h5 12.Ne4 Be7 13.Rad1 a5 14.a4 c5 15.c4 Ra6 16.Rd3 Rg8 17.Rfd1 Bc6 18.Nc3 g5 19.Nd5 Bxd5 20.cxd5 Rd8 21.Bc3 g4 22.Ne1 Bg5 23.g3 f6 24.e6 h4 25.f4 gxf3 26.Nxf3 hxg3 27.h3 Rad6 28.Nxg5 fxg5 29.Be5 Rb6 30.Rf1 Nd6 31.Rdf3 Rb4 32.Rf8 1-0
-
-Here are the two games with annotations.
-
-*Game 27*
-
-**J.Smeets-M.Carlsen**
-
-Wijk aan Zee 2011
+> Game 27, J.Smeets-M.Carlsen, Wijk aan Zee 2011
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8 9.Nc3 Bd7!?**
 
@@ -4383,7 +4359,7 @@ Finally, if you are thinking of adding the Berlin to your repertoire with the bl
 
 Black can only play the freeing move ...d7-d5 with reasonable safety in Closed lines if he is prepared to sacrifice a pawn (as for example in the Marshall Attack or with 10...d5 in the Chigorin – see Chapter Five), or if White has been somewhat careless or over-passive.
 
-In contrast, Black is allowed to advance ...d7 -d5 without resistance from White in the Open Variation. The mainline runs **1.e4 e5 2** **Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6**.
+In contrast, Black is allowed to advance ...d7 -d5 without resistance from White in the Open Variation. The mainline runs **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6**.
 
 As you would expect when the ...d7-d5 freeing move has been achieved, Black’s minor pieces enjoy a lot of activity. Black’s knight sits, albeit temporarily, on e4 – an incredible impertinence as this is usually White’s strongest centre square. And, in the absence of a white pawn on d4, the horse can retreat from e4 to c5, or, more boldly, the bishop can be developed from f8 to c5, adding to the pressure on the f2 point.
 
@@ -6056,7 +6032,7 @@ Blunders of the 24.Nf3 kind often occur in the Marshall. White gets tired of cal
 
 Having read the stuff above on the Marshall, you might share my doubts on allowing Black’s pawn sacrifice. Indeed, why enter a variation which requires reams of book learning, that hands the initiative to the opponent, and, should you survive the attack, still gives few winning chances in the endgame? It makes no sense for the ordinary player, and elite players such as Carlsen and Kasparov have also preferred to avoid the Marshall.
 
-Here we’ll take a look at one of the respectable ‘Anti-Marshall’ lines in the Closed Lopez: **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5** **O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3** *(see diagram overleaf)*.
+Here we’ll take a look at one of the respectable ‘Anti-Marshall’ lines in the Closed Lopez: **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3** *(see diagram overleaf)*.
 
 Because Black has played 7 ... 0 -0 rather than the 7...d6, we play 8.h3! rather than 8.c3. If now 8...d6 we simply transpose back into the normal lines of Chapter Two with 9.c3! having sidestepped the Marshall. In that case we see a nice ‘ambidextrous’ quality to 8.h3: it is useful both in a fast moving gambit centre (should Black play 8...d5) and equally useful in the positional struggle that occurs after 8...d6 9.c3 – as we know it denies the black bishop the g4-square and so makes the 10.d4 advance more secure.
 
