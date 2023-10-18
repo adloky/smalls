@@ -3951,165 +3951,143 @@ a) 7...Nxe5 8.Nxe5! не оставляет черным хорошего отв
 
 **39.Kg3 e5 40.Kf3 Kg5 41.Ke4 Kxg4 42.Kxe5 Kf3 43.Kd5 Ke3 44.Kc6 Kd3 45.Kxc7 Kc3 46.Kxb6 Kb4** 
 
-Or 46...Kxb3 47.Kb5!
+Или 46...Kxb3 47.Kb5!
 
 **47.Kc6 Kxb3 48.Kb5 1-0**
 
-**Endgame Scenario Two**
+**Второй сценарий эндшпиля**
 
-The diagrammed position was reached in **A.Timofeev-A.Mastrovasilis**, Warsaw 2005, after 1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8 9.Nc3 Bd7 10.h3 b6 11.Bf4 Kc8 12.Rad1 h6 13.Ne4 Be6 14.g4 Ne7 15.Nd4 Bd5 16.Nc3 Bc4 17.Rfe1 Kb7 18.b3 Be6 19.Nxe6 fxe6 20.Ne2 Re8 21.Bg3 g5. As in the example above, White has been allowed to exchange a knight for a bishop on the e6-square, weakening Black’s pawns. Timofeev showed some impressive technique to exploit his advantage – the first step is to get his king to the e4-square.
+Позиция была достигнута в партии А.Тимофеев - А.Мастровасилис, Варшава 2005, после **1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8 9.Nc3 Bd7 10.h3 b6 11.Bf4 Kc8 12.Rad1 h6 13.Ne4 Be6 14.g4 Ne7 15.Nd4 Bd5 16.Nc3 Bc4 17.Rfe1 Kb7 18.b3 Be6 19.Nxe6 fxe6 20.Ne2 Re8 21.Bg3 g5**. Как и в приведенном примере, белые получили возможность разменять коня на слона на поле e6, ослабив пешки черных. Тимофеев продемонстрировал впечатляющую технику использования своего преимущества - первым шагом он выводит своего короля на поле e4.
 
 **22.Kg2!**
 
-*Question:* Is the white king always in the thick
+Вопрос: Всегда ли белый король в берлинском эндшпиле находится в гуще событий?
 
-of things in the Berlin Endgame?
-
-*Answer:* Yes, that’s pretty much the case. White’s strategic plan is to try to create a passed pawn by pushing his kingside pawns, and* as he has castled kingside, his king is caught up in the action whether he likes it or not! Often this is good thing – here for example the black king can only watch enviously as the white monarch strides forwards. However, in more complex situations, White has to be careful that his king doesn’t get caught in the crossfire between the white and black pieces.
+Ответ: Да, это примерно так. Стратегический план белых состоит в том, чтобы попытаться создать проходную пешку, продвигая пешки королевского фланга, и, поскольку они сделали рокировку на королевском фланге, их король оказывается втянутым в действие, нравится им это или нет! Часто это хорошо – здесь, например, черный король может только с завистью наблюдать, как белый монарх шагает вперед. Однако в более сложных ситуациях белые должны быть осторожны, чтобы их король не попал под перекрестный огонь между белыми и черными фигурами.
 
 **22...Bg7 23.Kf3 c5 24.Ke4 Kc6**
 
-The black king does his best to be involved in the battle, but there is no escaping the fact that he is unable to help restrain White’s kingside pawns.
+Черный король всеми силами пытается включиться в борьбу, но нельзя избежать того факта, что он не в состоянии сдержать пешки белого королевского фланга.
 
 **25.f4**
 
-At last White begins his advance.
+Наконец белые начинают наступление.
 
 **25...Ng6 26.Rf1 Re7**
 
-*Exercise:* Try to find a way for White to prepare a breakthrough on the kingside without allowing the black pieces to spring to life.
+Упражнение: постарайтесь найти способ для белых подготовить прорыв на королевском фланге, не позволяя черным фигурам ожить.
 
-If 27.f5? exf5+ 28.Rxf5 Rhe8 29.Rd5 – the only way to defend the e5-pawn which was attacked four times – Black has the dainty move 29...Kb7! clearing the way for 30...c6 to drive away the white rook, after which e5 collapses.
+Если 27.f5? exf5+ 28.Rxf5 Rhe8 29.Rd5 – единственный способ защитить пешку e5, которая подвергалась четырем атакам – у черных есть изящный ход 29...Kb7! открывая путь 30...c6, чтобы отогнать белую ладью, после чего е5 рушится.<addx start="30...c6"/>
 
-It is this type of scenario that Black is aiming for when he plays the Berlin. White is making all the running, he is dreaming of queening a pawn and then – crunch! – it suddenly falls apart for him because his pawns have become too loose or over-extended.
+Именно на такой сценарий нацелены черные, играя берлинскую. Белые все делают, мечтают о ферзевой пешке, а потом - хруст! - все вдруг рушится, потому что пешки слишком свободны или слишком растянуты.
 
-It is this positional complexity that makes the Berlin a favourite of ambitious players of Black. There is nothing dull about the variation, despite the exchange of queens.
+Именно эта позиционная сложность делает "Берлин" излюбленным вариантом амбициозных игроков черными. В этом варианте нет ничего скучного, несмотря на размен ферзей.
 
-*Answer:* **27.Ng1!**
+Ответ: **27.Ng1!**
 
-Well done if you saw this move. White intends to put his knight on f3 when Black will be compelled to exchange on f4 or else g5 drops. Then White will have a 2- 1 pawn majority on the kingside that he can gradually advance in order to create a passed pawn. It won’t be easy to win, but White would certainly have good chances. As is so often the case, the prospect of a gruelling defence proves too much for a player, and Black does White’s work for him by making a doomed bid for counterplay on the queenside.
+Молодцы, если увидели этот ход. Белые намерены поставить своего коня на f3, когда черные будут вынуждены разменяться на f4, иначе падает g5. Тогда у белых будет большинство в 2-1 пешку на королевском фланге, которое они смогут постепенно продвигать, чтобы создать проходную пешку. Выиграть будет нелегко, но шансы у белых, безусловно, хорошие. Как это часто бывает, перспектива изнурительной защиты оказывается слишком тяжелой для игрока, и черные делают за белых их работу, делая обреченную попытку контригры на ферзевом фланге.
 
 **27...a5 28.a4!**
 
-Not letting Black break things up with 28...a4.
+Не позволяя черным разрушить положение путем 28...a4.<addx start="28...a4"/>
 
 **28...gxf4 29.Bxf4 Rf8 30.Bg3 Rxf1 31.Rxf1**
 
-*Question:* How bad is this position for Black?
+Вопрос: Насколько плоха эта позиция для черных?
 
-*Answer:* Pretty miserable, but I could imagine Kramnik getting a draw with some beautifully passive defence. Instead there came:
+Ответ: Довольно печально, но я могу себе представить, что Крамник заработает ничью при красивой пассивной защите. Вместо этого произошло:
 
 **31...b5?**
 
-I couldn’t imagine Kramnik playing a move like this, though! Nothing can be gained by this move which wrecks Black’s queenside pawns.
+Однако я не мог представить себе Крамника, играющего такой ход! Этот ход, уничтожающий пешки ферзевого фланга черных, ничего не дает.
 
 **32.Nf3 bxa4 33.bxa4 Re8 34.Nd2!**
 
-White’s knight proves a versatile beast. Black has no time for 34...Rb8 because of 35.Rf7.
+Конь белых оказывается универсальным зверем. У черных нет времени на 34...Rb8 из-за 35.Rf7.
 
 **34...Rd8 35.Nb3! c4**
 
-Losing, but otherwise 35...Ra8 36.Rf7 Bh8 37.Rh7 is gruesome.
+Проигрывает, но иначе 35...Ra8 36.Rf7 Bh8 37.Rh7 - жутковато.
 
 **36.Nd4+ 1-0**
 
-The e6-pawn drops, as if 36...Kd7 White has 37.Rf7+.
+Пешка e6 падает, так как в случае 36...Kd7 у белых 37.Rf7+.
 
-**Endgame Scenario Three**
+**Третий сценарий эндшпиля**
 
-The diagrammed position is from **A.Predke-A.Kharlov**, Tolyatti 2011, after 1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6
-
-Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8 9.Nc3 Bd7 10.h3 b6 11.Bf4 h6 12.Rad1 Kc8 13.g4 Ne7 14.Rd3 c5 15.Rfd1 Be6 16.Bg3 Kb7 17.a3
-
-Re8 18.R3d2 Kc8 19.Ne2 g5 20.Nc3 Bg7 21.Ne4 Nc6. Here White swapped knight for bishop with:
+Позиция из партии А.Предке - А.Харлов, Тольятти 2011, после **1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8 9.Nc3 Bd7 10.h3 b6 11.Bf4 h6 12.Rad1 Kc8 13.g4 Ne7 14.Rd3 c5 15.Rfd1 Be6 16.Bg3 Kb7 17.a3 Re8 18.R3d2 Kc8 19.Ne2 g5 20.Nc3 Bg7 21.Ne4 Nc6**. Здесь белые поменяли коня на слона:
 
 **22.Nf6 Bxf6 23.exf6**
 
-*Question:* Surely this exchange eases Black’s defence
+Вопрос: Наверняка этот размен облегчает защиту черных, ведь теперь у них слоны противоположного цвета? Если, конечно, белые играют на победу...
 
-as there are now opposite-coloured bishops?
-
-Assuming of course White is playing for a win ...
-
-*Answer:* Generally speaking it should favour the defender. But notice that White’s bishop on g3 can now see daylight and his knight has* access to the e5- square. Also the pawn on f6 is only two steps from queening (admittedly taking one more step is mightily difficult). If White manages to break through on the kingside the pawn will be a very useful asset.
+Ответ: Вообще говоря, это должно быть выгодно защитнику. Но обратите внимание, что слон белых на g3 теперь видит дневной свет, а их конь имеет доступ к полю e5. Кроме того, пешка на f6 находится всего в двух шагах от ферзя (правда, сделать еще один шаг очень сложно). Если белым удастся прорваться на королевский фланг, пешка окажется очень полезной.
 
 **23...Rhg8 24.Re1 Bd7 25.Red1**
 
-It seems that White is peaceably inclined, or else trying (successfully!) to provoke his opponent into inappropriate action. He might for example have played 25.Ne5 Nxe5 26.Bxe5, and then after 26...Bc6 tried to edge forwards on the kingside with moves like 27.Rde2, Re3, f2-f3, Kg2, Kg3 and h3- h4. It wouldn’t be at all easy, but it would be a dour defence for Black. Instead White found an easier way to create winning chances – offer a draw by repetition and let his higher-rated opponent make a reckless bid for activity.
+Создается впечатление, что белые настроены миролюбиво, либо пытаются (успешно!) спровоцировать соперника на неадекватные действия. Они могли бы, например, сыграть 25.Ne5 Nxe5 26.Bxe5, а после 26...Bc6 попытаться продвинуться вперед на королевском фланге ходами типа 27.Rde2, Re3, f2-f3, Kg2, Kg3 и h3- h4. Это было бы совсем не просто, но для черных это была бы скучная защита. Вместо этого белые нашли более простой способ создать выигрышные шансы - предложить ничью путем повторения и позволить своему более высокорейтинговому сопернику сделать безрассудную заявку на активность.
 
 **25...Be6 26.Re1 h5? 27.gxh5 g4 28.Ne5 Nxe5 29.Rxe5 gxh3 30.Kh2!**
 
-Exactly: White is in effect a king up, as his monarch can block the black passed pawn whereas his opposite number can do nothing to fight against the white passed pawn.
+Именно: у белых фактически лишний король, поскольку их монарх может заблокировать проходную черных, тогда как их противник не может ничего сделать, чтобы бороться с проходной белых.
 
 **30...Rh8 31.Bf4 Reg8**
 
-If 31...Bg4 32.Re7! attacking c7, when the creation of another passed pawn with 32...Rxe7 33.fxe7 is too much to bear.
+Если 31...Bg4 32.Re7! атака на с7, то создание еще одной проходной пешки при 32...Rxe7 33.fxe7 слишком невыносимо.
 
 **32.f3!**
 
-A simple move that rules out the check on g2.
+Простой ход, исключающий шах на g2.
 
 **32...Rh7 33.h6**
 
-Instead 33.Rde2 would offer White more winning chances, as the game move gives Black the chance to sacrifice the exchange to be rid of White’s passed pawn.
+Вместо этого 33.Rde2 давало бы белым больше шансов на победу, так как ход в партии дает черным возможность пожертвовать качество, чтобы избавиться от проходной пешки белых.
 
 **33...Rg6 34.Bg5**
 
-*Exercise:* Should Black play 34...Rgxh6 or 33...Rhxh6,
-
-or is there no difference?
+Упражнение: Стоит ли черным играть 34...Rgxh6 или 33...Rhxh6, или разницы нет?
 
 **34...Rgxh6?**
 
-*Answer:* Instead after 34...Rhxh6! 35.Bxh6 (if 35.Rxe6 Rxg5!) 35...Rxh6 Black will pick up the f6-pawn with good drawing chances.
+Ответ: Вместо этого после 34...Rhxh6! 35.Bxh6 (если 35.Rxe6 Rxg5!) 35...Rxh6 черные забирают пешку f6 с хорошими ничейными шансами.
 
 **35.Rxe6!**
 
-Kharlov must have overlooked this breakthrough.
+Харлов, видимо, не заметил этого прорыва.
 
 **35...fxe6**
 
-*Exercise:* Find a clever way for White to conclude the game.
+Упражнение: Найдите умный способ для белых завершить игру.
 
 **36.f7?**
 
-So the pawn did manage to take one more step. But there was a much more spectacular way of doing things.
+Таким образом, пешке все же удалось сделать еще один шаг. Но был и гораздо более эффектный способ.
 
-*Answer:* 36.Rd8+! ends the game at once after 36...Kxd8 37.f7+ and the pawn queens, or 36...Kb7 37.Bxh6 Rxh6 38.f7 and Black* will lose his rook.
+Ответ: 36.Rd8+! заканчивает партию сразу после 36...Kxd8 37.f7+ и пешка становится ферзем, или 36...Kb7 37.Bxh6 Rxh6 38.f7 и черные потеряют ладью.
 
 **36...Rxf7 37.Bxh6 Rxf3**
 
-and Black managed to scrape a draw by the skin of his teeth by swapping off all the pawns and defending a rook and bishop versus rook endgame.
+и черным удалось вырвать ничью, разменяв все пешки и защитив эндшпиль ладья и слон против ладьи.
 
-**A heavyweight struggle in the middlegame**
+**Борьба тяжеловесов в миттельшпиле**
 
-It is time to return to the middlegame and consider the problems that White faces in trying to reach the favourable endgame scenarios discussed above.
+Настало время вернуться к миттельшпилю и рассмотреть проблемы, с которыми сталкиваются белые при попытке достичь благоприятных эндшпильных сценариев, рассмотренных выше.
 
-Let’s return to the position after **1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+** **Kxd8**.
+Вернемся к позиции после **1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8**.
 
-![ref2]
+Если ферзевые пешки черных сильны в оборонительном отношении, но слабы в динамическом, то можно сказать, что пешка e5 белых потенциально сильна с динамической точки зрения, но слаба в оборонительном отношении. Это скорее перебор - при наличии выбора белые предпочли бы вернуть пешку на e4, где она защищает белые поля d5 и f5 и может быть поддержана f2-f3, чтобы удержать пешки в стройной формации. При пешке на е5 вокруг нее уже образуется вакуум белых полей.
 
-Whereas Black’s queenside pawns are defensively strong but dynamically weak, we might say that White’s e5-pawn is *potentially* strong from a dynamic viewpoint but defensively weak. It has rather overshot the mark – given the choice White would rather have the pawn back on e4, where it defends the d5 and f5 light squares and can be supported by f2-f3 to keep the pawns in a trim formation. With the pawn on e5, there are already the beginnings of a light-square vacuum around it.
+Черные могут попытаться закрепиться на этих белых полях такими ходами, как ...h7-h5, ...Be6 и ...Ne7 с последующим ...Ng6, ограничивая белые пешки и пытаясь установить блокаду белых полей. В шахматной стратегии хорошо известно, что блокированное и инертное пешечное большинство становится стратегической обузой.
 
-Black might try to gain a grip on these light squares with moves like ...h7-h5, ...Be6 and ...Ne7 followed by ...Ng6, restricting the white pawns and trying to impose a light-square blockade. It is a well known fact of chess strategy that a pawn majority that is blocked and inert becomes a strategic liability.
+Вопрос: Как же белые должны противостоять этому плану?
 
-*Question:* So how should White counter this plan?
+Ответ: В идеале они хотели бы получить пешечное большинство на королевском фланге и, подкрепив его фигурами с тыла, создать проходную пешку и провести ее в ферзи. Легче сказать, чем сделать: практические трудности в реализации этого плана чудовищны. Поэтому, даже если объективно в начале берлинской битвы у белых немного лучше, они легко могут оказаться переигранными более опытным соперником. К моменту продвижения белых пешек на королевский фланг черные фигуры, как правило, уже заняли баррикады. Без должного подкрепления наступление на королевском фланге может превратиться в массовое уничтожение белых пешек.
 
-*Answer:* Ideally he would like to get his pawn majority on the kingside rolling and, with his pieces offering support from the rear,* create a passed pawn and queen it. Easily said than done: the practical difficulties in carrying out this plan are horrendous. That is why, even if White objectively is a little better at the beginning of the Berlin battle, he could easily end up being outplayed by a more skilled opponent. By the time the white kingside pawns are advancing, the black pieces have normally manned the barricades. Unless properly backed up, the kingside charge can degenerate into a massacre of white pawns.
+Не все так просто для черных. Они должны решить проблему соединения ладей и опасаться, как бы их король не попал под прямой обстрел вражеских ладей с линии "d". Поле f7 - возможная слабость, а постановка слона на e6 может привести к обратному результату, если белые смогут ответить Ng5 или (после Nc3 и Ne2) Nf4 с последующим Nxe6, избавившись от пары черных слонов и изолировав пешку e6.
 
-Not that everything is easy for Black. He has to solve the problem of connecting his rooks, and be wary lest his king comes under
-
-direct fire from the enemy rooks via the d-file. The f7-square is a possible weakness, and putting the bishop on e6 can backfire if White can respond with Ng5 or (after Nc3 and Ne2) Nf4 followed by Nxe6, disposing of the black bishop pair and isolating the e6-pawn.
-
-*Game 26*
-
-**I.Nepomniachtchi-L.Bruzon Batista**
-
-Capablanca Memorial, Havana 2010
+> Game 26, I.Nepomniachtchi - L.Bruzon Batista, Capablanca Memorial, Havana 2010
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8**
-
-![ref2]
 
 *Question:* After 9.Rd1+ would Black do better to block the check with 9...Bd7 or move his king to e8? In general, do you think giving* the check
 
