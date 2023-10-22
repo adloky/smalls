@@ -1,4 +1,4 @@
-<config hilight="0"/>
+<config hilight="0" offline="1"/>
 
 **Содержание**
 
