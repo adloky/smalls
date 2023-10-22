@@ -5719,465 +5719,427 @@ b) После 9...Bd7 следует еще один форсированный 
 
 **23.Rxe6! Qxe6 24.Bb3 1-0**
 
-**Game 40**
+**Партия 40**
 
-**M.Kravtsiv-A.Brkic**
+**М.Кравцив - А.Бркич**
 
-**World Junior Championship, Gaziantep 2008**
+**Чемпионат мира среди юниоров, Газиантеп 2008**
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Na5 10.Bc2 d5 11.d4 dxe4 12.Nxe5 c5 13.Nd2 cxd4 14.Nxe4 dxc3 15.Qf3**
 
-So far the game has followed Negi-Dragun above. Now Black pinned the knight on e4-and guarded the c6-square with:
+До сих пор игра следовала за Неги - Драгуном, описанным выше. Теперь черные связали коня на e4 и защитили поле c6 ходом:
 
 **15...Bb7!**
 
-This makes a lot of sense as White’s invasion with Nc6 was the killer in the Negi game.
+Это имеет большой смысл, поскольку вторжение белых ходом Кc6 стало убойным в партии Неги.
 
 **16.b4!**
 
-*Question:* The attack on a5 is still the key idea. But can you
-
-see what happens after 16...Bxb4 this time?
+Вопрос: Ключевой идеей по-прежнему остается атака на а5. Но видите ли вы, что на этот раз произойдет после 16...Bxb4?
 
 **16...Nxe4**
 
-*Answer:* If 16...Bxb4? then 17.Bg5 Be7 18.Nxf6+ Bxf6 19.Qf5! wins for White as Black must give up the bishop on f6 with 19...g6* to ward off mate. A more sophisticated form of the combination occurs upon 17...Bxe4 (instead of 17...Be7) 18.Bxe4 when saving the rook with 18...Rc8 allows 19.Ng4 Be7 20.Nxf6+ Bxf6 21.Qf5!.
+Ответ: Если 16...Bxb4? затем 17.Bg5 Be7 18.Nxf6+ Bxf6 19.Qf5! с победой белых, поскольку черные должны отдать слона на f6 ходом 19...g6, чтобы отразить мат. Более сложная форма комбинации возникает при 17...Bxe4 (вместо 17...Be7) 18.Bxe4, когда сохранение ладьи ходом 18...Rc8 позволяет 19.Ng4 Be7 20.Nxf6+ Bxf6 21.Qf5!.
 
 **17.Bxe4 Bxe4 18.Qxe4**
 
-*Exercise:* A long forcing sequence is about to begin – try to anticipate the exchange of blows. The big question is: can Black avoid* losing a piece in view of 18...Nc4 19.Nc6, when e7 drops?
+Упражнение: Скоро начнется длинная форсированная последовательность – постарайтесь предвидеть обмен ударами. Большой вопрос: смогут ли черные избежать потери фигуры ввиду 18...Nc4 19.Nc6 при падении e7?
 
-*Answer:* **18...f5!**
+Ответ: **18...f5!**
 
-Did you find this move? It’s the only way for Black to avoid disaster.
+Вы нашли этот ход? Это единственный способ для черных избежать катастрофы.
 
 **19.Qb1!**
 
-The queen keeps b4 defended and renews the idea of 19...Nc4 20.Nc6.
+Ферзь защищает b4 и возобновляет идею 19...Nc4 20.Nc6.
 
 **19...c2!**
 
-Trying to entice White into 29.Qxc2? Bxb4 when Black has escaped.
+Попытка заманить белых на 20.Qxc2? Bxb4, когда черные уже спасаются.
 
 **20.Qb2!**
 
-Tit for tat: the white queen refuses to budge from the defence of b4.
+В этом случае белый ферзь отказывается от защиты b4.
 
 **20...Nc4!**
 
-It turns out that the black knight gets to c4 with an attack on the white queen. So Black has avoided losing a piece. But no matter, White can try to win the endgame.
+Получается, что черный конь попадает на с4 с атакой на белого ферзя. Таким образом, черные избежали потери фигуры. Но это неважно, белые могут попытаться выиграть эндшпиль.
 
 **21.Nxc4 bxc4 22.Qxc2 Rc8 23.Bd2 Bf6 24.Rad1**
 
-You might have noticed that efficient play by White against the gambits in this chapter leads almost invariably to positions where Black is saddled with a weak pawn or a loose pawn structure. Even the attacking energy displayed by White in this game has boiled down to ‘merely’ a better endgame after Black found the good defensive move 15...Bb7. Still, White definitely has the edge here because of the weakness of the c4-pawn, and can probe away to increase it. Brkic is uncomfortable and tries to force matters by putting his queen on d3, evidently as he fears the pawn being blocked on c4 with 25.Bc3 etc. This gives White the chance to win a pawn after which he eventually ground put a win. The remaining moves were:
+Вы могли заметить, что эффективная игра белых против гамбитов, описанных в этой главе, почти всегда приводит к позициям, в которых черные обременены слабой пешкой или рыхлой пешечной структурой. Даже атакующая энергия, проявленная белыми в этой партии, свелась к «всего лишь» лучшему эндшпилю после того, как черные нашли хороший защитный ход 15...Bb7. Тем не менее, белые определенно имеют здесь преимущество из-за слабости пешки с4 и могут попытаться усилить его. Бркич чувствует себя некомфортно и пытается форсировать ситуацию, поставив ферзя на d3, очевидно, опасаясь, что пешка c4 будет заблокирована ходом 25.Bc3 и т. д. Это дает белым шанс выиграть пешку, после чего они в конечном итоге одержат победу. Остальные ходы были:<level start="15...Bb7" value="+1"/><addx start="25.Bc3"/>
 
 **24...Qd3 25.Qxd3 cxd3 26.Re6 Kf7 27.Rxa6 Ra8 28.Rxa8 Rxa8 29.Be3 Ra3 30.b5 Be5 31.g3 Ke6 32.b6 Kd7 33.Bc5 Rc3 34.Bb4 Rc2 35.Rxd3+ Kc6 36.a4 Rb2 37.Bd2 Rxb6 38.Ra3 Kb7 39.a5 Rb1+ 40.Kg2 Ka6 41.Bc3 Bd6 42.Ra2 g6 43.Rd2 Bc5 44.Rd5 Ba7 45.Rd6+ Kb5 46.Rd7 Ka6 47.Rxh7 Rc1 48.Bd2 1-0**
 
-**The Marshall Attack**
+## Атака Маршалла
 
-This celebrated gambit arises in the Closed Lopez mainline after the moves:
+Этот знаменитый гамбит возникает в закрытой линии испанки после ходов:
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5**
 
-![ref3]
+Эта линия была введена чемпионом США Фрэнком Маршаллом в партии с Хосе Капабланкой, будущим чемпионом мира, на турнире в Нью-Йорке в 1918 году. Можно только предполагать, какой толчок мог бы дать гамбит, если бы Маршалл победил со своей замечательной идеей, но он проиграл знаменитую встречу, в которой кубинский гений спокойно отразил атаку черных. После этого гамбит был надолго забыт и вернулся на первые места в международных шахматах только после того, как в 1960-х годах Спасский применил его в качестве оружия для розыгрыша.
 
-This line was introduced by the US Champion Frank Marshall in a game against Jose Capablanca, the future World Champion, at a tournament in New York in 1918. One can only speculate at the boost it would have given the gambit if Marshall had triumphed with his admirable idea, but he lost a famous encounter where the Cuban genius calmly rebuffed Black’s attack. After that the gambit was neglected for a long time, and only really returned to the top table of international chess when it was used as a *drawing* weapon by Spassky in the 1960s.
+С тех пор атака Маршалла превратилась в сложнейший дебютный вариант с горой теории. Было бы неразумно полагать, что его можно освоить, изучив пару партий и опираясь на общие принципы. Возникает также вопрос, зачем читателю изучать 25 и более ходов теории для того, чтобы с наибольшей вероятностью оказаться в ничейном эндшпиле? Ниже я привел варианты репертуара за белых, чтобы читатель мог сам решить, стоит ли ему это пробовать.
 
-Since then the Marshall Attack has become a hugely complicated opening variation with a mountain of theory attached to it. It would be unwise to imagine it can be mastered by studying a couple of games and relying on general principles. The question also arises as to why the reader would *want* to learn 25 moves or more of theory in order most likely to end up in a drawn endgame? Below I’ve presented repertoire options for White so that the reader can decide for himself or herself whether to give it a go.
+**Партия 41**
 
-*Game 41*
+**В.Ананд - Л.Аронян**
 
-**V.Anand- L.Aronian**
-
-Wijk aan Zee 2011
+**Вейк-ан-Зее 2011**
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O**
 
-Black’s avoidance of 7...d6 is the first sign that he might be intending the Marshall Attack. Of course he could be bluffing, either to gain a bit of time on the clock whilst White muses about whether to permit the Marshall, or perhaps he hopes his opponent will be scared and so play a less critical sideline instead of 8.c3.
+Уклонение черных от 7...d6 - первый признак того, что они, возможно, собираются провести атаку Маршалла. Конечно, они могли блефовать, либо чтобы выиграть немного времени на часах, пока белые раздумывают, разрешить ли им атаку Маршалла, либо надеясь, что соперник испугается и сыграет менее критичную побочную линию вместо 8.c3.
 
-If instead 7...Bb7, it makes sense to strengthen the barrier against the black bishop with 8.d3! in the style of games discussed in the first chapter. For example 8...O-O 9.Nbd2 h6 10.Nf1 Re8 11.a3 Bf8 12.Ne3 with a typical edge for White.
+Если вместо этого 7...Bb7, то имеет смысл усилить барьер против черного слона ходом 8.d3! в стиле партий, рассмотренных в первой главе. Например, 8...O-O 9.Nbd2 h6 10.Nf1 Re8 11.a3 Bf8 12.Ne3 с типичным перевесом у белых.
 
 **8.c3**
 
-The moment of truth. Now 8...d6 brings us back to the Closed mainline, but it turns out that Aronian wasn’t bluffing:
+Момент истины. Теперь 8...d6 возвращает нас на закрытую магистраль, но оказывается, что Аронян не блефовал:
 
 **8...d5!**
 
-![ref4]
+Рождение атаки Маршала.
 
-The Marshall Attack is born.
+Вопрос: Но почему восклицательный знак?
 
-*Question:* But why the exclamation mark?
-
-*Answer:* At the highest level of chess, where a draw with Black is seen as a good result, the Marshall is an excellent choice of opening.
-
-It is extremely difficult, even for Anand, to exploit the extra pawn against a great positional expert and resolute defender such as Aronian.
+Ответ: На высшем уровне шахмат, где ничья черными считается хорошим результатом, маршал является отличным выбором дебюта. Даже Ананду крайне сложно использовать лишнюю пешку против такого выдающегося позиционного эксперта и решительного защитника, как Аронян.
 
 **9.exd5**
 
-White has little choice but to accept the pawn as otherwise Black has completely freed his game without being punished.
+Белым остается только принять пешку, так как в противном случае черные полностью бы освободили свою игру, не понеся наказания.
 
 **9...Nxd5**
 
-9...e4?! is inferior, for example 10.dxc6 exf3 11.d4! (refusing to fall behind in development) 11...fxg2 12.Qf3 Be6 13.Bf4 and White is better.
+9...e4?! уступает, например, 10.dxc6 exf3 11.d4! (отказываясь от отставания в развитии) 11...fxg2 12.Qf3 Be6 13.Bf4 и у белых лучше.
 
 **10.Nxe5 Nxe5 11.Rxe5 c6!**
 
-The best move. The black knight is kept on a centre square from which it can’t easily be evicted. It also obstructs the white bishop on
+Лучший ход. Черный конь находится на центральном поле, откуда его нелегко выгнать. Это также препятствие белому слону на b3.
 
-b3.
+Вопрос: Но почему именно это так важно?
 
-*Question:* But why exactly in this so important?
+Ответ: Это ход маленькой пешки 11...c6! который знакомит со всеми сценариями ничьего эндшпиля. Если бы черные не смогли воспользоваться этим спасительным позиционным ресурсом, Маршалл давно бы вымер на элитном уровне, поскольку при лучшей игре черные не могут ни поставить мат белому королю, ни вернуть свою пешку.
 
-*Answer:* It is the little pawn move 11...c6! which introduces all the scenarios of a drawn endgame. If Black couldn’t fall back on this* saving positional resource the Marshall would have died out long ago at elite level, as against best play Black can’t checkmate the white king nor get his pawn back.
+Попытка заматовать белого короля с помощью стремительной атаки была первоначальной идеей Фрэнка Маршалла, но Капабланка был невозмутим: 11...Nf6 12.Re1 (переставление - 12.d4 Bd6 13.Re1 Ng4 14.h3 Qh4 15.Qf3!) 12...Bd6 13.h3 Ng4 14.Qf3! (ферзь – это мощьная башня на этом поле, атакующая a8 и f7 и защищающая f2 и королевский фланг в целом) 14...Qh4 15.d4 Nxf2 16.Re2! (здесь 16.Bd2! тоже хорошо выглядит)
 
-An attempt to mate the white king with a headlong attack was Frank Marshall’s original idea, but Capablanca was unruffled: 11...Nf6 12.Re1 (transposing is 12.d4 Bd6 13.Re1 Ng4 14.h3 Qh4 15.Qf3!) 12...Bd6 13.h3 Ng4 14.Qf3! (the queen is a tower of strength on this square, attacking a8 and f7 and defending f2 and the kingside in general) 14...Qh4 15.d4 Nxf2 16.Re2! (here 16.Bd2! looks good as well)
+16...Bg4 17.hxg4 Bh2+ 18.Kf1 Bg3 19.Rxf2 Qh1+ 20.Ke2 Bxf2 (если 20...Qxc1, то 21.Qxg3 Qxb2+ 22.Nd2! Qxa1 23.Rxf7! Rxf7 24.Bxf7+ и поскольку 24...Kxf7 теряет ладью на a8 в результате 25.Qf3+, черные терпят поражение после 24...Kh8 25.Qxc7 и т.д.) 21.Bd2 Bh4 22.Qh3 Rae8+ 23.Kd3 Qf1+ 24.Kc2 Bf2, убежав белым королем белые развернули свой ферзевый фланг и начали решающую контратаку: 25.Qf3 Qg1 26.Bd5 c5 27.dxc5 Bxc5 28.b4 Bd6 29.a4 a5 30.axb5 axb4 31.Ra6 bxc3 32.Nxc3 Bb4 33.b6 Bxc3 34.Bxc3 h6 35.b7 Re3 36.Bxf7+ 1-0, Х.Капабланка - Ф.Маршалл, Нью-Йорк, 1918. Капабланка не играл в серьезные шахматы почти два года, прежде чем в первом туре турнира столкнулся с первой в истории атакой Маршалла. Манхэттенский турнир. И все же он победил великолепно. Именно такие подвиги заставляют вашего автора считать Капабланку величайшим игроком всех времен.
 
-16...Bg4 17.hxg4 Bh2+ 18.Kf1 Bg3 19.Rxf2 Qh1+ 20.Ke2 Bxf2 (if 20...Qxc1 then 21.Qxg3 Qxb2+ 22.Nd2! Qxa1 23.Rxf7! Rxf7 24.Bxf7+ and since 24...Kxf7 loses the rook on a8 to 25.Qf3+, Black is busted after 24...Kh8 25.Qxc7 etc.) 21.Bd2 Bh4 22.Qh3 Rae8+ 23.Kd3 Qf1+ 24.Kc2 Bf2, and having escaped with his king White unwound his queenside and launched a decisive counterattack: 25.Qf3 Qg1 26.Bd5 c5 27.dxc5 Bxc5 28.b4 Bd6 29.a4 a5 30.axb5 axb4 31.Ra6 bxc3 32.Nxc3 Bb4 33.b6 Bxc3 34.Bxc3 h6 35.b7 Re3 36.Bxf7+ 1-0, J.Capablanca-F.Marshall, New York 1918. Capablanca hadn’t played a serious game of chess for almost two years before facing the first
-
-ever Marshall Attack in round one of the Manhattan tournament. And yet he won in great style. It’s feats like this that makes your author regard Capablanca as the greatest player of all time.
-
-Meanwhile violent attempts by Black starting with 11...Bb7 also fail, for example 12.d4 Bf6 (or 12...Qd7 13.Nd2 Nf4 14.Ne4 Nxg2 15.Kxg2 Bf6 16.Qf3! refuting Black’s sacrifice) 13.Re1 Re8 14.Nd2 b4 15.c4 Nf4 16.d5 Nd3 17.Rxe8+ Qxe8 18.Bc2. Black’s attack is beaten off as 18...Nxb2 19.Bxb2 Bxb2 allows 20.Bxh7+! when White remains a pawn up after 20...Kxh7 21.Qc2+ Kg8 22.Qxb2.
+Между тем форсированные попытки черных, начинающиеся с 11...Bb7, также терпят неудачу, например 12.d4 Bf6 (или 12...Qd7 13.Nd2 Nf4 14.Ne4 Nxg2 15.Kxg2 Bf6 16.Qf3! опровергая жертву черных) 13.Re1 Re8 14.Nd2 b4 15.c4 Nf4 16.d5 Nd3 17.Rxe8+ Qxe8 18.Bc2. Атака черных отбита, так как 18...Nxb2 19.Bxb2 Bxb2 допускает 20.Bxh7+! когда белые остаются с лишней пешкой после 20...Kxh7 21.Qc2+ Kg8 22.Qxb2.
 
 **12.d4**
 
-The natural move, though the alternative 12.d3!? is also interesting.
+Естественный ход, хотя альтернатива 12.d3!? также интересна.
 
 **12...Bd6 13.Re1 Qh4**
 
-Having pushed back the white rook, Black forces a weakening of the white kingside.
+Оттеснив белую ладью, черные вынуждают ослабить белый королевский фланг.
 
-*Question:* How should the threat to h2 be met?
+Вопрос: Как следует реагировать на угрозу на h2?
 
-*Answer:* **14.g3!**
+Ответ: **14.g3!**
 
-Establishing a solid triangle of pawns to limit the scope of Black’s bishop on d6 is essential. If instead 14.h3 Black could already sacrifice with 14...Bxh3! 15.gxh3 Qxh3 when White will escape with a draw at the very best.
+Создание прочного треугольника пешек, ограничивающего сферу действия слона черных на d6, крайне важно. Если вместо 14.h3 черные уже могли пожертвовать пешку путем 14...Bxh3! 15.gxh3 Qxh3, когда белые в лучшем случае уйдут в ничью.
 
 **14...Qh3 15.Be3**
 
-We’ll focus on Anand’s move, though White has worthy alternatives in 15.Qe2!? intending 16.Qf1 to challenge the black queen, and 15.Re4!? when play might continue 15...g5! (a bizarre looking move, but it stops 16.Rh4, and is playable because 16.Bxg5? would drop material after 16...Qf5) 16.Qf1 Qh5 17.Nd2 Bf5 18.f3! Nf6 19.Qg2. White shows his willingness to give up the exchange to gain a strong centre after 19...Bxe4 20.fxe4, and Black sensibly declines the offer leading to well analysed lines after 19...Qg6 20.Re3 Rae8.
+Мы сосредоточимся на ходе Ананда, хотя у белых есть достойные альтернативы в виде 15.Qe2!? с намерением 16.Qf1 бросить вызов черному ферзю, и 15.Re4!?, когда можно было бы продолжить игру 15...g5! (странный ход, но он останавливает 16.Rh4 и является играбельным, так как 16.Bxg5? теряет материал после 16...Qf5) 16.Qf1 Qh5 17.Nd2 Bf5 18.f3! Nf6 19.Qg2. Белые демонстрируют готовность отказаться от размена, чтобы получить сильный центр после 19...Bxe4 20.fxe4, и черные благоразумно отказываются от этого предложения, что приводит к хорошо проанализированным линиям после 19...Qg6 20.Re3 Rae8.<addx start="16.Qf1"/>
 
 **15...Bg4**
 
-Black develops his bishop with gain of time by hitting the white queen.
+Черные с выигрышем времени развивают своего слона, нанося удар белому ферзю.
 
-*Question:* White has only one move not to lose on the spot. Can you see it?
+Вопрос: У белых есть только один ход, чтобы не проиграть на месте. Вы видите его?
 
-*Answer:* **16.Qd3**
+Ответ: **16.Qd3**
 
-The queen needs to be able to retreat to f1 to guard the g2-square, as after a move such as 17.Qc2 the reply 17...Bf3 forces mate.
-
-Instead 16.f3 allows the white kingside to be ripped to pieces by 16...Bxg3!.
+Ферзь должен иметь возможность отступить на f1, чтобы защитить поле g2, так как после такого хода, как 17.Qc2, ответ 17...Bf3 форсирует мат. Вместо этого 16.f3 позволяет разорвать белый королевский фланг на части ходом 16...Bxg3!<addx start="17.Qc2"/>
 
 **16...Rae8**
 
-Black now has a fine development and initiative to compensate for his pawn.
+Теперь у черных хорошее развитие и инициатива в качестве компенсации за пешку.
 
 **17.Nd2 Qh5**
 
-*Question:* Why does Black retreat the queen to h5 rather than
+Вопрос: Почему черные отводят ферзя на h5, а не развивают атаку ходами 17...f5 или 17...Re6?
 
-build up an attack with 17...f5 or 17...Re6?
+Ответ: Альтернатива 17...f5 - предмет следующей партии. Как мы вскоре увидим, Аронян не намерен начинать атаку на королевском фланге, бросая вперед пешку «f». Он доверяет энергии своих фигур, чтобы сохранить баланс, и, чтобы поддерживать их в хорошей форме, он улучшает положение своего ферзя, не дожидаясь, пока его отбросят назад ходом 18.Qf1 Qh5.
 
-*Answer:* The alternative 17...f5 is the subject of the next game. As we shall soon see, Aronian isn’t intending to start a kingside* attack by flinging forwards his f-pawn. He trusts in the energy of his pieces to keep the balance, and to keep them in good shape he improves the position of his queen without waiting to be pushed back by 18.Qf1 Qh5.
-
-Similar to the present game is 17...Re6 18.a4 Qh5 19.axb5 axb5 20.Qf1 Rfe8, but Aronian doesn’t want his rook pinned against d5, and so puts it on e7 next move.
+Аналогично нынешней партии 17...Re6 18.a4 Qh5 19.axb5 axb5 20.Qf1 Rfe8, но Аронян не хочет, чтобы его ладья была связана через d5, и поэтому следующим ходом ставит ее на e7.
 
 **18.Qf1 Re7 19.a4 Rfe8**
 
-Doubling rooks has increased the pressure on e3, which obliges Anand to give up his ‘good’ bishop for the black knight.
+Сдвоение ладей усилило давление на е3, что вынуждает Ананда отдать «хорошего» слона в пользу черного коня.
 
 **20.axb5 axb5 21.Bxd5 Qxd5 22.Qg2**
 
-The black queen is very active, so this second exchange makes sense.
+Черный ферзь очень активен, поэтому второй размен имеет смысл.
 
 **22...Qxg2+ 23.Kxg2 h5!**
 
-Aronian intends to build a solid fortress on the kingside, with his king at its centre on g6.
+Аронян намерен построить прочную крепость на королевском фланге со своим королем в центре на g6.
 
-*Exercise:* Perhaps you might spend some time thinking about this position. Why is White’s extra pawn so hard to exploit in the Marshall* endgame?
+Упражнение: Возможно, вам стоит потратить некоторое время на обдумывание этой позиции. Почему лишнюю пешку белых так трудно использовать в эндшпиле Маршалла?
 
-*Answer:* It is a mixture of pawn structure, light-square weaknesses in White’s camp and opposite-coloured bishops.
+Ответ: Это смесь пешечной структуры, слабостей белых полей в лагере белых и разноцветных слонов.
 
-The exchange 21.Bxd5 Qxd5 has left White weak on the light squares. Black has the two bishops, which give him good counterplay in the endgame. If White neutralizes the black bishop pair this is likely to lead to opposite-coloured bishops, again with a lack of winning chances.
+Размен 21.Bxd5 Qxd5 оставил белых слабыми на белых полях. У черных два слона, что дает им хорошую контригру в эндшпиле. Если белые нейтрализуют пару черных слонов, это, скорее всего, приведет к появлению слонов разного цвета, опять же с отсутствием шансов на победу.
 
-But it is the pawn structure a2, b2, c3 and d4 for White versus a6, b5 and c6 that makes the endgame so peculiarly drawish. White has a 4-3 majority, but it isn’t working – it is a static clump of pawns.
+Но именно пешечная структура a2, b2, c3 и d4 у белых против a6, b5 и c6 делает эндшпиль столь ничейным. У белых перевес 4-3, но это не работает – это статичная группа пешек.
 
-The feeble mass of white pawns will become a target as soon as it tries to advance onto the light squares. And even if the white pawns break through the bind, multiple exchanges would leave White with a sickly passed pawn on d4 that would be virtually impossible to get to the queening square.
+Слабая масса белых пешек станет мишенью, как только попытается продвинуться на белые поля. И даже если белые пешки прорвутся, то в результате многочисленных разменов белые останутся со слабой проходной пешкой на d4, которую практически невозможно довести до ферзевого поля.
 
 **24.Rec1 f6 25.b3 g5 26.c4 bxc4 27.Nxc4**
 
-*Question:* Why didn’t he recapture on c4 with the pawn?
+Вопрос: Почему они не взяли на с4 пешкой?
 
-*Answer:* After 27.bxc4 White’s only way to exploit the extra pawn would be to engineer a d4-d5 advance, but that would leave him* with a weak pawn on d5. Therefore Anand prefers to give his knight and rook on c1 more scope with 27.Nxc4.
+Ответ: После 27.bxc4 единственным способом использования лишней пешки для белых было бы продвижение d4-d5, но это оставило бы их со слабой пешкой на d5. Поэтому Ананд предпочитает дать коню и ладье на c1 больше простора ходом 27.Nxc4.
 
 **27...Bc7 28.Na5 Bxa5 29.Rxa5 Bd7**
 
-One pawn isn’t enough to win in the opposite-coloured bishop endgame.
+Одной пешки недостаточно для победы в разноцветном слоновом эндшпиле.
 
 **30.b4 Rb8 31.Rc4 Kf7 32.Kf1 Kg6 33.Ke2 Bg4+ 34.Kd2 ?-?**
 
-*Question:* Why did Anand give up his winning attempt?
+Вопрос: Почему Ананд отказался от своей попытки победить?
 
-*Answer:* Black can put the bishop on d5 via f3, play ...Reb7, and then he has a blockade on the light squares. There’s no way for* White to even dream of creating a passed pawn.
+Ответ: Черные могут поставить слона на d5 через f3, сыграть ...Reb7, и тогда у них будет блокада по светлым полям. У белых нет возможности даже мечтать о создании проходной пешки.
 
-*Game 42*
+**Партия 42**
 
-**S.Citak- L.Vajda**
+**С.Цитак - Л.Вайда**
 
-Budapest 2007
+**Будапешт 2007**
 
-**1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5 9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12**
+**1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5 9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d4 Bd6 13.Re1 Qh4 14.g3 Qh3 15.Be3 Bg4 16.Qd3 Rae8 17.Nd2 f5**
 
-**d4 Bd6 13.Re1 Qh4 14.g3 Qh3 15.Be3 Bg4 16.Qd3 Rae8 17.Nd2 f5**
-
-A more ambitious move than 17...Qh5. Black intends to utilize his kingside pawns to create attacking chances against the white king.
+Более амбициозный ход, чем 17...Qh5. Черные намерены использовать пешки королевского фланга, чтобы создать шансы для атаки против белого короля.
 
 **18.Qf1**
 
-White evacuates the queen straightaway as 18.a4? allows 18...f4 with a lethal breakthrough after 19.gxf4 Bxf4 etc. (19.Bxf4 Bxf4 wins a piece due to the pin on the g3-pawn).
+Белые сразу эвакуируют ферзя, ход 18.a4? допускает 18...f4 со смертельным прорывом после 19.gxf4 Bxf4 и т. д. (19.Bxf4 Bxf4 выигрывает фигуру благодаря связке пешки g3).
 
 **18...Qh5**
 
-Avoiding the exchange of queens is a vital facet of Black’s play.
+Уклонение от размена ферзей – жизненно важный аспект игры черных.
 
-*Question:* Now how should White meet the threat to his kingside?
+Вопрос: Как же белым ответить на угрозу своему королевскому флангу?
 
-*Answer:* **19.f4!**
+Ответ: **19.f4!**
 
-An absolutely vital move in this type of set-up. The black f-pawn has to be stopped in its tracks or it will wreak havoc with 19...f4. As a rule of thumb, if White is ever obliged to exchange pawns with g3xf4 in the Marshall he is in trouble. The g3 barrier needs to remain in place to block an attack down the g-file by the black rooks or against h2 by the black bishop on d6.
+Абсолютно жизненно важный ход в такой ситуации. Черную пешку "f" необходимо остановить, иначе она нанесет ущерб ходом 19...f4. Как правило, если белым когда-нибудь придется разменять пешки с помощью g3xf4 в Маршалле, у них будут проблемы. Барьер g3 должен оставаться на месте, чтобы заблокировать атаку черных ладей по вертикали g или на h2 черного слона на d6.<addx start="19...f4"/>
 
-*Question:* On the other hand, there are clear drawbacks to
+Вопрос: С другой стороны, у хода 19.f4 есть явные недостатки. Можете ли вы назвать хоть один из них?
 
-the 19.f4 move. Can you see any of them?
-
-*Answer:* White’s bishop on e3 is blocked in by its own pawns on both d4 and f4. How is it ever going to attack anything? Secondly,* White’s hold on the light squares in the centre has been impaired – he can no longer control e4 with a pawn. After White exchanges on d5 the hole on e4 becomes even more significant.
+Ответ: Слон белых на e3 заблокирован собственными пешками и на d4, и на f4. Как он вообще может что-то атаковать? Во-вторых, ослаблено влияние белых на белые поля в центре - они уже не могут контролировать их пешкой e4. После размена на d5 дыра на е4 становится еще более существенной.
 
 **19...Kh8!**
 
-A quiet move with a lot of power. Breaking the pin on d5 means that the bishop on e3 is now hanging. Meanwhile the g8-square is made available for a black rook to support a breakthrough with ...g7-g5.
+Тихий ход с большой силой. Разрыв связки на d5 означает, что слон на e3 теперь висит. Тем временем поле g8 становится доступным для черной ладьи, чтобы поддержать прорыв ходом ...g7-g5.
 
 **20.Bxd5**
 
-Not an appealing move for anyone who loves his light squares. Nonetheless, as with 19.f4, there was little choice: White can’t wait passively for the looming attack on his king. Thus if 19.Bf2 Black can already break up the white defences with 19...Nxf4 20.gxf4 Bxf4 hitting d2 and threatening mate on h2.
+Непривлекательный ход для тех, кто любит свои белые поля. Тем не менее, как и в случае с 19.f4, выбора было мало: белые не могут пассивно ждать надвигающейся атаки на своего короля. Таким образом, если 20.Bf2, черные уже могут прорвать оборону белых ходом 20...Nxf4 21.gxf4 Bxf4, ударив d2 и угрожая матом на h2.<level start="19.f4" value="+1"/>
 
 **20...cxd5 21.Qg2**
 
-Still, it’s not all bad news for White: the d5-pawn is hanging and the retreat 21...Qf7 isn’t part of Black’s plans.
+Однако не все так плохо для белых: пешка d5 висит, а отступление 21...Qf7 не входит в планы черных.
 
-*Question:* But couldn’t White attack the b5-pawn instead?
+Вопрос: А не могли ли вместо этого белые атаковать пешку b5?
 
-*Answer:* Yes, I would prefer 21.a4!? to demolish the black queenside. Then the game might continue 21...bxa4 22.Rxa4 g5 23.Raa1!* (instead 23.fxg5 allows Black a dangerous breakthrough with 23...f4! 24.gxf4 Rxe3! 25.Rxe3 Bxf4). Now Black can keep the tension with a move like 23...Re6 or 23...h6. He has to be prepared to jettison the pawn on a6 or g5 in the pursuit of his attack. Naturally, a computer program isn’t going to like Black’s position much, but it is by no means easy for White to hold things together on the kingside.
+Ответ: Да, я бы предпочёл 21.a4!? разрушить ферзевый фланг черных. Тогда игра могла бы продолжиться 21...bxa4 22.Rxa4 g5 23.Raa1! (вместо 23.fxg5 черные могут совершить опасный прорыв ходом 23...f4! 24.gxf4 Rxe3! 25.Rxe3 Bxf4). Теперь черные могут сохранить напряжение ходами типа 23...Re6 или 23...h6. Они должены быть готов отказаться от пешки на а6 или g5 во время атаки. Естественно, компьютерной программе не очень понравится позиция черных, но белым отнюдь не легко удержать ситуацию на королевском фланге.
 
 **21...Rf6!?**
 
-Vajda solves the problem of how to defend his d5-pawn: he simply let’s White take it!
+Вайда решает проблему защиты пешки d5: он просто дает белым ее взять!
 
-*Question:* How would you assess the possibility of 21...Re4!? here?
+Вопрос: Как вы оцениваете возможность 21...Re4!? здесь?
 
-*Answer:* After 22.Nxe4 fxe4 Black is serious material down – the exchange and a pawn. On the other hand he has increased his* ascendancy over the light squares and gained the f3-square for his bishop. It is also important that the white rooks are deprived of open files.
+Ответ: После 22.Nxe4 fxe4 у черных серьезный недостаток – качество и пешка. С другой стороны, они увеличили свое преимущество над белыми полями и получил поле f3 для своего слона. Важно и то, что белые ладьи лишены открытых линий.
 
-Topalov once tried the sacrifice against Anand. After 21...Re4, 22.h4 h6 23.Nxe4 fxe4 24.Rf1 Rf6 25.a4 Rg6 26.axb5 axb5 27.f5 (returning a pawn to clear the f4- square for his bishop and the f-file for the rook) 27...Bxf5 28.Bf4 led to balanced chances in a hard tactical fight in V.Anand-V.Topalov Las Palmas 1993.
+Топалов однажды попробовал эту жертву против Ананда. После 21...Re4, 22.h4 h6 23.Nxe4 fxe4 24.Rf1 Rf6 25.a4 Rg6 26.axb5 axb5 27.f5 (возврат пешки, чтобы очистить поле f4 для своего слона и линию "f" для ладьи) 27...Bxf5 28.Bf4 привело к уравновешиванию шансов в тяжелой тактической борьбе В.Ананд - В.Топалов в Лас-Пальмасе в 1993 году.
 
 **22.Qxd5**
 
-White has to capture the pawn or else his whole strategy has no point.
+Белым необходимо взять пешку, иначе вся их стратегия не имеет смысла.
 
 **22...Be2! 23.Bf2 h6**
 
-Two pawns down, Black can calmly build up his attack. White can’t quite shake off the pressure, for example 24.a4 bxa4 25.Rxa4 and Black can choose between direct aggression along the e-file with 25...Bd3 26.Raa1 Re2 or continue his kingside build-up with 25...g5. Instead there came a howler that spoilt an interesting game:
+Спустив две пешки, черные могут спокойно наращивать атаку. Белые не могут избавиться от давления, например, 24.a4 bxa4 25.Rxa4, и черные могут выбрать между прямой агрессией по линии "е" путем 25...Bd3 26.Raa1 Re2 или продолжить развитие на королевском фланге путем 25...g5. Вместо этого произошел зевок, испортивший интересную партию:
 
 **24.Nf3??**
 
-*Question:* Why the question marks?
+Вопрос: Почему знаки вопроса?
 
-*Answer:* **24...Bxf3! 25.Rxe8+ Bf8! 0-1**
+Answer: **24...Bxf3! 25.Rxe8+ Bf8! 0-1**
 
-But not 25...Kh7 26.Qg8+ Kg6 27.Re3!. Now White resigned as after 26.Qd8 Qh3! 27.Rxf8+ Rxf8 28.Qxf8+ Kh7 he can only avert mate on g2 by giving up his queen on f5.
+Но не 25...Kh7 26.Qg8+ Kg6 27.Re3! Белые сдались, так как после 26.Qd8 Qh3! 27.Rxf8+ Rxf8 28.Qxf8+ Kh7 они могут избежать мата на g2, лишь отдав ферзя на f5.<level start="25...Kh7" value="+1"/>
 
-Blunders of the 24.Nf3 kind often occur in the Marshall. White gets tired of calculating his opponent’s threats, sees an ‘easy’ way to escape the pressure ... and has to resign.
+Ошибки типа 24.Nf3 часто случаются в Маршалле. Белые устают просчитывать угрозы соперника, видят "легкий" способ уйти от давления... и вынуждены сдаться.
 
-**The Anti-Marshall with 8.h3**
+## Антимаршалл с 8.h3
 
-Having read the stuff above on the Marshall, you might share my doubts on allowing Black’s pawn sacrifice. Indeed, why enter a variation which requires reams of book learning, that hands the initiative to the opponent, and, should you survive the attack, still gives few winning chances in the endgame? It makes no sense for the ordinary player, and elite players such as Carlsen and Kasparov have also preferred to avoid the Marshall.
+Прочитав вышеизложенное о Маршалле, вы, возможно, разделите мои сомнения относительно возможности жертвы пешки черными. Действительно, зачем вводить вариант, который требует большого количества книжных знаний, который передает инициативу противнику и, если вы переживете атаку, все равно дает мало шансов на победу в эндшпиле? Для обычного игрока это не имеет смысла, а элитные игроки, такие как Карлсен и Каспаров, также предпочитают избегать Маршалла.
 
-Here we’ll take a look at one of the respectable ‘Anti-Marshall’ lines in the Closed Lopez: **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3** *(see diagram overleaf)*.
+Здесь мы взглянем на одну из респектабельных «Антимаршалловских» линий в закрытой испанке: **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3**.
 
-Because Black has played 7 ... 0 -0 rather than the 7...d6, we play 8.h3! rather than 8.c3. If now 8...d6 we simply transpose back into the normal lines of Chapter Two with 9.c3! having sidestepped the Marshall. In that case we see a nice ‘ambidextrous’ quality to 8.h3: it is useful both in a fast moving gambit centre (should Black play 8...d5) and equally useful in the positional struggle that occurs after 8...d6 9.c3 – as we know it denies the black bishop the g4-square and so makes the 10.d4 advance more secure.
+Поскольку черные сыграли 7...O-O, а не 7...d6, мы играем 8.h3! а не 8.c3. Если теперь 8...d6, мы просто вернемся к обычным вариантам второй главы с 9.c3! обойдя Маршалла. В этом случае мы видим хорошее «двойственное» качество хода 8.h3: оно полезно как в быстро движущемся гамбитном центре (если черные сыграют 8...d5), так и в равной степени полезно в позиционной борьбе, возникающей после 8...d6 9.c3 – как мы знаем, оно лишает черного слона поля g4 и тем самым делает продвижение 10.d4 более безопасным.<level start="7...d6" value="+1"/><level start="8.c3" value="+1"/><addx start="10.d4"/>
 
-In this section we’ll examine what happens if Black insists on ...d7-d5 anyway or else tries to prove 8.h3 is imprecise by playing 8 ...
+В этом разделе мы рассмотрим, что произойдет, если черные все равно будут настаивать на ...d7-d5 или попытаются доказать неточность хода 8.h3, сыграв 8...Bb7, более активный ход, чем 8...d6, который по сути, говорит: «Я никогда не собирался ставить слона на g4, поэтому ваше 8.h3 — пустая трата времени».
 
-Bb7, a more active move than 8...d6, which is in effect saying ‘I never intended to put my bishop on g4, so your 8.h3 is a waste of time.’
+**Партия 43**
 
-*Game 43*
+**С.Кудрин - Э.Гумруккуоглу**
 
-**S.Kudrin-E.Gumrukcuoglu**
-
-Kusadasi 1990
+**Кусадаси 1990**
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 d5**
 
-*Question:* Why do you think this pawn offer is less attractive here
+Вопрос: Как Вы думаете, почему здесь предложение пешки менее привлекательно для черных, чем в маршале после 8.c3 d5?
 
-for Black than in the Marshall after 8.c3 d5?
-
-*Answer:* The move 8.c3 is designed for a slow positional struggle, with the emphasis on establishing a pawn centre with d2-d4. It* takes no account of the needs of the knight on b1, which is denied its best square. This doesn’t matter too much as long as things stay quiet, but the knight is ill equipped to respond to the sudden explosion in the centre that occurs in the Marshall with 8...d5!. It is the ‘wrong-footing’ of White’s opening deployment – he has prepared for a slow game, and ended up in a tactical slugfest – that makes the Marshall so effective. He doesn’t suffer this discomfort after 8.h3 d5.
+Ответ: Ход 8.с3 рассчитан на медленную позиционную борьбу с упором на установление пешечного центра d2-d4. Он не учитывает потребности коня на b1, лишенного лучшего поля. Это не имеет большого значения, пока все остается тихо, но конь плохо подготовлен, чтобы ответить на внезапный взрыв в центре, который происходит в Маршалле ходом 8...d5!. Именно «неправильная позиция» дебютной построение белых – они подготовились к медленной игре, а в итоге оказались в тактической схватке – делает Маршалла таким эффективным. Они не испытывают такого дискомфорта после 8.h3 d5.
 
 **9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5**
 
-The move h2- h3 proves useful in that a typical ‘Marshall’ ...Qh4 lunge by Black won’t gain time by attacking h2. The black knight is also denied a safe attacking square on g4. Nonetheless, the chief virtue of 8.h3 is the avoidance of 8.c3, so that the c3-square is kept free for the white knight.
+Ход h2-h3 оказывается полезным, поскольку типичный выпад черных в Маршалле ...Qh4 не позволит выиграть время за счет атаки h2. Черный конь также лишен безопасного атакующего поля на g4. Тем не менее, главным достоинством хода 8.h3 является избежание хода 8.c3, благодаря чему поле c3 остается свободным для белого коня.
 
 **11...Nf6**
 
-After 11...c6 White can choose between 12.d4, 12.Bxd5 or – my preference –12.d3!?. As long as White avoids saddling himself with the ‘non- move’ 12.c3, he is in effect a tempo up on the Marshall mainline – or we might say a tempo and a half as he has avoided c2 -c3 in favour of a developing move, and also got in the useful move h2-h3. After 12.d3 White can continue Nd2 and Nf3 or Nf1, getting his knight involved in the kingside struggle. Compare this with how the knight is almost stalemated on b1 in the Marshall mainline after 8.c3.
+После 11...c6 белые могут выбирать между 12.d4, 12.Bxd5 или – мое предпочтение – 12.d3!?. Пока белые избегают обременять себя «неходовым» 12.c3, они, по сути, опережают основной вариант Маршалла по темпу – или, можно сказать, на полтора темпа, поскольку они избегают с2-с3 в пользу развивающего хода, а также успели сделать полезный ход h2-h3. После 12.d3 белые могут продолжить Nd2 и Nf3 или Nf1, привлекая своего коня в борьбу на королевском фланге. Сравните это с тем, как конь почти зашел в тупик на b1 в основной линии Маршалла после 8.c3.<skip start="8.c3"/>
 
 **12.d3 Bd6 13.Re1 Ng4? 14.Qf3!**
 
-An excellent square for the queen. White doesn’t need to get involved with the complexities of 14.hxg4 Qh4.
+Отличное поле для ферзя. Белым не нужно вникать в сложности 14.hxg4 Qh4.
 
 **14...Qh4**
 
-So that if 15.Qxa8? Qxf2+ and mate next move, but White has a surprise prepared.
+А что если 15.Qxa8? Qxf2+ и мат следующим ходом, но у белых приготовлен сюрприз.
 
-*Question:* Can you see White’s next move.
+Вопрос: Видите ли вы следующий ход белых?
 
-*Answer:* **15.Re8!**
+Ответ: **15.Re8!**
 
-With threats including 16.Qxf7+, which is also the mating response if Black takes the rook, or 16.Rxf8+ followed by 17.Qxf7+, to say nothing of the hanging black rook on a8 and knight on g4!
+С угрозами, включая 16.Qxf7+, которое также является матовым ответом, если черные возьмут ладью, или 16.Rxf8+ с последующим 17.Qxf7#, не говоря уже о висящей черной ладье на a8 и коне на g4!<addx start="16.Qxf7+"/><addx start="17.Qxf7#"/>
 
 **15...Qh5**
 
-If 15...Bb7 16.Rxf8+ Rxf8 simply 17.Qxg4 wins, as 17...Re8 threatening mate on e1 is easily countered by 18.Bd2. Notice if White had played c2-c3 rather than d2-d3 it would be harder to meet Black’s threats.
+Если 15...Bb7 16.Rxf8+ Rxf8, то выигрывает просто 17.Qxg4, поскольку 17...Re8 с угрозой мата на е1 легко парируется 18.Bd2. Обратите внимание, если бы белые сыграли c2-c3, а не d2-d3, им было бы труднее противостоять угрозам черных.
 
 **16.Rxf8+ Kxf8 17.Qxa8 Qe5**
 
-Black’s last hope is now 18.Qxc8+ Ke7 19.Qxg4?? Qe1 mate. Once again, try putting the white pawns on c3 and d2. Now it is much harder to find a defence against the black attack, despite White’s huge material advantage.
+Последняя надежда черных - 18.Qxc8+ Ke7 19.Qxg4? Qe1# мат. Еще раз попробуем поставить белые пешки на c3 и d2. Теперь, несмотря на огромный материальный перевес белых, найти защиту от атаки черных гораздо сложнее.
 
 **18.Bd2! Qh2+**
 
-The check turns out to be harmless.
+Шах оказался безвредным.
 
 **19.Kf1 Qh1+ 20.Ke2 Nh2 21.Nc3!**
 
-Making full use of the absence of the c2-c3 move.
+Полностью используя отсутствие хода c2-c3.
 
-**21...Qxa1** and Black resigned.
+**21...Qxa1** и черные сдались.
 
-*Question:* It is mate in two moves. Can you see it?
+Вопрос: Мат в два хода. Видите?
 
-*Answer:* A queen check on c8 then a knight mate on d5 does the business.
+Ответ: Шах ферзем на с8, а затем мат конем на d5 делают свое дело.
 
-*Game 44*
+**Партия 44**
 
-**V.Gashimov-V.Ivanchuk**
+**В.Гашимов - В.Иванчук**
 
-FIDE Grand Prix, Astrakhan 2010
+**Гран-при ФИДЕ, Астрахань 2010**
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3!**
 
-If you love making strategic plans that build on a slight space advantage, then choose 8.h3. If you love studying long theoretical lines, and don’t mind handing over the initiative to Black for many moves, then you might enjoy being a pawn up in the Marshall after 8.c3 d5.
+Если Вы любите строить стратегические планы, опираясь на небольшой пространственный перевес, выбирайте 8.h3. Если вы любите изучать длинные теоретические линии и не против передать инициативу черным на много ходов, то вам может понравиться лишняя пешка в Маршалле после 8.c3 d5.
 
 **8...Bb7 9.d3!**
 
-It isn’t too late for Black to play a Marshall after 9.c3 d5!. After 10.exd5 Nxd5 11.Nxe5? (White should forget trying for an advantage; it is better to play 11.d4 exd4 12.cxd4 just to be okay) 11...Nxe5 12.Rxe5 Nf4! White is in big trouble as not only is g2 attacked, there is also the positional threat of 12...Nd3 blocking the advance of the d2-pawn, when it is difficult to see how the white queenside pieces will ever be developed.
+Черным еще не поздно сыграть маршал после 9.c3 d5! После 10.exd5 Nxd5 11.Nxe5? (белым следует забыть о попытках получить преимущество; лучше сыграть 11.d4 exd4 12.cxd4, чтобы не было проблем) 11...Nxe5 12.Rxe5 Nf4! У белых большие проблемы, так как не только атаковано поле g2, но и существует позиционная угроза 13...Nd3, блокирующая продвижение пешки d2, когда трудно понять, как вообще можно развить белые фигуры ферзевого фланга.<addx start="13...Nd3"/>
 
-White’s 9.d3! supports e4 and refuses to fall behind in development. He wants to play a quiet manoeuvring game – and try to prove that the black bishop is badly placed on b7.
+9.d3! белые поддерживают е4 и отказываются от отставания в развитии. Они хотят сыграть спокойную маневренную партию - и попытаться доказать, что черный слон плохо расположен на b7.
 
 **9...d6**
 
-Here was Black’s last chance to play in Marshall style with 9...d5. However, I was impressed by White’s play in S.Karjakin-A.Onischuk, Khanty-Mansiysk 2010: 10.exd5 Nxd5 11.Nxe5 Nd4!?. Black tries to take advantage of the absence of c2 -c3 by utilizing the d4-square. If now 12.Nc3 then 12...Nb4, so Karjakin first developed with 12.Bd2! after which Black hadn’t got a particularly useful move while he ‘waited’ for White to give him the chance to play ...Nb4. There followed 12...c5 13.Nc3 Nxb3 14.axb3 Nb4 15.Ne4 f5 16.Ng3 Qd5 17.Nf3 Qd7 18.Ne5 Qd5 19.Nf3 Qd7 20.Bxb4 cxb4 21.d4 Rac8 22.Qd3 and White had the better of it.
+Здесь у черных был последний шанс сыграть в стиле Маршалла с 9...d5. Однако меня впечатлила игра белых в партии С.Карякин - А.Онищук, Ханты-Мансийск 2010: 10.exd5 Nxd5 11.Nxe5 Nd4!? Черные пытаются воспользоваться отсутствием c2-c3, задействовав поле d4. Если сейчас 12.Nc3, то 12...Nb4, поэтому Карякин сначала развил 12.Bd2!, после чего у черных не было особо полезного хода, пока они "ждали", когда белые дадут им возможность сыграть ...Nb4. Последовало 12...c5 13.Nc3 Nxb3 14.axb3 Nb4 15.Ne4 f5 16.Ng3 Qd5 17.Nf3 Qd7 18.Ne5 Qd5 19.Nf3 Qd7 20.Bxb4 cxb4 21.d4 Rac8 22.Qd3, и у белых стало лучше.
 
-With the game move Ivanchuk submits to a typical Closed structure.
+Ходом в партии Иванчук соглашается с типичной закрытой структурой.
 
-*Exercise:* What are the drawbacks of the bishop being on b7?
-
-Can you suggest a plan for White to exploit this? (Hint: what
-
-squares have been weakened by the bishop going to b7?)
-
-And what should be White’s immediate concern?
+Упражнение: Каковы недостатки нахождения слона на b7? Можете ли вы предложить белым план, как это использовать? (Подсказка: какие поля ослаблены в результате перехода слона на b7?) И что должно быть непосредственной заботой белых?
 
 **10.a3!?**
 
-*Answer:* White’s priority is to make a hole on a2 for his bishop before it can be liquidated by 10...Na5 and 11...Nxb3. Instead 10* a4!? would lead to the Carlsen-Topalov and McDonald-Savage games in Chapter One, but with the moves Re1 and h3 (for White) and ...Bb7 (for Black) inserted. However, for the time being Gashimov is planning to keep things quiet on the queenside.
+Ответ: Приоритет белых - сделать лазейку на a2 для своего слона, пока он не будет ликвидирован ходами 10...Na5 и 11...Nxb3. Вместо этого 10.a4!? привело бы к партиям Карлсен - Топалов и Макдональд - Сэвидж из первой главы, но со вставленными ходами Re1 и h3 (за белых) и ...Bb7 (за черных). Однако на ферзевом фланге Гашимов пока намерен сохранять спокойствие.<addx start="10...Na5"/><addx start="11...Nxb3"/>
 
-If you have studied Chapter One you are probably familiar with some of the ideas in this type of pawn centre. The black bishop on b7 is not only boxed in by the pawn on e4, it has also abandoned the defence of the f5- square by moving away from the c8- h3 diagonal. White’s traditional manoeuvre of the knight from b1 to g3 is therefore especially attractive as the knight will threaten to occupy f5.
+Если вы изучали первую главу, то, вероятно, знакомы с некоторыми идеями этого типа пешечного центра. Черный слон на b7 не только закрыт пешкой на e4, но и отказался от защиты поля f5, уйдя с диагонали c8-h3. Поэтому традиционный для белых маневр коня с b1 на g3 особенно привлекателен, так как конь будет угрожать занять f5.
 
 **10...Nb8**
 
-It was also possible to adopt a Chigorin approach with 10...Na5, for example 11.Ba2 c5 12.Nbd2 Nc6 13.Nf1 Bc8 (the bishop returns to its original square as Black wants to challenge the strong white bishop on a2) 14.c3 Be6 15.Bxe6 fxe6.
+Можно было применить и чигоринский подход с 10...Na5, например 11.Ba2 c5 12.Nbd2 Nc6 13.Nf1 Bc8 (слон возвращается на исходную позицию, так как черные хотят бросить вызов сильному белому слону на a2) 14.c3 Be6 15.Bxe6 fxe6.
 
-*Question:* Doesn’t this exchange favour Black because his pawn
+Вопрос: Разве этот размен не в пользу черных, потому что их пешка теперь прикрывает поля d5 и f5, а у ладьи открытая линия «f»?
 
-now covers the d5- and f5-squares, and his rook has the open f-file?
-
-*Answer:* In fact the f-file proves pretty irrelevant and the black centre is a rather unwieldy mass, a target rather than a source of* strength. With 16.b4 White is able to start nibbling away at it. The game G.Kamsky-E.Bacrot, Jermuk 2009, continued 16...d5 (looking for counterplay by exposing the pawn on d3 to attack) 17.Ng3 dxe4 18.Nxe4 Nxe4 19.Rxe4 Qd5 20.Qe2 Rad8 21.Ne1 Qb3 22.Qa2 Qxa2? (not 22...Qxc3? 23.Bd2 winning the queen, but it was better for her to go back with 22...Qd5! when White wouldn’t be able to exchange queens as it would straighten out the black pawns) 23.Rxa2 Rd5 24.Kf1 Nb8 25.Ke2 Nd7 and having secured the d3-pawn with his king, White was able to start probing the black pawns with 26.Nf3 etc.
+Ответ: На самом деле линия "f" оказывается совершенно неактуальной, а черный центр представляет собой довольно громоздкую массу, скорее цель, чем источник силы. Ходом 16.b4 белые могут начать его откусывать. Партия Г.Камский - Э.Бакро, Джермук 2009, продолжилась 16...d5 (ищет контригру, подставляя пешку на d3 для атаки) 17.Ng3 dxe4 18.Nxe4 Nxe4 19.Rxe4 Qd5 20.Qe2 Rad8 21.Ne1 Qb3 22.Qa2 Qxa2? (не 22...Qxc3? 23.Bd2 с выигрышем ферзя, но ему лучше было вернуться 22...Qd5!, когда белые не смогут разменять ферзей, так как это выпрямит черные пешки) 23.Rxa2 Rd5 24.Kf1 Nb8 25.Ke2 Nd7 и, укрепив своим королем пешку d3, белые смогли начать прощупывать черные пешки ходом 26.Nf3 и т.д.
 
 **11.Nbd2 Nbd7 12.Nf1 Re8 13.Ba2 Bf8**
 
-Both sides have been redeploying their pieces: White has brought his queen’s knight to f1, whilst Black has moved his horse from c6 via b8 to d7. The white bishop has been tucked away on a2, the black bishop on f8. After all this manoeuvring behind the lines, Gashimov
-
-suddenly decided on a sharp plan:
+Обе стороны переставляют свои фигуры: Белые вывели своего ферзевого коня на f1, а черные перевели коня с c6 через b8 на d7. Белый слон спрятался на a2, черный - на f8. После всего этого маневрирования на своих сторонах Гашимов вдруг решился на острый план:
 
 **14.Ng5!?**
 
-By attacking f7 White clears the way for his f-pawn with gain of time.
+Атакой на f7 белые расчищают путь для пешки "f" с выигрышем времени.
 
 **14...Re7 15.f4 h6 16.Nf3 d5**
 
-*Question:* How would you assess Ivanchuk’s move?
+Вопрос: Как бы Вы оценили этот ход Иванчука?
 
-*Answer:* It is too ambitious and deserves a question mark. Ivanchuk wants to punish White for his kingside foray by counterattacking in* the centre, but he ends up losing control of his vital e5 strongpoint. As I’ve remarked earlier in relation to his game with Topalov, the Ukrainian Grandmaster is a brilliant chess player, but his tendency to try to extract as much as possible from any position can sometimes rebound on him.
+Ответ: Это слишком амбициозно и заслуживает вопросительного знака. Иванчук хочет наказать белых за вылазку на королевский фланг контратакой в центре, но в итоге теряет контроль над жизненно важным опорным пунктом е5. Как я уже отмечал ранее в связи с его партией с Топаловым, украинский гроссмейстер - блестящий шахматист, но его стремление извлечь как можно больше из любой позиции иногда может обернуться против него самого.
 
-The simple 16...c5 has been recommended, when Black remains solid, though White can build up with 17.Ng3 etc.
+Рекомендовано простое 16...c5, когда черные сохраняют прочность, хотя белые могут наращивать темп путем 17.Ng3 и т.д.
 
 **17.fxe5 Nxe5 18.Nxe5 Rxe5 19.Bf4 Re8 20.e5**
 
-One of the things we have learnt from the games in this book is that Black shouldn’t give away the e5-square unless he has a good reason for it. Here White is allowed to drive the black knight from f6 and cement a pawn on e5 – strong indicators that he will be able to start a direct attack on the black king.
+Из партий этой книги мы узнали, что черные не должны отдавать поле е5, если у них нет на то веских причин. Здесь белым позволено вытеснить черного коня с f6 и закрепить пешку на е5 - серьезные признаки того, что они смогут начать прямую атаку на черного короля.
 
 **20...Nh7 21.d4 Ng5 22.Ng3 Ne6 23.Be3 g6**
 
-Nonetheless, things don’t appear too bad for Black. The white knight has been kept out of f5 and the black kingside will be strengthened by the fianchetto on g7. Black also has a knight well placed on the blockade square in front of the e5-pawn. White has already spent his pawn thrust f4-f5 and has no more pawns to use as levers against the black kingside.
+Тем не менее, все выглядит не так уж плохо для черных. Белого коня не пускают на f5, а черный королевский фланг будет усилен фианкетто на g7. Кроме того, у черных есть конь, хорошо расположенный на блокадном поле перед пешкой e5. Белые уже потратили свою пешку f4-f5, и у них больше нет пешек, которые можно было бы использовать в качестве рычагов против черного королевского фланга.
 
-*Question:* So why does Ivanchuk end up resigning in another 13 moves? What is the nature of White’s advantage?
+Вопрос: Так почему же Иванчук сдается еще через 13 ходов? В чем заключается преимущество белых?
 
-*Answer:* The point is that Black has no way to gain counterplay or break White’s bind on the kingside. Step by step, White is able to* increase the pressure on the f7-, g6- and h6- pawns by bringing his pieces into action, and Black can do nothing to prevent or even distract him. In other words, the black position has no *energy*.
+Ответ: Дело в том, что у черных нет возможности добиться контригры или разорвать связку белых на королевском фланге. Шаг за шагом белые способны усиливать давление на пешки f7, g6 и h6, приводя в действие свои фигуры, а черные ничего не могут сделать, чтобы помешать или даже отвлечь их. Другими словами, позиция черных не имеет энергии.
 
 **24.Rf1 Bg7 25.c3 c5 26.Qg4**
 
-First of all White mobilizes his heavy pieces, bringing the rooks into action along the f-file.
+Прежде всего белые мобилизуют свои тяжелые фигуры, приводя в действие ладьи по линии «f».
 
 **26...Rc8 27.Rf2 Rc7 28.Raf1 Bc8 29.Qd1 c4**
 
-*Exercise:* Try to find a way to bring more resources
+Упражнение: постарайтесь найти способ привлечь больше ресурсов в кампанию белых на королевском фланге.
 
-to White’s kingside campaign.
+Возможность 30.dxc5, раскрывающая атаку на d5, заставляет черных закрыть центр ходом ...c4, но надежды на контригру теперь уже нет.<addx start="30.dxc5"/>
 
-The possibility of 30.dxc5, uncovering an attack on d5, persuades Black to close the centre with ...c4, but now there is no hope at all of counterplay.
+Ответ: **30.Bb1!**
 
-*Answer:* **30.Bb1!**
-
-With ideas of Qd2 to attack h6, when even if ...Kh7 didn’t drop f7 it could be powerfully answered by Nh5! followed by Nf6+ or Nxg7.
-
-Unless Black defends h6 with his queen, he will be forced to weaken his already fragile kingside pawn structure to save the pawn.
+С идеями Qd2 атаковать h6, когда даже если бы ...Kh7 не теряло f7, на это можно было бы мощно ответить Nh5! с последующим Nf6+ или Nxg7. Если черные не защитят h6 своим ферзем, то для спасения пешки они будут вынуждены ослабить свою и без того хрупкую пешечную структуру на королевском фланге.
 
 **30...Qh4 31.Kh2 a5 32.Ne2 Rf8 33.Qd2 Kh7**
 
-Defending h6 again so that the black queen is able to retreat, but Gashimov has already prepared a snare:
+Снова защита h6, чтобы черный ферзь мог отступить, но Гашимов уже подготовил ловушку:
 
 **34.Rf6!**
 
-*Question:* What happens if Black takes the rook?
+Вопрос: Что произойдет, если черные возьмут ладью?
 
 **34...Re7**
 
-*Answer:* The black queen would soon be crowded out of safe squares after 34...Bxf6 35.Rxf6, for example 35...Re8 (what else?) 36* Ng1! (threatening to trap the queen with 37.Nf3 and 38.g4) 36...Ng5 37.Rf4 Qh5 38.Qe1! and Black has no good answer to 39.Rh4.
+Ответ: После 34...Bxf6 35.Rxf6 черный ферзь вскоре будет вытеснен с безопасных полей, например, 35...Re8 (что еще?) 36.Ng1! (угрожая заманить ферзя в ловушку 37.Nf3 и 38.g4) 36...Ng5 37.Rf4 Qh5 38.Qe1! и у черных нет хорошего ответа на 39.Rh4.<addx start="37.Nf3"/><addx start="38.g4"/><addx start="39.Rh4"/>
 
 **35.R6f4 Nxf4 36.Rxf4 1-0**
 
-The black queen is lost after 36...Qh5 37.Ng3 Qg5 38.h4.
+Черный ферзь потерян после 36...Qh5 37.Ng3 Qg5 38.h4.
 
-With this majestic positional/attacking game I’ll bid you farewell. I hope you have similarly inspired performances in the Ruy Lopez!
+На этом величественном позиционно-атакующем матче я с вами прощаюсь. Надеюсь, что и в испанской партии у вас будут такие же вдохновенные выступления!
 
 
 
