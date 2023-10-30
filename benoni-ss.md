@@ -662,7 +662,7 @@ White defends the e4-pawn.
 
 **15...Ra7**
 
-This defends the knight on d7 so that we can jump ...Qh4 and also threatens to catch the white queen with 16.-- Bf8 17.Qc6 Nb8.
+This defends the knight on d7 so that we can jump ...Qh4 and also threatens to catch the white queen with 16...Bf8 17.Qc6 Nb8.<addx start="16...Bf8"/>
 
 **16.a5 Qh4**
 
@@ -698,7 +698,7 @@ White keeps ideas to play Be2 immediately, without first playing Rfe1.
 
 **14...Rfb8**
 
-Of course, the natural moves 14...Rfe8 and 14...Rab8 are also good. The point of 14...Rfb8 this is that after 15.-- b5 16.axb6 the a6-pawn is well defended. Additionally, after White plays Bg5 we sometimes have the extra option of playing ...Qf8. We have to be careful about White's e5, especially since the a8-rook is on the same diagonal as the f3-bishop.
+Of course, the natural moves 14...Rfe8 and 14...Rab8 are also good. The point of 14...Rfb8 this is that after 15...b5 16.axb6 the a6-pawn is well defended. Additionally, after White plays Bg5 we sometimes have the extra option of playing ...Qf8. We have to be careful about White's e5, especially since the a8-rook is on the same diagonal as the f3-bishop.<addx start="15...b5"/>
 
 **15.Rfe1**
 
@@ -1016,7 +1016,7 @@ After thoroughly analyzing the position I think this is best. Black activates th
 
 12...Re8 13.Re1 with a slight edge.
 
-12.f3
+**12.f3**
 
 This is the main move and it makes sense to securely defend the e4-pawn. White prepares to continue with Nc4 and Bf4.
 
