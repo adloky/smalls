@@ -1,3 +1,5 @@
+<config color="-1"/>
+
 <font size="5">**Волжский гамбит: коротко и ясно**</font>
 
 ГМ Свапнил Дхопаде
@@ -104,7 +106,7 @@ An important intermediate check before we do something to defend our c4-pawn.
 
 6...b5?! is not good for Black due to, 7.Nxc6
 
-7.a4 is also a very good alternative as Black is now forced to play, 7...Nd5 which we do not want to play unless White has a knight on c3 as whenever White plays e4 we can exchange the knight on c3. Otherwise, after e4 our d5-knight will be kicked back and White will gain time.<level/>
+(7.a4 is also a very good alternative as Black is now forced to play, 7...Nd5 which we do not want to play unless White has a knight on c3 as whenever White plays e4 we can exchange the knight on c3. Otherwise, after e4 our d5-knight will be kicked back and White will gain time.)
 
 7...Qb6 8.Na5! a nice tactical resource in order to fulfill positional aims. 8...Nd5
 
@@ -630,7 +632,9 @@ It would be wrong to capture White's light-squared bishop due to, 11...Qxc4+? 12
 
 12.Bb5+ should be met by, 12...Ke7
 
-not, 12...Bd7?? due to, 13.Rc1+− 13.Rc1 Qa5 transposes.
+not, 12...Bd7?? due to, 13.Rc1+−<level start="12...Bd7"/>
+
+13.Rc1 Qa5 transposes.
 
 **12...Qa5!**
 
@@ -638,9 +642,9 @@ This is the only move in the position. It is important to control the c7 square 
 
 12...Qb4 looks logical but does not work due to, 13.Nb5! the white knight creates havoc. 13...Na6 14.a3 another strong move pushing the black queen to an inferior square. 14...Qc5
 
-14...Qa5 15.Qh5! Ke7 16.e5+−<level/>
+(14...Qa5 15.Qh5! Ke7 16.e5+−)
 
-14...Qe7 15.Nd6+ Kf8 16.Bxa6+−<level/>
+(14...Qe7 15.Nd6+ Kf8 16.Bxa6+−)
 
 15.Nd6+ Ke7 16.Nxf7+−
 
@@ -882,7 +886,7 @@ White develops his queen not to support the c4-pawn but to prepare the pawn adva
 
 5.Qxc4? is of course not White's idea as the queen is misplaced on c4. 5...e6 6.e4 exd5 7.exd5 Na6! a strong move, the knight aims to go to b4 or c7 and put pressure on the d5-pawn. We can clearly see the drawback of having the queen on c4, the pawn on d5 lacks sufficient support. 8.a3
 
-8.Nc3 Nb4 9.Qb3 Qa5! 10.Bd2 Ba6 and Black gets a strong initiative.<level/>
+(8.Nc3 Nb4 9.Qb3 Qa5! 10.Bd2 Ba6 and Black gets a strong initiative.)
 
 8...Nc7 9.Nc3 Bb7 White simply loses the d5-pawn. It makes no difference if White pins the f6-knight with 10.Bg5 as Black can still grab the pawn with 10...Ncxd5 11.Nxd5 Bxd5 12.Bxf6 the forcing moves continue. 12...Bxc4 13.Bxd8 Bxf1 14.Kxf1 Kxd8−+ and Black ends up a clear pawn ahead in the endgame.
 
@@ -910,11 +914,11 @@ This simple developing move is surprisingly the best for Black. We sacrifice the
 
 7...Ng4 is inferior due to, 8.Nxd5 Nxe5 9.Qe4
 
-9.Nf3 0-1 (27) Wichmann,C (2361)-Pap,M (2501) Bad Woerishofen 2012<level/>
+(9.Nf3 0-1 (27) Wichmann,C (2361)-Pap,M (2501) Bad Woerishofen 2012)
 
 9...d6 and now the simple developing move, 10.Nf3! is sufficient to guarantee at least a slight edge. 10...Nbc6 11.Bxc4 White dominates the central squares and Black's king is stuck in the centre. 11...Be7 12.Nxe5 Nxe5
 
-12...dxe5? 13.Nxe7+− loses for Black.<level/>
+(12...dxe5? 13.Nxe7+− loses for Black.)
 
 13.Bb5+⩲ this forces Black's king to move. Even though Black will still be a pawn up, it matters little as White's d5-knight is very powerful plus Black's king will be a source of trouble.
 
@@ -1024,7 +1028,7 @@ Now Black is ready to snatch the e4-pawn. If White defends it directly or indire
 
 It would be great if we could win the e4-pawn immediately with, 7...Nxe4?? but it is not possible due to, 8.Qe2! and we surely don't want to get mated in the opening after, 8...Nf6?
 
-8...f5 9.f3+−
+(8...f5 9.f3+−)
 
 9.Nd6#
 
@@ -1036,7 +1040,7 @@ White ignores the threat to the e4-pawn hoping to create pressure on the e-file 
 
 8...Nxe4 is completely possible but I don't like the position after, 9.Bc4 g6 10.Qe2 f5
 
-10...Nf6? leads us into the same tactical trap that we see in the 8.Bc4 variation. 11.Bf4! Ra6 12.Nxd6+<level start="8.Bc4"/>
+(10...Nf6? leads us into the same tactical trap that we see in the 8.Bc4 variation. 11.Bf4! Ra6 12.Nxd6+)<level start="8.Bc4"/>
 
 11.Ng5 Bg7 12.O-O O-O 13.Re1 Initially the engines prefer this position for Black. But analysing for a while I concluded that it is not so easy to play here for Black because of the pressure on the e-file. 1-0 (39) Demidov,M (2534) -Salman,P (2197) Moscow 2017
 
@@ -1154,7 +1158,7 @@ Side-stepping White's idea of Nf3-e5. Black anyways wanted to play Ra8-b8 and gr
 
 Our intended, 9...Be7?! is, of course, inferior here due to, 10.Ne5! The benefit of playing 9.Nf3 immediately. 10...O-O 11.Nxc6 dxc6 12.Qxd8 Bxd8<level start="9.Nf3"/>
 
-12...Rxd8? 13.Bf4+− 1-0 (39) Karpov, A (2725) -Christiansen, L (2620) Wijk aan Zee 1993
+(12...Rxd8? 13.Bf4+− 1-0 (39) Karpov, A (2725) -Christiansen, L (2620) Wijk aan Zee 1993)
 
 13.e4 and because of Black's weak queenside pawns White has better chances. 1-0 (48)Grabarczyk,M (2480) -Ehrenfeucht,W (2290) Warsaw 1997
 
@@ -1312,7 +1316,7 @@ challenging the bishop directly.
 
 15...Nb4 16.Bb1 Bf5 17.Nxh7 Kxh7
 
-17...Bxb1 18.Nxf6+ exf6 19.Rxb1± It might look dangerous for White to have the king on e1, but objectively White is doing great here. He is a pawn up and has threats on the kingside.<level/>
+(17...Bxb1 18.Nxf6+ exf6 19.Rxb1± It might look dangerous for White to have the king on e1, but objectively White is doing great here. He is a pawn up and has threats on the kingside.)
 
 18.hxg6+ fxg6 19.Bxf5 Nxf5 20.Bxf8+ Kg8 21.Bh6 c4 22.O-O +− and Black lacks compensation here.
 
