@@ -60,7 +60,7 @@ We have easy development because of our strong centre and space advantage.
 
 **13.c3 h5**
 
-Trying to open the position on the kingside. Even if we lose this pawn, we get enough compensation in the form of a potential attack on White?s king.
+Trying to open the position on the kingside. Even if we lose this pawn, we get enough compensation in the form of a potential attack on White's king.
 
 **14.h4**
 
@@ -118,7 +118,7 @@ An important move. This pawn sacrifice makes way for the bishop to come to b7 in
 
 **15.Nxb5 O-O 16.Nc3 Bb7**
 
-This was played in 1/2-1/2 (72) Kravtsiv,M (2677)-Moroni,L (2506) Heraklion 2017. The activity of Black?s pieces more than compensates for the missing pawn.
+This was played in 1/2-1/2 (72) Kravtsiv,M (2677)-Moroni,L (2506) Heraklion 2017. The activity of Black's pieces more than compensates for the missing pawn.
 
 ## Colle System #1
 
@@ -180,7 +180,7 @@ This is an instructive blunder.
 
 **12...c4!**
 
-It?s hard to believe, but all the tactics work out for Black!
+It's hard to believe, but all the tactics work out for Black!
 
 **13.Be2 c3!**
 
@@ -272,7 +272,7 @@ All going as planned!
 
 **18.Qc2**
 
-Until here we?ve been following the game 1/2-1/2 (30) Nisipeanu,L (2672)-Fridman,D (2633) Baden-Baden 2014.
+Until here we've been following the game 1/2-1/2 (30) Nisipeanu,L (2672)-Fridman,D (2633) Baden-Baden 2014.
 
 **18...h5!?**
 
@@ -334,7 +334,7 @@ This is a useful move. Our plan is to take ...dxc4 and follow up with ...b5. We 
 
 **6.cxd5 exd5**
 
-We?ve managed to avoid the check on b5 at the expense of a tempo.
+We've managed to avoid the check on b5 at the expense of a tempo.
 
 **7.Be2 cxd4!?**
 
@@ -362,7 +362,7 @@ A fine point: We're threatening ...Bxh2+. That's why it's important that we have
 
 **12.h3 Qe7 13.Qd3 O-O!**
 
-Not an easy move to make. When you?ve got such an attack going it's difficult to switch to normal chess!
+Not an easy move to make. When you've got such an attack going it's difficult to switch to normal chess!
 
 **14.Bb2 Re8⩱**
 
@@ -376,7 +376,7 @@ In return for the isolated pawn we get good control in the centre.
 
 **6.Bb5+**
 
-This is White?s most testing move.
+This is White's most testing move.
 
 **6...Nc6**
 
@@ -420,11 +420,11 @@ A good exchange because we can harass the rook on c1 afterwards.
 
 **14.Bxd4 Ba3**
 
-The point. We want to force White?s rook away from the c-file.
+The point. We want to force White's rook away from the c-file.
 
 **15.Ra1 Rc8**
 
-It?s nice to establish control over this file.
+It's nice to establish control over this file.
 
 **16.Bd3 Qe7⩱**
 
@@ -490,7 +490,7 @@ This has to be the most critical.
 
 **12...Rc8**
 
-This is the idea behind 11? Be6 ? the rook can come to c8, defending the knight on c6.
+This is the idea behind 11...Be6 - the rook can come to c8, defending the knight on c6.
 
 **13.Nxc6**
 
@@ -502,7 +502,7 @@ White was counting on this move.
 
 **14...c5**
 
-It would be a pity if we didn?t make this move, even if we now have to sacrifice an exchange.
+It would be a pity if we didn't make this move, even if we now have to sacrifice an exchange.
 
 **15.Bb7 Bxc4**
 
@@ -552,7 +552,7 @@ We force White to give up the bishop. Exchanging pieces is good for us because w
 
 **4.Bxf6 Qxf6 5.Nc3**
 
-Usually, after this White?s plan is to continue with Qd2, O-O-O and then push on the kingside.
+Usually, after this White's plan is to continue with Qd2, O-O-O and then push on the kingside.
 
 **5...d6**
 
@@ -622,7 +622,7 @@ We prevent White's d5-d6 and prepare to fianchetto our dark-squared bishop with 
 
 **6.e4 g6 7.Nf3 a6**
 
-I recommend this move as White cannot parry both ...b5 and ...Bg4. Thus we manage to solve some of Black?s strategical problems in the position.
+I recommend this move as White cannot parry both ...b5 and ...Bg4. Thus we manage to solve some of Black's strategical problems in the position.
 
 **8.a4**
 
@@ -634,7 +634,7 @@ Black should go for this move if the move order allows it.
 
 **9.Qb3**
 
-This is a risky move as it allows us to double White?s pawns on the kingside. White realizes that his move order has allowed us to exchange the light-squared bishop, and goes for this last moment resource.
+This is a risky move as it allows us to double White's pawns on the kingside. White realizes that his move order has allowed us to exchange the light-squared bishop, and goes for this last moment resource.
 
 **9...Bxf3 10.Qxb7 Nbd7**
 
@@ -732,7 +732,7 @@ Objectively this is the best move. The temporary pawn sacrifice is justified bec
 
 **10.Nxb5**
 
-This is the more ambitious move; although the exchange of Black?s b-pawn for White?s e-pawn favours Black, White will try to make the best of his piece activity.
+This is the more ambitious move; although the exchange of Black's b-pawn for White's e-pawn favours Black, White will try to make the best of his piece activity.
 
 **10...Re8!**
 
@@ -756,7 +756,7 @@ The knight is heading to c4.
 
 **13...Nf6**
 
-Unfortunately it isn?t possible to keep the knight in the centre.
+Unfortunately it isn't possible to keep the knight in the centre.
 
 **14.Rxe8+ Nxe8**
 
@@ -806,7 +806,7 @@ The threat is Qf4.
 
 **19...Kg7**
 
-We?ve prevented White's threat and we're ready to continue ?Bb7.
+We've prevented White's threat and we're ready to continue ...Bb7.
 
 **20.Qa3 Qd8**
 
@@ -826,7 +826,7 @@ Followed by ...Nf6 with a fine position for Black. White has no direct threats a
 
 This is the most aggressive approach against the Benoni. It is also quite justified. White is rolling forward his central pawns, trying to create threats as soon as possible. He will play in the centre and on the kingside.
 
-This line is quite dangerous for Black. That's why many players avoid it by playing the Benoni only after White has committed the knight to f3, e.g. 1.d4 Nf6 2.c4 e6 3.Nf3 c5. That way White cannot play the 7. f4 line. However, if White continues 3.Nc3 with 3...c5 Black doesn?t avoid the f4 line, while after 3...Bb4 he enters the Nimzo-Indian, and 3...d5 is the Queen's Gambit Declined.
+This line is quite dangerous for Black. That's why many players avoid it by playing the Benoni only after White has committed the knight to f3, e.g. 1.d4 Nf6 2.c4 e6 3.Nf3 c5. That way White cannot play the 7. f4 line. However, if White continues 3.Nc3 with 3...c5 Black doesn't avoid the f4 line, while after 3...Bb4 he enters the Nimzo-Indian, and 3...d5 is the Queen's Gambit Declined.
 
 I don't think many white players are well prepared in the f4 line since Black can avoid it in several ways. So, if we're up for a challenge and want to play for a win, we should allow White to choose whatever setup he wants in our favourite opening!
 
@@ -852,7 +852,7 @@ It's better to get rid of the knight immediately.
 
 **11.Nxc8+ Qxc8 12.Nf3 Rd8**
 
-Black?s aim is to attack the d5-pawn quickly after ...Nb6. 12...Re8 is played more often and is also a good move.
+Black's aim is to attack the d5-pawn quickly after ...Nb6. 12...Re8 is played more often and is also a good move.
 
 **13.fxe5 Nxe5 14.Bg5+**
 
@@ -864,7 +864,7 @@ A very strong exchange sacrifice.
 
 **15.Bxd8 Qxd8⩱**
 
-This position was first seen in 0-1 (50) Grandelius,N (2570)-Hedman,E (2381) Falun 2012, which I've analyzed in the model games section in the main course. Black's position is fun to play! White?s king is stuck in the centre, especially if Black plays ...Nxf3+ followed by ...Bd4. White's rooks can?t be activated and we can quickly bring our forces towards the white king with ...Nd7, ...Qb6/...a5(+) and ...Re8.
+This position was first seen in 0-1 (50) Grandelius,N (2570)-Hedman,E (2381) Falun 2012, which I've analyzed in the model games section in the main course. Black's position is fun to play! White's king is stuck in the centre, especially if Black plays ...Nxf3+ followed by ...Bd4. White's rooks can't be activated and we can quickly bring our forces towards the white king with ...Nd7, ...Qb6/...a5(+) and ...Re8.
 
 ## Benoni: 6. e4, 7. f4 #2
 
@@ -946,7 +946,7 @@ This works because the white king is still on g1!
 
 **16.Bxc4 Qb6+ 17.Rf2 Qxb2**
 
-Black?s queen will not get trapped and is rather active.
+Black's queen will not get trapped and is rather active.
 
 **18.Rb1 Qa3**
 
@@ -988,7 +988,7 @@ It feels great to have such a strong knight! 16...f6 is also possible if you don
 
 **17.f6**
 
-White?s last chance to play this!
+White's last chance to play this!
 
 **17...Kh8 18.Raf1 g5!**
 
@@ -1002,7 +1002,7 @@ This is quite a strong plan. White avoids the exchange of the light-squared bish
 
 **7...Bg7 8.e4 O-O 9.Be2 Na6**
 
-I recommend this move to bring the knight to c7, rook to e8 and then ...b6 and ...Ba6. The knight on c7 will help prepare ...b5, but it's not so good against White?s advance e5. However, White loses some time with his knight maneuver so we can afford this.
+I recommend this move to bring the knight to c7, rook to e8 and then ...b6 and ...Ba6. The knight on c7 will help prepare ...b5, but it's not so good against White's advance e5. However, White loses some time with his knight maneuver so we can afford this.
 
 We can also start with 9...Re8 and I think this should lead to the same thing.
 
@@ -1012,7 +1012,7 @@ We can also start with 9...Re8 and I think this should lead to the same thing.
 
 **11.a4**
 
-A useful and flexible move. White could make other moves, but a4 will be needed anyway. Moreover it prevents Black?s direct ideas to prepare ...b5 by means of ...a6 and ...Rb8 because White can follow up with Nc4.
+A useful and flexible move. White could make other moves, but a4 will be needed anyway. Moreover it prevents Black's direct ideas to prepare ...b5 by means of ...a6 and ...Rb8 because White can follow up with Nc4.
 
 **11...Re8**
 
@@ -1036,7 +1036,7 @@ The only move. We need to keep an eye on the c4-knight.
 
 **14.Bg5 Qd7!?**
 
-We avoid the pin and prepare to push ...b5 after ...Bxc4 and ...a6. There is no need to play ...h6 yet, so as not to weaken our king?s position.
+We avoid the pin and prepare to push ...b5 after ...Bxc4 and ...a6. There is no need to play ...h6 yet, so as not to weaken our king's position.
 
 **15.Qd2 Bxc4**
 
@@ -1060,7 +1060,7 @@ We'll make use of the b-file.
 
 **19.Nxa4 Rab8 20.Qa5**
 
-This was played in an older correspondence game. White?s idea is to continue Nb6 and Nc4.
+This was played in an older correspondence game. White's idea is to continue Nb6 and Nc4.
 
 **20...Qd8∞**
 
@@ -1150,7 +1150,7 @@ White is not in time to defend. For example 16.Be2 Ne4 17.O-O Nxc3 18.Qc2 b5! an
 
 **1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.g3**
 
-The Fianchetto Variation is a solid line for White. White intends to slowly build up his position. It is an important line since it can also be reached via the move order 1.d4 Nf6 2.c4 e6 3.g3 c5 4.d5 exd5 5.cxd5 d6. Thus Black players who don?t want to play the Catalan when White plays 3. g3 often go for this specific variation in the Benoni.
+The Fianchetto Variation is a solid line for White. White intends to slowly build up his position. It is an important line since it can also be reached via the move order 1.d4 Nf6 2.c4 e6 3.g3 c5 4.d5 exd5 5.cxd5 d6. Thus Black players who don't want to play the Catalan when White plays 3. g3 often go for this specific variation in the Benoni.
 
 **7...Bg7 8.Bg2 O-O 9.O-O**
 
@@ -1160,7 +1160,7 @@ White's plan is to bring the bishop to f4 before or after playing Nd2. h3 is a u
 
 This is the starting position of the Fianchetto Variation. The rook is well placed on e8, and White already has to take into account the move ...Ne4, since it is often quite useful for Black to exchange a pair of knights. Also, after White's Nd2-c4 we need to be ready to play Nd7-e5 or Nd7-b6 in order to challenge White's knight. Therefore Black's b8-knight has to go to d7. It is too slow to instead develop it with ...Na6-c7.
 
-It is always a question when to include the moves ...a6 and a4. For the time being, I prefer to be flexible and not include them yet. On the one hand, having White?s pawn on a4 is good for us if we swap the knights on e4 since we can then have a stable square on b4 for our rook. However, in other lines, having the pawn on a4 gives White the additional option of playing a5 with a grip on the queenside.
+It is always a question when to include the moves ...a6 and a4. For the time being, I prefer to be flexible and not include them yet. On the one hand, having White's pawn on a4 is good for us if we swap the knights on e4 since we can then have a stable square on b4 for our rook. However, in other lines, having the pawn on a4 gives White the additional option of playing a5 with a grip on the queenside.
 
 **10.Bf4**
 
@@ -1200,7 +1200,7 @@ White exchanges their h-pawn for our g-pawn.
 
 **17...Nxh5 18.Nxg4 f5**
 
-A tempting move. We're going for an attack on White?s king.
+A tempting move. We're going for an attack on White's king.
 
 **19.Nh2 Ne5**
 
@@ -1338,7 +1338,7 @@ White tries to put some pressure on the b7-pawn.
 
 **12...O-O 13.O-O Nbd7!?**
 
-I?m giving this line just to show that we can sacrifice the b7-pawn if necessary.
+I'm giving this line just to show that we can sacrifice the b7-pawn if necessary.
 
 **14.Qxb7 Rfb8 15.Qc6 Ne8**
 
