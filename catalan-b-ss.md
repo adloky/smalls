@@ -1,3 +1,9 @@
+<font size="5">**Каталон за черных: коротко и ясно**</font>
+
+IM Тор Фредрик Каасен
+
+[chessable.com](chessable.com)
+
 ## 3.g3 Bb4+ 4.Nd2 #1
 
 **1.d4 Nf6 2.c4 e6 3.g3 Bb4+ 4.Nd2 c5!**

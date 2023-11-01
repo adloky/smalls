@@ -1,3 +1,9 @@
+<font size="5">**Защита Тарраша: коротко и ясно**</font>
+
+GM Йорден ван Форест
+
+[chessable.com](chessable.com)
+
 ## Fianchetto with Nc3 - 9.Bg5
 
 **1.d4 d5 2.c4 e6 3.Nf3 c5**

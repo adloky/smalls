@@ -1,3 +1,5 @@
+<config color="-1"/>
+
 <font size="5">**Модерн Бенони: коротко и ясно**</font>
 
 Парлиграс Мирча-Эмилиан
@@ -8,715 +10,715 @@
 
 **1.d4 Nf6 2.Nf3 e6 3.g3**
 
-White delays c4 for now and first wants to fianchetto the bishop to g2 and castle.
+Белые пока откладывают c4 и сначала хотят фианкеттировать слона на g2 и рокировать.
 
 **3...c5**
 
-The typical break in the spirit of the Benoni. Of course, Black has other good alternatives like 3...d5 transposing to the Catalan, or 3...b5 which is another way to exploit the fact that White has delayed playing c4.
+Типичный прорыв в духе Бенони. Конечно, у черных есть и другие хорошие альтернативы, например, 3...d5 с переходом в каталон или 3...b5, что является еще одним способом использовать тот факт, что белые затянули с игрой c4.
 
 **4.Bg2 cxd4**
 
-Of course, we want to take this pawn.
+Конечно, мы хотим взять эту пешку.
 
 **5.Nxd4**
 
-Sooner or later White has to take the pawn back.
+Рано или поздно белые должны забрать пешку обратно.
 
 **5...d5**
 
-We get a foothold in the centre.
+Рано или поздно белым придется забрать пешку.
 
 **6.O-O e5**
 
-We use this opportunity to drive the knight away, while creating new possibilities for our light-squared bishop.
+Мы используем эту возможность, чтобы отогнать коня, одновременно создавая дополнительные возможности для нашего белопольного слона.
 
 **7.Nb5**
 
-This is a bit provocative, but White cannot expect the knight to remain on b5.
+Это немного провокационно, но белые не могут ожидать, что конь останется на b5.
 
 **7...a6!**
 
-Driving the knight away.
+Отгоняя коня прочь.
 
 **8.N5c3 Be6**
 
-This is more ambitious than 8...d4 9.Ne4 Be7 with equality, where White can attack the d4-pawn.
+Это более амбициозно, чем 8...d4 9.Ne4 Be7 с равенством, где белые могут атаковать пешку d4.
 
 **9.Bg5 e4**
 
-Defending the d5-pawn and preventing White from playing e4.
+Защищая пешку d5 и не давая белым сыграть e4.
 
 **10.Bxf6 gxf6**
 
-The doubled pawns are not so bad as they reinforce our centre.
+Сдвоенные пешки не так уж и плохи, поскольку они усиливают наш центр.
 
 **11.e3 f5**
 
-Now e4 is safely guarded.
+Теперь e4 надежно охраняется.
 
 **12.Ne2 Nc6**
 
-We have easy development because of our strong centre and space advantage.
+Нам легко развиваться благодаря сильному центру и пространству.
 
 **13.c3 h5**
 
-Trying to open the position on the kingside. Even if we lose this pawn, we get enough compensation in the form of a potential attack on White's king.
+Пытаемся открыть позицию на королевском фланге. Даже если мы потеряем эту пешку, мы получим достаточную компенсацию в виде потенциальной атаки на белого короля.
 
 **14.h4**
 
-Forced. White would be losing if our pawn is allowed to march forward to h4.
+Вынуждено. Белые проиграют, если нашей пешке позволят пройти вперед на h4.
 
 **14...Ne5**
 
-The knight feels good on e5. It keeps open possibilities to jump to each side of the board.
+Конь хорошо чувствует себя на е5. Он сохраняет открытыми возможности для прыжка на каждую сторону доски.
 
 **15.Nf4 Bd6∞**
 
-We're going to castle long and put a rook on g8 with a good position in the centre and on the kingside. Of course, it's a big mistake for White to take the h5-pawn, as this would only open up the position and give us a winning attack.
+Сделаем длинную рокировку и поставим ладью на g8 с хорошей позицией в центре и на королевском фланге. Конечно, взятие пешки h5 для белых является большой ошибкой, так как это только откроет позицию и даст нам выигрышную атаку.
 
 ## 3. g3 #2
 
 **7.Nb3**
 
-A natural retreat.
+Естественное отступление.
 
 **7...Be6**
 
-The bishop belongs here in order to defend the centre.
+Слон здесь нужен для защиты центра.
 
 **8.Nc3**
 
-The most common move in this position.
+Самый распространенный ход в этой позиции.
 
 **8...Be7 9.Bg5**
 
-Indirectly attacking the d5-pawn.
+Косвенная атака на пешку d5.
 
 **9...Nbd7**
 
-This is an important nuance. The d5-pawn is now defended.
+Это важный нюанс. Пешка d5 теперь защищена.
 
 **10.e3**
 
-Preparing to play f4.
+Подготовка к игре f4.
 
 **10...h6**
 
-Clearing up the the situation with the pin on the f6-knight.
+Прояснение ситуации со связкой коня на f6.
 
 **11.Bxf6 Nxf6 12.f4 e4!?**
 
-It makes sense to shut in White's g2-bishop.
+Имеет смысл закрыть белого слона на g2.
 
 **13.f5 Bc8**
 
-The only square for the bishop to keep the d5-pawn protected.
+Единственное поле, где слон не мешает защите пешки d5.
 
 **14.Qd4 b5!**
 
-An important move. This pawn sacrifice makes way for the bishop to come to b7 in order to defend the centre, and also prevents an annoying check on a4.
+Важный ход. Эта жертва пешки дает возможность слону прийти на b7, чтобы защитить центр, а также предотвращает неприятный шах на a4.
 
 **15.Nxb5 O-O 16.Nc3 Bb7**
 
-This was played in 1/2-1/2 (72) Kravtsiv,M (2677)-Moroni,L (2506) Heraklion 2017. The activity of Black's pieces more than compensates for the missing pawn.
+Это было сыграно в партии 1/2-1/2 (72) Кравцив,М (2677) - Морони,Л (2506) Ираклион 2017. Активность черных фигур с лихвой компенсирует недостающую пешку.
 
-## Colle System #1
+## Система Колле #1
 
 **1.d4 Nf6 2.Nf3 e6 3.e3**
 
-The Colle System. White is building up the position slowly, and is going for a setup with Bd3, b3 and Bb2. This system is popular in blitz and rapid even among top players. Although it's not so ambitious, White develops all the pieces to good squares and gets a playable position.
+Система Колля. Белые медленно выстраивают позицию и идут на расстановку с Bd3, b3 и Bb2. Эта система популярна в блице и рапиде даже среди ведущих игроков. Хотя она не столь амбициозна, белые развивают все фигуры на хорошие поля и получают играбельную позицию.
 
 **3...d5**
 
-As much as I prefer to avoid symmetry, this seems more natural to me than 3...c5.
+Как бы я ни предпочитал избегать симметрии, этот вариант кажется мне более естественным, чем 3...c5.
 
 **4.Bd3 c5**
 
-We can fight for the centre straight away. A good alternative is 4...Bd6, but that is too symmetrical for me!
+Мы можем сразу бороться за центр. Хорошей альтернативой является 4...Bd6, но это слишком симметрично для меня!
 
 **5.b3**
 
-Preventing ...c4 and getting ready to fianchetto the bishop.
+Предотвращая ...c4 и готовясь к фианкеттированию слона.
 
 **5...b6**
 
-We need to solve the problem of our light-squared bishop. 5...Nc6 followed by ...b6 and ...Bb7 should lead to the same thing.
+Нам нужно решить проблему нашего белопольного слона. 5...Nc6 с последующими ...b6 и ...Bb7 должно привести к тому же.
 
 **6.Bb2 Bb7 7.O-O Nc6**
 
-This is the setup I recommend: ...Nc6, ...Be7 and ...O-O. Afterwards we can act depending on what White does.
+Я рекомендую следующую расстановку: ...Nc6, ...Be7 и ...O-O. Дальше мы можем действовать в зависимости от того, что сделают белые.
 
 **8.Nbd2 Be7**
 
-I prefer the bishop on e7, although 8...Bd6 is also good.
+Я предпочитаю слона на e7, хотя 8...Bd6 тоже хорошо.
 
 **9.Ne5**
 
-White players are usually fond of this knight jump.
+Игроки белыми обычно любят этот прыжок коня.
 
 **9...O-O**
 
-We bring our king to safety.
+Мы уводим нашего короля в безопасное место.
 
 **10.a3**
 
-Preventing ...Nb4.
+Предотвращение ...Nb4.
 
 **10...Qc7**
 
-A useful move. It connects the rooks, we can meet 11.Nxc6 with 11...Qxc6, and also in case of 11.c4 we are now ready to play 11...Rad8.
+Полезный ход, он соединяет ладьи. На 11.Nxc6 мы можем ответить 11...Qxc6, а в случае 11.c4 мы теперь готовы сыграть 11...Rad8.
 
 **11.f4**
 
-Preparing a quick Rf3.
+Подготовка быстрого Rf3.
 
 **11...a5**
 
-We follow up with our standard plan.
+Мы следуем нашему стандартному плану.
 
 **12.Qf3?**
 
-This is an instructive blunder.
+Это поучительная ошибка.
 
 **12...c4!**
 
-It's hard to believe, but all the tactics work out for Black!
+Трудно поверить, но у черных вся тактика сработала!
 
 **13.Be2 c3!**
 
-Luring the bishop to c3.
+Выманивание слона на с3.
 
 **14.Bxc3 Nxe5 15.fxe5 Ne4!**
 
-One last important detail. Black wins a piece.
+И последняя важная деталь. Черные выигрывают фигуру.
 
-## Colle System #2
+## Система Колле #2
 
 **13.bxc4 dxc4 14.Nexc4 b5!**
 
-It's over. The white knight is trapped, as e5 is a mined square.
+Все кончено. Белый конь в ловушке, так как поле e5 заминировано.
 
 ## 4. Nc3 #1
 
 **1.d4 Nf6 2.Nf3 e6 3.c4 c5 4.Nc3**
 
-White avoids playing 4.d5, which would lead to the Benoni, and fights for the centre by developing the knight. We have now entered a line of the English Opening.
+Белые избегают хода 4.d5, который привел бы к Бенони, и борются за центр, развивая коня. Мы подошли к линии английского начала.
 
 **4...cxd4**
 
-We usually get rid of the d4-pawn if possible.
+Обычно мы избавляемся от пешки d4, если это возможно.
 
 **5.Nxd4 d5**
 
-We are following a central strategy. Black has other choices here like 5...Bb4 or 5...Nc6. However, I think 5...d5 is sound and simple.
+Мы следуем центральной стратегии. У черных здесь есть другие варианты, например 5...Bb4 или 5...Nc6. Однако я считаю, что ход 5...d5 здравый и простой.
 
 **6.Bf4**
 
-White develops the bishop and only then plays e3. Thus White is fighting for a small advantage.
+Белые развивают слона и только потом играют e3. Таким образом, белые борются за небольшой перевес.
 
 **6...Nbd7**
 
-With the threat of ...e5. In order to counter this threat White has to lose more time. 6...Nc6 is possible and looks more natural, but in that case ...e5 is not really a threat as White can always answer Nxc6.
+С угрозой ...e5. Чтобы противостоять этой угрозе, белым приходится терять больше времени. 6...Nc6 возможно и выглядит более естественно, но в этом случае ...e5 не представляет особой угрозы, поскольку белые всегда могут ответить Nxc6.
 
 **7.Qa4**
 
-By pinning the knight White avoids ...e5.
+Связывая коня, белые избегают ...e5.
 
 **7...Bc5**
 
-Again developing a piece with tempo.
+Опять развиваем фигуру с темпом.
 
 **8.Nb3**
 
-Immediately going for the c5-bishop.
+Сразу же идут за слоном с5.
 
 **8...O-O**
 
-This is safe. Instead, 8...d4!? would involve a pawn sacrifice.
+Это безопасно. Вместо этого 8...d4!? потребует жертвы пешки.
 
 **9.Nxc5 Nxc5 10.Qa3**
 
-There are no better squares for the queen.
+Лучшего поля для ферзя нет.
 
 **10...b6**
 
-Defending the knight and preparing ...Bb7.
+Защищая коня и готовя ...Bb7.
 
 **11.Rd1 Bb7**
 
-The bishop belongs on the long diagonal. We already have a sizable advantage in development!
+Слон находится на длинной диагонали. У нас уже есть значительный перевес в развитии!
 
 **12.e3 Qe7**
 
-Getting the queen out of the pin on the d-file.
+Уходя ферзем от связки по вертикали "d".
 
 **13.Bg3**
 
-Preventing ...e5, as now this advance doesn't come with tempo anymore which means the d5-pawn would be left hanging.
+Предотвращение ...e5, поскольку теперь это продвижение больше не сопровождается темпом, а это означает, что пешка d5 останется висеть.
 
 **13...Rfd8**
 
-Very logical play.
+Очень логичная игра.
 
 **14.Be2 dxc4**
 
-Initiating a series of exchanges.
+Начинаем серию разменов.
 
 **15.O-O Nd5!**
 
-The exchange of a pair of knights clears the e4-square for our remaining knight.
+Размен пары коней освобождает поле е4 для оставшегося коня.
 
 **16.Bxc4 Nxc3 17.Qxc3 Ne4**
 
-All going as planned!
+Все идет по плану!
 
 **18.Qc2**
 
-Until here we've been following the game 1/2-1/2 (30) Nisipeanu,L (2672)-Fridman,D (2633) Baden-Baden 2014.
+До сих пор мы следили за партией 1/2-1/2 (30) Нисипяну,Л (2672)-Фридман,Д (2633) Баден-Баден 2014.
 
 **18...h5!?**
 
-This move could have given Black an initiative on the kingside.
+Этот ход мог дать черным инициативу на королевском фланге.
 
 ## 4. Nc3 #2
 
 **8.cxd5**
 
-It is tempting to defend the knight this way.
+Заманчиво защитить коня таким образом.
 
 **8...O-O!?**
 
-8...Nxd5 9.Nxd5 exd5 10.e3 O-O would lead to a similar type of position, but with 8...O-O!? we give our opponent an extra chance to go wrong.
+8...Nxd5 9.Nxd5 exd5 10.e3 O-O привело бы к аналогичной позиции, но с 8...O-O!? мы даем нашему противнику дополнительный шанс ошибиться.
 
 **9.dxe6?**
 
-This is definitely wrong.
+Это определенно неправильно.
 
 **9...Nb6−+**
 
-Black gains a piece.
+Черные получают лишнюю фигуру.
 
 ## 4. Nc3 #3
 
 **9.Nb3**
 
-A logical retreat.
+Логичное отступление.
 
 **9...Nxd5**
 
-Aiming to exchange a pair of knights. Both 9...exd5 and 9...Nb6 are good as well.
+Цель разменять пару коней. Хороши и 9...exd5, и 9...Nb6.
 
 **10.Nxd5 exd5 11.e3 Nb6**
 
-Attacking the queen and preparing to develop the c8-bishop.
+Атакуем ферзя и готовимся к развитию слона с8.
 
 **12.Qa5 Be7∞**
 
-With good play for Black because of our active pieces. While White still has to evacuate the king from the centre we can continue with ...Nc4 or ...Bf6.
+С хорошей игрой за черных благодаря нашим активным фигурам. Пока белым еще предстоит эвакуировать короля из центра, мы можем продолжить ходом ...Nc4 или ...Bf6.
 
 ## 4. e3 #1
 
 **1.d4 Nf6 2.Nf3 e6 3.c4 c5 4.e3**
 
-White avoids the Benoni, and just wants to get a normal game by developing the pieces.
+Белые избегают Бенони и просто хотят получить нормальную игру, развивая фигуры.
 
 **4...d5**
 
-We reach a symmetrical position. I was considering also to suggest 4...cxd4 5.exd4 and then 5...d5, entering the Panov Attack. However, the resulting positions seem a bit passive to me. Instead, the text move is very natural. We are just fighting for the centre.
+Мы достигаем симметричной позиции. Я подумывал также предложить 4...cxd4 5.exd4 и затем 5...d5, переходя в атаку Панова. Однако получившиеся позиции кажутся мне несколько пассивными. Напротив, ход в тексте очень естественен. Мы просто боремся за центр.
 
 **5.Nc3**
 
-White is not yet defining the pawn structure.
+Белые пока не определяют пешечную структуру.
 
 **5...a6**
 
-This is a useful move. Our plan is to take ...dxc4 and follow up with ...b5. We also avoid an unpleasant check on b5. 5...dxc4 6.Bxc4 a6 is interesting as well, when the game enters a Queen's Gambit Accepted where White played has played a quick Nc3 which should favour Black.
+Это полезный ход. Наш план – взять ...dxc4 и продолжить ходом ...b5. Мы также избегаем неприятного шаха на b5. 5...dxc4 6.Bxc4 a6 также интересно, когда игра переходит в Принятый ферзевый гамбит, где белые сыграли быстрый ход Nc3, который должен быть в пользу черных.
 
 **6.cxd5 exd5**
 
-We've managed to avoid the check on b5 at the expense of a tempo.
+Нам удалось избежать шаха на b5 за счет темпа.
 
 **7.Be2 cxd4!?**
 
-By going for the exchange right now we get an improved version in case White replies exd4. That being said, in most of the games that reached this position Black played 7...Nc6 first.
+Пойдя на размен прямо сейчас, мы получим улучшенный вариант на случай, если белые ответят exd4. При этом в большинстве партий, достигших этой позиции, черные сначала играли 7...Nc6.
 
 **8.Nxd4**
 
-White decides to play against the isolani.
+Белые решают сыграть против изолятора.
 
 **8...Nc6**
 
-This looks good now. I prefer this to 8...Bd6 because in that case White could play 9.b3 and fianchetto the bishop to b2. After 8...Nc6 this would run into ...Bb4, ...Ne4 and ...Qa5.
+Теперь это выглядит хорошо. Я предпочитаю это вместо 8...Bd6, потому что в этом случае белые могли бы сыграть 9.b3 и фианкетировать слона на b2. b3 после 8...Nc6 приведет к ...Bb4, ...Ne4 и ...Qa5.
 
 **9.O-O Bd6**
 
-This is generally the best square for the bishop in this variation.
+В целом это лучшее поле для слона в данном варианте.
 
 **10.Nxc6**
 
-This exchange is too early, as we can go for a quick ...Qe7 followed by ...Qe5.
+Этот размен слишком ранний, так как мы можем пойти на быстрый ...Qe7 с последующим ...Qe5.
 
 **10...bxc6 11.b3 h5!**
 
-A fine point: We're threatening ...Bxh2+. That's why it's important that we haven't castled yet.
+Тонкий момент: мы угрожаем ...Bxh2+. Вот почему важно, чтобы мы еще не рокировались.
 
 **12.h3 Qe7 13.Qd3 O-O!**
 
-Not an easy move to make. When you've got such an attack going it's difficult to switch to normal chess!
+Непростой ход. Когда идет такая атака, трудно переключиться на обычные шахматы!
 
 **14.Bb2 Re8⩱**
 
-Black is already better.
+У черных уже лучше.
 
 ## 4. e3 #2
 
 **5.cxd5 exd5**
 
-In return for the isolated pawn we get good control in the centre.
+В обмен на изолированную пешку мы получаем хороший контроль в центре.
 
 **6.Bb5+**
 
-This is White's most testing move.
+Это самый проверочный ход белых.
 
 **6...Nc6**
 
-I've analysed this position for a long time, and looked for the best alternatives for Black. Every reply has its pros and cons, but developing the knight to c6 looks like the most natural move to me.
+Я долго анализировал эту позицию и искал лучшие альтернативы для черных. У каждого ответа есть свои плюсы и минусы, но развитие коня на с6 мне кажется самым естественным ходом.
 
 **7.O-O**
 
-This is best, and also the most flexible.
+Это лучший и одновременно самый гибкий вариант.
 
 **7...cxd4**
 
-I prefer to clarify the pawn structure early on. 7...Bd6 is an alternative, however.
+Я предпочитаю заранее прояснить пешечную структуру. Однако альтернативой является 7...Bd6.
 
 **8.Nxd4**
 
-This is the more ambitious continuation. White gives us an isolated pawn.
+Это более амбициозное продолжение. Белые оставляют нас с изолированной пешкой.
 
 **8...Bd7**
 
-We address the pin. 8...Qc7 deserves attention as well.
+Избавляемся от связки. Заслуживает внимания и 8...Qc7.
 
 **9.b3**
 
-White keeps the option open of developing the knight to d2.
+Белые сохраняют возможность развития коня на d2.
 
 **9...Bd6**
 
-The bishop is best placed on d6.
+Слона лучше всего поставить на d6.
 
 **10.Bb2 O-O 11.Be2 Re8**
 
-The rook belongs on e8. 11...Qe7 is another idea.
+Ладье место на e8. 11...Qe7 - еще одна идея.
 
 **12.Nd2 a6**
 
-This is a position I have played with both colours. The result was the same in both games: White won. However, in both games Black was also doing more than fine!
+В этой позиции я играл обоими цветами. Результат в обеих партиях был одинаковым: белые выиграли. Однако в обеих партиях у черных дела тоже шли более чем хорошо!
 
 **13.Rc1 Nxd4**
 
-A good exchange because we can harass the rook on c1 afterwards.
+Хороший размен, потому что после этого мы можем атаковать ладью на с1.
 
 **14.Bxd4 Ba3**
 
-The point. We want to force White's rook away from the c-file.
+Смысл. Мы хотим сместить ладью белых с линии "с".
 
 **15.Ra1 Rc8**
 
-It's nice to establish control over this file.
+Приятно установить контроль над этой линией.
 
 **16.Bd3 Qe7⩱**
 
-With ...Ne4 to follow. Black is more active, although I managed to lose in 1-0 (34) Nisipeanu,L (2674)-Parligras,M (2645) Bucharest rapid 2018.
+Далее следует ...Ne4. Черные более активны, хотя мне удалось проиграть в матче 1-0 (34) Нисипяну,Л (2674)-Парлиграс,М (2645) Бухарест Рапид 2018.
 
 ## 4. g3 #1
 
 **1.d4 Nf6 2.Nf3 e6 3.c4 c5 4.g3**
 
-White avoids the Benoni and goes for an English Opening setup. The plan is to develop with Bg2, putting pressure on the long diagonal.
+Белые избегают Бенони и выбирают вариант английского начала. План состоит в том, чтобы развиваться с помощью Bg2, оказывая давление на длинную диагональ.
 
 **4...cxd4**
 
-We have to act fast before White has time to comfortably establish the ideal setup.
+Нам нужно действовать быстро, прежде чем белые успеют комфортно создать идеальную расстановку.
 
 **5.Nxd4 d5**
 
-I like this natural move. We simply fight for the centre. Of course 6.cxd5 is not good because we can take back with the queen 6...Qxd5.
+Мне нравится этот естественный ход. Мы просто боремся за центр. Конечно, 6.cxd5 нехорошо, потому что мы можем взять ферзем 6...Qxd5.
 
-However, Black also has other options on move five. For example, I've played many games with 5...Qc7, going for the c4-pawn. In that case White usually continues 6.Nc3 a6 7.Bg2 Qxc4 8.O-O with a long-lasting initiative in return for the pawn.
+Однако на пятом ходу у черных есть и другие варианты. Например, я сыграл много партий ходом 5...Qc7 с пешкой с4. В этом случае белые обычно продолжают 6.Nc3 a6 7.Bg2 Qxc4 8.O-O с длительной инициативой в обмен на пешку.
 
 **6.Bg2 e5**
 
-This is a good moment to push the pawns in the centre. This allows us to gain space and we'll be able to develop our pieces to good squares.
+Это хороший момент, чтобы продвинуть пешки в центре. Это позволит нам выиграть пространство и развить наши фигуры на хорошие поля.
 
 **7.Nc2**
 
-This looks like a strange place to put the knight.
+Похоже, это странное место для размещения коня.
 
 **7...d4**
 
-We keep the centre intact.
+Мы сохраняем центр нетронутым.
 
 **8.O-O Nc6 9.b4**
 
-White ignores the centre for now and goes for counterplay on the queenside.
+Белые пока игнорируют центр и переходят к контригре на ферзевом фланге.
 
 **9...Be7⩱**
 
-We ignore White's threats. If 10.b5 we can answer 10...Na5. The nice centre gives Black a good position.
+Мы игнорируем угрозы белых. Если 10.b5, то можно ответить 10...Na5. Хороший центр дает черным хорошую позицию.
 
 ## 4. g3 #2
 
 **7.Nf3 d4 8.O-O**
 
-This is White's main move. 8.e3 Nc6 would just transpose after 9.O-O.
+Это основной ход белых. 8.e3 Nc6 просто перешел бы в известное после 9.O-O.
 
-A trick to be aware of is that 8.Nxe5?? is not possible because of 8...Qa5+ winning the knight.
+Хитрость, о которой следует знать, заключается в том, что 8.Nxe5?? невозможно, поскольку 8...Qa5+ выигрывает коня.
 
 **8...Nc6 9.e3**
 
-This is the best. White tries to break up Black's centre.
+Это лучшее. Белые пытаются разбить центр черных.
 
 **9...Be7 10.exd4 exd4 11.Bf4 Be6!?**
 
-Developing the bishop to a nice position, with the idea to meet 12.Ne5 with 12...Rc8.
+Развиваем слона на хорошую позицию с идеей ответить на 12.Ne5 ходом 12...Rc8.
 
-11...O-O is the most played move, and Black is fine there as well.
+11...О-О - самый игровой ход, и здесь у черных все в порядке.
 
 **12.Ne5**
 
-This has to be the most critical.
+Это должно быть наиболее критично.
 
 **12...Rc8**
 
-This is the idea behind 11...Be6 - the rook can come to c8, defending the knight on c6.
+В этом и состоит идея 11...Be6 - ладья может прийти на с8, защищая коня на с6.
 
 **13.Nxc6**
 
-This exchange favours us.
+Этот обмен выгоден нам.
 
 **13...bxc6 14.Be5**
 
-White was counting on this move.
+Белые рассчитывали на этот ход.
 
 **14...c5**
 
-It would be a pity if we didn't make this move, even if we now have to sacrifice an exchange.
+Было бы жаль, если бы мы не сделали этот ход, даже если теперь нам придется пожертвовать качество.
 
 **15.Bb7 Bxc4**
 
-A simple calculation shows that 16.Qa4+ is parried by 16...Qd7, while 16.Bxc8 is met with 16...Bxf1.
+Простой расчет показывает, что 16.Qa4+ парируется 16...Qd7, а 16.Bxc8 - 16...Bxf1.
 
 **16.Re1 O-O**
 
-Bringing the king to safety.
+Доставить короля в безопасное место.
 
 **17.Bxc8**
 
-Sooner or later White has to take the exchange.
+Рано или поздно белым придется взять качество.
 
 **17...Qxc8 18.Bxf6**
 
-This is a more cautious way to play than 18.Bxd4.
+Это более осторожный способ игры, чем 18.Bxd4.
 
 **18...Bxf6 19.Nd2 Be6**
 
-In order to bring the rook to the d-file and push the c- and d-pawns.
+Чтобы вывести ладью на линию "d" и продвинуть пешки "c" и "d".
 
 **20.Ne4 Rd8**
 
-With nice compensation for the exchange. We can push the central pawns, and also the white king is insecure.
+С хорошей компенсацией за качество. Мы можем продвинуть центральные пешки, да и белый король небезопасен.
 
-20...Be7 is also possible, but after 21.Rc1 Qa8 it's not so straightforward.
+Возможно и 20...Be7, но после 21.Rc1 Qa8 все не так однозначно.
 
-## Trompowsky
+## Трамповский
 
 **1.d4 Nf6 2.Bg5**
 
-The Trompowsky Attack. White intends to exchange the bishop for the knight and then take advantage of the superior pawn structure, or just to develop normally and claim that the pin on the f6-knight is annoying for Black.
+Атака Тромповского. Белые намерены разменять слона на коня, а затем воспользоваться превосходной пешечной структурой, или просто нормально развиваться и заявлять, что связка коня f6 раздражает черных.
 
 **2...e6**
 
-Of course, there are many good replies at this juncture. I chose 2...e6 because I have experience with it, and also because it fits our repertoire's move order which can transpose from the 2.Nf3 e6 3.Bg5 lines.
+Конечно, на данный момент есть много хороших ответов. Я выбрал 2...e6, потому что у меня есть опыт работы с ним, а также потому, что он соответствует порядку ходов нашего репертуара, который можно перенести из вариантов 2.Nf3 e6 3.Bg5.
 
-The idea behind 2...e6 is to not allow White to double our pawns, while we are preparing ...h6. 2...c5, 2...d5 or 2...Ne4 are all options which can be recommended as well.
+Идея 2...e6 состоит в том, чтобы не позволить белым сдвоить пешки, пока мы готовим ...h6. 2...c5, 2...d5 или 2...Ne4 – варианты, которые также можно рекомендовать.
 
 **3.e4**
 
-White takes the centre, and is ready to part with his dark-squared bishop.
+Белые занимают центр и готовы расстаться со своим чернопольным слоном.
 
 **3...h6**
 
-We force White to give up the bishop. Exchanging pieces is good for us because we lack some space.
+Вынуждаем белых отдать слона. Размен фигур полезен для нас, потому что нам не хватает пространства.
 
 **4.Bxf6 Qxf6 5.Nc3**
 
-Usually, after this White's plan is to continue with Qd2, O-O-O and then push on the kingside.
+Обычно после этого план белых состоит в том, чтобы продолжить ходами Qd2, O-O-O, а затем продвинуться на королевском фланге.
 
 **5...d6**
 
-This keeps the fight complicated. It is also a flexible move, which can help us with the move orders. 5...Bb4 is a worthy alternative.
+Это позволяет не усложнять бой. Кроме того, это гибкий ход, который помогает нам с порядком ходов. 5...Bb4 - достойная альтернатива.
 
 **6.Nf3**
 
-This indicates that White is no longer going for the aggressive f4 plan.
+Это говорит о том, что белые больше не идут на агрессивный план f4.
 
 **6...g6!?**
 
-This move order allows us a more aggressive setup. The bishop belongs on g7. 6...Nd7 is played more often here.
+Такой порядок ходов позволяет нам действовать более агрессивно. Слон занимает g7. Здесь чаще разыгрывается 6...Nd7.
 
 **7.Qd2 Bg7 8.O-O-O Qe7**
 
-In order to prevent White from playing e5 with tempo at some point.
+Чтобы в какой-то момент белые не смогли сыграть e5 с темпом.
 
 **9.h4 a6**
 
-We can already start our counterplay on the queenside.
+Мы уже можем начать контригру на ферзевом фланге.
 
 **10.e5 Nd7**
 
-We shouldn't forget about development!
+Не стоит забывать о развитии!
 
 **11.Qe3 b5**
 
-Now is the right time to start pushing.
+Сейчас самое время начать давить.
 
 **12.Bd3 Bb7**
 
-Black is already better.
+У черных уже лучше.
 
 **13.Kb1 dxe5**
 
-In order to open up the diagonal of our dark-squared bishop.
+Чтобы открыть диагональ для нашего чернопольного слона.
 
 **14.Nxe5 c5!**
 
-Very strong. White cannot support his e5-knight.
+Очень сильно. Белые не могут поддержать своего коня e5.
 
 **15.Nxb5**
 
-A desperate attempt.
+Отчаянная попытка.
 
 **15...O-O!**
 
-Naturally Black doesn't take the knight. Now White's position is falling apart. Black soon won in 0-1 (20) Lafuente,P (2555) -Lupulescu,C (2638) Sarajevo 2011.
+Естественно, черные не берут коня. Теперь позиция белых разваливается. Вскоре черные одержали победу со счетом 0-1 (20) Лафуэнте,П (2555) - Лупулеску,К (2638) в Сараево в 2011 году.
 
-## Benoni: 6. e4, 7. Nf3 #1
+## Бенони: 6. e4, 7. Nf3 #1
 
 **1.d4 Nf6 2.c4 c5**
 
-Black immediately fights for the centre, but allows White to push d5.
+Черные сразу же борются за центр, но позволяют белым пройти d5.
 
 **3.d5 e6**
 
-Black is challenging White's centre.
+Черные бросают вызов центру белых.
 
 **4.Nc3 exd5**
 
-We're exchanging on d5 straight away. Otherwise White can play e4 and then retake on d5 with the e-pawn, resulting in a symmetrical position where Black is slightly worse because of his lack of space.
+Размениваемся на d5 сразу. В противном случае белые могут сыграть e4, а затем повторно взять на d5 пешкой "e", что приведет к симметричной позиции, в которой черные будут немного хуже из-за нехватки пространства.
 
 **5.cxd5 d6**
 
-We prevent White's d5-d6 and prepare to fianchetto our dark-squared bishop with ...g6. This is the starting position of the Benoni.
+Мы предотвращаем ход белых d5-d6 и готовимся к фианкетто нашего чернопольного слона ходом ...g6. Это исходная позиция Бенони.
 
 **6.e4 g6 7.Nf3 a6**
 
-I recommend this move as White cannot parry both ...b5 and ...Bg4. Thus we manage to solve some of Black's strategical problems in the position.
+Я рекомендую этот ход, поскольку белые не могут парировать ни ...b5, ни ...Bg4. Таким образом, нам удается решить некоторые стратегические проблемы черных в позиции.
 
 **8.a4**
 
-Many players would go for this instantly, as they wouldn't like to allow ...b5. However, I think White has more interesting choices, but for that he must delve deep into the position.
+Многие игроки сразу пошли бы на это, так как не хотели бы допускать ...b5. Однако я думаю, что у белых есть более интересные варианты, но для этого им нужно углубиться в позицию.
 
 **8...Bg4**
 
-Black should go for this move if the move order allows it.
+Черным следует пойти на этот ход, если порядок ходов позволяет это.
 
 **9.Qb3**
 
-This is a risky move as it allows us to double White's pawns on the kingside. White realizes that his move order has allowed us to exchange the light-squared bishop, and goes for this last moment resource.
+Это рискованный ход, поскольку он позволяет нам сдвоить пешки белых на королевском фланге. Белые понимают, что их порядок ходов позволил нам разменять белопольного слона, и используют этот последний ресурс.
 
 **9...Bxf3 10.Qxb7 Nbd7**
 
-This is the point. Instead, 10...Bxg2 wins back the pawn, but helps White to develop his pieces.
+В этом вся суть. Вместо этого 10...Bxg2 отыгрывает пешку, но помогает белым развивать свои фигуры.
 
 **11.gxf3 Bg7 12.Qc6 O-O**
 
-There is no time for us to defend the d6-pawn.
+У нас нет времени защищать пешку d6.
 
 **13.Qxd6 Nh5!**
 
-With the idea ...Be5 in order to take control over the dark squares.
+С идеей ...Be5, чтобы взять под контроль черные поля.
 
 **14.Bh3? f5−+**
 
-This wins for Black as we have the hidden threat ...Rf6.
+Это выигрывает за черных, так как у нас есть скрытая угроза ...Rf6.
 
 ## Benoni: 6. e4, 7. Nf3 #2
 
 **14.f4**
 
-A logical move as it parries ...Be5, and if 14...f5? there is 15.e5.
+Логичный ход, поскольку парирует ...Be5, а если 14...f5? есть 15.e5.
 
 **14...Re8**
 
-Black activates his rook and he also has the idea to take on c3 and then on e4. Both 14...Qa5!? and 14...Ra7 are good alternatives.
+Черные активизируют свою ладью, и у них также есть идея взять с3, а затем и е4. Обе 14...Qa5!? и 14...Ra7 - хорошие альтернативы.
 
 **15.Bg2**
 
-White defends the e4-pawn.
+Белые защищают пешку е4.
 
 **15...Ra7**
 
-This defends the knight on d7 so that we can jump ...Qh4 and also threatens to catch the white queen with 16...Bf8 17.Qc6 Nb8.<addx start="16...Bf8"/>
+Это защищает коня на d7, позволяя нам прыгнуть ...Qh4, а также грозит поймать белого ферзя ходом 16...Bf8 17.Qc6 Nb8.<addx start="16...Bf8"/>
 
 **16.a5 Qh4**
 
-With the idea of ...Rc8 and ...Bf8 in order to trap the queen in the middle of the board. Quite a unique situation!
+С идеей ...Rc8 и ...Bf8, чтобы поймать ферзя в центре доски. Совершенно уникальная ситуация!
 
 ## Benoni: 6. e4, 7. Nf3 #3
 
 **9.Be2 Bxf3**
 
-I prefer to exchange the bishop right away, so as to avoid Nd2-c4. However, it is also possible to play 9...Bg7, as this would transpose to the variation 8.Be2 Bg7 9.a4! Bg4 which is covered in the main course.
+Я предпочитаю сразу разменять слона, чтобы избежать Кd2-c4. Однако можно сыграть и 9...Bg7, поскольку это перешло бы в вариант 8.Be2 Bg7 9.a4! Bg4, который рассматривается в основном курсе.
 
 **10.Bxf3 Nbd7**
 
-This move order is aimed against any e5 break.
+Этот порядок ходов направлен против любого прорыва е5.
 
-The move 10...Bg7 was played in the game Fedoseev - Livaic, which is analyzed in the model games chapter in the main course.
+Ход 10...Bg7 был сделан в партии Федосеев - Ливаич, которая анализируется в главе "Модельные партии" основного курса.
 
 **11.O-O Bg7**
 
-By exchanging our light-squared bishop we have managed to develop our pieces, establish control over the e5 square and prevent White from pushing e5. On the other hand, White now has the bishop pair and his e4-pawn is safely defended. White may consider Be2 in the future to prevent us from playing the ...b5 break.
+Разменяв белопольного слона, нам удалось развить наши фигуры, установить контроль над полем е5 и не дать белым пойти е5. С другой стороны, у белых теперь есть пара слонов и их пешка е4 надежно защищена. В будущем белые могут подумать о Be2, чтобы помешать нам сделать подрыв ...b5.
 
 **12.Bf4 Qe7**
 
-The queen is slightly better positioned here than on c7, as we may have ideas to play ...Ne8-c7 later on.
+Ферзь здесь немного лучше расположен, чем на c7, так как у нас могут возникнуть идеи сыграть ...Ne8-c7 позже.
 
 **13.a5 O-O**
 
-There is no reason to delay this move.
+Нет никаких причин откладывать этот ход.
 
 **14.Qd2**
 
-White keeps ideas to play Be2 immediately, without first playing Rfe1.
+Белые сохраняют идеи сразу сыграть Be2, не играя сначала Rfe1.
 
 **14...Rfb8**
 
-Of course, the natural moves 14...Rfe8 and 14...Rab8 are also good. The point of 14...Rfb8 this is that after 15...b5 16.axb6 the a6-pawn is well defended. Additionally, after White plays Bg5 we sometimes have the extra option of playing ...Qf8. We have to be careful about White's e5, especially since the a8-rook is on the same diagonal as the f3-bishop.<addx start="15...b5"/>
+Конечно, хороши и естественные ходы 14...Rfe8 и 14...Rab8. Смысл 14...Rfb8 в том, что после 15...b5 16.axb6 пешка а6 хорошо защищена. Кроме того, после того, как белые сыграют Bg5, у нас иногда есть дополнительная возможность сыграть ...Qf8. Нам следует быть осторожными с ходом белых e5, тем более что ладья a8 находится на той же диагонали, что и слон f3.<addx start="15...b5"/>
 
 **15.Rfe1**
 
-Now we need to be careful about the e5-advance.
+Теперь нам нужно осторожными с продвижением e5.
 
 **15...Ne5**
 
-The best way to prevent e4-e5 is to put a knight on the e5-square.
+Лучший способ предотвратить ход е4-е5 – поставить коня на поле е5.
 
 **16.Be2 b5 17.axb6 Rxb6∞**
 
-Black has a pleasant position. He has various plans: he can play ...Rb4 and ...a5, or ...Rab8 to attack the b2-pawn.
+У черных приятная позиция. У них разные планы: они могут сыграть ...Rb4 и ...a5 или ...Rab8, чтобы атаковать пешку b2.
 
 ## Benoni: 6. e4, 7. h3 #1
 
