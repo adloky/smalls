@@ -10,12 +10,11 @@
 
 **3...Nf6 4.e5 Nd5 5.Nf3**
 
-**5...e6 6.cxd4 Nc6 7.Bc4 Nb6 8.Bb3**
+A) **5...Nc6 6.cxd4 d6 7.Bc4 Nb6 8.Bb3 dxe5 9.d5 Na5 10.Nc3**
+
+B) **5...e6 6.cxd4 Nc6 7.Bc4 Nb6 8.Bb3**
 
 **6...d6 7.Bc4 Nb6 8.Bb3 dxe5 9.Nxe5**
 
-**5...Nc6 6.cxd4 d6 7.Bc4 Nb6 8.Bb3 dxe5 9.d5 Na5 10.Nc3**
-
-**5...d6 6.cxd4 Nc6 7.Bc4 Nb6 8.Bb5 dxe5 9.Nxe5 Bd7 10.Nxd7 Qxd7 11.Nc3 e6 12.O-O**
-
+C) **5...d6 6.cxd4 Nc6 7.Bc4 Nb6 8.Bb5 dxe5 9.Nxe5 Bd7 10.Nxd7 Qxd7 11.Nc3 e6 12.O-O**
 
