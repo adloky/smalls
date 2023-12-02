@@ -6,6 +6,10 @@
 
 [chessable.com](chessable.com)
 
+**Содержание**
+
+<content/>
+
 ## 3. g3 #1
 
 **1.d4 Nf6 2.Nf3 e6 3.g3**
