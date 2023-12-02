@@ -31,3 +31,23 @@ b) **6...dxc4 7.d5 Ne5 8.Qd4 Nd3+ 9.Bxd3 cxd3 10.Nf3 h6 11.Bxf6 exf6 12.O-O Be7 
 7...Na5 8.Bxc4 Nxc4 9.Qa4+ Bd7 10.Qxc4
 
 c) **6...Be6 7.a3 g6 8.Bxf6 exf6 9.cxd5 Bxd5 10.Qe2+ Ne7 11.Nxd5 Qxd5 12.Qb5+**
+
+## Вариант 4...dxc4
+
+**1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 dxc4 5.Bxc4**
+
+**5...Nf6 6.Nf3 e6 7.O-O Be7 8.Nc3 O-O 9.Re1 a6 10.d5 exd5 11.Nxd5 Nxd5 12.Qxd5 Qxd5 13.Bxd5 Bf6 14.Bg5 Bxb2 15.Rab1 Bf6 16.Bxf6 gxf6 17.Bxb7 Bxb7 18.Rxb7**
+
+7...Bd6 8.Nc3 O-O 9.Bg5 h6 10.Bh4
+
+6...Bg4?? 7.Bxf7+ Kxf7 8.Ne5+ Ke8 9.Nxg4 Nxg4 10.Qxg4
+
+6...Nc6? 7.d5 Na5 8.Qa4+ Bd7 9.Bb5 b6 10.Nc3 a6 11.Bxd7+ Qxd7 12.Qd4
+
+**5...e6 6.Nf3 Nf6 7.O-O Be7 8.Nc3 O-O 9.Re1**
+
+6...a6?!
+
+5...Nc6?!
+
+5...Bf5? 6.Qb3

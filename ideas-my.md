@@ -983,3 +983,5 @@
 <fen value="1r2r3/1p3pk1/pPp3pp/2P1p3/1PBpPn1q/3P1Q1P/5PPK/R6R w - - 2 30"/>
 
 (S) 30.g3 [link](https://www.chess.com/game/live/5732845656)
+
+# Гамбит Морра
