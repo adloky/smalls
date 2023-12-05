@@ -1,5 +1,15 @@
 ﻿<config color="-1"/>
 
+<font size="5">**Голландская защита: коротко и ясно**</font>
+
+МГ Саймон Уильямс
+
+[chessable.com](chessable.com)
+
+**Содержание**
+
+<content/>
+
 ## Wojtaszek, R. vs. Williams, S. 0-1
 
 My opponent rated 2721 at the time and the second of the World Champion, Vishy Anand, succumbed to the power of the Classical Dutch!
