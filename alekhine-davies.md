@@ -428,67 +428,83 @@ Nigel Davies
 
 **1.e4 Nf6 2.e5 Nd5 3.Nc3 Nb6**
 
-This stays more within the character of the Alekhine than the capture on c3, and steers clear of theoretical lines.
+Это больше соответствует характеру защиты Алехина, чем взятие на с3, и избегает теоретических линий.
 
 **4.a4!?**
 
-A very interesting move, threatening simply to win a piece with 5 a5. [Instead 4.d4 is more common but less dangerous for Black.]
+Очень интересный ход, грозящий просто выиграть фигуру ходом 5.a5. Вместо этого более распространен, но менее опасен для черных ход 4.d4.<addx start="5.a5"/>
 
 **4...d6**
 
-[Black can also block the a-pawn's advance with 4...a5 ; for example, 5.d4 d6 6.f4!? (6.exd6 is another way to play it, when 6...exd6 7.Nf3 Be7 8.Ne4 Nc6 9.c3 Bf5 10.Bd3 Bg6 11.O-O h6 was Tatai – Yanofsky, Netanya 1973, and now 12.Ng3 Bxd3 13.Qxd3 looks better for White because of his knight's access to f5) 6...dxe5 (6...g5?! was tried in Berebora – Kahn, Budapest 1990, and after 7.Qh5 dxe5 White should probably play 8.Nf3 Bf5 9.Nxe5 Bg6 10.Nxg6 fxg6 11.Qxg5 when Black's position is a bit of a wreck) 7.fxe5 c5? 8.Bb5+ Bd7 was Carrasco – Roy, Paris 2003, and now 9.e6 Bxb5 10.Nxb5 would have been very unpleasant for Black.; Black's only other move is 4...d5 , when Boricsev – Varga, Eger 2002, continued 5.d4 Bf5 6.a5 Nc8 , and now 7.Bd3 (7.g4 Bd7 8.Bg2 e6 9.Be3 h5 10.gxh5 Ne7 was satisfactory for Black in the game) 7...Bxd3 8.Qxd3 e6 9.Nf3 is better for White because of his lead in development.]
+Черные также могут заблокировать продвижение пешки "а" с помощью 4...a5, например, 5.d4 d6 6.f4!?
+
+(6.exd6 другой вариант, когда 6...exd6 7.Nf3 Be7 8.Ne4 Nc6 9.c3 Bf5 10.Bd3 Bg6 11.O-O h6 было в Tatai – Yanofsky, Netanya 1973, а сейчас 12.Ng3 Bxd3 13.Qxd3 выглядит лучше для белых из-за доступа коня на f5)
+
+6...dxe5
+
+(6...g5?! было опробовано в партии Berebora – Kahn, Budapest 1990, и после 7.Qh5 dxe5 белым, вероятно, стоит сыграть 8.Nf3 Bf5 9.Nxe5 Bg6 10.Nxg6 fxg6 11.Qxg5, когда позиция черных немного разваливается)
+
+7.fxe5 c5? 8.Bb5+ Bd7 было в Carrasco – Roy, Paris 2003, и теперь 9.e6 Bxb5 10.Nxb5 было бы очень неприятно для черных.
+
+Единственный другой ход черных – 4...d5, когда в партии Boricsev – Varga, Eger 2002, продолжалось 5.d4 Bf5 6.a5 Nc8, и теперь 7.Bd3 (7.g4 Bd7 8.Bg2 e6 9.Be3 h5 10.gxh5 Ne7 удовлетворило бы черных) 7...Bxd3 8.Qxd3 e6 9.Nf3 лучше для белых из-за преимущества в развитии.
 
 **5.a5 N6d7 6.exd6**
 
-[6.e6!? has been tried a few times; for example, 6...fxe6 7.d4 g6 (7...e5 8.Bd3 g6 9.d5 Nf6 10.h4 Bg4 11.f3 Bf5 12.h5 Bxd3 13.Qxd3 Nxh5 14.g4 Nf6 15.Rxh7!? led to complicated play in Behnk – Polzin, Budapest 1993) 8.h4 Nf6 9.h5 gxh5 10.Bd3 Nc6 11.Nf3 Nb4 12.Bc4 c6 13.Ng5 and White had more than enough for the pawn in Franco Ocampos – Diano, Piriapolis 1977.]
+6.e6!? было опробовано несколько раз, например, 6...fxe6 7.d4 g6
+
+(7...e5 8.Bd3 g6 9.d5 Nf6 10.h4 Bg4 11.f3 Bf5 12.h5 Bxd3 13.Qxd3 Nxh5 14.g4 Nf6 15.Rxh7!? привело к сложной игре в партии Behnk – Polzin, Budapest 1993)
+
+8.h4 Nf6 9.h5 gxh5 10.Bd3 Nc6 11.Nf3 Nb4 12.Bc4 c6 13.Ng5 и у белых более чем достаточно пешек в партии Franco Ocampos – Diano, Piriapolis 1977.
 
 **6...cxd6 7.d4 g6**
 
-[7...Nc6 is strongly met by 8.d5! , so Shabalov delays the development of his knight for the time being.]
+На 7...Nc6 сильно 8.d5! поэтому Шабалов пока откладывает развитие своего коня.
 
 **8.Be3 Bg7 9.Qd2 Nc6 10.d5 Nce5 11.h3 Nf6 12.g4!?**
 
-Objectively speaking this is a pretty interesting move, although from a practical point of view it's risky against an accomplished tactician such as Shabalov. [A simple route to a clear advantage is 12.Bb5+ , when 12...Ned7 (or 12...Bd7 13.f4 Bxb5 14.fxe5) 13.Nf3 O-O 14.Bxd7 Bxd7 15.O-O leaves Black in something of a bind.]
+Объективно говоря, это довольно интересный ход, хотя с практической точки зрения он рискован против такого опытного тактика, как Шабалов. Простой путь к явному перевесу – 12.Bb5+, когда 12...Ned7 (или 12...Bd7 13.f4 Bxb5 14.fxe5) 13.Nf3 O-O 14.Bxd7 Bxd7 15.O-O ставит черных в затруднительное положение.
 
 **12...O-O 13.f4 Ned7 14.Nge2 b5! 15.b4**
 
-White's position is becoming very loose after this. [15.Bg2!? b4 16.Nb5 looks better, when the b4-pawn is hanging.]
+После этого позиция белых становится очень шаткой. 15.Bg2!? b4 16.Nb5 выглядит лучше, т.к. пешка b4 находится в подвешенном состоянии.
 
 **15...Bb7 16.Bg2**
 
-[At first sight it looks tempting to sac the exchange with 16.a6 Bxd5 17.Nxd5 Nxd5 18.Qxd5 Bxa1 19.c3 , but Black will rescue the bishop on a1 with 19...Qc8 .]
+На первый взгляд, заманчиво пожертвовать качество 16.a6 Bxd5 17.Nxd5 Nxd5 18.Qxd5 Bxa1 19.c3, но черные спасут слона на a1 с помощью 19...Qc8 .
 
 **16...e6 17.Rd1 Re8 18.O-O Nxd5 19.Nxd5 Bxd5 20.Bxd5 exd5 21.Rfe1!?**
 
-[21.Nc3 Nf6 22.Rfe1 is answered by 22...Ne4 , for example 23.Nxe4 dxe4 24.Qxd6 Qh4 .; Maybe White's best is 21.Bd4 , when 21...Bxd4+ 22.Nxd4 a6 is about equal.]
+На 21.Nc3 Nf6 22.Rfe1 отвечает 22...Ne4, например, 23.Nxe4 dxe4 24.Qxd6 Qh4.
+
+Возможно, лучшим для белых является 21.Bd4, когда 21...Bxd4+ 22.Nxd4 a6 примерно равноценно.
 
 **21...a6**
 
-[It could be that 21...Nf6 was a stronger move here; for example, 22.Qd3 Ne4 23.a6 Qh4 is strong.]
+Возможно, 21...Nf6 здесь был более сильным ходом, например, 22.Qd3 Ne4 23.a6 Qh4 сильно.
 
 **22.Nc3 Qh4! 23.Kg2! d4 24.Bf2! dxc3 25.Qxd6 Qd8 26.Qxd7**
 
-[White should avoid exchanging rooks on e8, as this will backfire after 26.Rxe8+ Qxe8 27.Qxd7 when Black wins with 27...Qe4+ etc.]
+Белым следует избегать размена ладей на е8, так как после 26.Rxe8+ Qxe8 27.Qxd7 черные выигрывают с помощью 27...Qe4+ и т.д.
 
 **26...Qxd7 27.Rxd7 Rxe1 28.Bxe1 Re8 29.Bf2! Bf8**
 
-[And not 29...Re2? because of 30.Rd8+ Bf8 31.Kf3 , followed by 32 Bc5.]
+А не 29...Re2? из-за 30.Rd8+ Bf8 31.Kf3, за которым следует 32.Bc5.<addx start="32.Bc5"/>
 
 **30.Bc5?**
 
-[30.Ra7 is correct, with equality. Now Black is better.]
+30.Ra7 – корректно, с равенством. Теперь у черных лучше.
 
 **30...Bxc5 31.bxc5 Rc8**
 
-[Here, too, 31...Re2+ is bad, this time because of the reply 32.Kf3 Rxc2 33.c6 etc.]
+Здесь тоже плохо 31...Re2+, на этот раз из-за ответа 32.Kf3 Rxc2 33.c6 и т.д.
 
 **32.Rd6 Rxc5?!**
 
-Missing his chance. [The right move is 32...b4! , when 33.Rb6 (if 33.Rxa6? b3 wins) 33...Rxc5 34.Rxb4 Rxa5 gives Black all the chances. Now it's just a draw.]
+Упускает свой шанс. Правильный ход – 32...b4! когда 33.Rb6 (33.Rxa6? b3 выигрывает) 33...Rxc5 34.Rxb4 Rxa5 дает черным все шансы. Теперь это просто ничья.
 
 **33.Rxa6 Rd5**
 
-[In this position 33...b4 is answered by 34.Ra8+ Kg7 35.a6 with at least equality.]
+В этой позиции на 33...b4 отвечает 34.Ra8+ Kg7 35.a6 с как минимум равенством.
 
 **34.Rb6 Rd2+ 35.Kf3 Rxc2 36.Rxb5 Rb2 37.Rc5 c2 38.a6 Ra2 1/2-1/2**
 
@@ -496,63 +512,75 @@ Missing his chance. [The right move is 32...b4! , when 33.Rb6 (if 33.Rxa6? b3 wi
 
 **1.e4 Nf6 2.e5 Nd5 3.Nc3 e6**
 
-There's certainly a case for not helping White to develop, and this move does that whilst aiding Black's development. Oral finds an interesting way to play it in reply.
+Конечно, есть основания не помогать белым развиваться, и этот ход помогает развитию черных. Орал находит интересный ответ.
 
 **4.Nxd5 exd5 5.Qf3 c6**
 
-Defending the d5-pawn has to be Black's most solid move. [He's also tried gambiting it, for example: 5...d6 6.Qxd5 Nc6 7.Bb5 Bd7 8.Nf3 Nb4 9.Bxd7+ Qxd7 10.Qxb7 Nxc2+ 11.Kd1 Rd8 12.Kxc2 left White a piece up in Strick van Linschoten – Van den Bosch, The Hague 1926.; 5...Nc6 6.Qxd5 Qe7 (6...Be7 7.Nf3 O-O 8.c3 d6 9.exd6 Bxd6 10.d4 Re8+ 11.Be3 left Black with very little for the pawn in Juen – Rigg, Vorarlberg 1997) 7.Nf3 d6 8.Bb5 Bd7 9.O-O O-O-O 10.exd6 Qxd6 11.Qxd6 Bxd6 12.c3 gave White an extra pawn in Lojanica – Nguyen, Adelaide 2003.; 5...d4 6.Bc4 Qe7 7.Qg3 d6 8.Nf3 h6 9.O-O Nc6 was Fleischer – Mueller, Hamburg 2001, and now 10.exd6 Qxd6 11.Re1+ would have been very strong.]
+Защита пешки d5 - самый надежный ход за черных. Они также пробовали гамбитить ее, например:
+
+5...d6 6.Qxd5 Nc6 7.Bb5 Bd7 8.Nf3 Nb4 9.Bxd7+ Qxd7 10.Qxb7 Nxc2+ 11.Kd1 Rd8 12.Kxc2 давало белым лишнюю фигуру Strick van Linschoten – Van den Bosch, The Hague 1926.
+
+5...Nc6 6.Qxd5 Qe7 (6...Be7 7.Nf3 O-O 8.c3 d6 9.exd6 Bxd6 10.d4 Re8+ 11.Be3 оставляло белых с лишней пешкой в Juen – Rigg, Vorarlberg 1997) 7.Nf3 d6 8.Bb5 Bd7 9.O-O O-O-O 10.exd6 Qxd6 11.Qxd6 Bxd6 12.c3 дало белым лишнюю пешку в Lojanica – Nguyen, Adelaide 2003.
+
+5...d4 6.Bc4 Qe7 7.Qg3 d6 8.Nf3 h6 9.O-O Nc6 было в Fleischer – Mueller, Hamburg 2001, и теперь 10.exd6 Qxd6 11.Re1+ было бы очень сильно.
 
 **6.d4 d6 7.Bd3**
 
-[An alternative plan would be to play 7.Bf4 and castle long, which would lead to a sharp game.]
+Альтернативный план – сыграть 7.Bf4 и длинную рокировку, что приведет к острой игре.
 
 **7...dxe5 8.dxe5 Be6**
 
-[After 8...Nd7 the most natural move is 9.Bf4 , when a sample line is (9.e6 Qe7 10.Qxf7+ Qxf7 11.exf7+ Kxf7 would lead to an equal endgame; , while 9.Qg3 Nc5 10.Nf3 Qd7 , intending 11...Qg4, is at least equal for Black) 9...Qe7 10.O-O-O Nxe5 11.Qg3 Nxd3+ 12.Rxd3 Qe1+ 13.Rd1 Qa5 14.Kb1 Be6 15.Nf3 O-O-O 16.Nd4 with good compensation for the pawn.; Another possibility is 8...Qe7 , when 9.Qe2 Nd7 10.Nf3 f6 11.Bf4 g5 12.Bg3 (12.Be3!?) 12...g4 13.Nd4 Nxe5 14.O-O gave White attacking chances for the pawn in Kiik – Turunen, Helsinki 1991.]
+После 8...Nd7 наиболее естественным ходом является 9.Bf4, когда примерный вариант следующий
+
+(9.e6 Qe7 10.Qxf7+ Qxf7 11.exf7+ Kxf7 вело бы к равному эндшпилю, а 9.Qg3 Nc5 10.Nf3 Qd7 с намерением 11...Qg4 как минимум равно для черных)<addx start="11...Qg4"/>
+
+9...Qe7 10.O-O-O Nxe5 11.Qg3 Nxd3+ 12.Rxd3 Qe1+ 13.Rd1 Qa5 14.Kb1 Be6 15.Nf3 O-O-O 16.Nd4с хорошей компенсацией за пешку.
+
+Другой вариант – 8...Qe7 , когда 9.Qe2 Nd7 10.Nf3 f6 11.Bf4 g5 12.Bg3 (12.Be3!?) 12...g4 13.Nd4 Nxe5 14.O-O давало белым шансы на атаку за пешку в партии Kiik – Turunen, Helsinki 1991.
 
 **9.Qg3**
 
-Making room for the knight on f3.
+Освобождая место для коня на f3.
 
 **9...Na6 10.Nf3 Nb4 11.O-O Nxd3 12.cxd3 Qd7**
 
-Black has the bishop pair and a solid position, but he still has some problems here. The queen on g4 stops him developing the bishop on f8, and White might try for a minority attack on the queenside with a later b2-b4-b5.
+У черных пара слонов и прочная позиция, но здесь у них все же есть проблемы. Ферзь на g4 мешает им развивать слона на f8, и белые могут попытаться провести атаку меньшенства на ферзевом фланге с последующим b2-b4-b5.
 
 **13.Be3 c5 14.a3 Bf5 15.Rfc1 d4 16.Bd2 a5**
 
-[After 16...Qb5 White could just protect his d-pawn with 17.Ne1 (but there's also a case for sharpening the play with 17.b4!? Qxd3 18.e6!? Bxe6 19.bxc5 , with Black's king still stuck in the middle and the position opening up.) ]
+После 16...Qb5 белые могли просто защитить пешку "d" путем 17.Ne1 (но есть и аргументы в пользу обострения игры путем 17.b4!? Qxd3 18.e6!? Bxe6 19.bxc5, при котором король черных все еще застрял в центре, а позиция вскрывается).
 
 **17.b4 Ra6?**
 
-Black's position falls apart after this. [He had to try holding it together with 17...b6 , though White still has a dangerous attack after 18.bxc5 bxc5 19.e6 , followed by 20 Ne5.]
+После этого позиция черных разваливается. Они могли попытаться удержать ее с помощью 17...b6, хотя у белых остается опасная атака после 18.bxc5 bxc5 19.e6, за которой следует 20.Ne5.<addx start="20.Ne5"/>
 
 **18.bxc5 Be7?**
 
-[If 18...Rg6 there follows 19.e6! Bxe6 20.Qb8+ Qc8 21.Qxc8+ Bxc8 22.Nxd4 with a winning endgame.]
+Если 18...Rg6, то следует 19.e6! Bxe6 20.Qb8+ Qc8 21.Qxc8+ Bxc8 22.Nxd4 с выигранным эндшпилем.
 
 **19.Qxg7 Rf8 20.c6! bxc6**
 
-[20...Rxc6 is not much help after 21.Rxc6 bxc6 22.Rb1 etc.]
+20...Rxc6 не слишком помогает после 21.Rxc6 bxc6 22.Rb1 и т.д.
 
 **21.Rab1 Ra8 22.e6 fxe6**
 
-[Or 22...Bxe6 23.Nxd4 c5 24.Nxe6 fxe6 25.Qxh7 etc.]
+Или 22...Bxe6 23.Nxd4 c5 24.Nxe6 fxe6 25.Qxh7 и т.д.
 
 **23.Ne5 Qd5 24.Rb7 Bf6 25.Bg5!!**
 
-Setting up an unusual version of the 'Windmill' combination, made famous by the game Torre Repetto – Em.Lasker, Moscow 1925 (see the following game).
+Возникает необычный вариант комбинации "Ветряная мельница", ставшей знаменитой благодаря партии Torre Repetto – Em.Lasker, Moscow 1925 (см. следующую партию).
 
 **25...Bxg7 26.Re7+ Kd8 27.Nxc6+ Kc8**
 
-[Or 27...Qxc6 28.Rxg7+ Ke8 29.Re7+ Kd8 30.Rxh7+ Ke8 31.Re7+ Kd8 32.Rxc6 etc.]
+Или 27...Qxc6 28.Rxg7+ Ke8 29.Re7+ Kd8 30.Rxh7+ Ke8 31.Re7+ Kd8 32.Rxc6 и т.д.
 
 **28.Nb4+ Kb8 29.Nxd5 Bxd3**
 
-[29...exd5 30.Bf4+ is mate in two.]
+29...exd5 30.Bf4+ дает мат в два хода.
 
 **30.Rxg7 exd5 31.Be7**
 
-Black cannot meet the dual threats of Bxf8 and Bd6 mate.
+Черные не могут ответить на двойную угрозу Bxf8 и мата Bd6.
 
 **1-0**
 
@@ -560,22 +588,30 @@ Black cannot meet the dual threats of Bxf8 and Bd6 mate.
 
 **1.e4 Nf6 2.e5 Nd5 3.Nc3 c6**
 
-This method of protecting the knight is more in keeping with the spirit of the Alekhine Defence than 3...e6. Black keeps the option of developing his queen's bishop.
+Этот способ защиты коня больше соответствует духу защиты Алехина, чем 3...e6. Черные сохраняют возможность развития ферзевого слона.
 
 **4.Qf3 Nb6**
 
-One of several moves. [Here are the alternatives: 4...Nb4 can be met by 5.Bc4 , when a possible variation runs (5.Qe4 e6 6.a3 d5 7.exd6 Nd5 looks OK for Black) 5...Nxc2+ 6.Kd1 d5 7.exd6 Nxa1 8.Qxf7+ Kd7 9.Nf3 b5 (if 9...Kxd6 10.Qf4+ Kd7 11.Ne5+ Kc7 12.Nf7+ e5 13.Qxe5+ Bd6 14.Qxg7 wins) 10.Nxb5 cxb5 11.Qf5+ Kxd6 12.Qe5+ Kd7 13.Qxb5+ Nc6 14.Ne5+ winning for White.; 4...e6 leaves a hole on d6 which White should exploit with 5.Ne4 , for example 5...d6 6.Nxd6+ Bxd6 7.exd6 Qxd6 8.d4 with the advantage of the two bishops.; 4...Qc7 5.d4 Nxc3 6.bxc3 (6.Qxc3 is also pretty good) 6...d5 7.Bd3 e6 8.Nh3 b6 9.Nf4 Ba6 10.Nh5 Bxd3 11.cxd3 Nd7 12.O-O , and the pressure against g7 and f7 made it difficult for Black to develop in Kanefsck – Herrero, Mar del Plata 2001.; 4...Nxc3 5.dxc3 d5 6.Bd3 e6 7.Qg3 Nd7 8.Nh3 Qc7 9.f4 g6 10.Be3 Bc5 11.O-O-O Bxe3+ 12.Qxe3 Qb6 13.Qd2 was better for White because of his space advantage in Anjuhin – Chistjakova, St Petersburg 2002.]
+Один из нескольких ходов. Вот альтернативы:
+
+На 4...Nb4 можно ответить 5.Bc4, тогда проходит возможный вариант (5.Qe4 e6 6.a3 d5 7.exd6 Nd5 выглядит нормально для черных) 5...Nxc2+ 6.Kd1 d5 7.exd6 Nxa1 8.Qxf7+ Kd7 9.Nf3 b5 (9...Kxd6 10.Qf4+ Kd7 11.Ne5+ Kc7 12.Nf7+ e5 13.Qxe5+ Bd6 14.Qxg7 выигрывает) 10.Nxb5 cxb5 11.Qf5+ Kxd6 12.Qe5+ Kd7 13.Qxb5+ Nc6 14.Ne5+ выигрывает за белых.
+
+4...e6 оставляет дыру на d6, которую белые должны использовать с помощью 5.Ne4, например, 5...d6 6.Nxd6+ Bxd6 7.exd6 Qxd6 8.d4 с преимуществом двух слонов.
+
+4...Qc7 5.d4 Nxc3 6.bxc3 (6.Qxc3 тоже неплохо) 6...d5 7.Bd3 e6 8.Nh3 b6 9.Nf4 Ba6 10.Nh5 Bxd3 11.cxd3 Nd7 12.O-O, и давление на g7 и f7 затруднило развитие черных в партии Kanefsck – Herrero, Mar del Plata 2001.
+
+4...Nxc3 5.dxc3 d5 6.Bd3 e6 7.Qg3 Nd7 8.Nh3 Qc7 9.f4 g6 10.Be3 Bc5 11.O-O-O Bxe3+ 12.Qxe3 Qb6 13.Qd2 было лучше для белых из-за преимущества в пространстве в партии Anjuhin – Chistjakova, St Petersburg 2002.
 
 **5.d4 d6 6.Bf4 Bf5 7.O-O-O e6 8.exd6**
 
-[White has several attempts to improve here, namely 8.Qg3; 8.Nge2; and 8.h4 . In my view they all look more interesting than the simplifying text move. Perhaps Oral thought 8 exd6 was stronger than it is.]
+У белых здесь есть несколько вариантов улучшения, а именно 8.Qg3, 8.Nge2 и 8.h4. На мой взгляд, все они выглядят интереснее, чем упрощающий ход в партии. Возможно, Орал считал, что 8.exd6 сильнее, чем есть на самом деле.
 
 **8...Bxd6 9.Nge2 Nd5 10.Bxd6 Qxd6 11.Ng3 Bg6 12.h4 h6 13.Nce4 Qc7 14.c4 Ne7 15.h5 Bh7 16.Rh4 Nd7 17.Rg4**
 
-[Another possibility was 17.Qa3 , which also looks a bit better for White.]
+Другой возможностью было 17.Qa3, что также выглядит немного лучше для белых.
 
 **17...O-O 18.Nf6+ Nxf6 19.Qxf6 Ng6 20.Qf3 Ne7 21.Qf6 Ng6 22.Qf3 Ne7 23.Qe3**
 
-Rejecting the draw by repetition, but White doesn't really have much advantage here.
+Отказываясь от ничьей путем повторения, белые не имеют здесь особого преимущества.
 
 **23...Nf5 24.Qe5 Qxe5 25.dxe5 Rfd8 26.Nxf5 Rxd1+ 27.Kxd1 Bxf5 28.Rd4 c5 29.Rd7 Be4 30.f3 Bc6 31.Rc7 Rd8+ 32.Ke2 Kf8 33.Ke3 Rd1 34.Bd3 Re1+ 35.Kf4 a5 36.Rc8+ Ke7 37.Rc7+ Ke8 38.Rc8+ Ke7 39.Rc7+ Ke8 40.Rc8+ Ke7 1/2-1/2**
