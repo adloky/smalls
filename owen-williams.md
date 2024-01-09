@@ -66,7 +66,7 @@
 
 **8.Nxd5 Bxd5 9.Nf4**
 
-Наш любимый прышок, который ставит черных перед серьезными проблемами. Их слон атакован, и белые готовы усилить давление на ферзевом фланге ходом Qg4 или даже Qh5, а также просто рокировать и/или расшириться с помощью c4.
+Наш любимый прыжок, который ставит черных перед серьезными проблемами. Их слон атакован, и белые готовы усилить давление на ферзевом фланге ходом Qg4 или даже Qh5, а также просто рокировать и/или расшириться с помощью c4.
 
 ### #2
 
@@ -74,27 +74,27 @@
 
 **5...d5**
 
-might be Black's relatively best try, aiming to reach a strange sort of French Winawer position after 6.e5 . That should favour White 6...Be7 7.Nb1! is one important idea, but can also obtain a pretty pleasant advantage through simple means:
+может быть относительно лучшей попыткой черных, направленной на достижение странной разновидности французской позиции Винавера после 6.e5. Это должно благоприятствовать белым 6...Be7 7.Nb1! – одна из важных идей, но и простыми средствами можно получить довольно приятное преимущество:
 
 **6.O-O dxe4 7.Nxe4**
 
-Now Black's bishop looks a little redundant on b4 and White can always obtain a pleasant set-up with Nf4, c3 and Re1. That may well translate into attacking chances on the kingside: for example,
+Теперь слон черных на b4 выглядит немного лишним, и белые всегда могут получить приятную расстановку с Nf4, c3 и Re1. Это вполне может вылиться в атакующие шансы на королевском фланге: например,
 
 **7...Nd7 8.N2g3 Ngf6 9.Qf3**
 
-White refuses to fear the tactics and even creates a certain threat down the long diagonal.
+Белые не боятся тактики и даже создают определенную угрозу по длинной диагонали.
 
 **9...Rb8 10.Rd1**
 
-Placing the rook opposite the enemy queen, with a definite edge. White is now ready to go c4, b3 and Bb2, after which it's not too hard to imagine the black king beginning to feel the heat one day, especially if a timely d5 pawn sacrifice lands to activate the bishop on b2.
+Помещение ладьи напротив вражеского ферзя с определенным преимуществом. Теперь белые готовы пойти на c4, b3 и Bb2, после чего несложно представить, что черный король однажды начнет чувствовать жар, особенно если своевременная жертва пешки d5 приведет к активизации слона на b2.
 
-### #3 
+### #3
 
 **1.e4 b6 2.d4 Bb7 3.Nc3 e6 4.Bd3 Bb4 5.Nge2 d5 6.O-O dxe4 7.Nxe4**
 
 **7...Nf6 8.Nxf6+ Qxf6 9.Ng3**
 
-sends the knight towards h5 while also preparing Qg4 and, of course, the d-pawn is quite poisoned due to a certain check.
+отправляет коня на h5, одновременно готовя Qg4 и, конечно, пешка "d" сильно отравлена из-за определенного шаха.
 
 ### #4 
 
@@ -102,15 +102,15 @@ sends the knight towards h5 while also preparing Qg4 and, of course, the d-pawn 
 
 **6.O-O**
 
-Not forced, but
+Не форсированно, но
 
 **6...Nf6**
 
-will lose time after 7.e5 or cede the initiative even if White just exchanges:
+потеряет время после 7.e5 или уступит инициативу, даже если белые просто разменяются:
 
 **7.exd5 exd5 8.Ng3**
 
-White isn't worried by doubled pawns; he simply wants to quickly increase the pressure on the kingside after Qf3, Nf5 and Bg5, with promising attacking chances.
+Белых не беспокоят сдвоенные пешки, они просто хотят быстро усилить давление на королевский фланг после Qf3, Nf5 и Bg5 с многообещающими шансами на атаку.
 
 ### #5 
 
@@ -118,11 +118,11 @@ White isn't worried by doubled pawns; he simply wants to quickly increase the pr
 
 **7...Nxd5 8.Nxd5 Qxd5**
 
-is what Black would prefer to play, but after
+именно так черные предпочли бы сыграть, но после
 
 **9.Nf4**
 
-White is in full control, with d5 and Nh5 both serious possibilities and all the while the black bishop rather floats absentmindedly on b4.
+Белые полностью контролируют ситуацию: d5 и Nh5 -- серьезные возможности, и при этом черный слон довольно бестолково болтается на b4.
 
 ### #6
 
@@ -130,11 +130,11 @@ White is in full control, with d5 and Nh5 both serious possibilities and all the
 
 **5...Ne7 6.a3 Bxc3+ 7.Nxc3 d5**
 
-is also French-like, but here White can do even better than 8.e5 with
+также похожа на французскую, но здесь белые могут действовать даже лучше, чем с 8.e5, используя
 
 **8.exd5**
 
-followed by Qg4, with the initiative and bishop-pair.
+с последующим Qg4, с инициативой и парой слонов.
 
 ### #7
 
@@ -142,23 +142,23 @@ followed by Qg4, with the initiative and bishop-pair.
 
 **5...Nc6**
 
-may aim to double White's c-pawns after all, but that comes at some cost:
+в конце концов, можно стремиться сдвоить пешки "с" белых, но за это придется заплатить:
 
 **6.O-O Bxc3**
 
-6...e5 7.Nd5! also looks rather good for White.
+6...e5 7.Nd5! также выглядит довольно хорошо для белых.
 
 **7.bxc3 d5**
 
-Otherwise, White may even just go c4, Bb2 and d5.
+В противном случае белые могут даже просто пойти c4, Bb2 и d5.
 
 **8.exd5**
 
-Once again, even stronger than 8.e5 followed by Nf4.
+И снова сильнее, чем 8.e5 с последующим Nf4.
 
 **8...Qxd5 9.Nf4 Qd6 10.d5**
 
-Our favourite gambit and yet again in a good guise, 10...exd5 11.Nh5 , Nxg7+ and Bf4 are threatened, but you might wonder why White has made the central sacrifice here when Black can just castle out of trouble. Well, 11...O-O-O 12.Qg4+! is one reason: for example, 12...f5!? 13.Qxg7 Nge7 14.Bf4 Qg6 15.Qxg6! hxg6 16.Ng7 when the knight will re-emerge on e6, leaving White with all the play.
+Наш любимый гамбит и снова в хорошем обличье, 10...exd5 11.Nh5 , Nxg7+ и Bf4 угрожают, но вы можете задаться вопросом, зачем белые принесли центральную жертву, если черные могут просто вырваться из беды. Ну, 11...O-O-O 12.Qg4+! -- это одна из причин: например, 12...f5!? 13.Qxg7 Nge7 14.Bf4 Qg6 15.Qxg6! hxg6 16.Ng7, когда конь вновь окажется на е6, оставляя белым всю игру.
 
 ### #8 
 
@@ -166,7 +166,7 @@ Our favourite gambit and yet again in a good guise, 10...exd5 11.Nh5 , Nxg7+ and
 
 **8...exd5 9.Nf4 Nge7 10.Nh5**
 
-is already winning for White according to the engines, and with good cause: 10...O-O 11.Qg4 Ng6 avoids a dark-square disaster, but is brushed aside by 12.f4 Qh4 13.Qxh4 Nxh4 14.f5 followed by Bg5.
+белые уже выигрывают по движкам, и по уважительной причине: 10...O-O 11.Qg4 Ng6 избегает чернопольной катастрофы, но отбрасывается 12.f4 Qh4 13.Qxh4 Nxh4 14.f5 с последующим Bg5 .
 
 ### #9
 
@@ -174,31 +174,31 @@ is already winning for White according to the engines, and with good cause: 10..
 
 **4...f5**
 
-simply doesn't work here, unlike when the moves c4 and ...Bb4 have been inserted. White might simply go 5.Nf3 , but it's also more than possible to capture and sacrifice:
+здесь просто не работает, в отличие от случаев, когда были вставлены ходы c4 и ...Bb4. Белые могли бы просто пойти 5.Nf3 , но взять и пожертвовать также более чем возможно:
 
 **5.exf5**
 
-Now if Black recaptures on f5, he will simply have weakened his kingside somewhat, but his problem is that g2 is pretty poisoned:
+Теперь, если черные отобьют на f5, они просто несколько ослабят свой королевский фланг, но их проблема в том, что g2 изрядно отравлен:
 
 **5...Bxg2 6.Qh5+ g6**
 
-Forced, unless Black wants to drop the bishop to a check on g5.
+Вынуждено, если только черные не хотят поставить слона под шах на g5.
 
 **7.fxg6**
 
-Threatening g7+, a move which would follow even after 7...Nf6.
+Угроза g7+, ход, который последовал бы даже после 7...Nf6.
 
 **7...Bg7 8.gxh7+ Kf8**
 
-Taking stock we find Black with a rather exposed king and White able to pick up a piece on g8 in return for the rook on h1. However, he can do even better than 9.hxg8=Q+ an impressive move just to type!:
+Подводя итоги, мы видим, что у черных довольно незащищенный король, а белые могут забрать фигуру на g8 в обмен на ладью на h1. Однако они могут сделать даже лучше, чем 9.hxg8=Q+ -- впечатляющий ход просто для примера!
 
 **9.Nge2**
 
-Heading for f4 then g6.
+Направляясь на f4, затем на g6.
 
 **9...Nf6 10.Qh4 Bxh1 11.Bg5**
 
-White's development is a thing of joy and he is actually following a pattern of play which also works very well against the English Defence - and there White is a tempo behind having spent a move on c4! There may not be an immediate threat, but after Nf4 both Ng6+ and Nh5 will be major issues, and there just doesn't seem to be any real sort of defense for Black, for example: 11...Nc6 12.Nf4! 12...Nxd4 13.Ng6+ Ke8 14.Qxd4 regaining the piece and after 14...Rxh7 15.Ne5 White's initiative and attack are surely going to be decisive, as shown by 15...Rxh2 16.Qf4 Rh3 17.O-O-O when Ng4 is but one major headache for Black. 12...Bf3 13.Ng6+ Ke8 14.Ne5! . White continues to spurn the exchange to instead exploit the mighty pin on the h4-d8 diagonal and with tempo, threatening both the bishop on f3 and Bg6+, with 14...Bh5 15.Ne4 pretty much a game-ender.
+Развитие белых доставляет радость, и они на самом деле следуют образцу игры, который также очень хорошо работает против английской защиты - а там белые отстают по темпу, потратившись на ход с4! Непосредственной угрозы может и не быть, но после Nf4 и Ng6+, и Nh5 будут серьезные проблемы, и, похоже, у черных просто нет никакой реальной защиты, например: 11...Nc6 12.Nf4! 12...Nxd4 13.Ng6+ Ke8 14.Qxd4 с возвращением фигуры и после 14...Rxh7 15.Ne5 инициатива и атака белых наверняка будут решающими, как показывает 15...Rxh2 16.Qf4 Rh3 17.O-O-O когда Ng4 это всего лишь одна большая головная боль для черных. 12...Bf3 13.Ng6+ Ke8 14.Ne5!. Белые продолжают отвергать качество, чтобы вместо этого использовать мощную связку по диагонали h4-d8 и с темпом, угрожая как слону на f3, так и Bg6+, с 14...Bh5 15.Ne4, что практически завершает игру.
 
 ### #10
 
@@ -206,31 +206,31 @@ White's development is a thing of joy and he is actually following a pattern of 
 
 **4...Nf6**
 
-is Black's main alternative to our main line, 4...Bb4 . Interestingly, Stockfish is so unenamoured with Black's position it already wants to gain space with 5.h4!? here. White can very much also continue with our favourite anti-Owen's set-up:
+это главная альтернатива черных нашей основной линии, 4...Bb4. Интересно, что Stockfish настолько не в восторге от позиции черных, что уже здесь хочет получить пространство путем 5.h4! Белые вполне могут продолжить и нашу любимую анти-оуэновскую расстановку:
 
 **5.Nge2**
 
-Here rather than f3, as the knight overprotects its colleague on c3 (very useful should Black go ...Bb4 ), may emerge on f4 or g3 and also doesn't block the f-pawn. Now Black is likely to try and bid for some freedom:
+Здесь лучше f3, так как конь чрезмерно защищает своего коллегу на c3 (очень полезно, если черные пойдут ...Bb4), может появиться на f4 или g3, а также не блокирует пешку "f". Теперь черные, скорее всего, попытаются получить свободу:
 
 **5...d5**
 
-is the other common move, but it merely swaps avoiding early danger for an inferior version of a French:
+это другой распространенный ход, но он просто меняет местами, избегая ранней опасности, взамен на худшую версии французской защиты:
 
 **6.e5 Nfd7 7.Nf4**
 
-A fine spot, indeed, for the knight and White already has a crushing threat - Nxe6. Moreover, Black only has a choice of rather sub-optimal ways to parry the threat:
+Действительно, прекрасная позиция для коня, и у белых уже есть сокрушительная угроза -- Nxe6. Более того, у черных есть лишь весьма неоптимальные способы парирования угрозы:
 
 **7...g6**
 
-7...Qe7 8.Nb5! followed by c3 and O-O once c7 is defended left White with very easy play and Black badly struggling to untangle in Kovalenko-Bogdanovich, Basel 2014.
+7...Qe7 8.Nb5! с последующим c3 и O-O после защиты c7 оставляет белым очень легкую игру, а черные с большим трудом распутывают клубок в партии Kovalenko -- Bogdanovich, Basel 2014.
 
 **8.Qg4 Be7**
 
-was surprisingly once tried against Richard Rapport, who, equally surprisingly, failed to go
+Удивительно, но однажды это было опробовано против Ричарда Раппорта, которое, что не менее удивительно, провалилось
 
 **9.Nxe6**
 
-9...fxe6 10.Bxg6+ hxg6 11.Qxg6+ with a winning attack as we saw after 7...Be7.
+9...fxe6 10.Bxg6+ hxg6 11.Qxg6+ с выигрышной атакой, как мы видели после 7...Be7.
 
 ### #11
 
@@ -238,15 +238,15 @@ was surprisingly once tried against Richard Rapport, who, equally surprisingly, 
 
 **7...Be7**
 
-can, likewise, be well met by
+также может быть встречено
 
 **8.Qg4**
 
-with extremely strong pressure against g7 and potentially h7, in part because
+с чрезвычайно сильным давлением на g7 и потенциально h7, отчасти потому, что
 
 **8...g6 9.Nxe6 fxe6 10.Bxg6+ hxg6 11.Qxg6+ Kf8 12.Bh6+ Rxh6 13.Qxh6+**
 
-is a winning attack, despite Black's small material plus: 13...Kf7 14.Qh7+ Kf8 15.O-O-O Ba6 prevents Rd3, but not also Rh3-f3 after 16.h4
+выигрышная атака, несмотря на небольшой материальный плюс черных: 13...Kf7 14.Qh7+ Kf8 15.O-O-O Ba6 предотвращает Rd3, но не Rh3-f3 после 16.h4
 
 ### #12
 
@@ -254,19 +254,19 @@ is a winning attack, despite Black's small material plus: 13...Kf7 14.Qh7+ Kf8 1
 
 **6...Ne4**
 
-can be met in various ways, including the engines' cheeky
+может быть встречено по-разному, в том числе и дерзким движковым
 
 **7.Nb1**
 
-This threatens f3 Ng5; h4, while also allowing White to bolster his centre with
+Это создает угрозы f3, Ng5, h4 и одновременно позволяет белым укрепить свой центр с помощью
 
 **7...c5 8.c3**
 
-A simpler choice than 8.f3 Nd6!? followed by ...c4 and after
+Более простой выбор, чем 8.f3 Nd6!? с последующим ...c4 и после
 
 **8...cxd4 9.cxd4 Bb4+ 10.Nbc3**
 
-White enjoys a very pleasant edge. He is ready to castle when Nb5 may become a possibility and any exchange of knights on c3 will simply strengthen White's central structure, as well as give him promising attacking chances after Nf4 and Qg4.
+У белых очень приятное преимущество. Они готовы сделать рокировку, когда станет возможным Nb5, и любой размен коней на c3 просто укрепит центральную структуру белых, а также даст им многообещающие атакующие шансы после Nf4 и Qg4.
 
 ### #13
 
@@ -274,27 +274,27 @@ White enjoys a very pleasant edge. He is ready to castle when Nb5 may become a p
 
 **4...g6**
 
-is a switch of focus and it's hard to believe ...b6 should be too great in a Modern, even though the Hippo (...g6, ...b6, ...Bg7, ...Bb7, ...e6, ...d6, ...Ne7, ...Nd7, ...a6 and ...h6) can work out well enough against slow White play. Here the f-pawn isn't impeded though, White enjoys easy and aggressive development and might go 5.h4!? , as per our Modern coverage, or just
+это переключение фокуса, и в это трудно поверить ...b6 должно быть слишком здорово в Модерне, даже несмотря на то, что Бегемот (...g6, ...b6, ...Bg7, ...Bb7, ... e6, ...d6, ...Ne7, ...Nd7, ...a6 и ...h6) могут достаточно хорошо сработать против медленной игры белых. Однако здесь пешка "f" не скована, белые наслаждаются легким и агрессивным развитием и могут пойти 5.h4!?, согласно нашему рассмотрению Модерн, или просто
 
 **5.Nge2**
 
-This continues our standard set-up and White most certainly hasn't given up on aggressive measures - far from it:
+Это продолжение нашей стандартной схемы, и белые, конечно же, не отказались от агрессивных мер -- отнюдь:
 
 **5...Bg7 6.h4**
 
-Here comes Harry, and this strong advance was once used by Boris Spassky no less:
+А вот и Гарри, и этим сильным наступлением когда-то воспользовался ни много ни мало Борис Спасский:
 
 **6...Nc6 7.Bg5 Nge7 8.h5**
 
-Full speed ahead! Even the pressure against d4 didn't dissuade White from making full use of Harry so in Rogers-Spassky, Reggio Emilia 1983/84. White threatens h6 and is doing well even if Black closes lines:
+Полный вперед! Даже давление на d4 не помешало белым полностью использовать Гарри в партии Rogers -- Spassky, Reggio Emilia 1983/84.  Белые угрожают h6, и у них все хорошо, даже если черные закроют линии:
 
 **8...h6 9.Be3 g5 10.f4**
 
-Just in time White offers a pawn to rip open the position and maintain the initiative. He can castle on either side and Black may find himself rather tied down to a weak pawn on h6: 10...gxf4 11.Bxf4 d6
+Как раз вовремя белые предлагают пешку, чтобы вскрыть позицию и сохранить инициативу. Они могут рокироваться на любую сторону, и черные могут оказаться связанными со слабой пешкой на h6: 10...gxf4 11.Bxf4 d6
 
-11...Nxd4? fails to 12.Nxd4 Bxd4 13.Nb5 e5 14.Nxd4 exd4 15.Qd2 followed by O-O-O and/or Bxh6.<level/>
+11...Nxd4? fails to 12.Nxd4 Bxd4 13.Nb5 e5 14.Nxd4 exd4 15.Qd2с последующим O-O-O и/или Bxh6.<level/>
 
-12.Qd2 White is now ready to go O-O-O, as well as d5, and even the central counter doesn't enable Black to equalize: 12...e5!? 13.dxe5 dxe5 14.Be3. White will simply go O-O-O and Rf1, leaving Black under lasting and strong pressure on the kingside, while both Ng3-f5 and even Nd5 may become strong possibilities.
+12.Qd2 Теперь белые готовы пойти О-О-О, как и d5, и даже центральная контратака не позволяет черным сравнять счет: 12...e5!? 13.dxe5 dxe5 14.Be3. Белые просто пойдут O-O-O и Rf1, оставив черных под длительным и сильным давлением на королевском фланге, в то время как Ng3-f5 и даже Nd5 могут стать сильными возражениями.
 
 ### #14
 
@@ -302,11 +302,11 @@ Just in time White offers a pawn to rip open the position and maintain the initi
 
 **8...Nxd4**
 
-was preferred in the game when we can't really understand how Spassky rejected
+было бы предпочтительнее в партии, и мы не можем понять, как Спасский отказался от
 
 **9.h6 Be5 10.f4 Nxe2 11.fxe5 Nxc3 12.bxc3**
 
-as pointed out by Ian Rogers. Talk about a dark-square bind!
+как указал Ян Роджерс. Поговорим о связке черных полей!
 
 ### #15
 
@@ -314,7 +314,7 @@ as pointed out by Ian Rogers. Talk about a dark-square bind!
 
 **6...h5 7.Bg5 Ne7 8.d5**
 
-is our favourite central advance and one which just leaves Black under pressure in the centre and on the light squares, not to mention badly struggling to free his position.
+это наше любимое центральное продвижение, которое просто оставляет черных под давлением в центре и по белым полям, не говоря уже о том, что они изо всех сил пытаются освободить свою позицию.
 
 ### #16
 
@@ -322,8 +322,8 @@ is our favourite central advance and one which just leaves Black under pressure 
 
 **6...h6**
 
-might hope for Hippo calmness, but after
+могли бы надеяться на спокойного Бегемота, но после
 
 **7.h5 g5 8.f4**
 
-lines are already opening to White's advantage and the pressure will but mount after Be3 and Qd2.
+линии уже открываются в пользу белых, и давление только усилится после Be3 и Qd2.
