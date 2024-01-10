@@ -1,8 +1,14 @@
-Gambiteer I – Repertoire for White
+<font size="5">Gambiteer I – Repertoire for White</font>
 
 Nigel Davies
 
-### Глава 5. Защита Алехина 3.Nc3
+Everyman 2007
+
+**Содержание**
+
+<content/>
+
+## Глава 5. Защита Алехина 3.Nc3
 
 Хотя
 

@@ -53,6 +53,7 @@
     <button class="nav" data-delta="-1"> < </button>
     <button class="nav" data-delta="1" > > </button>
     <input id="fen" type="text" readonly style="margin-top: 10pt; width: 100%; " onClick="this.setSelectionRange(0, this.value.length)"/>
+    <input id="moves" type="text" readonly style="margin-top: 10pt; width: 100%; " onClick="this.setSelectionRange(0, this.value.length)"/>
   </div>
 </div>
 
@@ -113,12 +114,43 @@
         queryEval(fen);
     }
 
+    function getMoves(elem) {
+        elem = $(elem);
+        var fen = $(elem).attr("fen");
+        var n = (Number(fen.split(" ").slice(-1)) - 1) * 2 + (fen.indexOf(" w ") > -1 ? 0 : 1);
+        var moves = [];
+        do {
+            var san = $(elem).attr("san");
+            if (!san) break;
+            
+            moves.unshift(san);
+            
+            var prev = $(elem).attr("prev");
+            if (!prev) break;
+            
+            elem = $("#" + prev);
+        } while (elem);
+        
+        var s = "";
+        var skip = n - moves.length;
+        for (var i = 0; i < moves.length; i++) {
+            var j = i + skip;
+            if (j % 2 === 0 || j === skip) {
+                s = s + Math.floor(j / 2 + 1) + (j % 2 === 0 ? ". " : "... ");
+            }
+            s = s + moves[i] + " ";
+        }
+
+        return s.trim();
+    }
+    
     function selMove(elem) {
         elem = $(elem);
         $(".move.sel").removeClass("sel");
         applyFen(elem.attr("fen"));
-        applyLast(elem.attr("uci"));
         $(elem).addClass("sel");
+        applyLast(elem.attr("uci"));
+        $("#moves").val(getMoves(elem));
     }
 
     function getSel() {
