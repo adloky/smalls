@@ -160,7 +160,7 @@
     }
     
     function scroll2Move() {
-        var elem = $(".sel");
+        var elem = $(".move.sel");
         
         if (!elem.length) {
             return;
@@ -236,6 +236,7 @@
     });
     
     $(".find").click(function() {
+        $(".find-fen").val("");
         $(".find-dialog").addClass("visible");
     });
     
