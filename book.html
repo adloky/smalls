@@ -16,7 +16,11 @@
   .indent2 { padding-left: 30pt; }
   .indent3 { padding-left: 60pt; }
   .indent4 { padding-left: 90pt; }  
-  .indent5 { padding-left: 90pt; }    
+  .indent5 { padding-left: 90pt; }
+  .find-dialog { visibility: collapse; }   
+  .find-dialog.visible { visibility: visible; }   
+  .find-id { cursor: hand; padding: 1pt; }
+  .find-id.sel { background-color: #bbb; }
   
   .pbr { background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NSIgaGVpZ2h0PSI0NSI+PGcgZmlsbC1ydWxlPSJldmVub2RkIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik05IDM5aDI3di0zSDl2M3ptMy41LTdsMS41LTIuNWgxN2wxLjUgMi41aC0yMHptLS41IDR2LTRoMjF2NEgxMnoiIHN0cm9rZS1saW5lY2FwPSJidXR0Ii8+PHBhdGggZD0iTTE0IDI5LjV2LTEzaDE3djEzSDE0eiIgc3Ryb2tlLWxpbmVjYXA9ImJ1dHQiIHN0cm9rZS1saW5lam9pbj0ibWl0ZXIiLz48cGF0aCBkPSJNMTQgMTYuNUwxMSAxNGgyM2wtMyAyLjVIMTR6TTExIDE0VjloNHYyaDVWOWg1djJoNVY5aDR2NUgxMXoiIHN0cm9rZS1saW5lY2FwPSJidXR0Ii8+PHBhdGggZD0iTTEyIDM1LjVoMjFtLTIwLTRoMTltLTE4LTJoMTdtLTE3LTEzaDE3TTExIDE0aDIzIiBmaWxsPSJub25lIiBzdHJva2U9IiNlY2VjZWMiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIvPjwvZz48L3N2Zz4='); }
   .pbn { background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NSIgaGVpZ2h0PSI0NSI+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0yMiAxMGMxMC41IDEgMTYuNSA4IDE2IDI5SDE1YzAtOSAxMC02LjUgOC0yMSIgZmlsbD0iIzAwMCIvPjxwYXRoIGQ9Ik0yNCAxOGMuMzggMi45MS01LjU1IDcuMzctOCA5LTMgMi0yLjgyIDQuMzQtNSA0LTEuMDQyLS45NCAxLjQxLTMuMDQgMC0zLTEgMCAuMTkgMS4yMy0xIDItMSAwLTQuMDAzIDEtNC00IDAtMiA2LTEyIDYtMTJzMS44OS0xLjkgMi0zLjVjLS43My0uOTk0LS41LTItLjUtMyAxLTEgMyAyLjUgMyAyLjVoMnMuNzgtMS45OTIgMi41LTNjMSAwIDEgMyAxIDMiIGZpbGw9IiMwMDAiLz48cGF0aCBkPSJNOS41IDI1LjVhLjUuNSAwIDEgMS0xIDAgLjUuNSAwIDEgMSAxIDB6bTUuNDMzLTkuNzVhLjUgMS41IDMwIDEgMS0uODY2LS41LjUgMS41IDMwIDEgMSAuODY2LjV6IiBmaWxsPSIjZWNlY2VjIiBzdHJva2U9IiNlY2VjZWMiLz48cGF0aCBkPSJNMjQuNTUgMTAuNGwtLjQ1IDEuNDUuNS4xNWMzLjE1IDEgNS42NSAyLjQ5IDcuOSA2Ljc1UzM1Ljc1IDI5LjA2IDM1LjI1IDM5bC0uMDUuNWgyLjI1bC4wNS0uNWMuNS0xMC4wNi0uODgtMTYuODUtMy4yNS0yMS4zNC0yLjM3LTQuNDktNS43OS02LjY0LTkuMTktNy4xNmwtLjUxLS4xeiIgZmlsbD0iI2VjZWNlYyIgc3Ryb2tlPSJub25lIi8+PC9nPjwvc3ZnPg=='); }
@@ -35,6 +39,15 @@
 
 <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
 
+<div class="find-dialog" style=" background-color: rgba(0, 0, 0, .5); width: 100%; height: 100%; position: fixed; left: 0; top: 0; z-index: 100; ">
+  <div style=" top: 50%; left: 50%; position: absolute; ">
+    <div style="background-color: white; position: relative; width: 240pt; margin-left: -120pt; height: 50pt; margin-top: -25pt; padding: 10pt; text-align: center; ">
+        <div>FEN: <input class="find-fen" type="text" style=" width: 200pt; "/></div>
+        <div style=" padding: 10pt; "><button class="find-ok"> ОК </button> <button class="find-cancel"> Отмена </button></div>
+    </div>
+  </div>
+</div>
+
 <div style="margin-right: 220pt;">
 <div style="width: 220pt; margin-right: -220pt; position: fixed; right: 220pt; ">
   <div style="width: 200pt; height: 200pt; padding: 10pt; ">
@@ -52,8 +65,10 @@
     <div class="eval" style="width: 40pt; display: inline-block; "></div>
     <button class="nav" data-delta="-1"> < </button>
     <button class="nav" data-delta="1" > > </button>
+    <button class="find"> &#x1F50D; </button>
     <input id="fen" type="text" readonly style="margin-top: 10pt; width: 100%; " onClick="this.setSelectionRange(0, this.value.length)"/>
     <input id="moves" type="text" readonly style="margin-top: 10pt; width: 100%; " onClick="this.setSelectionRange(0, this.value.length)"/>
+    <div class="find-result" style=" margin-top: 10pt; "></div>
   </div>
 </div>
 
@@ -144,11 +159,35 @@
         return s.trim();
     }
     
+    function scroll2Move() {
+        var elem = $(".sel");
+        
+        if (!elem.length) {
+            return;
+        }
+        
+        var elemHeight = $(elem).height();
+        var elemTop = Math.floor(elem.offset().top);
+        var elemBottom = elemTop + elemHeight + 1;
+        var winTop = window.scrollY;
+        var winBottom = winTop + window.innerHeight;
+        var margin = elemHeight * 10 > window.innerHeight ? window.innerHeight / 2 : elemHeight * 5;
+        
+        if (elemTop < winTop) {
+            window.scroll({ top: window.scrollY - (winTop - elemTop + margin)});
+        }
+        
+        if (elemBottom > winBottom) {
+            window.scroll({ top: window.scrollY + (elemBottom - winBottom + margin)});
+        }
+    }
+    
     function selMove(elem) {
         elem = $(elem);
         $(".move.sel").removeClass("sel");
         applyFen(elem.attr("fen"));
         $(elem).addClass("sel");
+        scroll2Move();
         applyLast(elem.attr("uci"));
         $("#moves").val(getMoves(elem));
     }
@@ -194,5 +233,28 @@
     $(".nav").click(function() {
         var delta = Number($(this).data("delta"));
         changeMove(delta);
+    });
+    
+    $(".find").click(function() {
+        $(".find-dialog").addClass("visible");
+    });
+    
+    $(".find-cancel, .find-dialog").click(function() {
+        $(".find-dialog").removeClass("visible");
+    }).children().click(function() {
+        return false;
+    });
+    
+    $(".find-ok").click(function() {
+        var html = "Результаты: " + $(".move[fen|='" + $(".find-fen").val() + "']").toArray()
+            .map((x,i) => "<span class='find-id' fid='" + $(x).attr("id") + "'>" + (i + 1) + "</span>").join(" ");
+        $(".find-result").html(html);
+        $(".find-dialog").removeClass("visible");
+    });
+    
+    $(document).on('click', '.find-id', function(){
+        $(".find-id.sel").removeClass("sel");
+        $(this).addClass("sel");
+        selMove("#" + $(this).attr("fid"));
     });
 </script>
