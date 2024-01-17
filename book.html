@@ -182,12 +182,12 @@
         }
     }
     
-    function selMove(elem) {
+    function selMove(elem, skipScroll) {
         elem = $(elem);
         $(".move.sel").removeClass("sel");
         applyFen(elem.attr("fen"));
         $(elem).addClass("sel");
-        scroll2Move();
+        if (!skipScroll) scroll2Move();
         applyLast(elem.attr("uci"));
         $("#moves").val(getMoves(elem));
     }
@@ -223,7 +223,7 @@
     applyFen(startFen);
 
     $(document).ready(function() {
-        selMove($(".move").first());
+        selMove($(".move").first(), true);
     });
     
     $(document).on("click", ".move", function() {
