@@ -1,3 +1,111 @@
+### (14) Quickstarter - Modern: 3...d5 #1 
+
+**1.e4**
+
+Wherever allowed we want to continue with 2.d4 and 3.Nc3 -OK, not in Grandmaster Gambits: 1.e4 after 1...c6 and 1...e6! -, as we will against the Modern:<addx start="2.d4"/><addx start="3.Nc3"/>
+
+**1...g6 2.d4 Bg7 3.Nc3**
+
+White enjoys quite an aggressive set-up, as well as ideal central play. Now Black may take play back into Pirc waters with ...d6 and ...Nf6, but he can also prefer something independent:
+
+**3...d5**
+
+is relatively rare, but worth knowing about, just so it doesn't knock you off your chair. Black regains the pawn after 4.Nxd5 c6 , so we capture the other way
+
+**4.exd5 Nf6 5.Bc4**
+
+White makes it as hard as possible for Black to regain the pawn - we are happy to return it, but on our terms:
+
+**5...Nbd7 6.Bb3**
+
+Sensible prophylaxis.
+
+**6...Nb6 7.Nf3**
+
+Here 7...a5 doesn't force a concession as White has 8.Na4! , freeing the c-pawn for action, as we'll see at the start of our detailed coverage of the Modern. As such, Black may prefer just to regain the pawn:
+
+**7...Nbxd5 8.Nxd5 Nxd5 9.O-O O-O 10.Re1**
+
+sees White's pieces flow to good squares with Bg5 and Qd2 and/or h3 likely to follow, leaving Black low on counterplay and vulnerable to a kingside attack and/or well-timed central takeover after c4, with the former and a strong exchange sacrifice occurring in Karpatchev-Huemmer, Arco Open 2013.
+
+### (15) Quickstarter - Modern: 3...d6 #1 
+
+**1.e4**
+
+**1...g6 2.d4 Bg7 3.Nc3**
+
+**3...d6 4.Be2**
+
+This is surprisingly flexible and many Modern players now take the chance to head for Pirc waters with 4...Nf6 . If they prefer 4...c6 or
+
+**4...a6**
+
+White can very much bring Harry into play:
+
+**5.h4 h5 6.Nf3**
+
+Black has avoided coming under pressure after h5, but is far from completely out of the woods with White's knight looking to settle on g5 at the right moment. White will not simply lie down in the face of queenside pressure, instead:
+
+**6...b5 7.a4 b4 8.Nd5**
+
+is pretty aggressive and may well see White emerging with a useful enough lead in development, as we'll see in Line B1.
+
+### (16) Quickstarter - Modern: 3...c6 #1 
+
+**1.e4**
+
+**1...g6 2.d4 Bg7 3.Nc3**
+
+**3...c6 4.Be2**
+
+continues our standard development method against the kingside fianchetto. Black can counter forcefully in the center, but White should not mind the resulting semi-closed center:
+
+**4...d5 5.e5**
+
+In contrast to the Gurgenidze variation, where f4 is played, here White is very flexibly placed on the kingside and may even be able to involve Harry:
+
+**5...Nh6**
+
+5...h5 6.h3 , keeping Black out of g4 and intending to complete development with Nf3 and Bf4, as we'll see in Line B2.
+
+**6.h4**
+
+Already h5 is creating headaches for Black's Gurgenidze-type approach and even his main pawn break doesn't prevent White from maintaining his aggressive stance:
+
+**6...f6 7.h5 g5 8.f4**
+
+White is determined to boss the kingside and will fight for control of the key f5 point with Bd3 and Nge2, as he did in Tomczak-Heberla, Polish Team Championship, Katowice 2019.
+
+### (17) Quickstarter - Modern: 3...c5 #1 
+
+**1.e4**
+
+**1...g6 2.d4 Bg7 3.Nc3**
+
+**3...c5**
+
+is the infamous Sniper, a line aggressive players should welcome, since White can open the center and quickly reach a favourable, unbalanced position:
+
+**4.dxc5 Qa5 5.Bd2 Qxc5 6.Nd5**
+
+is a strong leap which seizes and early initiative due to Black's misplaced queen. Can you spot the immediate threat? It's 7.Bb4 Qc6 8.Bb5 and while Black can dodge that, his cause is not to be envied, as we'll see in Line B3.<addx start="7.Bb4"/>
+
+### (18) Quickstarter - Modern: 3...c5 #2
+
+**1.e4**
+
+**1...g6 2.d4 Bg7 3.Nc3**
+
+**3...c5**
+
+**4.dxc5 Bxc3+ 5.bxc3 Qa5**
+
+is the big alternative, but White can now compete for the dark squares while aiming to favourably return the pawn:
+
+**6.Qd4 Nf6 7.Qb4**
+
+White hopes that the long diagonal will open for his unopposed bishop, while also preparing to continue development in straightforward fashion with Bd3 and Nf3.
+
 ### (98) Modern Introduction - Modern Introduction #1
 
 **1.e4 g6**
@@ -1152,7 +1260,7 @@ White is now ready to go c2-c3, so Black is pretty much forced into exchanges: 1
 
 **4...Nc6**
 
-str@kes straight at d4 and is better-timed than with ... Nf6 and h4 inserted (Line A4). White should avoid 5.d5 Nd4 in favour of the flexible
+strikes straight at d4 and is better-timed than with ... Nf6 and h4 inserted (Line A4). White should avoid 5.d5 Nd4 in favour of the flexible
 
 **5.Be3**
 
@@ -2351,4 +2459,3 @@ which just left White with an excellent version of a Dragon in Prizant-Sigurjons
 **9.Nge2 d6 10.Nc1 f5 11.Nb3**
 
 11...Bxc3 12.bxc3 Qc7 13.h4! and Black didn't last too much longer on the kingside
-
