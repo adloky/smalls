@@ -201,7 +201,7 @@
 
 **11.Nd5 exd5 12.exd5 Nce5 13.d6!**
 
-Ниже приведены несколько общих рекомендаций о том, когда следует и не следует жертвовать на d5:
+Ниже приведены несколько общих рекомендаций о том, когда следует и не следует жертвовать на d5:<fen/>
 
 1) Жертвовать коня на d5, когда черная пешка уже стоит на d6, редко бывает хорошей идеей, так как вы уже не сможете самостоятельно разыграть разрушительное d5-d6. Вместо этого ваш слон может безжизненно сидеть за пешкой d5, и в итоге вы потеряете фигуру за небольшую компенсацию или вообще без нее.
 2) Если черный конь стоит на с6, жертва на d5 таит в себе много возможностей. Взяв на d5, вы выиграете темп у коня на c6, а когда он убежит, вы сможете провести сокрушительное d5-d6.
@@ -216,256 +216,225 @@
 
 Конечно, в шахматах не существует правил, которым нужно следовать в 100% случаев, кроме того, как ходят фигуры, но если вы будете придерживаться этих рекомендаций, вам будет гораздо легче разобраться в хаосе, окружающем жертвы на d5, о которых идет речь в этой книге. И наконец, если вы используете шахматный движок для анализа, пожалуйста, отнеситесь к его оценкам при исследовании жертв на d5 или других экстремальных ситуаций в гамбите Морра с серьезным скептицизмом. Как и большинство шахматной публики, компьютер (Rybka, Houdini, Stockfish, Blowfish или любой другой существующий движок) просто не в состоянии понять, как белые могут потерять фигуру при, казалось бы, незначительной контригре, а когда они наконец начинают выплескивать положительные оценки для гамбитера, позиция черных зачастую уже не может быть спасена.
 
-## The sensitive e6/f7 complex
+## Чувствительный комплекс e6/f7
 
-While an early sacrifice on d5 may give rise to the most fantastic possibilities in the Morra Gambit, there are definitely other outlandish ways to find yourselfdown a full piece after ten moves in the gambit and still objectively play
-
-for the win! In particular, sacrificing a white knight or bishop on e6 or f7 is the second most common method for mayhem. As discussed earlier, when Black adopts a Scheveningen formation, he does so primarily to speed up his kingside development while shielding the vulnerable f7-pawn. When the gambiteer sacrifices on e6 or f7, however, he strips away the venerable foot soldier, leaving the black king to fend for himself in the center as chaos engulfs the board. Understand that these sacrifices work best when Black's queen's bishop fails to defend e6, either because a Black piece on d7 obstructs its guard or because the bishop felt the need to drift away from its home post towards b7. Now for a few concrete examples:
+Хотя ранняя жертва на d5 может открыть самые фантастические возможности в гамбите Морра, определенно есть и другие необычные способы оказаться без целой фигуры после десяти ходов в гамбите и при этом объективно играть на победу! В частности, жертва белого коня или слона на e6 или f7 является вторым по распространенности  способом наведения хаоса. Как обсуждалось ранее, когда черные принимают схевенингенскую расстановку, они делают это в первую очередь для того, чтобы ускорить развитие своего королевского фланга, одновременно защищая уязвимую пешку f7. Однако когда гамбитер жертвует на e6 или f7, он уничтожает почтенного пехотинца, оставляя чёрного короля на произвол судьбы в центре, пока хаос окутывает доску. Поймите, что эти жертвы работают лучше всего, когда белопольный слон черных не может защитить e6, либо потому, что черная фигура на d7 мешает его защите, либо потому, что слон почувствовал необходимость отойти от своего домашнего поста на b7. Теперь несколько конкретных примеров:
 
 ## Into the Deep - 9.Ng5!
 
 **1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 e6 5.Nf3 a6 6.Bc4 b5 7.Bb3 Bb7 8.O-O! d6**
 
-Black chooses a Scheveningen setup, but with his e6/f7 complex severely compromised by the ill-timed ...Bb7. The gambiteer wastes no time and peppers the sensitive spot.
+Черные выбирают схевенингенскую схему, но их комплекс e6/f7 серьезно скомпрометирован несвоевременным ходом ...Bb7. Гамбитер, не теряя времени, наносит удар по чувствительному месту.
 
-After 8...b4 we would descend into the chaotic world of 9.Nd5!.
+После 8...b4 мы погрузились бы в хаотичный мир 9.Nd5!.
 
 **9.Ng5!**
 
-White will wreak havoc on f7 and e6 as direct sacrificial blows and the savage Qh5 lurks. If Black stands idle, even the effortless f4-f5 will smash through.
+Белые будут наносить прямые жертвенные удары на f7 и e6, а также у них притаился дикий Qh5. Если черные будут бездействовать, то белые прорвутся f4-f5 без особых усилий.
 
-## Finegold Defense - 12.Bxe6!
+## Защита Файнгольда – 12.Bxe6!
 
-**1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Bxc3 d6 5.Nf3 e6 6.Bc4 Be7 7.O-O Nf6 8.Qe2 a6 9.Rd1 b5 10.Bb3 Nbd7**
+**1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 d6 5.Nf3 e6 6.Bc4 Be7 7.O-O Nf6 8.Qe2 a6 9.Rd1 b5 10.Bb3 Nbd7**
 
-We arrive at the main position of the notorious Finegold Defense. Again, Black adopts a Scheveningen formation, but obstructs the bishop's guard of e6 while his king waits in the center to receive incoming missiles. With the preconditions for a strike on the e6/f7 complex met, the gambiteer does not hesitate.
+Мы приходим к главной позиции печально известной защиты Финегольда. И снова черные применяют схевенингенскую расстановку, но препятствуют защите е6 слоном, в то время как их король ждет в центре, чтобы получить прилетающие ракеты. Когда предпосылки для удара по комплексу e6/f7 выполнены, гамбитер не колеблется.
 
 **11.Nd4!?**
 
-Black lacks the time to respond with 11...Nc5 as 12.Nc6 or 12.e5! first plows through.
+Черные не успевают ответить 11...Nc5, из-за угроз 12.Nc6 или 12.e5!
 
-**11...Bb7?!**
+**11...Bb7?! 12.Bxe6! fxe6 13.Nxe6**
 
-**12.Bxe6! fxe6 13.Nxe6**
+И я победил в обоих партиях Esserman – Chow, Chicago 2000 и Esserman – Finegold, Internet (blitz) 2006. Черный король вынужден выдерживать длительную осаду центра, пока ладьи и легкие фигуры белых занимаются мародерством.
 
-And I went on to win in both Esserman - Chow, Chicago 2000 and Esserman - Finegold, Internet (blitz) 2006. The black king must endure a protracted central siege as White's rooks and minor pieces pillage.
+## Чикагская защита – 10.Nd4!
 
-## Chicago Defense - 10.Nd4!
+**1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 e6 5.Nf3 a6 6.Bc4 d6 7.O-O b5 8.Bb3 Ra7 9.Be3 Rd7**
 
-**1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 e6 5.N6 a6 6.Bc4 d6 7.O-O b5 8.Bb3 Ra7 9.Be3 Rd7**
-
-A main variation of the Chicago Defense. Black places his rook on the awkward square d7 to shield his queen from the menacing Qe2, Rfd1, and e5. However, he again blocks his queen's bishop from guarding e6 in a Scheveningen system, so the thematic response should not be hard to spot.
+Основной вариант Чикагской защиты. Черные ставят ладью на неудобное поле d7, чтобы защитить ферзя от угрожающих Qe2, Rfd1 и e5. Однако она снова блокирует защиту белопольником пункта e6 в схевенингенской системе, так что тематический ответ не составит труда обнаружить.
 
 **10.Nd4!**
 
-Target acquired.
-
+Цель достигнута.
 
 **10...Nf6 11.f4!**
 
-The famous pawn advance, found principally in the Open Sicilian, is extremely effective in ripping apart the e6/f7 complex.
-
+Знаменитое продвижение пешки, встречающееся главным образом в открытой сицилианской защите, чрезвычайно эффективно разрушает комплекс e6/f7.
 
 **11...e5**
 
-Black avoids doom and gloom on e6, but in turn opens the gates to f7. It is rarely a good idea for the defender to play ...e6-e5 (or ...e7- e5) with his king more than a move away from castling, as White will have time to mount a dangerous offensive against the f7-pawn. In this case the attack features Ng5 and Bf7, but in other premature ...e5 positions, the gambiteer can jet his queen to b3, with themes echoing the classical e4/e5 gambits.
+Черные избегают мрака на е6, но в свою очередь открывают ворота на f7. Защищающемуся редко удается сыграть ...e6-e5 (или ...e7- e5) с королем более чем за ход до рокировки, так как у белых будет время для опасного наступления на пешку f7. В данном случае атака включает Ng5 и Bf7, но в других позициях с преждевременным ...e5 гамбитер может перебросить ферзя на b3, причем темы будут перекликаться с классическими гамбитами e4/e5.
 
 **12.Nf3 Be7**
 
-Black tries to castle but it is too late.
+Черные пытаются рокироваться, но уже слишком поздно.
 
-**13.Bxf7! Kxf7 14.Ng5+-**
+**13.Bxf7! Kxf7 14.Ng5+−**
 
-Showcased in Esserman - Nakamura, Chicago 2000. 14...Ke8 15.Ne6 and the knight grazes freely on e6 while the black king withers in the center once more.
+Продемонстрировано в партии Esserman – Nakamura, Chicago 2000. 14...Ke8 15.Ne6, и конь свободно перемещается на е6, а черный король снова чахнет в центре.
 
-In the Morra Gambit, due to White's extreme lead in development, sound sacrifices can instantly appear from just about anywhere on the board. So keep an open mind to any possibility and be alert.
+В гамбите Морра, благодаря тому, что белые сильно отстают в развитии, звучные жертвы могут мгновенно появиться практически из любой точки доски. Поэтому будьте внимательны к любым возможностям и начеку.
 
-**Be Alert - 9.Nb5!**
+## Будь начеку – 9.Nb5!
 
 **1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 Nc6 5.Nf3 d6 6.Bc4 Nf6**
 
-Black has developed normally and without reproach, following well established opening principles. He has obeyed the classic rule: "knights before bishops," while not wasting any time. And the necessary ...d6 inhibited White's e4-e5 thrust. Who would then think that White can seize the advantage with a forcing tactical sequence?
+Черные развивались нормально и без упреков, следуя хорошо известным дебютным принципам. Они придерживались классического правила: "кони раньше слонов", не теряя при этом времени. А необходимое ...d6 сдерживало натиск белых е4-е5. Кто бы мог подумать, что белые могут захватить преимущество с помощью форсированной тактической последовательности?
 
 **7.e5!**
 
-The gambiteer charges ahead regardless, ignoring Black's d6-barricade. But his advance is far from reckless, for if 7... lLlxe5, then 8.ltJxe5 dxe5 9.j,xf7t! nets the queen.
+Гамбитер идет вперед, не обращая внимания на баррикаду черных на d6. Но его продвижение далеко не безрассудно, ведь если 7...Nxe5, то 8.Nxe5 dxe5 9.Bxf7+! забирает ферзя.
 
 **7...dxe5 8.Qxd8 Nxd8**
 
-If 8...Kxd8, then 9.Ng5 hits Black from other side!
+Если 8...Kxd8, то 9.Ng5 бьет по черным с другой стороны!
 
 **9.Nb5!**
 
-Despite making three logical opening moves, Black falls into grave danger, and if he is not inspired enough to find 9...Rb8 (which still leads to his ruin), he may get shamefully mated in only 11 moves.
+Несмотря на три логичных дебютных хода, черные попадают в серьезную опасность, и если у них не хватит мастерства найти 9...Rb8 (что все равно ведет к гибели), они могут получить позорный мат всего в 11 ходов.
 
 **9...Kd7?? 10.Nxe5! Ke8 11.Nc7#**
 
-I'm sure I'm not the only Morra player to spring this embarrassing trap several times on unsuspecting opponents. Black must therefore
+Я уверен, что я не единственный игрок Морра, который несколько раз устраивал эту неловкую ловушку ничего не подозревающим противникам. Поэтому черным следует осторожно действовать 6...a6! чтобы предотвратить неприятное е4-е5! и вторжение Bb5, когда мы вступаем в теоретически обоснованную защиту Тейлора, или то, что некоторые скептики Морра любят называть «Старым верным». Я назову его «Храмом Судьбы Тейлора». Черные стремятся просто сыграть ...Bg4 и продолжить массовые размены после ...Bxf3, ...Ne5 и ...Nxc4. Однако, как мы увидим, храм Тейлора далек от того знаменитого опровержения, которое любят продвигать соперники Морра.
 
-carefully tread 6...a6! to prevent the nasty e4- e5! and Bb5 incursion, when we would enter the theoretically touted Taylor Defense, or what some Morra skeptics like to call "Old Faithful". I shall call it "Taylor's Temple of Doom". Black aims to simply play ...Bg4 and follow up with mass exchanges after ...Bxf3, ...Ne5 and ...Nxc4. However, as we shall see, Taylor's Temple is far from the celebrated refutation the Morra bashers like to promote.
+## **Будь начеку - 11.Nxb5!**
 
-alas we have a Scheveningen structure where Black's light-squared bishop did not report for duty...
+<fen value="r2qkb1r/4pppp/p1np1n2/1p5b/2B1PB2/1QN2N1P/PP3PP1/R4RK1 w kq - 0 11">(S)
 
-**12...e6**
-
-**Be Alert** - **11.Nxb5!**
-
-**13.Bxe6! fxe6 14.Qxe6 Be7 15.Nxd6+-** Pure carnage. White’s pieces swarm, and his rooks lie in reserve. The rout is on!
-
-## The "Fear Factor"
-
-We have reached a critical position of the Taylor Defense, where Black has just threatened White's bishop with 10...b5. A lazy gambiteer may quickly retreat the bishop. The alert master, on the other hand, will notice that Black's light bishop is missing in action...
+Мы достигли критической позиции в защите Тейлора, где черные только что создали угрозу слону белых ходом 10...b5. Ленивый гамбитер может быстро отвести слона. Бдительный мастер, напротив, заметит, что белопольный слон черных бездействует...<skip/>
 
 **11.Nxb5!**
 
-A decisive bolt from the blue. Black's king remains many tempi away from castling, and now will be pounded on the suddenly soft a4- e8 diagonal. He cannot capture the knight due to the decisive pin .ixb5, and ifhe refuses to go down quietly then...
+Решающий гром среди ясного неба. Королю черных осталось еще много темпов до рокировки, и теперь он будет повержен на неожиданно слабой диагонали a4-e8. Черные не могут взять коня из-за решающей связки Nxb5, и если они откажутся тихо пасть, то...
 
 **11...Rb8 12.Ng5!**
 
-...the tag team of knight, bishop and queen lay waste to the f7-square. If now 12...e6, then
+...команда в составе коня, слона и ферзя уничтожает поле f7. Если теперь 12...e6, то, увы, мы имеем схевенингенскую структуру, где белопольный слон черных не явился на дежурство...
 
-Throughout the book I will be recommending sharp, yet objectively sound continuations and sacrifices. But tournament chess is not played in a science laboratory, and sometimes things go awry in the heat of battle. In these cases, even when you know you are in trouble, do not despair, for you will have the gambit fear foetor on your side. Once you brave the Morra Gambit, you up the psychological tension, putting your opponent on the razor's edge. Now he knows that you are not afraid to sacrifice a pawn, so who knows what you will do next? You become a loose cannon, a wildcard, a jackal, a joker. This is what your opponent will likely think of you, regardless of what you think of yourself in the moment. Your opponent probably will scoff at your opening choice, but he is probably also afraid. Just remember the words of the great Mikhail Tal if ever you feel you are headed off an
+**12...e6 13.Bxe6! fxe6 14.Qxe6 Be7 15.Nxd6+−** Чистая бойня. Белые фигуры роятся, а ладьи остаются в стороне. Разгром начался!
 
-unsound cliff: "some sacrifices are sound, the rest are mine!"
+<fen/>
 
-To conclude, I will show one of my "unsound" Morra Gambit games which would have amused the Latvian genius.
+## Фактор страха
 
-Marc Esserman - Boris Kreiman
+На протяжении всей книги я буду рекомендовать острые, но объективно обоснованные продолжения и жертвы. Но в турнирные шахматы играют не в научной лаборатории, и иногда в пылу борьбы все идет наперекосяк. В таких случаях, даже если вы знаете, что попали в беду, не отчаивайтесь, ведь на вашей стороне будет фаэтон страха перед гамбитом. Отважившись на гамбит Морра, вы усиливаете психологическое напряжение, держа противника на острие бритвы. Теперь он знает, что вы не боитесь пожертвовать пешкой, и кто знает, что вы сделаете дальше? Вы превращаетесь в свободную пушку, дикую карту, шакала, джокера. Вот что, скорее всего, подумает о вас ваш соперник, независимо от того, что вы думаете о себе в данный момент. Возможно, ваш оппонент будет насмехаться над вашим выбором дебюта, но, скорее всего, он также боится. Просто вспомните слова великого Михаила Таля, если вдруг почувствуете, что срываетесь с непрочного обрыва: "Некоторые жертвы разумны, остальные - мои!".
 
-Sturbridge 2002
+В заключение я покажу одну из своих "несостоятельных" партий гамбита Морра, которая позабавила бы латышского гения.
 
-**1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 e6**
+**Marc Esserman – Boris Kreiman**
 
-**5.Nf3 a6 6.Bc4 b5 7.Bb3 Bb7**
+**Sturbridge 2002**
 
+**1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 e6 5.Nf3 a6 6.Bc4 b5 7.Bb3 Bb7 8.Qe2?!**
 
-**8.Qe2?!**
-
-8.O-O! Ten years ago I lacked the experience and skill to appreciate the streaming chaos after 8...b4 9.Nd5!, and instead choose to cowardly defend my e-pawn. But I promise this will be the last soft move you see from me from here
-
-on out.
+8.O-O! Десять лет назад мне не хватало опыта и мастерства, чтобы оценить стремительный хаос после 8...b4 9.Nd5!, и вместо этого я решил трусливо защитить пешку "е". Но я обещаю, что это будет последний тихий ход, который вы увидите от меня в дальнейшем.
 
 **8...Nc6 9.O-O Nge7 10.Bg5!**
 
-Chasing the queen!
+Погоня за ферзем!
 
 **10...f6**
 
-Forcing the desired kingside concession. Now I sank into deep thought for nearly an hour. During my meditation I envisioned that after 11.Be3, Black would respond with the unpleasant 11...Na5!, and I would have to 
+Вынужденная уступка на королевском фланге. Теперь я погрузился в глубокие раздумья почти на час. Во время размышлений я представил, что после 11.Be3 черные ответят неприятным 11...Na5!, и мне придется полностью отступить (обычно это не очень хороший знак в гамбитах). Поэтому, прекрасно понимая, что мой следующий ход граничит с необоснованностью и даже абсурдом, я все равно его сделал. В конце концов, жизнь бывает только раз, так почему бы не насладиться отдачей своих фигур?
 
-beat a full retreat (normally not a good sign in gambits). So, knowing full well that my next move bordered on the unsound and even the absurd, I did it anyway. Mter all, you only live once, so why not enjoy giving up your pieces?
+**11.Rfd1!? Qb8?**
 
-**11.Rfd1!?(?!) Qb8?**
+Мой опытный оппонент потратил около 3 минут на допущение этой ошибки. Может быть, Крейман опасался, что можно было подготовить ход 11.Rfd1?! Или даже если он подозревал, что фигура просто висит, зачем рисковать и подвергнуться варварскому нападению, когда он может просто спокойно подчинить себе более слабого противника?
 
-My seasoned opponent spent about 3 minutes to produce this blunder. Perhaps Kreiman feared 11.Rfd1 could have been prepared?! Or even if he suspected that it just hangs a piece, why risk coming under barbaric attack when he can just calmly subdue his weaker opponent?
+11...fxg5! Без страха. 12.Nxg5!? (12.Bxe6?!−+ не должно принести достаточно материала за ферзя.) 12...Qc7 13.Rxd7!? Безумное намерение, стоящее за 11.Rfd1, независимо от того, здравое оно или нет! 13...Qxd7 14.Bxe6<level start="11.Rfd1"/>
 
-11...fxg5! No fear. 12.Nxg5!? (12.Bxe6?!-+ should not net enough material for the queen.) 12...Qc7 13.Rxd7!? The insane intention behind ll.Rfdl, sound or not! 13...Qxd7 14.Bxe6
-
-A terrifying position for a grandmaster to defend versus a master, even if he's up a rook and a bishop! The king and queen now come under heavy fire. 14...Qd6 15.Bf7 Kd8 16.Rd1 Nd4 17.Rxd4!+- The scintillating variation which convinced me to go for the outlandish piece sacrifice. Sure, Black can hold with the unnatural sequence 15...Kd7 16.Rd1 Nd4 17.Qg4 Kc6!-+, or even 12...Kb6/12...Ka5+ as the queen flees from the nasty forks. However, Grandmaster Kreiman took one look at the possible danger on the field and ran for the hills. I promise you very similar experiences when unleashing Morra mayhem. Your opponents will shake in the face of such savage attacks, unless of course they are made of steel.
+Ужасающая позиция для гроссмейстера защищающегося от мастера, даже если у него ладья и слон! Король и ферзь теперь попали под шквальный огонь. 14...Qd6 15.Bf7 Kd8 16.Rd1 Nd4 17.Rxd4!+− Яркий вариант, который убедил меня пойти на диковинную жертву фигуры. Конечно, черные могут удержаться неестественной последовательностью 15...Kd7 16.Rd1 Nd4 17.Qg4 Kc6!−+ или даже 12...Qb6/12...Qa5, поскольку ферзь убегает от неприятных развилок. Однако гроссмейстер Крейман, увидев возможную опасность на поле, побежал в сторону холмов. Я обещаю, что вы столкнетесь с аналогичными событиями, когда развяжете хаос в Морре. Ваши противники будут дрожать перед лицом таких диких атак, если, конечно, они не сделаны из стали.
 
 **12.Bh4**
 
-Kreiman's desire to play it safe soon backfires. He had no choice but to accept the sacrifice, for as a result of his misplaced queen, I now have a raging initiative. Soon he encounters horrors far more terrifYing than had he just grabbed on g5. And that's the point! There is no escaping chaos in the Morra Gambit.
+Желание Креймана перестраховаться вскоре приводит к обратным результатам. У него не было другого выбора, кроме как принять жертву, потому что из-за его неуместного ферзя у меня теперь есть бушующая инициатива. Вскоре он сталкивается с ужасами гораздо более страшными, чем если бы он только что взял на g5. И в этом суть! В Гамбите Морра не избежать хаоса.
 
 **12...Ng6 13.Bg3**
 
-Chase, chase, chase the queen!
+Гоняйтесь, гоняйтесь, гоняйтесь за королевой!
 
 **13...Nce5 14.Nxe5 fxe5**
 
-14...Nxe5 15.f4!± and after the knight vacates, the shattering f4-f5 leaves the f7/e6 complex in ruin while the bishop again stalks the queen.
+14...Nxe5 15.f4!± и после отхода коня сокрушительное f4-f5 оставляет комплекс f7/e6 в руинах, а слон снова преследует ферзя.
 
-**15.Kg4!±**
+**15.Qg4!±**
 
-
-
-Suddenly White threatens the pulverizing Rxd7 followed by Qxe6 and a knockout on the c-file. The Morra "fear factor" reigns supreme.
+Внезапно белые угрожают сокрушительным Rxd7, за которым следует Qxe6 с нокаутом по линии "c". «Фактор страха» Морра господствует.
 
 **15...Bc8**
 
-A sad necessity. The storm clouds are gathering. If 15...Qc7 16.Rac1! further harassing the queen.
-
-
+Печальная необходимость. Грозовые тучи собираются. Если 15...Qc7 16.Rac1!, то дальнейшее преследование ферзя.
 
 **16.h4!**
 
-Pinning the bishop to its original f8-square, else h5 and Wxg7 crunches.
+Привязывание слона к начальному полю f8, иначе после h5 и Qxg7 черные хрустнут.
 
 **16...Nf4 17.Bxf4**
 
-Happily removing Black's only active piece.
+Счастливо удалив единственную активную фигуру черных.
 
 **17...exf4**
 
-Kreiman intends to use the e5-square as a safe haven for his queen and the base of future operations, when he could then finally free his king's bishop and hope to castle. He must not succeed.
-
-
+Крейман намерен использовать поле е5 как убежище для своего ферзя и базу для будущих операций, тогда он сможет наконец освободить своего королевского слона и надеяться на рокировку. Он не должен добиться успеха.
 
 **18.e5!**
 
-Emboldened, I blow up the queen's hideout and clear the path to the king. And who cares about another pawn when you have already offered to sacrifice a whole piece?
+Осмелев, я взрываю убежище ферзя и расчищаю путь к королю. А кого волнует еще одна пешка, когда ты уже предлагал жертву целой фигуры?
 
 **18...Qxe5 19.Re1!**
 
-Yet another queen chase allows the rooks to harmoniously regroup along the central files, where they will pummel Black's king at last.
+Очередная погоня за ферзем позволяет ладьям гармонично перегруппироваться по центральным вертикалям, где они наконец-то разобьют черного короля.
 
 **19...Qb8 20.Rad1!**
 
 
+Идеальное время для фотографии. Все фигуры белых готовы к удару. Все черные находятся на своих исходных полях, за исключением, конечно, ферзя, который все еще находится рядом с его домом. Гамбитер Морра мечтает о таких моментах.
 
-
-A perfect time for a photograph. All of White's pieces are ready to strike. All of Black's lie on their original squares, except for the queen of course, which is still near her home. A Morra gambiteer dreams of such moments.
-
-The great Romantics of old smile from above, and the rest needs no comment. Or does it?
+Великие романтики старины улыбаются сверху, а остальное не нуждается в комментариях. Или нет?
 
 **20...Ra7 21.Nd5!**
 
-The monstrous knight, often sacrificed on the d5 "ring offire", now roams freely, immune from capture!
+Чудовищный конь, часто жертвуемый на на "огненном кольце" d5, теперь свободно разгуливает, защищенный от взятия!
 
-**21...g6 22.Nf6 Kf7 23.Nxd7! Bxd7**
+**21...g6 22.Nf6 Kf7 23.Nxd7! Bxd7 24.Rxd7 Rxd7 25.Qxe6 Kg7 26.Qxd7 Kh6 27.Qg4 Bd6 28.Qg5 Kg7 29.h5! Rf8**
 
-**24.Rxd7 Rhd7 25.Qxe6 Kg7 26.Qxd7 Kh6 27.Qg4 Bd6 28.Qg5 Kg7 29.h5! Rf8**
-
-I've played flawlessly after dubiously sacrificing on move 11. But now, in massive time pressure, the fear factor suddenly betrays me, and bad nerves spoil the show. As my time ticked under 30 seconds, I uncorked 30.h6t??, and even though I'm still winning without difficulty, I found a way to flag on move 40.
+После сомнительной жертвы на 11-м ходу я играл безупречно. Но теперь, в условиях огромного дефицита времени, фактор страха внезапно предал меня, и плохие нервы испортили шоу. Когда мое время стало меньше 30 секунд, я сыграл 30.h6+??, и, хотя я все еще выигрывая без труда, я нашел способ уронить флаг на 40-м ходу.
 
 **...0-1**
 
 
-If only the spectacle had reached its rightful conclusion...
+Если бы только это зрелище достигло своего законного завершения...
 
 **30.Re7! Bxe7 31.h6!**
 
-Only now does the pawn advance, forcing mate.
+Только теперь пешка продвигается вперед, форсируя мат.
 
-**31...Kh8 32.Kxe7!+-**
+**31...Kh8 32.Qxe7!+−**
 
-Without a doubt the most painful loss of my career. Years later it still stings. But this chess
+Без сомнения, это была самая болезненная потеря в моей карьере. Спустя годы это все еще больно. Но эта шахматная трагедия побудила меня работать гораздо усерднее, и кто знает, если бы этого не случилось, возможно, вы не читали бы сегодня эту книгу.
 
-tragedy motivated me to work much harder, and who knows, if it had never happened, you might not be reading this book today.
+## Слово об отказанном Морра
 
-## A word on the Morra Declined
+Хотя черные могут вести борьбу в позициях, которые считаются гораздо более сухими, чем принятая Морра, просто отказываясь от «лишней» пешки на третьем ходу, я обязательно буду рекомендовать варианты, которые являются разумными, но, когда это возможно, соответствуют стилю хаоса Морра. Таким образом, сицилийскому интригану действительно негде будет спрятаться. Предлагаю несколько вариантов:
 
-Although Black can steer the struggle into positions considered far drier than the Morra Accepted by simply declining the "free" pawn on move three, I will make sure to recommend variations that are sound, but consistent with the Morra mayhem style whenever possible. This way, there will be truly nowhere for the Sicilian schemer to hide. I offer a few teasers:
-
-## Morra Declined - 3...Qa5
+## Отказанный Морра – 3...Qa5
 
 **1.e4 c5 2.d4 cxd4 3.c3 Qa5**
 
 
-In this rare Declined line, Black's queen aspires to cramp White's style. However, after the virtually untested 4.i.d2!, the gambiteer laughs his way to a Morra accepted, but with a bishop on d2 and queen on a5, and we know who that favors!
+В этом редком варианте отказанного черный ферзь стремится стеснить стиль белых. Однако после практически непроверенного 4.Bd2!, гамбитер смеется и получает Морра, но со слоном на d2 и ферзем на а5, и мы знаем, кому это благоприятствует!
 
-## Morra Declined - 3...Nf6
+## Отказанный Морра - 3...Nf6
 
 **1.e4 c5 2.d4 cxd4 3.c3 Nf6 4.e5 Nd5**
 
-And we arrive at the Alapin variation of the Sicilian by transposition. The declining schemer will seek stodgy, sterile positions, whereas we shall strive for chaos
+И мы приходим к алапинскому варианту сицилианки путем перестановки. Угасающий интриган будет искать застывшие, стерильные позиции, в то время как мы будем стремиться к хаосу
 
 **5.Nf3 Nc6 6.Bc4! Nb6 7.Bb3**
 
-And the gambiteer unveils the Alapin's version of the Morra Gambit. The schemer still desperately clings to the role of the spoiler.
+И гамбитёр представляет версию алапинского гамбита Морры. Интриган по-прежнему отчаянно цепляется за роль спойлера.
 
 **7...d5 8.exd6 Qxd6 9.O-O Be6 10.Na3!?**
 
-Run as he may, Black has no choice but to face his worst fears. He will be attacked, but will he be ready?
+Как бы он ни бежал, у черных нет другого выбора, кроме как встретиться лицом к лицу со своими худшими страхами. На него нападут, но будет ли он готов?
 
-Of course, even if a position ever becomes "dry", you must be prepared to grind away. Most positions that amateurs may consider "boring" are actually full of life. You'd be surprised by the dangers lurking in even the simplest positions.
+Конечно, даже если позиция становится "сухой", вы должны быть готовы к тому, что придется потрудиться. Большинство позиций, которые любители могут считать "скучными", на самом деле полны жизни. Вы удивитесь, узнав, какие опасности таятся даже в самых простых позициях.
