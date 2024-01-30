@@ -1,6 +1,6 @@
 # morra-esserman
 
-## Глава 1. Сибирская глушь
+## Глава 1. Сибирская глушь 31
 
 **1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 Nc6 5.Nf3 e6 6.Bc4**
 
@@ -34,13 +34,13 @@
 
 9...d5 10.Bb3!=∞ 52
 
-9 ...f6 52
+9...f6 52
 
 10.Nd5!?=∞ 54
 
 10.Nb5!?=∞ 54
 
-## Глава 2. Схевенингены
+## Глава 2. Схевенингены 57
 
 **1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 Nc6 5.Nf3 d6 6.Bc4 e6 7.O-O Be7 8.Qe2 Nf6 9.Rd1**
 
@@ -66,13 +66,15 @@
 
 11...Bd7 12.a3=∞ 68
 
-## Глава 3. Схевенингены II
+## Глава 3. Схевенингены II 77
+
+**1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 Nc6 5.Nf3 d6 6.Bc4 e6 7.O-O**
 
 7...Be7 8.Qe2 a6 9.Rd1 Qc7 10.Bf4! Ne5?! 11.Bxe5! dxe5 12.Rac1± 83
 
 7...Nf6 8.Qe2 a6 9.Rd1 Qc7 10.Bf4! 85
 
-10...Ne5?! 11.Bb5t!± 78, 85
+10...Ne5?! 11.Bb5+!± 78, 85
 
 10...Be7 79
 
@@ -90,7 +92,7 @@
 
 14.Be3!? dxe5 15.Bb6!∞ 94
 
-## Глава 4. В глубину
+## Глава 4. В глубину 97
 
 **1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 a6 5.Nf3 e6 6.Bc4 b5 7.Bb3 Bb7 8.O-O!**
 
@@ -126,7 +128,7 @@
 
 12.Nd4!?−+ 317
 
-## Глава 5. Король в городе ветров – Чикагская защита
+## Глава 5. Король в городе ветров – Чикагская защита 121
 
 **1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 e6 5.Nf3 a6 6.Bc4**
 
@@ -140,7 +142,7 @@
 
 11...Nf6 12.Nxb5!→ 134
 
-## Глава 6. Убийство дракона
+## Глава 6. Убийство дракона 139
 
 **1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3**
 
@@ -156,7 +158,7 @@
 
 10...Kg7 11.Qxe5+ Nf6 12.O-O d6 13.Qe2!⩲ 151, 320
 
-## Глава 7. Выбор профессионала – Nge7
+## Глава 7. Выбор профессионала – Nge7 155
 
 **1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 Nc6 5.Nf3 e6 6.Bc4**
 
@@ -192,7 +194,7 @@
 
 10...Bb7 11.Re1! Na5 12.Ne5! Nxb3 13.Bb6!→ 180
 
-## Глава 8. Ранний выход слона – Nge7 перезагрузка?
+## Глава 8. Ранний выход слона – Nge7 перезагрузка? 183
 
 **1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 e6 5.Nf3**
 
@@ -220,7 +222,7 @@
 
 8.Nd5!!→ 199
 
-## Глава 9. Храм судьбы Тейлора
+## Глава 9. Храм судьбы Тейлора 203
 
 **1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 Nc6 5.Nf3 d6 6.Bc4**
 
@@ -248,7 +250,7 @@
 
 10...Bxf3 11.gxf3 g6 12.Qb3!± 210
 
-10...e6! 11..Bf4 Be7!⩱ 328
+10...e6! 11.Bf4 Be7!⩱ 328
 
 8...e6!⩱
 
@@ -276,7 +278,7 @@
 
 10.Qb3!?→ 215, 229
 
-## Глава 10. Последний рубеж Финеголда
+## Глава 10. Последний рубеж Финеголда 233
 
 **1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 e6 5.Nf3 d6 6.Bc4 a6 7.O-O Be7 8.Qe2 Nf6 9.Rd1**
 
@@ -296,7 +298,7 @@
 
 9...Nbd7!? 10.e5! dxe5 11.Nxe5 O-O 12.Bf4!=∞ 240
 
-## Глава 11. В поисках опровержения по звездам
+## Глава 11. В поисках опровержения по звездам 245
 
 **1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 d6 5.Nf3 e6 6.Bc4 a6 7.O-O Nf6 8.Qe2 Nbd7**
 
@@ -308,7 +310,7 @@
 
 9.Nd4!? b5 10.Bb3 Nc5 11.Bd5!!→ 250
 
-## Глава 12.  Отказанный Морра – Попурри
+## Глава 12.  Отказанный Морра – Попурри 253
 
 **l.e4 c5 2.d4**
 
@@ -340,7 +342,7 @@
 
 3...d5!? 4.exd5 263
 
-4...Nf6?! 5.Bb5t!± 263, 330
+4...Nf6?! 5.Bb5+!± 263, 330
 
 4...Qxd5 5.cxd4 264
 
@@ -356,11 +358,11 @@
 
 10...Nc2+ 11.Kd1 Nxa1 12.Nc7+ Kd8 13.Nxa8⩲ 269
 
-## Глава 13. Отказанный Морра – Разгром 3...d3 с помощью Морра-Мароци: давить, давить, уничтожить!
+## Глава 13. Отказанный Морра – Разгром 3...d3 с помощью Морра-Мароци: давить, давить, уничтожить! 271
 
 **l.e4 c5 2.d4 cxd4 3.c3 d3 4.Bxd3**
 
-4...d5? Bb5+± 272
+4...d5? 5.Bb5+± 272
 
 4...d6 5.c4! Nc6 6.h3! g6 7.Nf3 Bg7 274
 
@@ -368,7 +370,7 @@
 
 8.O-O! Nf6 9.Nc3 O-O 10.Be3⩲ 280
 
-## Глава 14. Отказанный Морра – Вредное 3...Nf6
+## Глава 14. Отказанный Морра – Вредное 3...Nf6 283
 
 **l.e4 c5 2.d4 cxd4 3.c3 Nf6 4.e5 Nd5**
 
@@ -402,7 +404,7 @@
 
 7...Bd7 8.Bd3 Bc6 9.O-O Nd7 292
 
-10.b4!? a6 11.Re1 Rc8!? 12.Ng5!?00 295
+10.b4!? a6 11.Re1 Rc8!? 12.Ng5!?∞ 295
 
 10.Re1!? Rc8!? 11.Bd2!?⩲
 
@@ -433,6 +435,8 @@
 **1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3**
 
 ## Chapter 1: The Qc7 System – 22
+
+(morra-langrock)
 
 **4...Nc6 5.Nf3 e6 6.Bc4 d6 7.O-O a6 8.Qe2 Nf6**
 
@@ -484,6 +488,8 @@
 
 ## Chapter 2: The Bd7 system – 47
 
+(morra-langrock)
+
 **4...Nc6 5.Nf3 d6 6.Bc4 e6 7.O-O a6**
 
 7...Be7 8.Qe2 Bd7 9.Rd1 Qb8 *49*
@@ -499,6 +505,8 @@
 **9.Rd1 Bd7!?** *60*
 
 ## Chapter 3: An Early d6 and Nf6 – 64
+
+(morra-langrock)
 
 **4... Nc6**
 
@@ -524,6 +532,8 @@
 
 ## Chapter 4: The Classical Main Line – 77
 
+(morra-langrock)
+
 **4...Nc6 5.Nf3 e6 6.Bc4 d6 7.O-O Nf6 8.Qe2 Be7 9.Rd1 e5**
 
 **10.Be3 O-O**
@@ -543,6 +553,8 @@
 **12.b4!?** *86*
 
 ## Chapter 5: The Nge7 System – 89
+
+(morra-langrock)
 
 **4...e6 5.Nf3 Nc6**
 
@@ -616,6 +628,8 @@
 
 ## Chapter 6: The Early Development of Black’s Dark-Square Bishop – 131
 
+(morra-langrock)
+
 **4...e6 5.Nf3 Nc6**
 
 5...Bc5 6.Bc4 Ne7
@@ -644,6 +658,8 @@
 
 ## Chapter 7: The Fianchetto Variation – 153
 
+(morra-langrock)
+
 **4...Nc6 5.Nf3 g6 6.Bc4**
 
 6.h4?! 166
@@ -663,6 +679,8 @@
 7...Nh6 *163*
 
 ## Chapter 8: The Siberian Variation – 169
+
+(morra-langrock)
 
 **4...Nc6 5.Nf3 e6 6.Bc4 Qc7 7.O-O**
 
@@ -698,6 +716,8 @@
 
 ## Chapter 9: The Chicago Defense – 193
 
+(morra-langrock)
+
 **4...e6 5.Nf3 d6 6.Bc4 a6 7.O-O b5 8.Bb3 Nc6**
 
 8...Ra7?! *195*
@@ -721,6 +741,8 @@
 11...Na5!? *212*
 
 ## Chapter 10: Tartakower System – 215
+
+(morra-langrock)
 
 **4...e6**
 
@@ -750,6 +772,8 @@
 
 ## Chapter 11: The Taylor System – 236
 
+(morra-langrock)
+
 **4...Nc6 5.Nf3 d6 6.Bc4 a6 7.O-O**
 
 7.Bg5?! *237*
@@ -767,6 +791,8 @@
 9.Qb3?! *240*
 
 ## Chapter 12: Sidelines – 247
+
+(morra-langrock)
 
 **4...Nc6**
 
@@ -806,6 +832,8 @@
 
 ## The Morra Gambit Declined (Introduction) – 282
 
+(morra-langrock)
+
 **1.e4 c5 2.d4 cxd4**
 
 2...g6 *282*
@@ -823,6 +851,8 @@
 3...Nc6 *284*
 
 ## Chapter 13: Black Declines the Gambit with 3...d3 – 286
+
+(morra-langrock)
 
 **3...d3 4.Bxd3 Nc6**
 
@@ -854,6 +884,8 @@
 
 ## Chapter 14: Black Declines the Gainhit with 3...e5 – 300
 
+(morra-langrock)
+
 **3...e5 4.Nf3 Nc6 5.Bc4**
 
 5.cxd4 exd4
@@ -872,6 +904,8 @@
 
 ## Chapter 15: The Delayed Morra Gambit – 310
 
+(morra-langrock)
+
 **1.e4 c5 2.Nf3 d6**
 
 2...Others *310*
@@ -882,9 +916,13 @@
 
 ## Chapter 1. 3.Qxd4?! and other alternatives 10
 
+(morra-palkovi)
+
 1.e4 c5 2.d4 (2...cxd4 3.Qxd4?!)
 
 ## Chapter 2. The 3.Nf3!? Variation 16
+
+(morra-palkovi)
 
 1.e4 c5 2.d4 cxd4 3.Nf3!?
 
@@ -897,6 +935,8 @@
 4...dxc3 (5.Nxc3) 25
 
 ## Chapter 3. Black refuses the Morra-Gambit 30
+
+(morra-palkovi)
 
 1.e4 c5 2.d4 cxd4 3.c3 (3...d3) 32<level start="3...d3" value="-1"/>
 
@@ -922,9 +962,13 @@
 
 ## Chapter 4. The move 4.Nf3?! 60
 
+(morra-palkovi)
+
 1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nf3?! (4.Bc4) 60
 
 ## Chapter 5. Variations without Nc66 64
+
+(morra-palkovi)
 
 1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3
 
@@ -941,6 +985,8 @@
 9...Nd7 81
 
 ## Chapter 6. The Chicago Defence 84
+
+(morra-palkovi)
 
 1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 e6
 
@@ -960,6 +1006,8 @@
 
 ## Chapter 7. Rare Variations 102
 
+(morra-palkovi)
+
 1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 Nc6
 
 5.Bc4 (Nge2) 103
@@ -967,6 +1015,8 @@
 5.Nf3 d6 6.Bc4 e6 Bf4?! 104
 
 ## Chapter 8. The Fianchetto Variation 108
+
+(morra-palkovi)
 
 1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nc3 Nc6 5.Nf3 g6?! 6.Bc4
 
@@ -987,6 +1037,8 @@
 7...Qa5? (8.O-O Nxe5) 127
 
 ## Chapter 9. Black builds up with d6 and Nf6 133
+
+(morra-palkovi)
 
 1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 Nc6 5.Nf3 d6 6.Bc4
 
@@ -1009,6 +1061,8 @@
 7.Bg5!? (7...Nf6 8.Bxf6!?) 152<level start="7...Nf6" value="-1"/>
 
 ## Chapter 10. Black plays N(g)e7 155
+
+(morra-palkovi)
 
 1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3
 
@@ -1038,6 +1092,8 @@
 
 ## Chapter 11. The variations with an early development of the f8 bishop 190
 
+(morra-palkovi)
+
 1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 e6
 
 5.Nf3 Nc6 6.Bc4 193
@@ -1062,6 +1118,8 @@
 
 ## Chapter 12. The Siberian Variation 213
 
+(morra-palkovi)
+
 1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 Nc6 5.Nf3 e6 6.Bc4 Nf6
 
 7.O-O Qc7 (8.Nb5!?) 215
@@ -1077,6 +1135,8 @@
 8.e5! (8...Ng4 9.Bf4) 225<level start="8...Ng4" value="-1"/>
 
 ## Chapter 13. The Systems with Bd7 231
+
+(morra-palkovi)
 
 1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 Nc6 5.Nf3 d6 6.Bc4 e6 7.O-O
 
@@ -1096,6 +1156,8 @@
 
 ## Chapter 14. Black plays Qa5 251
 
+(morra-palkovi)
+
 1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 Nc6 5.Nf3 d6 6.Bc4 e6 7.O-O
 
 7...Be7 8.Qe2 a6 9.Rd1 Qa5?! 251
@@ -1103,6 +1165,8 @@
 7...Nf6 8.Qe2 a6 9.Rd1 Qa5? 254
 
 ## Chapter 15 The Systems with Qc7 260
+
+(morra-palkovi)
 
 1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 Nc6 5.Nf3 d6 6.Bc4 e6 7.O-O
 
@@ -1137,6 +1201,8 @@
 8...Be7 9.Rd1 (Qc7) 298
 
 ## Chapter 16. Classical Mainline 303
+
+(morra-palkovi)
 
 1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 Nc6 5.Nf3 d6
 
