@@ -890,302 +890,288 @@ Nordhausen 1986
 
 **1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 d6 5.Bc4 Nc6 6.Nf3 e6 7.O-O Be7 8.Qe2 Nf6 9.Rd1 Qc7**
 
-The safest set-up for Black is to be cautious in the deployment of his pieces.
+Самая безопасная расстановка для черных — осторожность в расстановке фигур.
 
 **10.Bf4 a6**
 
-Black has to keep White’s knight out of b5. This move also creates the preconditions for a queenside expansion with ...b5 in the near future.
+Черным необходимо не допустить белого коня на b5. Этот ход также создает предпосылки для расширения ферзевого фланга ходом ...b5 в ближайшем будущем.
 
-As ever, Black must be extremely careful to avoid instant disaster. For example: 10...Ne5? Trying to block the bishop’s diagonal and shield d6. 11.Bb5+ Clearing the c-file for the rook to menace the enemy queen. 11...Bd7 12.Rac1 O-O 13.Bxe5 White forces open the d-file with this exchange. Now, White’s rooks will radiate their full power down the c- and d-files. 13...dxe5 14.Nd5 The discovered attack is decisive. 14...Bxb5 (also losing is 14...Qd8 15.Nxf6+ Bxf6 16.Rxd7) 15.Qxb5 Qd8 16.Nxf6++− With yet another discovered attack on Black’s queen.
+Как всегда, черным следует быть предельно осторожными, чтобы избежать мгновенной катастрофы. Например: 10...Ne5? пытаясь заблокировать диагональ слона и прикрыть d6. 11.Bb5+ расчищая линию "c" для ладьи, угрожающей вражескому ферзю. 11...Bd7 12.Rac1 O-O 13.Bxe5 этим разменом белые вынуждают открыть линию "d". Теперь ладьи белых распространят всю свою мощь по линиям "c" и "d". 13...dxe5 14.Nd5 вскрытое нападение является решающим. 14...Bxb5 (проигрышно также 14...Qd8 15.Nxf6+ Bxf6 16.Rxd7) 15.Qxb5 Qd8 16.Nxf6++− с еще одной вскрытой атакой на черного ферзя.
 
 **11.Rac1**
 
-Finally, White has brought all his pieces into the game.
+Наконец, белые ввели в игру все свои фигуры.
 
 **11...Ne5?**
 
-Moving the knight again is pointless, and merely helps White to clear the c-file for yet another devastating discovered attack.
+Повторное перемещение коня бессмысленно и лишь помогает белым освободить линию "c" для еще одного разрушительного вскрытого нападения.
 
-**12.Bxe5 dxe5**
+**12.Bxe5 dxe5 13.Nb5!**
 
-abedef gh
-
-**13.Nb5!**
-
-A nice tactical shot, exploiting the enemy queens location on the same file as the cl-rook.
+Хороший тактический удар, использующий расположение ферзей противника на той же линии, что и ладья с1.
 
 **13...Qb8**
 
-13...axb5 14.Bxb5+ is a winning discovered attack on Blacks queen.
+13...axb5 14.Bxb5+ – выигрывающая вскрытая атака на ферзя черных.
 
 **14.Nc7+! Kf8**
 
-The knight is immune because of the discovered attack: 14...Qxc7 15.Bb5+
+Конь неуязвим из-за вскрытого нападения: 14...Qxc7 15.Bb5+
 
-**15.Nxa8 Qxa8 16.Nxe5** Black soon resigned.
+**15.Nxa8 Qxa8 16.Nxe5** черные скоро сдадутся.
 
-**What we have learned:**
+**Что мы узнали:**
 
-- Rooks can wreck havoc down the open c- and d-files in the Morra Gambit.
+- В гамбите Морра ладьи могут навести хаос на открытых линиях "c" и "d".
 
-**Game 97**
+**Партия 97**
 
-**B-Alterman - Sac**
+**B-Alterman – Sac**
 
 Internet Chess Club 2006
 
-**1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 Nc6 5.Bc4 a6 6.Nf3 e6 7.O-O d6 8.Qe2 Nf6 9.Rd1 Qc7**
+**1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 Nc6 5.Bc4 a6 6.Nf3 e6 7.O-O d6 8.Qe2 Nf6 9.Rd1 Qc7 10.Bf4 Be7 11.Rac1**
 
-**10.Bf4 Be7 11.Rac1**
-
-Via a different move-order, the same position as after White's 11th move in the previous game is reached.
+При другом порядке ходов достигается та же позиция, что и после 11-го хода белых в предыдущей партии.
 
 **11...Qb8?!**
 
-Premature prophylaxis. Understandably, the queen does not feel comfortable standing on the same file as the enemy rook, especially since the pieces standing in-between could easily be removed (recall the various discovered attacks from the previous game). However, Black spends a valuable tempo for this, and his king remains in the center for one more move. Correct was 11...O-O - see the Theory section for more detail.
+Преждевременная профилактика. Понятно, что ферзю некомфортно стоять на одной вертикали с вражеской ладьей, тем более что фигуры, стоящие между ними, могут быть легко убраны (вспомним различные обнаруженные атаки из предыдущей партии). Однако черные тратят на это ценный темп, а их король остается в центре еще на один ход. Правильным было 11...O-O.
 
 **12.h3**
 
-White is fully mobilized and plans to play e4-e5, but first he spends a move to secure a home for his bishop on h2 in the event of ...Nh5.
+Белые полностью мобилизованы и планируют сыграть e4-e5, но сначала они тратят ход, чтобы обеспечить приют слону на h2 в случае ...Nh5.
 
 **12...O-O 13.e5!**
 
-Naturally, White opens up the position to exploit his lead in development.
+Естественно, белые открывают позицию, чтобы использовать свой перевес в развитии.
 
 **13...dxe5 14.Nxe5 Nxe5**
 
-Obviously bad is 14...Bd6? 15.Nxc6 Qc7 16.Bxd6 Qxc6 17.Bxf8 Kxf8 18.Rd8+.
+Очевидно, что плохо 14...Bd6? 15.Nxc6 Qc7 16.Bxd6 Qxc6 17.Bxf8 Kxf8 18.Rd8+.
 
 **15.Bxe5 Qa7 16.Ne4!**
 
-Whites remaining pieces are taking aim at Black’s kingside, and so he launches an attack there. The first step is to thin out the line of defenders through exchanges.
+Оставшиеся фигуры белых нацелены на королевский фланг черных, и они начинают атаку там. Первый шаг – прореживание линии защитников за счет разменов.
 
 **16...b5?**
 
-The text move allows White to crash straight through, so Black should instead have tried: 16...Nxe4 17.Qxe4
+Следующий ход позволяет белым пробиться напролом, поэтому черным следовало попробовать: 16...Nxe4 17.Qxe4
 
-The exchanges have improved the placing and scope of White’s pieces, while Black’s queenside is still undeveloped and his kingside has too few defenders.
+Размены улучшили расположение и масштабы фигур белых, в то время как ферзевый фланг черных все еще не развит, а на королевском фланге слишком мало защитников.
 
 17...b5 18.Bd3
 
-Funnily enough the computer points out that 18.Bb3! instead leads to an immediate win:
-
-18...Bb7 19.Qg4 g6 20.Rd7+−
+Как ни странно, компьютер указывает, что 18.Bb3! вместо этого приводит к немедленному выигрышу: 18...Bb7 19.Qg4 g6 20.Rd7+−<level/>
 
 18...f5 19.Qf4
 
-White has a strong initiative.
+У белых сильная инициатива.
 
 **17.Nxf6+**
 
-White forces a fatal weakening of Black’s kingside defenses.
+Белые вынуждают черных фатально ослабить оборону королевского фланга.
 
 **17...Bxf6**
 
-If instead 17...gxf6, then the game would follow a similar path after the accurate 18.Qg4+! Kh8 19.Bd4! Qb7 20.Qh4+− bxc4 21.Bxf6+ Bxf6 22Qxf6+.
+Если вместо этого 17...gxf6, то игра пойдет по аналогичному пути после точного 18.Qg4+! Kh8 19.Bd4! Qb7 20.Qh4+− bxc4 21.Bxf6+ Bxf6 22Qxf6+.
 
 **18.Bxf6 gxf6 19.Qg4+ Kh8**
 
-Now White should have concluded matters with:
+Теперь белым следует завершить дело ходом:
 
 **20.Qh4!**
 
-When it is not clear how Black can prevent checkmate.
+Тогда неясно, как черные могут предотвратить мат.
 
 **20...bxc4**
 
-If 20...Qe7 21.Bd3 and there is no way of stopping mate other than 21...f5 22.Qxe7 which loses the queen, while 20...Kg7 is met with the brutal rook lift 21.Rc3.
+Если 20...Qe7 21.Bd3, и нет никакой возможности предотвратить мат, кроме 21...f5 22.Qxe7, при котором теряется ферзь, а на 20...Kg7 приходится отвечать жестоким лифтом ладьи 21.Rc3.
 
 **21.Qxf6+ Kg8 22.Rc3**
 
-Black has to resign.
+Черные вынуждены сдаться.
 
-**What we have learned:**
+**Что мы узнали:**
 
-- The move e4-e5 is an integral part of the Morra Gambit, opening up lines for White’s better developed pieces.
+- Ход e4-e5 – неотъемлемая часть гамбита Морра, открывающая линии для более развитых фигур белых.
 
-- Then, after opening up the position, look for ways to exploit your lead in development and better-placed pieces.
+- Затем, вскрыв позицию, ищите способы использовать свое преимущество в развитии и лучшем расположении фигур.
 
-- Always watch out for tactics.
+- Всегда следите за тактикой.
 
-**Game 98**
+**Партия 98**
 
-**B-Alterman — alebio**
+**B-Alterman – alebio**
 
 Internet Chess Club 2005
 
-Having felt the power of the move e4-e5, Black players devised a defensive system aimed at preventing it. This line involves radically changing the pawn structure:
+Почувствовав силу хода е4-е5, черные игроки разработали защитную систему, призванную предотвратить его. Этот вариант предполагает радикальное изменение пешечной структуры:
 
 **1.e4 c5 2.d4 cxd4 3.c3 dxc3**
 
-Most players would not hesitate to take the pawn on offer and force White to prove his compensation, although there are indeed some who prefer not to dabble in gambit waters, and would rather steer the game towards the more commonly-seen channels of the Alapin Sicilian. 3...d3 is one way to decline the gambit, while 3...d5 4.exd5 Qxd5 5.cxd4 or 3...Nf6 4.e5 Nd5 would indeed transpose into the Alapin — a non-gambit line that is not suitable for this book.
+Большинство игроков без колебаний возьмут предложенную пешку и заставят белых доказывать свою компенсацию, хотя есть и те, кто предпочитает не плескаться в гамбитных водах, а направить игру в более распространенное русло алапинской сицилианки. 3...d3 – один из способов отказаться от гамбита, в то время как 3...d5 4.exd5 Qxd5 5.cxd4 или 3...Nf6 4.e5 Nd5 действительно переходят в Алапин – негамбитную линию, которая не подходит для этой книги.
 
 **4.Nxc3 Nc6 5.Bc4 e6 6.Nf3 d6 7.O-O Be7**
 
-Black sometimes plays:
+Черные иногда играют:
 
 7...a6
 
-This is prophylaxis against Nb5, especially since after Qe2 and Rd1 Blacks queen will be going to c7. Black may also opt for an early ...b5.
+Это профилактика против Nb5, тем более что после Qe2 и Rd1 черный ферзь отправится на с7. Черные также могут выбрать раннее ...b5.
 
 8.Qe2 Be7
 
-It is safer to develop the bishop first before the knight, since the e-file is now sheltered against a menacing heavy piece on the opposite side of the board. This is especially important in case White sacrifices on d5, when Black’s king has the additional square on f8 to run to.
+Безопаснее сначала развить слона, а потом коня, так как линия "е" теперь защищена от угрожающей тяжелой фигуры на противоположной стороне доски. Это особенно важно в случае жертвы белых на d5, когда у короля черных есть дополнительное поле на f8, куда можно бежать.
 
-However Black could also play an immediate 8...b5 9.Bb3 and now there is a split:<level/>
+Однако черные могли сыграть и немедленное 8...b5 9.Bb3, и теперь возникает разделение:<level/>
 
-9...Ra7 10.Rd1 Rd7 is a creative rook lift to support the d6-pawn.<level/>
+9...Ra7 10.Rd1 Rd7 – творческий лифт ладьи для поддержки пешки d6.<level/>
 
-9...Bb7 10.Rd1 Qc7, when Black develops his queenside more traditionally.<level/>
+9...Bb7 10.Rd1 Qc7, когда черные развивают ферзевый фланг более традиционно.<level/>
 
 9.Rd1 Qc7 10.Bf4 b5?
 
-This move weakens Black’s queenside too much.
+Этот ход слишком сильно ослабляет ферзевый фланг черных.
 
 11.Bb3 Bb7 12.Rac1 Nf6
 
-And now the typical punch:
+А теперь типичный удар:
 
 13.Nd5!
 
-Black has no good answer, so let’s just see 2 possible lines: 13...Qa5 14.Nxe7 Nxe7 15.Bxd6 with a huge advantage. 13...exd5 14.exd5 O-O 15.dxc6 Bc8 (or 15...Bxc6 16.Nd4) and Black’s position is already hopeless.
+У черных нет хорошего ответа, поэтому представим две возможные линии: 13...Qa5 14.Nxe7 Nxe7 15.Bxd6 с огромным преимуществом. 13...exd5 14.exd5 O-O 15.dxc6 Bc8 (или 15...Bxc6 16.Nd4), и позиция черных уже безнадежна.
 
 **8.Qe2 Nf6 9.Rd1**
 
-In the main variation:
+В основной вариант:
 
 9...Qc7 10.Bf4 a6 11.Rac1 O-O
 
-White could try a fresh idea.
+Белые могут попробовать новую идею.
 
 12.e5!?
 
-After the well known 12.Bb3 (see Black’s Main Set-up) 12...b5? 13.Nd5! White has a clear advantage.<level/>
+После хорошо известного 12.Bb3 (см. основную расстановку черных) 12...b5? 13.Nd5! у белых явный перевес.<level/>
 
-Instead of 12...b5, Black can try 12...Rd8 13.h3 when 13...b5? would also run into 14.Nd5 exd5 15.exd5 Bd7 16.dxc6 Bf5 17.Bc2 Bxc2 18.Qxc2 Rac8 19.Nd4 when White is dominating, Kabanov — Andreeva, Pardubice 2006.<level/>
+Вместо 12...b5 черные могут попробовать 12...Rd8 13.h3, когда 13...b5? также столкнутся с 14.Nd5 exd5 15.exd5 Bd7 16.dxc6 Bf5 17.Bc2 Bxc2 18.Qxc2 Rac8 19.Nd4, когда белые доминируют, Kabanov — Andreeva, Pardubice 2006.<level/>
 
 12...dxe5
 
-After 12...Nh5 13.exd6 Nxf4 14.dxc7 Nxe2+ 15.Bxe2 Bb4 16.Nd4 Ba5 17.Nxc6 bxc6 18.Na4! Black has to work for a draw.<level/>
+После 12...Nh5 13.exd6 Nxf4 14.dxc7 Nxe2+ 15.Bxe2 Bb4 16.Nd4 Ba5 17.Nxc6 bxc6 18.Na4! черные вынуждены добиваться ничьей.<level/>
 
 13.Nxe5 Nxe5 14.Bxe5 Qa5 15.Bb3 b5 16.Ne4!
 
-White still has an unpleasant initiative and controls the key open files and diagonals.
+Белые по-прежнему владеют неприятной инициативой и контролируют ключевые открытые линии и диагонали.
 
 **9...e5!?**
 
-abcdef gh
-
-A pawn move that accepts great responsibilities; Black prevents forever the threat of e4-e5, but fixes the central pawn structure. Now both sides will be fighting for the d5-square, with White trying to occupy it while Black is trying to liberate his position with the push ...d6-d5.
+Ход пешкой, который берет на себя большую ответственность; черные навсегда предотвращают угрозу е4-е5, но фиксируют центральную пешечную структуру. Теперь обе стороны будут бороться за поле d5: белые пытаются занять его, а черные – освободить позицию с помощью натиска ...d6-d5.
 
 **10.h3**
 
-If White wishes to fight for the d5-square by developing his bishop to g5 then 10.h3 is necessary to prevent a pin with ...Bg4.
+Если белые желают бороться за поле d5, развивая своего слона на g5, то необходимо 10.h3, чтобы предотвратить связку ...Bg4.
 
-If White wishes to do without h2-h3 then he has to develop his dark-squared bishop to e3 —
-
-10.Be3 - to take control of the d4-square. This is important since if his bishop is on g5 White cannot meet ...Bg4 with h2-h3 due to ...Nd4!. Thus, having the bishop on e3 would relieve White of the necessity of an exchange sacrifice on d4 should Black try a similar line.
+Если белые хотят обойтись без h2-h3, то им придется развивать своего чернопольного слона на e3 – 10.Be3 – чтобы взять под контроль поле d4. Это важно, поскольку, если слон находится на g5, белые не могут встретить ...Bg4 ходом h2-h3 из-за ...Nd4!. Таким образом, наличие слона на e3 избавило бы белых от необходимости жертвы качества на d4, если бы черные попробовали аналогичный вариант.
 
 **10...O-O 11.Bg5**
 
-A classical deployment of forces in the fight for the d5-square in the Sicilian.
+Классическая расстановка сил в борьбе за поле d5 в сицилианской.
 
 **11...Be6 12.Bxf6**
 
-A defender of d5 is exchanged...
+Защитник d5 разменен...
 
 **12...Bxf6**
 
-12...Bxc4? allows White to intensify his initiative. 13.Qxc4 Bxf6 14.Rd3 Rc8 15.Qb5 The queen targets the weakness on b7. 15...Qd7 16.Rad1! By exploiting the pin along the d-file, White easily regains his pawn.
+12...Bxc4? позволяет белым усилить инициативу. 13.Qxc4 Bxf6 14.Rd3 Rc8 15.Qb5 Ферзь нацелен на слабость поля b7. 15...Qd7 16.Rad1! Используя связку по вертикали "d", белые легко возвращают пешку.
 
 **13.Nd5 Bxd5**
 
-And another black defender of d5 disappears — the knight was too powerful!
+И исчезает еще один черный защитник d5 – слишком силен был конь!
 
 **14.Bxd5**
 
-abcdefgh
-
-White is edging ever closer to his dream of having one of his minor pieces planted on d5 against the sickly enemy dark-squared bishop. Having his knight there would give rise to the well-known good knight versus bad bishop situation, while with a bishop on d5 the opposite-colored bishop position would be clearly in White’s favor as he has the more active and attacking bishop. In either case, White would not mind being short of a pawn, since the domination of his pieces would more than compensate for his material deficit.
+Белые все ближе приближаются к своей мечте о том, чтобы поставить одну из своих легких фигур на d5 против плохого вражеского чернопольного слона. Наличие там коня привело бы к хорошо известной ситуации «хороший конь против плохого слона», в то время как со слоном на d5 позиция слона противоположного цвета была бы явно в пользу белых, поскольку у них есть более активный и атакующий слон. В любом случае белые были бы не против отсутствия пешки, поскольку доминирование их фигур с лихвой компенсировало бы их материальный дефицит.
 
 **14...Qb6 15.Rd3**
 
-A multi-purpose move, aiming both to exploit the 3rd rank for active operations and to double rooks, targeting the weak d6-pawn.
+Многоцелевой ход, направленный как на использование 3-го ряда для активных действий, так и на сдвоение ладей, нацеленное на слабую пешку d6.
 
 **15...a6 16.Rad1 Be7 17.Rb3 Qc7 18.Rc3**
 
-Through several intelligent maneuvers, White repositioned his rook on a better square while causing his opponent to become less active.
+С помощью нескольких умных маневров белые переместили свою ладью на лучшее поле, в результате чего противник стал менее активным.
 
 **18...Rfc8 19.Rdc1 Qd7 20.a3**
 
-White is trying to restrict the mobility of the enemy’s best piece, his knight.
+Белые пытаются ограничить подвижность лучшей фигуры противника – его коня.
 
 **20...Nd4**
 
-Black seeks to relieve the pressure through exchanges.
+Черные стремятся ослабить давление посредством разменов.
 
 **21.Nxd4 exd4 22.Rc4**
 
-The aforementioned opposite-colored bishop scenario has materialized.
+Вышеупомянутый сценарий с разноцветными слонами материализовался.
 
 **22...Bf6 23.b4**
 
-In accordance with the rule: put your pawns on squares of the opposite color to your bishop.
+По правилу: ставьте пешки на поля противоположные цвету своего слона.
 
 **23...Rxc4?! 24.Qxc4**
 
 
-Now White dominates the only open file on the board.
+Теперь белые доминируют на единственной открытой линии на доске.
 
 **24...g6 25.Kf1**
 
-25.Qc7! was more direct.
+25.Qc7! было более прямым.
 
 **25...Rd8 26.Ke2 Kg7 27.Kd3 Qa4 28.Qb3 Qxb3+?**
 
-The opposite-colored bishop endgame is clearly in White’s favor, since he has the more active pieces.
+Окончание с разноцветными слонами явно в пользу белых, поскольку у них более активные фигуры.
 
 **29.Bxb3 Rd7 30.Bd5**
 
-The bishop attacks both the kingside and queenside.
+Слон атакует как королевский, так и ферзевый фланг.
 
 **30...Be5 31.a4! Bf6 32.a5!**
 
-White’s pawns improve their position, while fixing the weaknesses of Black’s queenside pawns.
+Пешки белых улучшают свое положение, фиксируя слабости пешек ферзевого фланга черных.
 
 **32...h5 33.Rc8**
 
-The time for the decisive invasion has arrived.
+Время решающего вторжения пришло.
 
 **33...h4**
 
-Black fixes the kingside pawns, but this is of no concern to White.
+Черные фиксируют пешки королевского фланга, но белых это не волнует.
 
 **34.Rb8**
 
-The enemy pawns start falling like ripe fruit.
+Вражеские пешки начинают падать, как спелые фрукты.
 
 **34...Rc7 35.Rxb7 Rc3+ 36.Ke2 d3+ 37.Kd2 Rc2+ 38.Kxd3 Rxf2 39.Rxf7+**
 
-Black is busted on the kingside as well.
+Черные разбиты и на королевском фланге.
 
 **39...Kh6 40.b5!**
 
 
-Passed pawns must be pushed!
+Проходные пешки надо толкать!
 
 **40...axb5 41.a6 1-0**
 
-**What we have learned:**
+**Что мы узнали:**
 
-- First, the exchange of White’s dark-squared bishop for Black’s f6-knight, then the removal of Black’s light-squared bishop — these are key techniques in the fight for the d5-square in the Sicilian.
+- Сначала размен чернопольного слона белых на коня f6 черных, затем устранение белопольного слона черных – вот ключевые приемы в борьбе за поле d5 в сицилианской.
 
-- Positions with opposite-color bishops favor the side whose bishop is more active.
+- Позиции со слонами разного цвета благоприятствуют стороне, чей слон более активен.
 
-- Place your pawns on the opposite-colored square to your bishop.
+- Ставьте пешки на поля противоположного цвета своему слону.
 
-- Passed pawns must be pushed!
+- Проходные пешки надо толкать!
 
-**Summary:**
+**Краткое содержание:**
 
-The Morra Gambit combines many tactical ideas (such as a sacrifice on f7, the e4-e5 break, the Nc3-d5 sacrifice) with many positional ideas (such as strong control over the center, a space advantage, attacking via open files, domination, and so on). Sometimes White has no immediate threats, but instead has long-term positional pressure. There is no need to try to force a quick combination; White should instead follow the main principles of opening play - fast development, control over the center — and a tactical combination will materialize by itself!
+Гамбит Морры сочетает в себе множество тактических идей (таких как жертва на f7, прорыв e4-e5, жертва Nc3-d5) со многими позиционными идеями (такими как сильный контроль над центром, преимущество в пространстве, атака по открытым линиям, доминирование, и так далее). Иногда у белых нет непосредственных угроз, а есть долгосрочное позиционное давление. Нет необходимости пытаться форсировать быструю комбинацию; Вместо этого белым следует следовать основным принципам дебютной игры – быстрое развитие, контроль над центром – и тактическая комбинация материализуется сама собой!
