@@ -247,7 +247,8 @@
     });
     
     $(".find-ok").click(function() {
-        var html = "Результаты: " + $(".move[fen^='" + $(".find-fen").val() + "']").toArray()
+        var fen = $(".find-fen").val().split(" ")[0];
+        var html = "Результаты: " + $(".move[fen^='" + fen + "']").toArray()
             .map((x,i) => "<span class='find-id' fid='" + $(x).attr("id") + "'>" + (i + 1) + "</span>").join(" ");
         $(".find-result").html(html);
         $(".find-dialog").removeClass("visible");
