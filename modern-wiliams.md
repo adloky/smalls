@@ -2232,7 +2232,7 @@ but now 11.b5 Qc5 actually isn't so clear. However, White has a huge advantage i
 
 **11.Be5**
 
-This contests the key diagonal and leaves Black without a good way to meet 12.b5 Qc5 13.Be3.<add start="12.b5" value="11.XX XX"/>
+This contests the key diagonal and leaves Black without a good way to meet 12.b5 Qc5 13.Be3.<add start="12.b5" value="11.-- --"/>
 
 ### (160) Modern B3: 3...c5 - B3: 3...c5 #6 
 
