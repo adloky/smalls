@@ -24,7 +24,9 @@ The French Classical is acquired after Black applies extra pressure to the white
 
 ### (4)Why Play the French?   --   ? ? ????   \* (Cyrus Lakdawala)
 
-If the human race is the by-product of Darwinian selection, where only the fittest of the species survive, then why is it that on the chess board - a Darwinian dystopia if there ever was one, defensive players win just as often or more than belligerent attackers? My theory is that defensive players - and we French players perfectly fit this category, are better suited to survive than our aggressively inclined counterparts, who have a nasty way of gambling away their lives by chasing some folly. Children want a 100% share and tend to pick fights with other children over trivial matters. As adults, having grown wiser (and perhaps also more devious!), we learn to pick our fights. Sometimes our self-interest lies in the surrender of a minor skirmish, in order to later win the war. The Classical French embraces this philosophy. From the start, we cede White space and by default, attacking chances, all in order to counterattack later. --- Some players stick to one opening scheme their entire chess lives, meeting 1.e4
+If the human race is the by-product of Darwinian selection, where only the fittest of the species survive, then why is it that on the chess board - a Darwinian dystopia if there ever was one, defensive players win just as often or more than belligerent attackers? My theory is that defensive players - and we French players perfectly fit this category, are better suited to survive than our aggressively inclined counterparts, who have a nasty way of gambling away their lives by chasing some folly. Children want a 100% share and tend to pick fights with other children over trivial matters. As adults, having grown wiser (and perhaps also more devious!), we learn to pick our fights. Sometimes our self-interest lies in the surrender of a minor skirmish, in order to later win the war. The Classical French embraces this philosophy. From the start, we cede White space and by default, attacking chances, all in order to counterattack later.
+
+Some players stick to one opening scheme their entire chess lives, meeting 1.e4
 
 with Pirc, Modern Defence, Scandinavian, Alekhine's Defence, Caro-Kann, Sicilian, or
 
@@ -34,7 +36,13 @@ I'm the opposite as my ADHD-infected brain tends to amble to anything and everyt
 
 The Dark Square question: Why play Classical over the Winawer?: The Winawer ( 1...e6 2.d4 d5 3.Nc3 Bb4 ) is currently more popular than the Classical. However, if you look at the choice of top GMs, they tend to lean toward the Classical. The reason may be it is slightly more strategically sound than Winawer, since Black retains greater control over the dark squares. Back in the 80's, I asked my friend IM Doug Root why he played Classical French rather than the Winawer. He answered: "I like my dark squares!" In the Winawer - which has always been my main French and Classical my secondary - Black, in the main lines plays ...Bb4 and usually later ... Bxc3+, handing White the bishop pair and control over the dark squares to inflict damage to the structure. In the Classical, we don't get the better structure, but we do hang on to our precious dark-squared bishop - and with it, our dark squares.
 
-Cramped Quarters: In the Classical French, we willingly hand White an early space advantage as soon as e5 is played. This lack of space can be chaffing and it's easy to experience suffocating, submerged feelings, not knowing which direction is up - the place of life-giving air. If we allow the asphyxiation to continue without fighting back with undermining freeing ideas like ...c5 and ...f6, we risk getting squeezed and passing bluely, from this life to the next. It feels as if the yin/yang ratio is askew and we often wish our side could use a little more yang in the formula. But realize this: Our yang is there. It simply arrives late. The nature of the French is to hand White an early (and often temporary) initiative. Ours arrives later, often in the form of withering counterattacks. Those who play French begin to sense something formidable behind the opening's seemingly passive exterior. --- The French is a species of opening which has a nasty habit of upending those who don't know their theory. The Classical French is one of those libraryish openings we just can't wing through in an abstract or absent manner. Black's demeanour manifests outwardly of meek servility, all the while inwardly of a conspirator plotting revenge. Sometimes we arrive in positions we just can't wrestle our way out of. The best course of action is to remain loose and allow White's fearful initiative wave to pass over us and only then counterattack. Our opening is not for those whose haughty spirit rankles and chafes at the first sign of an opponent's initiative. --- The staggering enormity and scope of the lines we must master is intimidating. It's critical we glean understanding of the inner workings of each opening line, not just memorizing it, like a parrot, who can repeat, yet lacks the ability to understand what she is saying. Each chapter contains its separate joys and trials. I once read that the monk Gregor Mendel, the father of modern genetics flunked his teaching certificate examination in both geology and zoology! Moral: We all sometimes forget our lines! So let's not lose heart if we sometimes omit a key move or idea and get upended in a theoretical duel. --- Let's take a look at our Classical French battlegrounds (see the following games).
+Cramped Quarters: In the Classical French, we willingly hand White an early space advantage as soon as e5 is played. This lack of space can be chaffing and it's easy to experience suffocating, submerged feelings, not knowing which direction is up - the place of life-giving air. If we allow the asphyxiation to continue without fighting back with undermining freeing ideas like ...c5 and ...f6, we risk getting squeezed and passing bluely, from this life to the next. It feels as if the yin/yang ratio is askew and we often wish our side could use a little more yang in the formula. But realize this: Our yang is there. It simply arrives late. The nature of the French is to hand White an early (and often temporary) initiative. Ours arrives later, often in the form of withering counterattacks. Those who play French begin to sense something formidable behind the opening's seemingly passive exterior.
+
+The French is a species of opening which has a nasty habit of upending those who don't know their theory. The Classical French is one of those libraryish openings we just can't wing through in an abstract or absent manner. Black's demeanour manifests outwardly of meek servility, all the while inwardly of a conspirator plotting revenge. Sometimes we arrive in positions we just can't wrestle our way out of. The best course of action is to remain loose and allow White's fearful initiative wave to pass over us and only then counterattack. Our opening is not for those whose haughty spirit rankles and chafes at the first sign of an opponent's initiative.
+
+The staggering enormity and scope of the lines we must master is intimidating. It's critical we glean understanding of the inner workings of each opening line, not just memorizing it, like a parrot, who can repeat, yet lacks the ability to understand what she is saying. Each chapter contains its separate joys and trials. I once read that the monk Gregor Mendel, the father of modern genetics flunked his teaching certificate examination in both geology and zoology! Moral: We all sometimes forget our lines! So let's not lose heart if we sometimes omit a key move or idea and get upended in a theoretical duel.
+
+Let's take a look at our Classical French battlegrounds (see the following games).
 
 ### (5)Main line Classical   --   ? ? ????   \* (Cyrus Lakdawala)
 
@@ -58,7 +66,9 @@ We reach a position more closely associated with the f4 lines of Tarrasch, rathe
 
 "If I Swallow Anything Evil, Put Your Finger Down My Throat..."
 
-In chaotic positions, it sometimes appears to us as if the correlation of cause and effect breaks down. Of course this is an illusion, bred by our own ignorance. The 8...Qb6!? Poisoned Pawn Line appears to strain the fulcrum of common sense, until it snaps. The cause of every effect still remains, even when we can't see it. I fear Paul Morphy, if he were alive today, would vomit upon viewing Black's decision to go pawn-hunting, violating the ABC's of opening principle in the most flagrant manner possible. A warning: Your losses in this line could be unpleasantly memorable. The choice of opening lines yields clues to the motivations of their devotees. The Poisoned Pawn Line tells us the following: People who play this line may harbour the criminal gene and are willing to take excessive risks to steal a mere pawn. I freely admit that Black's last move, 8...Qb6, fishing for b2, is one of outlandish design. --- Ambition has its costs and in the Poisoned Pawn Line, we are willing to pay the price. However, lately in high-level games, top-ten-ranked GMs are experiencing a devil of a time proving even an edge for White. So what first began in the 1980s as a sleazy side line, designed to waylay unsuspecting victims, may now have gone legit, championed by no less than the likes of GM Hikaru Nakamura, who uses it as a drawing weapon! A bearer of stunning news loves to evoke shock and terror in his or her audience, so brace yourself when I declare to you: Black's pawn grab is sound (at least at the time of this writing). Black's queen is the secretly genius jester in a court of unaware fools. She continues to play dumb, all the while, laughing inwardly, as she sneaks away with a pawn.<skip/>
+In chaotic positions, it sometimes appears to us as if the correlation of cause and effect breaks down. Of course this is an illusion, bred by our own ignorance. The 8...Qb6!? Poisoned Pawn Line appears to strain the fulcrum of common sense, until it snaps. The cause of every effect still remains, even when we can't see it. I fear Paul Morphy, if he were alive today, would vomit upon viewing Black's decision to go pawn-hunting, violating the ABC's of opening principle in the most flagrant manner possible. A warning: Your losses in this line could be unpleasantly memorable. The choice of opening lines yields clues to the motivations of their devotees. The Poisoned Pawn Line tells us the following: People who play this line may harbour the criminal gene and are willing to take excessive risks to steal a mere pawn. I freely admit that Black's last move, 8...Qb6, fishing for b2, is one of outlandish design.<skip/>
+
+Ambition has its costs and in the Poisoned Pawn Line, we are willing to pay the price. However, lately in high-level games, top-ten-ranked GMs are experiencing a devil of a time proving even an edge for White. So what first began in the 1980s as a sleazy side line, designed to waylay unsuspecting victims, may now have gone legit, championed by no less than the likes of GM Hikaru Nakamura, who uses it as a drawing weapon! A bearer of stunning news loves to evoke shock and terror in his or her audience, so brace yourself when I declare to you: Black's pawn grab is sound (at least at the time of this writing). Black's queen is the secretly genius jester in a court of unaware fools. She continues to play dumb, all the while, laughing inwardly, as she sneaks away with a pawn.
 
 ### (8)The Russian Roulette line   --   ? ? ????   \* (Cyrus Lakdawala)
 
@@ -144,7 +154,9 @@ As kids, we were all told to capture toward the centre. In this case, White was 
 
 **13...Rxf3!**
 
-ANSWER: The undermining exchange sac decimates White's once proud pawn centre. --- The sound of a cannon salvo rouses White from his nap, with a start. The ambitious rook seeks to alter and upgrade the designation of his job description, from "Knight of the Realm" to 'Universal Overlord'. Of course the temptation to sac is overwhelming (especially when it is absolutely sound, as in this case!), like a pizza delivery driver who didn't get a chance to eat lunch, and who gazes lovingly at the pizza he must hand over to an undeserving stranger. We don't always require gigabytes of information to make a decision. Sometimes the eye sees and we simply feel the correct answer, rather than compute it. I'm certain Paulsen didn't need to work out all the lines of this very promising exchange sac (it almost isn't a sac, since he gets so much for it!).
+ANSWER: The undermining exchange sac decimates White's once proud pawn centre.
+
+The sound of a cannon salvo rouses White from his nap, with a start. The ambitious rook seeks to alter and upgrade the designation of his job description, from "Knight of the Realm" to 'Universal Overlord'. Of course the temptation to sac is overwhelming (especially when it is absolutely sound, as in this case!), like a pizza delivery driver who didn't get a chance to eat lunch, and who gazes lovingly at the pizza he must hand over to an undeserving stranger. We don't always require gigabytes of information to make a decision. Sometimes the eye sees and we simply feel the correct answer, rather than compute it. I'm certain Paulsen didn't need to work out all the lines of this very promising exchange sac (it almost isn't a sac, since he gets so much for it!).
 
 **14.Qxf3?!**
 
@@ -170,7 +182,9 @@ Add the bishop pair to Black's already impressive strategic portfolio.
 
 **18.Qxd3 Qf6**
 
-QUESTION: Why did Black walk into an obvious tempo loss? --- ANSWER: Black loses a tempo, no matter where he moves.
+QUESTION: Why did Black walk into an obvious tempo loss?
+
+ANSWER: Black loses a tempo, no matter where he moves.
 
 If: 18...Ne5 19.Qe3 Qf6 20.Rf1 Nc4 21.Qd3 , Black loses a tempo with his queen.
 
@@ -178,13 +192,17 @@ Most promising is: 18...Qh5! 19.Nf4 Qe5+ 20.Qe3 Qxe3+ 21.Bxe3 d4 22.Bd2 e5 23.Nd
 
 **19.Rf1 Qe5 20.Bd2! Bd7!**
 
-QUESTION: Why not grab another one on b2? --- ANSWER: Too greedy.
+QUESTION: Why not grab another one on b2?
+
+ANSWER: Too greedy.
 
 Black falls behind in development and pays a price after 20...Qxb2?! 21.Bc3 Qb3 ( Black is unexpectedly busted after 21...Qb6?? 22.Qf3! ) 22.Nd4 Qb6 23.Nxc6 Qxc6 ( 23...bxc6? 24.Qf3! gets White back in the game ) 24.Qd4 e5! 25.Qxe5 Bf6 26.Rxf6 Qxf6 27.Qxf6 gxf6 28.Bxf6 and White should hold the game a pawn down.
 
 **21.Bc3 Qd6 22.O-O-O**
 
-EXERCISE (planning): Nothing is as arduous as being forced to perform an unpleasant task. Castling long represents more of a brief reprieve, rather than real freedom for White. Find one potent yet thematic French idea and White's king experiences serious difficulties. --- ANSWER: Transfer the bad bishop to the h7-b1 diagonal. Throughout the book, please prepare yourself for my multiple torrential diatribes defending the French bad bishop, an unjustly maligned piece.
+EXERCISE (planning): Nothing is as arduous as being forced to perform an unpleasant task. Castling long represents more of a brief reprieve, rather than real freedom for White. Find one potent yet thematic French idea and White's king experiences serious difficulties.
+
+ANSWER: Transfer the bad bishop to the h7-b1 diagonal. Throughout the book, please prepare yourself for my multiple torrential diatribes defending the French bad bishop, an unjustly maligned piece.
 
 **22...Be8!**
 
@@ -192,7 +210,9 @@ The bishop approaches his fancied diagonal with the silent yet deadly promise of
 
 **23.h4**
 
-QUESTION: If ...Bg6 is so powerful, then why not simply halt it with 23.Nf4 since Black will not dare to play the weakening ...g5? --- ANSWER: Black dares when goaded. 23...g5! ( the simple 23...Bf7! also looks quite promising for Black. 24.h4 Rd8 and ...d4 is coming ) 24.Ne2 ( White's best may be to enter a difficult ending with 24.Nxe6 Qxe6 25.Rfe1 Qd7 26.Qxd5+ Qxd5 27.Rxd5 ) 24...Bg6 25.Qb5 Rc8 is hopeless for White's king, who is caught in a deadly crossfire.
+QUESTION: If ...Bg6 is so powerful, then why not simply halt it with 23.Nf4 since Black will not dare to play the weakening ...g5?
+
+ANSWER: Black dares when goaded. 23...g5! ( the simple 23...Bf7! also looks quite promising for Black. 24.h4 Rd8 and ...d4 is coming ) 24.Ne2 ( White's best may be to enter a difficult ending with 24.Nxe6 Qxe6 25.Rfe1 Qd7 26.Qxd5+ Qxd5 27.Rxd5 ) 24...Bg6 25.Qb5 Rc8 is hopeless for White's king, who is caught in a deadly crossfire.
 
 **23...Rc8**
 
@@ -262,11 +282,19 @@ A war council of the nation's brightest minds agrees that a queening race is Whi
 
 **40...e2 41.Kd2!?**
 
-Boy, White's last move is the epitome of a feeble protest. The white king believes that people regard his silent nature as one of a profoundly deep thinker, while most attribute his silence to imbecility. One gets the feeling that people had a lot of time on their hands in the year 1877. I'm not sure this move is as effective as Schallopp originally believed. We establish the following crucial facts: 1. Black queens by force. --- 2. By queening, Black delivers checkmate. --- 3. White seems to be doing his best at ignoring numbers 1 and 2.
+Boy, White's last move is the epitome of a feeble protest. The white king believes that people regard his silent nature as one of a profoundly deep thinker, while most attribute his silence to imbecility. One gets the feeling that people had a lot of time on their hands in the year 1877. I'm not sure this move is as effective as Schallopp originally believed. We establish the following crucial facts: 1. Black queens by force.
+
+2. By queening, Black delivers checkmate.
+
+3. White seems to be doing his best at ignoring numbers 1 and 2.
 
 **41...e1=Q#!**
 
-Mate! --- "I am God's turnspit, little man; you are the roasting pig, with apple in mouth," declares the newly coronated queen, self-importantly. --- SUMMARY: It's time to enter the kill-or-be-killed world of the Classical French.
+Mate!
+
+"I am God's turnspit, little man; you are the roasting pig, with apple in mouth," declares the newly coronated queen, self-importantly.
+
+SUMMARY: It's time to enter the kill-or-be-killed world of the Classical French.
 
 Dedication: Many thanks to editor GM John Emms, and to punctuation and proofreading czar Nancy, and to CC-SIM Junior Tay for the final edit. May your opponents' frustrated labours be swept away in the wake of our Classical French counter-attacks.
 
@@ -278,17 +306,41 @@ Cyrus Lakdawala, San Diego, September 2014
 
 **8...--**<fen value="r1bqk2r/pp1n1ppp/2n1p3/2bpP3/3N1P2/2N1B3/PPP3PP/R2QKB1R b KQkq - 0 8"/>
 
-We begin the book with a heavily contested position at the highest levels. --- We soon reach an opposite wing attacking position: 9.Qd2 O-O 10.O-O-O a6 11.h4
+We begin the book with a heavily contested position at the highest levels.
 
-The areas of agreement between the two parties evaporate and war is imminent. Now comes the time for us to flaunt our attacking prowess. Both parties plan to swoop onto the other's king, like homing pigeons. One wrong move by either side may lead to treacherous conditions escalating at alarming rates, and the spot where our king (or, hopefully, our opponent's king!) stood, may turn into a flaming crater. Each time we score a victory in such a line, our king takes the deep breath of a man who, through sheer luck, avoided certain death that day. --- Key points to keep in mind in this chapter: White's plans: 1. White may play to soften our kingside dark squares and weaken our back rank with h5 and h6. --- 2. White may play for an f5 break. The difficulty with implementing this plan is the moment White plays f5, the e5-pawn becomes a chronic weakness. --- 3. White may play h4 and Rh3, which not only prepares a future Rg3, but also helps defend White's king laterally. --- 4. White may opt for the attacking plan Qf2, intending Bd3 and eventually Qh4, taking direct aim at h7. --- Black's position also comes well-armed for combat.
+We soon reach an opposite wing attacking position: 9.Qd2 O-O 10.O-O-O a6 11.h4
 
-Our plans: 1. Black can play ...Bxd4, followed by ...b5, ...b4, ...a5 and ...Ba6, which begins a pawn storm against White's king and activates our dormant "bad" c8-bishop, which as we see in this chapter, really isn't as bad as previously advertised. --- 2. After we achieve step one, we load up major pieces down the open c-file, tying White down to defence of c2. We often do this in conjunction with ...a4 and ...b3, or ...a4 and ...a3, which weakens c3 and the dark squares around White's king. --- 3. We must develop a feel for when to play the counter...f6, since playing ...f6 keeps our king safer and generates play down the f-file, and when to hold back on the move as it also weakens e6 and e5.<fenend/>
+The areas of agreement between the two parties evaporate and war is imminent. Now comes the time for us to flaunt our attacking prowess. Both parties plan to swoop onto the other's king, like homing pigeons. One wrong move by either side may lead to treacherous conditions escalating at alarming rates, and the spot where our king (or, hopefully, our opponent's king!) stood, may turn into a flaming crater. Each time we score a victory in such a line, our king takes the deep breath of a man who, through sheer luck, avoided certain death that day.
+
+Key points to keep in mind in this chapter: White's plans: 1. White may play to soften our kingside dark squares and weaken our back rank with h5 and h6.
+
+2. White may play for an f5 break. The difficulty with implementing this plan is the moment White plays f5, the e5-pawn becomes a chronic weakness.
+
+3. White may play h4 and Rh3, which not only prepares a future Rg3, but also helps defend White's king laterally.
+
+4. White may opt for the attacking plan Qf2, intending Bd3 and eventually Qh4, taking direct aim at h7.
+
+Black's position also comes well-armed for combat.
+
+Our plans: 1. Black can play ...Bxd4, followed by ...b5, ...b4, ...a5 and ...Ba6, which begins a pawn storm against White's king and activates our dormant "bad" c8-bishop, which as we see in this chapter, really isn't as bad as previously advertised.
+
+2. After we achieve step one, we load up major pieces down the open c-file, tying White down to defence of c2. We often do this in conjunction with ...a4 and ...b3, or ...a4 and ...a3, which weakens c3 and the dark squares around White's king.
+
+3. We must develop a feel for when to play the counter...f6, since playing ...f6 keeps our king safer and generates play down the f-file, and when to hold back on the move as it also weakens e6 and e5.<fenend/>
 
 ### (14)Najer, E.   --   Rychagov, A. 1: Russian Championships, Krasnoyarsk  2007   0-1   C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6**
 
-Here we are, the Classical French, the Winawer's twin brother. --- QUESTION: What are the main characteristics which differentiate Winawer from Classical? --- ANSWER: 1. The most important difference is that in Winawer, Black usually hands over his or her all-important dark-squared bishop with ...Bb4 and later ...Bxc3+, which damages White's structure but also weakens Black on the dark squares. The Classical is less extreme. We usually hang on to our dark-squared bishop but don't inflict structural damage. --- 2. Even so, the positions are no less violent than Winawer, since in Classical, we often end up with opposite wings attack, with White going queenside and us castling kingside. (In the Winawer Poisoned Pawn Line, Black also frequently castles long and White's king usually stays in the centre) --- 3. IM Byron Jacobs writes in 'Starting Out: The French': "It is a curious thing but the Classical has always been less popular among amateur players than the Winawer, even though the Classical is currently more popular than the Winawer at elite level!" Well, maybe the players at the top know something we don't. I employed Winawer as my main French for over 30 years. The Classical was utilized only as a second string, backup surprise weapon. Having researched for this book, I am beginning to wish I played Classical more often, since I endured a lot of dark-square suffering in Winawers over the decades!
+Here we are, the Classical French, the Winawer's twin brother.
+
+QUESTION: What are the main characteristics which differentiate Winawer from Classical?
+
+ANSWER: 1. The most important difference is that in Winawer, Black usually hands over his or her all-important dark-squared bishop with ...Bb4 and later ...Bxc3+, which damages White's structure but also weakens Black on the dark squares. The Classical is less extreme. We usually hang on to our dark-squared bishop but don't inflict structural damage.
+
+2. Even so, the positions are no less violent than Winawer, since in Classical, we often end up with opposite wings attack, with White going queenside and us castling kingside. (In the Winawer Poisoned Pawn Line, Black also frequently castles long and White's king usually stays in the centre)
+
+3. IM Byron Jacobs writes in 'Starting Out: The French': "It is a curious thing but the Classical has always been less popular among amateur players than the Winawer, even though the Classical is currently more popular than the Winawer at elite level!" Well, maybe the players at the top know something we don't. I employed Winawer as my main French for over 30 years. The Classical was utilized only as a second string, backup surprise weapon. Having researched for this book, I am beginning to wish I played Classical more often, since I endured a lot of dark-square suffering in Winawers over the decades!
 
 **4.e5**
 
@@ -298,7 +350,23 @@ Then later we tackle 4.Bg5 dxe4 - The Burn Variation. ( and 4...Bb4 - The McCutc
 
 **4...Nfd7**
 
-The main move. --- QUESTION: The d7-knight looks out of place and promises to turn into a problem piece, correct? --- ANSWER: Very true, our d7-knight tends to gum up development. Yet there may be a promising future for the knight: 1. After ...c5 and ...cxd4, our knight may head for c5, where it eyes important squares like a4, b3, d3 and e4. --- 2. After ...c5, ...cxd4, ...a6 and ...b5, we can transfer our knight to b6 where it overlooks attacking squares a4 and c4. --- 3. After ...c5, ...cxd4 and ...f6, we undermine White's control over e5. If White plays exf6 we may respond with ...Nxf6, when the knight returns to polite society. --- QUESTION: I don't mean to be a pessimist, but how exactly are we going to develop our other problem piece: the not-so-pretty c8-bishop? --- ANSWER: For now the c8-bishop finds its freedom of movement circumscribed within tight boundaries, but not forever. Not to worry. Believe it or not, this "bad" c8-bishop nearly always finds employment elsewhere, with the following choice of plans: 1. Black plays ...a6,...b5 and then later ...b4 and ...a5. This allows for ...Ba6, when we swap off our theoretically bad bishop for White's powerful f1-counterpart. --- 2. Black plays a future ...f6. After exf6 and ...Nxf6, we blast our way out by forcing ...e5 later on. --- 3. In Plan #2, our bad bishop embraces virtue by weaving its way out with ...Bd7, ...Be8 and usually ...Bg6, where it takes aim at White's king and c2, while keeping our own king more secure.
+The main move.
+
+QUESTION: The d7-knight looks out of place and promises to turn into a problem piece, correct?
+
+ANSWER: Very true, our d7-knight tends to gum up development. Yet there may be a promising future for the knight: 1. After ...c5 and ...cxd4, our knight may head for c5, where it eyes important squares like a4, b3, d3 and e4.
+
+2. After ...c5, ...cxd4, ...a6 and ...b5, we can transfer our knight to b6 where it overlooks attacking squares a4 and c4.
+
+3. After ...c5, ...cxd4 and ...f6, we undermine White's control over e5. If White plays exf6 we may respond with ...Nxf6, when the knight returns to polite society.
+
+QUESTION: I don't mean to be a pessimist, but how exactly are we going to develop our other problem piece: the not-so-pretty c8-bishop?
+
+ANSWER: For now the c8-bishop finds its freedom of movement circumscribed within tight boundaries, but not forever. Not to worry. Believe it or not, this "bad" c8-bishop nearly always finds employment elsewhere, with the following choice of plans: 1. Black plays ...a6,...b5 and then later ...b4 and ...a5. This allows for ...Ba6, when we swap off our theoretically bad bishop for White's powerful f1-counterpart.
+
+2. Black plays a future ...f6. After exf6 and ...Nxf6, we blast our way out by forcing ...e5 later on.
+
+3. In Plan #2, our bad bishop embraces virtue by weaving its way out with ...Bd7, ...Be8 and usually ...Bg6, where it takes aim at White's king and c2, while keeping our own king more secure.
 
 We won't be covering oddball lines like 4...Ne4
 
@@ -306,7 +374,11 @@ or 4...Ng8 .
 
 **5.f4**
 
-White logically clamps down the e5-square and seizes kingside space, hoping to translate the advantage into a kingside attack. --- QUESTION: Does Black have to castle kingside, into this attack? --- ANSWER: Pretty much, the answer is yes, since we attempt a corresponding attack on the other side of the board with ...c5, ...cxd4, ...a6 and ...b5.
+White logically clamps down the e5-square and seizes kingside space, hoping to translate the advantage into a kingside attack.
+
+QUESTION: Does Black have to castle kingside, into this attack?
+
+ANSWER: Pretty much, the answer is yes, since we attempt a corresponding attack on the other side of the board with ...c5, ...cxd4, ...a6 and ...b5.
 
 In the coming chapters, we cover 5.Nce2
 
@@ -314,7 +386,11 @@ and 5.Nf3 .
 
 **5...c5**
 
-Principle: Chip away at an opponent's pawn chain at its base, which in this case is d4. Now having said this, let's not be afraid of playing a future ...f6 break. The key is to time it correctly. --- QUESTION: But doesn't an ...f6 break hand us a backward e6-pawn? --- ANSWER: Correct but few desirable things in life are free. We do indeed take on a backward e6-pawn. In exchange, we unravel and generate play down the f-file. Even though e6 is admittedly an eyesore, I don't recall a single game where I actually later lost the pawn. The greater danger to us is that White may manage to use e5 as a hole for his or her pieces. Still, from my experience, the damage tends to be more cosmetic than real for Black.
+Principle: Chip away at an opponent's pawn chain at its base, which in this case is d4. Now having said this, let's not be afraid of playing a future ...f6 break. The key is to time it correctly.
+
+QUESTION: But doesn't an ...f6 break hand us a backward e6-pawn?
+
+ANSWER: Correct but few desirable things in life are free. We do indeed take on a backward e6-pawn. In exchange, we unravel and generate play down the f-file. Even though e6 is admittedly an eyesore, I don't recall a single game where I actually later lost the pawn. The greater danger to us is that White may manage to use e5 as a hole for his or her pieces. Still, from my experience, the damage tends to be more cosmetic than real for Black.
 
 **6.Nf3**
 
@@ -342,7 +418,9 @@ In Chapter Three, we will look at 8...Qb6!? , the psychotic Poisoned Pawn Line, 
 
 White prepares to castle queenside.
 
-QUESTION: What if White isn't interested in opposite wing attacks and decides to calmly castle kingside with 9.Be2 ? --- ANSWER: This plan is too slow for White and allows Black at least equality after 9...Qb6 (pressuring both d4 and b2).
+QUESTION: What if White isn't interested in opposite wing attacks and decides to calmly castle kingside with 9.Be2 ?
+
+ANSWER: This plan is too slow for White and allows Black at least equality after 9...Qb6 (pressuring both d4 and b2).
 
 10.Na4 Qa5+ 11.c3 Bxd4! 12.Bxd4 Nxd4 13.Qxd4 b6! and ...Nc5 is in the air, as is ...Ba6. 14.Bd1 was played in K.Aseev-S.Dolmatov, Irkutsk 1986. White's a4-knight continues to dangle and Black has at least equal chances after 14...O-O 15.O-O Nb8! intending ...Nc6 or ...Bd7.
 
@@ -390,7 +468,15 @@ We will look at 13.h5 in Topalov-Morozevich later in the chapter.
 
 **13...Bb7**
 
-Black attempts to complete development. --- QUESTION: Posting the bishop on b7 doesn't make sense to me when he can play ...b4, ...a5 and ...Ba6. What is the idea? --- ANSWER: The posting on b7 contains a couple of hidden points: 1. If White ever plays Bxc5 Nxc5, then the b7 bishop backs up e4 and prepares ...Ne4. --- 2. When Black later plays ...b4, if White responds with the blockading Na4, then Black can play either ...Bxd4, followed by ...Qa5 and after b3, prepare to go after the a4-knight with ...Bc6.
+Black attempts to complete development.
+
+QUESTION: Posting the bishop on b7 doesn't make sense to me when he can play ...b4, ...a5 and ...Ba6. What is the idea?
+
+ANSWER: The posting on b7 contains a couple of hidden points:
+
+1. If White ever plays Bxc5 Nxc5, then the b7 bishop backs up e4 and prepares ...Ne4.
+
+2. When Black later plays ...b4, if White responds with the blockading Na4, then Black can play either ...Bxd4, followed by ...Qa5 and after b3, prepare to go after the a4-knight with ...Bc6.
 
 QUESTION: Can Black play 13...b4 first instead to get the sort of position mooted in point 2?
 
@@ -412,7 +498,13 @@ Let's look at some less compromising moves for White: More natural is 14.h5 b4 1
 
 A slightly unusual posting for the queen. Perhaps Rychagov wanted to keep his queen closer to his king, if needed. Also, this move adds another attacker to aim at the white king's pawn cover.
 
-14...Qb6 would probably lead to a dynamically balanced ending after 15.h5 Bxd4 16.Qxd4 Qxd4 17.Rxd4 f6 18.exf6 gxf6 ( 18...Rxf6 also looks okay for Black, despite bad bishop and a potentially weak e6-pawn. --- QUESTION: How can this assessment be accurate? --- ANSWER: Black remains active and soon generates counterplay along the f-file. Of course this assessment is purely intuitive on my part, but having played French for over three decades, I stick by it! Houdini also assesses at even, so I have an ally to my claim! )
+14...Qb6 would probably lead to a dynamically balanced ending after 15.h5 Bxd4 16.Qxd4 Qxd4 17.Rxd4 f6 18.exf6 gxf6
+
+18...Rxf6 also looks okay for Black, despite bad bishop and a potentially weak e6-pawn.
+
+QUESTION: How can this assessment be accurate?
+
+ANSWER: Black remains active and soon generates counterplay along the f-file. Of course this assessment is purely intuitive on my part, but having played French for over three decades, I stick by it! Houdini also assesses at even, so I have an ally to my claim!
 
 **15.h5 Bc6**
 
@@ -532,7 +624,9 @@ A single spy in your pay, having infiltrated the enemy's inner circle, is more v
 
 **52.Kd2**
 
-EXERCISE (critical decision): Same exercise but with different colour! Black's choice: a) 52...dxc2 or b) 52...e1=Q+. Only one of the lines wins. Which one? --- ANSWER: b) Deflection.
+EXERCISE (critical decision): Same exercise but with different colour! Black's choice: a) 52...dxc2 or b) 52...e1=Q+. Only one of the lines wins. Which one?
+
+ANSWER: b) Deflection.
 
 **52...e1=Q+!**
 
@@ -544,7 +638,9 @@ The careless 52...dxc2?? is met by 53.Nf3 which allows White to escape with a dr
 
 "We will instil within you the virtues of toil and industry," Black's king informs his sweating brother, who still hopes to outrun the c-pawn.
 
-Black wins the following way: After 54...Kb3 55.Kc1 Ne5! 56.h7 when this single unarmed soldier storms a heavily fortified garrison, it isn't hard to predict the result of the battle. Following 56...Nd3+ 57.Kd2 c1=Q+ 58.Kxd3 Qh1 59.Ke3 Qh4 60.Kf3 Kc4 61.Ke2 Qh5+ 62.Kf2 Kd3 63.Kf1 Ke3 , White is in zugzwang. "Your seed is wiped off the earth and you shall die without successor," Black's queen gloats to the now deposed white king. --- SUMMARY: Prepare for a sharp, opposite wings castling position in this chapter!
+Black wins the following way: After 54...Kb3 55.Kc1 Ne5! 56.h7 when this single unarmed soldier storms a heavily fortified garrison, it isn't hard to predict the result of the battle. Following 56...Nd3+ 57.Kd2 c1=Q+ 58.Kxd3 Qh1 59.Ke3 Qh4 60.Kf3 Kc4 61.Ke2 Qh5+ 62.Kf2 Kd3 63.Kf1 Ke3 , White is in zugzwang. "Your seed is wiped off the earth and you shall die without successor," Black's queen gloats to the now deposed white king.
+
+SUMMARY: Prepare for a sharp, opposite wings castling position in this chapter!
 
 0-1
 
@@ -562,7 +658,9 @@ More popular and probably superior is 14.Na4 which we have looked at in the prev
 
 **14...a5 15.Qe3**
 
-QUESTION: Is the plan of adding pressure to c5 really effective for White? After all, Black can cover c5 more times than White can attack it. --- ANSWER: I think the main motivation behind her move is that she wants to reinforce e5 to eventually play for f5.
+QUESTION: Is the plan of adding pressure to c5 really effective for White? After all, Black can cover c5 more times than White can attack it.
+
+ANSWER: I think the main motivation behind her move is that she wants to reinforce e5 to eventually play for f5.
 
 After 15.h5 Ba6 16.Qe3 Qc7 17.Rg3 Rfc8 , Black's attack already looks quicker. 18.Rd2? ( 18.f5 Bxe2 19.Qxe2 Bxd4 20.Rxd4 had to be tried but even here Black has several paths to an edge ) 18...Bxd4 19.Qxd4 Nc5! and there is no defence to the coming ...Ne4, which wins material. 20.Re3 Ne4 21.Rxe4 dxe4 22.Qxe4 and Black is winning with the material advantage and still possessing the attack, R.Sprangers-D.Stellwagen, Arnhem 2006.
 
@@ -574,7 +672,9 @@ Contemplating f5 at a later stage.
 
 QUESTION: Why wasn't Shirov interested in swapping away his bad bishop?
 
-ANSWER: Of course 17...Ba6 was possible, but strangely enough, the "badness" of the bishop tends to be an overrated selling point for White in this variation. In my research, I noticed several examples where the lone "bad" light-squared bishop more than held its own against a White knight or bishop. Also, if Black wants to play ...f6 at some future point, he may need the light-squared bishop to protect e6. --- Let's see what happens after 17...Ba6: 18.Bxa6 Rxa6 19.h5 was R.Altrock-H.Offenborn, correspondence 2000. At this point, Houdini recommends 19...Ne4 20.h6 g6 21.Kb1 a4 with the idea of ...a3, which is pretty close to what happened in the game. White already looks uncomfortable.
+ANSWER: Of course 17...Ba6 was possible, but strangely enough, the "badness" of the bishop tends to be an overrated selling point for White in this variation. In my research, I noticed several examples where the lone "bad" light-squared bishop more than held its own against a White knight or bishop. Also, if Black wants to play ...f6 at some future point, he may need the light-squared bishop to protect e6.
+
+Let's see what happens after 17...Ba6: 18.Bxa6 Rxa6 19.h5 was R.Altrock-H.Offenborn, correspondence 2000. At this point, Houdini recommends 19...Ne4 20.h6 g6 21.Kb1 a4 with the idea of ...a3, which is pretty close to what happened in the game. White already looks uncomfortable.
 
 **18.Kb1 a3**
 
@@ -616,7 +716,9 @@ If White plays a waiting game with 26.Rdd1 , 26...Rfc8 forces 27.Rxc4 dxc4 28.Ka
 
 **26...dxc4 27.Rd1**
 
-EXERCISE (combination alert): White's position trembles like a tuning fork: Attackers convene, conspiring devious methods of deposing White's king. How did Shirov continue his attack? --- ANSWER: Double attack. Both b3 and g2 are simultaneously threatened.
+EXERCISE (combination alert): White's position trembles like a tuning fork: Attackers convene, conspiring devious methods of deposing White's king. How did Shirov continue his attack?
+
+ANSWER: Double attack. Both b3 and g2 are simultaneously threatened.
 
 **27...Nc5!**
 
@@ -634,7 +736,9 @@ EXERCISE (combination alert): When we are in desperation mode, we snatch at any 
 
 **30...Ra8!**
 
-ANSWER: Double attack. White's queen can't afford to leave her protection of a2. --- Black's forces run riot over the queenside.
+ANSWER: Double attack. White's queen can't afford to leave her protection of a2.
+
+Black's forces run riot over the queenside.
 
 **31.Rxd3**
 
@@ -698,7 +802,9 @@ Black can also get greedy here and accept with 19...gxf5!? . Houdini worked the 
 
 **15...Qc7 16.Kb1**
 
-16.Bxc5 Nxc5 17.Nd4 a4 18.Kb1 Ba6 19.f5 a3 20.Rh4? ( White had to try 20.h6 g6 21.fxg6 fxg6 22.Bxa6 Rxa6 23.Rdf1 Raa8 ) 20...Ne4 21.Bd3 was M.Apicella-O.Kurmann, Lausanne 2006. --- Black has a strong attack if he continues with 21...Bxd3! 22.cxd3 b3! 23.Nxb3 (a forced move) 23...axb2 24.dxe4 Rxa2! 25.exd5! Rfa8 with the threat of ...Ra1+.
+16.Bxc5 Nxc5 17.Nd4 a4 18.Kb1 Ba6 19.f5 a3 20.Rh4? ( White had to try 20.h6 g6 21.fxg6 fxg6 22.Bxa6 Rxa6 23.Rdf1 Raa8 ) 20...Ne4 21.Bd3 was M.Apicella-O.Kurmann, Lausanne 2006.
+
+Black has a strong attack if he continues with 21...Bxd3! 22.cxd3 b3! 23.Nxb3 (a forced move) 23...axb2 24.dxe4 Rxa2! 25.exd5! Rfa8 with the threat of ...Ra1+.
 
 **16...Ba6 17.Bxc5**
 
@@ -706,7 +812,9 @@ White can try to continue pressing on the kingside with a frontal pawn assault w
 
 **17...Nxc5 18.Ng3!?**
 
-QUESTION: Isn't this move awkward, since the knight blocks White's g-pawn? --- ANSWER: Yes, this is awkward and also curiously meek from the normally aggressive Topalov. White plays to keep Black's knight out of e4, but in doing so, may be misplacing his own knight.
+QUESTION: Isn't this move awkward, since the knight blocks White's g-pawn?
+
+ANSWER: Yes, this is awkward and also curiously meek from the normally aggressive Topalov. White plays to keep Black's knight out of e4, but in doing so, may be misplacing his own knight.
 
 On the other hand, I don't like White's game very much after 18.h6 g6 19.Nd4 Bxf1 20.Rhxf1 Ne4 21.g4 a4 22.Rd3 Rfc8 23.Ka1 a3 24.b3 Ra5 and Black intends to increase the pressure with ...Rc5, A.Cilloniz Razzeto-J.Dorner, correspondence 2011.
 
@@ -740,11 +848,17 @@ The acquisition of the much desired d4-square does little to cheer White's posit
 
 **23...Na6 24.Rd2**
 
-EXERCISE (planning): What was once iron in White's position, now feels closer to the texture of marshmallow. This one is really difficult and you will have to think outside the box to solve it. Here are the facts: Black exerts pressure down the c-pawn and ties White down. Yet Black has difficulty making progress. The solution feels distant and hazy. We require the focusing/magnifying power of logic to draw out the correct plan. White survived the first wave of Black's initiative. Now comes the second. How did Black neatly express his wishes? --- ANSWER:
+EXERCISE (planning): What was once iron in White's position, now feels closer to the texture of marshmallow. This one is really difficult and you will have to think outside the box to solve it. Here are the facts: Black exerts pressure down the c-pawn and ties White down. Yet Black has difficulty making progress. The solution feels distant and hazy. We require the focusing/magnifying power of logic to draw out the correct plan. White survived the first wave of Black's initiative. Now comes the second. How did Black neatly express his wishes?
+
+ANSWER:
 
 **24...Qe7!**
 
-Black intends to complete the paralysis of White's position with this queen shift. --- Dual purpose: 1. Black follows the principle: If you exert pressure on a wing but your tied-up opponent continues to hold, then open a second front. Black intends ...Qh4!, after which White's overworked forces experience difficulty covering threats on both wings. --- 2. Black defends b4, which frees the knight to swing into b5, via c7.
+Black intends to complete the paralysis of White's position with this queen shift.
+
+Dual purpose: 1. Black follows the principle: If you exert pressure on a wing but your tied-up opponent continues to hold, then open a second front. Black intends ...Qh4!, after which White's overworked forces experience difficulty covering threats on both wings.
+
+2. Black defends b4, which frees the knight to swing into b5, via c7.
 
 **25.Qd3**
 
@@ -764,13 +878,17 @@ No rush. Morozevich calmly creates luft for his king. White's position is a rudd
 
 **28.f5?**
 
-An error may have been committed in the distant past, yet echoes of its effects continue to linger in the present. White incurs further debt which he can ill afford. It's always a sobering moment when we discover that our plans aren't working out the way we intended. In such cases, falling back to passive defence is the strategy all natural attackers resolutely loathe. So Topalov lashes out, fearing that if he remains passive, Black may continue to strengthen his position. But in doing so, he undermines the integrity of his central structure. --- QUESTION: True, but can we blame White for not curling up in a ball and simply reacting to Black's whims?
+An error may have been committed in the distant past, yet echoes of its effects continue to linger in the present. White incurs further debt which he can ill afford. It's always a sobering moment when we discover that our plans aren't working out the way we intended. In such cases, falling back to passive defence is the strategy all natural attackers resolutely loathe. So Topalov lashes out, fearing that if he remains passive, Black may continue to strengthen his position. But in doing so, he undermines the integrity of his central structure.
+
+QUESTION: True, but can we blame White for not curling up in a ball and simply reacting to Black's whims?
 
 ANSWER: In some positions we are required to do just that. White's position may simply be lost, no matter what he plays. But he puts up greater resistance in the line 28.Ne2 White's pacifist knight wants no part of Black's war and hopes to earn conscientious objector status. 28...Rxd3 29.Qxd3 Nc5 30.Qh3 Qe7 31.Qe3 Ne4 32.Rh1 f6! 33.Qd4 fxe5 34.Qxe5 Qc5! 35.c4 ( Black has no choice as 35.Qxe6+?? loses to 35...Kh8 36.c4 Rd8! 37.Rd1 Qf2 38.Rxd5 Qe1+ 39.Nc1 Nc3+ 40.Kc2 Qxe6 ) 35...Kh7! 36.Nd4 Nd2+ 37.Ka1 ( 37.Kc2 is met with 37...Nxc4! 38.Qxg7+ Kxg7 39.Nxe6+ Kf7 40.Nxc5 Nd6 winning a piece ) 37...dxc4 38.Qxc5 Rxc5 and Black is winning.
 
 **28...Qg5?!**
 
-EXERCISE (combination alert): Morozevich has access to a path which forces White's collapse. Where is it? --- ANSWER: Demolition of king's position/pawn promotion/zwischenzug.
+EXERCISE (combination alert): Morozevich has access to a path which forces White's collapse. Where is it?
+
+ANSWER: Demolition of king's position/pawn promotion/zwischenzug.
 
 28...Rxd3! 29.cxd3 ( Black's devious point is that 29.Qxd3 walks into 29...Rc3 30.Qxa6 Qd4! Zwischenzug, threatening to force mate with ...Rxb3+! next move. 31.Qe2 Rxg3 32.c3 bxc3 is hopeless for White ) 29...Rxc1+ 30.Kxc1 Qd4! 31.Kd2 Nc5 32.Qe2 Nxb3+! and White is unable to recapture, since the a-pawn would promote to a new queen.
 
@@ -780,7 +898,9 @@ White had to try 29.Ne2 Rxd3 30.cxd3 Rxc1+ 31.Nxc1 Qd2 32.Qe2 Qf4 .
 
 **29...Rxd3 30.Qxd3 Nc5 31.Qf3**
 
-EXERCISE (planning): Find Black's winning plan. --- ANSWER:
+EXERCISE (planning): Find Black's winning plan.
+
+ANSWER:
 
 **31...Nd7!**
 
@@ -788,7 +908,11 @@ Technically, this is the second best move, which wins e5 and continues the press
 
 ANSWER #2: 31...Qd2! intending the potent ...Qd4. 32.Nf1 ( 32.Ne2 Ne4 33.fxe6 fxe6 34.Qg4 Kh8 35.Qf3 Qxe2! wins ) 32...Qd4 33.c3 Qxe5 34.Ng3 Na4!! and if 35.bxa4 , the b-pawn, a socialist at heart, begins his dream for redistribution of wealth, from the rich to the poor - namely, himself. 35...bxc3 36.Kc2 Qd4 37.Nf1 Rb8 and White cannot avoid massive material losses after...Rb2+.
 
-QUESTION: I understand that after 31...Nd7 , the e5-pawn is in danger. But it's just one pawn. Isn't Topalov's resignation premature? --- ANSWER: It would be premature at a club level but perhaps justified at the super-GM level. Let's look at a possible continuation if Topa had played on: 32.Qf2 Nxe5 33.Ne2 Qf6 (with the threat of dirty tricks on b2) 34.Nd4 ( 34.Qd4 Qxf5 35.Qxb4 Nc4! setting up the threat of ...Qe5. Now if 36.bxc4 Qe5 37.Qc3 Qxe2 38.Qxa3 Rxc4 , both g2 and h5 hang, leaving Black with a dominating position as well as the material advantage ) 34...Nc6 35.Rd1 Na7! (threat: ...Nb5) 36.Qe2 e5 37.Nf3 e4 38.Nd4 Rc3 39.Qd2 e3 40.Qc1 and it's not a good sign if you must make a move like this! Following 40...Qe5 41.Nf3 Qxf5 , there goes a second pawn, with Black owning the entire board. --- SUMMARY: After 13 h5, we proceed pretty much as we did in the first game, with our ...b4 and ...a5 plan, which to my eyes, offers us dynamic equality.
+QUESTION: I understand that after 31...Nd7 , the e5-pawn is in danger. But it's just one pawn. Isn't Topalov's resignation premature?
+
+ANSWER: It would be premature at a club level but perhaps justified at the super-GM level. Let's look at a possible continuation if Topa had played on: 32.Qf2 Nxe5 33.Ne2 Qf6 (with the threat of dirty tricks on b2) 34.Nd4 ( 34.Qd4 Qxf5 35.Qxb4 Nc4! setting up the threat of ...Qe5. Now if 36.bxc4 Qe5 37.Qc3 Qxe2 38.Qxa3 Rxc4 , both g2 and h5 hang, leaving Black with a dominating position as well as the material advantage ) 34...Nc6 35.Rd1 Na7! (threat: ...Nb5) 36.Qe2 e5 37.Nf3 e4 38.Nd4 Rc3 39.Qd2 e3 40.Qc1 and it's not a good sign if you must make a move like this! Following 40...Qe5 41.Nf3 Qxf5 , there goes a second pawn, with Black owning the entire board.
+
+SUMMARY: After 13 h5, we proceed pretty much as we did in the first game, with our ...b4 and ...a5 plan, which to my eyes, offers us dynamic equality.
 
 0-1
 
@@ -796,7 +920,17 @@ QUESTION: I understand that after 31...Nd7 , the e5-pawn is in danger. But it's 
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Bc5 9.Qd2 O-O 10.O-O-O a6 11.Qf2**
 
-In my opinion, this line may be one of our biggest defensive challenges of the chapter. --- QUESTION: The queen is already developed. Why move it again rather than to develop? --- ANSWER: 1. At some point, White would like to play Bd3, which is impossible with the queen on d2, since the d4-pawn hangs. --- 2. White prepares to swing the queen to h4, in the vicinity of Black's king. --- 3. White's queen/bishop line-up on the g1-a7 diagonal keeps an eye out on key dark squares d4, c5 and b6. Black, in some instances, may experience some difficulty engineering ...Nc5 or ...Nb6 later on.
+In my opinion, this line may be one of our biggest defensive challenges of the chapter.
+
+QUESTION: The queen is already developed. Why move it again rather than to develop?
+
+ANSWER:
+
+1. At some point, White would like to play Bd3, which is impossible with the queen on d2, since the d4-pawn hangs.
+
+2. White prepares to swing the queen to h4, in the vicinity of Black's king.
+
+3. White's queen/bishop line-up on the g1-a7 diagonal keeps an eye out on key dark squares d4, c5 and b6. Black, in some instances, may experience some difficulty engineering ...Nc5 or ...Nb6 later on.
 
 **11...Bxd4!**
 
@@ -804,7 +938,9 @@ This move scores better than 11...Nxd4 12.Bxd4 Qc7 13.Bd3 b5 14.Qh4 . There we g
 
 **12.Bxd4 b5**
 
-QUESTION: We allow White to abscond with the bishop pair? --- ANSWER: Yes, because doing so costs White time, a precious commodity in opposing wing attacks.
+QUESTION: We allow White to abscond with the bishop pair?
+
+ANSWER: Yes, because doing so costs White time, a precious commodity in opposing wing attacks.
 
 **13.Be3**
 
@@ -828,7 +964,9 @@ ANSWER: 13...Qa5 is designed to prevent Na4. We discuss your question in the nex
 
 **14.Kb1 b4 15.Ne2 Qc7**
 
-QUESTION: Isn't this a waste of time? --- ANSWER: No. The queen performed her duties on a5, preventing Na4. Having done so, she now gets out of the path of her coming pawn storm and prepares ...a5.
+QUESTION: Isn't this a waste of time?
+
+ANSWER: No. The queen performed her duties on a5, preventing Na4. Having done so, she now gets out of the path of her coming pawn storm and prepares ...a5.
 
 **16.Nd4**
 
@@ -840,7 +978,11 @@ A pure piece-play interpretation of the position. White intends to swing the roo
 
 A couple of alternatives: 18.h4 a4 19.Rh3 Ba6 20.h5 Rfc8 21.h6 g6 22.g4 Bxf1 23.Rxf1 Nc5 24.Bxc5 and the players agreed to a draw in this equal position, H.Vatter-J.Kipper, Germany 2009.
 
-18.Bb5 Ba6 19.Bxd7!? Qxd7 . --- QUESTION: It feels to me like the opposite-coloured bishops favour White here? Am I mistaken? --- ANSWER: The opposite-coloured bishops factor certainly sharpens the game considerably. According to Houdini, Black is no worse though. I played through many scenarios and Black didn't stand worse at the end of any of them. 20.g4 a4 21.b3 Rfc8 22.f5 , V.Yemelin-V.Zvjaginsev, St Petersburg 2013. After 22...axb3 23.cxb3 Bb5 24.f6 Qb7 25.Qe3 , White threatens Qg5 and Black counters with his own mate threat with 25...Qa6 26.Rd2 Rc6! 27.Rhd1 ( not 27.Qg5? Bd3+ 28.Ka1 Bg6 when suddenly Black's king is absolutely safe, while the same can't be said for White's king ) 27...Qc8 28.Qg5 Qf8 29.fxg7 Qxg7 and the game remains uneasily equal.
+18.Bb5 Ba6 19.Bxd7!? Qxd7 .
+
+QUESTION: It feels to me like the opposite-coloured bishops favour White here? Am I mistaken?
+
+ANSWER: The opposite-coloured bishops factor certainly sharpens the game considerably. According to Houdini, Black is no worse though. I played through many scenarios and Black didn't stand worse at the end of any of them. 20.g4 a4 21.b3 Rfc8 22.f5 , V.Yemelin-V.Zvjaginsev, St Petersburg 2013. After 22...axb3 23.cxb3 Bb5 24.f6 Qb7 25.Qe3 , White threatens Qg5 and Black counters with his own mate threat with 25...Qa6 26.Rd2 Rc6! 27.Rhd1 ( not 27.Qg5? Bd3+ 28.Ka1 Bg6 when suddenly Black's king is absolutely safe, while the same can't be said for White's king ) 27...Qc8 28.Qg5 Qf8 29.fxg7 Qxg7 and the game remains uneasily equal.
 
 **18...f6!**
 
@@ -852,7 +994,15 @@ This move looks like an improvement over the automatic 18...Ba6? 19.Rg3 Rfc8 20.
 
 My friend and neighbour (he lives only three blocks from me but both of us are too lazy to walk to each other's house and always drive!), noted chessologist IM John Watson, offers two variations on Chesspublishing.com and claims they lead to a slight plus for White. Let's see if he is correct: 19.exf6 Nxf6 20.Qh4 feels fully equal to me after 20...Qf7 21.Rg3 Ba6 . Now how does White make progress on the kingside attack? I don't see a way and actually prefer Black.
 
-19.Qh4 is given an exclam by Watson. After 19...fxe5 20.fxe5 Qd8 , Watson rates this position at "+=", while I see it as dynamically balanced, for the following reasons: 1. Black can eliminate White's bishop pair with ...Ba6. This could leave White with the slightly inferior minor piece in the ending. --- 2. The e5-pawn may become a target if queens come off the board. --- 3. Black owns the f-file and soon, the c-file too for his rooks. Conclusion: White's kingside attacking chances seem to balance out with Black's long-term strategic superiority (if he or she doesn't get mated!). --- QUESTION: Great. So two IMs analyse the position and contradict the other. Who am I supposed to believe? --- ANSWER: In cases like this, your best bet would be to generate complete faith in your always truthful, near-infallible writer (who many believe to be a beacon of clarity in an otherwise perplexed chess world) and disbelieve half-truths and misinformation circulated by those who disagree with him.
+19.Qh4 is given an exclam by Watson. After 19...fxe5 20.fxe5 Qd8 , Watson rates this position at "+=", while I see it as dynamically balanced, for the following reasons: 1. Black can eliminate White's bishop pair with ...Ba6. This could leave White with the slightly inferior minor piece in the ending.
+
+2. The e5-pawn may become a target if queens come off the board.
+
+3. Black owns the f-file and soon, the c-file too for his rooks. Conclusion: White's kingside attacking chances seem to balance out with Black's long-term strategic superiority (if he or she doesn't get mated!).
+
+QUESTION: Great. So two IMs analyse the position and contradict the other. Who am I supposed to believe?
+
+ANSWER: In cases like this, your best bet would be to generate complete faith in your always truthful, near-infallible writer (who many believe to be a beacon of clarity in an otherwise perplexed chess world) and disbelieve half-truths and misinformation circulated by those who disagree with him.
 
 **19...fxe5!?**
 
@@ -878,7 +1028,9 @@ After 23...Rac8 24.h6 g6 , I don't see White exploiting the weakened dark square
 
 **24.b3 Rac8 25.Rxf8+ Rxf8 26.Qe3 Qd8 27.Qh3 Qe7 28.g4?!**
 
-EXERCISE (combination alert): After this move, we observe tell-tale signs that White's position is in the throes of decline. White is willing to endure privation to further his cause, but this proves to be a waste of resources. A move based on the philosophy: A key requisite of an insurgency is the ability to establish a base from which to launch guerrilla attacks. Karjakin, who continues to frolic in a golden mist of optimism, doesn't allow trivial matters - like the fact that he has no attack - to keep him from aggressive overtures. White's rash move was condemned by the noted chessologist as well. The weakening of White's pawns outweighs the attacking factor and his structure grows rigid, as if stricken with tetanus. --- How can Black show that White had overextended on his last move?
+EXERCISE (combination alert): After this move, we observe tell-tale signs that White's position is in the throes of decline. White is willing to endure privation to further his cause, but this proves to be a waste of resources. A move based on the philosophy: A key requisite of an insurgency is the ability to establish a base from which to launch guerrilla attacks. Karjakin, who continues to frolic in a golden mist of optimism, doesn't allow trivial matters - like the fact that he has no attack - to keep him from aggressive overtures. White's rash move was condemned by the noted chessologist as well. The weakening of White's pawns outweighs the attacking factor and his structure grows rigid, as if stricken with tetanus.
+
+How can Black show that White had overextended on his last move?
 
 Correct was 28.Qe3 .
 
@@ -966,7 +1118,7 @@ As they say in internet games: "gg"- good game!
 
 White's b-pawn is too slow after 50...e5 51.Rxa5 g3 52.Ra1 . Somehow, this rook's perspiration-soaked face reminds us of Richard Nixon's performance in his 1960 presidential debate with John F. Kennedy.
 
-SUMMARY: Let's be ready for 11.Qf2, when White may directly go after our king, planning Bd3 and Qh4. We answer the plan with 11...Bxd4! and 12...b5.<addx start="12...b5"/>
+SUMMARY: Let's be ready for 11.Qf2, when White may directly go after our king, planning Bd3 and Qh4. We answer the plan with 11...Bxd4! and 12...b5.<level start="11.Qf2"/><level start="11...Bxd4"/>
 
 0-1
 
@@ -974,11 +1126,15 @@ SUMMARY: Let's be ready for 11.Qf2, when White may directly go after our king, p
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Bc5 9.Qd2 O-O 10.O-O-O a6 11.Qf2 Bxd4 12.Bxd4 b5 13.Be3 b4**
 
-QUESTION: No ...Qa5 this time? --- ANSWER: ...Qa5 prevents Na4, but as we have seen, Black later loses a tempo to play ...Qc7 to make way for his a-pawn. So in this case, Stellwagen deems it best to save a move and allow White's knight to go to a4.
+QUESTION: No ...Qa5 this time?
+
+ANSWER: ...Qa5 prevents Na4, but as we have seen, Black later loses a tempo to play ...Qc7 to make way for his a-pawn. So in this case, Stellwagen deems it best to save a move and allow White's knight to go to a4.
 
 **14.Na4 a5 15.h4**
 
-QUESTION: You said one of the reasons White plays Qf2 is to later try for a pure piece attack on Black's king with Qh4. Doesn't White's last move ruin this plan? --- ANSWER: Correct. Once the h-pawn is pushed, Qh4 ceases to be a worry for Black.
+QUESTION: You said one of the reasons White plays Qf2 is to later try for a pure piece attack on Black's king with Qh4. Doesn't White's last move ruin this plan?
+
+ANSWER: Correct. Once the h-pawn is pushed, Qh4 ceases to be a worry for Black.
 
 Another try is 15.Bb5 Qc7 16.Qe2 (preventing ...Ba6) 16...Ncb8! (oh, no you don't! The fight is on for the critical a6 (!) square) 17.Kb1 Ba6 (free at last!) 18.Bd3 Qb7 19.h4 Rc8 20.b3 Bxd3 21.Rxd3 ( after 21.cxd3 Na6 22.d4 , White prevents ...Nac5 but I slightly prefer Black's chances on the queenside over White's on the opposite wing after 22...Nc7 since ...Nb5 follows ) 21...Na6 22.Qg4 Qc6 23.Rc1 Nc7 (intending ...Nb5, which clamps down on c3 and menaces a3) 24.c3 (otherwise White won't get a chance to play this freeing move if Black achieves ...Nb5) 24...Nb5! 25.cxb4? ( necessary is 25.Qd1 bxc3 26.Nxc3 Nxc3+ 27.Rdxc3 Qxc3 28.Rxc3 Rxc3 29.Qd2 Rc7 when Black looks slightly better ) 25...Qa6! (Black threatens ...Na3+ and thus regains the lost pawn) 26.Qe2 axb4 27.Rd2? Na3+ 28.Kb2 Nc4+! 29.bxc4 Qxa4 30.Kb1 b3 with a winning attack, S.Solovjov-O.Nikolenko, St Petersburg 2004.
 
@@ -992,7 +1148,9 @@ The untested 19...Rfc8! is unambitious but I had difficulty making progress for 
 
 There is a fine distinction between the difficult and the impossible. It feels that White's failure to capture en passant allows his attack to veer in the territory of the latter category. Now White's intended attack expends itself fruitlessly, without achieving its objective. Now Black's king remains quite safe.
 
-QUESTION: Wouldn't it be in White's best interest to open the kingside and turn the e6-pawn into a potential target with 20.exf6 ? --- ANSWER: I believe so. In this case, White's attacking chances and play on the e6-weakness override Black's play down the f-file. For example, after 20...Nxf6 21.Qh4 Ne4 22.Nc5 Nxc5 23.Bxc5 Rf5 as in J.Riff-S.Feller, Guingamp 2010, the players agreed to a draw here. Houdini assesses at a tiny plus for White. Let's continue the analysis to determine if its assessment is accurate: 24.Qf2 Ne5 ( 24...Rc8 25.g4 Rf7 26.Rde1 Nd8 27.Bb6 Qc4 28.b3 Qb5 29.f5 with a strong attack ) 25.Qe3 Qf7 26.Qe2 Nc4 27.g4 Rf6 28.Bd4 Re8 29.b3 e5 30.Bxe5 Rxe5 31.fxe5 Rxf1 32.bxc4! ( 32.Rxf1?? is met with the dirty trick 32...Qxf1+! 33.Qxf1 Nd2+ ) 32...Rxd1+ 33.Qxd1 dxc4 34.Qd8+ Qf8 35.Qxa5 Qf1+ 36.Kb2 c3+ 37.Kb3 Qb1+ 38.Kc4 Qxc2 39.Qd8+ Kf7 40.Qd7+ Kf8 41.e6 and White dodges the perpetual check and goes on to win. So it looks like your suggested 20 exf6! is White's strongest plan.
+QUESTION: Wouldn't it be in White's best interest to open the kingside and turn the e6-pawn into a potential target with 20.exf6 ?
+
+ANSWER: I believe so. In this case, White's attacking chances and play on the e6-weakness override Black's play down the f-file. For example, after 20...Nxf6 21.Qh4 Ne4 22.Nc5 Nxc5 23.Bxc5 Rf5 as in J.Riff-S.Feller, Guingamp 2010, the players agreed to a draw here. Houdini assesses at a tiny plus for White. Let's continue the analysis to determine if its assessment is accurate: 24.Qf2 Ne5 ( 24...Rc8 25.g4 Rf7 26.Rde1 Nd8 27.Bb6 Qc4 28.b3 Qb5 29.f5 with a strong attack ) 25.Qe3 Qf7 26.Qe2 Nc4 27.g4 Rf6 28.Bd4 Re8 29.b3 e5 30.Bxe5 Rxe5 31.fxe5 Rxf1 32.bxc4! ( 32.Rxf1?? is met with the dirty trick 32...Qxf1+! 33.Qxf1 Nd2+ ) 32...Rxd1+ 33.Qxd1 dxc4 34.Qd8+ Qf8 35.Qxa5 Qf1+ 36.Kb2 c3+ 37.Kb3 Qb1+ 38.Kc4 Qxc2 39.Qd8+ Kf7 40.Qd7+ Kf8 41.e6 and White dodges the perpetual check and goes on to win. So it looks like your suggested 20 exf6! is White's strongest plan.
 
 **20...Qb7 21.Rfd1**
 
@@ -1006,7 +1164,9 @@ White's advanced h-pawn may become a target if queens are removed from the board
 
 White decides to put his destiny to the test with a plan of complete passivity. It may seem counter-intuitive, but perhaps White should consider c3, just to give his king air and avoid getting tied down on c2, as what happened in the game. The fact is White shouldn't temporize forever.
 
-Houdini's analysis led to a draw after 25.c3! . --- A pragmatist's spirit is not one which soars readily on command. This is a psychologically tough move to make since it does weaken White's king, yet the surrounding counterplay associated with it overrides safety concerns. 25...bxc3 26.Qe7 Qb4! 27.Qxd7 Qe4 28.Qxc6 Qxd3+ 29.Rc2 Qxe3 30.Rxc3 Qe4+ 31.Kb2 Qxg2+ 32.Rc2 Qf1 33.Nc5 Qxf4 34.Nd7 Qd4+ 35.Rc3 Rd8 36.Qxe6 Qd2+ 37.Rc2 Qd4+ with perpetual check.
+Houdini's analysis led to a draw after 25.c3! .
+
+A pragmatist's spirit is not one which soars readily on command. This is a psychologically tough move to make since it does weaken White's king, yet the surrounding counterplay associated with it overrides safety concerns. 25...bxc3 26.Qe7 Qb4! 27.Qxd7 Qe4 28.Qxc6 Qxd3+ 29.Rc2 Qxe3 30.Rxc3 Qe4+ 31.Kb2 Qxg2+ 32.Rc2 Qf1 33.Nc5 Qxf4 34.Nd7 Qd4+ 35.Rc3 Rd8 36.Qxe6 Qd2+ 37.Rc2 Qd4+ with perpetual check.
 
 **25...Rfc8 26.Rd2 R8c7 27.g3**
 
@@ -1024,7 +1184,9 @@ Stellwagen constantly reminds his opponent of the needy h6-outpost, which sticks
 
 **29.Rh1 Nd8 30.Qh4 Nb7 31.Rhh2 Rc8 32.Rd3 R8c7 33.Rdd2 Nb8 34.Rh1 Na6 35.Qh2**
 
-EXERCISE (planning): Both players seem to be hovering in an eternal holding pattern and the position looks even. This is a deception. If you find the correct plan for Black, he wrests a clear advantage. What is it? --- ANSWER: Removal of the minor pieces allows Black's attack to push forward, while White's is stalled.
+EXERCISE (planning): Both players seem to be hovering in an eternal holding pattern and the position looks even. This is a deception. If you find the correct plan for Black, he wrests a clear advantage. What is it?
+
+ANSWER: Removal of the minor pieces allows Black's attack to push forward, while White's is stalled.
 
 **35...Nac5!**
 
@@ -1056,13 +1218,17 @@ Multiple attackers array themselves before White's king, with dual mating threat
 
 **43.Qd4**
 
-EXERCISE (combination alert): The white king's defenders rally around him - or so they believe. It seems everything is under control, since a1 is covered and an f1 check is met with Rd1. The reality is that Black has been handed a combination on a plate, with a parsley garnish around it. Find a method to throw the defence off-kilter. --- ANSWER: Interference. Three black attackers congeal into a single vision of unified intent.
+EXERCISE (combination alert): The white king's defenders rally around him - or so they believe. It seems everything is under control, since a1 is covered and an f1 check is met with Rd1. The reality is that Black has been handed a combination on a plate, with a parsley garnish around it. Find a method to throw the defence off-kilter.
+
+ANSWER: Interference. Three black attackers congeal into a single vision of unified intent.
 
 **43...Rc3!**
 
 After this move, the twin blisters on a1 and f1 serve as painful reminders to White of his state of helplessness. The rook threads his way through heavy middlegame traffic, blocking White's defensive lanes. Mate is threatened on a1 and the scheming black rook's deviousness would bring a smile of admiration to Prince Machiavelli's lips.
 
-After 43...Rc3! 44.Qxc3 Qf1+ 45.Kb2 Qa1# delivers mate - "You have outlived your usefulness," the queen reminds the king. --- SUMMARY: One of the most difficult decisions for a French player is when to play ...f6 or ...f5, and when to hold back.
+After 43...Rc3! 44.Qxc3 Qf1+ 45.Kb2 Qa1# delivers mate - "You have outlived your usefulness," the queen reminds the king.
+
+SUMMARY: One of the most difficult decisions for a French player is when to play ...f6 or ...f5, and when to hold back.
 
 0-1
 
@@ -1081,6 +1247,7 @@ QUESTION: Why retreat?
 ANSWER: Dual purpose:
 
 1. The knight clears c6 for Black's rook, preparing to treble major pieces down the c-file.
+
 2. The e7-knight keeps an eye on White's f5-break.
 
 After 17...Qc7 18.h6 g6 19.Nc5 Nxc5 20.Bxc5 Rc8 21.Qh4 f5!:
@@ -1095,7 +1262,9 @@ Well timed. Principle: Counter in the centre when menaced on the wing.
 
 **20.g5?!**
 
-What transforms a pleasant dream into a nightmare? In this case, the answer is inaction. White's initiative goes dormant after this move and just like the last game, the passivity strategy falls short of expectations. After this optimistic gesture of goodwill, White experiences nasty vicissitudes of fortune, mainly because he runs out of active ideas. --- QUESTION: Why would White gum up his kingside attack like this when he can take f6 en passant?
+What transforms a pleasant dream into a nightmare? In this case, the answer is inaction. White's initiative goes dormant after this move and just like the last game, the passivity strategy falls short of expectations. After this optimistic gesture of goodwill, White experiences nasty vicissitudes of fortune, mainly because he runs out of active ideas.
+
+QUESTION: Why would White gum up his kingside attack like this when he can take f6 en passant?
 
 ANSWER: Just like in the last game, White should take on f6 if given the chance, despite Black's activity spike after doing so. The position looks unclear after 20.exf6 Nxf6 21.Qe2 Qd6 22.Rhe1 Rfc8 23.Kb1 a4! ( 23...Rxc5!? 24.Bxc5 Rxc5 25.g5 Nd7 26.Qxe6+ Qxe6 27.Rxe6 Nf5 is a tough ending to assess. Houdini rates the position at about even. I don't think Black's knights perform especially well here and I would actually rather take White's game if given a choice ) 24.Bd4 Rxc5 25.Bxc5 Qxc5 26.Qxe6+ Kf8 27.h6 Qxc2+ 28.Ka1 Nfg8 29.hxg7+ Kxg7 30.Qd6 Qc5 31.Qe5+ Kf8 32.f5 a3 33.g5 d4 34.Qxc5 Rxc5 with a messy ending, rated dead even by the comps.
 
@@ -1111,7 +1280,9 @@ I prefer Black since his king appears quite safe while the white king's safety r
 
 QUESTION: Why did White give up his bishop for Black's passive knight?
 
-ANSWER: The knight wasn't going to be passive for long, since he had access to the following plans: 1. Black can contemplate transferring the knight to b5 via c6 and a7, where it would menace ...Na3+. --- 2. Black can play ...a4 and then transfer the knight to a5 via c6, where it would threaten sacs on both b3 and c4. For example, after 26.g6 h6 27.Rhd1 a4 28.Qe2 Nc6 29.Rd3 axb3 30.cxb3 Na5 , I would be getting awfully nervous here with the white pieces.
+ANSWER: The knight wasn't going to be passive for long, since he had access to the following plans: 1. Black can contemplate transferring the knight to b5 via c6 and a7, where it would menace ...Na3+.
+
+2. Black can play ...a4 and then transfer the knight to a5 via c6, where it would threaten sacs on both b3 and c4. For example, after 26.g6 h6 27.Rhd1 a4 28.Qe2 Nc6 29.Rd3 axb3 30.cxb3 Na5 , I would be getting awfully nervous here with the white pieces.
 
 **26...Qxe7 27.g6 h6**
 
@@ -1119,7 +1290,9 @@ Now Black's king can rest easy. Still, Black must be watchful of back rank shots
 
 **28.Qb6 R3c6! 29.Qd4**
 
-QUESTION: Was a5 poisoned? --- ANSWER: It sure was.
+QUESTION: Was a5 poisoned?
+
+ANSWER: It sure was.
 
 29.Qxa5?? is met with 29...Qb7 30.a3 bxa3 31.Qxa3 Ra8 32.Qb2 Qa7 33.Rhd1 ( 33.c3 is countered with 33...Ra6 ) 33...Ra6 34.Qd4 Ra1+ 35.Kb2 Qa2+ 36.Kc3 Rc8+ 37.Kd3 Rxd1 and the deflection of c2's defender is decisive.
 
@@ -1149,7 +1322,15 @@ It's important for White to keep an eye out for ...d4 as well. For example: 37.Q
 
 **37...Rc3 38.Qd1**
 
-Everyone recognizes the tell-tale signs of a major pout coming on, when the white queen's overhanging lower lip begins to quiver with indignation over her new, subservient role in life. --- EXERCISE (planning): How does Black improve his already impressive position? --- ANSWER: Transfer the king to the queenside. The attackers plan to form a quorum on the queenside and get down to the business of hunting down White's king. --- QUESTION: What would be the point of doing this action? --- ANSWER: If some or all of the major pieces come off the board, Black achieves a winning ending - but only with the help of his king, which is transferred to the queenside. Oddly enough, White can't do much about this plan and can only watch helplessly as he sees his future slipping by.
+Everyone recognizes the tell-tale signs of a major pout coming on, when the white queen's overhanging lower lip begins to quiver with indignation over her new, subservient role in life.
+
+EXERCISE (planning): How does Black improve his already impressive position?
+
+ANSWER: Transfer the king to the queenside. The attackers plan to form a quorum on the queenside and get down to the business of hunting down White's king.
+
+QUESTION: What would be the point of doing this action?
+
+ANSWER: If some or all of the major pieces come off the board, Black achieves a winning ending - but only with the help of his king, which is transferred to the queenside. Oddly enough, White can't do much about this plan and can only watch helplessly as he sees his future slipping by.
 
 **38...Kf8! 39.Re1 Ke7 40.Rh1 Qc5 41.Re1 Kd7 42.Kb2 Kc6! 43.Kb1 Kb6 44.Rd4 Rc7 45.Rd2 Ka5 46.Rh2 Rg3**
 
@@ -1163,7 +1344,13 @@ After 48.Rd1 Rf3 49.Rg2 Qc3 50.Rf2 Qxd2 51.Rdxd2 Rh3 52.Rh2 Rcc3 53.Kb2 Rxh2 54.
 
 **48...Qc3 49.Rd2 Rh3 50.Ree2**
 
-EXERCISE (planning): Sorrow's great torment is remembrance of past happiness. I bet White at this stage regretted his decision to lock the kingside. A list of White's troubles, in ascending order of importance: 1. White's position is unable to withstand a two-pronged assault. Black's major pieces managed to infiltrate and the h5 and f4 weaknesses cry out for attention, the way a toddler throws a tantrum when her mother walks by the mall's toy store without entering it. --- 2. Black's passed d-pawn, along with his advanced king, insure that rook endings or king and pawn endings will be lost for White, should a few pieces be removed from the board. --- 3. White can't do anything but wait. Such low-intensity attacks can actually be more potent than wild binges, mainly because prolonged defence has a way of enticing the defender to lower his or her guard, due to underestimation of the attack's true potential. White to play and win. --- ANSWER: Simplification. The threat of ...Rh1 forces queens off the board, leading to a hopeless rook ending for White.
+EXERCISE (planning): Sorrow's great torment is remembrance of past happiness. I bet White at this stage regretted his decision to lock the kingside. A list of White's troubles, in ascending order of importance: 1. White's position is unable to withstand a two-pronged assault. Black's major pieces managed to infiltrate and the h5 and f4 weaknesses cry out for attention, the way a toddler throws a tantrum when her mother walks by the mall's toy store without entering it.
+
+2. Black's passed d-pawn, along with his advanced king, insure that rook endings or king and pawn endings will be lost for White, should a few pieces be removed from the board.
+
+3. White can't do anything but wait. Such low-intensity attacks can actually be more potent than wild binges, mainly because prolonged defence has a way of enticing the defender to lower his or her guard, due to underestimation of the attack's true potential. White to play and win.
+
+ANSWER: Simplification. The threat of ...Rh1 forces queens off the board, leading to a hopeless rook ending for White.
 
 **50...Qf3!**
 
@@ -1179,7 +1366,9 @@ Black's rook infiltrates and the game is over.
 
 **55.Kb2**
 
-QUESTION: Can White save himself by entering a king and pawn ending after 55.Rc1 Rxc1+ 56.Kxc1 ? --- ANSWER: Black wins by a tempo after 56...Kc5 57.Kb2 Kd4 58.a4 bxa3+ 59.Kxa3 . The nervous, perspiring white king twiddles his fingers, plays with his shirt buttons and slowly slides away to the nearest exit. 59...Kc3 60.b4 d4 61.b5 d3 62.b6 d2 63.b7 d1=Q 64.b8=Q and 64...Qa1# is mate! "Who is this unpleasant, negligible pretender, who dares challenge his betters?" asks Black's queen of her brother. White's king can only respond by exhaling a melancholy sigh, reminiscing the good old days when he still commanded respect.
+QUESTION: Can White save himself by entering a king and pawn ending after 55.Rc1 Rxc1+ 56.Kxc1 ?
+
+ANSWER: Black wins by a tempo after 56...Kc5 57.Kb2 Kd4 58.a4 bxa3+ 59.Kxa3 . The nervous, perspiring white king twiddles his fingers, plays with his shirt buttons and slowly slides away to the nearest exit. 59...Kc3 60.b4 d4 61.b5 d3 62.b6 d2 63.b7 d1=Q 64.b8=Q and 64...Qa1# is mate! "Who is this unpleasant, negligible pretender, who dares challenge his betters?" asks Black's queen of her brother. White's king can only respond by exhaling a melancholy sigh, reminiscing the good old days when he still commanded respect.
 
 **55...Rh3 56.Rd4**
 
@@ -1187,7 +1376,9 @@ QUESTION: Can White save himself by entering a king and pawn ending after 55.Rc1
 
 **56...Kc5 57.Rd1 Rh2+**
 
-57...Rh2+ 58.Kb1 d4 59.Rc1+ Kd5 60.Rc7 d3 61.Rxg7 Rh1+ 62.Kb2 Kc6! and the advanced d-pawn will cost White a rook. --- SUMMARY: If you induce White into locking up the kingside, you have excellent chances of bagging your opponent's king on the still fluid queenside.
+57...Rh2+ 58.Kb1 d4 59.Rc1+ Kd5 60.Rc7 d3 61.Rxg7 Rh1+ 62.Kb2 Kc6! and the advanced d-pawn will cost White a rook.
+
+SUMMARY: If you induce White into locking up the kingside, you have excellent chances of bagging your opponent's king on the still fluid queenside.
 
 0-1
 
@@ -1195,25 +1386,39 @@ QUESTION: Can White save himself by entering a king and pawn ending after 55.Rc1
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Bc5 9.Qd2 O-O 10.O-O-O a6 11.Nb3**
 
-QUESTION: Why would White voluntarily withdraw a centralized piece? --- ANSWER: White's move is based on two points: 1. Principle: The side with more space should avoid exchanges. Black isn't going to be tempted to swap away his good bishop for the e3-counterpart. --- 2. White fights for control over the key c5-square, denying Black ...Nc5 attacking ideas later. Let's not underestimate it, since this line is one of White's highest scoring in the Classical French. However, the move costs White time, which is a clear factor in opposing wing attacks.
+QUESTION: Why would White voluntarily withdraw a centralized piece?
+
+ANSWER: White's move is based on two points: 1. Principle: The side with more space should avoid exchanges. Black isn't going to be tempted to swap away his good bishop for the e3-counterpart.
+
+2. White fights for control over the key c5-square, denying Black ...Nc5 attacking ideas later. Let's not underestimate it, since this line is one of White's highest scoring in the Classical French. However, the move costs White time, which is a clear factor in opposing wing attacks.
 
 **11...Bb4**
 
 Black logically seeks to induce a weakening a2-a3 move.
 
-Alternatives: 11...b6!? 12.Ne2 a5 13.Ned4 Nxd4 14.Nxd4 Ba6 (this bad bishop has a way of sneaking out every time) 15.Kb1 Qc7 16.Bd3 a4 17.Qe2 Bxd3 18.cxd3 b5! and Black's queenside play was well underway. He managed to swap away his light-squared bishop with balanced chances, F.Nijboer-D.Stellwagen, Wijk aan Zee 2003. --- QUESTION: Can White get away with grabbing b5? --- ANSWER: Let's take a look: 19.Nxb5 Qb6 20.Bxc5 Nxc5 21.Na3 (to prevent further erosion of the king's cover after ...a3) 21...Rfb8 (the threat is ...Qb4! menacing the a3-knight and f4-pawn) 22.Ka1 Na6 23.Rc1 Rb7 24.Rc3 Rab8 25.Rb1 and Houdini assesses this as absolutely equal, with full compensation for the pawn since White is completely tied down.
+Alternatives: 11...b6!? 12.Ne2 a5 13.Ned4 Nxd4 14.Nxd4 Ba6 (this bad bishop has a way of sneaking out every time) 15.Kb1 Qc7 16.Bd3 a4 17.Qe2 Bxd3 18.cxd3 b5! and Black's queenside play was well underway. He managed to swap away his light-squared bishop with balanced chances, F.Nijboer-D.Stellwagen, Wijk aan Zee 2003.
+
+QUESTION: Can White get away with grabbing b5?
+
+ANSWER: Let's take a look: 19.Nxb5 Qb6 20.Bxc5 Nxc5 21.Na3 (to prevent further erosion of the king's cover after ...a3) 21...Rfb8 (the threat is ...Qb4! menacing the a3-knight and f4-pawn) 22.Ka1 Na6 23.Rc1 Rb7 24.Rc3 Rab8 25.Rb1 and Houdini assesses this as absolutely equal, with full compensation for the pawn since White is completely tied down.
 
 11...Bxe3 (this swap of dark-squared bishops generally favours White in the Classical, but it does follow the principle: The cramped side should swap pieces) 12.Qxe3 b5 13.Bd3 b4 14.Ne4 (a clever idea, but Moro just ignores the knight) 14...a5 15.Nbc5 Nxc5 16.Qxc5 Ne7 , A.Fier-A.Morozevich, Khanty-Mansiysk 2011. 17.Nd6 is met with 17...Ba6 18.Rhf1 Nc8 and the intruder is challenged. Black looks fine.
 
 **12.Bd3 b5 13.Rhf1!?**
 
-QUESTION: Doesn't White normally play h4 and Rh3 to activate the rook? --- ANSWER: Correct. In this case, Anand plans to lift the rook to h3 where it eyes the black kingside without being obstructed by the h4-pawn.
+QUESTION: Doesn't White normally play h4 and Rh3 to activate the rook?
+
+ANSWER: Correct. In this case, Anand plans to lift the rook to h3 where it eyes the black kingside without being obstructed by the h4-pawn.
 
 White can also try 13.g4 Na5 14.Bd4 Nc4 15.Qf2 a5! . Don't hesitate to give up your b-pawn in such situations and trust in the compensation of your open b-file. After 16.a3 Be7 17.Nxb5 (Black may as well bite the bullet since declining the pawn allows Black to attack for free after a coming ...b4) 17...Ba6 18.Nc3 Qc7 19.Bxc4 Bxc4 20.Nd2 Rab8 ( I would actually consider preserving the bad bishop with 20...Ba6 since this prevents future Rd3 defensive lifts ) 21.Nxc4 Qxc4 22.Qe2 Qc6 23.Rd3 Rfc8 24.Rf1 Bc5! 25.Nd1 , T.Gharamian-Ni Hua, Biel 2011, Black's attack more than compensates for the missing pawn after 25...Bxd4 26.Rxd4 Qb6 27.Rd3 Rc4 28.Rff3 Nc5 29.Rc3 Rd4 when ...Ne4 is in the air.
 
 **13...Nb6!**
 
-Multipurpose: 1. Black menaces ...Nc4. If White captures it there, the b-file is opened after ...bxc4. However, leaving the knight be on c4 isn't a picnic either for White since the advanced knight eyes tempting targets on b2, d2 and e3. --- 2 ...Na4 is in the air, adding pressure to c3. --- 3. Black may contemplate retreating his b4 bishop and following up with ...b4, after which White's attacked c3-knight is denied a Na4 option.
+Multipurpose: 1. Black menaces ...Nc4. If White captures it there, the b-file is opened after ...bxc4. However, leaving the knight be on c4 isn't a picnic either for White since the advanced knight eyes tempting targets on b2, d2 and e3.
+
+2 ...Na4 is in the air, adding pressure to c3.
+
+3. Black may contemplate retreating his b4 bishop and following up with ...b4, after which White's attacked c3-knight is denied a Na4 option.
 
 **14.a3!?**
 
@@ -1243,7 +1448,9 @@ This knight is the lead actor, indispensable to Black's overall goal.
 
 These opposite wing attacks, so common to Classical French, have a nasty way of raising our blood pressure to levels which our doctor wouldn't approve. The bishop, who normally displays a gift of hiding his true feelings, this time uncharacteristically refuses to keep up appearances and indulges in a tantrum. His philosophy on regicide undergoes a jarring modification, as he resolves to assassinate Black's king. In some situations we lay aside notions of multi-layered plans and just reach for a blunt instrument. So Anand decides to waive formalities and sacs. The black king's cover is soon ripped asunder as White's queen and two rooks make a mad dash at Black's seriously exposed king. However, the sac is only good enough to deliver perpetual check.
 
-QUESTION: Rather than this mind over matter plan, can White attempt slower play with 19.Qh5 ? --- ANSWER: This move leads to head-spinning complications after 19...g6 20.Qh6 Re8 21.f5 Bf8 22.Qg5 exf5 23.e6! Rxe6 ( 23...Bxe6?? 24.Qf6 is curtains for Black's king after 24...Bh6+ 25.Kb1 Kf8 26.Bxf5! ) 24.Bxf5 Rd6 25.Bd3 b4 . Amazingly, Houdini worked matters out to a draw in the line 26.Bxc4 bxc3 27.Qe5 f6 28.Rxf6 Bh6+ 29.Kb1 Rxb2+ 30.Ka1 Rxf6 31.Bxd5+ Qxd5 32.Qxd5+ Be6 33.Qd8+ Rf8 34.Qd6 Ra2+ 35.Kb1 Rb2+ with perpetual check.
+QUESTION: Rather than this mind over matter plan, can White attempt slower play with 19.Qh5 ?
+
+ANSWER: This move leads to head-spinning complications after 19...g6 20.Qh6 Re8 21.f5 Bf8 22.Qg5 exf5 23.e6! Rxe6 ( 23...Bxe6?? 24.Qf6 is curtains for Black's king after 24...Bh6+ 25.Kb1 Kf8 26.Bxf5! ) 24.Bxf5 Rd6 25.Bd3 b4 . Amazingly, Houdini worked matters out to a draw in the line 26.Bxc4 bxc3 27.Qe5 f6 28.Rxf6 Bh6+ 29.Kb1 Rxb2+ 30.Ka1 Rxf6 31.Bxd5+ Qxd5 32.Qxd5+ Be6 33.Qd8+ Rf8 34.Qd6 Ra2+ 35.Kb1 Rb2+ with perpetual check.
 
 **19...Kxh7 20.Qh5+ Kg8 21.Rd3**
 
@@ -1275,7 +1482,9 @@ Black gets a lot for the queen in the line 26.Rxg7+ Ke8 27.Qg6+ Kd8 28.Qg5+ Ke8 
 
 **26...Ke8**
 
-EXERCISE (combination alert): The dazed black king reminds us of a citizen of Tokyo, just moments after Godzilla levelled the city. His hope for a discrete exit is foiled and a hidden combination cries for utterance. Delivery of checkmate is outside the scope of White's ragtag forces. How did Anand force the draw? --- ANSWER: Queen sac. The relationship comes to an abrupt end, in much the same way as Sid Vicious and Nancy's tempestuous relationship ended - in a murder/suicide.
+EXERCISE (combination alert): The dazed black king reminds us of a citizen of Tokyo, just moments after Godzilla levelled the city. His hope for a discrete exit is foiled and a hidden combination cries for utterance. Delivery of checkmate is outside the scope of White's ragtag forces. How did Anand force the draw?
+
+ANSWER: Queen sac. The relationship comes to an abrupt end, in much the same way as Sid Vicious and Nancy's tempestuous relationship ended - in a murder/suicide.
 
 **27.Qxf8+!**
 
@@ -1286,6 +1495,7 @@ After 27.Qxf8+ Kxf8 28.Rh8+ Kf7 ( 28...Ke7?? this move does little to sooth the 
 SUMMARY: 11.Nb3 is based upon the following two points:
 
 1. Principle: The side with more space should avoid exchanges (since Black isn't tempted to swap away his good bishop on e3).
+
 2. White fights for control over the key c5-square, denying Black ...Nc5 attacking ideas later.
 
 1/2-1/2
@@ -1294,7 +1504,9 @@ SUMMARY: 11.Nb3 is based upon the following two points:
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 a6 8.Qd2 cxd4 9.Nxd4 Bc5 10.O-O-O O-O 11.Kb1**
 
-QUESTION: Can White afford such a leisurely defensive move in an opposite wing attacks situation? --- ANSWER: It isn't really a loss of a tempo. If you look back on the previous games of this chapter, White tossed in Kb1 at some point or another in the majority of the games. By playing it early, White plays a useful defensive move and seeks to keep options open, while gathering intelligence on how Black plans to structure his operations.
+QUESTION: Can White afford such a leisurely defensive move in an opposite wing attacks situation?
+
+ANSWER: It isn't really a loss of a tempo. If you look back on the previous games of this chapter, White tossed in Kb1 at some point or another in the majority of the games. By playing it early, White plays a useful defensive move and seeks to keep options open, while gathering intelligence on how Black plans to structure his operations.
 
 **11...Bxd4**
 
@@ -1304,7 +1516,9 @@ The alternative trade 11...Nxd4 12.Bxd4 b5 13.Qe3 Qb6 14.Bxc5 Nxc5 the ending is
 
 **12.Bxd4 b5 13.h4**
 
-QUESTION: Wouldn't it be more logical for White to hang on to his bishop with 13.Bf2 ? --- ANSWER: Your suggestion is playable but risky, since a tempo can mean the difference between winning and losing in such sharp positions. For example, Black must not hesitate to ditch material after 13...Bb7 14.Bd3 Qc7 15.Qe3!? ( I would go for the standard attacking plan 15.h4 Ne7 16.Rh3 ) 15...Nb4 16.Qh3 Nxd3 17.cxd3 b4 18.Ne2 d4!? (a sound investment, sac'ing a pawn to clear d5 for a piece) 19.Rc1 Qa5 20.Nxd4 , D.Rivera Kuzawka-V.Moskalenko, Caldas de Reis 1992 and Black appears to achieve full compensation after 20...Rac8 with the intention of ...Bd5.
+QUESTION: Wouldn't it be more logical for White to hang on to his bishop with 13.Bf2 ?
+
+ANSWER: Your suggestion is playable but risky, since a tempo can mean the difference between winning and losing in such sharp positions. For example, Black must not hesitate to ditch material after 13...Bb7 14.Bd3 Qc7 15.Qe3!? ( I would go for the standard attacking plan 15.h4 Ne7 16.Rh3 ) 15...Nb4 16.Qh3 Nxd3 17.cxd3 b4 18.Ne2 d4!? (a sound investment, sac'ing a pawn to clear d5 for a piece) 19.Rc1 Qa5 20.Nxd4 , D.Rivera Kuzawka-V.Moskalenko, Caldas de Reis 1992 and Black appears to achieve full compensation after 20...Rac8 with the intention of ...Bd5.
 
 **13...b4 14.Na4**
 
@@ -1326,7 +1540,9 @@ Alternatively, 17.h5 Bc6 18.Nb2 Bb5 19.Bd3 Rac8 20.f5 Bxd3 21.cxd3 exf5 22.h6 Qc
 
 **17...Bc6 18.Nb2**
 
-QUESTION: What happens if White ignores the threat on a4 and sacs to continue the attack with 18.h5 Bxa4 19.h6 ? --- ANSWER: The sac looks unsound. Black should be winning after 19...g6! 20.bxa4 Nc5 when White is just busted, since Black threatens ...Nxa3 and ...Nc3+ where he nets material and retains the attack whereas White does not possess a trace of compensation.
+QUESTION: What happens if White ignores the threat on a4 and sacs to continue the attack with 18.h5 Bxa4 19.h6 ?
+
+ANSWER: The sac looks unsound. Black should be winning after 19...g6! 20.bxa4 Nc5 when White is just busted, since Black threatens ...Nxa3 and ...Nc3+ where he nets material and retains the attack whereas White does not possess a trace of compensation.
 
 **18...Bb5**
 
@@ -1334,7 +1550,9 @@ Our standard "ugly-duckling turns into swan" process is completed.
 
 **19.Bd3 Rfc8**
 
-QUESTION: Is this the correct rook? --- ANSWER: I'm not sure.
+QUESTION: Is this the correct rook?
+
+ANSWER: I'm not sure.
 
 My intuition would go with 19...Rac8 to keep ...f6 options open. 20.Bxb5 Qxb5 21.Nd3 a5 22.Rd2 Nc5 23.Nxc5 Rxc5 24.Rf3 occurred in N.Guliyev-S.Kindermann, Germany 2008. At this stage, I prefer Black after 24...a4 25.bxa4 ( 25.f5 axb3 26.axb3 exf5 27.Rxf5 Ra8 28.Kc1 Qc6 29.Kd1 h6 also looks better for Black ) 25...Qa5 26.f5 Rc4 27.Qf2 Ra8 28.fxe6 fxe6 29.Rf7 Rg4! 30.Qf3 Qxa4 (threatening mate) 31.Rf8+ Rxf8 32.Qxg4 Kh8 33.h5 h6 when Black has both the safer king and superior structure.
 
@@ -1346,7 +1564,9 @@ This looks new.
 
 **20...Nb8?!**
 
-This is either the beginning of a complex plan, or an elaborate hoax! This move is based on the philosophy: Predictable routine offers us a sense of comfort in day to day life; predictability when in a state of war, however, allows our opponents clear hindsight of our intent. --- We all understand the spirit of revolution is to defy the ruling authority, yet such an embrace of circuitous logic doesn't work in a semi-open position. In this instance the interface of optimism and reality fails to harmonize the way Black wishes it would. This is not the time to waffle from one plan to the next and he could do without this embellishment. Black seeks to redeploy his knight to c6 at a fearful cost of time.
+This is either the beginning of a complex plan, or an elaborate hoax! This move is based on the philosophy: Predictable routine offers us a sense of comfort in day to day life; predictability when in a state of war, however, allows our opponents clear hindsight of our intent.
+
+We all understand the spirit of revolution is to defy the ruling authority, yet such an embrace of circuitous logic doesn't work in a semi-open position. In this instance the interface of optimism and reality fails to harmonize the way Black wishes it would. This is not the time to waffle from one plan to the next and he could do without this embellishment. Black seeks to redeploy his knight to c6 at a fearful cost of time.
 
 The simple 20...Nc5 provides Black with a dynamically balanced game after 21.f5 Bxd3 22.Nxd3 ( 22.cxd3 Nd7 23.Rhh1 exf5 24.h5 h6 25.Qf4 Nc5 26.Qxf5 Rc7 is at least equal for Black ) 22...Ne4! 23.Nxb4 Rab8 24.c3 Qb5 and Black's two open attacking lanes offer loads of compensation for the pawn after the coming ...a5.
 
@@ -1368,7 +1588,11 @@ Houdini works out an equal ending in the complex line 24.fxe6 fxe5 25.Qf5 Bxd3 2
 
 **24...Nxe5 25.Qxb4 Nxd3 26.Nxd3 e5**
 
-Black emerged from the complications with a clear advantage. This is due to his: 1) Powerful, unchallenged centre. --- 2) Better remaining minor piece. --- 3) Superior attacking chances.
+Black emerged from the complications with a clear advantage. This is due to his: 1) Powerful, unchallenged centre.
+
+2) Better remaining minor piece.
+
+3) Superior attacking chances.
 
 **27.Nb2**
 
@@ -1424,11 +1648,15 @@ ANSWER: The queen sac 35...Qxc4! speeds up White's demise. What's worse is White
 
 **36.Ra1**
 
-EXERCISE (combination alert): Round two. Find the hidden catalyst to Black's attack. --- ANSWER: Overload.
+EXERCISE (combination alert): Round two. Find the hidden catalyst to Black's attack.
+
+ANSWER: Overload.
 
 **36...d2!**
 
-It is an exercise in futility to continue 36...d2! 37.Qg1 Qxa1+ 38.Qxa1 Rxa1 39.Nxd2 Rea8! and 40.Rxe2 R8a2# is mate! --- SUMMARY: 11 Kb1 is a temporizing move where White makes a useful defensive move while waiting to see how we set up our battle formation.
+It is an exercise in futility to continue 36...d2! 37.Qg1 Qxa1+ 38.Qxa1 Rxa1 39.Nxd2 Rea8! and 40.Rxe2 R8a2# is mate!
+
+SUMMARY: 11 Kb1 is a temporizing move where White makes a useful defensive move while waiting to see how we set up our battle formation.
 
 0-1
 
@@ -1448,7 +1676,17 @@ Tarrasch French: 3.Nd2 Nf6 4.e5 Nfd7 5.f4 c5 6.c3 Nc6 7.Ndf3 Qb6 8.g3 f6 9.Ne2 .
 
 **3...Nf6 4.e5 Nfd7 5.Nce2**
 
-QUESTION: Why is this variation called the Shirov-Anand Line? --- ANSWER: This idea was played by Anand in his 2000 FIDE World Championships match against Shirov in the fourth and final game (See Game 11). Anand won the match 3.5-0.5, by the way. --- QUESTION: The move openly violates principles: 1. Don't move the same piece more than once in the opening. --- 2. Don't clog your development, which the knight clearly does on e2. --- Am I correct in this assumption? --- ANSWER: It's no easy task to examine a situation from the opponent's point of view, mainly since our own perspective tends to block out the horizon. You are correct, yet it's still a good move and White scores 55.1% with it - an average score for a white opening. The line is also played at the very highest levels, being a particular favourite of Anand, who has accumulated a devastating score with it as White. White's ideas behind the move: Unlike the first chapter, where Black undermines White's centre with ...c5, ...cxd4 and later ...f6, in the case of the Shirov-Anand Line, White intends to back up the gigantic centre with c3 and also f4, intending to recapture on d4 and e5 with pawns. This means White annexes massive territory, hoping to deny the opponent counterplay and essentially asphyxiate Black. Of course, there is a huge catch to White's dreams - the fact that White, while busily erecting the centre, wilfully neglects development. It is up to us to find a way to open the position early and exploit this factor. It is not enough to merely play ...c5, ...cxd4, ...f6 and ...fxe5. We must keep in mind the possibility of ...g5 and also look for exchange sacs on f3, not forgetting piece sac options on d4 and e5 to exploit our developmental lead.
+QUESTION: Why is this variation called the Shirov-Anand Line?
+
+ANSWER: This idea was played by Anand in his 2000 FIDE World Championships match against Shirov in the fourth and final game (See Game 11). Anand won the match 3.5-0.5, by the way.
+
+QUESTION: The move openly violates principles: 1. Don't move the same piece more than once in the opening.
+
+2. Don't clog your development, which the knight clearly does on e2.
+
+Am I correct in this assumption?
+
+ANSWER: It's no easy task to examine a situation from the opponent's point of view, mainly since our own perspective tends to block out the horizon. You are correct, yet it's still a good move and White scores 55.1% with it - an average score for a white opening. The line is also played at the very highest levels, being a particular favourite of Anand, who has accumulated a devastating score with it as White. White's ideas behind the move: Unlike the first chapter, where Black undermines White's centre with ...c5, ...cxd4 and later ...f6, in the case of the Shirov-Anand Line, White intends to back up the gigantic centre with c3 and also f4, intending to recapture on d4 and e5 with pawns. This means White annexes massive territory, hoping to deny the opponent counterplay and essentially asphyxiate Black. Of course, there is a huge catch to White's dreams - the fact that White, while busily erecting the centre, wilfully neglects development. It is up to us to find a way to open the position early and exploit this factor. It is not enough to merely play ...c5, ...cxd4, ...f6 and ...fxe5. We must keep in mind the possibility of ...g5 and also look for exchange sacs on f3, not forgetting piece sac options on d4 and e5 to exploit our developmental lead.
 
 **5...c5 6.c3**
 
@@ -1480,7 +1718,9 @@ and 8...a5 .
 
 **9.g3**
 
-QUESTION: More time loss? --- ANSWER: White must find a way to develop the kingside, so he plans Bh3 to take aim at the newly weakened e6-square. GM Neil McDonald calls the move "extremely ambitious".
+QUESTION: More time loss?
+
+ANSWER: White must find a way to develop the kingside, so he plans Bh3 to take aim at the newly weakened e6-square. GM Neil McDonald calls the move "extremely ambitious".
 
 In the next two games of the chapter, we will look at 9.a3 .
 
@@ -1506,7 +1746,9 @@ More accurate than 11...fxe5 12.fxe5 O-O since it allows White 13.Bf4 . Now Blac
 
 **12.a3**
 
-QUESTION: Can White relieve some of the central pressure by agreeing to a concession with 12.exf6 ? --- ANSWER: The move does reduce the central pressure for White, but it also helps Black unravel. Black gets excellent chances after 12...Nxf6 13.Be3?! , and now Black can utilize his developmental lead by blasting open the centre favourably with ( 13.a3 avoids Black's coming trick, T.Fogarasi-M.Guzijan, Budapest 1990 ) 13...e5! 14.Nxe5 Nxe5 15.fxe5 Bg4 16.Be2 Bxe2 17.Qxe2 Ne4 18.Rc1 Qa5 , thus threatens both the a2-pawn and the c3-knight. After 19.a3 Bxc3+ 20.bxc3 Rac8 , Black regains lost material. More pertinent is that he retains the dominant position with a continuing developmental lead, the superior minor piece and White's king is still stuck in the middle.
+QUESTION: Can White relieve some of the central pressure by agreeing to a concession with 12.exf6 ?
+
+ANSWER: The move does reduce the central pressure for White, but it also helps Black unravel. Black gets excellent chances after 12...Nxf6 13.Be3?! , and now Black can utilize his developmental lead by blasting open the centre favourably with ( 13.a3 avoids Black's coming trick, T.Fogarasi-M.Guzijan, Budapest 1990 ) 13...e5! 14.Nxe5 Nxe5 15.fxe5 Bg4 16.Be2 Bxe2 17.Qxe2 Ne4 18.Rc1 Qa5 , thus threatens both the a2-pawn and the c3-knight. After 19.a3 Bxc3+ 20.bxc3 Rac8 , Black regains lost material. More pertinent is that he retains the dominant position with a continuing developmental lead, the superior minor piece and White's king is still stuck in the middle.
 
 **12...Be7 13.Bh3 fxe5!?**
 
@@ -1520,7 +1762,9 @@ White is not one to allow such a provocation to pass unchallenged.
 
 **14...Kh8 15.Nxd5 Qd8 16.Bxd7**
 
-This ensures us the bishop pair and domination of the light squares. --- QUESTION: I'm getting a bit concerned. We are dropping pawns left and right. Is Black still okay here?
+This ensures us the bishop pair and domination of the light squares.
+
+QUESTION: I'm getting a bit concerned. We are dropping pawns left and right. Is Black still okay here?
 
 ANSWER: Black's developmental lead continues to give him full compensation in every version. For example: 16.Nxe7 Qxe7 17.d5 e4 18.Ng5 Nc5 19.Bxc8 Nd3+ 20.Kf1 Raxc8 21.dxc6 Qxg5 22.cxb7 Rb8 23.Kg2 , A.Lukin-S.Ivanov, Soviet Union 1984. Here, Black has a powerful attack and initiative after 23...Qc5 .
 
@@ -1540,7 +1784,9 @@ Attacking b2 and the pinned e3-knight.
 
 **21.Qd2**
 
-EXERCISE (combination alert): How did Black, currently down two pawns, pick up the exchange? --- ANSWER: Attraction/double attack.
+EXERCISE (combination alert): How did Black, currently down two pawns, pick up the exchange?
+
+ANSWER: Attraction/double attack.
 
 **21...Bxf3! 22.Rxf3**
 
@@ -1654,13 +1900,17 @@ Setting up a deadly threat of a queen check on b7.
 
 **42...Rg3 43.Kh2**
 
-A mistake but White was busted anyway. --- EXERCISE (combination alert): A cloud of anxiety hangs over White's king. Black to play and win.
+A mistake but White was busted anyway.
+
+EXERCISE (combination alert): A cloud of anxiety hangs over White's king. Black to play and win.
 
 His best hope to resist was 43.Re1 though it would have been futile with careful play from Black.
 
 **43...Qa2+**
 
-ANSWER: Double attack/deflection. --- Quick as a shadow, the queen strikes. "A well-aimed arrow at my brother's heart will finally resolve our misunderstanding," thinks Black's queen.
+ANSWER: Double attack/deflection.
+
+Quick as a shadow, the queen strikes. "A well-aimed arrow at my brother's heart will finally resolve our misunderstanding," thinks Black's queen.
 
 **44.Ne2**
 
@@ -1676,11 +1926,15 @@ SUMMARY: In the Shirov-Anand Line, we enter a classic battle between structure a
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4**
 
-QUESTION: Didn't you cover this in Chapter One? --- ANSWER: We can also reach the Shirov-Anand Line with this move order.
+QUESTION: Didn't you cover this in Chapter One?
+
+ANSWER: We can also reach the Shirov-Anand Line with this move order.
 
 **5...c5 6.Nce2 Nc6**
 
-QUESTION: Shouldn't we punish White for his failure to play c3 by playing 6...cxd4 ? --- ANSWER: It's playable but most GMs just stick to 6...Nc6, the move Bartel played in the game. After 6...cxd4, White retains absolute control over d4 after 7.Nxd4 Nc6 . Even though now Black threatens ...Ndxe5! followed by ...Qh4, every opponent in the universe is going to respond with White's next move, even if he or she doesn't spot the trap. After the natural 8.Ngf3 Nc5 9.Be3 Bd7 10.c3 Be7 11.Nb3 b6! 12.Be2 Nxb3 13.axb3 Bc5 14.Qd2 a5 15.O-O O-O 16.Bd3 Qe7 17.Kh1 f6 18.exf6 gxf6!? 19.Rae1 , White has a dynamic position where his attacking chances get the nod over Black's central potential, C.Bauer-M.Gurevich, Belfort 2003.
+QUESTION: Shouldn't we punish White for his failure to play c3 by playing 6...cxd4 ?
+
+ANSWER: It's playable but most GMs just stick to 6...Nc6, the move Bartel played in the game. After 6...cxd4, White retains absolute control over d4 after 7.Nxd4 Nc6 . Even though now Black threatens ...Ndxe5! followed by ...Qh4, every opponent in the universe is going to respond with White's next move, even if he or she doesn't spot the trap. After the natural 8.Ngf3 Nc5 9.Be3 Bd7 10.c3 Be7 11.Nb3 b6! 12.Be2 Nxb3 13.axb3 Bc5 14.Qd2 a5 15.O-O O-O 16.Bd3 Qe7 17.Kh1 f6 18.exf6 gxf6!? 19.Rae1 , White has a dynamic position where his attacking chances get the nod over Black's central potential, C.Bauer-M.Gurevich, Belfort 2003.
 
 **7.c3 Qb6 8.Nf3 f6 9.a3**
 
@@ -1688,7 +1942,9 @@ White continues to follow his leisurely strategy, putting off development for la
 
 **9...Be7**
 
-QUESTION: If we know White is planning to resolve central tension with b4, then why not prevent it with 9...a5 ? --- ANSWER: The move is playable but we actually don't mind White playing b4, since this allows us ...a5, undermining White's queenside. 10.g3 (White follows the game plan from the previous game in the chapter) 10...Be7 11.Bh3 Nf8 ( 11...f5 is exactly what White wants ) 12.exf6 Bxf6 occurred in A.Ivanov-A.Bykhovsky, New York 1990 when White can exert unpleasant central pressure after 13.dxc5! (to clear d4 for his pieces) 13...Qxc5 14.Ned4 .
+QUESTION: If we know White is planning to resolve central tension with b4, then why not prevent it with 9...a5 ?
+
+ANSWER: The move is playable but we actually don't mind White playing b4, since this allows us ...a5, undermining White's queenside. 10.g3 (White follows the game plan from the previous game in the chapter) 10...Be7 11.Bh3 Nf8 ( 11...f5 is exactly what White wants ) 12.exf6 Bxf6 occurred in A.Ivanov-A.Bykhovsky, New York 1990 when White can exert unpleasant central pressure after 13.dxc5! (to clear d4 for his pieces) 13...Qxc5 14.Ned4 .
 
 **10.b4**
 
@@ -1712,7 +1968,9 @@ Principle: Create confrontation when leading in development.
 
 **13.b5!**
 
-QUESTION: Why did White hand over a pawn on a platter? --- ANSWER: It's a forced blockading sac to take control over b5.
+QUESTION: Why did White hand over a pawn on a platter?
+
+ANSWER: It's a forced blockading sac to take control over b5.
 
 White really doesn't have much choice since he stands clearly worse after 13.bxa5? . I don't see a single game in the database with this weak move and with good reason. Black retains initiative after 13...Qxa5+ 14.Bd2 Qb6 when the a3-pawn is hanging.
 
@@ -1808,7 +2066,9 @@ should just take the perpetual check with 30.Rb2!? Rxf5+ 31.Bxf5 Qxf5+ 32.Kg1 Qg
 
 **30...Rxf5+ 31.Bxf5**
 
-EXERCISE (combination alert): The expansive sweep of White's dishevelment grows painfully apparent. Black to play and force mate in four moves. --- ANSWER: Zwischenzug. The surprise eclipses White's expectations. Black inserts an important proviso to the contract: He is under no obligation to automatically recapture f5.
+EXERCISE (combination alert): The expansive sweep of White's dishevelment grows painfully apparent. Black to play and force mate in four moves.
+
+ANSWER: Zwischenzug. The surprise eclipses White's expectations. Black inserts an important proviso to the contract: He is under no obligation to automatically recapture f5.
 
 **31...Qf3+!**
 
@@ -1816,7 +2076,9 @@ The queen, feeling that tolerance has been pushed to her limits, decides the tim
 
 White is doomed after 31...Qf3+ 32.Kg1 Ne2+ 33.Kh2 Qg3+ 34.Kh1 Qg1# mate! The queen professes shock and dismay at her brother's sudden and mysterious death. Yet the faintest hint of the Mona Lisa smile on her lips betrays her true feelings.
 
-White must have hoped for the blundering 31...Qxf5+?? 32.Ke1 Nf8 33.Qh8+ Kf7 34.Rb6 Ne4 35.Rf4 and White wins instead. --- SUMMARY: Bartel's adoption of Bareev's 16...h6! dampens White's kingside ambitions considerably. Black's chances look at least even in the coming complications.
+White must have hoped for the blundering 31...Qxf5+?? 32.Ke1 Nf8 33.Qh8+ Kf7 34.Rb6 Ne4 35.Rf4 and White wins instead.
+
+SUMMARY: Bartel's adoption of Bareev's 16...h6! dampens White's kingside ambitions considerably. Black's chances look at least even in the coming complications.
 
 0-1
 
@@ -2204,7 +2466,13 @@ We now come to the players who propelled this line into prominence by contesting
 
 QUESTION: Why not ...Be7 and leave ...f6 for later?
 
-ANSWER: Shirov hopes to play, under certain circumstances, ...cxd4 and ...Bb4+, without wasting a move on ...Be7. However, transpositional possibilities might occur after 8...Be7 9.a3 O-O 10.h4!? f6 11.Rh3 and the players reached a position in the stem game. Following 11...Na5!? 12.b4! cxb4 13.axb4 Nc4 14.Ng3 a5 15.Bd3 f5 ( Shirov didn't want to allow 15...Ra7 16.Ng5! and if 16...fxg5?? 17.Bxh7+! Kxh7 18.hxg5+ Kg8 , 19.g6 is decisive ) 16.Ng5 Rd8 17.Qh5 Bxg5 18.Qxg5! ( setting up the threat of Nh5 and Black looks okay after 18.hxg5 Nf8 ) 18...Rf8 19.Nh5 Rf7 20.Rg3 g6 , a critical weakening is induced. After 21.Bxc4 dxc4 22.b5! , Anand finds a way to bring the c1-bishop into the attack, culminating in 22...Qxb5 23.Ba3 b6 24.Qh6 Bb7 25.Rxg6+! hxg6 26.Qxg6+ Kh8 27.Qxf7 Rg8 . --- EXERCISE (combination alert): White to play and force mate. --- ANSWER: Overloading the defenders with 28.Bf8! and Black resigned in V.Anand-A.Shirov, Frankfurt 2000, since 28...Nxf8 29.Nf6 forces mate. --- We will also look at another White plan 9 g3 in the 8...Be7 line in Games 12.
+ANSWER: Shirov hopes to play, under certain circumstances, ...cxd4 and ...Bb4+, without wasting a move on ...Be7. However, transpositional possibilities might occur after 8...Be7 9.a3 O-O 10.h4!? f6 11.Rh3 and the players reached a position in the stem game. Following 11...Na5!? 12.b4! cxb4 13.axb4 Nc4 14.Ng3 a5 15.Bd3 f5 ( Shirov didn't want to allow 15...Ra7 16.Ng5! and if 16...fxg5?? 17.Bxh7+! Kxh7 18.hxg5+ Kg8 , 19.g6 is decisive ) 16.Ng5 Rd8 17.Qh5 Bxg5 18.Qxg5! ( setting up the threat of Nh5 and Black looks okay after 18.hxg5 Nf8 ) 18...Rf8 19.Nh5 Rf7 20.Rg3 g6 , a critical weakening is induced. After 21.Bxc4 dxc4 22.b5! , Anand finds a way to bring the c1-bishop into the attack, culminating in 22...Qxb5 23.Ba3 b6 24.Qh6 Bb7 25.Rxg6+! hxg6 26.Qxg6+ Kh8 27.Qxf7 Rg8 .
+
+EXERCISE (combination alert): White to play and force mate.
+
+ANSWER: Overloading the defenders with 28.Bf8! and Black resigned in V.Anand-A.Shirov, Frankfurt 2000, since 28...Nxf8 29.Nf6 forces mate.
+
+We will also look at another White plan 9 g3 in the 8...Be7 line in Games 12.
 
 **9.a3**
 
@@ -2222,17 +2490,25 @@ Black restrains b4 in an attempt to improve over Shirov's previously played 11..
 
 **12.b3!**
 
-Anand is alert to the demands of the position. --- QUESTION: Why did White toss in b3? --- ANSWER: Anand prevented Black's coming light-squared bind, based upon the plan ...a4 and then eventually ...Na5 and either ...Nc4 or ...Nb3.
+Anand is alert to the demands of the position.
+
+QUESTION: Why did White toss in b3?
+
+ANSWER: Anand prevented Black's coming light-squared bind, based upon the plan ...a4 and then eventually ...Na5 and either ...Nc4 or ...Nb3.
 
 **12...Qc7!**
 
-QUESTION: Why did Black retreat his well-placed queen? --- ANSWER: Shirov possibly intends to free his congested queenside and especially the dead c8-bishop with ...b6, followed by ...Ba6.
+QUESTION: Why did Black retreat his well-placed queen?
+
+ANSWER: Shirov possibly intends to free his congested queenside and especially the dead c8-bishop with ...b6, followed by ...Ba6.
 
 Anand also indicated in ChessBase Magazine 81 that he preferred this over 12...Qd8 since "this move looks much better" and "for a start, there are possibilities of Qc3+ in some lines".
 
 **13.Neg1!?**
 
-QUESTION: What on earth is the point of undeveloping like this? --- ANSWER: Anand plans to unravel with Bd3 and knight back to e2. The obvious problem: White's position may not tolerate such a flagrant violation of principle.
+QUESTION: What on earth is the point of undeveloping like this?
+
+ANSWER: Anand plans to unravel with Bd3 and knight back to e2. The obvious problem: White's position may not tolerate such a flagrant violation of principle.
 
 **13...a4!?**
 
@@ -2246,7 +2522,11 @@ If 14.Bd3 , Black gets away with 14...Ba6! since the h7-sac looks unsound, after
 
 **14.b4 fxe5 15.fxe5 Ndxe5!**
 
-The position is a composite of White's and Black's intentions. Their conflicting ideas clash in a battle to the death as Black's dreamed-of plan, for so long quiescent, now self-activates. Shirov refuses to worry about details and plays the position with the perspective of an impressionist painter, who just hopes the colours fall correctly. --- QUESTION: Does Black get enough for the piece? --- ANSWER: I believe so. Black gets two central pawns, a developmental lead, the initiative and attacking chances for the piece. A fair deal.
+The position is a composite of White's and Black's intentions. Their conflicting ideas clash in a battle to the death as Black's dreamed-of plan, for so long quiescent, now self-activates. Shirov refuses to worry about details and plays the position with the perspective of an impressionist painter, who just hopes the colours fall correctly.
+
+QUESTION: Does Black get enough for the piece?
+
+ANSWER: I believe so. Black gets two central pawns, a developmental lead, the initiative and attacking chances for the piece. A fair deal.
 
 **16.dxe5 Nxe5 17.Nxe5 Qxe5+ 18.Qe2**
 
@@ -2256,7 +2536,9 @@ Instead, 18.Ne2 prevents Black's following combination. After 18...Qf5 19.Rf3 Bx
 
 **18...Bxh4+!**
 
-ANSWER: Deflection/double attack. --- A hissing arrow grazes the white king's face, leaving a thin red line as a permanent reminder of the experience. Black gains a third pawn for the piece.
+ANSWER: Deflection/double attack.
+
+A hissing arrow grazes the white king's face, leaving a thin red line as a permanent reminder of the experience. Black gains a third pawn for the piece.
 
 **19.Kd1**
 
@@ -2280,7 +2562,9 @@ The disgraced, disrobed bishop, now free from monastic constraints and unencumbe
 
 **21...Qb3+ 22.Kc1!**
 
-This shocker appears unheralded by previous warning and may be the move Shirov overlooked in his calculations. Perhaps he expected a queen swap with Qc2, when it is Black who stands better. Suddenly, Black's long unblemished position displays signs which indicate otherwise. White's king graciously holds the door open for Black's queen, beckoning her into a trap on b3, with an "after you" gesture. To come up with a rational plan from such chaos, we first begin by isolating the facts: 1. Anand's deep point is revealed: A deadly double attack. White's forces - hungry carrion birds - camp out, awaiting the black queen's inevitable death. White threatens Ne5, trapping Black's queen in the middle of the board. --- 2. White also threatens the hanging h4-bishop. Conclusion: Black is obliged to hand over a second piece to extricate his queen.
+This shocker appears unheralded by previous warning and may be the move Shirov overlooked in his calculations. Perhaps he expected a queen swap with Qc2, when it is Black who stands better. Suddenly, Black's long unblemished position displays signs which indicate otherwise. White's king graciously holds the door open for Black's queen, beckoning her into a trap on b3, with an "after you" gesture. To come up with a rational plan from such chaos, we first begin by isolating the facts: 1. Anand's deep point is revealed: A deadly double attack. White's forces - hungry carrion birds - camp out, awaiting the black queen's inevitable death. White threatens Ne5, trapping Black's queen in the middle of the board.
+
+2. White also threatens the hanging h4-bishop. Conclusion: Black is obliged to hand over a second piece to extricate his queen.
 
 **22...e5!**
 
@@ -2348,7 +2632,9 @@ Stronger than 39.Ne5 d1=Q+ 40.Rxd1 Rxc3+ 41.Kxc3 e2+ 42.Kd2 exd1=Q+ 43.Kxd1 Rxa3
 
 Black's initiative looks as dry and unappealing as last week's loaf of bread.
 
-The passer's arduous trek is at an end after 41.Nh4! Rxa1 42.Rxa1 d1=R+ 43.Rxd1 Ra2 44.Kxe3 . --- SUMMARY: Shirov's piece sac, initiated with 13...a4!? looks sound. Still, I prefer the calmer path 13...b6! intending 14...Ba6, with equality and possibly even an edge for Black.<skip start="14...Ba6"/>
+The passer's arduous trek is at an end after 41.Nh4! Rxa1 42.Rxa1 d1=R+ 43.Rxd1 Ra2 44.Kxe3 .
+
+SUMMARY: Shirov's piece sac, initiated with 13...a4!? looks sound. Still, I prefer the calmer path 13...b6! intending 14...Ba6, with equality and possibly even an edge for Black.<skip start="14...Ba6"/>
 
 1-0
 
@@ -2364,7 +2650,11 @@ In the next game, we will look at 9.a3 .
 
 **9...a5!?**
 
-Speelman wilfully infringes the position's normal plan. --- QUESTION: Why does Black play ...a5 when White isn't even threatening to play b4? --- ANSWER: Since White tossed in g3, playing ...f6, in a sense plays into White's hands since it allows Bh3, attacking e6. In this instance, Black refuses to oblige with ...f6 and instead seeks to make territorial gains on the queenside with ...a4.
+Speelman wilfully infringes the position's normal plan.
+
+QUESTION: Why does Black play ...a5 when White isn't even threatening to play b4?
+
+ANSWER: Since White tossed in g3, playing ...f6, in a sense plays into White's hands since it allows Bh3, attacking e6. In this instance, Black refuses to oblige with ...f6 and instead seeks to make territorial gains on the queenside with ...a4.
 
 **10.h4**
 
@@ -2374,7 +2664,11 @@ Let's have a look at the alternatives: 10.Bh3 a4 11.O-O O-O 12.Kh1 a3 13.b3 cxd4
 
 **10...a4 11.Bh3 Ndb8!?**
 
-A stunning theoretical novelty! Jon Speelman, one of the most original chess-thinkers of our time, has the disconcerting habit of filling his head with impossible, nonsensical fantasy and then somehow transforming fiction into a reality. Nimzowitsch would approve of this bizarre idea. Speelman strives to reroute and activate his worst-placed piece via a6 or c6. --- QUESTION: Can Black get away with such a flagrant violation? --- ANSWER: He can, as long as the position remains closed. Also, let's remember that White indulged in an awful lot of non-developing pawn pushes earlier in the game. So Speelman's idea feels justified.
+A stunning theoretical novelty! Jon Speelman, one of the most original chess-thinkers of our time, has the disconcerting habit of filling his head with impossible, nonsensical fantasy and then somehow transforming fiction into a reality. Nimzowitsch would approve of this bizarre idea. Speelman strives to reroute and activate his worst-placed piece via a6 or c6.
+
+QUESTION: Can Black get away with such a flagrant violation?
+
+ANSWER: He can, as long as the position remains closed. Also, let's remember that White indulged in an awful lot of non-developing pawn pushes earlier in the game. So Speelman's idea feels justified.
 
 Previously played was 11...cxd4 12.cxd4 a3 13.b3 f5 14.h5 h6 15.Kf2 O-O 16.Be3 Ndb8 There it is again! 17.g4 fxg4 18.Bxg4 Bd7 19.Qd3 Nb4 20.Qg6 and I don't like Black's game since Rag1 and f5 are in the air, creating great danger to Black's king, M.Holeksa-T.Sedlacek, correspondence 1997.
 
@@ -2382,7 +2676,11 @@ Previously played was 11...cxd4 12.cxd4 a3 13.b3 f5 14.h5 h6 15.Kf2 O-O 16.Be3 N
 
 Played to prevent ...h5. This move may be the seed of White's coming difficulties.
 
-Lalic criticized his last move, claiming that 12.O-O was superior. --- QUESTION: Why was he afraid to castle during the game? --- ANSWER: Lalic may have feared the blocking plan 12...h5 but in his analysis he pointed out the plan 13.Kg2 followed by a future g4, prying open the kingside. Let's take a look at a possible scenario: 13...g6 14.Rh1 Bd7 15.g4 cxd4 16.cxd4 hxg4 17.Bxg4 Nd8 18.Rb1 Bb5 and the bishop, having performed a miracle, falls to his knees to give thanks for its emergence. After 19.Nc3 Nbc6 20.Be3 Qa6 21.Nxb5 Qxb5 22.Ng5 a3 23.bxa3 Qa4 24.Rb3 Na5 25.Rd3 Qxd1 26.Bxd1 Nc4 27.Bf2 Bxa3 28.h5 gxh5 29.Rdh3 Be7 30.a4 Rg8 31.Rxh5 Kd7 32.Kf3 , Houdini rates this position at dead even.
+Lalic criticized his last move, claiming that 12.O-O was superior.
+
+QUESTION: Why was he afraid to castle during the game?
+
+ANSWER: Lalic may have feared the blocking plan 12...h5 but in his analysis he pointed out the plan 13.Kg2 followed by a future g4, prying open the kingside. Let's take a look at a possible scenario: 13...g6 14.Rh1 Bd7 15.g4 cxd4 16.cxd4 hxg4 17.Bxg4 Nd8 18.Rb1 Bb5 and the bishop, having performed a miracle, falls to his knees to give thanks for its emergence. After 19.Nc3 Nbc6 20.Be3 Qa6 21.Nxb5 Qxb5 22.Ng5 a3 23.bxa3 Qa4 24.Rb3 Na5 25.Rd3 Qxd1 26.Bxd1 Nc4 27.Bf2 Bxa3 28.h5 gxh5 29.Rdh3 Be7 30.a4 Rg8 31.Rxh5 Kd7 32.Kf3 , Houdini rates this position at dead even.
 
 **12...cxd4 13.cxd4 Bd7 14.O-O Na5**
 
@@ -2466,7 +2764,9 @@ For White, the landscape is one of blighted dreams and deceased hope. The saggin
 
 The d6-bishop, along with his ruthless confederates, approach their target unencumbered by concepts of right or wrong.
 
-29...Bd6 30.Kh1 (the king's hiding place is discovered, mainly due to the loud, convulsive chattering of his teeth) 30...g4 31.Ng5 Bc6+ and the evidence is presented and the white king's guilt remains incontrovertible. "Our bargain was that I would be spared upon surrendering," White's king reminds the c6-emissary who responds, "I'm afraid you have been misinformed upon the matter, Your Grace." --- SUMMARY: When White enters 9 g3, you may consider 9...a5, avoiding 9...f6 (which weakens the e6-pawn). Black simply refuses to cooperate on the kingside, while pursuing expansion on the queenside.
+29...Bd6 30.Kh1 (the king's hiding place is discovered, mainly due to the loud, convulsive chattering of his teeth) 30...g4 31.Ng5 Bc6+ and the evidence is presented and the white king's guilt remains incontrovertible. "Our bargain was that I would be spared upon surrendering," White's king reminds the c6-emissary who responds, "I'm afraid you have been misinformed upon the matter, Your Grace."
+
+SUMMARY: When White enters 9 g3, you may consider 9...a5, avoiding 9...f6 (which weakens the e6-pawn). Black simply refuses to cooperate on the kingside, while pursuing expansion on the queenside.
 
 0-1
 
@@ -2478,11 +2778,17 @@ King's Gambit: 1...e5 2.f4 exf4 3.Nf3 Nf6 4.Nc3 d5 5.e5 Nh5 6.d4 g5 7.Bd3 .
 
 **2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Nce2 c5 6.c3 Nc6 7.f4 Qb6 8.Nf3 a5!?**
 
-QUESTION: How is this different from last game? --- ANSWER: This is sort of an accelerated version of what we looked at in the previous game. Black puts off both ...f6 and ...Be7 and pursues a queenside expansion policy, keeping White in the dark about when and if he will toss in either move.
+QUESTION: How is this different from last game?
+
+ANSWER: This is sort of an accelerated version of what we looked at in the previous game. Black puts off both ...f6 and ...Be7 and pursues a queenside expansion policy, keeping White in the dark about when and if he will toss in either move.
 
 **9.a3**
 
-White's most common response, which eliminates ...Bb4+ ideas and also halts Black's ...a4-a3 plan. --- QUESTION: But doesn't the move also weaken White's queenside light squares? --- ANSWER: It does. White gambles that she can get to Black's king before she loses control of the queenside.
+White's most common response, which eliminates ...Bb4+ ideas and also halts Black's ...a4-a3 plan.
+
+QUESTION: But doesn't the move also weaken White's queenside light squares?
+
+ANSWER: It does. White gambles that she can get to Black's king before she loses control of the queenside.
 
 Let's look at a couple of alternatives: 9.g3 a4 10.Bh3 cxd4 11.cxd4 a3 and now we see the problem of White refusing to comply with a3. Black plays the move himself, weakening White's queenside dark squares. After 12.b3 Bb4+ 13.Kf2 Ndb8 14.Be3 Bd7 15.g4 h5 16.gxh5 Rxh5 17.Bf1 Ne7 18.Ng3 Rh8 19.Rc1 Nbc6 (finally, Black managed to untangle his knights) 20.h4 O-O-O! , I like Black's position since his king looks rather safe on the queenside. White lacks a pawn storm there and his pieces are on the other side of the board, A.Khalifman-S.Volkov, St Petersburg 1999.
 
@@ -2498,7 +2804,11 @@ Arakhamia follows the Anand-Shirov game plan, essentially ignoring Black's queen
 
 **10...Ra7!?**
 
-A bizarre new move in the position. --- QUESTION: What the hay!? This almost looks like a random move. What is the point? --- ANSWER: I think Volkov anticipates a (distant future!) Nc7 fork. He continues to leave White in the dark about how he plans to set up on the kingside. Of course, the obvious downside to his plan is that he loses his main benefit of the line - his developmental lead.
+A bizarre new move in the position.
+
+QUESTION: What the hay!? This almost looks like a random move. What is the point?
+
+ANSWER: I think Volkov anticipates a (distant future!) Nc7 fork. He continues to leave White in the dark about how he plans to set up on the kingside. Of course, the obvious downside to his plan is that he loses his main benefit of the line - his developmental lead.
 
 Black can also try the Speelmanesque 10...Ndb8!? when after 11.g3 Bd7 12.Bh3 Na5 , White can never resist after our queenside provocations whip them into an attacking fury with 13.f5!? exf5 14.Nf4 Nb3 15.Rb1 Be6 and the burden of proof is on White, M.Pavlovic-M.Ruf, Bern 1989. 16.c4 is met with 16...cxd4 17.cxd5 Qa5+ 18.Nd2 Bxd5 19.O-O g6 20.Nxd5 Qxd5 21.Bg2 Qb5 22.Nxb3 axb3 23.Bf4 when Rf3 is threatened and White may have full compensation for two pawns.
 
@@ -2512,7 +2822,11 @@ Black leads in development and looks better after 13.Nxd5?! Qa5 14.Bb5 dxc3 15.N
 
 **13...Qa5+!**
 
-A secondary claimant for sole rights to the d5-pawn appears in the background. --- QUESTION: Doesn't this just lose a tempo? --- ANSWER: This check, which appears on the surface as a futile gesture, when examined deeper, contains a drop of poison. Black needs this move to hang on to his extra pawn.
+A secondary claimant for sole rights to the d5-pawn appears in the background.
+
+QUESTION: Doesn't this just lose a tempo?
+
+ANSWER: This check, which appears on the surface as a futile gesture, when examined deeper, contains a drop of poison. Black needs this move to hang on to his extra pawn.
 
 If 13...Qd8?! , White regains her investment with 14.Nxd5 .
 
@@ -2528,7 +2842,9 @@ The text move is clearly superior to 17...Rg8? 18.hxg6 hxg6 19.Rh7 Be7 20.O-O-O 
 
 **18.Ne2 f4**
 
-The King's Gambit: Move by move? --- Compare the central and kingside pawn structure the players reached in the game with this King's Gambit game played by the old masters: 1.e4 e5 2.f4 exf4 3.Nf3 Nf6 4.Nc3 d5 5.e5 Nh5 6.d4 g5 7.Bd3, M.Chigorin-J.Miese, Vienna 1903 (see the 1...e5 variation).
+The King's Gambit: Move by move?
+
+Compare the central and kingside pawn structure the players reached in the game with this King's Gambit game played by the old masters: 1.e4 e5 2.f4 exf4 3.Nf3 Nf6 4.Nc3 d5 5.e5 Nh5 6.d4 g5 7.Bd3, M.Chigorin-J.Miese, Vienna 1903 (see the 1...e5 variation).
 
 **19.Bxh7**
 
@@ -2614,7 +2930,11 @@ ANSWER: Correct was the double attack 37.Qb6+! Nc6 38.Rxe3+ Kd7 39.Rc1 and now B
 
 **37...Bh6**
 
-Game over. No use for euphemisms. Now White's attack transforms into nothing short of an emphatic disaster, as her discouraged non-attackers go about their business with an almost funereal air: 1. Every Black piece works efficiently (including his king!). --- 2. Black's king is safe, unlike White's. --- 3. Black is up in material.
+Game over. No use for euphemisms. Now White's attack transforms into nothing short of an emphatic disaster, as her discouraged non-attackers go about their business with an almost funereal air: 1. Every Black piece works efficiently (including his king!).
+
+2. Black's king is safe, unlike White's.
+
+3. Black is up in material.
 
 **38.Qc7 f5**
 
@@ -2622,7 +2942,9 @@ Giving his king air on f7.
 
 **39.Qb6+ Kf7 40.Rf2 g3**
 
-White does not wait to be demonstrated how after 40...g3 41.Rf3 Rh1+ , his king, who appears about as lively as a wax figure, harbours the awful intuition that "the times, they are a-changing". After 42.Kxh1 Qh4+ , Black's queen informs the king, "Your usefulness is at an end and like any redundant thing, the time has come to discard you." and she proceeds to pull the plug with 43.Kg1 Qh2# mate! --- SUMMARY: Volkov's 8...a5!? plan involves queenside aggression, mingled with kingside lethargy! Although obviously risky, it may throw some of your opponents off and thus is possibly worth a try.
+White does not wait to be demonstrated how after 40...g3 41.Rf3 Rh1+ , his king, who appears about as lively as a wax figure, harbours the awful intuition that "the times, they are a-changing". After 42.Kxh1 Qh4+ , Black's queen informs the king, "Your usefulness is at an end and like any redundant thing, the time has come to discard you." and she proceeds to pull the plug with 43.Kg1 Qh2# mate!
+
+SUMMARY: Volkov's 8...a5!? plan involves queenside aggression, mingled with kingside lethargy! Although obviously risky, it may throw some of your opponents off and thus is possibly worth a try.
 
 0-1
 
@@ -2630,13 +2952,41 @@ White does not wait to be demonstrated how after 40...g3 41.Rf3 Rh1+ , his king,
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Nce2 c5 6.f4 Nc6 7.c3 Be7**
 
-Ivanchuk holds back on ...Qb6. To my mind, this may be Black's sneakiest and best move order in the chapter. --- QUESTION: But won't the game simply transpose when Black plays ...Qb6 later on? --- ANSWER: It would but this is under the assumption that Black will play the move, which he may or may not. --- QUESTION: What would be the point of holding back on ...Qb6? --- ANSWER: If we briefly review the Anand-Shirov game from earlier in the chapter, Shirov retreated his queen from b6 to c7. In this case, Ivanchuk may be trying to reach the same position a full move up. --- QUESTION: Why does Black sometimes move the queen back to c7 in this line? --- ANSWER: Two reasons: 1. Black may opt to develop the c8-bishop with ...b6 and ...Ba6 (this plan was suggested in the notes to the Anand-Shirov game). In order to do so, the queen must be removed from b6. --- 2. If you recall, Shirov retreated his queen to c7 to set up a piece sac on e5. Imagine what Shirov could have done if he was handed a full tempo in that game.
+Ivanchuk holds back on ...Qb6. To my mind, this may be Black's sneakiest and best move order in the chapter.
+
+QUESTION: But won't the game simply transpose when Black plays ...Qb6 later on?
+
+ANSWER: It would but this is under the assumption that Black will play the move, which he may or may not.
+
+QUESTION: What would be the point of holding back on ...Qb6?
+
+ANSWER: If we briefly review the Anand-Shirov game from earlier in the chapter, Shirov retreated his queen from b6 to c7. In this case, Ivanchuk may be trying to reach the same position a full move up.
+
+QUESTION: Why does Black sometimes move the queen back to c7 in this line?
+
+ANSWER: Two reasons:
+
+1. Black may opt to develop the c8-bishop with ...b6 and ...Ba6 (this plan was suggested in the notes to the Anand-Shirov game). In order to do so, the queen must be removed from b6.
+
+2. If you recall, Shirov retreated his queen to c7 to set up a piece sac on e5. Imagine what Shirov could have done if he was handed a full tempo in that game.
 
 **8.Nf3 O-O 9.a3**
 
 I just have a feeling it's a bad idea to take the Anand-Shirov route.
 
-Perhaps, White should veer away with 9.g3! cxd4 10.cxd4 . Black can take advantage of the tempo saved in eschewing...Qb6 by occupying the square with his knight, playing it in Leningrad Tarrasch fashion with 10...Nb6!? 11.Bg2 a5 ( I would play 11...f5 first ) 12.O-O a4 13.g4 a3 14.bxa3?! , B.Socko-M.Gurevich, Venaco 2005. ( Instead, White should probably have opted for 14.b3 Bd7 ( Black can also consider 14...f5!? 15.gxf5 Rxf5 16.Bh3 Rf8 17.Ng5 Bxg5 18.fxg5 Bd7 ) 15.Ng3 Nb4 16.f5 Bb5 17.Rf2 Nd7 18.f6 gxf6 19.Qd2 fxe5 20.Qh6 Kh8 21.Ng5 Bxg5 22.Bxg5 f6 23.Nh5 Qe7 24.Nxf6 Qg7 25.Nxd7 Rxf2 26.Kxf2 Qxh6 27.Bxh6 Bxd7 28.dxe5 Rc8 . I prefer Black's chances in this ultra-sharp ending, despite White's bishop pair, dark-square control and potential for back rank tactics. This is because: 1. He ties White down to the defence of the a2-pawn. --- 2. Black's rook may infiltrate down the open c-file (as long as Black's king doesn't get back rank mated!). --- 3. Black's bishop can control the f1-square with ...Bb5. )
+Perhaps, White should veer away with 9.g3! cxd4 10.cxd4 . Black can take advantage of the tempo saved in eschewing...Qb6 by occupying the square with his knight, playing it in Leningrad Tarrasch fashion with 10...Nb6!? 11.Bg2 a5 ( I would play 11...f5 first ) 12.O-O a4 13.g4 a3 14.bxa3?! , B.Socko-M.Gurevich, Venaco 2005.
+
+Instead, White should probably have opted for 14.b3 Bd7
+
+( Black can also consider 14...f5!? 15.gxf5 Rxf5 16.Bh3 Rf8 17.Ng5 Bxg5 18.fxg5 Bd7 )
+
+15.Ng3 Nb4 16.f5 Bb5 17.Rf2 Nd7 18.f6 gxf6 19.Qd2 fxe5 20.Qh6 Kh8 21.Ng5 Bxg5 22.Bxg5 f6 23.Nh5 Qe7 24.Nxf6 Qg7 25.Nxd7 Rxf2 26.Kxf2 Qxh6 27.Bxh6 Bxd7 28.dxe5 Rc8 . I prefer Black's chances in this ultra-sharp ending, despite White's bishop pair, dark-square control and potential for back rank tactics.
+
+This is because:
+
+1. He ties White down to the defence of the a2-pawn.
+2. Black's rook may infiltrate down the open c-file (as long as Black's king doesn't get back rank mated!).
+3. Black's bishop can control the f1-square with ...Bb5.
 
 **9...a5**
 
@@ -2660,7 +3010,11 @@ Also, 11.b3 Qc7 ( 11...b6 looks good as well ) 12.Be3 b6 13.Neg1 Ba6 14.Bxa6 Rxa
 
 **11...cxd4 12.cxd4 Qb6!**
 
-A novelty at the time, displaying Ivanchuk's remarkable understanding of the position. --- QUESTION: Should this move be give an "?!" since Ivanchuk reverts to the Anand-Shirov game? --- ANSWER: On the contrary, the move is an exclam for such flexibility of mind. This isn't the same position as Anand-Shirov, mainly due to White's premature Neg1. The trouble is not only is d4 weak, but Black threatens an accelerated version of Shirov's ...Nxe5-sac. Just watch.
+A novelty at the time, displaying Ivanchuk's remarkable understanding of the position.
+
+QUESTION: Should this move be give an "?!" since Ivanchuk reverts to the Anand-Shirov game?
+
+ANSWER: On the contrary, the move is an exclam for such flexibility of mind. This isn't the same position as Anand-Shirov, mainly due to White's premature Neg1. The trouble is not only is d4 weak, but Black threatens an accelerated version of Shirov's ...Nxe5-sac. Just watch.
 
 **13.Bd3**
 
@@ -2681,10 +3035,15 @@ Of course not 16.Nxe5?? since 16...Qf2# isn't much of a consideration.
 The deeper we analyse, the more numerous the contradictions we discover in White's position. For the piece Black gets:
 
 1. Two central pawns. 
+
 2. Punctures on g4, g3, f2, and e3.
+
 3. Open c- and f-files for his rooks.
+
 4. A massive developmental lead.
+
 5. White's king stuck in the centre.
+
 6. Numbers one through five mean Black also receives an endless attack for a tiny investment.
 
 Note that 16...Ng4?! is met with 17.Qd4 with a double attack on the b6-queen and g4-knight. Swapping queens isn't in Black's best interest here.
@@ -2733,7 +3092,9 @@ and 21.Qd4 Bg3+ 22.Bf2 e5 23.Qd2 Rc2 .
 
 **21...Rf1+!!**
 
-ANSWER: Deflection/overload. The rook approaches the heavily guarded f1-square, almost against his will, propelled by some irresistible urge of the subconscious. --- A devious idea forms in Ivanchuk's mind, like a bubble rising to the surface of a pond.
+ANSWER: Deflection/overload. The rook approaches the heavily guarded f1-square, almost against his will, propelled by some irresistible urge of the subconscious.
+
+A devious idea forms in Ivanchuk's mind, like a bubble rising to the surface of a pond.
 
 **22.Kxf1**
 
@@ -2747,7 +3108,11 @@ After 22.Nxf1 , the knight draws the short straw, as it is assigned the unpleasa
 
 **23.Kf2**
 
-As a kid, your writer was not the best of citizens in the school environment. As a result, I was hauled into the dreaded principal's office on many an occasion. One sign of the principal's power was there were no chairs behind his large, intimidating desk. So the penitent was forced to stand, while the red-faced principal lectured upon your unfortunate writer's woeful standards of behaviour. --- QUESTION: Does this story have a point? --- ANSWER: I'm getting to it! Black's queen is the principal, while White's king is your unfortunate writer, standing behind his desk.
+As a kid, your writer was not the best of citizens in the school environment. As a result, I was hauled into the dreaded principal's office on many an occasion. One sign of the principal's power was there were no chairs behind his large, intimidating desk. So the penitent was forced to stand, while the red-faced principal lectured upon your unfortunate writer's woeful standards of behaviour.
+
+QUESTION: Does this story have a point?
+
+ANSWER: I'm getting to it! Black's queen is the principal, while White's king is your unfortunate writer, standing behind his desk.
 
 **23...Bxe5**
 
@@ -2755,7 +3120,9 @@ Black is up material and continues to attack. White can resign here.
 
 **24.Ngf3 Bxb2 25.Rab1 Rc2 26.Rhd1 e5 27.g3 Bg4**
 
-That was one pin too many for White. --- SUMMARY: This is the line I intend to play as Black. I like the idea of holding back on ...Qb6 by playing 7...Be7. Who knows, we may be able to dupe some of our opponents into positions similar to the Anand-Shirov game but with a full move up. Just imagine what we can do with an extra tempo in such a sharp position!
+That was one pin too many for White.
+
+SUMMARY: This is the line I intend to play as Black. I like the idea of holding back on ...Qb6 by playing 7...Be7. Who knows, we may be able to dupe some of our opponents into positions similar to the Anand-Shirov game but with a full move up. Just imagine what we can do with an extra tempo in such a sharp position!
 
 0-1
 
@@ -2771,11 +3138,19 @@ When I was five years old, it always enraged me if one of my misguided kindergar
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Qb6**
 
-The gateway position into that dark science, the Classical French Poisoned Pawn Line. Black's queen attacks the b2-pawn and also exerts pressure on the d4-knight, which for now is semi-pinned, only having access to the useless f5-square. --- QUESTION: Is this meant to be funny? Isn't it somewhat counterintuitive for Black's queen to walk headlong into the e3-bishop's stare? --- ANSWER: It certainly is but this doesn't mean the line is bad for Black. In fact the current state of theory at the highest levels suggests that it is White who experiences difficulty in maintaining an edge. At the time of this writing (be careful though, some super GM may refute it a week after you purchase this book!) I can confidently state the line is sound. In fact, the top-ranked US (and perennial world's top-ten player) GM Hikaru Nakamura uses it as a drawing weapon!
+The gateway position into that dark science, the Classical French Poisoned Pawn Line. Black's queen attacks the b2-pawn and also exerts pressure on the d4-knight, which for now is semi-pinned, only having access to the useless f5-square.
+
+QUESTION: Is this meant to be funny? Isn't it somewhat counterintuitive for Black's queen to walk headlong into the e3-bishop's stare?
+
+ANSWER: It certainly is but this doesn't mean the line is bad for Black. In fact the current state of theory at the highest levels suggests that it is White who experiences difficulty in maintaining an edge. At the time of this writing (be careful though, some super GM may refute it a week after you purchase this book!) I can confidently state the line is sound. In fact, the top-ranked US (and perennial world's top-ten player) GM Hikaru Nakamura uses it as a drawing weapon!
 
 **9.Qd2**
 
-The principled continuation. Just as in the Najdorf Sicilian Poisoned Pawn Line, White offers the b2-pawn for a scary developmental lead. --- QUESTION: Does White have to offer the sac? --- ANSWER: No.
+The principled continuation. Just as in the Najdorf Sicilian Poisoned Pawn Line, White offers the b2-pawn for a scary developmental lead.
+
+QUESTION: Does White have to offer the sac?
+
+ANSWER: No.
 
 At the end of the chapter, we will examine the declined lines with 9.a3
 
@@ -2789,7 +3164,11 @@ and 9.Ncb5 .
 
 **10.Rb1 Qa3 11.Bb5**
 
-This counterintuitive move is White's best. --- QUESTION: It appears to me that Black is in danger if White moves either knight to b5. Am I wrong about this assessment? --- ANSWER: Both moves, although exceedingly tempting, give White nothing.
+This counterintuitive move is White's best.
+
+QUESTION: It appears to me that Black is in danger if White moves either knight to b5. Am I wrong about this assessment?
+
+ANSWER: Both moves, although exceedingly tempting, give White nothing.
 
 Let's take a look: On the surface 11.Ncb5 , looks crushing, since Black's queen is attacked and White also threatens the c7-fork. However, Black has 11...Qxa2 attacking the rook:
 
@@ -2871,7 +3250,9 @@ Intending ...Rc4, going after the f4-pawn.
 
 **27.g3?**
 
-The multiple targets contribute to the increasing feelings of pessimism and the virus spreads through White's camp. --- EXERCISE (combination alert): White's last move weakened his king. How can Black exploit this?
+The multiple targets contribute to the increasing feelings of pessimism and the virus spreads through White's camp.
+
+EXERCISE (combination alert): White's last move weakened his king. How can Black exploit this?
 
 White can put up greater resistance with 27.R7b5 Rc4 28.Rxa5 Rfc8 29.Rab5 g5! 30.Rb8 Rxb8 31.Rxb8+ Kg7 32.Kg1 gxf4 33.Rb4 Qxe5 34.Rxc4 dxc4 35.a4 .
 
@@ -2967,7 +3348,9 @@ ANSWER: Generate dual threats on a2 and g4.
 
 **55...Rxa2 56.h6+ Kg6 57.Kf3 Rh2 58.Ra7 Rxh6 59.Rxa5 Rh3+ 60.Kg2 Rc3**
 
-The ...f5 break is imminent. --- SUMMARY: The old main line 12...Bb4 still looks quite playable for Black.
+The ...f5 break is imminent.
+
+SUMMARY: The old main line 12...Bb4 still looks quite playable for Black.
 
 0-1
 
@@ -2985,11 +3368,19 @@ White gets a tempi-up version over the previous game after 15...Be7 16.Bxd7+ Bxd
 
 **16.Rxb4**
 
-QUESTION: Doesn't White win the exchange after 16.Nxb5 ? --- ANSWER: It wins the exchange but since Black snags two pawns and the bishop pair after 16...Bxd2 17.Nc7+ Ke7 18.Nxa8 Bxf4 , he stands at least equal, R.Kuczynski-W.Schmidt, Wroslaw 1987.
+QUESTION: Doesn't White win the exchange after 16.Nxb5 ?
+
+ANSWER: It wins the exchange but since Black snags two pawns and the bishop pair after 16...Bxd2 17.Nc7+ Ke7 18.Nxa8 Bxf4 , he stands at least equal, R.Kuczynski-W.Schmidt, Wroslaw 1987.
 
 **16...Qc6 17.f5!**
 
-QUESTION: Isn't this just bad for Black? It feels to me like White has too much compensation for a pawn here. --- ANSWER: The comps seem to disagree that White has an edge. However, I do concede that Black's position does look a lot harder to play, and is perhaps the reason the old main line has been replaced by 12...a6, which we will look at for the remainder of the chapter. White's advantages for the sac'ed pawn: 1. White's massive developmental lead. --- 2. The presence of opposite-coloured bishops also helps White, who plans to run a dark-square campaign. --- 3. Black's lack of king safety. If he castles kingside, the f6 spike is at hand and White's queen and b4-rook may swing in that direction as well. Still, if you ask the comps, they tell you Black is just fine here!
+QUESTION: Isn't this just bad for Black? It feels to me like White has too much compensation for a pawn here.
+
+ANSWER: The comps seem to disagree that White has an edge. However, I do concede that Black's position does look a lot harder to play, and is perhaps the reason the old main line has been replaced by 12...a6, which we will look at for the remainder of the chapter. White's advantages for the sac'ed pawn: 1. White's massive developmental lead.
+
+2. The presence of opposite-coloured bishops also helps White, who plans to run a dark-square campaign.
+
+3. Black's lack of king safety. If he castles kingside, the f6 spike is at hand and White's queen and b4-rook may swing in that direction as well. Still, if you ask the comps, they tell you Black is just fine here!
 
 **17...h6?!**
 
@@ -2997,7 +3388,9 @@ White may extract an edge from this move, which looks too slow. Black seeks to p
 
 Houdini recommends: 17...O-O!? 18.f6 gxf6 19.Qh6 fxe5 20.Bxe5 Nxe5 21.Rh4 Re8 22.Qxh7+ Kf8 23.Qh8+ Ke7 24.Qxe5 Bd7 25.Rf1 Rf8 26.Qf6+ Ke8 27.Rh8 Qc5+ 28.Rf2 Rxh8 29.Qxh8+ Qf8 30.Qe5 Kd8 when White's aggressive position and Black's superior structure lead to a complex and probably balanced game.
 
-QUESTION: Can Black remove the f6 threat with 17...exf5 ? --- ANSWER: I don't think it's advisable. White looks clearly better after 18.Qg5 Qg6 ( 18...O-O 19.e6 f6 20.Qxf5 also looks difficult for Black ) 19.Qxg6 hxg6 20.Nxd5 Rb8 21.Ba7 when White picks up the exchange.
+QUESTION: Can Black remove the f6 threat with 17...exf5 ?
+
+ANSWER: I don't think it's advisable. White looks clearly better after 18.Qg5 Qg6 ( 18...O-O 19.e6 f6 20.Qxf5 also looks difficult for Black ) 19.Qxg6 hxg6 20.Nxd5 Rb8 21.Ba7 when White picks up the exchange.
 
 **18.f6**
 
@@ -3089,7 +3482,9 @@ Once again, 31...Rc4! would leave White hard-pressed to hold the game.
 
 **32.Kg2**
 
-The draw is a fitting conclusion as after 32.Kg2 Qg1+ 33.Kh3 (a look of alarm washes over the king's face as Black's hateful queen enters the room) 33...Qf1+ 34.Kg3 (White's king is pleasantly surprised to find himself still alive) 34...Qg1+ leads to perpetual check. --- SUMMARY: Houdini's untried 17...0-0!? may be an improvement over 17...h6.
+The draw is a fitting conclusion as after 32.Kg2 Qg1+ 33.Kh3 (a look of alarm washes over the king's face as Black's hateful queen enters the room) 33...Qf1+ 34.Kg3 (White's king is pleasantly surprised to find himself still alive) 34...Qg1+ leads to perpetual check.
+
+SUMMARY: Houdini's untried 17...0-0!? may be an improvement over 17...h6.
 
 1/2-1/2
 
@@ -3113,7 +3508,11 @@ We examine 13.Rb3 in the next two games of the chapter.
 
 **13...Bxd7 14.Rb3!**
 
-This in-between move is White's only shot at an edge. --- QUESTION: Why not take on b7 immediately? --- ANSWER: The immediate capture would have been inaccurate. By first tossing in Rb3, Black's queen is chased to the unfavourable e7-square.
+This in-between move is White's only shot at an edge.
+
+QUESTION: Why not take on b7 immediately?
+
+ANSWER: The immediate capture would have been inaccurate. By first tossing in Rb3, Black's queen is chased to the unfavourable e7-square.
 
 If 14.Rxb7 Bb4 15.O-O Rc8 16.Nb1! (White is lucky to have this resource) 16...Bxd2 17.Nxa3 , Black stands at least even in the ending, due to his bishop pair and the weak c2-target, M.Agopov-J.Jarvenpaa, Jyvaskyla 2007. Play may continue 17...h5 18.Rf2 Ba5 19.Ra7 Ke7 20.Rxa6 Bc3 21.Bxc3 Rxc3 22.Nb1 Re3 23.Ra7 Rc8 24.Nd2! Rxc2 25.Nf3 with an equal ending.
 
@@ -3305,11 +3704,17 @@ SUMMARY: Out with the old and in with the new. I believe 12...a6! represents an 
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Qb6 9.Qd2 Qxb2 10.Rb1 Qa3 11.Bb5 Nxd4 12.Bxd4 a6 13.Rb3!?**
 
-QUESTION: Won't this simply transpose to the position we reached in the previous game? --- ANSWER: No. This line is radically different. Just watch!
+QUESTION: Won't this simply transpose to the position we reached in the previous game?
+
+ANSWER: No. This line is radically different. Just watch!
 
 **13...Qe7 14.Ba4!?**
 
-A new move then and a risky attempt to refute the Poisoned Pawn Line. White dares Black to win a piece with ...b5 next. GM Mikhail Golubev gave this move an exclamation mark. --- QUESTION: Since you downgraded the exclam to an "interesting" mark, I take it that you don't believe this is a refutation, correct? --- ANSWER: Correct. According to the comps, Black remains fine in this line as well.
+A new move then and a risky attempt to refute the Poisoned Pawn Line. White dares Black to win a piece with ...b5 next. GM Mikhail Golubev gave this move an exclamation mark.
+
+QUESTION: Since you downgraded the exclam to an "interesting" mark, I take it that you don't believe this is a refutation, correct?
+
+ANSWER: Correct. According to the comps, Black remains fine in this line as well.
 
 With regards to your earlier question about transposition, if White attempts to transpose to the previous game with 14.Bxd7+?! , Black responds with 14...Qxd7! when White can no longer pick up the b7-pawn. Black already stands better here.
 
@@ -3331,7 +3736,13 @@ The only move.
 
 **18.Nc7+ Kd8 19.Nxa8 Qxa8 20.O-O**
 
-This is our tabiya position in the Topalov line. --- QUESTION: Who stands better? --- ANSWER: That's not an easy question! Golubev feels White stands better, while I interpret the position as dynamically balanced. The unbiased Houdini rates it at 0.00. Two critical points to consider: 1. White picked up a rook and one pawn for two minor pieces - generally not quite enough in the middlegame, so Black is ahead materially. --- 2. It all boils down to the question: Is Black's king safe? If so, he stands better. If not, he stands worse.
+This is our tabiya position in the Topalov line.
+
+QUESTION: Who stands better?
+
+ANSWER: That's not an easy question! Golubev feels White stands better, while I interpret the position as dynamically balanced. The unbiased Houdini rates it at 0.00. Two critical points to consider: 1. White picked up a rook and one pawn for two minor pieces - generally not quite enough in the middlegame, so Black is ahead materially.
+
+2. It all boils down to the question: Is Black's king safe? If so, he stands better. If not, he stands worse.
 
 **20...Qa4 21.Kh1**
 
@@ -3407,7 +3818,9 @@ The terrible 33...Kd6?? 34.Qb6+ Bc6 35.Qb8+ Kd7 36.Qa7+ wins for White.
 
 **34.Qb8+**
 
-Topalov said he calculated to this point and intended 34.Qb6+ Ke8! ( 34...Kc8?? and now White can play 35.Rxe7 since White's back rank isn't hanging anymore, thus 35...Qf1+ 36.Qg1 wins ) 35.Qd6? . Here, he realized Black had a combination. In fact, let's make an exercise of it: EXERCISE (combination alert): Black to play and save himself. --- ANSWER: Deflection. Black's queen, a woman of volcanic passions, obviously doesn't take kindly to rejection and reacts with 35...Qf1+! 36.Rxf1 Bxd6 when Black saves the game.
+Topalov said he calculated to this point and intended 34.Qb6+ Ke8! ( 34...Kc8?? and now White can play 35.Rxe7 since White's back rank isn't hanging anymore, thus 35...Qf1+ 36.Qg1 wins ) 35.Qd6? . Here, he realized Black had a combination. In fact, let's make an exercise of it: EXERCISE (combination alert): Black to play and save himself.
+
+ANSWER: Deflection. Black's queen, a woman of volcanic passions, obviously doesn't take kindly to rejection and reacts with 35...Qf1+! 36.Rxf1 Bxd6 when Black saves the game.
 
 **34...Bc8 35.Qe5**
 
@@ -3425,7 +3838,9 @@ Topalov sacs the c2-pawn to transform his f-pawn into a serious weapon.
 
 **36...Qxc2 37.f6 Qf5 38.Qe8+ Kc7 39.Rc1! Kb6 40.f7 d4 41.Qd8+ Kb5**
 
-EXERCISE (combination alert): Black's king finds it quite disconcerting that White's queen continues to refer to him in the past tense. How did White convert his advantage to the full point? --- ANSWER: Double attack/removal of a key defender/deflection.
+EXERCISE (combination alert): Black's king finds it quite disconcerting that White's queen continues to refer to him in the past tense. How did White convert his advantage to the full point?
+
+ANSWER: Double attack/removal of a key defender/deflection.
 
 **42.Qc7!**
 
@@ -3445,7 +3860,15 @@ SUMMARY: Topalov's 13.Rb3 and 14.Ba4 idea is at the time of this writing, our gr
 
 **10.Rb1 Qa3 11.Bb5 Nxd4 12.Bxd4 a6 13.Rb3 Qe7 14.Ba4 Qd8**
 
-Thanks but no thanks! Black refuses to enter the Topalov jungle with Nakamura's daredevil 14...b5!? lash-out and instead, politely declines. --- QUESTION: If Topalov's sac is so dangerous for Black, then why doesn't everyone play 14...Qd8? --- ANSWER: One issue is that White can force a draw by going back and forth with Bb6 and Bf2. --- QUESTION: So what? A draw with Black is a good result, isn't it? --- ANSWER: A draw is fine if you assume the players are evenly rated or that Black doesn't desperately need to win, due to the tournament standings. But what if Black is rated 2100 and White 1750? Or if White only needs a draw to secure first place in the tournament while Black needs to win? Then the draw may not be so tempting. So basically, only use 14...Qd8 when a draw is okay for you.
+Thanks but no thanks! Black refuses to enter the Topalov jungle with Nakamura's daredevil 14...b5!? lash-out and instead, politely declines.
+
+QUESTION: If Topalov's sac is so dangerous for Black, then why doesn't everyone play 14...Qd8?
+
+ANSWER: One issue is that White can force a draw by going back and forth with Bb6 and Bf2.
+
+QUESTION: So what? A draw with Black is a good result, isn't it?
+
+ANSWER: A draw is fine if you assume the players are evenly rated or that Black doesn't desperately need to win, due to the tournament standings. But what if Black is rated 2100 and White 1750? Or if White only needs a draw to secure first place in the tournament while Black needs to win? Then the draw may not be so tempting. So basically, only use 14...Qd8 when a draw is okay for you.
 
 **15.Bb6**
 
@@ -3453,7 +3876,9 @@ This move essentially forces a draw.
 
 **15...Qh4+**
 
-QUESTION: Can Black play for the win with 15...Qe7 ? --- ANSWER: Not a good idea, since Black just gave White the very desirable Bb6 for free. This is not a position conducive for giving away a tempo! Play may continue 16.O-O g6 17.Qe3! and the problem now is the intended 17...Bg7? is met with the crushing 18.Nxd5! exd5 19.Bc5 Qe6 ( 19...Qd8?? 20.e6 is devastating as well ) 20.Rb6 Qf5 21.e6 fxe6 22.Rxe6+ Kf7 ( 22...Kd8?? 23.Bb6+ Nxb6 24.Qxb6# mate! ) 23.Re7+ Kg8 24.Rxg7+! Kxg7 25.Bd4+ Kf7 26.Re1 Qe4 27.Qc3 Re8 28.Rxe4 Rxe4 29.Bb3 when Black's undeveloped forces have no hope of keeping their king safe.
+QUESTION: Can Black play for the win with 15...Qe7 ?
+
+ANSWER: Not a good idea, since Black just gave White the very desirable Bb6 for free. This is not a position conducive for giving away a tempo! Play may continue 16.O-O g6 17.Qe3! and the problem now is the intended 17...Bg7? is met with the crushing 18.Nxd5! exd5 19.Bc5 Qe6 ( 19...Qd8?? 20.e6 is devastating as well ) 20.Rb6 Qf5 21.e6 fxe6 22.Rxe6+ Kf7 ( 22...Kd8?? 23.Bb6+ Nxb6 24.Qxb6# mate! ) 23.Re7+ Kg8 24.Rxg7+! Kxg7 25.Bd4+ Kf7 26.Re1 Qe4 27.Qc3 Re8 28.Rxe4 Rxe4 29.Bb3 when Black's undeveloped forces have no hope of keeping their king safe.
 
 **16.Kd1?**
 
@@ -3485,7 +3910,9 @@ White hopes to regain his pawn on b7.
 
 **19...Qh5+ 20.g4 Qg6 21.Bc5!?**
 
-...and then he changes his mind! --- QUESTION: Why not take b7?
+...and then he changes his mind!
+
+QUESTION: Why not take b7?
 
 ANSWER: He probably should have but his position doesn't inspire confidence after 21.Rxb7 Bc6 22.Ra7 Rxa7 23.Bxa7 h5 24.Rg1 hxg4 25.hxg4 Qh6 26.Be3 Qh3 with advantage to Black as his king looks safer. Also White's structure looks slightly overextended though this still looks better than the way White played in the game.
 
@@ -3511,7 +3938,11 @@ Once again, 23...Rc8! was necessary to prevent White's combination.
 
 **24.Kc1?**
 
-ANSWER: Both sides missed the crushing 24.Rxb7!! . --- Cruel forces at play begin to shape the black king's destiny. The perfect moment for a trap or combination is when your opponent is certain there is nothing amiss in his or her defences. --- Now if 24...Bxb7?? 25.Qa4+ Kd8 26.Qxa5+ Kd7 , Black's king, a mouse after a thunderstorm, emerges tentatively from his hole. With 27.Na4 Rhc8 ( 27...Qe4 28.Nb6+ Ke8 29.Nxa8 wins ) 28.Qb4 Bc6 29.Bf8!! , White executes a brilliant shot, intending to enter e7 or d6 with the queen. Black's king deals with the acute sense of injury of the bar drunk who is dying to tell his unfortunate life's story but can't find anyone willing to listen - including the bartender. Following 29...Kc7 ( 29...Rxf8 30.Qd6+ Ke8 31.Qxc6+ Ke7 32.Qb7+ Ke8 33.Qxa8+ mates in a few moves ) 30.Qc5 (White threatens the calm Rg3 and Rc3) 30...Qe4 31.Qb6+ Kd7 32.Nc5+ , White picks off the queen, whose words trail off in midsentence, with a suppressed scream.
+ANSWER: Both sides missed the crushing 24.Rxb7!! .
+
+Cruel forces at play begin to shape the black king's destiny. The perfect moment for a trap or combination is when your opponent is certain there is nothing amiss in his or her defences.
+
+Now if 24...Bxb7?? 25.Qa4+ Kd8 26.Qxa5+ Kd7 , Black's king, a mouse after a thunderstorm, emerges tentatively from his hole. With 27.Na4 Rhc8 ( 27...Qe4 28.Nb6+ Ke8 29.Nxa8 wins ) 28.Qb4 Bc6 29.Bf8!! , White executes a brilliant shot, intending to enter e7 or d6 with the queen. Black's king deals with the acute sense of injury of the bar drunk who is dying to tell his unfortunate life's story but can't find anyone willing to listen - including the bartender. Following 29...Kc7 ( 29...Rxf8 30.Qd6+ Ke8 31.Qxc6+ Ke7 32.Qb7+ Ke8 33.Qxa8+ mates in a few moves ) 30.Qc5 (White threatens the calm Rg3 and Rc3) 30...Qe4 31.Qb6+ Kd7 32.Nc5+ , White picks off the queen, whose words trail off in midsentence, with a suppressed scream.
 
 **24...O-O-O!?**
 
@@ -3525,7 +3956,9 @@ White attempts to enter via the dark squares.
 
 **25...Bxb6 26.Rxb6 Rd7**
 
-EXERCISE (planning): White can consider an exchange sac on c6 to activate his knight and take over the dark squares. Opportunity wars with caution. Is the sac a viable reality or a mirage? --- ANSWER: The exchange sac is White's best attacking plan, whereby he eliminates Black's best defender. Yes, once again, the much maligned bad bishop was actually Black's most efficient defensive piece.
+EXERCISE (planning): White can consider an exchange sac on c6 to activate his knight and take over the dark squares. Opportunity wars with caution. Is the sac a viable reality or a mirage?
+
+ANSWER: The exchange sac is White's best attacking plan, whereby he eliminates Black's best defender. Yes, once again, the much maligned bad bishop was actually Black's most efficient defensive piece.
 
 **27.Rxc6+!**
 
@@ -3575,7 +4008,9 @@ Back to the king and pawn ending, this time with Black gaining the opposition.
 
 **36.Rxd4 cxd4 37.Kd2 Kd5 38.Kd3 a5 39.a3 a4 40.c3 dxc3 41.Kxc3**
 
-EXERCISE (critical decision/calculation): Should Black play 41...Ke4? Calculate the race and the end result. --- ANSWER: Black is faster in the race.
+EXERCISE (critical decision/calculation): Should Black play 41...Ke4? Calculate the race and the end result.
+
+ANSWER: Black is faster in the race.
 
 **41...Ke4! 42.Kb4**
 
@@ -3599,13 +4034,23 @@ SUMMARY: Play 14...Qd8 only if you are okay with a quick draw.
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 Qb6**
 
-QUESTION: What's going on here? This is a completely different line! --- ANSWER: Please try to remain calm. I believe we spoke earlier in the chapter about the necessity of cutting back on caffeine intake and also adding a daily meditation practice (chamomile tea is also excellent) to heal your frayed nerves.
+QUESTION: What's going on here? This is a completely different line!
+
+ANSWER: Please try to remain calm. I believe we spoke earlier in the chapter about the necessity of cutting back on caffeine intake and also adding a daily meditation practice (chamomile tea is also excellent) to heal your frayed nerves.
 
 We will soon transpose back to the Poisoned Pawn Line which occurs after the usual 7...cxd4 8.Nxd4 Qb6 (and 9.a3 which we soon discuss) move order.
 
 **8.a3 cxd4 9.Nxd4**
 
-There we go. Now we have transposed. --- QUESTION: What are the plusses and minuses of the a3 Gambit Declined line? --- ANSWER: 1. Black is unable to take the b2-pawn, since Na4 traps the queen. --- 2. With the pawn on a3, annoying ...Bb4 ideas are prevented. --- 3. White's pawn move is a non-developing one in a position which desperately requires rapid mobilization.
+There we go. Now we have transposed.
+
+QUESTION: What are the plusses and minuses of the a3 Gambit Declined line?
+
+ANSWER: 1. Black is unable to take the b2-pawn, since Na4 traps the queen.
+
+2. With the pawn on a3, annoying ...Bb4 ideas are prevented.
+
+3. White's pawn move is a non-developing one in a position which desperately requires rapid mobilization.
 
 **9...Bc5**
 
@@ -3645,7 +4090,11 @@ ANSWER: This is a bit of a problem for Black since dodging the draw may hand Whi
 
 **11...Bxd4! 12.Bxd4 Nxd4 13.Qxd4 b6!**
 
-The starting position of our line. --- QUESTION: Isn't Black just clearly worse here due to the bad bishop? --- ANSWER: Black does indeed have a bad bishop, but let's not forget that White's horribly offside a4-knight represents a serious problem for his side. This easily offsets our bad bishop issues. With our last move, we introduce the strategic threats ...Nc5 and also ...Ba6.
+The starting position of our line.
+
+QUESTION: Isn't Black just clearly worse here due to the bad bishop?
+
+ANSWER: Black does indeed have a bad bishop, but let's not forget that White's horribly offside a4-knight represents a serious problem for his side. This easily offsets our bad bishop issues. With our last move, we introduce the strategic threats ...Nc5 and also ...Ba6.
 
 **14.Be2!?**
 
@@ -3715,7 +4164,15 @@ Black can also think about activating the passed a-pawn with 27...a5 .
 
 **28.Rd1 Rcd8 29.Rd2**
 
-EXERCISE (planning): My father was an attorney and all my childhood arguments, cajoling and tantrums were casually dismantled with Botvinnikian logic: 1. "You are eight years old and the law says you are too young to legally own a motorcycle." --- 2. "You are currently jobless and accumulated only $12.42 in your savings account - not nearly enough to buy a motorcycle." --- 3. "Don't look to me for a loan. I'm not Santa Claus." --- The Filipino grandmaster So, with the same powerful sense of logic, composed an effective plan to systematically strengthen his game and display the unsoundness of Kamsky's previous intent. What would you play here as Black? --- ANSWER: Principle: Counter in the centre when attacked on the wing.
+EXERCISE (planning): My father was an attorney and all my childhood arguments, cajoling and tantrums were casually dismantled with Botvinnikian logic: 1. "You are eight years old and the law says you are too young to legally own a motorcycle."
+
+2. "You are currently jobless and accumulated only $12.42 in your savings account - not nearly enough to buy a motorcycle."
+
+3. "Don't look to me for a loan. I'm not Santa Claus."
+
+The Filipino grandmaster So, with the same powerful sense of logic, composed an effective plan to systematically strengthen his game and display the unsoundness of Kamsky's previous intent. What would you play here as Black?
+
+ANSWER: Principle: Counter in the centre when attacked on the wing.
 
 **29...Qe7!**
 
@@ -3769,11 +4226,15 @@ One must reassess the purity of the queen's motives as she lurks about, near Whi
 
 **52.Kg1 Qe1+ 53.Kg2**
 
-EXERCISE (planning): White is obviously busted. Find Black's most efficient method of finishing the game. --- ANSWER: Unpinning. Now Black's rook is free to threaten ...Re2+.
+EXERCISE (planning): White is obviously busted. Find Black's most efficient method of finishing the game.
+
+ANSWER: Unpinning. Now Black's rook is free to threaten ...Re2+.
 
 **53...Kg7!**
 
-There is no defence to the rook invasion: 53...Kg7! 54.Rc2 ( 54.Nf2 Re2 55.Qd7+ Re7 56.Qd3 Nh4+ 57.Kg3 Re5! 58.Qd7+ Kh6 59.Qd1 Rg5+ 60.Kh3 Qxf2 forces mate. "So you judge me a monster?" Black's queen asks the king, adding "Keep in mind, it is your past actions which made me this way." ) 54...Rd6 and the white queen's hand trembles as she writes out her confession. After 55.Rc7+ Kh6 , not only does White's knight fall, but his king also gets fried in the process. --- SUMMARY: The a3 line, like all the declined lines of this chapter, allows Black equality.
+There is no defence to the rook invasion: 53...Kg7! 54.Rc2 ( 54.Nf2 Re2 55.Qd7+ Re7 56.Qd3 Nh4+ 57.Kg3 Re5! 58.Qd7+ Kh6 59.Qd1 Rg5+ 60.Kh3 Qxf2 forces mate. "So you judge me a monster?" Black's queen asks the king, adding "Keep in mind, it is your past actions which made me this way." ) 54...Rd6 and the white queen's hand trembles as she writes out her confession. After 55.Rc7+ Kh6 , not only does White's knight fall, but his king also gets fried in the process.
+
+SUMMARY: The a3 line, like all the declined lines of this chapter, allows Black equality.
 
 0-1
 
@@ -3803,7 +4264,9 @@ The same steps to a slightly altered dance.
 
 **10...Qa5+ 11.c3 Bxd4 12.Bxd4 Nxd4 13.Qxd4 b6**
 
-QUESTION: Isn't this a slightly superior version for White as compared to the previous game? --- ANSWER: Maybe a shade better, since Be2 is clearly more useful than a3, which only serves to weaken White's light squares. Still, I don't believe White extracts even an iota of advantage from this position and Black stands fully equal, even with the favourable tweak on White's side.
+QUESTION: Isn't this a slightly superior version for White as compared to the previous game?
+
+ANSWER: Maybe a shade better, since Be2 is clearly more useful than a3, which only serves to weaken White's light squares. Still, I don't believe White extracts even an iota of advantage from this position and Black stands fully equal, even with the favourable tweak on White's side.
 
 **14.Bd1**
 
@@ -3811,7 +4274,9 @@ In an earlier game, White concentrated with swift development via 14.O-O Ba6 15.
 
 **14...Qb5**
 
-Inviting a draw by repetition. --- QUESTION: Well, then I repeat my question from last game. What if Black wants to play for a win?
+Inviting a draw by repetition.
+
+QUESTION: Well, then I repeat my question from last game. What if Black wants to play for a win?
 
 ANSWER: Black's options: 14...O-O 15.O-O Bb7 and Black intends to play Bc6, ( also playable is 15...Ba6 , J.Polasek-B.Zueger, Prague 1989, but I don't want to encourage White to play 16.Rf3 ) 16.b4 Qa6 . White can follow up with 17.a3 Qc4 18.Qxc4 dxc4 19.Nb2 b5 20.a4 a6 with an equal position.
 
@@ -3849,7 +4314,9 @@ Correct was 20.a4 b5! 21.Bxd7 Bxd7 22.a5 Rbc8 23.Rf1 Be8 24.Rxf8+ Kxf8 25.Kd2 ( 
 
 **20...Nc5!**
 
-ANSWER: Double attack/discovered attack. --- Now appears a spontaneous flowering of Black's counterplay and the relative peace which had reigned terminates in a violent spasm.
+ANSWER: Double attack/discovered attack.
+
+Now appears a spontaneous flowering of Black's counterplay and the relative peace which had reigned terminates in a violent spasm.
 
 **21.Ke3**
 
@@ -3903,11 +4370,23 @@ I thought about putting this game in Korchnoi: Move by Move (I urge the reader t
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Qb6 9.Ncb5**
 
-The 17th century philosopher and mathematician Leibniz wrote: "Once the characteristic numbers of most notions are determined, the human race will have a new kind of tool that will increase the power of the mind much more than optical lenses helped our eyes, a tool that will be as far superior to microscopes or telescopes as reason is to vision." Did Leibniz foresee the coming of computers? If so, he had it backwards. My theory: Comps actually enable us to grow more stupid with each passing day, since we don't require our intelligence to work out problems anymore. This position, for instance, has been utterly worked out by the comps to a forced draw, if Black wants one. Wouldn't it be better to live in a world where we actually had to work out such enigmas by ourselves, without being provided the comps' instantaneous answers to all our questions? Well, I'm pretty sure I wallow in a lonely minority in my pet peeve, anti-comp rhetoric here. I apologize for this diatribe but can't promise it won't happen again in some other book! --- QUESTION: What is the point of White's last move, since both the c7- and d6-squares are covered? --- ANSWER: White threatens Nf5 which simultaneously unpins the d4-knight and attacks Black's queen, while threatening to infiltrate on d6 with either knight.
+The 17th century philosopher and mathematician Leibniz wrote: "Once the characteristic numbers of most notions are determined, the human race will have a new kind of tool that will increase the power of the mind much more than optical lenses helped our eyes, a tool that will be as far superior to microscopes or telescopes as reason is to vision." Did Leibniz foresee the coming of computers? If so, he had it backwards. My theory: Comps actually enable us to grow more stupid with each passing day, since we don't require our intelligence to work out problems anymore. This position, for instance, has been utterly worked out by the comps to a forced draw, if Black wants one. Wouldn't it be better to live in a world where we actually had to work out such enigmas by ourselves, without being provided the comps' instantaneous answers to all our questions? Well, I'm pretty sure I wallow in a lonely minority in my pet peeve, anti-comp rhetoric here. I apologize for this diatribe but can't promise it won't happen again in some other book!
+
+QUESTION: What is the point of White's last move, since both the c7- and d6-squares are covered?
+
+ANSWER: White threatens Nf5 which simultaneously unpins the d4-knight and attacks Black's queen, while threatening to infiltrate on d6 with either knight.
 
 **9...a6!**
 
-Cold reason always looks upon a gamble with stern disapproval. This is why Mr. Spock had difficulty understanding Captain Kirk. Korchnoi isn't a man who backs down from a challenge. So he agrees to plunge head first into the complications. --- QUESTION: You just said White "threatens Nf5", didn't you? And now Korchnoi calmly allows it. --- ANSWER: Oops! My mistake. Maybe it's not such a 'threat' after all. --- QUESTION: In previous games in this chapter, Black nearly always played ...Bc5 in such situations. Can we do so here? --- ANSWER: Yes, your suggestion is also playable. In fact it is Black's only move if you want to play for a win, since the comps worked out Korchnoi's move to a draw.
+Cold reason always looks upon a gamble with stern disapproval. This is why Mr. Spock had difficulty understanding Captain Kirk. Korchnoi isn't a man who backs down from a challenge. So he agrees to plunge head first into the complications.
+
+QUESTION: You just said White "threatens Nf5", didn't you? And now Korchnoi calmly allows it.
+
+ANSWER: Oops! My mistake. Maybe it's not such a 'threat' after all.
+
+QUESTION: In previous games in this chapter, Black nearly always played ...Bc5 in such situations. Can we do so here?
+
+ANSWER: Yes, your suggestion is also playable. In fact it is Black's only move if you want to play for a win, since the comps worked out Korchnoi's move to a draw.
 
 9...Bc5 10.a3 transposes to positions we discussed in the notes of the previous game (Kamsky-So, Game 20).
 
@@ -3919,7 +4398,7 @@ Let's examine the alternatives: 11.Nxg7+?? Kf8 12.Bxc5+ Nxc5 13.Nd6 Qb4+! 14.c3 
 
 Correct is 11.Nbd6+ Kf8 12.Qh5 Nd8 13.Nxg7 Bxe3!
 
-not 13...Kxg7?? 14.Qg5+ Kf8 15.Bxc5 and the Black's queen is overloaded since d8 hangs<level/>
+(not 13...Kxg7?? 14.Qg5+ Kf8 15.Bxc5 and the Black's queen is overloaded since d8 hangs)
 
 14.Qh6 Ke7 15.Ngf5+ exf5 16.Nxf5+ Ke8 17.Nd6+ Ke7 18.Nf5+ with perpetual check, R.Paramos Dominguez-F.Vallejo Pons, Palencia 1999. 
 
@@ -4009,7 +4488,17 @@ White can also reach our line with 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Nf3 .
 
 **4.e5 Nfd7 5.d4**
 
-The starting position of the Old School Classical system. This oddball line, favoured by daredevils, is now in style and follows the dictates of fashion. --- QUESTION: What is the point of avoiding f4? --- ANSWER: In the good old Romantic perior days, this was actually White's main line: 1. The idea is to support e5 with pieces, not pawns. --- 2. When Black plays ...c5, White responds with dxc5 and after ...f6, White plays exf6. --- QUESTION: But doesn't this obliterate White's pawn centre? --- ANSWER: It wipes out White's pawn centre, but not his or her control over the centre. White and Black fight furiously over the d4-square, but mainly for dominance of the e5-square. If White seizes control over the square, then he or she may look forward to planting a piece on e5. Black must see to it that this blockade either doesn't occur, or that Black receives some form of compensating counterplay, like maybe down the open f- and/or c-files.
+The starting position of the Old School Classical system. This oddball line, favoured by daredevils, is now in style and follows the dictates of fashion.
+
+QUESTION: What is the point of avoiding f4?
+
+ANSWER: In the good old Romantic perior days, this was actually White's main line: 1. The idea is to support e5 with pieces, not pawns.
+
+2. When Black plays ...c5, White responds with dxc5 and after ...f6, White plays exf6.
+
+QUESTION: But doesn't this obliterate White's pawn centre?
+
+ANSWER: It wipes out White's pawn centre, but not his or her control over the centre. White and Black fight furiously over the d4-square, but mainly for dominance of the e5-square. If White seizes control over the square, then he or she may look forward to planting a piece on e5. Black must see to it that this blockade either doesn't occur, or that Black receives some form of compensating counterplay, like maybe down the open f- and/or c-files.
 
 **5...c5 6.dxc5**
 
@@ -4161,7 +4650,11 @@ The immediate 26.f4? Rc4 27.Qe5 Qxe5 28.Rxe5 Rxf4 29.Rxe6 d4 30.Nd5 Rf1+ 31.Ka2 
 
 **26...Rc6 27.f4**
 
-QUESTION: Isn't White clearly better here? After all, he achieved his dream blockade and stuck Black with a bad bishop, fixed on the same colour as its pawns. --- ANSWER: All the factors you listed are correct, yet I think it is Black who stands better. This is yet another case of the not-so-bad bishop. In fact, let's turn this position into an exercise. --- EXERCISE (planning): How can Black take over the initiative and prove that his bad bishop is in reality a good bishop? You are the pilot. Which direction shall we take?
+QUESTION: Isn't White clearly better here? After all, he achieved his dream blockade and stuck Black with a bad bishop, fixed on the same colour as its pawns.
+
+ANSWER: All the factors you listed are correct, yet I think it is Black who stands better. This is yet another case of the not-so-bad bishop. In fact, let's turn this position into an exercise.
+
+EXERCISE (planning): How can Black take over the initiative and prove that his bad bishop is in reality a good bishop? You are the pilot. Which direction shall we take?
 
 **27...h6?!**
 
@@ -4179,7 +4672,11 @@ ANSWER: Activate the queenside pawns and target c2 with 27...a5! :
 
 **28.Re2 Rc4 29.Qe5 Qxe5 30.Rxe5 Kf7**
 
-White seems to have most of his defensive issues under control. Yet, there remains residue which he is unable to eradicate. The advantage tilts towards Black as: 1. His bad bishop is superior to White's unimpressive knight. As the game progresses, we soon see that this is an unequal relationship, since in an ending, a bishop is an amphibious creature, equally adaptable to offence and defence. The same can't be said for a clumsy knight, who is capable of one or the other, but not both. --- 2. He threatens to exert pressure on the c2-pawn, via ...a5 and ...b4. --- 3. His king is active and may later infiltrate the kingside light squares.
+White seems to have most of his defensive issues under control. Yet, there remains residue which he is unable to eradicate. The advantage tilts towards Black as: 1. His bad bishop is superior to White's unimpressive knight. As the game progresses, we soon see that this is an unequal relationship, since in an ending, a bishop is an amphibious creature, equally adaptable to offence and defence. The same can't be said for a clumsy knight, who is capable of one or the other, but not both.
+
+2. He threatens to exert pressure on the c2-pawn, via ...a5 and ...b4.
+
+3. His king is active and may later infiltrate the kingside light squares.
 
 **31.h4?!**
 
@@ -4267,7 +4764,9 @@ The old main line. White plays it safe and castles kingside. According to theory
 
 **10...O-O 11.Ne5 Bd7 12.Qe2**
 
-QUESTION: What about the plan of exchanging on c6 to dominate the e5-square? --- ANSWER: As we saw in the previous game, Black sometimes allows White to control the e5-square and simply seeks counterplay elsewhere.
+QUESTION: What about the plan of exchanging on c6 to dominate the e5-square?
+
+ANSWER: As we saw in the previous game, Black sometimes allows White to control the e5-square and simply seeks counterplay elsewhere.
 
 Black would continue 12.Nxc6 Bxc6 13.Qe2 Qe7 14.Rae1 Rae8 15.Bg3 a6 16.a3 as in B.Spassky-T.Petrosian, Moscow 1966. Now Black can play 16...e5! 17.Bxe5 ( 17.Qxe5?? which is met with the crushing overload shot 17...Bxf2+! when White loses material, no matter how he responds. For example, 18.Rxf2 Qc5! wins for Black ) 17...Qf7 18.Qd1 Ne4 19.Bxe4 Bxf2+ 20.Kh1 dxe4 21.Bd6 Bxe1! 22.Rxf7 Rxf7 23.Qxe1 e3 24.Bg3 e2 25.Nxe2 Rfe7 and White is busted, since the knight is toast and soon the crucial g2-pawn will follow suit with devastating effect.
 
@@ -4281,7 +4780,9 @@ The correct moment to exchange, since White loses a tempo by moving his bishop o
 
 **16.Bxe5 Bc6 17.b4!?**
 
-I don't like this unnecessary weakening. --- QUESTION: I would play the same move since I don't see a plan for White here. What would you suggest?
+I don't like this unnecessary weakening.
+
+QUESTION: I would play the same move since I don't see a plan for White here. What would you suggest?
 
 ANSWER: White should remove his king from the g1-a7 diagonal and prepare f4 with 17.Kh1 . Even then, I prefer Black's game after 17...g6 18.Nd1 Nd7 19.Bg3 e5 . It's amazing how often White eventually loses control over this key square. After 20.f3 b5 , Black has a comfortable game, D.Johansen-C.Thomson, Edinburgh 1985.
 
@@ -4289,7 +4790,11 @@ ANSWER: White should remove his king from the g1-a7 diagonal and prepare f4 with
 
 A new move. The bishop refuses to vacate its diagonal and continues to eye the f2-pawn menacingly.
 
-QUESTION: Shouldn't Black challenge e5 with 17...Bd6 ? --- ANSWER: Your suggestion is also playable. After 18.f4 Bxe5 19.fxe5!? ( 19.Qxe5 Nd7 20.Qd4 Qh4 21.Ne2 e5 22.fxe5 Rxf1+ 23.Rxf1 Qxd4+ 24.Nxd4 Nxe5 looks equal ) 19...Nd7 20.Rxf8+ Rxf8 21.Qg4 Rc8 22.Qd4 Nf8 23.Ne2 Bb5 24.Bxb5 axb5 25.Qd3 Rc4 26.Nd4 Qh4 27.Rd1 Qh5 28.Re1 Qh4 29.Rd1 Qf4 30.Nxb5 Qxe5 , Black's central majority looks more promising than White's on the queenside, G.Masternak-M.Kaminski, Wisla 1998. --- Ulibin, however, decides his dark-squared bishop exerts more pressure on the f2-pawn, than its e5-counterpart's impact on the black kingside.
+QUESTION: Shouldn't Black challenge e5 with 17...Bd6 ?
+
+ANSWER: Your suggestion is also playable. After 18.f4 Bxe5 19.fxe5!? ( 19.Qxe5 Nd7 20.Qd4 Qh4 21.Ne2 e5 22.fxe5 Rxf1+ 23.Rxf1 Qxd4+ 24.Nxd4 Nxe5 looks equal ) 19...Nd7 20.Rxf8+ Rxf8 21.Qg4 Rc8 22.Qd4 Nf8 23.Ne2 Bb5 24.Bxb5 axb5 25.Qd3 Rc4 26.Nd4 Qh4 27.Rd1 Qh5 28.Re1 Qh4 29.Rd1 Qf4 30.Nxb5 Qxe5 , Black's central majority looks more promising than White's on the queenside, G.Masternak-M.Kaminski, Wisla 1998.
+
+Ulibin, however, decides his dark-squared bishop exerts more pressure on the f2-pawn, than its e5-counterpart's impact on the black kingside.
 
 **18.b5?**
 
@@ -4299,7 +4804,9 @@ Once again, White should play the calm 18.Kh1 intending f4.
 
 **18...axb5 19.Nxb5**
 
-EXERCISE (planning): Black found a powerful method of taking over the initiative. Come up with a plan. --- ANSWER: Deflection/target f2-pawn. Black diverts White's bishop from control over the e4-square, after which he plays ...Ne4, with overwhelming pressure exerted on the f2-pawn.
+EXERCISE (planning): Black found a powerful method of taking over the initiative. Come up with a plan.
+
+ANSWER: Deflection/target f2-pawn. Black diverts White's bishop from control over the e4-square, after which he plays ...Ne4, with overwhelming pressure exerted on the f2-pawn.
 
 **19...Bxb5! 20.Bxb5**
 
@@ -4337,11 +4844,15 @@ EXERCISE (combination alert): The preliminaries have come to a conclusion and no
 
 **26...Qc5!**
 
-ANSWER: Unpin and target the f2-pawn. --- The queen rudely presses a finger to each of her eyes, with mock tears for White's king. Defence of the f2-square/pawn is a sacred trust in this line, to which White didn't pay sufficient dues.
+ANSWER: Unpin and target the f2-pawn.
+
+The queen rudely presses a finger to each of her eyes, with mock tears for White's king. Defence of the f2-square/pawn is a sacred trust in this line, to which White didn't pay sufficient dues.
 
 After 26...Qc5 27.Bd3 Rxf2 28.Kh2 , the king looks about every which way for safe-conduct from the danger zone. Following 28...Rxf1 29.Rxf1 Rxf1 30.Bxf1 , the white queen is captured after 30...Bc7 . "Can't we let bygones be bygones?" asks the queen, with a weak smile and an ingratiating whine, to which the bishop responds with a hearty laugh.
 
-ANSWER #2: 26...Bc7! also wins. The bishop flashes a conspiratorial smile to his queen. Following 27.Qc3 , the queen blushes, the way I used to in college, when reading one of my rambling short stories, under the critical gaze of an unamused professor. Finally, the unpinning/double attacking 27...Qd6! forces White to lose his bishop, since mate is threatened on h2. --- SUMMARY: You don't have to contest for the e5-square in this line. It is also possible to simply allow White full control over the square and just play around it.
+ANSWER #2: 26...Bc7! also wins. The bishop flashes a conspiratorial smile to his queen. Following 27.Qc3 , the queen blushes, the way I used to in college, when reading one of my rambling short stories, under the critical gaze of an unamused professor. Finally, the unpinning/double attacking 27...Qd6! forces White to lose his bishop, since mate is threatened on h2.
+
+SUMMARY: You don't have to contest for the e5-square in this line. It is also possible to simply allow White full control over the square and just play around it.
 
 0-1
 
@@ -4356,7 +4867,9 @@ QUESTION: What are the plusses and minuses of recapturing on f6 with the queen?
 ANSWER:
 
 1. Black gains an immediate tempo on the f4-bishop.
+
 2. Black continues to fight for control over the e5-square, unlike the 9...Nxf6 line, which cedes at least temporary control over e5.
+
 3. By recapturing with the queen, Black does nothing to untangle his queenside by leaving the d7-culprit where it stands. But, I will add that the Nd7 isn't as awful as it looks, since Black can later play ...Nc5 and ...Nxd3, both untangling and picking off the bishop pair.
 
 **10.Bg5**
@@ -4366,7 +4879,9 @@ QUESTION: You listed one of the benefits of 9...Qf6 as a tempo gain on the f4-bi
 ANSWER: White does indeed regain the tempo but at a cost.
 
 1. White's bishop gets diverted from control over the key e5-square.
+
 2. When Black's queen backs off to f7, it conveniently releases the f6-square for the misplaced d7-knight.
+
 3. On f7, Black's queen continues to add heat down the sensitive f-file towards f2, White's traditionally most sensitive square in this variation.
 
 QUESTION: If this is the case, then how about 10.Bg3 , which continues to leave Black's d7-knight in limbo. How does Black unravel in this case?
@@ -4423,7 +4938,9 @@ At long last, the ignored c8-bishop emerges and Black finally connects his rooks
 
 **16.Rhf1**
 
-QUESTION: Wouldn't it be more logical to play the rook to e1 instead? --- ANSWER: White wants to play Ne5 but the trouble is that the f2-pawn is loose. So White overprotects the square to enable Ne5.
+QUESTION: Wouldn't it be more logical to play the rook to e1 instead?
+
+ANSWER: White wants to play Ne5 but the trouble is that the f2-pawn is loose. So White overprotects the square to enable Ne5.
 
 **16...Qh5 17.a3**
 
@@ -4509,7 +5026,9 @@ Intending Nf3 and Ne5+, which Bareev prevents with his next move.
 
 **36...g4! 37.Nb3**
 
-EXERCISE (planning): How did Bareev smash the e5-blockade? --- ANSWER: Pin.
+EXERCISE (planning): How did Bareev smash the e5-blockade?
+
+ANSWER: Pin.
 
 **37...e5!**
 
@@ -4529,7 +5048,19 @@ Black got to straighten out his formerly damaged pawn structure, at the cost of 
 
 **43.Bc7 b5 44.a5**
 
-An assessment of the aftermath: 1. Black is up a pawn. --- 2. Black owns a massive central pawn majority, owns a passed e-pawn, and can create new passers with a future ...d4, or with the ...f5-f4 break. --- 3. White's rook is passively tied down to defence of the h2-pawn. --- 4. Black's king is more actively placed than his counterpart and may be able to infiltrate the kingside light squares in the future. --- 5. Every White pawn on the board is fixed on the wrong colour of his remaining bishop. --- 6. The presence of opposite-coloured bishops greatly enhances White's drawing potential. --- Conclusion: Black accumulated too many advantages for the opposite-coloured bishops to overcome and we soon discover that White's blockading fortress isn't an insuperable obstacle to Black's hopes.
+An assessment of the aftermath: 1. Black is up a pawn.
+
+2. Black owns a massive central pawn majority, owns a passed e-pawn, and can create new passers with a future ...d4, or with the ...f5-f4 break.
+
+3. White's rook is passively tied down to defence of the h2-pawn.
+
+4. Black's king is more actively placed than his counterpart and may be able to infiltrate the kingside light squares in the future.
+
+5. Every White pawn on the board is fixed on the wrong colour of his remaining bishop.
+
+6. The presence of opposite-coloured bishops greatly enhances White's drawing potential.
+
+Conclusion: Black accumulated too many advantages for the opposite-coloured bishops to overcome and we soon discover that White's blockading fortress isn't an insuperable obstacle to Black's hopes.
 
 **44...Bd3 45.Bb6 Be4 46.Rd2 f5 47.Rf2 Rh3 48.Bc7 Bf3 49.Kc2 Rh7! 50.Bb6**
 
@@ -4579,11 +5110,15 @@ Now Black is winning again.
 
 **66.Rg1 Rf7 67.Bd4 g2 68.Re1 Rf1 69.Ke2 Kh3 70.Bg1**
 
-EXERCISE (planning): How did Black smash White's blockade? --- ANSWER:
+EXERCISE (planning): How did Black smash White's blockade?
+
+ANSWER:
 
 **70...Bf3+**
 
-A possible finish is 70...Bf3+ 71.Kd2 Rxg1! 72.Rxg1 and Kh2 will complete the rout. --- SUMMARY: I think 9...Qxf6 is actually a slightly better line for Black than the more natural 9...Nxf6. It feels to me that the plusses of the move outweigh the minuses.
+A possible finish is 70...Bf3+ 71.Kd2 Rxg1! 72.Rxg1 and Kh2 will complete the rout.
+
+SUMMARY: I think 9...Qxf6 is actually a slightly better line for Black than the more natural 9...Nxf6. It feels to me that the plusses of the move outweigh the minuses.
 
 0-1
 
@@ -4595,7 +5130,9 @@ White plays it safe and decides against the Russian Roulette 11.Qe2 version (as 
 
 **11...O-O 12.Bh4**
 
-QUESTION: Snap question - What does this move threaten? --- ANSWER: The sneaky Bxh7+ picks up a pawn as ...Kxh7 loses to the Ng5+ fork.
+QUESTION: Snap question - What does this move threaten?
+
+ANSWER: The sneaky Bxh7+ picks up a pawn as ...Kxh7 loses to the Ng5+ fork.
 
 **12...h6**
 
@@ -4603,7 +5140,9 @@ In a previous game, Gurevich tried 12...Qh5 13.Bg3 a6 14.Qe2 Nf6 15.Rad1 Bd7 16.
 
 **13.Qe2 Nf6**
 
-QUESTION: Doesn't this move weaken Black's control over the e5-square? --- ANSWER: Very true. However, the clogging knight can't remain on d7 forever. In this variation, it's important to retain faith that down the line, if we play correctly, we have excellent chances of seizing control over e5 - even if it doesn't appear that way now.
+QUESTION: Doesn't this move weaken Black's control over the e5-square?
+
+ANSWER: Very true. However, the clogging knight can't remain on d7 forever. In this variation, it's important to retain faith that down the line, if we play correctly, we have excellent chances of seizing control over e5 - even if it doesn't appear that way now.
 
 **14.Ne5**
 
@@ -4659,11 +5198,15 @@ QUESTION: Shouldn't White take this powerful knight?
 
 **23.Nc3?**
 
-The delusional wing-footed knight mistakenly believes he can outrun the opposition and cannot be caught by mere mortals. Agreeing to a waste of two full tempi can't be correct. --- ANSWER: Black's knight is clearly a monster. The frustrating part for White is that he feels he can't afford to take it since his dark-squared bishop is the steward of the critical e5-square.
+The delusional wing-footed knight mistakenly believes he can outrun the opposition and cannot be caught by mere mortals. Agreeing to a waste of two full tempi can't be correct.
+
+ANSWER: Black's knight is clearly a monster. The frustrating part for White is that he feels he can't afford to take it since his dark-squared bishop is the steward of the critical e5-square.
 
 Black stands a little better at the end of the line 23.Bxf4!? gxf4 24.Nd2 e5 25.c4 dxc4 26.Nxc4 e4 27.b4 exd3 28.bxc5 Rxe1 29.Rxe1 Kf6 30.f3 Rd8 31.Nd6 Ba4 32.Ne4+ Kf5 33.Nd2 Rd5 when White is in some danger in the ending.
 
-QUESTION: Should White have gone ahead to play 23.Nd2 , as he originally intended? --- ANSWER: That is exactly what he should have played. He feared the line 23...Nxd3 . Personally, I would actually avoid this too with White as Black still holds an edge after 24.cxd3 Bb5 25.Rc1 Rc8 . However, now White has a trick to save his d-pawn with 26.Rfd1! and if Black chops with 26...Bxd3? then 27.Rc3! Bc4 28.b3 Kg6 ( 28...Bb5?? drops a piece to the pinning 29.Rdc1 ) 29.bxc4 Rxf2 30.Kh1 Re2 31.Bg3 Ba7 and Black probably doesn't have full compensation for the piece.
+QUESTION: Should White have gone ahead to play 23.Nd2 , as he originally intended?
+
+ANSWER: That is exactly what he should have played. He feared the line 23...Nxd3 . Personally, I would actually avoid this too with White as Black still holds an edge after 24.cxd3 Bb5 25.Rc1 Rc8 . However, now White has a trick to save his d-pawn with 26.Rfd1! and if Black chops with 26...Bxd3? then 27.Rc3! Bc4 28.b3 Kg6 ( 28...Bb5?? drops a piece to the pinning 29.Rdc1 ) 29.bxc4 Rxf2 30.Kh1 Re2 31.Bg3 Ba7 and Black probably doesn't have full compensation for the piece.
 
 **23...Ng6! 24.Bxg6+**
 
@@ -4705,7 +5248,9 @@ White's last prayer was 29.Nc1 Bb6 30.h4+ gxh3 31.gxh3 h5 32.h4+ Kh6 with an adm
 
 **29...h5!**
 
-ANSWER: Ignore the threat to the d5-pawn and threaten to smother White's bishop. --- Threat: ...h4. An idea doesn't need to be glamorous; it merely has to work.
+ANSWER: Ignore the threat to the d5-pawn and threaten to smother White's bishop.
+
+Threat: ...h4. An idea doesn't need to be glamorous; it merely has to work.
 
 **30.Nxd5**
 
@@ -4723,7 +5268,9 @@ White has no chance after 31.Bxh4+ Kxh4 anyway.
 
 **31...hxg3**
 
-White's king, slowly opening his eyes, inspects the object on g3 with deep revulsion. He hopes to notify his guards by telepathy. Unfortunately, it turns out he isn't psychic and nobody shows up to help him. No one is allowed such close proximity to White's king without the highest security clearance. Yet we see three Black attackers waltz in, planning to conspire further on f2, the eternal weakness which nips and stings White like a raw wound. --- SUMMARY: White seems to slowly lose the initiative with the older, more passive kingside castling plan. I think the Russian Roulette line where White castles queenside is the only path for White.
+White's king, slowly opening his eyes, inspects the object on g3 with deep revulsion. He hopes to notify his guards by telepathy. Unfortunately, it turns out he isn't psychic and nobody shows up to help him. No one is allowed such close proximity to White's king without the highest security clearance. Yet we see three Black attackers waltz in, planning to conspire further on f2, the eternal weakness which nips and stings White like a raw wound.
+
+SUMMARY: White seems to slowly lose the initiative with the older, more passive kingside castling plan. I think the Russian Roulette line where White castles queenside is the only path for White.
 
 0-1
 
@@ -4769,9 +5316,13 @@ ANSWER: As you can see, your moody writer is afflicted with occasional bouts of 
 
 **8.Bd3**
 
-QUESTION: Isn't White worried about losing the bishop pair? --- ANSWER: I think White should be concerned but the trouble is if White tries to retain bishops,
+QUESTION: Isn't White worried about losing the bishop pair?
 
-the alternatives are passive: Watson queries about 8.Qe2!? with the idea of 0-0-0. --- "It's worth a thought, in the spirit of the Zakharov line. White could follow 0-0-0 with Qe3 and Nd4 (Kb1 is also handy), or perhaps h4" (Watson). After 8...Be7 9.h4 a6 10.O-O-O b5 11.Nd4? ( White should have followed Watson's advice with 11.Qe3! when White's position really does look playable, with approximately equal chances ) 11...Nxd4 12.Rxd4 b4! 13.Nb1?! ( it was high time for White to go into emergency mode, and sac an exchange for a pawn with 13.Rxb4 Nd3+ ) 13...Bd7 14.Qg4 g6 15.h5 g5 16.Be3 a5 17.h6 Qc7 and the e5-pawn is loose. The position resembles a game from Chapter One, where however things have gone wrong for White, C.Boschetti-D.Knoedler, Zurich 2000.
+ANSWER: I think White should be concerned but the trouble is if White tries to retain bishops,
+
+the alternatives are passive: Watson queries about 8.Qe2!? with the idea of 0-0-0.
+
+"It's worth a thought, in the spirit of the Zakharov line. White could follow 0-0-0 with Qe3 and Nd4 (Kb1 is also handy), or perhaps h4" (Watson). After 8...Be7 9.h4 a6 10.O-O-O b5 11.Nd4? ( White should have followed Watson's advice with 11.Qe3! when White's position really does look playable, with approximately equal chances ) 11...Nxd4 12.Rxd4 b4! 13.Nb1?! ( it was high time for White to go into emergency mode, and sac an exchange for a pawn with 13.Rxb4 Nd3+ ) 13...Bd7 14.Qg4 g6 15.h5 g5 16.Be3 a5 17.h6 Qc7 and the e5-pawn is loose. The position resembles a game from Chapter One, where however things have gone wrong for White, C.Boschetti-D.Knoedler, Zurich 2000.
 
 I think White would be very lucky to equalise after this passive 8.Be2 . After 8...a6 9.O-O Be7 10.a3 O-O 11.Re1 f5 12.exf6 Bxf6 13.Bg3 Ne4! , Black already stood better, V.Golod-V.Akobian, Philadelphia 2004. If 14.Nxe4 dxe4 15.Nd2 Bxb2 , Black threatens both ...Bxa1 and also ...Bc3. This costs White the exchange with 16.Rb1 Bc3 17.Nxe4 Bxe1 18.Qxe1 e5 and I doubt White has enough compensation.
 
@@ -4791,7 +5342,9 @@ After 9...a6 10.a3 Bd7 11.h5 h6 12.Rh3 Qb6 13.Rb1 Nxd3+ 14.cxd3 O-O 15.Rg3 Kh7 1
 
 **10.O-O a6**
 
-Now taking the b2-pawn becomes a real threat. --- QUESTION: What about it? Can Black get away with grabbing the b2-pawn?
+Now taking the b2-pawn becomes a real threat.
+
+QUESTION: What about it? Can Black get away with grabbing the b2-pawn?
 
 ANSWER: It has only been tried once. White took the draw after 10...Qxb2 11.Nb5 O-O 12.Rb1 and I don't see anything better than to take the draw with 12...Qxa2 13.Ra1 as played in M.Kivisto-J.Riipinen, Espoo 2008. So the answer to your question is - take b2 if you are okay with an instant draw.
 
@@ -4801,7 +5354,11 @@ White can't get away with sac'ing the b2-pawn any longer.
 
 **11...Bd7**
 
-Watson declares equality here and for once, I agree with the chessologist. --- QUESTION: I noticed that Black has yet to play ...f6. Is this normal for the ...Nxc5 lines? --- ANSWER: Yes, avoidance of ...f6 makes sense since Black's d7-knight has been diverted from the key e5- and f6- squares. Black does play ...f6 but much later. The philosophy is: White waits for ...f6 when he responds with exf6 and then attempts to blockade the e5-square, as we have seen in the previous games of this chapter. With avoidance of ...f6, Black allows White's cramping e5-pawn to remain on the board, but keeps the position closed in the centre. This generally helps the black side. Meanwhile Black will play both on the queenside and sometimes go for it on the kingside with the ...g5!? thrust, as we have seen in the notes.
+Watson declares equality here and for once, I agree with the chessologist.
+
+QUESTION: I noticed that Black has yet to play ...f6. Is this normal for the ...Nxc5 lines?
+
+ANSWER: Yes, avoidance of ...f6 makes sense since Black's d7-knight has been diverted from the key e5- and f6- squares. Black does play ...f6 but much later. The philosophy is: White waits for ...f6 when he responds with exf6 and then attempts to blockade the e5-square, as we have seen in the previous games of this chapter. With avoidance of ...f6, Black allows White's cramping e5-pawn to remain on the board, but keeps the position closed in the centre. This generally helps the black side. Meanwhile Black will play both on the queenside and sometimes go for it on the kingside with the ...g5!? thrust, as we have seen in the notes.
 
 **12.a3**
 
@@ -4893,7 +5450,9 @@ White resists best with 30.Bf2! h6 31.d4 Rfe7 32.g4 Ra2 33.Qxf3 Ree2 34.Qxd5+ Kh
 
 **30...Bd7!**
 
-ANSWER: Transfer the bishop into the attack via d7 and h3. The emotionally isolated bishop keeps his innermost secret - murderous compulsions, hidden from those around him until now. --- This deadly transfer halts White in midstride. Black threatens ...f2+, followed by ...Bh3, forcing promotion of the f-pawn.
+ANSWER: Transfer the bishop into the attack via d7 and h3. The emotionally isolated bishop keeps his innermost secret - murderous compulsions, hidden from those around him until now.
+
+This deadly transfer halts White in midstride. Black threatens ...f2+, followed by ...Bh3, forcing promotion of the f-pawn.
 
 **31.Bc5 Rg2+ 32.Kf1**
 
@@ -4911,9 +5470,13 @@ After 33.Ke1 , Black has the 33...Re7+! deflection. Following 34.Bxe7 ( 34.Kd1 f
 
 **33...Re7!**
 
-ANSWER: Principle: In a king hunt, don't chase the king. Instead, cut off escape routes. White has no way to deal with the coming discovered attack by the g2 rook, since defending against that opens fresh discoveries. --- Much stronger than taking g3 with check. White's only choices now: Which hell would he prefer to be broiled in?
+ANSWER: Principle: In a king hunt, don't chase the king. Instead, cut off escape routes. White has no way to deal with the coming discovered attack by the g2 rook, since defending against that opens fresh discoveries.
 
-33...Re7 34.Bd4 runs into the 34...Rd2+! discovery/interference, and 35.Kg1 gets the king ambushed as his mouth forms into a perfect "O", bearing witness to his utter shock at 35...Re1# mate! "The king rests comfortably," says the rook. And by that, he means in the coffin. --- SUMMARY: I tend to favour the ...Nxc5 versions over ...Bxc5 main lines. White tends to be less well-prepared theoretically against this offshoot.
+Much stronger than taking g3 with check. White's only choices now: Which hell would he prefer to be broiled in?
+
+33...Re7 34.Bd4 runs into the 34...Rd2+! discovery/interference, and 35.Kg1 gets the king ambushed as his mouth forms into a perfect "O", bearing witness to his utter shock at 35...Re1# mate! "The king rests comfortably," says the rook. And by that, he means in the coffin.
+
+SUMMARY: I tend to favour the ...Nxc5 versions over ...Bxc5 main lines. White tends to be less well-prepared theoretically against this offshoot.
 
 0-1
 
@@ -4925,13 +5488,21 @@ Once again, White is careful not to allow ...g5 tricks.
 
 **9...f5**
 
-An interesting new idea. --- QUESTION: What is the difference between this move and playing ...f6? --- ANSWER: By playing ...f5, White is given a choice: Take en passant, leading to the standard fight for the e5-square, or retain the choking e5-pawn.
+An interesting new idea.
+
+QUESTION: What is the difference between this move and playing ...f6?
+
+ANSWER: By playing ...f5, White is given a choice: Take en passant, leading to the standard fight for the e5-square, or retain the choking e5-pawn.
 
 **10.Qe2**
 
-QUESTION: White decided not to take en passant. What benefit does Black get from the deal? --- ANSWER: Black gets use of the e4-square, similar to a Stonewall Dutch and his c5-knight is conveniently located to enter the square.
+QUESTION: White decided not to take en passant. What benefit does Black get from the deal?
 
-QUESTION: How should Black proceed after 10.exf6 ? --- ANSWER: Something like this: 10...Bxf6 and White lunges ahead with 11.Ng5 , M Fierro Baquero-C.Le Bail, Guingamp 2006. Now Black can play ( 11.Bg3 O-O , I prefer Black as White's h4 does more harm than good ) 11...Bxc3+ 12.bxc3 Qf6 with a double attack. Following 13.Bd6 Qxc3+ 14.Kf1 Nxd3 15.cxd3 Qf6 16.Nf3 e5 17.Bxe5 Nxe5 18.Qe2 O-O 19.Qxe5 Bf5 , Black has the advantage since it takes quite a while for the h1-rook to emerge. Meanwhile, Black threatens the d3-bishop and may soon initiate a rook infiltration down the c-file.
+ANSWER: Black gets use of the e4-square, similar to a Stonewall Dutch and his c5-knight is conveniently located to enter the square.
+
+QUESTION: How should Black proceed after 10.exf6 ?
+
+ANSWER: Something like this: 10...Bxf6 and White lunges ahead with 11.Ng5 , M Fierro Baquero-C.Le Bail, Guingamp 2006. Now Black can play ( 11.Bg3 O-O , I prefer Black as White's h4 does more harm than good ) 11...Bxc3+ 12.bxc3 Qf6 with a double attack. Following 13.Bd6 Qxc3+ 14.Kf1 Nxd3 15.cxd3 Qf6 16.Nf3 e5 17.Bxe5 Nxe5 18.Qe2 O-O 19.Qxe5 Bf5 , Black has the advantage since it takes quite a while for the h1-rook to emerge. Meanwhile, Black threatens the d3-bishop and may soon initiate a rook infiltration down the c-file.
 
 **10...Ne4**
 
@@ -4965,7 +5536,11 @@ The knight steps aside with a grudgingly irritable grunt, proving that the g5 ex
 
 **14...a6 15.g3**
 
-It feels like White ran out of useful ideas. --- QUESTION: I noticed that White keeps allowing ...Nxc3 and Black avoids it. Why? --- ANSWER: The wary knights eye one another, the way my dogs act when they see another dog on a walk. Black threatens ...Nxc3 at various stages to damage White's structure and also increases his activity. Also, it allows White central disruptions with c4, which Black would like to avoid. I would just ignore temptation the way Ding played it.
+It feels like White ran out of useful ideas.
+
+QUESTION: I noticed that White keeps allowing ...Nxc3 and Black avoids it. Why?
+
+ANSWER: The wary knights eye one another, the way my dogs act when they see another dog on a walk. Black threatens ...Nxc3 at various stages to damage White's structure and also increases his activity. Also, it allows White central disruptions with c4, which Black would like to avoid. I would just ignore temptation the way Ding played it.
 
 **15...Bd7 16.Bxe4?**
 
@@ -4975,7 +5550,9 @@ I would play the admittedly depressing 16.Qd1 intending Ne2 and await Black's in
 
 **16...fxe4 17.Nh2**
 
-EXERCISE (planning): White isn't going to have time for some leisurely Qh5 and Ng4 attacking build-up. How can Black win material here? --- ANSWER: The e5-pawn is untenable.
+EXERCISE (planning): White isn't going to have time for some leisurely Qh5 and Ng4 attacking build-up. How can Black win material here?
+
+ANSWER: The e5-pawn is untenable.
 
 **17...Rf5! 18.Kh1 Nxe5 19.Bxe5**
 
@@ -5013,7 +5590,9 @@ This endangers White's king but the ending after the queen swap looks hopeless.
 
 **35...Qf3 36.Qd4 Qe2+ 37.Kh1 Qf3+ 38.Kh2**
 
-EXERCISE (combination alert): Black to play and force the win of material. --- ANSWER: Overloaded defender/deflection.
+EXERCISE (combination alert): Black to play and force the win of material.
+
+ANSWER: Overloaded defender/deflection.
 
 **38...Bxe3! 39.Nxe3 Qf2+**
 
@@ -5037,7 +5616,9 @@ Also futile is 41.Qc5 as an event isn't necessarily cancelled if one party refus
 
 There is no perpetual check.
 
-A possible finish is 41...Qxe3 42.Qe7+ Kg8 43.Qe6+ Kf8 44.Qf6+ when the queen refuses to abandon Black's king, the way Lassie, when ordered home by Timmy, would disobey and continue to trail her master surreptitiously, crouching behind barns to achieve her goal. Following 44...Ke8 45.Qxe5+ Kd7 46.Qg7+ Kc8 47.Qh8+ Kc7 48.Qe5+ Kb6 , White runs out of checks and must give up the ghost. --- SUMMARY: I like 9...f5, which is sure to surprise your opponent and burden him or her with original problems to solve over the board.
+A possible finish is 41...Qxe3 42.Qe7+ Kg8 43.Qe6+ Kf8 44.Qf6+ when the queen refuses to abandon Black's king, the way Lassie, when ordered home by Timmy, would disobey and continue to trail her master surreptitiously, crouching behind barns to achieve her goal. Following 44...Ke8 45.Qxe5+ Kd7 46.Qg7+ Kc8 47.Qh8+ Kc7 48.Qe5+ Kb6 , White runs out of checks and must give up the ghost.
+
+SUMMARY: I like 9...f5, which is sure to surprise your opponent and burden him or her with original problems to solve over the board.
 
 0-1
 
@@ -5051,7 +5632,9 @@ lines of the book, covering the dynamic
 
 **4...dxe4 5.Nxe4 Be7 6.Bxf6 gxf6**
 
-lines of the Burn Variation. This is our major alternative to the McCutcheon which we will cover in the next two chapters. Our structure is similar to lines of the Scandinavian and ...gxf6 Caro-Kann. The difference is that in the Burn, we pick up the bishop pair. Our 6...gxf6 recapture isn't merely an irrational leap of faith. It can be argued that Black's structure may be superior to the intact kingside pawn structure with the g-pawn still on g7. 6...gxf6 opens the g-file for our rooks and can lead to devastating attacks, like in Polgar-Morozevich (Game 36). Also our f6-pawn covers the key e5-square and if we later choose to play ...f5, then we take control over the e4-square from the white knight. If we manage to catch up in development and play ...c5 and ...cxd4, we decimate White's pawn centre. In this line, White essentially hands over several strategic concessions for a developmental lead. --- Now you may ask: Why toss in ...a6? Now Morozevich has honed this idea into a deadly weapon. Black plans the ambitious ...b5 (rather than a conservative ...b6) with ...Bb7 to follow. Not only does this turn our traditionally bad light-squared bishop into one of the most powerful pieces on the board, it also discourages White from castling queenside since he or she then walks head-on into our pawn storm. Our line is risky but the rewards are great. A good general understands to achieve victory, he or she must sometimes place troops in harm's way to provoke the enemy. Often, White misjudges our 6...gxf6 recapture, fails the equanimity test and decides to go ballistic. Take a look at the games in this chapter and you will see, our position is not one which can be knocked over easily, and our counterattack often arrives with withering force.
+lines of the Burn Variation. This is our major alternative to the McCutcheon which we will cover in the next two chapters. Our structure is similar to lines of the Scandinavian and ...gxf6 Caro-Kann. The difference is that in the Burn, we pick up the bishop pair. Our 6...gxf6 recapture isn't merely an irrational leap of faith. It can be argued that Black's structure may be superior to the intact kingside pawn structure with the g-pawn still on g7. 6...gxf6 opens the g-file for our rooks and can lead to devastating attacks, like in Polgar-Morozevich (Game 36). Also our f6-pawn covers the key e5-square and if we later choose to play ...f5, then we take control over the e4-square from the white knight. If we manage to catch up in development and play ...c5 and ...cxd4, we decimate White's pawn centre. In this line, White essentially hands over several strategic concessions for a developmental lead.
+
+Now you may ask: Why toss in ...a6? Now Morozevich has honed this idea into a deadly weapon. Black plans the ambitious ...b5 (rather than a conservative ...b6) with ...Bb7 to follow. Not only does this turn our traditionally bad light-squared bishop into one of the most powerful pieces on the board, it also discourages White from castling queenside since he or she then walks head-on into our pawn storm. Our line is risky but the rewards are great. A good general understands to achieve victory, he or she must sometimes place troops in harm's way to provoke the enemy. Often, White misjudges our 6...gxf6 recapture, fails the equanimity test and decides to go ballistic. Take a look at the games in this chapter and you will see, our position is not one which can be knocked over easily, and our counterattack often arrives with withering force.
 
 ### (48)Humphrey, J.   --   Lakdawala, C. 29: Gambito Open (rapid), San Diego  2013   0-1   C13 (Cyrus Lakdawala)
 
@@ -5067,7 +5650,15 @@ Previously, we only looked at 4.e5 lines.
 
 **4...dxe4**
 
-The starting position of the Burn Variation, which has similarities to the Rubinstein French, but I believe the former is a superior version of it. --- QUESTION: Why is it superior to the Rubinstein French? --- ANSWER: The inclusion of Bg5 and ...Nf6 favours Black, because swaps are more likely in the Burn, rather than the Rubinstein. --- QUESTION: Why do swaps help our side? --- ANSWER: Principle: The cramped side benefits from piece trades.
+The starting position of the Burn Variation, which has similarities to the Rubinstein French, but I believe the former is a superior version of it.
+
+QUESTION: Why is it superior to the Rubinstein French?
+
+ANSWER: The inclusion of Bg5 and ...Nf6 favours Black, because swaps are more likely in the Burn, rather than the Rubinstein.
+
+QUESTION: Why do swaps help our side?
+
+ANSWER: Principle: The cramped side benefits from piece trades.
 
 **5.Nxe4 Be7**
 
@@ -5109,7 +5700,11 @@ Playing on the fact that the b2-pawn is loose. This move at least creates opposi
 
 **10.O-O**
 
-Bolstering up the centre with 10.c3 cxd4 11.Nxd4 ( 11.cxd4 looks like a lacklustre isolani position from White's side. The fact that two pairs of pieces have been swapped away favours Black ) 11...e5 allows Black to achieve a favourable c3-Sicilian type of position. After 12.Ne2 Nd7 13.Qc2 g6 14.Ng3 Nc5 15.Bc4 Qf4! 16.Bd5 Rd8 17.Rd1 Bg4 18.Rd2 Be6 19.Bxe6 Nxe6 , White found himself seriously behind in development and has the inferior pawn majority. Now, after 20.Re2? . --- EXERCISE (combination alert): Black to play and win. --- ANSWER: Fork/line opening. 20...Nd4! 21.cxd4 Rac8 and Black emerges with a decisive material gain, since both the queen and ...Rc1+ are threatened, I.Vitic-G.Dizdar, Pula 1997.
+Bolstering up the centre with 10.c3 cxd4 11.Nxd4 ( 11.cxd4 looks like a lacklustre isolani position from White's side. The fact that two pairs of pieces have been swapped away favours Black ) 11...e5 allows Black to achieve a favourable c3-Sicilian type of position. After 12.Ne2 Nd7 13.Qc2 g6 14.Ng3 Nc5 15.Bc4 Qf4! 16.Bd5 Rd8 17.Rd1 Bg4 18.Rd2 Be6 19.Bxe6 Nxe6 , White found himself seriously behind in development and has the inferior pawn majority. Now, after 20.Re2? .
+
+EXERCISE (combination alert): Black to play and win.
+
+ANSWER: Fork/line opening. 20...Nd4! 21.cxd4 Rac8 and Black emerges with a decisive material gain, since both the queen and ...Rc1+ are threatened, I.Vitic-G.Dizdar, Pula 1997.
 
 **10...cxd4 11.Nxd4 Rd8**
 
@@ -5121,7 +5716,11 @@ I was counting on 12.c3? which favours Black after 12...e5 13.Nb5 e4! 14.Nc7 exd
 
 **12...Na6**
 
-A new move. --- QUESTION: Why place your knight offside? --- ANSWER: Only temporarily offside. Black intends either ...Nc5 or ...Nb4 and then chop on d3. This creates further imbalance to the position, which should favour Black.
+A new move.
+
+QUESTION: Why place your knight offside?
+
+ANSWER: Only temporarily offside. Black intends either ...Nc5 or ...Nb4 and then chop on d3. This creates further imbalance to the position, which should favour Black.
 
 The more popular 12...Nc6 can follow 13.Qc1 a6 14.Nc3 b5 15.Ne4 Qe7 16.a3 Ne5 17.Be2 Bb7 18.Qe3 Rac8 19.c3 Nc4 20.Bxc4 , I.Kapic-T.Luther, Boeblingen 2003. I would probably recapture with the pawn to apply pressure to the now backward b2-pawn with 20...bxc4 21.Rad1 Ba8 , hence preparing...Qb7. I prefer Black here.
 
@@ -5157,7 +5756,11 @@ My queen insinuates herself into the argument, declaring, "As your sovereign, it
 
 **18.Rd2 Rd7 19.Rfd1 Rad8 20.Qxd4 Rxd4 21.f3 f6 22.Kf2 Kf7 23.b3**
 
-White can't make defensive progress and simply awaits Black's intent. --- QUESTION: Often, one weakness isn't enough to win the game, since in this case, White can easily defend d3 as many times as it can be attacked. How can you make progress? --- ANSWER: My plan was to increase kingside space and probe in that region for a second weakness.
+White can't make defensive progress and simply awaits Black's intent.
+
+QUESTION: Often, one weakness isn't enough to win the game, since in this case, White can easily defend d3 as many times as it can be attacked. How can you make progress?
+
+ANSWER: My plan was to increase kingside space and probe in that region for a second weakness.
 
 **23...g5 24.Ne2 R4d7 25.Nc3 b6 26.Ke3 Rc7 27.Rc1 Bb7 28.Ne2 Rcd7 29.Rc4 e5 30.Rc3 f5 31.Nc1**
 
@@ -5171,7 +5774,11 @@ White was better off awaiting the black kingside pawns' arrival in deferential m
 
 **32...Kf6 33.Rdc2**
 
-EXERCISE (planning): White hoped to convert his kingside into a bunker of sorts. Apparently it hasn't been sufficiently converted. Find a way for Black to make progress. --- ANSWER: Creation of a passed pawn. --- Step 1: Fix f3 as a stationary target.
+EXERCISE (planning): White hoped to convert his kingside into a bunker of sorts. Apparently it hasn't been sufficiently converted. Find a way for Black to make progress.
+
+ANSWER: Creation of a passed pawn.
+
+Step 1: Fix f3 as a stationary target.
 
 **33...f4+**
 
@@ -5215,7 +5822,9 @@ To a canary in a cage, the entire universe is merely the size of the room.
 
 Zugzwang. White's rook and knight are a happy couple who almost never quarrel, except they endure a constant, running argument with each other in their minds. The defenders feel as if they are suspended in mid-air or slow-motion, like a fight scene from The Matrix. White is only left with pawn moves.
 
-With 45...f3 46.h3 , the h-pawn understands the difference between a request and a command. White's knight secures his release from custody at an exorbitantly high bail. If 46...gxh3 47.Rh2 and here, I had planned to simplify with the deflecting 47...f2 . White's rook can't vacate its h2-blockade but yet, it must. Following, 48.Ne2+ , the long atrophied knight's dream of jumping out of her wheelchair and dancing the can-can comes true. The game might finish with 48...Kc5 49.Rxf2 h2 50.Ng3 h1=Q 51.Nxh1 Rxh1 and Black nets an extra piece for an easy win. --- SUMMARY: When White swaps twice on f6 in the opening, it doesn't guarantee him or her an easy draw.
+With 45...f3 46.h3 , the h-pawn understands the difference between a request and a command. White's knight secures his release from custody at an exorbitantly high bail. If 46...gxh3 47.Rh2 and here, I had planned to simplify with the deflecting 47...f2 . White's rook can't vacate its h2-blockade but yet, it must. Following, 48.Ne2+ , the long atrophied knight's dream of jumping out of her wheelchair and dancing the can-can comes true. The game might finish with 48...Kc5 49.Rxf2 h2 50.Ng3 h1=Q 51.Nxh1 Rxh1 and Black nets an extra piece for an easy win.
+
+SUMMARY: When White swaps twice on f6 in the opening, it doesn't guarantee him or her an easy draw.
 
 0-1
 
@@ -5229,21 +5838,39 @@ and the ...gxf6 Caro-Kann ( 1...c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 ).
 
 **2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6**
 
-White's only real shot at an edge. --- QUESTION: Why? He just handed Black the bishop pair. --- ANSWER: It's either this or to accept the dullness of White's setup in the previous game. This is the only way White can retain his powerful e4-knight. Of course, as you pointed out, there is risk involved since he hands Black the bishop pair.
+White's only real shot at an edge.
+
+QUESTION: Why? He just handed Black the bishop pair.
+
+ANSWER: It's either this or to accept the dullness of White's setup in the previous game. This is the only way White can retain his powerful e4-knight. Of course, as you pointed out, there is risk involved since he hands Black the bishop pair.
 
 **6...gxf6**
 
-The most dynamic and ambitious line, which we cover exclusively in the book. --- QUESTION: Why would Black voluntarily damage his pawn structure? --- ANSWER: I would label it changed, rather than damaged. After all, by playing 6...gxf6, Black opens the g-file for his rook and also takes control over the e5-square. If Black should later play ...f5, then we control the key e4-square as well. A pretty good bargain, in my opinion, for the small price of weakening the structure by creating another pawn island.
+The most dynamic and ambitious line, which we cover exclusively in the book.
 
-QUESTION: What is wrong with 6...Bxf6 ? --- ANSWER: Nothing really but the position is a bit dull and I'm not really so confident that Black has equalized. I think we should jump at the chance of creating an imbalance with the more dynamic ...gxf6 recapture. Here is an example: 7.Nf3 O-O 8.c3 b6 9.Bd3 Bb7 10.Qc2 h6?! , C.Lakdawala-K.Griffith, San Diego (rapid) 2010. White can now claim an edge after ( instead 10...Nd7 looks correct here ) 11.Nxf6+ Qxf6 12.Bh7+ Kh8 13.Be4 Bxe4 14.Qxe4 Nd7 15.Qc6 Qd8 16.O-O .
+QUESTION: Why would Black voluntarily damage his pawn structure?
+
+ANSWER: I would label it changed, rather than damaged. After all, by playing 6...gxf6, Black opens the g-file for his rook and also takes control over the e5-square. If Black should later play ...f5, then we control the key e4-square as well. A pretty good bargain, in my opinion, for the small price of weakening the structure by creating another pawn island.
+
+QUESTION: What is wrong with 6...Bxf6 ?
+
+ANSWER: Nothing really but the position is a bit dull and I'm not really so confident that Black has equalized. I think we should jump at the chance of creating an imbalance with the more dynamic ...gxf6 recapture. Here is an example: 7.Nf3 O-O 8.c3 b6 9.Bd3 Bb7 10.Qc2 h6?! , C.Lakdawala-K.Griffith, San Diego (rapid) 2010. White can now claim an edge after ( instead 10...Nd7 looks correct here ) 11.Nxf6+ Qxf6 12.Bh7+ Kh8 13.Be4 Bxe4 14.Qxe4 Nd7 15.Qc6 Qd8 16.O-O .
 
 **7.Nf3**
 
-QUESTION: What if White plays the immediate 7.g3 to prevent Black's coming ...a6, ...b5 plan? --- ANSWER: Black takes over the initiative after 7...f5 8.Nc3 Bf6 9.Nge2 ( 9.Nf3 Nc6 10.Ne2 b6 and Black's bishop makes it to the diagonal after all with at least equality, since White wasted time with his e2-knight ) 9...Nc6 10.d5 exd5 11.Bg2 d4 12.Nd5 Be5 13.O-O Be6 14.Nef4 Qd6 15.Re1 O-O-O . Black is well-developed, his d4-pawn has a cramping effect and I don't believe in White's full compensation for the pawn, W.Kobese-N.Short, Khanty-Mansiysk 2010.
+QUESTION: What if White plays the immediate 7.g3 to prevent Black's coming ...a6, ...b5 plan?
+
+ANSWER: Black takes over the initiative after 7...f5 8.Nc3 Bf6 9.Nge2 ( 9.Nf3 Nc6 10.Ne2 b6 and Black's bishop makes it to the diagonal after all with at least equality, since White wasted time with his e2-knight ) 9...Nc6 10.d5 exd5 11.Bg2 d4 12.Nd5 Be5 13.O-O Be6 14.Nef4 Qd6 15.Re1 O-O-O . Black is well-developed, his d4-pawn has a cramping effect and I don't believe in White's full compensation for the pawn, W.Kobese-N.Short, Khanty-Mansiysk 2010.
 
 **7...f5**
 
-We mainly cover the move order 7...a6 and then follow up with ...f5 subsequently. --- QUESTION: What are the differences between an earlier ...f5 followed by ...a6 or vice-versa? --- ANSWER: 1. When Black plays the immediate 7...f5, we pretty much force White's knight to c3, thereby cutting down our opponent's options. However, one may argue that c3 is a good outpost for the knight, since it helps prepare the thematic d5 break. --- 2. When Black plays 7...a6, we keep White guessing if and when we are going to toss in ...f5. Both have their merits and it's just a matter of taste which one you prefer. My personal preference is for 7...a6.
+We mainly cover the move order 7...a6 and then follow up with ...f5 subsequently.
+
+QUESTION: What are the differences between an earlier ...f5 followed by ...a6 or vice-versa?
+
+ANSWER: 1. When Black plays the immediate 7...f5, we pretty much force White's knight to c3, thereby cutting down our opponent's options. However, one may argue that c3 is a good outpost for the knight, since it helps prepare the thematic d5 break.
+
+2. When Black plays 7...a6, we keep White guessing if and when we are going to toss in ...f5. Both have their merits and it's just a matter of taste which one you prefer. My personal preference is for 7...a6.
 
 We won't have room to cover the more solid and less ambitious 7...b6 .
 
@@ -5275,7 +5902,9 @@ An aggressive try is 11.Qe2 , intending 0-0-0 and d5. Black should meet this vig
 
 **11...c5**
 
-Black immediately challenges White's central superiority. --- QUESTION: It seems to me like Black may be violating the principle: Don't allow the position to open when lagging in development. Does Black have to play the immediate 11...c5?
+Black immediately challenges White's central superiority.
+
+QUESTION: It seems to me like Black may be violating the principle: Don't allow the position to open when lagging in development. Does Black have to play the immediate 11...c5?
 
 ANSWER: No. Black can also delay it for a move with 11...O-O . Castling kingside may surprise some readers. Black's king is a lot safer than it looks. This variation was tested against the world's best player after 12.Re1 c5 :
 
@@ -5329,7 +5958,15 @@ White can't eliminate his backward c-pawn with 22.c3? bxc3 23.Nxc3 Bxf2 when Bla
 
 **22...Bd6 23.Rd2**
 
-Advantage Black: 1. White is tied down to defence of the c2-pawn and his rook begins his new career in the lucrative field of babysitting. --- 2. Black's bishop is more valuable than White's knight, especially since we have opposite wing pawn majorities (if we can call White's an actual majority!). --- 3. Black's kingside majority is fluid and ready to roll forward, while White's is ice-bound on the other side of the board. --- 4. Black's king is more active than his counterpart. --- In conclusion, Houdini misjudges this position as nearly equal, while in reality, we humans know White fights for his life.
+Advantage Black: 1. White is tied down to defence of the c2-pawn and his rook begins his new career in the lucrative field of babysitting.
+
+2. Black's bishop is more valuable than White's knight, especially since we have opposite wing pawn majorities (if we can call White's an actual majority!).
+
+3. Black's kingside majority is fluid and ready to roll forward, while White's is ice-bound on the other side of the board.
+
+4. Black's king is more active than his counterpart.
+
+In conclusion, Houdini misjudges this position as nearly equal, while in reality, we humans know White fights for his life.
 
 White also struggles after 23.Nd4 Ke7 24.f4 Bc5 25.Nf3 Be3 26.Ne1 f6 and Black intends ...e5 soon.
 
@@ -5387,7 +6024,9 @@ Black's king is a firm believer in democratic majority rule. Since he represents
 
 **35.Kd1 Bd2 36.Nh4**
 
-EXERCISE (planning): It appears as if White constructed a fortress to keep Black's king out of f3. How did Caruana smash it with a clear plan? --- ANSWER: Clear the way for the manoeuvre ...Bc3! and ...Bf6, after which the fortress crumbles.
+EXERCISE (planning): It appears as if White constructed a fortress to keep Black's king out of f3. How did Caruana smash it with a clear plan?
+
+ANSWER: Clear the way for the manoeuvre ...Bc3! and ...Bf6, after which the fortress crumbles.
 
 **36...Rc6! 37.c4!**
 
@@ -5407,7 +6046,11 @@ Clamping down on b4 ideas.
 
 **39.Rg2**
 
-For one accustomed to sorrow, minor irritations are taken in stride. White is one rook move away from zugzwang. --- EXERCISE (planning): White cleverly prevented the ...Bc3, ...Bf6 idea and erected a brand new fortress. How do we break this one down? --- ANSWER: Prepare to sac the exchange on h4.
+For one accustomed to sorrow, minor irritations are taken in stride. White is one rook move away from zugzwang.
+
+EXERCISE (planning): White cleverly prevented the ...Bc3, ...Bf6 idea and erected a brand new fortress. How do we break this one down?
+
+ANSWER: Prepare to sac the exchange on h4.
 
 **39...Rh6!**
 
@@ -5421,7 +6064,9 @@ A key defender is tossed aside, asked not-too-politely to take his astonishment 
 
 This is like returning to consciousness from a vivid, sweat-soaked nightmare and then realizing it was no dream. First the mushroom cloud; now comes the aftermath of radiation fallout.
 
-"The hour of your disillusionment is upon you," the king announces to the unhappy rook as he sidles up with 41.gxh4 Kf3 . White's easily alarmed king really needs to calm down, and if failing that, at least pop a valium as he hurried over with 42.Kd3 , only to get hit by the 42...c2! overloading device. White's king continues to be encroached by yet further indignities. We see quite clearly that the consequences of the attempted blockade...well, produced little consequence. --- SUMMARY: Let's go with the bold 6...gxf6 recapture and play for the win.
+"The hour of your disillusionment is upon you," the king announces to the unhappy rook as he sidles up with 41.gxh4 Kf3 . White's easily alarmed king really needs to calm down, and if failing that, at least pop a valium as he hurried over with 42.Kd3 , only to get hit by the 42...c2! overloading device. White's king continues to be encroached by yet further indignities. We see quite clearly that the consequences of the attempted blockade...well, produced little consequence.
+
+SUMMARY: Let's go with the bold 6...gxf6 recapture and play for the win.
 
 0-1
 
@@ -5433,13 +6078,19 @@ It's worth mentioning again that Black can avoid the coming piece sac by enterin
 
 **12.d5!?**
 
-Daydreams can turn out to be scripts for our future actions. One can't evade an opponent's belligerency forever, if one side is determined to disrupt the smooth flow. Ivanchuk unleashes an amazing new idea. From his theoretical forge, Ivanchuk hammers out a fearsome tool. This is in reality a piece sac and may be the most critical try in the position. GM Neil McDonald gave the move an enthusiastic "!!". --- QUESTION: Does this mean the variation is good for White? --- ANSWER: McDonald thought so. I think it's fully playable for Black, as long as you don't mind entering psychotic complications. In such positions where both sides are adrift in a fathomless ocean of complexity, it isn't surprising that assessments fail to coincide.
+Daydreams can turn out to be scripts for our future actions. One can't evade an opponent's belligerency forever, if one side is determined to disrupt the smooth flow. Ivanchuk unleashes an amazing new idea. From his theoretical forge, Ivanchuk hammers out a fearsome tool. This is in reality a piece sac and may be the most critical try in the position. GM Neil McDonald gave the move an enthusiastic "!!".
+
+QUESTION: Does this mean the variation is good for White?
+
+ANSWER: McDonald thought so. I think it's fully playable for Black, as long as you don't mind entering psychotic complications. In such positions where both sides are adrift in a fathomless ocean of complexity, it isn't surprising that assessments fail to coincide.
 
 **12...b4**
 
 Not much choice.
 
-QUESTION: Can Black decline the piece and be satisfied with just grabbing a pawn with 12...exd5 ? --- ANSWER: No. This isn't a position suited for cautious diplomacy since White's idea is tantamount to an open declaration of war. The defending side in this case has but one survival tool: Compliance with the enemy's wishes. We are committed to acceptance of the piece. The pawn grab fails miserably to 13.Re1 O-O ( 13...d4? fails to 14.Nh4! ) 14.Ne5 when White regains the lost investment on d5 with super active pieces, leaving Black's structure wrecked as well.
+QUESTION: Can Black decline the piece and be satisfied with just grabbing a pawn with 12...exd5 ?
+
+ANSWER: No. This isn't a position suited for cautious diplomacy since White's idea is tantamount to an open declaration of war. The defending side in this case has but one survival tool: Compliance with the enemy's wishes. We are committed to acceptance of the piece. The pawn grab fails miserably to 13.Re1 O-O ( 13...d4? fails to 14.Nh4! ) 14.Ne5 when White regains the lost investment on d5 with super active pieces, leaving Black's structure wrecked as well.
 
 **13.dxe6!**
 
@@ -5457,7 +6108,17 @@ Black will be subjected to a torrid attack after 14...Kxf7? 15.Ne5+ and if Black
 
 **15.Qe2 cxb2 16.Rad1 Qb6 17.Rfe1 Qf6**
 
-QUESTION: How would we assess the aftermath of the sac? --- ANSWER: For the piece, White gets: 1. A dangerous developmental lead. --- 2. Open e- and d-files for his rooks. --- 3. A choking effect on Black's kingside development. --- 4. Good chances to exploit Black's weak squares on d7, e6, e5 and the weak f5-pawn, all of which are vulnerable to White's remaining knight. --- Conclusion: White has full compensation for the piece but I'm not so sure he actually holds any edge. Houdini assesses at virtually dead even, so it's anybody's game.
+QUESTION: How would we assess the aftermath of the sac?
+
+ANSWER: For the piece, White gets: 1. A dangerous developmental lead.
+
+2. Open e- and d-files for his rooks.
+
+3. A choking effect on Black's kingside development.
+
+4. Good chances to exploit Black's weak squares on d7, e6, e5 and the weak f5-pawn, all of which are vulnerable to White's remaining knight.
+
+Conclusion: White has full compensation for the piece but I'm not so sure he actually holds any edge. Houdini assesses at virtually dead even, so it's anybody's game.
 
 **18.c3!**
 
@@ -5563,13 +6224,17 @@ The only way to play on was 38...Re6 39.Ng5 Rxe8 40.Qxe8 Qf5 41.Rb5! Qf6 42.Qe4 
 
 **39.Rb7 Qf6 40.Ng5 Ne5**
 
-EXERCISE (combination alert): Signs of inevitable decay are all around Black's position. How our ears long for those achingly beautiful two words from an opponent - "I resign". Find one powerful move and Black's resistance melts away. --- ANSWER: Interference.
+EXERCISE (combination alert): Signs of inevitable decay are all around Black's position. How our ears long for those achingly beautiful two words from an opponent - "I resign". Find one powerful move and Black's resistance melts away.
+
+ANSWER: Interference.
 
 **41.Rf7!**
 
 When a fist collides with a jaw, the fist generally emerges triumphant, since it enjoys the great benefit of being in motion, while the jaw remains a stationary target.
 
-This punch sends Black reeling after 41.Rf7 Nxf7 42.Rxf8+ Kg7 43.Rg8+ Kh6 44.Qf8+ and powerful, restraining hands grab Black's king from behind, while another pair of hands apply the chloroform. Black is left reeling and 44...Rg7 45.Nxf7+ Qxf7 46.Qxd6+ wins the house. --- SUMMARY: This is not a variation for readers whose lives are shaped by dull routine. If you don't want to enter the storm, then remember, you also have the much calmer option of 11...0-0, and then playing ...c5 on the next move. So the piece sac version is optional for Black. But if you do choose to enter this line, computer analysis indicates the position is complex and fully playable for Black. However there may be problems for our side from a practical standpoint, since White is on the attack, with an easier to play over the board. So be careful about choosing to enter this one.
+This punch sends Black reeling after 41.Rf7 Nxf7 42.Rxf8+ Kg7 43.Rg8+ Kh6 44.Qf8+ and powerful, restraining hands grab Black's king from behind, while another pair of hands apply the chloroform. Black is left reeling and 44...Rg7 45.Nxf7+ Qxf7 46.Qxd6+ wins the house.
+
+SUMMARY: This is not a variation for readers whose lives are shaped by dull routine. If you don't want to enter the storm, then remember, you also have the much calmer option of 11...0-0, and then playing ...c5 on the next move. So the piece sac version is optional for Black. But if you do choose to enter this line, computer analysis indicates the position is complex and fully playable for Black. However there may be problems for our side from a practical standpoint, since White is on the attack, with an easier to play over the board. So be careful about choosing to enter this one.
 
 1-0
 
@@ -5577,19 +6242,35 @@ This punch sends Black reeling after 41.Rf7 Nxf7 42.Rxf8+ Kg7 43.Rg8+ Kh6 44.Qf8
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 gxf6 7.Nf3 f5 8.Nc3 a6 9.Qd2**
 
-Ambition taps White on the shoulder and whispers sweet seductions into his ear. This line isn't played as often as the kingside fianchetto lines that we examined previously in the chapter. Yet White's no-nonsense plan is rather dangerous for our side. --- QUESTION: What is White's intent? --- ANSWER: 1. Castle queenside and blast open the centre with d5, playing on the principles: Open the position and create confrontation when leading in development. --- 2. White's last move gives him access to the h6-square with his queen. This in turn discourages Black from castling kingside. Now the trouble is that the queenside isn't so secure for Black's king either, since we intend the loosening ...b5. --- QUESTION: All this sounds like it is in White's favour. What are Black's plusses? --- ANSWER: Our benefits: 1. White wilfully castles into our queenside pawn storm. --- 2. As we saw in the previous game, White's d5 often comes with a cost, since Black has access to the undermining ...b4.
+Ambition taps White on the shoulder and whispers sweet seductions into his ear. This line isn't played as often as the kingside fianchetto lines that we examined previously in the chapter. Yet White's no-nonsense plan is rather dangerous for our side.
+
+QUESTION: What is White's intent?
+
+ANSWER: 1. Castle queenside and blast open the centre with d5, playing on the principles: Open the position and create confrontation when leading in development.
+
+2. White's last move gives him access to the h6-square with his queen. This in turn discourages Black from castling kingside. Now the trouble is that the queenside isn't so secure for Black's king either, since we intend the loosening ...b5.
+
+QUESTION: All this sounds like it is in White's favour. What are Black's plusses?
+
+ANSWER: Our benefits: 1. White wilfully castles into our queenside pawn storm.
+
+2. As we saw in the previous game, White's d5 often comes with a cost, since Black has access to the undermining ...b4.
 
 **9...b5 10.O-O-O Bb7!?**
 
 This move allows White a dangerous piece sac.
 
-If you go through the remainder of the game and you don't like what Black gets, then we have the alternatives: 10...Qd6 to meet d5 with ...e5. --- After 11.Qe3 Nd7 12.d5 Nb6 13.dxe6 Qxe6 14.Qf4 Bd6 15.Qh4 Be7 16.Qf4 Bd6 17.Qh4 Be7 18.Qf4 , White forced a draw by repetition, D.Bogatov-W.Tseng, correspondence 2010.
+If you go through the remainder of the game and you don't like what Black gets, then we have the alternatives: 10...Qd6 to meet d5 with ...e5.
+
+After 11.Qe3 Nd7 12.d5 Nb6 13.dxe6 Qxe6 14.Qf4 Bd6 15.Qh4 Be7 16.Qf4 Bd6 17.Qh4 Be7 18.Qf4 , White forced a draw by repetition, D.Bogatov-W.Tseng, correspondence 2010.
 
 I don't think Black fully equalizes with 10...b4 11.Ne2 Bb7 12.Kb1 Nd7 13.Nf4 Nf6 14.Bc4 , A.Naiditsch-U.Von Herman, Germany 2010. I prefer White's attacking chances after 14...Qd6 15.Ne5 .
 
 **11.d5!**
 
-QUESTION: But doesn't Black simply win a pawn with ...b4 next, which undermines the defender of d5? --- ANSWER: Brace yourself: White doesn't intend to move the knight and just like in the previous game, he plans a piece sac for a dangerous attack. Keep watching!
+QUESTION: But doesn't Black simply win a pawn with ...b4 next, which undermines the defender of d5?
+
+ANSWER: Brace yourself: White doesn't intend to move the knight and just like in the previous game, he plans a piece sac for a dangerous attack. Keep watching!
 
 **11...b4 12.Bc4!**
 
@@ -5603,7 +6284,11 @@ If Black declines purchasing stock in the company with 12...O-O? , taking this a
 
 **13.Qxc3**
 
-The witch traces strange patterns in the air. Almost immediately, Black's king begins to experience growing discomfort throughout his body. It may feel like the gates of hell swung open for Black. It's important to grab a logic foothold in such an irrational position. For the piece, White gets a lot as: 1. He leads massively in development. --- 2. He threatens our h8-rook with his queen. --- 3. He prepares to decimate our defences with dxe6 next.
+The witch traces strange patterns in the air. Almost immediately, Black's king begins to experience growing discomfort throughout his body. It may feel like the gates of hell swung open for Black. It's important to grab a logic foothold in such an irrational position. For the piece, White gets a lot as: 1. He leads massively in development.
+
+2. He threatens our h8-rook with his queen.
+
+3. He prepares to decimate our defences with dxe6 next.
 
 **13...e5!**
 
@@ -5623,7 +6308,9 @@ White can also try 15.Qb3 but it doesn't feel like an improvement over 15 d6. Fo
 
 **15...Bxd6**
 
-EXERCISE (combination alert): White can regain his material investment with a tactical trick. If you search carefully, you will find something of great value just lying around, waiting to be picked up. --- ANSWER: Double attack.
+EXERCISE (combination alert): White can regain his material investment with a tactical trick. If you search carefully, you will find something of great value just lying around, waiting to be picked up.
+
+ANSWER: Double attack.
 
 **16.Nxf7**
 
@@ -5643,7 +6330,9 @@ White got a rook and two pawns for two minor pieces. Houdini says the game is ev
 
 The rook's grim reticence ends with a pent-up outburst of profanity, directed at Black's meddling bishop. The move is a sign of respect for Black's dark-square control. White agrees to go back down a piece to eliminate Black's best piece.
 
-White probably feared that Black may take over the initiative after 20.Qd5 Qg5+ as a wave of fighting spirit surges through the queen's once-cowering spirit. After 21.Kb1 Rb8 , the impending attack on the b2-pawn will be a cause for concern for White. --- Consciously, Black plans to toe the line and defend. Unconsciously, a completely different desire swirls about, just waiting to bubble to the surface, as he eyes White's king.
+White probably feared that Black may take over the initiative after 20.Qd5 Qg5+ as a wave of fighting spirit surges through the queen's once-cowering spirit. After 21.Kb1 Rb8 , the impending attack on the b2-pawn will be a cause for concern for White.
+
+Consciously, Black plans to toe the line and defend. Unconsciously, a completely different desire swirls about, just waiting to bubble to the surface, as he eyes White's king.
 
 **20...cxd6 21.Rd1 Rb8 22.Qxa6 Qf6 23.c3 Rb6 24.Qc4**
 
@@ -5728,8 +6417,11 @@ ANSWER: The following:
 2. If White gets super aggressive and castles queenside, Black has a tailor-made pawn storm with ...b5.
 
 3. Once Black plays ...b5, this discourages White from playing c4, since Black will respond with ...bxc4 and then manoeuvre a piece to the newly-created d5-hole. Black then can back up with ...c6, shoring up the d5-square. In fact, if you fast-forward to Moro's game against Polgar later in the chapter, we will see him do just this.
+
 4. The ...b5 thrust gains a tempo if White develops his bishop to the natural c4-square.
+
 5. If White attempts to blast open the centre with d5 (as we saw in the last game), Black has access to ...b4 tricks, undermining a future white knight on c3, which in turn undermines White's control over d5.
+
 6. By holding back on ...f5, Black not only retains control over the key e5-square, but also refuses to chase White's knight to c3 where it helps White play for d5.
 
 **8.Bd3**
@@ -5766,7 +6458,9 @@ Black can respond to 10.O-O-O with 10...f5 11.Ned2 Bd5 with the intention of bac
 
 **9.Ng3**
 
-QUESTION: Why post to the knight g3 where it can't help enforce the d5 break? --- ANSWER: This is actually White's main choice in the position. White assumes Black will castle kingside and so adds an attacker to the region.
+QUESTION: Why post to the knight g3 where it can't help enforce the d5 break?
+
+ANSWER: This is actually White's main choice in the position. White assumes Black will castle kingside and so adds an attacker to the region.
 
 Let's look at other options: 9.Ned2 c5 10.dxc5 Qa5 11.Qe2 Nd7 ( 11...Nc6 12.O-O Qxc5 13.c3 looks at least even for Black ) 12.c6 bxc6 13.c3 Bb7 14.Nc4 Qc7 15.O-O-O c5 and Black achieved a dynamic position, V.Zhelnin-K.Sakaev, Smolensk 2000.
 
@@ -5816,7 +6510,9 @@ Morozevich prepares ...b4.
 
 An idea, no matter how profound, must also be reconciled with the position's logistical details. Otherwise, it floats within the realm of the theoretical, never to meet the practical. I feel that is happening here. White relies on his developmental lead but then what? He needs some kind of central sac, perhaps on the f5-pawn to fan his attack. I didn't spot any versions which worked during the game. Essentially, the mine of White's viable ideas ran dry, due to Black's long term advantages.
 
-QUESTION: Why wouldn't White close queenside lines with 16.c4 ? --- ANSWER: Your suggestion does close queenside lines, but at the high cost of weakening White badly on the d4- and e5-dark squares. Black may later be able to play ...Bf6 and weaken the diagonal further with ...a5, ...a4 and ...a3.
+QUESTION: Why wouldn't White close queenside lines with 16.c4 ?
+
+ANSWER: Your suggestion does close queenside lines, but at the high cost of weakening White badly on the d4- and e5-dark squares. Black may later be able to play ...Bf6 and weaken the diagonal further with ...a5, ...a4 and ...a3.
 
 **16...Bb7 17.Qe2**
 
@@ -5850,7 +6546,11 @@ More accurate is 21.Rb3 Qa7 22.Nf3 to cover the d4-square. Following 22...Ba8 23
 
 **21...Nb4 22.Bc4 Bxh4!**
 
-Not motivated by greed. Let's outline the key factors behind the move: 1. Black clears the path for ...Bg5. --- 2. This in turn allows ...h4. --- 3. The h8-rook isn't needed to cover the h5-pawn anymore so Black can try to bring the rook back into relevance.
+Not motivated by greed. Let's outline the key factors behind the move: 1. Black clears the path for ...Bg5.
+
+2. This in turn allows ...h4.
+
+3. The h8-rook isn't needed to cover the h5-pawn anymore so Black can try to bring the rook back into relevance.
 
 **23.Rh1?**
 
@@ -5874,7 +6574,11 @@ After 25.a3 Bxg2 26.Rd1 h4! , the h-pawn turns into a queening threat in the mid
 
 **25...Rxh5 26.Nxh5**
 
-White's knight prances about with the abandon of a gazelle on the surface of the moon. --- EXERCISE (combination alert): The goal is within our grasp as black attackers dance around White's king like evil imps. What tactical theme did Black exploit with his next move? --- ANSWER: Weak back rank.
+White's knight prances about with the abandon of a gazelle on the surface of the moon.
+
+EXERCISE (combination alert): The goal is within our grasp as black attackers dance around White's king like evil imps. What tactical theme did Black exploit with his next move?
+
+ANSWER: Weak back rank.
 
 **26...Be4+! 27.Kc1**
 
@@ -5912,7 +6616,9 @@ Also futile is 37.Ke1 Bxf1 38.Nxf1 Rc1+ 39.Kd2 Rxf1 40.Rb7 Rf2+ 41.Ke3 when the 
 
 **37...Rc1#**
 
-White's king, like mad King Lear, is more a sinner than against sinning. --- SUMMARY: After 10 dxc5, I prefer Black's bishop pair, dark-square control and superior central influence, to White's developmental lead. Essentially, Black allows him or herself to fall behind in development for strategic gains, borrowing time but then later refusing to repay the debt. It feels to me like White's temporary initiative and developmental lead arise and ebb quickly, a fogging breath on a mirror which clears away almost instantaneously.
+White's king, like mad King Lear, is more a sinner than against sinning.
+
+SUMMARY: After 10 dxc5, I prefer Black's bishop pair, dark-square control and superior central influence, to White's developmental lead. Essentially, Black allows him or herself to fall behind in development for strategic gains, borrowing time but then later refusing to repay the debt. It feels to me like White's temporary initiative and developmental lead arise and ebb quickly, a fogging breath on a mirror which clears away almost instantaneously.
 
 0-1
 
@@ -5920,7 +6626,9 @@ White's king, like mad King Lear, is more a sinner than against sinning. --- SUM
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 gxf6 7.Nf3 a6 8.Qd2**
 
-QUESTION: I assume White prepares to castle long? --- ANSWER: Yes. White is also interested in infiltration ideas like Qh6 or Qf4 later on.
+QUESTION: I assume White prepares to castle long?
+
+ANSWER: Yes. White is also interested in infiltration ideas like Qh6 or Qf4 later on.
 
 **8...b5**
 
@@ -5932,7 +6640,11 @@ ANSWER: Essentially, the line transposes to Jovanovic-Najer (Game 32) and in the
 
 **9.Qh6?!**
 
-White's second choice in the position, which I feel is a dead end. White's idea is Qg7, winning the h-pawn. --- QUESTION: What objection could you have with infiltration? --- ANSWER: Essentially, White agrees to fight Black on the dark squares, which is Black's strength. Also, White loses a lot of time if he goes after the h7-pawn.
+White's second choice in the position, which I feel is a dead end. White's idea is Qg7, winning the h-pawn.
+
+QUESTION: What objection could you have with infiltration?
+
+ANSWER: Essentially, White agrees to fight Black on the dark squares, which is Black's strength. Also, White loses a lot of time if he goes after the h7-pawn.
 
 Alternatively, White has: 9.O-O-O which is considered White's best move by Morozevich. After 9...Bb7 , White has:
 
@@ -5946,7 +6658,9 @@ Alternatively, White has: 9.O-O-O which is considered White's best move by Moroz
 
 Suddenly White gets cold feet and decides not to play for the grab of Black's h7-pawn.
 
-QUESTION: Why didn't White win a pawn with 10.Qg7 ? --- ANSWER: Black takes over the initiative and regains the material with interest after 10...Rf8 11.Qxh7 f5 12.Ned2 Bf6 and Black regains the pawn, since the d4-pawn hangs. Black also threatens to trap White's wayward queen with ...Rh8. After 13.Qh6 Bxd4 ( handing over the dark-squared bishop and regaining the pawn looks more accurate than speculating with 13...c5 14.a4 Nd7 15.Qf4 cxd4 16.axb5 though even here, Black's imposing centre and active pieces easily compensate for the lost pawn ) 14.Nxd4 Qxd4 15.O-O-O?! a dubious pawn sac, ( in order to dodge a slightly worse ending after 15.c3 Qe5+ 16.Qe3 Qxe3+ 17.fxe3 Nd7 ) 15...Qxf2 16.Qg5 , G.Meyer-A.Walton, Edinburgh 2003. I don't believe in White's compensation after 16...Nc6 17.Nf3 Ne7 18.h4 Rg8 .
+QUESTION: Why didn't White win a pawn with 10.Qg7 ?
+
+ANSWER: Black takes over the initiative and regains the material with interest after 10...Rf8 11.Qxh7 f5 12.Ned2 Bf6 and Black regains the pawn, since the d4-pawn hangs. Black also threatens to trap White's wayward queen with ...Rh8. After 13.Qh6 Bxd4 ( handing over the dark-squared bishop and regaining the pawn looks more accurate than speculating with 13...c5 14.a4 Nd7 15.Qf4 cxd4 16.axb5 though even here, Black's imposing centre and active pieces easily compensate for the lost pawn ) 14.Nxd4 Qxd4 15.O-O-O?! a dubious pawn sac, ( in order to dodge a slightly worse ending after 15.c3 Qe5+ 16.Qe3 Qxe3+ 17.fxe3 Nd7 ) 15...Qxf2 16.Qg5 , G.Meyer-A.Walton, Edinburgh 2003. I don't believe in White's compensation after 16...Nc6 17.Nf3 Ne7 18.h4 Rg8 .
 
 **10...Nd7 11.Ng3!?**
 
@@ -5980,13 +6694,17 @@ White should continue 14.Nxf6+ Qxf6 15.a4 b4 16.O-O when Black's bishop pair and
 
 **14...Nxh5!**
 
-Morozevich's idea: Step 1: Lure White's queen to h8. The pin proves not to be the ruinous handicap we suspected it might be. --- This shot punctures White's previously carefree mood. It is an awful feeling when you construct a subtle plan weaved on gossamer threads, only to watch in horror as your opponent casually tosses a lit match to your once beautiful construct.
+Morozevich's idea: Step 1: Lure White's queen to h8. The pin proves not to be the ruinous handicap we suspected it might be.
+
+This shot punctures White's previously carefree mood. It is an awful feeling when you construct a subtle plan weaved on gossamer threads, only to watch in horror as your opponent casually tosses a lit match to your once beautiful construct.
 
 Sutovsky undoubtedly counted on the tactic 14...Be7? 15.Bxb5+! .
 
 **15.Qxh8**
 
-The queen continues to build her web of lies, since speaking the truth never worked out well for her in the past. White, now invested inextricably to his plan, has no option other than to follow through. --- Step 2: Damage White's kingside structure and thus irreparably weaken the dark squares.
+The queen continues to build her web of lies, since speaking the truth never worked out well for her in the past. White, now invested inextricably to his plan, has no option other than to follow through.
+
+Step 2: Damage White's kingside structure and thus irreparably weaken the dark squares.
 
 **15...Bxf3 16.gxf3 Nf6!**
 
@@ -6020,7 +6738,9 @@ EXERCISE (combination alert): Simply capturing the b2-pawn gives Black a winning
 
 **19...Bg7!**
 
-ANSWER: Double attack/discovered attack. --- "They have sown the wind and they shall reap the whirlwind," declares the bishop. White's queen, a sullen presence, can do nothing but endure the obnoxious bishop's sermon in silence.
+ANSWER: Double attack/discovered attack.
+
+"They have sown the wind and they shall reap the whirlwind," declares the bishop. White's queen, a sullen presence, can do nothing but endure the obnoxious bishop's sermon in silence.
 
 **20.Qxg7 Rxg8 21.Qh6 Qxb2**
 
@@ -6046,7 +6766,9 @@ Moro refuses to give White even vague cheapo hopes after 25...exf5 26.Qf4 .
 
 **26.Qd4**
 
-EXERCISE (combination alert): White threatens Qd6+, as well as Qc5+. How can Black end White's resistance? --- ANSWER: Overloading.
+EXERCISE (combination alert): White threatens Qd6+, as well as Qc5+. How can Black end White's resistance?
+
+ANSWER: Overloading.
 
 **26...Nd5**
 
@@ -6060,7 +6782,15 @@ SUMMARY: Even though the move is played often, White should probably avoid the d
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 gxf6 7.Nf3 a6 8.c4**
 
-QUESTION: What is White's plan with this move? --- ANSWER: In previous games from this chapter, we have seen just how difficult it is for White to implement the d5-break. In those games, White attempted to do so exclusively with pieces. In this case, White decides that the break needs the help of his c-pawn. --- QUESTION: That sounds logical. What is Black to do about it? --- ANSWER: Not much. The d5-break is coming but Black gets the following compensation: 1. The c4-advance weakens White's dark squares. Moreover, the future d5 further weakens the c5- and e5-squares. This is serious since Black's unopposed dark-squared bishop increases in power. --- 2. In previous games of the chapter, one of White's main plusses is a developmental lead. In this case, c4 isn't a developing move and hence negates this advantage.
+QUESTION: What is White's plan with this move?
+
+ANSWER: In previous games from this chapter, we have seen just how difficult it is for White to implement the d5-break. In those games, White attempted to do so exclusively with pieces. In this case, White decides that the break needs the help of his c-pawn.
+
+QUESTION: That sounds logical. What is Black to do about it?
+
+ANSWER: Not much. The d5-break is coming but Black gets the following compensation: 1. The c4-advance weakens White's dark squares. Moreover, the future d5 further weakens the c5- and e5-squares. This is serious since Black's unopposed dark-squared bishop increases in power.
+
+2. In previous games of the chapter, one of White's main plusses is a developmental lead. In this case, c4 isn't a developing move and hence negates this advantage.
 
 **8...f5**
 
@@ -6072,7 +6802,9 @@ White backs up on the d4-pawn by clearing the d1-square for his rook. Once again
 
 **10...c5**
 
-QUESTION: Doesn't this violate the principle: Avoid opening the position when behind in development? --- ANSWER: Very slightly so. But remember, in this line, White wasted a move on the non-developing c4, so Black is not as far behind as normal. Also, Black follows a principle: Open the game when you have the bishop pair. So the move is quite logical in this instance.
+QUESTION: Doesn't this violate the principle: Avoid opening the position when behind in development?
+
+ANSWER: Very slightly so. But remember, in this line, White wasted a move on the non-developing c4, so Black is not as far behind as normal. Also, Black follows a principle: Open the game when you have the bishop pair. So the move is quite logical in this instance.
 
 **11.d5**
 
@@ -6154,7 +6886,9 @@ Houdini suggests 22.b3 when I still prefer Black's position.
 
 **22...Na5 23.Ba2 Rb7!**
 
-Dual purpose: 1. Black covers the f7-pawn if White intended Ne5. --- 2. Black contemplates ...Qb8, loading up on the b2-weakness.
+Dual purpose: 1. Black covers the f7-pawn if White intended Ne5.
+
+2. Black contemplates ...Qb8, loading up on the b2-weakness.
 
 **24.Qa4 Qc8! 25.Ne3**
 
@@ -6178,9 +6912,13 @@ EXERCISE (planning): Black's forces attach themselves to the white king's perime
 
 **31...Rd3!**
 
-ANSWER: Removal of key defenders. In one swoop, Black clears away White's rook and d4-knight, after which his king is unable to stand the onslaught. --- The rook goes sightseeing, but in reality, the only sight which interests him is the sight of the white king's bloody corpse. White is busted and his king is denied life, liberty and also the pursuit of happiness.
+ANSWER: Removal of key defenders. In one swoop, Black clears away White's rook and d4-knight, after which his king is unable to stand the onslaught.
 
-After 31...Rd3! 32.Rxd3 cxd3 33.Nf5 Qb3 34.Qg4 Bf6 35.Nxh6 Rb8 , the black queen asked of her supporters "Shall we put him to death?" A hearty murmur of approval meets with her admirable proposal. Ever so merry a time was had by all present - well, except for White's doomed king, who strikes the lone dissonant note in an otherwise joyous gathering. White's attack has run aground while Black's has just begun. Both the a3- and b2-pawns hang, with devastating consequences for White. --- SUMMARY: After 8 c4, we reach ultra-sharp Sicilian Pelikan-like positions with opposite wing castling. Our queenside attacking chances, the bishop pair and control over the dark squares fully compensate us for White's d5-wedge and kingside attacking chances.
+The rook goes sightseeing, but in reality, the only sight which interests him is the sight of the white king's bloody corpse. White is busted and his king is denied life, liberty and also the pursuit of happiness.
+
+After 31...Rd3! 32.Rxd3 cxd3 33.Nf5 Qb3 34.Qg4 Bf6 35.Nxh6 Rb8 , the black queen asked of her supporters "Shall we put him to death?" A hearty murmur of approval meets with her admirable proposal. Ever so merry a time was had by all present - well, except for White's doomed king, who strikes the lone dissonant note in an otherwise joyous gathering. White's attack has run aground while Black's has just begun. Both the a3- and b2-pawns hang, with devastating consequences for White.
+
+SUMMARY: After 8 c4, we reach ultra-sharp Sicilian Pelikan-like positions with opposite wing castling. Our queenside attacking chances, the bishop pair and control over the dark squares fully compensate us for White's d5-wedge and kingside attacking chances.
 
 0-1
 
@@ -6188,11 +6926,21 @@ After 31...Rd3! 32.Rxd3 cxd3 33.Nf5 Qb3 34.Qg4 Bf6 35.Nxh6 Rb8 , the black queen
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 gxf6 7.Nf3 a6 8.g3**
 
-QUESTION: Isn't this move out of place? White gave up his dark-squared bishop and then refuses to engage in a violent reaction, despite a developmental lead. --- ANSWER: This move earned a powerful pedigree when Kasparov used it to defeat Gurevich. It may actually be considered White's main line against the 6...gxf6 Burn Variation. White reasons that there is no urgency to blast open the position. After all, he did earn a concession for the bishop pair by damaging Black's pawn structure. So White proceeds strategically by fianchettoing and he prepares to castle kingside. --- QUESTION: But doesn't the fianchetto weaken the light squares? --- ANSWER: On the contrary, it actually provides improved security for White's king by taking away some of the glamour from the impending ...Rg8. Also, Black's coming b7-bishop tends to be one of the most powerful pieces on the board. So White meets it by challenging the h1-a8 diagonal.
+QUESTION: Isn't this move out of place? White gave up his dark-squared bishop and then refuses to engage in a violent reaction, despite a developmental lead.
+
+ANSWER: This move earned a powerful pedigree when Kasparov used it to defeat Gurevich. It may actually be considered White's main line against the 6...gxf6 Burn Variation. White reasons that there is no urgency to blast open the position. After all, he did earn a concession for the bishop pair by damaging Black's pawn structure. So White proceeds strategically by fianchettoing and he prepares to castle kingside.
+
+QUESTION: But doesn't the fianchetto weaken the light squares?
+
+ANSWER: On the contrary, it actually provides improved security for White's king by taking away some of the glamour from the impending ...Rg8. Also, Black's coming b7-bishop tends to be one of the most powerful pieces on the board. So White meets it by challenging the h1-a8 diagonal.
 
 **8...b5 9.Bg2 Bb7 10.Qe2**
 
-A multipurpose move: 1. The queen protects the e4-knight. --- 2. The queen vacates the d-file to play either rook to d1 later on. --- 3. On e2, the queen eyes the b5-pawn and White can later play to loosen Black's queenside structure with a4.
+A multipurpose move: 1. The queen protects the e4-knight.
+
+2. The queen vacates the d-file to play either rook to d1 later on.
+
+3. On e2, the queen eyes the b5-pawn and White can later play to loosen Black's queenside structure with a4.
 
 **10...Nd7**
 
@@ -6276,7 +7024,9 @@ Worrying White about the d4-pawn, while preparing to double rooks on the g-file.
 
 **24.Ne5 Nxe5 25.dxe5 Be7 26.Rd3 Rag8 27.Red1**
 
-QUESTION: This looks aimless. Why doesn't White bring her offside knight back into the game with 27.Nc3 ? --- ANSWER: It does feel as if the worthless knight is the kind of person Shakespeare described as a "fat and greasy citizen". White is at a loss for a reasonable defensive plan. The trouble is the knight, as awfully posted as it is, may be required where it sits. Polgar probably feared losing control over c5. Black can crank up the pressure with 27...Bc5 . "I am the perfect instrument for good in an imperfect world," proclaims the conceited bishop who is now given permission to perch on c5, due to the knight's absence on a4. After 28.Nxd5 cxd5 , ...f4 is coming and the opposite-coloured bishops favour the attacker, in this case Black. In any case, there is little diminution in the misery level of the soon-to-be oppressed white king.
+QUESTION: This looks aimless. Why doesn't White bring her offside knight back into the game with 27.Nc3 ?
+
+ANSWER: It does feel as if the worthless knight is the kind of person Shakespeare described as a "fat and greasy citizen". White is at a loss for a reasonable defensive plan. The trouble is the knight, as awfully posted as it is, may be required where it sits. Polgar probably feared losing control over c5. Black can crank up the pressure with 27...Bc5 . "I am the perfect instrument for good in an imperfect world," proclaims the conceited bishop who is now given permission to perch on c5, due to the knight's absence on a4. After 28.Nxd5 cxd5 , ...f4 is coming and the opposite-coloured bishops favour the attacker, in this case Black. In any case, there is little diminution in the misery level of the soon-to-be oppressed white king.
 
 **27...f4 28.Qc3**
 
@@ -6290,7 +7040,13 @@ The excavation project continues. Suddenly, the g3-rock doesn't look so stable a
 
 As we review the post-mortem of a game we threw away with a blunder or an insane notion, there generally is a select move which juts out in memory and makes us wince. The queen's abandonment of her defensive post has the effect of a bugle burst on the battlefield, rallying Black's attackers. When oblique plans fail to function, we tend to veer towards the blunt versions. With the stroke of a single move, a once-difficult position becomes indistinguishable from a losing one.
 
-Polgar overestimates her attacking chances while vastly underestimating Morozevich's. She undoubtedly feared she would eventually lose the ending after 32.Qxb4 axb4 . Black's advantages: 1. The e5-pawn is a target. --- 2. So is the a2-pawn. --- 3. Black's bishop is superior to White's knight. --- 4. The undermining ...h4 still hovers over White. Still, it is better to endure a worse ending than to allow the opponent a wicked attack - doubly so when Morozevich is the attacker.
+Polgar overestimates her attacking chances while vastly underestimating Morozevich's. She undoubtedly feared she would eventually lose the ending after 32.Qxb4 axb4 . Black's advantages: 1. The e5-pawn is a target.
+
+2. So is the a2-pawn.
+
+3. Black's bishop is superior to White's knight.
+
+4. The undermining ...h4 still hovers over White. Still, it is better to endure a worse ending than to allow the opponent a wicked attack - doubly so when Morozevich is the attacker.
 
 **32...h4**
 
@@ -6298,7 +7054,9 @@ Moro continues to dig away at g3. White feels the pressure at virtually every in
 
 **33.Kg2 hxg3 34.fxg3**
 
-EXERCISE (combination alert): Prove that Black's attack is far more potent than White's. --- ANSWER: Pin/double attack.
+EXERCISE (combination alert): Prove that Black's attack is far more potent than White's.
+
+ANSWER: Pin/double attack.
 
 **34...Qe4!**
 
@@ -6314,7 +7072,13 @@ Polgar's last move appears to be a double question mark, hanging a rook, obvious
 
 **35...Qe2+ 36.Kh3**
 
-White's king, by now consumed by shame, must dance an undignified jig, all for the black queen's perverse pleasure. He decries the fact that he is the only giver in a society of takers, and gets an uncomfortable feeling that he is the object of a secret jest of everyone in the room. --- EXERCISE (combination alert): We can simply grab a free rook on d1 (I'm ashamed to say this is what your greedy writer would probably play without hesitation). --- But forcing mate is so much better, isn't it? To paraphrase Lasker, we French Defence players are artists, not butchers. Try and find a forced mate in five moves. How did Morozevich reveal all which was once unexplained? --- ANSWER: Black's rook pulls off the trick, the way a magician conjures a rabbit from nothingness. There is no answer to a devastating check on h8.
+White's king, by now consumed by shame, must dance an undignified jig, all for the black queen's perverse pleasure. He decries the fact that he is the only giver in a society of takers, and gets an uncomfortable feeling that he is the object of a secret jest of everyone in the room.
+
+EXERCISE (combination alert): We can simply grab a free rook on d1 (I'm ashamed to say this is what your greedy writer would probably play without hesitation).
+
+But forcing mate is so much better, isn't it? To paraphrase Lasker, we French Defence players are artists, not butchers. Try and find a forced mate in five moves. How did Morozevich reveal all which was once unexplained?
+
+ANSWER: Black's rook pulls off the trick, the way a magician conjures a rabbit from nothingness. There is no answer to a devastating check on h8.
 
 **36...Rg5!**
 
@@ -6339,7 +7103,9 @@ In this chapter, we choose to enter one of the most complicated lines of the boo
 8...Kf8 . As the positions shows, we enter battle between the irresistible force versus the immovable object. We swap one problem for another by defending g7 with ...Kf8, rather than the structurally weakening...g6. This keeps our dark squares intact at the following costs:
 
 1. Loss of castling privileges.
+
 2. We risk that our h8-rook may be out of play for quite a while.
+
 3. Our stationary king provides White with a somewhat fixed attacking target. However, we also have access to a curious plan of ...c5 and ...c4, after which we seal the queenside and then run our king (who does his best imitation of a shuttlecock in a badminton match) there after securing our kingside pawns.
 
 In both positions, White's attackers and our counterpunchers pour forth simultaneously, like an insect infestation in this bug-eat-bug world. The positions are very easy to misplay by an underprepared opponent. Through intense study of this chapter, we hone our skills and decide to take on Black's side. We may see our opponents reach dizzying heights of futility in their attempts to storm our not-so-easy-to-mate king. 7.Bxc3 We will also look at the sensible-looking bishop recapture after 6...Nxc3, which keeps White's pawn structure undamaged, but is ultimately too insipid a concept to be a threat to Black's counterattack on the queenside.<skip start="6...Nxc3"/>
@@ -6400,7 +7166,9 @@ We will cover 7.Bxc3 in Grund-Kobalia (Game 45).
 
 White forces a concession.
 
-QUESTION: Can White play 8.Bd3 Nxd2 9.Qxd2 to preserve White's right to castle? --- ANSWER: Doing so places the queen on a far less powerful square than g4. Black equalizes after 9...c5 10.Nf3 c4 though retaining the central tension is also fine for Black. After 11.Be2 Nc6 12.h4 Bd7 13.h5 f6 14.Nh4 fxe5 15.Ng6 Rg8 16.dxe5 , R.Moor-R.Huebner, Switzerland 2001, I would challenge the intruder with 16...Ne7 with a dynamically balanced game, where I prefer Black's structure over White's space.
+QUESTION: Can White play 8.Bd3 Nxd2 9.Qxd2 to preserve White's right to castle?
+
+ANSWER: Doing so places the queen on a far less powerful square than g4. Black equalizes after 9...c5 10.Nf3 c4 though retaining the central tension is also fine for Black. After 11.Be2 Nc6 12.h4 Bd7 13.h5 f6 14.Nh4 fxe5 15.Ng6 Rg8 16.dxe5 , R.Moor-R.Huebner, Switzerland 2001, I would challenge the intruder with 16...Ne7 with a dynamically balanced game, where I prefer Black's structure over White's space.
 
 **8...g6**
 
@@ -6432,7 +7200,11 @@ Compare this position to the Winawer French. The structure may be similar, but i
 
 **10...c5 11.h4**
 
-This move, intended to create undermining with h5, is played almost as often as 11.Nf3 and the two lines often transpose. --- QUESTION: What is the difference between the two moves? --- ANSWER: 11 h4 keeps White's f-pawn free. This can make a difference in the lines if later White plays h5 and when Black responds with ...g5. White has an option to undermine further with f4, which he can't do so with a knight on f3. Also, with 11 h4, White has Rh3-f3 options which again isn't possible if White develops his knight early to f3.
+This move, intended to create undermining with h5, is played almost as often as 11.Nf3 and the two lines often transpose.
+
+QUESTION: What is the difference between the two moves?
+
+ANSWER: 11 h4 keeps White's f-pawn free. This can make a difference in the lines if later White plays h5 and when Black responds with ...g5. White has an option to undermine further with f4, which he can't do so with a knight on f3. Also, with 11 h4, White has Rh3-f3 options which again isn't possible if White develops his knight early to f3.
 
 **11...Qa5**
 
@@ -6522,7 +7294,11 @@ The tempting 20...Qxc3? loses quickly to 21.Rhc1 Qb2+ 22.Kf1 . Black soon loses 
 
 **21.Nf6+ Ke7 22.Qg5**
 
-To survive, Black faces three separate knots to untangle: 1. The most obvious: King safety. --- 2. Black, in most lines will emerge an exchange for a pawn down. --- 3. Black must deal with White's dangerous passed h-pawn in all endings and some middlegames.
+To survive, Black faces three separate knots to untangle: 1. The most obvious: King safety.
+
+2. Black, in most lines will emerge an exchange for a pawn down.
+
+3. Black must deal with White's dangerous passed h-pawn in all endings and some middlegames.
 
 **22...dxc3!**
 
@@ -6608,7 +7384,9 @@ It's best to view this line from the lens of a natural defender and counterattac
 
 **9.Bd3 Nxd2 10.Kxd2 c5 11.h4 Qa5**
 
-QUESTION: What is the difference between 11...Qa5 and the more common 11...Nc6? --- ANSWER: Not much since they tend to transpose. Still there can be differences. When Black leaves the queen on d8, it continues to cover the sensitive f6-square. When Black plays 11...Nc6, we lose options of plans involving ...Bd7, ...Bc6 and ...Nd7.
+QUESTION: What is the difference between 11...Qa5 and the more common 11...Nc6?
+
+ANSWER: Not much since they tend to transpose. Still there can be differences. When Black leaves the queen on d8, it continues to cover the sensitive f6-square. When Black plays 11...Nc6, we lose options of plans involving ...Bd7, ...Bc6 and ...Nd7.
 
 **12.Nf3**
 
@@ -6638,7 +7416,11 @@ Other options: 16.Rab1 b6 17.Qb4 Qa4 ( I see no reason to fix White's structure 
 
 **16...Qc7 17.a4 Bc6 18.Rb4**
 
-Maybe White should toss in 18.a5 to prevent Black from playing ...a5. --- QUESTION: Doesn't White stand better? After all, he owns more space and has the superior bishop. --- ANSWER: It feels to me that White stands better only on paper. In reality, Black's nearly weakness-free position is very solid and he or she should be equal or very close to it, despite White's extra space and superior bishop.
+Maybe White should toss in 18.a5 to prevent Black from playing ...a5.
+
+QUESTION: Doesn't White stand better? After all, he owns more space and has the superior bishop.
+
+ANSWER: It feels to me that White stands better only on paper. In reality, Black's nearly weakness-free position is very solid and he or she should be equal or very close to it, despite White's extra space and superior bishop.
 
 **18...Qe7**
 
@@ -6652,7 +7434,9 @@ Okay, he heard my suggestion. This aggressive reaction weakens a few squares, li
 
 This move seems more clever than strong. The bishop, who trained tirelessly all his life for his final ascent to heaven, ironically ends up here, so far from paradise. He intrudes jarringly upon the once smooth proceedings. This isn't a shot which comes with a vicious back spin, since Black's pawn loss proves to be only temporary.
 
-QUESTION: Can White get the superior ending if he manoeuvres his queen to f6? --- ANSWER: Let's look: 21.Qf4 h5 22.Qf6 Qxf6 23.exf6 Kd7 24.Bb5 Kd6 25.f4 e5 26.Bxc6 bxc6 27.fxe5+ Kxe5 and Houdini rates this ending at 0.00. I let it play it out to its conclusion and 28.c4 dxc4 29.Ra6 Kxf6 30.Rf1+ Ke6 31.Kc3 f5 32.Rxa5 Ra8 33.Rxa8 Rxa8 34.Kb4 Kd6 35.Rd1+ Kc7 36.Rd4 Re8 37.Rxc4 Re2 38.g3 Re3 39.Rc3 Re4+ 40.Kb3 Rg4 has White unable to make progress.
+QUESTION: Can White get the superior ending if he manoeuvres his queen to f6?
+
+ANSWER: Let's look: 21.Qf4 h5 22.Qf6 Qxf6 23.exf6 Kd7 24.Bb5 Kd6 25.f4 e5 26.Bxc6 bxc6 27.fxe5+ Kxe5 and Houdini rates this ending at 0.00. I let it play it out to its conclusion and 28.c4 dxc4 29.Ra6 Kxf6 30.Rf1+ Ke6 31.Kc3 f5 32.Rxa5 Ra8 33.Rxa8 Rxa8 34.Kb4 Kd6 35.Rd1+ Kc7 36.Rd4 Re8 37.Rxc4 Re2 38.g3 Re3 39.Rc3 Re4+ 40.Kb3 Rg4 has White unable to make progress.
 
 **21...O-O!**
 
@@ -6706,7 +7490,13 @@ White may have been better off swapping away a pair of pawns after 34.gxh4 gxh4 
 
 **38...Raxa7 39.Rxa7 Rxa7 40.Rh1 Kf5 41.f3 Rc7**
 
-QUESTION: Isn't this a dead draw? After all, it's four pawns versus four, all on the same side. --- ANSWER: Black's one large bonus in the McCutcheon is his superior pawn structure. In this instance Black has excellent winning chances due to the following factors: 1. White is in effect a pawn down since Black's d5-pawn holds back a pair of doubled, isolated white c-pawns. --- 2. White's king is tied to defence of the c3-pawn. --- 3. The black king's participation only adds adhesion to the steadily growing, nasty sentiment against White's position. Black may soon puncture White's attempted kingside fortress with either ...g4, or ...e5-e4, when Black's king infiltrates and creates a passed pawn. White will have difficulty halting it (since his king is tangled up in defence of the c3-pawn).
+QUESTION: Isn't this a dead draw? After all, it's four pawns versus four, all on the same side.
+
+ANSWER: Black's one large bonus in the McCutcheon is his superior pawn structure. In this instance Black has excellent winning chances due to the following factors: 1. White is in effect a pawn down since Black's d5-pawn holds back a pair of doubled, isolated white c-pawns.
+
+2. White's king is tied to defence of the c3-pawn.
+
+3. The black king's participation only adds adhesion to the steadily growing, nasty sentiment against White's position. Black may soon puncture White's attempted kingside fortress with either ...g4, or ...e5-e4, when Black's king infiltrates and creates a passed pawn. White will have difficulty halting it (since his king is tangled up in defence of the c3-pawn).
 
 **42.Kd3**
 
@@ -6776,7 +7566,15 @@ This time, ...Nc6 precedes ...Qa5.
 
 **12.dxc5**
 
-QUESTION: Why would White voluntarily accept tripled pawns? --- ANSWER: For the following reasons: 1. White clears the d4-square for his knight. --- 2. White eliminates all ...cxd4 possibilities. --- 3. White eliminates all ...c4 ideas. --- 4. Essentially, White takes on c5 to cut down on Black's options.
+QUESTION: Why would White voluntarily accept tripled pawns?
+
+ANSWER: For the following reasons: 1. White clears the d4-square for his knight.
+
+2. White eliminates all ...cxd4 possibilities.
+
+3. White eliminates all ...c4 ideas.
+
+4. Essentially, White takes on c5 to cut down on Black's options.
 
 Note that 12.h4 Qa5 13.Qf4 transposes to the positions we looked at in the first two games of the chapter.
 
@@ -6786,7 +7584,13 @@ Black prepares to pick up the loose end on c5.
 
 **13.Qf4 Qxc5 14.Nd4 Bd7**
 
-Perhaps Black's most promising line is: 14...Nxd4! . --- QUESTION: Why would Black agree to fix White's damaged structure? --- ANSWER: 1. White's remaining knight is a dangerous piece and an exchange greatly reduces Black's fears of walking into an attack. --- 2. The move only partially fixes White's structure, since Black has the plan ...Qa5+, ...b6 and ...Ba6, forcing the swap of another piece and also weakening White's defence of the c2-pawn, as in the following game: 15.cxd4 Qa5+ 16.Ke3 (as you may have noticed, Black's king isn't the only worried king on the board) 16...b6! and Black commences the above-mentioned plan. With 17.h4 Ba6 18.a4 ( more accurate is 18.h5 gxh5 19.Rxh5 Rc8 20.Kf3! Bxd3 21.cxd3 Rc2 and Houdini rates it at dead even here ) 18...Rc8 19.Ra3? ( 19.Rhc1 was necessary ) 19...Qb4! 20.Rha1 Bxd3 21.cxd3 Rc2 22.Kf3 , A.Lanc-I.Glek, Stare Mesto 1992. White has been thrown back into passive defence and his king looks insecure.
+Perhaps Black's most promising line is: 14...Nxd4! .
+
+QUESTION: Why would Black agree to fix White's damaged structure?
+
+ANSWER: 1. White's remaining knight is a dangerous piece and an exchange greatly reduces Black's fears of walking into an attack.
+
+2. The move only partially fixes White's structure, since Black has the plan ...Qa5+, ...b6 and ...Ba6, forcing the swap of another piece and also weakening White's defence of the c2-pawn, as in the following game: 15.cxd4 Qa5+ 16.Ke3 (as you may have noticed, Black's king isn't the only worried king on the board) 16...b6! and Black commences the above-mentioned plan. With 17.h4 Ba6 18.a4 ( more accurate is 18.h5 gxh5 19.Rxh5 Rc8 20.Kf3! Bxd3 21.cxd3 Rc2 and Houdini rates it at dead even here ) 18...Rc8 19.Ra3? ( 19.Rhc1 was necessary ) 19...Qb4! 20.Rha1 Bxd3 21.cxd3 Rc2 22.Kf3 , A.Lanc-I.Glek, Stare Mesto 1992. White has been thrown back into passive defence and his king looks insecure.
 
 I don't think Black equalizes with 14...a6 15.Rhb1 b5?! ( 15...Na5 16.Nb3 Nxb3+ 17.axb3 Bd7 and White stands slightly better with more control over the dark squares ) 16.Nxc6 Qxc6 17.a4! bxa4 18.Rxa4 Qc5 19.Qf6 Rg8 20.Bb5+! Kf8 21.Rf4 Ra7 , N.De Firmian-J.Kraai, Reno 2003. White is winning after the correct 22.Bd3! with the threat of Bxg6.
 
@@ -6806,9 +7610,15 @@ Despite knowing that White is well-placed to prise open the kingside, this is ne
 
 **16.Nxc6 Bxc6 17.h4**
 
-When we launch an attack, do we not all dream of perfect outcomes? White allows circumstantial evidence to sway him. Believe it or not, this move is slow and White must play carefully to maintain equality. --- QUESTION: Shouldn't White sac on g6?
+When we launch an attack, do we not all dream of perfect outcomes? White allows circumstantial evidence to sway him. Believe it or not, this move is slow and White must play carefully to maintain equality.
 
-ANSWER: Maybe that is what White should have played but Black has a draw if he wants one as 17.Bxg6 fxg6 18.Qxg6+ Kh8 19.Qxh6+ is drawn. --- QUESTION: Why can't White play for a win by taking the fourth pawn with check, after 19...Kg8 20.Qxe6+ ? --- ANSWER: An attack needs more than a single piece. White stands worse after 20...Rf7 21.Qg6+ Kf8 22.f3 Re8 23.Rae1 Rg7 24.Qf5+ Kg8 25.Rhg1 d4 and White's king has no defenders and that leaves him busted.
+QUESTION: Shouldn't White sac on g6?
+
+ANSWER: Maybe that is what White should have played but Black has a draw if he wants one as 17.Bxg6 fxg6 18.Qxg6+ Kh8 19.Qxh6+ is drawn.
+
+QUESTION: Why can't White play for a win by taking the fourth pawn with check, after 19...Kg8 20.Qxe6+ ?
+
+ANSWER: An attack needs more than a single piece. White stands worse after 20...Rf7 21.Qg6+ Kf8 22.f3 Re8 23.Rae1 Rg7 24.Qf5+ Kg8 25.Rhg1 d4 and White's king has no defenders and that leaves him busted.
 
 **17...Rac8 18.Bxg6**
 
@@ -6822,7 +7632,9 @@ Double attack. Black goes for the full point! It appears as if the bishop, with 
 
 **19.Bd3 Qxc3+ 20.Ke2**
 
-EXERCISE (combination alert): It looks as if Black can resign. After all, White merely has to lift his rook to g3 via h3 and Black is fried. Yet appearances are deceiving. Black's counterattack is not to be underestimated. What did Lputian play? --- ANSWER: Undermining of a key defender/double attack.
+EXERCISE (combination alert): It looks as if Black can resign. After all, White merely has to lift his rook to g3 via h3 and Black is fried. Yet appearances are deceiving. Black's counterattack is not to be underestimated. What did Lputian play?
+
+ANSWER: Undermining of a key defender/double attack.
 
 **20...Bb5! 21.Bxb5**
 
@@ -6874,7 +7686,9 @@ White is unlikely to survive 28.exf6 Qxf6 29.Qxf6 Rxf6 . Black's two central pas
 
 **31.g3 Re4 32.Qc3**
 
-EXERCISE (combination alert): How did Black increase his advantage? --- ANSWER: The e5-pawn can't be covered.
+EXERCISE (combination alert): How did Black increase his advantage?
+
+ANSWER: The e5-pawn can't be covered.
 
 **32...Qb8!**
 
@@ -6904,7 +7718,9 @@ Minasian refuses to bow to despondency and fights back. However, he simply lacks
 
 Lputian contemplates the temptation and mistakenly decides to pass.
 
-Correct was 36...Kg6! 37.gxf4 Qe2 38.Rg3+ Kh5! . --- Some of us may strongly suspect that Black's king is in danger. But if we look closer, we see that he is remarkably safe and in reality akin to the desert mouse who foiled the rattlesnake (who can only slither away in frustration). After 39.Rg2 Qd1 40.Rg7 Rh1+ 41.Kg3 Qg1+ 42.Kf3 Rxf4+! 43.Kxf4 Qxf2+ 44.Ke5 Re1+ , the game is over, since 45.Kd6 is met with 45...Qc5#!
+Correct was 36...Kg6! 37.gxf4 Qe2 38.Rg3+ Kh5! .
+
+Some of us may strongly suspect that Black's king is in danger. But if we look closer, we see that he is remarkably safe and in reality akin to the desert mouse who foiled the rattlesnake (who can only slither away in frustration). After 39.Rg2 Qd1 40.Rg7 Rh1+ 41.Kg3 Qg1+ 42.Kf3 Rxf4+! 43.Kxf4 Qxf2+ 44.Ke5 Re1+ , the game is over, since 45.Kd6 is met with 45...Qc5#!
 
 **37.Rc8 Qg7**
 
@@ -6922,7 +7738,9 @@ ANSWER: He should play 39.gxf4! Qxf4+ 40.Kg2 and the gravity of White's threats 
 
 **39...fxg3+ 40.Kg2**
 
-EXERCISE (combination alert) : How did Black draw on a tactical resource and consolidate? --- ANSWER: Deflection.
+EXERCISE (combination alert) : How did Black draw on a tactical resource and consolidate?
+
+ANSWER: Deflection.
 
 **40...Rg1+!**
 
@@ -6954,7 +7772,17 @@ SUMMARY: 12 dxc5 shouldn't give Black too much to worry about. I like the plan 1
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Bxc3 7.bxc3 Ne4 8.Qg4 Kf8**
 
-Korchnoi's favourite line. We enter McCutcheon Part B, where Black refuses to weaken with 8...g6 and hands over castling rights in order to do so. --- QUESTION: Isn't this too large a concession? After all, now White knows the black king's address. Won't it be easy to whip up an attack with the space advantage? --- ANSWER: White usually does get to attack in this line but again at a cost: 1. Black's position, including the kingside, remains for now weakness-free. --- 2. In order to attack, White must mass all available forces on the kingside. This strategy by default, leaves White's queenside and centre vulnerable to counterattacks. --- 3. White's king is on d2, not such a safe square. Black has a choice of two plans: a) Play ...c4, driving White's potent d3-bishop off its dangerous diagonal with tempo. Then play for a ...b5, ...b4 break, undermining the c3-pawn and by default, the d4-pawn. --- b) A secondary plan for Black, which we examine in this chapter is ...cxd4, followed by ...Qa5+, ...b6 and ...Ba6. Then we swap away one of White's best attackers with ...Bxd3. This not only helps our king but also leaves the c2-pawn vulnerable.
+Korchnoi's favourite line. We enter McCutcheon Part B, where Black refuses to weaken with 8...g6 and hands over castling rights in order to do so.
+
+QUESTION: Isn't this too large a concession? After all, now White knows the black king's address. Won't it be easy to whip up an attack with the space advantage?
+
+ANSWER: White usually does get to attack in this line but again at a cost: 1. Black's position, including the kingside, remains for now weakness-free.
+
+2. In order to attack, White must mass all available forces on the kingside. This strategy by default, leaves White's queenside and centre vulnerable to counterattacks.
+
+3. White's king is on d2, not such a safe square. Black has a choice of two plans: a) Play ...c4, driving White's potent d3-bishop off its dangerous diagonal with tempo. Then play for a ...b5, ...b4 break, undermining the c3-pawn and by default, the d4-pawn.
+
+b) A secondary plan for Black, which we examine in this chapter is ...cxd4, followed by ...Qa5+, ...b6 and ...Ba6. Then we swap away one of White's best attackers with ...Bxd3. This not only helps our king but also leaves the c2-pawn vulnerable.
 
 **9.Bd3 Nxd2 10.Kxd2 c5**
 
@@ -6984,7 +7812,13 @@ Later in the chapter, we will look at 11.h4 .
 
 **11...c4**
 
-Given an exclam by GM Neil McDonald. --- QUESTION: Doesn't this violate the principles: Don't close the centre when attacked on the wing and don't fix your pawns on the same colour as your remaining bishop? --- ANSWER: The violation is deliberate and there are good reasons for it. By playing 11...c4: 1. We force White's powerful d3 bishop off its dangerous diagonal. --- 2. We deny White all dxc5 ideas (which clears d4 for a white piece).
+Given an exclam by GM Neil McDonald.
+
+QUESTION: Doesn't this violate the principles: Don't close the centre when attacked on the wing and don't fix your pawns on the same colour as your remaining bishop?
+
+ANSWER: The violation is deliberate and there are good reasons for it. By playing 11...c4: 1. We force White's powerful d3 bishop off its dangerous diagonal.
+
+2. We deny White all dxc5 ideas (which clears d4 for a white piece).
 
 In the next two games, we will look at 11...cxd4!? which has scored remarkably well for Black, although admittedly from a small sample of only eight games.
 
@@ -6998,7 +7832,9 @@ This is White's highest scoring and probably most accurate move, inhibiting Blac
 
 **13...Bd7 14.h4**
 
-It's interesting to note that Houdini actually prefers Black's position here. We are at a crossroads. Black has a choice of two possible plans: Plan A - Black plays ...Be8, ...Rg8 and then runs the king to the queenside. --- Plan B - Black's king entrenches himself on the kingside, confident that he will survive the coming assault.
+It's interesting to note that Houdini actually prefers Black's position here. We are at a crossroads. Black has a choice of two possible plans: Plan A - Black plays ...Be8, ...Rg8 and then runs the king to the queenside.
+
+Plan B - Black's king entrenches himself on the kingside, confident that he will survive the coming assault.
 
 **14...Qe7!?**
 
@@ -7020,7 +7856,13 @@ Clearing the way for f4, and also Rh3/Rg3 or Rf3.
 
 **16...Qg5+!**
 
-A wise precaution, otherwise White's kingside attack may get out of control. --- QUESTION: Wait a minute! On the 10th move, you said this idea may be favourable for White. Now you give the same plan an exclamation mark. Why? --- ANSWER: This is a better version of this ending for Black than the ones we looked at in the notes of 10...Qg5+, for two reasons: 1. Black isn't behind in development in this one. --- 2. White's h-pawn is on h5, meaning he no longer has access to the h4 kingside break.
+A wise precaution, otherwise White's kingside attack may get out of control.
+
+QUESTION: Wait a minute! On the 10th move, you said this idea may be favourable for White. Now you give the same plan an exclamation mark. Why?
+
+ANSWER: This is a better version of this ending for Black than the ones we looked at in the notes of 10...Qg5+, for two reasons: 1. Black isn't behind in development in this one.
+
+2. White's h-pawn is on h5, meaning he no longer has access to the h4 kingside break.
 
 **17.f4**
 
@@ -7090,7 +7932,17 @@ The rook believes he evades truth by killing the messenger. White foresaw this e
 
 **35...Kxg6 36.Bxd5**
 
-This is the position Akopian banked on before entering this line. I don't blame him. If a student asked me to evaluate White's position, I would say advantage White (and be absolutely wrong!). For the exchange, White gets: 1. Two connected central passers. --- 2. The possibility of a Bb7 raid. --- 3. A dominant king. --- 4. The illusion that White's bishop seems to be able to deal with Black's passed h-pawn, while his king blockades the passed f-pawn. However, Black stands better and the sac is like a man who sells his shares of a goldless goldmine for 10 cents on the dollar, and then discovers to his horror the following week, that a rich vein has just been struck. Black's single plus in the position: His rook is more valuable than White's bishop! No position is too chaotic for a comp to analyse, and they say Black is winning, despite appearances! --- QUESTION: You mainly use Houdini for your books. Is that the strongest program? --- ANSWER: Most first grade children know more about computers than your comp-challenged writer. My best bet is to quote an authority for a possible answer. GM Larry Kaufman, co-author of the Komodo engine (and the creator of the evaluation function for Rybka 3) opined in a recent interview, "Komodo is best at evaluating middlegame positions accurately once the tactics are resolved. Stockfish seems to be best in the endgame and in seeing very deep tactics. Houdini is the best at blitz and at seeing tactics quickly. Rybka is just obsolete; I like to think of Komodo as its spiritual descendant, since I worked on the evaluation for both, although the rest of the engines are not similar. Fritz is just too far below these top engines to be useful." I have a feeling my Fritz and Rybka engines aren't going to be happy about this interview and may write Kaufman a nasty email. In my opinion, all the comps mentioned are just fine at the club or internet level for general study, since the differences may be too subtle to really matter, unless you are one of those obsessive players who spends three hours working out some detail for a line on the 23rd move.
+This is the position Akopian banked on before entering this line. I don't blame him. If a student asked me to evaluate White's position, I would say advantage White (and be absolutely wrong!). For the exchange, White gets: 1. Two connected central passers.
+
+2. The possibility of a Bb7 raid.
+
+3. A dominant king.
+
+4. The illusion that White's bishop seems to be able to deal with Black's passed h-pawn, while his king blockades the passed f-pawn. However, Black stands better and the sac is like a man who sells his shares of a goldless goldmine for 10 cents on the dollar, and then discovers to his horror the following week, that a rich vein has just been struck. Black's single plus in the position: His rook is more valuable than White's bishop! No position is too chaotic for a comp to analyse, and they say Black is winning, despite appearances!
+
+QUESTION: You mainly use Houdini for your books. Is that the strongest program?
+
+ANSWER: Most first grade children know more about computers than your comp-challenged writer. My best bet is to quote an authority for a possible answer. GM Larry Kaufman, co-author of the Komodo engine (and the creator of the evaluation function for Rybka 3) opined in a recent interview, "Komodo is best at evaluating middlegame positions accurately once the tactics are resolved. Stockfish seems to be best in the endgame and in seeing very deep tactics. Houdini is the best at blitz and at seeing tactics quickly. Rybka is just obsolete; I like to think of Komodo as its spiritual descendant, since I worked on the evaluation for both, although the rest of the engines are not similar. Fritz is just too far below these top engines to be useful." I have a feeling my Fritz and Rybka engines aren't going to be happy about this interview and may write Kaufman a nasty email. In my opinion, all the comps mentioned are just fine at the club or internet level for general study, since the differences may be too subtle to really matter, unless you are one of those obsessive players who spends three hours working out some detail for a line on the 23rd move.
 
 **36...h5**
 
@@ -7102,7 +7954,15 @@ The b7-raid fails as after 37.Bb7 h4 38.Bxa6? Black has 38...Rb8! This key idea 
 
 **37...h4 38.Bh3**
 
-EXERCISE (planning/calculation): Let's take stock: 1. White managed to blockade both Black passers. --- 2. He ties Black down to defence of the f5-pawn. --- 3. Meanwhile, White's passed e- and d-pawns are ready to surge forward. --- It looks like White is winning. He isn't! Come up with a winning plan for Black. There are two ways to win, and as you may have guessed, both are nightmarishly difficult to solve! --- ANSWER: It's a disquieting sensation to have an opponent effortlessly read and counter your secret intentions.
+EXERCISE (planning/calculation): Let's take stock: 1. White managed to blockade both Black passers.
+
+2. He ties Black down to defence of the f5-pawn.
+
+3. Meanwhile, White's passed e- and d-pawns are ready to surge forward.
+
+It looks like White is winning. He isn't! Come up with a winning plan for Black. There are two ways to win, and as you may have guessed, both are nightmarishly difficult to solve!
+
+ANSWER: It's a disquieting sensation to have an opponent effortlessly read and counter your secret intentions.
 
 **38...Kf7!!**
 
@@ -7144,7 +8004,11 @@ The queen wears the mask of external politeness, all the while seething inside. 
 
 EXERCISE (calculation): Images too terrible to translate to mere words, smite the white king's eyes. He already stands on the scaffold, awaiting his fate. All which is required of us is a wave of the hand to give the executioner the signal. Without moving the pieces, work out Black's forced mate in nine moves from this point.
 
-ANSWER: 51...Qc7+ 52.Kxa6 Rd6+ 53.Kb5 Rd5+ and the pounding continues without a break, similar to the smashing of waves on the stones of a castle by the sea. White can no longer hold out after 54.Kb4 Qxa5+ 55.Kxc4 Qc5+ 56.Kb3 Rd3+ 57.Kb2 Qb4+ 58.Kc1 Qd2+ 59.Kb1 Rb3+ 60.Ka1 Qb2# mate! A very impressive feat, if you saw the line to its completion. --- SUMMARY: Black has two plans in the ...Kf8/...c4 line: Plan A - Black plays ...Be8, ...Rg8 and then runs his king to the queenside. --- Plan B - Black's king entrenches himself on the kingside, confident that he will survive the coming assault.
+ANSWER: 51...Qc7+ 52.Kxa6 Rd6+ 53.Kb5 Rd5+ and the pounding continues without a break, similar to the smashing of waves on the stones of a castle by the sea. White can no longer hold out after 54.Kb4 Qxa5+ 55.Kxc4 Qc5+ 56.Kb3 Rd3+ 57.Kb2 Qb4+ 58.Kc1 Qd2+ 59.Kb1 Rb3+ 60.Ka1 Qb2# mate! A very impressive feat, if you saw the line to its completion.
+
+SUMMARY: Black has two plans in the ...Kf8/...c4 line: Plan A - Black plays ...Be8, ...Rg8 and then runs his king to the queenside.
+
+Plan B - Black's king entrenches himself on the kingside, confident that he will survive the coming assault.
 
 0-1
 
@@ -7152,7 +8016,15 @@ ANSWER: 51...Qc7+ 52.Kxa6 Rd6+ 53.Kb5 Rd5+ and the pounding continues without a 
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Bxc3 7.bxc3 Ne4 8.Qg4 Kf8 9.Bd3 Nxd2 10.Kxd2 c5 11.Nf3 cxd4**
 
-This is a rare line which caught my eye while doing research for this book. Black's move has only been played eight times and has been championed by super-GMs Vallejo Pons and Nepomniachtchi. So far, it has scored a whopping 75% for Black. --- QUESTION: What are the ideas and benefits of the move over the normal ...c4 plan? --- ANSWER: The following ideas are behind the move: 1. It follows the principle: Counter in the centre when attacked on the wing. Depending on which way White captures the d4-pawn, Black plans either ...Qa5+ or ...Qg5+. --- 2. Black sheds himself of his bad bishop with ...b6 and ...Ba6, then plays down the c-file. --- 3. After a bishop swap, Black can take advantage of the c4-hole with ...Nc6, ...Na5 and ...Nc4. If White plays cxd3 in response to ...Bxd3, then White is in effect a pawn down since his kingside majority is frozen, while Black owns a healthy two to one majority on the queenside.
+This is a rare line which caught my eye while doing research for this book. Black's move has only been played eight times and has been championed by super-GMs Vallejo Pons and Nepomniachtchi. So far, it has scored a whopping 75% for Black.
+
+QUESTION: What are the ideas and benefits of the move over the normal ...c4 plan?
+
+ANSWER: The following ideas are behind the move: 1. It follows the principle: Counter in the centre when attacked on the wing. Depending on which way White captures the d4-pawn, Black plans either ...Qa5+ or ...Qg5+.
+
+2. Black sheds himself of his bad bishop with ...b6 and ...Ba6, then plays down the c-file.
+
+3. After a bishop swap, Black can take advantage of the c4-hole with ...Nc6, ...Na5 and ...Nc4. If White plays cxd3 in response to ...Bxd3, then White is in effect a pawn down since his kingside majority is frozen, while Black owns a healthy two to one majority on the queenside.
 
 **12.cxd4**
 
@@ -7196,7 +8068,9 @@ ANSWER: White's attack is unsound after 17...Rc8 18.gxh6 Rxh6 19.Ng5 . Notice th
 
 **17...Rc8 18.Ne1**
 
-White is in full retreat mode. --- EXERCISE (combination alert): Black has a forcing variation which leads to a rook and pawn ending a pawn up. What does he need to do?
+White is in full retreat mode.
+
+EXERCISE (combination alert): Black has a forcing variation which leads to a rook and pawn ending a pawn up. What does he need to do?
 
 The naive 18.g5?? is met with 18...Rxc2 .
 
@@ -7228,7 +8102,9 @@ The alternatives look worse: 23.f3? f6! 24.exf6+ gxf6 and White's king looks ter
 
 **23...Rxh5 24.f4 Kd7!**
 
-A multipurpose move: 1. Black's king heads for the safety of b7. --- 2. Black intends ...Ne7, heading for the f5-hole.
+A multipurpose move: 1. Black's king heads for the safety of b7.
+
+2. Black intends ...Ne7, heading for the f5-hole.
 
 **25.Nf3 Ne7 26.Rac1 Nf5+ 27.Kf2 Rhh8 28.h5?!**
 
@@ -7314,7 +8190,9 @@ There is nothing like being encircled by an armed mob to get one's heart pumping
 
 **47...Qf2+ 48.Kh1**
 
-EXERCISE (combination alert): This one is not so hard. White's king is in a box. He seeks escape, the way a five-year-old wriggles to undo an aunt's embrace. How does Black generate an unstoppable threat? --- ANSWER: Two inert chemicals, when fused and compounded, can suddenly transform into a combustible concoction. There is no reasonable defence to the coming ...Ng3+.
+EXERCISE (combination alert): This one is not so hard. White's king is in a box. He seeks escape, the way a five-year-old wriggles to undo an aunt's embrace. How does Black generate an unstoppable threat?
+
+ANSWER: Two inert chemicals, when fused and compounded, can suddenly transform into a combustible concoction. There is no reasonable defence to the coming ...Ng3+.
 
 **48...Nf5! 49.Qh8+**
 
@@ -7332,7 +8210,9 @@ It's difficult when you are unable to repay your debts. Even worse is when you c
 
 **53...Ka5**
 
-The checks end. --- SUMMARY: One great benefit of the 11...cxd4 plan is its rarity. Your opponents will most certainly be thrown off by it. Also, it is very likely sound, since it scores (so far!) very well for Black. Moreover, a pair of Elo 2700+ GMs, Vallejo Pons and Nepomniachtchi, endorsed it.
+The checks end.
+
+SUMMARY: One great benefit of the 11...cxd4 plan is its rarity. Your opponents will most certainly be thrown off by it. Also, it is very likely sound, since it scores (so far!) very well for Black. Moreover, a pair of Elo 2700+ GMs, Vallejo Pons and Nepomniachtchi, endorsed it.
 
 0-1
 
@@ -7344,21 +8224,31 @@ This time, White refuses to fix his structure, preferring to use d4 as an outpos
 
 **12...Qg5+!**
 
-QUESTION: Here we go again. What is the criterion of when it's okay for us to make this swap? --- ANSWER: Essentially, you must consider these two points: 1. If Black isn't too far behind in development and can later connect rooks, then the swap tends to be good for Black. --- 2. Much more importantly, White must be restricted or at least contained, from game-opening ideas like h4 and f4.
+QUESTION: Here we go again. What is the criterion of when it's okay for us to make this swap?
+
+ANSWER: Essentially, you must consider these two points: 1. If Black isn't too far behind in development and can later connect rooks, then the swap tends to be good for Black.
+
+2. Much more importantly, White must be restricted or at least contained, from game-opening ideas like h4 and f4.
 
 An alternative line is 12...Nd7 13.Qf4 Nc5 14.Nb3 b6 15.h4 , W.Espinoza Palomino-J.Oms Pallisse, Havana 2011. Play may continue 15...Qc7 16.Rh3 Kg8 17.Nd4 Bd7 18.Rf3 Be8 . Now if White presses on with 19.g4 g6! 20.h5 g5 21.Qe3 Kg7 22.Re1 Rc8 23.Rg3 Rg8 24.f4 gxf4 25.Qxf4 Nxd3 26.Rxd3 Kh7 , I prefer Black's superior structure to White's attacking chances, mainly since White's king doesn't appear all that safe here.
 
 **13.Qxg5 hxg5**
 
-QUESTION: You said not to play ...Qg5+ when Black is too far behind in development, yet here, Black's development is at zero and White seems to be three tempi ahead! Why is this position an exception? --- ANSWER: This position is an exception because of part II of the contract - White can't easily open the game, so Black is still okay.
+QUESTION: You said not to play ...Qg5+ when Black is too far behind in development, yet here, Black's development is at zero and White seems to be three tempi ahead! Why is this position an exception?
+
+ANSWER: This position is an exception because of part II of the contract - White can't easily open the game, so Black is still okay.
 
 **14.h3**
 
-QUESTION: Why not the immediate 14.g4 to lock the g-pawn down? --- ANSWER: Probably White was nervous about loss of control - even if temporary - over the h3-pawn. Your suggestion is playable but Houdini's analysis suggests Black remains at least even at the end of the variation. After 14...Bd7 15.Rab1 b6 16.Nf3 Nc6 17.Rbe1 Ke7! 18.h4 ( 18.Nxg5? is met with 18...Nxe5! 19.Rxe5 f6 20.Re2 fxg5 when Black wins a pawn ) 18...gxh4 19.Nxh4 d4 20.Nf3 dxc3+ 21.Kxc3 Na5 , Black doesn't stand worse. His superior structure is at least as meaningful as White's extra space.
+QUESTION: Why not the immediate 14.g4 to lock the g-pawn down?
+
+ANSWER: Probably White was nervous about loss of control - even if temporary - over the h3-pawn. Your suggestion is playable but Houdini's analysis suggests Black remains at least even at the end of the variation. After 14...Bd7 15.Rab1 b6 16.Nf3 Nc6 17.Rbe1 Ke7! 18.h4 ( 18.Nxg5? is met with 18...Nxe5! 19.Rxe5 f6 20.Re2 fxg5 when Black wins a pawn ) 18...gxh4 19.Nxh4 d4 20.Nf3 dxc3+ 21.Kxc3 Na5 , Black doesn't stand worse. His superior structure is at least as meaningful as White's extra space.
 
 **14...Nd7!**
 
-QUESTION: Why not play the knight to the more aggressive c6-square? --- ANSWER: Actually, the move played is more aggressive, since the knight's destination is the more ambitious c5-square.
+QUESTION: Why not play the knight to the more aggressive c6-square?
+
+ANSWER: Actually, the move played is more aggressive, since the knight's destination is the more ambitious c5-square.
 
 **15.Rae1 Nc5 16.Rhf1**
 
@@ -7374,7 +8264,19 @@ White achieves his objective but it isn't as effective as he hoped, since Black 
 
 **17...gxf4 18.Rxf4 Ke7 19.Ref1 Raf8 20.Rg4 Rfg8 21.Nb3 Na4 22.Rb4 b6 23.Rff4 Nb2 24.Nd4 Nxd3!?**
 
-Ah, yes, the free will versus predestination argument arises. Sometimes a conciliatory gesture is only for show and in actuality, cloaks intense ambition. --- QUESTION: It feels to me like Black continues with a principle-transgressing outrage: 1. Black's last move fixes White's damaged pawns. --- 2. Black virtually begs White to enter a good knight versus bad bishop ending. --- Hence, Black's outlook with his last move balances a compound of optimism and insufficient means. Therefore, White holds a clear plus, based on superior space and most importantly, the better minor piece. Am I correct in my assessment? --- ANSWER: I prefer Black. Declaring White's victory here is a bit like the historian who writes about world events which have yet to happen. --- QUESTION: On what do you base your rosy assessment for Black? --- ANSWER: Outwardly it does indeed appear that in a moment of puritanical self-reproach, Black broke all Ten Commandments and lapsed in all the seven deadly sins. But before we take White's inevitable victory for granted, let's examine the facts: First of all, I question your premise that Black's bishop is bad. I remind you of Tartakower's quip about the worst bishop still being better than the best knight! Only two of Black pawns are fixed on light squares - not enough to label the bishop as "bad". I envision it reaching e4, after ...f6, ...Be8 and ...Bg6, which happens routinely in French structures.
+Ah, yes, the free will versus predestination argument arises. Sometimes a conciliatory gesture is only for show and in actuality, cloaks intense ambition.
+
+QUESTION: It feels to me like Black continues with a principle-transgressing outrage: 1. Black's last move fixes White's damaged pawns.
+
+2. Black virtually begs White to enter a good knight versus bad bishop ending.
+
+Hence, Black's outlook with his last move balances a compound of optimism and insufficient means. Therefore, White holds a clear plus, based on superior space and most importantly, the better minor piece. Am I correct in my assessment?
+
+ANSWER: I prefer Black. Declaring White's victory here is a bit like the historian who writes about world events which have yet to happen.
+
+QUESTION: On what do you base your rosy assessment for Black?
+
+ANSWER: Outwardly it does indeed appear that in a moment of puritanical self-reproach, Black broke all Ten Commandments and lapsed in all the seven deadly sins. But before we take White's inevitable victory for granted, let's examine the facts: First of all, I question your premise that Black's bishop is bad. I remind you of Tartakower's quip about the worst bishop still being better than the best knight! Only two of Black pawns are fixed on light squares - not enough to label the bishop as "bad". I envision it reaching e4, after ...f6, ...Be8 and ...Bg6, which happens routinely in French structures.
 
 Black also looks okay after 24...Na4 25.Bb5 g5 26.Rf3 Nc5 27.Bxd7 Nxd7 28.Nc6+ Ke8 29.Ke3 g4! 30.Rxg4 Rxg4 31.hxg4 Rh1 32.Rh3 Re1+ 33.Kd2 Rg1 34.Rh8+ Nf8 35.Nxa7 Rxg2+ .
 
@@ -7464,7 +8366,9 @@ Threat: ...Ra2. This in turn forces White's rook into a passive stance on a1.
 
 **57.Rf1+ Kg5 58.Ra1 Kf6 59.Nd7+ Ke7 60.Ne5**
 
-EXERCISE (planning): Black is up two pawns but as we all realize, games don't win themselves. Come up with a clear winning plan for Black. --- ANSWER: Pawn sac.
+EXERCISE (planning): Black is up two pawns but as we all realize, games don't win themselves. Come up with a clear winning plan for Black.
+
+ANSWER: Pawn sac.
 
 **60...Re2!**
 
@@ -7523,6 +8427,7 @@ ANSWER: True, but there is one fundamental difference between the moves. With 11
 Korchnoi's favourite plan, in conjunction with his pet 8...Kf8. As mentioned earlier in the chapter, Black deliberately violates the principle: Don't close the centre when attacked on the wing, for the following reasons:<level/>
 
 1. Black chases away White's dangerous light-squared bishop from its best diagonal (although it can crop up on h5 and g4 later).
+
 2. Black closes the queenside, mainly because this is where Black plans to run his king, as soon as he stabilizes his kingside.
 
 QUESTION: Can we trick White by first playing 11...Nc6 and on 12.Nf3, then we play 12...c4. In this way, we can move-order White into blocking f3 with a knight, denying the Rh3-f3 lift?
@@ -7573,7 +8478,11 @@ Heading for e8.
 
 **16.Bh5 Be8 17.Rf3 f5!**
 
-Najer remembered Korchnoi's clever little device. --- QUESTION: What is so wonderful about achieving ...f5? It feels like we invite g4 ideas. --- ANSWER: The ...f5! thrust clears defensive space for Black, which generally overrides White's g4 counterplay.
+Najer remembered Korchnoi's clever little device.
+
+QUESTION: What is so wonderful about achieving ...f5? It feels like we invite g4 ideas.
+
+ANSWER: The ...f5! thrust clears defensive space for Black, which generally overrides White's g4 counterplay.
 
 If you don't want to play ...f5, you can always go for the plan of keeping the pawns where they are and walking the king to the queenside, like 17...Qc7 18.Ne2 Nd8 followed by ...Ke7, ...Kd7 and ...Kc8.
 
@@ -7647,7 +8556,9 @@ Idea: ...Rh8 and ...h4.
 
 **36.Rh1 Rh8 37.a4 Rff8 38.Ra3 Rb8**
 
-QUESTION: It feels like Black keeps changing plans, from kingside to queenside. Why does he vacillate? --- ANSWER: It's deliberate. Principle: When one party defends weaknesses on both sides of the board, keep switching from wing to wing, since it is much more difficult for the defence to calibrate against the changing threats.
+QUESTION: It feels like Black keeps changing plans, from kingside to queenside. Why does he vacillate?
+
+ANSWER: It's deliberate. Principle: When one party defends weaknesses on both sides of the board, keep switching from wing to wing, since it is much more difficult for the defence to calibrate against the changing threats.
 
 **39.Kc1 Rb4 40.Ra1 Ke8**
 
@@ -7705,7 +8616,9 @@ Step 2: White's knight is overloaded so Black's h-pawn is free to move forward.
 
 **56...h3 57.Kf1 Nd8!**
 
-EXERCISE (critical decision/planning): Black intends to manoeuvre his knight to b6 and then pick off the a4-pawn. White has a choice of two reactions: Plan A - Transfer White's king to h3 and then pick off Black's h- and f-pawns. When Black's knight wins the a4-pawn, he will cover the c3-pawn with Nd2 and Nb1. --- Plan B - White's king can reach the a3-square, protecting a4 before Black's knight has a chance to get to b6. So this means White's knight is left to guard against the advance of Black's passed h-pawn. One plan draws; the other loses. Consider carefully, since this one isn't so easy to solve. This is a position more suited to precise calculation, rather than carefree rapture (although even if you do take a wild guess, you still have a 50% chance of getting it right!). Which direction should White's king go? Left or right?
+EXERCISE (critical decision/planning): Black intends to manoeuvre his knight to b6 and then pick off the a4-pawn. White has a choice of two reactions: Plan A - Transfer White's king to h3 and then pick off Black's h- and f-pawns. When Black's knight wins the a4-pawn, he will cover the c3-pawn with Nd2 and Nb1.
+
+Plan B - White's king can reach the a3-square, protecting a4 before Black's knight has a chance to get to b6. So this means White's knight is left to guard against the advance of Black's passed h-pawn. One plan draws; the other loses. Consider carefully, since this one isn't so easy to solve. This is a position more suited to precise calculation, rather than carefree rapture (although even if you do take a wild guess, you still have a 50% chance of getting it right!). Which direction should White's king go? Left or right?
 
 **58.Ke2?**
 
@@ -7715,7 +8628,9 @@ ANSWER: White draws in fortress mode with 58.Kg1! Nc6 59.Kh2 Nb8 60.Kxh3 Nd7 61.
 
 **58...Nc6 59.Kd2 Ne7 60.Kc2 Nc8 61.Kb2 Nb6 62.Ka3**
 
-EXERCISE (planning/combination alert): When a magician performs a trick before an audience of children, he knows it is merely illusion, while the children may believe it to be real. White's king arrived just in the nick of time and all looks well for the defenders. This isn't the reality and White soon discovers he must restrain premature jubilation. If we closely dissect White's happiness, we come to realize he has little cause for it. Black forced a win here. How? --- ANSWER: Overloaded defender. Transfer the knight to h7, after which White is helpless against the overload trick ...Nxg5!.
+EXERCISE (planning/combination alert): When a magician performs a trick before an audience of children, he knows it is merely illusion, while the children may believe it to be real. White's king arrived just in the nick of time and all looks well for the defenders. This isn't the reality and White soon discovers he must restrain premature jubilation. If we closely dissect White's happiness, we come to realize he has little cause for it. Black forced a win here. How?
+
+ANSWER: Overloaded defender. Transfer the knight to h7, after which White is helpless against the overload trick ...Nxg5!.
 
 **62...Nd7!**
 
@@ -7735,7 +8650,9 @@ This is a perfect example of the principle we discussed earlier: When one party 
 
 **65.Kd2 Nxg5!**
 
-If something bothered you for a long time, speaking your mind on the issue can be a cathartic experience. The oversight committee is comprised of only one member who matters - Black's knight. White's kingside is disgorged of all able-bodied defenders. If I remember my high school Euclidean geometry correctly, you can divide a parcel of space in half and then subdivide the halves in half, ad infinitum. To White, who seems to be losing territory at an alarming rate, this theory rings true. A second pawn falls and the blockade is smashed, since Black's king is free to enter the kingside. --- SUMMARY: On 11 h4, let's go with 11...c4, since the 11...cxd4 plan doesn't work as well versus White's 11 h4 move-order. Also, when White's bishop is on h5 and ours sits on e8, remember Korchnoi's tricky ...f5! idea, which clears defensive space for our side.
+If something bothered you for a long time, speaking your mind on the issue can be a cathartic experience. The oversight committee is comprised of only one member who matters - Black's knight. White's kingside is disgorged of all able-bodied defenders. If I remember my high school Euclidean geometry correctly, you can divide a parcel of space in half and then subdivide the halves in half, ad infinitum. To White, who seems to be losing territory at an alarming rate, this theory rings true. A second pawn falls and the blockade is smashed, since Black's king is free to enter the kingside.
+
+SUMMARY: On 11 h4, let's go with 11...c4, since the 11...cxd4 plan doesn't work as well versus White's 11 h4 move-order. Also, when White's bishop is on h5 and ours sits on e8, remember Korchnoi's tricky ...f5! idea, which clears defensive space for our side.
 
 0-1
 
@@ -7743,7 +8660,11 @@ If something bothered you for a long time, speaking your mind on the issue can b
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Bxc3 7.bxc3 Ne4 8.Qg4 Kf8 9.h4 c5 10.Bd3 Nxd2 11.Kxd2 c4 12.Be2 Nc6 13.Rh3 Rg8**
 
-A rare move, over the normal 13...b5. --- QUESTION: Why protect the g7-pawn before it is even attacked? After all, White will probably focus on the f7-pawn. --- ANSWER: Korchnoi protects the g7-pawn in preparation for a king run to the queenside (although in this game, his king never quite got that far!).
+A rare move, over the normal 13...b5.
+
+QUESTION: Why protect the g7-pawn before it is even attacked? After all, White will probably focus on the f7-pawn.
+
+ANSWER: Korchnoi protects the g7-pawn in preparation for a king run to the queenside (although in this game, his king never quite got that far!).
 
 **14.Rf3**
 
@@ -7753,11 +8674,25 @@ More commonly played is 14.Qf4 Bd7 15.Bh5 Be8 16.Ne2 f5! , V.Anand-V.Korchnoi, D
 
 **14...Ke7 15.Nh3**
 
-15.Qf4 will be met with 15...Qf8 . --- QUESTION: Can you show an example of how Black would run his king to the queenside? --- ANSWER: Play might proceed 16.h5 b5 17.g4 Bd7 18.Nh3 Rb8 19.a3 Be8 20.g5 hxg5 21.Nxg5 Rh8 22.Qg4 Qg8 23.Rg1 Kd7 24.Nh3 Rh7 25.h6 Rxh6 26.Qxg7 Qxg7 27.Rxg7 Nd8 28.Ng5 Ke7 29.Rh7 Rxh7 30.Nxh7 Rb6 (going after the a3-pawn) 31.Kc1 with an equal position.
+15.Qf4 will be met with 15...Qf8 .
+
+QUESTION: Can you show an example of how Black would run his king to the queenside?
+
+ANSWER: Play might proceed 16.h5 b5 17.g4 Bd7 18.Nh3 Rb8 19.a3 Be8 20.g5 hxg5 21.Nxg5 Rh8 22.Qg4 Qg8 23.Rg1 Kd7 24.Nh3 Rh7 25.h6 Rxh6 26.Qxg7 Qxg7 27.Rxg7 Nd8 28.Ng5 Ke7 29.Rh7 Rxh7 30.Nxh7 Rb6 (going after the a3-pawn) 31.Kc1 with an equal position.
 
 **15...Qa5!?**
 
-It's not easy to escape our true nature, as displayed by Korchnoi's reverence - one may call it obsession - with inflicting chaos in virtually every game he plays. He indulges in provocation merrily. Most players would consider it necessary to take precautions but Korchnoi always seems to go his own way as he wilfully neglects to do so. This move in reality deserves a "?!" mark, but not when it's Korchnoi, who like Lasker before him, thrives on confusing opponents with slightly unsound ideas! --- QUESTION: What is so strange about this move? --- ANSWER: Two things come to mind: 1. In this structure, Black normally leaves the a5-square open for the a-pawn to break with ...a5 and eventually ...b4. --- 2. Only a very confident defender would deliberately move his queen away from the kingside, with White massing in that sector. --- QUESTION: It feels like playing the queen to a5 is pointless for Black. What benefit is derived? --- ANSWER: Korchnoi, a notorious pawn grabber, perhaps contemplates tying White's rook to defence of the a2-pawn. Also, he may entertain ideas like ...Qb5 and ...Qb2, chasing White's rook from a1 and then grabbing the a2-pawn. Of course, this takes time and Black may well get mated on the other side of the board in the meanwhile. However, this is just how Korchnoi operates, always provoking and always stretching limits. Only a player endowed with phenomenal calculating ability can get away with this kind of idea.
+It's not easy to escape our true nature, as displayed by Korchnoi's reverence - one may call it obsession - with inflicting chaos in virtually every game he plays. He indulges in provocation merrily. Most players would consider it necessary to take precautions but Korchnoi always seems to go his own way as he wilfully neglects to do so. This move in reality deserves a "?!" mark, but not when it's Korchnoi, who like Lasker before him, thrives on confusing opponents with slightly unsound ideas!
+
+QUESTION: What is so strange about this move?
+
+ANSWER: Two things come to mind: 1. In this structure, Black normally leaves the a5-square open for the a-pawn to break with ...a5 and eventually ...b4.
+
+2. Only a very confident defender would deliberately move his queen away from the kingside, with White massing in that sector.
+
+QUESTION: It feels like playing the queen to a5 is pointless for Black. What benefit is derived?
+
+ANSWER: Korchnoi, a notorious pawn grabber, perhaps contemplates tying White's rook to defence of the a2-pawn. Also, he may entertain ideas like ...Qb5 and ...Qb2, chasing White's rook from a1 and then grabbing the a2-pawn. Of course, this takes time and Black may well get mated on the other side of the board in the meanwhile. However, this is just how Korchnoi operates, always provoking and always stretching limits. Only a player endowed with phenomenal calculating ability can get away with this kind of idea.
 
 15...Bd7 is a far saner choice!
 
@@ -7793,7 +8728,9 @@ Necessary is 21.Ra1 when Black gets even chances after 21...b4 22.cxb4 Rxb4 23.c
 
 **21.Rxg7!**
 
-ANSWER: Double attack/demolition of king's structure. --- An exposed king is always pleasing to an attacker's palate. It appears as if the day of the rash black queen's reckoning has dawned.
+ANSWER: Double attack/demolition of king's structure.
+
+An exposed king is always pleasing to an attacker's palate. It appears as if the day of the rash black queen's reckoning has dawned.
 
 **21...Rxg7 22.Qf6+**
 
@@ -7841,11 +8778,15 @@ Instead, White should have played 27.Ke2! Qxc2+ 28.Kf1 b2 29.Bxf7 b1=Q 30.Bg6+ K
 
 **27...Qxc2+**
 
-ANSWER: Double attack. --- The queen entwines her fingers within the king's, whispering to him, "Now you are mine! You foolishly underestimated my reach and there is no place safe in the world for you to hide."
+ANSWER: Double attack.
+
+The queen entwines her fingers within the king's, whispering to him, "Now you are mine! You foolishly underestimated my reach and there is no place safe in the world for you to hide."
 
 **28.Ke3 Qe4+**
 
-White drops two pieces after 28...Qe4+ 29.Kd2 Qxf4+ 30.Ke2 Qxf7 . --- SUMMARY: This is an example of a black king run to the queenside. I wouldn't repeat Korchnoi's 15...Qa5?! (Yes. If we play it, the move automatically gets downgraded to "dubious"). Better to replace the move with 15...Bd7, the saner choice!
+White drops two pieces after 28...Qe4+ 29.Kd2 Qxf4+ 30.Ke2 Qxf7 .
+
+SUMMARY: This is an example of a black king run to the queenside. I wouldn't repeat Korchnoi's 15...Qa5?! (Yes. If we play it, the move automatically gets downgraded to "dubious"). Better to replace the move with 15...Bd7, the saner choice!
 
 0-1
 
@@ -7862,7 +8803,9 @@ ANSWER: The trouble is White must waste time to avoid weakening the queenside pa
 White's idea behind the variation:
 
 1. He preserves his powerful dark-squared bishop, without sac'ing a pawn, as seen in the 6.Be3 and 6.Bc1 lines. However, some variations may appear similar and yet are very different, like the words 'principle' and 'principal'.<level/>
+
 2. White avoids the queenside pawn weaknesses associated with this line.
+
 3. White has the bishop pair.
 
 QUESTION: This sounds wonderful for White's side. Is there a downside for him?
@@ -7899,7 +8842,23 @@ Alternatively, after 10...Nd7 11.Qd4 Qc7 12.Nf3 Nxc5 13.Bd3 Bd7 14.O-O Rc8 15.Rf
 
 **11.Qd2 Qxc5 12.Nf3 Nc6 13.Bd3 Bd7**
 
-QUESTION: Doesn't White stand better with: 1. Extra space. --- 2. Potential control over the d4-square. --- 3. The better bishop. --- 4. Attacking chances? --- ANSWER: I prefer Black, but the objective evaluation is probably equal. Let's tackle your arguments point by point: 1. White's extra space may disappear when Black tosses in a timely ...f6. --- 2. White may at some stage lose control over the d4-square if Black plays ...f6, exchanges pawns and achieves ...e5. --- 3. As we have seen throughout the book, Black's 'bad bishop' is an overstated argument (I sense that you are deliberately provoking me into yet another one of my 'the-bad-bishop-is-in reality-a-good-piece' rants!). --- 4. Black has access to potential queenside play via the open c-file and the possibility of ...b5 expansion ideas later. --- 5. What attacking chances!?
+QUESTION: Doesn't White stand better with: 1. Extra space.
+
+2. Potential control over the d4-square.
+
+3. The better bishop.
+
+4. Attacking chances?
+
+ANSWER: I prefer Black, but the objective evaluation is probably equal. Let's tackle your arguments point by point: 1. White's extra space may disappear when Black tosses in a timely ...f6.
+
+2. White may at some stage lose control over the d4-square if Black plays ...f6, exchanges pawns and achieves ...e5.
+
+3. As we have seen throughout the book, Black's 'bad bishop' is an overstated argument (I sense that you are deliberately provoking me into yet another one of my 'the-bad-bishop-is-in reality-a-good-piece' rants!).
+
+4. Black has access to potential queenside play via the open c-file and the possibility of ...b5 expansion ideas later.
+
+5. What attacking chances!?
 
 **14.O-O b5**
 
@@ -7911,7 +8870,9 @@ As long as Black has access to ...f6 or ...f5, he shouldn't fear a kingside atta
 
 **17.Rad1 b4 18.Rd2 a5 19.Bf1**
 
-QUESTION: What? Why didn't White go for mate with 19.Re3 ? --- ANSWER: Let's see how Black should meet this plan: 19...Qe7 20.h4 Kh8 21.h5 a4 22.Nh2 f6 Principle: Counter in the centre when assaulted on the wing. ( Black can also play 22...Qg5 23.Qxg5 hxg5 24.Nf3 f6 with equality ) 23.exf6 Rxf6 24.Qg3 e5 and Houdini says it's equal but I prefer Black due to the central control.
+QUESTION: What? Why didn't White go for mate with 19.Re3 ?
+
+ANSWER: Let's see how Black should meet this plan: 19...Qe7 20.h4 Kh8 21.h5 a4 22.Nh2 f6 Principle: Counter in the centre when assaulted on the wing. ( Black can also play 22...Qg5 23.Qxg5 hxg5 24.Nf3 f6 with equality ) 23.exf6 Rxf6 24.Qg3 e5 and Houdini says it's equal but I prefer Black due to the central control.
 
 **19...Rfc8!?**
 
@@ -7919,7 +8880,9 @@ Black continues to build on the queenside but this move removes the ...f6 counte
 
 **20.Qe3!?**
 
-The bored queen seeks diversion from her humdrum everyday life. This move, perhaps based on the philosophy "the best victory is a bloodless one!?", is a little like a tennis pro training on a clay court when the championship is to be played on a grass court. White's mind in this game seems accustomed to overcaution. Inexplicably, White, in a kind of anti-frenzy, displays distinct signs of a cooling trend by agreeing to swap queens. --- QUESTION: What would you suggest for White?
+The bored queen seeks diversion from her humdrum everyday life. This move, perhaps based on the philosophy "the best victory is a bloodless one!?", is a little like a tennis pro training on a clay court when the championship is to be played on a grass court. White's mind in this game seems accustomed to overcaution. Inexplicably, White, in a kind of anti-frenzy, displays distinct signs of a cooling trend by agreeing to swap queens.
+
+QUESTION: What would you suggest for White?
 
 ANSWER: A pure pawn-storm strategy is how I would play White here. For example, with 20.h4 Rc7 21.g4!? , White fires a warning shot across Black's bow and 21...Na7 22.h5 Bb5 23.g5 hxg5 24.Qxg5 Qf8 25.Kh2 Bxf1 26.Rxf1 Nc6 27.Rg1 Ne7 28.Nd4 Nc6 29.Nf3 Ne7 leads to a draw by repetition.
 
@@ -8007,7 +8970,9 @@ Hey, I said "Threat..." Never mind. It was hopeless no matter what White played.
 
 **44...e3+ 45.Ke1**
 
-EXERCISE (combination alert): White's king rests lightly, the way a wild animal is ready to awaken upon hearing even the slightest noise in the forest. Before us lies evidence of White's tragedy. Find one accurate move and Black easily consolidates. --- ANSWER: Double attack/zwischenzug.
+EXERCISE (combination alert): White's king rests lightly, the way a wild animal is ready to awaken upon hearing even the slightest noise in the forest. Before us lies evidence of White's tragedy. Find one accurate move and Black easily consolidates.
+
+ANSWER: Double attack/zwischenzug.
 
 **45...Kc5!**
 
@@ -8113,7 +9078,9 @@ In the next game, we will look at 9...Nxc3 .
 
 **10.Bd3 h5!?**
 
-I suggest we take a detour from the main line and try this rarely played, forcing byway, since it will probably throw most of your opponents off theoretically. --- QUESTION: What is the normal course of events here?
+I suggest we take a detour from the main line and try this rarely played, forcing byway, since it will probably throw most of your opponents off theoretically.
+
+QUESTION: What is the normal course of events here?
 
 ANSWER: Black normally plays 10...Nxc3 . I'm not crazy about Black's position after 11.dxc5 Nc6 12.Nf3 , Z.Hracek-A.Vaisser, Pula 1997. Houdini gives White a slight plus. I feel that White's space, open b-file, bishop pair and dark-square control are worth more than Black's better pawn structure.
 
@@ -8155,11 +9122,19 @@ Rather than this prickly response, White should play the calm 17.Bf6 as optimism
 
 Black declines the opportunity of saddling White with double f-pawns.
 
-QUESTION: Why wouldn't Black choose to decimate White's pawn structure after 17...Nxf3+ 18.gxf3 Nd5 ? --- ANSWER: That would have given White a developmental lead and the bishop pair. The comp assesses in White's favour after 19.Be4! Rg8 20.Bh4 Bd7 21.Bxd5 exd5 22.Kd2 when Black is behind in development and the presence of the opposite-coloured bishops is clearly in White's favour here.
+QUESTION: Why wouldn't Black choose to decimate White's pawn structure after 17...Nxf3+ 18.gxf3 Nd5 ?
+
+ANSWER: That would have given White a developmental lead and the bishop pair. The comp assesses in White's favour after 19.Be4! Rg8 20.Bh4 Bd7 21.Bxd5 exd5 22.Kd2 when Black is behind in development and the presence of the opposite-coloured bishops is clearly in White's favour here.
 
 **18.Bf6 Nxd3+ 19.cxd3 Nd5 20.Bxd4 Rxg2**
 
-Advantage Black: 1. The opposite-coloured bishops favour Black, since his domination of the light squares outweighs White's strength on the dark squares. --- 2. Black's knight is powerfully posted on d5. --- 3. Black's active rook is an annoying presence for White as well. --- 4. White owns more pawn islands than Black and therefore has the slightly weaker pawn structure.
+Advantage Black: 1. The opposite-coloured bishops favour Black, since his domination of the light squares outweighs White's strength on the dark squares.
+
+2. Black's knight is powerfully posted on d5.
+
+3. Black's active rook is an annoying presence for White as well.
+
+4. White owns more pawn islands than Black and therefore has the slightly weaker pawn structure.
 
 **21.Be5**
 
@@ -8175,7 +9150,9 @@ Cutting off the white rook's entry to the kingside.
 
 **25.d4!**
 
-QUESTION: Didn't White's last move take further liberties with his structure by leaving gaping holes on the central light squares? --- ANSWER: If puppets were sentient, I strongly suspect they would resent their strings. It's true that White, with his last move, dances to Black's tune, yet sometimes it becomes necessary to take on a minor evil to fend off an even worse fate.
+QUESTION: Didn't White's last move take further liberties with his structure by leaving gaping holes on the central light squares?
+
+ANSWER: If puppets were sentient, I strongly suspect they would resent their strings. It's true that White, with his last move, dances to Black's tune, yet sometimes it becomes necessary to take on a minor evil to fend off an even worse fate.
 
 Sutovsky probably feared the coming ...e5. For example, after 25.Kd2 Rf4! 26.Ke2 e5 (uncovering an attack on the h3-pawn) 27.Bc1 Ra4 28.Rh1 Bf5 , the threat of ...Rd8 to gang up on the weak d3-pawn is in the air and White is busted.
 
@@ -8209,7 +9186,9 @@ This thematic break dooms the h3-pawn. Bishops are most feral when allowed to ro
 
 **34.dxe5 Bxh3 35.Nd3**
 
-EXERCISE (planning): White's previous recklessness and his present woes display a clear degree of convergence. Come up with a clear winning plan for Black. --- ANSWER: Prepare to promote the passed h-pawn, when h1 will be the burial ground, where all of White's sorrows come to die.
+EXERCISE (planning): White's previous recklessness and his present woes display a clear degree of convergence. Come up with a clear winning plan for Black.
+
+ANSWER: Prepare to promote the passed h-pawn, when h1 will be the burial ground, where all of White's sorrows come to die.
 
 **35...Bg2!**
 
@@ -8229,7 +9208,9 @@ Target: f3. "Bygones are never bygones," Black's rook tells White's king.
 
 **40.Be3**
 
-EXERCISE (combination alert): It's as if White just barely survived a heart attack, only to be informed by his doctor that he now must battle cancer. How did Black commence a breakthrough? --- ANSWER: Deflection. There is no defence to the coming ...f4.
+EXERCISE (combination alert): It's as if White just barely survived a heart attack, only to be informed by his doctor that he now must battle cancer. How did Black commence a breakthrough?
+
+ANSWER: Deflection. There is no defence to the coming ...f4.
 
 **40...f5! 41.Rh1**
 
@@ -8249,7 +9230,11 @@ The larcenous butler just can't seem to keep his hands off the silverware. Nakam
 
 **10.Bd3 b6!?**
 
-Nakamura tries a rarely played idea, eschewing ...c5 pawn-returning lines. Instead, he intends ...Ba6, eliminating White's nasty attacker on d3. --- QUESTION: Doesn't Black's avoidance of ...c5 violate the principle: Counter in the centre when attacked on the wing, since Black's kingside looks pretty shaky? --- ANSWER: It does violate the principle, yet the move also follows the principle: Don't open the game when behind in development. So in this instance, we have a case of conflicting principles and we can only go with our intuition.
+Nakamura tries a rarely played idea, eschewing ...c5 pawn-returning lines. Instead, he intends ...Ba6, eliminating White's nasty attacker on d3.
+
+QUESTION: Doesn't Black's avoidance of ...c5 violate the principle: Counter in the centre when attacked on the wing, since Black's kingside looks pretty shaky?
+
+ANSWER: It does violate the principle, yet the move also follows the principle: Don't open the game when behind in development. So in this instance, we have a case of conflicting principles and we can only go with our intuition.
 
 **11.h4**
 
@@ -8267,7 +9252,9 @@ Crashing through on the kingside yet Black continues to have access to defensive
 
 **13...gxf4 14.Bxf4**
 
-QUESTION: Doesn't White have a crushing zwischenzug with 14.Qg7 ? --- ANSWER: It actually looks promising but I wouldn't label it "crushing". Houdini's analysis runs 14...Kd7 15.Qxf7+ Qe7 16.Qxe7+ Kxe7 17.Bxf4 Bxd3 18.cxd3 Nd7 19.Nf3 c5 20.Kd2 Na4 21.Nh4 Rh7 22.Ng6+ Kd8 23.g4 cxd4 24.g5 ( 24.Bxh6? is unsound as Black defends after 24...Rxh6 25.g5 Rh7 26.Nf4 Ke7 27.h6 Nxe5 28.g6 Nxg6 29.Nxg6+ Kd6 . Black should be able to win this due to his extra central pawns, since White's passed h-pawn has been stymied ) 24...Nac5 threatening a fork on b3. 25.Ke2 hxg5 26.Bxg5+ Kc7 27.Rag1 b5 28.Bf6 Nxf6 29.exf6 Kd6 30.Rf1 Nd7 31.f7 Nf8 and White's passers have been blockaded (just barely!). Houdini rates the position at dead even.
+QUESTION: Doesn't White have a crushing zwischenzug with 14.Qg7 ?
+
+ANSWER: It actually looks promising but I wouldn't label it "crushing". Houdini's analysis runs 14...Kd7 15.Qxf7+ Qe7 16.Qxe7+ Kxe7 17.Bxf4 Bxd3 18.cxd3 Nd7 19.Nf3 c5 20.Kd2 Na4 21.Nh4 Rh7 22.Ng6+ Kd8 23.g4 cxd4 24.g5 ( 24.Bxh6? is unsound as Black defends after 24...Rxh6 25.g5 Rh7 26.Nf4 Ke7 27.h6 Nxe5 28.g6 Nxg6 29.Nxg6+ Kd6 . Black should be able to win this due to his extra central pawns, since White's passed h-pawn has been stymied ) 24...Nac5 threatening a fork on b3. 25.Ke2 hxg5 26.Bxg5+ Kc7 27.Rag1 b5 28.Bf6 Nxf6 29.exf6 Kd6 30.Rf1 Nd7 31.f7 Nf8 and White's passers have been blockaded (just barely!). Houdini rates the position at dead even.
 
 **14...Kd7!?**
 
@@ -8279,7 +9266,9 @@ Brilliantly evaluated. Nakamura correctly sees that Black gets ample compensatio
 
 **16.Bxe4 dxe4 17.Qxe4 Kc8**
 
-EXERCISE (calculation): Black's last move may be ingenious handiwork by Nakamura, but that doesn't automatically mean the idea is sound. Let's suspend our disbelief at the move's apparent unsoundness and work out the facts. Can White get away with grabbing the a8-rook? --- ANSWER: Concealment of one's plan is a kind of information, useful to the opponent, but only if the opponent correctly guesses your plan. If a player rated close to Elo 2800 offers you a 'free' rook, I advise you to view the offer with deep suspicion. The rook is immune and the idea, backed up by the comps, is absolutely sound. Nakamura's last move deserves an exclam. He makes use of some nifty mental acrobatics to remain afloat.
+EXERCISE (calculation): Black's last move may be ingenious handiwork by Nakamura, but that doesn't automatically mean the idea is sound. Let's suspend our disbelief at the move's apparent unsoundness and work out the facts. Can White get away with grabbing the a8-rook?
+
+ANSWER: Concealment of one's plan is a kind of information, useful to the opponent, but only if the opponent correctly guesses your plan. If a player rated close to Elo 2800 offers you a 'free' rook, I advise you to view the offer with deep suspicion. The rook is immune and the idea, backed up by the comps, is absolutely sound. Nakamura's last move deserves an exclam. He makes use of some nifty mental acrobatics to remain afloat.
 
 **18.Nf3!**
 
@@ -8387,7 +9376,11 @@ Black should play 41...Rxg4! though Nakamura surely rejected the move due to 42.
 
 **42.c4**
 
-The comp gives the impossible-to-find line 42.Kb1! Qg8 43.c4 bxc4 44.Qxc4 Rxg4 45.Qa6 Nc7 46.Qa7 Rg1 47.Bb6 Rxf1+ 48.Rxf1 Qc8 . --- EXERCISE (combination alert): It appears as if Black is hanging on but this isn't the reality. White to play and win. --- ANSWER: Clearance. White threatens d6 and both recaptures lose. 49.d5!! . Logical argument failed to persuade, so now the d-pawn tries the backup plan - an uppercut to the kidney. After 49...exd5 ( or 49...cxd5 50.Rc1 ) 50.Rf6! and the rook seeks to wipe the look of smug satisfaction from the black king's face. There is no defence to the coming Rd6+.
+The comp gives the impossible-to-find line 42.Kb1! Qg8 43.c4 bxc4 44.Qxc4 Rxg4 45.Qa6 Nc7 46.Qa7 Rg1 47.Bb6 Rxf1+ 48.Rxf1 Qc8 .
+
+EXERCISE (combination alert): It appears as if Black is hanging on but this isn't the reality. White to play and win.
+
+ANSWER: Clearance. White threatens d6 and both recaptures lose. 49.d5!! . Logical argument failed to persuade, so now the d-pawn tries the backup plan - an uppercut to the kidney. After 49...exd5 ( or 49...cxd5 50.Rc1 ) 50.Rf6! and the rook seeks to wipe the look of smug satisfaction from the black king's face. There is no defence to the coming Rd6+.
 
 **42...Qg5+ 43.Rd2**
 
@@ -8435,7 +9428,9 @@ White should probably hold the draw after 57.Bc1 Rh3 58.h6 Nc5 .
 
 **57...Rxa3 58.Bc1 Ra1 59.Kf2 Ra2+ 60.Kg3**
 
-EXERCISE (planning): The interchange of opposing plans worked out in Black's favour. Come up with a step-by-step winning plan for Black to convert. --- ANSWER:
+EXERCISE (planning): The interchange of opposing plans worked out in Black's favour. Come up with a step-by-step winning plan for Black to convert.
+
+ANSWER:
 
 **60...Kf8!**
 
@@ -8521,9 +9516,15 @@ White regains the lost pawn and opens up the position. Of course this comes at t
 
 **11...Nc6 12.Nf3 f5!**
 
-GM Neil McDonald thinks this move is inaccurate and gives it a "?!" mark. --- QUESTION: What does he suggest instead?
+GM Neil McDonald thinks this move is inaccurate and gives it a "?!" mark.
 
-ANSWER: He suggests 12...f6 , giving the move an exclam. --- QUESTION: You don't agree? --- ANSWER: No, I would flip the evaluations and believe 12...f5! is correct, while giving 12...f6?! instead. I don't like the idea of Black retaining central tension when he is so far behind in development. For example, after 13.Nh4! Nxe5 , I don't like Black's game after 14.Qb4 d4 15.Qxd4 Nd5 16.O-O Kf7 17.Be4 Nxe3 18.Qxe3 when Black remains dangerously behind in development in an open position. If 18...f5 19.Bf3 Qc7 20.Rad1 , I don't think Black can survive the lag in development.
+QUESTION: What does he suggest instead?
+
+ANSWER: He suggests 12...f6 , giving the move an exclam.
+
+QUESTION: You don't agree?
+
+ANSWER: No, I would flip the evaluations and believe 12...f5! is correct, while giving 12...f6?! instead. I don't like the idea of Black retaining central tension when he is so far behind in development. For example, after 13.Nh4! Nxe5 , I don't like Black's game after 14.Qb4 d4 15.Qxd4 Nd5 16.O-O Kf7 17.Be4 Nxe3 18.Qxe3 when Black remains dangerously behind in development in an open position. If 18...f5 19.Bf3 Qc7 20.Rad1 , I don't think Black can survive the lag in development.
 
 **13.exf6!?**
 
@@ -8575,7 +9576,9 @@ A new move at the time. The bishop prepares to transfer to f7, where it challeng
 
 **16.O-O**
 
-QUESTION: Isn't White just winning after 16.Bg5 ? --- ANSWER: Black was ready with the countershot 16...Bg4! 17.Bxf6! Bxh5 18.Bxe5 ( 18.Bxg7+?! Kxg7 19.Bxh5 Rhg8 and White is the one struggling to coordinate, despite his extra pawn ) 18...Bxg6 19.Bxc3 Bxc2 with equality.
+QUESTION: Isn't White just winning after 16.Bg5 ?
+
+ANSWER: Black was ready with the countershot 16...Bg4! 17.Bxf6! Bxh5 18.Bxe5 ( 18.Bxg7+?! Kxg7 19.Bxh5 Rhg8 and White is the one struggling to coordinate, despite his extra pawn ) 18...Bxg6 19.Bxc3 Bxc2 with equality.
 
 **16...Bf7**
 
@@ -8619,7 +9622,9 @@ Correct was 26.Rf2! Ne5! 27.fxe5 Rxf2 28.Bb4 h5 29.Qg3 Nc2 30.Qxf2 Nxe1 31.Bxe1 
 
 **26...h5!**
 
-ANSWER: Zwischenzug/double attack. --- This move messes up the intended queen plus rook battery on g4 and g3.
+ANSWER: Zwischenzug/double attack.
+
+This move messes up the intended queen plus rook battery on g4 and g3.
 
 Lanka probably expected 26...Nc4? 27.Rg3 .
 
@@ -8719,7 +9724,11 @@ SUMMARY: I think Black gets dynamically balanced chances after 12...f5!, no matt
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Be3 Ne4 7.Qg4 Kf8 8.a3 Bxc3+ 9.bxc3 Nxc3**
 
-I like this move better than 9...c5, which we looked at in the last game. --- QUESTION: Why do you prefer to hold back on ...c5? --- ANSWER: White not only leads in development but also holds the bishop pair, so I feel it is in Black's best interest to avoid opening the game, even though 9...c5 does follow the principle: Counter in the centre when attacked on the wing. We agree to delay ...c5, not sign a contract which excludes the move forever. Hence, I prefer to toss in ...c5 only when Black catches up in development.
+I like this move better than 9...c5, which we looked at in the last game.
+
+QUESTION: Why do you prefer to hold back on ...c5?
+
+ANSWER: White not only leads in development but also holds the bishop pair, so I feel it is in Black's best interest to avoid opening the game, even though 9...c5 does follow the principle: Counter in the centre when attacked on the wing. We agree to delay ...c5, not sign a contract which excludes the move forever. Hence, I prefer to toss in ...c5 only when Black catches up in development.
 
 **10.Bd3 Nc6!?**
 
@@ -8727,7 +9736,9 @@ Volkov's specialty. The move is based on the non-confrontational philosophy - on
 
 **11.Nh3**
 
-QUESTION: Why did White develop his knight on the rim, rather than on f3? --- ANSWER: White intends Nf4 and Nh5, targeting the g7-pawn.
+QUESTION: Why did White develop his knight on the rim, rather than on f3?
+
+ANSWER: White intends Nf4 and Nh5, targeting the g7-pawn.
 
 After 11.Nf3 , we look at:
 
@@ -8773,7 +9784,9 @@ The white queen's bete noire turns up unexpectedly. White, who is a pawn down, c
 
 **13.Qh4 Qe7 14.Bg5**
 
-QUESTION: Why did White avoid the draw by repetition after 14.Qh5 Qe8 ? --- ANSWER: I think Volkov was simply testing his opponent. ( I am almost positive that Black, the higher rated player (and possessing an extra pawn) would have avoided the repetition with 14...Bd7! 15.Nf4 Be8 16.Qh3 g5 17.Bd2 Na4 18.Ne2 Kg7 . I just don't believe in White's compensation for the pawn anymore. )
+QUESTION: Why did White avoid the draw by repetition after 14.Qh5 Qe8 ?
+
+ANSWER: I think Volkov was simply testing his opponent. ( I am almost positive that Black, the higher rated player (and possessing an extra pawn) would have avoided the repetition with 14...Bd7! 15.Nf4 Be8 16.Qh3 g5 17.Bd2 Na4 18.Ne2 Kg7 . I just don't believe in White's compensation for the pawn anymore. )
 
 **14...Qf7 15.f3 Kg8**
 
@@ -8789,7 +9802,9 @@ White hangs on to his bishop pair, a now forlorn hope for compensation.
 
 **18...Nc4 19.Bc3**
 
-QUESTION: If opposite-coloured bishops favour the attacker, then why not go for the line 19.Bxc4 dxc4 ? --- ANSWER: The trouble is I'm not so sure White is the one attacking. Black looks like he is a pawn up with a clear strategic edge (based on the light square power of the opposite-coloured bishops which White had forced!) and after 20.Qf2 b6 21.Nf4 g5 22.Ne2 Bb7 , Black intends ...Ne7 and ...Nd5 with the strategic and material advantage.
+QUESTION: If opposite-coloured bishops favour the attacker, then why not go for the line 19.Bxc4 dxc4 ?
+
+ANSWER: The trouble is I'm not so sure White is the one attacking. Black looks like he is a pawn up with a clear strategic edge (based on the light square power of the opposite-coloured bishops which White had forced!) and after 20.Qf2 b6 21.Nf4 g5 22.Ne2 Bb7 , Black intends ...Ne7 and ...Nd5 with the strategic and material advantage.
 
 **19...Bd7 20.Kh1 g5!**
 
@@ -8819,7 +9834,9 @@ By removing White's light square influence, Black further degrades White's capac
 
 **29.Rxb5 Qe8 30.Qf1 Nc4 31.Rb4 Ra8 32.Nf2**
 
-EXERCISE (planning): An ocean of strategic riches spreads out before Black, as far as the eye and imagination are capable of seeing. Come up with a multi-step method for Black to continue to strengthen his position. --- ANSWER:
+EXERCISE (planning): An ocean of strategic riches spreads out before Black, as far as the eye and imagination are capable of seeing. Come up with a multi-step method for Black to continue to strengthen his position.
+
+ANSWER:
 
 **32...Rh7!**
 
@@ -8851,9 +9868,15 @@ It was Nietzsche who wrote: "One has attained mastery when one neither goes wron
 
 **41.Nxa3?**
 
-Hey, I said "the a3-pawn isn't really hanging!" White may not have realized that he reached time control and possibly banged out the blunder instantaneously. We can all sympathize. Anyone who experiences habitual time-pressure comes to the realization that time is more a matter of perception than a finite reality. That, or the sheer weight of oppression, can induce this kind of move. White drops a piece but his position is close to resignable. --- QUESTION: How would Black break through if White just did nothing?
+Hey, I said "the a3-pawn isn't really hanging!" White may not have realized that he reached time control and possibly banged out the blunder instantaneously. We can all sympathize. Anyone who experiences habitual time-pressure comes to the realization that time is more a matter of perception than a finite reality. That, or the sheer weight of oppression, can induce this kind of move. White drops a piece but his position is close to resignable.
 
-ANSWER: The method would be to go after White's king, while so many of his defenders are stuck on the queenside. For example, with 41.Rb3 , White treats the a3-pawn with the exaggerated discretion of one who believes in Black's threats, and in this instance, he is correct in his assumption! The game might continue 41...Ra7 42.Ne1 gxh3! (opening the g-file) 43.gxh3 Rg7 44.Qc2 Qf8 45.Qb1 Rg3 46.Qd3 Qg7 47.Qf1 Ne3 48.Qf2 Kh8 49.Rxb6 Rg8 (triplication isn't always synonymous with redundancy) 50.Rxe6 . --- EXERCISE (combination alert): The white king's chamber smells of sickness and looming death. Black to play and force mate in three moves. --- ANSWER: Deflection/overloaded defender. With 50...Nf1+! , the knight picks up a crowbar and waits for White's king around the corner. After 51.Qxf1 Rxh3+! 52.Qxh3 ( 52.Kxh3 runs into 52...Qg3# mate! ) 52...Qg1# is mate! The queen encourages others to freely express their opinions, just as long as they coincide with hers.
+QUESTION: How would Black break through if White just did nothing?
+
+ANSWER: The method would be to go after White's king, while so many of his defenders are stuck on the queenside. For example, with 41.Rb3 , White treats the a3-pawn with the exaggerated discretion of one who believes in Black's threats, and in this instance, he is correct in his assumption! The game might continue 41...Ra7 42.Ne1 gxh3! (opening the g-file) 43.gxh3 Rg7 44.Qc2 Qf8 45.Qb1 Rg3 46.Qd3 Qg7 47.Qf1 Ne3 48.Qf2 Kh8 49.Rxb6 Rg8 (triplication isn't always synonymous with redundancy) 50.Rxe6 .
+
+EXERCISE (combination alert): The white king's chamber smells of sickness and looming death. Black to play and force mate in three moves.
+
+ANSWER: Deflection/overloaded defender. With 50...Nf1+! , the knight picks up a crowbar and waits for White's king around the corner. After 51.Qxf1 Rxh3+! 52.Qxh3 ( 52.Kxh3 runs into 52...Qg3# mate! ) 52...Qg1# is mate! The queen encourages others to freely express their opinions, just as long as they coincide with hers.
 
 **41...g3+ 42.Kh1 Ra7 43.Rb3 Rca8**
 
@@ -9001,7 +10024,9 @@ I would be more inclined to go for a knight versus bishop, pawn up ending after 
 
 **25.Bd4 Nxc4+ 26.Bxc4 Rxc4 27.Bb2 Bc6 28.f3 Rc8 29.g4?!**
 
-QUESTION: What objection do you have to White getting active? --- ANSWER: An initiative - even an illusory one - does provide a certain measure of psychological comfort. White somehow feels as if deadlines loom and there is a sense of urgency in the air. This move weakens f3 and White may have been better off without his last move.
+QUESTION: What objection do you have to White getting active?
+
+ANSWER: An initiative - even an illusory one - does provide a certain measure of psychological comfort. White somehow feels as if deadlines loom and there is a sense of urgency in the air. This move weakens f3 and White may have been better off without his last move.
 
 **29...Bd5 30.Rg3 Kf8 31.g5?**
 
@@ -9011,7 +10036,9 @@ White should sit tight and wait with 31.Rgg2 when Black would have a much harder
 
 **31...hxg5 32.Rxg5**
 
-EXERCISE (planning): Black's active pieces have too much of a headstart over their white counterparts. Come up with a clear plan for Black to take advantage of White's numerous weaknesses. The key question is which pawn or pawns should Black target? --- ANSWER: Pile up on the f3-pawn which is White's weakest link. Then switch to subsidiary targets, the h2-pawn and even the a3-pawn.
+EXERCISE (planning): Black's active pieces have too much of a headstart over their white counterparts. Come up with a clear plan for Black to take advantage of White's numerous weaknesses. The key question is which pawn or pawns should Black target?
+
+ANSWER: Pile up on the f3-pawn which is White's weakest link. Then switch to subsidiary targets, the h2-pawn and even the a3-pawn.
 
 **32...Rh4 33.Rg4 Rh3 34.Rg3 Rh5 35.Rgg2 Kg7!**
 
@@ -9035,7 +10062,11 @@ SUMMARY: Let's take the unnatural-looking 6.Bc1 seriously. White scores well wit
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bc1 Ne4 7.Qg4 g6 8.Ne2 Nxc3!?**
 
-Radical stuff. Black chops on c3 unprovoked, without even waiting for a3. --- QUESTION: Why is Black willing to basically toss away a tempo, rather than to wait for White to toss in a3? --- ANSWER: In some of the a3 lines, Black must deal with ...Ba5 and then b4. By exchanging immediately on c3, Black deprives White of this option.
+Radical stuff. Black chops on c3 unprovoked, without even waiting for a3.
+
+QUESTION: Why is Black willing to basically toss away a tempo, rather than to wait for White to toss in a3?
+
+ANSWER: In some of the a3 lines, Black must deal with ...Ba5 and then b4. By exchanging immediately on c3, Black deprives White of this option.
 
 **9.bxc3**
 
@@ -9047,7 +10078,15 @@ A better option is 10...Bxc3+ 11.bxc3 Qa5 12.Bd2 Qa4! (pressuring both the c2- a
 
 **9...Ba5!**
 
-A new idea and I believe an improvement over dropping the bishop back to e7. --- QUESTION: Doesn't Black's last move play into White's hands, since it allows White's bishop access to a3? --- ANSWER: Black's amazing idea: 1. Run White's dark square bishop off the a3-f8 diagonal with ...Nd7!, intending ...Nb6 and ...Nc4, just as he did in the game. --- 2. Ensure White's knight is stuck babysitting the c3-pawn, thanks to Black backing the bishop to a5. --- 3. Hem in White's light-squared bishop as a result, and White will be unable to play Bxc4 when Black's knight lands on c4.
+A new idea and I believe an improvement over dropping the bishop back to e7.
+
+QUESTION: Doesn't Black's last move play into White's hands, since it allows White's bishop access to a3?
+
+ANSWER: Black's amazing idea: 1. Run White's dark square bishop off the a3-f8 diagonal with ...Nd7!, intending ...Nb6 and ...Nc4, just as he did in the game.
+
+2. Ensure White's knight is stuck babysitting the c3-pawn, thanks to Black backing the bishop to a5.
+
+3. Hem in White's light-squared bishop as a result, and White will be unable to play Bxc4 when Black's knight lands on c4.
 
 Of course, playable is 9...Be7 10.Nf4 c5 , E.Najer-I.Glek, Istanbul 2003. Play might continue 11.Bd3 Qa5 12.Bd2 Nc6 13.c4 Qa4 14.cxd5 Qxd4 15.O-O exd5 16.Qf3 c4 17.c3 Nxe5 18.Qg3 Qc5 19.Bc2 . It looks to me like White gets full compensation for the two pawns in the form of a developmental lead and attacking chances.
 
@@ -9057,11 +10096,15 @@ Destination - The c4-square.
 
 **11.h4**
 
-QUESTION: Can't White disrupt Black's intention with 11.Qg3 Nb6 12.Nf4 since now the c4-square is covered by White's f1-bishop? --- ANSWER: That plan is playable but the trouble with it is that the c3-pawn loses a defender. Black can switch plans with 12...Bd7 13.Rb1 Na4! . Now if White refuses to play Bb4, he has to enter 14.Nh5!? which is met with 14...Qg5! which is the only move, but still a good one. After 15.Nf6+ Kd8 16.Bb4 Qxg3 17.fxg3 Nxc3! 18.Rb3 Bxb4 19.Rxb4 Bc6 20.Kd2 Na4 , I don't believe in White's compensation for the pawn since queens have been removed from the board.
+QUESTION: Can't White disrupt Black's intention with 11.Qg3 Nb6 12.Nf4 since now the c4-square is covered by White's f1-bishop?
+
+ANSWER: That plan is playable but the trouble with it is that the c3-pawn loses a defender. Black can switch plans with 12...Bd7 13.Rb1 Na4! . Now if White refuses to play Bb4, he has to enter 14.Nh5!? which is met with 14...Qg5! which is the only move, but still a good one. After 15.Nf6+ Kd8 16.Bb4 Qxg3 17.fxg3 Nxc3! 18.Rb3 Bxb4 19.Rxb4 Bc6 20.Kd2 Na4 , I don't believe in White's compensation for the pawn since queens have been removed from the board.
 
 **11...Nb6 12.Bb4**
 
-White should probably switch plans with 12.h5! g5 13.f4 Nc4 14.Bc1 f5! . Now White must allow Black to favourably block the kingside or enter the wild line which Houdini works out to a draw after 15.exf6! e5! 16.Qg3! ( 16.Qf3 ? is met with 16...e4 17.Qg3 g4! with a clear advantage to Black ) 16...exf4 and now White has no choice but to go for it with 17.Nxf4! . When a position becomes too crazy to calculate, we then have no choice but to turn to inductive reasoning, which in this case is "Why the hell not!". Two tornados clash and intertwine in the middle, creating a perfect storm of complications. Of course this isn't an attack undertaken by anyone sane, but in this case, it happens to work out okay for White. After 17...gxf4 18.Qg6+ Kd7 19.Bxc4 Bxc3+ 20.Kf1 , we reach an arcane situation. --- When I was a kid, my family had this strange ping-pong table in the basement. Over the years, the Montreal cold and damp weather transformed the table into a warped, Quasimodo-shaped monstrosity, where superior table-tennis skill took a backseat to pure chance. Somehow this warped position reminds me of our old table. 20...Bxa1 ( Black can also play for a win with 20...Bxd4!? 21.Rb1 Qxf6 22.Bxd5 c6 23.Bf3 b6 24.Qxf6 Ba6+ 25.Be2 Bxe2+ 26.Kxe2 Bxf6 27.Bxf4 Be5! 28.Rhd1+ Ke6 29.Rb4 Bxf4 30.Rxf4 Rhf8 31.Re4+ Kf5 with an equal ending ) 21.Bb5+ and Black has a badly weakened garrison with two options: 1. Stand his ground to face inevitable defeat with 21...c6?? ( 2. Run! Black's king wisely opts for 21...Ke6 22.Qg4+ Kf7 23.Qg6+ Ke6 24.Qg4+ with perpetual check. What a delight, when the universe gifts a gambler with a pair of unforeseen aces from the deck ) 22.Qf7+ Kd6 23.Bxf4# mate!
+White should probably switch plans with 12.h5! g5 13.f4 Nc4 14.Bc1 f5! . Now White must allow Black to favourably block the kingside or enter the wild line which Houdini works out to a draw after 15.exf6! e5! 16.Qg3! ( 16.Qf3 ? is met with 16...e4 17.Qg3 g4! with a clear advantage to Black ) 16...exf4 and now White has no choice but to go for it with 17.Nxf4! . When a position becomes too crazy to calculate, we then have no choice but to turn to inductive reasoning, which in this case is "Why the hell not!". Two tornados clash and intertwine in the middle, creating a perfect storm of complications. Of course this isn't an attack undertaken by anyone sane, but in this case, it happens to work out okay for White. After 17...gxf4 18.Qg6+ Kd7 19.Bxc4 Bxc3+ 20.Kf1 , we reach an arcane situation.
+
+When I was a kid, my family had this strange ping-pong table in the basement. Over the years, the Montreal cold and damp weather transformed the table into a warped, Quasimodo-shaped monstrosity, where superior table-tennis skill took a backseat to pure chance. Somehow this warped position reminds me of our old table. 20...Bxa1 ( Black can also play for a win with 20...Bxd4!? 21.Rb1 Qxf6 22.Bxd5 c6 23.Bf3 b6 24.Qxf6 Ba6+ 25.Be2 Bxe2+ 26.Kxe2 Bxf6 27.Bxf4 Be5! 28.Rhd1+ Ke6 29.Rb4 Bxf4 30.Rxf4 Rhf8 31.Re4+ Kf5 with an equal ending ) 21.Bb5+ and Black has a badly weakened garrison with two options: 1. Stand his ground to face inevitable defeat with 21...c6?? ( 2. Run! Black's king wisely opts for 21...Ke6 22.Qg4+ Kf7 23.Qg6+ Ke6 24.Qg4+ with perpetual check. What a delight, when the universe gifts a gambler with a pair of unforeseen aces from the deck ) 22.Qf7+ Kd6 23.Bxf4# mate!
 
 **12...Bxb4**
 
@@ -9111,7 +10154,11 @@ Discovered attack on a3. If not for this, White can resign.
 
 **22...exd5 23.Rxa3 Bf5 24.Qg3!?**
 
-The queen harbours a delusional belief in her own infallibility. Topalov decides not to grovel and accepts a position where he only gets fishing chances for two pawns. The result of White's campaign will produce one of two possible results: 1. A glorious victory for White in the distant future. --- 2. Slow death for White. --- At the moment, the smart money looks favourably upon number two.
+The queen harbours a delusional belief in her own infallibility. Topalov decides not to grovel and accepts a position where he only gets fishing chances for two pawns. The result of White's campaign will produce one of two possible results: 1. A glorious victory for White in the distant future.
+
+2. Slow death for White.
+
+At the moment, the smart money looks favourably upon number two.
 
 24.Qf3! puts up maximum resistance after 24...O-O 25.Rb3 Qxa4 26.Bd3 Bxd3 27.Rxd3 ( 27.Qxd3?! is met with 27...Qc4! ) 27...Qxb5 28.Rxd4 Rxc2 29.Rxd5 Rc5 30.Rxc5 Qxc5 31.e6 Qe5 32.Qxb7 Qxe6 when conversion of the extra pawn may not be so easy.
 
@@ -9195,7 +10242,9 @@ ANSWER: Personally, I prefer the ...Kf8 versions, but this is from the bias of a
 
 **8.Ne2**
 
-QUESTION: If White offers a pawn with 8.a3 , should Black grab it? --- ANSWER: I would, especially since White's a3 is counterproductive to his goal of getting his bishop on the a3-f8 diagonal. After 8...Bxc3+ 9.bxc3 Nxc3 10.Bd3 , A.Bubir-A.Haugen, correspondence 2012, I like the idea of holding off ...c5 and playing 10...Bd7 with the idea of ...Na4 and ...Nb6, keeping the game closed as long as possible. White may have full compensation for the pawn, but stylistically, most French Defence players would prefer Black.
+QUESTION: If White offers a pawn with 8.a3 , should Black grab it?
+
+ANSWER: I would, especially since White's a3 is counterproductive to his goal of getting his bishop on the a3-f8 diagonal. After 8...Bxc3+ 9.bxc3 Nxc3 10.Bd3 , A.Bubir-A.Haugen, correspondence 2012, I like the idea of holding off ...c5 and playing 10...Bd7 with the idea of ...Na4 and ...Nb6, keeping the game closed as long as possible. White may have full compensation for the pawn, but stylistically, most French Defence players would prefer Black.
 
 **8...c5 9.a3**
 
@@ -9213,7 +10262,9 @@ This looks more reliable than to break the pin with 10.b4 Nxc3 ( 10...cxb4? 11.N
 
 **10...Nd7**
 
-QUESTION: Why doesn't Black smash White's structure with 10...Nxc3 11.Nxc3 Bxc3+ 12.bxc3 ? --- ANSWER: The damage didn't come without a price as Black handed over his powerful dark-squared bishop. 12...Nc6 13.Qg3 Qa5 14.Bd2 Qxc5 15.Bd3 d4?! ( 15...b6 looks more reliable but even here, I prefer White's attacking chances ) 16.f4 dxc3 17.Be3 Qe7 18.O-O Black is in big trouble, since White's space, bishop pair, dark-square control and attacking chances clearly outweigh Black's measly extra pawn, L.Fressinet-V.Meier, Biel 2009.
+QUESTION: Why doesn't Black smash White's structure with 10...Nxc3 11.Nxc3 Bxc3+ 12.bxc3 ?
+
+ANSWER: The damage didn't come without a price as Black handed over his powerful dark-squared bishop. 12...Nc6 13.Qg3 Qa5 14.Bd2 Qxc5 15.Bd3 d4?! ( 15...b6 looks more reliable but even here, I prefer White's attacking chances ) 16.f4 dxc3 17.Be3 Qe7 18.O-O Black is in big trouble, since White's space, bishop pair, dark-square control and attacking chances clearly outweigh Black's measly extra pawn, L.Fressinet-V.Meier, Biel 2009.
 
 **11.b4 Nxe5 12.Qh5!**
 
@@ -9385,7 +10436,11 @@ In most of these cases, White may be fooling himself or herself, believing a con
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.exd5**
 
-The dynamic Lasker Variation against the McCutcheon is the line I advocated for White in A Ferocious Opening Repertoire. Some consider this variation a kind of antiquarian curiosity. But remember this - That which is old and forgotten, is once again new. --- QUESTION: Wait a minute! In the game introduction, you threw a fit about the Exchange variations, stating that "FIDE should create some kind of a regulatory commission which levies stiff penalties on those who maliciously ruin our French joy by dodging theoretical lines". Now, miraculously, since you advocated the line in your Veresov repertoire book, why is the line suddenly "dynamic"? --- ANSWER: Yes, I stand by my "dynamic" description of the line. This one really isn't boring and offers both sides chances. In general, White tries to remove the dynamism from the lines with the Exchange variations but just take a look at the game continuation. Players can come to opposite conclusions of the same position, depending on how one perceives the position. White might consider his opening mission accomplished in having reached a non-theoretical and relatively less tense position while Black succeeds in gaining a position sufficiently complex enough to play for the win.
+The dynamic Lasker Variation against the McCutcheon is the line I advocated for White in A Ferocious Opening Repertoire. Some consider this variation a kind of antiquarian curiosity. But remember this - That which is old and forgotten, is once again new.
+
+QUESTION: Wait a minute! In the game introduction, you threw a fit about the Exchange variations, stating that "FIDE should create some kind of a regulatory commission which levies stiff penalties on those who maliciously ruin our French joy by dodging theoretical lines". Now, miraculously, since you advocated the line in your Veresov repertoire book, why is the line suddenly "dynamic"?
+
+ANSWER: Yes, I stand by my "dynamic" description of the line. This one really isn't boring and offers both sides chances. In general, White tries to remove the dynamism from the lines with the Exchange variations but just take a look at the game continuation. Players can come to opposite conclusions of the same position, depending on how one perceives the position. White might consider his opening mission accomplished in having reached a non-theoretical and relatively less tense position while Black succeeds in gaining a position sufficiently complex enough to play for the win.
 
 **5...Qxd5!**
 
@@ -9423,7 +10478,11 @@ ANSWER: Black dents White's queenside pawns immediately as by playing 6...gxf6 i
 
 **8...Qa5!**
 
-Our queen behaves like one of those automated polite women, who possess excellent manners but little warmth. --- QUESTION: Why did Black move his queen when it was not attacked? Wouldn't he be better off developing a piece? --- ANSWER: GM Neil McDonald answers your question "Black moves his queen a second time for the simple reason that it is the best move. It anticipates the attack c3-c4 which would now allow the exchange of queens. This is something which isn't part of White's strategy as in the endgame it would be much easier for Black to undermine the doubled pawns on the c-file with c7-c5, etc. than for White to get any play against the f-pawns."
+Our queen behaves like one of those automated polite women, who possess excellent manners but little warmth.
+
+QUESTION: Why did Black move his queen when it was not attacked? Wouldn't he be better off developing a piece?
+
+ANSWER: GM Neil McDonald answers your question "Black moves his queen a second time for the simple reason that it is the best move. It anticipates the attack c3-c4 which would now allow the exchange of queens. This is something which isn't part of White's strategy as in the endgame it would be much easier for Black to undermine the doubled pawns on the c-file with c7-c5, etc. than for White to get any play against the f-pawns."
 
 **9.Ne2**
 
@@ -9497,7 +10556,9 @@ The weakness of the doubled c-pawns means that White is very awkwardly placed.
 
 **22.Bd3**
 
-EXERCISE (combination alert): Wishes and daydreams must yield to data and hard facts. White's last move drops a pawn by force. How? --- ANSWER: Now that Black's knight finally received an audience from White's king, he discovers that he has a lot to say.
+EXERCISE (combination alert): Wishes and daydreams must yield to data and hard facts. White's last move drops a pawn by force. How?
+
+ANSWER: Now that Black's knight finally received an audience from White's king, he discovers that he has a lot to say.
 
 **22...Na4!**
 
@@ -9519,7 +10580,9 @@ The h7-pawn is still untouchable.
 
 **25.Nf5+ Kf8 26.Ng3 h6**
 
-White, down a clean pawn and outrated by almost 200 rating points, decides to conserve energy by resigning here - perhaps a tad too early. --- SUMMARY: The Lasker Variation, 5 exd5 Qxd5! is the exception to the rule and is a sharp position, despite that fact that it is a variant of the Exchange French.
+White, down a clean pawn and outrated by almost 200 rating points, decides to conserve energy by resigning here - perhaps a tad too early.
+
+SUMMARY: The Lasker Variation, 5 exd5 Qxd5! is the exception to the rule and is a sharp position, despite that fact that it is a variant of the Exchange French.
 
 0-1
 
@@ -9527,7 +10590,11 @@ White, down a clean pawn and outrated by almost 200 rating points, decides to co
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6**
 
-There's also 3...Bb4 . --- QUESTION: Hold it. ..you seem a little confused today. Why discuss a Winawer line in a book on Classical French? --- ANSWER: Please continue with the analysis! After 4.Ne2 Nf6 5.Bg5 , we directly transpose to our Classical position from a Winawer move order!
+There's also 3...Bb4 .
+
+QUESTION: Hold it. ..you seem a little confused today. Why discuss a Winawer line in a book on Classical French?
+
+ANSWER: Please continue with the analysis! After 4.Ne2 Nf6 5.Bg5 , we directly transpose to our Classical position from a Winawer move order!
 
 **4.Bg5 Bb4 5.Ne2**
 
@@ -9535,13 +10602,21 @@ In a way, this is quite a time-efficient variation, since White only needs one l
 
 **5...dxe4**
 
-QUESTION: Why did we just hand White the better centre? --- ANSWER: This is Black's best move. This little Burn Variation-like trick allows Black to equalize comfortably, since White must waste energy winning back the lost pawn.
+QUESTION: Why did we just hand White the better centre?
+
+ANSWER: This is Black's best move. This little Burn Variation-like trick allows Black to equalize comfortably, since White must waste energy winning back the lost pawn.
 
 I don't care for Black's sterile position after 5...h6 6.Bxf6 Qxf6 7.a3 Bxc3+ 8.Nxc3 , D.Campora-J.Galiana Salom, Oropesa del Mar 1996.
 
 **6.a3 Be7**
 
-QUESTION: This move looks passive. Why not just save a tempo by chopping on c3? --- ANSWER: Trading on c3 is inferior for the following reasons: 1. Black gives away the bishop pair without a trace of compensation. --- 2. By trading on c3, Black actually gives White a helping hand by unraveling the e2-knight which blocked White's kingside development. --- 3. By playing our bishop back to e7, we break White's annoying f6-pin.
+QUESTION: This move looks passive. Why not just save a tempo by chopping on c3?
+
+ANSWER: Trading on c3 is inferior for the following reasons: 1. Black gives away the bishop pair without a trace of compensation.
+
+2. By trading on c3, Black actually gives White a helping hand by unraveling the e2-knight which blocked White's kingside development.
+
+3. By playing our bishop back to e7, we break White's annoying f6-pin.
 
 Conversely, after 6...Bxc3+?! 7.Nxc3 h6 8.Bh4! Nc6 9.Bb5 Bd7 10.O-O a6 11.Bc4 g5 12.Bg3 Ne7 13.f3! e3 (Black has no choice but to decline) 14.Ne4 Ng6 15.Re1 , White regains his pawn with the bishop pair and a clear strategic advantage, V.Ivanchuk-E.Forsaa, Caleta 2013.
 
@@ -9555,7 +10630,9 @@ The less ambitious 7...Bxf6 is also playable and after 8.Nxe4 Bd7 9.g3 Bc6 10.Bg
 
 Just like in the Burn, here we have the choice of fianchettoing first, or kicking White's knight away with: 8...f5 which does weaken the e5-square. After 9.N4c3 c6 (in order to halt d5 ideas) 10.g3 b6 11.Bg2 Bb7 12.Nf4 Nd7 13.O-O Nf6 14.Re1 Qd6 15.Qe2 O-O-O 16.Rad1 Rhe8 17.Na2! (bizarre, yet potent! White plans to manoeuvre his knight to e5) 17...Qc7 18.Nb4 Bd6 19.Nbd3 Kb8 20.c4 Bf8 21.Ne5 , Black's position looks passive as White owns more space and also the superior attacking chances, D.Campora-A.Jerez Perez, Granada 2006.
 
-QUESTION: Why did Black play ...b6 when in the Burn, Black almost always play ...a6 and ...b5? --- ANSWER: I'm assuming ...a6 and ...b5 are too slow here, since I see just a single game in the database with the Morozevich/Burn plan with: 8...a6 9.Qd3 b5 10.O-O-O Bb7 , S.Chernikova-V.Kiselev, Odessa 2007. At this stage, White can exploit her developmental lead with the tricky 11.Qf3! Nc6 12.Qf4 which looks scary for Black, who must watch out for Nc5, d5 and even future Qh6 ideas. At this point, if Black gets tricky with 12...f5?? intending ...Bg5 tricks, White has 13.d5! with a winning position.
+QUESTION: Why did Black play ...b6 when in the Burn, Black almost always play ...a6 and ...b5?
+
+ANSWER: I'm assuming ...a6 and ...b5 are too slow here, since I see just a single game in the database with the Morozevich/Burn plan with: 8...a6 9.Qd3 b5 10.O-O-O Bb7 , S.Chernikova-V.Kiselev, Odessa 2007. At this stage, White can exploit her developmental lead with the tricky 11.Qf3! Nc6 12.Qf4 which looks scary for Black, who must watch out for Nc5, d5 and even future Qh6 ideas. At this point, if Black gets tricky with 12...f5?? intending ...Bg5 tricks, White has 13.d5! with a winning position.
 
 **9.Qd2**
 
@@ -9611,7 +10688,9 @@ I prefer the immediate 19...h4 .
 
 **20...h4 21.b5?**
 
-EXERCISE (planning): The last move declares "Forget it. I'm going for it!" and White, desperate for counterplay, isn't exactly playing the position with a delicate touch. With the last move, he allows Black a strong strategic idea. Come up with a plan for Black to exploit it. --- ANSWER:
+EXERCISE (planning): The last move declares "Forget it. I'm going for it!" and White, desperate for counterplay, isn't exactly playing the position with a delicate touch. With the last move, he allows Black a strong strategic idea. Come up with a plan for Black to exploit it.
+
+ANSWER:
 
 **21...Nd5!**
 
@@ -9629,7 +10708,9 @@ White's attack just went dead and Black also created multiple weaknesses in Whit
 
 **23.Qe3 hxg3 24.hxg3 Kb8 25.a4 Rc8 26.Ra1**
 
-EXERCISE (planning): White's defensive burden continues to increase in synch with the exhaustion of his resources. One of the most common psychological errors we all commit from time to time in winning positions, is the false assumption that inertia is sufficient to take home the point. Work out Black's strongest plan here. --- ANSWER: Pile up on the d4-pawn.
+EXERCISE (planning): White's defensive burden continues to increase in synch with the exhaustion of his resources. One of the most common psychological errors we all commit from time to time in winning positions, is the false assumption that inertia is sufficient to take home the point. Work out Black's strongest plan here.
+
+ANSWER: Pile up on the d4-pawn.
 
 **26...Qc3!**
 
@@ -9649,7 +10730,9 @@ There goes a very important pawn. The queen continues to impose upon White's inv
 
 **30.Qe2**
 
-EXERCISE (combination alert): The fact that access to a simple combination is the natural corollary of White's previously reckless play. Since coaxing didn't work, it's time to turn it up a notch and force White's resignation. White just blundered in a hopeless position. Black to play and win more material. --- ANSWER: Pin. White has no good discoveries with his knight.
+EXERCISE (combination alert): The fact that access to a simple combination is the natural corollary of White's previously reckless play. Since coaxing didn't work, it's time to turn it up a notch and force White's resignation. White just blundered in a hopeless position. Black to play and win more material.
+
+ANSWER: Pin. White has no good discoveries with his knight.
 
 **30...Bxg3**
 
@@ -9671,7 +10754,9 @@ In the next game, we will look at 6.Bh4 .
 
 **6...hxg5 7.fxg7 Rg8 8.Qh5**
 
-QUESTION: Should Black be concerned, since White essentially destroyed our kingside castling options? Also, Black may fall behind in development since it takes time to win back the g7-pawn. --- ANSWER: Black stands no worse in this position and may even be a shade better. We are a tad behind in development yet White has no quick method of opening up the position. So our bishop pair, control over the dark squares and superior centre probably mean more than White's fleeting developmental lead.
+QUESTION: Should Black be concerned, since White essentially destroyed our kingside castling options? Also, Black may fall behind in development since it takes time to win back the g7-pawn.
+
+ANSWER: Black stands no worse in this position and may even be a shade better. We are a tad behind in development yet White has no quick method of opening up the position. So our bishop pair, control over the dark squares and superior centre probably mean more than White's fleeting developmental lead.
 
 White can attempt to utilize his slim developmental lead by opening up the kingside while Black's queenside remains undeveloped with 8.h4 gxh4 :
 
@@ -9697,7 +10782,11 @@ I find it ironic that my friend Antonio, who nicknamed your not-so-brave writer 
 
 **9...Qxg7 10.O-O-O Nc6**
 
-A new move. Generally, Black prevents Nb5, but I didn't really fear it. --- QUESTION: Shouldn't Black be playing for ...c5? --- ANSWER: I would avoid it when behind in development.
+A new move. Generally, Black prevents Nb5, but I didn't really fear it.
+
+QUESTION: Shouldn't Black be playing for ...c5?
+
+ANSWER: I would avoid it when behind in development.
 
 All Black needs to do (to stand slightly better) is to catch up in development: 10...c5!? has never been played and violates the principle: Don't open the game when lagging in development. After 11.Nb5 Na6 12.c3 Ba5 13.dxc5 , Houdini rates this position at close to even. To my human eye, White looks better with the developmental lead.
 
@@ -9711,7 +10800,9 @@ So what? My bishop is happy to oblige and protect c7.
 
 **11...Ba5 12.Qf3 a6 13.Na3!?**
 
-QUESTION: Why did White park his knight to the side? --- ANSWER: He intends to recentralize it with something like c3, Nc2 and Ne3, but of course, this takes a lot of time.
+QUESTION: Why did White park his knight to the side?
+
+ANSWER: He intends to recentralize it with something like c3, Nc2 and Ne3, but of course, this takes a lot of time.
 
 13.Nbc3 was better. Even here Black looks like he holds a solid edge.
 
@@ -9727,7 +10818,9 @@ EXERCISE (planning): White tries this and tries that, like some actor testing ou
 
 **15...e5!**
 
-ANSWER: Play the thematic freeing central break, after which Black's piece activity grows exponentially. --- Principles: Open the game when you have the bishop pair and lead in development. Yes, Black who now leads in development and also, the d5-pawn doesn't really hang.
+ANSWER: Play the thematic freeing central break, after which Black's piece activity grows exponentially.
+
+Principles: Open the game when you have the bishop pair and lead in development. Yes, Black who now leads in development and also, the d5-pawn doesn't really hang.
 
 **16.Nc2**
 
@@ -9775,7 +10868,9 @@ This looks like a bluff. I knew White wasn't going to toss in c4 when Black owne
 
 **26...Rh8**
 
-QUESTION: What is the point of this move? --- ANSWER: Black considers an exchange sac for a pawn on h5. If I can also pick up the h3-pawn, then Black's kingside passers will force their way down the board.
+QUESTION: What is the point of this move?
+
+ANSWER: Black considers an exchange sac for a pawn on h5. If I can also pick up the h3-pawn, then Black's kingside passers will force their way down the board.
 
 **27.Kb2**
 
@@ -9809,7 +10904,9 @@ White had to try his luck with 35.Qg2 Qxg2 36.Rexg2 g4! 37.Rxg4! ( 37.Nxg4?? han
 
 **35...gxf4 36.Rxg8+ Bd8 37.Nf7**
 
-EXERCISE (critical decision): Find one accurate move and White will harbour deep misgivings about his queen sac, since his would-be attack/initiative gets shuts down. What would you play here? --- ANSWER: Interference. It's critical to keep the e2-rook out of the attack.
+EXERCISE (critical decision): Find one accurate move and White will harbour deep misgivings about his queen sac, since his would-be attack/initiative gets shuts down. What would you play here?
+
+ANSWER: Interference. It's critical to keep the e2-rook out of the attack.
 
 **37...Be4!**
 
@@ -9843,7 +10940,9 @@ Threatening mate on a5. The c3-pawn is merely the condiment and Black's queen lo
 
 Another attacker is added to the mix, after which White collapses.
 
-After 44...a5! 45.Ne5 Qb4+ 46.Kb2 , the king's eyes grow wide as gold doubloons, at the coming attack and following 46...a4 , there is no good defence to the coming ...a3+. --- SUMMARY: Black gets equality and maybe a little more after the theoretical dodge 6 exf6.
+After 44...a5! 45.Ne5 Qb4+ 46.Kb2 , the king's eyes grow wide as gold doubloons, at the coming attack and following 46...a4 , there is no good defence to the coming ...a3+.
+
+SUMMARY: Black gets equality and maybe a little more after the theoretical dodge 6 exf6.
 
 0-1
 
@@ -9891,7 +10990,11 @@ Threatening to win a pawn by capturing the d4-pawn next.
 
 **13...Qxc5 14.h4 Rg8 15.hxg5 hxg5 16.Bd3**
 
-Black can be happy with the result of the opening. --- QUESTION: Why is that so? After all, White still retains his dark-squared bishop and didn't even have to sac a pawn for it. --- ANSWER: Firstly, his dark-squared bishop isn't all that impressive for now since it is tucked out of play on g3. White also sustained the usual structural damage for it. I would be comfortable taking on Black here.
+Black can be happy with the result of the opening.
+
+QUESTION: Why is that so? After all, White still retains his dark-squared bishop and didn't even have to sac a pawn for it.
+
+ANSWER: Firstly, his dark-squared bishop isn't all that impressive for now since it is tucked out of play on g3. White also sustained the usual structural damage for it. I would be comfortable taking on Black here.
 
 Alternatively, 16.Rb1 b6 17.Rh5 Qxa3 18.Rxg5 Rh8 19.Bb5 Bb7 20.Ke2 O-O-O and Black looks better since his king is the safer of the two, K.Shirazi-J.Moussard, Nimes 2009.
 
@@ -9899,7 +11002,9 @@ Alternatively, 16.Rb1 b6 17.Rh5 Qxa3 18.Rxg5 Rh8 19.Bb5 Bb7 20.Ke2 O-O-O and Bla
 
 We chess players need the initiative the way the human body is nourished and restored by food and sleep. Black's king looks out of danger and looks forward to his dream of living happily ever after.
 
-A look at the alternatives: Black sacs a pawn to speed up development with 17...d4 18.cxd4 Nxd4 19.Kf1 Ba4 20.Rb1 Bxc2 21.Bxc2 Nxc2 22.Rxb7 Rd8 23.Qe2 Nd4 24.Qe3?? , B.Kostic-A.Baert, Stockholm 1937. --- EXERCISE (combination alert): Black lost this game after missing a chance to immediately end the game in his favour here. How can he pull it off? ( The correct path should have been 24.Qe1 Nc2 25.Qe2 Nd4 with a draw by repetition of moves ) 24...Qc2! . ANSWER: Double attack. Black missed this move. 25.Rhxf7 Nf5! which is a triple-purpose move which covers the threatened mate on e7, hits White's queen and threatens ...Rd1+. White has no choice but to resign here.
+A look at the alternatives: Black sacs a pawn to speed up development with 17...d4 18.cxd4 Nxd4 19.Kf1 Ba4 20.Rb1 Bxc2 21.Bxc2 Nxc2 22.Rxb7 Rd8 23.Qe2 Nd4 24.Qe3?? , B.Kostic-A.Baert, Stockholm 1937.
+
+EXERCISE (combination alert): Black lost this game after missing a chance to immediately end the game in his favour here. How can he pull it off? ( The correct path should have been 24.Qe1 Nc2 25.Qe2 Nd4 with a draw by repetition of moves ) 24...Qc2! . ANSWER: Double attack. Black missed this move. 25.Rhxf7 Nf5! which is a triple-purpose move which covers the threatened mate on e7, hits White's queen and threatens ...Rd1+. White has no choice but to resign here.
 
 Black can also play the calm 17...Na5 18.Rb1 Rc8 when he looks better to me.
 
@@ -9947,7 +11052,9 @@ The queen, threatening mate on b1, takes the high ground, realizing that the sid
 
 **27.Bxc4**
 
-EXERCISE (combination alert): Black attackers, driven by their demons, edge closer to their target. White's grievously overtaxed defenders can't hold out much longer and the tension of unsprung intent is so palpable that we could scoop it out with a spoon. Black's paradise is within reach. You alone are capable of opening the gates. --- ANSWER: Deflection.
+EXERCISE (combination alert): Black attackers, driven by their demons, edge closer to their target. White's grievously overtaxed defenders can't hold out much longer and the tension of unsprung intent is so palpable that we could scoop it out with a spoon. Black's paradise is within reach. You alone are capable of opening the gates.
+
+ANSWER: Deflection.
 
 **27...Qa4+ 28.Qa3**
 
@@ -9973,11 +11080,25 @@ Compare the position we get in the game with the more traditional Exchange Frenc
 
 **3...Nf6 4.exd5**
 
-No! Not this. Anything but this! A universal truth: We French players loathe the fun-ruining buggers who deal with our beloved opening with the irritating Exchange Variation, or its obnoxious offshoots, as in this case. --- QUESTION: How is this different from a normal Exchange French? --- ANSWER: This is a delayed Exchange variant, which means fewer options for Black, since our knight is committed to f6, denying us the more dynamic Exchange French setup ...Nc6, ...Bd6 and ...Nge7, as explained in the above note. From time to time, your moody writer submerges into sullen pouts and actually gives up the French Defence (but later always returns to it, with deep contrition!), due to my monumental hatred of the Exchange Variation (and don't get me started on the Exchange Slav and Exchange Alekhine Defence!). --- QUESTION: Why would you possibly be fearful of such a milquetoast line? --- ANSWER: The Exchange French (and its variants) is a drawing weapon, often used by lower rated players to drain the position of its vitality and dynamism. I am the highest rated player in San Diego and remember one dark period when facing eight (!) straight Exchange Variations against the French. The funny thing is my score is actually quite good versus the Exchange line (over 90%), but somehow my blood boils (like Mr. Spock's during the Vulcan Pon Farr, when the normally polite Vulcan Science officer temporarily transforms into a Type A personality and flings bowls of soup at Nurse Chapel) and I begin to fight the urge to inflict the Vulcan nerve pinch on my opponents! --- QUESTION: So what is the secret to defeating the Exchange French? --- ANSWER: The secret: Be patient and look for an imbalance, since one usually arises. When you get the imbalance, you will tend to outplay your lower rated opponents and take home the full point.
+No! Not this. Anything but this! A universal truth: We French players loathe the fun-ruining buggers who deal with our beloved opening with the irritating Exchange Variation, or its obnoxious offshoots, as in this case.
+
+QUESTION: How is this different from a normal Exchange French?
+
+ANSWER: This is a delayed Exchange variant, which means fewer options for Black, since our knight is committed to f6, denying us the more dynamic Exchange French setup ...Nc6, ...Bd6 and ...Nge7, as explained in the above note. From time to time, your moody writer submerges into sullen pouts and actually gives up the French Defence (but later always returns to it, with deep contrition!), due to my monumental hatred of the Exchange Variation (and don't get me started on the Exchange Slav and Exchange Alekhine Defence!).
+
+QUESTION: Why would you possibly be fearful of such a milquetoast line?
+
+ANSWER: The Exchange French (and its variants) is a drawing weapon, often used by lower rated players to drain the position of its vitality and dynamism. I am the highest rated player in San Diego and remember one dark period when facing eight (!) straight Exchange Variations against the French. The funny thing is my score is actually quite good versus the Exchange line (over 90%), but somehow my blood boils (like Mr. Spock's during the Vulcan Pon Farr, when the normally polite Vulcan Science officer temporarily transforms into a Type A personality and flings bowls of soup at Nurse Chapel) and I begin to fight the urge to inflict the Vulcan nerve pinch on my opponents!
+
+QUESTION: So what is the secret to defeating the Exchange French?
+
+ANSWER: The secret: Be patient and look for an imbalance, since one usually arises. When you get the imbalance, you will tend to outplay your lower rated opponents and take home the full point.
 
 **4...exd5**
 
-QUESTION: Why must we cooperate and enter Exchange French, when we can play 4...Nxd5 ? with a funky kind of the Scandinavian Defence? --- ANSWER: It's too extreme a solution. The position actually looks to me like a favourable c3-Sicilian where White gained a tempo by avoiding c3. I prefer White's game after 5.Nxd5! (White's dullest choice!) 5...Qxd5 ( of course, 5...exd5 is painfully equal, but this is exactly what our lower rated opponent may be after ) 6.Nf3 c5 7.Be3 cxd4 8.Qxd4 Qxd4 9.Nxd4 a6 and we reach a c3-Sicilian-type ending where White benefited from saving a move from not playing c3, J.Dovzik-V.Okhotnik, Nyiregyhaza 2004.
+QUESTION: Why must we cooperate and enter Exchange French, when we can play 4...Nxd5 ? with a funky kind of the Scandinavian Defence?
+
+ANSWER: It's too extreme a solution. The position actually looks to me like a favourable c3-Sicilian where White gained a tempo by avoiding c3. I prefer White's game after 5.Nxd5! (White's dullest choice!) 5...Qxd5 ( of course, 5...exd5 is painfully equal, but this is exactly what our lower rated opponent may be after ) 6.Nf3 c5 7.Be3 cxd4 8.Qxd4 Qxd4 9.Nxd4 a6 and we reach a c3-Sicilian-type ending where White benefited from saving a move from not playing c3, J.Dovzik-V.Okhotnik, Nyiregyhaza 2004.
 
 **5.Bg5 Be7**
 
@@ -10081,7 +11202,9 @@ The immediate 34...c4! intending ...Qb8 next, also looks promising.
 
 **35.Ne2**
 
-EXERCISE (planning): Gurevich found a concrete plan to create a passed pawn. How did he achieve his goal? --- ANSWER: Step 1: Fix the b2-pawn as a target.
+EXERCISE (planning): Gurevich found a concrete plan to create a passed pawn. How did he achieve his goal?
+
+ANSWER: Step 1: Fix the b2-pawn as a target.
 
 **35...c4! 36.Bc2 Qb8**
 
@@ -10119,7 +11242,11 @@ Halting f5 and threatening 43...Nxd5 44 cxd5 Qd3!.<addx start="43...Nxd5"/>
 
 **43.Ba8 Nf5 44.h3**
 
-If White runs his c-pawn, it opens squares for Black. With 44.c5 Bb5 45.c6 Qa1+ , Black's queen addresses White's king, "Unfortunately, Your Grace, my happiness fails to coincide with yours." After 46.Kg2 , it's Black to play and deliver a powerful combination. --- EXERCISE (combination alert): White's position has the feel of too many occupants packed within too small a room. White's nervous king and queen feel anxiety on par with patients who hear their dentist rev up the drill. Black to play and force the win. --- ANSWER: Deflection. 46...Bd4! and the witch-burning bishop shimmies up the diagonal in close proximity to White's queen. He believes her to be in league with the devil. Following 47.Nxd4 Bf1+! , the bishop feels reborn and clean, drained of all wickedness. But then the feeling quickly passes and he goes back to being the ruthless person he always was by kneeling before White's king and whispering into his ear, "I will soon send you to a place where you will see-no-evil, speak-no-evil, and hear-no-evil." After 48.Qxf1 ( 48.Kg1 and the supine king isn't going anywhere soon, since g1 isn't much of a refuge either since 48...Bh3+ 49.Qf1 Qxf1# is mate! Most people don't associate brutal physical violence with females. Unless of course, you ask people who work for Black's queen ) 48...Ne3+ wins the queen. The knight's kindly tone, which he adopts as he issues the white queen's death warrant, has a way of unnerving those around him.
+If White runs his c-pawn, it opens squares for Black. With 44.c5 Bb5 45.c6 Qa1+ , Black's queen addresses White's king, "Unfortunately, Your Grace, my happiness fails to coincide with yours." After 46.Kg2 , it's Black to play and deliver a powerful combination.
+
+EXERCISE (combination alert): White's position has the feel of too many occupants packed within too small a room. White's nervous king and queen feel anxiety on par with patients who hear their dentist rev up the drill. Black to play and force the win.
+
+ANSWER: Deflection. 46...Bd4! and the witch-burning bishop shimmies up the diagonal in close proximity to White's queen. He believes her to be in league with the devil. Following 47.Nxd4 Bf1+! , the bishop feels reborn and clean, drained of all wickedness. But then the feeling quickly passes and he goes back to being the ruthless person he always was by kneeling before White's king and whispering into his ear, "I will soon send you to a place where you will see-no-evil, speak-no-evil, and hear-no-evil." After 48.Qxf1 ( 48.Kg1 and the supine king isn't going anywhere soon, since g1 isn't much of a refuge either since 48...Bh3+ 49.Qf1 Qxf1# is mate! Most people don't associate brutal physical violence with females. Unless of course, you ask people who work for Black's queen ) 48...Ne3+ wins the queen. The knight's kindly tone, which he adopts as he issues the white queen's death warrant, has a way of unnerving those around him.
 
 **44...Qd3!**
 
