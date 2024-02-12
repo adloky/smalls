@@ -2,7 +2,7 @@
 
 **1.e4**
 
-Wherever allowed we want to continue with 2.d4 and 3.Nc3 -OK, not in Grandmaster Gambits: 1.e4 after 1...c6 and 1...e6! -, as we will against the Modern:<addx start="2.d4"/><addx start="3.Nc3"/>
+Wherever allowed we want to continue with 2.d4 and 3.Nc3 -OK, not in Grandmaster Gambits: 1.e4 after 1...c6 and 1...e6! -, as we will against the Modern:<addz start="2.d4"/><addz start="3.Nc3"/>
 
 **1...g6 2.d4 Bg7 3.Nc3**
 
@@ -88,7 +88,7 @@ is the infamous Sniper, a line aggressive players should welcome, since White ca
 
 **4.dxc5 Qa5 5.Bd2 Qxc5 6.Nd5**
 
-is a strong leap which seizes and early initiative due to Black's misplaced queen. Can you spot the immediate threat? It's 7.Bb4 Qc6 8.Bb5 and while Black can dodge that, his cause is not to be envied, as we'll see in Line B3.<addx start="7.Bb4"/>
+is a strong leap which seizes and early initiative due to Black's misplaced queen. Can you spot the immediate threat? It's 7.Bb4 Qc6 8.Bb5 and while Black can dodge that, his cause is not to be envied, as we'll see in Line B3.<addz start="7.Bb4"/>
 
 ### (18) Quickstarter - Modern: 3...c5 #2
 
@@ -312,7 +312,7 @@ or 5...b4 6.Nd5 Bb7 . Here 7.Bf3 is tempting, as is the simple 7.h5!? e6 With a 
 
 **6.a4**
 
-Softening Black up on the queenside, but there's also nothing wrong with one of our favourite plans, 6.Nf3 and 7.Ng5.<addx start="7.Ng5"/>
+Softening Black up on the queenside, but there's also nothing wrong with one of our favourite plans, 6.Nf3 and 7.Ng5.<addz start="7.Ng5"/>
 
 **6...b4 7.Nd5 Bb7 8.Bf3**
 
@@ -2064,7 +2064,7 @@ Covering c3 and menacing Nd5.
 
 **5...Qxc5 6.Nd5**
 
-A strong way to seize the initiative and already a dream position for White. Can you spot the immediate threat? Well, it's 7.Bb4 Qc6 8.Bb5! , winning serious material.<addx start="7.Bb4"/>
+A strong way to seize the initiative and already a dream position for White. Can you spot the immediate threat? Well, it's 7.Bb4 Qc6 8.Bb5! , winning serious material.<addz start="7.Bb4"/>
 
 **6...Na6**
 
@@ -2072,7 +2072,7 @@ To cover c7. Black has been known to fall for the trap and even his queen-saving
 
 **7.Nf3**
 
-Not White's only good move, but a simple and strong one. The immediate threat is 8.b4 Qd6 9.Bf4 and unsurprisingly White has scored over 75% from here.<addx start="8.b4"/>
+Not White's only good move, but a simple and strong one. The immediate threat is 8.b4 Qd6 9.Bf4 and unsurprisingly White has scored over 75% from here.<addz start="8.b4"/>
 
 **7...e6**
 
@@ -2200,7 +2200,7 @@ once again can't be recommended for Black, with White set to complete developmen
 
 **8...Bg7 9.Bxa6 bxa6 10.O-O**
 
-Talk about a lead in development! The immediate threat is 11.Bb4 Qc6 12.Ba5 and it's almost impossible to find even a half decent move for Black.<addx start="11.Bb4"/>
+Talk about a lead in development! The immediate threat is 11.Bb4 Qc6 12.Ba5 and it's almost impossible to find even a half decent move for Black.<addz start="11.Bb4"/>
 
 ### (159) Modern B3: 3...c5 - B3: 3...c5 #5 
 

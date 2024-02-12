@@ -1,4 +1,4 @@
-﻿<config hilight="0"/>
+<config hilight="0"/>
 
 <font size="5">**Гид Альтермана по гамбитам**</font>
 

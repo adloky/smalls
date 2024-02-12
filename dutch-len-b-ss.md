@@ -1,4 +1,4 @@
-﻿<config color="-1"/>
+<config color="-1"/>
 
 <font size="5">**Голландская защита, Ленинградский вариант: коротко и ясно**</font>
 
@@ -28,7 +28,7 @@ I should not forget to mention an important aspect of my course: playing chess s
 
 **1.d4 f5**
 
-This course is based on 1...f5. Depending on your lines against 1.e4, you could also follow most of our repertoire with 1...d6 and 2...f5. It means that against 1.e4 it is OK to play for example the Modern Defense or the Pirc or certain variations of the Philidor.<addx start="2...f5"/>
+This course is based on 1...f5. Depending on your lines against 1.e4, you could also follow most of our repertoire with 1...d6 and 2...f5. It means that against 1.e4 it is OK to play for example the Modern Defense or the Pirc or certain variations of the Philidor.<addz start="2...f5"/>
 
 **2.Nf3 Nf6**
 
@@ -36,7 +36,7 @@ I prefer to first develop the knight and take control over the e4-square and pla
 
 **3.g3 g6**
 
-This repertoire starts with the moves 1...f5 and 2...Nf6. In most of the lines, you will see that on move three we play 3...g6 followed by a later ...d7-d6. Considering that in 95% of the repertoire we don’t play ...d7-d5, Black could also first play 3...d6 on move three and on move 4...g6. This will result in a transposition.<addx start="2...Nf6"/><addx start="3...g6"/><addx start="3...d6"/><addx start="4...g6"/>
+This repertoire starts with the moves 1...f5 and 2...Nf6. In most of the lines, you will see that on move three we play 3...g6 followed by a later ...d7-d6. Considering that in 95% of the repertoire we don’t play ...d7-d5, Black could also first play 3...d6 on move three and on move 4...g6. This will result in a transposition.<addz start="2...Nf6"/><addz start="3...g6"/><addz start="3...d6"/><addz start="4...g6"/>
 
 **4.Bg2 Bg7**
 

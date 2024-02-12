@@ -680,7 +680,7 @@ This is strong, disturbing the white coordination.
 
 **9.Nb1 Bb7**
 
-with the idea 10...Be4!<addx start="10...Be4"/>
+with the idea 10...Be4!<addz start="10...Be4"/>
 
 **10.Qd3 Be4 11.Qxb5**
 
