@@ -566,7 +566,7 @@ when the knight is taboo due to the check on h5 and it still is after
 
 **14...Kg6 15.Bf4**
 
-when Black should just take on g7 and be slightly worse after 16.b3 on account of his broken structure rather than lose on the spot to<addx start="16.b3"/>
+when Black should just take on g7 and be slightly worse after 16.b3 on account of his broken structure rather than lose on the spot to<addz start="16.b3"/>
 
 **15...Qxc4?? 16.Qd3+! Qxd3 17.g8=Q+**
 
@@ -654,7 +654,7 @@ This sequence leaves White able to strongly force the pace:
 
 Black's king is in trouble, as can be seen in the following lines:
 
-11...Kf8? 12.Rd1! either wins material or leaves Black terribly tied up: 12...Be6 13.c4 Nf6 14.Rd8+ Ne8 15.b3!, 16.Ba3+ follows or 15...Ke7 16.Bg5+ Kf8 17.Nc3 and Re1 with a decisive initiative.<addx start="16.Ba3+"/>
+11...Kf8? 12.Rd1! either wins material or leaves Black terribly tied up: 12...Be6 13.c4 Nf6 14.Rd8+ Ne8 15.b3!, 16.Ba3+ follows or 15...Ke7 16.Bg5+ Kf8 17.Nc3 and Re1 with a decisive initiative.<addz start="16.Ba3+"/>
 
 11...Kf7 12.Ne5+ Kf6 13.b3! This is again a sneaky switch of direction to bring the bishop powerfully into play, although Black can stay afloat, at least for now: 13...Nb4 14.Na3 N8c6 15.Bb2 Nxe5 16.Rxe5 Kg6. However, after 17.Kg1! followed by Re7, Re3 or Rf1, it's hard to believe that he should be able to survive in the long run.
 

@@ -124,7 +124,7 @@ Kingside development first is White's mantra and note that the great Scandinavia
 
 **3...e5 4.Nc3**
 
-Only now does White attack the queen so, since she must stay in touch with the pawn on e5. Retreating to d6 allows White to seize the initiative with 5.d4, so Black usually goes to a5 or e6.<addx start="5.d4"/>
+Only now does White attack the queen so, since she must stay in touch with the pawn on e5. Retreating to d6 allows White to seize the initiative with 5.d4, so Black usually goes to a5 or e6.<addz start="5.d4"/>
 
 **4...Qe6**
 
@@ -338,7 +338,7 @@ Removing d6 from the black queen's options.
 
 **6...Nf5 7.Nc3**
 
-Now we get to see one reason for not hurrying with castling: if Black retreats to d8 there's no reason White can't go 8.Qd2 and O-O-O.<addx start="8.Qd2"/>
+Now we get to see one reason for not hurrying with castling: if Black retreats to d8 there's no reason White can't go 8.Qd2 and O-O-O.<addz start="8.Qd2"/>
 
 **7...Qa5**
 
@@ -1700,7 +1700,7 @@ Forcing Black to either weaken the light squares or move his queen yet again. Me
 
 **9...Qc8 10.Nc3 O-O 11.Rd1**
 
-White hints at a timely d5 advance and keeps his queen's bishop's options open. With Black a little passive it may also be possible to hunt down the bishop-pair with g4 and Nh4: 11...Nbd7 12.g4!? A more ambitious approach than the still rather pleasant for White 12.Be3 of Kaidanov-Dzindzichashvili, U.S. Championship, Parsippany 1996. 12...Bg6 13.Nh4 This route now that the black knight covers e5. As Black's bishop cannot escape to e4 (14.g5!), White enjoys a pleasant edge, with Nxg6 followed by Bf4 and Bf3 on the way and he will most probably meet any slightly desperate ...c5 break with d5.11...c6 12.g4 Bg6 13.Ne5! would be similar and here Black should not tarry or White will force further concessions with h4.11...h6 makes a bolt-hole for the bishop, but at the cost of a tempo and 12.Bf4 leaves White with ideas of Nb5 and d5 to seize the initiative: 12...c6 13.d5! exd5 14.cxd5 is just very awkward for Black as 14...cxd5 15.Nxd5 Nxd5 16.Rxd5 Bg6 17.Ne5 leaves White with a near-decisive initiative, with Rc1 and/or Bg4 on their way to cause a major headache for the black queen.<level start="12.Be3"/><addx start="14.g5"/>
+White hints at a timely d5 advance and keeps his queen's bishop's options open. With Black a little passive it may also be possible to hunt down the bishop-pair with g4 and Nh4: 11...Nbd7 12.g4!? A more ambitious approach than the still rather pleasant for White 12.Be3 of Kaidanov-Dzindzichashvili, U.S. Championship, Parsippany 1996. 12...Bg6 13.Nh4 This route now that the black knight covers e5. As Black's bishop cannot escape to e4 (14.g5!), White enjoys a pleasant edge, with Nxg6 followed by Bf4 and Bf3 on the way and he will most probably meet any slightly desperate ...c5 break with d5.11...c6 12.g4 Bg6 13.Ne5! would be similar and here Black should not tarry or White will force further concessions with h4.11...h6 makes a bolt-hole for the bishop, but at the cost of a tempo and 12.Bf4 leaves White with ideas of Nb5 and d5 to seize the initiative: 12...c6 13.d5! exd5 14.cxd5 is just very awkward for Black as 14...cxd5 15.Nxd5 Nxd5 16.Rxd5 Bg6 17.Ne5 leaves White with a near-decisive initiative, with Rc1 and/or Bg4 on their way to cause a major headache for the black queen.<level start="12.Be3"/><addz start="14.g5"/>
 
 ### (338) Scandinavian E2: 2...Qxd5 3.Nf - E2: 2...Qxd5 3.Nf3 Nf6 #11 
 

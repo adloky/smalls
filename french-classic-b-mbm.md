@@ -1,6 +1,6 @@
 ### (1)About this Publication   --   ? ? ????   \* (Cyrus Lakdawala)
 
-**1.--**<fen value="rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 1"/><fenend/>
+**1.--**<fen value="rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 1"/><fend/>
 
 This series provides an ideal platform to study chess openings. By continually challenging the reader to answer probing questions throughout the book, the Move by Move format greatly encourages the learning and practising of vital skills just as much as the traditional assimilation of opening knowledge. Carefully selected questions and answers are designed to keep you actively involved and allow you to monitor your progress as you learn. This is an excellent way to study any chess opening and at the same time improve your general chess skills and knowledge.
 
@@ -62,7 +62,7 @@ We reach a position more closely associated with the f4 lines of Tarrasch, rathe
 
 ### (7)The 8...Qb6 Poisoned Pawn Line   --   ? ? ????   \* (Cyrus Lakdawala)
 
-**8.--**<fen value="r1b1kb1r/pp1n1ppp/1qn1p3/3pP3/3N1P2/2N1B3/PPP3PP/R2QKB1R w KQkq - 0 8"/><fenend/>
+**8.--**<fen value="r1b1kb1r/pp1n1ppp/1qn1p3/3pP3/3N1P2/2N1B3/PPP3PP/R2QKB1R w KQkq - 0 8"/><fend/>
 
 "If I Swallow Anything Evil, Put Your Finger Down My Throat..."
 
@@ -84,7 +84,7 @@ The game revolves around White's ability to control the e5-square.
 
 In the Burn variation 6...gxf6
 
-, we grab the bishop pair and agree to a disruption of our pawn centre. We concentrate on Morozevich's specialty of the ...a6 and ...b5 plan, with rich, unbalanced play.<fenend/>
+, we grab the bishop pair and agree to a disruption of our pawn centre. We concentrate on Morozevich's specialty of the ...a6 and ...b5 plan, with rich, unbalanced play.<fend/>
 
 ### (10)The McCutcheon   --   ? ? ????   \* (Cyrus Lakdawala)
 
@@ -352,7 +352,7 @@ Our plans:
 
 2. After we achieve step one, we load up major pieces down the open c-file, tying White down to defence of c2. We often do this in conjunction with ...a4 and ...b3, or ...a4 and ...a3, which weakens c3 and the dark squares around White's king.
 
-3. We must develop a feel for when to play the counter...f6, since playing ...f6 keeps our king safer and generates play down the f-file, and when to hold back on the move as it also weakens e6 and e5.<fenend/>
+3. We must develop a feel for when to play the counter...f6, since playing ...f6 keeps our king safer and generates play down the f-file, and when to hold back on the move as it also weakens e6 and e5.<fend/>
 
 ### (14)Najer, E.   --   Rychagov, A. 1: Russian Championships, Krasnoyarsk  2007   0-1   C11 (Cyrus Lakdawala)
 
@@ -1936,7 +1936,7 @@ ANSWER: Black's developmental lead continues to give him full compensation in ev
 
 **17...Bg4**
 
-Threat: 18...Nxe5!.<addx start="18...Nxe5"/>
+Threat: 18...Nxe5!.<addz start="18...Nxe5"/>
 
 **18.O-O Bc5+ 19.Be3 Bxe3+ 20.Nxe3 Qb6**
 
@@ -2359,7 +2359,7 @@ ANSWER: Black's developmental lead continues to give him full compensation in ev
 
 **17...Bg4**
 
-Threat: 18...Nxe5!.<addx start="18...Nxe5"/>
+Threat: 18...Nxe5!.<addz start="18...Nxe5"/>
 
 **18.O-O Bc5+ 19.Be3 Bxe3+ 20.Nxe3 Qb6**
 
@@ -3381,7 +3381,7 @@ SUMMARY: This is the line I intend to play as Black. I like the idea of holding 
 
 When I was five years old, it always enraged me if one of my misguided kindergarten colleagues made the outrageously unscientific claim that Santa Claus was a giant hoax perpetrated by the adults of the world. Well, in this line, we must once again believe in Santa, whom I assure you, is very real and ready to bring us gifts, like White's b2-pawn. I normally stroke my moustache craftily, like an old school villain, as I play 8...Qb6!?
 
-, which I admit is a bit odd, since I don't have a moustache. This is a line which will infuriate most of our opponents, yet to my mind is perfectly sound for Black, despite outrageous appearances. We must always keep in mind that positions like this may be beyond our powers of computation - but not when we are still within book and remain under the protection of our big brothers' comps. If you do your homework, I assure you, Black is okay in the Poisoned Pawn Line which to my knowledge, has never been covered in detail in any previous French Defence book. That in itself is an added bonus, because your opponents will likely be bumped from their book knowledge very quickly in this line, while ours extends to around move 20 (but only if we do our homework!).<fenend/>
+, which I admit is a bit odd, since I don't have a moustache. This is a line which will infuriate most of our opponents, yet to my mind is perfectly sound for Black, despite outrageous appearances. We must always keep in mind that positions like this may be beyond our powers of computation - but not when we are still within book and remain under the protection of our big brothers' comps. If you do your homework, I assure you, Black is okay in the Poisoned Pawn Line which to my knowledge, has never been covered in detail in any previous French Defence book. That in itself is an added bonus, because your opponents will likely be bumped from their book knowledge very quickly in this line, while ours extends to around move 20 (but only if we do our homework!).<fend/>
 
 ### (32)Georgiev, K.   --   Ehlvest, J. 15: Reggio Emilia, Italy  1989   0-1   C11 (Cyrus Lakdawala)
 
@@ -4829,7 +4829,7 @@ What was once a forgotten discard is now back in fashion. In the Steinitz Old Sc
 
 2. Conversely, if Black manages to take control and play ...e5, our centre rolls forward and we stand better in most cases.
 
-As human beings, we can't help but project our contaminated feelings of "attractive" and "unattractive" on every position we analyse. In this case, perhaps your French Defence-loving writer may be sneaking in a little of his subjective bias. However, from my experience, I find that Bob Dylan's prediction of "The first one now, will later be last" tends to be a reality in this line. White almost always erects the initial blockade and yet if we remain patient, at some point we eventually wrest control over the e5-square and our centre will commence to roll forward.<fenend/>
+As human beings, we can't help but project our contaminated feelings of "attractive" and "unattractive" on every position we analyse. In this case, perhaps your French Defence-loving writer may be sneaking in a little of his subjective bias. However, from my experience, I find that Bob Dylan's prediction of "The first one now, will later be last" tends to be a reality in this line. White almost always erects the initial blockade and yet if we remain patient, at some point we eventually wrest control over the e5-square and our centre will commence to roll forward.<fend/>
 
 ### (41)Alvarez Pedraza, A.   --   Moskalenko, V. 23: Spanish League, Barcelona  2011   0-1   C11 (Cyrus Lakdawala)
 
@@ -5307,7 +5307,7 @@ Adding to the control of the e5-square.
 
 Alternatively, White can tuck the king in with 14.Kb1 Bb4
 
-( of course not 14...e5?? when 15.Nxd5 pilfers a pawn since the knight can't be taken due to 16.Bh7+ or 16.Bc4 )<addx start="16.Bh7"/>
+( of course not 14...e5?? when 15.Nxd5 pilfers a pawn since the knight can't be taken due to 16.Bh7+ or 16.Bc4 )<addz start="16.Bh7"/>
 
 15.Rhe1 Bxc3 16.bxc3 e5 , P.Wongwichit-R.Song, Mount Buller 2005. At this stage, White should go for 17.c4 e4 18.cxd5 exd3 19.Qxd3 Nb4 20.Qd4 a5 21.a3 Na6 22.Re7 Qg6 23.d6 Nac5 24.Ne5 Nxe5 25.Qxc5 Nd7 26.Qc4+ Kh8 27.Rd3! and White adds another attacker into the fray with full compensation for the piece. After 27...Rg8 28.Rg3 Qxd6 29.Qxg8+! Kxg8 30.Rgxg7+ , perpetual check exacts a truce.
 
@@ -6597,7 +6597,7 @@ McDonald didn't like this move and preferred 21...Rb8 to hang on to his only tru
 
 ( Black gets tangled up after 23...Rhe8? 24.Nd6+ Kg8 25.Nxe8 Rxe8 26.Rb7 Qxc3 27.Kg2 Rf8 28.Re2 )
 
-24.Rb1 Rb6 25.Rc7 (threatening 26.Rxb2! followed by Rxc6, with a vicious attack) 25...Bd8! 26.Rd7 (with the threat of Rd6) 26...Be7 27.Rc7 Bd8 with a draw by repetition.<addx start="26.Rxb2"/>
+24.Rb1 Rb6 25.Rc7 (threatening 26.Rxb2! followed by Rxc6, with a vicious attack) 25...Bd8! 26.Rd7 (with the threat of Rd6) 26...Be7 27.Rc7 Bd8 with a draw by repetition.<addz start="26.Rxb2"/>
 
 **22.Rb1 Rd2**
 
@@ -11166,7 +11166,7 @@ In this chapter, White's sense of practicality outruns desire. When an opponent 
 
 We also look at oddball/surprise attempts by White to dodge sharp theoretical lines.
 
-In most of these cases, White may be fooling himself or herself, believing a contaminated thing to be pure. Rest assured that White is lucky to equalize in most of the theoretical dodges.<fenend/>
+In most of these cases, White may be fooling himself or herself, believing a contaminated thing to be pure. Rest assured that White is lucky to equalize in most of the theoretical dodges.<fend/>
 
 ### (75)Kovalevskaya, E.   --   Volkov, S. 53: Russian League, Togliatti  2003   0-1   C12 (Cyrus Lakdawala)
 
@@ -11990,7 +11990,7 @@ He should play 42.h3 .
 
 **42...Ne7!**
 
-Halting f5 and threatening 43...Nxd5 44 cxd5 Qd3!.<addx start="43...Nxd5"/>
+Halting f5 and threatening 43...Nxd5 44 cxd5 Qd3!.<addz start="43...Nxd5"/>
 
 **43.Ba8 Nf5 44.h3**
 

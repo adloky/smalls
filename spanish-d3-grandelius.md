@@ -8338,7 +8338,7 @@ Setting up our nice centre.
 
 **10...Ng6 11.Bc2**
 
-11.Nbd2 intending 12.Bc2 will be the same.<addx start="12.Bc2"/>
+11.Nbd2 intending 12.Bc2 will be the same.<addz start="12.Bc2"/>
 
 **11...Re8 12.Nbd2**
 

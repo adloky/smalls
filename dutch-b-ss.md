@@ -1,4 +1,4 @@
-﻿<config color="-1"/>
+<config color="-1"/>
 
 <font size="5">**Голландская защита: коротко и ясно**</font>
 
@@ -246,7 +246,7 @@ This may be the best move. The Rook gives extra protection to the e5-pawn from e
 
 **17.Ne1 a4 18.Bxc6 bxc6**
 
-Black is planning to play 19...Rb8 on his next move and increase the pressure against b3.<addx start="19...Rb8"/>
+Black is planning to play 19...Rb8 on his next move and increase the pressure against b3.<addz start="19...Rb8"/>
 
 **19.Nd3 e4! 20.Bxf6 exd3=**
 

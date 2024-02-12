@@ -130,7 +130,7 @@ This energetic jump by our knight is a prime example. Since White has not develo
 
 Note that this line should not be confused with the 9.Nc3 O-O 10.a3 variation, in which I recommend going 10...a5.
 
-In the current position, 9...a5 would be dubious after 10.Bg5 O-O 11.Qc2!, followed by 12.Rad1.<addx start="12.Rad1"/>
+In the current position, 9...a5 would be dubious after 10.Bg5 O-O 11.Qc2!, followed by 12.Rad1.<addz start="12.Rad1"/>
 
 **10.b4**
 
@@ -464,7 +464,7 @@ Developing the light-squared bishop and creating the idea of ...Nd5. It is uncle
 
 One of the great benefits of playing the Tarrasch is that virtually any other move than 2.c4 can be met by 2...c5. Especially after 2.Nf3, this is a great shortcut, avoiding loads of sidelines.
 
-For example, many London players may wish to play 2.Nf3 and then 3.Bf4, but now they no longer have such an option.<addx start="3.Bf4"/>
+For example, many London players may wish to play 2.Nf3 and then 3.Bf4, but now they no longer have such an option.<addz start="3.Bf4"/>
 
 Objectively, White's best move is 3.c4, but after 3...e6 we transpose back to the main body of the course. I recently was able to use this in my own practice when facing GM Tabatabaei from Iran in the 2022 Olympiad.
 
