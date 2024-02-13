@@ -1,4 +1,8 @@
-### (1)About this Publication   --   ? ? ????   \* (Cyrus Lakdawala)
+<config color="-1" translate="d:/french-classic-b-mbm.txt">
+
+<content/>
+
+### (1)About this Publication -- ? ? ???? \* (Cyrus Lakdawala)
 
 **1.--**<fen value="rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 1"/><fend/>
 
@@ -8,7 +12,7 @@ In this book, International Master Cyrus Lakdawala invites you to join him in st
 
 Cyrus Lakdawala is an International Master, a former National Open and American Open Champion, and a six-time State Champion. He has been teaching chess for over 30 years, and coaches some of the top junior players in the U.S.
 
-### (2)Foreword   --   ? ? ????   \* (John Emms)
+### (2)Foreword -- ? ? ???? \* (John Emms)
 
 Move by Move is a series of opening books which uses a question-and-answer format. One of our main aims of the series is to replicate - as much as possible - lessons between chess teachers and students.
 
@@ -18,11 +22,11 @@ Many thanks go to all those who have been kind enough to offer inspiration, advi
 
 John Emms, Everyman Chess
 
-### (3)Introduction   --   ? ? ????   \* (Cyrus Lakdawala)
+### (3)Introduction -- ? ? ???? \* (Cyrus Lakdawala)
 
 The French Classical is acquired after Black applies extra pressure to the white centre with 3...Nf6 after 1.e4 e6 2.d4 d5 3.Nc3 Nf6<skip start="3...Nf6"/>
 
-### (4)Why Play the French?   --   ? ? ????   \* (Cyrus Lakdawala)
+### (4)Why Play the French? -- ? ? ???? \* (Cyrus Lakdawala)
 
 If the human race is the by-product of Darwinian selection, where only the fittest of the species survive, then why is it that on the chess board - a Darwinian dystopia if there ever was one, defensive players win just as often or more than belligerent attackers? My theory is that defensive players - and we French players perfectly fit this category, are better suited to survive than our aggressively inclined counterparts, who have a nasty way of gambling away their lives by chasing some folly. Children want a 100% share and tend to pick fights with other children over trivial matters. As adults, having grown wiser (and perhaps also more devious!), we learn to pick our fights. Sometimes our self-interest lies in the surrender of a minor skirmish, in order to later win the war. The Classical French embraces this philosophy. From the start, we cede White space and by default, attacking chances, all in order to counterattack later.
 
@@ -44,7 +48,7 @@ The staggering enormity and scope of the lines we must master is intimidating. I
 
 Let's take a look at our Classical French battlegrounds (see the following games).
 
-### (5)Main line Classical   --   ? ? ????   \* (Cyrus Lakdawala)
+### (5)Main line Classical -- ? ? ???? \* (Cyrus Lakdawala)
 
 FEN: r1bqk2r/pp1n1ppp/2n1p3/2bpP3/3N1P2/2N1B3/PPP3PP/R2QKB1R w KQkq - 0 1
 
@@ -52,7 +56,7 @@ The Classical Main line is a variation imbibed with the baffling suspense of a g
 
 I like Black's chances, with our open c-file, the possibility of attacking with ...a6 and later ...b5, and also the fact that we can meet White's coming attack with a timely ...f6 or ...f5 counter.
 
-### (6)The Shirov-Anand Line   --   ? ? ????   \* (Cyrus Lakdawala)
+### (6)The Shirov-Anand Line -- ? ? ???? \* (Cyrus Lakdawala)
 
 FEN: r1bqkb1r/pp1n1ppp/2n1p3/2ppP3/3P1P2/2P5/PP2N1PP/R1BQKBNR w KQkq - 0 1
 
@@ -60,7 +64,7 @@ Chapter Two has the disorienting quality of being lost in an unfamiliar city.
 
 We reach a position more closely associated with the f4 lines of Tarrasch, rather than Classical.
 
-### (7)The 8...Qb6 Poisoned Pawn Line   --   ? ? ????   \* (Cyrus Lakdawala)
+### (7)The 8...Qb6 Poisoned Pawn Line -- ? ? ???? \* (Cyrus Lakdawala)
 
 **8.--**<fen value="r1b1kb1r/pp1n1ppp/1qn1p3/3pP3/3N1P2/2N1B3/PPP3PP/R2QKB1R w KQkq - 0 8"/><fend/>
 
@@ -70,7 +74,7 @@ In chaotic positions, it sometimes appears to us as if the correlation of cause 
 
 Ambition has its costs and in the Poisoned Pawn Line, we are willing to pay the price. However, lately in high-level games, top-ten-ranked GMs are experiencing a devil of a time proving even an edge for White. So what first began in the 1980s as a sleazy side line, designed to waylay unsuspecting victims, may now have gone legit, championed by no less than the likes of GM Hikaru Nakamura, who uses it as a drawing weapon! A bearer of stunning news loves to evoke shock and terror in his or her audience, so brace yourself when I declare to you: Black's pawn grab is sound (at least at the time of this writing). Black's queen is the secretly genius jester in a court of unaware fools. She continues to play dumb, all the while, laughing inwardly, as she sneaks away with a pawn.
 
-### (8)The Russian Roulette line   --   ? ? ????   \* (Cyrus Lakdawala)
+### (8)The Russian Roulette line -- ? ? ???? \* (Cyrus Lakdawala)
 
 **1.--**<fen value="r1bqkb1r/pp1n1ppp/2n1p3/2PpP3/5B2/2N2N2/PPP2PPP/R2QKB1R w KQkq - 0 1"/>
 
@@ -78,7 +82,7 @@ White's once dominant centre is slowly chipped away from the flanks, with ...c5 
 
 The game revolves around White's ability to control the e5-square.
 
-### (9)Burn variation 6...gxf6   --   ? ? ????   \* (Cyrus Lakdawala)
+### (9)Burn variation 6...gxf6 -- ? ? ???? \* (Cyrus Lakdawala)
 
 **6.--**<fen value="rnbqk2r/ppp1bppp/4pB2/8/3PN3/8/PPP2PPP/R2QKBNR w KQkq - 0 6"/>
 
@@ -86,7 +90,7 @@ In the Burn variation 6...gxf6
 
 , we grab the bishop pair and agree to a disruption of our pawn centre. We concentrate on Morozevich's specialty of the ...a6 and ...b5 plan, with rich, unbalanced play.<fend/>
 
-### (10)The McCutcheon   --   ? ? ????   \* (Cyrus Lakdawala)
+### (10)The McCutcheon -- ? ? ???? \* (Cyrus Lakdawala)
 
 Our next three positions represent some of our most difficult strategic challenges in the book. These are positions conducive to experimentation and we simply go where the road takes us! 1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6:
 
@@ -96,7 +100,7 @@ Our next three positions represent some of our most difficult strategic challeng
 
 6.Bc1 Ne4 7.Qg4 .
 
-### (11)The History of the French   --   ? ? ????   \* (Cyrus Lakdawala)
+### (11)The History of the French -- ? ? ???? \* (Cyrus Lakdawala)
 
 Our opening took its birth in 1834, in a correspondence match between London and Paris, when the French player, Chamouillet, influenced his teammates to respond to
 
@@ -108,7 +112,7 @@ with the introverted and baffling
 
 According to my database, the French today is Black's third most popular response to 1 e4, behind the Sicilian and 1...e5. Here is a startlingly modern-looking early encounter (see the following game).
 
-### (12)Schallopp, E.   --   Paulsen, L. Leipzig  1877   0-1   C11 (Cyrus Lakdawala)
+### (12)Schallopp, E. -- Paulsen, L. Leipzig 1877 0-1 C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6**
 
@@ -324,7 +328,7 @@ Cyrus Lakdawala, San Diego, September 2014
 
 0-1
 
-### (13)1: Classical Steinitz   --   Main Line ? ????   \* (Cyrus Lakdawala)
+### (13)1: Classical Steinitz -- Main Line ? ???? \* (Cyrus Lakdawala)
 
 **8...--**<fen value="r1bqk2r/pp1n1ppp/2n1p3/2bpP3/3N1P2/2N1B3/PPP3PP/R2QKB1R b KQkq - 0 8"/>
 
@@ -354,7 +358,7 @@ Our plans:
 
 3. We must develop a feel for when to play the counter...f6, since playing ...f6 keeps our king safer and generates play down the f-file, and when to hold back on the move as it also weakens e6 and e5.<fend/>
 
-### (14)Najer, E.   --   Rychagov, A. 1: Russian Championships, Krasnoyarsk  2007   0-1   C11 (Cyrus Lakdawala)
+### (14)Najer, E. -- Rychagov, A. 1: Russian Championships, Krasnoyarsk 2007 0-1 C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6**
 
@@ -692,7 +696,7 @@ SUMMARY: Prepare for a sharp, opposite wings castling position in this chapter!
 
 0-1
 
-### (15)Polgar, J.   --   Shirov, A. 2: EuroTel Trophy, Prague  1999   0-1   C11 (Cyrus Lakdawala)
+### (15)Polgar, J. -- Shirov, A. 2: EuroTel Trophy, Prague 1999 0-1 C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Bc5 9.Qd2 O-O 10.O-O-O a6 11.h4 Nxd4 12.Bxd4 b5 13.Rh3 b4**
 
@@ -824,7 +828,7 @@ SUMMARY: This game raises a side question: Where did White go wrong? Where was W
 
 0-1
 
-### (16)Topalov, V.   --   Morozevich, A. 3: Sarajevo  1999   0-1   C11 (Cyrus Lakdawala)
+### (16)Topalov, V. -- Morozevich, A. 3: Sarajevo 1999 0-1 C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Bc5 9.Qd2 O-O 10.O-O-O a6 11.h4 Nxd4 12.Bxd4 b5 13.h5**
 
@@ -986,7 +990,7 @@ SUMMARY: After 13 h5, we proceed pretty much as we did in the first game, with o
 
 0-1
 
-### (17)Karjakin, S.   --   Andreikin, D. 4: FIDE World Cup, Tromso  2013   0-1   C11 (Cyrus Lakdawala)
+### (17)Karjakin, S. -- Andreikin, D. 4: FIDE World Cup, Tromso 2013 0-1 C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Bc5 9.Qd2 O-O 10.O-O-O a6 11.Qf2**
 
@@ -1210,7 +1214,7 @@ SUMMARY: Let's be ready for 11.Qf2, when White may directly go after our king, p
 
 0-1
 
-### (18)Ragger, M.   --   Stellwagen, D. 5: World Junior Ch (U20), Yerevan  2007   0-1   C11 (Cyrus Lakdawala)
+### (18)Ragger, M. -- Stellwagen, D. 5: World Junior Ch (U20), Yerevan 2007 0-1 C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Bc5 9.Qd2 O-O 10.O-O-O a6 11.Qf2 Bxd4 12.Bxd4 b5 13.Be3 b4**
 
@@ -1338,7 +1342,7 @@ SUMMARY: One of the most difficult decisions for a French player is when to play
 
 0-1
 
-### (19)Dikmen, AS.   --   Gouw, CG. 6: Correspondence  2005   0-1   C11 (Cyrus Lakdawala)
+### (19)Dikmen, AS. -- Gouw, CG. 6: Correspondence 2005 0-1 C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Bc5 9.Qd2 O-O 10.O-O-O a6 11.Qf2 Bxd4 12.Bxd4 b5 13.Be3 b4 14.Na4 a5 15.h4 Ba6 16.Bxa6**
 
@@ -1496,7 +1500,7 @@ SUMMARY: If you induce White into locking up the kingside, you have excellent ch
 
 0-1
 
-### (20)Anand, V.   --   Morozevich, A. 7: FIDE World Championships, San Luis  2005   1/2-1/2   C11 (Cyrus Lakdawala)
+### (20)Anand, V. -- Morozevich, A. 7: FIDE World Championships, San Luis 2005 1/2-1/2 C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Bc5 9.Qd2 O-O 10.O-O-O a6 11.Nb3**
 
@@ -1622,7 +1626,7 @@ SUMMARY: 11.Nb3 is based upon the following two points:
 
 1/2-1/2
 
-### (21)Kuipers, S.   --   Vallejo Pons, F. 8: German League  2012   0-1   C11 (Cyrus Lakdawala)
+### (21)Kuipers, S. -- Vallejo Pons, F. 8: German League 2012 0-1 C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 a6 8.Qd2 cxd4 9.Nxd4 Bc5 10.O-O-O O-O 11.Kb1**
 
@@ -1806,7 +1810,7 @@ SUMMARY: 11 Kb1 is a temporizing move where White makes a useful defensive move 
 
 0-1
 
-### (22)2: The Shirov-Anand Line   --   ? ? ????   \* (Cyrus Lakdawala)
+### (22)2: The Shirov-Anand Line -- ? ? ???? \* (Cyrus Lakdawala)
 
 FEN: r1bqkb1r/pp1n1ppp/2n1p3/2ppP3/3P1P2/2P5/PP2N1PP/R1BQKBNR w KQkq - 0 1
 
@@ -1814,7 +1818,7 @@ The Shirov-Anand Line is perhaps White's most ambitious line in the Classical Fr
 
 Our problem is, ...cxd4 is met with cxd4, and ...f6 and ...fxe5 is met with fxe5, which fails to mutilate White's centre and we remain cramped. We must throw off the banner of caution, avoid our standoffish ways and employ our developmental lead to shake things up. This often culminates in a piece sac on e5, or an exchange sac on f3, as seen in the book's introductory game, cunningly masquerading as a desperado.
 
-### (23)Lupulescu, C.   --   Smerdon, D. 9: Chess Olympiad, Calvia  2004   0-1   C11 (Cyrus Lakdawala)
+### (23)Lupulescu, C. -- Smerdon, D. 9: Chess Olympiad, Calvia 2004 0-1 C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3**
 
@@ -2082,7 +2086,7 @@ SUMMARY: In the Shirov-Anand Line, we enter a classic battle between structure a
 
 0-1
 
-### (24)Baramidze, D.   --   Bartel, M. 10: German League  2012   0-1   C11 (Cyrus Lakdawala)
+### (24)Baramidze, D. -- Bartel, M. 10: German League 2012 0-1 C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4**
 
@@ -2250,7 +2254,7 @@ SUMMARY: Bartel's adoption of Bareev's 16...h6! dampens White's kingside ambitio
 
 0-1
 
-### (25)Lupulescu, C.   --   Smerdon, D. 9: Chess Olympiad, Calvia  2004   0-1   C11 (Cyrus Lakdawala)
+### (25)Lupulescu, C. -- Smerdon, D. 9: Chess Olympiad, Calvia 2004 0-1 C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3**
 
@@ -2499,7 +2503,7 @@ SUMMARY: In the Shirov-Anand Line, we enter a classic battle between structure a
 
 0-1
 
-### (26)Baramidze, D.   --   Bartel, M. 10: German League  2012   0-1   C11 (Cyrus Lakdawala)
+### (26)Baramidze, D. -- Bartel, M. 10: German League 2012 0-1 C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4**
 
@@ -2657,7 +2661,7 @@ White must have hoped for the blundering 31...Qxf5+?? 32.Ke1 Nf8 33.Qh8+ Kf7 34.
 
 0-1
 
-### (27)Anand, V.   --   Shirov, A. 11: FIDE World Ch Final, Tehran  2000   1-0   C11 (Cyrus Lakdawala)
+### (27)Anand, V. -- Shirov, A. 11: FIDE World Ch Final, Tehran 2000 1-0 C11 (Cyrus Lakdawala)
 
 We now come to the players who propelled this line into prominence by contesting it at the top level. 1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Nce2 c5 6.f4 Nc6 7.c3 Qb6 8.Nf3 f6
 
@@ -2849,7 +2853,7 @@ SUMMARY: Shirov's piece sac, initiated with 13...a4!? looks sound. Still, I pref
 
 1-0
 
-### (28)Lalic, B.   --   Speelman, J. 12: Hastings Premier, England  2000   0-1   C11 (Cyrus Lakdawala)
+### (28)Lalic, B. -- Speelman, J. 12: Hastings Premier, England 2000 0-1 C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Nce2 c5 6.c3 Nc6 7.f4 Qb6 8.Nf3 Be7**
 
@@ -2999,7 +3003,7 @@ SUMMARY: When White enters 9 g3, you may consider 9...a5, avoiding 9...f6 (which
 
 0-1
 
-### (29)Arakhamia, K.   --   Volkov, S. 13: Monarch Assurance Open, Port Erin  2000   0-1   C11 (Cyrus Lakdawala)
+### (29)Arakhamia, K. -- Volkov, S. 13: Monarch Assurance Open, Port Erin 2000 0-1 C11 (Cyrus Lakdawala)
 
 **1.e4 e6**
 
@@ -3193,7 +3197,7 @@ SUMMARY: Volkov's 8...a5!? plan involves queenside aggression, mingled with king
 
 0-1
 
-### (30)Macieja, B.   --   Ivanchuk, V. 14: FIDE World Championship, Moscow  2001   0-1   C11 (Cyrus Lakdawala)
+### (30)Macieja, B. -- Ivanchuk, V. 14: FIDE World Championship, Moscow 2001 0-1 C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Nce2 c5 6.f4 Nc6 7.c3 Be7**
 
@@ -3375,7 +3379,7 @@ SUMMARY: This is the line I intend to play as Black. I like the idea of holding 
 
 0-1
 
-### (31)3: Poisoned Pawn Line   --   ? ? ????   \* (Cyrus Lakdawala)
+### (31)3: Poisoned Pawn Line -- ? ? ???? \* (Cyrus Lakdawala)
 
 **8.--**<fen value="r1bqkb1r/pp1n1ppp/2n1p3/3pP3/3N1P2/2N1B3/PPP3PP/R2QKB1R w KQkq - 0 8"/>
 
@@ -3383,7 +3387,7 @@ When I was five years old, it always enraged me if one of my misguided kindergar
 
 , which I admit is a bit odd, since I don't have a moustache. This is a line which will infuriate most of our opponents, yet to my mind is perfectly sound for Black, despite outrageous appearances. We must always keep in mind that positions like this may be beyond our powers of computation - but not when we are still within book and remain under the protection of our big brothers' comps. If you do your homework, I assure you, Black is okay in the Poisoned Pawn Line which to my knowledge, has never been covered in detail in any previous French Defence book. That in itself is an added bonus, because your opponents will likely be bumped from their book knowledge very quickly in this line, while ours extends to around move 20 (but only if we do our homework!).<fend/>
 
-### (32)Georgiev, K.   --   Ehlvest, J. 15: Reggio Emilia, Italy  1989   0-1   C11 (Cyrus Lakdawala)
+### (32)Georgiev, K. -- Ehlvest, J. 15: Reggio Emilia, Italy 1989 0-1 C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Qb6**
 
@@ -3631,7 +3635,7 @@ SUMMARY: The old main line 12...Bb4 still looks quite playable for Black.
 
 0-1
 
-### (33)Georgiev, K.   --   Dolmatov, S. 16: GMA Qualifier, Moscow  1990   1/2-1/2   C11 (Cyrus Lakdawala)
+### (33)Georgiev, K. -- Dolmatov, S. 16: GMA Qualifier, Moscow 1990 1/2-1/2 C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Qb6 9.Qd2 Qxb2 10.Rb1 Qa3 11.Bb5 Nxd4 12.Bxd4 Bb4 13.O-O a6 14.Rb3 Qa5 15.Rfb1**
 
@@ -3767,7 +3771,7 @@ SUMMARY: Houdini's untried 17...0-0!? may be an improvement over 17...h6.
 
 1/2-1/2
 
-### (34)Leko, P.   --   Nakamura, H. 17: Renova Group Grand Prix, Zug  2013   1/2-1/2   C11 (Cyrus Lakdawala)
+### (34)Leko, P. -- Nakamura, H. 17: Renova Group Grand Prix, Zug 2013 1/2-1/2 C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Qb6**
 
@@ -3983,7 +3987,7 @@ SUMMARY: Out with the old and in with the new. I believe 12...a6! represents an 
 
 1/2-1/2
 
-### (35)Topalov, V.   --   Nakamura, H. 18: Amber (rapid), Monaco  2011   1-0   C11 (Cyrus Lakdawala)
+### (35)Topalov, V. -- Nakamura, H. 18: Amber (rapid), Monaco 2011 1-0 C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Qb6 9.Qd2 Qxb2 10.Rb1 Qa3 11.Bb5 Nxd4 12.Bxd4 a6 13.Rb3!?**
 
@@ -4145,7 +4149,7 @@ SUMMARY: Topalov's 13.Rb3 and 14.Ba4 idea is at the time of this writing, our gr
 
 1-0
 
-### (36)Popilsky, G.   --   Ikonnikov, V. 19: Dieren  2012   0-1   C11 (Cyrus Lakdawala)
+### (36)Popilsky, G. -- Ikonnikov, V. 19: Dieren 2012 0-1 C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Qb6 9.Qd2 Qxb2**
 
@@ -4343,7 +4347,7 @@ SUMMARY: Play 14...Qd8 only if you are okay with a quick draw.
 
 0-1
 
-### (37)Kamsky, G.   --   So, W. 20: FIDE World Cup, Khanty-Mansiysk  2009   0-1   C11 (Cyrus Lakdawala)
+### (37)Kamsky, G. -- So, W. 20: FIDE World Cup, Khanty-Mansiysk 2009 0-1 C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 Qb6**
 
@@ -4573,7 +4577,7 @@ SUMMARY: The a3 line, like all the declined lines of this chapter, allows Black 
 
 0-1
 
-### (38)Mitkov, N.   --   Alvarez Ibarra, R. 21: Capablanca Memorial, Matanzas  1995   0-1   C11 (Cyrus Lakdawala)
+### (38)Mitkov, N. -- Alvarez Ibarra, R. 21: Capablanca Memorial, Matanzas 1995 0-1 C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Qb6 9.Be2**
 
@@ -4719,7 +4723,7 @@ SUMMARY: 9.Be2 leads to positions synonymous with the previous game, except that
 
 0-1
 
-### (39)Huebner, R.   --   Korchnoi, V. 22: San Francisco  1995   0-1   C11 (Cyrus Lakdawala)
+### (39)Huebner, R. -- Korchnoi, V. 22: San Francisco 1995 0-1 C11 (Cyrus Lakdawala)
 
 I thought about putting this game in Korchnoi: Move by Move (I urge the reader to immediately order this book and drink deeply of the nectar of its mental refreshment. I don't want to make untrue, crazy claims, but if you read this book, your life will change for the better and all your dreams will come true). Now I'm glad I didn't, since it fits perfectly in this one.
 
@@ -4819,7 +4823,7 @@ SUMMARY: The comps have defanged 9.Ncb5. Black can either force a draw or equali
 
 0-1
 
-### (40)4: Old School Classical Line   --   ? ? ????   \* (Cyrus Lakdawala)
+### (40)4: Old School Classical Line -- ? ? ???? \* (Cyrus Lakdawala)
 
 **1.--**<fen value="rnbqkb1r/pppn1ppp/4p3/3pP3/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 1"/>
 
@@ -4831,7 +4835,7 @@ What was once a forgotten discard is now back in fashion. In the Steinitz Old Sc
 
 As human beings, we can't help but project our contaminated feelings of "attractive" and "unattractive" on every position we analyse. In this case, perhaps your French Defence-loving writer may be sneaking in a little of his subjective bias. However, from my experience, I find that Bob Dylan's prediction of "The first one now, will later be last" tends to be a reality in this line. White almost always erects the initial blockade and yet if we remain patient, at some point we eventually wrest control over the e5-square and our centre will commence to roll forward.<fend/>
 
-### (41)Alvarez Pedraza, A.   --   Moskalenko, V. 23: Spanish League, Barcelona  2011   0-1   C11 (Cyrus Lakdawala)
+### (41)Alvarez Pedraza, A. -- Moskalenko, V. 23: Spanish League, Barcelona 2011 0-1 C11 (Cyrus Lakdawala)
 
 GM Viktor Moskalenko wrote in the Russian Roulette chapter of his book The Flexible French that this line is a dangerous and underestimated system from White's perspective. He also predicted a rise in popularity in the coming years.
 
@@ -5127,7 +5131,7 @@ SUMMARY: Currently the Russian Roulette line 10.Qe2, is gaining in popularity. B
 
 0-1
 
-### (42)Schneider, I.   --   Ulibin, M. 24: Biel  2004   0-1   C00 (Cyrus Lakdawala)
+### (42)Schneider, I. -- Ulibin, M. 24: Biel 2004 0-1 C00 (Cyrus Lakdawala)
 
 **1.e4 e6 2.Nf3 d5 3.Nc3 Nf6 4.e5 Nfd7 5.d4 c5 6.dxc5 Nc6 7.Bf4 Bxc5 8.Bd3 f6 9.exf6 Nxf6 10.O-O**
 
@@ -5235,7 +5239,7 @@ SUMMARY: You don't have to contest for the e5-square in this line. It is also po
 
 0-1
 
-### (43)Morozevich, A.   --   Bareev, E. 25: Sarajevo, Bosnia  1999   0-1   C11 (Cyrus Lakdawala)
+### (43)Morozevich, A. -- Bareev, E. 25: Sarajevo, Bosnia 1999 0-1 C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Nf3 c5 6.dxc5 Nc6 7.Bf4 Bxc5 8.Bd3 f6 9.exf6 Qxf6**
 
@@ -5515,7 +5519,7 @@ SUMMARY: I think 9...Qxf6 is actually a slightly better line for Black than the 
 
 0-1
 
-### (44)Fernandez Torre, I.   --   Gurevich, M. 26: World Chess Open, Leon  2010   0-1   C11 (Cyrus Lakdawala)
+### (44)Fernandez Torre, I. -- Gurevich, M. 26: World Chess Open, Leon 2010 0-1 C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.Nf3 d5 3.Nc3 Nf6 4.e5 Nfd7 5.d4 c5 6.dxc5 Nc6 7.Bf4 Bxc5 8.Bd3 f6 9.exf6 Qxf6 10.Bg5 Qf7 11.O-O**
 
@@ -5671,7 +5675,7 @@ SUMMARY: White seems to slowly lose the initiative with the older, more passive 
 
 0-1
 
-### (45)Druckenthaner, A.   --   Drozdovskij, Y. 27: Hastings Masters, England  2009   0-1   C11 (Cyrus Lakdawala)
+### (45)Druckenthaner, A. -- Drozdovskij, Y. 27: Hastings Masters, England 2009 0-1 C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.Nf3 d5 3.Nc3 Nf6 4.e5 Nfd7 5.d4 c5 6.dxc5 Nc6 7.Bf4 Nxc5**
 
@@ -5897,7 +5901,7 @@ SUMMARY: I tend to favour the ...Nxc5 versions over ...Bxc5 main lines. White te
 
 0-1
 
-### (46)Chan, D.   --   Ding, L. 28: Asian Nations Ch (Team), Zaozhuang  2012   0-1   C11 (Cyrus Lakdawala)
+### (46)Chan, D. -- Ding, L. 28: Asian Nations Ch (Team), Zaozhuang 2012 0-1 C11 (Cyrus Lakdawala)
 
 **1.e4 e6 2.Nf3 d5 3.Nc3 Nf6 4.e5 Nfd7 5.d4 c5 6.dxc5 Nc6 7.Bf4 Nxc5 8.Bd3 Be7 9.h4**
 
@@ -6039,7 +6043,7 @@ SUMMARY: I like 9...f5, which is sure to surprise your opponent and burden him o
 
 0-1
 
-### (47)5: Burn Variation   --   ? ? ????   \* (Cyrus Lakdawala)
+### (47)5: Burn Variation -- ? ? ???? \* (Cyrus Lakdawala)
 
 We enter the
 
@@ -6053,7 +6057,7 @@ lines of the Burn Variation. This is our major alternative to the McCutcheon whi
 
 Now you may ask: Why toss in ...a6? Now Morozevich has honed this idea into a deadly weapon. Black plans the ambitious ...b5 (rather than a conservative ...b6) with ...Bb7 to follow. Not only does this turn our traditionally bad light-squared bishop into one of the most powerful pieces on the board, it also discourages White from castling queenside since he or she then walks head-on into our pawn storm. Our line is risky but the rewards are great. A good general understands to achieve victory, he or she must sometimes place troops in harm's way to provoke the enemy. Often, White misjudges our 6...gxf6 recapture, fails the equanimity test and decides to go ballistic. Take a look at the games in this chapter and you will see, our position is not one which can be knocked over easily, and our counterattack often arrives with withering force.
 
-### (48)Humphrey, J.   --   Lakdawala, C. 29: Gambito Open (rapid), San Diego  2013   0-1   C13 (Cyrus Lakdawala)
+### (48)Humphrey, J. -- Lakdawala, C. 29: Gambito Open (rapid), San Diego 2013 0-1 C13 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6**
 
@@ -6253,7 +6257,7 @@ SUMMARY: When White swaps twice on f6 in the opening, it doesn't guarantee him o
 
 0-1
 
-### (49)Akash, G.   --   Caruana, F. 30: FIDE World Cup, Tromso  2013   0-1   C13 (Cyrus Lakdawala)
+### (49)Akash, G. -- Caruana, F. 30: FIDE World Cup, Tromso 2013 0-1 C13 (Cyrus Lakdawala)
 
 **1.e4 e6**
 
@@ -6519,7 +6523,7 @@ SUMMARY: Let's go with the bold 6...gxf6 recapture and play for the win.
 
 0-1
 
-### (50)Ivanchuk, V.   --   Volkov, S. 31: European Club Cup, Saint Vincent  2005   1-0   C13 (Cyrus Lakdawala)
+### (50)Ivanchuk, V. -- Volkov, S. 31: European Club Cup, Saint Vincent 2005 1-0 C13 (Cyrus Lakdawala)
 
 **1.e4 e6 2.Nc3 d5 3.d4 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 gxf6 7.Nf3 f5 8.Nc3 a6 9.g3 b5 10.Bg2 Bb7 11.O-O c5**
 
@@ -6697,7 +6701,7 @@ SUMMARY: This is not a variation for readers whose lives are shaped by dull rout
 
 1-0
 
-### (51)Jovanovic, Z.   --   Najer, E. 32: European Championship, Dresden  2007   1/2-1/2   C13 (Cyrus Lakdawala)
+### (51)Jovanovic, Z. -- Najer, E. 32: European Championship, Dresden 2007 1/2-1/2 C13 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 gxf6 7.Nf3 f5 8.Nc3 a6 9.Qd2**
 
@@ -6869,7 +6873,7 @@ SUMMARY: In my opinion, theory has it backwards. The 9.Qd2 line should be White'
 
 1/2-1/2
 
-### (52)Stefansson, H.   --   Morozevich, A. 33: European Club Cup (team), Reykjavik  1999   0-1   C13 (Cyrus Lakdawala)
+### (52)Stefansson, H. -- Morozevich, A. 33: European Club Cup (team), Reykjavik 1999 0-1 C13 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 gxf6 7.Nf3 a6**
 
@@ -7107,7 +7111,7 @@ SUMMARY: After 10 dxc5, I prefer Black's bishop pair, dark-square control and su
 
 0-1
 
-### (53)Sutovsky, E.   --   Morozevich, A. 34: Pamplona Open, Mallorca  1999   0-1   C13 (Cyrus Lakdawala)
+### (53)Sutovsky, E. -- Morozevich, A. 34: Pamplona Open, Mallorca 1999 0-1 C13 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 gxf6 7.Nf3 a6 8.Qd2**
 
@@ -7287,7 +7291,7 @@ SUMMARY: Even though the move is played often, White should probably avoid the d
 
 0-1
 
-### (54)Lutz, C.   --   Morozevich, A. 35: Biel  2010   0-1   C13 (Cyrus Lakdawala)
+### (54)Lutz, C. -- Morozevich, A. 35: Biel 2010 0-1 C13 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 gxf6 7.Nf3 a6 8.c4**
 
@@ -7455,7 +7459,7 @@ SUMMARY: After 8 c4, we reach ultra-sharp Sicilian Pelikan-like positions with o
 
 0-1
 
-### (55)Polgar, J.   --   Morozevich, A. 36: Corus Tournament, Wijk aan Zee  2000   0-1   C13 (Cyrus Lakdawala)
+### (55)Polgar, J. -- Morozevich, A. 36: Corus Tournament, Wijk aan Zee 2000 0-1 C13 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 gxf6 7.Nf3 a6 8.g3**
 
@@ -7629,7 +7633,7 @@ SUMMARY: The strategic 8.g3 (in conjunction with Kasparov's more accurate 12.Rfd
 
 0-1
 
-### (56)6: McCutcheon Main Line   --   ? ? ????   \* (Cyrus Lakdawala)
+### (56)6: McCutcheon Main Line -- ? ? ???? \* (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Bxc3**
 
@@ -7647,7 +7651,7 @@ In this chapter, we choose to enter one of the most complicated lines of the boo
 
 In both positions, White's attackers and our counterpunchers pour forth simultaneously, like an insect infestation in this bug-eat-bug world. The positions are very easy to misplay by an underprepared opponent. Through intense study of this chapter, we hone our skills and decide to take on Black's side. We may see our opponents reach dizzying heights of futility in their attempts to storm our not-so-easy-to-mate king. 7.Bxc3 We will also look at the sensible-looking bishop recapture after 6...Nxc3, which keeps White's pawn structure undamaged, but is ultimately too insipid a concept to be a threat to Black's counterattack on the queenside.<skip start="6...Nxc3"/>
 
-### (57)Anand, V.   --   Shirov, A. 37: Bilbao Grand Slam, Spain  2010   1/2-1/2   C12 (Cyrus Lakdawala)
+### (57)Anand, V. -- Shirov, A. 37: Bilbao Grand Slam, Spain 2010 1/2-1/2 C12 (Cyrus Lakdawala)
 
 **1.e4 e6**
 
@@ -7939,7 +7943,7 @@ SUMMARY: If you revel in irrational positions, then the 8...g6 McCutcheon lines 
 
 1/2-1/2
 
-### (58)Nyysti, S.   --   Glek, I. 38: Heart of Finland Open, Helsinki  2002   0-1   C12 (Cyrus Lakdawala)
+### (58)Nyysti, S. -- Glek, I. 38: Heart of Finland Open, Helsinki 2002 0-1 C12 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Bxc3 7.bxc3 Ne4 8.Qg4 g6**
 
@@ -8135,7 +8139,7 @@ SUMMARY: 14.Nxd4 leads to more technical, quieter positions (than Anand's 14.h5!
 
 0-1
 
-### (59)Minasian, A.   --   Lputian, SG. 39: Armenian Championship, Yerevan  1996   0-1   C12 (Cyrus Lakdawala)
+### (59)Minasian, A. -- Lputian, SG. 39: Armenian Championship, Yerevan 1996 0-1 C12 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Bxc3 7.bxc3 Ne4 8.Qg4 g6 9.Bd3 Nxd2 10.Kxd2 c5 11.Nf3 Nc6**
 
@@ -8357,7 +8361,7 @@ SUMMARY: 12 dxc5 shouldn't give Black too much to worry about. I like the plan 1
 
 0-1
 
-### (60)Akopian, V.   --   Volkov, S. 40: Monarch Assurance Open, Port Erin  2006   0-1   C12 (Cyrus Lakdawala)
+### (60)Akopian, V. -- Volkov, S. 40: Monarch Assurance Open, Port Erin 2006 0-1 C12 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Bxc3 7.bxc3 Ne4 8.Qg4 Kf8**
 
@@ -8631,7 +8635,7 @@ Plan B - Black's king entrenches himself on the kingside, confident that he will
 
 0-1
 
-### (61)Roser, K.   --   Vallejo Pons, F. 41: European Chship, Aix-les-Bains  2011   0-1   C12 (Cyrus Lakdawala)
+### (61)Roser, K. -- Vallejo Pons, F. 41: European Chship, Aix-les-Bains 2011 0-1 C12 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Bxc3 7.bxc3 Ne4 8.Qg4 Kf8 9.Bd3 Nxd2 10.Kxd2 c5 11.Nf3 cxd4**
 
@@ -8847,7 +8851,7 @@ SUMMARY: One great benefit of the 11...cxd4 plan is its rarity. Your opponents w
 
 0-1
 
-### (62)Inarkiev, E.   --   Nepomniachtchi, I. 42: Siberian Bank Cup, Novosibirsk  2012   0-1   C12 (Cyrus Lakdawala)
+### (62)Inarkiev, E. -- Nepomniachtchi, I. 42: Siberian Bank Cup, Novosibirsk 2012 0-1 C12 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Bxc3 7.bxc3 Ne4 8.Qg4 Kf8 9.Bd3 Nxd2 10.Kxd2 c5 11.Nf3 cxd4 12.Nxd4**
 
@@ -9051,7 +9055,7 @@ SUMMARY: Despite appearances, I think Black gets a reasonable version of the end
 
 0-1
 
-### (63)Shukh, N.   --   Najer, E. 43: Russian Championship, Dagomys  2010   0-1   C12 (Cyrus Lakdawala)
+### (63)Shukh, N. -- Najer, E. 43: Russian Championship, Dagomys 2010 0-1 C12 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Bxc3 7.bxc3 Ne4 8.Qg4 Kf8**
 
@@ -9307,7 +9311,7 @@ SUMMARY: On 11 h4, let's go with 11...c4, since the 11...cxd4 plan doesn't work 
 
 0-1
 
-### (64)Jenni, F.   --   Korchnoi, V. 44: Korchnoi Birthday (rapid), Zurich  2001   0-1   C12 (Cyrus Lakdawala)
+### (64)Jenni, F. -- Korchnoi, V. 44: Korchnoi Birthday (rapid), Zurich 2001 0-1 C12 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Bxc3 7.bxc3 Ne4 8.Qg4 Kf8 9.h4 c5 10.Bd3 Nxd2 11.Kxd2 c4 12.Be2 Nc6 13.Rh3 Rg8**
 
@@ -9447,7 +9451,7 @@ SUMMARY: This is an example of a black king run to the queenside. I wouldn't rep
 
 0-1
 
-### (65)Grund, H.   --   Kobalia, M. 45: European U18 Ch, Rimavska Sobota  1996   0-1   C12 (Cyrus Lakdawala)
+### (65)Grund, H. -- Kobalia, M. 45: European U18 Ch, Rimavska Sobota 1996 0-1 C12 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Bxc3 7.Bxc3**
 
@@ -9649,7 +9653,7 @@ SUMMARY: 7.Bxc3, while well meaning, is too clunky and slow for White to produce
 
 0-1
 
-### (66)7: McCutcheon: 6.Be3 and 6.Bc1   --   ? ? ????   \* (Cyrus Lakdawala)
+### (66)7: McCutcheon: 6.Be3 and 6.Bc1 -- ? ? ???? \* (Cyrus Lakdawala)
 
 In the old days, 6.Bd2 was pretty much considered obligatory. In the last few years though, top players, perhaps unhappy with the level of White's opening advantage in the 6.Bd2 main line McCutcheon, have turned to two radical new lines, both crafted to preserve White's dark-squared bishop, the E=MC squared of the attack. Within the external randomness, there is order. We must look for it, the way a forensic blood-spatter analyst visualizes a story - by examining the blood. In both cases, White's dark-squared bishops deliver fist-pounding fire and brimstone sermons to our nervous king. It is my hope the chapter will show that we have ample structural and counterattacking resources. Yet, we must be careful as White's attacking potential is one of many tentacles. After such a heavy outlay of material and structure, there is no turning back for either side! 1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6<skip start="6.Bd2"/><skip start="6.Bd2"/>
 
@@ -9665,7 +9669,7 @@ In the 6.Be3 versions, we, as Black, have the option to grab a pawn and hunker d
 
 These two lines are no longer rarely-played sidelines. I'm noticing more and more in my online games their rising popularity. I predict they will both become commonplace lines, even at the non-master club levels.
 
-### (67)Sutovsky, E.   --   Wang, H. 46: Karpov Poikovsky, Russia  2008   0-1   C12 (Cyrus Lakdawala)
+### (67)Sutovsky, E. -- Wang, H. 46: Karpov Poikovsky, Russia 2008 0-1 C12 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Be3**
 
@@ -9901,7 +9905,7 @@ SUMMARY: Let's go with the rare line 10...h5!? with the idea of gaining more tem
 
 0-1
 
-### (68)Gashimov, V.   --   Nakamura, H. 47: Amber (rapid), Monte Carlo  2011   0-1   C12 (Cyrus Lakdawala)
+### (68)Gashimov, V. -- Nakamura, H. 47: Amber (rapid), Monte Carlo 2011 0-1 C12 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Be3 Ne4 7.Qg4 g6 8.a3 Bxc3+ 9.bxc3 Nxc3**
 
@@ -10161,7 +10165,7 @@ SUMMARY: I suspect Nakamura's plan of 9...Nxc3 and 10...b6!? may be as sound as 
 
 0-1
 
-### (69)Lanka, Z.   --   Morozevich, A. 48: Chebanenco Memorial, Kishinev  1998   0-1   C12 (Cyrus Lakdawala)
+### (69)Lanka, Z. -- Morozevich, A. 48: Chebanenco Memorial, Kishinev 1998 0-1 C12 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Be3 Ne4 7.Qg4 Kf8**
 
@@ -10423,7 +10427,7 @@ SUMMARY: I think Black gets dynamically balanced chances after 12...f5!, no matt
 
 0-1
 
-### (70)Kurnosov, I.   --   Volkov, S. 49: Russian Ch Qualifier, St Petersburg  2004   0-1   C12 (Cyrus Lakdawala)
+### (70)Kurnosov, I. -- Volkov, S. 49: Russian Ch Qualifier, St Petersburg 2004 0-1 C12 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Be3 Ne4 7.Qg4 Kf8 8.a3 Bxc3+ 9.bxc3 Nxc3**
 
@@ -10587,7 +10591,7 @@ SUMMARY: Maybe this is a stylistic bias but I like the idea of avoiding an early
 
 0-1
 
-### (71)Alozy, F.   --   Thirion, P. 50: Correspondence  2005   0-1   C12 (Cyrus Lakdawala)
+### (71)Alozy, F. -- Thirion, P. 50: Correspondence 2005 0-1 C12 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bc1**
 
@@ -10765,7 +10769,7 @@ SUMMARY: Let's take the unnatural-looking 6.Bc1 seriously. White scores well wit
 
 0-1
 
-### (72)Topalov, V.   --   Vallejo Pons, F. 51: Leon Masters, Spain  2012   0-1   C12 (Cyrus Lakdawala)
+### (72)Topalov, V. -- Vallejo Pons, F. 51: Leon Masters, Spain 2012 0-1 C12 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bc1 Ne4 7.Qg4 g6 8.Ne2 Nxc3!?**
 
@@ -10960,7 +10964,7 @@ SUMMARY: I like the illogical-looking and rarely played 8...Nxc3!? since Vallejo
 
 0-1
 
-### (73)Bruzon Batista, L.   --   Short, ND. 52: Capablanca Memorial, Havana  2010   0-1   C12 (Cyrus Lakdawala)
+### (73)Bruzon Batista, L. -- Short, ND. 52: Capablanca Memorial, Havana 2010 0-1 C12 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bc1 Ne4 7.Qg4 Kf8**
 
@@ -11158,7 +11162,7 @@ SUMMARY: I don't think Black fully equalized after 7...Kf8. It may be better to 
 
 0-1
 
-### (74)8: McCutcheon Deviations   --   ? ? ????   \* (Cyrus Lakdawala)
+### (74)8: McCutcheon Deviations -- ? ? ???? \* (Cyrus Lakdawala)
 
 **5.--**<fen value="rnb1k2r/ppp2ppp/4pn2/3q2B1/1b1P4/2N5/PPP2PPP/R2QKBNR w KQkq - 0 5"/>
 
@@ -11168,7 +11172,7 @@ We also look at oddball/surprise attempts by White to dodge sharp theoretical li
 
 In most of these cases, White may be fooling himself or herself, believing a contaminated thing to be pure. Rest assured that White is lucky to equalize in most of the theoretical dodges.<fend/>
 
-### (75)Kovalevskaya, E.   --   Volkov, S. 53: Russian League, Togliatti  2003   0-1   C12 (Cyrus Lakdawala)
+### (75)Kovalevskaya, E. -- Volkov, S. 53: Russian League, Togliatti 2003 0-1 C12 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.exd5**
 
@@ -11332,7 +11336,7 @@ SUMMARY: The Lasker Variation, 5 exd5 Qxd5! is the exception to the rule and is 
 
 0-1
 
-### (76)Willemze, T.   --   Nepomniachtchi, I. 54: Corus Group C, Wijk aan Zee  2007   0-1   C12 (Cyrus Lakdawala)
+### (76)Willemze, T. -- Nepomniachtchi, I. 54: Corus Group C, Wijk aan Zee 2007 0-1 C12 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6**
 
@@ -11492,7 +11496,7 @@ SUMMARY: When White plays the ambidextrous Winawer/Classical line 5.Nge2, meet i
 
 0-1
 
-### (77)Arutyunov, N.   --   Lakdawala, C. 55: Gambito Open (rapid), San Diego  2013   0-1   C00 (Cyrus Lakdawala)
+### (77)Arutyunov, N. -- Lakdawala, C. 55: Gambito Open (rapid), San Diego 2013 0-1 C00 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.exf6**
 
@@ -11698,7 +11702,7 @@ SUMMARY: Black gets equality and maybe a little more after the theoretical dodge
 
 0-1
 
-### (78)Gutsko, N.   --   Kiselev, V. 56: Lugansk Stanitsa, Ukraine  2010   0-1   C12 (Cyrus Lakdawala)
+### (78)Gutsko, N. -- Kiselev, V. 56: Lugansk Stanitsa, Ukraine 2010 0-1 C12 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bh4**
 
@@ -11824,7 +11828,7 @@ SUMMARY: 6.Bh4 is nothing to worry about, since White's normally terrifying dark
 
 0-1
 
-### (79)Manole, V.   --   Gurevich, M. 57: Andorra Open, Spain  2004   0-1   C01 (Cyrus Lakdawala)
+### (79)Manole, V. -- Gurevich, M. 57: Andorra Open, Spain 2004 0-1 C01 (Cyrus Lakdawala)
 
 **1.e4 e6 2.d4 d5 3.Nc3**
 
