@@ -1,146 +1,146 @@
 <config color="-1" translate="d:\french-b-fs-g.txt;d:\french-b-fs-d.txt"/>
 
-**Contents**
+**Соержание**
 
 <content/>
 
-## About this Publication
+## Об этой публикации
 
-The French Defence is a highly reliable response to 1 e4 which is popular at all levels. With the first two moves, Black creates a solid foundation in the centre and seeks to put pressure on White's position in the early middlegame. In this book, International Master Cyrus Lakdawala explains the basic ideas in the French and examines the important variations. The key ideas are emphasized with notes, tips and warnings and the reader's understanding is tested with frequent exercises. This book tells you everything you need to know in order to take your first steps with the French Defence.
+Французская защита – это очень надежный ответ на ход 1.e4, популярный на всех уровнях. Первыми двумя ходами черные создают прочную основу в центре и стремятся оказать давление на позицию белых в раннем миттельшпиле. В этой книге международный мастер Сайрус Лакдавала объясняет основные идеи во французкой и исследует важные варианты. Ключевые идеи подчеркиваются примечаниями, советами и предупреждениями, а понимание читателя проверяется частыми упражнениями. В этой книге вы найдете все, что вам нужно знать, чтобы сделать первые шаги во французской защите.
 
-First Steps is a new opening series and is ideal for improving players who want simple and straightforward explanations.
+"Первые шаги" – это новая вводная серия, которая идеально подходит для совершенствующихся игроков, которым нужны простые и понятные объяснения.
 
-First Steps books are based around carefully selected instructive games which demonstrate exactly what both sides are trying to achieve. There is enough theory to enable the improving player to get to grips with the opening without feeling overwhelmed. If you want to take up a new opening, First Steps is the ideal place to start.
+Книги "Первые шаги" основаны на тщательно отобранных поучительных партиях, которые точно демонстрируют, чего пытаются достичь обе стороны. В них достаточно теории, чтобы совершенствующийся игрок мог освоить дебют, не чувствуя себя перегруженным. Если вы хотите заняться чем-то новым, "Первые шаги" — это идеально для старта.
 
 **1.e4 e6 2.d4 d5**
 
-Cyrus Lakdawala is an International Master, a former National Open and American Open Champion, and a six-time State Champion. He has been teaching chess for over 30 years, and coaches some of the top junior players in the U.S.
+Сайрус Лакдавала – международный мастер, бывший чемпион National Open и American Open, а также шестикратный чемпион штата. Он преподает шахматы более 30 лет и тренирует некоторых из лучших юниоров США.
 
-## Introduction
+## Введение
 
-### What makes a French player?
+### Что делает игрок во французскую?
 
 **1.e4 e6**
 
-The French is an opening so vast in scale, that it almost defies classification. If you enter closed games with the rapt contentment of a positional player, and if you feel agoraphobic in 1...e5 or 1...c5 situations, then you may qualify as a natural French player.
+Французская партия – дебют настолько масштабный, что почти не поддается классификации. Если вы входите в закрытые партии с восторженным удовлетворением позиционного игрока и испытываете агорафобию в ситуациях 1...e5 или 1...c5, то вы можете считаться прирожденным игроком во французскую.
 
-Fashionable openings go in and out of favour like ageing rock stars, who were huge 40 years ago, but now have trouble selling tickets at the local swap meet. The French isn't like this, and from my perspective, is as much fun to play at age 55 as it was to play at age 8. Now a lack of space is an issue baked into the opening. So if you love open games, the French from Black's side is probably the wrong fit for your needs. When we misplay a French we know it, since it becomes hard for our pieces to breathe, and the feeling is similar to being buried while still alive in a coffin, in Uma Thurman fashion in Kill Bill (I forgot if it's volume one or two!).
+Модные дебюты приходят и уходят, как стареющие рок-звезды, которые были великими 40 лет назад, но теперь с трудом продают билеты на местной ярмарке. Французская не такая, и, с моей точки зрения, в 55 лет играть в нее так же интересно, как и в 8 лет. Итак нехватка пространства – это проблема, заложенная в дебюте. Так что если вы любите открытые игры, то французская со стороны черных, вероятно, не подходит для вас. Когда мы "неправильно" играем французскую, мы это знаем, т.к. нашим фигурам становится трудно дышать, и это чувство похоже на то, как если бы нас заживо похоронили в гробу, как Уму Турман в фильме "Убить Билла" (забыл, это в первой или во второй части!).
 
-The entry of beginning level club players can feel like Gulliver, who gets tied down in Lilliputian theoretical details. My job in this book is to try and demystify an otherwise intimidating opening and make clear the various positions we may face. Even if you don't reach the exact position we cover in the book, you won't be adrift, since you will be familiar with simulacrum positions, which always come with a known antecedent, where at least you move in the right direction.
+Начинающие клубные игроки могут почувствовать себя Гулливером, увязшим в лилипутских теоретических деталях. Моя задача в этой книге – попытаться демистифицировать пугающий дебют и прояснить различные позиции, с которыми мы можем столкнуться. Даже если вы не дойдете до конкретной позиции, о которой пойдет речь в книге, вы не останетесь в проигрыше, поскольку будете знакомы с позициями-симулякрами, которые всегда имеют известного предшественника, где вы, по крайней мере, двигаетесь в правильном направлении.
 
-In most of the positions, the players' views tend to be irreconcilable, like space versus counterattack potential, or bishop-pair and dark squares versus superior structure. Our choices tend to exude a quality of absolutism, with no space for a fuzzy grey middle ground.
+В большинстве позиций взгляды игроков, как правило, непримиримы: пространство против контратакующего потенциала, пара слонов и черные поля против превосходной структуры. Наш выбор, как правило, излучает абсолютизм, не оставляя места для размытой серой середины.
 
-### Books versus Databases
+### Книги против баз данных
 
-When we face a booked-up opponent and get slaughtered, not even surviving the opening stage, we leave the game feeling like the village idiot. The skill levels required to play the French range enormously. Some lines are just much harder to handle than others.
+Когда мы сталкиваемся с закомплексованным оппонентом и получаем пощечину, не выдержав даже дебютной стадии, мы выходим из игры, чувствуя себя деревенскими идиотами. Уровень мастерства, необходимый для игры во французскую, чрезвычайно разнообразен. С некоторыми линиями справиться гораздо сложнее, чем с другими.
 
-In this era of databases and books published every week, the days of winging it in the opening are over. We must grasp our lines just to survive at the club level, but should we study from books or from databases? My advice: you don't really need a soulless database until your rating passes the 2000 Expert level.
+В эпоху баз данных и книг, выходящих каждую неделю, когда в дебюте можно было действовать наобум, прошли. Мы должны знать свои линии, чтобы выжить на клубном уровне, но следует ли нам учиться по книгам или по базам данных? Мой совет: вам не нужна бездушная база данных до тех пор, пока ваш рейтинг не перевалит за уровень 2000 (эксперт).
 
-Many of my students who are below that level prefer to study from databases which offer no explanations, rather than study from books. This is a mistake, and a bit like claiming that photography renders realistic art redundant, since the photo is so much more realistic. Maybe I'm a creature of the past, but even as an IM, I still find books infinitely more helpful than the dry savannah of databases, which offer data, but no direction. Beware, though, the difference between reading a chess book and applying the knowledge over the board is akin to reading a book on Mount Kilimanjaro and actually scaling it.
+Многие из моих учеников, которые находятся ниже этого уровня, предпочитают учиться по базам данных, которые не дают никаких объяснений, а не по книгам. Это ошибка, и она сродни утверждению, что фотография делает реалистичное искусство ненужным, поскольку фотография гораздо реалистичнее. Может быть, я принадлежу к прошлому, но даже будучи ММ, я все еще нахожу книги бесконечно более полезными, чем сухая саванна баз данных, которые предлагают данные, но не дают никакого направления. Однако будьте осторожны: разница между чтением шахматной книги и применением знаний на доске сродни чтению книги о горе Килиманджаро и реальному восхождению на нее.
 
 **1.--**<fen value="rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 1"><fend/>
 
-The Roman statesman and scholar Pliny the Younger once advised the cure for the common cold is to kiss a mouse on both the snout and lips. Moral: that which constitutes scholarship alters with time. In our modern database era, to survive at the ruthlessly Darwinian club levels, we must survive the gauntlet of the opening stage. In this book we aren't overly concerned with the concrete and the specific.
+Римский государственный деятель и ученый Плиний Младший однажды посоветовал, что лекарство от простуды – поцеловать мышь в мордочку и губы. Мораль: то, что составляет науку, меняется со временем. В нашу современную эпоху баз данных, чтобы выжить на безжалостном дарвиновском клубном уровне, пережить трудности на начальном этапе. В этой книге мы не слишком озабочены конкретикой и частностями.
 
-It isn't an easy task to travel the road of innocent entry into the chess world, to the road to sophistication to the upper levels of A-Class, Expert and Master. When we first walk through the intimidating doors of our chess club, we may feel like a third grade kid, asked by a philosophy professor: "What is the origin of intelligence?" Our answer would be: "How the hell should I know? I'm just a kid in the third grade!".
+Нелегко пройти путь от невинного вхождения в шахматный мир до уровня А-класса, эксперта и мастера. Когда мы впервые входим в пугающие двери нашего шахматного клуба, мы можем почувствовать себя третьеклассником, которого профессор философии спрашивает: "Каково происхождение интеллекта?". Наш ответ будет таким: "Откуда, черт возьми, мне знать? Я всего лишь ребенок в третьем классе!".
 
-The minds of many club players I know are dumpsters for partially remembered opening lines. Our goal in this book is to simply introduce key ideas and positions of the French Defence to the beginning and intermediate club player, just so you get a feel for the lines, as Black or White. We concentrate on the universal, rather than fret too much over the local, as we do for instance, in the Move by Move series. The plan here is to begin with the fuzzy generalities, avoiding a stale recycling clutter of memorized lines, and then only later get down to the unpleasant work of the study of the details to move up in the chess world. Eventually, we must further research individual lines to move upward. It was the poet Alexander Pope who warned us: "A little learning is a dangerous thing: Drink deep, or taste not the Pierian Spring."
+Умы многих знакомых мне клубных игроков – это мусорные контейнеры для частично запомнившихся дебютных линий. Наша цель в этой книге – просто познакомить начинающего и среднего клубного игрока с ключевыми идеями и позициями французской защиты, чтобы вы прочувствовали линии как за черных так и за белых. Мы сконцентрируемся на универсальном, не слишком беспокоясь о локальном, как, например, в серии "Ход за ходом". План состоит в том, чтобы начать с размытых общих сведений, избегая нагромождения заученных линий, и лишь затем приступить к неприятной работе по изучению деталей, чтобы продвинуться вверх в шахматном мире. В конце концов, чтобы продвинуться вверх, нужно изучить отдельные линии. Поэт Александр Поуп предупредил нас: "Немного знаний – опасная вещь: пейте до дна, иначе не почувствуете вкус Пиерийского источника".
 
-### A Snapshot of Our Lines
+### Обзор наших линий
 
-Below are a few of the critical positions we may reach:
+Ниже приведены некоторые из критических позиций, которых мы можем достичь:
 
 **1.--**<fen value="rnbqk1nr/ppp2ppp/4p3/3p4/1b1PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 1"/></fend>
 
-The Winawer is a vast strategic web without centre, beginning or end. Soon we will probably play ...Bxc3+, where White accepts a slightly dishevelled queenside structure in return for the bishop-pair and the potential for dark-square control.
+Винавер – это огромная стратегическая паутина без серидины, начала и конца. Вскоре мы, вероятно, сыграем ...Bxc3+, где белые соглашаются на несколько беспорядочную структуру ферзевого фланга в обмен на пару слонов и потенциал контроля над черными полями.
 
-In the position, the opening feels like a bit of a contrivance, since White plays
+В этой позиции дебют выглядит несколько надуманным, поскольку белые играют
 
 **6...-- 7.Qg4**<fen value="rnbqk2r/pp2nppp/4p3/2ppP3/P2P4/2P5/2P2PPP/R1BQKBNR b KQkq - 0 6"/>
 
-, bringing out the queen before the minor pieces. The gendarmes arrive in force, attacking the g7-pawn, and where we enter a predatory society of kill or be killed. We have a choice: we can castle into the teeth of White's attack or respond with
+выводя ферзя до легких фигур. Жандармы прибывают в полном составе, атакуя пешку g7, и мы вступаем в хищническое общество, действующее по принципу "убей или будь убитым". У нас есть выбор: мы можем броситься в зубы атаке белых или ответить
 
 **7...Qc7**
 
-When I was a kid, and a bully picked a fight, my strategy was to taunt my opponent and get him as angry as possible (I would imitate him in gross caricature), because I realized that an angry fighter tends to swing wildly and without accuracy. In this position Black does just that by castling.
+Когда я был ребенком и хулиган затевал драку, моя стратегия заключалась в том, чтобы дразнить противника и как можно больше злить его (я подражал ему в грубых карикатурах), потому что я понимал, что разъяренный боец склонен  дико и бесцеремонно размахиваться руками. В этой позиции черные именно так и поступают, делая рокировку.
 
-If such provocation isn't your cup of Darjeeling, then Black can also play 7...Qc7, entering the wild Poisoned Pawn Gambit, where we give up a pawn for a development lead and open lines, and in the ensuing confusion it feels as if random, non-related events tumble and crash into each other in the middle. Be warned though, the early moves of the Poisoned Pawn Gambit are a stiffly ritualized forcing line, in many cases with little room for deviation via personal preference or whim, for either side. This line is probably the most theory dense one of the entire book, so don't enter it with the excuse: "My dog ate my homework!".<fend/>
+Если такая провокация не для вас, то черные могут сыграть 7...Qc7, вступая в дикий гамбит отравленной пешки, где мы отдаем пешку за преимущество в развитии и открытые линии, а в последующей неразберихе кажется, что случайные, не связанные между собой события кувыркаются и врезаются друг в друга в посередине. Однако будьте внимательны: ранние ходы гамбита с отравленной пешкой – это жестко ритуализированная форсированная линия, во многих случаях с небольшим пространством для отклонений по личным предпочтениям или прихоти каждой из сторон. Эта линия, вероятно, самая теоретически насыщенная из всей книги, поэтому не стоит вступать в нее с отговоркой: "Моя собака съела мою домашнюю работу!".<fend/>
 
-In the position, is Black's introverted plan one of a realist or a defeatist? It's a scary feeling when we suspect our sinister opponent of manipulating us in a certain direction, yet we are unable to comprehend the purpose. Black lures White into an ambiguous world, where nothing is out in the open, and nothing is as it appears.<fen value="rnbqk1nr/ppp2ppp/4p3/3pP3/1b1P4/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4"/>
+В этой позиции интровертный план черных – это план реалиста или пораженца? Страшное чувство, когда мы подозреваем, что наш зловещий противник манипулирует нами в определенном направлении, но не можем понять, с какой целью. Черные заманивают белых в двусмысленный мир, где все не так открыто и все не так, как кажется.<fen value="rnbqk1nr/ppp2ppp/4p3/3pP3/1b1P4/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 4"/>
 
-Black's last move 4.-- Qd7 almost looks like a typo. The cunning idea is to meet
+Последний ход черных 4...Qd7 выглядит почти как опечатка. Хитроумная идея состоит в том, чтобы встретить
 
-**4.-- Qd7 5.Qg4**
+**4...Qd7 5.Qg4**
 
-, with either 5...f5, protecting g7 laterally, or play the retro-developing 5...Bf8, a move which may have White questioning our sanity. The point is White's development lead can be shockingly ineffective, since Black's position remains target free. So it can sometimes feel like White fights an invisible enemy.
+либо 5...f5, защищая g7 сбоку, либо сыграть ретро-развитие 5...Bf8, ход, который может заставить белых усомниться в нашем здравомыслии. Дело в том, что преимущество белых может быть шокирующе неэффективным, поскольку позиция черных по-прежнему лишена мишеней. Поэтому иногда кажется, что белые сражаются с невидимым врагом.
 
-You may ask: "What about Black's bad light-squared bishop?". The answer: we conveniently unload it for White's powerful counterpart with the manoeuvre ...b6 and ...Ba6. White's pieces may soon remind us of those stern Easter Island statues, who just sit there and glower at Black's position, without the ability to inflict actual harm.<fend/>
+Вы можете спросить: "А как же плохой белопольный слон черных?". Ответ: мы удобно выгрузим его для мощного противостояния аналогу белых маневром ...b6 и ...Ba6. Вскоре фигуры белых могут напомнить нам суровые статуи с острова Пасхи, которые просто сидят и смотрят на позицию черных, не имея возможности нанести реальный вред.<fend/>
 
-In the next position we enter the Classical French, where unlike the Winawer, we are not quick to hand White dark-square control with ...Bb4 and ...Bxc3+.
+В следующей позиции мы вступаем в классическую французскую, где, в отличие от Винавера, мы не спешим отдавать белым контроль над черными полями путем ...Bb4 и ...Bxc3+.
 
-**1.--**<fen value="rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 1"/><fend/>
+**3...--**<fen value="rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 3"/>
 
-In the Winawer, we pit our generalship with our opponent's in closed positions, with White's structure damaged, while we as Black are missing our important dark-squared bishop.
+В варианте Винавере мы соревнуемся с соперником в закрытых позициях, при этом у белых испорчена структура, а нам, как черным, не хватает нашего важного чернопольного слона.
 
-In the McCutcheon Variation, after 4 Bg5 Bb4, we inflict damage on White's structure and pick up White's all-important dark-squared bishop.
+В варианте Маккатчеона после 4.Bg5 Bb4 мы наносим урон структуре белых и забираем важнейшего чернопольного слона белых.<fend/>
 
 **1.--**<fen value="rnbqk2r/ppp2pp1/4p2p/3pP3/3Pn1Q1/2P5/P1PB1PPP/R3KBNR w KQkq - 0 1"/><fend/>
 
-The cost? White's queen attack on g7 forces a concession of either ...g6, weakening our kingside dark squares, or ...Kf8, which forces us to renounce castling. Students tend to ask me impossible-to-answer questions like: "Which line is better: the Winawer or the Classical? This is like asking if Beethoven was a better musician than John Lennon. The answer, of course, is that the position you favour is the 'better' line.
+Цена? Атака белого ферзя на g7 вынуждает нас уступить деля ход либо ...g6, ослабляя черные поля королевского фланга, либо ...Kf8, что вынуждает нас отказаться от рокировки. Студенты обычно задают мне вопросы, на которые невозможно ответить, например: "Какая линия лучше: Винавер или классическая? Это все равно что спрашивать, был ли Бетховен лучшим музыкантом, чем Джон Леннон. Ответ, конечно, заключается в том, что позиция, которую вы предпочитаете, и есть "лучшая" линия.
 
-Welcome to the Tarrasch, the safest and most solid of White's choices against the French. With<fen value="rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2"/>
+Добро пожаловать в Тарраш, самый безопасный и надежный из вариантов белых против французской. С<fen value="rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3"/>
 
-**2...-- 3.Nd2**
+**3.Nd2**
 
-, White denies Black any version of the ...Bb4 pins, as seen in Winawer or McCutcheon lines. Also, White gives him or herself options to build an imposing pawn centre with ideas like e5, f4 and c3.
+белые отказывают черным в любом варианте связки ...Bb4, как в линиях Винавера или Маккатчеона. Кроме того, белые дают себе возможность построить внушительный пешечный центр с такими идеями, как e5, f4 и c3.
 
-Since White passively developed the knight to d2, this emboldens Black into an immediate central strike with
+Поскольку белые пассивно развили коня на d2, это подталкивает черных к немедленному удару по центру ходом
 
 **3...c5**
 
-When White plays exd5, Black can either recapture with the queen, made more attractive by the fact that White no longer has a Nc3 tempo-gaining option, or Black can play
+когда белые играют exd5, черные могут либо взять ферзем, что становится более привлекательным из-за того, что у белых больше нет возможности выиграть темп Nc3, либо черные могут сыграть
 
 **4.exd5 exd5**
 
-taking on a future isolani on d5, which some view as a strategic burden to shoulder, while to others it represents freedom.
+допуская далее изолятор на d5, что некоторые считают стратегическим бременем, а другие – свободой.
 
-Why do we as Black deliberately take on a pawn weakness? The answer is freedom, which is our considerable compensation, and an unusual luxury in the French. Now this isn't simply a case of White foisting a pawn weakness upon us, since with the isolani comes a degree of central control, coupled with enhanced freedom and piece activity, the magic spell which compensates strategic deficiencies. Taking on an isolani is certainly a risk of sorts, but not that much, since we aren't signing over our mortgage with this minor structural concession.<fend/>
+Почему мы, черные, сознательно допускают пешечную слабость? Ответ – свобода, которая является нашей значительной компенсацией и необычной роскошью во французкой. Это не тот случай, когда белые просто навязывают нам пешечную слабость, поскольку с изолятором приходит определенная степень контроля в центре в сочетании с повышенной свободой и активностью фигур, волшебным заклинанием, которое компенсирует стратегические недостатки. Допущение изолятора – это, конечно, своего рода риск, но не такой уж большой, ведь мы не подписываемся на ипотеку этой незначительной структурной уступкой.<fend/>
 
-In the position, a sharp gambit situation arises, where the realization of one goal (initiative and attack) requires the sacrifice of another (a pawn sacrifice). Here, even Nostradamus would be hard pressed to tell us what happens next.
+В позиции ниже возникает острая гамбитная ситуация, когда реализация одной цели (инициатива и атака) требует жертвы другой (жертвы пешки). Здесь даже Нострадамус затруднился бы сказать, что произойдет дальше.
 
 **1.--**<fen value="r1b1kb1r/pp1n1ppp/4p3/3pP3/3q4/3B4/PP1N1PPP/R1BQ1RK1 w kq - 0 1"/><fend/>
 
-Suspense is fun if we are reading a mystery or gothic horror novel, and not as much fun when we are sweating it out over the board with our clocks ticking away mercilessly. This line defies regulation. Black's extra pawn is no freebie, since White gets a dangerous development lead for it.
+Опасность – это весело, если мы читаем мистический или готический роман ужасов, и не так весело, когда мы потеем над доской, а наши часы безжалостно тикают. Эта линия не поддается регламенту. Лишняя пешка черных – не халява, поскольку белые получают за нее опасный перевес в развитии.
 
-In the diagram below we see the Advance French, where we can't accurately describe Black's position as commodious lodgings. There is no way to invade another country diplomatically. Black is dispossessed of land early on, when White's e-pawn crosses the neutral zone into Black's territory.
+На диаграмме ниже мы видим закрытую французскую, где позицию черных нельзя назвать удобным жильем. Здесь нет возможности дипломатического вторжения в другую страну. Черные лишаются земли уже на ранней стадии, когда пешка "e" белых переходит через нейтральную зону на территорию черных.
 
 **1.--**<fen value="rnbqkbnr/ppp2ppp/4p3/3pP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 1"/><fend/>
 
-The invading e5-pawn is yoked tightly, so Black tends to go after the weak link, d5, with a quick ...c5 break, and only later on decide if ...f6 is necessary or not.
+Вторгшаяся пешка е5 крепко стоит, поэтому черные стремятся атаковать слабое звено d5 быстрым прорывом ...c5, и только позже решить, необходимо ...f6 или нет.
 
-Unsound attacks, by their nature, are contingent upon the opponent blundering, which is a reasonable supposition, since we are flawed humans, not computers. The position is the dubious (yet dangerous!) Milner-Barry Gambit, an offshoot of the Advance line.
+Непродуманные атаки по своей природе зависят от ошибки соперника, что вполне разумно, ведь мы – несовершенные люди, а не компьютеры. Позиция представляет собой сомнительный (но опасный!) гамбит Мильнера-Барри, ответвление линии закрытой.
 
 **1.--**<fen value="r3kbnr/pp1b1ppp/1qn1p3/3pP3/3P4/3B1N2/PP3PPP/RNBQ1RK1 w kq - 0 1"/><fend/>
 
-Now why is an unsound line dangerous? The answer is we may show up to the board unprepared and bungle the defence. When we refuse to keep up with current theory we risk being the small mom and pop store, being pushed aside by a giant corporation who just moved across the street as our competition. Education doesn't equal infallibility over the board, since even professional players go blank (I don't understand why I remember with photographic detail every character in the millions of novels I have read in my life, yet routinely go comatose in opening variations I have played for 40 years!). Our daunting job is to learn the gambit's antidote and never forget it.
+Чем же опасна сомнительная линия? Ответ: мы можем сесть за доску неподготовленными и провалить защиту. Когда мы отказываемся идти в ногу с современной теорией, мы рискуем стать маленьким семейным магазинчиком, которого оттеснит гигантская корпорация, только что переехавшей на другую сторону улицы, как наш конкурент. Образование не равно непогрешимости за доской, поскольку даже профессиональные игроки теряют память (я не понимаю, почему я помню с фотографическими подробностями каждого персонажа миллионов романов, которые я прочитал за свою жизнь, и в то же время регулярно впадаю в коматозное состояние на дебютных вариантах, которые я играю уже 40 лет!). Наша непростая задача – выучить противоядие от этого гамбита и никогда его не забывать.
 
-Everywhere we turn, we are confronted by dreary uniformity of the two identical structures. The Exchange French can be like reading a book on the tax code as a source of poetic inspiration. If the variation were a painting, then the artist's rendering is exclusively in shades of grey. I have at some points in my career temporarily shelved the French, mainly due to my deep and abiding hatred of the Exchange line.
+Куда бы мы ни повернулись, мы сталкиваемся с унылым однообразием двух одинаковых структур. Разменная французская может быть похожа на чтение налогового кодекса как источника поэтического вдохновения. Если бы этот вариант был картиной, то художник изобразил бы его исключительно в оттенках серого. В некоторые моменты своей карьеры я временно откладывал французскую на полку, в основном из-за моей глубокой и неизменной ненависти к разменной линии.
 
 **1.--**<fen value="rnbqkbnr/ppp2ppp/8/3p4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 1"/><fend/>
 
-It's a variation generally used by lower-rated players to 'threaten' us with a draw, which to outraged French players is akin to a kind of moral blackmail. My goal in this book is to offer Black options to re-energize Black's dynamic potential, from this boring starting position.
+Это вариант, обычно используется игроками более низкого рейтинга, чтобы "пригрозить" нам ничьей, что для возмущенных игроков во французскую сродни моральному шантажу. Моя цель в этой книге – предложить черным варианты, позволяющие активизировать динамический потенциал черных из этой скучной начальной позиции.
 
-The position doesn't have to be the cake without frosting. By castling long, that which distinguishes the two sides is suddenly given greater weight than what they originally had in common.
+Позиция не обязательно должна быть тортом без глазури. После длинной рокировки, позиция черных неожиданно приобретает больший вес, в отличии от симетричного варианта.
 
 **1.--**<fen value="2kr3r/pppqnppp/2nb4/3p4/3P2b1/2PB1N2/PP1N1PPP/R1BQR1K1 w - - 0 1"/>
 
-Many thanks to editors John Emms and Richard Palliser, and also to Nancy for proof reading, and for not deleting most of my jokes in the book.
+Огромное спасибо редакторам Джону Эммсу и Ричарду Паллисеру, а также Нэнси за корректуру и за то, что не удалила большинство моих шуток из книги.
 
-May our French wall eternally hold firm against all barbarian aggressors.
+Пусть наша французская стена вечно держит оборону от всех варваров-агрессоров.
 
-1.-- Cyrus Lakdawala, San Diego, July 2016<fend/>
+Сайрус Лакдавала, Сан-Диего, июль 2016 г.<fend/>
 
-## 1: The Main Line Winawer
+## 1: Основная линия Винавера
 
 **1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3**
 
