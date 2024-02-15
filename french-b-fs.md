@@ -1,4 +1,4 @@
-<config color="-1"/>
+<config color="-1" translate="d:\french-b-fs-g.txt;d:\french-b-fs-d.txt"/>
 
 **Contents**
 
