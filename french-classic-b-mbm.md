@@ -4403,7 +4403,7 @@ ANSWER: This is a bit of a problem for Black since dodging the draw may hand Whi
 
 11...Nxd4 12.Bxd4 Bxd4
 
-( 12...Qb6 transposes to note (b) from above once again, but if White is intent on a draw he or she can repeat with 13.Na4 )
+( 12...Qb6 transposes to note b\) from above once again, but if White is intent on a draw he or she can repeat with 13.Na4 )
 
 13.Qxd4 a6 14.Bd3 was L.Kambrath-E.Bellaiche, Nimes 2012. Now Black can play 14...Qc5 15.Ne2 Qxd4 16.Nxd4 Nc5 with an even ending. Black will play ...Ke7, ...Bd7 and can play for queenside expansion, with a well-timed ...f6 break in hand.
 
