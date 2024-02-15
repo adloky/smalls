@@ -1,3 +1,9 @@
+<config color="-1"/>
+
+**Contents**
+
+<content/>
+
 ## About this Publication
 
 The French Defence is a highly reliable response to 1 e4 which is popular at all levels. With the first two moves, Black creates a solid foundation in the centre and seeks to put pressure on White's position in the early middlegame. In this book, International Master Cyrus Lakdawala explains the basic ideas in the French and examines the important variations. The key ideas are emphasized with notes, tips and warnings and the reader's understanding is tested with frequent exercises. This book tells you everything you need to know in order to take your first steps with the French Defence.
@@ -6403,4 +6409,3 @@ ANSWER: Attraction/double attack.
 SUMMARY: The Rubinstein is a solid but passive line, suitable against aggressive opponents.
 
 **1-0**
-
