@@ -940,217 +940,218 @@ Zwischenzug. Следующим ходом черные получат фигу�
 
 **1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Qd7**
 
-NOTE: This move is a touch different to its cousin 4...b6, since it allows Black an ...f5 option on White's 5 Qg4. I have an unspoken agreement with ultra-sharp lines: I won't play them very often, and they in turn have agreed not to checkmate me! As with 4...b6, this line isn't one of those theoretically straitjacketing ones, where if we garble the chronology of the move order, we face immediate and terrible retribution.
+ПРИМЕЧАНИЕ: Этот ход несколько отличается от своего кузена 4...b6, так как позволяет черным вариант ...f5 на 5.Qg4 белых. У меня есть негласное соглашение с ультраострыми линиями: Я не буду играть их очень часто, а они, в свою очередь, договорились не ставить мне шах и мат! Как и в случае с 4...b6, эта линия не относится к числу тех теоретических смирительных рубашек, где, если мы нарушим хронологию порядка ходов, нас ждет немедленное и страшное возмездие.<addz start="5.Qg4"/>
 
 **5.a3**
 
-5.Qg4 is met with 5...f5 .
+На 5.Qg4 отвечает 5...f5.
 
 **5...Bxc3+**
 
-5...Bf8 is similar to what we looked at last game, and may well transpose later on: 6.f4!? b6 7.b4!? c6 8.b5 a6! 9.bxc6 Nxc6 10.Nf3 Nge7 11.Bd3 h5 12.O-O g6 13.Be3 Na5 14.a4 Qc7 15.Ne2 Nc4 when Black's control over c4 makes up for White's kingside and central space, A.Costello-C.Lakdawala, San Diego (rapid) 2016.
+5...Bf8 похоже на то, что мы рассматривали в прошлой партии, и вполне может переложиться в дальнейшем: 6.f4!? b6 7.b4!? c6 8.b5 a6! 9.bxc6 Nxc6 10.Nf3 Nge7 11.Bd3 h5 12.O-O g6 13.Be3 Na5 14.a4 Qc7 15.Ne2 Nc4, когда контроль черных над с4 компенсируется для белых пространством на королевском фланге и в центре, A.Costello-C.Lakdawala, San Diego (rapid) 2016.
 
 **6.bxc3 b6**
 
-Once again we observe a battle between the unstoppable force and the immovable object. This is a position conducive to divergent interpretations, depending on the reader's style. From my perspective, I feel comfortable from Black's side.
+И снова мы наблюдаем битву между неостановимой силой и неподвижным объектом. Эта позиция допускает различные интерпретации, в зависимости от стиля читателя. С моей точки зрения, я чувствую себя комфортно на стороне черных.
 
 **7.Nf3**
 
-This move is too mild to worry Black.
+Этот ход слишком мягкий, чтобы беспокоить черных.
 
-7.Qg4 is White's only shot at an edge: 7...f5 8.Qg3
+7.Qg4 – единственный шанс белых на перевес: 7...f5 8.Qg3
 
-(8.exf6?! Nxf6 is a bad deal for White, since Black's development lead outweighs the ill-effects of the backward e6-pawn)
+(8.exf6?! Nxf6 – плохая сделка для белых, так как преимущество черных в развитии перевешивает негативные последствия отсталой пешки e6)
 
-8...Ba6 9.Bxa6 Nxa6 10.Ne2 Nb8 (the knight is to be re-routed to c4) 11.Nf4 Kf7!
+8...Ba6 9.Bxa6 Nxa6 10.Ne2 Nb8 (конь должен быть переведен на c4) 11.Nf4 Kf7!
 
 (11...Nc6? 12.Nxe6! Qxe6 13.Qxg7)
 
-12.Qf3 Ne7 13.Qh5+ Kg8 14.h4 Nbc6 15.Rh3 Rf8 16.Rg3 Rf7 17.Nh3 Na5 . Kingside and queenside chances look balanced, M.Khachiyan-C.Lakdawala, Century City 2002.
+12.Qf3 Ne7 13.Qh5+ Kg8 14.h4 Nbc6 15.Rh3 Rf8 16.Rg3 Rf7 17.Nh3 Na5. Шансы на королевском и ферзевом флангах выглядят сбалансированными, M.Khachiyan-C.Lakdawala, Century City 2002.
 
 **7...Ba6 8.Bxa6 Nxa6 9.Qd3**
 
-Alternatively, 9.a4 Ne7 10.O-O Nb8 (heading for c4) 11.Qd3 Nbc6 12.c4 (White undoubles his pawns before Black blockades them) 12...dxc4 13.Qxc4 Na5 14.Qd3 Rd8 15.Ba3 h6 16.Rfd1 O-O 17.Qb5 Rfe8 18.Bb4 Nec6 19.c3 Qd5 20.Bxa5 Nxa5 21.h3 Re7 22.Qb4 Red7 23.Rab1 Nc4 . Advantage Black, who had a grip on the dark squares, D.Aldama-C.Lakdawala, San Diego (rapid) 2013.
+Альтернативно, 9.a4 Ne7 10.O-O Nb8 (направляясь на c4) 11.Qd3 Nbc6 12.c4 (белые раздваивают свои пешки, прежде чем черные их заблокируют) 12...dxc4 13.Qxc4 Na5 14.Qd3 Rd8 15.Ba3 h6 16.Rfd1 O-O 17.Qb5 Rfe8 18.Bb4 Nec6 19.c3 Qd5 20.Bxa5 Nxa5 21.h3 Re7 22.Qb4 Red7 23.Rab1 Nc4. Преимущество черных, во владении черными полями, D.Aldama-C.Lakdawala, San Diego (rapid) 2013.
 
 **9...Qa4!**
 
-As always in this line, Black's influence on the light squares counterbalances White's power on dark.
+Как всегда в этой линии, влияние черных на белые поля уравновешивает силу белых на черных.
 
 **10.O-O Ne7 11.Bg5 c5!?**
 
-Is it possible to be simultaneously thirsty and drowning? I allow my opponent to disrupt my castling if he hands over his influential bishop.
+Можно ли одновременно хотеть пить и тонуть? Я позволяю сопернику сорвать мою рокировку, если он отдаст своего влиятельного слона.
 
 **12.Bxe7**
 
-The bishop writes out the bull of excommunication for Black's king, who doesn't care, since he is an atheist.
+Слон выписывает буллу об отлучении черного короля, которому все равно, поскольку он атеист.
 
 **12...Kxe7**
 
-White and Black's intents pulsate to different rhythms:
+Намерения белых и черных пульсируют в разных ритмах:
 
-1. My king runs off to who-knows-where, which, as we all understand, is an indeterminate location. Still, I feel like my king is relatively safe, since White's once copious supply of attackers dwindled with three sets of minor piece exchanges. Also, for now, the centre remains relatively closed.
+1. Мой король убегает неизвестно куда, что, как мы все понимаем, является неопределенным местом. Тем не менее, я чувствую, что мой король в относительной безопасности, поскольку некогда обильный запас атакующего потенциала у белых иссяк после трех разменов легких фигур. Кроме того, пока что центр остается относительно закрытым.
 
-2. My structure is without weakness, while White's damaged one virtually ensures a painful ending, should queens come off the board.
+2. Моя структура лишена слабостей, в то время как поврежденная структура белых практически гарантирует болезненный эндшпиль, если ферзи уйдут с доски.
 
-3. I removed his bishop from the board, so a dark square pandemic has been averted.
+3. Я убрал с доски их слона, так что пандемия черных полей предотвращена.
 
-Conclusion: I'm happy with the transaction.
+
+Вывод: Я доволен сделкой.
 
 **13.Nh4**
 
-Clearing the way for f4 and f5, as well as Qg3.
+Расчищая путь для f4 и f5, а также Qg3.
 
 **13...Rac8**
 
-Pressure builds for White down the c-file and he must do something quickly to counteract it.
+По линии "c" на белых нарастает давление, и они должны быстро что-то предпринять, чтобы этому противостоять.
 
 **14.f4 cxd4 15.cxd4**
 
-I expected 15.f5 . Black looks better after 15...Nc5! 16.Qf3 Rcf8 17.fxe6 fxe6 18.Qg4 g6 19.cxd4 Ne4 when his king is safe for now, while White's structure remains vulnerable.
+Я ожидал 15.f5. Черные выглядят лучше после 15...Nc5! 16.Qf3 Rcf8 17.fxe6 fxe6 18.Qg4 g6 19.cxd4 Ne4, когда их король пока в безопасности, а структура белых остается уязвимой.
 
 **15...Qc4**
 
-Of course, Black would love a queen swap, which would remove all the pressure off my king.
+Конечно, черным понравится размен ферзей, который снимет все давление с моего короля.
 
 **16.Qg3!?**
 
-The nuclear option. This kind of sacrifice is catnip for a natural attacker.
+Ядерный вариант. Такая жертва – кошачья мята для прирожденного нападающего.
 
 **16...Qxd4+**
 
-I am intent on disproving the theory of less is more. Wrong! More is more!
+Я намерен опровергнуть теорию о том, что меньше – значит больше. Неверно! Больше – значит больше!
 
 **17.Kh1 g6 18.Qg5+?!**
 
-White looks better off going for 18.Nf3! Qa4 19.Qg5+ Kd7 20.Qf6 Rhe8 21.Ng5 with better attacking chances than in the game continuation.
+Белым лучше пойти на 18.Nf3! Qa4 19.Qg5+ Kd7 20.Qf6 Rhe8 21.Ng5 с лучшими атакующими шансами, чем далее в партии.
 
 **18...Kd7 19.Qf6 Qc5!**
 
-In such a position, the system is rigged to favour the wealthy. The imperative of survival overwhelms all other petty concerns, so I offer the extra pawn back to get a better ending.
+В такой позиции система настроена в пользу богатых. Необходимость выживания преобладает над всеми остальными мелочными заботами, поэтому я предлагаю вернуть лишнюю пешку, чтобы получить лучший эндшпиль.
 
 **20.Nf3**
 
-I expected him to open lines with 20.c4 Qe7! 21.cxd5 Qxf6 22.exf6 exd5 23.Rad1 Kd6 with a winning ending for Black.
+Я ожидал, что они вскроют линии ходом 20.c4 Qe7! 21.cxd5 Qxf6 22.exf6 exd5 23.Rad1 Kd6 с выигранным эндшпилем за черных.
 
-Instead, 20.Qxf7+ allows Black to force queens off the board with 20...Qe7 21.Qxe7+ Kxe7 when White's structure remains vulnerable in the ending.
+Вместо этого 20.Qxf7+ позволяет черным вытеснить ферзей с доски ходом 20...Qe7 21.Qxe7+ Kxe7, когда структура белых остается уязвимой в эндшпиле.
 
 **20...Qe7 21.Qg7 h6!**
 
-Preventing Ng5 and worrying White about a forced trade after ...Rcg8, when Black's rooks tisk tisk in unison at White's out-of-play queen, who roosts on g7 like a senile owl.
+Предотвращая Ng5 и беспокоя белых вынужденным разменом после ...Rcg8, когда черные ладьи дружно бьют по ферзю белых, находящемуся вне игры и  сидящему на g7, как дряхлая сова.
 
 **22.f5?**
 
-This is contributing evidence of White's decline. His move is made with the philosophy: when confronted with an unpleasant task, it's better done sooner than later.
+Это свидетельство упадка белых. Их ход сделан с философией: когда сталкиваешься с неприятной задачей, лучше сделать ее раньше, чем позже.
 
-22.c4 was his best shot.
+22.c4 было их лучшим шансом.
 
 **22...gxf5 23.Qg3 Rhg8 24.Qf2 Rc4**
 
-White is down two pawns and his attack is no more.
+Белые потеряли две пешки, и их атака не имеет смысла.
 
-SUMMARY: The only difference between 4...Qd7 and 4...b6 is that 4...Qd7 allows Black to meet 5.Qg4 with 5...f5, when g7 is protected laterally.
+РЕЗЮМЕ: Единственная разница между 4...Qd7 и 4...b6 в том, что 4...Qd7 позволяет черным встретить 5.Qg4 путем 5...f5, когда g7 защищена сбоку.
 
 **0-1**
 
-### Khachian,M. - Lakdawala,C. 8: San Diego (rapid), 2009
+### 8: Khachian,M. - Lakdawala,C. San Diego (rapid), 2009
 
 **1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Nc6!?**
 
-I picked this oddball line to try and throw the GM out of his opening comfort zone.
+Я выбрал эту странную линию, чтобы попытаться вывести гроссмейстера из зоны комфорта в дебюте.
 
-Black's other sidelines: 6...Ne7 7.Qg4 Kf8!? 8.h4 Qc7 9.Qd1 cxd4 10.cxd4 Qc3+ 11.Bd2 Qxd4 12.Nf3 Qe4+ 13.Be2 b6 14.O-O Ba6 15.c4 , G.Kasparov-P.Nikolic, Horgen 1994. White's development lead fully compensates for his two missing pawns after 15...Bxc4 16.Bxc4 dxc4 17.Rc1 .
+Другие боковые линии черных: 6...Ne7 7.Qg4 Kf8!? 8.h4 Qc7 9.Qd1 cxd4 10.cxd4 Qc3+ 11.Bd2 Qxd4 12.Nf3 Qe4+ 13.Be2 b6 14.O-O Ba6 15.c4 , G.Kasparov-P.Nikolic, Horgen 1994. Перевес в развитии белых полностью компенсирует две недостающие пешки после 15...Bxc4 16.Bxc4 dxc4 17.Rc1.
 
-6...Qc7 7.Qg4 f5 8.Qg3 cxd4 9.cxd4 Ne7 10.Bd2 O-O 11.Bd3 b6 12.Ne2 Ba6 13.Nf4 Qd7 14.h4 Bxd3 15.Qxd3 . Most annotators feel that White's kingside chances slightly outweigh Black's on the queenside, but I am not one who shares this opinion, and feel like Black is dynamically even, G.Kasparov-N.Short, Novgorod 1997.
+6...Qc7 7.Qg4 f5 8.Qg3 cxd4 9.cxd4 Ne7 10.Bd2 O-O 11.Bd3 b6 12.Ne2 Ba6 13.Nf4 Qd7 14.h4 Bxd3 15.Qxd3 . Большинство аннотаторов считают, что шансы белых на королевском фланге несколько перевешивают шансы черных на ферзевом, но я не разделяю этого мнения и считаю, что черные динамически равны, G.Kasparov-N.Short, Novgorod 1997.
 
-6...Qa5 7.Bd2 Qa4 8.Qg4 g6 is very close to what we got in my game against Khachian, and may well transpose.
+6...Qa5 7.Bd2 Qa4 8.Qg4 g6 очень близко к тому, что мы получили в моей партии с Хачианом, и вполне может туда перейти.
 
 **7.Qg4 g6**
 
-This move creates a huge potential liability on the weakened dark squares later on.
+Этот ход требует огромной ответственности в дальнейшем за потенциально ослабленные черные поля.
 
 **8.Nf3**
 
-Playing it safe.
+Играйте безопасно.
 
-White may get an edge with 8.h4! Qa5 9.Bd2 Qa4 10.h5! , and if 10...Nxe5? Black should decline both e5 and c2 offers.
+Белые могут получить преимущество при 8.h4! Qa5 9.Bd2 Qa4 10.h5! , и если 10...Nxe5? черные должны отказаться от предложений e5 и c2.
 
 **8...Qa5 9.Bd2 Qa4**
 
-NOTE: On a4, the queen pressures d4 and c2.
+ПРИМЕЧАНИЕ: На a4 ферзь давит на d4 и c2.
 
 **10.Ra2 c4**
 
-Black has a horrible bishop and is punctured on the dark squares. On the other hand, White takes on serious queenside weaknesses and an offside rook.
+У черных ужасный слон и пробоины по черным полям. С другой стороны, у белых серьезные слабости на ферзевом фланге и ладья в офсайде.
 
 **11.h4!?**
 
-The statement 'once upon a time' asks the reader not to ask embarrassing questions like: "Is your story based in reality?" Although not a calamitous lapse in judgement, my feeling is that White's sacrifice is slightly dubious, although the comp backs him up with a slightly favourable evaluation.
+Утверждение "когда-то давно" просит читателя не задавать неудобных вопросов, таких как: "А основана ли ваша история на реальности?". Хотя это и не катастрофический промах, мне кажется, что жертва белых несколько сомнительна, хотя комп подкрепляет ее несколько благоприятной оценкой.
 
-11.Be2 is the safer route.
+11.Be2 – более безопасный путь.
 
 **11...Qb5!**
 
-I experienced a quickening of expectations, threatening to win his a2-rook with ...Qb1+.
+Я испытал обострение ожиданий, грозя выиграть их ладью а2 ходом ...Qb1+.
 
 **12.Ra1 Qb2 13.Rc1**
 
-My opponent considered his a3-pawn the drossiest of all the dross available, while I thought: "Hey, groovy, a free pawn!"
+Мой соперник считал свою пешку а3 самой грязной из всех возможных шлаков, а я думал: "Эй, круто, бесплатная пешка!"
 
 **13...h6!**
 
-The idea is to meet h5 with ...g5.
+Идея состоит в том, чтобы встретить h5 ходом ...g5.
 
-I parry and feint, rather than sink my threat home into tender flesh with the greedy line 13...Qxa3!? , a move made with the warning: Oliver Twist would have spared himself a lot of anguish had he not asked Mr. Bumble for "some more".
+Я парирую и уклоняюсь, вместо того чтобы вонзить угрозу в нежную плоть жадным вариантом 13...Qxa3!? , ход, сделанный с предупреждением: Оливер Твист избавил бы себя от многих страданий, если бы не попросил мистера Бамбла "еще немного".
 
 **14.h5 g5 15.Nh2!**
 
-Clearing the way for f4. Black must act, or face dissolution of his kingside.
+Расчищая путь для f4. Черные должны действовать, иначе им грозит распад королевского фланга.
 
 **15...f5!**
 
-In each game both sides should expect a few mild slaps in the face, when our opponent makes an unexpected move below our mental radar. Melik said he overlooked this idea, where Black either closes the kingside, or develops with tempo.
+В каждой партии обе стороны должны ожидать нескольких легких пощечин, когда соперник делает неожиданный ход, не попадающий на наш мысленный радар. Мелик сказал, что упустил из виду эту идею, где черные либо закрывают королевский фланг, либо развиваются с темпом.
 
 **16.exf6**
 
-He is forced to lose more time to clear the e5-square for his pieces.
+Они вынуждены терять больше времени, чтобы освободить поле е5 для своих фигур.
 
-16.Qd1? Qxa3 is hopeless for White since the kingside is pretty much sealed.
+16.Qd1? Qxa3 безнадежно для белых, так как королевский фланг практически закрыт.
 
 **16...Nxf6 17.Qe2 Ne4 18.Qe3 Bd7 19.Ng4 O-O-O 20.f3 Ng3 21.Rh3**
 
-EXERCISE (combination alert): My position's mood is one of euphoric opportunity, as if something wonderful is around the corner. How can Black gain a winning attack?
+УПРАЖНЕНИЕ (редупреждение о комбинации): Настроение у меня от моей позиции – эйфорическое, как будто что-то прекрасное находится за углом. Как черные могут получить выигрывающую атаку?
 
 **21...Nf5?!**
 
-Moves like this are one of the reasons that the name Lakdawala is not one which is feared in chess tournaments around the world. It isn't easy to pluck a handful of order from chaos. When we miss a combination, it's as if a character in a play burns a letter, whose contents are never to be revealed to the audience.
+Подобные ходы – одна из причин того, что имя Лакдавала не вызывает страха в шахматных турнирах по всему миру. Нелегко из хаоса выделить горстку порядка. Когда мы пропускаем комбинацию, это похоже на то, как если бы персонаж пьесы сжигал письмо, содержание которого никогда не будет раскрыто зрителю.
 
-ANSWER: I missed a great chance with 21...e5!! . Principle: open the game and create confrontation when leading in development. After 22.dxe5
+ОТВЕТ: Я упустил отличный шанс не сделав ход 21...e5!! . Принцип: открывайте игру и создавайте противостояние, лидируя в развитии. После 22.dxe5
 
-(or 22.Rxg3?? exd4 23.Qf2 dxc3 24.Be3 d4 and Black wins)
+(or 22.Rxg3?? exd4 23.Qf2 dxc3 24.Be3 d4 и черные выигрывают)
 
-22...Bxg4 23.Rxg3 Rhe8 24.f4 Bxh5 White is busted.
+22...Bxg4 23.Rxg3 Rhe8 24.f4 Bxh5 белые терпят поражение.
 
 **22.Qe2 Qxa3 23.f4! Qe7?**
 
-23...gxf4 24.Bxf4 Rdf8 maintains Black's edge.
+23...gxf4 24.Bxf4 Rdf8 сохраняет перевес черных.
 
 **24.fxg5 hxg5 25.Ne5 Nxe5 26.Qxe5 g4 27.Bf4**
 
-Threatening mate on two different squares.
+Угрожающий мат на двух разных полях.
 
 **27...Bc6?**
 
-Losing my equilibrium. Now White's attack grows potent.
+Теряю равновесие. Теперь атака белых становится мощнее.
 
 **28.Rh1 Kd7**
 
-"Another fine mess you've gotten me into," I thought to myself, channelling Oliver Hardy. When I bungle a game, I always ask: "Why does cruel Caissa the chess goddess always favour the undeserving?", who in every instance is my opponent! White stands better and I took my opponent's draw offer, which gave him clear first place in the tournament (a concession I took solely for medicinal purposes). Normally tenacity is your writer's middle name (in truth, my middle name, to my abiding shame, is Freddy). I felt the position would be almost impossible to win for Black, but very easy to lose.
+"Еще один прекрасный бардак, в который ты меня втянул", – подумал я про себя, подражая Оливеру Харди. Когда я проваливаю партию, я всегда спрашиваю: "Почему жестокая богиня шахмат Каисса всегда благоволит к недостойным?", коим в каждом случае является мой соперник. Белые стоят лучше, и я принял предложение соперника о ничьей, что обеспечило ему чистое первое место в турнире (уступка, на которую я пошел исключительно в лечебных целях). Обычно упорство – второе имя писателя (на самом деле мое второе имя, к моему глубокому стыду, Фредди). Я чувствовал, что позицию практически невозможно выиграть черным, но очень легко проиграть.
 
-SUMMARY: 6...Nc6!?, along with lines 'a', 'b', and 'c' below it, are quirky side lines which can be used as surprise weapons.
+РЕЗЮМЕ: 6...Nc6!?, а также линии "a", "b" и "c" под ним – причудливые боковые линии, которые можно использовать как неожиданное оружие.
 
 **1/2-1/2**
 
-## 2: The Winawer: 4th move
+## 2: Винавер: 4-й ход
 
 **1.e4 e6 2.d4 d5 3.Nc3 Bb4**
 
