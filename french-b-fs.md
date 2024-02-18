@@ -1165,7 +1165,7 @@ Zwischenzug. Следующим ходом черные получат фигу�
 
 С помощью 4.Nge2 белые предотвращают сдвоение пешек на с3, ценой торможения своего развития. Мы принимаем от белых предложение пешки е4 и держимся за него, как за мрачную смерть.
 
-4.a3 белые поощряют ...Bxc3+, ценой потери темпа. Мы забираем коня, а затем и пешку "е" белых. На Qg4 белые отвечают двойным ударом на e4 и g7.
+4.a3 белые поощряют ...Bxc3+, ценой потери темпа. Мы забираем коня, а затем и пешку "е" белых. Белые парируют – Qg4 с двойным ударом на e4 и g7.
 
 4.Bd3. Проблема с этим ходом в том, что черные получают темп за счет слона ходом ...dxe4, за которым следует ...Nf6.
 
@@ -1313,417 +1313,419 @@ Zwischenzug. Следующим ходом черные получат фигу�
 
 **1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Nge2**
 
-White protects his c3-knight from the potential damage to his structure, but at a high cost:
+Белые защищают своего коня с3 от потенциального ущерба своей структуре, но дорогой ценой:
 
-1. White's e4-pawn is sacrificed and there is no guarantee he regains it.
+1. Пешка е4 белых пожертвована, и нет никакой гарантии, что они ее вернут.
 
-2. Nge2 clogs White's kingside development.
+2. Nge2 блокирует развитие королевского фланга белых.
+
 
 **4...dxe4**
 
-The most natural move. Black grabs e4 and dares his opponent to either regain the pawn, or prove compensation.
+Самый естественный ход. Черные берут на е4 и предлагают противнику либо вернуть пешку, либо доказать компенсацию.
 
-I often play 4...Nc6!? 5.a3 Ba5 6.b4 Bb6 7.e5 f6 8.f4 fxe5 9.dxe5 a6 (to preserve the bishop) 10.Qd3 Nh6 . White found himself behind in development and struggling, R.Bruno-C.Lakdawala, San Diego (rapid) 2007.
+Я часто играю 4...Nc6!? 5.a3 Ba5 6.b4 Bb6 7.e5 f6 8.f4 fxe5 9.dxe5 a6 (чтобы сохранить слона) 10.Qd3 Nh6 . Белые отстали в развитии и испытывают трудности, R.Bruno-C.Lakdawala, San Diego (rapid) 2007.
 
 **5.a3 Bxc3+**
 
-The more adventurous path.
+Более авантюрный путь.
 
-5...Be7 6.Nxe4 Nf6 is a safer path to equality for Black.
+5...Be7 6.Nxe4 Nf6 безопасный путь к равенству для черных..
 
 **6.Nxc3 Nc6**
 
-Counterattacking d4.
+Контратака d4.
 
 **7.Bb5**
 
-After 7.d5 exd5 8.Qxd5 Be6 9.Qxe4 Nf6 , Black's development lead makes up for White's bishop pair.
+После 7.d5 exd5 8.Qxd5 Be6 9.Qxe4 Nf6 перевес черных в развитии компенсирует пару слонов белых.
 
 **7...Nge7 8.Bg5**
 
-White regards Black's e4-pawn as superfluous clutter and is happy to give it away.
+Белые считают пешку e4 черных ненужной обузой и с удовольствием ее уступают.
 
-8.Nxe4 is met with 8...Qd5! and I'm not so confident White gets full compensation for the pawn.
+На 8.Nxe4 можно ответить 8...Qd5! и я не уверен, что белые получат полную компенсацию за пешку.
 
 **8...f6 9.Be3 O-O 10.Qd2**
 
-NOTE: It isn't so easy for White to regain his sacrificed pawn in this line. If 10.Nxe4? f5 11.Ng5 f4 12.Bd2 Qd5! 13.Bxc6 Nxc6 14.Nf3 Nxd4 and Black picks up a clean pawn.
+ПРИМЕЧАНИЕ: В этой линии белым не так-то просто вернуть пожертвованную пешку. Если 10.Nxe4? f5 11.Ng5 f4 12.Bd2 Qd5! 13.Bxc6 Nxc6 14.Nf3 Nxd4, черные получают чистую лишнюю пешку.
 
 **10...f5**
 
-DID YOU KNOW? Many players believe that art is the opposite of utility.
+ЗНАЛИ ЛИ ВЫ? Многие игроки считают, что искусство – это противоположность полезности.
 
-Viktor Korchnoi didn't. He, along with Emanuel Lasker and Bobby Fischer, turned pawn grabbing into an art form.
+Виктор Корчной этого не сделал. Вместе с Эмануэлем Ласкером и Бобби Фишером он превратил забирание пешек в форму искусства.
 
-Black manages to hold on to his extra pawn. For it White gets some degree of dark-square control and the bishop pair. My personal preference is for Black's side.
+Черным удается удержать лишнюю пешку. За это белые получают некоторую степень контроля над черными полями и пару слонов. Лично я предпочитаю сторону черных.
 
 **11.Bg5?!**
 
-This proves to be a waste of time.
+Это оказывается пустой тратой времени.
 
-The main line runs 11.O-O-O a6 12.Bxc6 Nxc6 13.f3 . Even here White's attack for the pawn is by no means a richly endowed charity with endless resources, although there is compensation for the pawn, W.Giblin-C.Holland, London 1994.
+Главная линия – 11.O-O-O a6 12.Bxc6 Nxc6 13.f3 . Даже здесь атака белых за пешку – отнюдь не щедрая благотворительность с бесконечными ресурсами, хотя компенсация за пешку есть, W.Giblin-C.Holland, London 1994.
 
 **11...h6 12.Bxe7**
 
-12.Bxc6 bxc6 gives Black an open b-file to attack.
+12.Bxc6 bxc6 дает черным открытую линию "b" для атаки.
 
 **12...Nxe7 13.O-O-O**
 
-Opposite wings castling is a world where you say "East!" and your opponent says "West!".
+Рокировка на противоположных флангах – это мир, где говоришь "Восток!", а ваш оппонент говорит "Запад!".
 
 **13...Nd5 14.Bc4 c6 15.f3 exf3 16.gxf3 Qh4 17.Ne2 f4!**
 
-Prolonged defence tends to offend a proud spirit, and Korchnoi seizes the initiative on the kingside, which is normally White's province in this line.
+Длительная защита оскорбляет гордый дух, и Корчной перехватывает инициативу на королевском фланге, который обычно является прерогативой белых в этой линии.
 
 **18.Rdg1 Qf2! 19.Rg6**
 
-White's attempts to attack at this stage feel like the poor man with a toothache, who powers up his drill to perform his own root canal to save money by circumventing the dentist's bill.
+Попытки белых атаковать на этом этапе напоминают бедняка с зубной болью, который включает свою дрель, чтобы прочистить собственный корневой канал, чтобы сэкономить деньги, обойдя счет дантиста.
 
 **19...Qxf3 20.Rhg1 Rf7 21.Kb1?!**
 
-The new arrangement is unworkable for White to reach his goals.
+Новая расстановка не позволяет белым достичь своих целей.
 
-He had to be consistent and try 21.Rxh6 .
+Им нужно было быть последовательным и попробовать 21.Rxh6.
 
 **21...Qe3 22.Qd1 Ne7!**
 
-When we set up a trap, we in essence want to be given a fortune, without the indignity of having to actually work for it.
+Устраивая ловушку, мы, по сути, хотим получить состояние, не испытывая при этом неудобств, связанных с необходимостью работать для этого.
 
 **23.R6g4**
 
-23.Rxh6?? is met with 23...f3! with a double threat of ...fxe2 and ...Qxh6.
+На 23.Rxh6?? отвечает 23...f3! с двойной угрозой ...fxe2 и ...Qxh6.
 
 **23...f3 24.R4g3?**
 
-Now White's attacking lane is a clogged drain.
+Теперь атака белых превращается в забитый сток.
 
 **24...Nf5!**
 
-White loses heavy material.
+Белые теряют тяжелый материал.
 
-SUMMARY: Respond to 4 Nge2 with 4...dxe4 and make White fight to regain the lost pawn.
+РЕЗЮМЕ: На 4.Nge2 ответьте ходом 4...dxe4 и заставьте белых бороться за возвращение потерянной пешки.
 
 **0-1**
 
-### Balares,J. - Lakdawala,C. 11: San Diego (rapid), 2007
+### 11: Balares,J. - Lakdawala,C. San Diego (rapid), 2007
 
 **1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.a3**
 
-White is willing to expend a tempo, damage his pawn structure and temporarily offer e4, just to pick up the bishop pair.
+Белые готовы потратить темп, повредить пешечную структуру и временно предложить е4, лишь бы забрать пару слонов.
 
 **4...Bxc3+ 5.bxc3 dxe4**
 
-WARNING: This move doesn't actually win a pawn, since White regains it on the next move with a double attack.
+ВНИМАНИЕ: Этот ход на самом деле не выигрывает пешку, так как белые возвращают ее себе на следующем ходу с помощью двойного удара.
 
 **6.Qg4**
 
-White regains his pseudo-sacrificed pawn, at the cost of time and allowing Black an open g-file.
+Белые возвращают свою псевдопожертвованную пешку ценой времени и позволяя черным открыть линию "g".
 
 **6...Nf6 7.Qxg7 Rg8 8.Qh6 Nbd7**
 
-Black leaves ...Rg6 in reserve.
+Черные оставляют ...Rg6 в запасе.
 
 **9.Ne2**
 
-The idea is to play to g3 to dampen Black's power along the open g-file.
+Идея состоит в том, чтобы перейти на g3, и ослабить силу черных по открытой линии g.
 
 **9...c5**
 
-9...b6 is played more often: 10.Ng3 Bb7 11.Be2 c5 is considered to be a position where Black achieves dynamic equality.
+Чаще играют 9...b6: 10.Ng3 Bb7 11.Be2 c5 считается позицией, в которой черные добиваются динамического равенства.
 
 **10.Ng3**
 
-Don't you hate it when you drive on a single lane road and the car ahead obstructs your progress with a contemptible law-abiding driver who has the colossal gall to observe the speed limit? White's blocks Black's pressure down the g-file.
+Разве вам не противно, когда вы едете по однополосной дороге, а впереди идущая машина препятствует вашему движению с презрением законопослушного водителя, имеющего колоссальную наглость соблюдать скоростной режим? Белые блокируют давление черных по линии "g".
 
 **10...Qa5 11.Bd2 Qa4?!**
 
-WARNING: Don't fall behind in development in an open position.
+ВНИМАНИЕ: Не отставайте в развитии в открытой позиции.
 
-This move is based on the philosophy: those who dictate laws may also dispense with them. For many of us the opening stage has degenerated into a Pavlovian reflex, without actual thought. Its opposite problem is displayed by my last move, which represents misguided creativity in forcing a position which doesn't allow for it. This line is not one where we can afford to not live by the book. Black can't afford the waste of time involved.
+Этот ход основан на философии: тот, кто диктует законы, может обойтись и без них. Для многих из нас дебютная стадия превратилась в павловский рефлекс, не требующий обдумывания. Противоположную проблему демонстрирует мой последний ход, который представляет собой ошибочное творчество в форсировании позиции, которая этого не позволяет. Эта линия – не та, где мы можем позволить себе не жить по правилам. Черные не могут позволить себе потерю времени.
 
-11...b6 is correct.
+11...b6 верно.
 
 **12.dxc5**
 
-12.Qe3! Qxc2 13.Rc1 Qa4 14.Nxe4 is in White's favour.
+12.Qe3! Qxc2 13.Rc1 Qa4 14.Nxe4 – в пользу белых.
 
 **12...Qxc2**
 
-With an air of self-destruction, I grab a pawn and waste time as calmly as inquiring about a slight shift in the weather. For a positional player like your writer to be here is similar to a scientist asking a poet about the geological properties of the California coastline.
+С чувством самоуничтожения я хватаю пешку и трачу время так же спокойно, как спрашивая о небольшом изменении погоды. Для такого позиционного игрока, как ваш писатель, оказаться здесь – все равно, что ученому спросить поэта о геологических свойствах калифорнийского побережья.
 
 **13.Bb5?!**
 
-A key element in the art of knife throwing is that the knife should enter the target's body blade first.
+Ключевой элемент в искусстве метания ножей заключается в том, что нож должен сначала войти в тело цели лезвием.
 
-13.Be2! Rg6 14.Qe3 Ne5 15.O-O , when White's development lead and bishop pair in the open position give him a clear advantage.
+13.Be2! Rg6 14.Qe3 Ne5 15.O-O, когда перевес в развитии и пара слонов в открытой позиции дают белым явный перевес.
 
 **13...Qb2! 14.Bxd7+**
 
-White's miscalculation grounds to its painful conclusion, as he is forced to return the bishop pair.
+Просчет белых приводит к болезненному завершению: они вынуждены вернуть пару слонов.
 
 **14...Bxd7 15.O-O Rg6 16.Qe3 Bc6 17.c4?! O-O-O?!**
 
-After 17...Ng4! 18.Qc3 Qxc3 19.Bxc3 O-O-O Black has the better ending, due to White's isolated and crippled queenside pawns.
+После 17...Ng4! 18.Qc3 Qxc3 19.Bxc3 O-O-O у черных лучший эндшпиль, благодаря изолированным и покалеченным пешкам ферзевого фланга белых.
 
 **18.Bc3 Qc2 19.Rac1 Qd3 20.Be5? Ng4! 21.Qf4 Nxe5**
 
-At long last, I put my dark-square deficiency to rights.
+Наконец-то я исправил свой чернопольный недостаток.
 
 **22.Qxe5 f5 23.Rc3?**
 
-To walk along this path is to invite defeat.
+Идти по этому пути – значит обречь себя на поражение.
 
-23.Rcd1 Qxd1 24.Rxd1 Rxd1+ 25.Nf1 had to be tried.
+23.Rcd1 Qxd1 24.Rxd1 Rxd1+ 25.Nf1 надо было пробовать.
 
 **23...Qd2 24.Re3 Qd4!**
 
-"Hi!" says Black's queen, in a bold conversational-opening gambit. Black removes White's only active piece, and the ending is lost for White.
+"Привет!" - говорит черный ферзь. Черные убирают единственную активную фигуру белых, и эндшпиль для белых проигран.
 
 **25.Qxd4 Rxd4**
 
-Threat: ...f4.
+Угроза: ...f4.
 
 **26.Rc3 Rd2 27.Re1 e3! 28.Rcxe3 f4 29.R3e2 Rxe2 30.Nxe2 Rxg2+ 31.Kf1 e5?!**
 
-I should play 31...Rxh2! 32.Nxf4 Bf3! 33.Ne2 Bg2+! 34.Kg1 Rh1+ which wins.
+Надо было играть 31...Rxh2! 32.Nxf4 Bf3! 33.Ne2 Bg2+! 34.Kg1 Rh1+, которое выигрывает.
 
 **32.Nc3 Rg5 33.h4?! Rh5 34.Nd5 Rxh4! 35.f3 Rh1+ 36.Ke2 Rxe1+ 37.Kxe1 Kd7 38.Nf6+ Ke7!**
 
-Avoiding the trap 38...Ke6? 39.Nxh7 Bxf3?? 40.Ng5+ .
+Избегая ловушки 38...Ke6? 39.Nxh7 Bxf3?? 40.Ng5+.
 
 **39.Nxh7 Bxf3 40.Ng5 Bc6 41.Ke2 Kf6**
 
-SUMMARY: I have always found 4 a3 to be a dangerous and lip-bitingly tense line, since White forces open the game with the bishop pair. Black must rely on a development lead to counterbalance White's bishops.
+РЕЗЮМЕ: Я всегда считал 4.a3 опасной и напряженной линией, поскольку белые начинают партию с парой слонов. Черные должны полагаться на преимущество в развитии, чтобы уравновесить слонов белых.
 
 **0-1**
 
-### Tal,M. - Lein,A. 12: USSR Championship, Leningrad, 1971
+### 12: Tal,M. - Lein,A. USSR Championship, Leningrad, 1971
 
-DID YOU KNOW? Tal, despite a style bordering on madness, holds the two longest non-losing streaks in chess history.
+ВЫ ЗНАЛИ? Таль, несмотря на свой стиль, граничащий с безумием, имеет две самые длинные серии без проигрышей в истории шахмат.
 
 **1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Bd3**
 
-To me this line is illogical since White's bishop loses a tempo to the coming ...Nf6.
+На мой взгляд, эта линия нелогична, так как слон белых теряет темп из-за предстоящего ...Nf6.
 
-4.Qd3 is a close cousin to the line Tal played. Our strategy remains the same: 4...dxe4 5.Qxe4 Nf6 6.Qh4 , E.Sevillano-C.Lakdawala, San Diego 2006. Black can equalize any number of ways, the most dynamic of which may be 6...c5 7.dxc5 Bxc3+ 8.bxc3 Qa5 9.Qb4 Qc7 . I doubt that White's bishop pair means all that much when you look at those homely triplets on the c-file.
+4.Qd3 – близкий родственник линии, которую играл Таль. Наша стратегия остается прежней: 4...dxe4 5.Qxe4 Nf6 6.Qh4 , E.Sevillano-C.Lakdawala, San Diego 2006.Черные могут уравнять любым способом, самым динамичным из которых может быть 6...c5 7.dxc5 Bxc3+ 8.bxc3 Qa5 9.Qb4 Qc7. Сомневаюсь, что пара белых слонов что-то значит, если посмотреть на эту одинокую тройку по линии "c".
 
 **4...dxe4**
 
-The most logical move. Black soon gains a tempo.
+Самый логичный ход. Вскоре черные набирают темп.
 
 **5.Bxe4 Nf6 6.Bg5**
 
-If 6.Bf3 c5 7.Nge2 Nc6 8.a3 Bxc3+ 9.bxc3 e5! and Black stands no worse.
+Если 6.Bf3 c5 7.Nge2 Nc6 8.a3 Bxc3+ 9.bxc3 e5! и черные стоят не хуже.
 
 **6...Nbd7 7.Bf3 c5**
 
-Lein chips away at Tal's central control.
+Лейн ослабляет контроль центра Талем.
 
 **8.dxc5!?**
 
-When we come up with a new move, we leave the comfort of scholarly citations and precedents, to a lonely place which only you have visited. Tal's move is no improvement, since it loses more time.
+Когда мы придумываем новый ход, мы оставляем комфорт научных цитат и прецедентов в уединенном месте, которое посещали только вы. Ход Таля не является улучшением, поскольку он теряет время.
 
-Better was 8.Nge2 .
+Лучше было 8.Nge2 .
 
 **8...Qa5 9.Qd3?!**
 
-It's odd to see a player who fails to conform to his own beliefs. It almost feels as if Tal deliberately courts disaster this game, by insisting on falling behind in development. There is a certain type of player who when he or she spots a norm, is immediately compelled to transgress it. Tal, who like Oscar Wilde, was able to resist anything but temptation itself, always held a deep aversion to the middle ground and is lured into a time-wasting idea.
+Странно видеть игрока, который не соответствует своим собственным убеждениям. Такое ощущение, что Таль намеренно провоцирует катастрофу в этой игре, настаивая на отставании в развитии. Есть определенный тип игроков, которые, заметив норму, немедленно вынуждены ее нарушить. Таль, который, как и Оскар Уайльд, был способен противостоять чему угодно, кроме самого искушения, всегда испытывал глубокое отвращение к золотой середине и увлекался идеей, отнимающей время.
 
-Correct was the rather un-Tal like concession 9.Bd2 .
+Правильной была совсем не похожая на Таля уступка 9.Bd2.
 
 **9...Nxc5**
 
-Thanks for the tempo!
+Спасибо за темп!
 
 **10.Qc4?!**
 
-Placing the queen on the open c-file leads to more time lost when Black later plays ...Rc8.
+Размещение ферзя на открытой линии "c" приводит к потере времени, когда черные позже сыграют ...Rc8.
 
-10.Qd4 makes White's game slightly less miserable, which is really just backhanded praise, like saying: "You are the finest musician in your family," to a person who is the only musician in the family.
+10.Qd4 делает игру белых чуть менее жалкой, что на самом деле является просто похвалой за спиной, как если бы вы сказали: "Ты лучший музыкант в своей семье" человеку, который является единственным музыкантом в семье.
 
 **10...Na4**
 
-Black determines the availability of two plans and goes for the less effective one.
+Черные выявляют наличие двух планов и выбирают менее эффективный.
 
-Lein, on the verge of a big upset, misses the slick idea 10...Nfe4! when White is losing.
+Леин, находясь на грани крупного поражения, пропускает хитрую идею 10...Nfe4!, когда белые проигрывают.
 
 **11.Bd2 Nd5?!**
 
-Black reaps satisfying strategic profit from 11...Nxc3 12.bxc3 Bd6 when White's open b-file provides scant consolation when juxtaposed with his ugly queenside pawns.
+Черные получают неплохую стратегическую выгоду от 11...Nxc3 12.bxc3 Bd6, когда открытая линия "b" белых дает скудное утешение в сочетании с их уродливыми пешками на ферзевом фланге.
 
 **12.Nge2 O-O 13.a3?!**
 
-More time lost.
+Еще больше времени потеряно.
 
-White should try 13.O-O-O .
+Белым следовало бы попробовать 13.O-O-O.
 
 **13...Naxc3 14.Nxc3 Bxc3 15.bxc3 Bd7**
 
-Black stands clearly better and Tal's victory can be attributed to the fact that he was Tal, rather than his good position.
+У черных явно лучше, и победу Таля можно отнести скорее к тому, что он был Талем, чем к его хорошей позиции.
 
 **16.Qd4 Rac8 17.O-O Qa4 18.Rfc1 Bc6 19.Rab1 b6 20.c4 Ne7 21.Be2 Rfd8 22.Qf4 Ng6 23.Qe3 Bb7 24.Bc3 Qc6**
 
-Threatening mate.
+Угрожает мат.
 
 **25.Bf1 Ba6**
 
-The c4 outlier is under heavy pressure.
+Аутсайдер c4 находится под сильным давлением.
 
 **26.Rb4 Rd7**
 
-White's game remains quite miserable after 26...e5! seizing control over the centre.
+Игра белых остается довольно жалкой после 26...e5! с захватом контроля над центром.
 
 **27.Be2 Bb7 28.f3 Qc5 29.Qxc5 Rxc5 30.Rbb1 f6 31.Rd1 Rcc7**
 
-Black's edge has slipped away.
+Перевес черных ускользнул.
 
-Correct was 31...Rxd1+ 32.Rxd1 Rc8! 33.Rd7 Ba6 when Black is the one with all the winning chances.
+Правильным было 31...Rxd1+ 32.Rxd1 Rc8! 33.Rd7 Ba6, когда у черных все шансы на победу.
 
 **32.Rxd7 Rxd7 33.a4!**
 
-Intending a5. Suddenly it isn't so clear if White's queenside pawns represent a deficiency or a virtue. Even in his youth, Tal wasn't your everyday prodigy/brat. He had a habit of swindling world champions (just ask Smyslov and Botvinnik!) from inferior positions, so it's no surprise that he steals a game he should have lost or drawn at best, versus a GM. Yet this time he does it in an uncharacteristically honest way, with excellent endgame technique.
+Намереваясь a5. Внезапно стало не так ясно, являются ли пешки на ферзевом фланге белых недостатком или достоинством. Даже в юности Таль не был обычным вундеркиндом и сорванцом. У него была привычка надувать чемпионов мира (только спросите Смыслова и Ботвинника!) в худших позициях, поэтому нет ничего удивительного в том, что он похищает партию, которую должен был проиграть или в лучшем случае свести вничью, против гроссмейстера. Однако на этот раз он делает это нехарактерно честно, с отличной эндшпильной техникой.
 
 **33...Kf7 34.Kf2 Nf4?!**
 
-This planless move infringes upon Black's prime directive, which is to pressure c4.
+Этот внеплановый ход нарушает главную директиву черных – давление на с4.
 
-Suddenly I prefer White. Black should target c4 with 34...Ne5! .
+Неожиданно я отдаю предпочтение белым. Черные должны нацелиться на с4 путем 34...Ne5!.
 
 **35.Bf1 e5 36.a5 bxa5 37.Ra1 Rc7 38.Rxa5 Bc8 39.Bb4! Bf5?!**
 
-39...Rd7! prevents Tal's coming plan.
+39...Rd7! препятствует дальнейшему плану Таля.
 
 **40.Bd6 Rb7 41.Rb5 Rb6 42.Bc5 Rc6 43.Bxa7 Ra6 44.Be3 Bxc2 45.Bxf4! exf4**
 
-White's progress comes as softly as a priest's blessing. Black's kingside majority is crippled, while White's once sickly c4-pawn is dangerously passed.
+Продвижение белых происходит мягко, как благословение священника. Большинство черных на королевском фланге покалечено, а некогда болезненная пешка с4 белых опасно идет вперед.
 
 **46.c5 Rc6 47.Bc4+ Ke7 48.Ke2**
 
-ENDGAME PRINCIPLE: Don't hide your king in an ending. Use it.
+ПРИНЦИП ЭНДШПИЛЯ: Не прячьте своего короля в эндшпиле. Используйте его.
 
 **48...Rc7 49.Kd2 Ba4 50.Ra5 Bc6 51.Kc3 g5 52.Ra2 h5 53.Re2+! Kf8?**
 
-You may not actually commit the crime, yet still be guilty of being criminally complicit. Black saves his useless f6-pawn at the cost of decentralizing his king.
+Вы можете не совершать преступления, но при этом быть виновным в преступном соучастии. Черные спасают бесполезную пешку f6 ценой децентрализации своего короля.
 
-He had to try 53...Kd8 54.Re6 Bd7 55.Rxf6 Rxc5 56.Kd4 Ra5 .
+Они должны были попробовать 53...Kd8 54.Re6 Bd7 55.Rxf6 Rxc5 56.Kd4 Ra5.
 
 **54.Re6 Kg7 55.Kd4 Rd7+ 56.Rd6 Rc7 57.Bd5**
 
-Breaking down the blockade.
+ Прорыв блокады.
 
 **57...Bxd5 58.Kxd5 Re7 59.c6 Re5+ 60.Kc4 Re1 61.Rd3!**
 
-White meets a rook check on c1 with a block on c3.
+Белые встречают шах ладьей с с1 блоком на с3.
 
-SUMMARY: Both 4.Bd3 and 4.Qd3 fly in the face of historic trends, and can be effectively met with 4...dxe4 and 5...Nf6, gaining a tempo for Black.<level/><level start="5...Nf6" value="-1"/>
+РЕЗЮМЕ: И 4.Bd3, и 4.Qd3 идут вразрез с историческими тенденциями и могут быть эффективно встречены 4...dxe4 и 5...Nf6, выигрывая темп для черных.<level/><level start="5...Nf6" value="-1"/>
 
 **1-0**
 
-### Timman,J. - Vaganian,R. 13: Amsterdam, 1986
+### 13: Timman,J. - Vaganian,R. Amsterdam, 1986
 
 **1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Bd2**
 
-TIP: This dangerous line is a pawn sacrifice from White, which I would advise dodging.
+СОВЕТ: Эта опасная линия – жертва пешки от белых, от которой я бы посоветовал уклониться.
 
 **4...Ne7**
 
-Black continues cautiously as if a distant threat is now imminent.
+Черные продолжают осторожно, как будто далекая угроза уже неминуема.
 
-4...dxe4 5.Qg4 Qxd4 6.O-O-O may actually favour Black, if you ask the comps. For us humans, White's development lead looks rather dangerous.
+4...dxe4 5.Qg4 Qxd4 6.O-O-O на самом деле может оказаться в пользу черных, если спросить у компов. Для нас, обывателей, преимущество белых в развитии выглядит довольно опасным.
 
 **5.Bd3!?**
 
-Just because a move defies reason, doesn't automatically qualify it as an error. White offers a rather speculative pawn sacrifice, and then follows it with a second one.
+То, что ход противоречит разуму, не означает, что он автоматически является ошибкой. Белые предлагают довольно спекулятивную жертву пешки, а затем вторую.
 
-Otherwise: 5.Qg4 is safely met by 5...O-O .
+Иначе: на 5.Qg4 можно спокойно ответить 5...O-O.
 
-5.e5 c5 transposes to a position we looked at in the previous chapter.
+5.e5 c5 переходит в позицию, которую мы рассматривали в предыдущей главе.
 
 **5...dxe4 6.Nxe4 Qxd4**
 
-Well, Bobby Fischer did say that a pawn is worth a bit of trouble. In this case Black is only one move from castling, so the grab is quite justified.
+Итак, Бобби Фишер сказал, что пешка стоит некоторых хлопот. В этом случае черным остается всего один ход до рокировки, поэтому взятие вполне оправдано.
 
 **7.Nf3!?**
 
-Timman continues with unremitting hostility, offering a second pawn, rather than backing down with 7.Nc3 which to an attacker is a bit like turning a five star hotel into a monastery. Cavier/champagne and austerity measures don't mix well.
+Тимман продолжает с неослабевающей враждебностью, предлагая вторую пешку, вместо того, чтобы отступить ходом 7.Nc3, что для атакующего сродни превращению пятизвездочного отеля в монастырь. Икра/шампанское и меры жесткой экономии плохо сочетаются.
 
 **7...Bxd2+ 8.Qxd2 Qd5?!**
 
-Excess apprehension has a way of hampering our otherwise sound plan. Black's last move is made with the thought: if you don't start a fight, you can't lose one either. Yet, I argue: if you are going to be greedy, then be consistent about it. Black digests the choices before him and incorrectly declines White's second gift.
+Чрезмерные опасения могут помешать нашему разумному плану. Последний ход черных сделан с мыслью: если не начнешь борьбу, то и проиграть не сможешь. Тем не менее, я утверждаю: если вы собираетесь быть жадными, будьте в этом последовательны. Черные обдумывают стоящие перед ними варианты и ошибочно отклоняют второй подарок белых.
 
-He should accept with 8...Qxb2! . White's attack has all the spurious markings of a slightly unsound attack, for two reasons:
+Они должны согласиться на 8...Qxb2!. Атака белых имеет все признаки слегка непродуманной атаки по двум причинам:
 
-1. The move deprives White of queenside castling.
+1. Ход лишает белых рокировки на ферзевый фланг.
 
-2. Black is now up two pawns, and although I never was very good in maths, I'm almost certain that two is a higher (and therefore better!) number than one. I don't believe in White's full compensation for two pawns after 9.O-O Nbc6 10.Qg5 Ng6 .
+2. У черных теперь две пешки, и хотя я никогда не был силен в математике, я почти уверен, что две – это большее (а значит, лучшее!), чем одна. Я не верю в полную компенсацию белых за две пешки после 9.O-O Nbc6 10.Qg5 Ng6.
+
 
 **9.O-O-O**
 
-Now White gets a scary-looking development lead for the pawn.
+Теперь белые получают пугающий перевес в развитии за пешку.
 
 **9...Nbc6**
 
-Wise, as a2 is poisoned: 9...Qxa2?? allows 10.Bb5+ and the problem is 10...Nbc6 11.Qd8# !
+Разумно, так как a2 отравлена: 9...Qxa2?? позволяет 10.Bb5+, и проблема заключается в 10...Nbc6 11.Qd8# !
 
 **10.Qc3 f6**
 
-Blunting the white queen's influence, while preparing ...e5.
+Притупляя влияние белого ферзя и подготавливая ...e5.
 
 **11.a3**
 
-White finally covers the hanging a2-pawn.
+Белые наконец-то прикрывают висящую пешку a2.
 
 **11...e5?**
 
-Premature. This move gravely weakens the light squares.
+Преждевременно. Этот ход серьезно ослабляет белые поля.
 
-Black looks okay after 11...Qa5 when we feel an easing of tension in Black's position, similar to the release of pent up breath.
+Черные выглядят в порядке после 11...Qa5, когда мы чувствуем ослабление напряжения в позиции черных, похожее на выдох после задержки дыхания.
 
 **12.Nc5!**
 
-Black's queen is in danger of discovered checks from White's bishop.
+Ферзь черных находится под угрозой вскрытого нападения со стороны слона белых.
 
 **12...Qf7 13.Bc4**
 
-Suddenly White's forces hum with menace. Black's king is now stuck in the centre and Vaganian's position is overtaxed on the weak light squares.
+Внезапно силы белых загудели от угрозы. Черный король теперь застрял в центре, а позиция Ваганяна перенапряжена по слабым белым полям.
 
 **13...Qg6 14.Rd2 Qxg2!?**
 
-WARNING: Don't create confrontation or open the position when lagging in development.
+ВНИМАНИЕ: Не создавайте конфронтацию и не открывайте позицию при отставании в развитии.
 
-Correct was 14...Rb8 .
+Правильным было 14...Rb8 .
 
 **15.Rg1 Qh3 16.Rxg7 Qh6 17.Rg1 b6 18.Ne4 Bd7?!**
 
-18...Rf8 was necessary.
+Необходимо было 18...Rf8.
 
 **19.Qe3! Qf8**
 
-White's last move forced this stilted response.
+Последний ход белых вызвал такой неестественный ответ.
 
-After 19...Qxe3?? 20.Nxf6+ Kd8 21.fxe3 Black's pinned bishop is lost.
+После 19...Qxe3?? 20.Nxf6+ Kd8 21.fxe3 связанный слон черных потерян.
 
 **20.Rgd1 Nf5 21.Qe2 Ncd4**
 
-21...O-O-O is met with 22.Ba6+ Kb8 23.Rxd7 winning a piece.
+На 21...O-O-O отвечает 22.Ba6+ Kb8 23.Rxd7, выигрывая фигуру.
 
 **22.Nxd4 Nxd4**
 
-EXERCISE (combination alert): How does White continue his attack?
+УПРАЖНЕНИЕ (предупреждение о комбинации): Как белые продолжают атаку?
 
-ANSWER: Clearance/annihilation of defensive barrier. This sacrifice enables a deadly discovered check next move.
+ОТВЕТ: Очистка/уничтожение защитного барьера. Эта жертва позволяет совершить смертельный вскрытый шах следующим ходом.
 
 **23.Rxd4!**
 
-The phrase "There's more where that came from" is inapplicable in a sacrificial attack since on the chess board our resources are finite. Yet to Black, it surely must have felt the opposite.
+Фраза "И там, откуда они пришли, их еще больше", неприменима в жертвенной атаке, поскольку на шахматной доске наши ресурсы ограничены. Однако черные наверняка чувствовали обратное.
 
 **23...exd4 24.Nd6+ Kd8**
 
-The silence in the room gets awkward when Black's terrified king unburdens the contents of his bladder and bowels on the floor.
+Тишина в комнате становится неловкой, когда испуганный король черных выплескивает содержимое своего мочевого пузыря и кишечника на пол.
 
 **25.Nf7+ Kc8 26.Qf3! Kb8 27.Rxd4 Qc5 28.Rxd7 Rg8 29.Ba6**
 
-SUMMARY: 4 Bd2 is a dangerous sacrificial line, which I would meet with the cautious 4...Ne7.
+РЕЗЮМЕ: 4.Bd2 – опасная жертвенная линия, на которую я бы ответил осторожным 4...Ne7.
 
 **1-0**
 
@@ -1731,177 +1733,179 @@ SUMMARY: 4 Bd2 is a dangerous sacrificial line, which I would meet with the caut
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6**
 
-The strategic challenges of the Classical Variation can feel like looking into the cavernous mouth of a pitch black cave.
+Стратегические задачи "Классического варианта" могут напоминать заглядывание в огромное устье кромешно-черной пещеры.
 
 **4.--**
 
-In the position Black's knight taunts White into 4.e5 , resolving the central tension, allowing White a significant space advantage after an f4 follow up. At first it can feel like the black pieces walk under water, but the Classical isn't a one way conversation, with White doing all the talking, so don't underestimate Black's counterattacking resources.
+В этой позиции конь черных склоняет белых к 4.e5, разрешая центральное напряжение и позволяя белым получить значительный пространственный перевес после продолжения f4. Поначалу может показаться, что черные фигуры ходят под водой, но классика – это не односторонний разговор, где все говорят белые, поэтому не стоит недооценивать контратакующие ресурсы черных.
 
-As always, we hit back at White's giant centre with ...c5, ...Nc6 and possibly...Qb6 in some cases. When ...cxd4 occurs, the fight begins in earnest for the d4-square, when Black can even play ...Bc5. Black's developmental issues: how to activate the c8-bishop and the d7-knight? The bishop can be activated in two ways:
+Как всегда, мы наносим ответный удар по гигантскому центру белых ходами ...c5, ...Nc6 и, возможно, в некоторых случаях...Qb6. Когда происходит ...cxd4, начинается серьезная борьба за поле d4, когда черные могут сыграть даже ...Bc5. Проблемы развития черных: как активизировать слона с8 и коня d7? Слона можно активизировать двумя способами:
 
-1. By playing ...a6, ...b5, ...b4, ...a5, and then the bishop, suddenly infused with significance, emerges on a6 to swap itself away for White's dangerous light-squared bishop.
+1. Играя ...a6, ...b5, ...b4, ...a5, после чего слон, внезапно наполнившись значимостью, выходит на a6, чтобы разменять себя на опасного белопольного слона белых.
 
-2. Black can play ...f6 and if exf6, then ...Nxf6, when we take on a backward e6-pawn. In this case the undeveloped c8-bishop slithers to relevance via d7, e8 and then finally on to an active diagonal with ...Bg6 or ...Bh5, where it issues an imperious challenge to the white pieces.
+2. Черные могут сыграть ...f6, а если exf6, то ...Nxf6, и тогда мы получаем отсталую пешку e6. В этом случае неразвитый слон c8 ползет к значимости через d7, e8 и, наконец, на активную диагональ с ...Bg6 или ...Bh5, где бросает дерзкий вызов белым фигурам.
 
-Black's d7-knight may later go back to f6 after ...f6; exf6 Nxf6, or, if the players castle on opposite wings, Black's knight can lunge directly at White's king after ...cxd4 and ...Nc5.
+Конь черных d7 впоследствии может вернуться на f6 после ...f6; exf6 Nxf6, или, если игроки рокируются на противоположных флангах, конь черных может броситься прямо на короля белых после ...cxd4 и ...Nc5.
 
-White's alternative strategy to Black's 3...Nf6 is to maintain pawn tension, for at least one more move with 4.Bg5 , which leads to the unbalanced McCutcheon Variation, 4...Bb4 , where Black ignores White's 'threat' of e5. Here we walk a narrow line, where with even a single step off the theoretical path, our grand narrative can be unceremoniously dismantled by a single idea.
+Альтернативная стратегия белых ходу черных 3...Nf6 состоит в том, чтобы сохранить напряжение пешек, по крайней мере, еще на один ход с помощью 4.Bg5 , что приводит к несбалансированному варианту Маккатчеона 4...Bb4, где черные игнорируют "угрозу" белых e5. Здесь мы идем по узкой линии, где даже при одном шаге от теоретического пути наше великое повествование может быть бесцеремонно разрушено одной-единственной идеей.
 
-4 Bg5 can also lead to several other lines like 4...dxe4 , a Rubinstein hybrid,
+4.Bg5 также может привести к нескольким другим линиям, таким как 4...dxe4 , гибрид Рубинштейна,
 
-and 4...Be7 , which allows White 5.e5 and Bxe7, leaving Black with the issue of a remaining bad bishop.
+и 4...Be7, что позволяет белым 5.e5 и Bxe7, оставляя черным проблему оставшегося плохого слона.
 
-Our goals as Black in the Classical are well defined:
+Наши цели как черных в классике хорошо определены:
 
-1. Fight for the d4-square.
+1. Бороться за поле d4.
 
-2. Counterattack White's giant centre with ...c5 and sometimes ...f6.
+2. Контратаковать гигантский центр белых с помощью ...c5 и иногда ...f6.
 
-3. Find a way to activate the bad light-squared c8-bishop.
+3. Найти способ активизировать плохого белопольного слона c8.
 
-4. Keep our king safe.
+4. Уберечь нашего короля.
 
-If we succeed in these goals, we can be certain to emerge with a healthy middlegame position, with dynamically balanced chances.
 
-### Steinitz,W. - Sellman,A. 14: Baltimore, 1885
+Если нам удастся достичь этих целей, мы можем быть уверены, что получим здоровую позицию в миттельшпиле с динамически сбалансированными шансами.
 
-"Please do not be disappointed by the relative weakness of Black's play - to some extent it helped Steinitz to demonstrate the essence of his plan in the purest form," writes Garry Kasparov. A copy is rarely clearer than the original. This game is one of the earliest of this variation in the database. When I first played this game over at the age of nine, I swooned in an epiphanic moment when I discovered the secret of weak squares of a single colour.
+### 14: Steinitz,W. - Sellman,A. Baltimore, 1885
+
+"Прошу не разочаровываться относительной слабостью игры черных – в какой-то степени это помогло Стейницу продемонстрировать суть своего плана в чистом виде", – пишет Гарри Каспаров. Копия редко бывает яснее оригинала. Эта партия – одна из самых ранних в базе данных по этому варианту. Когда я впервые сыграл эту партию в возрасте девяти лет, я потерял сознание в момент прозрения, когда открыл секрет слабых полей одного цвета.
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6**
 
-Black develops his knight, while seeking to create a central resolution with either 4 exd5, or 4 e5.
+Черные развивают своего коня, провоцируя белых на определенность в центре с помощью либо 4.exd5, либо 4.e5.
 
 **4.e5**
 
-DID YOU KNOW? Thus spake Steinitz. This game, a strategic masterpiece, left such a deep impression on the chess world, that the line is to this day called the Steinitz Variation. White seizes useful central space, while gaining a tempo on Black's knight.
+ВЫ ЗНАЛИ? Так говорил Стейниц. Эта партия, стратегический шедевр, оставила такое глубокое впечатление в шахматном мире, что этот вариант до сих пор называется вариантом Стейница. Белые захватывают полезное пространство в центре, одновременно выигрывая темп за счет черного коня.
 
 **4...Nfd7 5.f4**
 
-White continues to expand on the kingside.
+Белые продолжают расширяться на королевском фланге.
 
 **5...c5 6.dxc5?!**
 
-NOTE: Avoid making non-developing moves which help your opponent's development.
+ПРИМЕЧАНИЕ. Избегайте неразвивающих ходов, которые помогают развитию вашего противника.
 
-I love annotating games from the Great Romantics, since the jokes write themselves. Even the greats bungle it from time to time. I read that the Irish poet William Butler Yeats once blew an academic job application when he misspelled the word "professor", the job for which he applied! This unnecessary concession benefits Black's development.
+Я люблю комментировать партии Великих романтиков, так как шутки пишутся сами собой. Даже великие люди время от времени ошибаются. Я читал, что ирландский поэт Уильям Батлер Йейтс однажды провалил заявку на академическую работу, когда допустил ошибку в слове "профессор" – должность, на которую он подал заявку! Эта ненужная уступка идет на пользу развитию черных.
 
-Next game we look at White's modern interpretation 6.Nf3 Nc6 7.Be3 .
+В следующей партии мы рассмотрим современную интерпретацию белых 6.Nf3 Nc6 7.Be3.
 
 **6...Bxc5**
 
-Black's bishop cuts through the central dark squares and makes it difficult for White to castling kingside.
+Слон черных прорезает центральные черные поля и затрудняет рокировку белых на королевский фланг.
 
 **7.Nf3 a6**
 
-Black misplaces priorities.
+Черные неправильно расставляют приоритеты.
 
-After 7...Nc6 8.Bd3 f6! the immediate central counter gives Black an excellent position.
+После 7...Nc6 8.Bd3 f6! немедленная центральная контратака дает черным отличную позицию.
 
-WARNING: Be careful to avoid the Greek Gift sacrificial theme, which goes like this 8...O-O?? 9.Bxh7+! Kxh7 10.Ng5+ Kg6 (unfortunately for Black, playing the king to g8 is even worse, since it allows the deadly Qh5) 11.Qd3+ f5 12.Qg3 with a nasty attack for White.
+ВНИМАНИЕ: Будьте осторожны и избегайте темы жертвоприношения "Греческий дар", которая звучит так: 8...O-O?? 9.Bxh7+! Kxh7 10.Ng5+ Kg6 (к несчастью для черных, игра королем на g8 еще хуже, так как допускает смертельное Qh5) 11.Qd3+ f5 12.Qg3 с неприятной атакой белых.
 
 **8.Bd3 Nc6 9.Qe2 Nb4?!**
 
-WARNING: Avoid early adventures like this where you are tempted to move an already developed piece.
+ВНИМАНИЕ: избегайте подобных приключений на ранних этапах, когда у вас возникает соблазн передвинуть уже развитую фигуру.
 
-This move is dubious for the following reasons:
+Этот ход сомнителен по следующим причинам:
 
-1. Black wastes time.
+1. Черные теряют время.
 
-2. Black weakens his control over the key d4-square - a factor for which he later dearly pays.
+2. Черные ослабляют контроль над ключевым полем d4 – фактор, за который они впоследствии дорого заплатят.
+
 
 **10.Bd2 b5 11.Nd1 Nxd3+ 12.cxd3!**
 
-This move opens the c-file, while ensuring that Black's knight won't be able to roost one day on e4 or c4.
+Этот ход открывает линию "с", гарантируя при этом, что черный конь не сможет однажды устроиться на е4 или с4.
 
 **12...Qb6?!**
 
-Black can prevent Steinitz's coming plan with 12...b4! , intending to activate his bad bishop with ...a5 and ...Ba6.
+Черные могут помешать предстоящему плану Стейница ходом 12...b4!, намереваясь активировать своего плохого слона ходами ...a5 и ...Ba6.
 
 **13.b4!**
 
-NOTE: In the Classical French, both sides should fight to seize control over the d4-square.
+ПРИМЕЧАНИЕ: В классической французской обе стороны должны бороться за контроль над полем d4.
 
 **13...Be7 14.a3**
 
-Securing b4, in preparation for Be3.
+Защищая b4, готовясь к Be3.
 
 **14...f5?**
 
-WARNING: Be careful about playing ...f5, since then Black renounces all ...f6-based kingside play, the repercussions of which prove catastrophic.
+ВНИМАНИЕ: будьте осторожны при игре ...f5, поскольку тогда черные отказываются от всей игры на королевском фланге, основанной на ...f6, последствия которой могут оказаться катастрофическими.
 
-Black should play 14...d4! 15.Nf2 O-O 16.Ne4 Bb7 , not worrying if his d4-pawn falls later on.
+Черным следует играть 14...d4! 15.Nf2 O-O 16.Ne4 Bb7, не беспокоясь о том, что пешка d4 впоследствии упадет.
 
 **15.Rc1 Bb7**
 
-When we feed an incorrect plan, we subsidize a fiction. Black is still oblivious to the importance of the d4-square.
+Когда мы подпитываем неправильный план, мы субсидируем фикцию. Черные все еще не осознают важности поля d4.
 
-15...d4 is met with 16.Qf2 winning d4 without compensation, which I think is still better for Black than what happened in the game.
+На 15...d4 отвечает 16.Qf2 выигрывая d4 без компенсации, что, я думаю, все же лучше для черных, чем то, что произошло в партии.
 
 **16.Be3**
 
-White takes ownership of d4. White's idea finally reaches the point of articulation, and there is no way for Black to extricate himself from strategic poverty.
+Белые захватывают d4. Идея белых наконец достигает точки артикуляции, и у черных нет возможности выбраться из стратегической нищеты.
 
 **16...Qd8 17.Nd4**
 
-Just look at the difference between White's knight and Black's awful light-squared bishop.
+Просто посмотрите на разницу между конем белых и ужасным белопольным слоном черных.
 
 **17...Nf8**
 
-The knight is forced into indenture in service of e6.
+Конь принудительно отдает себя в кабалу на службу е6.
 
 **18.O-O h5?!**
 
-WARNING: To have a deviation, one must first begin with a norm, which many players in this era lacked.
+ВНИМАНИЕ: чтобы иметь отклонение, нужно сначала начать с нормы, которой не хватало многим игрокам в ту эпоху.
 
-Black's plan has a future, the way a mass murderer with ten consecutive life sentences has one as well. Black's move is in violation of Steinitz' principle: avoid unnecessary or weakening pawn moves. Black's idea is to prevent g4. What he failed to grasp was that Steinitz had no intention of attacking on the kingside.
+У плана черных есть будущее, как есть оно и у массового убийцы, приговоренного к десяти пожизненным срокам подряд. Ход черных нарушает принцип Стейница: избегать лишних или ослабляющих ходов пешками. Идея черных состоит в том, чтобы предотвратить ход g4. Чего они не поняли, так это того, что Стейниц не собирался атаковать на королевском фланге.
 
 **19.Nc3 Kf7 20.Nb1!**
 
-Intending Nd2 and Nb3, when White increases his grip on the queenside dark squares.
+Намеревается Nd2 и Nb3, когда белые усиливают контроль над черными полями ферзевого фланга.
 
 **20...g6 21.Nd2 Nd7 22.N2b3 Rc8**
 
-Notice that Black doesn't have ...Nb6 and ...Nc4, due to Steinitz' farsighted move 12 cxd3.
+Обратите внимание, что у черных нет ...Nb6 и ...Nc4 из-за дальновидного хода Стейница 12.cxd3.
 
 **23.Na5 Ba8 24.Rxc8 Qxc8 25.Rc1 Qb8 26.Qc2**
 
-White seizes control over the only open file.
+Белые захватывают контроль над единственной открытой линией.
 
 **26...Bd8 27.Nac6! Qb7**
 
-Black can't rid himself of his bad bishop with 27...Bxc6? , since doing so enables decisive infiltration after 28.Qxc6 Nf8 29.Qxa6 and b5 falls as well.
+Черные не могут избавиться от своего плохого слона ходом 27...Bxc6?, поскольку это обеспечивает решающее вторжение после 28.Qxc6 Nf8 29.Qxa6 и b5 также падает.
 
 **28.Nxd8+**
 
-Clearing the path to c7.
+Расчищая путь на с7.
 
 **28...Rxd8 29.Qc7 Qb8 30.Bf2!**
 
-TIP: Use all your pieces.
+СОВЕТ: Используйте все свои фигуры.
 
-Steinitz methodically brings into play his only ineffective piece, threatening Bh4.
+Стейниц методично вводит в игру свою единственную неэффективную фигуру, угрожая Bh4.
 
 **30...Qb6 31.Nf3**
 
-Order and obedience are the driving principles of the totalitarian state.
+Порядок и послушание – движущие принципы тоталитарного государства.
 
-White can actually play the paradoxical 31.Bh4! Qxd4+ (the white knight's Jimmy Hoffa-like disappearance baffles the authorities, but not White's king) 32.Kh1 Qb6 33.Bxd8 , winning.
+Белые действительно могут сыграть парадоксальное 31.Bh4! Qxd4+ (исчезновение белого коня в духе Джимми Хоффы сбивает с толку власти, но не белого короля) 32.Kh1 Qb6 33.Bxd8 с победой.
 
 **31...Qxc7 32.Rxc7 Ke8**
 
-Come all ye faithful. One by one, Black's pieces have been ceremoniously ushered to the first rank.
+Приходите все желающие. Одна за другой фигуры черных торжественно переходят на последний ряд.
 
 **33.Ng5 Nf8 34.Bc5**
 
-Threatening mate on the move. "Don't hate me. I am merely obeying the law of natural selection," the bishop tells Black's king. White threatens mate and Black's position bursts asunder.
+"Не надо меня ненавидеть. Я всего лишь подчиняюсь закону естественного отбора", – говорит слон королю черных. Белые угрожают матом, и позиция черных разваливается на части.
 
 **34...Nd7 35.Bd6**
 
-SUMMARY: Remember to fight for the crucial d4-square, while fighting too for the dark squares in the Steinitz Variation.
+РЕЗЮМЕ: Не забывайте бороться за решающее поле d4, а также бороться за черные поля в варианте Стейница.
 
 **1-0**
 
-### Caruana,F. - Nakamura,H. 15: Saint Louis (rapid), 2015
+### 15: Caruana,F. - Nakamura,H. Saint Louis (rapid), 2015
 
 DID YOU KNOW? American super-GMs Fabiano Caruana and Hikaru Nakamura are both considered potential challengers for Magnus Carlsen's world championship crown.
 
