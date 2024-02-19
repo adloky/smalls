@@ -2545,213 +2545,213 @@ OОдно отступление натыкается на другое, пос�
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7**
 
-In this version Black breaks the pin immediately, at the cost of taking on a potentially bad remaining bishop.
+В этой версии черные немедленно избавляются от связки, ценой потенциально плохого оставшегося слона.
 
 **5.e5 Nfd7 6.Bxe7**
 
-6.h4 is the Alekhine-Chatard gambit, which we look at next game.
+6.h4 – гамбит Алехина-Шатара, который мы рассмотрим в следующей партии.
 
 **6...Qxe7 7.f4**
 
-White gained kingside and central space, while dumping his bad bishop for Black's good model. Black, in exchange, gets some measure of relief of his cramped situation from the swap, as well as the opportunity to chip away at White's centre from the sides, with ...c5 and eventually ...f6.
+Белые получили пространство на королевском фланге и в центре, избавившись от своего плохого слона в обмен на хорошую фигуру черных. Черные, в свою очередь, получают некоторое облегчение своего стесненного положения за счет размена, а также возможность нанести удар по центру белых с флангов с помощью ...c5 и, в конечном счете, ...f6.
 
-NOTE: Should Black be worried about his bad bishop? The answer: my wife Nancy conveniently takes full credit for all our son Tim's good qualities, while blaming me for his annoying habits. Black's bad bishop is similar, in that it appears bad, yet also possesses the potential for good, since it nearly always wiggles into play later on, via g6 or a6 or b5.
+ПРИМЕЧАНИЕ. Стоит ли черным беспокоиться о своем плохом слоне? Ответ: моя жена Нэнси удобно приписывает себе все хорошие качества нашего сына Тима, обвиняя меня в его раздражающих привычках. Плохой слон черных аналогичен тем, что он выглядит плохим, но в то же время обладает потенциалом хорошего, поскольку он позже, но почти всегда, вступает в игру через g6, a6 или b5.
 
 **7...a6!**
 
-TIP: Play ...a6 before ...c5, which prevents White's knight from slipping in with Nb5.
+СОВЕТ: Сыграйте ...a6 перед ...c5, что не позволит коню белых проскользнуть на Nb5.
 
-7...c5? is unsound: 8.Nb5! O-O forced;
+7...c5? неверно: 8.Nb5! O-O форсировано;
 
-(8...Na6? 9.Nd6+ Kf8 is awful for Black)
+(8...Na6? 9.Nd6+ Kf8 – ужасно для черных)
 
-9.Nc7 Nxe5 10.Nxa8 cxd4!? (losing)
+9.Nc7 Nxe5 10.Nxa8 cxd4!? (проигрывает)
 
-(but Black is busted anyway after 10...Ng6 11.Qd2 cxd4 12.Nf3 b6 13.O-O-O Bb7 14.h4! Bxa8 15.h5 Nh8 16.Nxd4)
+(но черные все равно разбиты после 10...Ng6 11.Qd2 cxd4 12.Nf3 b6 13.O-O-O Bb7 14.h4! Bxa8 15.h5 Nh8 16.Nxd4)
 
-11.fxe5 Qh4+ 12.g3 Qe4+ 13.Qe2 Qxh1 14.Nf3 d3 15.cxd3 Bd7 16.O-O-O Rc8+ 17.Kd2! . Black's queen is trapped after a coming Bg2 or Bh3, C.Lakdawala-A.Morshedi, San Diego (rapid) 2010.
+11.fxe5 Qh4+ 12.g3 Qe4+ 13.Qe2 Qxh1 14.Nf3 d3 15.cxd3 Bd7 16.O-O-O Rc8+ 17.Kd2!. Ферзь черных оказывается в ловушке после предстоящего Bg2 или Bh3, C.Lakdawala-A.Morshedi, San Diego (rapid) 2010.
 
 **8.Nf3 c5 9.Qd2 Nc6 10.O-O-O!?**
 
-The anarchic is the sworn enemy of the orderly. Such positions are open to a broad range of stylistic interpretation. White risks castling into the teeth of Black's attack. The rationale behind such a high-risk venture requires Jungian more than chess analysis.
+Анархист – заклятый враг упорядоченности. Подобные позиции открыты для широкого диапазона стилистических интерпретаций. Белые рискуют сделать рокировку в зубы атаке черных. Обоснование такого рискованного предприятия требует больше юнговского, чем просто шахматного анализа.
 
-The mercurial Shirov isn't content with a safe and tiny edge after 10.dxc5 Nxc5 11.Bd3 , but of course asking a player with Shirov's confrontational style to accept such a mild course is a bit like requesting King Kong to abide by the court's restraining order to stay 100 yards away from Fay Wray.
+Меркантильный Широв не довольствуется безопасным и крошечным преимуществом после 10.dxc5 Nxc5 11.Bd3, конечно, просить игрока с конфронтационным стилем Широва сделать такой мягкий ход – все равно что просить Кинг-Конга подчиниться запрету суда держаться на расстоянии 100 ярдов от Фэй Рэй.
 
 **10...c4!**
 
-Normally, such a move helps White if Black relieves central tension, but not here, since White's king is in danger of a pawn storm later on.
+Обычно такой ход помогает белым, если черные снимают напряжение в центре, но не здесь, поскольку королю белых в дальнейшем грозит пешечный штурм.
 
 **11.f5 Nb6 12.fxe6 fxe6 13.h4 Bd7 14.h5 O-O-O**
 
-What a dirty trick. Morozevich dodges White's intended kingside attack by castling long.
+Какой грязный трюк. Морозевич уклоняется от намеченной атаки белых на королевском фланге, делая длинную рокировку.
 
 **15.h6 gxh6!**
 
-This move allows Black's bad bishop a potential future with ...Be8 and ...Bg6 later on.
+Этот ход дает, потенциально, плохому слону черных будущее после ...Be8 и ...Bg6.
 
 **16.Rxh6 Rdg8 17.Qf4 Be8! 18.Qf6 Bg6 19.g4 Qe8!**
 
-Nyet can do. The French player learns to wait and listen, only striking when the moment is right. Morozevich correctly judges that he will later get attacking chances against White's king, so he keeps queens on the board.
+Не получится. Игрок во французскую учится ждать и слушать, нанося удар только в подходящий момент. Морозевич правильно рассуждает, что позже получит атакующие шансы против короля белых, поэтому держит ферзей на доске.
 
 **20.Bg2?**
 
-White fails to sense danger lurking for his king on the margins. We can begin the game with dynamic play, in the belief that we are about to create a Homeric epic, and then blow it all in a single lapse of concentration. White's last move is a blunder of omission.
+Белые не чувствуют опасности, таящейся для их короля на окраинах. Мы можем начать игру с динамичной игры, полагая, что собираемся создать гомеровский эпос, а затем все испортить одной потерей концентрации. Последний ход белых – это ошибка бездействия.
 
-He should get rid of Black's now powerful (formally) bad bishop with 20.Nh4 , with an approximately even game.
+Они должны были избавиться от теперь уже сильного (формально) плохого слона черных с помощью 20.Nh4, получив примерно равную игру.
 
 **20...Rf8 21.Qh4 Nb4! 22.Rd2?**
 
-22.Ne1 was forced.
+22.Ne1 требовалось.
 
 **22...Na4!**
 
-Black's sudden attack is akin to when a branch breaks in the forest, sending a flock of birds fluttering from the tree.
+Внезапная атака черных похожа на то, как если бы в лесу сломалась ветка, и с дерева слетела стая птиц.
 
 **23.a3 Nxc3 24.bxc3**
 
-EXERCISE (combination alert): How should Black continue his attack?
+УПРАЖНЕНИЕ (предупреждение о комбинации): Как черные должны продолжать атаку?
 
-24.axb4?? is met by the crushing 24...Qa4! .
+24.axb4?? встречает сокрушительное 24...Qa4!.
 
 **24...Qa4!**
 
-ANSWER: Annihilation of defensive barrier.
+ОТВЕТ: Аннигиляция защитного барьера.
 
-Black attackers form a perfect isosceles triangle around White's king.
+Атакующие черные образуют идеальный равнобедренный треугольник вокруг короля белых.
 
 **25.cxb4**
 
-Avoiding 25.axb4?? Qa1# . The queen's sorrow at her brother's mysterious death is an Oscar-worthy performance of her acting skills.
+Избегая 25.axb4? Qa1#. Скорбь королевы по поводу загадочной смерти брата является достойным Оскаром проявлением ее актерского мастерства.
 
 **25...Qxa3+ 26.Kd1**
 
-Once you get the eviction notice from the garden of Eden, there is no key which allows us back into its front gate.
+После получения уведомления о выселении из Эдемского сада нет ключа, который позволил бы нам вернуться через его парадные ворота.
 
-26.Kb1?? c3 forces mate.
+26.Kb1?? c3 форсирует мат.
 
 **26...Rxf3 27.Qe7**
 
-After 27.Bxf3 Qxf3+ 28.Ke1
+После 27.Bxf3 Qxf3+ 28.Ke1
 
-(or 28.Re2 Bxc2+! 29.Ke1 Bd3 with a winning attack)
+(или 28.Re2 Bxc2+! 29.Ke1 Bd3 с победной атакой)
 
-28...Qe3+ 29.Kd1 Rf8 White's king is unable to deal with all of Black's attackers.
+28...Qe3+ 29.Kd1 Rf8 белый король не в состоянии справиться со всеми нападающими черных.
 
 **27...Re3!**
 
-Cutting off the white king's access to the e-file and threatening mate on a1.
+Отрезав доступ белого короля к линии "е" и угрожая матом на а1.
 
 **28.Qxe6+ Kb8 29.Qd6+ Ka8 30.Re2 Qa1+ 31.Kd2 Qc3+**
 
-31...Qc3+ 32.Kd1 Bxc2+! forces mate.
+31...Qc3+ 32.Kd1 Bxc2+! форсированный мат.
 
-SUMMARY: Don't fear the bad bishop in the Classical 4...Be7 line, since it inevitably redeems itself from its calamitous fall from grace by emerging into play later in the game.
+РЕЗЮМЕ: Не бойтесь плохого слона в классической линии 4...Be7, поскольку он неизбежно искупит свою вину, войдя в игру позже.
 
 **0-1**
 
-### Hector,J. - So,W. 20: Malmo, 2011
+### 20: Hector,J. - So,W. Malmo, 2011
 
 **1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7**
 
-In this version Black immediately breaks the pin, at the cost of a potential swap of his good dark-squared bishop.
+В этой версии черные немедленно избавляются от связки ценой потенциального размена своего хорошего чернопольного слона.
 
 **5.e5**
 
-White can no longer maintain the central tension.
+Белые больше не могут поддерживать напряжение в центре.
 
 **5...Nfd7**
 
-Black also has the sidelines: 5...Ne4 6.Bxe7 Qxe7 7.Nxe4 dxe4 8.Qe2 b6 9.O-O-O!
+У черных также есть боковые линии: 5...Ne4 6.Bxe7 Qxe7 7.Nxe4 dxe4 8.Qe2 b6 9.O-O-O!
 
-(9.Qxe4 is met with 9...Qb4+ 10.Kd1 Qxb2 11.Rc1 c6 when Black is fine)
+(на 9.Qxe4 черные отвечают 9...Qb4+ 10.Kd1 Qxb2 11.Rc1 c6 и у них все в порядке)
 
-9...Bb7 10.g3 Nd7 11.Bg2 f5 12.f3! exf3 13.Bxf3 with both space and activity advantage for White, B.Spassky-J.Sloth, Denmark 1983.
+9...Bb7 10.g3 Nd7 11.Bg2 f5 12.f3! exf3 13.Bxf3 с преимуществом белых в пространстве и активности, B.Spassky-J.Sloth, Denmark 1983.
 
-5...Ng8!? (I have experimented with this bizarre sideline) 6.Be3 b6 7.Qg4 g6 with a position weirdly similar to ones we considered at the end of Chapter One.
+5...Ng8!? (я экспериментировал с этой причудливой боковой линией) 6.Be3 b6 7.Qg4 g6 с позицией, странно похожей на те, которые мы рассматривали в конце первой главы.
 
 **6.h4**
 
-The Alekhine-Chatard Gambit (I don't understand why the official name is Alekhine-Chatard Attack, since it's clearly a gambit!).
+Гамбит Алехина-Шатара (не понимаю, почему официальное название – Атака Алехина-Шатара, ведь это явно гамбит!).
 
 **6...O-O**
 
-So wisely declines and I think this is Black's best version of the decline.
+Со мудро отказывается, и я считаю, что это лучшая версия отказа за черных.
 
-NOTE: Black can win a pawn with 6...Bxg5 , yet it is by no means free. White gets a lasting initiative/attack after 7.hxg5 Qxg5 8.Nh3 Qe7 9.Nf4 . For the pawn, White obtains a development lead, an open h-file and central space.
+ПРИМЕЧАНИЕ. Черные могут выиграть пешку ходом 6...Bxg5, но это ни в коем случае не бесплатно. Белые получают длительную инициативу/атаку после 7.hxg5 Qxg5 8.Nh3 Qe7 9.Nf4. За пешку белые получают преимущество в развитии, открытую линию "h" и пространство в центре.
 
 **7.Qg4**
 
-Threat: Bh6.
+Угроза: Bh6.
 
-Another line runs 7.Bd3 c5 8.Qh5 g6 9.Qh6 cxd4 10.Nf3 Nxe5 11.Nxe5 dxc3 12.Nxg6 fxg6 13.Bxg6 hxg6 14.Qxg6+ and White should probably accept the perpetual check.
+Другая линия – 7.Bd3 c5 8.Qh5 g6 9.Qh6 cxd4 10.Nf3 Nxe5 11.Nxe5 dxc3 12.Nxg6 fxg6 13.Bxg6 hxg6 14.Qxg6+ и белым, вероятно, следует согласиться на вечный шах.
 
 **7...f6!**
 
-TIP: In such situations the French player must rely on the principle: counter a wing attack with central confrontation.
+СОВЕТ: В таких ситуациях игрок во французскую должен полагаться на принцип: противопоставить фланговой атаке противостояние в центре.
 
 **8.Nf3**
 
-8.Qxe6+!? Kh8 9.exf6 Nxf6 10.Qe2 Bb4 11.O-O-O Bxc3 12.bxc3 Qd6 offers Black plenty of compensation for the pawn, with a development lead and the safer king.
+8.Qxe6+!? Kh8 9.exf6 Nxf6 10.Qe2 Bb4 11.O-O-O Bxc3 12.bxc3 Qd6 предлагает черным большую компенсацию за пешку, преимущество в развитии и король в большей безопасности.
 
 **8...Rf7**
 
-8...fxg5 9.Bd3! gives White a strong attack after 9...Rf5! 10.Nxd5! .
+8...fxg5 9.Bd3!  дает белым сильную атаку после 9...Rf5! 10.Nxd5!.
 
 **9.exf6 Nxf6 10.Qg3 Nc6?!**
 
-Now White looks better.
+Теперь белые выглядят лучше.
 
-My choice would be 10...c5 chipping away at White's centre.
+Моим выбором было бы 10...c5, разбивающее центр белых.
 
 **11.O-O-O Qf8 12.h5 Bb4 13.Bxf6?!**
 
-White's chances are clearly better after 13.Bd3! Bxc3 14.bxc3 Bd7 15.h6 .
+Шансы белых явно выше после 13.Bd3! Bxc3 14.bxc3 Bd7 15.h6.
 
 **13...Rxf6 14.Bd3 Bd6 15.Ne5!**
 
-15.Qh4? Rf4 16.Qg3 Re4! wins material, since 17.Qh3 is met with 17...e5 .
+15.Qh4? Rf4 16.Qg3 Re4! выигрывает материал, поскольку на 17.Qh3 отвечает 17...e5.
 
 **15...Rxf2 16.Rdf1 Bxe5! 17.dxe5!**
 
-Not 17.Qxf2? Qxf2 18.Rxf2 Bxd4 , when Black stands better with two pawns for the exchange, a strong centre and the bishop pair.
+Не 17.Qxf2? Qxf2 18.Rxf2 Bxd4, когда черные стоят лучше с двумя пешками за качество, сильным центром и парой слонов.
 
 **17...Rxf1+ 18.Rxf1 Qe7**
 
-Black is up a pawn, but still behind in development.
+Черные выигрывают пешку, но все еще отстают в развитии.
 
 **19.Bg6!**
 
-The bishop is the politician who hogs the microphone in the debate. Hector offers a piece to infiltrate, turning the game into one of those Heart of Darkness/Lord of the Flies situations, where civilization is discarded on its descent to barbarism. Yet the all-knowing comp still rates it at dead even here.
+Слон – это политик, который отбирает микрофон во время дебатов. Гектор предлагает фигуру за вторжение, превращая игру в одну из тех ситуаций из "Сердца тьмы" и "Повелителя мух", где цивилизация гибнет, скатываясь к варварству. Однако всезнающий комп все равно оценивает игру как равную.
 
 **19...hxg6 20.hxg6 Nd4! 21.Rf7 Qd8 22.Qf4?**
 
-WARNING: We can love our attack so much, that we unduly idealize it past its intrinsic worth. Believe it or not, the position was actually even before this mistake, but conditionally on White finding the correct continuation. Now opportunity vanishes beyond the horizon for White.
+ВНИМАНИЕ: Мы можем так сильно любить нашу атаку, что излишне идеализируем ее по сравнению с ее внутренней ценностью. Хотите верьте, хотите нет, но до этой ошибки позиция была фактически ровной, но при условии, что белые найдут правильное продолжение. Теперь же возможность для белых исчезает за горизонтом.
 
-Correct was 22.Qg4! Nf5 23.Qh5 Nh6 24.g4 Qe8 25.Rxc7 Qd8 26.Nb5 Qf8 27.g5 Qf4+ 28.Kd1 Qf1+ 29.Kd2 Qf2+ and White must take perpetual check, since 30.Kc3?? loses to 30...Qe3+ 31.Kb4 a5+ 32.Ka4 Bd7! with a deadly attack.
+Правильным было 22.Qg4! Nf5 23.Qh5 Nh6 24.g4 Qe8 25.Rxc7 Qd8 26.Nb5 Qf8 27.g5 Qf4+ 28.Kd1 Qf1+ 29.Kd2 Qf2+ и белые должны были согласиться на вечный шах, так как 30.Kc3?? проигрывает после 30...Qe3+ 31.Kb4 a5+ 32.Ka4 Bd7! со смертельной атакой.
 
 **22...Nf5! 23.g4 Nh4 24.Rxg7+**
 
-When we lack the resources, yet take the path anyway, we refute the statement: 'Where there's a will, there's a way'. It was Freud who claimed that all fantasy was the human psyche attempting to correct an "unsatisfying reality". This is a question of raw need. Delivery of checkmate is White's grand narrative, yet the reality fails to back it up.
+Когда у нас нет ресурсов, но мы все равно выбираем определенный путь, мы опровергаем утверждение: "Где есть воля, там есть и путь". Именно Фрейд утверждал, что все фантазии – это попытки человеческой психики исправить "неудовлетворяющую реальность". Это вопрос острой потребности. Поставить шах и мат – таков великий нарратив белых, но реальность его не подтверждает.
 
 **24...Kxg7 25.Qf7+ Kh6 26.Qh7+ Kg5 27.Qh5+ Kf4**
 
-Toto, I have a terrible feeling we aren't in Kansas anymore. Scary as the attack looks, White lacks the raw materials to make it count. How distressing when Fate shovels crap our way. It feels like a mate or perpetual check should be there somewhere for White, but the 'somewhere' never materializes.
+Тото, у меня ужасное ощущение, что мы уже не в Канзасе. Как бы страшно ни выглядела атака, белым не хватает сырья, чтобы ее реализовать. Как обидно, когда судьба подбрасывает нам дерьмо. Кажется, что где-то у белых должен быть мат или вечный шах, но это "где-то" никогда не материализуется.
 
 **28.Ne2+ Ke3 29.g5 Nf3 30.Kd1 Qxg5 31.Qh7**
 
-EXERCISE (combination alert): It is White's king who gets mated, not Black's. How?
+УПРАЖНЕНИЕ (предупреждение о комбинации): Мат получает белый король, а не черный. Как?
 
-ANSWER: Clearance. There is no solution to Black's threat of ...Qd2 mate.
+ОТВЕТ: Освобождение. Не существует решения против угрозы черных поставить мат ...Qd2.
 
 **31...Kf2!**
 
-"I am a man of peace, reluctant to take life. My wife, on the other hand, has no such compunctions," says the king, as he steps aside to allow his wife to do the dirty work.
+"Я человек спокойный, не желающий лишать себя жизни. Моя жена, напротив, не испытывает подобных чувств", – говорит король, отходя в сторону, чтобы позволить жене (ферзю) сделать грязную работу.
 
-SUMMARY: I think the Alekhine-Chatard Gambit is best declined by Black.
+РЕЗЮМЕ: Я считаю, что от гамбита Алехина-Шатара черным лучше отказаться.
 
 **0-1**
 
-## 4: The Tarrasch Variation
+## 4: Вариант Тарраша
 
 **1.e4 e6 2.d4 d5 3.Nd2**
 
