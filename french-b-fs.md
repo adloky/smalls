@@ -1,4 +1,8 @@
-<config color="-1" translate="d:\french-b-fs-g.txt;d:\french-b-fs-d.txt"/>
+<config color="-1"/>
+
+<font size="5">**Французская защита: Первые шаги**</font>
+
+Сайрус Лакдавала
 
 **Соержание**
 
@@ -6240,7 +6244,7 @@ Carpe diem – лови момент!
 
 28.Qc7+ Kd5 29.Bc4+ Kd4 30.c3+ Nxc3+ 31.dxc3+ Kxc3 32.Qe5#.
 
-РЕЗЮМЕ: Когда белые играют 2.b3, мы сначала принимаем дар, а через несколько ходов возвращаем его ходом 5...Bd6!, перехватывая инициативу.
+РЕЗЮМЕ: Когда белые играют 2.b3, мы сначала принимаем дар, а через несколько ходов возвращаем его ходом 5...Bd6!, перехватывая инициативу.<level start="2.b3"/>
 
 **0-1**
 
@@ -6248,192 +6252,193 @@ Carpe diem – лови момент!
 
 **1.e4 e6**
 
-Strangely, the position which arose in the game can also come about from the 2 c3 Sicilian, after the move order: 1...c5 2.c3 d5 3.exd5 Qxd5 4.d4 e6 5.Nf3 Nf6 6.Na3 Qd8 7.Nc4 Nc6 8.Nce5 Nxe5 9.Nxe5 when we transpose to the game continuation, but with one extra move played for each side.
+Как ни странно, возникшая в партии позиция может возникнуть и из сицилианки 2.c3, после порядка ходов: 1...c5 2.c3 d5 3.exd5 Qxd5 4.d4 e6 5.Nf3 Nf6 6.Na3 Qd8 7.Nc4 Nc6 8.Nce5 Nxe5 9.Nxe5 когда мы переходим к в текущую партию, но с одним лишним ходом, сыгранным за каждую сторону.
 
 **2.d4 d5 3.Nc3**
 
-NOTE: The Rubinstein is also reached after the Tarrasch French move order 3.Nd2 dxe4 4.Nxe4 which transposes to the game.
+ПРИМЕЧАНИЕ: Рубинштейн также достигается после французского таррашевского хода 3.Nd2 dxe4 4.Nxe4, который переходит в нашу партию.
 
 **3...dxe4**
 
-The Rubinstein French is kind of a default setting, to be played against both 3 Nc3 and 3 Nd2.
+Вариант Рубинштейна во французской  – это своего рода расстановка по умолчанию, которую можно играть как против 3.Nc3, так и против 3.Nd2.<level/>
 
-TIP: The line is considered one of Black's most safe solid (and unenterprising!) choices in the French, and may be a good pick when facing a very aggressive opponent.
+СОВЕТ: Эта линия считается одним из самых безопасных и надежных (и не вызывающих удивления!) вариантов во французской защите, и может быть хорошим выбором, если перед вами очень агрессивный соперник.
 
-NOTE: The Rubinstein line is similar to the Burn variation of the Classical (which we covered earlier in the book) after 3...Nf6 4.Bg5 dxe4 5.Nxe4 Nbd7 .
+ПРИМЕЧАНИЕ: Линия Рубинштейна похожа на классический вариант Берна (который мы рассматривали ранее в книге) после 3...Nf6 4.Bg5 dxe4 5.Nxe4 Nbd7.
 
-The difference is that in the Burn, White commits to an early Bg5, which helps Black, since it becomes easier to swap pieces from a cramped position.
+Разница в том, что в Берне белые соглашаются на ранний ход Bg5, что помогает черным, поскольку им становится легче разменивать фигуры в стесненной позиции.
 
 **4.Nxe4 Nd7**
 
-Black's idea is to challenge White's well placed e4-knight with ...Ngf6.
+Идея черных состоит в том, чтобы бросить вызов хорошо расположенному коню e4 белых ходом ...Ngf6.
 
-Instead, 4...Bd7 is the Fort Knox line, which runs 5.Nf3 Bc6 6.Bd3 Nd7 7.O-O Ngf6 . Black's idea is to hand over the bishop pair with either ...Bxe4, or ...Bxf3, followed by ...c6, with an ultra-solid yet slightly inferior Caro-Kann-like position.
+Вместо этого 4...Bd7 – это линия Форт-Нокс, который включает: 5.Nf3 Bc6 6.Bd3 Nd7 7.O-O Ngf6. Идея черных состоит в том, чтобы сдать пару слонов либо с помощью ...Bxe4, либо ...Bxf3, за которым следует ...c6, с очень прочной, но немного уступающей позиции типа Каро-Канн.
 
 **5.Nf3 Ngf6 6.Nxf6+**
 
-Kasparov doesn't want to lose time with his knight and so exchanges it off.
+Каспаров не хочет терять время с конем и разменивает его.
 
-6.Bg5 transposes to a line of the Burn variation of the Classical French.
+6.Bg5 переносит в линию Берна классической французской.
 
 **6...Nxf6 7.c3**
 
-White bolsters his centre in anticipation of Black's coming ...c5.
+Белые укрепляют свой центр в ожидании предстоящего ...c5.
 
-Instead, after 7.Bd3 c5 8.dxc5 Bxc5 9.Qe2 O-O 10.Bg5 h6 11.Bh4 Qa5+! (this move discourages White from castling long) 12.c3 Nd5 (strategic threat: ...Nf4) 13.Qd2 Be7 14.Bxe7 Nxe7 15.O-O Bd7 Black connects the rooks and achieves a reasonable outcome from the opening.
+Вместо этого, после 7.Bd3 c5 8.dxc5 Bxc5 9.Qe2 O-O 10.Bg5 h6 11.Bh4 Qa5+! (этот ход отбивает у белых охоту к длинной рокировке) 12.c3 Nd5 (стратегическая угроза: ...Nf4) 13.Qd2 Be7 14.Bxe7 Nxe7 15.O-O Bd7 черные подключают ладьи и добиваются приемлемого результата по дебюту.
 
 **7...c5**
 
-WARNING: Be careful about your timing of ...c5, which fights back against White's extra central space, but at the same time violates the principles: avoid opening the game or creating confrontation when lagging in development.
+ВНИМАНИЕ: Будьте осторожны с выбором времени для ...c5, которое борется с лишним пространством белых в центре, но в то же время нарушает принципы: избегать вскрытия игры или создания конфронтации при отставании в развитии.
 
-In this case, though, 7...c5 is still Black's main move and is considered a necessary evil. Black can also delay ...c5 for much later with the line 7...Be7 8.Bd3 O-O 9.Qe2 b6 10.Bg5 Bb7 11.O-O-O . White enjoys an edge in the opposite wings attacks, since Black has yet to engineer a successful ...c5, and suffers from a slight lack of central space.
+Однако в этом случае 7...c5 все равно является главным ходом черных и считается необходимым злом. Черные также могут отложить ...c5 на более поздний срок с помощью линии 7...Be7 8.Bd3 O-O 9.Qe2 b6 10.Bg5 Bb7 11.O-O-O. Белые имеют преимущество в атаках на противоположных флангах, так как черным еще не удалось провести успешное ...c5, и они страдают от небольшого недостатка пространства в центре.
 
 **8.Ne5!**
 
-NOTE: Principles aren't written by a deity, never to be violated. This move is in direct violation of the edict: don't move the same piece twice in the opening. In this case, it is a well-applied exception.
+ПРИМЕЧАНИЕ: Принципы не написаны божеством, чтобы их никогда не нарушать. Этот ход является прямым нарушением указа: не двигать одну и ту же фигуру дважды в дебюте. В данном случае это хорошо применимое исключение.
 
-This was a shocking new move at the time of this game and one which is now considered White's best shot at an edge. Black must now watch out for sudden Bb5+ and Qa4 ideas.
+На момент этой партии это был шокирующий новый ход, и сейчас он считается лучшим шансом белых на преимущество. Теперь черные должны остерегаться внезапных идей Bb5+ и Qa4.
 
-8.Be3 is also played here: 8...Qc7 9.Ne5! this is merely a delayed version of Kasparov's idea;
+Здесь также разыгрывается 8.Be3: 8...Qc7 9.Ne5! и это всего лишь отсроченная версия идеи Каспарова;
 
-(instead, after 9.Bd3 Bd6 10.O-O O-O Black can be satisfied with his or her position)
+(вместо этого после 9.Bd3 Bd6 10.O-O O-O черные могут быть довольны своей позицией)
 
-9...a6! (once again, measures must be taken against the coming Bb5+) 10.Qa4+ Nd7 11.O-O-O cxd4 12.Nxd7 Bxd7 13.Qxd4 Bc6 14.Be2 Rd8 15.Qg4 h5 16.Qg5 Rd5 17.Rxd5 Bxd5 18.Rd1 g6 19.Qf6 Rh7 , when Black's game remains solid yet passive, R.Kasimdzhanov-G.Meier, Spanish Team Championship 2010.
+9...a6! (опять необходимо принять меры против предстоящего Bb5+) 10.Qa4+ Nd7 11.O-O-O cxd4 12.Nxd7 Bxd7 13.Qxd4 Bc6 14.Be2 Rd8 15.Qg4 h5 16.Qg5 Rd5 17.Rxd5 Bxd5 18.Rd1 g6 19.Qf6 Rh7, когда игра черных остается крепкой, но пассивной, R.Kasimdzhanov-G.Meier, Spanish Team Championship 2010.
 
 **8...Nd7?**
 
-The illusion of safety is far more dangerous than if we are aware of danger, since our guard is down. Ponomariov shows up at the OK Corral at high noon, but forgets to load his gun. He takes measures against the coming Bb5+, but in the wrong way.
+Иллюзия безопасности гораздо опаснее, чем осознание опасности, поскольку наша бдительность ослаблена. Пономарев приходит в "OK Corral" в полдень, но забывает зарядить пистолет. Он принимает меры против предстоящего Bb5+, но неправильно.
 
-Later, the correct antidote was found with 8...a6! . This key defensive idea cuts out White's intended Bb5+. After 9.Qa4+
+Позже правильное противоядие было найдено ходом 8...a6! . Эта ключевая оборонительная идея отсекает намеченное белыми Bb5+. После 9.Qa4+
 
-(or 9.Be3 which transposes to the note above)
+(или 9.Be3, что переносится в примечание выше)
 
-9...Bd7 (Black is willing to hand over the bishop pair to unravel) 10.Nxd7 Qxd7 11.Qxd7+ Kxd7 12.dxc5 Bxc5 13.Be2 Rhd8 , White's bishop pair offers a tiny edge in the ending, R.Kasimdzhanov-J.Dorfman, German League 2002.
+9...Bd7 (черные готовы отдать пару слонов, чтобы распутаться) 10.Nxd7 Qxd7 11.Qxd7+ Kxd7 12.dxc5 Bxc5 13.Be2 Rhd8, пара слонов белых дает крошечный перевес в эндшпиле, R.Kasimdzhanov-J.Dorfman, German League 2002.
 
 **9.Bb5!**
 
-This is not just roughhousing; it is actual conflict. Life can be so beautiful when our innocent opponent walks straight into our opening preparation. Now Black experiences a shattering transition, finding himself dangerously behind in development.
+Это не просто грубость, это настоящий конфликт. Жизнь может быть такой прекрасной, когда невинный соперник идет прямо на нашу дебютную подготовку. Теперь черные переживают сокрушительный перелом, оказываясь в опасном отставании в развитии.
 
 **9...Bd6**
 
-9...a6? is met with the deadly shot 10.Qf3! threatening mate, and if 10...Qf6 11.Bxd7+! (deflecting Black's bishop from coverage of b7) 11...Bxd7 12.Qxb7 . White won a pawn, while retaining the initiative.
+На 9...a6? следует смертельный удар 10.Qf3! с угрозой мата, а если 10...Qf6 11.Bxd7+! (отвлекая слона черных от прикрытия b7) 11...Bxd7 12.Qxb7. Белые выиграли пешку, сохранив инициативу.
 
 **10.Qg4! Kf8**
 
-In the aftermath of an incorrect plan, we become the incompetent murderer, who does his or her futile best to eradicate all forensic evidence of our past crime. This ugly move is forced. Add another problem to Black's growing list: now the h8-rook will be out of play for some time to come.
+В результате неправильного плана мы превращаемся в неумелого убийцу, который делает все возможное, чтобы уничтожить все судебные доказательства нашего прошлого преступления. Этот уродливый ход вынужден. К растущему списку проблем черных добавляется еще одна: теперь ладья h8 на некоторое время окажется вне игры.
 
-However, if: 10...O-O?? hangs material to 11.Bxd7 Bxd7 12.Bh6 g6 13.Bxf8 .
+Однако если: 10...O-O?? подвешивается материал после 11.Bxd7 Bxd7 12.Bh6 g6 13.Bxf8.
 
-10...g6? creates a fatal dark-square puncture on the kingside after 11.Bh6 a6 12.Bxd7+ Bxd7 13.O-O-O with a winning attack for White.
+10...g6? создает фатальный прокол по черным полям на королевском фланге после 11.Bh6 a6 12.Bxd7+ Bxd7 13.O-O-O с победной атакой белых.
 
 **11.O-O!**
 
-TIP: Open lines when leading in development.
+СОВЕТ: Открывайте линии, когда ведете в развитии.
 
-Kasparov, as is his trademark, fights with zeal more than caution. He is happy to open Pandora's box with the offer of a pawn to enhance attacking chances.
+Каспаров, как и подобает его фирменному стилю, сражается скорее с рвением, чем с осторожностью. Он с радостью открывает ящик Пандоры, предлагая пешку, чтобы повысить шансы на атаку.
 
-A more safety-minded player would have gone for a line like 11.Qh5 Nxe5 12.dxe5 Be7 13.O-O with a risk-free initiative for White.
+Более осторожный игрок выбрал бы линию 11.Qh5 Nxe5 12.dxe5 Be7 13.O-O с безрисковой инициативой за белых.
 
 **11...Nxe5**
 
-Not every problem has a solution. Some of them, we just have to learn to live with. Black may as well accept, since his position remains miserable if he declines.
+Не каждая проблема имеет решение. С некоторыми из них нужно просто научиться жить. Черные могут и принять, так как при отказе их позиция остается плачевной.
 
 **12.dxe5 Bxe5 13.Bg5 Bf6 14.Rad1**
 
-The position feels oddly orderly/complex, as White continues to develop with tempo.
+Позиция кажется странно упорядоченной/сложной, поскольку белые продолжают развиваться с темпом.
 
 **14...Qc7**
 
-After 14...Qb6 15.Bxf6 gxf6 16.Qh4! Ke7 17.Ba4 Black can't develop. If 17...Qxb2? 18.Rd3 Qb6 19.Rf3 e5 20.Re1 Qd6 21.Rd1 Qb6 22.Rd5! (threat: Rxe5+) 22...Qb1+ 23.Bd1 Qg6 24.Rxc5 White's attack is decisive.
+После 14...Qb6 15.Bxf6 gxf6 16.Qh4! Ke7 17.Ba4 черные не могут развиваться. Если 17...Qxb2? 18.Rd3 Qb6 19.Rf3 e5 20.Re1 Qd6 21.Rd1 Qb6 22.Rd5! (угроза: Rxe5+) 22...Qb1+ 23.Bd1 Qg6 24.Rxc5 атака белых решающая.
 
 **15.Qh4 Bxg5 16.Qxg5**
 
-One look at Black's completely undeveloped army tells us the story without need of words.
+Один взгляд на совершенно неразвитую армию черных говорит о многом без лишних слов.
 
 **16...f6**
 
-Black is left in anguished indecision over how to unravel. Every pawn move on the kingside weakens his king, yet he needs the move.
+Черные находятся в мучительном раздумье относительно того, как раскрутиться. Каждый ход пешкой на королевском фланге ослабляет их короля, но ход необходим.
 
 **17.Qh5 g6**
 
-Another loosening move is induced, as if 17...Ke7 18.Bc4 Bd7 19.Rfe1 Rae8 20.f4! and Black's king won't survive.
+Вызывается еще один ослабляющий ход, иначе, если бы 17...Ke7 18.Bc4 Bd7 19.Rfe1 Rae8 20.f4! и черный король не выживет.
 
 **18.Qh6+ Kf7 19.Rd3?!**
 
-White may be ready and willing, but is he able? This is yet another example of the universal truth that no good deed goes unpunished. It's amazing to me that this natural move is incorrect, yet the hateful comps demonstrate just that. Kasparov lifts in another attacker in the most natural way, yet the move is inaccurate, since it cuts off Be2 for White.
+Белые могут быть готовы и хотят, но способны ли они? Это еще один пример универсальной истины, что ни одно доброе дело не остается безнаказанным. Меня удивляет, что этот естественный ход неверен, но ненавистные компы демонстрируют именно это. Каспаров поднимает еще одного нападающего самым естественным образом, но ход неточен, поскольку отрезает белых от Be2.
 
-Stronger was the paradoxically more passive move 19.Rd2! . White refurbishes his attack with new recruits, but in a more modest way. This accurate move allows White's bishop access to e2: 19...a6 20.Be2! Bd7 21.Rfd1 Bc6 22.Bf3! Be8 23.Rd6 and Black is paralyzed.
+Сильнее был парадоксально более пассивный ход 19.Rd2!. Белые пополняют свою атаку новобранцами, но более скромно. Этот точный ход оставляет слону белых доступ на е2: 19...a6 20.Be2! Bd7 21.Rfd1 Bc6 22.Bf3! Be8 23.Rd6 и черные парализованы.
 
 **19...a6 20.Rh3!**
 
-Threat: Qxh7+!.
+Угроза: Qxh7+!.
 
-Black can successfully defend after 20.Ba4?! b5 21.Bc2 Bb7 22.Rfd1 Bd5 .
+Черные могут успешно защищаться после 20.Ba4?! b5 21.Bc2 Bb7 22.Rfd1 Bd5.
 
 **20...Qe7?!**
 
-20...Bd7! may save Black after 21.Bd3 Rad8 22.Rg3 c4 23.Bc2 (23.Bxg6+? is unsound) 23...Qc5 . I don't see a way for White to successfully pursue his attack, and Black looks okay.
+20...Bd7! может спасти черных после 21.Bd3 Rad8 22.Rg3 c4 23.Bc2 (23.Bxg6+? несостоятельно) 23...Qc5. Я не вижу возможности для белых успешно продолжить атаку, а у черных все в порядке.
 
 **21.Bd3**
 
-All force is aimed at g6 and h7, which continue to fester in Black's camp.
+Все силы направлены на g6 и h7, которые продолжают тлеть в лагере черных.
 
 **21...f5**
 
-21...Bd7 is met with the familiar trick 22.Qxh7+! Rxh7 23.Rxh7+ Kf8 24.Rxe7 Kxe7 25.Bxg6 . White is up a clean pawn in the ending.
+21...Bd7 встречает знакомый трюк 22.Qxh7+! Rxh7 23.Rxh7+ Kf8 24.Rxe7 Kxe7 25.Bxg6. В эндшпиле у белых чистая пешка.
 
 **22.g4!**
 
-Kasparov wrings every ounce of energy from his pieces.
+Каспаров выжимает из своих фигур максимальную энергию.
 
 **22...Qf6 23.Rd1 b5 24.Be2 e5!?**
 
-What we get isn't always what we choose. Black's dilemma: if he acts, he risks a blow-out, but if he does nothing, he risks stagnation. This is a risky unravelling attempt, which further opens the game.
+То, что мы получаем, не всегда является тем, что мы выбираем. Дилемма черных: если они будут действовать, то рискуют получить удар, а если ничего не будут делать, то рискуют застояться. Это рискованная попытка разгадки, которая еще больше открывает игру.
 
-Black can also take his chances with the admittedly scary line 24...g5!? 25.Qh5+ Qg6 26.gxf5 exf5 27.Rd6 Qxh5 28.Bxh5+ Ke7 29.Rc6 c4 30.Re3+ Kd7 31.Rf6 Kd8 when Black remains under pressure, but at least he has an extra pawn in the ending to comfort him.
+Черные могут рискнуть и с откровенно страшной линией 24...g5!? 25.Qh5+ Qg6 26.gxf5 exf5 27.Rd6 Qxh5 28.Bxh5+ Ke7 29.Rc6 c4 30.Re3+ Kd7 31.Rf6 Kd8, когда черные остаются под давлением, но по крайней мере у них есть лишняя пешка в эндшпиле, чтобы утешить себя.
 
 **25.Rhd3 Ra7?**
 
-Black had to try 25...fxg4! 26.Rd6 Qf4 27.Rxg6 Qxh6 28.Rxh6 Bf5 29.Rd5 Kg7 30.Rc6 Rhc8 with chances to hold the draw.
+Черные должны были попробовать 25...fxg4! 26.Rd6 Qf4 27.Rxg6 Qxh6 28.Rxh6 Bf5 29.Rd5 Kg7 30.Rc6 Rhc8 с шансами удержать ничью.
 
 **26.Rd6 Qg7 27.Qe3 Rc7**
 
-Covering c5.
+Прикрывая с5.
 
 **28.a4**
 
-More confrontation.
+Больше противостояния.
 
 **28...e4**
 
-28...Rf8 was Black's best chance to resist.
+28...Rf8 – лучший шанс черных устоять.
 
 **29.axb5 axb5 30.Bxb5 Qe5 31.Qg5 Qe7 32.Qh6 Be6 33.Qf4**
 
-Kasparov missed an immediate win with 33.gxf5! Bxf5 34.Bc4+ Ke8 (the king flees with the skittering footsteps of a rabbit evading a forest predator) 35.Qf4 Rf8 36.Rd8+! Qxd8 37.Rxd8+ Kxd8 38.Qd6+ and White wins.
+Каспаров упустил немедленную победу после 33.gxf5! Bxf5 34.Bc4+ Ke8 (король убегает быстрыми шагами кролика, спасающегося от лесного хищника) 35.Qf4 Rf8 36.Rd8+! Qxd8 37.Rxd8+ Kxd8 38.Qd6+ и белые выигрывают.
 
 **33...Bc8 34.Qh6 Be6 35.gxf5!**
 
-The endless probing begins to etch deep fissures of discontent in Black's structure. Kasparov discovers the winning idea.
+Бесконечные прощупывания начинают создавать глубокие трещины недовольства структурой черных. Каспаров обнаруживает выигрышную идею.
 
 **35...gxf5 36.Be2!**
 
-Heading for h5.
+Направляясь на h5.
 
 **36...Qf6 37.Bh5+ Ke7**
 
-EXERCISE (combination alert): White to play and force the win.
+УПРАЖНЕНИЕ (предупреждение о комбинации): белые продолжают и добиваются победы.
 
-ANSWER: Attraction/double attack.
+ОТВЕТ: Завлечение/двойной удар.
 
 **38.Rxe6+!**
 
 38.Rxe6+! Kxe6
 
-(or 38...Qxe6 39.Qg7+ Qf7 40.Qxf7# ; is it just me, or does Black's king remind you of the bear attack on Leonardo DiCaprio in The Revenant?)
+(или 38...Qxe6 39.Qg7+ Qf7 40.Qxf7#; мне кажется, или король черных напоминает нападение медведя на Леонардо Ди Каприо в фильме "Выживший")
 
-39.Rd6+ Kxd6 40.Qxf6+ Kd7 41.Qxh8 wins.
+39.Rd6+ Kxd6 40.Qxf6+ Kd7 41.Qxh8 выигрывает.
 
-SUMMARY: The Rubinstein is a solid but passive line, suitable against aggressive opponents.
+РЕЗЮМЕ: Рубинштейн – крепкая, но пассивная линия, подходящая против агрессивных соперников.
 
 **1-0**
+
