@@ -106,10 +106,10 @@
                      "h7", "g7", "f7", "e7", "d7", "c7", "b7", "a7", "h8", "g8", "f8", "e8", "d8", "c8", "b8", "a8"];
 
     var flip = false;
-    var dnd = true;
-    var top = true;
+    var dnd = false;
+    var topPanel = false;
     
-    if (top) {
+    if (topPanel) {
         $(".page-wrapper").addClass("top");
     }
                      
@@ -205,7 +205,7 @@
         var elemBottom = elemTop + elemHeight + 1;
         var winTop = window.scrollY;
         var winHeight = window.innerHeight;
-        if (top) {
+        if (topPanel) {
             var panelHeight = $(".panel").height();
             winHeight -= panelHeight;
             winTop += panelHeight;
@@ -234,11 +234,18 @@
     }
 
     function getSel() {
-        return Number($(".move.sel").first().attr("id").replace("move", ""));
+        var first = $(".move.sel").first();
+        if (!first.length) return null;
+        return Number(first.attr("id").replace("move", ""));
     }
 
     function changeMove(n) {
         var num = getSel();
+        if (!num) {
+            selMove($(".move").first(), true); 
+            return;
+        }
+        
         num += n;
         var next = $(`#move${num}`).first();
         if (next.length == 0) return;
@@ -263,9 +270,11 @@
     
     applyFen(startFen);
 
+    /*
     $(document).ready(function() {
         selMove($(".move").first(), true);
     });
+    */
     
     $(document).on("click", ".move", function() {
         selMove(this);
