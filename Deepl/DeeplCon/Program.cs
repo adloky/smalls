@@ -19,7 +19,7 @@ namespace DeeplCon
         {
             var advRe = new Regex("\n\nПереведено с помощью DeepL.*", RegexOptions.Multiline);
 
-            var path = @"d:\french-b-fs.txt";
+            var path = @"d:\french-classic-b-mbm.txt";
             var ss = File.ReadAllLines(path);
             
             path = path.Replace(".txt", "-d.txt");
@@ -29,8 +29,9 @@ namespace DeeplCon
             var driver = new ChromeDriver();
             driver.Navigate().GoToUrl("https://www.deepl.com/ru/login");
             Thread.Sleep(2000);
+            var pwd = File.ReadAllText("d:/.deepl");
             driver.FindElement(By.CssSelector("#menu-login-username")).SendKeys("adloky@gmail.com");
-            driver.FindElement(By.CssSelector("#menu-login-password")).SendKeys("Ka2simapd#");
+            driver.FindElement(By.CssSelector("#menu-login-password")).SendKeys(pwd);
             driver.FindElement(By.CssSelector("#menu-login-submit")).Click();
             Thread.Sleep(5000);
 
