@@ -1,4 +1,4 @@
-<config color="-1" translate="d:/french-classic-b-mbm.txt">
+<config color="-1" translate="d:/french-classic-b-mbm-d.txt;d:/french-classic-b-mbm-g.txt">
 
 <content/>
 
@@ -50,7 +50,7 @@ Let's take a look at our Classical French battlegrounds (see the following games
 
 ### (5)Main line Classical -- ? ? ???? \* (Cyrus Lakdawala)
 
-FEN: r1bqk2r/pp1n1ppp/2n1p3/2bpP3/3N1P2/2N1B3/PPP3PP/R2QKB1R w KQkq - 0 1
+1.--<fen value="r1bqk2r/pp1n1ppp/2n1p3/2bpP3/3N1P2/2N1B3/PPP3PP/R2QKB1R w KQkq - 0 1"/><fend/>
 
 The Classical Main line is a variation imbibed with the baffling suspense of a good mystery novel and the frantic urgency of a thriller, especially since opposite wings castling steps up the intrigue.
 
@@ -58,7 +58,7 @@ I like Black's chances, with our open c-file, the possibility of attacking with 
 
 ### (6)The Shirov-Anand Line -- ? ? ???? \* (Cyrus Lakdawala)
 
-FEN: r1bqkb1r/pp1n1ppp/2n1p3/2ppP3/3P1P2/2P5/PP2N1PP/R1BQKBNR w KQkq - 0 1
+1.--<fen value="r1bqkb1r/pp1n1ppp/2n1p3/2ppP3/3P1P2/2P5/PP2N1PP/R1BQKBNR w KQkq - 0 1"/><fend/>
 
 Chapter Two has the disorienting quality of being lost in an unfamiliar city.
 
@@ -1812,7 +1812,7 @@ SUMMARY: 11 Kb1 is a temporizing move where White makes a useful defensive move 
 
 ### (22)2: The Shirov-Anand Line -- ? ? ???? \* (Cyrus Lakdawala)
 
-FEN: r1bqkb1r/pp1n1ppp/2n1p3/2ppP3/3P1P2/2P5/PP2N1PP/R1BQKBNR w KQkq - 0 1
+1.--<fen value="r1bqkb1r/pp1n1ppp/2n1p3/2ppP3/3P1P2/2P5/PP2N1PP/R1BQKBNR w KQkq - 0 1"></fend>
 
 The Shirov-Anand Line is perhaps White's most ambitious line in the Classical French. In this case, White's build-up hardly forms the image of an intimidating attacker. Instead, our opponents opt for a slow squeeze, openly violating principle by swinging the c3-knight to e2 to erect a gigantic pawn centre. Of course, in doing so, they contort, clog and fall behind in development. As Black, we don't have the luxury of indulging in the revenge-is-yummier-when-served-chilled philosophy. If we don't react with immediate violence, we risk slow asphyxiation.
 

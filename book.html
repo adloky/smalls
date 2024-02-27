@@ -1,16 +1,17 @@
 <meta charset="utf-8">
 <style>
+  * { box-sizing: border-box; }
   .z0 { background-color: #eddcbe; }
   .z1 { background-color: #c2a480; }
   .z0.last-move { background-color: #eeed69; }
   .z1.last-move { background-color: #cdca00; }
+  .square-sel, .square-sel.last-move { background-color: #447788; opacity: 0.5; }
   .board td { width: 12.5%; height: 12.5%; }
-  .board td { background-repeat: no-repeat; background-position: center center; background-size: cover; }
+  .board td, .square-move { background-repeat: no-repeat; background-position: center center; background-size: cover; }
   .hidden { visibility: collapse; }
   .move { cursor: hand; white-space: nowrap; }
   .move-hilight { background-color: #add; }  
   .move.sel { background-color: #bbb; }
-  #fen { user-select: all; }
   img-180 { transform: rotate(180deg); }  
   button { padding: 2pt 8pt; }
   .indent2 { padding-left: 30pt; }
@@ -24,6 +25,18 @@
   .colums2, .colums3 { width: 100%; }
   .colums2 td { width: 50%; vertical-align: top; }
   .colums3 td { width: 33%; vertical-align: top; }
+  
+  .panel * { font-size: 15pt; font-family: sans-serif; }
+  .tools { display: block; width: 200pt; float: left; margin: 10pt; }
+  .page-wrapper { margin-right: 220pt; }
+  .panel { width: 220pt; margin-right: -220pt; position: fixed; right: 220pt; background-color: white; }
+  .board-wrapper { width: 200pt; height: 200pt; position: relative; float: left; margin: 10pt; }
+  
+  .page-wrapper.top { margin-right: 0; margin-top: 320pt; }
+  .page-wrapper.top .panel { width: 100%; height: 320pt; margin-right: 0; margin-top: -320pt; position: fixed; right: 0; top: 320pt; }
+  .page-wrapper.top .panel * { font-size: 20pt; }
+  .page-wrapper.top .board-wrapper { width: 300pt; height: 300pt; position: relative; }
+  .page-wrapper.top .tools { width: 250pt; }
   
   .pbr { background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NSIgaGVpZ2h0PSI0NSI+PGcgZmlsbC1ydWxlPSJldmVub2RkIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik05IDM5aDI3di0zSDl2M3ptMy41LTdsMS41LTIuNWgxN2wxLjUgMi41aC0yMHptLS41IDR2LTRoMjF2NEgxMnoiIHN0cm9rZS1saW5lY2FwPSJidXR0Ii8+PHBhdGggZD0iTTE0IDI5LjV2LTEzaDE3djEzSDE0eiIgc3Ryb2tlLWxpbmVjYXA9ImJ1dHQiIHN0cm9rZS1saW5lam9pbj0ibWl0ZXIiLz48cGF0aCBkPSJNMTQgMTYuNUwxMSAxNGgyM2wtMyAyLjVIMTR6TTExIDE0VjloNHYyaDVWOWg1djJoNVY5aDR2NUgxMXoiIHN0cm9rZS1saW5lY2FwPSJidXR0Ii8+PHBhdGggZD0iTTEyIDM1LjVoMjFtLTIwLTRoMTltLTE4LTJoMTdtLTE3LTEzaDE3TTExIDE0aDIzIiBmaWxsPSJub25lIiBzdHJva2U9IiNlY2VjZWMiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIvPjwvZz48L3N2Zz4='); }
   .pbn { background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NSIgaGVpZ2h0PSI0NSI+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0yMiAxMGMxMC41IDEgMTYuNSA4IDE2IDI5SDE1YzAtOSAxMC02LjUgOC0yMSIgZmlsbD0iIzAwMCIvPjxwYXRoIGQ9Ik0yNCAxOGMuMzggMi45MS01LjU1IDcuMzctOCA5LTMgMi0yLjgyIDQuMzQtNSA0LTEuMDQyLS45NCAxLjQxLTMuMDQgMC0zLTEgMCAuMTkgMS4yMy0xIDItMSAwLTQuMDAzIDEtNC00IDAtMiA2LTEyIDYtMTJzMS44OS0xLjkgMi0zLjVjLS43My0uOTk0LS41LTItLjUtMyAxLTEgMyAyLjUgMyAyLjVoMnMuNzgtMS45OTIgMi41LTNjMSAwIDEgMyAxIDMiIGZpbGw9IiMwMDAiLz48cGF0aCBkPSJNOS41IDI1LjVhLjUuNSAwIDEgMS0xIDAgLjUuNSAwIDEgMSAxIDB6bTUuNDMzLTkuNzVhLjUgMS41IDMwIDEgMS0uODY2LS41LjUgMS41IDMwIDEgMSAuODY2LjV6IiBmaWxsPSIjZWNlY2VjIiBzdHJva2U9IiNlY2VjZWMiLz48cGF0aCBkPSJNMjQuNTUgMTAuNGwtLjQ1IDEuNDUuNS4xNWMzLjE1IDEgNS42NSAyLjQ5IDcuOSA2Ljc1UzM1Ljc1IDI5LjA2IDM1LjI1IDM5bC0uMDUuNWgyLjI1bC4wNS0uNWMuNS0xMC4wNi0uODgtMTYuODUtMy4yNS0yMS4zNC0yLjM3LTQuNDktNS43OS02LjY0LTkuMTktNy4xNmwtLjUxLS4xeiIgZmlsbD0iI2VjZWNlYyIgc3Ryb2tlPSJub25lIi8+PC9nPjwvc3ZnPg=='); }
@@ -41,42 +54,49 @@
 </style>
 
 <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/chess.js/0.10.3/chess.js"></script>
+<script>var DragDropTouch;!function(t){"use strict";var e=function(){function t(){this._dropEffect="move",this._effectAllowed="all",this._data={}}return Object.defineProperty(t.prototype,"dropEffect",{get:function(){return this._dropEffect},set:function(t){this._dropEffect=t},enumerable:!0,configurable:!0}),Object.defineProperty(t.prototype,"effectAllowed",{get:function(){return this._effectAllowed},set:function(t){this._effectAllowed=t},enumerable:!0,configurable:!0}),Object.defineProperty(t.prototype,"types",{get:function(){return Object.keys(this._data)},enumerable:!0,configurable:!0}),t.prototype.clearData=function(t){null!=t?delete this._data[t]:this._data=null},t.prototype.getData=function(t){return this._data[t]||""},t.prototype.setData=function(t,e){this._data[t]=e},t.prototype.setDragImage=function(t,e,n){var s=i._instance;s._imgCustom=t,s._imgOffset={x:e,y:n}},t}();t.DataTransfer=e;var i=function(){function t(){if(this._lastClick=0,t._instance)throw"DragDropTouch instance already created.";if("ontouchstart"in document){var e=document,i=this._touchstart.bind(this),n=this._touchmove.bind(this),s=this._touchend.bind(this);e.addEventListener("touchstart",i),e.addEventListener("touchmove",n),e.addEventListener("touchend",s),e.addEventListener("touchcancel",s)}}return t.getInstance=function(){return t._instance},t.prototype._touchstart=function(e){var i=this;if(this._shouldHandle(e)){if(Date.now()-this._lastClick<t._DBLCLICK&&this._dispatchEvent(e,"dblclick",e.target)){e.preventDefault(),this._reset();return}this._reset();var n=this._closestDraggable(e.target);!n||this._dispatchEvent(e,"mousemove",e.target)||this._dispatchEvent(e,"mousedown",e.target)||(this._dragSource=n,this._ptDown=this._getPoint(e),this._lastTouch=e,e.preventDefault(),setTimeout(function(){i._dragSource==n&&null==i._img&&i._dispatchEvent(e,"contextmenu",n)&&i._reset()},t._CTXMENU))}},t.prototype._touchmove=function(e){if(this._shouldHandle(e)){var i=this._getTarget(e);if(this._dispatchEvent(e,"mousemove",i)){this._lastTouch=e,e.preventDefault();return}this._dragSource&&!this._img&&this._getDelta(e)>t._THRESHOLD&&(this._dispatchEvent(e,"dragstart",this._dragSource),this._createImage(e),this._dispatchEvent(e,"dragenter",i)),this._img&&(this._lastTouch=e,e.preventDefault(),i!=this._lastTarget&&(this._dispatchEvent(this._lastTouch,"dragleave",this._lastTarget),this._dispatchEvent(e,"dragenter",i),this._lastTarget=i),this._moveImage(e),this._dispatchEvent(e,"dragover",i))}},t.prototype._touchend=function(t){if(this._shouldHandle(t)){if(this._dispatchEvent(this._lastTouch,"mouseup",t.target)){t.preventDefault();return}this._img||(this._dragSource=null,this._dispatchEvent(this._lastTouch,"click",t.target),this._lastClick=Date.now()),this._destroyImage(),this._dragSource&&(0>t.type.indexOf("cancel")&&this._dispatchEvent(this._lastTouch,"drop",this._lastTarget),this._dispatchEvent(this._lastTouch,"dragend",this._dragSource),this._reset())}},t.prototype._shouldHandle=function(t){return t&&!t.defaultPrevented&&t.touches&&t.touches.length<2},t.prototype._reset=function(){this._destroyImage(),this._dragSource=null,this._lastTouch=null,this._lastTarget=null,this._ptDown=null,this._dataTransfer=new e},t.prototype._getPoint=function(t,e){return t&&t.touches&&(t=t.touches[0]),{x:e?t.pageX:t.clientX,y:e?t.pageY:t.clientY}},t.prototype._getDelta=function(t){var e=this._getPoint(t);return Math.abs(e.x-this._ptDown.x)+Math.abs(e.y-this._ptDown.y)},t.prototype._getTarget=function(t){for(var e=this._getPoint(t),i=document.elementFromPoint(e.x,e.y);i&&"none"==getComputedStyle(i).pointerEvents;)i=i.parentElement;return i},t.prototype._createImage=function(e){this._img&&this._destroyImage();var i=this._imgCustom||this._dragSource;if(this._img=i.cloneNode(!0),this._copyStyle(i,this._img),this._img.style.top=this._img.style.left="-9999px",!this._imgCustom){var n=i.getBoundingClientRect(),s=this._getPoint(e);this._imgOffset={x:s.x-n.left,y:s.y-n.top},this._img.style.opacity=t._OPACITY.toString()}this._moveImage(e),document.body.appendChild(this._img)},t.prototype._destroyImage=function(){this._img&&this._img.parentElement&&this._img.parentElement.removeChild(this._img),this._img=null,this._imgCustom=null},t.prototype._moveImage=function(t){var e=this;requestAnimationFrame(function(){var i=e._getPoint(t,!0),n=e._img.style;n.position="absolute",n.pointerEvents="none",n.zIndex="999999",n.left=Math.round(i.x-e._imgOffset.x)+"px",n.top=Math.round(i.y-e._imgOffset.y)+"px"})},t.prototype._copyProps=function(t,e,i){for(var n=0;n<i.length;n++){var s=i[n];t[s]=e[s]}},t.prototype._copyStyle=function(e,i){if(t._rmvAtts.forEach(function(t){i.removeAttribute(t)}),e instanceof HTMLCanvasElement){var n=e,s=i;s.width=n.width,s.height=n.height,s.getContext("2d").drawImage(n,0,0)}for(var r=getComputedStyle(e),o=0;o<r.length;o++){var a=r[o];i.style[a]=r[a]}i.style.pointerEvents="none";for(var o=0;o<e.children.length;o++)this._copyStyle(e.children[o],i.children[o])},t.prototype._dispatchEvent=function(e,i,n){if(e&&n){var s=document.createEvent("Event"),r=e.touches?e.touches[0]:e;return s.initEvent(i,!0,!0),s.button=0,s.which=s.buttons=1,this._copyProps(s,e,t._kbdProps),this._copyProps(s,r,t._ptProps),s.dataTransfer=this._dataTransfer,n.dispatchEvent(s),s.defaultPrevented}return!1},t.prototype._closestDraggable=function(t){for(;t;t=t.parentElement)if(t.hasAttribute("draggable"))return t;return null},t._instance=new t,t._THRESHOLD=5,t._OPACITY=.5,t._DBLCLICK=500,t._CTXMENU=900,t._rmvAtts="id,class,style,draggable".split(","),t._kbdProps="altKey,ctrlKey,metaKey,shiftKey".split(","),t._ptProps="pageX,pageY,clientX,clientY,screenX,screenY".split(","),t}();t.DragDropTouch=i}(DragDropTouch||(DragDropTouch={}));</script>
 
 <div class="find-dialog" style=" background-color: rgba(0, 0, 0, .5); width: 100%; height: 100%; position: fixed; left: 0; top: 0; z-index: 100; ">
   <div style=" top: 50%; left: 50%; position: absolute; ">
-    <div style="background-color: white; position: relative; width: 240pt; margin-left: -120pt; height: 50pt; margin-top: -25pt; padding: 10pt; text-align: center; ">
-        <div>FEN: <input class="find-fen" type="text" style=" width: 200pt; "/></div>
+    <div style="background-color: white; position: relative; width: 240pt; margin-left: -120pt; height: 60pt; margin-top: -25pt; padding: 10pt; text-align: center; ">
+        <div style="white-space:nowrap"><label>FEN: <input class="find-fen" type="text" style=" width: 180pt; "/></label></div>
         <div style=" padding: 10pt; "><button class="find-ok"> ОК </button> <button class="find-cancel"> Отмена </button></div>
     </div>
   </div>
 </div>
 
-<div style="margin-right: 220pt;">
-<div style="width: 220pt; margin-right: -220pt; position: fixed; right: 220pt; ">
-  <div style="width: 200pt; height: 200pt; padding: 10pt; ">
-    <table class="board" cellpadding="0" cellspacing="0" style="width: 100%; height: 100%">
-      <tr><td class="sa8 z0 pzz">&nbsp;</td><td class="sb8 z1 pzz">&nbsp;</td><td class="sc8 z0 pzz">&nbsp;</td><td class="sd8 z1 pzz">&nbsp;</td><td class="se8 z0 pzz">&nbsp;</td><td class="sf8 z1 pzz">&nbsp;</td><td class="sg8 z0 pzz">&nbsp;</td><td class="sh8 z1 pzz"></td></tr>
-      <tr><td class="sa7 z1 pzz">&nbsp;</td><td class="sb7 z0 pzz">&nbsp;</td><td class="sc7 z1 pzz">&nbsp;</td><td class="sd7 z0 pzz">&nbsp;</td><td class="se7 z1 pzz">&nbsp;</td><td class="sf7 z0 pzz">&nbsp;</td><td class="sg7 z1 pzz">&nbsp;</td><td class="sh7 z0 pzz"></td></tr>
-      <tr><td class="sa6 z0 pzz">&nbsp;</td><td class="sb6 z1 pzz">&nbsp;</td><td class="sc6 z0 pzz">&nbsp;</td><td class="sd6 z1 pzz">&nbsp;</td><td class="se6 z0 pzz">&nbsp;</td><td class="sf6 z1 pzz">&nbsp;</td><td class="sg6 z0 pzz">&nbsp;</td><td class="sh6 z1 pzz"></td></tr>
-      <tr><td class="sa5 z1 pzz">&nbsp;</td><td class="sb5 z0 pzz">&nbsp;</td><td class="sc5 z1 pzz">&nbsp;</td><td class="sd5 z0 pzz">&nbsp;</td><td class="se5 z1 pzz">&nbsp;</td><td class="sf5 z0 pzz">&nbsp;</td><td class="sg5 z1 pzz">&nbsp;</td><td class="sh5 z0 pzz"></td></tr>
-      <tr><td class="sa4 z0 pzz">&nbsp;</td><td class="sb4 z1 pzz">&nbsp;</td><td class="sc4 z0 pzz">&nbsp;</td><td class="sd4 z1 pzz">&nbsp;</td><td class="se4 z0 pzz">&nbsp;</td><td class="sf4 z1 pzz">&nbsp;</td><td class="sg4 z0 pzz">&nbsp;</td><td class="sh4 z1 pzz"></td></tr>
-      <tr><td class="sa3 z1 pzz">&nbsp;</td><td class="sb3 z0 pzz">&nbsp;</td><td class="sc3 z1 pzz">&nbsp;</td><td class="sd3 z0 pzz">&nbsp;</td><td class="se3 z1 pzz">&nbsp;</td><td class="sf3 z0 pzz">&nbsp;</td><td class="sg3 z1 pzz">&nbsp;</td><td class="sh3 z0 pzz"></td></tr>
-      <tr><td class="sa2 z0 pzz">&nbsp;</td><td class="sb2 z1 pzz">&nbsp;</td><td class="sc2 z0 pzz">&nbsp;</td><td class="sd2 z1 pzz">&nbsp;</td><td class="se2 z0 pzz">&nbsp;</td><td class="sf2 z1 pzz">&nbsp;</td><td class="sg2 z0 pzz">&nbsp;</td><td class="sh2 z1 pzz"></td></tr>
-      <tr><td class="sa1 z1 pzz">&nbsp;</td><td class="sb1 z0 pzz">&nbsp;</td><td class="sc1 z1 pzz">&nbsp;</td><td class="sd1 z0 pzz">&nbsp;</td><td class="se1 z1 pzz">&nbsp;</td><td class="sf1 z0 pzz">&nbsp;</td><td class="sg1 z1 pzz">&nbsp;</td><td class="sh1 z0 pzz"></td></tr>
-    </table>
-    <br/>
-    <div class="eval" style="width: 40pt; display: inline-block; "></div>
-    <button class="nav" data-delta="-1"> < </button>
-    <button class="nav" data-delta="1" > > </button>
-    <button class="find"> &#x1F50D; </button>
-    <input id="fen" type="text" readonly style="margin-top: 10pt; width: 100%; " onClick="this.setSelectionRange(0, this.value.length)"/>
-    <input id="moves" type="text" readonly style="margin-top: 10pt; width: 100%; " onClick="this.setSelectionRange(0, this.value.length)"/>
-    <div class="find-result" style=" margin-top: 10pt; "></div>
-  </div>
+<div class="page-wrapper">
+<div class="panel">
+    <div class="board-wrapper">
+      <table class="board" cellpadding="0" cellspacing="0" style="width: 100%; height: 100%">
+        <tr><td class="sa8 z0 pzz">&nbsp;</td><td class="sb8 z1 pzz">&nbsp;</td><td class="sc8 z0 pzz">&nbsp;</td><td class="sd8 z1 pzz">&nbsp;</td><td class="se8 z0 pzz">&nbsp;</td><td class="sf8 z1 pzz">&nbsp;</td><td class="sg8 z0 pzz">&nbsp;</td><td class="sh8 z1 pzz"></td></tr>
+        <tr><td class="sa7 z1 pzz">&nbsp;</td><td class="sb7 z0 pzz">&nbsp;</td><td class="sc7 z1 pzz">&nbsp;</td><td class="sd7 z0 pzz">&nbsp;</td><td class="se7 z1 pzz">&nbsp;</td><td class="sf7 z0 pzz">&nbsp;</td><td class="sg7 z1 pzz">&nbsp;</td><td class="sh7 z0 pzz"></td></tr>
+        <tr><td class="sa6 z0 pzz">&nbsp;</td><td class="sb6 z1 pzz">&nbsp;</td><td class="sc6 z0 pzz">&nbsp;</td><td class="sd6 z1 pzz">&nbsp;</td><td class="se6 z0 pzz">&nbsp;</td><td class="sf6 z1 pzz">&nbsp;</td><td class="sg6 z0 pzz">&nbsp;</td><td class="sh6 z1 pzz"></td></tr>
+        <tr><td class="sa5 z1 pzz">&nbsp;</td><td class="sb5 z0 pzz">&nbsp;</td><td class="sc5 z1 pzz">&nbsp;</td><td class="sd5 z0 pzz">&nbsp;</td><td class="se5 z1 pzz">&nbsp;</td><td class="sf5 z0 pzz">&nbsp;</td><td class="sg5 z1 pzz">&nbsp;</td><td class="sh5 z0 pzz"></td></tr>
+        <tr><td class="sa4 z0 pzz">&nbsp;</td><td class="sb4 z1 pzz">&nbsp;</td><td class="sc4 z0 pzz">&nbsp;</td><td class="sd4 z1 pzz">&nbsp;</td><td class="se4 z0 pzz">&nbsp;</td><td class="sf4 z1 pzz">&nbsp;</td><td class="sg4 z0 pzz">&nbsp;</td><td class="sh4 z1 pzz"></td></tr>
+        <tr><td class="sa3 z1 pzz">&nbsp;</td><td class="sb3 z0 pzz">&nbsp;</td><td class="sc3 z1 pzz">&nbsp;</td><td class="sd3 z0 pzz">&nbsp;</td><td class="se3 z1 pzz">&nbsp;</td><td class="sf3 z0 pzz">&nbsp;</td><td class="sg3 z1 pzz">&nbsp;</td><td class="sh3 z0 pzz"></td></tr>
+        <tr><td class="sa2 z0 pzz">&nbsp;</td><td class="sb2 z1 pzz">&nbsp;</td><td class="sc2 z0 pzz">&nbsp;</td><td class="sd2 z1 pzz">&nbsp;</td><td class="se2 z0 pzz">&nbsp;</td><td class="sf2 z1 pzz">&nbsp;</td><td class="sg2 z0 pzz">&nbsp;</td><td class="sh2 z1 pzz"></td></tr>
+        <tr><td class="sa1 z1 pzz">&nbsp;</td><td class="sb1 z0 pzz">&nbsp;</td><td class="sc1 z1 pzz">&nbsp;</td><td class="sd1 z0 pzz">&nbsp;</td><td class="se1 z1 pzz">&nbsp;</td><td class="sf1 z0 pzz">&nbsp;</td><td class="sg1 z1 pzz">&nbsp;</td><td class="sh1 z0 pzz"></td></tr>
+      </table>
+      <div class="square-move" style="position: absolute; top: -1000; width: 12.5%; height: 12.5%; "></div>
+      <div class="draggable" draggable="true" style=" position: absolute; top: 0; left: 0; width: 100%; height: 100%; touch-action: none; "></div>
+    </div>
+    <div class="tools">
+      <div class="eval" style="font-size: 150%; ">?</div>
+      <button class="nav" data-delta="-1"> < </button>
+      <button class="nav" data-delta="1" > > </button>
+      <button class="find"> &#x1F50D; </button>
+      <input id="fen" class="autosel" type="text" readonly style="margin-top: 10pt; width: 100%; "/>
+      <input id="moves" class="autosel" type="text" readonly style="margin-top: 10pt; width: 100%; "/>
+      <div class="find-result" style=" margin-top: 10pt; "></div>
+    </div>
 </div>
 
 <script>
     var startFen = "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1";
+    var boardFen = startFen;
+    var chess = new Chess();
     var pieceClassMap = new Map([["P", "pwp"], ["R", "pwr"], ["N", "pwn"], ["B", "pwb"], ["Q", "pwq"], ["K", "pwk"],
                                  ["p", "pbp"], ["r", "pbr"], ["n", "pbn"], ["b", "pbb"], ["q", "pbq"], ["k", "pbk"], ["z", "pzz"]]);
 
@@ -86,6 +106,12 @@
                      "h7", "g7", "f7", "e7", "d7", "c7", "b7", "a7", "h8", "g8", "f8", "e8", "d8", "c8", "b8", "a8"];
 
     var flip = false;
+    var dnd = true;
+    var top = true;
+    
+    if (top) {
+        $(".page-wrapper").addClass("top");
+    }
                      
     if (flip) {
         $(".board td").toArray().forEach((e, i) => {
@@ -112,7 +138,7 @@
         return curClass;
     }
     
-    function applyFen(fen) {
+    function applyFen(fen, onlyBoard) {
         var fen0 = fen.split(" ")[0];
         fen0 = fen0.replaceAll("1", "z",).replaceAll("2", "zz").replaceAll("3", "zzz").replaceAll("4", "zzzz")
             .replaceAll("5", "zzzzz").replaceAll("6", "zzzzzz").replaceAll("7", "zzzzzzz").replaceAll("8", "zzzzzzzz");
@@ -126,6 +152,11 @@
                 var elem = $(".s" + cols[x] + rows[y]);
                 pieceClass(elem, pieceClassMap.get(fs[y][x]));
             }
+        }
+        
+        boardFen = fen;
+        if (onlyBoard) {
+            return;
         }
         
         $("#fen").val(fen);
@@ -173,8 +204,15 @@
         var elemTop = Math.floor(elem.offset().top);
         var elemBottom = elemTop + elemHeight + 1;
         var winTop = window.scrollY;
-        var winBottom = winTop + window.innerHeight;
-        var margin = elemHeight * 10 > window.innerHeight ? window.innerHeight / 2 : elemHeight * 5;
+        var winHeight = window.innerHeight;
+        if (top) {
+            var panelHeight = $(".panel").height();
+            winHeight -= panelHeight;
+            winTop += panelHeight;
+        }
+
+        var winBottom = winTop + winHeight;
+        var margin = elemHeight * 10 > winHeight ? winHeight / 2 : elemHeight * 5;
         
         if (elemTop < winTop) {
             window.scroll({ top: window.scrollY - (winTop - elemTop + margin)});
@@ -208,7 +246,7 @@
     }
     
     function queryEval(fen) {
-        $(".eval").text("");
+        $(".eval").text("?");
         $.ajax({url: "https://lichess.org/api/cloud-eval?multiPv=1&fen=" + encodeURIComponent(fen)})
             .done(function (data) {
                 var pvs = data.pvs[0];
@@ -249,17 +287,105 @@
         return false;
     });
     
-    $(".find-ok").click(function() {
-        var fen = $(".find-fen").val().split(" ")[0];
-        var html = "Результаты: " + $(".move[fen^='" + fen + "']").toArray()
-            .map((x,i) => "<span class='find-id' fid='" + $(x).attr("id") + "'>" + (i + 1) + "</span>").join(" ");
+    function findFen(fen) {
+        fen = fen.split(" ")[0];
+        var elems = $(".move[fen^='" + fen + "']").toArray();
+        var html = "Результат: " + ((elems.length === 0) ? "не найдено"
+            : elems.map((x,i) => "<span class='find-id' fid='" + $(x).attr("id") + "'>" + (i + 1) + "</span>").join(" "));
+
         $(".find-result").html(html);
         $(".find-dialog").removeClass("visible");
+    }
+    
+    $(".find-ok").click(function() {
+        findFen($(".find-fen").val());
     });
     
-    $(document).on('click', '.find-id', function(){
+    function selFind(elem) {
+        elem = $(elem);
         $(".find-id.sel").removeClass("sel");
-        $(this).addClass("sel");
-        selMove("#" + $(this).attr("fid"));
+        $(elem).addClass("sel");
+        selMove("#" + $(elem).attr("fid"));
+    }
+    
+    $(document).on('click', '.find-id', function(){
+        selFind(this);
     });
+    
+    $(".autosel").click(function() {
+        this.setSelectionRange(0, this.value.length);
+    });
+    
+    // Drag and Drop
+    function getSquare(event) {
+        var board = $(".board");
+        var ss = board.width() / 8;
+        var bp = board.offset();
+        var p = { x: event.pageX - bp.left, y: event.pageY - bp.top };
+        
+        var r = { x: Math.floor(p.x / ss) + 1
+            , y: Math.floor(p.y / ss) + 1
+            , size: ss
+            , dx: p.x % ss
+            , dy: p.y % ss};
+        
+        var cols = !flip ? "abcdefgh" : "hgfedcba";        
+        var rows = !flip ? "87654321" : "12345678";
+        r.name = null;
+        r.class = "pzz";
+        if (r.x > 0 && r.x < 9 && r.y > 0 && r.y < 9) {
+            r.name = cols[r.x - 1] + rows[r.y - 1];
+            r.class = $(".s" + r.name).attr("class").match(/p(zz|[bw][prnbqk])/)[0];
+        }
+        
+        return r;
+    }
+    
+    if (dnd) {
+        var dragSquare = null;
+        
+        $(".board-wrapper").on("dragover", function(event) {
+            event = event.originalEvent;
+            event.dataTransfer.dropEffect = "move";
+            event.preventDefault();
+        });
+        
+        $(".draggable").on("dragstart", function(event) {
+            event = event.originalEvent;
+            var s = getSquare(event);
+            
+            if (s.name) {
+                $(".s" + s.name).addClass("square-sel");
+            }
+            var elem = $(".square-move");
+            elem.attr("class", "square-move " + s.class);
+            event.dataTransfer.setDragImage(elem[0], s.dx, s.dy);
+            dragSquare = s.name;
+        });
+
+        $(".draggable").on("dragend", function dragEndHandler(event) {
+            event = event.originalEvent;
+            $(".square-sel").removeClass("square-sel");
+            var s = getSquare(event);
+            if (!s.name) return;
+            
+            chess.load(boardFen);
+            var move = dragSquare + s.name;
+            var r = chess.move({from: dragSquare, to: s.name});
+            if (!r) return;
+            
+            var fen = chess.fen();
+            findFen(fen);
+            var found = $(".find-id:first");
+            if (found.length) {
+                selFind(found);
+            }
+            else {
+                applyFen(fen, true);
+                applyLast(move);
+            }
+        });
+    }
+    
+    // end Drag and Drop
 </script>
