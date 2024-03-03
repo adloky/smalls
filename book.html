@@ -94,7 +94,7 @@
 
 <script>
     var startFen = "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1";
-    var boardFen = startFen;
+    var boardState = { fen: startFen, last: null };
     var chess = new Chess();
     var pieceClassMap = new Map([["P", "pwp"], ["R", "pwr"], ["N", "pwn"], ["B", "pwb"], ["Q", "pwq"], ["K", "pwk"],
                                  ["p", "pbp"], ["r", "pbr"], ["n", "pbn"], ["b", "pbb"], ["q", "pbq"], ["k", "pbk"], ["z", "pzz"]]);
@@ -121,6 +121,7 @@
     
     function applyLast(move) {
         $(".last-move").removeClass("last-move");
+        boardState.last = move;
         if (!move) return;
         
         $(".s" + move.substring(0, 2)).addClass("last-move");
@@ -153,7 +154,7 @@
             }
         }
         
-        boardFen = fen;
+        boardState.fen = fen;
         if (onlyBoard) {
             return;
         }
@@ -361,6 +362,12 @@
         $(".draggable").on("dragstart", function(event) {
             event = event.originalEvent;
             var s = getSquare(event);
+            var turn = boardState.fen.includes(" w ") ? 1 : -1;
+            var color = s.class[1] == 'w' ? 1 : s.class[1] == 'b' ? -1 : 0;
+            if (turn !== color) {
+                event.preventDefault();
+                return;
+            }
             
             if (s.name) {
                 $(".s" + s.name).addClass("square-sel");
@@ -377,7 +384,7 @@
             var s = getSquare(event);
             if (!s.name) return;
             
-            chess.load(boardFen);
+            chess.load(boardState.fen);
             var move = dragSquare + s.name;
             var r = chess.move({from: dragSquare, to: s.name});
             if (!r) return;
