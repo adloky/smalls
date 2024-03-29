@@ -8,7 +8,7 @@
   .square-sel, .square-sel.last-move { background-color: #447788; opacity: 0.5; }
   .board td { width: 12.5%; height: 12.5%; }
   .board td, .square-move { background-repeat: no-repeat; background-position: center center; background-size: cover; }
-  .hidden { visibility: collapse; }
+  .hidden { visibility: collapse; display: none; }
   .move { cursor: hand; white-space: nowrap; }
   .move-hilight { background-color: #add; }  
   .move.sel { background-color: #bbb; }
@@ -107,6 +107,11 @@
     var flip = false;
     var dnd = false;
     var topPanel = false;
+    var evalFen = true;
+    
+    if (!evalFen) {
+        $(".eval").addClass("hidden");
+    }
     
     if (topPanel) {
         $(".page-wrapper").addClass("top");
@@ -253,6 +258,8 @@
     }
     
     function queryEval(fen) {
+        if (!evalFen) return;
+        
         $(".eval").text("?");
         $.ajax({url: "https://lichess.org/api/cloud-eval?multiPv=1&fen=" + encodeURIComponent(fen)})
             .done(function (data) {

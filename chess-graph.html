@@ -217,16 +217,29 @@
     function applyMd() {
         var num = getSel();
         var sm = moves.slice(num, num + subMovesCount);
+        var fen = $(`#move${num - 1}`).attr("fen");
+        if (num > 0) {
+            num--;
+            sm.unshift({san:"--",num:num});
+        }
         var pgn = sm.map(m => {
             var isEven = (m.num % 2) === 0;
             var n = Math.floor(m.num / 2) + 1;
             return `${isEven || m.num === num ? n + (isEven ? "." : "...") : ""}${m.san}`;
         }).join(" ");
         
-        var fen = $(`#move${num - 1}`).attr("fen");
         if (!fen) { fen = startFen; }
+        else {
+            var fs = fen.split(" ");
+            fs[1] = fs[1] === "w" ? "b" : "w";
+            if (fs[1] === "b") {
+                fs[5] = Number(fs[5])-1;
+            }
+            fs[3] = "-";
+            fen = fs.join(" ");
+        }
 
-        var r = `<fen value="${fen}"/>\n\n(S) ${pgn} [link](${pgnLink})\n\n`; 
+        var r = `${pgn} [link](${pgnLink})<fen value="${fen}"/><fend/>`; 
         $("#md").val(r);
     }
     

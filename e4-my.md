@@ -1,4 +1,4 @@
-<config dnd="1" top="1"/>
+<config dnd="1" top="1" eval="0"/>
 
 **Содержание**
 
@@ -2002,7 +2002,7 @@ addHints("1. e4 b6 2. d4 Bb7 3. Nc3 d6 4. Bd3 Nd7 5. Nf3 e6 6. O-O");
 addHints("1. e4 b6 2. d4 Bb7 3. Nc3 d6 4. Bd3 Nd7 5. Nf3 e5 6. O-O");
 addHints("1. e4 b6 2. d4 Bb7 3. Nc3 a6 4. Nf3");
 
-# Защита Филлидора
+# Защита Филидора
 
 **1.e4 e5 2.Nf3 d6 3.d4**
 
