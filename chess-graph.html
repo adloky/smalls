@@ -9,6 +9,8 @@
   .hidden { visibility: collapse; }
   .move { width: 70pt; cursor: hand; white-space: nowrap; }
   .move.sel { background-color: #ccc; }
+  .link.sel { background-color: #ccc; }
+  .link { cursor: hand; }
   #fen { user-select: all; }
   img { transform: rotate(180deg); }  
   .moves tr td:first-child { width: 200pt; no-repeat; background-position: center center; background-size: cover; }
@@ -37,6 +39,7 @@
 
 <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/chess.js/0.10.3/chess.js"></script>
+<script src="chess-games.js"></script>
 <div style="margin-right: 220pt;">
 <div style="width: 220pt; margin-right: -220pt; position: fixed; right: 220pt; ">
   <div style="width: 200pt; height: 200pt; padding: 10pt; ">
@@ -59,11 +62,22 @@
     <textarea id="md" rows="8" readonly style="margin-top: 10pt; width: 100%; " onClick="this.setSelectionRange(0, this.value.length)"></textarea>
   </div>
 </div>
-<textarea class="pgn" rows="3" cols="50">[Link "link"]&#13;&#10;&#13;&#10;1. e4 {0.32} 1... c6 {0.37} 2. d4 {0.33} 2... d5 {0.62}</textarea>
-<br/>
-<br/>
-<table class="moves">
-</table>
+
+<div style="float:left">
+  <textarea class="pgn" rows="3" cols="50">[Link "link"]&#13;&#10;&#13;&#10;1. e4 {0.32} 1... c6 {0.37} 2. d4 {0.33} 2... d5 {0.62}</textarea>
+  <br/>
+  <br/>
+  <table class="moves"></table>
+</div>
+
+<div style="float:left; width: 300pt; margin-left: 20pt; ">
+  <input type="text" class="search" style="width: 100%"/>
+  <br/>
+  <br/>
+  <div class="nums"></div>
+  <br/>
+  <table class="games"></table>
+</div>
 
 <script>
     var startFen = "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1";
@@ -87,6 +101,9 @@
             $(e).attr("class", newClass);
         });
     };
+    
+    var clearRe = / ?\{[^}]*\}|\d+\.{1,3} ?/g;
+    games.forEach(x => { x.ms = x.moves.replaceAll(clearRe, ""); });
     
     function applyLast(move) {
         $(".last-move").removeClass("last-move");
@@ -191,7 +208,7 @@
         $(".moves").html(r);
         selMove($(".move").first());
     }
-
+    
     function selMove(elem) {
         elem = $(elem);
         $(".move.sel").removeClass("sel");
@@ -243,6 +260,26 @@
         $("#md").val(r);
     }
     
+    function search(moves) {
+        moves = moves.replaceAll(clearRe, "").trim();
+        var gs = games.filter(g => g.ms.indexOf(moves) === 0);
+        var ns = gs.map(g => g.ms.substring(moves.length).trim().split(" ")[0]);
+        
+        var o = Object.groupBy(ns, x => x);
+        var nums = [];
+        for(var p in o) {
+            nums.push({move: p, num: Math.floor(o[p].length / gs.length * 100) })
+        }
+        nums.sort((a,b) => Math.sign(b.num - a.num));
+        nums = nums.filter(x => x.num >= 5);
+        
+        $(".nums").html(nums.map(n => `<b>${n.move}</b> ${n.num}%`).join(" "));
+        
+        gs = gs.slice(0,30);
+        var html = gs.map(g => `<tr><td>${g.date}</td><td class='link'>${g.link.split("/").slice(-1)}</td></tr>`).join("");
+        $(".games").html(html);
+    }
+    
     applyFen(startFen);
     applyMoves($(".pgn").val().trim());
     var keys = $(document).find("[key]").toArray().map(x => Number($(x).attr("key")));
@@ -251,8 +288,21 @@
         selMove(this);
     });
     
+    $(document).on("click", ".link", function() {
+        var id = $(this).text();
+        $(".link.sel").removeClass("sel");
+        $(this).addClass("sel");
+        var g = games.filter(g => g.link.indexOf(id) >= 0)[0];
+        $(".pgn").val(`[Link "${g.link}"]\r\n\r\n${g.moves}`);
+        applyMoves($(".pgn").val());
+    });
+    
     $(".pgn").on("change", function() {
         applyMoves($(this).val());
+    });
+    
+    $(".search").on("change", function() {
+        search($(this).val());
     });
     
     $(".nav").click(function() {
