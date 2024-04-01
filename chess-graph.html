@@ -70,7 +70,7 @@
   <table class="moves"></table>
 </div>
 
-<div style="float:left; width: 300pt; margin-left: 20pt; ">
+<div style="float:left; width: 200pt; margin-left: 20pt; ">
   <input type="text" class="search" style="width: 100%"/>
   <br/>
   <br/>
@@ -210,6 +210,8 @@
     }
     
     function selMove(elem) {
+        if (Number.isInteger(elem)) elem = $(`#move${elem}`);
+        
         elem = $(elem);
         $(".move.sel").removeClass("sel");
         applyFen(elem.attr("fen"));
@@ -255,8 +257,9 @@
             fs[3] = "-";
             fen = fs.join(" ");
         }
-
-        var r = `${pgn} [link](${pgnLink})<fen value="${fen}"/><fend/>`; 
+        var text = pgnLink.split("/").slice(-1)[0];
+        text = text.substring(Math.max(0, text.length - 10));
+        var r = `${pgn} [${text}](${pgnLink})<fen value="${fen}"/><fend/>`; 
         $("#md").val(r);
     }
     
@@ -275,7 +278,7 @@
         
         $(".nums").html(nums.map(n => `<b>${n.move}</b> ${n.num}%`).join(" "));
         
-        gs = gs.slice(0,30);
+        gs = gs.slice(0,100);
         var html = gs.map(g => `<tr><td>${g.date}</td><td class='link'>${g.link.split("/").slice(-1)}</td></tr>`).join("");
         $(".games").html(html);
     }
@@ -295,6 +298,8 @@
         var g = games.filter(g => g.link.indexOf(id) >= 0)[0];
         $(".pgn").val(`[Link "${g.link}"]\r\n\r\n${g.moves}`);
         applyMoves($(".pgn").val());
+        var n = $(".search").val().replaceAll(clearRe, "").trim().split(" ").length - 1;
+        selMove(n);
     });
     
     $(".pgn").on("change", function() {
