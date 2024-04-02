@@ -73,7 +73,8 @@
           var clearRe = /\d+\.{1,3} ?/g;
           var chess = new Chess();
 
-          function getArrowCoords(s, width, d) {
+          function getArrowCoords(s, width, d, hasText) {
+              if (hasText === undefined) { hasText = true; }
               if (!Number.isInteger(d)) { d = 0; }
 
               if (s === "a1a1") {
@@ -98,7 +99,10 @@
               var ofs = 10;
               var ofs2 = 40;
               if (length <= 100) {
-                  ofs2 -= 10;
+                  ofs2 = 30;
+              }
+              if (!hasText) {
+                  ofs2 = 20;
               }
               
               ps.push({ x: 0, y: 0 + ofs });
@@ -130,23 +134,36 @@
           function getArrowsSvg() {
               var rs = [];
               var ss = $(".arrows-box").val().split(" ");
+              
               ss.filter(s => /^[a-h][1-8]$/.test(s)).forEach(s => {
-                  var x = (s.charCodeAt(0) - "a".charCodeAt(0)) * 100;
-                  var y = ("8".charCodeAt(0) - s.charCodeAt(1)) * 100;
-                  rs.push(`<rect x="${x}" y="${y}" width="100" height="100" style="fill: none; stroke: black; stroke-width: 4; "/>`);
+                  var x = (s.charCodeAt(0) - "a".charCodeAt(0)) * 100 + 50;
+                  var y = ("8".charCodeAt(0) - s.charCodeAt(1)) * 100 + 50;
+                  rs.push(`<circle cx="${x}" cy="${y}" r="45" style="stroke: white; stroke-width: 10; fill: none; "/>`);
+                  rs.push(`<circle cx="${x}" cy="${y}" r="45" style="stroke: black; stroke-width: 6; fill: none; "/>`);
+              });
+
+              ss.filter(s => /^\$([a-h][1-8]){2}/.test(s)).forEach(s => {
+                  var cs = getArrowCoords(s.substring(1), 14, 0, false);
+                  cs.splice(5, 1);
+                  cs.splice(3, 1);
+                  var cStr = cs.map(p => "" + p.x + "," + p.y).join(" ");
+                  rs.push("<polygon points=\"" + cStr + "\" style=\"fill: white; stroke: white; stroke-width: 10; \"/>");
+                  rs.push("<polygon points=\"" + cStr + "\" style=\"fill: white; stroke: black; stroke-width: 3; \"/>");
               });
               
               ss.filter(s => /^([a-h][1-8]){2}/.test(s)).forEach(s => {
                   var color = Number(match(s, /\-/, "+") + "1");
                   var r = 22 + (color === 1 ? 2 : 0);
-                  var cs = getArrowCoords(s, 12, Number(match(s, /\^\d+/, "^5").replace("^", ""))-5);
+                  var text = match(s, /#../, "").replaceAll(/[#\.]/g, "");
+                  var hasText = text !== "";
+                  var cs = getArrowCoords(s, 12, Number(match(s, /\^\d+/, "^5").replace("^", ""))-5, hasText);
                   var c = cs[4];
-                  var text = match(s, /#./, "").replace("#", "");
-                  rs.push(`<circle cx="${c.x}" cy="${c.y}" r="${r}" style="fill: white; "/>`);
+                  
+                  if (hasText) rs.push(`<circle cx="${c.x}" cy="${c.y}" r="${r}" style="fill: white; "/>`);
                   var cStr = cs.map(p => "" + p.x + "," + p.y).join(" ");
                   rs.push("<polygon points=\"" + cStr + "\" style=\"fill: black; stroke: white; stroke-width: 3; \"/>");
-                  rs.push(`<circle cx="${c.x}" cy="${c.y}" r="${r-4}" style="stroke: black; stroke-width: 3; fill: ${color === 1 ? "white" : "black"}; "/>`);
-                  rs.push(`<text x="${c.x}" y="${c.y+3}" style="font: bold 35px sans-serif; fill: ${color === -1 ? "white" : "black"}; " dominant-baseline="middle" text-anchor="middle">${text}</text>`);
+                  if (hasText) rs.push(`<circle cx="${c.x}" cy="${c.y}" r="${r-4}" style="stroke: black; stroke-width: 3; fill: ${color === 1 ? "white" : "black"}; "/>`);
+                  rs.push(`<text x="${c.x}" y="${c.y+3}" style="font: bold ${text.length === 1 ? 35 : 26}px sans-serif; fill: ${color === -1 ? "white" : "black"}; " dominant-baseline="middle" text-anchor="middle">${text}</text>`);
               });
               
               var s = rs.join("");
@@ -204,8 +221,7 @@
           function mis2arrows(mis) {
               var ss = [];
               if (mis[0].uci) {
-                  ss.push(mis[0].uci.substring(0,2));
-                  ss.push(mis[0].uci.substring(2,4));
+                  ss.push("$" + mis[0].uci);
               }
           
               var getDelta = mi => {
@@ -222,7 +238,7 @@
                   return `${n}`;
               }
               
-              ss = ss.concat(mis.slice(1).map((mi,i) => `${mi.uci}${getColor(mi)}#${i+1}${getDelta(mi)}`));
+              ss = ss.concat(mis.slice(1).map((mi,i) => `${mi.uci}${getColor(mi)}#${i+1}.${getDelta(mi)}`));
               return ss.join(" ");
           }
           
@@ -239,6 +255,10 @@
 
               $(".diagram-interval").change(function () {
                   applyDiagram();
+              });
+              
+              $(".arrows-box").change(function () {
+                  applyArrows();
               });
 
               $(".moves-box").change(() => {
