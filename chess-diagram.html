@@ -154,7 +154,7 @@
               ss.filter(s => /^([a-h][1-8]){2}/.test(s)).forEach(s => {
                   var color = Number(match(s, /\-/, "+") + "1");
                   var r = 22 + (color === 1 ? 2 : 0);
-                  var text = match(s, /#../, "").replaceAll(/[#\.]/g, "");
+                  var text = match(s, /#../, "").replaceAll(/[#\.]/g, "").replaceAll("_", " ");
                   var hasText = text !== "";
                   var cs = getArrowCoords(s, 12, Number(match(s, /\^\d+/, "^5").replace("^", ""))-5, hasText);
                   var c = cs[4];
