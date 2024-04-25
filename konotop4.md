@@ -3260,458 +3260,440 @@
 
 <diagram fen="2k2br1/pppn1Npp/q3rn2/5Q2/8/P3B1PP/1P3PB1/R4RK1 w - - 0 1" color="0" apply="1"/>
 
-[] 1.Bxb7+ Kxb7 2.Nd8+ Kc8 3.Qxe6 Bd6 4.Nf7
+[3] 1.Bxb7+ Qxb7 2.Qxe6
 
 2
 
 <diagram fen="r1b2rk1/ppppnppp/2n2q2/2b5/Q2NP3/2P1B3/PP3PPP/RN2KB1R w KQ - 0 1" color="0" apply="1"/>
 
-1.Nxc6 Bxe3 2.Nxe7+ Qxe7 3.fxe3
+[1] 1.Nxc6 Bxe3 2.Nxe7+
 
 3
 
 <diagram fen="3r4/p3N3/5p2/2p3pp/2P2pk1/1P6/P2n2PP/4R1K1 w - - 0 1" color="0" apply="1"/>
 
-1.h3+ Kg3 2.Nf5#
+[2] 1.h3+ Kg3 2.Nf5#
 
 4
 
 <diagram fen="6Q1/p1q5/P2p3k/3PpK2/4P3/6P1/8/8 b - - 0 1" color="0" apply="1"/>
 
-1...Qf7+
+[2] 1...Qf7+ 2.Qxf7
 
 5
 
 <diagram fen="r1bqk2r/pppp1ppp/2n5/8/2BP4/B4N2/P4PPP/b2Q1RK1 w kq - 0 1" color="0" apply="1"/>
 
-1.Re1+ Ne7 2.Bxe7 Qxe7 3.Rxe7+
+[1] 1.Re1+ Ne7 2.Rxe7+ Qxe7 3.Bxe7 Kxe7 4.Qxa1
 
 6
 
 <diagram fen="1r2k2r/R4ppp/3p1n2/1p1Pp3/1P6/2P5/4BPPP/5RK1 w k - 0 1" color="0" apply="1"/>
 
-Error: dirty
-
-{ 1.Bxb5+ Kf8 2.c4 g5 3.Rd1 Ne4 4.Rd3 Nf6 5.Rf3; (1)1.Rd1 O-O 2.f3 Rfc8 3.Ra5 Rxc3 4.Rxb5 Rf8 5.Rd3 Rxd3}
+[1] 1.Bxb5+ Kf8 2.Bc6
 
 7
 
 <diagram fen="1rb2rk1/p1q2pp1/1b2pn1p/3p4/1P6/P1NB2Q1/2PB1PPP/R3R1K1 w - - 0 1" color="0" apply="1"/>
 
-1.Bf4 Qxc3 2.Bh7+ Kxh7 3.Qxc3 Bxf2+ 4.Kxf2
+[1] 1.Bf4 Nh5 2.Bxc7 Nxg3 3.Bxb8
 
 8
 
 <diagram fen="r1bq1rk1/1ppp1ppp/1pn3n1/4P1N1/2B5/8/PP3PPP/R1BQR1K1 w - - 0 1" color="0" apply="1"/>
 
-1.Qh5 h6 2.Bxf7+ Rxf7 3.Nxf7 Qe8 4.Qxg6
+[2] 1.Qh5 h6 2.Nxf7 (2.Qxg6 (2.Bxf7+ Rxf7 3.Nxf7 Kxf7 4.Qf5+) 2...hxg5 3.Bxg5 Ne7 4.Qh5)
 
 9
 
 <diagram fen="r2qk2r/p2n1ppp/4p3/2bn1b2/3N4/P3P2P/4BPP1/RNBQ1RK1 b kq - 0 1" color="0" apply="1"/>
 
-1...Bxb1 2.Rxb1 Nc3 3.Qc2 Bxd4 4.exd4 Nxb1
+[3] 1...Bxb1 2.Rxb1 Nc3
 
 10
 
 <diagram fen="r3r1k1/1pp2ppp/p1p2n2/5b2/3bP3/2N4P/PPPN1PP1/R1B1R1K1 w - - 0 1" color="0" apply="1"/>
 
-Error: dirty
-
-{ 1.Ne2 Bxb2 2.Bxb2 Nxe4 3.Nd4 Bg6 4.Nxe4 Bxe4 5.f3; (1)1.Kf1 Bxc3 2.exf5 Rxe1+ 3.Kxe1 Bxd2+ 4.Bxd2 Nd5 5.Bc1 Ra7}
+[3] 1.Ne2 Bxf2+ 2.Kxf2
 
 11
 
 <diagram fen="2r3r1/pp1q1p1R/2k1p1p1/3bQ3/3P2p1/2P5/P1B2P1P/3R2K1 w - - 0 1" color="0" apply="1"/>
 
-Error: dirty
-
-{ 1.c4 Kb6 2.Rb1+ Ka6 3.cxd5 Qxd5 4.Qxd5 exd5 5.Bb3; (1)1.Bb3 b5 2.Bxd5+ Qxd5 3.Rxf7 Kb6 4.Qxd5 exd5 5.Rd7 Rc6}
+[3] 1.c4 b5 2.cxd5+
 
 12
 
 <diagram fen="2r2rk1/pp3pp1/4p1np/qb2P3/2pP4/3Q4/P1BB1PPP/R4RK1 w - - 0 1" color="0" apply="1"/>
 
-1.Qxg6 fxg6 2.Bxa5
+[3] 1.Qxg6 fxg6 2.Bxa5
+
+## T46
 
 1
 
 <diagram fen="r2qkb1r/npp1nppp/p2p4/8/3PP1b1/1B3N2/PP3PPP/RNBQ1RK1 w kq - 0 1" color="0" apply="1"/>
 
-1.Bxf7+ Kxf7 2.Ng5+ Ke8 3.Qxg4
+[3] 1.Bxf7+ Kxf7 2.Ng5+ Ke8 3.Qxg4
 
 2
 
 <diagram fen="5r1k/1q2np1p/1p2pp2/p1br4/8/1P1Q1NP1/P3PPBP/2RR2K1 w - - 0 1" color="0" apply="1"/>
 
-Error: dirty
-
-{ 1.Nd4 Bxd4 2.Bxd5 Bxf2+ 3.Kxf2 exd5 4.Qf3 Kg7 5.Qh1 Qa7 6.Qe1 Qd7; (1)1.Qc2 Ba3 2.Ra1 Rxd1+ 3.Qxd1 Ng8 4.Qd3 Kg7 5.Rd1 Qa7}
+[2] 1.Nd4 Rg8 2.Bxd5
 
 3
 
 <diagram fen="r3r1k1/1pp2pbp/p2p1np1/3Pp1Bq/4P3/5N1P/PPPQ1PPK/R3R3 w - - 0 1" color="0" apply="1"/>
 
-1.Bxf6 Qh6 2.Bg5 Qxg5 3.Nxg5 c6 4.dxc6
+[2] 1.Bxf6 Bh6 2.Qe2
 
 4
 
 <diagram fen="r1bq1rk1/pp3ppp/1nn1p3/2p5/1b1PP3/2NQBNP1/PP3PBP/R3K2R b KQ - 0 1" color="0" apply="1"/>
 
-1...cxd4 2.Nxd4 e5 3.Nxc6 Qxd3 4.Nxb4 Qc4
+[3] 1...cxd4 2.Bxd4 e5 3.O-O-O exd4
 
 5
 
 <diagram fen="r1b2rk1/pp3pp1/1q2p2p/4P3/1b4n1/3B4/PPQBN1PP/R4R1K w - - 0 1" color="0" apply="1"/>
 
-1.Bxb4 Qxb4 2.Rf4 Ne3 3.Rxb4 Nxc2 4.Bxc2
+[2] 1.Bxb4 Qxb4 2.Rf4
 
 6
 
 <diagram fen="2r4k/3r1p1p/1p2pP2/p2pPp1P/P2P1Q2/6R1/4B1PK/2q5 w - - 0 1" color="0" apply="1"/>
 
-1.Rg8+ Rxg8 2.Qxc1
+[3] 1.Rg8+ Rxg8 2.Qxc1
 
 7
 
 <diagram fen="r1b2rk1/pp2bpp1/5n1p/q1p1P3/2B2B2/1Q6/PP3PPP/RN2R1K1 w - - 0 1" color="0" apply="1"/>
 
-1.Bd2 Qb6 2.exf6
+[2] 1.Bd2
 
 8
 
 <diagram fen="2krr3/pp1b1ppp/1qn2n2/2bpp3/8/PPN1PN2/1BP1BPPP/R2Q1RK1 w - - 0 1" color="0" apply="1"/>
 
-1.Na4 Qa5 2.Bc3 Qc7 3.Nxc5
+[2] 1.Na4 Qc7 2.Nxc5
 
 9
 
 <diagram fen="8/8/p4R1p/4p3/2b5/k1K5/7r/8 w - - 0 1" color="0" apply="1"/>
 
-1.Rxa6+
+[1] 1.Rxa6+ Bxa6
 
 10
 
 <diagram fen="2r1rbk1/1pq1pp2/p2p1np1/8/P1n1P3/1P2BP2/1P2Q1P1/2RNK2R b K - 0 1" color="0" apply="1"/>
 
-1...Qa5+ 2.Kf1 Nxe3+
+[1] 1...Qa5+ 2.Kf2 Nxe3
 
 11
 
 <diagram fen="8/5p2/4p3/7R/3Pk1p1/4P1B1/3n1KPP/2r5 b - - 0 1" color="0" apply="1"/>
 
-1...Kd3 2.h3 Ne4#
+[2] 1...Kd3 2.h3 Ne4#
 
 12
 
 <diagram fen="r1b1k1nr/pppp1ppp/5q2/8/3bP3/2N2P2/PPP3PP/R1BQKB1R w KQkq - 0 1" color="0" apply="1"/>
 
-1.Nd5
+[2] 1.Nd5 Qe5 2.Bf4 Qh5 3.Qxd4
+
+## T47
 
 1
 
 <diagram fen="r1b1kb1r/ppp3pp/8/4np2/4Bn2/1NP5/PP3PPP/R1B1K1NR b KQkq - 0 1" color="0" apply="1"/>
 
-1...fxe4 2.Bxf4 Nd3+ 3.Kd2 Nxf2
+[2] 1...fxe4 2.Bxf4 Nd3+
 
 2
 
 <diagram fen="r2qk2r/pp1n1p1p/2pbp3/5pBb/3P4/2PB1N1P/PP2QPP1/R3K2R b KQkq - 0 1" color="0" apply="1"/>
 
-1...Bxf3
+[2] 1...Bxf3 2.Qe3 f4 3.Bxf4 Bxf4 4.Qxf4 Bh5
 
 3
 
 <diagram fen="2r2knQ/p4pp1/1p1pq3/1N6/8/1P4P1/P4P1P/3R2K1 b - - 0 1" color="0" apply="1"/>
 
-1...Qe2 2.Rxd6 Rc2 3.Rd8+ Ke7
+[2] 1...Qe2 2.Rxd6 Rc1+ (2...Qf3 (2...Qe1+)) 3.Kg2 Qe4+
 
 4
 
 <diagram fen="r1b2rk1/pp4pp/1qn1p3/2bpPn2/8/1P3N1P/PBN1BPP1/R2Q1RK1 b - - 0 1" color="0" apply="1"/>
 
-Error: dirty
-
-{ 1...Ng3 2.Ba3 Nxf1 3.Qxf1 Kh8 4.Re1 Re8 5.Bxc5 Qxc5; (0)1...Bd7 2.Ba3 Ng3 3.Bxc5 Qxc5 4.Re1 Ne4 5.Rf1}
+[2] 1...Ng3 2.Bd4 Nxf1
 
 5
 
 <diagram fen="4r2k/7q/5P1Q/2pP4/3r4/8/6PP/5R1K w - - 0 1" color="0" apply="1"/>
 
-Error: limit
-
-{ 1.f7 Qxh6 2.fxe8=Q+ Kg7 3.Rf7+ Kg6 4.Qe6+ Kh5 }
+[2] 1.f7 Qxh6 2.fxe8=Q+ Kh7 3.Rf7+ Kg6 4.Qe6+ Kg5 5.Qf5+ Kh4 6.g3#
 
 6
 
 <diagram fen="8/1p6/p2p4/P6p/4p1kp/6q1/8/5Q1K w - - 0 1" color="0" apply="1"/>
 
-1.Qf5+
+[1] 1.Qf5+ Kxf5
 
 7
 
 <diagram fen="rnbqk2r/ppp2ppp/3ppn2/6B1/1bPP4/2N5/PP2PPPP/R2QKBNR w KQkq - 0 1" color="0" apply="1"/>
 
-Error: limit
-
-{ 1.Qa4+ Nc6 2.d5 exd5 3.cxd5 Bxc3+ 4.bxc3 b5 }
+[2] 1.Qa4+ Nc6 2.d5 Bxc3+ 3.bxc3 Bd7 4.dxc6
 
 8
 
 <diagram fen="5r1k/1pp3p1/1b5p/p7/P2P4/3QPqP1/1R5P/4B1K1 b - - 0 1" color="0" apply="1"/>
 
-1...Bxd4 2.Rb3 Bxe3+ 3.Bf2 Qxf2+ 4.Kh1 Qg1#
+[2] 1...Bxd4 2.Rf2 Qxe3
 
 9
 
 <diagram fen="r2r1k2/pp4pp/2p1Bp2/3n4/4b2N/1Pq3P1/P3PP1P/3RQRK1 w - - 0 1" color="0" apply="1"/>
 
-1.Rxd5 Qxe1 2.Rxd8+
+[3] 1.Rxd5 Qxe1 2.Rxd8+ Rxd8 3.Rxe1
 
 10
 
 <diagram fen="3r3k/1b3Q2/1q1r2pp/3Bp3/Pp2Pp1b/1P6/4NPPP/2RR2K1 w - - 0 1" color="0" apply="1"/>
 
-1.Rc7 Qxc7 2.Qxc7
+[2] 1.Rc7 (1.Qxb7 Qxb7 2.Bxb7 Rxd1+ 3.Rxd1 Rxd1#) 1...Bxf2+ 2.Kf1 Qxc7 3.Qxc7
 
 11
 
 <diagram fen="r2qkbnr/pp2pppp/3p4/2pP4/4P1b1/2P2N2/PP3PPP/RNBQKB1R w KQkq - 0 1" color="0" apply="1"/>
 
-Error: dirty
-
-{ 1.Bb5+ Bd7 2.Bxd7+ Qxd7 3.e5 a6 4.c4 Qf5 5.exd6 exd6 6.Qa4+ Ke7; (0)1.Qb3 Qc7 2.Bb5+ Bd7 3.Bxd7+ Qxd7 4.c4 Nf6 5.e5 dxe5 6.Nxe5}
+[4] 1.Nxe5 Bxd1 2.Bb5+ Qd7 3.Bxd7+ Kd8 4.Nxf7+ Kxd7 5.Kxd1
 
 12
 
 <diagram fen="1r2n2R/3k2p1/3p2Q1/1p2pPB1/1P1n4/2q2BK1/8/8 w - - 0 1" color="0" apply="1"/>
 
-1.Qf7+ Kc8 2.Rxe8#
+[1] 1.Qf7+ Kc8 2.Rxe8#
+
+## T48
 
 1
 
 <diagram fen="q2kr3/5ppp/p2b1p2/1p1Pn2b/4Q3/1B4RP/PP1P1P2/R1B2K2 b - - 0 1" color="0" apply="1"/>
 
-Error: dirty
-
-{ 1...Nf3 2.Qxe8+ Kxe8 3.Rxg7 Nh2+ 4.Kg1 Kd7; (0)1...Nc4 2.Qf5 Bg6 3.Qf3 Bxg3 4.Bxc4 Bd6 5.Be2 Kc7 6.Qc3+ Kb6}
+[2] 1...Nf3 2.Qc2 Re1+ 3.Kg2 Rg1#
 
 2
 
 <diagram fen="r5k1/1pp2pp1/1bp4p/2q1p3/4P3/2NP1NPb/P1PQ1P1P/R5K1 b - - 0 1" color="0" apply="1"/>
 
-Error: dirty
-
-{ 1...Ba5 2.Na4 Qa3 3.c3 Qxa4 4.Nxe5 Be6 5.Qb2 Bb6 6.c4; (1)1...Bg4 2.Kg2 Bxf3+ 3.Kxf3 Ba5}
+[2] 1...Ba5 2.Qc1 Bxc3
 
 3
 
 <diagram fen="4rrk1/ppp2ppp/1qn5/3R4/8/PB3Q2/1P3PPP/3R2K1 b - - 0 1" color="0" apply="1"/>
 
-Error: dirty
-
-{ 1...Na5 2.Ba4 c6 3.Rg5 h6 4.Rh5 Nc4 5.Rh4 Nxb2 6.Rb4; (0)1...Nd8 2.a4 c6 3.R5d2 g6 4.Qc3 Re7 5.g3 Rfe8}
+[3] 1...Nd4 2.R5xd4 Qxd4
 
 4
 
-<diagram fen="q7/p4p2/1ppkp1p1/8/1P6/1KPB3n/P4q2/8 w - - 0 1" color="0" apply="1"/>
+<diagram fen="Q7/p4p2/1ppkp1p1/8/1P6/1KPB3n/P4q2/8 w - - 0 1" color="0" apply="1"/>
 
-Error: dirty
-
-{ 1.c4 Qd2 2.Bxg6 fxg6 3.c5+ bxc5 4.bxc5+ Kxc5 5.a3 Qd3+ 6.Kb2; (0)1.Be4 Qd2 2.Bh1 Qd1+ 3.Kb2 Qxh1 4.a4 Qh8 5.b5 Qg2+ 6.Kb3 Qd5+ 7.c4 Qd2}
+[2] 1.Qd8+ Ke5 2.Qh8+ Kf4 3.Qxh3
 
 5
 
 <diagram fen="r3r1k1/1p3qb1/4b2p/p1PN2p1/1P3p2/P6P/2QR1PPB/3R2K1 b - - 0 1" color="0" apply="1"/>
 
-1...Bxd5 2.Rxd5 Qxd5
+[2] 1...Bxd5 2.Rxd5 Qxd5
 
 6
 
 <diagram fen="1r2nrkn/4R1pp/p2p2qP/2pP1p2/P1P2P2/2Q2BP1/3N4/4R1K1 w - - 0 1" color="0" apply="1"/>
 
-1.Bh5 Qxh6 2.Bxe8
+[3] 1.Bh5 Qxh6 2.Bxe8
 
 7
 
 <diagram fen="r3k3/1R3p2/p5p1/8/2B1P3/4b3/P1P5/3K4 b q - 0 1" color="0" apply="1"/>
 
-1...O-O-O+ 2.Ke2 Kxb7
+[2] 1...O-O-O+ 2.Ke2 Kxb7
 
 8
 
 <diagram fen="1r5r/pp4pp/5p1k/Pqn4P/2pP2Q1/2P2B2/2P3P1/4R1K1 w - - 0 1" color="0" apply="1"/>
 
-1.Qf4+ g5 2.Qxf6#
+[1] 1.Qf4+ g5 2.Qxf6#
 
 9
 
 <diagram fen="6k1/p7/3p4/3Pn3/P1P1P3/4Q3/KB4q1/8 b - - 0 1" color="0" apply="1"/>
 
-1...Qxb2+ 2.Kxb2 Nxc4+ 3.Kc3 Nxe3
+[2] 1...Qxb2+ 2.Kxb2 Nxc4+ 3.Kc3 Nxe3
 
 10
 
 <diagram fen="r2b2k1/5pp1/p5p1/R1pr4/3N4/2P4P/P4PP1/2R3K1 w - - 0 1" color="0" apply="1"/>
 
-1.Nc6 Bxa5 2.Ne7+ Kh7 3.Nxd5
+[3] 1.Nc6 Bxa5 2.Ne7+ Kf8 3.Nxd5
 
 11
 
 <diagram fen="2kr1r2/1bp1N3/p2p2pp/n3p3/q3P3/2P3PP/BQ3P2/1R2K2R b K - 0 1" color="0" apply="1"/>
 
-1...Kd7
+[2] 1...Kd7 2.Nxg6 Qxe4+
 
 12
 
 <diagram fen="7k/4NK2/r7/5BN1/8/8/8/8 b - - 0 1" color="0" apply="1"/>
 
-1...Rf6+
+[1] 1...Rf6+
+
+## T49
 
 1
 
 <diagram fen="r1b1k2r/1pq2pb1/1n1pp1p1/nN4Pp/4PP2/4B3/PPPQB2P/2KR3R b kq - 0 1" color="0" apply="1"/>
 
-1...Nb3+ 2.Kb1 Nxd2+ 3.Rxd2 Qc6 4.Nxd6+ Kf8
+[3] 1...Nb3+ 2.axb3 Ra1#
 
 2
 
 <diagram fen="3r1rk1/pp3ppp/4pn2/2q5/2P3b1/3Q1N2/PP2BPPP/3R1RK1 w - - 0 1" color="0" apply="1"/>
 
-1.Qxd8
+[1] 1.Qxd8 Bxf3 2.Bxf3 Qxc4 3.Bxb7
 
 3
 
 <diagram fen="4rnk1/3qr2p/2p1b1p1/pp4P1/3P1P2/2NBP3/PP5R/1QK3R1 w - - 0 1" color="0" apply="1"/>
 
-1.Ne4
+[3] 1.Ne4 Rf7 2.Nf6+
 
 4
 
 <diagram fen="r1r3k1/1p2pp1p/p2pb1p1/q7/2PQPPn1/1PN5/P3B1PP/R4RK1 w - - 0 1" color="0" apply="1"/>
 
-Error: dirty
-
-{ 1.f5 gxf5 2.exf5 Nf6 3.fxe6 fxe6 4.Kf2; (0)1.Nd5 Bxd5 2.Bxg4 Be6 3.f5 gxf5}
+[2] 1.f5 gxf5 2.exf5 Nxh2 3.Kxh2
 
 5
 
 <diagram fen="3r1k1r/pbpp1ppp/1p1n4/1N2N3/3P4/1B1n4/PP3PPP/R3R1K1 w - - 0 1" color="0" apply="1"/>
 
-1.Nxd6
+[2] 1.Nxd6 Nxe5 2.Nxb7 Rb8 3.Rxe5
 
 6
 
 <diagram fen="1r3r2/3b3k/3q1pp1/1p1pp3/1P1P2pP/4P1P1/1Q2NPK1/1R5R b - - 0 1" color="0" apply="1"/>
 
-1...Bf5 2.Ra1 Be4+
+[2] 1...Bf5 2.dxe5 fxe5 3.Nc3 d4
 
 7
 
 <diagram fen="2r2rk1/1pq2pp1/p1npbn1p/4p3/2B1P3/P1B2N2/1PP1QPPP/3RR1K1 b - - 0 1" color="0" apply="1"/>
 
-1...Nd4 2.Nxd4 Bxc4 3.Qd2 exd4
+[2] 1...Nd4 2.Nxd4 Bxc4 3.Qd2 exd4
 
 8
 
 <diagram fen="r1bqkb1r/pppP2pp/5n2/5pB1/2P5/2N5/PP2PPpP/R2QKB1R b kq - 0 1" color="0" apply="1"/>
 
-1...Nxd7 2.Bxg2 Qxg5
+[3] 1...Nxd7 2.Bxd8 gxh1=Q
 
 9
 
 <diagram fen="r1bk3r/pp1p1Bbp/3B4/4P3/3n4/2N5/PqP3PP/R4R1K w - - 0 1" color="0" apply="1"/>
 
-1.Nd5 Nxc2 2.Bc7#
+[1] 1.Nd5 Nxc2 2.Bc7#
 
 10
 
 <diagram fen="8/4PP2/8/p7/k7/p7/5r2/KR6 b - - 0 1" color="0" apply="1"/>
 
-1...Ra2+
+[1] 1...Ra2+ 2.Kxa2
 
 11
 
 <diagram fen="4r3/3Qnk1p/p5p1/1p2q3/8/P1p1B1P1/1P5P/4R1K1 w - - 0 1" color="0" apply="1"/>
 
-1.Rf1+ Kg7 2.Bd4 Qxd4+ 3.Qxd4+ Kg8 4.Qf2
+[2] 1.Rf1+ Kg8 2.Qxe8+ Kg7 3.Rf7#
 
 12
 
 <diagram fen="r1bqkb1r/pppn1ppp/5n2/3N2B1/3P4/8/PP2PPPP/R2QKBNR b KQkq - 0 1" color="0" apply="1"/>
 
-1...Nxd5 2.Bxd8 Bb4+ 3.Qd2 Kxd8
+[3] 1...Nxd5 2.Bxd8 Bb4+ 3.Qd2 Kxd8
+
+## T50
 
 1
 
 <diagram fen="3r1q1k/p5b1/1r3p1p/1ppBpQpP/4P3/2P3P1/PP1R1PK1/3R4 w - - 0 1" color="0" apply="1"/>
 
-1.Bg8 Kxg8 2.Rxd8 Ra6 3.a3 b4 4.Rxf8+
+[2] 1.Bg8
 
 2
 
 <diagram fen="rnbqk2r/ppp2ppp/4pn2/b2p4/2PP4/P1N1P3/1P3PPP/R1BQKBNR w KQkq - 0 1" color="0" apply="1"/>
 
-1.b4
+[1] 1.b4 Bxb4 2.axb4
 
 3
 
 <diagram fen="r1b1r1kb/p1q2p1p/2p3pB/1p1pp1N1/3Pn3/1B5P/PPPQ1PP1/R3R1K1 w - - 0 1" color="0" apply="1"/>
 
-1.Rxe4
+[2] 1.Rxe4 Re7 2.Re3
 
 4
 
 <diagram fen="r2q1rk1/pppn1ppp/3b4/3Pp1N1/2PPQBb1/8/P1P2PPP/RN3RK1 b - - 0 1" color="0" apply="1"/>
 
-1...Nf6 2.Qd3 exf4 3.c5 Be7
+[2] 1...Nf6 2.Qd3 exf4
 
 5
 
 <diagram fen="r7/P7/8/5p1p/5P1k/7P/6K1/R7 b - - 0 1" color="0" apply="1"/>
 
-1...Rxa7
+[2] 1...Rxa7 2.Rxa7
 
 6
 
 <diagram fen="2rqr2k/pb1n1p1p/1p4pN/2b1p3/3B1Q2/2PB1P2/PP4PP/R4RK1 w - - 0 1" color="0" apply="1"/>
 
-1.Nxf7+ Kg7 2.Nxd8 Bxd4+ 3.cxd4 exf4 4.Nxb7
+[2] 1.Nxf7+ Kg8 2.Nxd8 exf4 3.Nxb7
 
 7
 
-<diagram fen="r1b2rk1/pppq1ppp/5nN1/n2Pb1N1/2B2P2/BQP5/P5PP/RN3RK1 w - - 0 1" color="0" apply="1"/>
+<diagram fen="r1b2rk1/pppq1ppp/5n2/n2Pb1N1/2B2P2/BQP5/P5PP/RN3RK1 w - - 0 1" color="0" apply="1"/>
 
-Error: dirty
-
-{ 1.Nxf8 Nxb3 2.Nxd7 Bxc3 3.Nxc3 Nxa1 4.Nxf6+ gxf6 5.Rxa1 fxg5 6.fxg5 Kh8 7.Ne2; (1)1.Nxe5 Nxb3 2.Nxd7 Nxd7 3.Bxb3 Rd8}
+[1] 1.Qb4 Bd6 2.Qxa5 b6 3.Qb5
 
 8
 
 <diagram fen="r7/pb1q3k/1p2p1p1/5n1p/3b1B1P/4p1P1/PP2Q1B1/2R1R2K b - - 0 1" color="0" apply="1"/>
 
-1...e5 2.Bxe5 Bxe5
+[2] 1...e5 2.g4 Nxh4 (2...hxg4)
 
 9
 
 <diagram fen="1rb4r/1pq1kp1p/pN2pp2/Q3b3/8/2P2B2/P4PP1/1R2R2K w - - 0 1" color="0" apply="1"/>
 
-1.Nd5+ Kd8 2.Nxc7
+[3] 1.Nd5+
 
 10
 
 <diagram fen="r3k2N/pppn2pp/8/3Pp3/Q1Bn2bq/2P5/PP1P2PP/RNB3KR b q - 0 1" color="0" apply="1"/>
 
-1...Qe1+ 2.Bf1 Ne2#
+[3] 1...Qe1+ 2.Bf1 Ne2#
 
 11
 
 <diagram fen="4q1k1/pppb1pbp/1n1p2pB/7n/2PP3N/1PN4P/P1BQ1PP1/6K1 b - - 0 1" color="0" apply="1"/>
 
-1...Bxh6 2.Qxh6 Qe1+ 3.Kh2 Qxc3
+[2] 1...Bxh6 2.Qxh6 Qe1+ 3.Kh2 Qxc3
 
 12
 
 <diagram fen="r2q1r2/ppp3k1/2npp3/4p1p1/4P3/2PP2B1/P1PQ2P1/2K2R1R w - - 0 1" color="0" apply="1">
 
-1.Rxf8 Qxf8 2.Qxg5+ Kf7 3.Rf1+
+[3] 1.Rxf8 Qxf8 2.Qxg5+ Kf7 3.Rf1+
