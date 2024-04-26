@@ -70,7 +70,7 @@
 
 <diagram fen="4r3/b4pk1/p3p3/Pp1pPnpp/1P5r/2P2B2/3BRPP1/2R1Q1K1 b - - 0 1" color="0" apply="1"/>
 
-1...Ng3
+[3] 1...Ng3
 
 ## T2
 
@@ -176,7 +176,7 @@
 
 <diagram fen="r1b2rk1/ppNp1pbp/2q1p1p1/2p3B1/PnN1PQ2/3P4/1PP2PPP/R4RK1 b - - 0 1" color="0" apply="1"/>
 
-[3]1...e5 2.Na5 Qc7
+[3] 1...e5 2.Na5 Qc7
 
 6
 
@@ -366,7 +366,7 @@
 
 <diagram fen="4nr2/pp1k4/4p1p1/3pP3/1b3BPN/1P4K1/P7/2R5 b - - 0 1" color="0" apply="1"/>
 
-1...Rxf4 2.Kf4 Bd2+ 3.Kf3 Bxc1
+[2] 1...Rxf4 2.Kf4 Bd2+ 3.Kf3 Bxc1
 
 ## T6
 
@@ -440,7 +440,7 @@
 
 <diagram fen="r2q2k1/pp1b1r1p/4p1p1/1B2Qp2/8/2P5/P4PPP/R2R2K1 w - - 0 1" color="0" apply="1"/>
 
-1.Bxd7 Qf6 2.Qxe6 Qxc3
+[1] 1.Bxd7 Qf6 2.Qxe6 Qxc3
 
 ## T7
 
