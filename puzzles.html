@@ -1,16 +1,34 @@
 <meta charset="utf-8">
 <style>
-  * { box-sizing: border-box; }
+  * { box-sizing: border-box; font-family: sans-serif; }
   .z0 { background-color: #eddcbe; color: #c2a480; }
   .z1 { background-color: #c2a480; color: #eddcbe; }
   .z0.last-move { background-color: #eeed69; }
   .z1.last-move { background-color: #cdca00; }
   .square-sel, .square-sel.last-move { background-color: #447788; opacity: 0.5; }
+  .square-error { background-color: #ff4040; }
   .board td { width: 12.5%; height: 12.5%; font: bold 12pt sans-serif; text-align: right; vertical-align: top; padding: 2pt; }
   .board td, .square-piece, .promo td { background-repeat: no-repeat; background-position: center center; background-size: cover; }
-  .hidden { visibility: collapse; display: none; }
+  .hidden { display: none; }
   button { padding: 2pt 8pt; }
+  hr { border: none; border-top: 2pt solid #333; }
   .board-wrapper { width: 400pt; height: 400pt; position: relative; }
+  .moves { padding: 10pt; font-size: 18pt; }
+  
+  .group, .puzzle { display: inline-block; padding: 3pt 5pt; cursor: hand; font-size: 14pt; }
+  .group-puzzles { display: none; }
+  .group-puzzles.sel { display: block; }
+  .group.sel, .puzzle.sel { background: #CCC; }
+  
+  .group.try { background: #CCF; }
+  .group.try.sel { background: #99C; }
+  .puzzle.fail { background: #FBB; }
+  .puzzle.fail.sel { background: #C99; }
+  .puzzle.success { background: #BFB; }
+  .puzzle.success.sel { background: #9C9; }
+  
+  .moves-success { color: #009000; }
+  .moves-fail    { color: #C00000; }
  
   .pbr { background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NSIgaGVpZ2h0PSI0NSI+PGcgZmlsbC1ydWxlPSJldmVub2RkIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik05IDM5aDI3di0zSDl2M3ptMy41LTdsMS41LTIuNWgxN2wxLjUgMi41aC0yMHptLS41IDR2LTRoMjF2NEgxMnoiIHN0cm9rZS1saW5lY2FwPSJidXR0Ii8+PHBhdGggZD0iTTE0IDI5LjV2LTEzaDE3djEzSDE0eiIgc3Ryb2tlLWxpbmVjYXA9ImJ1dHQiIHN0cm9rZS1saW5lam9pbj0ibWl0ZXIiLz48cGF0aCBkPSJNMTQgMTYuNUwxMSAxNGgyM2wtMyAyLjVIMTR6TTExIDE0VjloNHYyaDVWOWg1djJoNVY5aDR2NUgxMXoiIHN0cm9rZS1saW5lY2FwPSJidXR0Ii8+PHBhdGggZD0iTTEyIDM1LjVoMjFtLTIwLTRoMTltLTE4LTJoMTdtLTE3LTEzaDE3TTExIDE0aDIzIiBmaWxsPSJub25lIiBzdHJva2U9IiNlY2VjZWMiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIvPjwvZz48L3N2Zz4='); }
   .pbn { background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NSIgaGVpZ2h0PSI0NSI+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0yMiAxMGMxMC41IDEgMTYuNSA4IDE2IDI5SDE1YzAtOSAxMC02LjUgOC0yMSIgZmlsbD0iIzAwMCIvPjxwYXRoIGQ9Ik0yNCAxOGMuMzggMi45MS01LjU1IDcuMzctOCA5LTMgMi0yLjgyIDQuMzQtNSA0LTEuMDQyLS45NCAxLjQxLTMuMDQgMC0zLTEgMCAuMTkgMS4yMy0xIDItMSAwLTQuMDAzIDEtNC00IDAtMiA2LTEyIDYtMTJzMS44OS0xLjkgMi0zLjVjLS43My0uOTk0LS41LTItLjUtMyAxLTEgMyAyLjUgMyAyLjVoMnMuNzgtMS45OTIgMi41LTNjMSAwIDEgMyAxIDMiIGZpbGw9IiMwMDAiLz48cGF0aCBkPSJNOS41IDI1LjVhLjUuNSAwIDEgMS0xIDAgLjUuNSAwIDEgMSAxIDB6bTUuNDMzLTkuNzVhLjUgMS41IDMwIDEgMS0uODY2LS41LjUgMS41IDMwIDEgMSAuODY2LjV6IiBmaWxsPSIjZWNlY2VjIiBzdHJva2U9IiNlY2VjZWMiLz48cGF0aCBkPSJNMjQuNTUgMTAuNGwtLjQ1IDEuNDUuNS4xNWMzLjE1IDEgNS42NSAyLjQ5IDcuOSA2Ljc1UzM1Ljc1IDI5LjA2IDM1LjI1IDM5bC0uMDUuNWgyLjI1bC4wNS0uNWMuNS0xMC4wNi0uODgtMTYuODUtMy4yNS0yMS4zNC0yLjM3LTQuNDktNS43OS02LjY0LTkuMTktNy4xNmwtLjUxLS4xeiIgZmlsbD0iI2VjZWNlYyIgc3Ryb2tlPSJub25lIi8+PC9nPjwvc3ZnPg=='); }
@@ -32,6 +50,12 @@
 <script>var DragDropTouch;!function(t){"use strict";var e=function(){function t(){this._dropEffect="move",this._effectAllowed="all",this._data={}}return Object.defineProperty(t.prototype,"dropEffect",{get:function(){return this._dropEffect},set:function(t){this._dropEffect=t},enumerable:!0,configurable:!0}),Object.defineProperty(t.prototype,"effectAllowed",{get:function(){return this._effectAllowed},set:function(t){this._effectAllowed=t},enumerable:!0,configurable:!0}),Object.defineProperty(t.prototype,"types",{get:function(){return Object.keys(this._data)},enumerable:!0,configurable:!0}),t.prototype.clearData=function(t){null!=t?delete this._data[t]:this._data=null},t.prototype.getData=function(t){return this._data[t]||""},t.prototype.setData=function(t,e){this._data[t]=e},t.prototype.setDragImage=function(t,e,n){var s=i._instance;s._imgCustom=t,s._imgOffset={x:e,y:n}},t}();t.DataTransfer=e;var i=function(){function t(){if(this._lastClick=0,t._instance)throw"DragDropTouch instance already created.";if("ontouchstart"in document){var e=document,i=this._touchstart.bind(this),n=this._touchmove.bind(this),s=this._touchend.bind(this);e.addEventListener("touchstart",i),e.addEventListener("touchmove",n),e.addEventListener("touchend",s),e.addEventListener("touchcancel",s)}}return t.getInstance=function(){return t._instance},t.prototype._touchstart=function(e){var i=this;if(this._shouldHandle(e)){if(Date.now()-this._lastClick<t._DBLCLICK&&this._dispatchEvent(e,"dblclick",e.target)){e.preventDefault(),this._reset();return}this._reset();var n=this._closestDraggable(e.target);!n||this._dispatchEvent(e,"mousemove",e.target)||this._dispatchEvent(e,"mousedown",e.target)||(this._dragSource=n,this._ptDown=this._getPoint(e),this._lastTouch=e,e.preventDefault(),setTimeout(function(){i._dragSource==n&&null==i._img&&i._dispatchEvent(e,"contextmenu",n)&&i._reset()},t._CTXMENU))}},t.prototype._touchmove=function(e){if(this._shouldHandle(e)){var i=this._getTarget(e);if(this._dispatchEvent(e,"mousemove",i)){this._lastTouch=e,e.preventDefault();return}this._dragSource&&!this._img&&this._getDelta(e)>t._THRESHOLD&&(this._dispatchEvent(e,"dragstart",this._dragSource),this._createImage(e),this._dispatchEvent(e,"dragenter",i)),this._img&&(this._lastTouch=e,e.preventDefault(),i!=this._lastTarget&&(this._dispatchEvent(this._lastTouch,"dragleave",this._lastTarget),this._dispatchEvent(e,"dragenter",i),this._lastTarget=i),this._moveImage(e),this._dispatchEvent(e,"dragover",i))}},t.prototype._touchend=function(t){if(this._shouldHandle(t)){if(this._dispatchEvent(this._lastTouch,"mouseup",t.target)){t.preventDefault();return}this._img||(this._dragSource=null,this._dispatchEvent(this._lastTouch,"click",t.target),this._lastClick=Date.now()),this._destroyImage(),this._dragSource&&(0>t.type.indexOf("cancel")&&this._dispatchEvent(this._lastTouch,"drop",this._lastTarget),this._dispatchEvent(this._lastTouch,"dragend",this._dragSource),this._reset())}},t.prototype._shouldHandle=function(t){return t&&!t.defaultPrevented&&t.touches&&t.touches.length<2},t.prototype._reset=function(){this._destroyImage(),this._dragSource=null,this._lastTouch=null,this._lastTarget=null,this._ptDown=null,this._dataTransfer=new e},t.prototype._getPoint=function(t,e){return t&&t.touches&&(t=t.touches[0]),{x:e?t.pageX:t.clientX,y:e?t.pageY:t.clientY}},t.prototype._getDelta=function(t){var e=this._getPoint(t);return Math.abs(e.x-this._ptDown.x)+Math.abs(e.y-this._ptDown.y)},t.prototype._getTarget=function(t){for(var e=this._getPoint(t),i=document.elementFromPoint(e.x,e.y);i&&"none"==getComputedStyle(i).pointerEvents;)i=i.parentElement;return i},t.prototype._createImage=function(e){this._img&&this._destroyImage();var i=this._imgCustom||this._dragSource;if(this._img=i.cloneNode(!0),this._copyStyle(i,this._img),this._img.style.top=this._img.style.left="-9999px",!this._imgCustom){var n=i.getBoundingClientRect(),s=this._getPoint(e);this._imgOffset={x:s.x-n.left,y:s.y-n.top},this._img.style.opacity=t._OPACITY.toString()}this._moveImage(e),document.body.appendChild(this._img)},t.prototype._destroyImage=function(){this._img&&this._img.parentElement&&this._img.parentElement.removeChild(this._img),this._img=null,this._imgCustom=null},t.prototype._moveImage=function(t){var e=this;requestAnimationFrame(function(){var i=e._getPoint(t,!0),n=e._img.style;n.position="absolute",n.pointerEvents="none",n.zIndex="999999",n.left=Math.round(i.x-e._imgOffset.x)+"px",n.top=Math.round(i.y-e._imgOffset.y)+"px"})},t.prototype._copyProps=function(t,e,i){for(var n=0;n<i.length;n++){var s=i[n];t[s]=e[s]}},t.prototype._copyStyle=function(e,i){if(t._rmvAtts.forEach(function(t){i.removeAttribute(t)}),e instanceof HTMLCanvasElement){var n=e,s=i;s.width=n.width,s.height=n.height,s.getContext("2d").drawImage(n,0,0)}for(var r=getComputedStyle(e),o=0;o<r.length;o++){var a=r[o];i.style[a]=r[a]}i.style.pointerEvents="none";for(var o=0;o<e.children.length;o++)this._copyStyle(e.children[o],i.children[o])},t.prototype._dispatchEvent=function(e,i,n){if(e&&n){var s=document.createEvent("Event"),r=e.touches?e.touches[0]:e;return s.initEvent(i,!0,!0),s.button=0,s.which=s.buttons=1,this._copyProps(s,e,t._kbdProps),this._copyProps(s,r,t._ptProps),s.dataTransfer=this._dataTransfer,n.dispatchEvent(s),s.defaultPrevented}return!1},t.prototype._closestDraggable=function(t){for(;t;t=t.parentElement)if(t.hasAttribute("draggable"))return t;return null},t._instance=new t,t._THRESHOLD=5,t._OPACITY=.5,t._DBLCLICK=500,t._CTXMENU=900,t._rmvAtts="id,class,style,draggable".split(","),t._kbdProps="altKey,ctrlKey,metaKey,shiftKey".split(","),t._ptProps="pageX,pageY,clientX,clientY,screenX,screenY".split(","),t}();t.DragDropTouch=i}(DragDropTouch||(DragDropTouch={}));</script>
 
 <body>
+<div>
+  <div class="group-box"></div>
+  <hr/>
+  <div class="puzzle-box"></div>
+  <div>&nbsp;</div>
+</div>
 
 <div class="board-wrapper">
   <table class="board" cellpadding="0" cellspacing="0" style="width: 100%; height: 100%">
@@ -52,6 +76,8 @@
     </div>
   </div>
 </div>
+<div class="moves"></div>
+
 
 <script>
     var startFen = "1k6/4P3/8/8/8/8/8/4K3 w - - 0 1";
@@ -68,6 +94,8 @@
                      "h3", "g3", "f3", "e3", "d3", "c3", "b3", "a3", "h4", "g4", "f4", "e4", "d4", "c4", "b4", "a4",
                      "h5", "g5", "f5", "e5", "d5", "c5", "b5", "a5", "h6", "g6", "f6", "e6", "d6", "c6", "b6", "a6",
                      "h7", "g7", "f7", "e7", "d7", "c7", "b7", "a7", "h8", "g8", "f8", "e8", "d8", "c8", "b8", "a8"]];
+                     
+    var curPuzzle = null;
 
     function applyLast(move) {
         $(".last-move").removeClass("last-move");
@@ -87,7 +115,7 @@
         return curClass;
     }
     
-    function applyFen(fen, onlyBoard) {
+    function applyFen(fen) {
         var fen0 = fen.split(" ")[0];
         fen0 = fen0.replaceAll("1", "z",).replaceAll("2", "zz").replaceAll("3", "zzz").replaceAll("4", "zzzz")
             .replaceAll("5", "zzzzz").replaceAll("6", "zzzzzz").replaceAll("7", "zzzzzzz").replaceAll("8", "zzzzzzzz");
@@ -185,16 +213,15 @@
         chess.load(curFen);
         var callback = (promo) => {
             var move = dragSquare.name + s.name;
-            var m = {from: dragSquare.name, to: s.name};
+            var m = { from: dragSquare.name, to: s.name };
             if (promo) {
                 m.promotion = promo;
             }
             var r = chess.move(m);
             if (!r) return;
             
-            var fen = chess.fen();
-            applyFen(fen, true);
-            applyLast(move);
+            var uci = `${r.from}${r.to}${r.promotion ? r.promotion : ""}`;
+            moveCallback(uci);
         }
         
         if (dragSquare.class.charAt(2) === "p" && (s.name.charAt(1) === "8" || s.name.charAt(1) === "1")) {
@@ -213,7 +240,7 @@
             return null;
         }
         else if (typeof x === 'string' || x instanceof String) {
-            if (!/^\d\.{1,3}$/.test(x))
+            if (!/^\d\.(\.\.)?$/.test(x))
                 return null;
             
             return Number(x.match(/\d+/)) * 2 - 2 + (x.includes("...") ? 1 : 0);
@@ -253,7 +280,7 @@
         });
         ts = _ts;
         
-        var node = { fen: fen, move: null, ply: ts[0].n-1, nexts: [] };
+        var node = { fen: fen, san: null, uci: null, ply: ts[0].n-1, nexts: [] };
         var root = node;
         var prevNode = null;
         var levelNodes = [];
@@ -270,10 +297,12 @@
                     throw "parse moves numbers error: " + moves;
             
                 chess.load(node.fen);
-                if (!chess.move(t.v))
+                var mr = chess.move(t.v);
+                if (!mr)
                     throw "parse move error: (" + t.v + ") " + moves;
-                
-                node.nexts.push({ fen: chess.fen(), move: t.v, ply: t.n, nexts: [] });
+                    
+                var uci = `${mr.from}${mr.to}${mr.promotion ? mr.promotion : ""}`;
+                node.nexts.push({ fen: chess.fen(), san: t.v, uci: uci, ply: t.n, nexts: [] });
                 prevNode = node;
                 node = node.nexts.slice(-1)[0];
             }
@@ -282,32 +311,146 @@
         return root;
     }
     
-    //applyColor(-1);
-    applyFen(startFen);
-
     $(document).ready(function() {
-        data.forEach(d => {
-            d.node = parseMoves(d.fen, d.moves);
+        var map = new Map();
+        puzzles.forEach(p => {
+            p.node = parseMoves(p.fen, p.moves);
+            p.hist = [p.node];
+            p.result = null;
+            p.last = function() { return this.hist.slice(-1)[0]; };
+            p.finished = function() { return this.last().nexts.length === 0; };
+            map.set(p.id, p);
         });
+        
+        var gs = Object.groupBy(puzzles, p => p.id.split(".")[0]);
+        var groupsHtml = [];
+        var puzzlesHtml = [];
+        for (var prop in gs) {
+            var gid = "g" + prop;
+            groupsHtml.push(`<div class="group" data-gid="${gid}">T${prop}</div>`);
+            puzzlesHtml.push(`<div class="group-puzzles" data-gid="${gid}">` + gs[prop].map(p => `<div class="puzzle" data-pid="${p.id}">P${p.id.split(".")[1]}</div>`).join(" ") + `</div>`);
+        }
+        $(".group-box").html(groupsHtml.join(" "));
+        $(".puzzle-box").html(puzzlesHtml.join(" "));
+        puzzles = map;
+        
+        selGroup($(".group:first"));
     });
     
-    $(".promo td").click((e) => {
+    $(".promo td").click(function(e) {
         e.preventDefault();
         var promo = $(".promo")[0];
-        var result = $(e.target).attr("class").charAt(2);
+        var result = $(this).attr("class").charAt(2);
         $(".promo").addClass("hidden");
         promo.promoCallback(result);
     });
     
-    $(".promo").click((e) => {
+    $(".promo").click(function(e) {
         var promo = $(".promo")[0];
         $(".promo").addClass("hidden");
         promo.promoCallback(null);
     });
+
+    function moveCallback(uci) {
+        $(".group.sel").addClass("try");
+    
+        if (curPuzzle.finished()) 
+            return;
+        
+        var node = curPuzzle.last().nexts.find(n => n.uci === uci);
+        if (!node) {
+            $(`.s${uci.substring(0,2)}`).addClass("square-error");
+            $(`.s${uci.substring(2,4)}`).addClass("square-error");
+            setTimeout(function () { $(".square-error").removeClass("square-error"); }, 1200);
+            $(".puzzle.sel").addClass("fail");
+            curPuzzle.result = 0;
+            applyPuzzle();
+            return;
+        }
+        
+        curPuzzle.hist.push(node);
+        if (!curPuzzle.finished()) {
+            node = node.nexts[0];
+            curPuzzle.hist.push(node);
+        }
+        
+        if (curPuzzle.finished() && curPuzzle.result === null) {
+            $(".puzzle.sel").addClass("success");
+            curPuzzle.result = curPuzzle.score;
+        }
+        
+        applyPuzzle();
+    }
+    
+    function selGroup(elem) {
+        elem = $(elem);
+        if (elem.hasClass("sel"))
+            return;
+            
+        $(".group.sel").removeClass("sel");
+        $(".group-puzzles.sel").removeClass("sel");
+        $(".puzzle.sel").removeClass("sel");
+        elem.addClass("sel");
+        var gid = elem.data("gid");
+        $(`.group-puzzles[data-gid='${gid}']`).addClass("sel");
+        selPuzzle($(".group-puzzles.sel .puzzle:first"));
+    }
+    
+    function selPuzzle(elem) {
+        elem = $(elem);
+        if ($(elem).hasClass("sel"))
+            return;
+            
+        $(".puzzle.sel").removeClass("sel");
+        $(elem).addClass("sel");
+        var pid = $(elem).data("pid");
+        applyPuzzle(puzzles.get(pid));
+    }
+    
+    function applyPuzzle(puzzle) {
+        if (puzzle) {
+            curPuzzle = puzzle;
+        }
+        applyColor(curPuzzle.node.fen.includes(" w ") ? 1 : -1);
+        applyLast(curPuzzle.last().uci);
+        applyFen(curPuzzle.last().fen);
+        
+        var ms = curPuzzle.hist.map(n => ({ san: n.san, ply: n.ply }));
+        if (!curPuzzle.finished()) {
+            ms.push({ san: "<b>?</b>", ply: ms.slice(-1)[0].ply + 1 });
+        }
+        var _ms = [];
+        for (var i = 1; i < ms.length; i++) {
+            var m = ms[i];
+            if (i === 1 || m.ply % 2 === 0) {
+                _ms.push(moveNum(m.ply));
+            }
+            _ms.push(m.san);
+        }
+        
+        if (curPuzzle.finished()) {
+            if (curPuzzle.result === 0) {
+                _ms.push(`<span class="moves-fail">(с ошибкой)</span>`);
+            }
+            else {
+                _ms.push(`<span class="moves-success">(решено +${curPuzzle.result})</span>`);
+            }
+        }
+        
+        $(".moves").html(_ms.join(" "));
+    }
+    
+    $(document).on("click", ".group", function() {
+        selGroup(this);
+    });
+    
+    $(document).on("click", ".puzzle", function() {
+        selPuzzle(this);
+    });
     
     // ==========
     
-    var data = [
+    var puzzles = [
       { id: "1.1.", score: 2, fen: "1rb4k/p3n1bp/1q1p2p1/1ppB1rN1/5P2/2PP4/PP5P/R1BQ1RK1 w - - 0 1", moves: "1.Nf7+ Rxf7 2.Bxf7" },
       { id: "1.2.", score: 1, fen: "6k1/1p1b1ppp/p5q1/2QPr3/8/6P1/PP4BP/5R1K w - - 0 1", moves: "1.Qc7 f6 2.Qxd7" },
       { id: "1.3.", score: 2, fen: "5r1k/1Q5p/6p1/6r1/5q2/3PN3/PP1R1P1P/7K b - - 0 1", moves: "1...Qxe3" },
