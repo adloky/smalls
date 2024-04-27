@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<head>
 <meta charset="utf-8">
 <style>
   * { box-sizing: border-box; font-family: sans-serif; }
@@ -6,16 +8,16 @@
   .z0.last-move { background-color: #eeed69; }
   .z1.last-move { background-color: #cdca00; }
   .square-sel, .square-sel.last-move { background-color: #447788; opacity: 0.5; }
-  .square-error { background-color: #ff4040; }
+  .square-error, .square-error.last-move { background-color: #ff4040; }
   .board td { width: 12.5%; height: 12.5%; font: bold 12pt sans-serif; text-align: right; vertical-align: top; padding: 2pt; }
   .board td, .square-piece, .promo td { background-repeat: no-repeat; background-position: center center; background-size: cover; }
   .hidden { display: none; }
   button { padding: 4pt 8pt; font-size: 14pt; }
   hr { border: none; border-top: 2pt solid #CCC; }
-  .board-wrapper { width: 400pt; height: 400pt; position: relative; }
+  .board-wrapper { width: 400pt; height: 400pt; position: relative; min-width: 200pt; min-height: 200pt; max-width: 400pt; max-height: 400pt; }
   .moves { padding: 10pt; font-size: 18pt; }
   
-  .group, .puzzle { display: inline-block; padding: 3pt 5pt; cursor: hand; font-size: 14pt; }
+  .group, .puzzle { display: inline-block; padding: 3pt 5pt; cursor: pointer; font-size: 14pt; }
   .group-puzzles { display: none; }
   .group-puzzles.sel { display: block; }
   .group.sel, .puzzle.sel { background: #CCC; }
@@ -49,7 +51,10 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/chess.js/0.10.3/chess.js"></script>
 <script>var DragDropTouch;!function(t){"use strict";var e=function(){function t(){this._dropEffect="move",this._effectAllowed="all",this._data={}}return Object.defineProperty(t.prototype,"dropEffect",{get:function(){return this._dropEffect},set:function(t){this._dropEffect=t},enumerable:!0,configurable:!0}),Object.defineProperty(t.prototype,"effectAllowed",{get:function(){return this._effectAllowed},set:function(t){this._effectAllowed=t},enumerable:!0,configurable:!0}),Object.defineProperty(t.prototype,"types",{get:function(){return Object.keys(this._data)},enumerable:!0,configurable:!0}),t.prototype.clearData=function(t){null!=t?delete this._data[t]:this._data=null},t.prototype.getData=function(t){return this._data[t]||""},t.prototype.setData=function(t,e){this._data[t]=e},t.prototype.setDragImage=function(t,e,n){var s=i._instance;s._imgCustom=t,s._imgOffset={x:e,y:n}},t}();t.DataTransfer=e;var i=function(){function t(){if(this._lastClick=0,t._instance)throw"DragDropTouch instance already created.";if("ontouchstart"in document){var e=document,i=this._touchstart.bind(this),n=this._touchmove.bind(this),s=this._touchend.bind(this);e.addEventListener("touchstart",i),e.addEventListener("touchmove",n),e.addEventListener("touchend",s),e.addEventListener("touchcancel",s)}}return t.getInstance=function(){return t._instance},t.prototype._touchstart=function(e){var i=this;if(this._shouldHandle(e)){if(Date.now()-this._lastClick<t._DBLCLICK&&this._dispatchEvent(e,"dblclick",e.target)){e.preventDefault(),this._reset();return}this._reset();var n=this._closestDraggable(e.target);!n||this._dispatchEvent(e,"mousemove",e.target)||this._dispatchEvent(e,"mousedown",e.target)||(this._dragSource=n,this._ptDown=this._getPoint(e),this._lastTouch=e,e.preventDefault(),setTimeout(function(){i._dragSource==n&&null==i._img&&i._dispatchEvent(e,"contextmenu",n)&&i._reset()},t._CTXMENU))}},t.prototype._touchmove=function(e){if(this._shouldHandle(e)){var i=this._getTarget(e);if(this._dispatchEvent(e,"mousemove",i)){this._lastTouch=e,e.preventDefault();return}this._dragSource&&!this._img&&this._getDelta(e)>t._THRESHOLD&&(this._dispatchEvent(e,"dragstart",this._dragSource),this._createImage(e),this._dispatchEvent(e,"dragenter",i)),this._img&&(this._lastTouch=e,e.preventDefault(),i!=this._lastTarget&&(this._dispatchEvent(this._lastTouch,"dragleave",this._lastTarget),this._dispatchEvent(e,"dragenter",i),this._lastTarget=i),this._moveImage(e),this._dispatchEvent(e,"dragover",i))}},t.prototype._touchend=function(t){if(this._shouldHandle(t)){if(this._dispatchEvent(this._lastTouch,"mouseup",t.target)){t.preventDefault();return}this._img||(this._dragSource=null,this._dispatchEvent(this._lastTouch,"click",t.target),this._lastClick=Date.now()),this._destroyImage(),this._dragSource&&(0>t.type.indexOf("cancel")&&this._dispatchEvent(this._lastTouch,"drop",this._lastTarget),this._dispatchEvent(this._lastTouch,"dragend",this._dragSource),this._reset())}},t.prototype._shouldHandle=function(t){return t&&!t.defaultPrevented&&t.touches&&t.touches.length<2},t.prototype._reset=function(){this._destroyImage(),this._dragSource=null,this._lastTouch=null,this._lastTarget=null,this._ptDown=null,this._dataTransfer=new e},t.prototype._getPoint=function(t,e){return t&&t.touches&&(t=t.touches[0]),{x:e?t.pageX:t.clientX,y:e?t.pageY:t.clientY}},t.prototype._getDelta=function(t){var e=this._getPoint(t);return Math.abs(e.x-this._ptDown.x)+Math.abs(e.y-this._ptDown.y)},t.prototype._getTarget=function(t){for(var e=this._getPoint(t),i=document.elementFromPoint(e.x,e.y);i&&"none"==getComputedStyle(i).pointerEvents;)i=i.parentElement;return i},t.prototype._createImage=function(e){this._img&&this._destroyImage();var i=this._imgCustom||this._dragSource;if(this._img=i.cloneNode(!0),this._copyStyle(i,this._img),this._img.style.top=this._img.style.left="-9999px",!this._imgCustom){var n=i.getBoundingClientRect(),s=this._getPoint(e);this._imgOffset={x:s.x-n.left,y:s.y-n.top},this._img.style.opacity=t._OPACITY.toString()}this._moveImage(e),document.body.appendChild(this._img)},t.prototype._destroyImage=function(){this._img&&this._img.parentElement&&this._img.parentElement.removeChild(this._img),this._img=null,this._imgCustom=null},t.prototype._moveImage=function(t){var e=this;requestAnimationFrame(function(){var i=e._getPoint(t,!0),n=e._img.style;n.position="absolute",n.pointerEvents="none",n.zIndex="999999",n.left=Math.round(i.x-e._imgOffset.x)+"px",n.top=Math.round(i.y-e._imgOffset.y)+"px"})},t.prototype._copyProps=function(t,e,i){for(var n=0;n<i.length;n++){var s=i[n];t[s]=e[s]}},t.prototype._copyStyle=function(e,i){if(t._rmvAtts.forEach(function(t){i.removeAttribute(t)}),e instanceof HTMLCanvasElement){var n=e,s=i;s.width=n.width,s.height=n.height,s.getContext("2d").drawImage(n,0,0)}for(var r=getComputedStyle(e),o=0;o<r.length;o++){var a=r[o];i.style[a]=r[a]}i.style.pointerEvents="none";for(var o=0;o<e.children.length;o++)this._copyStyle(e.children[o],i.children[o])},t.prototype._dispatchEvent=function(e,i,n){if(e&&n){var s=document.createEvent("Event"),r=e.touches?e.touches[0]:e;return s.initEvent(i,!0,!0),s.button=0,s.which=s.buttons=1,this._copyProps(s,e,t._kbdProps),this._copyProps(s,r,t._ptProps),s.dataTransfer=this._dataTransfer,n.dispatchEvent(s),s.defaultPrevented}return!1},t.prototype._closestDraggable=function(t){for(;t;t=t.parentElement)if(t.hasAttribute("draggable"))return t;return null},t._instance=new t,t._THRESHOLD=5,t._OPACITY=.5,t._DBLCLICK=500,t._CTXMENU=900,t._rmvAtts="id,class,style,draggable".split(","),t._kbdProps="altKey,ctrlKey,metaKey,shiftKey".split(","),t._ptProps="pageX,pageY,clientX,clientY,screenX,screenY".split(","),t}();t.DragDropTouch=i}(DragDropTouch||(DragDropTouch={}));</script>
 
+</head>
 <body>
+
+<div class="pt10" style="position: absolute; top: -500pt; width: 10pt; height: 10pt; "></div>
 
 <table style=" width: 100%; "><tr>
   <td style=" width: 80pt; text-align: center; font-size: 18pt; border: 2pt solid #CCC; ">очки</br><span class="scores" style=" font-size: 24pt; ">0</span></td>
@@ -75,7 +80,7 @@
     <tr><td class="sa2 z0 pzz">&nbsp;</td><td class="sb2 z1 pzz">&nbsp;</td><td class="sc2 z0 pzz">&nbsp;</td><td class="sd2 z1 pzz">&nbsp;</td><td class="se2 z0 pzz">&nbsp;</td><td class="sf2 z1 pzz">&nbsp;</td><td class="sg2 z0 pzz">&nbsp;</td><td class="sh2 z1 pzz">2</td></tr>
     <tr><td class="sa1 z1 pzz">&nbsp;</td><td class="sb1 z0 pzz">&nbsp;</td><td class="sc1 z1 pzz">&nbsp;</td><td class="sd1 z0 pzz">&nbsp;</td><td class="se1 z1 pzz">&nbsp;</td><td class="sf1 z0 pzz">&nbsp;</td><td class="sg1 z1 pzz">&nbsp;</td><td class="sh1 z0 pzz">1</td></tr>
   </table>
-  <div class="square-piece" style="position: absolute; top: -1000; width: 12.5%; height: 12.5%; "></div>
+  <div class="square-piece" style="position: absolute; top: -1000pt; width: 12.5%; height: 12.5%; "></div>
   <div class="draggable" draggable="true" style=" position: absolute; top: 0; left: 0; width: 100%; height: 100%; touch-action: none; "></div>
   <div class="promo hidden" style="position: absolute; top: 0; width: 100%; height: 100%; background: #ffffff40; " >
     <div class="promo-box" style="position: absolute; left: 22.5%; top:41%;  width: 50%; height: 12.5%; background: white; border: 2pt solid black; padding: 2.5%; box-sizing: content-box; ">
@@ -84,7 +89,7 @@
   </div>
 </div>
 <div class="moves"></div>
-<div><button class="puzzle-hint">подсказать</button> <button class="puzzle-next">следующая</button></div>
+<div class="bottom"><button class="puzzle-hint">подсказать</button> <button class="puzzle-next">следующая</button></div>
 
 <script>
     var startFen = "1k6/4P3/8/8/8/8/8/4K3 w - - 0 1";
@@ -318,6 +323,14 @@
         return root;
     }
     
+    function refreshBoardSize() {
+        var pt = $(".pt10").width() / 10;
+        size = Math.min($(window).height() - 140 * pt, $(window).width() - 10 * pt);
+        $(".board-wrapper").css({ width: size + "px", height: size + "px"});
+    }
+
+    $(window).on("resize", refreshBoardSize);
+    
     $(document).ready(function() {
         var map = new Map();
         var prev = puzzles[0];
@@ -348,6 +361,8 @@
         puzzles = map;
         
         selPuzzle($(".puzzle:first"));
+        
+        refreshBoardSize();
     });
     
     $(".promo td").click(function(e) {
