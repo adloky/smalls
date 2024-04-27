@@ -179,7 +179,7 @@
     function getMoves(elem) {
         elem = $(elem);
         var fen = $(elem).attr("fen");
-        var n = (Number(fen.split(" ").slice(-1)) - 1) * 2 + (fen.indexOf(" w ") > -1 ? 0 : 1);
+        var n = (Number(fen.split(" ").slice(-1)[0]) - 1) * 2 + (fen.indexOf(" w ") > -1 ? 0 : 1);
         var moves = [];
         do {
             var san = $(elem).attr("san");
