@@ -1,4 +1,4 @@
-## T1 
+## T1
 
 1
 
@@ -108,7 +108,7 @@
 
 <diagram fen="r1bq1rk1/ppp1nppp/2np4/2b1p1N1/2B1P3/2NP4/PPP2PPP/R1BQK2R w KQ - 0 1" color="0" apply="1"/>
 
-[2] 1.Qh5 h6 2.Nf7 Rxf7 3.Bf7
+[2] 1.Qh5 h6 2.Nxf7 Rxf7 3.Bxf7+
 
 7
 
@@ -176,7 +176,7 @@
 
 <diagram fen="r1b2rk1/ppNp1pbp/2q1p1p1/2p3B1/PnN1PQ2/3P4/1PP2PPP/R4RK1 b - - 0 1" color="0" apply="1"/>
 
-[3] 1...e5 2.Na5 Qc7
+[3] 1...e5 2.Na5 Qxc7
 
 6
 
@@ -354,7 +354,7 @@
 
 <diagram fen="8/pp1r2kp/2p1p1p1/P7/3qP3/2Q3P1/1P3PKP/4R3 w - - 0 1" color="0" apply="1"/>
 
-[2] 1.Rd1 Qxc3 2.Rxd7 Kf6 3.bxc3
+[2] 1.Rd1 Qxc3 2.Rxd7+ Kf6 3.bxc3
 
 11
 
@@ -366,7 +366,7 @@
 
 <diagram fen="4nr2/pp1k4/4p1p1/3pP3/1b3BPN/1P4K1/P7/2R5 b - - 0 1" color="0" apply="1"/>
 
-[2] 1...Rxf4 2.Kf4 Bd2+ 3.Kf3 Bxc1
+[2] 1...Rxf4 2.Kxf4 Bd2+ 3.Kf3 Bxc1
 
 ## T6
 
@@ -620,7 +620,7 @@
 
 <diagram fen="1k1r3r/p1q1b1pp/Qp2p2n/1PPp4/3p4/3BBP2/5P1P/R1R3K1 w - - 0 1" color="0" apply="1"/>
 
-[3] 1.Bf4 Qxf4 2.Qxa7+ Kc8 3.cxb6
+[3] 1.Bf4 Qxf4 2.Qxa7+ Kc8 3.cxb6+
 
 6
 
@@ -644,7 +644,7 @@
 
 <diagram fen="4N2R/2P1r1p1/p4p2/8/6kn/1P5p/PK6/8 b - - 0 1" color="0" apply="1"/>
 
-[1] 1...Rxc7 2.Nc7 h2
+[1] 1...Rxc7 2.Nxc7 h2
 
 10
 
@@ -1046,7 +1046,7 @@
 
 <diagram fen="r3r1k1/ppq1n1pp/8/3p1Pp1/3P3P/4RQ2/P4B2/4R1K1 w - - 0 1" color="0" apply="1"/>
 
-[1] 1.f6 gxf6 2.Qf6 Qf4 3.Qxf4 gxf4 4.Rxe7 Rxe7 5.Rxe7
+[1] 1.f6 gxf6 2.Qxf6 Qf4 3.Qxf4 gxf4 4.Rxe7 Rxe7 5.Rxe7
 
 3
 
@@ -1058,7 +1058,7 @@
 
 <diagram fen="r1r3k1/1R3p2/3pB2p/6p1/1P6/4n3/2p2PPP/2R3K1 b - - 0 1" color="0" apply="1"/>
 
-[2] 1...Ra1 2.fxe3 Rxc1
+[2] 1...Ra1 2.fxe3 Rxc1+
 
 5
 
@@ -1144,7 +1144,7 @@
 
 <diagram fen="r1bqk2r/ppp2ppp/2n2n2/2b5/2pNP3/2N1B3/PP3PPP/R2QKB1R w KQkq - 0 1" color="0" apply="1"/>
 
-[2] 1.Nxc6 Qxd1 2.Rxd1 bxc6 3.Bxc5
+[2] 1.Nxc6 Qxd1+ 2.Rxd1 bxc6 3.Bxc5
 
 7
 
@@ -1174,7 +1174,7 @@
 
 <diagram fen="rn2kb1r/ppp2ppp/4pn2/q4b2/2BP4/2N2P2/PPPB2PP/R2QK1NR w KQkq - 0 1" color="0" apply="1"/>
 
-[2] 1.Nd5 Qxa4 2.Nxc7+ Ke7 3.b3
+[2] 1.Nd5 Qa4 2.Nxc7+ Ke7 3.b3
 
 12
 
@@ -1384,7 +1384,7 @@
 
 <diagram fen="5k2/3r1rbp/3pR1p1/2pn1p2/1p1P1PP1/1P5P/q1PBN3/1R1Q2K1 w - - 0 1" color="0" apply="1"/>
 
-[1] 1.Ra1 Qxa1 2.Qa1
+[1] 1.Ra1 Qxa1 2.Qxa1
 
 10
 
@@ -1600,7 +1600,7 @@
 
 <diagram fen="3rk2r/5ppp/p2q4/1p3b2/1n1pn3/3Q1N2/PPPNBPPP/3RR1K1 w k - 0 1" color="0" apply="1"/>
 
-[2] 1.Nxe4 Nxd3 2.Nxd6+ Rxd6 3.Bxd3
+[2] 1.Nxe4 Nxd3 2.Nxd6+ Rxd6 3.Bxd3+
 
 9
 
@@ -2124,7 +2124,7 @@
 
 <diagram fen="1r2q1r1/3bppbk/1p1p4/p3n2p/P3P3/1BN1BP2/1PP3QP/2KR2R1 w - - 0 1" color="0" apply="1"/>
 
-[3] 1.Qg5 f6 2.Bxg8
+[3] 1.Qg5 f6 2.Bxg8+
 
 10
 
@@ -2458,7 +2458,7 @@
 
 <diagram fen="r4rk1/ppqb2pp/4p3/2b5/2NR4/3B4/PP3PPP/R2Q2K1 w - - 0 1" color="0" apply="1"/>
 
-[2] 1.Rxd7 Bxf2+ 2.Kh1 Qxd7 3.Bxh7 Kxh7 4.Qxd7
+[2] 1.Rxd7 Bxf2+ 2.Kh1 Qxd7 3.Bxh7+ Kxh7 4.Qxd7
 
 4
 
@@ -2494,7 +2494,7 @@
 
 <diagram fen="r2q1rk1/p1p2ppp/2p1bn2/2b1N1B1/8/3P1P2/PPP3PP/RN1QK2R b KQ - 0 1" color="0" apply="1"/>
 
-[2] 1...Qd4 2.Ng4 2.Nxg4
+[2] 1...Qd4 2.Ng4 Nxg4
 
 10
 
@@ -2618,7 +2618,7 @@
 
 <diagram fen="r5k1/p4p2/1p2Bnp1/2p5/5q2/5b2/PPP3QP/1K1N2R1 w - - 0 1" color="0" apply="1"/>
 
-[1] 1.Qxg6+ Kh8 2.Qxg7#
+[1] 1.Qxg6+ Kh8 2.Qg7#
 
 6
 
@@ -2988,7 +2988,7 @@
 
 <diagram fen="2kr3r/1p1b1ppp/1q6/pBbpP3/Pn3P2/4B3/1P2Q1PP/R4R1K w - - 0 1" color="0" apply="1"/>
 
-[2] 1.Bxc5 Qxc5 2.Rac1 Qxc1 3.Rxc1
+[2] 1.Bxc5 Qxc5 2.Rac1 Qxc1 3.Rxc1+
 
 6
 
@@ -3000,7 +3000,7 @@
 
 <diagram fen="r4rk1/pp2ppbp/2n1bnp1/2q3N1/7Q/2N3P1/PP2PPBP/R1B2RK1 w - - 0 1" color="0" apply="1"/>
 
-[2] 1.Nce4 Nxe4 2.Qxh7
+[2] 1.Nce4 Nxe4 2.Qxh7#
 
 8
 
@@ -3092,7 +3092,7 @@
 
 <diagram fen="r4r1k/p2n2p1/3bp2p/3p1p1n/3P3q/2PBB3/PP2QPRP/RN5K b - - 0 1" color="0" apply="1"/>
 
-[2] 1...f4 2.Rg4 Qh3 3.Bxf4 Nf4
+[2] 1...f4 2.Rg4 Qh3 3.Bxf4 Nxf4
 
 11
 
@@ -3468,7 +3468,7 @@
 
 <diagram fen="r2qkbnr/pp2pppp/3p4/2pP4/4P1b1/2P2N2/PP3PPP/RNBQKB1R w KQkq - 0 1" color="0" apply="1"/>
 
-[4] 1.Nxe5 Bxd1 2.Bb5+ Qd7 3.Bxd7+ Kd8 4.Nxf7+ Kxd7 5.Kxd1
+[4] 1.Ne5 Bxd1 2.Bb5+ Qd7 3.Bxd7+ Kd8 4.Nxf7+ Kxd7 5.Kxd1
 
 12
 

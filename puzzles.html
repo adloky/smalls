@@ -14,7 +14,7 @@
   .hidden { display: none; }
   button { padding: 4pt 8pt; font-size: 14pt; }
   hr { border: none; border-top: 2pt solid #CCC; }
-  .board-wrapper { width: 400pt; height: 400pt; position: relative; min-width: 200pt; min-height: 200pt; max-width: 400pt; max-height: 400pt; }
+  .board-wrapper { width: 400pt; height: 400pt; position: relative; min-width: 200pt; min-height: 200pt; max-width: 500pt; max-height: 500pt; }
   .moves { padding: 10pt; font-size: 18pt; }
   
   .group, .puzzle { display: inline-block; padding: 3pt 5pt; cursor: pointer; font-size: 14pt; }
@@ -223,6 +223,7 @@
         if (!s.name) return;
         
         chess.load(curFen);
+        
         var callback = (promo) => {
             var move = dragSquare.name + s.name;
             var m = { from: dragSquare.name, to: s.name };
@@ -310,8 +311,8 @@
             
                 chess.load(node.fen);
                 var mr = chess.move(t.v);
-                if (!mr)
-                    throw "parse move error: (" + t.v + ") " + moves;
+                if (!mr || mr.san !== t.v)
+                    throw `parse move error: ${t.v} (${moves})`;
                     
                 var uci = `${mr.from}${mr.to}${mr.promotion ? mr.promotion : ""}`;
                 node.nexts.push({ fen: chess.fen(), san: t.v, uci: uci, ply: t.n, nexts: [] });
@@ -353,7 +354,7 @@
         var puzzlesHtml = [];
         for (var prop in gs) {
             var gid = prop;
-            groupsHtml.push(`<div class="group" gid="${gid}">№${prop}</div>`);
+            groupsHtml.push(`<div class="group" gid="${gid}" scores="0">№${prop}</div>`);
             puzzlesHtml.push(`<div class="group-puzzles" gid="${gid}">` + gs[prop].map(p => `<div class="puzzle" pid="${p.id}">${p.id.split(".")[1]})</div>`).join(" ") + `</div>`);
         }
         $(".group-box").html(groupsHtml.join(" "));
@@ -407,7 +408,9 @@
         var completeCallback = () => {
             if (curPuzzle.finished() && curPuzzle.result === null) {
                 $(".puzzle.sel").addClass("success");
-                $(".scores").text(Number($(".scores").text()) + curPuzzle.score);
+                var scores = Number($(".group.sel").attr("scores")) + curPuzzle.score;
+                $(".group.sel").attr("scores", scores);
+                $(".scores").text(scores);
                 curPuzzle.result = curPuzzle.score;
             }
             applyPuzzle();
@@ -441,6 +444,7 @@
         if (!g.hasClass("sel")) {
             $(".group.sel").removeClass("sel");
             g.addClass("sel");
+            $(".scores").text(g.attr("scores"));
         }
         
         $(".puzzle.sel").removeClass("sel");
@@ -526,7 +530,7 @@
       { id: "2.3.", score: 1, fen: "r1b1k1r1/1p1p1pPp/p1n1p3/6Q1/3Nq3/B1P5/P2K1PPP/3B3R w q - 0 1", moves: "1.Nxc6" },
       { id: "2.4.", score: 1, fen: "7k/1ppb2rp/p2p4/3P2NR/2r5/8/PP1K4/7R w - - 0 1", moves: "1.Rxh7+ Rxh7 2.Rxh7+ Kg8 3.Rxd7" },
       { id: "2.5.", score: 2, fen: "2r3k1/p1r2pb1/5Bp1/1p2p1P1/4P3/Pb3P2/1P5R/K6R w - - 0 1", moves: "1.Rh8+ Bxh8 2.Rxh8#" },
-      { id: "2.6.", score: 2, fen: "r1bq1rk1/ppp1nppp/2np4/2b1p1N1/2B1P3/2NP4/PPP2PPP/R1BQK2R w KQ - 0 1", moves: "1.Qh5 h6 2.Nxf7 Rxf7 3.Bxf7" },
+      { id: "2.6.", score: 2, fen: "r1bq1rk1/ppp1nppp/2np4/2b1p1N1/2B1P3/2NP4/PPP2PPP/R1BQK2R w KQ - 0 1", moves: "1.Qh5 h6 2.Nxf7 Rxf7 3.Bxf7+" },
       { id: "2.7.", score: 2, fen: "1r1q1rk1/p4p1p/3pnNpP/2p5/4P3/2PR4/PP1K2Q1/5R2 b - - 0 1", moves: "1...Qxf6 2.b3 Qg5+" },
       { id: "2.8.", score: 2, fen: "8/kp6/p1pb1Q2/3p2r1/6pr/P7/1P3PPP/1R3RK1 b - - 0 1", moves: "1...Bxh2+ 2.Kh1 Be5+ 3.Kg1 Bxf6" },
       { id: "2.9.", score: 2, fen: "8/6Q1/3p1B2/P2P1p1k/5p2/1P3n2/4P1K1/3q1B2 b - - 0 1", moves: "1...Qxe2+ 2.Bxe2" },
@@ -566,7 +570,7 @@
       { id: "5.7.", score: 2, fen: "2rq1rk1/1b2nppp/1p2p3/p2n4/3PNN1b/PB1Q4/1P3PPP/R1BR2K1 b - - 0 1", moves: "1...Rxc1 2.Raxc1 Nxf4" },
       { id: "5.8.", score: 2, fen: "2r2rk1/pp2ppbp/2npbnp1/8/1q2P3/1NN2P2/PPPQBBPP/3R1RK1 w - - 0 1", moves: "1.a3 Nxe4 2.fxe4 Bxc3 3.bxc3" },
       { id: "5.9.", score: 3, fen: "rn1qk1nr/pp3pbb/2p1p1pp/4N3/2B4P/6N1/PPPPQPP1/R1B1K2R w KQkq - 0 1", moves: "1.Nxf7" },
-      { id: "5.10.", score: 2, fen: "8/pp1r2kp/2p1p1p1/P7/3qP3/2Q3P1/1P3PKP/4R3 w - - 0 1", moves: "1.Rd1 Qxc3 2.Rxd7 Kf6 3.bxc3" },
+      { id: "5.10.", score: 2, fen: "8/pp1r2kp/2p1p1p1/P7/3qP3/2Q3P1/1P3PKP/4R3 w - - 0 1", moves: "1.Rd1 Qxc3 2.Rxd7+ Kf6 3.bxc3" },
       { id: "5.11.", score: 2, fen: "rn1qkb1r/3ppppp/b4n2/1NpP4/8/4P3/PP3PPP/R1BQKBNR b KQkq - 0 1", moves: "1...Bxb5 2.Bxb5 Qa5+ 3.Qd2 Qxb5" },
       { id: "5.12.", score: 2, fen: "4nr2/pp1k4/4p1p1/3pP3/1b3BPN/1P4K1/P7/2R5 b - - 0 1", moves: "1...Rxf4 2.Kxf4 Bd2+ 3.Kf3 Bxc1" },
       { id: "6.1.", score: 2, fen: "r1qr2k1/1b3pb1/p1pBpnpp/8/3PN3/1Q4P1/PP3PBP/2RR2K1 w - - 0 1", moves: "1.Be7 Rd7 2.Nxf6+" },
@@ -576,7 +580,7 @@
       { id: "6.5.", score: 1, fen: "r1b1qrk1/pp1n2b1/2pp3p/3PppNn/2P4B/2N1P3/PPB2PPP/2RQ1RK1 w - - 0 1", moves: "1.Ne6 c5 2.Nxf8" },
       { id: "6.6.", score: 3, fen: "4k2r/1R3pp1/3b3p/4p3/8/4B3/1P3PPP/6K1 w k - 0 1", moves: "1.Bc5 Bxc5 2.Rb8+" },
       { id: "6.7.", score: 3, fen: "1rbqrk2/5ppQ/p3n3/n2pP1N1/PbpN4/8/1P3PPP/R1B1R1K1 w - - 0 1", moves: "1.Nf5 Bxe1 2.Qh8#" },
-      { id: "6.8.", score: 3, fen: "r3k2r/1bpq1ppp/pp2p3/4n3/3P1B1b/P1PBQ3/1P1N1PPP/R3K2R b KQkq - 0 1", moves: "1... Bxf2+ 2. Kxf2 Ng4+" },
+      { id: "6.8.", score: 3, fen: "r3k2r/1bpq1ppp/pp2p3/4n3/3P1B1b/P1PBQ3/1P1N1PPP/R3K2R b KQkq - 0 1", moves: "1...Bxf2+ 2. Kxf2 Ng4+" },
       { id: "6.9.", score: 2, fen: "6R1/5P1k/3q1bp1/2p4p/2B2P2/6P1/6K1/8 w - - 0 1", moves: "1.f8=Q Qd2+ 2.Kh3 Qd7+ 3.Kg2 Qd2+" },
       { id: "6.10.", score: 2, fen: "8/6R1/8/3r4/8/5p1k/4p3/4K3 w - - 0 1", moves: "1.Rg3+ Kxg3" },
       { id: "6.11.", score: 2, fen: "3r2k1/5pp1/5b1p/1Q2p3/r3P3/q7/5PPP/1B1R1RK1 w - - 0 1", moves: "1.Rxd8+ Bxd8 2.Qe8+ Kh7 3.Qxd8" },
@@ -609,7 +613,7 @@
       { id: "9.2.", score: 3, fen: "r2qr1k1/p2n1p1p/1pbp1P1Q/2p2pP1/8/2NP4/PPP2K1P/4R3 b - - 0 1", moves: "1...Re2+ 2.Nxe2 Qf8" },
       { id: "9.3.", score: 2, fen: "k7/ppq5/5pp1/2bRr3/7P/1P2N2P/P4P2/2Q3K1 w - - 0 1", moves: "1.Qxc5 Qb8 2.Rxe5 fxe5" },
       { id: "9.4.", score: 2, fen: "1n1rr1k1/1pp1qpp1/pb1p1nbp/4p3/2BPP2B/1NPQN2P/PP3PP1/R3R1K1 w - - 0 1", moves: "1.Nd5 Qf8 2.Bxf6" },
-      { id: "9.5.", score: 3, fen: "1k1r3r/p1q1b1pp/Qp2p2n/1PPp4/3p4/3BBP2/5P1P/R1R3K1 w - - 0 1", moves: "1.Bf4 Qxf4 2.Qxa7+ Kc8 3.cxb6" },
+      { id: "9.5.", score: 3, fen: "1k1r3r/p1q1b1pp/Qp2p2n/1PPp4/3p4/3BBP2/5P1P/R1R3K1 w - - 0 1", moves: "1.Bf4 Qxf4 2.Qxa7+ Kc8 3.cxb6+" },
       { id: "9.6.", score: 2, fen: "4r3/1b3pk1/3q2pp/1ppp4/3n3P/2NP2P1/1PP2PB1/2RQ2K1 b - - 0 1", moves: "1...b4 2.Na4 Ne2+" },
       { id: "9.7.", score: 2, fen: "2rq1k1r/pp1b1ppp/2n5/1B1p2B1/6n1/PNN5/1PP2KPP/R2QR3 w - - 0 1", moves: "1.Qxg4 Qb6+ 2.Be3 Qxe3+ 3.Rxe3 Bxg4 4.Nxd5" },
       { id: "9.8.", score: 1, fen: "2b3r1/1pp2pk1/p2p1r1n/P2Pp2p/1PP1P2N/3B1PPq/2KQR3/6R1 w - - 0 1", moves: "1.Qg5+ Rg6 2.Nxg6" },
@@ -629,7 +633,7 @@
       { id: "10.10.", score: 1, fen: "2r2b1k/3R1p2/p5p1/1p2p1Bp/2q1P3/P1P2P2/2Q3PP/6K1 b - - 0 1", moves: "1...Bc5+ 2.Kh1 Qf1#" },
       { id: "10.11.", score: 3, fen: "2r3nk/p2q2bp/Np1R2p1/4p3/4B1P1/4B2P/PPQ5/5K2 b - - 0 1", moves: "1...Rf8+ 2.Kg2 Qxd6" },
       { id: "10.12.", score: 3, fen: "1R6/p2r4/2p1p3/K1Pk4/P1b5/2P5/8/8 w - - 0 1", moves: "1.Rb7 Rxb7" },
-      { id: "11.1.", score: 3, fen: "r4rk1/ppB2ppp/2p5/5b2/4n3/2P2N2/PPP2PPP/R3R1K1 w - - 0 1", moves: "1.Nh4 g6 2.Nxg6 hxg6 3.Rxe4" },
+      { id: "11.1.", score: 3, fen: "r4rk1/ppB2ppp/2p5/5b2/4n3/2P2N2/PPP2PPP/R3R1K1 w - - 0 1", moves: "1.Nh4 Bg6 2.Nxg6 hxg6 3.Rxe4" },
       { id: "11.2.", score: 2, fen: "4r1k1/3N1p2/2p3p1/p6p/2P1nP2/1P4PP/P7/4R1K1 w - - 0 1", moves: "1.Rxe4 Rd8 2.Ne5" },
       { id: "11.3.", score: 3, fen: "r4k2/5p2/2r1p1p1/pp2p1P1/1bq2P2/8/PPPQ3R/1K5R w - - 0 1", moves: "1.Qd7 Rc7 2.Rh8+ Kg7 3.R1h7#" },
       { id: "11.4.", score: 3, fen: "r2q1rk1/1p1bppbp/p1np1npB/8/3NP3/2N5/PPPQBPPP/3R1RK1 b - - 0 1", moves: "1...Nxd4 2.Bxg7 Nxe2+ 3.Qxe2 Kxg7" },
@@ -680,7 +684,7 @@
       { id: "15.1.", score: 1, fen: "rnb1k2r/ppp2ppp/3b4/3pq1n1/8/1B1P2P1/PPP2P1P/RNBQR1K1 b kq - 0 1", moves: "1...Nf3+ 2.Kf1 Bh3#" },
       { id: "15.2.", score: 1, fen: "r3r1k1/ppq1n1pp/8/3p1Pp1/3P3P/4RQ2/P4B2/4R1K1 w - - 0 1", moves: "1.f6 gxf6 2.Qxf6 Qf4 3.Qxf4 gxf4 4.Rxe7 Rxe7 5.Rxe7" },
       { id: "15.3.", score: 2, fen: "3r2k1/p1rp2p1/1p2p3/4qp2/1PPR4/P1Q1P2P/5PP1/2R3K1 w - - 0 1", moves: "1.Rxd7 Qxc3 2.Rxd8+ Kf7 3.Rxc3" },
-      { id: "15.4.", score: 2, fen: "r1r3k1/1R3p2/3pB2p/6p1/1P6/4n3/2p2PPP/2R3K1 b - - 0 1", moves: "1...Ra1 2.fxe3 Rxc1" },
+      { id: "15.4.", score: 2, fen: "r1r3k1/1R3p2/3pB2p/6p1/1P6/4n3/2p2PPP/2R3K1 b - - 0 1", moves: "1...Ra1 2.fxe3 Rxc1+" },
       { id: "15.5.", score: 3, fen: "R7/2r1nknp/2p2p1B/1p1p1P2/p2P2B1/6P1/PPP3K1/8 w - - 0 1", moves: "1.Bh5+ Nxh5 2.Rf8#" },
       { id: "15.6.", score: 3, fen: "8/p7/1p3k2/1Pr3RK/7p/7P/8/8 w - - 0 1", moves: "1.Kxh4 Rxg5" },
       { id: "15.7.", score: 2, fen: "r7/pp2nk2/8/3p2p1/3P1N2/nPrB4/P4PP1/R3R1K1 w - - 0 1", moves: "1.Rxe7+ Kxe7 2.Nxd5+ Kd6 3.Nxc3" },
@@ -694,7 +698,7 @@
       { id: "16.3.", score: 2, fen: "r2q1rk1/pb1pnpb1/1pn1p1pp/2p5/2B1PP2/2NPBNQ1/PPP3PP/R4RK1 b - - 0 1", moves: "1...d5 2.Rfd1 dxc4" },
       { id: "16.4.", score: 3, fen: "2r1kb1r/1bqp1ppp/p1n1p3/1p6/4PP2/2N1BB2/PPPQ2PP/2KR3R w k - 0 1", moves: "1.Bb6" },
       { id: "16.5.", score: 1, fen: "6R1/8/8/8/5p2/1r3k2/7p/7K w - - 0 1", moves: "1.Rg3+ fxg3" },
-      { id: "16.6.", score: 2, fen: "r1bqk2r/ppp2ppp/2n2n2/2b5/2pNP3/2N1B3/PP3PPP/R2QKB1R w KQkq - 0 1", moves: "1.Nxc6 Qxd1 2.Rxd1 bxc6 3.Bxc5" },
+      { id: "16.6.", score: 2, fen: "r1bqk2r/ppp2ppp/2n2n2/2b5/2pNP3/2N1B3/PP3PPP/R2QKB1R w KQkq - 0 1", moves: "1.Nxc6 Qxd1+ 2.Rxd1 bxc6 3.Bxc5" },
       { id: "16.7.", score: 3, fen: "r2qk2r/pp1nbppp/2p1p3/3n2B1/3PN3/3B1Q1P/PPP3P1/2KR3R w kq - 0 1", moves: "1.Nd6+ Bxd6 2.Bxd8 Rxd8 3.Rhf1" },
       { id: "16.8.", score: 3, fen: "1rr4k/3q2bp/3p2p1/1p1Q2N1/p2P4/P6P/5PP1/1R2R1K1 w - - 0 1", moves: "1.Nf7+ Kg8 2.Ne5+" },
       { id: "16.9.", score: 2, fen: "1r3rk1/p3n1bp/3p4/5p2/2PpNNP1/3P1q1P/P2Q4/R4RK1 b - - 0 1", moves: "1...Qe3+ 2.Qxe3 dxe3" },
@@ -768,7 +772,7 @@
       { id: "22.5.", score: 1, fen: "1R6/p1p2ppk/2p5/2r1p1q1/P2pP3/1N1P1bPP/2P4K/2Q5 b - - 0 1", moves: "1...Qxc1 2.Nxc1 Rxc2+ 3.Kg1 Rxc1+" },
       { id: "22.6.", score: 3, fen: "3r4/5kq1/1r1p1NpQ/2p1P1P1/2P2p2/1P1R4/5P1K/8 w - - 0 1", moves: "1.e6+ Kf8 2.e7+" },
       { id: "22.7.", score: 3, fen: "2r3nk/3b3p/3pNpp1/3P4/1p2P3/1B1qBQPP/P2b3K/5R2 w - - 0 1", moves: "1.Bh6" },
-      { id: "22.8.", score: 2, fen: "3rk2r/5ppp/p2q4/1p3b2/1n1pn3/3Q1N2/PPPNBPPP/3RR1K1 w k - 0 1", moves: "1.Nxe4 Nxd3 2.Nxd6+ Rxd6 3.Bxd3" },
+      { id: "22.8.", score: 2, fen: "3rk2r/5ppp/p2q4/1p3b2/1n1pn3/3Q1N2/PPPNBPPP/3RR1K1 w k - 0 1", moves: "1.Nxe4 Nxd3 2.Nxd6+ Rxd6 3.Bxd3+" },
       { id: "22.9.", score: 2, fen: "5rk1/2b1npp1/r2q3p/ppRn1P2/3pQ1PN/PB1P4/1P1B1P1P/4R2K w - - 0 1", moves: "1.Rxc7 Qxc7 2.Bxd5 Nxd5 3.Qxd5" },
       { id: "22.10.", score: 1, fen: "5bk1/1R5p/4p2p/3pPp2/p1qP2N1/3R1Q1P/2r3r1/5K2 w - - 0 1", moves: "1.Nf6+ Kh8 2.Rxh7#" },
       { id: "22.11.", score: 4, fen: "2r2rk1/p1Rn1pp1/1p2pn1p/q7/3PP2B/P2Q1N2/5PPP/2R3K1 b - - 0 1", moves: "1...Nc5 2.dxc5 Rxc7" },
@@ -785,7 +789,7 @@
       { id: "23.10.", score: 2, fen: "4r1k1/7p/p1p2npB/3q1p2/3Q3P/5P2/PP4P1/3R2K1 b - - 0 1", moves: "1...Re1+ 2.Kh2 Rxd1 3.Qxf6 Qd6+" },
       { id: "23.11.", score: 2, fen: "6k1/6pp/2p1P3/pp1p4/3P4/3Q1Pqr/PPR4R/7K b - - 0 1", moves: "1...Qe1+ 2.Kg2 Rg3#" },
       { id: "23.12.", score: 3, fen: "6k1/1p3r1p/1qp1Q1p1/p1p5/2P3P1/P6P/1Pb2PB1/R5K1 w - - 0 1", moves: "1.Bd5" },
-      { id: "24.1.", score: 2, fen: "rn2kb1q/ppq1pp1p/2p2p2/8/6b1/1P3NP1/P1PP1PBP/R1BQK2R b KQq - 0 1", moves: "1...Bxf3 2.Bxf3 Qe5+" },
+      { id: "24.1.", score: 2, fen: "rn2kb1r/ppq1pp1p/2p2p2/8/6b1/1P3NP1/P1PP1PBP/R1BQK2R b KQq - 0 1", moves: "1...Bxf3 2.Bxf3 Qe5+" },
       { id: "24.2.", score: 3, fen: "r2qkb1r/pppnppp1/b6p/3QP3/8/6P1/PPP2PBP/RNB1R1K1 w Qkq - 0 1", moves: "1.e6 fxe6 2.Qh5+" },
       { id: "24.3.", score: 1, fen: "rnb2rk1/rp1ppp1p/4P1p1/1qn5/3Q4/2P5/PBP2PPP/R3K1NR w KQ - 0 1", moves: "1.c4 Qa5+ 2.Bc3" },
       { id: "24.4.", score: 2, fen: "r1bq1r2/ppp3kp/8/2Pn1N2/1P2pP2/4N3/P6P/1R1Q1RK1 b - - 0 1", moves: "1...Rxf5 2.Nxf5+ Bxf5" },
@@ -797,8 +801,8 @@
       { id: "24.10.", score: 3, fen: "2r3k1/4bpp1/4p2p/p1q5/2Q2B2/6P1/5P1P/2R3K1 w - - 0 1", moves: "1.Qf1 Qxc1 2.Bxc1" },
       { id: "24.11.", score: 2, fen: "2rqr1k1/bp3pp1/p1n1bn1p/3p4/N7/PP1Q1N2/1BPRBPPP/R5K1 b - - 0 1", moves: "1...Ne4 2.Rf1 Nxd2" },
       { id: "24.12.", score: 3, fen: "r1b1kbnr/pp4pp/8/2qB4/2PQ4/8/PP4PP/R1B2RK1 w kq - 0 1", moves: "1.Bf7+ (1.Re1+ Kd7 2.Be6+ Kc7 3.Bf4+ Kb6) 1...Ke7 2.Qxc5+" },
-      { id: "25.1.", score: 2, fen: "r1bqkb1r/qppp1ppp/2n5/3Np1n1/8/3B1N2/PPPP1PPP/R1BQK2R w KQkq - 0 1", moves: "1.Nxg5 Qxg5 2.Nxc7+ Kd8 3.Nxa8 Qxg2 4.Rf1" },
-      { id: "25.2.", score: 1, fen: "r2qkbnr/ppp1p1pp/5p2/5b2/1n1P3B/2N1P3/PP3PPP/R2QKBNR w KQkq - 0 1", moves: "1.Qa4+ c6 2.d5" },
+      { id: "25.1.", score: 2, fen: "r1bqkb1r/pppp1ppp/2n5/3Np1n1/8/3B1N2/PPPP1PPP/R1BQK2R w KQkq - 0 1", moves: "1.Nxg5 Qxg5 2.Nxc7+ Kd8 3.Nxa8 Qxg2 4.Rf1" },
+      { id: "25.2.", score: 1, fen: "r2qkbnr/ppp1p1pp/5p2/5b2/1n1P3B/2N1P3/PP3PPP/R2QKBNR w KQkq - 0 1", moves: "1.Qa4+ Nc6 2.d5" },
       { id: "25.3.", score: 2, fen: "r2qkb1r/5ppp/p2p1n2/1p2pP2/4b3/1BN5/PPP3PP/R1BQ1RK1 w kq - 0 1", moves: "1.Nxe4 Nxe4 2.Qd5" },
       { id: "25.4.", score: 2, fen: "r3r1k1/pR3pp1/8/2pPp1p1/2Pn4/3P2PP/5qBK/3QR3 w - - 0 1", moves: "1.Rf1 Qe2 2.Qxe2 Nxe2 3.Rfxf7" },
       { id: "25.5.", score: 3, fen: "1nr3k1/2r1bppp/4p1q1/1p1pP3/1P3P2/P3BN1Q/6PP/2R2R1K b - - 0 1", moves: "1...Rxc1 2.Bxc1 Qb1 3.Kg1 Rxc1" },
@@ -815,7 +819,7 @@
       { id: "26.4.", score: 3, fen: "8/3k4/3p4/p3p3/PpK4R/1P5P/1P1r2P1/8 b - - 0 1", moves: "1...Kc6 2.Rh6 Rd4#" },
       { id: "26.5.", score: 2, fen: "1r4k1/p1n2p1p/6p1/3N4/2pP4/4br1P/PP4P1/3R1R1K w - - 0 1", moves: "1.Ne7+ Kf8 2.Rxf3 Bg5 3.Nc6" },
       { id: "26.6.", score: 1, fen: "2rq1rk1/pp3ppp/3p1b2/2nP1B2/4p3/1N3Q2/PPP2PPP/R3K2R w KQ - 0 1", moves: "1.Qh3" },
-      { id: "26.7.", score: 2, fen: "6r1/ppR3pp/4kp2/3bp3/1b4P1/1P2PN2/PB2KP1P/8 b - - 0 1", moves: "1...Bc6 2.Nd2 Kd6 3.Rf7 Bd5 4.Nc4+ Kc6" },
+      { id: "26.7.", score: 2, fen: "6r1/ppR3pp/4kp2/3bp3/1b4P1/1P2PN2/PB2KP1P/8 b - - 0 1", moves: "1...Bc6 2.Nd2 Kd6 (2...Bd6 (2...Ba5)) 3.Rf7 Bd5 4.Nc4+ Kc6" },
       { id: "26.8.", score: 2, fen: "r1b2rk1/1pq1bppp/p2ppn2/5P2/P1BQP3/2N5/1PP3PP/R1B2RK1 b - - 0 1", moves: "1...d5 2.Be3 Qxc4" },
       { id: "26.9.", score: 1, fen: "3r2k1/pp1r1pp1/n6p/n3N2P/2PpN1P1/P7/1P1RKP2/2R5 b - - 0 1", moves: "1...Re7 2.f4 f6" },
       { id: "26.10.", score: 2, fen: "r1br2k1/pp2ppbp/6p1/8/4P3/N1PB4/PP4PP/R2R2K1 b - - 0 1", moves: "1...Bg4 2.Bc2 Bxd1" },
@@ -853,7 +857,7 @@
       { id: "29.6.", score: 2, fen: "r1b1k2r/pp4pp/1qn1p3/3p4/6n1/3B1N1P/PPP1KbP1/RNBQ1R2 b kq - 0 1", moves: "1...Ne3 2.Qd2 Nxf1 3.Kxf1 Bg3" },
       { id: "29.7.", score: 3, fen: "r2b1B1k/5p1p/1nq1p3/p2pP3/P4P2/1p3BQ1/2P3PP/R4b1K b - - 0 1", moves: "1...Bg5 2.Qxg5 Rxf8 3.Qf6+ Kg8 4.Qg5+ Kh8 5.Qf6+" },
       { id: "29.8.", score: 1, fen: "2r4k/p1n4p/1p2prp1/3p4/3P4/2N4P/PP3PP1/2RR2K1 w - - 0 1", moves: "1.Nb5 Rf7 2.Nd6 Rcf8 3.Nxf7+" },
-      { id: "29.9.", score: 3, fen: "1r2q1r1/3bppbk/1p1p4/p3n2p/P3P3/1BN1BP2/1PP3QP/2KR2R1 w - - 0 1", moves: "1.Qg5 f6 2.Bxg8" },
+      { id: "29.9.", score: 3, fen: "1r2q1r1/3bppbk/1p1p4/p3n2p/P3P3/1BN1BP2/1PP3QP/2KR2R1 w - - 0 1", moves: "1.Qg5 f6 2.Bxg8+" },
       { id: "29.10.", score: 1, fen: "rr4k1/pp3pp1/3p3p/2pPp3/2P1Pn2/5PPP/PPB5/2K2R1R b - - 0 1", moves: "1...Ne2+ 2.Kd2 Nxg3" },
       { id: "29.11.", score: 3, fen: "r1b2r1k/pp3qpp/2nb1n2/3pp3/N2P3B/3B1N2/PP3PPP/2RQ1RK1 w - - 0 1", moves: "1.Rxc6 bxc6 2.dxe5" },
       { id: "29.12.", score: 2, fen: "1r3rk1/1bq2ppp/p2bp3/8/2pN4/P1P1QP2/1P4PP/1R2RNK1 b - - 0 1", moves: "1...e5 2.Kh1 exd4" },
@@ -907,7 +911,7 @@
       { id: "33.12.", score: 1, fen: "r1bq1rk1/ppppbp1p/2n3p1/5N2/2B1n1Q1/8/PPP2PPP/RNB2RK1 w - - 0 1", moves: "1.Nh6+ Kg7 2.Qxe4" },
       { id: "34.1.", score: 1, fen: "r1b2rk1/pp1nbp1p/2q1p2B/2ppp3/8/2NP1N2/PPP3PP/R2Q1RK1 w - - 0 1", moves: "1.Nd4 cxd4 2.Qg4+" },
       { id: "34.2.", score: 2, fen: "4qr2/p1R1Rpk1/bp4pp/8/P3pQ2/1P2B1P1/5PKP/3r4 b - - 0 1", moves: "1...Bf1+ 2.Kg1 Bh3#" },
-      { id: "34.3.", score: 2, fen: "r4rk1/ppqb2pp/4p3/2b5/2NR4/3B4/PP3PPP/R2Q2K1 w - - 0 1", moves: "1.Rxd7 Bxf2+ 2.Kh1 Qxd7 3.Bxh7 Kxh7 4.Qxd7" },
+      { id: "34.3.", score: 2, fen: "r4rk1/ppqb2pp/4p3/2b5/2NR4/3B4/PP3PPP/R2Q2K1 w - - 0 1", moves: "1.Rxd7 Bxf2+ 2.Kh1 Qxd7 3.Bxh7+ Kxh7 4.Qxd7" },
       { id: "34.4.", score: 2, fen: "4rnk1/3qr1pp/pp3p2/3bp3/3P4/1PNBR3/P3QPPP/4R1K1 w - - 0 1", moves: "1.Nxd5 Qxd5 2.Bc4" },
       { id: "34.5.", score: 3, fen: "1k2r1r1/pbb3q1/1p5p/2N1pn2/2Pp4/P2P1NP1/1Q4BP/1R2R1K1 w - - 0 1", moves: "1.Nxb7 Kxb7 2.Nxd4+ Kc8 3.Nxf5" },
       { id: "34.6.", score: 2, fen: "r1bq1rk1/ppp1bppp/5n2/3pP1B1/2Q5/5N2/PPP2PPP/RN3RK1 w - - 0 1", moves: "1.Qh4 h6 2.exf6 gxf6 3.Bxh6" },
@@ -993,9 +997,9 @@
       { id: "41.2.", score: 2, fen: "rnbq1rk1/p3bppp/1p2pn2/2p1N3/2B5/2NPB3/PPP2PPP/R2QK2R w KQ - 0 1", moves: "1.Qf3 Qc7 2.Qxa8" },
       { id: "41.3.", score: 2, fen: "rn2k1n1/ppp2pp1/8/2b5/6bq/8/PPPPP1BP/RNB1QK1R b q - 0 1", moves: "1...Qf6+ 2.Bf3 Bh3#" },
       { id: "41.4.", score: 1, fen: "rnb1k1nr/pp2ppbp/2p3p1/q7/3PNB2/2P2N2/PP3PPP/R2QKB1R b KQkq - 0 1", moves: "1...Qf5 2.Bxb8 Qxe4+" },
-      { id: "41.5.", score: 2, fen: "2kr3r/1p1b1ppp/1q6/pBbpP3/Pn3P2/4B3/1P2Q1PP/R4R1K w - - 0 1", moves: "1.Bxc5 Qxc5 2.Rac1 Qxc1 3.Rxc1" },
+      { id: "41.5.", score: 2, fen: "2kr3r/1p1b1ppp/1q6/pBbpP3/Pn3P2/4B3/1P2Q1PP/R4R1K w - - 0 1", moves: "1.Bxc5 Qxc5 2.Rac1 Qxc1 3.Rxc1+" },
       { id: "41.6.", score: 2, fen: "r1r5/1q3pk1/p2bp1pp/1p6/1n1P1N2/P4N1P/1P1Q1PP1/2R2RK1 b - - 0 1", moves: "1...Bxf4 2.Qxf4 Nd3" },
-      { id: "41.7.", score: 2, fen: "r4rk1/pp2ppbp/2n1bnp1/2q3N1/7Q/2N3P1/PP2PPBP/R1B2RK1 w - - 0 1", moves: "1.Nce4 Nxe4 2.Qxh7" },
+      { id: "41.7.", score: 2, fen: "r4rk1/pp2ppbp/2n1bnp1/2q3N1/7Q/2N3P1/PP2PPBP/R1B2RK1 w - - 0 1", moves: "1.Nce4 Nxe4 2.Qxh7#" },
       { id: "41.8.", score: 2, fen: "rn1qkb1r/ppp2pp1/4pn1p/8/3PP1bB/2N5/PPP3PP/R2QKBNR w KQkq - 0 1", moves: "1.Bxf6 Bxd1 2.Bxd8 Kxd8 3.Rxd1" },
       { id: "41.9.", score: 3, fen: "4rr1k/pb4p1/1p2B2p/4R3/5q2/5P2/PPQ3PP/4R1K1 w - - 0 1", moves: "1.Bg8 Kxg8 2.Rxe8 Rxe8 3.Rxe8+" },
       { id: "41.10.", score: 2, fen: "8/4P3/5k2/8/1p1p4/1PqPQ3/2P2p2/1K6 w - - 0 1", moves: "1.e8=N+ Kf7 2.Nd6+ Kg6 3.Qxf2" },
