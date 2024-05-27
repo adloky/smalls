@@ -21,34 +21,22 @@ namespace ConApp {
         }
 
         static void Main(string[] args) {
-            var books = File.ReadAllLines("d:/adapt.txt").Select(s => {
-                var ss = s.Split(';');
-                return (num: int.Parse(ss[0]), name: ss[1]);
-            }).ToArray();
-
-            foreach (var b in books) {
-                var path = $"d:/_a/{b.name}.html";
-                if (File.Exists(path))
-                    continue;
-
-                var max = 1;
-                var r = "";
-                for (var p = 1; p <= max; p++) {
-                    var html = get($"https://madbook.org/view?book={b.num}&page={p}");
-                    Thread.Sleep(1000);
-                    html = html.Replace("</span>", " </span>");
-                    var dom = CQ.Create(html);
-                    if (p == 1) {
-                        max = int.Parse(dom.Select(".sheet-num-inside").Text().Trim().Split(' ').Last());
-                        Console.WriteLine($"MAX: {max}");
-                    }
-                    var body = string.Join("", dom.Select(".paragraph").Select(x => $"<p class=\"paragraph\">{x.Cq().Text()}</p>"));
-
-                    r += $"{body}<!-- {p} --><hr/>\r\n";
-                }
-
-                File.WriteAllText(path, r);
+            var path = "d:/All_Dorothys_adventures_in_Oz.htm";
+            var html = File.ReadAllText(path);
+            path = path.Replace(".htm", "-2.htm");
+            var dom = CQ.Create(html);
+            foreach (var p in dom.Select(".Heading2")) {
+                p.OuterHTML = $"<h1>{p.Cq().Text()}</h1>";
             }
+            foreach (var p in dom.Select(".Heading3")) {
+                p.OuterHTML = $"<h2>{p.Cq().Text()}</h2>";
+            }
+            foreach (var p in dom.Select(".MsoNormal")) {
+                if (!p.OuterHTML.Contains("font-size:14.0pt"))
+                    continue;
+                p.OuterHTML = $"<h2>{p.Cq().Text()}</h2>";
+            }
+            File.WriteAllText(path, dom.Html());
         }
     }
 }

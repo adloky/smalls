@@ -1,4 +1,5 @@
-# 1 The Wonderful Wizard Of Oz
+
+# 1. The Wonderful Wizard Of Oz
 
 ## The Cyclone
 
@@ -6,7 +7,7 @@ Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who w
 
 Uncle Henry never laughed. He worked hard from morning till night and did not know what joy was. He was gray also, from his long beard to his rough boots. He looked stern and solemn, and rarely spoke.
 
-It was Toto that **made Dorothy laugh** (веселил Дороти). Toto was not gray; he was a little black dog, with long, silky hair and small black eyes that twinkled merrily on either side of his funny nose. Toto played all day long, and Dorothy played with him, and loved him dearly.
+It was Toto that **made Dorothy laugh**1. Toto was not gray; he was a little black dog, with long, silky hair and small black eyes that twinkled merrily on either side of his funny nose. Toto played all day long, and Dorothy played with him, and loved him dearly.
 
 Today, however, they were not playing. Uncle Henry stood up.
 
@@ -14,15 +15,17 @@ Today, however, they were not playing. Uncle Henry stood up.
 
 "Quick, Dorothy!" screamed Aunt Em; "run for the cellar!"
 
-Toto jumped out of Dorothy’s arms and hid under the bed, and the girl **started to get him** (кинулась его ловить). When she was half way across the room there came a great shriek from the wind, and the house shook so hard that she sat down suddenly upon the floor. A strange thing then happened.
+Toto jumped out of Dorothy’s arms and hid under the bed, and the girl **started to get him**2. When she was half way across the room there came a great shriek from the wind, and the house shook so hard that she sat down suddenly upon the floor. A strange thing then happened.
 
 The house whirled around two or three times and rose slowly through the air. It was very dark, and the wind howled horribly around her, but Dorothy was riding quite easily. She sat quite still on the floor and waited.
 
+1 **made Dorothy laugh** — веселил Дороти
+
+2 **started to get him** — кинулась его ловить
+
 Hour after hour passed away. Dorothy felt quite lonely. The wind shrieked loudly. As the hours passed and nothing terrible happened, she stopped worrying. Dorothy soon closed her eyes and fell fast asleep.
 
- 
-
-## The Council with The Munchkins (Жевуны)
+## The Council with The Munchkins1
 
 Dorothy was awakened by a shock. She sat up and noticed that the house was not moving. She opened the door.
 
@@ -40,19 +43,7 @@ Dorothy listened to this speech with wonder and said, with hesitation,
 
 "Your house did, anyway," replied the little old woman. "See! There are her two toes, from under a block of wood."
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image002.gif) |
-
-
-
-
-
-1 **the Munchkins** — 
-
-
+1 **the Munchkins** — Жевуны
 
 There, indeed, just under the corner of the great beam the house rested on, two feet were sticking out. They were shod in silver **shoes with pointed toes**1.
 
@@ -66,41 +57,25 @@ There, indeed, just under the corner of the great beam the house rested on, two 
 
 I am a good witch."
 
-"But I thought all witches were wicked," said the girl. "Oh, no; that is a great mistake. There were only four
+"But I thought all witches were wicked," said the girl. "Oh, no; that is a great mistake. There were only four witches in all the Land of Oz. Two of them, those who live in the North and the South, are good witches. Those who dwelt in the East and the West were, indeed, wicked witches. You have killed one of them."
 
-witches in all the Land of Oz. Two of them, those who live in the North and the South, are good witches. Those who dwelt in the East and the West were, indeed, wicked witches. You have killed one of them."
+The feet of the dead Witch disappeared entirely and nothing was left but the silver shoes.
 
-The feet of the dead Witch disappeared entirely and noth- ing was left but the silver shoes.
-
-"That is the end of her," explained the Witch of the North, "But the silver shoes are yours. There is some charm con- nected with them. But what it is we don’t know."
+"That is the end of her," explained the Witch of the North, "But the silver shoes are yours. There is some charm connected with them. But what it is we don’t know."
 
 "I want to get back to my Aunt and Uncle. Can you help me find my way?" Dorothy said.
 
-The Munchkins and the Witch looked at one another. "At the East, not far from here," said one, "there is a great
-
-desert, and none can cross it."
+The Munchkins and the Witch looked at one another. "At the East, not far from here," said one, "there is a great desert, and none can cross it."
 
 "It is the same at the South," said another, "The South is the country of **the Quadlings**2."
 
 "It is the same at the West," said the third man, "And that country, where **the Winkies**3 live, is ruled by the wicked Witch of the West. She will make you her slave if you go there."
-
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image003.gif) |
-
-
-
-
 
 1 **shoes with pointed toes** — башмаки с загнутыми носками
 
 2 **the Quadlings** — Кводлинги
 
 3 **the Winkies** — Мигуны
-
-
 
 "Then you must go to the City of Emeralds. Perhaps Oz will help you", said the little women.
 
@@ -116,9 +91,7 @@ She kissed Dorothy gently on the forehead. Her lips left a round, shining mark.
 
 "The road to the City of Emeralds is paved with yellow brick," said the Witch.
 
- 
-
-How Dorothy saved **the Scarecrow**1
+## How Dorothy saved the Scarecrow1
 
 Dorothy put the silver shoes on, **which fitted her well**2. "Come along, Toto," she said, "we will go to the Emerald
 
@@ -136,21 +109,9 @@ One day she saw a Scarecrow. The Scarecrow was placed high on a pole. Its head w
 
 Dorothy lifted the figure off the pole. It was quite light.
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image004.gif) |
-
-
-
-
-
 1 **the Scarecrow** — Страшила
 
 2 **which fitted her well** — которые оказались ей впору
-
-
 
 "Thank you very much," said the Scarecrow. "Who are you?"
 
@@ -162,9 +123,7 @@ Dorothy lifted the figure off the pole. It was quite light.
 
 "Good," said the Scarecrow.
 
- 
-
-The Rescue of the Tin Woodman
+## The Rescue of the Tin Woodman
 
 They stayed in a little cottage in the middle of a forest for a night.
 
@@ -182,11 +141,7 @@ One of the big trees was partly chopped through, and a man made entirely of tin 
 
 "Yes," answered the tin man; "I did. I am groaning." "What can I do for you?" she enquired, softly.
 
-
-
-"Get an oil-can and oil my joints," he answered. "They are rusted badly. You will find an oil-can on a shelf in my cottage." Dorothy ran to the cottage and found the oil-can. She oiled the joints. The Tin Woodman gave a sigh of satisfaction
-
-and lowered his axe.
+"Get an oil-can and oil my joints," he answered. "They are rusted badly. You will find an oil-can on a shelf in my cottage." Dorothy ran to the cottage and found the oil-can. She oiled the joints. The Tin Woodman gave a sigh of satisfaction and lowered his axe.
 
 "This is good," he said. "You have certainly saved my life.
 
@@ -196,17 +151,13 @@ Who are you?"
 
 The Tin Woodman thought deeply for a moment. Then he said:
 
-"Do you suppose Oz can give me a heart? I want to love." "I guess so," Dorothy answered, "it will be as easy as to
-
-give the Scarecrow brains."
+"Do you suppose Oz can give me a heart? I want to love." "I guess so," Dorothy answered, "it will be as easy as to give the Scarecrow brains."
 
 "True," the Tin Woodman said. "So, if you allow me to join your party, I will also go to the Emerald City and ask Oz to help me."
 
 "Come along," said the Scarecrow, heartily.
 
- 
-
-The Cowardly Lion
+## The Cowardly Lion
 
 Dorothy and her companions were walking through the thick woods. The road was still paved with yellow brick.
 
@@ -220,21 +171,17 @@ Little Toto ran barking toward the Lion. The great beast had opened his mouth to
 
 "Don’t you dare to bite Toto! Shame on you! A big beast like you bites a poor little dog!"
 
-
-
 "I didn’t bite him," said the Lion.
 
 "No, but you tried to," she retorted. "You are nothing but a big coward."
 
-"I know it," said the Lion in shame, "It is my great sor- row, and makes my life very unhappy. Where are you going?" "I am going to the great Oz to ask him to give me some brains," remarked the Scarecrow, "for my head is stuffed with
-
-straw."
+"I know it," said the Lion in shame, "It is my great sorrow, and makes my life very unhappy. Where are you going?" "I am going to the great Oz to ask him to give me some brains," remarked the Scarecrow, "for my head is stuffed with straw."
 
 "And I am going to ask him to give me a heart," said the Woodman.
 
 "And I am going to ask him to send Toto and me back to Kansas," added Dorothy.
 
-"Do you think Oz can give me courage?" asked the cow- ardly Lion.
+"Do you think Oz can give me courage?" asked the cowardly Lion.
 
 "Maybe," said the Scarecrow.
 
@@ -242,9 +189,7 @@ straw."
 
 "You will be very welcome," answered Dorothy.
 
- 
-
-The Deadly Poppy Field
+## The Deadly Poppy Field
 
 Soon they found themselves in the midst of a great meadow of poppies. Their odor is so powerful that anyone who breathes it falls asleep. If the sleeper is not carried away from the scent of the flowers, he sleeps on and on forever. But Dorothy did not know this; so presently her eyes grew heavy and she wanted to sit down to rest and to sleep.
 
@@ -256,15 +201,11 @@ But Dorothy’s eyes closed and she forgot where she was and fell among the popp
 
 "Run fast," said the Scarecrow to the Lion, "and get out of this deadly flower-bed as soon as you can. We will bring the little girl with us, but you are too big for us."
 
-
-
 The great carpet of deadly flowers that surrounded them was endless. Their friend the Lion fell down. The flowers were too strong for the huge beast and he gave up, at last. He fell only a short distance from the end of the poppy-bed.
 
 "We can do nothing for him," said the Tin Woodman, sadly; "for he is much too heavy to lift."
 
- 
-
-The Queen of the Field Mice
+## The Queen of the Field Mice
 
 Soon they saw a field-mouse. She was running away from a big wild cat. The Tin Woodman saved her.
 
@@ -276,9 +217,7 @@ Soon they saw a field-mouse. She was running away from a big wild cat. The Tin W
 
 "Can you save our friend, the Cowardly Lion, who is asleep in the poppy bed?"
 
-"A Lion!" cried the little Queen. "why, he will eat us all
-
-up."
+"A Lion!" cried the little Queen. "why, he will eat us all up."
 
 "Oh, no," declared the Scarecrow; "this Lion is a coward.
 
@@ -294,17 +233,11 @@ The Queen called the mice. As soon as they heard her orders they ran away in eve
 
 The Woodman soon made a truck out of the trees, from which he chopped away all the leaves and branches. He fastened it together with wooden pegs and made the four wheels out of a big tree-trunk.
 
+The mice came from all directions, and there were thousands of them: big mice and little mice and middle-sized mice. Each one brought a piece of string in his mouth. Dorothy woke from her long sleep and opened her eyes.
 
+The Scarecrow and the Woodman now began to fasten the mice to the truck. The Lion was heavy, but they managed to get him up on the truck. The Woodman and the Scarecrow both pushed the truck and soon they rolled the Lion out of the poppy bed to the green fields. The Queen of the Mice said, "If ever you need us again, come out into the field and call. We shall hear you and come to your assistance. Good-bye!" "Good-bye!" they all answered.
 
-The mice came from all directions, and there were thou- sands of them: big mice and little mice and middle-sized mice. Each one brought a piece of string in his mouth. Dorothy woke from her long sleep and opened her eyes.
-
-The Scarecrow and the Woodman now began to fasten the mice to the truck. The Lion was heavy, but they managed to get him up on the truck. The Woodman and the Scarecrow both pushed the truck and soon they rolled the Lion out of the poppy bed to the green fields. The Queen of the Mice said, "If ever you need us again, come out into the field and
-
-call. We shall hear you and come to your assistance. Good-bye!" "Good-bye!" they all answered.
-
- 
-
-The Guardian of the Gate
+## The Guardian of the Gate
 
 They all walked through the soft, fresh grass; and it was not long before they reached the road of yellow brick and turned again toward the Emerald City where the great Oz dwelt. Soon they saw a beautiful green glow in the sky just before them.
 
@@ -320,15 +253,11 @@ In front of them, and at the end of the road of yellow brick, was a big gate, al
 
 "It is important," said the Scarecrow; "And we know that Oz is a good Wizard."
 
-
-
 "So he is," said the green man, "and he rules the Emerald City wisely and well. I am the Guardian of the Gates, and since you demand to see the Great Oz I will take you to his palace. But first you must put on the spectacles. If you do not wear spectacles the brightness and glory of the Emerald City will blind you."
 
 He opened the big box, and Dorothy saw that it was filled with spectacles of every size and shape. The Guardian of the gates found a pair, and Dorothy put them over her eyes. Then the green man fitted spectacles for the Scarecrow and the Tin Woodman and the Lion, and even on little Toto. All were **locked fast**1 with the key.
 
- 
-
-The Wonderful Emerald City of Oz
+## The Wonderful Emerald City of Oz
 
 Dorothy and her friends were dazzled by the brilliancy of the wonderful City. The beautiful houses were all built of green marble and studded everywhere with sparkling emeralds. They walked over a pavement of the same green marble. The window panes were of green glass; even the sky above the City had a green tint, and the rays of the sun were green.
 
@@ -338,19 +267,7 @@ There were many people, men, women and children, walking about, and these were a
 
 They passed through the Palace gates and were led into a big room with a green carpet. A bell rang, and the green girl said to Dorothy,
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image002.gif) |
-
-
-
-
-
 1 **locked fast** — запирались
-
-
 
 "That is the signal. You must go into the Throne Room alone."
 
@@ -382,21 +299,15 @@ The eyes winked three times.
 
 "Well," said the Head, "I will send you back to Kansas, and you will do something for me in return. Kill the wicked Witch of the West!"
 
-"But I cannot!" exclaimed Dorothy, greatly surprised. "That is my answer," said the Head; "the Wicked Witch
-
-must be killed. Now go."
+"But I cannot!" exclaimed Dorothy, greatly surprised. "That is my answer," said the Head; "the Wicked Witch must be killed. Now go."
 
 Sorrowfully Dorothy left the Throne Room and went back. Her friends were sorry.
-
-
 
 The next morning the soldier with the green whiskers came to the Scarecrow and said,
 
 "Come with me, for Oz has sent for you."
 
-So the Scarecrow followed him and was admitted into the great Throne Room, where he saw, sitting in the emerald throne, a most lovely lady. She was dressed in green silk gauze and wore a crown of jewels. She looked upon him sweetly, and said, "I am Oz, the Great and Terrible. Who are you, and why
-
-do you seek me?"
+So the Scarecrow followed him and was admitted into the great Throne Room, where he saw, sitting in the emerald throne, a most lovely lady. She was dressed in green silk gauze and wore a crown of jewels. She looked upon him sweetly, and said, "I am Oz, the Great and Terrible. Who are you, and why do you seek me?"
 
 "I am a Scarecrow, stuffed with straw. Therefore I have no brains, and I come to you. Please put brains in my head instead of straw."
 
@@ -416,17 +327,13 @@ The Tin Woodman followed him and came to the great Throne Room. When the Woodman
 
 "Help Dorothy to kill the Wicked Witch of the West," replied the Beast. " When the Witch is dead, come to me, and I will then give you the heart."
 
-
-
 The Tin Woodman returned sorrowfully to his friends and told them of the terrible Beast. The next morning the soldier led the Lion to the great Throne Room.
 
 The Lion passed through the door and saw that before the throne was a Ball of Fire. Then a low, quiet voice came from the Ball of Fire,
 
 "I am Oz, the Great and Terrible. Who are you, and why do you seek me?"
 
-"I am a Cowardly Lion, afraid of everything. Please give me courage, so that I may become the King of Beasts." "Bring me proof that the Wicked Witch is dead, and
-
-that moment I will give you courage."
+"I am a Cowardly Lion, afraid of everything. Please give me courage, so that I may become the King of Beasts." "Bring me proof that the Wicked Witch is dead, and that moment I will give you courage."
 
 The Lion was angry at this speech, but said nothing in reply. He rushed from the room. He told his friends of his terrible interview with the Wizard.
 
@@ -436,15 +343,11 @@ The Lion was angry at this speech, but said nothing in reply. He rushed from the
 
 They decided to start upon their journey the next morning. The Woodman sharpened his axe on a green grindstone and oiled all his joints. The Scarecrow stuffed himself with fresh straw and Dorothy put new paint on his eyes. The green girl, who was very kind to them, filled Dorothy’s basket with food, and fastened a little bell around Toto’s neck with a green ribbon.
 
- 
-
-The Search for the Wicked Witch
+## The Search for the Wicked Witch
 
 The soldier with the green whiskers led them through the streets of the Emerald City until they reached the room where the Guardian of the Gates lived.
 
 "Which road leads to the Wicked Witch of the West?" asked Dorothy.
-
-
 
 "There is no road," answered the Guardian of the Gates. "no one ever wishes to go that way."
 
@@ -454,7 +357,7 @@ In the afternoon the sun shone hot in their faces. So before night Dorothy, Toto
 
 The Wicked Witch of the West had only one eye, yet that was as powerful as a telescope. She saw everywhere. So, as she sat in the door of her castle, she looked around and saw Dorothy with her friends.
 
-There was, in her cupboard, a Golden Cap, with a circle of diamonds and rubies round it. This Golden Cap had a charm. Whoever owns it can call three times upon **the Winged Monkeys**2, who will obey any order. But no person can command these strange creatures more than three times. Twice already the Wicked Witch used the charm of the Cap. She put the cap on. The sky was dark- ened, and a terrible sound was heard in the air. The Wicked Witch was surrounded by a crowd of the Winged Monkeys.
+There was, in her cupboard, a Golden Cap, with a circle of diamonds and rubies round it. This Golden Cap had a charm. Whoever owns it can call three times upon **the Winged Monkeys**2, who will obey any order. But no person can command these strange creatures more than three times. Twice already the Wicked Witch used the charm of the Cap. She put the cap on. The sky was darkened, and a terrible sound was heard in the air. The Wicked Witch was surrounded by a crowd of the Winged Monkeys.
 
 "You have called us for the third and last time. What do you command?"
 
@@ -462,21 +365,9 @@ There was, in her cupboard, a Golden Cap, with a circle of diamonds and rubies r
 
 The Winged Monkeys flew away to the place where Dorothy and her friends were walking. Some of the Monkeys
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **were keeping watch** — несли дозор
 
 2 **the Winged Monkeys** — Крылатые Обезьяны
-
-
 
 seized the Tin Woodman and carried him through the air until they were over a country covered with sharp rocks. Here they dropped the poor Woodman, who fell to the rocks.
 
@@ -484,7 +375,7 @@ Others of the Monkeys caught the Scarecrow, and with their long fingers pulled a
 
 The remaining Monkeys lifted the Lion up and flew away with him to the Witch’s castle, where he was placed in a small yard with a high iron fence around it.
 
-But Dorothy they did not harm at all. The leader of the Winged Monkeys saw the mark of the Good Witch’s kiss upon her forehead and stopped. He ordered the oth- ers not to touch her.
+But Dorothy they did not harm at all. The leader of the Winged Monkeys saw the mark of the Good Witch’s kiss upon her forehead and stopped. He ordered the others not to touch her.
 
 " We dare not harm this little girl," he said to them. "All we can do is to carry her to the castle of the Wicked Witch and leave her there."
 
@@ -500,8 +391,6 @@ The Wicked Witch was both surprised and worried when she saw the mark on Dorothy
 
 This made Dorothy so very angry that she picked up the bucket of water that stood near and dashed it over the Witch. Instantly the wicked woman gave a loud cry of fear, and then the Witch began to shrink and fall away.
 
-
-
 "See what you have done!" the Witch screamed. "Don’t you know water will be the end of me?"
 
 "Of course not," answered Dorothy.
@@ -510,9 +399,7 @@ This made Dorothy so very angry that she picked up the bucket of water that stoo
 
 With these words the Witch fell down in a brown, melted, shapeless mass and began to spread over the clean boards of the kitchen floor. Dorothy then swept it all out the door. The Wicked Witch of the West was destroyed.
 
- 
-
-The Rescue
+## The Rescue
 
 Dorothy unlocked the gate of the Lion’s prison and set him free.
 
@@ -532,15 +419,11 @@ So she called the Winkies to help her, and they came to the tall tree in the bra
 
 The Scarecrow’s clothes fell out of the branches. Dorothy picked them up. The Winkies carried them back to the castle, where they were stuffed with nice, clean straw; and, behold! here was the Scarecrow.
 
-
-
 "Let us go back to Oz, and claim his promise!" said Dorothy.
 
-Dorothy went to the Witch’s cupboard to fill her bas- ket with food for the journey, and there she saw the Golden Cap. She put it on. She did not know anything about the charm of the Golden Cap, but she saw that it was pretty. Then they all started for the Emerald City.
+Dorothy went to the Witch’s cupboard to fill her basket with food for the journey, and there she saw the Golden Cap. She put it on. She did not know anything about the charm of the Golden Cap, but she saw that it was pretty. Then they all started for the Emerald City.
 
- 
-
-The Winged Monkeys
+## The Winged Monkeys
 
 There was no road between the castle of the Wicked Witch and the Emerald City. What to do?
 
@@ -566,8 +449,6 @@ Dorothy looked inside the Golden Cap and saw some words written upon the lining.
 
 "What is your command?"
 
-
-
 "We wish to go to the Emerald City," said the child, "and we have lost our way."
 
 "We will carry you," replied the King.
@@ -578,9 +459,7 @@ The strange creatures set the travelers down carefully before the gate of the Ci
 
 "That was a good ride," said the little girl.
 
- 
-
-The Discovery of Oz, The Terrible.
+## The Discovery of Oz, The Terrible.
 
 The four travelers walked up to the great gate of the Emerald City and rang the bell. The same Guardian of the Gate opened the gate. Then he led them into his little room and locked the spectacles from the great box on all their eyes. Afterward they passed on through the gate into the Emerald City. They all went into the Throne Room of the Great Oz.
 
@@ -602,8 +481,6 @@ Woodman.
 
 "You must keep your promises to us!" exclaimed Dorothy.
 
-
-
 The Lion decided to frighten the Wizard, so he gave a large, loud roar and tipped over the screen that stood in a corner. As it fell with a crash, they saw a little old man, with a bald head and a wrinkled face. The Tin Woodman cried out,
 
 "Who are you?"
@@ -614,9 +491,7 @@ The Lion decided to frighten the Wizard, so he gave a large, loud roar and tippe
 
 Woodman.
 
-"And I thought Oz was a Ball of Fire," exclaimed the Lion. "No, you are all wrong," said the little man, meekly. "I’m
-
-just a common man."
+"And I thought Oz was a Ball of Fire," exclaimed the Lion. "No, you are all wrong," said the little man, meekly. "I’m just a common man."
 
 "You’re a humbug," said the Scarecrow.
 
@@ -638,13 +513,11 @@ He showed the Scarecrow the dress and the mask of the lovely Lady. The Tin Woodm
 
 So they sat down.
 
-
-
-"I was born in Omaha. When I grew up I became a ven- triloquist. I can imitate any kind of a bird or beast. Then I tired of that, and became a **balloonist**1."
+"I was born in Omaha. When I grew up I became a ventriloquist. I can imitate any kind of a bird or beast. Then I tired of that, and became a **balloonist**1."
 
 "What is that?" asked Dorothy.
 
-"A man who goes up in a balloon on circus day," he ex- plained. "One day I went up in a balloon and the ropes got twisted, so that I couldn’t come down again. It went way up above the clouds, and carried it many, many miles away. For a day and a night I traveled through the air, and on the morn- ing of the second day I awoke and found the balloon over a strange and beautiful country. I found myself in the midst of a strange people, who thought I was a great Wizard. I ordered them to build this City, and my palace. They did it all will- ingly and well. Then I decided, as the country was so green and beautiful, to call it the Emerald City. I put green spectacles on all the people, so that everything they saw was green."
+"A man who goes up in a balloon on circus day," he explained. "One day I went up in a balloon and the ropes got twisted, so that I couldn’t come down again. It went way up above the clouds, and carried it many, many miles away. For a day and a night I traveled through the air, and on the morning of the second day I awoke and found the balloon over a strange and beautiful country. I found myself in the midst of a strange people, who thought I was a great Wizard. I ordered them to build this City, and my palace. They did it all willingly and well. Then I decided, as the country was so green and beautiful, to call it the Emerald City. I put green spectacles on all the people, so that everything they saw was green."
 
 "But isn’t everything here green?" asked Dorothy.
 
@@ -654,27 +527,15 @@ So they sat down.
 
 "Oh, no, my dear; I’m really a very good man, but I’m a very bad Wizard, I must admit. But if you will come to me tomorrow, I will help you with your troubles. There is only one thing I ask in return for my help. You must keep my secret and tell no one I am a humbug."
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image002.gif) |
-
-
-
-
-
 1 **balloonist** — воздухоплаватель
 
-
-
-The Magic Art of the Great Humbug
+## The Magic Art of the Great Humbug
 
 "I have come for my brains," said the Scarecrow the next morning.
 
 "Sit down in that chair, please," replied Oz.
 
-The Wizard unfastened his head and emptied out the straw. Then he entered the back room and took up a meas- ure of bran, which he mixed with a great many pins and needles. He filled the top of the Scarecrow’s head with the mixture and stuffed the rest of the space with straw. Then he fastened the Scarecrow’s head on his body again and said to him,
+The Wizard unfastened his head and emptied out the straw. Then he entered the back room and took up a measure of bran, which he mixed with a great many pins and needles. He filled the top of the Scarecrow’s head with the mixture and stuffed the rest of the space with straw. Then he fastened the Scarecrow’s head on his body again and said to him,
 
 "Hereafter you will be a great man, for I have given you a lot of new brains."
 
@@ -694,31 +555,17 @@ The little man went to a cupboard and took a square green bottle, the contents o
 
 The Lion drank till the dish was empty. "How do you feel now?" asked Oz.
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image002.gif) |
-
-
-
-
-
 1 **chest of drawers** — комод
-
-
 
 "Full of courage," replied the Lion.
 
 Oz was glad, because he gave the Scarecrow and the Tin Woodman and the Lion exactly what they wanted. But how to carry Dorothy back to Kansas?
 
- 
-
-How the Balloon was Launched
+## How the Balloon was Launched
 
 "Well," said the little man. "The best way to get across the desert will be through the air. I can make a balloon. If you help me sew the silk together, we will begin to work on our balloon."
 
-So Dorothy took a needle and thread, and Oz cut the strips of silk. It took three days to sew all the strips to- gether. Soon Oz announced that the balloon was ready. He took a big clothes basket, which he fastened with many ropes to the bottom of the balloon.
+So Dorothy took a needle and thread, and Oz cut the strips of silk. It took three days to sew all the strips together. Soon Oz announced that the balloon was ready. He took a big clothes basket, which he fastened with many ropes to the bottom of the balloon.
 
 When it was all ready, the balloon was carried out in front of the Palace. Then Oz got into the basket and said to all the people in a loud voice:
 
@@ -738,9 +585,7 @@ Crack! the balloon rose into the air without her. "Come back!" she screamed. "I 
 
 "Good-bye!" shouted everyone.
 
-
-
-To the South
+## To the South
 
 Dorothy wept bitterly. The Scarecrow decided to think.
 
@@ -780,8 +625,6 @@ The Monkeys stood before her.
 
 "Carry us over the hill to the country of the Quadlings," answered the girl.
 
-
-
 At once the Winged Monkeys caught our friends up in their arms and flew away with them. Soon they set them down in the beautiful country of the Quadlings.
 
 "This is the last time you can summon us," said the leader to Dorothy; "so good-bye and good luck to you."
@@ -790,11 +633,9 @@ At once the Winged Monkeys caught our friends up in their arms and flew away wit
 
 The country of the Quadlings seemed rich and happy. There were good fields, well-paved roads and pretty rippling brooks with strong bridges across them everywhere. The fences and houses and bridges were all painted bright red.
 
- 
+## The Good Witch Grants Dorothy’s Wish
 
-The Good Witch Grants Dorothy’s Wish
-
-Glinda sat upon a throne of rubies. She was both beauti- ful and young. Her dress was pure white, but her eyes were blue, and they looked kindly upon the little girl.
+Glinda sat upon a throne of rubies. She was both beautiful and young. Her dress was pure white, but her eyes were blue, and they looked kindly upon the little girl.
 
 "What can I do for you, my child?" she asked. Dorothy told the Witch all her story.
 
@@ -814,47 +655,29 @@ Dorothy then gave her the Golden Cap, and the Witch said to the Scarecrow,
 
 Turning to the Tin Woodman, she asked:
 
-
-
 " What will become of you when Dorothy leaves this country?"
 
 "The Winkies were very kind to me. I like the Winkies, and if I get back again to the country of the West I shall rule over them forever."
 
 "My second command to the Winged Monkeys," said Glinda, "will be that they carry you safely to the land of the Winkies."
 
-Then the Witch looked at the big, shaggy Lion and asked, "When Dorothy returns home, what will become of you?" "I want to be the King of the Beasts and live in the forest,"
-
-he answered.
+Then the Witch looked at the big, shaggy Lion and asked, "When Dorothy returns home, what will become of you?" "I want to be the King of the Beasts and live in the forest," he answered.
 
 "My third command to the Winged Monkeys," said Glinda, "will be to carry you to your forest. Then I shall give the Golden Cap to the King of the Monkeys, and the Monkeys will be free. And Dorothy’s Silver Shoes will carry her over the desert."
 
-Dorothy thanked Glinda for all the kindness. The girl took Toto up in her arms, and clapped the heels of her shoes to- gether three times,
+Dorothy thanked Glinda for all the kindness. The girl took Toto up in her arms, and clapped the heels of her shoes together three times,
 
 "Take me home to Aunt Em!"
 
- 
+# 2. Ozma Of Oz
 
-\2. Ozma Of Oz
+## The Yellow Hen
 
-The Yellow Hen
-
-A ship was sailing upon the waters. Among these passen- gers was Dorothy Gale, who was going with her Uncle Henry to Australia, to visit some relatives.
+A ship was sailing upon the waters. Among these passengers was Dorothy Gale, who was going with her Uncle Henry to Australia, to visit some relatives.
 
 Dorothy was watching the ocean. Uncle Henry was sleeping downstairs. Suddenly the wind screeched and howled madly. Dorothy ran to a big square **chicken-coop**1. With a scream the
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **chicken-coop** — ящик-клетка для кур
-
-
 
 wind tore away the ropes that held the coop and lifted it high into the air, with Dorothy. Around and over it whirled, this way and that, and a few moments later the chicken-coop dropped far away into the sea, where the big waves caught it.
 
@@ -870,9 +693,7 @@ The little girl discovered a yellow hen in the opposite corner of the coop.
 
 "Dear me!" she exclaimed, in surprise; "have you been here all night, too?"
 
-"Of course," answered the hen. "When the coop blew away from the ship I clung fast to this corner, with claws and beak!" "How do you talk?" said Dorothy. "I thought hens only
-
-clucked and cackled."
+"Of course," answered the hen. "When the coop blew away from the ship I clung fast to this corner, with claws and beak!" "How do you talk?" said Dorothy. "I thought hens only clucked and cackled."
 
 "I’ve clucked and cackled all my life," answered the yellow hen, "and never spoken a word before this morning. But when you asked a question, a minute ago, it was natural to answer you. I always lay a fresh egg every morning. I can’t cackle without eggs and if I don’t cackle I’m not happy."
 
@@ -880,13 +701,9 @@ The hen flew up and perched upon the topmost slat of the coop.
 
 "We are not far from land!" exclaimed the hen.
 
-"Where? Where is it?" cried Dorothy, in great excitement. "Over there," answered the hen. "We are drifting toward it." The land, which they were rapidly approaching, was beau-
-
-tiful. Next to the water was a broad beach of white sand and gravel, and farther back were several rocky hills, while beyond these appeared green trees that marked the edge of a forest.
+"Where? Where is it?" cried Dorothy, in great excitement. "Over there," answered the hen. "We are drifting toward it." The land, which they were rapidly approaching, was beautiful. Next to the water was a broad beach of white sand and gravel, and farther back were several rocky hills, while beyond these appeared green trees that marked the edge of a forest.
 
 "I hope we shall find something to eat," said Dorothy.
-
-
 
 "I’m hungry, myself," declared the yellow hen. "What is your name?" asked the little girl. "My name is Billina,'" said the yellow hen.
 
@@ -900,11 +717,9 @@ Billina showed her the place. Dorothy dug away the sand until she felt something
 
 "It’s metal, sure enough," answered the child. "I think it is pure gold."
 
-Dorothy glanced around. There was no sign of any house in that part of the country. Perhaps the key was lost by somebody. The girl put the key in the pocket of her dress. "Billina," she said, "I’ll walk a little, and see if I can find
+Dorothy glanced around. There was no sign of any house in that part of the country. Perhaps the key was lost by somebody. The girl put the key in the pocket of her dress. "Billina," she said, "I’ll walk a little, and see if I can find some breakfast."
 
-some breakfast."
-
-Letters in the Sand
+## Letters in the Sand
 
 Soon Dorothy saw the letters on the sand. She looked at each letter carefully, and finally discovered the words:
 
@@ -916,19 +731,7 @@ Soon Dorothy saw the letters on the sand. She looked at each letter carefully, a
 
 "Perhaps not," admitted the yellow hen. "Where are you going now?"
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **the Wheelers** — Колесуны
-
-
 
 "Over to those trees, to see if I can find some fruit or nuts," answered Dorothy.
 
@@ -942,7 +745,7 @@ But the next tree was even more wonderful. It bore tin **dinner-pails**1, which 
 
 "What’s that?"
 
-Dorothy turned quickly around, and saw between the trees a peculiar person. It had the form of a man, it walked, or rather rolled, upon all fours, and its legs were the same length as its arms. The person was clothed most gorgeously in em- broidered garments of many colors, and wore a straw hat.
+Dorothy turned quickly around, and saw between the trees a peculiar person. It had the form of a man, it walked, or rather rolled, upon all fours, and its legs were the same length as its arms. The person was clothed most gorgeously in embroidered garments of many colors, and wore a straw hat.
 
 "Run!" screamed the yellow hen, in great fright. "It’s a Wheeler!"
 
@@ -950,29 +753,17 @@ So Dorothy ran, and the Wheeler came after her. The girl now saw a great process
 
 "Climb up this hill, quick!" said the hen.
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **dinner-pails** — жестяные контейнеры для обеда
-
-
 
 Dorothy found she was very near to the heap of loose and jagged rocks. The yellow hen was fluttering among the rocks, and Dorothy followed her.
 
-The Wheelers reached the foot of the hill, but it was evi- dent that their wheels could not roll upon the rough and jag- ged rocks. Therefore they were helpless to follow Dorothy and the hen. The creatures shook their front wheels at Dorothy and several of them shouted,
+The Wheelers reached the foot of the hill, but it was evident that their wheels could not roll upon the rough and jagged rocks. Therefore they were helpless to follow Dorothy and the hen. The creatures shook their front wheels at Dorothy and several of them shouted,
 
 "**We’ll get you in time**1, never fear! And when we get you, we’ll tear you into little bits!"
 
 "Why are you so cruel to me?" asked Dorothy. "I have done you no harm."
 
-"No harm!" cried their leader. "Did you not pick our lunch- boxes and dinner-pails?"
+"No harm!" cried their leader. "Did you not pick our lunchboxes and dinner-pails?"
 
 "I only picked one of each," she answered. "I was hungry, and I didn’t know the trees were yours."
 
@@ -980,9 +771,7 @@ The Wheelers reached the foot of the hill, but it was evi- dent that their wheel
 
 "Don’t believe him," said Billina. "I’m sure the trees do not belong to these awful creatures."
 
- 
-
-Tiktok the Machine Man
+## Tiktok the Machine Man
 
 After an hour or so most of the Wheelers rolled back into the forest. Only three of them stayed to guard the hill. There was a smooth path cut between the rocks. It went around the mound from top to bottom. Dorothy walked up the path, and followed it until she came to the very top of the hill. The path came to an end just beside the great rock. The hen suddenly remarked:
 
@@ -990,33 +779,17 @@ After an hour or so most of the Wheelers rolled back into the forest. Only three
 
 Dorothy took the golden key. She put it into the hole of the rock, and turned it. The rock fell outward and revealed a
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
-1 **We’ll get you in time!** — Рано или поздно мы до вас до- берёмся!
-
-
+1 **We’ll get you in time!** — Рано или поздно мы до вас доберёмся!
 
 small dark chamber just inside. Within the narrow chamber of rock stood a man. His body was round as a ball and made out of burnished copper. Also his head and limbs were copper, and these were jointed or hinged to his body with metal caps over the joints. Dorothy stepped inside the little room and discovered a printed card that hung between his shoulders.
 
 "Listen to this, Billina," said Dorothy. Directions For Using:
 
- 
+**For Thinking:** Wind the Clockwork Man under his left arm,
 
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![Подпись: For Thinking: Wind the Clock- work Man under his left arm, For Speaking: Wind the Clock- work Man under his right arm, For Walking and Action: Wind Clock-work in the middle of his back. ](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image005.gif) |
+**For Speaking:** Wind the Clockwork Man under his right arm,
 
-
-
-
+**For Walking and Action:** Wind Clock-work in the middle of his back.
 
 Dorothy wound up everything. Immediately the clock-work man said,
 
@@ -1026,29 +799,15 @@ Billina understood them perfectly.
 
 "Good morning, sir," they answered, politely. "Why are you locked up in this place?"
 
-"It is a long story," replied the copper man; "A cruel King of Ev, named Evoldo, liked to beat all his servants until they died. He bought me because his beating could not do me any harm. This cruel king had a lovely wife and ten beautiful chil- dren — five boys and five girls. But he sold them all to **the Nome King**1, who by means of his magic arts changed them all into other forms and put them in his underground palace
-
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
+"It is a long story," replied the copper man; "A cruel King of Ev, named Evoldo, liked to beat all his servants until they died. He bought me because his beating could not do me any harm. This cruel king had a lovely wife and ten beautiful children — five boys and five girls. But he sold them all to **the Nome King**1, who by means of his magic arts changed them all into other forms and put them in his underground palace
 
 1 **the Nome King** — Король Гномов
-
-
 
 to ornament the rooms. Afterward the King of Ev regretted his wicked action, and tried to get his wife and children away from the Nome King, but without avail. So, in despair, he locked me up in this rock, threw the key into the ocean, and then jumped in after it and was drowned."
 
 "How dreadful!" exclaimed Dorothy. "What is your name?" "Tiktok," he replied.
 
- 
-
-Dorothy Opens the Dinner Pail
+## Dorothy Opens the Dinner Pail
 
 "Now Tiktok," said Dorothy, "we must find a way to escape from these rocks. The Wheelers are down below and threaten to kill us."
 
@@ -1058,7 +817,7 @@ Dorothy Opens the Dinner Pail
 
 "Don’t be frightened," continued the machine. "They say that they are very terrible, but the Wheelers are harmless enough to anyone that dares to fight them."
 
-Billina was already pecking away to find something to eat. Dorothy sat down and opened her tin dinner-pail. In the cover she found a small tank that was full of very nice lemon- ade. It was covered by a cup. Within the pail were three slices of turkey, two slices of cold tongue, some lobster salad, four slices of bread and butter, a small custard pie, an orange and nine large strawberries, and some nuts and raisins.
+Billina was already pecking away to find something to eat. Dorothy sat down and opened her tin dinner-pail. In the cover she found a small tank that was full of very nice lemonade. It was covered by a cup. Within the pail were three slices of turkey, two slices of cold tongue, some lobster salad, four slices of bread and butter, a small custard pie, an orange and nine large strawberries, and some nuts and raisins.
 
 She began her dinner. She offered some of it to Tiktok, who declined because, as he said, he was merely a machine.
 
@@ -1066,19 +825,7 @@ She began her dinner. She offered some of it to Tiktok, who declined because, as
 
 "Of course not," he answered. "They belong to the royal family of Ev. But of course there is no royal family
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image002.gif) |
-
-
-
-
-
 1 **He’s run down.** — У него кончился завод.
-
-
 
 just now because King Evoldo jumped into the sea and his wife and ten children were transformed by the Nome King. So there is no one to rule the Land of Ev. That’s why the Wheelers pick the luncheons and dinners to eat themselves."
 
@@ -1090,17 +837,15 @@ just now because King Evoldo jumped into the sea and his wife and ten children w
 
 "Par-don me. He is not the king now," said Tiktok. "There was a revolution in the Land of Oz. A soldier woman named General Jinjur deposed the Scarecrow. And then a little girl named Ozma deposed Jinjur. Ozma is the rightful heir to the throne and now rules the land under the title of Ozma of Oz."
 
-Dorothy packed the rest of the food back into the pail. The yellow hen forgot her dignity and picked up the scat- tered crumbs, which she ate rather greedily.
+Dorothy packed the rest of the food back into the pail. The yellow hen forgot her dignity and picked up the scattered crumbs, which she ate rather greedily.
 
 Tiktok approached them with a bow.
 
 "Follow me," he said, "and I will lead you away from here to the town of Evna. Also I will protect you from the Wheelers."
 
-The Heads of Langwidere
+## The Heads of Langwidere
 
-They walked slowly down the path between the rocks. Tiktok was going first, Dorothy was following him, and the yellow hen was trotting along last of all. As soon as the three Wheelers who were guarding the mound saw them, they began to shout their wild cries and rolled swiftly toward the little group. But Tiktok struck a Wheeler a sharp blow over its head with the stick. The Wheeler uttered a howl and tumbled over upon its side. The next minute it scram- bled to its wheels and rolled away fast. The other Wheelers trembled.
-
-
+They walked slowly down the path between the rocks. Tiktok was going first, Dorothy was following him, and the yellow hen was trotting along last of all. As soon as the three Wheelers who were guarding the mound saw them, they began to shout their wild cries and rolled swiftly toward the little group. But Tiktok struck a Wheeler a sharp blow over its head with the stick. The Wheeler uttered a howl and tumbled over upon its side. The next minute it scrambled to its wheels and rolled away fast. The other Wheelers trembled.
 
 "I told you they were harmless," began Tiktok.
 
@@ -1118,37 +863,29 @@ The creature shouted to the others to roll away, which they immediately did.
 
 The Wheeler sobbed,
 
-"Now I and my people are ruined forever! You have dis- covered our secret. Yes, we are helpless. We write in the sand warnings to Beware the Wheelers."
+"Now I and my people are ruined forever! You have discovered our secret. Yes, we are helpless. We write in the sand warnings to Beware the Wheelers."
 
-"Tell me," said Tiktok, "who rules the Land of Ev now?" "There is no ruler," was the answer, "But the Princess Langwidere, who is a niece of our late King Evoldo, lives in a part of the royal palace and spends money of the royal treasury. The Princess Langwidere is not exactly a ruler, because she doesn’t rule. The Princess Langwidere is a different person
+"Tell me," said Tiktok, "who rules the Land of Ev now?" "There is no ruler," was the answer, "But the Princess Langwidere, who is a niece of our late King Evoldo, lives in a part of the royal palace and spends money of the royal treasury. The Princess Langwidere is not exactly a ruler, because she doesn’t rule. The Princess Langwidere is a different person every time I see her. She appears to us in many forms."
 
-every time I see her. She appears to us in many forms."
-
-They passed out of the forest and saw a beautiful vale in which were many fruit trees and green fields, with pretty farm- houses scattered here and there and broad, smooth roads that led in every direction. In the center of this lovely vale, rose the tall spires of the royal palace, which glittered brightly. The machine man permitted the captive to depart. He immediately rolled away.
+They passed out of the forest and saw a beautiful vale in which were many fruit trees and green fields, with pretty farmhouses scattered here and there and broad, smooth roads that led in every direction. In the center of this lovely vale, rose the tall spires of the royal palace, which glittered brightly. The machine man permitted the captive to depart. He immediately rolled away.
 
 Tiktok knocked loudly upon the door. It was opened by a little maid,
 
 "What do you wish, good people?" "May I see the Princess, please?"
 
-
-
-"I will tell her you are here," said the maid. "Step in." Dorothy walked in, followed closely by the machine. "Remain here," the maid said. "What names shall I give
-
-the Princess?"
+"I will tell her you are here," said the maid. "Step in." Dorothy walked in, followed closely by the machine. "Remain here," the maid said. "What names shall I give the Princess?"
 
 "I am Dorothy Gale, of Kansas," replied the child; "and this gentleman is a machine named Tiktok, and the yellow hen is my friend Billina."
 
-Princess Langwidere’s sitting-room was panelled with great mirrors, which reached from the ceiling to the floor. When Langwidere sat in her easy chair and played soft melodies upon her mandolin, her form was mirrored hundreds of times, in walls and ceiling and floor. The Princess slowly walked across the silver floor to her cabinet. She had thirty heads — as many as there are days in the month. But she had only one neck. These heads were kept in her "cabinet," which was a beautiful dressing-room that lay just between Langwidere’s sleeping- chamber and the sitting-room. Each head was in a separate cupboard.
+Princess Langwidere’s sitting-room was panelled with great mirrors, which reached from the ceiling to the floor. When Langwidere sat in her easy chair and played soft melodies upon her mandolin, her form was mirrored hundreds of times, in walls and ceiling and floor. The Princess slowly walked across the silver floor to her cabinet. She had thirty heads — as many as there are days in the month. But she had only one neck. These heads were kept in her "cabinet," which was a beautiful dressing-room that lay just between Langwidere’s sleepingchamber and the sitting-room. Each head was in a separate cupboard.
 
-The Princess went to her cabinet, opened one of the cup- boards, and took the head from the golden shelf. Then she put on the head and afterward called her maids to robe her for the day. The thirty heads were various. There were heads with golden hair, brown hair, rich auburn hair and black hair; but none with gray hair. The heads had eyes of blue, of gray, of hazel, of brown and of black; but there were no red eyes among them, and all were bright and handsome.
+The Princess went to her cabinet, opened one of the cupboards, and took the head from the golden shelf. Then she put on the head and afterward called her maids to robe her for the day. The thirty heads were various. There were heads with golden hair, brown hair, rich auburn hair and black hair; but none with gray hair. The heads had eyes of blue, of gray, of hazel, of brown and of black; but there were no red eyes among them, and all were bright and handsome.
 
 The Princess unlocked the door with her ruby key. She handed the head No. 9 to the maid, and took the head No. 17 from its shelf and fitted it to her neck. It had black hair and dark eyes and a lovely pearl-and-white complexion.
 
-Then the Princess went to meet her guests in the drawing- room. She was greatly disappointed to find that her visitors were merely a small girl, a copper man and a yellow hen.
+Then the Princess went to meet her guests in the drawingroom. She was greatly disappointed to find that her visitors were merely a small girl, a copper man and a yellow hen.
 
-"Oh!" said Langwidere. "I thought of someone more im- portant. Tell me, are you of royal blood?"
-
-
+"Oh!" said Langwidere. "I thought of someone more important. Tell me, are you of royal blood?"
 
 "Better than that, ma’am," said Dorothy. "I came from Kansas."
 
@@ -1168,9 +905,7 @@ She rang a silver bell, and at once a big fat colonel in a bright red uniform en
 
 "Carry that girl to the North Tower and lock her up!" cried the Princess.
 
-Tiktok knocked down seven of the army, when sud- denly the machine paused and remained perfectly motionless. "My action has run down," he called to Dorothy. "Wind
-
-me up, quick."
+Tiktok knocked down seven of the army, when suddenly the machine paused and remained perfectly motionless. "My action has run down," he called to Dorothy. "Wind me up, quick."
 
 She tried to obey, but the big colonel got upon his feet again. He grabbed the girl and she was helpless to escape. They led Dorothy to a high tower at the north of the palace and locked her securely within. Tiktok was so solid and heavy that the soldiers could not move it. So they left him in the center of the drawing-room.
 
@@ -1178,39 +913,25 @@ She tried to obey, but the big colonel got upon his feet again. He grabbed the g
 
 "Some day I’ll fry her for breakfast."
 
-
-
-Ozma of Oz to the Rescue
+## Ozma of Oz to the Rescue
 
 So Dorothy was a prisoner of a disagreeable princess. In the morning she leaned out of the window of her prison in the tower to see if there was any way to escape. The room was not so very high up, but it was far enough above the trees and farm houses. To the east she saw the forest. Then she looked to the north, and saw a deep but narrow valley between two rocky mountains. Westward the fertile Land of Ev suddenly ended a little way from the palace. The girl saw miles and miles of sandy desert. It was this desert, she thought, that separated her from the wonderful Land of Oz.
 
-Something surely was stirring on the desert. A broad green carpet was unrolling itself upon the desert, while ad- vancing across the carpet was a wonderful procession. First came a magnificent golden chariot, drawn by a great Lion and an immense Tiger. And standing upright within the chariot was a beautiful girl. She was wearing a jeweled diadem upon her dainty head.
+Something surely was stirring on the desert. A broad green carpet was unrolling itself upon the desert, while advancing across the carpet was a wonderful procession. First came a magnificent golden chariot, drawn by a great Lion and an immense Tiger. And standing upright within the chariot was a beautiful girl. She was wearing a jeweled diadem upon her dainty head.
 
-Behind the chariot Dorothy saw her old friend the Scare- crow, he was riding a wooden **Sawhorse**1. Then came the Tin Woodman, with his gleaming axe over his right shoulder. The Woodman was marching at the head of a company of twen- ty-seven soldiers.
+Behind the chariot Dorothy saw her old friend the Scarecrow, he was riding a wooden **Sawhorse**1. Then came the Tin Woodman, with his gleaming axe over his right shoulder. The Woodman was marching at the head of a company of twenty-seven soldiers.
 
 Behind the soldiers the green carpet rolled itself up again. It was a magic carpet. Dorothy’s heart was full of hope and joy. Soon she will be rescued and greet her friends of Oz — the Scarecrow, the Tin Woodman and the Cowardly Lion!
 
-As soon as the procession had reached the grassy mead- ows of the Land of Ev, the magic carpet rolled itself to- gether and entirely disappeared. Dorothy gazed from her tower window in eager excitement. They came quite close to the front door of the palace and then halted. The Scarecrow
-
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image002.gif) |
-
-
-
-
+As soon as the procession had reached the grassy meadows of the Land of Ev, the magic carpet rolled itself together and entirely disappeared. Dorothy gazed from her tower window in eager excitement. They came quite close to the front door of the palace and then halted. The Scarecrow
 
 1 **Sawhorse —** Козлы (для пилки дров)
-
-
 
 dismounted from his Sawhorse. Dorothy, just above him, shouted loudly,
 
 "Here I am! Here’s Dorothy! I’m a prisoner. I’m locked in!" she pleaded.
 
-"I am Ruler of the Land of Oz," said the girl with a jew- eled diadem. "I will see the Princess and oblige her to liberate you."
+"I am Ruler of the Land of Oz," said the girl with a jeweled diadem. "I will see the Princess and oblige her to liberate you."
 
 As soon as the maid opened the door, Ozma stepped into the hall and went to the drawing-room.
 
@@ -1222,23 +943,17 @@ As soon as the maid opened the door, Ozma stepped into the hall and went to the 
 
 "Of course," said Langwidere, readily. "I forgot all about her. Come with me, and I will release the prisoner at once."
 
- 
-
-The Hungry Tiger
+## The Hungry Tiger
 
 Dorothy rushed into the embrace of the Scarecrow, whose painted face beamed with delight as he pressed her to his bosom. Then the Tin Woodman embraced her — very gently. Then Dorothy ran to get Billina, and just outside the door she met the Cowardly Lion.
 
-"I’m so glad to see you again!" she cried. "How are you?" "I am also glad to see you, Dorothy," said the Lion. "I am
-
-as cowardly as ever. Every little thing scares me. But let me introduce to you a new friend of mine, the Hungry Tiger."
+"I’m so glad to see you again!" she cried. "How are you?" "I am also glad to see you, Dorothy," said the Lion. "I am as cowardly as ever. Every little thing scares me. But let me introduce to you a new friend of mine, the Hungry Tiger."
 
 "Oh! Are you hungry?" she asked.
 
 "Dreadfully hungry," answered the Tiger. "I’m a savage beast, and have an appetite for all sorts of poor little living creatures, from a chipmunk to fat babies."
 
 "How dreadful!" said Dorothy.
-
-
 
 "Fat babies! Aren’t they delicious?" returned the Hungry Tiger. "But I’ve never eaten any, because my conscience tells me it is wrong."
 
@@ -1254,47 +969,27 @@ She ran around to the back yard of the palace and soon found the chicken house.
 
 "And now," announced the Ruler of Oz, "we will decide the best manner of liberating the royal family of this fair Land of Ev from their long imprisonment."
 
- 
-
-The Royal Family of Ev
+## The Royal Family of Ev
 
 The Tin Woodman said,
 
-" The wife and ten children — five boys and five girls — of the former King of Ev, by name Evoldo, have been enslaved by the Nome King and are held prisoners in his underground palace. Ozma wants to liberate the poor prisoners. For a long time she could not cross the great desert between the two countries. Finally she went to Glinda the Good, who heard the story and at once pre- sented Ozma a magic carpet. This carpet unrolled beneath our feet. Our gracious Ruler ordered me to assemble our army, which I did."
+" The wife and ten children — five boys and five girls — of the former King of Ev, by name Evoldo, have been enslaved by the Nome King and are held prisoners in his underground palace. Ozma wants to liberate the poor prisoners. For a long time she could not cross the great desert between the two countries. Finally she went to Glinda the Good, who heard the story and at once presented Ozma a magic carpet. This carpet unrolled beneath our feet. Our gracious Ruler ordered me to assemble our army, which I did."
 
 "My uncle Evoldo was a very wicked man," declared the Princess Langwidere. "He sold them to the powerful Nome King in exchange for a long life, and afterward destroyed the life."
 
 " Where are they confined?" asked Ozma.
 
-"No one knows, exactly," replied the Princess. "For the king, whose name is Roquat of the Rocks, owns a splendid
-
-
-
-palace underneath the great mountain which is at the north end of this kingdom. He has transformed the queen and her children into ornaments and **bric-a-brac**1 to decorate his rooms. This King is the Ruler of the Underground World. Under his rule are many thousands of the Nomes. They make gold and silver and other metals which they conceal in the crevices of the rocks. Also they make dia- monds and rubies and emeralds, which they hide in the ground. So the kingdom of the Nomes is wonderfully rich." "Then," said Ozma, "we will start for the Kingdom of
-
-the Nomes tomorrow."
+"No one knows, exactly," replied the Princess. "For the king, whose name is Roquat of the Rocks, owns a splendid palace underneath the great mountain which is at the north end of this kingdom. He has transformed the queen and her children into ornaments and **bric-a-brac**1 to decorate his rooms. This King is the Ruler of the Underground World. Under his rule are many thousands of the Nomes. They make gold and silver and other metals which they conceal in the crevices of the rocks. Also they make diamonds and rubies and emeralds, which they hide in the ground. So the kingdom of the Nomes is wonderfully rich." "Then," said Ozma, "we will start for the Kingdom of the Nomes tomorrow."
 
 Ozma was the only child of the former Ruler of Oz, and was entitled to rule in his place. Ozma had many adventures before she regained her father’s throne. The Scarecrow and the Tin Woodman assisted her. The Cowardly Lion, who ruled the great forest as the King of Beasts, knew nothing of Ozma until after she became the princess of Oz. Then he journeyed to the Emerald City to see her, and begged to go with her to set free the royal family. He brought along his friend, the Hungry Tiger, as well.
 
-Dorothy related to them her own adventures, and then went out with her friends to find the Sawhorse. The Saw- horse was standing motionless beside the garden gate. He bowed politely.
+Dorothy related to them her own adventures, and then went out with her friends to find the Sawhorse. The Sawhorse was standing motionless beside the garden gate. He bowed politely.
 
-Before daybreak everyone was awake. First rode Ozma, with Dorothy beside her in the golden chariot and holding Billina fast in her arms. Then came the Scarecrow on the Sawhorse, with the Tin Woodman and Tiktok just behind him. After these tramped the Army, brave and handsome in their splendid uniforms. The generals commanded the colonels and the colonels commanded the majors and the majors commanded the captains and the captains com- manded the private.
-
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image002.gif) |
-
-
-
-
+Before daybreak everyone was awake. First rode Ozma, with Dorothy beside her in the golden chariot and holding Billina fast in her arms. Then came the Scarecrow on the Sawhorse, with the Tin Woodman and Tiktok just behind him. After these tramped the Army, brave and handsome in their splendid uniforms. The generals commanded the colonels and the colonels commanded the majors and the majors commanded the captains and the captains commanded the private.
 
 1 **bric-a-brac** — безделушки
 
-
-
-The Nome King
+## The Nome King
 
 By and by they drew near to the furthermost edge of the Kingdom of Ev. They saw a big mountain. Dorothy stepped forward and said:
 
@@ -1314,17 +1009,13 @@ They passed through the arched doorway of rock and entered a long passage. Then 
 
 "Yes, indeed!" answered Ozma, eagerly.
 
-"Then," said the Nome King, "I will make you this offer. You will go alone into my palace and examine carefully all that the rooms contain. Then you will have permission to touch eleven different objects, pronouncing at the time the word 'Ev'. If any one of them is the transformation of the Queen of Ev or any of her ten children, then they will instantly be restored to their true forms and may leave my palace and my kingdom. It is possible for you to free the entire eleven. If you do not guess all the objects correctly, then each one of your friends and followers may enter the palace and have the same privi- leges I grant you."
-
-
+"Then," said the Nome King, "I will make you this offer. You will go alone into my palace and examine carefully all that the rooms contain. Then you will have permission to touch eleven different objects, pronouncing at the time the word 'Ev'. If any one of them is the transformation of the Queen of Ev or any of her ten children, then they will instantly be restored to their true forms and may leave my palace and my kingdom. It is possible for you to free the entire eleven. If you do not guess all the objects correctly, then each one of your friends and followers may enter the palace and have the same privileges I grant you."
 
 "Oh, thank you!" said Ozma, eagerly.
 
-"But if none of the eleven objects you touch is the trans- formation of any of the royal family of Ev, then you will yourself become enchanted, and transformed into an article of bric-a-brac or an ornament," added the Nome King.
+"But if none of the eleven objects you touch is the transformation of any of the royal family of Ev, then you will yourself become enchanted, and transformed into an article of bric-a-brac or an ornament," added the Nome King.
 
- 
-
-The Eleven Guesses
+## The Eleven Guesses
 
 "Don’t you do it!" exclaimed Dorothy. "If you guess wrong, you will be enslaved yourself."
 
@@ -1332,27 +1023,23 @@ The Eleven Guesses
 
 "Come along, then, my dear," said the King, climbing down from his throne with some difficulty, because he was fat; "I’ll show you the way."
 
-He approached a wall of the cave and waved his hand. In- stantly an opening appeared, through which Ozma boldly passed. She found herself in a splendid hall. The ceilings were composed of great arches that rose far above her head. Ozma passed from one room to another. Upon the mantels, and on many shelves and brackets and tables, were clustered ornaments, made out of all sorts of metals, glass, china, stones and marbles. There were vases, and figures of men and animals, and graven platters and bowls, and mosaics of precious gems, and many other things. Pictures, too, were on the walls, and the underground palace was a museum of rare and curious and costly objects.
+He approached a wall of the cave and waved his hand. Instantly an opening appeared, through which Ozma boldly passed. She found herself in a splendid hall. The ceilings were composed of great arches that rose far above her head. Ozma passed from one room to another. Upon the mantels, and on many shelves and brackets and tables, were clustered ornaments, made out of all sorts of metals, glass, china, stones and marbles. There were vases, and figures of men and animals, and graven platters and bowls, and mosaics of precious gems, and many other things. Pictures, too, were on the walls, and the underground palace was a museum of rare and curious and costly objects.
 
-Ozma began to wonder which of all the numerous orna- ments were the transformations of the royal family of Ev. She looked at a silver candelabra that had ten branches, and thought: "This may be the Queen of Ev and her ten children." So she touched it and uttered aloud the word "Ev". But the candelabra remained as it was before.
+Ozma began to wonder which of all the numerous ornaments were the transformations of the royal family of Ev. She looked at a silver candelabra that had ten branches, and thought: "This may be the Queen of Ev and her ten children." So she touched it and uttered aloud the word "Ev". But the candelabra remained as it was before.
 
 Then she wandered into another room and touched a china lamb. But again she was unsuccessful. Three guesses; four guesses; five, six, seven, eight, nine and ten she made, and still not one of them was right!
-
-
 
 The girl shivered a little and grew pale. She resolved not to be hasty, and strolled through all the rooms. Finally, she shut her eyes tightly, and then advanced blindly. Her hand came in contact with an object upon a small round table. She did not know what it was, but she pronounced the word "Ev."
 
 The Nome King has gained a new ornament. Upon the edge of the table rested a pretty grasshopper from a single emerald. It was all that remained of Ozma of Oz.
 
-In the throne room the Nome King suddenly smiled. "Next!" he said, in his pleasant voice. "The next may have
-
-twelve guesses, instead of eleven, for there are now twelve persons transformed into ornaments."
+In the throne room the Nome King suddenly smiled. "Next!" he said, in his pleasant voice. "The next may have twelve guesses, instead of eleven, for there are now twelve persons transformed into ornaments."
 
 "I’ll go," said the Tin Woodman.
 
 And then he followed the Nome King to the entrance to the palace.
 
-The Nome King Laughs
+## The Nome King Laughs
 
 In a moment the King returned to his throne and lighted his pipe.
 
@@ -1366,15 +1053,11 @@ The little Kansas girl was now left alone with the Scarecrow, Tiktok, and the pr
 
 "Next!" called the King, and the private shook hands with Dorothy and the Scarecrow and passed through the rocky portal.
 
-
-
 "I love ornaments," laughed the Nome King, "but I can wait until tomorrow to get more of them."
 
 Of course the private guessed wrongly, and of course he at once became an ornament. The King was greatly pleased. Everybody went to sleep.
 
- 
-
-Dorothy and Evring
+## Dorothy and Evring
 
 Meantime the Chief Steward came to the King.
 
@@ -1386,7 +1069,7 @@ Billina listened carefully to all this talk.
 
 "You are acting foolishly," continued the Steward, roughly; "and it is still more foolish of you to transform all those people from Oz into green ornaments."
 
-"I did that because they came from the Emerald City," replied the King; "and I had no green ornaments in my collec- tion until now."
+"I did that because they came from the Emerald City," replied the King; "and I had no green ornaments in my collection until now."
 
 "You are the King," the Steward growled. "You wear the magic belt which enables you to work all your transformations, and gives you so much other power, that’s true. But you are not a very wise King. What color will you make the Kansas girl?"
 
@@ -1398,9 +1081,7 @@ Billina listened carefully to all this talk.
 
 Then the King and his Steward left the room. The hen tucked her head under her wing again and went to sleep.
 
-
-
-In the morning Dorothy and the Lion and Tiger ate break- fast in their rooms, and afterward joined the King in his throne room. The Nome King opened the door for the machine man. Then his Majesty returned to his throne. Dorothy was the next. She passed through the doorway into the gorgeous rooms of the palace. It was a beautiful place; but enchantments lurked in every nook and corner. Dorothy walked through all the rooms once more, and examined with care all the objects they contained. Timidly she touched an alabaster bowl and said: "Ev."
+In the morning Dorothy and the Lion and Tiger ate breakfast in their rooms, and afterward joined the King in his throne room. The Nome King opened the door for the machine man. Then his Majesty returned to his throne. Dorothy was the next. She passed through the doorway into the gorgeous rooms of the palace. It was a beautiful place; but enchantments lurked in every nook and corner. Dorothy walked through all the rooms once more, and examined with care all the objects they contained. Timidly she touched an alabaster bowl and said: "Ev."
 
 "That’s one failure, anyhow," she thought.
 
@@ -1412,13 +1093,11 @@ Next she touched the image of a purple kitten that stood on the corner of a mant
 
 She seized the child’s hand and eagerly hurried here and there. The third guess was another failure, and so was the fourth and the fifth. But Dorothy was filled with joy because she saved one member of the royal family of Ev.
 
- 
-
-Billina Frightens the Nome King
+## Billina Frightens the Nome King
 
 A shrill voice suddenly cried,
 
-"Kut, kut, kut — ka-daw-kutt! Kut, kut, kut — ka-daw- kutt!"
+"Kut, kut, kut — ka-daw-kutt! Kut, kut, kut — ka-daw-kutt!"
 
 The Nome King nearly jumped off his seat, he was so startled.
 
@@ -1426,21 +1105,19 @@ The Nome King nearly jumped off his seat, he was so startled.
 
 "I’ve got a right to cackle, I guess," replied Billina. "I’ve just laid my egg.'
 
-"But don’t you know that eggs are poison?" roared the King. "Eggs belong to the outside world. Here, in my under- ground kingdom, they are poison. Take it away at once!"
+"But don’t you know that eggs are poison?" roared the King. "Eggs belong to the outside world. Here, in my underground kingdom, they are poison. Take it away at once!"
 
-
-
-"I’ll take the egg," said the Scarecrow. "I’m making a col- lection of Billina’s eggs."
+"I’ll take the egg," said the Scarecrow. "I’m making a collection of Billina’s eggs."
 
 A moment later the doors flew open and Dorothy entered, leading the little Prince Evring by the hand.
 
-Dorothy’s success greatly encouraged the Scarecrow. How- ever, he was as unfortunate as the others except Dorothy. So he became a solid gold **card-receiver**1.
+Dorothy’s success greatly encouraged the Scarecrow. However, he was as unfortunate as the others except Dorothy. So he became a solid gold **card-receiver**1.
 
 "It is my turn, now," said Billina, briskly.
 
 "Then go ahead, you absurd feathered fool!" grumbled the King.
 
-Purple, Green and Gold
+## Purple, Green and Gold
 
 The yellow hen walked slowly over the rich velvet carpets of the splendid palace. She was examining everything she met with her sharp little eyes. As she went through the rooms she counted the purple ornaments; and although some were small and hidden in queer places, Billina found them all. The yellow hen returned to a large purple footstool. She placed a claw upon this and said "Ev". At once the footstool vanished and a lovely lady, tall and slender, stood before her.
 
@@ -1456,19 +1133,7 @@ She walked into the next room. The Queen followed her. The hen approached one of
 
 Then she disenchanted another girl, whom the Queen addressed as Evrose, and afterwards a boy named Evardo, who
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **card-receiver** — подставка для визитных карточек
-
-
 
 was older than his brother Evring. Soon five Princesses and four Princes stood in a row beside their happy mother. The Princesses were named, Evanna, Evrose, Evella, Evirene and Evedna, while the Princes were Evrob, Evington, Evardo and Evroland. Of these Evardo was the eldest. He was a grave and quiet youth.
 
@@ -1488,17 +1153,11 @@ Soon the Scarecrow and the machine man were discovered.
 
 But they could not find the Tin Woodman.
 
-"We will return to the Nome King," said Ozma, at last. As they reached the hall the doors flew open before them;
+"We will return to the Nome King," said Ozma, at last. As they reached the hall the doors flew open before them; but then they all stopped and stared into the domed cavern with faces of astonishment and dismay. For the room was filled with the warriors of the Nome King. And in the center of this terrible army sat the little King upon his throne of rock.
 
-but then they all stopped and stared into the domed cavern with faces of astonishment and dismay. For the room was filled with the warriors of the Nome King. And in the center of this terrible army sat the little King upon his throne of rock.
-
- 
-
-The Scarecrow wins the fight
+## The Scarecrow wins the fight
 
 Dorothy was filled with joy. She was also amazed at Billina’s success. But King roared at the girl like a savage beast. At once the army marched up into the throne room. They nearly filled the throne room.
-
-
 
 "Seize that girl!" shouted the King to his captain.
 
@@ -1508,7 +1167,7 @@ At that moment the doors opened. The people of Ev and the people of Oz came in.
 
 "No!" answered Billina, from the Scarecrow’s shoulder. "You promised me that if I guessed correctly my friends and I might depart in safety."
 
-"But," retorted the King; "but you cannot leave my domin- ions. You are my prisoners, and I will hurl you all into my underground dungeons."
+"But," retorted the King; "but you cannot leave my dominions. You are my prisoners, and I will hurl you all into my underground dungeons."
 
 The Scarecrow drew one of Billina’s eggs from his right jacket pocket and hurled it straight at the little monarch’s head. It struck him squarely in his left eye, where the egg smashed and scattered.
 
@@ -1518,39 +1177,21 @@ The Scarecrow drew one of Billina’s eggs from his right jacket pocket and hurl
 
 The warriors tumbled over one another. They rushed down the winding stair, fell off the balcony into the great cavern beneath, knocked over those who stood below them.
 
-Billina flew over to Dorothy and whispered eagerly to the
-
-girl,
-
-"Get his belt! Get the Nome King’s jeweled belt! Quick,
-
-Dorothy, quick!"
+Billina flew over to Dorothy and whispered eagerly to the girl, "Get his belt! Get the Nome King’s jeweled belt! Quick, Dorothy, quick!"
 
 Dorothy obeyed. She ran at once behind the Nome King, and unbuckled his splendid jeweled belt and carried it away. Then she fastened it around her own slim waist.
 
-"I’ll transform you all into scorpions!" cried the King an- grily.
+"I’ll transform you all into scorpions!" cried the King angrily.
 
 He waved his arms and muttered magic words. But none of the people became scorpions.
 
 "What’s wrong?" he asked.
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **Run for your lives!** — Спасайся кто может!
-
-
 
 "You are not wearing your magic belt," replied the Chief Steward.
 
-"It’s gone," the Nome King cried, helplessly. "I am ru- ined!"
+"It’s gone," the Nome King cried, helplessly. "I am ruined!"
 
 Dorothy now stepped forward and said:
 
@@ -1558,9 +1199,7 @@ Dorothy now stepped forward and said:
 
 Dorothy waved her hand and whispered a command to the magic belt. Instantly the warriors became eggs, which rolled upon the floor of the cavern.
 
- 
-
-The King of Ev
+## The King of Ev
 
 The travelers found Ozma’s golden chariot. There was enough room for Ozma and the Queen and six of the royal children.
 
@@ -1580,27 +1219,13 @@ Billina touched the whistle and said "Ev."
 
 Then the Queen took her eldest son out upon a balcony and said to her people,
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **Before long** — вскоре
-
-
 
 "Here is your future ruler, King Evardo. He will rule the land of Ev."
 
 The people shouted their approval, and even the Wheelers loudly promised to obey the new King.
 
- 
-
-Dorothy’s Magic Belt
+## Dorothy’s Magic Belt
 
 Dorothy decided to accept Ozma’s invitation to return with her to the Land of Oz. The little girl was anxious to see once more this country. When they approached the edge of the dangerous desert, Ozma threw down the magic carpet, which at once unrolled far enough for all of them to walk upon it.
 
@@ -1620,8 +1245,6 @@ The picture showed Australia, where, in a pleasant room in Sydney, Uncle Henry w
 
 "Oh!" cried Dorothy, in an anxious voice, "I’m sure Uncle Henry isn’t well because he is worried about me. Ozma, dear, I must go to him at once!"
 
-
-
 "How can you?" asked Ozma.
 
 "I don’t know," replied Dorothy; "but let us go to Glinda the Good. I’m sure she will help me."
@@ -1640,15 +1263,13 @@ Dorothy kissed Ozma, and then handed her the Nome King’s magic belt and said,
 
 "Now, dear Princess, I’m awfully sorry to leave you — and the Scarecrow — and the Tin Woodman — and the Cowardly Lion — and Tiktok — and everybody — but I want to go back to Uncle Henry! So good-bye, all of you!"
 
-Then the little girl closed her eyes and waved her hand- kerchief.
+Then the little girl closed her eyes and waved her handkerchief.
 
 Uncle Henry smiled and cuddled his little niece close in his lap.
 
- 
+# 3. Dorothy and the Wizard in Oz
 
-\3. Dorothy and the Wizard in Oz
-
-The Earthquake
+## The Earthquake
 
 The train from Frisco was very late. It was already five o’clock when the little train slowly rumbled up to the station. Dorothy saw a horse and buggy. She walked toward it. The horse was tied to a tree and standing motionless. The girl saw a boy on the seat, he was sleeping. Presently he woke up.
 
@@ -1656,23 +1277,19 @@ The train from Frisco was very late. It was already five o’clock when the litt
 
 "Yes," she answered. "And this is Eureka, my kitten."
 
-
-
 The boy nodded.
 
 "My horse’s name is Jim. I work for Uncle Bill on his ranch. My name is Zeb. Uncle Henry asked me to meet you. How long will you be with us?"
 
 "Only a day. Tomorrow Uncle Henry and I must start back for Kansas."
 
-The boy wanted to say something to his little companion, when the ground opened in a wide crack and then came to- gether again.
+The boy wanted to say something to his little companion, when the ground opened in a wide crack and then came together again.
 
 "Goodness!" she cried. "What was that?"
 
-"That was an earthquake," replied Zeb, with a white face. The earth shook violently. Jim trembled like a leaf. Sud- denly the earth split into another great crack just beneath the spot where the horse was standing. With a wild neigh of terror the animal fell into the pit, drawing the buggy and its occupants
+"That was an earthquake," replied Zeb, with a white face. The earth shook violently. Jim trembled like a leaf. Suddenly the earth split into another great crack just beneath the spot where the horse was standing. With a wild neigh of terror the animal fell into the pit, drawing the buggy and its occupants after him.
 
-after him.
-
-The Glass City
+## The Glass City
 
 When Dorothy recovered her senses they were still falling. Dorothy was greatly bewildered. But **by and by**1 she began to dimly see the form of the horse Jim. The girl leaned her head over the side of the buggy and saw the strange light. Far below her she found six great glowing balls suspended in the air. The central and largest one was white, and reminded her of the sun.
 
@@ -1684,19 +1301,7 @@ Dorothy and Zeb looked at one another in wonder. "Can your horse talk?" she aske
 
 The children looked down. Yes; there was land below them; and not so very far away. They saw a landscape with mountains and plains, lakes and rivers. Here and there were groups of
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **by and by** — понемногу, постепенно
-
-
 
 houses that seemed made of clear glass, because they sparkled so brightly.
 
@@ -1718,65 +1323,37 @@ Zeb advanced slowly to the edge of the roof. He put one foot out and let it rest
 
 "Come on, Jim!" called the boy. "It’s all right."
 
-"Well, well!" said Dorothy, "What a strange country this
+"Well, well!" said Dorothy, "What a strange country this is."
 
-is."
-
-People began to come out of the glass doors to look at
-
-them. There were men and women, but no children at all. The folks were all attractively dressed and had wonderfully hand- some faces. A man said to Zeb,
+People began to come out of the glass doors to look at them. There were men and women, but no children at all. The folks were all attractively dressed and had wonderfully handsome faces. A man said to Zeb,
 
 "Tell me, intruder, was it you who caused the Rain of Stones? I am the Prince of this Land."
 
-"No, sir; we didn’t cause anything. It was the earthquake." "The Rain of Stones has done much damage to our city,"
-
-the man said; "you will be responsible for it unless you can
-
-
-
-prove your innocence. You must go to the House of the Sorcerer, who will soon discover the truth."
+"No, sir; we didn’t cause anything. It was the earthquake." "The Rain of Stones has done much damage to our city," the man said; "you will be responsible for it unless you can prove your innocence. You must go to the House of the Sorcerer, who will soon discover the truth."
 
 He turned and walked down the street. Dorothy caught Eureka in her arms and climbed into the buggy. The boy took his seat beside her. Slowly they moved down one street and up another, until they came to an open square in the center of which was a big glass palace.
 
- 
-
-The Arrival Of The Wizard
+## The Arrival Of The Wizard
 
 The doorway of the glass palace was quite big enough for the horse and buggy to enter. Zeb drove straight through it and the children found themselves in a lofty hall that was very beautiful. The people at once followed and formed a circle around the sides of the spacious room.
 
-"Come to us, oh, Gwig!" called the man, in a loud voice. Instantly a cloud of smoke appeared and rolled over the floor. Then it slowly spread and ascended into the dome, disclosing a strange personage upon a glass throne. His clothing was bright yellow. But he had no hair at all, and all over his bald head and face and upon the backs of his hands grew sharp thorns. There was even a thorn upon the
-
-tip of his nose.
+"Come to us, oh, Gwig!" called the man, in a loud voice. Instantly a cloud of smoke appeared and rolled over the floor. Then it slowly spread and ascended into the dome, disclosing a strange personage upon a glass throne. His clothing was bright yellow. But he had no hair at all, and all over his bald head and face and upon the backs of his hands grew sharp thorns. There was even a thorn upon the tip of his nose.
 
 "Why have you dared to intrude your unwelcome persons into **the** secluded **Land of the Mangaboos**1?" he asked, sternly. "Why did you wickedly and viciously send the Rain of Stones to crack and break our houses?"
 
 "We didn’t," declared the girl. "Prove it!" cried the Sorcerer.
 
-"We don’t have to prove it," answered Dorothy, indig- nantly. "It was the earthquake."
+"We don’t have to prove it," answered Dorothy, indignantly. "It was the earthquake."
 
 Just then a man ran into the hall and addressed the Prince. "More wonders in the air, my Lord," said he.
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **the** **Land of the Mangaboos** — Страна Мангабу
-
-
 
 Immediately the Prince and all of his people went out of the hall into the street. Dorothy and Zeb jumped out of the buggy and ran after them. Far up in the air was a balloon. It was descending slowly through the air. Gradually the balloon grew bigger and bigger. The girl saw a basket below it. A little man jumped out of the basket, and bowed very gracefully to the crowd of Mangaboos around him. He was quite an old little man and his head was entirely bald.
 
 "Why," cried Dorothy, in amazement, "it’s Oz!"
 
-"Yes, my dear; I am Oz, the Great and Terrible. Eh? And you are little Dorothy, from Kansas. I remember you very well." "Sir," said the Prince, "why are you here, in the Land of
-
-the Mangaboos?"
+"Yes, my dear; I am Oz, the Great and Terrible. Eh? And you are little Dorothy, from Kansas. I remember you very well." "Sir," said the Prince, "why are you here, in the Land of the Mangaboos?"
 
 "I didn’t know what land it was," said the man, with a pleasant smile; "I live on the earth; but yesterday I went up in a balloon, and when I came down I fell into a big crack in the earth, caused by an earthquake. I could not rise again, and in a few minutes the earth closed over my head. So I continued to descend until I reached this place."
 
@@ -1793,8 +1370,6 @@ Now was the Wizard’s turn.
 "Very good," remarked the Wizard. "Now, good people, observe me carefully. You see, there is nothing up my sleeve and nothing concealed about my person. Also, my hat is quite empty."
 
 He took off his hat and held it upside down. "Let me see it," said the Sorcerer.
-
-
 
 He took the hat and examined it carefully.
 
@@ -1818,11 +1393,7 @@ He caught two of the piglets and pushed them together, so that the two were one.
 
 The Wizard lost no time, but leapt forward and raised the sharp sword, whirled it once or twice and then cut the body of the Sorcerer exactly in two.
 
-The two halves of the Sorcerer fell apart on the floor. Dorothy saw that he had no bones or blood inside of him at
-
-
-
-all. The place where he was cut looked much like a sliced turnip or potato.
+The two halves of the Sorcerer fell apart on the floor. Dorothy saw that he had no bones or blood inside of him at all. The place where he was cut looked much like a sliced turnip or potato.
 
 "Why, he’s vegetable!" cried the Wizard, astonished.
 
@@ -1836,9 +1407,7 @@ all. The place where he was cut looked much like a sliced turnip or potato.
 
 "If you accompany me to our public gardens," replied the Prince, "I will tell you the mysteries of our Vegetable Kingdom."
 
- 
-
-The Vegetable Kingdom
+## The Vegetable Kingdom
 
 The man with the star ordered some of his people to carry the two halves of the Sorcerer to the public gardens. The procession came upon a broad plain with gardens and many pretty brooks. There were paths through these gardens. Dorothy and Zeb got out of the buggy and walked beside the Prince.
 
@@ -1853,8 +1422,6 @@ The man with the star ordered some of his people to carry the two halves of the 
 They passed through many beautiful gardens of flowers. The colors were constantly changing under the six suns. A flower was pink one second, white the next, then blue or yellow.
 
 Several Mangaboos came forward with glass spades and dug a hole in the ground. Then they put the two halves of the
-
-
 
 Sorcerer into it and **covered him up**1. After that other people brought water from a brook and sprinkled the earth.
 
@@ -1876,19 +1443,11 @@ He led them within a circle of hedge, where grew one large and beautiful bush.
 
 "This," said he, "is the Royal Bush of the Mangaboos. All of our Princes and Rulers grow upon this bush."
 
-On the central stalk Dorothy saw a sweet and adorable
-
-
-
-girl.
-
-
+On the central stalk Dorothy saw a sweet and adorable girl.
 
 "Who is this?" asked the Wizard, curiously. The Prince answered, with uneasiness,
 
 "She is the Ruler, my successor, for she is a Royal Princess.
-
-
 
 When she becomes fully ripe I must abandon the sovereignty of the Mangaboos to her."
 
@@ -1898,27 +1457,13 @@ When she becomes fully ripe I must abandon the sovereignty of the Mangaboos to h
 
 "I’m sure the Princess is ready to be picked," asserted Dorothy.
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **covered him up** — забросали его сверху землёй
-
-
 
 "What are you going to do with us?" asked Zeb.
 
 "I have not quite decided," was the reply. "I think I shall keep this Wizard until a new Sorcerer is ready to pick. But the rest of you must be destroyed. You cannot be planted, because I do not wish horses and cats and meat people in our country. Follow me, please, to meet your doom."
 
- 
-
-Dorothy Picks the Princess
+## Dorothy Picks the Princess
 
 The Prince turned away and left the enclosure. The Wizard touched Dorothy softly on her shoulder.
 
@@ -1936,13 +1481,11 @@ The beautiful creature made a gracious bow and said, in a sweet voice,
 
 "We salute your Royal Highness!" cried the Wizard.
 
-Just then the Prince returned to the enclosure. In- stantly the Princess turned and faced him. When he saw that she was picked the Prince began to tremble.
+Just then the Prince returned to the enclosure. Instantly the Princess turned and faced him. When he saw that she was picked the Prince began to tremble.
 
 "Sir," said the Royal Lady, with much dignity, "you wronged me greatly but these strangers rescued me. Give me the Star of Royalty!"
 
 Slowly he took the shining star from his forehead and placed it upon that of the Princess. Then all the people bowed to her, and the Prince turned and walked away.
-
-
 
 The people of Mangaboo marched toward the glass city to escort their new ruler to her palace. No one paid any attention to the strangers, so Dorothy and Zeb and the Wizard wandered by themselves into the vegetable gardens. In the vegetable gardens they found the strawberries and melons, and several other unknown but delicious fruits. But the kitten demanded milk or meat. Eureka said,
 
@@ -1974,9 +1517,7 @@ The Wizard put the piglets back into his inside pocket where they went to sleep.
 
 "I think, in the House of the Sorcerer," replied the Wizard.
 
-
-
-The Mangaboos Prove Dangerous
+## The Mangaboos Prove Dangerous
 
 The Wizard had a good sleep, felt rested and refreshed.
 
@@ -1994,11 +1535,9 @@ The boy went willingly.
 
 Just then they heard the voice of Jim. The Princess and a throng of her people entered the House of the Sorcerer. So they went down to greet the beautiful vegetable lady, who said to them,
 
-"We have decided that you, meat people, must not remain in the Land of the Mangaboos. You must be destroyed. We shall throw you three people into **the Garden of the Twin- ing Vines**1," said the Princess, "and they will soon crush you and devour your bodies. Then we will drive your animals to the mountains and put into the Black Pit."
+"We have decided that you, meat people, must not remain in the Land of the Mangaboos. You must be destroyed. We shall throw you three people into **the Garden of the Twining Vines**1," said the Princess, "and they will soon crush you and devour your bodies. Then we will drive your animals to the mountains and put into the Black Pit."
 
-"But you need a Sorcerer," said the Wizard. "Why destroy
-
-us?"
+"But you need a Sorcerer," said the Wizard. "Why destroy us?"
 
 "It is true we need a Sorcerer," acknowledged the Princess,
 
@@ -2006,19 +1545,7 @@ us?"
 
 For two or three days after this our friends were not disturbed. But one night the room suddenly filled with the silent Mangaboos. Each bore a branch with sharp thorns.
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **the Garden of the Twining Vines** — Сад Ползучих Лиан
-
-
 
 The Mangaboos surrounded Jim, the kitten and the piglets. Slowly but steadily the heartless Mangaboos drove them on, until they passed through the city and the gardens and came to the broad plains leading to the mountain.
 
@@ -2026,7 +1553,7 @@ The Mangaboos surrounded Jim, the kitten and the piglets. Slowly but steadily th
 
 "They are driving us toward the Black Pit," replied the kitten.
 
-Into the Black Pit and Out Again
+## Into the Black Pit and Out Again
 
 The mountain was a rugged, towering chunk of deep green glass, and looked dismal. Half way up the steep was a yawning cave, black as night. The Mangaboos drove the horse and the kitten and the piglets into this dark hole and then pushed the buggy in after them.
 
@@ -2034,13 +1561,9 @@ The mountain was a rugged, towering chunk of deep green glass, and looked dismal
 
 "Why didn’t we call the Wizard and Dorothy when we were attacked?" said Eureka. "I will go and tell our masters where you are."
 
-The kitten escaped: it mounted about a hundred feet above the earth and ran to the House of the Sorcerer. There she entered in at Dorothy’s window in the dome and aroused her from her sleep. The little girl awakened the Wizard and Zeb, and at once they were ready to go to save Jim and the piglets. The Mangaboos discovered them as soon as they left the House of the Sorcerer. But the vegetable people allowed them to proceed without interference, yet followed in a crowd behind
-
-them.
+The kitten escaped: it mounted about a hundred feet above the earth and ran to the House of the Sorcerer. There she entered in at Dorothy’s window in the dome and aroused her from her sleep. The little girl awakened the Wizard and Zeb, and at once they were ready to go to save Jim and the piglets. The Mangaboos discovered them as soon as they left the House of the Sorcerer. But the vegetable people allowed them to proceed without interference, yet followed in a crowd behind them.
 
 Dorothy hopped inside the opening, and Zeb and the Wizard were glad to follow her. At once the Mangaboos began to pile up the rocks of glass. "Stop, I command you!" cried the Wizard, in an angry tone, and at once began pulling down the rocks to liberate Jim and the piglets. The Mangaboos just watched until he made a good-sized hole in the barrier.
-
-
 
 Then they started thrust them with sharp thorns. Dorothy, the Wizard and Zeb jumped into the hole to escape their pricks and at once the Mangaboos piled up the rocks from outside.
 
@@ -2052,11 +1575,9 @@ Zeb struck a match and lighted one of the lanterns. The cavern slanted upward th
 
 At once the boy harnessed Jim to the buggy. The three took their seats in the buggy and Jim started cautiously along the way
 
-The way suddenly grew lighter, and Zeb put out the lan- terns. In a few moments more they emerged from the mountain and found themselves in a new and charming country.
+The way suddenly grew lighter, and Zeb put out the lanterns. In a few moments more they emerged from the mountain and found themselves in a new and charming country.
 
- 
-
-The Valley of Voices
+## The Valley of Voices
 
 They reached a delightful valley that was shaped like the hollow of a great cup. Groves of beautiful and stately trees were everywhere. There were orchards, too, bearing luscious fruits. The mountain on this side was not glass, but made of a stone similar to granite. With some difficulty and danger Jim drew the buggy over the loose rocks until he reached the green lawns below, where the paths and orchards and gardens began.
 
@@ -2066,11 +1587,7 @@ The Wizard took the piglets from his pocket and let them run on the grass.
 
 "I can’t imagine, my dear," he replied.
 
-Slowly they walked along the path toward the nearest cottage. Presently they came to a plant which had broad,
-
-
-
-spreading leaves, in the center of which grew a single fruit. The piglets commenced to devour it with great eagerness.
+Slowly they walked along the path toward the nearest cottage. Presently they came to a plant which had broad, spreading leaves, in the center of which grew a single fruit. The piglets commenced to devour it with great eagerness.
 
 "Where are they?" asked Dorothy, in astonishment. They all looked around, but the piglets had disappeared. "Piggy, piggy, piggy!" called their master, anxiously.
 
@@ -2078,17 +1595,13 @@ Several squeals and grunts were instantly heard at his feet, but the Wizard did 
 
 "Where are you?" he asked.
 
-"Right beside you," spoke a tiny voice. "Can’t you see
+"Right beside you," spoke a tiny voice. "Can’t you see us?"
 
-us?"
-
-"No," answered the little man. "The piglets have become
-
-invisible."
+"No," answered the little man. "The piglets have become invisible."
 
 "It’s because they ate that peach!" cried the kitten.
 
-The Wizard called the piglets to him and put them in his pocket. The travelers resumed their walk toward the cot- tage. The door stood open and a table was set in the front room, with four chairs. On the table were plates, knives and forks, and dishes of bread, meat and fruits. But not a single person was in the room.
+The Wizard called the piglets to him and put them in his pocket. The travelers resumed their walk toward the cottage. The door stood open and a table was set in the front room, with four chairs. On the table were plates, knives and forks, and dishes of bread, meat and fruits. But not a single person was in the room.
 
 "How funny!" exclaimed Dorothy.
 
@@ -2103,8 +1616,6 @@ A peal of merry laughter answered her. The knives and forks fell to the plates w
 "Dreadful creatures!" exclaimed the woman’s voice. "I’ve heard of them."
 
 "They walled us up in a mountain," continued the Wizard; "but we found a tunnel. It is a beautiful place. What do you call it?"
-
-
 
 "It is **the** **Valley** **of** **Voe**1. Are you hungry? You are welcome."
 
@@ -2122,25 +1633,13 @@ She placed a plate of food upon the floor and the kitten ate greedily.
 
 Our friends again started upon their journey. They passed several more pretty cottages. Of course they saw no one, nor did any one speak to them. After a journey of several hours they came to a point where the river curved. There were few houses in this part, and few orchards or flowers. Soon Jim was at the foot of the mountain.
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image002.gif) |
-
-
-
-
-
 1 **the Valley of Voe** — Долина Во
 
 2 **the Land of Naught** — Страна Ничевогов
 
-3 **the Gargoyles** — Гаргойли (Gurgles, как их называет До- роти, это тоже они)
+3 **the Gargoyles** — Гаргойли (Gurgles, как их называет Дороти, это тоже они)
 
-
-
-The Land of the Gargoyles
+## The Land of the Gargoyles
 
 The mountain before them was like a cone and was so tall that its point was lost in the clouds. Directly before them was an arched opening leading to a broad stairway. The stairs were cut in the rock inside the mountain. At the foot of the stairs was a sign:
 
@@ -2148,7 +1647,7 @@ The mountain before them was like a cone and was so tall that its point was lost
 
 "I wonder how Jim will draw the buggy upstairs," said Dorothy, gravely.
 
-"No trouble at all," declared the horse, with a contemp- tuous neigh. "Still, I won’t drag any passengers. You’ll all walk."
+"No trouble at all," declared the horse, with a contemptuous neigh. "Still, I won’t drag any passengers. You’ll all walk."
 
 So they began to ascend the stairs, Dorothy and the Wizard first, Jim next, and then Zeb. The light was dim, and soon they mounted into total darkness. The Wizard got out his lanterns to light the way.
 
@@ -2160,11 +1659,7 @@ No one replied to this, because the Wizard and Zeb helped Jim pull the buggy fro
 
 The ground was sawdust and the pebbles were hard knots from trees. There were odd wooden houses, with carved wooden flowers in the front yards. Wooden birds fluttered among the trees and wooden cows were browsing upon the wooden grass. But the most amazing things of all were the wooden people — the Gargoyles.
 
-A large group of the queer people were gazing sharply upon the strangers who had emerged from the long spiral stairway. The Gargoyles were less than three feet in height. Their bodies were round, their legs short and thick and their
-
-
-
-arms extraordinarily long and stout. Their heads were too big for their bodies and their faces were ugly. Some had long, curved noses and chins, small eyes and wide, grinning mouths. Others had flat noses, protruding eyes, and ears that were shaped like those of an elephant. They all wore short wood- en wings which were fastened to their wooden bodies.
+A large group of the queer people were gazing sharply upon the strangers who had emerged from the long spiral stairway. The Gargoyles were less than three feet in height. Their bodies were round, their legs short and thick and their arms extraordinarily long and stout. Their heads were too big for their bodies and their faces were ugly. Some had long, curved noses and chins, small eyes and wide, grinning mouths. Others had flat noses, protruding eyes, and ears that were shaped like those of an elephant. They all wore short wooden wings which were fastened to their wooden bodies.
 
 The Gargoyles made no sounds at all, and they conversed mainly by means of quick signals made with their wooden fingers or lips. Everything was silent in the wooden country. The birds did not sing, nor did the cows moo.
 
@@ -2182,21 +1677,19 @@ But the Gargoyles were clever enough not to attack the horse the next time. They
 
 Some of the wooden beings fell upon the ground, where they quivered and trembled in every limb. Zeb ran and picked up one of the Gargoyles that lay nearest to him. The Wizard’s bullet struck its head exactly in the left eye. Zeb wound a strap several times around its body, buckled the strap and tossed his prisoner into the buggy.
 
-
-
-A Wonderful Escape
+## A Wonderful Escape
 
 "Let’s yell — all together," said Zeb.
 
 "And fight at the same time," added the Wizard. " We will get near Jim. I’ll use my sword. Dorothy must take her parasol and open it suddenly when the wooden folks attack her. I haven’t anything for you, Zeb."
 
-"I’ll use the creature," said the boy, and pulled his pris- oner out of the buggy.
+"I’ll use the creature," said the boy, and pulled his prisoner out of the buggy.
 
 The boy was strong enough: he worked upon a farm. When the next company of Gargoyles advanced, our friends began to yell. Even the kitten gave a dreadfully shrill scream and at the same time Jim neighed loudly.
 
 This daunted the enemy for a time, but the defenders were soon out of breath. The Gargoyles advanced in a swarm like the bees, so that the air was filled with them. The wooden people wound their long arms around Zeb and the Wizard. Dorothy was captured in the same way.
 
-After that the wooden creatures flew into the air with them and bore them far away, over miles and miles of wooden country, until they came to a wooden city. The houses of this city had many corners, they were square and six-sided and eight-sided. They were tower-like in shape and the best of them seemed old; yet all were strong and sub- stantial. To one of these houses the prisoners were brought by their captors. The Gargoyles roughly pushed them into the opening, where there was a platform, and then flew away and left them.
+After that the wooden creatures flew into the air with them and bore them far away, over miles and miles of wooden country, until they came to a wooden city. The houses of this city had many corners, they were square and six-sided and eight-sided. They were tower-like in shape and the best of them seemed old; yet all were strong and substantial. To one of these houses the prisoners were brought by their captors. The Gargoyles roughly pushed them into the opening, where there was a platform, and then flew away and left them.
 
 "What an awful fight!" said Dorothy.
 
@@ -2205,8 +1698,6 @@ After that the wooden creatures flew into the air with them and bore them far aw
 "But we are together again, even if we are prisoners," sighed the little girl.
 
 "Why didn’t they kill us?" asked Zeb.
-
-
 
 "They probably want to keep us for some ceremony," the Wizard answered, reflectively; "but there is no doubt they intend to kill us later."
 
@@ -2238,8 +1729,6 @@ The Wizard listened intently to Eureka.
 
 "Yes, I can see it," she replied.
 
-
-
 "Well, inside that rock, which reaches up into the clouds, is an archway very much like the one we entered when we climbed the spiral stairway from the Valley of Voe. I’ll get my spy-glass, and then you can see it more plainly."
 
 He fetched a small but powerful telescope, and by its aid the little girl clearly saw the opening.
@@ -2250,19 +1739,17 @@ He fetched a small but powerful telescope, and by its aid the little girl clearl
 
 "I’ll get you the wings," said Zeb, who thoughtfully listened to all this. "That is, if the kitten will show me where they are."
 
-"But how can you get down?" enquired the girl, wonder- ingly.
+"But how can you get down?" enquired the girl, wonderingly.
 
-Zeb unfastened Jim’s harness, strap by strap, and buck- led one piece to another. He made a long leather strip that reached to the ground.
+Zeb unfastened Jim’s harness, strap by strap, and buckled one piece to another. He made a long leather strip that reached to the ground.
 
 "I’ll climb down," he said.
 
 "You must be very quiet," warned the kitten; "for if you make the least noise the Gargoyles will wake up."
 
-Zeb fastened one end of the strap to a wheel of the buggy, and let the line dangle over the side of the house. The boy went carefully downward, until he stood upon the ground below. Eureka clung with her claws to the wooden side of the house and let herself down easily. Then to- gether they crept away.
+Zeb fastened one end of the strap to a wheel of the buggy, and let the line dangle over the side of the house. The boy went carefully downward, until he stood upon the ground below. Eureka clung with her claws to the wooden side of the house and let herself down easily. Then together they crept away.
 
-Soon the boy again appeared, his arms were full of the wooden wings. When he came to the strap he tied the wings all in a bunch to the end of the line, and the Wizard drew them up. Then the line went down again for Zeb. Eureka quickly followed him, and soon they were all standing to- gether upon the platform, with eight wooden wings beside them.
-
-
+Soon the boy again appeared, his arms were full of the wooden wings. When he came to the strap he tied the wings all in a bunch to the end of the line, and the Wizard drew them up. Then the line went down again for Zeb. Eureka quickly followed him, and soon they were all standing together upon the platform, with eight wooden wings beside them.
 
 The boy was full of energy and excitement. He put the harness together again and hitched Jim to the buggy. Then, with the Wizard’s help, he tried to fasten some of the wings to the old horse. The other four wings were then fastened to the buggy, two on each side. The sleeping Gargoyles were beginning to wake up and move around. So the prisoners resolved to leave their prison at once.
 
@@ -2272,23 +1759,15 @@ They mounted into the buggy. Dorothy sat in the middle of the seat, with Zeb and
 
 The horse flopped its four wings all together, and flew away from the platform. The wings creaked dreadfully because the Wizard had forgotten to oil them. They flew, and flew swiftly toward the rock. Some of the Gargoyles saw them, presently, and began to pursue the prisoners. When Dorothy looked back she saw a great cloud that almost darkened the sky.
 
- 
-
-The Den of the Dragonettes
+## The Den of the Dragonettes
 
 When Jim finally alighted at the mouth of the cavern the pursuers were still some distance away.
 
-"I’m afraid they’ll catch us," said Dorothy, greatly excited. "No; we must stop them," declared the Wizard. "Zeb, help
-
-me pull off these wooden wings!"
+"I’m afraid they’ll catch us," said Dorothy, greatly excited. "No; we must stop them," declared the Wizard. "Zeb, help me pull off these wooden wings!"
 
 They tore off the wings, and the Wizard piled them in a heap just outside the entrance to the cavern. Then he poured over them all the kerosene oil that was left in his oil-can and took a match. The flames leaped up at once and the bonfire began to smoke and roar and crackle just as the great army of wooden Gargoyles arrived. The creatures drew back at once, filled with fear and horror.
 
-Inside the archway were several doors, leading to different rooms built into the mountain. Zeb and the Wizard lifted
-
-
-
-these wooden doors from their hinges and tossed them all on the flames.
+Inside the archway were several doors, leading to different rooms built into the mountain. Zeb and the Wizard lifted these wooden doors from their hinges and tossed them all on the flames.
 
 "Perhaps the flames will set fire to all that miserable wooden country," said the little man, smiling pleasantly. "But come, my children; let us explore the mountain and discover which way we must go."
 
@@ -2308,8 +1787,6 @@ The cave was circular in shape, and all around its edge, near to the ground, app
 
 "Eureka sees better in the dark than we can," whispered Dorothy. "Tell us, dear, what do the creatures look like?"
 
-
-
 "I simply can’t describe them," answered the kitten. "Their eyes are like plates and their mouths like **coal-scuttles**1. But their bodies don’t seem very big."
 
 "Where are they?" enquired the girl.
@@ -2326,31 +1803,17 @@ Our friends turned in the direction of the sound. "It’s a dragon!" the Wizard 
 
 "Young dragons, of course; but we are not allowed to call ourselves real dragons until we get our full growth," was the reply. "The big dragons are very proud. Mother says that some day we will all be very powerful and important."
 
-"Where is your mother?" asked the Wizard, anxiously. "She has gone up to the top of the earth to hunt for our
-
-dinner. If she has good luck she will bring us an elephant, or a couple of rhinoceros, or perhaps a few dozen people."
+"Where is your mother?" asked the Wizard, anxiously. "She has gone up to the top of the earth to hunt for our dinner. If she has good luck she will bring us an elephant, or a couple of rhinoceros, or perhaps a few dozen people."
 
 "Are you hungry?" enquired Dorothy. "Very," said the dragonette.
 
 "Are we friends or enemies?" asked Dorothy. "I mean, will you be good to us, or do you intend to eat us?"
 
-" We dragonettes can eat you, my child; but unfortu- nately mother has tied all our tails around the rocks at the back of our individual caves, so that we can not crawl out to get you."
+" We dragonettes can eat you, my child; but unfortunately mother has tied all our tails around the rocks at the back of our individual caves, so that we can not crawl out to get you."
 
 "Why did your mother tie your tails?" asked Dorothy.
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **coal-scuttles** — ящики для угля
-
-
 
 "Oh, she is sometimes gone for several weeks, and if we were not tied we can crawl all over the mountain and fight with each other and get into a lot of mischief."
 
@@ -2364,17 +1827,13 @@ The children and the Wizard examined the creatures more closely. The heads of th
 
 "You see," declared another dragonette, "if we tell you truly, you will escape us; and if we tell you an untruth we will be naughty and deserve to be punished."
 
-"Then," decided Dorothy, "we must find our way out our- selves."
+"Then," decided Dorothy, "we must find our way out ourselves."
 
 They circled all around the cavern, and presently discovered two paths leading from the wall. They selected one of these and hurried along it.
 
- 
-
-Ozma Uses the Magic Belt
+## Ozma Uses the Magic Belt
 
 The wanderers came upon a huge rock that shut off the passage. This rock was separate from the rest of the mountain and was in motion, turning slowly around and around. When first they came to it there was a solid wall before them. But presently there was exposed a wide, smooth path across it to the other side. They knew that there was a means of escape and so waited patiently until the path appeared for the second time.
-
-
 
 The children and the Wizard rushed across the moving rock and sprang into the passage beyond.
 
@@ -2384,7 +1843,7 @@ Then the stone ceased to turn round.
 
 They moved on again, creeping slowly up. Their journey was almost over, for in a short time they reached a small cave from which there was no further outlet.
 
-They did not realize their ill fortune at first, for they saw a ray of sunshine through a small crack in the roof of the cave, far overhead. That meant that their world — the real world — was not very far away. But when the adventur- ers looked more carefully around them they discovered that they were in a strong prison from which there was no hope of escape.
+They did not realize their ill fortune at first, for they saw a ray of sunshine through a small crack in the roof of the cave, far overhead. That meant that their world — the real world — was not very far away. But when the adventurers looked more carefully around them they discovered that they were in a strong prison from which there was no hope of escape.
 
 "We’re almost on earth again," cried Dorothy, "for there is the sun — the most beautiful sun that shines!" and she pointed at the crack in the distant roof.
 
@@ -2406,11 +1865,7 @@ The Wizard sat down upon the floor of the cave, took the piglets out one by one,
 
 "For the second time?" asked the Wizard, with great interest.
 
-
-
-"Yes. After you went up in a balloon, and escaped us, I got back to Kansas by means of a pair of magical silver shoes." "I remember those shoes," said the little man. "They once
-
-belonged to the Wicked Witch."
+"Yes. After you went up in a balloon, and escaped us, I got back to Kansas by means of a pair of magical silver shoes." "I remember those shoes," said the little man. "They once belonged to the Wicked Witch."
 
 "I lost them somewhere in the air," said the child. "But the second time I went to the Land of Oz I got the Nome King’s Magic Belt, which is much more powerful than were the Silver Shoes."
 
@@ -2426,13 +1881,11 @@ belonged to the Wicked Witch."
 
 "That’s it, exactly; by means of the Magic Belt."
 
-"Then," said the Wizard, "you will be saved, little Dorothy; and I am very glad of it. The rest of us will die here cheer- fully."
+"Then," said the Wizard, "you will be saved, little Dorothy; and I am very glad of it. The rest of us will die here cheerfully."
 
 "I won’t die cheerfully!" protested the kitten. Dorothy laughed.
 
 "I can easily save you all," she promised, "when I am in the Land of Oz."
-
-
 
 "How?" they asked.
 
@@ -2462,23 +1915,11 @@ She suddenly disappeared from the cave, and with her went the kitten.
 
 He put the piglets safely away in his pocket again and then he and Zeb got into the buggy and sat expectantly upon the seat.
 
-The cab-horse gave a nervous start and Zeb began to rub his eyes. They were in the streets of a beautiful emerald-green city. Merry people in gorgeous green-and-gold costumes sur- rounded them. Jim slowly trotted into the courtyard and drew the buggy along the jewelled driveway to the great entrance of the royal palace.
-
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image002.gif) |
-
-
-
-
+The cab-horse gave a nervous start and Zeb began to rub his eyes. They were in the streets of a beautiful emerald-green city. Merry people in gorgeous green-and-gold costumes surrounded them. Jim slowly trotted into the courtyard and drew the buggy along the jewelled driveway to the great entrance of the royal palace.
 
 1 **the Gillikins** — Гилликины
 
-
-
-Old Friends are Reunited
+## Old Friends are Reunited
 
 Many servants dressed in handsome uniforms stood ready to welcome the new arrivals, and when the Wizard got out of the buggy a pretty girl in a green gown cried out in surprise:
 
@@ -2506,19 +1947,13 @@ Dorothy sprang up and ran to seize her friend’s hand. She drew him impulsively
 
 "I was born in Omaha," answered the little Wizard; "my father, who was a politician, named me Oscar Zoroaster Phadrig Isaac Norman Henkle Emmannuel Ambroise Diggs.
 
-
-
 When I grew up I just called myself O. Z., because the other initials were P-I-N-H-E-A-D. Then I ran away from home and joined a circus. I did tricks of ventriloquism. Also I began to make balloon ascensions. One day my balloon ran away with me and brought me across the deserts to this beautiful country. The people saw me and bowed down before me. I told them I was a Wizard, and showed them some easy tricks that amazed them. When they saw the initials painted on the balloon they called me Oz."
 
 "Now I begin to understand," said the Princess.
 
-"At that time," continued the Wizard, "there were four separate countries in this Land, each one of the four was by a Witch. But the people thought my power was greater than that of the Witches. Perhaps the Witches thought so too, for they never dared oppose me. I ordered to build the Emerald City just where the four countries cornered together, and then I announced myself the Ruler of the Land of Oz, which in- cluded all the four countries of the Munchkins, the Gillikins, the Winkies and the Quadlings. Over this Land I ruled in peace for many years, until I grew old. When Dorothy was first blown to this place by a cyclone I arranged to go away with her in a balloon. But the balloon escaped too soon and carried me back alone. After many adventures I reached Omaha. I joined a circus again, and made my balloon ascensions until the earth- quake caught me."
+"At that time," continued the Wizard, "there were four separate countries in this Land, each one of the four was by a Witch. But the people thought my power was greater than that of the Witches. Perhaps the Witches thought so too, for they never dared oppose me. I ordered to build the Emerald City just where the four countries cornered together, and then I announced myself the Ruler of the Land of Oz, which included all the four countries of the Munchkins, the Gillikins, the Winkies and the Quadlings. Over this Land I ruled in peace for many years, until I grew old. When Dorothy was first blown to this place by a cyclone I arranged to go away with her in a balloon. But the balloon escaped too soon and carried me back alone. After many adventures I reached Omaha. I joined a circus again, and made my balloon ascensions until the earthquake caught me."
 
-"That is quite a history," said Ozma; "but there is a little more history about the Land of Oz that you do not understand. Many years before you came here this Land was united under one Ruler, as it is now. The Ruler’s name was always 'Oz,' which means in our language 'Great and Good'. If the Ruler was a woman, her name was always 'Ozma.' When the Ruler, my grandfather, was hunting one day, one Wicked Witch named Mombi stole him and carried him away. Then the Witches divided up the kingdom, and ruled the four parts of it until you came here. That was why the people were so glad to see
-
-
-
-you. They thought from your initials that you were their right- ful ruler."
+"That is quite a history," said Ozma; "but there is a little more history about the Land of Oz that you do not understand. Many years before you came here this Land was united under one Ruler, as it is now. The Ruler’s name was always 'Oz,' which means in our language 'Great and Good'. If the Ruler was a woman, her name was always 'Ozma.' When the Ruler, my grandfather, was hunting one day, one Wicked Witch named Mombi stole him and carried him away. Then the Witches divided up the kingdom, and ruled the four parts of it until you came here. That was why the people were so glad to see you. They thought from your initials that you were their rightful ruler."
 
 "But, at that time," said the Wizard, thoughtfully, "there were two Good Witches and two Wicked Witches ruling in the land."
 
@@ -2526,9 +1961,7 @@ you. They thought from your initials that you were their right- ful ruler."
 
 "I accept your kind offer with gratitude, gracious Princess," the little man said.
 
-"He’s only a humbug Wizard, though," said Dorothy. "And that is the safest kind of a Wizard," replied Ozma,
-
-promptly. "He will amuse us with his tricks tomorrow."
+"He’s only a humbug Wizard, though," said Dorothy. "And that is the safest kind of a Wizard," replied Ozma, promptly. "He will amuse us with his tricks tomorrow."
 
 Suddenly the Scarecrow rushed in to hug Dorothy and tell her how glad he was to see her again. "How are your brains?" enquired the Wizard.
 
@@ -2546,17 +1979,11 @@ And now the Tin Woodman arrived. He greeted Dorothy and welcomed with joy the re
 
 "I’m glad to hear that," said the Wizard.
 
+## The Trial of Eureka1
 
+Several days of festivity followed, for such old friends did not often meet. Ozma was happy to see Dorothy again, because the Princess needed companionship. It was the third morning after Dorothy’s arrival, and she was sitting with Ozma and their friends, when the Princess said to her maid: "Please go to my boudoir, Jellia, and get the white piglet I left on the dressing-table. I want to play with it." The maiden returned with a troubled face.
 
-**The** **Trial** **of Eureka**1
-
-Several days of festivity followed, for such old friends did not often meet. Ozma was happy to see Dorothy again, because the Princess needed companionship. It was the third morning after Dorothy’s arrival, and she was sitting with Ozma and their friends, when the Princess said to her maid: "Please go to my boudoir, Jellia, and get the white
-
-piglet I left on the dressing-table. I want to play with it." The maiden returned with a troubled face.
-
-"The piglet is not there, your Highness," said she. "Not there!" exclaimed Ozma. "Are you sure? Was not
-
-the door closed?"
+"The piglet is not there, your Highness," said she. "Not there!" exclaimed Ozma. "Are you sure? Was not the door closed?"
 
 "Yes, your Highness; I am sure it was; for when I opened it Dorothy’s white kitten crept out and ran up the stairs."
 
@@ -2578,19 +2005,7 @@ So Dorothy ran to her room and found the kitten under the bed.
 
 "Come here, Eureka!" she said. "I won’t," answered the kitten.
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **The Trial of Eureka** — Суд над Эврикой
-
-
 
 "If you don’t come to me," continued Dorothy, "I’ll take my Magic Belt and wish you in the Country of the Gurgles."
 
@@ -2616,29 +2031,15 @@ Ozma summoned her Captain-General, and when the lean officer appeared she said:
 
 The Captain-General took Eureka and carried it away to prison.
 
-"What shall we do now?" asked the Scarecrow, with a sigh. "I will summon the Court to meet in the Throne Room
-
-at three o’clock," replied Ozma. "I myself will be the judge." "What will happen if she is guilty?" asked Dorothy. "She must die," answered the Princess.
+"What shall we do now?" asked the Scarecrow, with a sigh. "I will summon the Court to meet in the Throne Room at three o’clock," replied Ozma. "I myself will be the judge." "What will happen if she is guilty?" asked Dorothy. "She must die," answered the Princess.
 
 "Nine times?" enquired the Scarecrow.
 
 "As many times as is necessary," was the reply. "I will ask the Tin Woodman to defend the prisoner, because he has a kind heart. And the **Woggle-Bug**1 will be the **Public Accuser**2. There must be several animals on the jury because animals understand each other better than we people understand them. So the jury will consist of the Cowardly Lion, the Hungry
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **Woggle-Bug** — Жук-Кувыркун
 
 2 **Public Accuser** — общественный обвинитель
-
-
 
 Tiger, Jim the Horse, the Yellow Hen, the Scarecrow, the Wizard, Tik-tok the Machine Man, the Sawhorse and Zeb. That makes the nine which the law requires, and all my people will hear the testimony."
 
@@ -2646,23 +2047,15 @@ The crime of murder was the most dreadful crime in the Emerald City. The news of
 
 The Wizard was exceedingly thoughtful. He had no doubt Eureka had eaten the piglet, but he realized that a kitten could not always act properly. Its nature is to destroy small animals and even birds for food. If Dorothy’s pet is condemned to death the little girl will be very unhappy. The Wizard went to the Tin Woodman and whispered,
 
-"My friend, it is your duty to defend the white kitten and try to save her, but I fear you will fail. Her disgrace and death won’t bring back the piglet, but only serve to make Dorothy unhappy. So I intend to prove the kitten’s innocence by a trick." He drew from his inside pocket one piglet and continued, "This creature you must hide in some safe place. If the
-
-jury decides that Eureka is guilty you may then produce this piglet and claim it is the one that was lost. All the piglets are exactly alike. This deception will save Eureka’s life, and then we may all be happy again."
+"My friend, it is your duty to defend the white kitten and try to save her, but I fear you will fail. Her disgrace and death won’t bring back the piglet, but only serve to make Dorothy unhappy. So I intend to prove the kitten’s innocence by a trick." He drew from his inside pocket one piglet and continued, "This creature you must hide in some safe place. If the jury decides that Eureka is guilty you may then produce this piglet and claim it is the one that was lost. All the piglets are exactly alike. This deception will save Eureka’s life, and then we may all be happy again."
 
 "I do not like to deceive my friends," replied the Tin Woodman; "still, my kind heart urges me to save Eureka’s life. So I will do as you say, friend Wizard."
 
 He placed the little pig inside his hat, and then put the hat upon his head and went back to his room.
 
- 
+## The Wizard Performs Another Trick
 
-The Wizard Performs Another Trick
-
-At three o’clock the great trial began. Princess Ozma sat in the magnificent emerald throne, with her jewelled sceptre in her hand. Behind her throne stood the twenty-eight
-
-
-
-officers of her army and many officials of the royal household. At her right sat the Jury — animals, animated dummies and people. The kitten was in a large cage just before the throne.
+At three o’clock the great trial began. Princess Ozma sat in the magnificent emerald throne, with her jewelled sceptre in her hand. Behind her throne stood the twenty-eight officers of her army and many officials of the royal household. At her right sat the Jury — animals, animated dummies and people. The kitten was in a large cage just before the throne.
 
 And now, at a signal from Ozma, the Woggle-Bug arose and addressed the jury. His tone was pompous.
 
@@ -2670,21 +2063,17 @@ And now, at a signal from Ozma, the Woggle-Bug arose and addressed the jury. His
 
 Then the Princess spoke in a stern voice:
 
-"Prisoner, what will you say? Are you guilty, or not guilty?" "That’s for you to find out," replied Eureka. "If you can
-
-prove I’m guilty, I’ll die nine times."
+"Prisoner, what will you say? Are you guilty, or not guilty?" "That’s for you to find out," replied Eureka. "If you can prove I’m guilty, I’ll die nine times."
 
 Then the Tin Woodman arose and said,
 
-"Respected Jury and dearly beloved Ozma, I pray you not to judge this feline prisoner unfeelingly. Eureka is the sweet pet of a lovely little girl whom we all admire, and gentleness and innocence are her chief virtues. Look at the kitten’s intelligent eyes;" (here Eureka closed her eyes sleep- ily) "gaze at her smiling countenance!" (here Eureka snarled and showed her teeth). "Will such a gentle animal be guilty? No; a thousand times, no!"
+"Respected Jury and dearly beloved Ozma, I pray you not to judge this feline prisoner unfeelingly. Eureka is the sweet pet of a lovely little girl whom we all admire, and gentleness and innocence are her chief virtues. Look at the kitten’s intelligent eyes;" (here Eureka closed her eyes sleepily) "gaze at her smiling countenance!" (here Eureka snarled and showed her teeth). "Will such a gentle animal be guilty? No; a thousand times, no!"
 
 When the Tin Woodman sat down no one applauded him, for his arguments were not very convincing. Few believed in Eureka’s innocence. As for the Jury, they appointed the Hungry Tiger their spokesman. The huge beast slowly arose and said,
 
 "Kittens have no consciences, so they eat whatever pleases them. The jury believes the white kitten known as Eureka is guilty."
 
 The judgment of the jury was received with great applause. Dorothy was sobbing miserably at the fate of her pet. The
-
-
 
 Princess wanted to order to chop Eureka’s head off with the Tin Woodman’s axe when he once more arose and said,
 
@@ -2696,7 +2085,7 @@ He took off his hat and from beneath it produced a tiny white piglet. Ozma was d
 
 And all the people cheered and clapped their hands. As the Princess held the white piglet in her arms and stroked its soft hair she said,
 
-"Let Eureka out of the cage, for she is no longer a pris- oner, but our good friend. Where did you find my pet?"
+"Let Eureka out of the cage, for she is no longer a prisoner, but our good friend. Where did you find my pet?"
 
 "In a room of the palace," he answered.
 
@@ -2714,13 +2103,9 @@ And all the people cheered and clapped their hands. As the Princess held the whi
 
 At this everyone in the Throne Room suddenly became quiet, and the kitten continued,
 
-"I will confess that I intended to eat the little pig for my breakfast. I crept into the room while the Princess was dressing and hid myself under a chair. When Ozma went away she closed the door and left her pet on the table. At once I jumped
+"I will confess that I intended to eat the little pig for my breakfast. I crept into the room while the Princess was dressing and hid myself under a chair. When Ozma went away she closed the door and left her pet on the table. At once I jumped up and told the piglet not to make a fuss. But no one can teach these creatures to be reasonable. He trembled so with fear that he fell off the table into a big vase that was standing on the floor. I suppose he’s still there."
 
-
-
-up and told the piglet not to make a fuss. But no one can teach these creatures to be reasonable. He trembled so with fear that he fell off the table into a big vase that was standing on the floor. I suppose he’s still there."
-
-All were astonished at this confession, and Ozma at once sent an officer to her room to fetch the vase. When he returned the Princess looked into the case and discovered her lost pig- let. The Tin Woodman smashed the vase with his axe and set the little prisoner free.
+All were astonished at this confession, and Ozma at once sent an officer to her room to fetch the vase. When he returned the Princess looked into the case and discovered her lost piglet. The Tin Woodman smashed the vase with his axe and set the little prisoner free.
 
 Dorothy hugged the kitten in her arms and told her how delighted she was to know that she was innocent.
 
@@ -2728,11 +2113,9 @@ Dorothy hugged the kitten in her arms and told her how delighted she was to know
 
 "It could spoil the fun," replied the kitten, yawning.
 
- 
+## Zeb Returns to the Ranch
 
-Zeb Returns to the Ranch
-
-Eureka was much surprised to find herself in disgrace. She was forbidden to wander around the palace and stayed in confinement in Dorothy’s room. So she began to beg her mis- tress to send her to some other place. Dorothy was herself anxious to get home.
+Eureka was much surprised to find herself in disgrace. She was forbidden to wander around the palace and stayed in confinement in Dorothy’s room. So she began to beg her mistress to send her to some other place. Dorothy was herself anxious to get home.
 
 The next evening after the trial the little girl begged Ozma to allow her to look in the enchanted picture, and the Princess readily consented. Then Dorothy found, with the aid of the enchanted picture, that Uncle Henry had returned to the farm in Kansas. She also saw that both he and Aunt Em were dressed in mourning, because they thought their little niece had been killed by the earthquake.
 
@@ -2741,8 +2124,6 @@ The next evening after the trial the little girl begged Ozma to allow her to loo
 Zeb also wanted to come back home.
 
 "This is a fine country, and I like all the people that live in it," he told Dorothy. "But the fact is, Jim and I don’t fit into a fairyland. So, if you can find a way to return, we’ll be much obliged to you."
-
-
 
 "Ozma can do it, easily," replied Dorothy. "Tomorrow morning I’ll go to Kansas and you can go to California".
 
@@ -2756,17 +2137,13 @@ Dorothy held Eureka in her arms.
 
 Ozma wore the Magic Belt; and, when she kissed Dorothy, the little girl and her kitten disappeared in a twinkling.
 
-Then Zeb harnessed Jim to the buggy, and took his seat. "I’m much obliged for all your kindness," said the boy, "and very grateful to you. I think this is the loveliest country in the world; but Jim and prefer to be at the ranch. Good-bye, eve-
-
-rybody!"
+Then Zeb harnessed Jim to the buggy, and took his seat. "I’m much obliged for all your kindness," said the boy, "and very grateful to you. I think this is the loveliest country in the world; but Jim and prefer to be at the ranch. Good-bye, everybody!"
 
 He rubbed his eyes. Jim was trotting along the well-known road, shaking his ears and whisking his tail. Just ahead of them were the gates of Hugson’s Ranch.
 
- 
+# 4. The Road To Oz
 
-\4. The Road To Oz
-
-The Way to Butterfield
+## The Way to Butterfield
 
 "Please, miss," said the shaggy man, "can you tell me the road to Butterfield?"
 
@@ -2774,23 +2151,17 @@ The Way to Butterfield
 
 "Is that the one by the gopher stump, or…"
 
-"I shall show you the way," said Dorothy; "Wait a min- ute till I run in the house and get my sunbonnet."
+"I shall show you the way," said Dorothy; "Wait a minute till I run in the house and get my sunbonnet."
 
-The shaggy man waited. He had an oat-straw in his mouth, which he chewed slowly. There was an apple-tree beside the house. The shaggy man thought the apples
-
-
-
-tasted better than the oat-straw, so he walked over to get some. A little black dog with bright brown eyes ran madly toward the shaggy man. The little dog barked; but he grabbed the dog by the neck and put it in his big pocket along with the apples. The little dog’s name was Toto.
+The shaggy man waited. He had an oat-straw in his mouth, which he chewed slowly. There was an apple-tree beside the house. The shaggy man thought the apples tasted better than the oat-straw, so he walked over to get some. A little black dog with bright brown eyes ran madly toward the shaggy man. The little dog barked; but he grabbed the dog by the neck and put it in his big pocket along with the apples. The little dog’s name was Toto.
 
 Pretty soon Dorothy came out of the house with her sunbonnet,
 
-"Come on, Shaggy Man. I’ll show you the road to But- terfield."
+"Come on, Shaggy Man. I’ll show you the road to Butterfield."
 
 She climbed the fence and he followed her. He was walking slowly and stumbling over the little hillocks in the pasture.
 
-"You’re clumsy!" said the little girl. "Are your feet tired?" "No, miss; it’s my whiskers. They tire very easily this
-
-warm weather. I like snow; and you?"
+"You’re clumsy!" said the little girl. "Are your feet tired?" "No, miss; it’s my whiskers. They tire very easily this warm weather. I like snow; and you?"
 
 "Of course not, Shaggy Man," replied Dorothy. "Snow in August will spoil the corn and the oats and the wheat; and then Uncle Henry won’t have any crops."
 
@@ -2798,23 +2169,17 @@ warm weather. I like snow; and you?"
 
 "Yes," replied Dorothy, climbing another fence; "I’ll show you the highway."
 
-"Thank you, miss; you’re very kind," said he gratefully. "Here’s the highway. Now, it’s the fourth turn to the
-
-left; and then…"
+"Thank you, miss; you’re very kind," said he gratefully. "Here’s the highway. Now, it’s the fourth turn to the left; and then…"
 
 "Then what?" he inquired and put his hands in his coat pockets.
 
 Toto grabbed a finger and bit it. The shaggy man took his hand out of that pocket quickly, and said "Oh!" Dorothy did not notice. She was looking anxiously at the road.
 
-"Come on," she commanded. "It’s only a little way farther." After a while they came to the place where five roads branched in different directions; Dorothy pointed to one,
-
-and said,
+"Come on," she commanded. "It’s only a little way farther." After a while they came to the place where five roads branched in different directions; Dorothy pointed to one, and said,
 
 "That’s it, Shaggy Man."
 
-
-
-"I’m much obliged, miss," he said, and went along an- other road.
+"I’m much obliged, miss," he said, and went along another road.
 
 "Not that one!" she cried; "you’re going wrong." He stopped.
 
@@ -2848,11 +2213,7 @@ He put his hand in his side-pocket and drew out an apple. The little dog got his
 
 "To guard these apples in my pocket, miss."
 
-The shaggy man pulled Toto out of his pocket and dropped him to the ground. Of course Toto ran to Dorothy
-
-
-
-at once. Dorothy looked around her anxiously for some familiar landmark; but everything was strange. Between the branches of the many roads were green meadows and a few shrubs and trees, but she didn’t see anywhere the farm-house. This began to worry her and make her feel anxious.
+The shaggy man pulled Toto out of his pocket and dropped him to the ground. Of course Toto ran to Dorothy at once. Dorothy looked around her anxiously for some familiar landmark; but everything was strange. Between the branches of the many roads were green meadows and a few shrubs and trees, but she didn’t see anywhere the farm-house. This began to worry her and make her feel anxious.
 
 "I’m afraid, Shaggy Man," she said, with a sigh, "that we’re lost!"
 
@@ -2870,7 +2231,7 @@ Toto looked around a minute, and dashed up one of the roads.
 
 "Good-bye, Shaggy Man," called Dorothy, and ran after Toto.
 
-The little dog pranced briskly along for some distance; when he turned around and looked at his mistress ques- tioningly. Toto wagged his tail, and sneezed, and shook his ears, and trotted back. Then he sat down. Dorothy sat down, too, very thoughtful.
+The little dog pranced briskly along for some distance; when he turned around and looked at his mistress questioningly. Toto wagged his tail, and sneezed, and shook his ears, and trotted back. Then he sat down. Dorothy sat down, too, very thoughtful.
 
 " Will your family worry?" asked the shaggy man. "I suppose so," answered Dorothy, with a sigh.
 
@@ -2878,19 +2239,7 @@ The little dog pranced briskly along for some distance; when he turned around an
 
 Dorothy looked at him curiously. His clothes were shaggy, his boots were shaggy and full of holes, and his hair
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image003.gif) |
-
-
-
-
-
 1 **never come to any harm** — никогда не попадают в беду
-
-
 
 and whiskers were shaggy. But his smile was sweet and his eyes were kind.
 
@@ -2920,21 +2269,17 @@ The shaggy man searched in one pocket, carefully; and in another pocket; and in 
 
 "My name’s Dorothy," said she, "but what are we going to do? We can’t stay here forever, you know."
 
-
-
 "Let’s take the seventh road," he suggested. "Seven is a lucky number for little girls named Dorothy."
 
 She counted seven roads, and the seventh looked just like all the others. But the shaggy man started down this road and Dorothy and Toto followed him.
 
- 
+## Dorothy Meets
 
-Dorothy Meets
+## Button-bright1
 
-**Button-****bright**1
+The seventh road was a good road — winding through green meadows and fields covered with daisies and buttercups and shady trees. But they saw no houses and no living creatures at all.
 
-The seventh road was a good road — winding through green meadows and fields covered with daisies and buttercups and shady trees. But they saw no houses and no living crea- tures at all.
-
-The shaggy man whistled cheerfully to beguile the jour- ney. Soon they saw a big chestnut tree. In the shade sat a little boy in sailor clothes. He was digging a hole in the earth with a bit of wood. Dorothy and Toto and the shaggy man came to the little boy.
+The shaggy man whistled cheerfully to beguile the journey. Soon they saw a big chestnut tree. In the shade sat a little boy in sailor clothes. He was digging a hole in the earth with a bit of wood. Dorothy and Toto and the shaggy man came to the little boy.
 
 "Who are you?" asked the girl.
 
@@ -2950,21 +2295,9 @@ He looked up at her calmly. His face was round and chubby.
 
 "No one knows everything, Dorothy," he said.
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **Button-Bright** — Баттон-Брайт (или Смышлёная Пуговка)
 
 2 **bright as a button** — смышлёный
-
-
 
 "But Button-Bright doesn’t know anything," she declared. "Do you, Button-Bright?"
 
@@ -2976,27 +2309,19 @@ Near Button-Bright, on the ground, lay a sailor hat with a gilt anchor on the ba
 
 "I mean have you ever been where there’s water?"
 
-"Yes," said Button-Bright; "there’s a well in our back yard." "You don’t understand," cried Dorothy. "I mean, have you
-
-ever been on a big ship floating on a big ocean?" "I don’t know," said he.
+"Yes," said Button-Bright; "there’s a well in our back yard." "You don’t understand," cried Dorothy. "I mean, have you ever been on a big ship floating on a big ocean?" "I don’t know," said he.
 
 "Then why do you wear sailor clothes?" "I don’t know," he answered, again.
 
-"You’re just awful stupid, Button-Bright," said Dorothy. "It’s no use to ask Button-Bright questions," said the
-
-shaggy man; "but someone must take care of the poor little chap, don’t you think? Let’s take him with us."
+"You’re just awful stupid, Button-Bright," said Dorothy. "It’s no use to ask Button-Bright questions," said the shaggy man; "but someone must take care of the poor little chap, don’t you think? Let’s take him with us."
 
 "Where?" asked Dorothy.
 
 "I’m like Button-Bright; I don’t know," answered the shaggy man, with a laugh. "But every road leads somewhere. If we travel long enough, my dear, we will come to some place or another in the end."
 
- 
-
-A Queer Village
+## A Queer Village
 
 Button-bright took the shaggy man’s hand willingly; for the shaggy man had the Love Magnet. Before long they saw ahead of them a fine big arch. When they came nearer they found that the arch was beautifully carved and decorated with rich colors. A row of peacocks ran along the top of it, and all the feathers were gorgeously painted. In the center was a large fox’s head.
-
-
 
 While the travelers were looking with curiosity at this beautiful arch there suddenly marched out of it a company of soldiers — only the soldiers were all foxes dressed in uniforms. A captain marched in front of the fox-soldiers.
 
@@ -3016,9 +2341,7 @@ The fox-captain looked at the shaggy man.
 
 Dorothy knew that the Love Magnet was working and that all the foxes now loved the shaggy man because of it. But Toto didn’t know this, for he began to bark angrily and tried to bite the captain’s hairy leg.
 
-"Stop, Toto!" cried the little girl. "These are our friends." "So we are!" remarked the captain. "At first we were enemies, but it seems you are friends, instead. You must come
-
-with me to see King Dox."
+"Stop, Toto!" cried the little girl. "These are our friends." "So we are!" remarked the captain. "At first we were enemies, but it seems you are friends, instead. You must come with me to see King Dox."
 
 "Who’s he?" asked Button-Bright.
 
@@ -3030,13 +2353,11 @@ with me to see King Dox."
 
 "Ah, why, indeed?" exclaimed the captain. "If you don’t ask questions you will learn nothing. True enough. I was wrong. You’re a very clever little boy. But now, friends, please come with me, for it is my duty to escort you to the royal palace."
 
-
-
 The soldiers marched back through the arch again, and with them marched the shaggy man, Dorothy, Toto, and Button-Bright. They found a fine, big city before them, all the houses of carved marble in beautiful colors. The decorations were mostly birds and other fowl, such as peacocks, pheasants, turkeys, ducks, and geese. As our friends marched along, some of the foxes came out on the porches and balconies to get a view of the strangers. These foxes were all handsomely dressed.
 
-By and by they came to a big square, and in the center of the square stood the royal palace. There were many fox- soldiers at the door, but they bowed to the captain and admit- ted him without question. The captain led them through many rooms. They came to a big doorway covered with heavy curtains of cloth of gold.
+By and by they came to a big square, and in the center of the square stood the royal palace. There were many foxsoldiers at the door, but they bowed to the captain and admitted him without question. The captain led them through many rooms. They came to a big doorway covered with heavy curtains of cloth of gold.
 
-Beside this doorway stood a huge drum. The fox-captain went to this drum and knocked his knees against it — first one knee and then the other — so that the drum said "Boom- boom."
+Beside this doorway stood a huge drum. The fox-captain went to this drum and knocked his knees against it — first one knee and then the other — so that the drum said "Boom-boom."
 
 "You must all do exactly what I do," ordered the captain.
 
@@ -3049,8 +2370,6 @@ Dorothy made a low bow before the throne. The shaggy man bowed, too, and Button-
 "So — so," said the King, looking at them keenly. "What brought you here, strangers?"
 
 "Our legs, your Royal Hairiness," replied the shaggy man.
-
-
 
 "What is your business here?" was the next question. "To get away as soon as possible," said the shaggy man.
 
@@ -3090,11 +2409,7 @@ Dorothy thought a moment.
 
 "Yes, your Majesty," she acknowledged.
 
-
-
-"Then why do you wonder that an hour or two can bring you to Foxville, which is nearer to Oz than it is to Kansas?" "Dear me!" exclaimed Dorothy; "is this another fairy
-
-adventure?"
+"Then why do you wonder that an hour or two can bring you to Foxville, which is nearer to Oz than it is to Kansas?" "Dear me!" exclaimed Dorothy; "is this another fairy adventure?"
 
 "It seems to be," said the Fox-King.
 
@@ -3104,9 +2419,7 @@ Dorothy turned to the shaggy man, and her face was grave and reproachful.
 
 The shaggy man shook his head.
 
- 
-
-King Dox
+## King Dox
 
 King Dox looked the boy over, from his sailor hat to his stubby shoes.
 
@@ -3130,8 +2443,6 @@ King Dox looked the boy over, from his sailor hat to his stubby shoes.
 
 "Clever! clever indeed. Of course you don’t know. Nobody knows why; we only know it’s so, and can’t tell why it’s so. Button-Bright, you are as clever as a fox. Therefore, I will do you a great favor. I will confer upon you the head of a fox."
 
-
-
 The King waved his paw toward the boy, and at once the pretty curls and fresh round face and big blue eyes were gone. In their place a fox’s head appeared upon Button-Bright’s shoulders — a hairy head with a sharp nose, pointed ears, and keen little eyes.
 
 "How do you like the new head, Button-Bright?" asked the King.
@@ -3154,17 +2465,11 @@ Button-Bright stopped crying and asked timidly: "Am I?"
 
 "We shall all love you dearly," the third said. The boy looked around and tried to smile.
 
-"I think we must go now," said the shaggy man, uneasily. "Don’t leave us," pleaded King Renard. "I intend to have
-
-several days of feasting, in honor of your visit."
+"I think we must go now," said the shaggy man, uneasily. "Don’t leave us," pleaded King Renard. "I intend to have several days of feasting, in honor of your visit."
 
 "Later. We can’t wait," said Dorothy, decidedly. And she added: "I’ll find Ozma as soon as possible."
 
-"But it is now evening," the King reminded them, "and you must stay with us until morning, anyhow. Therefore I
-
-
-
-invite you to be my guests at dinner, and to the theater af- terward and sit in the royal box. Tomorrow morning, you may go."
+"But it is now evening," the King reminded them, "and you must stay with us until morning, anyhow. Therefore I invite you to be my guests at dinner, and to the theater afterward and sit in the royal box. Tomorrow morning, you may go."
 
 They consented to this, and some of the fox-servants led them to a suite of lovely rooms in the big palace.
 
@@ -3190,17 +2495,15 @@ The fox-captain escorted them to an arch. Here they found many soldiers.
 
 "Are you afraid of enemies?" asked Dorothy.
 
-"No; because we are watchful and able to protect our- selves," answered the captain. "But this road leads to another village where big, stupid beasts live."
+"No; because we are watchful and able to protect ourselves," answered the captain. "But this road leads to another village where big, stupid beasts live."
 
 "What beasts are they?" asked the shaggy man.
-
-
 
 The captain hesitated to answer. Finally he said,
 
 "You will see them yourselves. But do not be afraid of them."
 
-The Rainbow’s Daughter
+## The Rainbow’s Daughter
 
 Toto was glad to be free again and able to bark at the birds and chase the butterflies. The country around them was charming. Birds flew through the air and cunning white rabbits darted amongst the tall grasses and green bushes. They walked briskly on for an hour or two. Even little Button-Bright did not tire. At length as they turned a curve in the road they beheld just before them a curious sight.
 
@@ -3210,9 +2513,7 @@ Filled with wonder and admiration our friends approached and stood watching this
 
 "Are you unhappy, little girl?" "Very!" was the reply; "I am lost."
 
-"So are we," said Dorothy; "but we don’t cry about it." "I’ve never been lost before," murmured the dainty maid-
-
-en, "and I’m worried and afraid."
+"So are we," said Dorothy; "but we don’t cry about it." "I’ve never been lost before," murmured the dainty maiden, "and I’m worried and afraid."
 
 "You were dancing," remarked Dorothy.
 
@@ -3223,8 +2524,6 @@ en, "and I’m worried and afraid."
 "I’m Polychrome," was the reply. "Polychrome. I’m the Daughter of the Rainbow."
 
 "Oh!" said Dorothy; "I didn’t know the Rainbow had children."
-
-
 
 The little maiden came up to Dorothy.
 
@@ -3248,17 +2547,11 @@ The little maiden came up to Dorothy.
 
 She was a charming companion, and her dancing and laughter enlivened their journey.
 
- 
+## The City of Beasts
 
-The City of Beasts
+At noon they opened the Fox-King’s basket of luncheon, and found a nice roasted turkey with cranberry sauce and some slices of bread and butter. As they sat on the grass by the roadside the shaggy man cut up the turkey with his pocket-knife.
 
-At noon they opened the Fox-King’s basket of luncheon, and found a nice roasted turkey with cranberry sauce and some slices of bread and butter. As they sat on the grass by the road- side the shaggy man cut up the turkey with his pocket-knife.
-
-After they ate, they started again upon their journey, the shaggy man, Dorothy and Button-Bright walking soberly along,
-
-
-
-side by side, and the Rainbow’s Daughter dancing merrily before them. Suddenly she said,
+After they ate, they started again upon their journey, the shaggy man, Dorothy and Button-Bright walking soberly along, side by side, and the Rainbow’s Daughter dancing merrily before them. Suddenly she said,
 
 "There’s a city over there."
 
@@ -3282,13 +2575,9 @@ The shaggy man ran up to the nearest donkey and switched the beast.
 
 "Stop that noise!" he shouted; and the donkey stopped and turned its head to look with surprise at the shaggy man.
 
-He switched the next donkey, and made him stop, and then the next. The donkeys eyed the strangers with fear and trembling. "What do you mean by that noise?" asked the shaggy man,
-
-sternly.
+He switched the next donkey, and made him stop, and then the next. The donkeys eyed the strangers with fear and trembling. "What do you mean by that noise?" asked the shaggy man, sternly.
 
 "We were scaring away the foxes," said one of the donkeys, meekly. "Usually they run fast enough when they hear the noise."
-
-
 
 "There are no foxes here," said the shaggy man.
 
@@ -3298,7 +2587,7 @@ sternly.
 
 "Oh, I see," remarked the donkey. "I’m sorry we made such a mistake."
 
-The donkeys wore wide, white collars around their necks and the collars had many scallops and points. The gentlemen- donkeys wore high pointed caps set between their great ears, and the lady-donkeys wore sunbonnets with holes in the top for the ears. But they had no other clothing except their hairy skins. Some of the donkeys were white, some were brown, or gray, or black, or spotted.
+The donkeys wore wide, white collars around their necks and the collars had many scallops and points. The gentlemen-donkeys wore high pointed caps set between their great ears, and the lady-donkeys wore sunbonnets with holes in the top for the ears. But they had no other clothing except their hairy skins. Some of the donkeys were white, some were brown, or gray, or black, or spotted.
 
 The grey donkey said,
 
@@ -3306,31 +2595,15 @@ The grey donkey said,
 
 "That’s right," answered Dorothy. "Take us to some one who knows something."
 
-"Oh, we all know something, my child," asserted the grey one, with dignity. "The word 'donkey' means 'clever,' you know." "I didn’t know it," she replied. "I thought it meant ‘stupid'." "Not at all, my child. But come. I will myself lead you
+"Oh, we all know something, my child," asserted the grey one, with dignity. "The word 'donkey' means 'clever,' you know." "I didn’t know it," she replied. "I thought it meant ‘stupid'." "Not at all, my child. But come. I will myself lead you before our splendid, exalted, and most intellectual ruler."
 
-before our splendid, exalted, and most intellectual ruler."
-
- 
-
-The Shaggy Man’s Transformation
+## The Shaggy Man’s Transformation
 
 They found the houses of the town all low and square and built of bricks. The houses were not set in rows, forming regular streets, but placed here and there in a haphazard manner.
 
 "Stupid people must have streets and numbered houses in their cities," observed the grey donkey, as he walked before the
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image002.gif) |
-
-
-
-
-
 1 **Kik-a-bray** — Брыкун
-
-
 
 visitors; "but clever donkeys know their way about without such absurd marks."
 
@@ -3362,8 +2635,6 @@ He lifted his head and called " Whee-haw! whee-haw! whee-haw!" three times and k
 
 "Oh," said the King. "Let them come in."
 
-
-
 He opened the door wide, and the party marched into a big room. There were mats of woven grasses on the floor and the place was clean and neat. His squatted down in the center of the room and a little brown donkey ran and brought a big gold crown, and a golden staff with a jeweled ball at the end of it.
 
 "Now, then," said his Majesty, "tell me why you are here, and what you expect me to do for you."
@@ -3378,7 +2649,7 @@ This polite speech pleased the King very much. The white donkey looked kindly up
 
 The shaggy man cried out and tried to leap backward and escape, but in vain. Suddenly his own head was gone and a donkey head appeared in its place — a brown, shaggy head.
 
-"Dear me! dear me!" cried the shaggy man. "What a mis- fortune — what a great misfortune! Give me back my own head, you stupid king!"
+"Dear me! dear me!" cried the shaggy man. "What a misfortune — what a great misfortune! Give me back my own head, you stupid king!"
 
 "Don’t you like it?" asked the King, surprised.
 
@@ -3386,11 +2657,7 @@ The shaggy man cried out and tried to leap backward and escape, but in vain. Sud
 
 "But I can’t do that," was the reply. '"My magic works only one way. I can do things, but I can’t undo them. You can find the Truth Pond, and bathe in its water, in order to get back your own head. But I advise you not to do that. This head is much more beautiful than the old one."
 
-
-
-"Where is the Truth Pond?" asked the shaggy man. "Somewhere in the Land of Oz; but just the exact loca-
-
-tion of it I cannot tell," was the answer.
+"Where is the Truth Pond?" asked the shaggy man. "Somewhere in the Land of Oz; but just the exact location of it I cannot tell," was the answer.
 
 "Don’t worry, Shaggy Man," said Dorothy. "If the Truth Pond is in Oz we’ll find it when we get there."
 
@@ -3410,7 +2677,7 @@ tion of it I cannot tell," was the answer.
 
 "Hee-haw! You deserve punishment, rather than reward," said the shaggy man, sorrowfully.
 
-"If you will give us some supper and a place to sleep to- night," said Dorothy to the King, "I’ll ask Ozma to invite you." "Good! Hee-haw! Excellent!" cried Kik-a-bray, much pleased. "You will all have fine suppers and good beds. What food do you prefer, a bran mash or **ripe oats in the shell**1?"
+"If you will give us some supper and a place to sleep tonight," said Dorothy to the King, "I’ll ask Ozma to invite you." "Good! Hee-haw! Excellent!" cried Kik-a-bray, much pleased. "You will all have fine suppers and good beds. What food do you prefer, a bran mash or **ripe oats in the shell**1?"
 
 "Neither one," replied Dorothy, promptly.
 
@@ -3424,19 +2691,7 @@ tion of it I cannot tell," was the answer.
 
 "Well," decided the King, "I suppose my Magic Staff will produce the things you crave."
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **ripe oats in the shell** — спелый овёс в шелухе
-
-
 
 With this he waved his staff with the jeweled ball, and before them instantly appeared a tea-table, set with linen and pretty dishes. Dorothy’s beefsteak was hot, and the shaggy man’s apples were plump and rosy. The Rainbow’s Daughter found three tiny dewdrops on a crystal plate, and Button-Bright had a big slice of apple-pie, which he devoured eagerly.
 
@@ -3448,9 +2703,7 @@ In the morning, they breakfasted and then they passed through the village. The b
 
 "I shan’t," promised Dorothy.
 
- 
-
-Facing the Scoodlers
+## Facing the Scoodlers
 
 The country wasn’t so pretty now. Before the travelers appeared a rocky plain with hills.
 
@@ -3458,11 +2711,7 @@ The country wasn’t so pretty now. Before the travelers appeared a rocky plain 
 
 "No, I don’t," replied Dorothy; "but it’s the only road in this part of the country."
 
-Toto disappeared from view, but they heard him barking furiously ahead of them. They moved forward a little faster to see what the dog was barking at. The saw a curious creature on the rock. It had the form of a man, middle-sized and rather slender and graceful. It sat silent and motionless upon the peak. Its face was black as ink, and it wore a black cloth costume. Its hands were black, too, and its toes curled
-
-
-
-down, like a bird’s. But its hair was yellow. The eyes were small and sparkling and looked like the eyes of a weasel.
+Toto disappeared from view, but they heard him barking furiously ahead of them. They moved forward a little faster to see what the dog was barking at. The saw a curious creature on the rock. It had the form of a man, middle-sized and rather slender and graceful. It sat silent and motionless upon the peak. Its face was black as ink, and it wore a black cloth costume. Its hands were black, too, and its toes curled down, like a bird’s. But its hair was yellow. The eyes were small and sparkling and looked like the eyes of a weasel.
 
 "What do you suppose that is?" asked Dorothy. "I don’t know," said Button-Bright.
 
@@ -3496,23 +2745,11 @@ The creatures all flopped around, so they were white, and then all flopped back 
 
 "Soup!" they all shouted.
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **Scoodlers** — Прыгалсы
-
-
 
 "Oh!" said Dorothy, trembling a little; "the Scoodlers must be cannibals."
 
-"I don’t want to be soup," protested Button-Bright, begin- ning to cry.
+"I don’t want to be soup," protested Button-Bright, beginning to cry.
 
 "Hush, dear," said the little girl, trying to comfort him; "don’t worry; the shaggy man will take care of us."
 
@@ -3532,19 +2769,15 @@ He felt the Love Magnet in his pocket and said to the creatures,
 
 "The only thing to do," said the shaggy man to his friends, "is to get out of this place and leave the Scoodlers behind us. Follow me, my dears, and don’t pay any attention to what they do or say."
 
-With this he began to march along the road to the open- ing in the rocks, and the others followed him. But the Scoodlers barred their way, and so the shaggy man picked up a stone, which he threw at the creatures to scare them from the path.
+With this he began to march along the road to the opening in the rocks, and the others followed him. But the Scoodlers barred their way, and so the shaggy man picked up a stone, which he threw at the creatures to scare them from the path.
 
 At this the Scoodlers raised a howl. Two of them picked their heads from their shoulders and hurled them at the shaggy man with such force that he fell down, greatly astonished. The two now ran forward, caught up their heads, and put them on again.
 
-Escaping the Soup-kettle
+## Escaping the Soup-kettle
 
-The Scoodlers began to yell and throw their heads at our frightened friends. Our friends saw that it was useless to try to
+The Scoodlers began to yell and throw their heads at our frightened friends. Our friends saw that it was useless to try to run away from the dreadful Scoodlers. The Scoodlers could walk in either direction, because they had two faces. They moved with great rapidity and led their captives away from the rocks and the road, down the hill until they came to a mountain that looked like a huge bowl turned upside down. At the edge of this mountain was a deep gulf. Across the gulf was a narrow bridge, and at the other end of the bridge was an arched opening that led into the mountain.
 
-
-
-run away from the dreadful Scoodlers. The Scoodlers could walk in either direction, because they had two faces. They moved with great rapidity and led their captives away from the rocks and the road, down the hill until they came to a moun- tain that looked like a huge bowl turned upside down. At the edge of this mountain was a deep gulf. Across the gulf was a narrow bridge, and at the other end of the bridge was an arched opening that led into the mountain.
-
-Over this bridge the Scoodlers led their prisoners, through the opening into the mountain. Dorothy saw a huge iron caul- dron in the middle of the place.
+Over this bridge the Scoodlers led their prisoners, through the opening into the mountain. Dorothy saw a huge iron cauldron in the middle of the place.
 
 "What’s that?" asked the shaggy man.
 
@@ -3568,8 +2801,6 @@ The Queen of the Scoodlers was much more dreadful in appearance than her people.
 
 "True," replied the Queen. "We love you very much; so we intend to eat your broth with real pleasure. But tell me, do you think I am so beautiful?"
 
-
-
 "You won’t be beautiful if you eat me," he said. The Queen turned to Button-Bright.
 
 "Do you think I’m beautiful?" she asked. "No," said the boy; "you’re ugly."
@@ -3584,7 +2815,7 @@ The Scoodlers shut the captives in one of the houses. The place was a sort of st
 
 "I’m going to fight for our lives," the shaggy man whispered to the children.
 
-Polychrome danced back and forth to keep herself warm. Whenever she approached the shaggy man he whis- pered something in her ear, and Polly nodded her pretty head.
+Polychrome danced back and forth to keep herself warm. Whenever she approached the shaggy man he whispered something in her ear, and Polly nodded her pretty head.
 
 The shaggy man told Dorothy and Button-Bright to stand before him while he emptied the potatoes out of one of the sacks. Then little Polychrome, dancing near to the guard, suddenly reached out her hand and slapped his face. The next instant she whirled away from him quickly.
 
@@ -3592,19 +2823,7 @@ The angry Scoodler picked off his head and hurled it at the Rainbow’s Daughter
 
 "I’ll carry Button-Bright," he said.
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **meat chopper** — мясорубка
-
-
 
 Dorothy picked up Toto, and then seized Polly’s hand and ran swiftly toward the entrance to the cave. The shaggy man perched Button-Bright on his shoulders and ran after them. They moved quickly, but one of the Scoodlers looked out of his house and saw them.
 
@@ -3616,29 +2835,15 @@ Then the shaggy man turned around and faced his enemies. As they threw their hea
 
 They hastened up the hillside and found the old familiar path again.
 
-**Johnny Dooit**2 Does It
+## Johnny Dooit2 Does It
 
-"What an awful walk!" said Dorothy, as they trudged along. Button-Bright said he was hungry. Indeed, all were hungry,
-
-and thirsty. They grew silent and weary. At last they slowly passed over the crest of a hill and saw before them a line of green trees with grass at their feet.
+"What an awful walk!" said Dorothy, as they trudged along. Button-Bright said he was hungry. Indeed, all were hungry, and thirsty. They grew silent and weary. At last they slowly passed over the crest of a hill and saw before them a line of green trees with grass at their feet.
 
 Our travelers found a spring of pure water, around which the grass was full of strawberry plants. Some of the trees bore yellow oranges and some russet pears. They ate strawberries and oranges and soon were content. Then they saw before them
-
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image002.gif) |
-
-
-
-
 
 1 **started in chase** — пустились в погоню
 
 2 **Johnny Dooit** — Джонни-Умелец
-
-
 
 a fearful, dismal desert, everywhere grey sand. At the edge was a large white sign with black letters,
 
@@ -3650,15 +2855,15 @@ ALL PERSONS ARE WARNED NOT TO VENTURE UPON THIS DESERT FOR THE DEADLY SANDS WILL
 
 "I don’t know, either," added Dorothy, despondently. Finally the shaggy man said,
 
-"It’s evening, now. We may sleep in this pretty place. Per- haps by morning we can decide what to do."
+"It’s evening, now. We may sleep in this pretty place. Perhaps by morning we can decide what to do."
 
-In the bright morning sunshine, as they ate of the straw- berries and sweet juicy pears, Dorothy said:
+In the bright morning sunshine, as they ate of the strawberries and sweet juicy pears, Dorothy said:
 
 "Polly, can you do any magic?" "No, dear," answered Polychrome.
 
 "How to find some way to cross the desert to the Land of Oz and its Emerald City?" said Dorothy, "We need some magic now. But the only magic the shaggy man has is the Love Magnet, which won’t help us much."
 
-"Don’t be too sure of that, my dear," spoke the shaggy man, with a smile on his donkey face. "I can call to us a pow- erful friend who loves me because I own the Love Magnet. This friend will be able to help us."
+"Don’t be too sure of that, my dear," spoke the shaggy man, with a smile on his donkey face. "I can call to us a powerful friend who loves me because I own the Love Magnet. This friend will be able to help us."
 
 "Who is your friend?" asked Dorothy. "Johnny Dooit."
 
@@ -3672,8 +2877,6 @@ He looked at it steadily and said these words, "Dear Johnny Dooit, come to me!"
 
 "Well, here I am," said a cheery little voice.
 
-
-
 They saw a funny little man on a big copper chest, with a long pipe. His hair was grey, his whiskers were grey. His nose was broad; but his eyes were twinkling and merry.
 
 "Good morning, Johnny," said the shaggy man.
@@ -3682,13 +2885,9 @@ They saw a funny little man on a big copper chest, with a long pipe. His hair wa
 
 The shaggy man introduced Johnny Dooit to Dorothy and Toto and Button-Bright and the Rainbow’s Daughter, and told him the story of their adventures. He added that they were anxious to reach the Emerald City in the Land of Oz, where Dorothy had friends.
 
-"But," said he, "we can’t cross this desert. Can you help
+"But," said he, "we can’t cross this desert. Can you help us?"
 
-us?"
-
-Johnny Dooit puffed his pipe and looked carefully at the
-
-dreadful desert in front of them.
+Johnny Dooit puffed his pipe and looked carefully at the dreadful desert in front of them.
 
 "You must ride," he said, briskly. "In a sand-boat. The wind will blow you swiftly across the desert and the sand cannot touch your flesh to turn it into dust."
 
@@ -3704,13 +2903,9 @@ He seized an axe and cut a tree. Next he took a saw and in a few minutes sawed t
 
 "It will do that," declared Johnny Dooit.
 
+He slammed down the lid of the chest, and then the workman disappeared.
 
-
-He slammed down the lid of the chest, and then the work- man disappeared.
-
- 
-
-The Deadly Desert Crossed
+## The Deadly Desert Crossed
 
 "Oh, that’s too bad!" cried Dorothy; "I wanted to thank Johnny Dooit for all his kindness to us."
 
@@ -3732,15 +2927,9 @@ The shaggy man was in despair because he could do nothing to stop the wild rush 
 
 "So," said the shaggy man. "Let’s go there."
 
- 
+## The Truth Pond
 
-The Truth Pond
-
-They examined the country around them. Sunshine and sweet, crisp air were delightful to the wanderers. Little mounds of yellowish green were at the right, while on the
-
-
-
-left waved a group of tall trees. Among the grasses were pretty buttercups and cowslips and marigolds. Dorothy said reflectively,
+They examined the country around them. Sunshine and sweet, crisp air were delightful to the wanderers. Little mounds of yellowish green were at the right, while on the left waved a group of tall trees. Among the grasses were pretty buttercups and cowslips and marigolds. Dorothy said reflectively,
 
 " We must be in the Country of the Winkies, for the color of that country is yellow."
 
@@ -3770,15 +2959,13 @@ She led him to the pool. "It’s me!" he said.
 
 "Well," announced the shaggy man, "it’s my turn next."
 
-
-
 He took off his shaggy coat and dived head into the Truth Pond. When he came up the donkey head disappeared, and the shaggy man’s own shaggy head was in its place.
 
 "I am not very beautiful," he said to his companions; "but I’m so much handsomer than any donkey."
 
 "You’re all right, Shaggy Man," declared Dorothy. "And Button-Bright is all right, too. So let’s go to the Emerald City."
 
-Tik-Tok and Billina
+## Tik-Tok and Billina
 
 Soon they came upon a fine road leading toward the northwest.
 
@@ -3804,8 +2991,6 @@ The girl said to her friends,
 
 "It’s Tik-tok and Billina! I’m so glad to see them again." "Welcome to Oz," said the copper man.
 
-
-
 Dorothy sat right down in the road, and began to stroke Billina’s back.
 
 "Dorothy, dear, I’ve some wonderful news to tell you," said the hen.
@@ -3820,15 +3005,13 @@ Dorothy sat right down in the road, and began to stroke Billina’s back.
 
 "That’s funny. But tell me, how did you happen to be here, in the Country of the Winkies?"
 
-"I’ll tell you," answered Tik-tok. "Princess Ozma saw you in her magic picture, and knew you were coming here. She sent Billina and me to welcome you. She was too busy to come herself. She is preparing for her birthday celebra- tion."
+"I’ll tell you," answered Tik-tok. "Princess Ozma saw you in her magic picture, and knew you were coming here. She sent Billina and me to welcome you. She was too busy to come herself. She is preparing for her birthday celebration."
 
 "I’ve heard of it," said Dorothy. "Is it far from here to the Emerald City?"
 
 "Not very far," answered Tik-tok. "Tonight we will stop at the palace of the Tin Woodman, and tomorrow night we will arrive at the Emerald City."
 
- 
-
-The Emperor’s Tin Castle
+## The Emperor’s Tin Castle
 
 They saw pretty flower-beds, with fountains of crystal water and statues of Tin Woodman’s friends. Dorothy was astonished and delighted to find a tin statue of herself.
 
@@ -3836,13 +3019,9 @@ They saw pretty flower-beds, with fountains of crystal water and statues of Tin 
 
 The tin figure of Toto was lying at the tin Dorothy’s feet. Also Dorothy saw figures of the Scarecrow, and the Wizard, and Ozma, and of many others, including Tik-tok. They reached the grand tin entrance to the tin castle, and the Tin Woodman himself came out of the door to embrace little Dorothy.
 
-
-
 The Emperor of the Winkies, who was also known throughout the Land of Oz as the Tin Woodman, was certainly a remarkable person. He was proud of his new tin castle, and showed his visitors the rooms. Every bit of the furniture was made of tin — the tables, chairs, beds — even the floors and walls were of tin.
 
-"It cost a lot of money," remarked the shaggy man. "Money! Money in Oz!" cried the Tin Woodman. "What
-
-a queer idea! Did you suppose we are so vulgar as to use money here?"
+"It cost a lot of money," remarked the shaggy man. "Money! Money in Oz!" cried the Tin Woodman. "What a queer idea! Did you suppose we are so vulgar as to use money here?"
 
 " Why not?" asked the shaggy man.
 
@@ -3856,21 +3035,15 @@ I’d like to live here always." The Tin Woodman said,
 
 "I’ll try to prove that," said the shaggy man.
 
-They spent the wonderful evening, and the next morn- ing left the splendid tin castle. The Tin Woodman went with them. He took his axe, which he always carried with him. The Winkies assembled before the castle gates and cheered their Emperor.
+They spent the wonderful evening, and the next morning left the splendid tin castle. The Tin Woodman went with them. He took his axe, which he always carried with him. The Winkies assembled before the castle gates and cheered their Emperor.
 
- 
-
-The Royal Chariot Arrives
+## The Royal Chariot Arrives
 
 The neat yellow houses of the Winkies were standing here and there along the roadway. The nearer the travelers came to the Emerald City the more prosperous the country became.
 
-
-
 Then they came to a high bridge over a broad river. This river was the boundary between the Country of the Winkies and the territory of the Emerald City. From the top of the high bridge they saw the magnificent spires and splendid domes of the city. Polly was so pleased that her violet eyes sparkled like amethysts, and she danced away from her companions across the bridge. Then she saw two great beasts. One was a tawny lion, as tall as a horse; the other a striped tiger almost the same size. Polly was too frightened to scream. But Dorothy rushed past her and with a glad cry threw her arms around the huge lion’s neck.
 
-"Oh, I’m so glad to see you again!" cried the little Kansas girl. "And the Hungry Tiger, too! Are you well and happy?" " We certainly are, Dorothy," answered the Lion; "and
-
-we are greatly pleased that you have come to Ozma’s party. It will be a grand celebration, I promise you."
+"Oh, I’m so glad to see you again!" cried the little Kansas girl. "And the Hungry Tiger, too! Are you well and happy?" " We certainly are, Dorothy," answered the Lion; "and we are greatly pleased that you have come to Ozma’s party. It will be a grand celebration, I promise you."
 
 "There will be many fat babies at the celebration," remarked the Hungry Tiger; "but of course I can’t eat any of them."
 
@@ -3890,11 +3063,9 @@ The Lion bowed with great dignity to Polly.
 
 "Hush, Dorothy," whispered the Tiger; "you’ll ruin my reputation."
 
+## The Emerald City
 
-
-The Emerald City
-
-The Cowardly Lion and the Hungry Tiger were drawing behind them a splendid golden chariot. The chariot was deco- rated with sparkling emeralds.
+The Cowardly Lion and the Hungry Tiger were drawing behind them a splendid golden chariot. The chariot was decorated with sparkling emeralds.
 
 "It’s Ozma’s own royal chariot!" exclaimed Dorothy.
 
@@ -3902,7 +3073,7 @@ The Cowardly Lion and the Hungry Tiger were drawing behind them a splendid golde
 
 As the strides of the animals brought them nearer to the Emerald City everyone bowed respectfully to the children, as well as to the Tin Woodman, Tik-tok, and the shaggy man, who were following behind. The Yellow Hen perched upon the back of the chariot, where she told Dorothy more about her wonderful chickens as they rode.
 
-The shaggy man was astounded at what he saw. The grace- ful and handsome buildings were covered with plates of gold and set with emeralds. The sidewalks were superb marble slabs polished as smooth as glass. There were many people on these walks — men, women, and children — all dressed in handsome garments of silk or satin or velvet, with beautiful jewels. All seemed happy and contented.
+The shaggy man was astounded at what he saw. The graceful and handsome buildings were covered with plates of gold and set with emeralds. The sidewalks were superb marble slabs polished as smooth as glass. There were many people on these walks — men, women, and children — all dressed in handsome garments of silk or satin or velvet, with beautiful jewels. All seemed happy and contented.
 
 "Don’t they work, at all?" asked the shaggy man.
 
@@ -3920,9 +3091,7 @@ Dorothy ran up to her and exclaimed:
 
 "O Jellia Jamb! I’m so glad to see you again. Where’s Ozma?"
 
-"In her room, your Highness," replied the little maid de- murely.
-
-
+"In her room, your Highness," replied the little maid demurely.
 
 "When is her birthday, Jellia?" asked the girl. "Day after tomorrow, your Highness."
 
@@ -3932,39 +3101,31 @@ Dorothy ran up to her and exclaimed:
 
 The shaggy man hesitated. He was never ashamed of his shaggy looks before, but now that he was surrounded by so much magnificence and splendor the shaggy man felt sadly out of place. He carefully dusted his shaggy shoes with his shaggy handkerchief and entered the grand hall after the others.
 
- 
+## The Shaggy Man’s Welcome
 
-The Shaggy Man’s Welcome
-
-The shaggy man stood in the great hall. In the big, cold, outside world people did not invite shaggy men to their homes. He slept more often in hay-lofts and stables than in comfort- able rooms. He saw the splendidly dressed servants of the Princess Ozma. One of them bowed before him and said,
+The shaggy man stood in the great hall. In the big, cold, outside world people did not invite shaggy men to their homes. He slept more often in hay-lofts and stables than in comfortable rooms. He saw the splendidly dressed servants of the Princess Ozma. One of them bowed before him and said,
 
 "Permit me, sir, to conduct you to your apartments." "Very well," the shaggy man answered; "I’m ready."
 
 They went through the big hall, up the grand staircase and along a wide corridor to a carved doorway. Here the servant opened the door,
 
-"Please enter, sir, and make yourself at home. Whatever you see is for you to use and enjoy. The Princess dines at seven, and I shall be here in time to lead you to the drawing- room. Is there any command with which you desire to honor me?"
+"Please enter, sir, and make yourself at home. Whatever you see is for you to use and enjoy. The Princess dines at seven, and I shall be here in time to lead you to the drawingroom. Is there any command with which you desire to honor me?"
 
 "No," said the shaggy man; "but I’m much obliged."
 
-He entered the room and shut the door, and for a time stood in bewilderment. He was in one of the handsomest apartments in the most magnificent palace in the world. The rug upon the marble floor was so thick and soft that he could not hear the sound of his own footsteps. Upon the
-
-
-
-walls were splendid tapestries with scenes from the Land of Oz. Books and ornaments were scattered about. The shaggy man has never seen so many pretty things in one place before. In one corner played a tinkling fountain of perfumed water.
+He entered the room and shut the door, and for a time stood in bewilderment. He was in one of the handsomest apartments in the most magnificent palace in the world. The rug upon the marble floor was so thick and soft that he could not hear the sound of his own footsteps. Upon the walls were splendid tapestries with scenes from the Land of Oz. Books and ornaments were scattered about. The shaggy man has never seen so many pretty things in one place before. In one corner played a tinkling fountain of perfumed water.
 
 At the farther end of this charming room was an open doorway. He saw a wonderful bedroom. The bedstead was of gold and set with many diamonds. At one side of the bedroom was a dainty dressing-room, with new clothes. Beyond this was the bath — a large room with a marble pool.
 
-The shaggy man gazed upon all this luxury with silent amazement. Then he removed his shaggy boots and his shaggy clothing, and bathed in the pool with enjoyment. After that he went into the dressing-room and took fresh linen from the drawers and put it on. He examined the contents of the closets and selected an elegant suit of cloth- ing. On a table he found a chest, and on the cover was a silver plate,
+The shaggy man gazed upon all this luxury with silent amazement. Then he removed his shaggy boots and his shaggy clothing, and bathed in the pool with enjoyment. After that he went into the dressing-room and took fresh linen from the drawers and put it on. He examined the contents of the closets and selected an elegant suit of clothing. On a table he found a chest, and on the cover was a silver plate,
 
 THE SHAGGY MAN: HIS BOX OF ORNAMENTS
 
 The chest was not locked, so he opened it. It contained rich jewels. The shaggy man breathed a deep sigh of joy and decided he was ready to meet the Royal Princess.
 
- 
+## Princess Ozma of Oz
 
-Princess Ozma of Oz
-
-Dorothy threw her arms around Ozma and hugged and kissed her rapturously, and Toto barked joyfully and Button- Bright smiled a happy smile.
+Dorothy threw her arms around Ozma and hugged and kissed her rapturously, and Toto barked joyfully and Button-Bright smiled a happy smile.
 
 " Why didn’t you tell me about your birthday party?" asked the little Kansas girl.
 
@@ -3972,15 +3133,13 @@ Dorothy threw her arms around Ozma and hugged and kissed her rapturously, and To
 
 "Oh! It was you!" cried Dorothy.
 
-
-
 "I watched you in my Magic Picture all the way," declared Ozma, "and twice I thought to use the Magic Belt to save you and transport you to the Emerald City. Once was when the Scoodlers caught you, and again when you reached the Deadly Desert. But the shaggy man was able to help you, so I did not interfere."
 
 "Well," said Dorothy, "I promised King Dox of Foxville and King Kik-a-bray of Donkeytown to invite them to your party."
 
 "I have already done that," returned Ozma.
 
-Just then Polychrome danced in, and Ozma rose to greet the Rainbow’s Daughter. The Wizard of Oz was announced, and a little old man, clothed all in black, entered the drawing- room. He stood modestly behind Ozma’s throne and listened to the lively prattle of the young people.
+Just then Polychrome danced in, and Ozma rose to greet the Rainbow’s Daughter. The Wizard of Oz was announced, and a little old man, clothed all in black, entered the drawingroom. He stood modestly behind Ozma’s throne and listened to the lively prattle of the young people.
 
 Now the shaggy man appeared. Dorothy cried "Oh!" and clasped her hands impulsively as she examined her friend. Dorothy led him toward the throne and said,
 
@@ -4000,8 +3159,6 @@ The shaggy man answered in a low voice, "I stole it, your Majesty."
 
 "Are you sorry you stole it?" asked the Princess.
 
-
-
 "No, your Highness; I’m glad," he answered; "for everybody loved me. Now I hope to remain here and to become one of your Majesty’s most faithful subjects."
 
 " We will hang the Love Magnet over the gates of the Emerald City," announced the Princess.
@@ -4016,17 +3173,13 @@ The shaggy man wanted to remain in Oz, and Ozma decided to allow him to live in 
 
 Our friends had a nice quiet dinner together and passed a pleasant evening with the Scarecrow, the Tin Woodman, Tik-tok, and the Yellow Hen. Ozma decided to transport Dorothy and Toto in the Kansas farmhouse by means of the Magic Belt while she was sleeping. Dorothy clasped Toto in her arms and lay down upon the pretty white bed in her room in Ozma’s royal palace. Presently Dorothy was asleep.
 
- 
+# 5. The Emerald City of Oz
 
-\5. The Emerald City of Oz
-
-How the Nome King Became Angry
+## How the Nome King Became Angry
 
 The Nome King was in an angry mood. Every one kept away from him, even his Chief Steward Kaliko.
 
 "Send the Chief Counselor here!" shouted the angry monarch.
-
-
 
 Soon the Chief Counselor entered the cavern. The King scowled and said to him,
 
@@ -4056,21 +3209,17 @@ Kaliko hastily withdrew, and the General of his armies appeared. This Nome was a
 
 "You don’t know what you’re talking about," continued the General. "I advise you to stand in a corner and count sixty before you speak again. By that time you may be more sensible. We cannot march across the deadly desert to the Land of Oz.
 
-
-
 The Ruler of that country, Princess Ozma, has certain fairy powers. And you lost your Magic Belt, so we have no chance of defeating Ozma."
 
 "I want it!" screamed the King. "I must have it."
 
-"Well, then, let us try in a sensible way to get it," replied the General. "The Belt was captured by a little girl named Dorothy, who lives in Kansas, in the United States of America." "But she left it in the Emerald City, with Ozma," declared
-
-the King.
+"Well, then, let us try in a sensible way to get it," replied the General. "The Belt was captured by a little girl named Dorothy, who lives in Kansas, in the United States of America." "But she left it in the Emerald City, with Ozma," declared the King.
 
 "How do you know that?" asked the General.
 
 "One of my spies, who is a Blackbird, flew over the desert to the Land of Oz, and saw the Magic Belt in Ozma’s palace," replied the King with a groan.
 
-"Now that gives me an idea," said General Blug, thought- fully. "There are two ways to get to the Land of Oz. One way is over the desert, through the air; and the other way is under the desert, through the earth."
+"Now that gives me an idea," said General Blug, thoughtfully. "There are two ways to get to the Land of Oz. One way is over the desert, through the air; and the other way is under the desert, through the earth."
 
 The Nome King uttered a yell of joy and leaped from his throne.
 
@@ -4084,11 +3233,9 @@ The Nome King uttered a yell of joy and leaped from his throne.
 
 He picked up his scepter, which had a heavy ball, made from a sapphire, at the end of it, and threw it at General Blug. The sapphire hit the General upon his forehead. Then the King rang his gong and told his guards to drag out the General and throw him away.
 
+## How Uncle Henry Got Into Trouble
 
-
-How Uncle Henry Got Into Trouble
-
-Uncle Henry grew poorer every year. At last the bank- er who had loaned him the money said that if he did not pay on a certain day, his farm would be taken away from him.
+Uncle Henry grew poorer every year. At last the banker who had loaned him the money said that if he did not pay on a certain day, his farm would be taken away from him.
 
 This worried Uncle Henry. He was a good man, and worked in the field; and Aunt Em did all the housework, with Dorothy’s help. Yet they were poor. Dorothy traveled a lot, but she never brought any jewels home with her, so their poverty became greater every year.
 
@@ -4110,8 +3257,6 @@ Dorothy smiled.
 
 "A Princess!" they both exclaimed, astonished.
 
-
-
 "Yes; Ozma made me a Princess, and she begged me to come and live always in the Emerald City," said the child.
 
 Her uncle and aunt looked at her in amazement. Then the man said,
@@ -4126,21 +3271,17 @@ Aunt Em said, with regret,
 
 Dorothy knew that she could help them. But she needed to ask Ozma’s consent before that. So she only said, "If you promise not to worry about me, I’ll go to the
 
-Land of Oz this very afternoon and come back soon." "Dear Dorothy," her uncle sadly replied, "if you are sure
-
-your fairy friends will give you a home, it will be best for you to go to them, as your aunt says."
+Land of Oz this very afternoon and come back soon." "Dear Dorothy," her uncle sadly replied, "if you are sure your fairy friends will give you a home, it will be best for you to go to them, as your aunt says."
 
 Dorothy went to her little room in the attic and took a small dog named Toto. The child kissed her uncle and aunt affectionately before she went upstairs. She looked around her little room: simple trinkets and worn dresses. They will be of no use to her in her future life.
 
-She sat down upon a broken chair and waited pa- tiently until the clock struck four. Then she made the secret signal.
+She sat down upon a broken chair and waited patiently until the clock struck four. Then she made the secret signal.
 
 Uncle Henry and Aunt Em waited downstairs. They heard the clock strike four but there was no sound from above. Softly, they crept up the stairs to the door of the little girl’s room.
 
 The room was empty.
 
-
-
-How Ozma Granted Dorothy’s Request
+## How Ozma Granted Dorothy’s Request
 
 A few seconds after she had made the secret signal in her little bedchamber, the Kansas girl was seated in a lovely room in Ozma’s palace in the Emerald City of Oz. The fair Ruler inquired,
 
@@ -4166,37 +3307,29 @@ Dorothy sighed.
 
 Dorothy was delighted.
 
-
-
 "But you must not call me 'Princess'," she said; "I shall live on the little farm with Uncle Henry and Aunt Em, and princesses don’t to live on farms."
 
 "Princess Dorothy will not," replied Ozma with her sweet smile. "You are going to live in your own rooms in this palace, and be my constant companion."
 
 "But Uncle Henry…" began Dorothy.
 
-"Oh, he is old, and has worked enough in his life," inter- rupted the girl Ruler; "so we must find a place for your uncle and aunt where they will be comfortable and happy and need not work. Tomorrow morning I will come here. I will order Jellia Jamb to prepare rooms for them, and after breakfast we will get the Magic Belt and by its aid transport your uncle and aunt to the Emerald City."
+"Oh, he is old, and has worked enough in his life," interrupted the girl Ruler; "so we must find a place for your uncle and aunt where they will be comfortable and happy and need not work. Tomorrow morning I will come here. I will order Jellia Jamb to prepare rooms for them, and after breakfast we will get the Magic Belt and by its aid transport your uncle and aunt to the Emerald City."
 
 "Thank you, Ozma!" cried Dorothy, kissing her friend gratefully.
 
 "And now," Ozma proposed, "let us take a walk in the gardens before we dress for dinner. Come, Dorothy dear!"
 
- 
+## How The Nome King Planned Revenge
 
-How The Nome King Planned Revenge
-
-The reason most people are bad is because they do not try to be good. The Nome King never tried to be good, so he was very bad indeed. He called his Chief Steward and said, "Kaliko, I think I shall make you the General of my ar-
-
-mies."
+The reason most people are bad is because they do not try to be good. The Nome King never tried to be good, so he was very bad indeed. He called his Chief Steward and said, "Kaliko, I think I shall make you the General of my armies."
 
 "I think you won’t," replied Kaliko. "Why not?" inquired the King.
 
 "Because I’m your Chief Steward and know nothing of warfare," he said. "Besides, you throw your Generals away so often that I have no desire to be one of them."
 
-"Ah, there is some truth in your remarks, Kaliko," re- marked the King. "Summon my army to assemble in the Great Cavern."
+"Ah, there is some truth in your remarks, Kaliko," remarked the King. "Summon my army to assemble in the Great Cavern."
 
-
-
-Kaliko bowed and retired, and in a few minutes army was assembled. The King went out upon a balcony. He looked upon his tremendous army and saw that his legions were very power- ful. Then he addressed them from the balcony,
+Kaliko bowed and retired, and in a few minutes army was assembled. The King went out upon a balcony. He looked upon his tremendous army and saw that his legions were very powerful. Then he addressed them from the balcony,
 
 "I have thrown away General Blug, because he did not please me. So I want another General to command this army. The General must promise to carry out my orders. Now, then, who will lead my hosts to the Emerald City?"
 
@@ -4222,25 +3355,17 @@ Guph went to the King’s private cave and sat down upon an amethyst chair.
 
 "I’m ready for the talk, your Majesty," he said. "You see, it will be difficult to conquer the Oz people."
 
-"We have fifty thousand soldiers!" cried the King proudly. "Yes; but they are Nomes," remarked Guph. "Nomes are
+"We have fifty thousand soldiers!" cried the King proudly. "Yes; but they are Nomes," remarked Guph. "Nomes are immortals, but they are not strong on magic."
 
-immortals, but they are not strong on magic."
-
-
-
-"What do you propose to do?" asked the monarch. "There are many evil creatures who have magic powers suf-
-
-ficient to destroy and conquer the Land of Oz," answered Guph. "We will get them on our side. It’s all very simple and easy when you know how. Alone, we will be helpless to injure the Ruler of Oz."
+"What do you propose to do?" asked the monarch. "There are many evil creatures who have magic powers sufficient to destroy and conquer the Land of Oz," answered Guph. "We will get them on our side. It’s all very simple and easy when you know how. Alone, we will be helpless to injure the Ruler of Oz."
 
 "Surely, Guph, you are the greatest General I have ever had!" the King exclaimed.
 
 "I’ll start this very afternoon to visit the Chief of the Whimsies," replied the new General.
 
- 
+## How Dorothy Became a Princess
 
-How Dorothy Became a Princess
-
-When the people of the Emerald City heard that Dorothy had returned to them everyone wanted to see her, for the little girl was a favorite in the Land of Oz. Next morning, at Ozma’s request, Dorothy dressed herself in a pretty sky-blue gown of rich silk, trimmed with real pearls. The buckles of her shoes were set with pearls, too, and more of these price- less gems were on a lovely coronet which she wore upon her forehead.
+When the people of the Emerald City heard that Dorothy had returned to them everyone wanted to see her, for the little girl was a favorite in the Land of Oz. Next morning, at Ozma’s request, Dorothy dressed herself in a pretty sky-blue gown of rich silk, trimmed with real pearls. The buckles of her shoes were set with pearls, too, and more of these priceless gems were on a lovely coronet which she wore upon her forehead.
 
 "From this time forth, my dear," said her friend Ozma, "you must assume your rightful rank as a Princess of Oz."
 
@@ -4248,7 +3373,7 @@ Dorothy agreed to this. Then Ozma said,
 
 "Now, dear friend, we will use the Magic Belt to transport your uncle and aunt from Kansas to the Emerald City."
 
-The girls went to the Throne Room, an immense cham- ber in the center of the palace. Here stood the royal throne, made of solid gold. Ozma, who was wearing the Magic Belt, seated herself in the throne, and Dorothy sat at her feet.
+The girls went to the Throne Room, an immense chamber in the center of the palace. Here stood the royal throne, made of solid gold. Ozma, who was wearing the Magic Belt, seated herself in the throne, and Dorothy sat at her feet.
 
 "Are you ready, Dorothy?" asked the Ruler.
 
@@ -4256,11 +3381,9 @@ The girls went to the Throne Room, an immense cham- ber in the center of the pal
 
 "That won’t matter," declared Ozma. "Here they come, my dear!"
 
-
-
 As she spoke, there before the throne appeared Uncle Henry and Aunt Em. For a moment they stood motionless, with white and startled faces.
 
-Aunt Em’s hair was straggly and she had on a pair of Uncle Henry’s old slippers. In one hand she held a dish- towel and in the other a cracked plate. Uncle Henry wore a ragged straw hat, a shirt without any collar and blue overalls.
+Aunt Em’s hair was straggly and she had on a pair of Uncle Henry’s old slippers. In one hand she held a dishtowel and in the other a cracked plate. Uncle Henry wore a ragged straw hat, a shirt without any collar and blue overalls.
 
 "Oh!" gasped Uncle Henry.
 
@@ -4284,19 +3407,17 @@ But the Ruler of Oz rose and came from her throne to greet her guests.
 
 Dorothy led her relatives away. As soon as they were alone in the corridor, Aunt Em squeezed Dorothy’s hand and said,
 
-"Child, child! Is it all real? What does it all mean, any- how?"
+"Child, child! Is it all real? What does it all mean, anyhow?"
 
 Dorothy laughed.
 
 "I’ll explain everything later," promised Dorothy. "Uncle Henry and Aunt Em, I’m so happy to see you here!"
 
+## How Guph Visited the Whimsies1
 
+The new General of the Nome King’s army knew perfectly well that to fail in his plans meant death for him. Yet he was not at all anxious or worried. He hated everyone who was good and tried to make all who were happy unhappy. Therefore he accepted this dangerous position as General quite willingly.
 
-How Guph Visited **the Whimsies**1
-
-The new General of the Nome King’s army knew per- fectly well that to fail in his plans meant death for him. Yet he was not at all anxious or worried. He hated everyone who was good and tried to make all who were happy unhappy. Therefore he accepted this dangerous position as General quite willingly.
-
-The mountains underneath which the Nome King’s caverns were located lay just north of the Land of Ev, which lay di- rectly across the deadly desert to the east of the Land of Oz. As the mountains were also on the edge of the desert the Nome King decided to tunnel underneath the desert to reach Ozma’s dominions. He wanted to run the tunnel clear through to the Emerald City, and then conquer the people before they had time to defend themselves.
+The mountains underneath which the Nome King’s caverns were located lay just north of the Land of Ev, which lay directly across the deadly desert to the east of the Land of Oz. As the mountains were also on the edge of the desert the Nome King decided to tunnel underneath the desert to reach Ozma’s dominions. He wanted to run the tunnel clear through to the Emerald City, and then conquer the people before they had time to defend themselves.
 
 While this work was going on General Guph went to the Chief of the Whimsies. They had large, strong bodies, but heads so small that they were no bigger than door-knobs. Of course, such tiny heads could not contain any great amount of brains, and the Whimsies were ashamed of their personal appearance. They wore big heads made of pasteboard, which they fastened over their own little heads. On these pasteboard heads they sewed sheep’s wool for hair. The faces of these false heads were painted in many ridiculous ways, and these big, burly creatures looked so whimsical and absurd in their queer masks that they were called "Whimsies."
 
@@ -4304,19 +3425,7 @@ General Guph traveled to their country and asked to see the Chief. The Chief ’
 
 General Guph said to the Chief of the Whimsies,
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **the Whimsies** — Пестроголовые
-
-
 
 "We Nomes are going to conquer the Land of Oz and capture our King’s Magic Belt, which the Oz people stole from him. Then we are going to plunder and destroy the whole country. And we want the Whimsies to help us."
 
@@ -4338,13 +3447,11 @@ So he called a meeting of all the Whimsies and told them of the offer made by th
 
 One Whimsie asked,
 
-"And if we fail to capture the Magic Belt? What will hap- pen then?"
+"And if we fail to capture the Magic Belt? What will happen then?"
 
 But they threw him into the river and laughed when the water ruined his pasteboard head.
 
- 
-
-How Aunt Em Conquered the Lion
+## How Aunt Em Conquered the Lion
 
 "These are your rooms," said Dorothy, opening a door.
 
@@ -4354,8 +3461,6 @@ Aunt Em drew back at the sight of the splendid furniture and draperies.
 
 Aunt Em advanced hesitatingly.
 
-
-
 "This place is too grand for us, child!" she cried admiringly. "Can’t we have a room in the attic?"
 
 "No," said Dorothy. "You will live here, because Ozma says so."
@@ -4364,7 +3469,7 @@ Then Dorothy showed them the rooms. The first was a handsome sitting-room, with 
 
 Uncle Henry had nine suits of clothes. His shirts were of fine linen, and his vests were richly embroidered with colored silks.
 
-Aunt Em was dressed, and when she went into the sitting- room there was Uncle Henry in his blue satin. He looked very dignified and respectable.
+Aunt Em was dressed, and when she went into the sittingroom there was Uncle Henry in his blue satin. He looked very dignified and respectable.
 
 "Come with me," said Dorothy, "and I’ll show you the palace."
 
@@ -4372,9 +3477,7 @@ Also she showed them her own pretty rooms, which were not far from their own.
 
 "So it’s all true," said Aunt Em, with amazement, "but where are all your strange creatures?"
 
-"Yes, where’s the Scarecrow?" inquired Uncle Henry. "He’s just now away on a visit to the Tin Woodman, who
-
-is Emperor of the Winkie Country," answered the little girl. "You'll see him when he comes back."
+"Yes, where’s the Scarecrow?" inquired Uncle Henry. "He’s just now away on a visit to the Tin Woodman, who is Emperor of the Winkie Country," answered the little girl. "You'll see him when he comes back."
 
 "And where’s the Wonderful Wizard?" asked Aunt Em.
 
@@ -4382,19 +3485,11 @@ is Emperor of the Winkie Country," answered the little girl. "You'll see him whe
 
 They went into the back yard, and came to an attractive little house.
 
-"Good morning, my dear Mistress," called Billina. "I must show you all my Dorothys. I change some names from Dorothy to Daniel. They all have the letter 'D' engraved upon their gold
+"Good morning, my dear Mistress," called Billina. "I must show you all my Dorothys. I change some names from Dorothy to Daniel. They all have the letter 'D' engraved upon their gold lockets, with your picture inside, and 'D' stands for Daniel as well as for Dorothy."
 
+"Did you call the roosters Daniel?" asked Uncle Henry. "Yes, indeed. I’ve nine Dorothys and two Daniels; and the nine Dorothys have eighty-six sons and daughters and over three hundred grandchildren," said Billina, proudly.
 
-
-lockets, with your picture inside, and 'D' stands for Daniel as well as for Dorothy."
-
-"Did you call the roosters Daniel?" asked Uncle Henry. "Yes, indeed. I’ve nine Dorothys and two Daniels; and the
-
-nine Dorothys have eighty-six sons and daughters and over three hundred grandchildren," said Billina, proudly.
-
-"What names do you give them all?" inquired the little
-
-girl.
+"What names do you give them all?" inquired the little girl.
 
 "Oh, they are all Dorothys and Daniels. Dorothy and
 
@@ -4402,7 +3497,7 @@ Daniel are two good names," declared the Yellow Hen. "But Ozma doesn’t know wh
 
 "I’ll stay here, and you can go for a walk," said Dorothy. "You’ll be safe anywhere, and may do whatever you want to. When you get tired, go back to the palace and find your rooms. I’ll come to you before luncheon is ready."
 
-So Uncle Henry and Aunt Em began to stroll up the shady walks and look upon the gorgeous flowers and shrubs. Sud- denly, as they turned a corner and walked through a gap in a high hedge, they saw an enormous Lion. Aunt Em was too terrified to scream. Next moment the poor woman clasped her husband around the neck and cried,
+So Uncle Henry and Aunt Em began to stroll up the shady walks and look upon the gorgeous flowers and shrubs. Suddenly, as they turned a corner and walked through a gap in a high hedge, they saw an enormous Lion. Aunt Em was too terrified to scream. Next moment the poor woman clasped her husband around the neck and cried,
 
 "Save me, Henry, save me!"
 
@@ -4420,13 +3515,9 @@ At this speech from the terrible beast Aunt Em and Uncle Henry both were astonis
 
 "Em!" Uncle Henry exclaimed. "I guess this is the Cowardly Lion."
 
-
-
 "Are you the Cowardly Lion?" she inquired. "Are you Dorothy’s friend?"
 
-"Yes, ma’am," answered the Lion, meekly. "Dorothy and I are old friends. I’m the King of Beasts, you know, and the Hungry Tiger and I serve Princess Ozma as her body guards." "But," said Aunt Em, "the King of Beasts must not be
-
-cowardly."
+"Yes, ma’am," answered the Lion, meekly. "Dorothy and I are old friends. I’m the King of Beasts, you know, and the Hungry Tiger and I serve Princess Ozma as her body guards." "But," said Aunt Em, "the King of Beasts must not be cowardly."
 
 "You’re right," remarked the Lion; "but I’m frightened whenever I go into battle."
 
@@ -4444,27 +3535,13 @@ This greatly pleased the lady, and she said quite cheerfully, "Well, I won’t h
 
 "Yes, it is, Mr. Lion. We hope to see you again — some time in the future."
 
- 
+## How the Grand Gallipoot1 Joined The Nomes
 
-How **the Grand Gallipoot**1 Joined The Nomes
-
-Guph continued on his journey and went far into the Northwest. He wanted to get to **the Country of the Grow- leywogs**2. The General penetrated a dense forest, and crossed the border of this domain. Immediately two guards seized him
-
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image004.gif) |
-
-
-
-
+Guph continued on his journey and went far into the Northwest. He wanted to get to **the Country of the Growleywogs**2. The General penetrated a dense forest, and crossed the border of this domain. Immediately two guards seized him
 
 1 **the Grand Gallipoot** — Великий Галлипут
 
 2 **the Country of the Growleywogs** — Страна Драчунов
-
-
 
 and carried him before the Grand Gallipoot of the Growleywogs, who scowled upon him ferociously and asked him why he dared intrude upon his territory.
 
@@ -4482,11 +3559,7 @@ The voice of the Grand Gallipoot was partly a roar and partly a growl. These Gro
 
 Again he paused, and again the Grand Gallipoot growled, "Go on!"
 
-"We want you to help us in this conquest," Guph announced, "for we need the mighty aid of the Growleywogs. You are the strongest people in the world, and you hate good and happy creatures as much as we Nomes do. I am sure it will be a real
-
-
-
-pleasure to you to tear down the beautiful Emerald City. We will allow you to bring back to your country ten thousand people of Oz, to be your slaves."
+"We want you to help us in this conquest," Guph announced, "for we need the mighty aid of the Growleywogs. You are the strongest people in the world, and you hate good and happy creatures as much as we Nomes do. I am sure it will be a real pleasure to you to tear down the beautiful Emerald City. We will allow you to bring back to your country ten thousand people of Oz, to be your slaves."
 
 "Twenty thousand!" growled the Grand Gallipoot.
 
@@ -4496,25 +3569,17 @@ The Gallipoot made a signal and at once his attendants picked up General Guph an
 
 "My advice is to offer to help them. Then we will take not only our twenty thousand prisoners but all the gold and jewels we want."
 
-"Let us take the Magic Belt, too," suggested one counselor. "And rob the Nome King and make him our slave," said
-
-another.
+"Let us take the Magic Belt, too," suggested one counselor. "And rob the Nome King and make him our slave," said another.
 
 "That is a good idea," declared the Grand Gallipoot. "The Nome King will brush my boots and bring me my porridge every morning while I am in bed. The deadly desert keeps us out of Oz before but now the Nome King is building a tunnel. We shall get into the Emerald City very easily. Let us send the little fat General back to his King with our promise to assist him."
 
 Guph was brought to the royal castle, where the Grand Gallipoot told him that the Growleywogs had decided to assist the Nomes. Guph was very delighted. He secured the assistance of the Whimsies and the Growleywogs.
 
- 
+## How the Wogglebug Taught Athletics
 
-How the Wogglebug Taught Athletics
+Dorothy knew the people and the manners and customs of the Emerald City just as well as she knew the old Kansas farm. But Uncle Henry and Aunt Em had some trouble. They felt uneasy because they were obliged to be "dressed up" all the time. Yet everyone was very courteous and kind to them and endeavored to make them happy. The old people were chiefly troubled by the fact that there was no work for them to do.
 
-Dorothy knew the people and the manners and customs of the Emerald City just as well as she knew the old Kansas farm. But Uncle Henry and Aunt Em had some trouble. They felt uneasy because they were obliged to be "dressed up" all the time. Yet everyone was very courteous and kind to them and
-
-
-
-endeavored to make them happy. The old people were chiefly troubled by the fact that there was no work for them to do.
-
-"Every day is like Sunday, now," declared Aunt Em, sol- emnly, "and I can’t say I like it. I’d like to wash the dishes or even sweep and dust my rooms. Henry doesn’t know what to do with himself either. Once he fed the chickens Billina scolded him. I never knew before what a hardship it is to be rich and have everything you want."
+"Every day is like Sunday, now," declared Aunt Em, solemnly, "and I can’t say I like it. I’d like to wash the dishes or even sweep and dust my rooms. Henry doesn’t know what to do with himself either. Once he fed the chickens Billina scolded him. I never knew before what a hardship it is to be rich and have everything you want."
 
 These complaints began to worry Dorothy; so she talked with Ozma.
 
@@ -4532,21 +3597,9 @@ The escort included Omby Amby, the Captain General of Ozma's army. The wonderful
 
 Before long they came to a stately building that stood upon a green plain with handsome shade trees grouped here and there.
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image002.gif) |
-
-
-
-
-
 1 **letter** **of** **introduction** — рекомендательное письмо
 
 2 **Cuttenclip** — Вырезальщица
-
-
 
 "What is that?" asked Uncle Henry.
 
@@ -4556,7 +3609,7 @@ The Sawhorse drew up in front of the great building and they saw the learned Wog
 
 "Welcome, Dorothy," said the Wogglebug; "and welcome to all your friends. We are indeed pleased to receive you at this great Temple of Learning."
 
-They followed the Wogglebug to a big field, where sev- eral hundred young Ozites were at their classes. In one place they played football, in another baseball. Some played tennis, some golf; some were swimming in a big pool. Other groups of students played basketball and cricket. All the collegians seemed busy.
+They followed the Wogglebug to a big field, where several hundred young Ozites were at their classes. In one place they played football, in another baseball. Some played tennis, some golf; some were swimming in a big pool. Other groups of students played basketball and cricket. All the collegians seemed busy.
 
 "This college," said Professor Wogglebug, complacently, "is a great success."
 
@@ -4566,17 +3619,13 @@ They followed the Wogglebug to a big field, where sev- eral hundred young Ozites
 
 "Oh, they take doses of those every night and morning," was the reply.
 
-"What do you mean by doses?" Dorothy inquired, wonder- ingly.
+"What do you mean by doses?" Dorothy inquired, wonderingly.
 
 "We use the newly invented School Pills, made by your friend the Wizard. These pills are very effective, and they save a lot of time."
 
 He led them to a room in the building where many large bottles were standing in rows upon shelves.
 
-"These are the Algebra Pills," said the Professor. "One at night is equal to four hours of study. Here are the Geography Pills — one at night and one in the morning. In this next
-
-
-
-bottle are the Latin Pills — one three times a day. Then we have the Grammar Pills — one before each meal."
+"These are the Algebra Pills," said the Professor. "One at night is equal to four hours of study. Here are the Geography Pills — one at night and one in the morning. In this next bottle are the Latin Pills — one three times a day. Then we have the Grammar Pills — one before each meal."
 
 "It’s a great invention," said Dorothy, looking admiringly at the Wizard.
 
@@ -4584,9 +3633,7 @@ bottle are the Latin Pills — one three times a day. Then we have the Grammar P
 
 They thanked the Professor for his kind reception and mounted again into the red wagon and continued their journey.
 
- 
-
-How the Cuttenclips Lived
+## How the Cuttenclips Lived
 
 The travelers took no provisions with them because they knew that they were welcomed wherever they went in the Land of Oz. The people were ready to feed and lodge them with genuine hospitality. So about noon they stopped at a farm-house. A farmer gave them a delicious luncheon of bread and milk, fruits and wheat cakes with maple syrup. After that they got into the wagon.
 
@@ -4605,8 +3652,6 @@ TAKE THIS ROAD TO THE CUTTENCLIPS
 The path led up to a small door in the wall, which was closed. Upon the door was a sign,
 
 VISITORS ARE REQUESTED TO MOVE SLOWLY AND CAREFULLY, AND TO AVOID COUGHING OR MAKING ANY BREEZE OR DRAUGHT.
-
-
 
 "That’s strange," said the Shaggy Man. " Who are the Cuttenclips, anyhow?"
 
@@ -4628,7 +3673,7 @@ Just before the entrance was drawn up a line of tiny soldiers, with uniforms bri
 
 As the visitors entered the enclosure the Wizard closed the door, and at once the line of soldiers tumbled over, and fell upon their backs.
 
-"I beg your pardon, I’m sure," said the Wizard, regret- fully. "I didn’t know you were so delicate."
+"I beg your pardon, I’m sure," said the Wizard, regretfully. "I didn’t know you were so delicate."
 
 " We’re not delicate!" retorted another soldier. " We are strong and healthy; but we don’t like draughts."
 
@@ -4638,11 +3683,7 @@ Dorothy carefully stood up the line of soldiers, who saluted the visitors with t
 
 "Very well," said the soldier, and blew upon a paper whistle that hung around his neck.
 
-At once a paper soldier in a Captain’s uniform came out of a paper house nearby and approached the group. He was not very big, and he walked rather stiffly and
-
-
-
-uncertainly on his paper legs. But he had a pleasant face, with very red cheeks and very blue eyes, and he bowed so low to the strangers that Dorothy laughed.
+At once a paper soldier in a Captain’s uniform came out of a paper house nearby and approached the group. He was not very big, and he walked rather stiffly and uncertainly on his paper legs. But he had a pleasant face, with very red cheeks and very blue eyes, and he bowed so low to the strangers that Dorothy laughed.
 
 "Please follow me," said the Captain.
 
@@ -4666,27 +3707,13 @@ Just as they reached the porch the front door opened and a little girl stood bef
 
 "May we see Miss Cuttenclip, please?" asked Dorothy. "I am Miss Cuttenclip," was the reply.
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **There** **is** **but** **one** **Miss** **Cuttenclip** — Есть только одна Мисс Вырезальщица.
-
-
 
 They all entered a pretty sitting-room that was littered with all sorts of paper. The sheets and scraps were of all colors. Upon a table were paints and brushes and scissors, of different sizes.
 
 "Sit down, please," said Miss Cuttenclip. "I am not properly prepared to receive visitors. But I’m sure you will pardon my untidy room, for this is my workshop."
 
-"Do you make all the paper dolls?" inquired Dorothy. "Yes; I cut them out with my scissors, and paint the
-
-faces and some of the costumes. It is very pleasant work, and I am happy."
+"Do you make all the paper dolls?" inquired Dorothy. "Yes; I cut them out with my scissors, and paint the faces and some of the costumes. It is very pleasant work, and I am happy."
 
 "But why are the paper dolls alive?" asked Aunt Em.
 
@@ -4698,17 +3725,13 @@ faces and some of the costumes. It is very pleasant work, and I am happy."
 
 They looked at the lovely little girl wonderingly, and the Wizard asked,
 
-"What happens to your paper village when it rains?" "It does not rain here," replied Miss Cuttenclip. "Glinda
-
-keeps all the rain storms away; so I never worry about it.
-
-
+"What happens to your paper village when it rains?" "It does not rain here," replied Miss Cuttenclip. "Glinda keeps all the rain storms away; so I never worry about it.
 
 It will give me pleasure to show you my paper kingdom. Of course you must go slowly and carefully."
 
 They left the cottage and followed their guide through the various streets of the village. It was indeed an amazing place. In one place a large group of nice paper dolls assembled to greet their Queen. These dolls marched and danced before the visitors, and then they all waved their paper handkerchiefs and sang a song called "The Flag of Our Native Land."
 
-Suddenly the Shaggy Man sneezed. The result was ter- rible. The paper dolls flew and fluttered in wild confusion in every direction. A wail of terror and grief came from the scattered throng, and Miss Cuttenclip exclaimed,
+Suddenly the Shaggy Man sneezed. The result was terrible. The paper dolls flew and fluttered in wild confusion in every direction. A wail of terror and grief came from the scattered throng, and Miss Cuttenclip exclaimed,
 
 "Dear me! dear me!"
 
@@ -4718,29 +3741,15 @@ Our friends decided to go away. But first they thanked Miss Cuttenclip very warm
 
 "Any friend of Princess Ozma is always welcome here — unless he sneezes," said the Queen.
 
- 
+## How the General Met the First and Foremost1
 
-How the General Met **the First and Foremost**1
-
-General Guph determined to visit the dangerous crea- tures — **the Phanfasms**2 — who resided upon the very top of **the dread Mountain of Phantastico**3. The Phanfasms were dangerous to the Nomes, but General Guph hoped to induce them to join in his warfare against the good and happy Oz people.
-
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
+General Guph determined to visit the dangerous creatures — **the Phanfasms**2 — who resided upon the very top of **the dread Mountain of Phantastico**3. The Phanfasms were dangerous to the Nomes, but General Guph hoped to induce them to join in his warfare against the good and happy Oz people.
 
 1 **the First and Foremost** — Первого и Главнейшего
 
 2 **the Phanfasms** — Фанфазмы
 
-3 **the dread Mountain of Phantastico** — ужасная гора Фан- тастико
-
-
+3 **the dread Mountain of Phantastico** — ужасная гора Фантастико
 
 So the old Nome climbed the foothills and trudged along the wild mountain paths until he came to a big gully that encircled the Mountain of Phantastico and marked the boundary line of the dominion of the Phanfasms. This gully was filled to the brim with red-hot molten lava in which swam fire-serpents and poisonous salamanders. The heat from this mass and its poisonous smell were both so unbearable that even birds hesitated to fly over the gully. All living things kept away from the mountain.
 
@@ -4758,19 +3767,13 @@ When Guph approached the bridge the creature opened its eyes. Guph said,
 
 "Ah; who is that coming down the mountain?" asked the Nome, gazing upward.
 
-The alligator turned to look over its shoulder, and at once Guph ran to the bridge and leaped over the sentinel’s back. "Ah ha!" laughed the General, who was now on the
-
-mountain path. "I fooled you that time."
+The alligator turned to look over its shoulder, and at once Guph ran to the bridge and leaped over the sentinel’s back. "Ah ha!" laughed the General, who was now on the mountain path. "I fooled you that time."
 
 "So you did; and perhaps you fooled yourself," retorted the alligator. "Go up the mountain, if you dare, and find out what the First and Foremost will do to you!"
 
 "I will," declared Guph, boldly.
 
-The rocks had the shapes of frightful creatures and even the tree trunks were gnarled and twisted like serpents. Sud- denly there appeared before the Nome a man with the head of an owl and the body of an ape. He bore a huge club in
-
-
-
-his hand and his round owl eyes blinked fiercely upon the intruder.
+The rocks had the shapes of frightful creatures and even the tree trunks were gnarled and twisted like serpents. Suddenly there appeared before the Nome a man with the head of an owl and the body of an ape. He bore a huge club in his hand and his round owl eyes blinked fiercely upon the intruder.
 
 "What are you doing here?" he demanded.
 
@@ -4778,7 +3781,7 @@ his hand and his round owl eyes blinked fiercely upon the intruder.
 
 "If you try to escape," the owl-man said, "beware…" But here the General interrupted him.
 
-"Lead on, and keep silent," said he, "and do not be im- pertinent."
+"Lead on, and keep silent," said he, "and do not be impertinent."
 
 At the very top was a level plain upon which were heaps of rock that seemed solid. But Guph discovered that these rock heaps were dwellings, for each had an opening. All was silent.
 
@@ -4786,7 +3789,7 @@ The owl-man came to the dwelling standing in the center. He gave a low wail that
 
 Suddenly there bounded from the opening another hairy man. This one wore the head of a bear. He glared at the stranger in evident surprise.
 
-" Why did you capture this foolish wanderer?" he de- manded.
+" Why did you capture this foolish wanderer?" he demanded.
 
 "I did not capture him," was the answer. "He passed the scarlet alligator and came here himself."
 
@@ -4794,11 +3797,7 @@ The First and Foremost looked at the General. "Have you tired of life, then?" he
 
 "No indeed," answered Guph. "I am a Nome, and the Chief General of the great army of Nomes. Sit down, you Phanfasms and listen to what I have to say."
 
-General Guph did not know that the bear-man was read- ing his thoughts. He did not know that these despised rock heaps of the Phanfasms were merely deceptions to his own eyes. In reality, he was standing in the midst of one of the most splendid and luxurious cities ever built by magic power. All that he saw was a barren waste of rock heaps, a hairy man with
-
-
-
-an owl’s head and another with a bear’s head. The sorcery of the Phanfasms permitted him to see no more.
+General Guph did not know that the bear-man was reading his thoughts. He did not know that these despised rock heaps of the Phanfasms were merely deceptions to his own eyes. In reality, he was standing in the midst of one of the most splendid and luxurious cities ever built by magic power. All that he saw was a barren waste of rock heaps, a hairy man with an owl’s head and another with a bear’s head. The sorcery of the Phanfasms permitted him to see no more.
 
 Guph asked the First and Foremost to join the Nomes, with his band of terrible warriors, and help them to defeat the Oz people. The General spoke very earnestly and impressively, but the bear-man began to laugh.
 
@@ -4826,17 +3825,11 @@ Guph hesitated. He really did not know what to say. Gold, jewels and slaves? No.
 
 "Permit me to make the happy unhappy," said he at last. "The pleasure of destroying innocent and harmless people."
 
-"Ah! For that reason alone we will aid you," cried the First and Foremost. "Go home, and tell your king that as soon as
+"Ah! For that reason alone we will aid you," cried the First and Foremost. "Go home, and tell your king that as soon as his tunnel is finished the Phanfasms will be with him and lead his legions to the conquest of Oz. We will use the tunnel to conquer the Land of Oz!"
 
+## How they Matched the Fuddles1
 
-
-his tunnel is finished the Phanfasms will be with him and lead his legions to the conquest of Oz. We will use the tunnel to conquer the Land of Oz!"
-
- 
-
-How they Matched **the Fuddles**1
-
-Dorothy and her fellow travelers rode away from the Cut- tenclip village. They took the main road again and proceeded pleasantly through the pretty farming country. When evening came they stopped at a dwelling and were joyfully welcomed.
+Dorothy and her fellow travelers rode away from the Cuttenclip village. They took the main road again and proceeded pleasantly through the pretty farming country. When evening came they stopped at a dwelling and were joyfully welcomed.
 
 Early next morning, after a good breakfast, they climbed into the red wagon. The weather is always beautiful in Oz, and this morning the air was cool and refreshing and the sunshine brilliant and delightful. In about an hour they saw a sign-post,
 
@@ -4858,23 +3851,11 @@ As they rode along the pretty green lane toward Fuddlecumjig, they saw a kangaro
 
 "Yes, indeed I do," replied the animal reproachfully. "My hands will get all sunburned and tanned without my mittens, and I’ll probably catch cold without them."
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image002.gif) |
-
-
-
-
-
 1 **the Fuddles** — Развалийцы
 
 2 **FUDDLECUMJIG** — Развалибург
 
-
-
-"Nonsense!" said Dorothy. "I never heard of any kanga- roo with mittens."
+"Nonsense!" said Dorothy. "I never heard of any kangaroo with mittens."
 
 "Didn’t you?" asked the animal.
 
@@ -4888,25 +3869,19 @@ So they rode on, and the kangaroo hopped beside the red wagon. The Wizard said t
 
 "Are the Fuddles nice people?"
 
-"Oh, very nice," answered the kangaroo; "that is, when they’re properly put together. But they get dreadfully scat- tered, at times, and then you can’t do anything with them."
+"Oh, very nice," answered the kangaroo; "that is, when they’re properly put together. But they get dreadfully scattered, at times, and then you can’t do anything with them."
 
 "What do you mean?" inquired Dorothy.
 
 "They’re made from many small pieces," explained the kangaroo; "and whenever any stranger comes near them they fall apart and scatter themselves around. It’s a hard puzzle to put them together again."
 
-"Who usually puts them together?" asked Omby Amby. "Anyone who is able to match the pieces. Some Munchkins came here a few days ago and matched a lot of people to- gether," said the kangaroo. "If you go softly, without noise,
-
-perhaps they won’t scatter."
+"Who usually puts them together?" asked Omby Amby. "Anyone who is able to match the pieces. Some Munchkins came here a few days ago and matched a lot of people together," said the kangaroo. "If you go softly, without noise, perhaps they won’t scatter."
 
 "Let’s try it," suggested the Wizard.
 
-So they stopped the Sawhorse and got out of the wagon. Then they entered the field and very cautiously ap- proached the group of houses.
+So they stopped the Sawhorse and got out of the wagon. Then they entered the field and very cautiously approached the group of houses.
 
-People were moving around. They seemed much like other people from a distance. Our friends almost reached the nearest house when Toto saw a large beetle and barked loudly at it. After the clatter an intense stillness reigned in the town. The strangers entered the first house, which was
-
-
-
-also the largest. The floor was strewn with pieces of the people who lived there.
+People were moving around. They seemed much like other people from a distance. Our friends almost reached the nearest house when Toto saw a large beetle and barked loudly at it. After the clatter an intense stillness reigned in the town. The strangers entered the first house, which was also the largest. The floor was strewn with pieces of the people who lived there.
 
 They picked up some of these pieces and looked at them carefully. On one which Dorothy held was an eye; quite nearby she discovered and picked up a nose. These two pieces were part of a face.
 
@@ -4928,15 +3903,11 @@ When the cook was finished he made them a low bow and said,
 
 "We will," said the Wizard; "and thank you very much, Cook, for the suggestion."
 
-Aunt Em discovered a piece of the Lord High Chigglewitz, "Here, Henry, look for Larry’s bald head. I’ve got his
-
-pink vest."
+Aunt Em discovered a piece of the Lord High Chigglewitz, "Here, Henry, look for Larry’s bald head. I’ve got his pink vest."
 
 They worked with interest, and Billina helped them. In an hour old Larry was standing complete before them.
 
-
-
-"I congratulate you, my friends," he said. "You are cer- tainly the cleverest people who ever visited us. I was never matched together so quickly in my life."
+"I congratulate you, my friends," he said. "You are certainly the cleverest people who ever visited us. I was never matched together so quickly in my life."
 
 "Why do you like to scatter?" asked Aunt Em.
 
@@ -4944,9 +3915,7 @@ They worked with interest, and Billina helped them. In an hour old Larry was sta
 
 "What a queer country!" said Uncle Henry, with a laugh.
 
- 
-
-How the General Talked to the King
+## How the General Talked to the King
 
 When General Guph returned to the cavern of the Nome King his Majesty asked:
 
@@ -4964,15 +3933,11 @@ When General Guph returned to the cavern of the Nome King his Majesty asked:
 
 "Good, your Majesty. The Growleywogs will join us." "No!" cried the astonished King.
 
-"Yes, indeed," said the General. "I have their promise." "But what reward do they demand?" inquired the King, suspiciously, for he knew how greedy the Growleywogs were. "They will take a few of the Oz people for their slaves,"
+"Yes, indeed," said the General. "I have their promise." "But what reward do they demand?" inquired the King, suspiciously, for he knew how greedy the Growleywogs were. "They will take a few of the Oz people for their slaves," replied Guph.
 
-replied Guph.
-
-He did not tell Roquat that the Growleywogs demand- ed twenty thousand slaves.
+He did not tell Roquat that the Growleywogs demanded twenty thousand slaves.
 
 "A very reasonable request, I’m sure," remarked the King. "I must congratulate you, Guph, upon the wonderful success of your journey."
-
-
 
 "But that is not all," said the General, proudly. The King was astonished.
 
@@ -4990,39 +3955,27 @@ The King looked at his General admiringly and said,
 
 "When will they come?" asked Roquat, half fearfully. "When the tunnel is completed," said the General.
 
-"I’m almost sorry we did not undertake the conquest alone," said the King. "All of these allies are dangerous peo- ple, and they may demand more than you promised them."
+"I’m almost sorry we did not undertake the conquest alone," said the King. "All of these allies are dangerous people, and they may demand more than you promised them."
 
 "We cannot do it," said the General. "Why not, Guph?"
 
 "You know very well. The Oz people defeated you."
 
-"That was because they rolled eggs at us," replied the King, with a shudder. "My Nomes hate eggs. They are poi- son to all who live underground. Our former defeat was due to the fact that the girl Dorothy had a Yellow Hen with her. I do not know what ever became of that hen, but I believe there are no hens in the Land of Oz."
+"That was because they rolled eggs at us," replied the King, with a shudder. "My Nomes hate eggs. They are poison to all who live underground. Our former defeat was due to the fact that the girl Dorothy had a Yellow Hen with her. I do not know what ever became of that hen, but I believe there are no hens in the Land of Oz."
 
 "On the contrary," said Guph, "there are now hundreds of chickens in Oz, and they lay heaps of those dangerous eggs. A goshawk told me so."
-
-
 
 "That is a very bad report," said the King, nervously. "Very bad, indeed."
 
 "I’m afraid of eggs myself," replied Guph. "My plan is to send the Whimsies through the tunnel first, and then the Growleywogs and the Phanfasms. By the time we Nomes get there the eggs will all be destroyed."
 
-"Perhaps you are right," returned the King, with a dismal
+"Perhaps you are right," returned the King, with a dismal sigh.
 
-
-
-sigh.
-
-
-
-
-
-How the Wizard Practiced Sorcery
+## How the Wizard Practiced Sorcery
 
 "Where next?" asked the Wizard.
 
 "To see the Rigmaroles next, and then visit the Tin
-
-
 
 Woodman," replied Dorothy.
 
@@ -5044,9 +3997,7 @@ The Wizard said nothing, and he did not seem especially anxious. The Sawhorse wa
 
 "Certainly," asserted the Wizard. "We cannot travel through this forest at night. So let us make a camp here, and have some supper, and sleep until daylight comes again. In order to camp we need tents. Will someone lend me a handkerchief?"
 
-
-
-The Shaggy Man offered him one, and Aunt Em an- other. He took them both and laid them carefully upon the grass near to the edge of the forest. Then he laid his own handkerchief down, too, waved his left hand toward the handkerchiefs and said,
+The Shaggy Man offered him one, and Aunt Em another. He took them both and laid them carefully upon the grass near to the edge of the forest. Then he laid his own handkerchief down, too, waved his left hand toward the handkerchiefs and said,
 
 "Tents of canvas, white as snow, Let me see how fast you grow!"
 
@@ -5070,11 +4021,9 @@ They visited that next, and found a table and dishes in the dining tent.
 
 "Now, Dorothy," said the Wizard, smiling, "let’s cook our supper."
 
-How Dorothy Got Lost
+## How Dorothy Got Lost
 
 Dorothy awoke very early, dressed herself, and left the tent where Aunt Em was peacefully slumbering. The Yellow Hen asked where she was going.
-
-
 
 "Just to take a walk, Billina; and maybe I’ll find some path," said Dorothy.
 
@@ -5110,21 +4059,9 @@ Dorothy sat down on an old stump and looked at them.
 
 "Perhaps you’re right, Billina," Dorothy answered. "But how funny it is, to be captured by a lot of spoons!"
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **the Spoon Brigade** — Ложечный полк
 
 2 **his** **Majesty** **King** **Kleaver** — Его Величества Короля Всереза
-
-
 
 "I do not see anything very funny about it," declared a spoon. "We’re the regular military brigade of the kingdom."
 
@@ -5132,19 +4069,15 @@ Dorothy sat down on an old stump and looked at them.
 
 "I never heard of it before," asserted Dorothy. "March with us," retorted a spoon.
 
- 
+## How Dorothy Visited
 
-How Dorothy Visited
-
-**Utensia**1
+## Utensia1
 
 There were six or eight dozen spoons in the Brigade, and they marched away in the shape of a hollow square, with Dorothy, Billina and Toto in the center of the square. By and by they left the woods and entered the Kingdom of Utensia.
 
-They saw many cookstoves, ranges and grills, of all sizes and shapes, and besides these there were several kitchen cabinets and cupboards and a few kitchen tables. These things were crowded with utensils of all sorts: fry- ing pans, sauce pans, kettles, forks, knives, basting and soup spoons, nutmeg graters, sifters, colanders, meat saws, flat irons, rolling pins and many other things.
+They saw many cookstoves, ranges and grills, of all sizes and shapes, and besides these there were several kitchen cabinets and cupboards and a few kitchen tables. These things were crowded with utensils of all sorts: frying pans, sauce pans, kettles, forks, knives, basting and soup spoons, nutmeg graters, sifters, colanders, meat saws, flat irons, rolling pins and many other things.
 
-"Stand back!" cried the Captain, sternly, and he led his captives through the curious throng until they came to a butcher block upon which lay a great cleaver with a keen edge. Its legs were crossed and it was smoking a long pipe. " Wake up, your Majesty," said the Captain. "Here are
-
-prisoners."
+"Stand back!" cried the Captain, sternly, and he led his captives through the curious throng until they came to a butcher block upon which lay a great cleaver with a keen edge. Its legs were crossed and it was smoking a long pipe. " Wake up, your Majesty," said the Captain. "Here are prisoners."
 
 King Kleaver sat up and looked at Dorothy sharply. " Where did this girl come from?" he asked.
 
@@ -5152,21 +4085,9 @@ King Kleaver sat up and looked at Dorothy sharply. " Where did this girl come fr
 
 The King said,
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **Utensia** — Кухонное королевство
 
-
-
-"Friends and Fellow **Utensils**1! Our worthy Com- mander of the Spoon Brigade, **Captain Dipp**2, has captured the three prisoners you see before you and brought them here. So I ask your advice how to act in this matter."
+"Friends and Fellow **Utensils**1! Our worthy Commander of the Spoon Brigade, **Captain Dipp**2, has captured the three prisoners you see before you and brought them here. So I ask your advice how to act in this matter."
 
 "They must be killed several times, until they are dead!" shouted a pepperbox very excitedly.
 
@@ -5178,29 +4099,19 @@ A stately knife stepped forward and bowed.
 
 "The Captain was wrong to bring this girl here, and she was wrong to come," he said.
 
-"What I’d like to know," said a can-opener, "is why the little girl came to our forest — and who she is, and where she came from, and where she is going, and why and where- fore and therefore and when."
+"What I’d like to know," said a can-opener, "is why the little girl came to our forest — and who she is, and where she came from, and where she is going, and why and wherefore and therefore and when."
 
-"Who accuses the little girl, anyway?" inquired a rolling- pin. "What has she done?"
+"Who accuses the little girl, anyway?" inquired a rollingpin. "What has she done?"
 
 "I don’t know," said the King. " What has she done, Captain Dipp?"
 
-"That’s the trouble, your Majesty. She hasn’t done any- thing," replied the Captain.
+"That’s the trouble, your Majesty. She hasn’t done anything," replied the Captain.
 
 "What do you want me to do?" asked Dorothy. At this, a big kitchen fork said,
 
 "Let’s hear from **Judge Sifter**4."
 
 So Judge Sifter turned around slowly several times and then said,
-
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
 
 1 **Untensils** — Кухонцы
 
@@ -5209,8 +4120,6 @@ So Judge Sifter turned around slowly several times and then said,
 3 **Prince Karver** — Принц Резак
 
 4 **Judge Sifter** — Судья Сито
-
-
 
 " We have nothing against the girl. Therefore I order her instantly discharged."
 
@@ -5228,9 +4137,7 @@ Dorothy jumped up and said,
 
 Dorothy and her companions entered the forest again.
 
- 
-
-How They Came to **Bunbury**1
+## How They Came to Bunbury1
 
 Dorothy was worried and hungry that morning, so she paid little attention to the beauties of the forest, and hurried along fast. She tried to keep in one direction and not circle around. By and by, to her great joy, she came upon a path. It ran to the right and to the left, and just before her, upon a big oak, were fastened two signs. One sign read:
 
@@ -5246,27 +4153,13 @@ TAKE THE OTHER ROAD TO **BUNNYBURY**2
 
 The path to Bunbury ran through the trees in a zigzag course until it finally led them to an open space filled with the queer houses. They were all made of crackers, and were of many pretty and ornamental shapes, with balconies and
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **Bunbury** — Булочное королевство
 
 2 **Bunnybury** — Заячье королевство
 
-
-
 porches with posts of bread-sticks and roofs shingled with wafer-crackers. There were walks of bread-crusts leading from house to house and forming streets.
 
-When Dorothy, followed by Billina and Toto, entered the place, they found people walking the streets, or sitting upon the porches and balconies. And what funny people they were! Men, women and children were all made of buns and bread. Some were thin and others fat; some were white, some light brown and some very dark of complexion. A few of the buns were neatly frosted. Some had raisins for eyes and currant buttons on their clothes; others had eyes of cloves and legs of stick cinnamon. When the strangers suddenly appeared among them, women caught up their children and hurried into their houses. Some men ran so hastily that they tumbled over one another, while others, more brave, assembled in a group and
-
-faced the intruders defiantly.
+When Dorothy, followed by Billina and Toto, entered the place, they found people walking the streets, or sitting upon the porches and balconies. And what funny people they were! Men, women and children were all made of buns and bread. Some were thin and others fat; some were white, some light brown and some very dark of complexion. A few of the buns were neatly frosted. Some had raisins for eyes and currant buttons on their clothes; others had eyes of cloves and legs of stick cinnamon. When the strangers suddenly appeared among them, women caught up their children and hurried into their houses. Some men ran so hastily that they tumbled over one another, while others, more brave, assembled in a group and faced the intruders defiantly.
 
 "Excuse me," said Dorothy, softly, "but I really didn’t know I was coming here until I arrived. I was lost in the woods, you know, and I’m hungry."
 
@@ -5286,25 +4179,9 @@ Dorothy looked at him.
 
 "My name is **C. Bunn, Esquire**1," said the man. "**'C' stands for Cinnamon**."
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **C. Bunn, Esquire, ... 'C' stands for Cinnamon** — К. Булка, Эсквайр, ... «К.» значит Коричный
 
-
-
- 
-
 said,
-
-
 
 A big man, of a delicate brown color, stepped forward and
 
@@ -5312,13 +4189,11 @@ A big man, of a delicate brown color, stepped forward and
 
 "What, then, do you suggest, **Mr. Over**1?" inquired Mr.
 
-
-
 Bunn.
 
 "I’ll let her eat my back fence. It’s made of waffles, and they’re very crisp and nice."
 
-"She may also eat my wheelbarrow," added a pleasant look- ing Muffin. "It’s made of nabiscos2."
+"She may also eat my wheelbarrow," added a pleasant looking Muffin. "It’s made of nabiscos2."
 
 "Very good; very good," remarked Mr. Bunn. "That is certainly very kind of you. Go with Pop Over and **Mr. Muffin**3, little girl, and they will feed you."
 
@@ -5338,23 +4213,11 @@ So Mr. Over led her into the house, where she ate the piano.
 
 "Yes; I’ve a milk pump and a water pump," he said. "I guess I’ll try them both," said Dorothy.
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **Mr. Over** — Мр. Кекс
 
 2 **nabisco** — бисквит
 
 3 **Mr. Muffin** — Мр. Маффин
-
-
 
 Just then Dorothy heard a dreadful scream and turned hastily around. The people were crowding around Toto and throwing at him everything they had. Dorothy ran up and inquired what the matter was.
 
@@ -5364,11 +4227,9 @@ Just then Dorothy heard a dreadful scream and turned hastily around. The people 
 
 "What’s that! What’s that?" wailed Mr. Cinnamon Bunn. "Oh, what a misfortune — what a terrible misfortune! You must leave at once!"
 
-Dorothy, Toto and Billina marched up the street. They were followed by the hoots and cries of the buns and bis- cuits.
+Dorothy, Toto and Billina marched up the street. They were followed by the hoots and cries of the buns and biscuits.
 
- 
-
-How Ozma Looked into the Magic Picture
+## How Ozma Looked into the Magic Picture
 
 Princess Ozma was a very busy little ruler. She looked carefully after the comfort and welfare of her people and tried to make them happy.
 
@@ -5376,35 +4237,21 @@ So Ozma began to think of some manner of occupation for Uncle Henry and Aunt Em.
 
 Ozma glanced at her Magic Picture. This was one of the most important treasures in all the Land of Oz. It was a large picture in a beautiful gold frame, and it hung upon a wall of Ozma’s private room.
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image002.gif) |
-
-
-
-
-
 1 **Salt-rising Biscuit** — Солёный Бисквит
 
 2 **Raisin Bunn** — Изюмная Булка
 
-
-
-The pretty Princess wondered what the Nome King was doing. Merely because she was curious and had nothing better to do, Ozma glanced at the Magic Picture and wished to see in it the King of the Nomes. He went every day into his tun- nel to hurry his workmen. He was there now, and Ozma saw him plainly in the Magic Picture.
+The pretty Princess wondered what the Nome King was doing. Merely because she was curious and had nothing better to do, Ozma glanced at the Magic Picture and wished to see in it the King of the Nomes. He went every day into his tunnel to hurry his workmen. He was there now, and Ozma saw him plainly in the Magic Picture.
 
 She saw the underground tunnel, underneath the Deadly Desert which separated the Land of Oz from the Nome King’s caverns. The Nomes were digging the tunnel in the direction of the Emerald City. Were they going to attack her beautiful and peaceful country?
 
 "I suppose King Roquat is planning revenge against us," Ozma said.
 
-Then she thought if Aunt Em would not be happy as Royal Mender of the Stockings of the Ruler of Oz. Ozma wore few holes in her stockings; still, they sometimes needed mend- ing.
+Then she thought if Aunt Em would not be happy as Royal Mender of the Stockings of the Ruler of Oz. Ozma wore few holes in her stockings; still, they sometimes needed mending.
 
 Next day, the Princess watched the tunnel again in her Magic Picture. It was not especially interesting, but she felt that it was her duty. Slowly but surely the big, arched hole crept through the rocks underneath the deadly desert, and day by day it drew nearer and nearer to the Emerald City.
 
- 
-
-How Bunnybury Welcomed the Strangers
+## How Bunnybury Welcomed the Strangers
 
 Dorothy left Bunbury and when they were in the forest again she said to Billina,
 
@@ -5413,8 +4260,6 @@ Dorothy left Bunbury and when they were in the forest again she said to Billina,
 "The other road" to Bunnybury was a mere narrow strip, not very wide. Before long they reached a high wall of solid white marble, and the path came to an end at this wall.
 
 Dorothy discovered a small square door about on a level with her head, and underneath this closed door was a bell. Near the bell a sign was painted in neat letters upon the marble,
-
-
 
 NO ADMITTANCE EXCEPT ON BUSINESS
 
@@ -5430,17 +4275,15 @@ This did not discourage Dorothy, however, and she rang the bell. A bolt was with
 
 Princess myself," she announced, earnestly. "Let me see your letter," said the rabbit.
 
-Dorothy handed the letter through the bars to the rabbit, who took it in his paws and opened it. The letter was as fol- lows:
+Dorothy handed the letter through the bars to the rabbit, who took it in his paws and opened it. The letter was as follows:
 
 "It will please me to have my subjects greet Princess Dorothy, the bearer of this royal missive, with the same courtesy and consideration they extend to me."
 
 "Ha — hum! It is signed 'Ozma of Oz,'" continued the rabbit, "and is sealed with the Great Seal of the Emerald City. Well, well, well! How strange! How remarkable!"
 
-"What are you going to do?" inquired Dorothy, impa- tiently.
+"What are you going to do?" inquired Dorothy, impatiently.
 
-"I’ll open the door," said the rabbit. He shut the window and disappeared, but a moment afterward a big door in the wall opened. The rabbit wore a white satin jacket with diamond buttons. His vest was rose-colored satin, with tourmaline but- tons. His trousers were white, and his stockings were rose silk.
-
-
+"I’ll open the door," said the rabbit. He shut the window and disappeared, but a moment afterward a big door in the wall opened. The rabbit wore a white satin jacket with diamond buttons. His vest was rose-colored satin, with tourmaline buttons. His trousers were white, and his stockings were rose silk.
 
 Dorothy stared at the little creature wonderingly. But when the rabbit saw Toto and Billina he ran to a table and sprang upon it nimbly. Then he said,
 
@@ -5476,19 +4319,7 @@ Dorothy quietly walked toward the door, and at every step she grew smaller and s
 
 Dorothy now found herself in a strange and beautiful city. Here were marble houses of curious forms, with delicate
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **the Keeper of the Wicket** — Хранитель Калитки
-
-
 
 slender spires and towers. The streets were paved with white marble and in front of each house was a lawn of rich green clover. The streets were full of the rabbits, and their costumes were splendid. Nearly every costume sparkled with exquisite gems. The lady rabbits wore bonnets with feathers and jewels in them.
 
@@ -5496,45 +4327,27 @@ The little girl became the center of attraction.
 
 "Make way!" cried the Keeper of the Wicket, in a pompous voice; "make way for Princess Dorothy, who comes from Ozma of Oz."
 
- 
-
-How Dorothy Lunched With a King
+## How Dorothy Lunched With a King
 
 They entered the great hall of the palace, where they met an attendant, from whom the Keeper of the Wicket inquired about the King.
 
-"I heard his Majesty was wailing as usual only a few min- utes ago," was the reply.
+"I heard his Majesty was wailing as usual only a few minutes ago," was the reply.
 
 "What’s the matter with your King?" asked Dorothy.
 
-"Oh, he doesn’t want to be King, that’s all," was the reply. "Come!" said the Keeper of the Wicket, sternly; "lead us
-
-to his Majesty."
+"Oh, he doesn’t want to be King, that’s all," was the reply. "Come!" said the Keeper of the Wicket, sternly; "lead us to his Majesty."
 
 The attendant led them into a room with satin-covered gold furniture. There was a throne in this room, cushioned seat, and on this seat reclined the Rabbit King. He was lying on his back, with his paws in the air, and whining.
 
 "Your Majesty! Your Majesty! Get up. Here’s a visitor," called out the attendant.
 
-The King looked at Dorothy with one watery pink eye. Then he sat up and wiped his eyes carefully with a silk hand- kerchief.
+The King looked at Dorothy with one watery pink eye. Then he sat up and wiped his eyes carefully with a silk handkerchief.
 
 "Excuse my grief, fair stranger," he said, in a sad voice. "What time is it, **Blinkem**1?"
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **Blinkem** — Моргун
 
-
-
-"One o’clock, your Majesty," replied the attendant. "Serve luncheon at once!" commanded the King. "Lunch-
-
-eon for two."
+"One o’clock, your Majesty," replied the attendant. "Serve luncheon at once!" commanded the King. "Luncheon for two."
 
 "Yes, your Majesty," answered the attendant, and went away.
 
@@ -5556,27 +4369,13 @@ When the King was alone with Dorothy he came down from his throne, tossed his cr
 
 "I am," said Dorothy.
 
-"And I am unhappy," said the King. "I’m wretched, woe- ful, afflicted, distressed and dismal. Are you not sorry for me?" "No," answered Dorothy, honestly, "I can’t say I am. This
-
-is the prettiest little city I ever saw."
+"And I am unhappy," said the King. "I’m wretched, woeful, afflicted, distressed and dismal. Are you not sorry for me?" "No," answered Dorothy, honestly, "I can’t say I am. This is the prettiest little city I ever saw."
 
 "Oh, the city is good enough," he admitted. "Glinda, the Good Sorceress, made it for us because she liked rabbits. But I hate it. When I was young I lived in a burrow in the forest. Oh, how happy and contented I was then! I was a real rabbit, as nature made me — wild and free!"
 
 "If you don’t like it, why don’t you resign?" she asked.
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **Bristle** — Щетинка
-
-
 
 "Impossible!" wailed the Rabbit. "There’s a beastly law in this town that forbids it."
 
@@ -5588,9 +4387,7 @@ is the prettiest little city I ever saw."
 
 "I didn’t know how dreadful city life was, and I was not going to be a King," said he.
 
-"I know Glinda," remarked Dorothy, "and when I see her again, I’ll ask her to put another King in your place." "Hurroo — hurray!" shouted the King; and then he
-
-jumped up from the table and danced wildly about the room.
+"I know Glinda," remarked Dorothy, "and when I see her again, I’ll ask her to put another King in your place." "Hurroo — hurray!" shouted the King; and then he jumped up from the table and danced wildly about the room.
 
 " When will you see Glinda?" he inquired.
 
@@ -5604,19 +4401,15 @@ jumped up from the table and danced wildly about the room.
 
 "I’ll ask her," agreed Dorothy. "And this chair," said the King.
 
- 
-
-How the King Changed His Mind
+## How the King Changed His Mind
 
 After their dinner went out to listen to a rabbit band. The rabbits were playing upon golden instruments and dressed in neat uniforms.
-
-
 
 "And now," he said, "we will now present the Royal Band of Whiskered Friskers."
 
 As he spoke the musicians struck up a dance melody while into the room pranced **the Whiskered Friskers**1. They were eight pretty rabbits dressed in gauzy purple skirts fastened around their waists with diamond bands.
 
-The Friskers began their pranks, and these were so comical that Dorothy laughed with real enjoyment. They not only danced together, but they leaped over one an- other, stood upon their heads and hopped and skipped here and there. Finally, they all made double somersaults.
+The Friskers began their pranks, and these were so comical that Dorothy laughed with real enjoyment. They not only danced together, but they leaped over one another, stood upon their heads and hopped and skipped here and there. Finally, they all made double somersaults.
 
 "They’re fine!" Dorothy said to the King.
 
@@ -5626,9 +4419,7 @@ The Friskers began their pranks, and these were so comical that Dorothy laughed 
 
 The King sighed. Dorothy said:
 
-"I must go now. I want to find the Wizard and Aunt Em and Uncle Henry and all the rest before night comes." " Won’t you stay with us?" asked the King. "You will
-
-be very welcome."
+"I must go now. I want to find the Wizard and Aunt Em and Uncle Henry and all the rest before night comes." " Won’t you stay with us?" asked the King. "You will be very welcome."
 
 "No, thank you," she replied. "I must get back to my friends. And I want to see Glinda, you know."
 
@@ -5636,27 +4427,13 @@ The King did not weep nor groan anymore. When they arrived at the room in the wa
 
 "You were good to me," Dorothy said to the King, "and I thank you ever so much. As soon as possible I’ll see Glinda and ask her to put another King in your place and send you back into the wild forest."
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **the Whiskered Friskers** — Зайки-Кувыркайки
-
-
 
 "But maybe," said the King "I don’t like to trouble you with my misery. So perhaps I’d better stay. Forget it, my dear; forget all my foolishness."
 
 Dorothy laughed. Then she left him and entered through the little door into the room in the wall, where she grew gradually bigger and bigger. After that she with Toto and Billina walked away from the high marble wall.
 
- 
-
-How the Wizard Found Dorothy
+## How the Wizard Found Dorothy
 
 When they came to the signpost, there, to their joy, were the tents. The Shaggy Man was gathering firewood while Uncle Henry and Aunt Em sat in their camp chairs. They all ran forward to greet Dorothy, as she approached, and Aunt Em exclaimed:
 
@@ -5678,8 +4455,6 @@ Em and Uncle Henry were much astonished at the story. "Now that we’re together
 
 "We haven’t visited the Rigmaroles or the Flutterbudgets yet," said Dorothy. "I’d like to see them."
 
-
-
 "And then," continued the little Wizard, "we will call upon the Tin Woodman and our old friend the Scarecrow, on our way home."
 
 "That will be nice!" cried Dorothy, eagerly. They got up early in the morning.
@@ -5700,43 +4475,27 @@ In an hour or two they entered a pretty valley where a village was nestled among
 
 "Oh!" cried Aunt Em, impatiently; "what’s all this rigmarole about?"
 
-"That’s it!" said the Wizard, laughing merrily. "It’s a rigma- role because the boy is a Rigmarole and we’ve come to Rigmarole Town."
+"That’s it!" said the Wizard, laughing merrily. "It’s a rigmarole because the boy is a Rigmarole and we’ve come to Rigmarole Town."
 
 "Do they all talk like that?" asked Dorothy, wonderingly. "He could say 'yes' or 'no'," observed Uncle Henry.
 
 "Not here. I don’t believe the Rigmaroles know what 'yes' or 'no' means," said the Wizard.
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **Rigmarole Town** — Болтунвиль
 
+Several other people approached the wagon and listened intently to his speech. Then they began talking to one another in long, deliberate speeches. One of the women said,
 
-
-Several other people approached the wagon and listened intently to his speech. Then they began talking to one an- other in long, deliberate speeches. One of the women said,
-
-"It is the easiest thing in the world for a person to say 'yes' or 'no' when a question is asked for the purpose of gain- ing information or satisfying the curiosity has attracted the attention of an individual…"
+"It is the easiest thing in the world for a person to say 'yes' or 'no' when a question is asked for the purpose of gaining information or satisfying the curiosity has attracted the attention of an individual…"
 
 "Dear me!" exclaimed Dorothy, interrupting the speech. But the woman did not even stop talking.
 
-"Let’s go on," said Dorothy. "I’m ready to move on." "So am I," declared Uncle Henry; "we’re wasting time
-
-here."
+"Let’s go on," said Dorothy. "I’m ready to move on." "So am I," declared Uncle Henry; "we’re wasting time here."
 
 "We’re all ready to go," said the Shaggy Man, putting his fingers to his ears.
 
 Dorothy looked back, as they rode away, and noticed that the woman did not finish her speech but was talking as glibly as ever, although no one was near to hear her.
 
- 
-
-How They Encountered the Flutterbudgets
+## How They Encountered the Flutterbudgets
 
 They were soon among the pretty hills and valleys again, the road was hard and smooth. Soon they saw another village. The place seemed even larger than Rigmarole Town, but was not so attractive in appearance.
 
@@ -5746,23 +4505,11 @@ They were soon among the pretty hills and valleys again, the road was hard and s
 
 The village they now approached was not built in a valley, but on top of a hill, and the road was like a corkscrew.
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **Flutterbudget** — Нытик
-
-
 
 "Look out!" screamed a voice. "Look out, or you’ll **run over**1 my child!"
 
-They saw a woman upon the sidewalk. She was nerv- ously wringing her hands.
+They saw a woman upon the sidewalk. She was nervously wringing her hands.
 
 "Where is your child?" asked the Sawhorse.
 
@@ -5776,9 +4523,7 @@ As the travelers turned into another street they found a man. He was walking exc
 
 "Why not?" inquired Omby Amby.
 
-"If I go to sleep I’ll shut my eyes," he explained; "and if I shut my eyes they may grow together. Oh, I’ll be blind!" "There’s no help for this case," declared the Wizard; and
-
-they went on.
+"If I go to sleep I’ll shut my eyes," he explained; "and if I shut my eyes they may grow together. Oh, I’ll be blind!" "There’s no help for this case," declared the Wizard; and they went on.
 
 At the next street corner a woman rushed up to them, "Save my baby! Oh, good, kind people, save my baby!" "Is it in danger?" asked Dorothy.
 
@@ -5790,19 +4535,7 @@ The child was sleeping peacefully in her arms.
 
 "I’ve never heard of any," admitted the woman, "but if there are…"
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
 1 **run over** — задавить
-
-
 
 "Are you going to throw your baby out of the window?" questioned the little man.
 
@@ -5818,15 +4551,13 @@ The child was sleeping peacefully in her arms.
 
 But the Wizard did not stop to argue with her. The Sawhorse cantered down the hill, and they breathed easily when they were miles away from the village.
 
-The country they were now passing through was every- where tinted purple, the prevailing color of the Gillikin Country. But as the Sawhorse ascended a hill they found that upon the other side everything was of a rich yellow hue.
+The country they were now passing through was everywhere tinted purple, the prevailing color of the Gillikin Country. But as the Sawhorse ascended a hill they found that upon the other side everything was of a rich yellow hue.
 
 "Aha!" cried the Captain General; "here is the Country of the Winkies. We are just crossing the boundary line."
 
 "Then we will lunch with the Tin Woodman," announced the Wizard, joyfully. "He’s the King of this country."
 
- 
-
-How the Tin Woodman Told the Sad News
+## How the Tin Woodman Told the Sad News
 
 The Tin Woodman received Princess Dorothy and her friends with much grace and cordiality. But the little girl noticed that something was worrying with her old friend, because he was not so merry as usual.
 
@@ -5835,8 +4566,6 @@ The Tin Woodman received Princess Dorothy and her friends with much grace and co
 "Our old friend moved into his new mansion," explained the Tin Woodman. "The Scarecrow moved there just two days ago."
 
 "Why doesn’t he live with Ozma in the Emerald City?" said Dorothy. "I thought he was happy there."
-
-
 
 "It seems," said the Tin Woodman, "that our dear Scarecrow cannot be contented with city life. Originally he was a farmer, he passed his early life in a cornfield, where he frightened away the crows. So now, after a long residence in the Emerald City, he turned to farm life again. He feels that he cannot be happy without a farm, so Ozma gave him some land. Everyone helped him build his mansion."
 
@@ -5850,9 +4579,7 @@ After breakfast Dorothy said to the Tin Woodman,
 
 He looked so anxious, that the little girl asked,
 
-"There isn’t anything wrong with Ozma, is there?" "Not yet," said he; "but I must tell you some very bad
-
-news, little friend. The Nome King has wicked thoughts of revenge," said the Emperor, sadly, "because we once defeated him and liberated his slaves and you took away his Magic Belt. So he ordered his Nomes to dig a long tunnel underneath the deadly desert. He wants to enter the Emerald City. When he gets there he intends to destroy our beautiful country."
+"There isn’t anything wrong with Ozma, is there?" "Not yet," said he; "but I must tell you some very bad news, little friend. The Nome King has wicked thoughts of revenge," said the Emperor, sadly, "because we once defeated him and liberated his slaves and you took away his Magic Belt. So he ordered his Nomes to dig a long tunnel underneath the deadly desert. He wants to enter the Emerald City. When he gets there he intends to destroy our beautiful country."
 
 Dorothy was much surprised to hear this.
 
@@ -5860,31 +4587,17 @@ Dorothy was much surprised to hear this.
 
 "Of course," said Dorothy; "And what is she going to do?"
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
-
-1 **the Emperor’s Tin Cornet Band** — Императорский Же- лезный Духовой Оркестр
-
-
+1 **the Emperor’s Tin Cornet Band** — Императорский Железный Духовой Оркестр
 
 "I cannot tell," was the reply.
 
 "Pooh!" cried the Yellow Hen. "We’re not afraid of the Nomes. We will roll our eggs down the tunnel and they’ll run away back home."
 
-"That’s true!" exclaimed Dorothy. "The Scarecrow once conquered all the Nome King’s army with some of Billina’s eggs." "You do not understand," continued the Tin Woodman. "The Nome King is clever, and he knows his Nomes will run from eggs. He has bargained with many terrible creatures to help him. These evil spirits are not afraid of eggs or anything else, and they are very powerful. So the Nome King will send them through the tunnel first, to conquer and destroy, and then
-
-the Nomes will follow."
+"That’s true!" exclaimed Dorothy. "The Scarecrow once conquered all the Nome King’s army with some of Billina’s eggs." "You do not understand," continued the Tin Woodman. "The Nome King is clever, and he knows his Nomes will run from eggs. He has bargained with many terrible creatures to help him. These evil spirits are not afraid of eggs or anything else, and they are very powerful. So the Nome King will send them through the tunnel first, to conquer and destroy, and then the Nomes will follow."
 
 "Is the tunnel ready?" asked Dorothy.
 
-"Ozma told me yesterday that the tunnel was all com- pleted except for a thin crust of earth at the end. When our enemies break through this crust, they will be in the gardens of the royal palace, in the heart of the Emerald City. I offered to arm all my Winkies; but she said no."
+"Ozma told me yesterday that the tunnel was all completed except for a thin crust of earth at the end. When our enemies break through this crust, they will be in the gardens of the royal palace, in the heart of the Emerald City. I offered to arm all my Winkies; but she said no."
 
 "Why?" asked Dorothy.
 
@@ -5896,13 +4609,9 @@ the Nomes will follow."
 
 "Nothing!" gloomily replied the Emperor of the Winkies.
 
- 
-
-How the Scarecrow Displayed His Wisdom
+## How the Scarecrow Displayed His Wisdom
 
 This amazing news saddened every heart and all were now anxious to return to the Emerald City and share Ozma’s fate. So they started immediately. As the road led past the Scarecrow’s new mansion they determined to make a brief halt there.
-
-
 
 "The Scarecrow is probably the wisest man in all Oz," remarked the Tin Woodman. "His brains are plentiful and of excellent quality. I must say I rely a great deal upon the Scarecrow’s brains."
 
@@ -5910,9 +4619,7 @@ The Tin Woodman rode on the front seat of the wagon, where Dorothy sat between h
 
 The Scarecrow’s new house was shaped like an immense **ear of corn**1. The rows of kernels were made of solid gold, and the green upon which the ear stood upright was a mass of sparkling emeralds. Upon the very top of the structure was perched a figure representing the Scarecrow himself, and upon his extended arms were several crows with ruby eyes.
 
-"He could be very happy here, I’m sure," the girl said. "But if Oz is destroyed of course this place will be destroyed too." "Yes," replied the Tin Woodman, "and also my beautiful
-
-tin castle, that is my joy and pride."
+"He could be very happy here, I’m sure," the girl said. "But if Oz is destroyed of course this place will be destroyed too." "Yes," replied the Tin Woodman, "and also my beautiful tin castle, that is my joy and pride."
 
 "Yes, Oz will indeed become a desert." The Scarecrow came out to meet them.
 
@@ -5924,33 +4631,19 @@ Then the Woodman told his friend of the Nome King’s tunnel, and the evil creat
 
 "Well," said the Scarecrow, "it certainly looks bad for Ozma, and all of us. But I believe it is wrong to worry over anything before it happens."
 
-"Ah! that is real wisdom," declared the Shaggy Man, ap- provingly.
+"Ah! that is real wisdom," declared the Shaggy Man, approvingly.
 
 "Nevertheless," said the Scarecrow, "I shall go with you to the Emerald City and offer Ozma my services."
 
-"She says we can do nothing to oppose our enemies," an- nounced the Tin Woodman.
-
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif) |
-
-
-
-
+"She says we can do nothing to oppose our enemies," announced the Tin Woodman.
 
 1 **ear of corn** — початок кукурузы
-
-
 
 "And doubtless she is right, sir," answered the Scarecrow. "That’s why I’m going to see her."
 
 Then the visitors hurried away to the Emerald City. The Scarecrow found a seat in the near the Shaggy Man. The Sawhorse draw the wagon over the smooth roads swiftly and they reached the royal palace in the Emerald City by the evening.
 
- 
-
-How Ozma Refused to Fight for Her Kingdom
+## How Ozma Refused to Fight for Her Kingdom
 
 Ozma was in her rose garden when the party arrived. Dorothy’s eyes were full of tears as she kissed the lovely Ruler of Oz, and she whispered to her,
 
@@ -5960,21 +4653,17 @@ Ozma was in her rose garden when the party arrived. Dorothy’s eyes were full o
 
 "For all your trouble about the Nome King," was the reply. Ozma laughed with genuine amusement.
 
-"Why, that has not troubled me a bit, dear Princess," she replied. Then she added: "Have you all worried about this tun- nel?"
+"Why, that has not troubled me a bit, dear Princess," she replied. Then she added: "Have you all worried about this tunnel?"
 
 "We have!" they exclaimed in a chorus.
 
-"Well, perhaps it is more serious than I imagined," admit- ted the fair Ruler. "After dinner we will all meet together and talk it over."
+"Well, perhaps it is more serious than I imagined," admitted the fair Ruler. "After dinner we will all meet together and talk it over."
 
-As soon as the dinner was finished Ozma led the com- pany to her own private room in which hung the Magic Picture. "Is the Nome King’s tunnel finished, Ozma?" the Scarecrow
-
-asked.
+As soon as the dinner was finished Ozma led the company to her own private room in which hung the Magic Picture. "Is the Nome King’s tunnel finished, Ozma?" the Scarecrow asked.
 
 "It was completed today," she replied. "They have built it right under my palace grounds, and it ends in front of the Forbidden Fountain. Nothing but a crust of earth remains to separate our enemies from us, and when they march here, they will easily break through this crust and rush upon us."
 
 "Who will assist the Nome King?" inquired the Scarecrow.
-
-
 
 "The Whimsies, the Growleywogs and the Phanfasms," she replied. "I watched today in my Magic Picture the messengers whom the Nome King sent to all these people to summon them to assemble in his great caverns."
 
@@ -5984,31 +4673,19 @@ At once the landscape faded from the Magic Picture and was replaced by the scene
 
 "Listen!" whispered Ozma.
 
-"Is all ready?" demanded the First and Foremost, haugh-
+"Is all ready?" demanded the First and Foremost, haughtily.
 
-
-
-tily.
-
-
-
-"The tunnel is finally completed," replied General Guph. "How long will it take us to march to the Emerald City?"
-
-
-
-asked the Grand Gallipoot of the Growleywogs.
+"The tunnel is finally completed," replied General Guph. "How long will it take us to march to the Emerald City?" asked the Grand Gallipoot of the Growleywogs.
 
 "If we start at midnight," replied the Nome King, "we shall arrive at the Emerald City by daybreak. Then, while all the Oz people are sleeping, we will capture them and make them our slaves. After that we will destroy the city itself and march through the Land of Oz."
 
 "Good!" cried the First and Foremost. " When we get through with Oz it will be a desert wilderness. Ozma will be my slave."
 
-"She will be *my* slave!" shouted the Grand Gallipoot, an- grily.
+"She will be *my* slave!" shouted the Grand Gallipoot, angrily.
 
 "We’ll decide that," said King Roquat hastily. "Don’t let us quarrel now, friends. First let us conquer Oz."
 
 The First and Foremost smiled wickedly; but he only said,
-
-
 
 "I and my Phanfasms go first, for nothing on earth can oppose our power."
 
@@ -6030,15 +4707,9 @@ Ozma turned to her friends and said:
 
 That seemed a hopeless task to them.
 
-"Let us use the Magic Belt to move to Kansas. We will put some emeralds in our pockets, and can sell them in Topeka to pay off the mortgage on Uncle Henry’s farm. Then we can all live together and be happy," said Dorothy. "No!" said Ozma, decidedly. "I will never leave my people. I will use the Magic Belt to send you to Kansas, if you wish. But if my beloved country must be destroyed and
-
-my people enslaved I will remain and share their fate." "Quite right," asserted the Scarecrow. "I will remain with
-
-you."
+"Let us use the Magic Belt to move to Kansas. We will put some emeralds in our pockets, and can sell them in Topeka to pay off the mortgage on Uncle Henry’s farm. Then we can all live together and be happy," said Dorothy. "No!" said Ozma, decidedly. "I will never leave my people. I will use the Magic Belt to send you to Kansas, if you wish. But if my beloved country must be destroyed and my people enslaved I will remain and share their fate." "Quite right," asserted the Scarecrow. "I will remain with you."
 
 "And so will I," declared the Tin Woodman and the Shaggy Man.
-
-
 
 Tiktok, the machine man, also said he intended to stand by Ozma,
 
@@ -6052,7 +4723,7 @@ Tiktok, the machine man, also said he intended to stand by Ozma,
 
 " Why do they call it the Forbidden Fountain?" asked Dorothy.
 
-"That water," declared Ozma, gravely, "is the most danger- ous thing in all the Land of Oz. It is the Water of Oblivion. Whoever drinks at the Forbidden Fountain at once forgets everything he has ever known."
+"That water," declared Ozma, gravely, "is the most dangerous thing in all the Land of Oz. It is the Water of Oblivion. Whoever drinks at the Forbidden Fountain at once forgets everything he has ever known."
 
 "Does it make one crazy?" asked Dorothy.
 
@@ -6060,31 +4731,23 @@ Tiktok, the machine man, also said he intended to stand by Ozma,
 
 "My brains," said the Scarecrow, "work so splendidly that they have found a way to save Oz — to save us all!"
 
-
-
 "Tell us how!" cried the Tin Woodman.
 
 "Not now," said the Scarecrow. "You may all go to bed, and I advise you to forget your worries. I’m going to stay here and tell my plan to Ozma alone. If you all come to the Forbidden Fountain at daybreak, you’ll see how easily we will save the kingdom when our enemies come from the tunnel."
 
 So they went away and let the Scarecrow and Ozma alone.
 
- 
+## How the Fierce Warriors Invaded Oz
 
-How the Fierce Warriors Invaded Oz
-
-The Nome King and his terrible allies sat at the banquet table until midnight. There was much quarreling between the Growleywogs and Phanfasms, and one of the wee-headed Whimsies got angry at General Guph. Yet no one was seri- ously hurt, and the Nome King felt much relieved when the clock struck twelve. They all sprang up and seized their weap- ons.
+The Nome King and his terrible allies sat at the banquet table until midnight. There was much quarreling between the Growleywogs and Phanfasms, and one of the wee-headed Whimsies got angry at General Guph. Yet no one was seriously hurt, and the Nome King felt much relieved when the clock struck twelve. They all sprang up and seized their weapons.
 
 "Aha!" shouted the First and Foremost. "Now to conquer the Land of Oz!"
 
-His Phanfasms marched into the tunnel and began the long journey through it to the Emerald City. The First and Foremost intended to take all the treasures of Oz for himself; to kill all who can be killed and enslave the rest; to destroy the whole country, and afterward to conquer and enslave the Nomes, the Growleywogs and the Whimsies. He knew his power was suf- ficient to enable him to do all these things easily.
+His Phanfasms marched into the tunnel and began the long journey through it to the Emerald City. The First and Foremost intended to take all the treasures of Oz for himself; to kill all who can be killed and enslave the rest; to destroy the whole country, and afterward to conquer and enslave the Nomes, the Growleywogs and the Whimsies. He knew his power was sufficient to enable him to do all these things easily.
 
 Next marched into the tunnel the army of gigantic Growleywogs, with their Grand Gallipoot at their head. The Grand Gallipoot was a little afraid of the First and Foremost, but had a cunning plan to murder or destroy that powerful creature.
 
-The Chief of the Whimsies now marched his false-headed forces into the tunnel. In his wicked little head was a plot to destroy both the First and Foremost and the Grand Gallipoot. He intended to let them conquer Oz. But he wanted afterward
-
-
-
-to destroy them, as well as King Roquat, and keep all the slaves and treasure of Ozma’s kingdom for himself.
+The Chief of the Whimsies now marched his false-headed forces into the tunnel. In his wicked little head was a plot to destroy both the First and Foremost and the Grand Gallipoot. He intended to let them conquer Oz. But he wanted afterward to destroy them, as well as King Roquat, and keep all the slaves and treasure of Ozma’s kingdom for himself.
 
 After all his dangerous allies marched into the tunnel the Nome King and General Guph started to follow them, at the head of fifty thousand Nomes, all fully armed.
 
@@ -6098,9 +4761,7 @@ With a steady tramp, they advanced to the beautiful Emerald
 
 City.
 
-Suddenly the First and Foremost began to cough and to
-
-sneeze.
+Suddenly the First and Foremost began to cough and to sneeze.
 
 "This tunnel is terribly dusty," he growled, angrily. "I’ll punish that Nome King. My throat and eyes are full of dust and I’m thirsty!"
 
@@ -6116,67 +4777,43 @@ But none of his followers carried a drop of water, so he hastened on to get thro
 
 "I don’t know," answered the Nome King. "I never noticed any dust before."
 
-
-
 "Let’s hurry!" cried the General.
 
 The dust grew thicker and thicker, and the throats and eyes and noses of the invaders were filled with it. But not one halted or turned back.
 
- 
-
-How They Drank at the Forbidden Fountain
+## How They Drank at the Forbidden Fountain
 
 The Scarecrow, the Tin Woodman and Tiktok did not sleep. They stood beside the sparkling water of the Forbidden Fountain until daybreak.
 
 The first golden streaks of dawn appeared in the sky. Then Ozma joined them, in one of her prettiest gowns.
 
-"Our enemies have not yet arrived," said the Scarecrow. "They will soon be here," she said, "for I have just glanced
+"Our enemies have not yet arrived," said the Scarecrow. "They will soon be here," she said, "for I have just glanced at my Magic Picture. They are coughing and choking with the dust in the tunnel."
 
-at my Magic Picture. They are coughing and choking with the dust in the tunnel."
-
-"Oh, is there dust in the tunnel?" asked the Tin Woodman. "Yes; Ozma placed it there by means of the Magic Belt,"
-
-explained the Scarecrow, with one of his broad smiles.
+"Oh, is there dust in the tunnel?" asked the Tin Woodman. "Yes; Ozma placed it there by means of the Magic Belt," explained the Scarecrow, with one of his broad smiles.
 
 Then Dorothy, Uncle Henry and Aunt Em came to them. The girl had a sleepless and anxious night. The Wizard and the Shaggy Man next arrived.
 
 "There lies the tunnel," said Ozma, pointing to a part of the ground just before the Forbidden Fountain, "and in a few moments the dreadful invaders will break through the earth and swarm over the land. Let us all stand on the other side of the Fountain and watch to see what happens."
 
-At once they moved around the fountain of the Water of Oblivion. There they stood silent until the earth broke. The First and Foremost appeared, followed by all his grim warriors. The leader sprang forward, saw the fountain and rushed toward it and drank eagerly of the sparkling water. Many of the other Phanfasms drank, too, in order to clear their dry and dusty throats. Then they stood around and looked at one an-
-
-other with simple, wondering smiles.
-
-
+At once they moved around the fountain of the Water of Oblivion. There they stood silent until the earth broke. The First and Foremost appeared, followed by all his grim warriors. The leader sprang forward, saw the fountain and rushed toward it and drank eagerly of the sparkling water. Many of the other Phanfasms drank, too, in order to clear their dry and dusty throats. Then they stood around and looked at one another with simple, wondering smiles.
 
 The First and Foremost saw Ozma and her companions beyond the fountain. He merely stared at her — he forgot where he was and why he came there.
 
-But now the Grand Gallipoot arrived, with a hoarse cry of rage and thirst. He too saw the fountain and hastened to drink of its forbidden waters. The other Growleywogs fol- lowed him. They drank and cast off their false heads to **slake their thirst**1 at the fountain.
+But now the Grand Gallipoot arrived, with a hoarse cry of rage and thirst. He too saw the fountain and hastened to drink of its forbidden waters. The other Growleywogs followed him. They drank and cast off their false heads to **slake their thirst**1 at the fountain.
 
-When the Nome King and General Guph arrived they both made a dash to drink, but the General was so mad with thirst that he knocked his King over and then drank heartily of the Water of Oblivion. This rude act of his General made the Nome King so angry that for a moment he forgot he was thirsty. He rose to his feet, saw Ozma and her peo- ple, and yelled out:
+When the Nome King and General Guph arrived they both made a dash to drink, but the General was so mad with thirst that he knocked his King over and then drank heartily of the Water of Oblivion. This rude act of his General made the Nome King so angry that for a moment he forgot he was thirsty. He rose to his feet, saw Ozma and her people, and yelled out:
 
 "Why don’t you capture them? Why don’t you conquer Oz, you idiots?"
 
-But the great warriors became little children. They for- got all their enmity against Ozma and against Oz. They even forgot why they were in this strange and beautiful country. As for the Nome King, they did not recognize him, and wondered who he was.
+But the great warriors became little children. They forgot all their enmity against Ozma and against Oz. They even forgot why they were in this strange and beautiful country. As for the Nome King, they did not recognize him, and wondered who he was.
 
 Not so with Roquat, the Nome King. He did not drunk from the Forbidden Fountain and all his former rage against Ozma and Dorothy now inflamed him fiercely. So the Nome King turned to order his great army of Nomes to advance from the tunnel and seize the helpless Oz people.
 
 But the Scarecrow spoke a word to the Tin Woodman. Together they ran and grabbed Roquat and tossed him into the great basin of the fountain. When the Nome King cried out, his mouth filled with water, which ran down his throat. And he forgot everything.
 
- 
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:\Users\adloky\AppData\Local\Temp\msohtmlclip1\01\clip_image003.gif) |
-
-
-
-
-
 1 **slake their thirst** — утолить жажду
 
-
-
-Ozma and Dorothy saw how their dreaded enemies become as harmless as babies. But how to get rid of this horde of intruders? The Shaggy Man kindly pulled the Nome King out of the fountain and set him upon his thin legs. Before he left the tunnel he had commanded his fifty thou- sand Nomes to remain there until he ordered them to advance. Ozma did not wish all these Nomes to overrun her land, so she advanced to King Roquat and said gently,
+Ozma and Dorothy saw how their dreaded enemies become as harmless as babies. But how to get rid of this horde of intruders? The Shaggy Man kindly pulled the Nome King out of the fountain and set him upon his thin legs. Before he left the tunnel he had commanded his fifty thousand Nomes to remain there until he ordered them to advance. Ozma did not wish all these Nomes to overrun her land, so she advanced to King Roquat and said gently,
 
 " Who are you? What is your name?"
 
@@ -6194,17 +4831,11 @@ The Nome King went to the tunnel and said to his army: 'March home!' At once the
 
 The Wizard went to General Guph, who was trying to count his fingers, and told him to follow the Nome King, who was his master. Guph meekly obeyed, and so all the Nomes quitted the Land of Oz forever.
 
-But there were still the Phanfasms and Whimsies and Growleywogs standing around in groups. They filled the gardens and trampled upon the flowers and grass. But they were perfectly harmless and played together like children or gazed with pleasure upon the pretty sights of the royal
-
-
-
-gardens. Ozma took the Magic Belt and clasped the pre- cious Belt around her waist.
+But there were still the Phanfasms and Whimsies and Growleywogs standing around in groups. They filled the gardens and trampled upon the flowers and grass. But they were perfectly harmless and played together like children or gazed with pleasure upon the pretty sights of the royal gardens. Ozma took the Magic Belt and clasped the precious Belt around her waist.
 
 "I wish all these strange people — the Whimsies and the Growleywogs and the Phanfasms — safe back in their own homes!" she said.
 
- 
-
-How Glinda Worked a Magic Spell
+## How Glinda Worked a Magic Spell
 
 "That was better than fighting," said Ozma, when all our friends were assembled in the palace after the exciting events of the morning; and everyone agreed with her.
 
@@ -6212,13 +4843,9 @@ How Glinda Worked a Magic Spell
 
 "But, best of all," said Dorothy, "the wicked people have all forgotten their wickedness, and will not wish to hurt any one after this."
 
-"Still," said Tiktok, "other enemies may come to Oz some
+"Still," said Tiktok, "other enemies may come to Oz some day."
 
-day."
-
-"You are right," declared Ozma. "The deadly desert that
-
-surrounds us is not enough protection. The Wizard and Dorothy have both come here through the air. In time the airships may cause us trouble. Visitors can ruin our lovely fairyland. Tomor- row I will make a journey to the castle of Glinda the Good, and ask her advice."
+"You are right," declared Ozma. "The deadly desert that surrounds us is not enough protection. The Wizard and Dorothy have both come here through the air. In time the airships may cause us trouble. Visitors can ruin our lovely fairyland. Tomorrow I will make a journey to the castle of Glinda the Good, and ask her advice."
 
 "May I go with you?" asked Dorothy, eagerly.
 
@@ -6228,13 +4855,11 @@ Ozma used the Magic Belt to close up the tunnel, so that the earth underneath th
 
 Early the following morning our friends visited the famous Sorceress, Glinda the Good. Ozma and Dorothy rode in a chariot drawn by the Cowardly Lion and the Hungry Tiger, while the Sawhorse drew the red wagon in which rode the rest of the party.
 
-
-
 Glinda knew that they were coming.
 
 "I read about you in my Magic Book," she said, as she greeted them.
 
-"What is your Magic Book like?" inquired Aunt Em, curi- ously.
+"What is your Magic Book like?" inquired Aunt Em, curiously.
 
 "It is a record of everything that happens," replied the Sorceress.
 
@@ -6244,7 +4869,7 @@ Glinda knew that they were coming.
 
 "Then," said Ozma, "I suppose you know that I am seeking a way to prevent anyone in the future from discovering the Land of Oz."
 
-"Yes; I know that. It seems to me unwise to allow many outside people to come here. Let us make it impossible for anyone ever to communicate with us. Then we may live peace- fully and contentedly."
+"Yes; I know that. It seems to me unwise to allow many outside people to come here. Let us make it impossible for anyone ever to communicate with us. Then we may live peacefully and contentedly."
 
 "Your advice is wise," returned Ozma. "I thank you, Glinda, for your promise to assist me."
 
@@ -6256,11 +4881,7 @@ Glinda knew that they were coming.
 
 "We shall be able to see each other and everything in the Land of Oz. It won’t affect us at all. But those who fly through the air over our country will look down and see nothing at all. Those who come to the edge of the desert, or try to cross it, will see nothing at all. In other words, the Land of Oz will entirely disappear."
 
-"That’s all right," said Dorothy, cheerfully. "Make Oz invisible!" "It is already invisible," Glinda said. "I knew Ozma’s
-
-wishes, and performed the Magic Spell before you arrived."
-
-
+"That’s all right," said Dorothy, cheerfully. "Make Oz invisible!" "It is already invisible," Glinda said. "I knew Ozma’s wishes, and performed the Magic Spell before you arrived."
 
 Ozma seized the hand of the Sorceress and pressed it gratefully.
 
@@ -6268,7 +4889,7 @@ Ozma seized the hand of the Sorceress and pressed it gratefully.
 
 The writer of these Oz stories has received a little note from Princess Dorothy of Oz. The note was written on a broad, white feather from a stork’s wing, and it said:
 
-"YOU WILL NEVER HEAR ANYTHING MORE ABOUT OZ, BECAUSE WE ARE NOW CUT OFF FOREVER FROM ALL THE REST OF THE WORLD. BUT TOTO AND I WILL ALWAYS LOVE YOU AND ALL THE OTHER CHIL- DREN WHO LOVE US.
+"YOU WILL NEVER HEAR ANYTHING MORE ABOUT OZ, BECAUSE WE ARE NOW CUT OFF FOREVER FROM ALL THE REST OF THE WORLD. BUT TOTO AND I WILL ALWAYS LOVE YOU AND ALL THE OTHER CHILDREN WHO LOVE US.
 
 DOROTHY GALE.
 
