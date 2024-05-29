@@ -4,17 +4,22 @@
 <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
 <style>
   table { border-collapse: collapse; }
-  input, button, td, label, textarea { padding: 5pt; font-size: 14pt; margin-top: 5pt; }
+  input, button, td, label, textarea, .word-retell { padding: 5pt; font-size: 14pt; margin-top: 5pt; }
   textarea { width: 300pt; }
   input[type=checkbox] { transform: scale(1.7); font-size: 14pt; margin-top: 10pt; }
   .hidden { display: none; }
-  .wrapper.wrapper-all { }
-  .wrapper.wrapper-hot .search-wrapper { display: none; }
-  .wrapper.wrapper-retell .search-wrapper { display: none; }
-  .wrapper.wrapper-retell .word-index { display: none; }
-  .wrapper.wrapper-retell .word-form { display: none; }
+  .x-large { font-size: 20pt; }
+  
+    .wrapper-all .word-retell
+  , .wrapper-hot .word-retell
+  , .wrapper-hot .search-wrapper
+  , .wrapper-retell .search-wrapper
+  , .wrapper-retell .word-index 
+  , .wrapper-retell .word-form
+  { display: none; }
+
   .word-item.sel { background-color: #DDF; }
-  .search-wrapper, .word-index, .word-form { margin-top: 10pt; }
+  .search-wrapper, .word-index, .word-form, .word-retell { margin-top: 10pt; }
   .save-btn { margin-top: 20pt; }
   .word-item { cursor: pointer; }
 </style>
@@ -23,7 +28,7 @@
 
 <BODY>
 
-<div class="wrapper">
+<div class="wrapper wrapper-all">
   <div>
     <label><input type="radio" name="view" value="all" checked/>all</label>
     <label><input type="radio" name="view" value="hot"/>hot</label>
@@ -39,14 +44,29 @@
   <div class="word-index"></div>
   
   <div class="word-form">
-      <input name="key" type="text"/><br/>
-      <input name="pron" type="text"/><br/>
-      <input name="val" type="text"/><br/>
-      <label><input name="hot" type="checkbox"/> hot</label><br/>
-      <input name="retell" type="hidden"/>
-      <textarea name="context" rows="4"></textarea></br>
-      <button class="save-btn">Save</button> 
-      <!-- <button class="del-btn">Del</button> -->
+    <input name="key" type="text"/><br/>
+    <input name="pron" type="text"/><br/>
+    <input name="val" type="text"/><br/>
+    <label><input name="hot" type="checkbox"/> hot</label><br/>
+    <input name="retell" type="hidden"/>
+    <input name="retell-hours" readonly></br>
+    <textarea name="context" rows="4"></textarea></br>
+    <button class="save-btn">Save</button> 
+    <!-- <button class="del-btn">Del</button> -->
+  </div>
+  <div class="word-retell">
+    <button class="retell-level-btn" data-level="0">Hint</button>
+    <div class="word-retell-body"></div>
+    <button class="retell-btn" data-hours="0">&nbsp;0h&nbsp;</button>
+    <button class="retell-btn" data-hours="2">&nbsp;2h&nbsp;</button>
+    <button class="retell-btn" data-hours="6">&nbsp;6h&nbsp;</button>
+    <button class="retell-btn" data-hours="21">&nbsp;1d&nbsp;</button>
+    <button class="retell-btn" data-hours="45">&nbsp;2d&nbsp;</button>
+    <button class="retell-btn" data-hours="69">&nbsp;3d&nbsp;</button>
+    <button class="retell-btn" data-hours="117">&nbsp;5d&nbsp;</button>
+    <button class="retell-btn" data-hours="189">&nbsp;8d&nbsp;</button>
+    <button class="retell-btn" data-hours="209">13d</button>
+    <button class="retell-btn" data-hours="100000">INF</button>
   </div>
 </div>
   
@@ -54,6 +74,7 @@
 var ver = 1;
 var words = [];
 var word;
+var wordRetell;
 
 (function() {
   var req = indexedDB.open("memen", ver);
@@ -80,10 +101,11 @@ var word;
 })();
 
 function index() {
-    if ($(".wrapper").hasClass(".wrapper-all")) {
+    var wrapper = $(".wrapper");
+    if (wrapper.hasClass("wrapper-all")) {
         search();
     }
-    else {
+    else if (wrapper.hasClass("wrapper-hot")) {
         hot();
     }
 }
@@ -106,56 +128,6 @@ function put(word, notExists) {
             }
         }
     }
-}
-
-function del(key) {
-    var req = indexedDB.open("memen", ver);
-    
-    req.onsuccess = function(event) {
-        var db = event.target.result;
-        var tx = db.transaction("words", "readwrite");
-        tx.onerror = function (event) { console.log(event); }
-        req = tx.objectStore("words").delete(key);
-        req.onsuccess = function() {
-            search();
-        }
-    }
-}
-
-//put({key: "refuse", val: "отказать", hot: 1, retell: (new Date(2050,0,1).valueOf()) });
-//put({key: "coward", val: "трус", hot: 1, retell: (new Date(2050,0,1).valueOf()) });
-
-function wordsHtml(index) {
-    if (!Number.isInteger(index))
-        index = 0;
-    $(".word-index").html(`<table>${words.map((x, i) => `<tr class="word-item${i === index ? " sel" : ""}" data-i="${i}"><td><b>${x.key}</b></td><td>${x.pron ? `[${x.pron}]` : ""}</td><td>${x.val}</td></tr>`).join("")}</table>`);
-}
-
-function wordToForm() {
-    if (!word) {
-        $(".word-form").addClass("hidden");
-        return;
-    }
-    else {
-        $(".word-form").removeClass("hidden");
-    }
-    $('[name=key]').val(word.key);
-    $('[name=pron]').val(word.pron);
-    $('[name=val]').val(word.val);
-    $('[name=hot]').prop("checked", word.hot === 1);
-    $('[name=context]').val(word.context);
-    $('[name=retell]').val(word.retell);
-}
-
-function wordFromForm() {
-    word = {
-        key: $('[name=key]').val(),
-        pron: $('[name=pron]').val(),
-        val: $('[name=val]').val(),
-        hot: $('[name=hot]').prop("checked") ? 1 : 0,
-        context: $('[name=context]').val(),
-        retell: Number($('[name=retell]').val())
-    };
 }
 
 function search() {
@@ -198,6 +170,98 @@ function hot() {
     }
 }
 
+/*
+function del(key) {
+    var req = indexedDB.open("memen", ver);
+    
+    req.onsuccess = function(event) {
+        var db = event.target.result;
+        var tx = db.transaction("words", "readwrite");
+        tx.onerror = function (event) { console.log(event); }
+        req = tx.objectStore("words").delete(key);
+        req.onsuccess = function() {
+            search();
+        }
+    }
+}
+*/
+
+function retell() {
+    var req = indexedDB.open("memen", ver);
+    
+    req.onsuccess = function(event) {
+        var db = event.target.result;
+        var tx = db.transaction("words", "readonly");
+        var range = IDBKeyRange.upperBound((new Date).valueOf(), true);
+        var req = tx.objectStore("words").index("retell").getAll(range);
+        req.onsuccess = function() {
+            var words = req.result.filter(x => x.hot === 0);
+            wordRetell = words.length > 0 ? words[0] : null;
+            $(".retell-level-btn").data("level", 0);
+            wordRetellHtml(0);
+        };
+    }
+}
+
+//put({key: "refuse", val: "отказать", hot: 1, retell: (new Date(2050,0,1).valueOf()) });
+//put({key: "coward", val: "трус", hot: 1, retell: (new Date(2050,0,1).valueOf()) });
+
+function wordsHtml(index) {
+    if (!Number.isInteger(index))
+        index = 0;
+    $(".word-index").html(`<table>${words.map((x, i) => `<tr class="word-item${i === index ? " sel" : ""}" data-i="${i}"><td><b>${x.key}</b></td><td>${x.pron ? `[${x.pron}]` : ""}</td><td>${x.val}</td></tr>`).join("")}</table>`);
+}
+
+function wordRetellHtml(level) {
+    if (!wordRetell) {
+        $(".word-retell-body").html("");
+        return;
+    }
+    var rs = [];
+    rs.push(`<div class="x-large"><b>${wordRetell.key}</b>${wordRetell.pron ? ` [${wordRetell.pron}]` : ""}</div>`);
+    if (level > 1) {
+        rs.push(`<div class="x-large">${wordRetell.val}</div>`);
+    }
+    if (level > 0) {
+        var cs = wordRetell.context.replaceAll("\r", "").split("\n");
+        if (level < 2) {
+            cs = cs.map(x => x.split("|")[0]);
+        }
+        rs.push(`<div>${cs.join("<br/>")}</div>`);
+    }
+    $(".word-retell-body").html(rs.join(""));
+}
+
+function wordToForm() {
+    if (!word) {
+        $(".word-form").addClass("hidden");
+        return;
+    }
+    else {
+        $(".word-form").removeClass("hidden");
+    }
+    $('[name=key]').val(word.key);
+    $('[name=pron]').val(word.pron);
+    $('[name=val]').val(word.val);
+    $('[name=hot]').prop("checked", word.hot === 1);
+    $('[name=retell]').val(word.retell);
+    var retellHours = Math.round((word.retell - Date.now().valueOf()) / 3600000);
+    $('[name=retell-hours]').val( Math.abs(retellHours) < 1000 ? `${retellHours}h` : "");
+    $('[name=context]').val(word.context);
+    
+}
+
+function wordFromForm() {
+    word = {
+        key: $('[name=key]').val(),
+        pron: $('[name=pron]').val(),
+        val: $('[name=val]').val(),
+        hot: $('[name=hot]').prop("checked") ? 1 : 0,
+        context: $('[name=context]').val(),
+        retell: Number($('[name=retell]').val())
+    };
+}
+
 $(".search-btn").click(function() {
     search();
 });
@@ -212,6 +276,10 @@ $('[name="view"]').on("change", function() {
         
         case "hot":
         hot();
+        break;
+
+        case "retell":
+        retell();
         break;
     };
 });
@@ -241,6 +309,7 @@ $(".del-btn").click(function() {
     del(word.key);
 });
 */
+
 $(".create-btn").click(function() {
     var s = $(".search-box").val();
     if (!s)
@@ -253,6 +322,18 @@ $(".create-btn").click(function() {
       , retell: (new Date(2050,0,1).valueOf())
     };
     put(word, true);
+});
+
+$(".retell-level-btn").click(function() {
+    var level = Number($(this).data("level")) + 1;
+    $(this).data("level", level);
+    wordRetellHtml(level);
+});
+
+$(".retell-btn").click(function() {
+    wordRetell.retell = Date.now().valueOf() + Number($(this).data("hours")) * 3600000;
+    put(wordRetell);
+    retell();
 });
 
 search();
