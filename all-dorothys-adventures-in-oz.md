@@ -1,3 +1,7 @@
+<config hidden="1" translate="d:/all-dorothys-adventures-in-oz-g.txt"/>
+
+<content/>
+
 # 1. The Wonderful Wizard Of Oz
 
 ## The Cyclone
