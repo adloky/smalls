@@ -1,0 +1,263 @@
+<HEAD>
+
+<meta charset="utf-8">
+<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+<style>
+  table { border-collapse: collapse; }
+  input, button, td, label, textarea { padding: 5pt; font-size: 14pt; margin-top: 5pt; }
+  textarea { width: 300pt; }
+  input[type=checkbox] { transform: scale(1.7); font-size: 14pt; margin-top: 10pt; }
+  .hidden { display: none; }
+  .wrapper.wrapper-all { }
+  .wrapper.wrapper-hot .search-wrapper { display: none; }
+  .wrapper.wrapper-retell .search-wrapper { display: none; }
+  .wrapper.wrapper-retell .word-index { display: none; }
+  .wrapper.wrapper-retell .word-form { display: none; }
+  .word-item.sel { background-color: #DDF; }
+  .search-wrapper, .word-index, .word-form { margin-top: 10pt; }
+  .save-btn { margin-top: 20pt; }
+  .word-item { cursor: pointer; }
+</style>
+
+</HEAD>
+
+<BODY>
+
+<div class="wrapper">
+  <div>
+    <label><input type="radio" name="view" value="all" checked/>all</label>
+    <label><input type="radio" name="view" value="hot"/>hot</label>
+    <label><input type="radio" name="view" value="retell"/>retell</label>
+  </div>
+  
+  <div class="search-wrapper">
+    <input class="search-box" name="search"  type="text"/>
+    <button class="search-btn">Search</button>
+    <button class="create-btn">Create</button>
+  </div>
+  
+  <div class="word-index"></div>
+  
+  <div class="word-form">
+      <input name="key" type="text"/><br/>
+      <input name="pron" type="text"/><br/>
+      <input name="val" type="text"/><br/>
+      <label><input name="hot" type="checkbox"/> hot</label><br/>
+      <input name="retell" type="hidden"/>
+      <textarea name="context" rows="4"></textarea></br>
+      <button class="save-btn">Save</button> 
+      <!-- <button class="del-btn">Del</button> -->
+  </div>
+</div>
+  
+<script>
+var ver = 1;
+var words = [];
+var word;
+
+(function() {
+  var req = indexedDB.open("memen", ver);
+
+  req.onupgradeneeded = function(event) {
+      var db = event.target.result;
+      var words;
+      
+      if (!db.objectStoreNames.contains("words")) {
+          words = db.createObjectStore("words", {keyPath: "key"});
+      }
+      else {
+          words = event.target.transaction.objectStore("words");
+      }
+    
+      if (!words.indexNames.contains("hot")) {
+          words.createIndex("hot", "hot", { unique: false });
+      }
+      
+      if (!words.indexNames.contains("retell")) {
+          words.createIndex("retell", "retell", { unique: false });
+      }
+  };
+})();
+
+function index() {
+    if ($(".wrapper").hasClass(".wrapper-all")) {
+        search();
+    }
+    else {
+        hot();
+    }
+}
+
+function put(word, notExists) {
+    var req = indexedDB.open("memen", ver);
+    
+    req.onsuccess = function(event) {
+        var db = event.target.result;
+        var tx = db.transaction("words", "readwrite");
+        tx.onerror = function (event) { console.log(event); }
+        if (notExists) {
+            tx.objectStore("words").add(word).onsuccess = function() {
+                index();
+            }
+        }
+        else {
+            tx.objectStore("words").put(word).onsuccess = function() {
+                index();
+            }
+        }
+    }
+}
+
+function del(key) {
+    var req = indexedDB.open("memen", ver);
+    
+    req.onsuccess = function(event) {
+        var db = event.target.result;
+        var tx = db.transaction("words", "readwrite");
+        tx.onerror = function (event) { console.log(event); }
+        req = tx.objectStore("words").delete(key);
+        req.onsuccess = function() {
+            search();
+        }
+    }
+}
+
+//put({key: "refuse", val: "отказать", hot: 1, retell: (new Date(2050,0,1).valueOf()) });
+//put({key: "coward", val: "трус", hot: 1, retell: (new Date(2050,0,1).valueOf()) });
+
+function wordsHtml(index) {
+    if (!Number.isInteger(index))
+        index = 0;
+    $(".word-index").html(`<table>${words.map((x, i) => `<tr class="word-item${i === index ? " sel" : ""}" data-i="${i}"><td><b>${x.key}</b></td><td>${x.pron ? `[${x.pron}]` : ""}</td><td>${x.val}</td></tr>`).join("")}</table>`);
+}
+
+function wordToForm() {
+    if (!word) {
+        $(".word-form").addClass("hidden");
+        return;
+    }
+    else {
+        $(".word-form").removeClass("hidden");
+    }
+    $('[name=key]').val(word.key);
+    $('[name=pron]').val(word.pron);
+    $('[name=val]').val(word.val);
+    $('[name=hot]').prop("checked", word.hot === 1);
+    $('[name=context]').val(word.context);
+    $('[name=retell]').val(word.retell);
+}
+
+function wordFromForm() {
+    word = {
+        key: $('[name=key]').val(),
+        pron: $('[name=pron]').val(),
+        val: $('[name=val]').val(),
+        hot: $('[name=hot]').prop("checked") ? 1 : 0,
+        context: $('[name=context]').val(),
+        retell: Number($('[name=retell]').val())
+    };
+}
+
+function search() {
+    var s = $(".search-box").val();
+    var req = indexedDB.open("memen", ver);
+    
+    req.onsuccess = function(event) {
+        var db = event.target.result;
+        var tx = db.transaction("words", "readonly");
+        var range = IDBKeyRange.bound(s, s + "~", false, true);
+        var req = tx.objectStore("words").getAll(range, 10);
+        req.onsuccess = function() {
+            words = req.result;
+            var index = 0;
+            if (word)
+                words.forEach((x,i) => { if (x.key === word.key) index = i; });
+            word = words.length > 0 ? words[index] : null;
+            wordsHtml(index);
+            wordToForm();
+        };
+    }
+}
+
+function hot() {
+    var req = indexedDB.open("memen", ver);
+    
+    req.onsuccess = function(event) {
+        var db = event.target.result;
+        var tx = db.transaction("words", "readonly");
+        var req = tx.objectStore("words").index("hot").getAll(1);
+        req.onsuccess = function() {
+            words = req.result;
+            var index = 0;
+            if (word)
+                words.forEach((x,i) => { if (x.key === word.key) index = i; });
+            word = words.length > 0 ? words[index] : null;
+            wordsHtml(index);
+            wordToForm();
+        };
+    }
+}
+
+$(".search-btn").click(function() {
+    search();
+});
+
+$('[name="view"]').on("change", function() {
+    var view = $(this).val();
+    $(".wrapper").attr("class", `wrapper wrapper-${view}`);
+    switch (view) {
+        case "all":
+        search();
+        break;
+        
+        case "hot":
+        hot();
+        break;
+    };
+});
+
+$(document).on("click", ".word-item", function() {
+    $(".word-item").removeClass("sel");
+    $(this).addClass("sel");
+    var i = Number($(this).data("i"));
+    word = words[i];
+    wordToForm();
+});
+
+$(".save-btn").click(function() {
+    var prevKey = word ? word.key : null;
+    wordFromForm();
+    if (word.key !== prevKey && prevKey !== null) {
+        del(prevKey);
+    }
+    if (word.key) {
+        put(word);
+    }
+});
+
+/*
+$(".del-btn").click(function() {
+    wordFromForm();
+    del(word.key);
+});
+*/
+$(".create-btn").click(function() {
+    var s = $(".search-box").val();
+    if (!s)
+        return;
+        
+    word = {
+        key: $(".search-box").val()
+      , val: ""
+      , hot: 1
+      , retell: (new Date(2050,0,1).valueOf())
+    };
+    put(word, true);
+});
+
+search();
+
+</script>
+
+
+</BODY>
