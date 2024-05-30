@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Net;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading;
 using System.Threading.Tasks;
 using CsQuery;
@@ -21,6 +22,34 @@ namespace ConApp {
         }
 
         static void Main(string[] args) {
+            // li.data-wid
+            var dom = CQ.Create(File.ReadAllText("d:/freq.html"));
+            var i = 0;
+            var rs = new List<string>();
+            foreach (var x in dom["li[data-wid]"]) {
+                var ss = new List<string>();
+                ss.Add(x.Cq().Find(".spelling").Text());
+                ss.Add(x.Cq().Find(".part-of-speech").Text());
+                ss.Add(x.Cq().Find(".translations").Text());
+                ss.Add(x.Cq().Find(".word-rates").Attr("class").Split(' ').Where(y => Regex.IsMatch(y, "^[ABC][12]$")).FirstOrDefault() ?? "");
+                //ss.Add(x.Cq().Find(".word-rates"));
+                ss.Add(x.Cq().Find("a").Attr("href"));
+                //x.Cq().Text
+                rs.Add(string.Join(";", ss));
+                //Console.WriteLine();
+                //Console.WriteLine(x.OuterHTML);
+                i++;
+                //if (i == 50)
+                //    break;
+            }
+            File.WriteAllLines("d:/freq.txt", rs);
+            Console.WriteLine("Press ENTER");
+            Console.ReadLine();
+        }
+    }
+}
+
+/*
             var path = "d:/All_Dorothys_adventures_in_Oz.htm";
             var html = File.ReadAllText(path);
             path = path.Replace(".htm", "-2.htm");
@@ -37,6 +66,5 @@ namespace ConApp {
                 p.OuterHTML = $"<h2>{p.Cq().Text()}</h2>";
             }
             File.WriteAllText(path, dom.Html());
-        }
-    }
-}
+
+ */
