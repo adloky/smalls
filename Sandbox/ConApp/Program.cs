@@ -78,22 +78,22 @@ namespace ConApp {
 
         static void Main(string[] args) {
             var path = "d:/Projects/smalls/freq-us.md";
-            var ss = File.ReadAllLines(path).Where(x => x != "").ToArray();
-            var re = new Regex(@"^(\d+ .*?) \*[a-z]\*$");
+            var ss = File.ReadAllLines(path).Where(x => x != "");
+            var re = new Regex(@"\*\*|\|");
             var rs = new List<string>();
+            var body = "";
             foreach (var s in ss) {
-                var m = re.Match(s);
-                if (!m.Success) {
-                    rs.Add(s + "\r\n");
-                    continue;
+                if (re.IsMatch(s)) {
+                    if (body != "") rs.Add(body.Trim());
+                    body = "";
+                    rs.Add(s);
                 }
-
-                var p = s.Replace("*", "").Last();
-                var body = m.Groups[1].Value;
-                rs.Add("**" + body + "** " + p + "\r\n");
+                else {
+                    body += " " + s;
+                }
             }
 
-            File.WriteAllLines(path.Replace(".md", "-2.md"), rs);
+            File.WriteAllLines(path.Replace(".md", "-2.md"), rs.Select(x => x + "\r\n"));
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
         }
