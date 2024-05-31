@@ -45,15 +45,26 @@ namespace ConApp {
 
         private static ChromeDriver chromeDriver;
 
+        private static int navI = 0;
+
         static string gtranslate(string s) {
             if (chromeDriver == null)
                 chromeDriver = new ChromeDriver();
 
-            chromeDriver.Navigate().GoToUrl("https://translate.google.com/details?sl=en&tl=ru&text=coward&op=translate");
+            chromeDriver.Navigate().GoToUrl("https://translate.google.com/details?sl=en&tl=ru&text=" + s + "&op=translate");
+            Thread.Sleep(navI % 20 == 0 ? 20000 : 5000);
+            navI++;
             var html = chromeDriver.FindElement(By.CssSelector("[jsname=kepomc]")).GetAttribute("innerHTML");
 
             var dom = CQ.Create(html);
-            var body = dom.Find("h3").Where(x => x.Cq().Text().Contains("варианты перевода")).FirstOrDefault().ParentNode;
+            var h3 = dom.Find("h3").Where(x => x.Cq().Text().Contains("варианты перевода")).FirstOrDefault();
+            if (h3 == null) {
+                s = $"{s} NotFound";
+                Console.WriteLine(s);
+                return s;
+            }
+
+            var body = h3.ParentNode;
             var rs = new List<string>();
             foreach (var part in body.Cq().Find("tbody")) {
                 var partName = (string)null;
@@ -72,28 +83,61 @@ namespace ConApp {
                 }
                 rs.Add($" {{{partName}}} {string.Join(", ", ts)}");
             }
-
-            return $"{s}{string.Join("", rs)}";
+            s = $"{s}{string.Join("", rs)}";
+            Console.WriteLine(s);
+            return s;
         }
 
-        static void Main(string[] args) {
-            var path = "d:/Projects/smalls/freq-us.md";
-            var ss = File.ReadAllLines(path).Where(x => x != "");
-            var re = new Regex(@"\*\*|\|");
-            var rs = new List<string>();
-            var body = "";
-            foreach (var s in ss) {
-                if (re.IsMatch(s)) {
-                    if (body != "") rs.Add(body.Trim());
-                    body = "";
-                    rs.Add(s);
-                }
-                else {
-                    body += " " + s;
-                }
-            }
+        private static volatile bool ctrlC = false;
 
-            File.WriteAllLines(path.Replace(".md", "-2.md"), rs.Select(x => x + "\r\n"));
+        [STAThreadAttribute]
+        static void Main(string[] args) {
+            Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
+            /*
+            var path = "d:/freq-us-ex.txt";
+            var path2 = path.Replace(".txt", "-2.txt");
+            var path3 = "d:/freq-us-2.txt";
+            var rs = File.ReadAllLines(path3);
+            var dic = File.ReadAllLines(path2).Distinct().ToDictionary(x => x.Split(' ')[0]);
+            //var ss = File.ReadAllLines(path).Where(x => x != "").Skip(rs.Count).ToArray();
+            for (var i = 0; i < rs.Length; i++) {
+                var s = rs[i];
+                var k = s.Split(' ')[0];
+                if (!s.Contains("NotFound") || !dic.ContainsKey(k))
+                    continue;
+
+                rs[i] = dic[k];
+            }
+            File.WriteAllLines(path3, rs);
+            */
+
+            var path = "d:/freq-us-ex.txt";
+            var path2 = path.Replace(".txt", "-2.txt");
+            var rs = File.ReadAllLines(path2).ToList();
+            var ss = File.ReadAllLines(path).Where(x => x != "").Skip(rs.Count).ToArray();
+            
+            //var re = new Regex(@"\*\*|\|");
+            foreach (var s in ss) {
+                if (ctrlC)
+                    break;
+                
+                var t = s + " NotFound";
+                var i = 0;
+                do {
+                    try {
+                        t = gtranslate(s);
+                    }
+                    catch {
+                        break;
+                    }
+                    i++;
+                }
+                while (t.Contains("NotFound") && i <= 5);
+                rs.Add(t);
+            }
+            chromeDriver.Dispose();
+            File.WriteAllLines(path2, rs.Select(x => x));
+            
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
         }

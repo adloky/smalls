@@ -5608,7 +5608,7 @@ work%, so%, how%, very%, try, as%, hit%, too%, find, %enough, push%, press, play
 
 39558 | 0.94
 
-936 **thanks (PL)** n
+936 **thanks** n
 
 *adj* special, sincere, heartfelt, generous, deepest, effusive, hearty, profuse *noun* time, %call, year%, guy, day%, man, pleasure, gentleman, world% *verb* %join, %watch, appreciate, welcome, express%, nod%, extend, deserve%, owe%, murmur
 
@@ -6766,7 +6766,7 @@ will, %become, %lead, may, %reach, %return, hope, %settle, %force, % replace, %r
 
 34877 | 0.88 A
 
-1129 **troops (PL)** n
+1129 **troops** n
 
 *adj* American, Iraqi, British, Soviet, Israeli, Russian, military, foreign, German, allied *noun* ground, withdrawal, army, force, war, scout%, combat, government%, %border, movement *verb* send%, withdraw, bring, pull, kill, support%, fight, commit, order%, %arrive
 
@@ -8740,7 +8740,7 @@ die%, thanks, ahead, matter%, anymore%, dead%, stupid%
 
 24750 | 0.93 F
 
-1458 **clothes (PL)** n
+1458 **clothes** n
 
 *adj* new, old, clean, dirty, wet, civilian, nice, casual *noun* woman, shoe, food, hair, work%, change%, street%, bag, closet, pile% *verb* wear, take%, buy%, put%, wash%, dress%, hang, throw, pull, %fit
 
@@ -13342,7 +13342,7 @@ information%, question%, issue, decision%, policy%, %use, student, concern%, pro
 
 14612 | 0.93 A
 
-2225 **savings (PL)** n
+2225 **savings** n
 
 *adj* medical, federal, personal, significant, private, annual, potential, substantial, low, long-term *noun* %loan, cost%, % account, bank, retirement%, rate, life%, energy% *verb* achieve, invest, spend, offer, increase, realize, result, pass, dip%, accumulate
 
@@ -13684,7 +13684,7 @@ friend%, hand%, eye%, yours, face%, next%, close%, colleague%, favorite%, lip%, 
 
 14369 | 0.92 F
 
-2282 **goods (PL)** n
+2282 **goods** n
 
 *adj* other, sporting, baked, manufactured, public, canned, imported, dry, durable, foreign *noun* consumer%, trade%, material%, capital, household%, export, demand%, import, worth%, product *verb* sell, produce, buy, deliver%, provide, purchase, %store, carry%, damage%
 
@@ -15646,7 +15646,7 @@ will, %associate, function%, %distribute, %require, %difficult, eat, cell, %rese
 
 11901 | 0.93 F
 
-2609 **criteria (PL)** n
+2609 **criteria** n
 
 *adj* following, important, specific, different, objective, certain, primary, major, multiple, main *noun* selection, performance, inclusion, % variable, study, student, %measure, set%, %validity, eligibility% *verb* meet%, base, include, determine, develop, satisfy%, fit%
 
@@ -16546,7 +16546,7 @@ just%, guy, mean, really, %oh, kind, sort
 
 11096 | 0.92 A
 
-2759 **pants (PL)** n
+2759 **pants** n
 
 *adj* black, white, baggy, long, blue, short, hot, red, gray, green *noun* shirt, %leg, pair%, jacket, pocket, leather%, hand%, shoe, boot, sweater *verb* wear%, pull, put, drop, wet%, roll, unzip%, hang, fit, pee%
 
@@ -18568,7 +18568,7 @@ then, very%, only%, describe, let%, eye%, speak%, discuss, %consider, % before, 
 
 9242 | 0.95
 
-3096 **earnings (PL)** n
+3096 **earnings** n
 
 *adj* annual, high, corporate, future, strong, average, quarterly, net, projected *noun* %growth, company, year, percent, time%, %share, quarter, stock, rate, analyst *verb* report, increase, estimate, expect, % grow, %rise, %fall, boost%, base%, %decline
 
@@ -18796,7 +18796,7 @@ computer%, equipment%, box%, rhythm%, sex%, B
 
 8951 | 0.96
 
-3134 **sanctions (PL)** n
+3134 **sanctions** n
 
 *adj* economic, international, tough, military, legal, effective, severe, possible, imposing, official *noun* trade%, %regime, country, employer%, threat%, government, security, policy, imposition%, pressure *verb* impose, lift, %work, enforce%, apply, support%, face%, continue, maintain, ease%
 
@@ -19792,7 +19792,7 @@ tell, ask, United States, show, official%, warn, %deny, himself, fail, refer, de
 
 9463 | 0.84 A
 
-3300 **odds (PL)** n
+3300 **odds** n
 
 *adj* long, better, overwhelming, impossible, enormous, incredible, insurmountable *noun* %ratio, %end, %success, survival, %favor, %arrest, log%, marriage *verb* beat%, increase%, improve%, put%, defy%, face, overcome%, %stack, calculate%, reduce%
 
@@ -21540,7 +21540,7 @@ dinner%, lunch%, open%, almost%, hour, %commute, twice%, %reservation, breakfast
 
 7646 | 0.92 M N
 
-3591 **jeans (PL)** n
+3591 **jeans** n
 
 *adj* blue, black, white, faded, old, tight, baggy, skinny, red, dark *noun* T-shirt, shirt, pair%, jacket, pocket, denim, leather, shoe, cowboy, designer% *verb* wear%, dress%, pull, buy, fit, hang, tuck, fade, clad%, tear
 
@@ -22530,7 +22530,7 @@ cut%, %order, hair, %enough, catch%, %burst, breath, %visit, %vacation, sentence
 
 7045 | 0.93 S
 
-3756 **bacteria (PL)** n
+3756 **bacteria** n
 
 *adj* resistant, harmful, beneficial, fecal, common, deadly, pathogenic, intestinal, friendly, anaerobic *noun* virus, fungus, strain%, water, growth, type%, soil, plant, level, resistance *verb* cause, kill%, produce, % grow, contain%, %live, carry, allow, prevent, form
 
