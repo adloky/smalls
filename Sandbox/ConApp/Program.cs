@@ -8,9 +8,31 @@ using System.Text.RegularExpressions;
 using System.Threading;
 using System.Threading.Tasks;
 using CsQuery;
+using OpenQA.Selenium;
+using OpenQA.Selenium.Chrome;
 
 namespace ConApp {
     class Program {
+        static string handleString(string s, Regex re, Func<string, Match, string> handler) {
+            var m = re.Match(s);
+            var i = 0;
+            var sb = new StringBuilder();
+
+            while (m.Success) {
+                var ls = s.Substring(i, m.Index - i);
+                sb.Append(ls);
+                ls = s.Substring(m.Index, m.Length);
+                ls = handler(ls, m);
+                sb.Append(ls);
+                i = m.Index + m.Length;
+                m = m.NextMatch();
+            }
+            var ls2 = s.Substring(i, s.Length - i);
+            sb.Append(ls2);
+
+            return sb.ToString();
+        }
+
         static string get(string url) {
             Console.WriteLine($"GET: {url}");
             var request = WebRequest.Create(url);
@@ -21,28 +43,57 @@ namespace ConApp {
             }
         }
 
-        static void Main(string[] args) {
-            // li.data-wid
-            var dom = CQ.Create(File.ReadAllText("d:/freq.html"));
-            var i = 0;
+        private static ChromeDriver chromeDriver;
+
+        static string gtranslate(string s) {
+            if (chromeDriver == null)
+                chromeDriver = new ChromeDriver();
+
+            chromeDriver.Navigate().GoToUrl("https://translate.google.com/details?sl=en&tl=ru&text=coward&op=translate");
+            var html = chromeDriver.FindElement(By.CssSelector("[jsname=kepomc]")).GetAttribute("innerHTML");
+
+            var dom = CQ.Create(html);
+            var body = dom.Find("h3").Where(x => x.Cq().Text().Contains("варианты перевода")).FirstOrDefault().ParentNode;
             var rs = new List<string>();
-            foreach (var x in dom["li[data-wid]"]) {
-                var ss = new List<string>();
-                ss.Add(x.Cq().Find(".spelling").Text());
-                ss.Add(x.Cq().Find(".part-of-speech").Text());
-                ss.Add(x.Cq().Find(".translations").Text());
-                ss.Add(x.Cq().Find(".word-rates").Attr("class").Split(' ').Where(y => Regex.IsMatch(y, "^[ABC][12]$")).FirstOrDefault() ?? "");
-                //ss.Add(x.Cq().Find(".word-rates"));
-                ss.Add(x.Cq().Find("a").Attr("href"));
-                //x.Cq().Text
-                rs.Add(string.Join(";", ss));
-                //Console.WriteLine();
-                //Console.WriteLine(x.OuterHTML);
-                i++;
-                //if (i == 50)
-                //    break;
+            foreach (var part in body.Cq().Find("tbody")) {
+                var partName = (string)null;
+                var rows = part.Cq().Find("tr");
+                var ts = new List<string>();
+                for (var i = 0; i < rows.Length; i++) {
+                    var hs = rows[i].Cq().Find("th").Select(x => x.Cq().Text().Trim()).ToArray();
+                    var freq = rows[i].Cq().Find(".EiZ8Dd").Count();
+                    if (i == 0) {
+                        partName = hs[0];
+                        ts.Add($"{hs[1]} [{freq}]");
+                    }
+                    else {
+                        ts.Add($"{hs[0]} [{freq}]");
+                    }
+                }
+                rs.Add($" {{{partName}}} {string.Join(", ", ts)}");
             }
-            File.WriteAllLines("d:/freq.txt", rs);
+
+            return $"{s}{string.Join("", rs)}";
+        }
+
+        static void Main(string[] args) {
+            var path = "d:/Projects/smalls/freq-us.md";
+            var ss = File.ReadAllLines(path).Where(x => x != "").ToArray();
+            var re = new Regex(@"^(\d+ .*?) \*[a-z]\*$");
+            var rs = new List<string>();
+            foreach (var s in ss) {
+                var m = re.Match(s);
+                if (!m.Success) {
+                    rs.Add(s + "\r\n");
+                    continue;
+                }
+
+                var p = s.Replace("*", "").Last();
+                var body = m.Groups[1].Value;
+                rs.Add("**" + body + "** " + p + "\r\n");
+            }
+
+            File.WriteAllLines(path.Replace(".md", "-2.md"), rs);
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
         }
