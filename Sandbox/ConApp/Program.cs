@@ -111,7 +111,7 @@ namespace ConApp {
             File.WriteAllLines(path3, rs);
             */
             
-            var path = "d:/freq-us-ex.txt";
+            var path = "d:/freq-us.txt";
             var path2 = path.Replace(".txt", "-2.txt");
             var rs = File.ReadAllLines(path2).ToList();
             var ss = File.ReadAllLines(path).Where(x => x != "").Skip(rs.Count).ToArray();
