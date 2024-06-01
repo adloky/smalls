@@ -96,17 +96,22 @@ namespace ConApp {
             
             var path = "d:/Projects/smalls/freq-g.txt";
             var ss = File.ReadAllLines(path).Distinct().ToArray();
+            var rs = new List<string>();
 
             var re = new Regex(@"\{([^}]+)\}");
             var set = new HashSet<string>();
             foreach (var s in ss) {
+                rs.Add(handleString(s, re, (x, m) => x.ToLower()));
+                /*                
                 foreach (var m in re.Matches(s).Cast<Match>()) {
                     var p = m.Groups[1].Value;
                     set.Add(p);
                 }
+                */
             }
-            
-            set.OrderBy(x => x).ToList().ForEach(Console.WriteLine);
+
+            //set.OrderBy(x => x).ToList().ForEach(Console.WriteLine);
+            File.WriteAllLines(path, rs);
 
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
