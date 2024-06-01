@@ -2698,7 +2698,7 @@ they, find%, other, among%, identify%, protect%, consider%, defend%, present%, e
 
 78719 | 0.97
 
-451 **former** d
+451 **former** j
 
 % president, %Soviet, %United States, %secretary, %chief, %director, % member, %union, %governor, %executive, %official, %minister, %chairman, % senator
 
@@ -16288,7 +16288,7 @@ take%, me%, feel, %believe, like, professionally, %responsible, %involved, both%
 
 11086 | 0.94 F
 
-2716 **latter** d
+2716 **latter** j
 
 % part, %case, %half, %group, while%, former, during%, %category, choose%, although%, especially, %stage, example, %being
 
