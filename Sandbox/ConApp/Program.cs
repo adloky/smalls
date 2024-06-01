@@ -94,15 +94,36 @@ namespace ConApp {
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             
-            var path = "d:/Projects/smalls/freq-g.txt";
-            var ss = File.ReadAllLines(path).Distinct().ToArray();
+            var path = "d:/Projects/smalls/freq-us.md";
+            var ss = File.ReadAllLines(path);
             var rs = new List<string>();
+            var dic = new Dictionary<string, string> {
+                { "a", "{артикль}" },
+                { "v", "{глагол}" },
+                { "p", "{местоимение}" },
+                { "r", "{наречие}" },
+                { "i", "{предлог}" },
+                { "j", "{прилагательное}" },
+                { "c", "{союз}" },
+                { "n", "{существительное}" },
+                { "m", "{числительное}" },
+                { "u", "{междометие}" },
+                { "d", "{определитель}" },
+                { "o", "{прочее}" }
+             };
 
             //var re = new Regex(@"\{([^}]+)\}");
             var re = new Regex(@" \[[1-3]\], ");
             var set = new HashSet<string>();
             foreach (var s in ss) {
-                rs.Add(handleString(s, re, (x, m) => x.Replace(",", ";")));
+                if (!s.Contains("**")) {
+                    rs.Add(s);
+                    continue;
+                }
+                var p = s.Last().ToString();
+                var s2 = s.Substring(0, s.Length - 1) + dic[p];
+                rs.Add(s2);
+                //rs.Add(handleString(s, re, (x, m) => x.Replace(",", ";")));
                 /*                
                 foreach (var m in re.Matches(s).Cast<Match>()) {
                     var p = m.Groups[1].Value;
