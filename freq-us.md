@@ -23052,7 +23052,7 @@ different, stop%, avoid%, another%, out%, something%, eliminate%, disappear%, ab
 
 6755 | 0.94 F
 
-3843 **Olympics (PL)** n
+3843 **Olympics** n
 
 *adj* special, junior, previous, modern, consecutive, senior, future *noun* winter%, summer%, year, gold, month, coverage, %committee *verb* compete%, host%, watch%, qualify%, participate%, train%, attend%, prompt, % boost
 
