@@ -96,17 +96,7 @@ namespace ConApp {
             
             var path = "d:/Projects/smalls/freq-g.txt";
             var ss = File.ReadAllLines(path).Distinct().ToArray();
-            var dic = new Dictionary<string, string>();
-            foreach (var s in ss) {
-                var k = s.Split(' ')[0];
-                if (dic.ContainsKey(k)) {
-                    Console.WriteLine(k);
-                }
-                else {
-                    dic[k] = s;
-                }
-            }
-            /*
+
             var re = new Regex(@"\{([^}]+)\}");
             var set = new HashSet<string>();
             foreach (var s in ss) {
@@ -117,7 +107,6 @@ namespace ConApp {
             }
             
             set.OrderBy(x => x).ToList().ForEach(Console.WriteLine);
-            */
 
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
