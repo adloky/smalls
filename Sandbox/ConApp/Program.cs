@@ -90,54 +90,35 @@ namespace ConApp {
 
         private static volatile bool ctrlC = false;
 
-        [STAThreadAttribute]
+        [STAThread]
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
-            /*
-            var path = "d:/freq-us-ex.txt";
-            var path2 = path.Replace(".txt", "-2.txt");
-            var path3 = "d:/freq-us-2.txt";
-            var rs = File.ReadAllLines(path3);
-            var dic = File.ReadAllLines(path2).Distinct().ToDictionary(x => x.Split(' ')[0]);
-            //var ss = File.ReadAllLines(path).Where(x => x != "").Skip(rs.Count).ToArray();
-            for (var i = 0; i < rs.Length; i++) {
-                var s = rs[i];
-                var k = s.Split(' ')[0];
-                if (!s.Contains("NotFound") || !dic.ContainsKey(k))
-                    continue;
-
-                rs[i] = dic[k];
-            }
-            File.WriteAllLines(path3, rs);
-            */
             
-            var path = "d:/freq-us.txt";
-            var path2 = path.Replace(".txt", "-2.txt");
-            var rs = File.ReadAllLines(path2).ToList();
-            var ss = File.ReadAllLines(path).Where(x => x != "").Skip(rs.Count).ToArray();
-            
-            //var re = new Regex(@"\*\*|\|");
+            var path = "d:/Projects/smalls/freq-g.txt";
+            var ss = File.ReadAllLines(path).Distinct().ToArray();
+            var dic = new Dictionary<string, string>();
             foreach (var s in ss) {
-                if (ctrlC)
-                    break;
-                
-                var t = s + " NotFound";
-                var i = 0;
-                do {
-                    try {
-                        t = gtranslate(s);
-                    }
-                    catch {
-                        break;
-                    }
-                    i++;
+                var k = s.Split(' ')[0];
+                if (dic.ContainsKey(k)) {
+                    Console.WriteLine(k);
                 }
-                while (t.Contains("NotFound") && i <= 5);
-                rs.Add(t);
+                else {
+                    dic[k] = s;
+                }
             }
-            chromeDriver.Dispose();
-            File.WriteAllLines(path2, rs.Select(x => x));
+            /*
+            var re = new Regex(@"\{([^}]+)\}");
+            var set = new HashSet<string>();
+            foreach (var s in ss) {
+                foreach (var m in re.Matches(s).Cast<Match>()) {
+                    var p = m.Groups[1].Value;
+                    set.Add(p);
+                }
+            }
             
+            set.OrderBy(x => x).ToList().ForEach(Console.WriteLine);
+            */
+
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
         }
