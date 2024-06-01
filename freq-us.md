@@ -34,7 +34,7 @@ which, year, new, way, place, %world, life, school, country, case, % area, city,
 
 6475319 | 0.98
 
-7 **to** t
+7 **to** o
 
 in, want%, try%, back%, need%, able%, lead%, return%, allow%, enough%, continue, listen%, close%, refer%
 
@@ -106,7 +106,7 @@ base%, %side, focus%, %street, %floor, %ground, depend%, %basis, effect%, rely%,
 
 2379017 | 0.95 S
 
-19 **’s** g
+19 **’s** o
 
 mother, father, nation%, America%, %office, China%, driver%, Japan%, CNN%, Saddam%, ABC%, Alzheimer%, Hussein%, Iran%
 
@@ -166,13 +166,13 @@ fact%, believe%, suggest%, indicate%, argue%, realize%, note%, clear%, evidence%
 
 1580403 | 0.94 S
 
-29 **not** x
+29 **not** o
 
 % only, %enough, %yet, %sure, or%, whether%, simply, certainly%, % necessarily, %mention, %anymore, %proofread, %surprising, %merely
 
 1520589 | 0.98
 
-30 **n’t** x
+30 **n’t** o
 
 do%, can%, %know, %want, %any, why, %anything, really, %enough, % understand, %care, %anymore, %worry, %matter
 
@@ -298,7 +298,7 @@ well, such%, much%, long%, such%, far%, same%, %result, %part, %though, soon%, s
 
 765651 | 0.95 A
 
-51 **there** e
+51 **there** o
 
 % no, %lot, %nothing, %something, %little, %reason, %evidence, %difference, % enough, %doubt, %plenty, %significant, %wrong, %sign
 
@@ -16288,7 +16288,7 @@ take%, me%, feel, %believe, like, professionally, %responsible, %involved, both%
 
 11086 | 0.94 F
 
-2716 **latter** j
+2716 **latter** d
 
 % part, %case, %half, %group, while%, former, during%, %category, choose%, although%, especially, %stage, example, %being
 
