@@ -88,6 +88,23 @@ namespace ConApp {
             return s;
         }
 
+        private static Regex gValRe = new Regex(@"^(.*?) \[([1-3])\]$");
+
+        private static (string val, int freq)[] getGVals(string s, string part) {
+            var op = StringSplitOptions.None;
+            var valStr = s.Split(new[] { " {" }, op).Skip(1).Select(x => {
+                var ss = x.Split(new[] { "} " }, op);
+                return (part: ss[0], vals: ss[1]);
+            }).Where(x => x.part == part).Select(x => x.vals).FirstOrDefault();
+            if (valStr == null)
+                return new (string val, int freq)[] { };
+
+            return valStr.Split(new[] { "; " }, op).Select(x => {
+                var m = gValRe.Match(x);
+                return (val: m.Groups[1].Value, freq: int.Parse(m.Groups[2].Value));
+            }).ToArray();
+        }
+
         private static volatile bool ctrlC = false;
 
         [STAThread]
@@ -95,41 +112,36 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             
             var path = "d:/Projects/smalls/freq-us.md";
+            var path2 = "d:/Projects/smalls/freq-g.txt";
             var ss = File.ReadAllLines(path);
             var rs = new List<string>();
-            var dic = new Dictionary<string, string> {
-                { "a", "{артикль}" },
-                { "v", "{глагол}" },
-                { "p", "{местоимение}" },
-                { "r", "{наречие}" },
-                { "i", "{предлог}" },
-                { "j", "{прилагательное}" },
-                { "c", "{союз}" },
-                { "n", "{существительное}" },
-                { "m", "{числительное}" },
-                { "u", "{междометие}" },
-                { "d", "{определитель}" },
-                { "o", "{прочее}" }
-             };
+            var dic = File.ReadAllLines(path2).ToDictionary(x => x.Split('{')[0].Trim());
 
             //var re = new Regex(@"\{([^}]+)\}");
             var re = new Regex(@" \[[1-3]\], ");
-            var set = new HashSet<string>();
+            
             foreach (var s in ss) {
                 if (!s.Contains("**")) {
                     rs.Add(s);
                     continue;
                 }
-                var p = s.Last().ToString();
-                var s2 = s.Substring(0, s.Length - 1) + dic[p];
-                rs.Add(s2);
-                //rs.Add(handleString(s, re, (x, m) => x.Replace(",", ";")));
-                /*                
-                foreach (var m in re.Matches(s).Cast<Match>()) {
-                    var p = m.Groups[1].Value;
-                    set.Add(p);
+                
+                var sp = s.Split(new[] { " **", "** " }, StringSplitOptions.None);
+                var num = sp[0];
+                var key = sp[1];
+                var part = sp[2].Replace("{", "").Replace("}", "");
+                var vals = getGVals(dic[key], part);
+                var min = vals.Length == 0 ? 10 : vals.Select(x => x.freq).Max() - 1;
+                vals = vals.Where(x => x.freq >= min).ToArray();
+                if (vals.Length == 0) {
+                    rs.Add(s);
+                    continue;
                 }
-                */
+
+                var s2 = $"{num} **{key}** {{{part}}} {string.Join("; ", vals.Select(x => $"{x.val} [{x.freq}]"))}";
+                //    Console.WriteLine(s);
+                //Console.WriteLine(key + ":" + string.Join("; ", vals.Select(x => $"{x.val} [{x.freq}]")));
+                rs.Add(s2);
             }
 
             //set.OrderBy(x => x).ToList().ForEach(Console.WriteLine);
