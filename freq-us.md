@@ -892,7 +892,7 @@ their%, his%, her%, its%, my%, your%, our%, life, %experience, mind, % personal,
 
 222823 | 0.96
 
-150 **out** {предлог} из [3]; вне [3]; за [2]
+150 **out** {предлог} из [3]; вне [3]; за [2]; (out of) из [3]; (out of) вне [3]
 
 (out of) %of, get%, come%, way, run%, pull%, %door, %control, %car, walk%, %business, %bed, %sight, step%
 
@@ -3718,7 +3718,7 @@ not, %because, put, rather%, quite%, %matter, %true, %ignore, than%, % enough, %
 
 57808 | 0.97
 
-621 **less** {определитель} меньше [3]
+621 **less** {определитель} меньше [3]; (less than) не особо [3]; (less than) менее [3]
 
 (less than) %than, percent, %year, much%, %hour, nothing%, %minute, cost, % half, %month, far%, %money, spend%, %week
 
@@ -4270,7 +4270,7 @@ have, never%, see%, than%, year%, ever%, day%, night%, hear%, week%, happen%, mo
 
 51850 | 0.93 A
 
-713 **other** {местоимение} другой [3]
+713 **other** {местоимение} другой [3]; (each other) друг друга [3]
 
 (each other) each%, %than, look%, talk%, against%, love%, anything%, something%, face, no%, none%, any%, stare%, fight%
 
@@ -4318,7 +4318,7 @@ have, never%, see%, than%, year%, ever%, day%, night%, hear%, week%, happen%, mo
 
 49286 | 0.97
 
-721 **each** {местоимение} каждый [3]
+721 **each** {местоимение} каждый [3]; (each other) друг друга [3]
 
 (each other) %other, %year, one, they, %day, %side, different, %week, look%, individual, four, %month, %person, item
 
@@ -8416,7 +8416,7 @@ do, can, %who, %else, know, think, want, than%, never%, tell, ever, anything, hu
 
 26558 | 0.91 A
 
-1404 **afraid** {прилагательное} испуганный [1]; боящийся [1]; напуганный [1]
+1404 **afraid** {прилагательное} (afraid of) боящийся [3]
 
 (afraid of) *noun* dark, death, height, dog, flying, AIDS, snake, failure, commitment, needle, retaliation *misc* I, because, might, lose, anything, die, little, suddenly
 
@@ -8710,7 +8710,7 @@ die%, thanks, ahead, matter%, anymore%, dead%, stupid%
 
 25237 | 0.91 A
 
-1453 **aware** {прилагательное} осведомленный [2]; знающий [1]; сознающий [1]
+1453 **aware** {прилагательное} осведомленный [2]; (aware of) в курсе [3]
 
 (aware of) *noun* fact, need, danger, situation, public, risk, importance, reader, existence, possibility, consequence, potential *misc* of, that, become, more, well, shall, fully, acutely, problem, issue, presence
 
@@ -9136,7 +9136,7 @@ say%, %guy, %wait, thank, %listen, %minute, %thanks, %baby, yell, %buddy, % dad,
 
 22999 | 0.94
 
-1524 **next** {предлог} рядом [3]; около [2]
+1524 **next** {предлог} рядом [3]; около [2]; (next to) возле [3]
 
 (next to) %to, %year, %day, %week, over%, %month, %morning, %few, %door, sit%, %step, %generation, hour, %her
 
@@ -22716,13 +22716,13 @@ most%, %use, more%, %used, %call, %find, %refer, %associate, %hold, %report
 
 7373 | 0.88 A
 
-3787 **no** {определитель} нет [3]
+3787 **no** {определитель} нет [3]; (no matter what) несмотря ни на что [3]
 
 (no matter what) there%, %one, %idea, %reason, %question, %matter, %what, need, %evidence, %doubt, oh%, %know, %difference, %sign
 
 6761 | 0.96
 
-3788 **matter** {определитель} имеющий значение [3]
+3788 **matter** {определитель} имеющий значение [3]; (no matter what) несмотря ни на что [3]
 
 (no matter what) no%, %what, %happen, %kind, %age, else, %cost, love%, % choose, %type, %circumstance, size, %weather, anyone
 
@@ -23124,7 +23124,7 @@ believe, %establish, hand, place, hold, %pack, plant, brown, root, press, keep%,
 
 7008 | 0.90 A
 
-3855 **provided** {союз} при условии [3]
+3855 **provided** {союз} при условии [3]; (provided that) если только [3]
 
 (provided that) %information, %support, %opportunity, data, study%, service, %evidence, teacher, %insight, basis, %enough, %additional, model, % protection
 
