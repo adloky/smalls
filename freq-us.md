@@ -3718,7 +3718,7 @@ not, %because, put, rather%, quite%, %matter, %true, %ignore, than%, % enough, %
 
 57808 | 0.97
 
-621 **less** {определитель} меньше [3]; (less than) не особо [3]; (less than) менее [3]
+621 **less** {определитель} (less than) менее чем [3]
 
 (less than) %than, percent, %year, much%, %hour, nothing%, %minute, cost, % half, %month, far%, %money, spend%, %week
 
@@ -22716,13 +22716,13 @@ most%, %use, more%, %used, %call, %find, %refer, %associate, %hold, %report
 
 7373 | 0.88 A
 
-3787 **no** {определитель} нет [3]; (no matter what) несмотря ни на что [3]
+3787 **no** {определитель} (no matter what) несмотря ни на что/какой [3]
 
 (no matter what) there%, %one, %idea, %reason, %question, %matter, %what, need, %evidence, %doubt, oh%, %know, %difference, %sign
 
 6761 | 0.96
 
-3788 **matter** {определитель} имеющий значение [3]; (no matter what) несмотря ни на что [3]
+3788 **matter** {определитель} (no matter what) несмотря ни на что/какой [3]
 
 (no matter what) no%, %what, %happen, %kind, %age, else, %cost, love%, % choose, %type, %circumstance, size, %weather, anyone
 
