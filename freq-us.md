@@ -778,7 +778,7 @@ come%, %addition, %part, %general, %particular, bring%, move%, %short, % public,
 
 259848 | 0.98
 
-131 **last** {числительное}
+131 **last** {числительное} последний [3]
 
 % year, %week, %night, %month, over%, %season, day, %few, %summer, %fall, during%, %decade, game, %five
 
@@ -1324,7 +1324,7 @@ early%, news, %tomorrow, announce, alive%, guest, yesterday, Senate, poll
 
 160394 | 0.98
 
-222 **next** {числительное}
+222 **next** {числительное} следующий [3]
 
 % to, %year, %day, %week, over%, %month, %morning, %few, %door, sit%, % step, %generation, hour, %her
 
@@ -2110,7 +2110,7 @@ have, %begin, well, %under, %exist, %dead, %establish, %way, %existing, % famili
 
 105946 | 0.95
 
-353 **such** {предлог}
+353 **such** {предлог} (such as) вроде [3]
 
 (such as) %as, as, %thing, other%, issue%, factor%, activity%, %exist, %behavior, food, organization%, measure, disease, product%
 
@@ -2644,7 +2644,7 @@ a%, %more, %bit, %than, %too, feel%, %better, %less, %different, maybe, %later, 
 
 81592 | 0.95
 
-442 **yeah** {междометие}
+442 **yeah** {междометие} да [3]
 
 oh%, well, right, OK, sure, yes, exactly, %guess
 
@@ -2890,7 +2890,7 @@ when%, until%, break, %decide, %reach, %arrive, %tonight, %realize, %settle
 
 75289 | 0.97
 
-483 **according** {предлог}
+483 **according** {предлог} (according to) согласно [3]
 
 (according to) %to, %report, year%, %study, %national, %official, %recent, % survey, %source, %record, %research, %department, %data, %estimate
 
@@ -2944,7 +2944,7 @@ when%, until%, break, %decide, %reach, %arrive, %tonight, %realize, %settle
 
 74716 | 0.96
 
-492 **even** {союз}
+492 **even** {союз} (even though) хотя [3]; (even if) даже если [3]
 
 (even if, even though) %though, %if, %when, %disagree, persist%, % technically, unpopular
 
@@ -3088,7 +3088,7 @@ when%, until%, break, %decide, %reach, %arrive, %tonight, %realize, %settle
 
 74410 | 0.93
 
-516 **because** {предлог}
+516 **because** {предлог} (because of) из-за [3]
 
 (because of) %of, part, %its, simply%, partly%, afraid, interesting%, precisely%, part%, largely%, %lack, partly%, mainly%, %nature
 
@@ -3862,7 +3862,7 @@ matter%, %how, %doubt, can%, means
 
 57075 | 0.92 S
 
-645 **well** {предлог}
+645 **well** {предлог} (as well as) а также [3]
 
 (as well as) as, %one, individual, physical, cultural, emotional, practical, spiritual, %numerous, overall, technical, psychological, visual, personnel
 
@@ -4252,7 +4252,7 @@ have, never%, see%, than%, year%, ever%, day%, night%, hear%, week%, happen%, mo
 
 50854 | 0.95
 
-710 **than** {предлог}
+710 **than** {предлог} (other than) кроме [3]; (rather than) а не [3]
 
 (other than, rather than) more%, less%, rather%, better%, year, much%, any, other%, high%, percent, far%, %ever, %million
 
@@ -4384,7 +4384,7 @@ have, never%, see%, than%, year%, ever%, day%, night%, hear%, week%, happen%, mo
 
 54017 | 0.87 A
 
-732 **no** {местоимение}
+732 **no** {местоимение} (no one) никто [3]
 
 (no one) there%, %one, %idea, %reason, %question, %matter, %what, need, % evidence, %doubt, oh%, %know, %difference, %sign
 
@@ -4444,7 +4444,7 @@ have, never%, see%, than%, year%, ever%, day%, night%, hear%, week%, happen%, mo
 
 49296 | 0.93
 
-742 **away** {предлог}
+742 **away** {предлог} прочь [3]
 
 % from, take%, her, move%, turn%, stay%, walk%, %home, far%, keep%, run%, pull%, back%, shy%
 
@@ -5752,7 +5752,7 @@ then%, feel, %become, stop, %realize, seem, turn, %appear, eye, % remember, face
 
 39829 | 0.91 F
 
-960 **PM** {наречие}
+960 **PM** {наречие} после полудня [3]
 
 % today, open
 
@@ -5812,7 +5812,7 @@ you, your, find%, ask%, protect%, care%, kill%, enjoy%, save%, hurt%, imagine%, 
 
 37931 | 0.94
 
-970 **rather** {предлог}
+970 **rather** {предлог} (rather than) а не [3]
 
 (rather than) %than, one, individual, focus, %later, sooner%, %simply, rule, rely, specific, exception, %risk
 
@@ -6496,7 +6496,7 @@ neither%, %any, %ever, %anyone, %deny, %necessarily, confirm%, fully, entirely, 
 
 34675 | 0.93
 
-1084 **instead** {предлог}
+1084 **instead** {предлог} (instead of) вместо [3]
 
 (instead of) %of, use, %usual, %traditional, hour, %rely, cash, plastic, milk, butter, concentrate, stair%, %elevator
 
@@ -6604,7 +6604,7 @@ neither%, %any, %ever, %anyone, %deny, %necessarily, confirm%, fully, entirely, 
 
 32848 | 0.97
 
-1102 **born** {глагол}
+1102 **born** {глагол} родился [3]
 
 *noun* child%, baby%, year, son%, daughter%, month, star%, infant%, %July, % wedlock, %June, %Germany, %Chicago, %Brooklyn, %poverty *misc* before%, after, %raise, where%, since%, %breed, healthy, %prematurely, newly%
 
@@ -6634,7 +6634,7 @@ neither%, %any, %ever, %anyone, %deny, %necessarily, confirm%, fully, entirely, 
 
 32598 | 0.97
 
-1107 **front** {предлог}
+1107 **front** {предлог} (in front of) перед [3]
 
 (in front of) %of, %her, stand%, %me, right%, %house, sit%, stop%, %camera, % face, %mirror, car, table%, %TV
 
@@ -7180,7 +7180,7 @@ look%, feel%, something%, sound%, seem%, look%, anything%, she, act%, kind, trea
 
 32888 | 0.88 A
 
-1198 **please** {наречие}
+1198 **please** {наречие} пожалуйста [3]
 
 me, your, us, %let, %tell, %contact, information%, far%, help, no, God, % send, stop, %stay
 
@@ -7654,7 +7654,7 @@ can%, as, more%, %accessible, quickly, win, fit, %available, %identify, quite%, 
 
 32667 | 0.82 M A
 
-1277 **AM** {наречие}
+1277 **AM** {наречие} до полудня [3]
 
 % PM, morning, daily, today, yes%, really%, weekday
 
@@ -7798,7 +7798,7 @@ can%, as, more%, %accessible, quickly, win, fit, %available, %identify, quite%, 
 
 28082 | 0.94 S
 
-1301 **terms** {предлог}
+1301 **terms** {предлог} (in terms of) с точки зрения [3]
 
 (in terms of) %of, both, define%, cost, measure%, value, difference, % economic, %relationship, %quality, impact, %ability, express%, performance
 
@@ -8272,7 +8272,7 @@ will, %night, %morning, today%, back%, again%, tonight, until%, join%, % evening
 
 27403 | 0.89 A
 
-1380 **worth** {предлог}
+1380 **worth** {предлог} стоит [3]
 
 it, %more, well%, %note, %billion, %effort, risk, %money, dollar, share%, % price, consider, anything, %cost
 
@@ -9376,7 +9376,7 @@ discuss, similar%, %concept, topic%, help%, see%, down%, far%, above, % percent,
 
 22809 | 0.92 F
 
-1564 **lots** {местоимение}
+1564 **lots** {местоимение} (lots of) множество [3]
 
 (lots of) %of, there%, %people, %thing, park%, %money, parking%, %different, vacant%, %fun, %stuff, drink%, space, empty%
 
@@ -10540,7 +10540,7 @@ go%, step%, wait%, inside, stand, walk, sit, play, hear, door, car, street, cold
 
 18928 | 0.96
 
-1758 **dozen** {числительное}
+1758 **dozen** {числительное} дюжина [3]
 
 a%, half%, more, than%, two%, about%, %year, %other, least%, several%, few%, three%, nearly%, couple%
 
@@ -10840,7 +10840,7 @@ may, %lead, %decide, decision, %prove, %result, %responsible, %fail, % determine
 
 19113 | 0.92 M
 
-1808 **AIDS** {существительное}
+1808 **AIDS** {существительное} СПИД [3]
 
 *adj* global, pediatric, experimental *noun* %virus, people%, %patient, % epidemic, case, hearing%, research *verb* die%, cause%, infect%, fight%, treat, develop, contract%, spread, devastate, ravage
 
@@ -10912,7 +10912,7 @@ more%, most%, use, less%, occur, stir%, %cite, mention, appear, %used
 
 20674 | 0.85 M N
 
-1820 **due** {предлог}
+1820 **due** {предлог} (due to) из-за [3]
 
 (due to) %to, may%, %fact, %lack, high, change, difference, part%, loss, effect, largely%, partly%, increase, low
 
@@ -10948,7 +10948,7 @@ more%, most%, use, less%, occur, stir%, %cite, mention, appear, %used
 
 18272 | 0.95
 
-1826 **long** {союз}
+1826 **long** {союз} (as long as) пока [3]
 
 (as long as) as, for%, stay, keep, %remember, live, remain, continue, last, fine%, month, hour, alive, care
 
@@ -11620,7 +11620,7 @@ cup%, year, tablespoon, hour, million, cost, minute, per, %shipping, percent, %a
 
 18386 | 0.89 S A
 
-1938 **vice** {прилагательное}
+1938 **vice** {прилагательное} вице [3]
 
 *noun* president, chairman, candidate, director, presidency, chair, nominee, principal, chancellor, minister, debate, president-elect *misc* senior, presidential, former, general, corporate, serve, assistant, chief
 
@@ -12358,7 +12358,7 @@ I, %not, most%, yes%, oh%, yeah, something, %worth, %wrong, %interested, trend, 
 
 15652 | 0.97
 
-2061 **addition** {предлог}
+2061 **addition** {предлог} (in addition to) наряду с [3]
 
 (in addition to) %to, %provide, %regular, %traditional, %standard, benefit, % usual, %duty, %basic, function, above, %contribution, %obvious, teaching
 
@@ -12460,7 +12460,7 @@ move%, attitude%, walk%, head%, turn%, step%, %end, %door, policy%, point%, dire
 
 15750 | 0.95
 
-2078 **plenty** {местоимение}
+2078 **plenty** {местоимение} (plenty of) множество [3]
 
 (plenty of) %of, there%, %time, %room, still%, leave, %water, %money, %opportunity, sure%, offer%, %space, food, drink%
 
@@ -12754,7 +12754,7 @@ will%, go%, change, live%, last%, life%, stay%, seem%, lose%, remain%, %ever, di
 
 17190 | 0.83 A
 
-2127 **fun** {прилагательное}
+2127 **fun** {прилагательное} забавный [2]; веселый [2]
 
 *noun* thing, game, time, lot, stuff, kid, day, activity, place, fact, night, factor *misc* it, more, really, most, watch, always
 
@@ -13000,7 +13000,7 @@ well, treat%, %easy, %large, %common, seem%, %simple, %quickly, %small, % certai
 
 15500 | 0.90 A
 
-2168 **far** {союз}
+2168 **far** {союз} (as far as) при условии, что [3]
 
 (as far as) as, %can, %concerned, go, %know, %tell, %eye, least%, stretch%, % anyone, %mile, %aware, extend%, without
 
@@ -14164,7 +14164,7 @@ one, yet%, %person, %reason, %example, %minute, month, %hour, %factor, % round, 
 
 13615 | 0.93 A
 
-2362 **other** {предлог}
+2362 **other** {предлог} (other than) кроме [3]
 
 (other than) each%, %than, look%, talk%, against%, love%, anything%, something%, face, no%, none%, any%, stare%, fight%
 
@@ -14728,7 +14728,7 @@ will, must, as%, slowly%, almost%, %deserve, %aware, %worth, %ought, % coinciden
 
 13127 | 0.91 N
 
-2456 **hello** {междометие}
+2456 **hello** {междометие} привет [3]
 
 say%, %hi, yes, %welcome, there, new, phone%, oh
 
@@ -14788,7 +14788,7 @@ say%, %hi, yes, %welcome, there, new, phone%, oh
 
 13262 | 0.90 A
 
-2466 **rather** {союз}
+2466 **rather** {союз} (rather then) а не [3]
 
 (rather than) %than, one, individual, focus, %later, sooner%, %simply, rule, rely, specific, exception, %risk
 
@@ -14974,7 +14974,7 @@ mean, quite%, %hundred, %thousand, %figuratively, almost, %million, hour, % apar
 
 12421 | 0.94
 
-2497 **soon** {союз}
+2497 **soon** {союз} (as soon as) как только [3]
 
 (as soon as) as, %get, start, leave, begin, almost%, %hear, %finish, home, % arrive, %hit, %open, %walk, stop
 
@@ -15112,7 +15112,7 @@ stir%, change, %until, heat, must%, cook%, minute, %remind, whisk%, % changing, 
 
 12349 | 0.94
 
-2520 **vs** {предлог}
+2520 **vs** {предлог} против [3]
 
 winner, game, no, next%, United States, match, Roe%, Friday%, central
 
@@ -16036,7 +16036,7 @@ take%, me%, feel, %believe, like, professionally, %responsible, %involved, both%
 
 11545 | 0.92 F
 
-2674 **ahead** {предлог}
+2674 **ahead** {предлог} (ahead of) впереди [3]
 
 (ahead of) %of, %time, %him, %them, %me, %her, year%, step%, far%, % schedule, stay%, put%, game, %curve
 
@@ -16426,7 +16426,7 @@ least, at, although%, appear, %refuse, %focus, %oppose, %skeptical, %resist, % i
 
 11353 | 0.91 F
 
-2739 **shopping** {существительное}
+2739 **shopping** {существительное} покупки [3]
 
 *adj* one-stop, online, suburban, busy, downtown, electronic, regional *noun* %center, %mall, %bag, %cart, %list, home%, grocery%, %trip, holiday%, %guide *verb* build, buy, carry%, fill, push%, finish%, %cook, enjoy%
 
@@ -16978,7 +16978,7 @@ who%, use, meet%, attend, exercise%, %scheduled, visit, appear, eat, check, chur
 
 10181 | 0.97
 
-2831 **top** {предлог}
+2831 **top** {предлог} (on top of) поверх [3]
 
 (on top of) %of, on%, her, %other, sit%, place%, %head, stay%, %each, pile, put%, %another, lay%, %everything
 
@@ -17314,7 +17314,7 @@ will%, most%, more, very%, %result, %continue, %increase, %remain, less, % cause
 
 10487 | 0.92 F
 
-2887 **not** {союз}
+2887 **not** {союз} (whether or not) не важно [3]
 
 (whether or not) %only, %enough, %yet, %sure, or%, whether%, simply, certainly%, %necessarily, %mention, %anymore, %proofread, %surprising, % merely
 
@@ -17404,7 +17404,7 @@ will%, most%, more, very%, %result, %continue, %increase, %remain, less, % cause
 
 10998 | 0.87 A
 
-2902 **prior** {предлог}
+2902 **prior** {предлог} (prior to) до [3]
 
 (prior to) %to, year%, week%, month%, %war, during, study, period%, %election, interview, immediately%, %start, exist%, hour%
 
@@ -17698,7 +17698,7 @@ make%, how%, life%, %enough, little%, job%, breathe%, cheap, faster, task%
 
 9856 | 0.95
 
-2951 **neither** {определитель}
+2951 **neither** {определитель} ни [3]
 
 % them, %side, %one, %any, %party, %ever, %speak, %anything, though%, % parent, yet, although%, %candidate, %whom
 
@@ -17842,7 +17842,7 @@ go, out%, %near, %else, come%, middle%, find, appear%, %sight, lead%, everywhere
 
 12104 | 0.77 A
 
-2975 **tech** {существительное}
+2975 **tech** {существительное} технология [3]; техника [2]
 
 *adj* high, low, urban, digital, electrical, forensic *noun* %stock, %support, % company, %university, %center, %coach *verb* beat, graduate%, attend%, invest, specialize, %soar, %rebound, massacre%
 
@@ -17962,7 +17962,7 @@ go, out%, %near, %else, come%, middle%, find, appear%, %sight, lead%, everywhere
 
 9944 | 0.92 F
 
-2995 **depending** {предлог}
+2995 **depending** {предлог} (depending on) в зависимости от [3]
 
 (depending on) %on, or%, %how, vary%, %your, %size, %whether, %where, different%, %type, %level, %condition, per%, %circumstance
 
@@ -18070,7 +18070,7 @@ have%, ever%, long%, %become, year, before, %return, %retire, %expand, % recover
 
 15763 | 0.57 M
 
-3013 **dining** {существительное}
+3013 **dining** {существительное} трапеза [3]
 
 *adj* fine, formal, private, outdoor, elegant, casual *noun* %room, %table, % area, %hall, kitchen, living, chair, hotel, night, restaurant *verb* sit%, eat, enter%, seat%, feature, gather%
 
@@ -18202,7 +18202,7 @@ then, very%, only%, describe, let%, eye%, speak%, discuss, %consider, % before, 
 
 10032 | 0.89 N
 
-3035 **in** {союз}
+3035 **in** {союз} (in that) в этом [3]
 
 (in that) which, year, new, way, place, %world, life, school, country, case, %area, city, %United States, %fact
 
@@ -18268,7 +18268,7 @@ then, very%, only%, describe, let%, eye%, speak%, discuss, %consider, % before, 
 
 10021 | 0.89 F
 
-3046 **closer** {прилагательное}
+3046 **closer** {прилагательное} теснее [3]
 
 *noun* look, inspection, examination, tie, relationship, attention, scrutiny, home, truth, cooperation, relation, view *misc* to, than, take, any, much, move, bring, pay, reveal
 
@@ -18724,7 +18724,7 @@ then, very%, only%, describe, let%, eye%, speak%, discuss, %consider, % before, 
 
 9198 | 0.94
 
-3122 **etc** {наречие}
+3122 **etc** {наречие} и т.д. [3]
 
 computer%, equipment%, box%, rhythm%, sex%, B
 
@@ -18952,7 +18952,7 @@ so%, need, want, how%, very%, hurt, feel%, %damage, behave%, too%, treat, as%, b
 
 9396 | 0.90 N
 
-3160 **downtown** {прилагательное}
+3160 **downtown** {прилагательное} центральный [3]
 
 *noun* area, street, office, building, hotel, city, district, center, business, restaurant, store, park *misc* where, near, historic, commercial, locate, busy, beautiful, high-rise
 
@@ -19576,7 +19576,7 @@ percent, issue, low, per, debate, continued%, Roe%, male, difference, nature, pr
 
 8351 | 0.97
 
-3264 **operating** {существительное}
+3264 **operating** {существительное} операционный [3]
 
 *adj* chief, standard, annual, total, normal, joint, net, basic, maximum *noun* %system, %officer, %room, %budget, %table, %procedure, company, % expense *verb* %cost, reduce%, cover%, increase, wheel%, install, license, lower, generate%
 
@@ -20056,7 +20056,7 @@ mentally, emotionally, %active, %abuse, %fit, both%, feel, psychologically, % de
 
 8727 | 0.90 N
 
-3344 **changing** {прилагательное}
+3344 **changing** {прилагательное} изменяющийся [3]; меняющий [3]
 
 *noun* time, world, environment, condition, role, nature, pattern, need, attitude, circumstance, face, society *misc* rapidly, constantly, keep, adapt, reflect, political, meet, economic
 
@@ -20802,7 +20802,7 @@ hold%, %end, too%, pull%, %around, very%, her, %against, eye, sit%, hand, keep%,
 
 8015 | 0.92 N
 
-3468 **favor** {предлог}
+3468 **favor** {предлог} (in favor of) в пользу [3]
 
 (in favor of) %of, vote%, argument%, rule%, argue%, bias%, abandon%, speak%, court%, reject%, tax, strong, strongly%, decision%
 
@@ -21468,7 +21468,7 @@ until%, %brown, take%, %surface, %floured, touch, egg, hand, %greased, % beat, b
 
 7717 | 0.91 A
 
-3579 **mainstream** {прилагательное}
+3579 **mainstream** {прилагательное} основной [3]
 
 *noun* media, culture, press, society, group, party, value, audience, organization, school, movie, music *misc* into, American, become, outside, political, within, enter, cultural
 
@@ -21768,7 +21768,7 @@ endless, %simple, %impossible, %unrelated, contradictory, %random, % innocuous, 
 
 7660 | 0.91 M N
 
-3629 **continuing** {прилагательное}
+3629 **continuing** {прилагательное} постоянный [3]
 
 *noun* education, problem, program, effort, coverage, development, resolution, debate, operation, investigation, series, need *misc* despite, economic, because, professional, reflect, forever, due, amid
 
@@ -22068,7 +22068,7 @@ name, %need, %title, %importance, decade%, identity, nickname, relatively, creat
 
 7078 | 0.96
 
-3679 **subject** {предлог}
+3679 **subject** {предлог} (subject to) при условии [3]
 
 (subject to) %to, %change, %law, %same, %tax, %review, %regulation, %rule, % approval, %control, %scrutiny, federal, therefore%, %pressure
 
@@ -22110,7 +22110,7 @@ use, teacher, social, drug, physical, parent, education, behavior, either%, acti
 
 7089 | 0.95
 
-3686 **online** {наречие}
+3686 **online** {наречие} онлайн [3]
 
 find, buy%, post%, shop%, information%, sell%, order%, service, meet%, chat, site, offer, visit, news
 
@@ -22152,7 +22152,7 @@ find, buy%, post%, shop%, information%, sell%, order%, service, meet%, chat, sit
 
 7006 | 0.96
 
-3693 **response** {предлог}
+3693 **response** {предлог} (in response to) в ответ на [3]
 
 (in response to) %to, %question, change, write%, % pressure, letter, %demand, %concern, %need, %request, action, %criticism, %threat, editor%
 
@@ -22236,7 +22236,7 @@ while%, almost%, both, several, different, occur%, multiple, exist%, operate%, t
 
 6952 | 0.96
 
-3707 **counseling** {существительное}
+3707 **counseling** {существительное} консультация [3]
 
 *adj* individual, psychological, professional, comprehensive, genetic, pastoral, premarital, online *noun* school%, %program, %service, student, group, %center, family, career%, %session, guidance *verb* provide%, need, offer, seek%, receive%, support, attend%, undergo%, focus, teach
 
@@ -23280,7 +23280,7 @@ black, %college, %significant, %accurate, %low, important, specific, institution
 
 6511 | 0.96
 
-3881 **harder** {наречие}
+3881 **harder** {наречие} тяжелее [3]; сильнее [2]
 
 % than, work%, make%, get, try%, even%, little%, much%, become%, hit%, lot%, push%
 
@@ -23508,7 +23508,7 @@ later, %than, no%, %rather, come%, much%, %better, happen%, start, die, expect, 
 
 6996 | 0.88 A
 
-3919 **reporting** {существительное}
+3919 **reporting** {существительное} информирование [3]; отчетность [2]
 
 *adj* financial, investigative, additional, international, mandatory, national, fair, environmental *noun* %requirement, credit%, news, %system, law, %agency, abuse, %period, data, media *verb* require, base, establish, affect%, improve%, account, appreciate%, facilitate%, %disclose
 
@@ -24966,7 +24966,7 @@ so%, more%, until%, mix, dry, %enjoy, wash, %modern, investigate, as%, % heat, r
 
 6057 | 0.92 F
 
-4162 **spite** {предлог}
+4162 **spite** {предлог} (in spite of) несмотря на [3]
 
 (in spite of) %of, %fact, %herself, %himself, %effort, everything, yet%, % myself, smile%, %difference, difficulty, %attempt, success, %opposition
 
@@ -25236,7 +25236,7 @@ abuse, %transmitted, %active, %disease, %assault, explicit, woman, %harass, her,
 
 5955 | 0.92
 
-4207 **opposed** {предлог}
+4207 **opposed** {предлог} (as opposed to) в отличие от [3]
 
 (as opposed to) %to, as%, %just, one, %percent, real, individual, % traditional, %simply, actual, %merely, %mere, %conventional, %purely
 
@@ -25284,7 +25284,7 @@ abuse, %transmitted, %active, %disease, %assault, explicit, woman, %harass, her,
 
 5829 | 0.94
 
-4215 **regard** {предлог}
+4215 **regard** {предлог} (in/with regard to) в отношении [3]
 
 (in/with regard(s) to) %to, with%, particularly%, especially%, issue, policy, question, %use, difference, gender, behavior, position%, differ%, role
 
@@ -25716,7 +25716,7 @@ work%, %other, run%, sit%, place%, stand%, fight%, road, walk%, pull%, serve%, %
 
 5871 | 0.90 A
 
-4287 **respect** {предлог}
+4287 **respect** {предлог} (with respect to) что касается [3]
 
 (with respect to) %to, with%, issue, particularly%, policy, use, position%, difference%, especially%, role, matter, decision, action, %gender
 
@@ -25758,7 +25758,7 @@ work%, %other, run%, sit%, place%, stand%, fight%, road, walk%, pull%, serve%, %
 
 5746 | 0.92 F
 
-4294 **tens** {числительное}
+4294 **tens** {числительное} десятки [3]
 
 thousand, %million, %dollar, %people, %billion, year, hundred, %American, cost%, few%, spend%, kill%, worth%, mile
 
@@ -25902,7 +25902,7 @@ important, %difficult, feel%, %powerful, %strong, beautiful, %hard, % complex, %
 
 5667 | 0.92 N
 
-4318 **charge** {предлог}
+4318 **charge** {предлог} (in charge of) ответственный за [3]
 
 (in charge of) %of, who%, put%, man%, official%, %operation, president%, agent%, %security, special%, vice%, officer%, person%, agency%
 
@@ -26790,7 +26790,7 @@ almost%, focus%, use%, rely%, devote%, %male, deal%, primarily%, base, concentra
 
 5903 | 0.85 A
 
-4466 **behalf** {предлог}
+4466 **behalf** {предлог} (on behalf of) от имени [3]
 
 (on behalf of) %of, on%, speak%, work%, act%, file%, %American, United States, government, %client, effort%, action%, suit%, lawsuit%
 
@@ -26820,7 +26820,7 @@ almost%, focus%, use%, rely%, devote%, %male, deal%, primarily%, base, concentra
 
 5233 | 0.96
 
-4471 **high-tech** {прилагательное}
+4471 **high-tech** {прилагательное} хай-тек [3]
 
 *noun* company, industry, equipment, firm, job, world, business, system, weapon, computer, worker, stock *misc* new, such, late, medical, expensive, modern, low-tech, electronic
 
@@ -26880,7 +26880,7 @@ almost%, focus%, use%, rely%, devote%, %male, deal%, primarily%, base, concentra
 
 5302 | 0.94
 
-4481 **case** {союз}
+4481 **case** {союз} (in case) в случае [3]
 
 (in case) %you, just%, %need, %something, %any, %wonder, %happen, %miss, % forget, %notice, %ever, %anyone, %someone, %decide
 
@@ -27120,7 +27120,7 @@ about, %gay, talk%, discuss, speak%, express, %admit, %acknowledge, % criticize,
 
 5789 | 0.85 M A
 
-4521 **worldwide** {наречие}
+4521 **worldwide** {наречие} по всему миру [3]
 
 people%, billion%, sell%, million%, copy%, %including, species%, employee%, market%, scientist%, organization%, sales
 
@@ -27726,7 +27726,7 @@ about%, than%, more%, nearly%, %vote, %majority, almost%, %American, account%, r
 
 5289 | 0.90 A
 
-4622 **faster** {прилагательное}
+4622 **faster** {прилагательное} быстрее [3]
 
 *noun* rate, pace, growth, time, speed, way, computer, result, processor, car, recovery, chip *misc* than, grow, more, any, move, much, cheap, ever
 
@@ -27852,7 +27852,7 @@ will, lead, almost%, must, such, question, %end, result, follow, %draw, % involv
 
 5472 | 0.87 A
 
-4643 **part** {предлог}
+4643 **part** {предлог} (on the part of) со стороны [3]
 
 (on the part of) %of, on%, effort%, %government, %both, %student, action%, % United States, behavior%, %public, interest%, %teacher, reluctance%, % parent
 
@@ -27948,13 +27948,13 @@ will, lead, almost%, must, such, question, %end, result, follow, %draw, % involv
 
 5212 | 0.91 N
 
-4659 **emerging** {прилагательное}
+4659 **emerging** {прилагательное} зарождающийся [3]
 
 *noun* market, technology, economy, world, democracy, trend, artist, nation, growth, disease, issue, field *misc* new, newly, global, such, middle, economic, identify
 
 5302 | 0.89 A
 
-4660 **this** {наречие}
+4660 **this** {наречие} так [3]
 
 % far, %little, %much, get%, %many, come%, never%, %really, %close, nowhere%, %girl, %guy, before, %evident
 
@@ -28416,7 +28416,7 @@ who%, %kill, after%, arrest%, murder, %steal, %shoot, police, %commit, %rape, as
 
 4941 | 0.93 N
 
-4737 **apart** {предлог}
+4737 **apart** {предлог} (apart from) кроме [3]
 
 (apart from) %from, set%, %other, quite%, stand%, live%, %rest, %fact, %each, separate%, %another, exist%, %else, themselves%
 
@@ -28644,7 +28644,7 @@ move%, more%, flow%, speak%, %admit, give, allow%, %choose, talk%, % available, 
 
 4768 | 0.95
 
-4775 **light** {предлог}
+4775 **light** {предлог} (in light of) в свете [3]
 
 (in light of) %of, especially%, %fact, %these, %recent, particularly%, %finding, % experience, %event, %current, consider%, interpret%, view%, %evidence
 
@@ -29826,7 +29826,7 @@ wait%, %get, up%, %now, %see, morning, %then, %end, day, %after, %next, last, st
 
 4601 | 0.93
 
-4972 **deeper** {наречие}
+4972 **deeper** {наречие} глубже [3]
 
 % into, %than, go%, dig%, much%, even%, sink%, little%, run%, something%, far%, move%, ever, grow%
 
@@ -29850,7 +29850,7 @@ wait%, %get, up%, %now, %see, morning, %then, %end, day, %after, %next, last, st
 
 4667 | 0.92
 
-4976 **nationwide** {наречие}
+4976 **nationwide** {наречие} по всей стране [3]
 
 store%, school%, percent, million%, about, number, program%, open%, available%, department%, among%, nearly, %including, theater%
 

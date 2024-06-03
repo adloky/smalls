@@ -129,7 +129,7 @@ namespace ConApp {
                 var sp = s.Split(new[] { " **", "** " }, StringSplitOptions.None);
                 var num = sp[0];
                 var key = sp[1];
-                var part = sp[2].Replace("{", "").Replace("}", "");
+                var part = sp[2].Replace("{", "").Split('}')[0];
                 var vals = getGVals(dic[key], part);
                 var min = vals.Length == 0 ? 10 : vals.Select(x => x.freq).Max() - 1;
                 vals = vals.Where(x => x.freq >= min).ToArray();
