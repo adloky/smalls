@@ -110,7 +110,24 @@ namespace ConApp {
         [STAThread]
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
-            
+            var ssop = StringSplitOptions.None;
+
+
+            var path = "d:/Projects/smalls/freq-us.md";
+            var ss = File.ReadAllLines(path);
+            var rs = ss.Where(x => x.Contains("**")).Select(x => {
+                var sp = x.Split(new [] { " **", "** " }, ssop);
+                var n = sp[0];
+                var w = sp[1];
+                var sp2 = sp[2].Replace("{", "").Split('}');
+                var p = sp2[0];
+                var v = sp2[1].Trim();
+                return $"{n}\t{w}\t{{{p}}}\t{v}";
+            });
+            var path2 = "d:/Projects/smalls/freq-us.txt";
+
+            File.WriteAllLines(path2, rs);
+            /*            
             var path = "d:/Projects/smalls/freq-us.md";
             var path2 = "d:/Projects/smalls/freq-g.txt";
             var ss = File.ReadAllLines(path);
@@ -146,7 +163,7 @@ namespace ConApp {
 
             //set.OrderBy(x => x).ToList().ForEach(Console.WriteLine);
             File.WriteAllLines(path, rs);
-
+            */
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
         }
