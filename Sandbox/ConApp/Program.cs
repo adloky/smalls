@@ -105,44 +105,22 @@ namespace ConApp {
             }).ToArray();
         }
 
-        private static volatile bool ctrlC = false;
+        private static string pathEx(string path, string ex) {
+            var ext = Path.GetExtension(path);
+            return $"{path.Substring(0, path.Length - ext.Length)}{ex}{ext}";
+        }
 
-        [STAThread]
-        static void Main(string[] args) {
-            Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
-            var ssop = StringSplitOptions.None;
-
-
-            var path = "d:/Projects/smalls/freq-us.md";
-            var ss = File.ReadAllLines(path);
-            var rs = ss.Where(x => x.Contains("**")).Select(x => {
-                var sp = x.Split(new [] { " **", "** " }, ssop);
-                var n = sp[0];
-                var w = sp[1];
-                var sp2 = sp[2].Replace("{", "").Split('}');
-                var p = sp2[0];
-                var v = sp2[1].Trim();
-                return $"{n}\t{w}\t{{{p}}}\t{v}";
-            });
-            var path2 = "d:/Projects/smalls/freq-us.txt";
-
-            File.WriteAllLines(path2, rs);
-            /*            
-            var path = "d:/Projects/smalls/freq-us.md";
-            var path2 = "d:/Projects/smalls/freq-g.txt";
+        private static void freqAddGVals(string path, string gPath) {
             var ss = File.ReadAllLines(path);
             var rs = new List<string>();
-            var dic = File.ReadAllLines(path2).ToDictionary(x => x.Split('{')[0].Trim());
+            var dic = File.ReadAllLines(gPath).ToDictionary(x => x.Split('{')[0].Trim());
 
-            //var re = new Regex(@"\{([^}]+)\}");
-            var re = new Regex(@" \[[1-3]\], ");
-            
             foreach (var s in ss) {
                 if (!s.Contains("**")) {
                     rs.Add(s);
                     continue;
                 }
-                
+
                 var sp = s.Split(new[] { " **", "** " }, StringSplitOptions.None);
                 var num = sp[0];
                 var key = sp[1];
@@ -156,14 +134,19 @@ namespace ConApp {
                 }
 
                 var s2 = $"{num} **{key}** {{{part}}} {string.Join("; ", vals.Select(x => $"{x.val} [{x.freq}]"))}";
-                //    Console.WriteLine(s);
-                //Console.WriteLine(key + ":" + string.Join("; ", vals.Select(x => $"{x.val} [{x.freq}]")));
                 rs.Add(s2);
             }
+            
+            File.WriteAllLines(pathEx(path, "-2"), rs);
+        }
 
-            //set.OrderBy(x => x).ToList().ForEach(Console.WriteLine);
-            File.WriteAllLines(path, rs);
-            */
+        private static volatile bool ctrlC = false;
+
+        [STAThread]
+        static void Main(string[] args) {
+            Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
+            var ssop = StringSplitOptions.None;
+            
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
         }
