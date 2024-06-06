@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 using CsQuery;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using Porter2StemmerStandard;
 
 namespace ConApp {
     class Program {
@@ -140,13 +141,83 @@ namespace ConApp {
             File.WriteAllLines(pathEx(path, "-2"), rs);
         }
 
+        private static StringSplitOptions ssop = StringSplitOptions.None;
+
+        #region stemmer
+
+        private static Dictionary<string, string> _lemmas;
+
+        private static Dictionary<string, string> lemmas {
+            get {
+                if (_lemmas != null)
+                    return _lemmas;
+
+                _lemmas = new Dictionary<string, string>();
+                File.ReadAllLines("d:/Projects/smalls/e_lemma.txt")
+                    .Where(x => !x.StartsWith("["))
+                    .Select(x => x.ToLower().Split(new[] { " -> ", "," }, ssop)).ToList()
+                    .ForEach(x => {
+                        foreach (var xx in x.Skip(1)) {
+                            _lemmas[xx] = x[0];
+                        }
+                    });
+
+                return _lemmas;
+            }
+        }
+
+        private static HashSet<string> _existingWords;
+
+        private static HashSet<string> existingWords {
+            get {
+                if (_existingWords != null)
+                    return _existingWords;
+
+                var dic = File.ReadAllLines("d:/Projects/smalls/en-dic.txt")
+                    .Select(x => x.Split(new[] { " - " }, ssop)[0].ToLower())
+                    .Where(x => x.Length >= 3);
+
+                _existingWords = new HashSet<string>(dic);
+                return _existingWords;
+            }
+        }
+
+        private static Regex prefixRe = new Regex("^(anti|auto|de|dis|down|extra|hyper|il|im|inter|in|ir|mega|mid|mis|non|over|out|post|pre|pro|re|semi|sub|super|tele|trans|ultra|un|up)", RegexOptions.Compiled);
+
+        private static string stem(string s) {
+            s = s.ToLower();
+            if (lemmas.TryGetValue(s, out var _s)) {
+                s = _s;
+            }
+
+            while (true) {
+                var m = prefixRe.Match(s);
+                if (!m.Success)
+                    break;
+
+                _s = s.Substring(m.Value.Length);
+                if (!existingWords.Contains(_s))
+                    break;
+
+                s = _s;
+            };
+
+            return LancasterStemmer.Stem(s);
+        }
+
+        #endregion
+
         private static volatile bool ctrlC = false;
 
         [STAThread]
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
-            var ssop = StringSplitOptions.None;
-            
+
+            //var ss = File.ReadAllLines("d:/2.txt").Select(x => stem(x)).ToArray();
+            //File.WriteAllLines("d:/2-2.txt", ss);
+            var s = stem("management");
+            Console.WriteLine(s);
+
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
         }
