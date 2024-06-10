@@ -147,23 +147,43 @@ namespace ConApp {
 
         static Dictionary<string, string> _lemmas;
 
+        static Dictionary<string, List<string>> _lemmaForms;
+
         static Dictionary<string, string> lemmas {
             get {
-                if (_lemmas != null)
-                    return _lemmas;
-
-                _lemmas = new Dictionary<string, string>();
-                File.ReadAllLines("d:/Projects/smalls/e_lemma.txt")
-                    .Where(x => !x.StartsWith("["))
-                    .Select(x => x.ToLower().Split(new[] { " -> ", "," }, ssop)).ToList()
-                    .ForEach(x => {
-                        foreach (var xx in x.Skip(1)) {
-                            _lemmas[xx] = x[0];
-                        }
-                    });
+                if (_lemmas == null) {
+                    loadLemmas();
+                }
 
                 return _lemmas;
             }
+        }
+
+        static Dictionary<string, List<string>> lemmaForms {
+            get {
+                if (_lemmaForms == null) {
+                    loadLemmas();
+                }
+
+                return _lemmaForms;
+            }
+        }
+
+        static void loadLemmas() {
+            _lemmas = new Dictionary<string, string>();
+            _lemmaForms = new Dictionary<string, List<string>>();
+            File.ReadAllLines("d:/Projects/smalls/e_lemma.txt")
+                .Where(x => !x.StartsWith("["))
+                .Select(x => x.ToLower().Split(new[] { " -> ", "," }, ssop)).ToList()
+                .ForEach(x => {
+                    var key = x[0];
+                    var fs = new List<string>();
+                    _lemmaForms[key] = fs;
+                    foreach (var xx in x) {
+                        _lemmas[xx] = x[0];
+                        fs.Add(xx);
+                    }
+                });
         }
 
         static Dictionary<string,string> _existingWords;
@@ -175,6 +195,7 @@ namespace ConApp {
                     return _existingWords;
 
                 _existingWords = File.ReadAllLines("d:/Projects/smalls/en-dic.txt")
+                    .Where(x => !x.Contains("Not found"))
                     .Select(x => {
                         var sp = x.ToLower().Split(new[] { " - ", "[", "]" }, StringSplitOptions.RemoveEmptyEntries);
                         var t = x.Contains(" - [") ? pronBrRe.Replace(sp[2], "") : "";
@@ -220,6 +241,17 @@ namespace ConApp {
             { 'k', 'к' }, { 'ʌ', 'а' }, { 'l', 'л' }, { 'ʒ', 'ж' }, { 'ʃ', 'ш' }, { 'p', 'п' },
             { 'ɜ', 'ё' }, { 'θ', 'θ' }, { 'ŋ', 'ŋ' }, { 'z', 'з' }, { 'ɑ', 'а' }, { 'g', 'г' },
             { 'o', 'о' }, { 'ɛ', 'е' },
+        };
+
+        static Dictionary<string, string> cmu = new Dictionary<string, string>() {
+            { "AA", "а" }, { "AE", "э" }, { "AH0", "э" }, { "AH", "а" }, { "AO", "о" },
+            { "AW", "ау" }, { "AY", "ай" }, { "EH", "е" }, { "ER", "эр" }, { "EY", "ей" },
+            { "IH", "ы" }, { "IY", "и" }, { "OW", "oу" }, { "OY", "ой" }, { "UH", "у" },
+            { "UW", "у" }, { "B", "б" }, { "CH", "ч" }, { "D", "д" }, { "DH", "ð" },
+            { "F", "ф" }, { "G", "г" }, { "HH", "х" }, { "JH", "дж" }, { "K", "к" },
+            { "L", "л" }, { "M", "м" }, { "N", "н" }, { "NG", "ŋ" }, { "P", "п" },
+            { "R", "р" }, { "S", "с" }, { "SH", "ш" }, { "T", "т" }, { "TH", "θ" },
+            { "V", "в" }, { "W", "w" }, { "Y", "й" }, { "Z", "з" }, { "ZH", "ж" },
         };
 
         static Regex ruVowelRe = new Regex("[уиоыэаёое]", RegexOptions.Compiled);
@@ -374,7 +406,52 @@ namespace ConApp {
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
-            prepareWords("d:/words.txt");
+            cmu.Where(kv => kv.Key.Length == 2 && "AEIOU".Contains(kv.Key.Substring(0,1))).ToList().ForEach(kv => {
+                for (var i = 0; i < 3; i++) {
+                    var v = (i == 1 ? char.ToUpper(kv.Value[0]) : kv.Value[0]) + kv.Value.Substring(1);
+                    var k = $"{kv.Key}{i}";
+                    if (cmu.ContainsKey(k))
+                        continue;
+                    cmu.Add(k, v);
+                }
+            });
+
+            var dic = new Dictionary<string, string>();
+            foreach (var w in existingWords.Keys) {
+                var rs = new List<string>();
+                if (lemmas.TryGetValue(w, out var k)) {
+                    rs = lemmaForms[k];
+                }
+                else {
+                    rs = new List<string>() { w };
+                }
+
+                rs.ForEach(x => {
+                    if (!dic.ContainsKey(x)) {
+                        dic.Add(x, null);
+                    }
+                });
+            }
+
+            File.ReadAllLines("d:/index.txt").ToList().ForEach(x => {
+                if (x.Contains("("))
+                    return;
+
+                var i = x.IndexOf(' ');
+                var k = x.Substring(0, i);
+                var v = x.Substring(i + 1);
+                if (!dic.ContainsKey(k))
+                    return;
+
+                var sb = new StringBuilder();
+                v.Split(' ').ToList().ForEach(y => sb.Append(cmu[y]));
+                dic[k] = sb.ToString();
+            });
+
+            File.WriteAllLines("d:/pronun.txt", dic.Where(kv => kv.Value != null).OrderBy(kv => kv.Key).Select(kv => $"{kv.Key} {kv.Value}"));
+
+            //prepareWords("d:/words.txt");
+            //Console.WriteLine(lemmaForms["dog"][0]);
 
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
