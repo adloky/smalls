@@ -44,9 +44,9 @@ namespace ConApp {
             }
         }
 
-        private static ChromeDriver chromeDriver;
+        static ChromeDriver chromeDriver;
 
-        private static int navI = 0;
+        static int navI = 0;
 
         static string gtranslate(string s) {
             if (chromeDriver == null)
@@ -89,9 +89,9 @@ namespace ConApp {
             return s;
         }
 
-        private static Regex gValRe = new Regex(@"^(.*?) \[([1-3])\]$");
+        static Regex gValRe = new Regex(@"^(.*?) \[([1-3])\]$");
 
-        private static (string val, int freq)[] getGVals(string s, string part) {
+        static (string val, int freq)[] getGVals(string s, string part) {
             var op = StringSplitOptions.None;
             var valStr = s.Split(new[] { " {" }, op).Skip(1).Select(x => {
                 var ss = x.Split(new[] { "} " }, op);
@@ -106,12 +106,12 @@ namespace ConApp {
             }).ToArray();
         }
 
-        private static string pathEx(string path, string ex) {
+        static string pathEx(string path, string ex) {
             var ext = Path.GetExtension(path);
             return $"{path.Substring(0, path.Length - ext.Length)}{ex}{ext}";
         }
 
-        private static void freqAddGVals(string path, string gPath) {
+        static void freqAddGVals(string path, string gPath) {
             var ss = File.ReadAllLines(path);
             var rs = new List<string>();
             var dic = File.ReadAllLines(gPath).ToDictionary(x => x.Split('{')[0].Trim());
@@ -141,13 +141,13 @@ namespace ConApp {
             File.WriteAllLines(pathEx(path, "-2"), rs);
         }
 
-        private static StringSplitOptions ssop = StringSplitOptions.None;
+        static StringSplitOptions ssop = StringSplitOptions.RemoveEmptyEntries;
 
         #region stemmer
 
-        private static Dictionary<string, string> _lemmas;
+        static Dictionary<string, string> _lemmas;
 
-        private static Dictionary<string, string> lemmas {
+        static Dictionary<string, string> lemmas {
             get {
                 if (_lemmas != null)
                     return _lemmas;
@@ -166,25 +166,28 @@ namespace ConApp {
             }
         }
 
-        private static HashSet<string> _existingWords;
+        static Dictionary<string,string> _existingWords;
+        static Regex pronBrRe = new Regex(@"\([^)]+\)");
 
-        private static HashSet<string> existingWords {
+        static Dictionary<string, string> existingWords {
             get {
                 if (_existingWords != null)
                     return _existingWords;
 
-                var dic = File.ReadAllLines("d:/Projects/smalls/en-dic.txt")
-                    .Select(x => x.Split(new[] { " - " }, ssop)[0].ToLower())
-                    .Where(x => x.Length >= 3);
-
-                _existingWords = new HashSet<string>(dic);
+                _existingWords = File.ReadAllLines("d:/Projects/smalls/en-dic.txt")
+                    .Select(x => {
+                        var sp = x.ToLower().Split(new[] { " - ", "[", "]" }, ssop);
+                        var t = x.Contains(" - [") ? pronBrRe.Replace(sp[2], "") : "";
+                        return new KeyValuePair<string, string>(sp[0], t);
+                    }).ToDictionary(x => x.Key, x => x.Value);
+                    
                 return _existingWords;
             }
         }
 
-        private static Regex prefixRe = new Regex("^(anti|auto|de|dis|down|extra|hyper|il|im|inter|in|ir|mega|mid|mis|non|over|out|post|pre|pro|re|semi|sub|super|tele|trans|ultra|un|up)", RegexOptions.Compiled);
+        static Regex prefixRe = new Regex("^(anti|auto|de|dis|down|extra|hyper|il|im|inter|in|ir|mega|mid|mis|non|over|out|post|pre|pro|re|semi|sub|super|tele|trans|ultra|un|up)", RegexOptions.Compiled);
 
-        private static string stem(string s) {
+        static string stem(string s) {
             s = s.ToLower();
             if (lemmas.TryGetValue(s, out var _s)) {
                 s = _s;
@@ -196,7 +199,7 @@ namespace ConApp {
                     break;
 
                 _s = s.Substring(m.Value.Length);
-                if (!existingWords.Contains(_s))
+                if (_s.Length < 3 || !existingWords.ContainsKey(_s))
                     break;
 
                 s = _s;
@@ -213,11 +216,35 @@ namespace ConApp {
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
+            var path = "d:/Projects/smalls/en-dic.txt";
+            var re = new Regex(@"\[[^]]*\]");
+            var rs = File.ReadLines(path).Select(x => handleString(x, re, (s, m) => s.Replace("'", "ˈ"))).ToArray();
+            File.WriteAllLines(path, rs);
+
             //var ss = File.ReadAllLines("d:/2.txt").Select(x => stem(x)).ToArray();
             //File.WriteAllLines("d:/2-2.txt", ss);
-            var s = stem("management");
-            Console.WriteLine(s);
+            //var s = stem("management");
+            /*
+            var dic = new Dictionary<char, List<string>>();
+            foreach (var w in existingWords) {
+                foreach (var c in w.Value) {
+                    if (!dic.ContainsKey(c)) {
+                        dic.Add(c, new List<string>());
+                    }
 
+                    if (dic[c].Count < 10) {
+                        dic[c].Add(w.Key);
+                    }
+                }
+            }
+
+            var rs = new List<string>();
+            foreach (var c in dic) {
+                rs.Add($"\"{c.Key}\"{string.Join(",",c.Value)}");
+            }
+
+            File.WriteAllLines("d:/r.txt", rs);
+            */
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
         }
