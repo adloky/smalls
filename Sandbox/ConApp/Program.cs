@@ -13,7 +13,7 @@ using OpenQA.Selenium.Chrome;
 using Porter2StemmerStandard;
 
 namespace ConApp {
-    class Program {
+    static class Program {
         static string handleString(string s, Regex re, Func<string, Match, string> handler) {
             var m = re.Match(s);
             var i = 0;
@@ -141,7 +141,7 @@ namespace ConApp {
             File.WriteAllLines(pathEx(path, "-2"), rs);
         }
 
-        static StringSplitOptions ssop = StringSplitOptions.RemoveEmptyEntries;
+        static StringSplitOptions ssop = StringSplitOptions.None;
 
         #region stemmer
 
@@ -176,7 +176,7 @@ namespace ConApp {
 
                 _existingWords = File.ReadAllLines("d:/Projects/smalls/en-dic.txt")
                     .Select(x => {
-                        var sp = x.ToLower().Split(new[] { " - ", "[", "]" }, ssop);
+                        var sp = x.ToLower().Split(new[] { " - ", "[", "]" }, StringSplitOptions.RemoveEmptyEntries);
                         var t = x.Contains(" - [") ? pronBrRe.Replace(sp[2], "") : "";
                         return new KeyValuePair<string, string>(sp[0], t);
                     }).ToDictionary(x => x.Key, x => x.Value);
@@ -209,42 +209,168 @@ namespace ConApp {
         }
 
         #endregion
+        
+        #region RU PRON
 
-        private static volatile bool ctrlC = false;
+        static Dictionary<char, char> ruPronDic = new Dictionary<char, char>() {
+            { 'j', 'й' }, { 'u', 'у' }, { 'b', 'б' }, { 'i', 'и' }, { 'ð', 'ð' }, { 't', 'т' },
+            { 'ə', 'э' }, { 'e', 'е' }, { 'ɪ', 'ы' }, { 'æ', 'э' }, { 'n', 'н' }, { 'd', 'д' },
+            { 'ɒ', 'а' }, { 'v', 'в' }, { 'h', 'х' }, { 'w', 'w' }, { 'm', 'м' }, { 's', 'с' },
+            { 'f', 'ф' }, { 'ɔ', 'о' }, { 'r', 'р' }, { 'ɡ', 'г' }, { 'ʊ', 'у' }, { 'a', 'а' },
+            { 'k', 'к' }, { 'ʌ', 'а' }, { 'l', 'л' }, { 'ʒ', 'ж' }, { 'ʃ', 'ш' }, { 'p', 'п' },
+            { 'ɜ', 'ё' }, { 'θ', 'θ' }, { 'ŋ', 'ŋ' }, { 'z', 'з' }, { 'ɑ', 'а' }, { 'g', 'г' },
+            { 'o', 'о' }, { 'ɛ', 'е' },
+        };
+
+        static Regex ruVowelRe = new Regex("[уиоыэаёое]", RegexOptions.Compiled);
+
+        static string ruPron(string s) {
+            var cs = new List<char>();
+            var isStress = false;
+            foreach (var c in s) {
+                switch (c) {
+                    case 'ˈ':
+                    case 'ˌ':
+                        isStress = true;
+                        break;
+
+                    case 'ː':
+                        cs.Add(char.ToLower(cs.Last()));
+                        break;
+
+                    default:
+                        var rc = ruPronDic[c];
+                        if (rc == 'ы' && cs.Count > 0 && ruVowelRe.IsMatch(cs.Last().ToString().ToLower())) {
+                            rc = 'й';
+                        }
+
+                        if (isStress && ruVowelRe.IsMatch(rc.ToString())) {
+                            rc = char.ToUpper(rc);
+                            isStress = false;
+                        }
+                        cs.Add(rc);
+                        break;
+                }
+            }
+
+            return new string(cs.ToArray());
+        }
+
+        #endregion
+
+        //static Random rnd = new Random();
+
+        public static void Shuffle<T>(this IList<T> list, int start, int end) {
+            var len = end - start;
+            var rs = list.Skip(start).Take(len).OrderBy(_ => Guid.NewGuid()).ToArray();
+            for (var i = 0; i < len; i++) {
+                list[start + i] = rs[i];
+            }
+        }
+
+        static void prepareWords(string path) {
+            var ints = new Dictionary<int, int>() { { 1, 2 }, { 2, 4 }, { 4, 7 }, { 7, 12 }, { 12, 20 } };
+            var intMax = ints.Values.Max();
+
+            // read words
+            var ws = File.ReadAllLines(path).Select(x => {
+                var sp = x.Split(new[] { " {", "} ", " (", ")" }, StringSplitOptions.RemoveEmptyEntries);
+                var r = (k: sp[0], p: sp[1], v: sp[2], e: (string)null, t: (string)null, i: 1);
+                if (sp.Length > 3)
+                    r.e = sp[3];
+
+                var ks = r.k.Split(' ');
+                var ts = new List<string>();
+                foreach (var k in ks) {
+                    var t = (string)null;
+                    if (!existingWords.TryGetValue(k, out t)) {
+                        if (lemmas.TryGetValue(k, out var _k)) {
+                            existingWords.TryGetValue(_k, out t);
+                        }
+                    }
+                    if (t == null)
+                        continue;
+                    
+                    ts.Add(ruPron(t));
+                }
+
+                if (ts.Count > 0) {
+                    r.t = string.Join(" ", ts);
+                }
+
+                return r;
+            }).ToArray();
+            ws.Shuffle(0, ws.Length);
+            var newDays = ws.Length / 10;
+
+            // fill
+            var ds = ws.Take(newDays + intMax - 1).Select(x => (new[] { ws[0] }).ToList()).ToList();
+            ds.ForEach(x => x.Clear());
+            for (var j = 0; j < ws.Length; j += 10) {
+                for (var i = j; i < j + 10; i++) {
+                    ds[j / 10].Add(ws[i]);
+                }
+            }
+
+            // add new else
+            for (var i = 0; i < newDays; i++) {
+                var l = ds[i].ToList();
+                for (var j = 0; j < l.Count; j++) {
+                    var x = l[j];
+                    x.i = 0;
+                    l[j] = x;
+                }
+                l.Shuffle(0, l.Count);
+                ds[i].AddRange(l.ToList());
+                l.Shuffle(0, l.Count);
+                ds[i].AddRange(l.ToList());
+            }
+
+            // repeat
+            for (var i = 0; i < ds.Count; i++) {
+                ds[i].ForEach(w => {
+                    if (w.i == intMax || w.i == 0)
+                        return;
+
+                    var d = ints[w.i] - w.i;
+                    w.i += d;
+                    ds[i + d].Add(w);
+                });
+            }
+
+            // shuffle nexts
+            for (var i = 0; i < ds.Count; i++) {
+                var start = i < newDays ? 30 : 0;
+                ds[i].Shuffle(start, ds[i].Count);
+            }
+
+            // output
+            var rs = new List<string>();
+            for (var j = 0; j < ds.Count; j++) {
+                var d = ds[j];
+                rs.Add($"DAY: {j+1}");
+                for (var i = 0; i < d.Count; i += 10) {
+                    var r = d.Skip(i).Take(10).ToList();
+                    var n = r.Where(x => x.i == 1).Select(x => $"{x.k} {{{x.p}}} {x.v}").ToList();
+                    if (n.Count > 0) rs.Add("NEW: " + string.Join("; ", n));
+                    var l = r.Where(x => x.i == intMax).Select(x => $"{x.k} {{{x.p}}}").ToList();
+                    if (l.Count > 0) rs.Add("LAST: " + string.Join("; ", l));
+                    var b = r.Select(x => $"{x.k} (как {x.p}: {x.v})").ToList();
+                    rs.Add("BODY: " + string.Join("; ", b));
+                }
+            }
+
+            File.WriteAllLines(pathEx(path, "-2"), rs);
+        }
+
+        static volatile bool ctrlC = false;
 
         [STAThread]
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
-            var path = "d:/Projects/smalls/en-dic.txt";
-            var re = new Regex(@"\[[^]]*\]");
-            var rs = File.ReadLines(path).Select(x => handleString(x, re, (s, m) => s.Replace("'", "ˈ"))).ToArray();
-            File.WriteAllLines(path, rs);
+            prepareWords("d:/words.txt");
 
-            //var ss = File.ReadAllLines("d:/2.txt").Select(x => stem(x)).ToArray();
-            //File.WriteAllLines("d:/2-2.txt", ss);
-            //var s = stem("management");
-            /*
-            var dic = new Dictionary<char, List<string>>();
-            foreach (var w in existingWords) {
-                foreach (var c in w.Value) {
-                    if (!dic.ContainsKey(c)) {
-                        dic.Add(c, new List<string>());
-                    }
-
-                    if (dic[c].Count < 10) {
-                        dic[c].Add(w.Key);
-                    }
-                }
-            }
-
-            var rs = new List<string>();
-            foreach (var c in dic) {
-                rs.Add($"\"{c.Key}\"{string.Join(",",c.Value)}");
-            }
-
-            File.WriteAllLines("d:/r.txt", rs);
-            */
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
         }
