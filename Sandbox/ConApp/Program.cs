@@ -244,6 +244,11 @@ namespace ConApp {
                             rc = 'й';
                         }
 
+                        if (rc == 'ш' && cs.Count > 0 && cs.Last() == 'т') {
+                            cs.RemoveAt(cs.Count - 1);
+                            rc = 'ч';
+                        }
+
                         if (isStress && ruVowelRe.IsMatch(rc.ToString())) {
                             rc = char.ToUpper(rc);
                             isStress = false;
@@ -351,11 +356,11 @@ namespace ConApp {
                 rs.Add($"DAY: {j+1}");
                 for (var i = 0; i < d.Count; i += 10) {
                     var r = d.Skip(i).Take(10).ToList();
-                    var n = r.Where(x => x.i == 1).Select(x => $"{x.k} {{{x.p}}} {x.v}").ToList();
+                    var n = r.Where(x => x.i == 1).Select(x => $"{x.k} {{{x.p}}} [{x.t}] {x.v}").ToList();
                     if (n.Count > 0) rs.Add("NEW: " + string.Join("; ", n));
                     var l = r.Where(x => x.i == intMax).Select(x => $"{x.k} {{{x.p}}}").ToList();
                     if (l.Count > 0) rs.Add("LAST: " + string.Join("; ", l));
-                    var b = r.Select(x => $"{x.k} (как {x.p}: {x.v})").ToList();
+                    var b = r.Select(x => $"{x.k} (как {x.p}: {x.v}) [{x.t}]").ToList();
                     rs.Add("BODY: " + string.Join("; ", b));
                 }
             }
