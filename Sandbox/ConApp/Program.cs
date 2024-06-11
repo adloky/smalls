@@ -379,12 +379,12 @@ namespace ConApp {
             var sn = 0;
             for (var j = 0; j < ds.Count; j++) {
                 var d = ds[j];
-                rs.Add($"DAY {j+1}");
+                rs.Add($"## DAY {j+1} ДЕНЬ {j + 1}");
                 for (var i = 0; i < d.Count; i += 10) {
                     sn++;
-                    rs.Add($"STORY {sn}");
+                    rs.Add($"### STORY {sn} ИСТОРИЯ {sn}");
                     var r = d.Skip(i).Take(10).ToList();
-                    var s = r.Select(x => (x.i == intMax ? "!" : "") + $"{x.k} [{x.t}] {{{partAbbr[x.p]}}}" + (x.i == 1 ? " " + x.v : "")).ToList();
+                    var s = r.Select(x => (x.i == intMax ? "!" : "") + $"**{x.k}** [{x.t}] {{{partAbbr[x.p]}}}" + (x.i == 1 ? " " + x.v : "")).ToList();
                     rs.Add("WORDS " + string.Join("; ", s));
                     var b = r.Select(x => $"{x.k} (как {x.p}: {x.v})").ToList();
                     rs.Add("BODY " + string.Join("; ", b));

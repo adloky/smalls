@@ -1,0 +1,23 @@
+<style>
+  textarea { width: 600pt; height: 150pt; }
+</style>
+<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+<textarea class="en-box"></textarea><br/>
+<textarea class="ru-box"></textarea><br/>
+<textarea class="r-box"></textarea><br/>
+<button class="com-btn">combine</button>
+<script>
+    $(".com-btn").click(function() {
+        var ens = $(".en-box").val().split(/\r?\n/).filter(x => x !== "");
+        var rus = $(".ru-box").val().split(/\r?\n/).filter(x => x !== "");
+        var rs = [];
+        ens.forEach((x,i) => {
+            rs.push(ens[i]);
+            rs.push(rus[i]);
+        });
+        
+        $(".r-box").val(rs.join("\r\n\r\n"));
+        $(".r-box").select();
+        document.execCommand("copy");
+    });
+</script>
