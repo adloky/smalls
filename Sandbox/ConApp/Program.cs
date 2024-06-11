@@ -201,7 +201,6 @@ namespace ConApp {
         }
 
         static Dictionary<string,string> _existingWords;
-        static Regex pronBrRe = new Regex(@"\([^)]+\)");
 
         static Dictionary<string, string> existingWords {
             get {
@@ -211,9 +210,10 @@ namespace ConApp {
                 _existingWords = File.ReadAllLines("d:/Projects/smalls/en-dic.txt")
                     .Where(x => !x.Contains("Not found"))
                     .Select(x => {
-                        var sp = x.ToLower().Split(new[] { " - ", "[", "]" }, StringSplitOptions.RemoveEmptyEntries);
-                        var t = x.Contains(" - [") ? pronBrRe.Replace(sp[2], "") : "";
-                        return new KeyValuePair<string, string>(sp[0], t);
+                        var sp = x.ToLower().Split(new[] { " - " }, StringSplitOptions.RemoveEmptyEntries);
+                        var key = sp[0];
+                        var t = prons.ContainsKey(key) ? prons[key] : "";
+                        return new KeyValuePair<string, string>(key, t);
                     }).ToDictionary(x => x.Key, x => x.Value);
                     
                 return _existingWords;
@@ -247,16 +247,6 @@ namespace ConApp {
         
         #region RU PRON
 
-        static Dictionary<char, char> ruPronDic = new Dictionary<char, char>() {
-            { 'j', 'й' }, { 'u', 'у' }, { 'b', 'б' }, { 'i', 'и' }, { 'ð', 'ð' }, { 't', 'т' },
-            { 'ə', 'э' }, { 'e', 'е' }, { 'ɪ', 'ы' }, { 'æ', 'э' }, { 'n', 'н' }, { 'd', 'д' },
-            { 'ɒ', 'а' }, { 'v', 'в' }, { 'h', 'х' }, { 'w', 'w' }, { 'm', 'м' }, { 's', 'с' },
-            { 'f', 'ф' }, { 'ɔ', 'о' }, { 'r', 'р' }, { 'ɡ', 'г' }, { 'ʊ', 'у' }, { 'a', 'а' },
-            { 'k', 'к' }, { 'ʌ', 'а' }, { 'l', 'л' }, { 'ʒ', 'ж' }, { 'ʃ', 'ш' }, { 'p', 'п' },
-            { 'ɜ', 'ё' }, { 'θ', 'θ' }, { 'ŋ', 'ŋ' }, { 'z', 'з' }, { 'ɑ', 'а' }, { 'g', 'г' },
-            { 'o', 'о' }, { 'ɛ', 'е' },
-        };
-
         static Dictionary<string, string> cmu = new Dictionary<string, string>() {
             { "AA", "а" }, { "AE", "э" }, { "AH0", "э" }, { "AH", "а" }, { "AO", "о" },
             { "AW", "ау" }, { "AY", "ай" }, { "EH", "е" }, { "ER", "эр" }, { "EY", "ей" },
@@ -268,43 +258,18 @@ namespace ConApp {
             { "V", "в" }, { "W", "у" }, { "Y", "й" }, { "Z", "з" }, { "ZH", "ж" },
         };
 
-        static Regex ruVowelRe = new Regex("[уиоыэаёое]", RegexOptions.Compiled);
+        static Dictionary<string, string> _prons;
 
-        static string ruPron(string s) {
-            var cs = new List<char>();
-            var isStress = false;
-            foreach (var c in s) {
-                switch (c) {
-                    case 'ˈ':
-                    case 'ˌ':
-                        isStress = true;
-                        break;
-
-                    case 'ː':
-                        cs.Add(char.ToLower(cs.Last()));
-                        break;
-
-                    default:
-                        var rc = ruPronDic[c];
-                        if (rc == 'ы' && cs.Count > 0 && ruVowelRe.IsMatch(cs.Last().ToString().ToLower())) {
-                            rc = 'й';
-                        }
-
-                        if (rc == 'ш' && cs.Count > 0 && cs.Last() == 'т') {
-                            cs.RemoveAt(cs.Count - 1);
-                            rc = 'ч';
-                        }
-
-                        if (isStress && ruVowelRe.IsMatch(rc.ToString())) {
-                            rc = char.ToUpper(rc);
-                            isStress = false;
-                        }
-                        cs.Add(rc);
-                        break;
+        static Dictionary<string, string> prons {
+            get {
+                if (_prons == null) {
+                    _prons = File.ReadAllLines("d:/Projects/smalls/pronun.txt")
+                        .Select(x => x.Split(' '))
+                        .ToDictionary(x => x[0], x => x[1]);
                 }
-            }
 
-            return new string(cs.ToArray());
+                return _prons;
+            }
         }
 
         #endregion
@@ -316,6 +281,22 @@ namespace ConApp {
                 list[start + i] = rs[i];
             }
         }
+
+        static Dictionary<string, string> partAbbr = new Dictionary<string, string> {
+            { "артикль", "арт." },
+            { "глагол", "гл." },
+            { "местоимение", "мест." },
+            { "наречие", "нар." },
+            { "предлог", "пред." },
+            { "прилагательное", "прил." },
+            { "союз", "союз" },
+            { "существительное", "сущ." },
+            { "числительное", "числ." },
+            { "междометие", "межд." },
+            { "определитель", "опред." },
+            { "прочее", "прочее" },
+            { "existential", "exist." },
+        };
 
         static void prepareWords(string path) {
             var ints = new Dictionary<int, int>() { { 1, 2 }, { 2, 4 }, { 4, 7 }, { 7, 12 }, { 12, 20 } };
@@ -340,7 +321,7 @@ namespace ConApp {
                     if (t == null)
                         continue;
                     
-                    ts.Add(ruPron(t));
+                    ts.Add(t);
                 }
 
                 if (ts.Count > 0) {
@@ -395,17 +376,18 @@ namespace ConApp {
 
             // output
             var rs = new List<string>();
+            var sn = 0;
             for (var j = 0; j < ds.Count; j++) {
                 var d = ds[j];
-                rs.Add($"DAY: {j+1}");
+                rs.Add($"DAY {j+1}");
                 for (var i = 0; i < d.Count; i += 10) {
+                    sn++;
+                    rs.Add($"STORY {sn}");
                     var r = d.Skip(i).Take(10).ToList();
-                    var n = r.Where(x => x.i == 1).Select(x => $"{x.k} {{{x.p}}} [{x.t}] {x.v}").ToList();
-                    if (n.Count > 0) rs.Add("NEW: " + string.Join("; ", n));
-                    var l = r.Where(x => x.i == intMax).Select(x => $"{x.k} {{{x.p}}}").ToList();
-                    if (l.Count > 0) rs.Add("LAST: " + string.Join("; ", l));
-                    var b = r.Select(x => $"{x.k} (как {x.p}: {x.v}) [{x.t}]").ToList();
-                    rs.Add("BODY: " + string.Join("; ", b));
+                    var s = r.Select(x => (x.i == intMax ? "!" : "") + $"{x.k} [{x.t}] {{{partAbbr[x.p]}}}" + (x.i == 1 ? " " + x.v : "")).ToList();
+                    rs.Add("WORDS " + string.Join("; ", s));
+                    var b = r.Select(x => $"{x.k} (как {x.p}: {x.v})").ToList();
+                    rs.Add("BODY " + string.Join("; ", b));
                 }
             }
 
@@ -432,13 +414,16 @@ namespace ConApp {
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
-            /*
-            var ss = File.ReadAllLines("d:/index.js").Where(x => x.Contains("\": \"")).Select(x => x.Replace("\": \"", " ").Replace("  \"", "").Replace("\",", ""));
-            File.WriteAllLines("d:/index.txt", ss);
+            prepareWords("d:/words.txt");
 
-            return;
-            */
+            Console.WriteLine("Press ENTER");
+            Console.ReadLine();
+        }
+    }
+}
 
+/*
+            // PRONUNCES
             var dic = allForms(existingWords.Keys).ToDictionary(x => x, x => (string)null);
 
             File.ReadAllLines("d:/index.txt").ToList().ForEach(x => {
@@ -458,14 +443,7 @@ namespace ConApp {
 
             File.WriteAllLines("d:/pronun.txt", dic.Where(kv => kv.Value != null).OrderBy(kv => kv.Key).Select(kv => $"{kv.Key} {kv.Value}"));
 
-            //prepareWords("d:/words.txt");
-            //Console.WriteLine(lemmaForms["dog"][0]);
-
-            Console.WriteLine("Press ENTER");
-            Console.ReadLine();
-        }
-    }
-}
+ */
 
 /*
             var path = "d:/All_Dorothys_adventures_in_Oz.htm";
