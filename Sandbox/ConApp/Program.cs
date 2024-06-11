@@ -14,6 +14,20 @@ using Porter2StemmerStandard;
 
 namespace ConApp {
     static class Program {
+
+        static Program() {
+            // extend cmu
+            cmu.Where(kv => kv.Key.Length == 2 && "AEIOU".Contains(kv.Key.Substring(0, 1))).ToList().ForEach(kv => {
+                for (var i = 0; i < 3; i++) {
+                    var v = (i > 0 ? char.ToUpper(kv.Value[0]) : kv.Value[0]) + kv.Value.Substring(1);
+                    var k = $"{kv.Key}{i}";
+                    if (cmu.ContainsKey(k))
+                        continue;
+                    cmu.Add(k, v);
+                }
+            });
+        }
+
         static string handleString(string s, Regex re, Func<string, Match, string> handler) {
             var m = re.Match(s);
             var i = 0;
@@ -398,6 +412,20 @@ namespace ConApp {
             File.WriteAllLines(pathEx(path, "-2"), rs);
         }
 
+        static List<string> allForms(IEnumerable<string> ss) {
+            var rs = new List<string>();
+            foreach (var w in existingWords.Keys) {
+                if (lemmas.TryGetValue(w, out var k)) {
+                    rs.AddRange(lemmaForms[k]);
+                }
+                else {
+                    rs.Add(w);
+                }
+            }
+
+            return rs.Distinct().ToList();
+        }
+
         static volatile bool ctrlC = false;
 
         [STAThread]
@@ -411,32 +439,7 @@ namespace ConApp {
             return;
             */
 
-            cmu.Where(kv => kv.Key.Length == 2 && "AEIOU".Contains(kv.Key.Substring(0,1))).ToList().ForEach(kv => {
-                for (var i = 0; i < 3; i++) {
-                    var v = (i > 0 ? char.ToUpper(kv.Value[0]) : kv.Value[0]) + kv.Value.Substring(1);
-                    var k = $"{kv.Key}{i}";
-                    if (cmu.ContainsKey(k))
-                        continue;
-                    cmu.Add(k, v);
-                }
-            });
-
-            var dic = new Dictionary<string, string>();
-            foreach (var w in existingWords.Keys) {
-                var rs = new List<string>();
-                if (lemmas.TryGetValue(w, out var k)) {
-                    rs = lemmaForms[k];
-                }
-                else {
-                    rs = new List<string>() { w };
-                }
-
-                rs.ForEach(x => {
-                    if (!dic.ContainsKey(x)) {
-                        dic.Add(x, null);
-                    }
-                });
-            }
+            var dic = allForms(existingWords.Keys).ToDictionary(x => x, x => (string)null);
 
             File.ReadAllLines("d:/index.txt").ToList().ForEach(x => {
                 if (x.Contains("("))
