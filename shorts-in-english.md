@@ -2,62 +2,230 @@
 
 <content/>
 
-# Jack, Emma and little Spot
+## DAY 1
 
-# Джек, Эмма и маленький Спот
+## ДЕНЬ 1
 
-Once upon a time, there was a tall man named Jack. Jack was poor and couldn't afford many things. He had a small house and a kind heart. Every day, he would bring his little dog, Spot, along with him to the market.
+### STORY 1
 
-Однажды жил-был высокий человек по имени Джек. Джек был бедным и не мог позволить себе многие вещи. У него был маленький дом и доброе сердце. Каждый день он брал с собой на рынок свою маленькую собаку по имени Спот.
+### ИСТОРИЯ 1
 
-Jack was always able to find something interesting at the market. One day, he hit upon a great idea. He decided to sell his homemade bread. He was certain [сётн] that people would appreciate [апришиэйт] his bread because it was delicious.
+**share** [шЕр] {гл.} разделять; **merely** [мЫрли] {нар.} только; **least** [лИст] {нар.} наименее; **trade** [трЕйд] {сущ.} сделка; **fit** [фЫт] {гл.} подходить; **introduce** [ЫнтрэдУс] {гл.} вводить; **tend** [тЕнд] {гл.} ухаживать; **belief** [былИф] {сущ.} вера; **sorry** [сАри] {прил.} жалкий; **order** [Ордэр] {гл.} приказывать<tcommon/>
 
-Джек всегда мог найти что-то интересное на рынке. Однажды ему пришла в голову отличная идея. Он решил продавать свой домашний хлеб. Он был уверен, что люди оценят его хлеб, потому что он был очень вкусным.
+In a small, sleepy town, the people had a unique **belief**. They believed that to live well, everyone must **share** what they had. This wasn't **merely** a custom; it was the town's way of life. Every morning, they would **introduce** a new activity to **share** with their neighbors.
 
-Jack worked hard, but he knew that rest was necessary. So, he took breaks and played with Spot. Whatever happened, Jack always smiled. He believed that life was worth living, even if he was poor.
+В маленьком, сонном городке у людей была уникальная **вера**. Они верили, что для хорошей жизни все должны **разделять** то, что у них есть. Это было не **только** традицией; это был образ жизни города. Каждое утро они **вводили** новое занятие, чтобы **разделять** его с соседями.
 
-Джек много работал, но он знал, что отдых необходим. Поэтому он делал перерывы и играл со Спотом. Что бы ни случилось, Джек всегда улыбался. Он верил, что жизнь стоит того, чтобы жить, даже если он был беден.
+One day, Mr. Smith, who tended the town's garden, felt that his tools didn't **fit** his needs anymore. He went to the town square to **trade** them. "I need tools that **fit** my hands better," he said. In return, he offered fresh vegetables from his garden. It was a simple **trade**, but it showed their way of life.
 
-One sunny day, Jack met a tall woman named Emma. It was obvious [обвиес] that Emma was kind and gentle. She couldn't afford many things either, but she was able to bring joy to everyone she met. Jack and Emma became friends and helped each other.
+Однажды мистер Смит, который ухаживал за городским садом, почувствовал, что его инструменты ему больше не **подходят**. Он пошел на городскую площадь, чтобы совершить **сделку**. "Мне нужны инструменты, которые лучше **подходят** моим рукам," сказал он. Взамен он предложил свежие овощи из своего сада. Это была простая **сделка**, но она показывала их образ жизни.
 
-Однажды солнечным днем Джек встретил высокую женщину по имени Эмма. Было очевидно, что Эмма была доброй и нежной. Она тоже не могла позволить себе многие вещи, но она умела приносить радость всем, кого встречала. Джек и Эмма стали друзьями и помогали друг другу.
+At the same time, Mrs. Johnson, a kind old lady, decided to **introduce** a new rule. "We should **tend** to each other's gardens at **least** once a week," she suggested. This idea wasn't just practical; it was also about building stronger bonds. Everyone agreed, and they started this new practice with excitement.
 
-They worked together and made bread to sell at the market. It was rather [раTHэ] nice to have a friend. Jack and Emma were certain [сётн] that their friendship was worth more than anything they could afford. They appreciated [апришиэйт] each other and enjoyed their simple, happy lives.
+В то же время миссис Джонсон, добрая старушка, решила **ввести** новое правило. "Мы должны **ухаживать** за садами друг друга хотя бы раз в неделю," предложила она. Эта идея была не только практичной; она также помогала укреплять связи. Все согласились и начали эту новую практику с воодушевлением.
 
-Они работали вместе и делали хлеб, чтобы продавать его на рынке. Было довольно приятно иметь друга. Джек и Эмма были уверены, что их дружба стоила больше, чем что-либо, что они могли себе позволить. Они ценили друг друга и наслаждались своей простой и счастливой жизнью.
+One evening, young Tommy looked **sorry** as he approached Mr. Smith. "I'm **sorry**, Mr. Smith. I broke your watering can," he confessed. Mr. Smith smiled and said, "It's okay, Tommy. Accidents happen. Just remember to **share** the tools with care."
 
-And so, Jack and Emma, along with Spot, lived happily ever after, bringing joy and bread to their little town.
+Однажды вечером, маленький Томми подошел к мистеру Смиту с **жалким** видом. "Мне **жаль**, мистер Смит. Я сломал вашу лейку," признался он. Мистер Смит улыбнулся и сказал, "Все в порядке, Томми. Случаются неприятности. Просто помни, что нужно **разделять** инструменты с заботой."
 
-И так, Джек и Эмма, вместе со Спотом, жили долго и счастливо, принося радость и хлеб своему маленькому городку.
+As time passed, the town's **belief** in sharing only grew stronger. They **introduced** new activities to help each other and **tend** to their communal spaces. It wasn't about **order** or commands; it was about the joy of giving and receiving.
 
-# Special rock
+Со временем, **вера** города в совместное использование только усиливалась. Они **вводили** новые занятия, чтобы помогать друг другу и **ухаживать** за общими пространствами. Это было не о том, чтобы **приказывать** или командовать; это было о радости дарения и получения.
 
-# Особенный камень
+In this town, no one felt **least** or unimportant. They all had something valuable to **share**. The **belief** in sharing made their community strong and united. It wasn't **merely** about survival; it was about thriving together. And in the end, they found that this simple **belief** brought them the greatest happiness.
 
-In a distant galaxy, there was a tall alien named Zor. Zor lived on a planet called Bringa. He loved to bring his pet glorb, Flix, along on his adventures. Zor was always able to find something amazing on Bringa. One day, they hit upon a strange, glowing rock.
+В этом городке никто не чувствовал себя **наименее** важным. У всех было что-то ценное, чем можно **разделять**. **Вера** в совместное использование сделала их сообщество сильным и сплоченным. Это было не **только** о выживании; это было о процветании вместе. И в конце концов, они обнаружили, что эта простая **вера** принесла им величайшее счастье.
 
-В далекой галактике жил-был высокий инопланетянин по имени Зор. Зор жил на планете под названием Бринг. Он любил брать с собой своего питомца глорба по имени Фликс в свои приключения. Зор всегда мог найти что-то удивительное на Бринг. Однажды они наткнулись на странный светящийся камень.
+### STORY 2
 
-Zor was certain [сётн] that the rock was special. He decided to take it to the Wise One, who lived on the tallest mountain. It was rather [раTHэ] far, but Zor knew it was worth the journey. Along the way, they met other aliens who were curious about the glowing rock.
+### ИСТОРИЯ 2
 
-Зор был уверен, что камень особенный. Он решил отнести его к Мудрецу, который жил на самой высокой горе. Это было довольно далеко, но Зор знал, что это стоило того. По пути они встретили других инопланетян, которым было любопытно насчет светящегося камня.
+**tend** [тЕнд] {гл.}; **belief** [былИф] {сущ.}; **merely** [мЫрли] {нар.}; **trade** [трЕйд] {сущ.}; **introduce** [ЫнтрэдУс] {гл.}; **share** [шЕр] {гл.}; **least** [лИст] {нар.}; **fit** [фЫт] {гл.}; **sorry** [сАри] {прил.}; **order** [Ордэр] {гл.}<tcommon/>
 
-"Whatever it is, it must be important," one alien said. Zor agreed and continued his journey. The path was difficult, and rest breaks were necessary. Flix was happy to rest and play with the glowing rock.
+In the rugged wilderness, John lived alone in a small cabin. His only company was his dog, Buck. John had a strong **belief** in self-reliance. He knew that survival wasn't **merely** about being strong, but also about being smart.
 
-«Что бы это ни было, оно должно быть важным», - сказал один инопланетянин. Зор согласился и продолжил свое путешествие. Путь был трудным, и перерывы на отдых были необходимы. Фликс был рад отдыхать и играть со светящимся камнем.
+В суровой глуши Джон жил один в маленькой хижине. Его единственной компанией была его собака Бак. У Джона была сильная **вера** в самостоятельность. Он знал, что выживание - это не **только** сила, но и ум.
 
-As they climbed the tall mountain, it became obvious [обвиес] that the rock had magical powers. It started to float and shine even brighter. Zor and Flix were amazed and knew they had to be careful. They couldn't afford to lose the rock.
+Every day, John would **tend** to his chores. He gathered firewood, hunted for food, and made sure his cabin was secure. One cold morning, he realized his boots didn't **fit** well anymore. They were worn and uncomfortable, making his long treks even harder.
 
-Когда они поднимались на высокую гору, стало очевидно, что камень обладает магическими силами. Он начал парить и светиться еще ярче. Зор и Фликс были поражены и знали, что должны быть осторожны. Они не могли позволить себе потерять камень.
+Каждый день Джон **ухаживал** за своими делами. Он собирал дрова, охотился за едой и следил за тем, чтобы его хижина была в порядке. Однажды холодным утром он понял, что его ботинки ему больше не **подходят**. Они были изношены и неудобны, что делало его долгие походы еще труднее.
 
-When they reached the top, the Wise One welcomed them. He looked at the rock and smiled. "This rock is a gift from the stars," he said. "It will bring peace and happiness to our planet."
+John decided it was time to make a **trade**. He walked to the nearest trading post, which was miles away. When he arrived, he found a pair of sturdy boots that **fit** perfectly. "I'll trade these for some fresh game meat," he offered. The trader agreed, and the **deal** was made.
 
-Когда они достигли вершины, Мудрец приветствовал их. Он посмотрел на камень и улыбнулся. «Этот камень - дар от звезд», - сказал он. «Он принесет мир и счастье нашей планете».
+Джон решил, что пришло время сделать **сделку**. Он пошел к ближайшему торговому посту, который был за много миль. Когда он прибыл, он нашел пару прочных ботинок, которые **подходили** идеально. "Я **обменяю** это на свежее мясо дичи," предложил он. Торговец согласился, и **сделка** была заключена.
 
-Zor and Flix were happy they had made the journey. The Wise One taught them how to use the rock's magic. It was clear that the journey was worth it. The planet Bringa became a brighter and happier place.
+Back at his cabin, John **introduced** a new routine. He would now regularly check his gear to ensure everything was in good condition. He knew that being prepared was crucial in the wild.
 
-Зор и Фликс были рады, что совершили это путешествие. Мудрец научил их, как использовать магию камня. Было ясно, что путешествие того стоило. Планета Бринг стала более ярким и счастливым местом.
+Вернувшись в свою хижину, Джон **ввел** новое правило. Теперь он будет регулярно проверять свое снаряжение, чтобы убедиться, что все в хорошем состоянии. Он знал, что подготовленность имеет решающее значение в дикой природе.
 
-Zor and Flix returned home, feeling proud of their adventure. They appreciated [апришиэйт] the Wise One's help and knew they had done something great. Whatever challenges came next, they were ready. They had learned that with courage and determination, anything was possible.
+One day, John found a wanderer who looked **sorry** and lost near his cabin. The man was cold and hungry. John decided to **share** his food and shelter with him. "It's important to help each other out here," John said. The wanderer was grateful and soon regained his strength.
 
-Зор и Фликс вернулись домой, гордясь своим приключением. Они оценили помощь Мудреца и знали, что сделали что-то великое. Какими бы ни были следующие испытания, они были готовы. Они узнали, что с мужеством и решимостью возможно все.
+Однажды Джон нашел бродягу, который выглядел **жалким** и потерянным возле его хижины. Человек был холоден и голоден. Джон решил **разделить** с ним свою еду и убежище. "В таких местах важно помогать друг другу," сказал Джон. Бродяга был благодарен и вскоре восстановил свои силы.
+
+As they spent time together, John and the wanderer **shared** stories of their adventures. They spoke of their **belief** in the power of nature and the importance of being prepared. John felt a deep connection with his new friend.
+
+Проводя время вместе, Джон и бродяга **разделяли** истории о своих приключениях. Они говорили о своей **вере** в силу природы и важность быть подготовленным. Джон чувствовал глубокую связь со своим новым другом.
+
+In the wilderness, survival was not about following **orders** but about understanding and respecting nature. John knew that every small **trade** and every act of kindness made a difference. He realized that helping others was not a sign of weakness, but a true strength.
+
+В глуши выживание не зависит от **приказов**, а от понимания и уважения к природе. Джон знал, что каждая небольшая **сделка** и каждый акт доброты имеют значение. Он понял, что помощь другим - это не признак слабости, а истинная сила.
+
+Through these experiences, John learned that even in the harshest conditions, it was possible to find friendship and support. His **belief** in self-reliance was strong, but he also understood the value of community and sharing.
+
+Благодаря этим опытам, Джон научился, что даже в самых суровых условиях можно найти дружбу и поддержку. Его **вера** в самостоятельность была сильна, но он также понял ценность сообщества и **разделения**.
+
+As the seasons changed, John continued to **tend** to his life in the wilderness. He was no longer **merely** surviving; he was truly living, with a deep respect for the land and a heart full of gratitude.
+
+С изменением времен года Джон продолжал **ухаживать** за своей жизнью в глуши. Он уже не **только** выживал; он по-настоящему жил, с глубоким уважением к земле и сердцем, полным благодарности.
+
+### STORY 3
+
+### ИСТОРИЯ 3
+
+**trade** [трЕйд] {сущ.}; **least** [лИст] {нар.}; **share** [шЕр] {гл.}; **belief** [былИф] {сущ.}; **introduce** [ЫнтрэдУс] {гл.}; **fit** [фЫт] {гл.}; **order** [Ордэр] {гл.}; **sorry** [сАри] {прил.}; **merely** [мЫрли] {нар.}; **tend** [тЕнд] {гл.}<tcommon/>
+
+In the quiet village of Eldoria, nestled in the green hills, there lived a young hobbit named Frodo. He had a strong **belief** in the goodness of people and the magic of the land. The villagers loved to **share** their stories and their harvests, and life was peaceful.
+
+В тихой деревне Эльдория, уютно расположенной в зеленых холмах, жил молодой хоббит по имени Фродо. У него была крепкая **вера** в доброту людей и волшебство земли. Жители с удовольствием **делились** своими историями и урожаями, и жизнь текла спокойно.
+
+One day, a traveler came to Eldoria. He needed to make a **trade**. "I seek a fine cloak that will **fit** me for my journey," he said. Frodo had just such a cloak, a gift from his grandfather. He decided to **trade** it for a bag of rare seeds. The **deal** was made, and both were happy.
+
+Однажды в Эльдорию пришел путешественник. Ему нужно было совершить **сделку**. "Я ищу хороший плащ, который **подойдет** мне для моего путешествия," сказал он. У Фродо был именно такой плащ, подарок от дедушки. Он решил его **обменять** на мешок редких семян. **Сделка** была заключена, и оба были счастливы.
+
+Frodo loved to **tend** his garden, and with the new seeds, he hoped to grow something magical. The seeds sprouted quickly, and soon, strange and wonderful plants filled his garden. The villagers came to see and **share** in the marvels.
+
+Фродо любил **заботиться** о своем саду, и с новыми семенами он надеялся вырастить что-то волшебное. Семена быстро проросли, и вскоре его сад заполнили странные и удивительные растения. Жители приходили, чтобы посмотреть и **разделиться** чудесами.
+
+As time passed, Frodo decided to **introduce** a new tradition. "Let us **share** our harvests at the end of each season," he proposed. "That way, no one will go hungry." The villagers agreed, and the new tradition brought them closer together.
+
+Со временем Фродо решил **ввести** новую традицию. "Давайте **делимся** урожаем в конце каждого сезона," предложил он. "Так никто не будет голодным." Жители согласились, и новая традиция сблизила их.
+
+One evening, Frodo found a rabbit with a **sorry** look on its face. It had wandered into the garden and was tangled in the vines. Gently, Frodo freed the rabbit. "I'm **sorry** you got stuck," he said. The rabbit seemed to understand and hopped away happily.
+
+Однажды вечером Фродо нашел кролика с **жалким** видом. Он заблудился в саду и запутался в лозах. Осторожно Фродо освободил его. "Мне **жаль**, что ты застрял," сказал он. Кролик, казалось, понял и ускакал счастливо.
+
+Frodo's garden grew more wondrous with each passing day, and his **belief** in the magic of the land only strengthened. The villagers no longer saw their gardens as **merely** a source of food, but as places of wonder and community. They all helped to **tend** the gardens, and no one felt the **least** bit of doubt about the future.
+
+Сад Фродо становился все более чудесным с каждым днем, и его **вера** в волшебство земли только укреплялась. Жители больше не видели свои сады **только** как источник пищи, но и как места чудес и общности. Все помогали **заботиться** о садах, и никто не испытывал хоть малейших сомнений в будущем.
+
+The village elders had once **ordered** everyone to keep their gardens private. But now, with the new tradition **introduced**, they saw the value in **sharing** and working together. Eldoria thrived, and Frodo knew that his **belief** in kindness and cooperation had made a real difference.
+
+Старейшины деревни когда-то **приказывали** всем хранить свои сады в тайне. Но теперь, с новой **введенной** традицией, они увидели ценность **разделения** и совместной работы. Эльдория процветала, и Фродо знал, что его **вера** в доброту и сотрудничество сделала настоящую разницу.
+
+And so, the village of Eldoria continued to flourish, a shining example of how **sharing** and **tending** to each other could create a place of magic and joy for all.
+
+Таким образом, деревня Эльдория продолжала процветать, яркий пример того, как **разделение** и **забота** друг о друге могут создать место волшебства и радости для всех.
+
+## DAY 2
+
+## ДЕНЬ 2
+
+### STORY 4
+
+### ИСТОРИЯ 4
+
+**ear** [Ир] {сущ.} ухо; **careful** [кЕрфэл] {прил.} тщательный; **means** [мИн] {сущ.} средства; **weather** [уЕðэр] {сущ.} погода; **upon** [эпАн] {пред.} по; **much** [мАч] {нар.} гораздо; **variety** [вэрАйэти] {сущ.} разнообразие; **overall** [OувэрОл] {прил.} общий; **sign** [сАйн] {гл.} подписывать; **folk** [фOук] {сущ.} народ<tcommon/>
+
+In a small town at the edge of the forest, there lived an old man named Ivan. Ivan was known for his **careful** attention to detail and his love of nature. He would often wander through the woods, listening to the rustling of the leaves and the chirping of the birds.
+
+В небольшом городке на краю леса жил старик по имени Иван. Иван был известен своим **тщательным** вниманием к деталям и любовью к природе. Он часто бродил по лесу, слушая шелест листьев и щебетание птиц.
+
+One day, as Ivan was walking through the forest, he noticed a strange **sign** upon the trees. It was a series of symbols carved into the bark, like nothing he had ever seen before. Ivan paused, his **ear** cocked to listen for any sound of movement.
+
+Однажды, когда Иван шел через лес, он заметил странный **знак** на деревьях. Это была серия символов, вырезанных на коре, как ничто, что он когда-либо видел раньше. Иван остановился, его **ухо** наклонилось, чтобы услышать какое-либо движение.
+
+Suddenly, a voice called out from behind him. It was a young woman named Anna, who had been following Ivan through the woods. "What do you make of these symbols?" she asked, pointing to the carvings on the trees. Ivan studied them **carefully**, trying to decipher their meaning.
+
+Внезапно из-за него раздался голос. Это была молодая женщина по имени Анна, которая следовала за Иваном через лес. "Что ты думаешь об этих символах?" - спросила она, указывая на вырезки на деревьях. Иван изучал их **тщательно**, пытаясь разгадать их значение.
+
+As they continued through the forest, Ivan and Anna encountered a **variety** of strange plants and animals. There were flowers that glowed in the dark and birds with feathers of every color imaginable. Ivan marveled at the **overall** beauty of nature, while Anna scribbled notes in her journal.
+
+Продолжая свой путь через лес, Иван и Анна сталкивались с **разнообразием** странных растений и животных. Там были цветы, светившиеся в темноте, и птицы с перьями каждого возможного цвета. Иван поражался **общей** красоте природы, пока Анна записывала заметки в своем журнале.
+
+Eventually, they came to a clearing where they found a group of **folk** gathered around a fire. The **weather** had turned cold, and they were huddled together for warmth. Ivan and Anna joined them, sharing stories and laughter late into the night.
+
+В конце концов они подошли к поляне, где обнаружили группу **народа**, собравшегося вокруг костра. **Погода** стала холодной, и они сгрудились вместе для согрева. Иван и Анна присоединились к ним, делясь историями и смехом до поздней ночи.
+
+As they sat around the fire, Ivan couldn't help but reflect on how **much** he had learned from his time in the forest. He realized that nature held endless mysteries waiting to be discovered, and that by **carefully** observing the world around him, he could unlock its secrets.
+
+Сидя вокруг костра, Иван не мог не подумать о том, **насколько** много он узнал за время, проведенное в лесу. Он понял, что природа скрывает бесконечные тайны, ожидающие открытия, и что, **тщательно** наблюдая за миром вокруг, он может раскрывать их секреты.
+
+And so, as the sun rose the next morning, Ivan and Anna set off once again into the forest, eager to explore its wonders and learn all they could about the world they lived in.
+
+И так, когда на следующее утро взошло солнце, Иван и Анна снова отправились в лес, готовые исследовать его чудеса и узнать все, что могли о мире, в котором они жили.
+
+### STORY 5
+
+### ИСТОРИЯ 5
+
+**weather** [уЕðэр] {сущ.}; **upon** [эпАн] {пред.}; **variety** [вэрАйэти] {сущ.}; **ear** [Ир] {сущ.}; **means** [мИн] {сущ.}; **folk** [фOук] {сущ.}; **overall** [OувэрОл] {прил.}; **careful** [кЕрфэл] {прил.}; **much** [мАч] {нар.}; **sign** [сАйн] {гл.}<tcommon/>
+
+In the remote village of Blackmoor, nestled among the misty moors, the **weather** was always unpredictable. Thick fog would roll in from the hills, enveloping the town in an eerie silence.
+
+В отдаленной деревне Блэкмур, спрятанной среди туманных болот, **погода** всегда была непредсказуемой. Толстый туман спускался с холмов, окутывая город загадочным молчанием.
+
+One evening, as the sun dipped **below** the horizon, a stranger arrived in Blackmoor. His arrival sent a shiver **down** the spines of the villagers, for he was unlike anyone they had ever seen before. His eyes gleamed with a **variety** of emotions, and his voice carried a strange accent.
+
+Однажды вечером, когда солнце скрылось **под** горизонтом, в Блэкмур прибыл незнакомец. Его прибытие пробудило дрожь у жителей, ведь он был непохож ни на кого из прежних. Его глаза сверкали **разнообразием** эмоций, а его голос нес странный акцент.
+
+The stranger claimed to have traveled from a distant land, where the **folk** lived in harmony with nature. He spoke of lush forests and crystal-clear rivers, of mountains that reached **above** the clouds. The villagers listened with **careful** attention, hanging on his every word.
+
+Незнакомец утверждал, что прибыл из далекой страны, где **народ** жил в гармонии с природой. Он рассказывал о пышных лесах и кристально чистых реках, о горах, поднимающихся **над** облаками. Жители слушали с **тщательным** вниманием, вися на его каждом слове.
+
+But as the days passed, the villagers began to grow suspicious of the stranger's intentions. His stories grew wilder, his demands more outrageous. Some whispered that he was a charlatan, a trickster who meant to deceive them.
+
+Но с каждым днем жители начали подозревать намерения незнакомца. Его истории становились всё более дикими, его требования всё более непомерными. Некоторые шептали, что он шарлатан, обманщик, который **намеревался** их обмануть.
+
+One night, as a fierce storm raged outside, the villagers gathered in the old church to discuss what to do about the stranger. Lightning flashed **above** the steeple, casting eerie shadows on the walls. The air was thick with tension as they debated their **means** of dealing with the outsider.
+
+Однажды ночью, когда бушевала жестокая буря, жители собрались в старой церкви, чтобы обсудить, что делать с незнакомцем. Молнии сверкали **над** шпилем, бросая жуткие тени на стены. В воздухе витала напряженность, когда они обсуждали свои **средства** борьбы с незнакомцем.
+
+Suddenly, there came a knock at the door. The villagers froze, their **ears** straining to catch any sound from outside. Slowly, the door creaked open, revealing the stranger standing **upon** the threshold.
+
+Внезапно послышался стук в дверь. Жители застыли, их **уши** напряглись, чтобы услышать хоть какой-то звук снаружи. Медленно дверь скрипнула, открывая незнакомца, стоящего **у** порога.
+
+With a sinister smile, he raised his hand and began to **sign** strange symbols in the air. The villagers watched in horror as the symbols glowed with an otherworldly light, casting a spell over the entire room.
+
+С зловещей улыбкой он поднял руку и начал **подписывать** странные символы в воздухе. Жители с ужасом наблюдали, как символы светились сверхъестественным светом, накладывая заклятие на всю комнату.
+
+In that moment, the true nature of the stranger was revealed. He was not merely a traveler, but a sorcerer from a distant realm. And as he unleashed his dark magic upon the village of Blackmoor, the villagers realized that they had invited a terrible fate **upon** themselves.
+
+В этот момент истинная природа незнакомца была раскрыта. Он был не просто путешественником, а колдуном из далекого мира. И когда он развязал свою темную магию на деревню Блэкмур, жители поняли, что они пригласили страшную судьбу **на** себя.
+
+From that day forth, Blackmoor was never the same. The once-thriving village fell into ruin, its **folk** scattered to the winds. And though the storm eventually passed, the darkness lingered, a grim reminder of the dangers that lurked in the shadows.
+
+С тех пор Блэкмур уже не был тем же. Однажды процветающая деревня пала в руины, её **народ** рассеялся на ветер. И хотя буря в конце концов утихла, тьма осталась, мрачное напоминание о опасностях, скрывающихся в тени.
+
+### STORY 6
+
+### ИСТОРИЯ 6
+
+**folk** [фOук] {сущ.}; **careful** [кЕрфэл] {прил.}; **variety** [вэрАйэти] {сущ.}; **sign** [сАйн] {гл.}; **much** [мАч] {нар.}; **means** [мИн] {сущ.}; **ear** [Ир] {сущ.}; **overall** [OувэрОл] {прил.}; **weather** [уЕðэр] {сущ.}; **upon** [эпАн] {пред.}<tcommon/>
+
+Once **upon** a time, in the bustling town of Lilliput, there lived a **folk** of tiny people known as the Lilliputians. Despite their small size, they were known for their **careful** attention to detail and their love of adventure.
+
+Однажды **по** времени, в оживленном городе Лилипут, жила **народ** крошечных людей, известных как лилипутцы. Несмотря на их маленький размер, они были известны своим **тщательным** вниманием к деталям и любовью к приключениям.
+
+One day, as the Lilliputians were going about their daily lives, they noticed a strange **sign** in the sky. Dark clouds were gathering, and the wind was picking up. The Lilliputians knew that this was a **sign** of bad **weather** to come.
+
+Однажды, когда лилипутцы шли о своих повседневных делах, они заметили странный **знак** на небе. Темные облака собирались, и ветер нарастал. Лилипутцы знали, что это был **знак** приближающейся плохой **погоды**.
+
+The Lilliputians quickly sprang into action, using every **means** at their disposal to prepare for the storm. They reinforced their tiny houses, gathered food and supplies, and warned their neighbors of the impending danger.
+
+Лилипутцы быстро приняли меры, используя все **средства** в своем распоряжении для подготовки к шторму. Они укрепили свои крошечные дома, собрали еду и припасы, и предупредили своих соседей о надвигающейся опасности.
+
+As the storm rolled in, the Lilliputians huddled together in their homes, listening to the howling wind and the pounding rain. Despite their fear, they were grateful for their **overall** sense of community and solidarity.
+
+Когда шторм настиг, лилипутцы сгрудились вместе в своих домах, слушая воющий ветер и стучащий дождь. Несмотря на свой страх, они были благодарны за свой **общий** чувство сообщества и солидарности.
+
+After the storm had passed, the Lilliputians emerged from their homes to assess the damage. Much to their relief, their town had weathered the storm relatively unscathed. They knew that it was only through their **careful** planning and cooperation that they had survived.
+
+После того, как шторм прошел, лилипутцы вышли из своих домов, чтобы оценить ущерб. К их облегчению, их город пережил шторм относительно невредимым. Они знали, что только благодаря своему **тщательному** планированию и сотрудничеству им удалось выжить.
+
+As they went about rebuilding their town, the Lilliputians reflected on the **variety** of challenges they had faced together. They knew that no matter what obstacles came their way, they could always rely on each other for support.
+
+Когда они приступили к восстановлению своего города, лилипутцы размышляли о **разнообразии** вызовов, с которыми им пришлось столкнуться вместе. Они знали, что несмотря на все препятствия, которые возникали на их пути, они всегда могли рассчитывать друг на друга в поиске поддержки.
+
+And so, as the sun broke through the clouds and shone down on their tiny town once more, the Lilliputians felt a sense of pride in their resilience and their ability to overcome adversity.
+
+И так, когда солнце пробило облака и сияло на их крошечный город снова, лилипутцы почувствовали гордость за свою выносливость и способность преодолевать трудности.
