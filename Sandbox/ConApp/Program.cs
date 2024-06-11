@@ -251,7 +251,7 @@ namespace ConApp {
             { "F", "ф" }, { "G", "г" }, { "HH", "х" }, { "JH", "дж" }, { "K", "к" },
             { "L", "л" }, { "M", "м" }, { "N", "н" }, { "NG", "ŋ" }, { "P", "п" },
             { "R", "р" }, { "S", "с" }, { "SH", "ш" }, { "T", "т" }, { "TH", "θ" },
-            { "V", "в" }, { "W", "w" }, { "Y", "й" }, { "Z", "з" }, { "ZH", "ж" },
+            { "V", "в" }, { "W", "у" }, { "Y", "й" }, { "Z", "з" }, { "ZH", "ж" },
         };
 
         static Regex ruVowelRe = new Regex("[уиоыэаёое]", RegexOptions.Compiled);
@@ -294,8 +294,6 @@ namespace ConApp {
         }
 
         #endregion
-
-        //static Random rnd = new Random();
 
         public static void Shuffle<T>(this IList<T> list, int start, int end) {
             var len = end - start;
@@ -406,9 +404,16 @@ namespace ConApp {
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
+            /*
+            var ss = File.ReadAllLines("d:/index.js").Where(x => x.Contains("\": \"")).Select(x => x.Replace("\": \"", " ").Replace("  \"", "").Replace("\",", ""));
+            File.WriteAllLines("d:/index.txt", ss);
+
+            return;
+            */
+
             cmu.Where(kv => kv.Key.Length == 2 && "AEIOU".Contains(kv.Key.Substring(0,1))).ToList().ForEach(kv => {
                 for (var i = 0; i < 3; i++) {
-                    var v = (i == 1 ? char.ToUpper(kv.Value[0]) : kv.Value[0]) + kv.Value.Substring(1);
+                    var v = (i > 0 ? char.ToUpper(kv.Value[0]) : kv.Value[0]) + kv.Value.Substring(1);
                     var k = $"{kv.Key}{i}";
                     if (cmu.ContainsKey(k))
                         continue;
