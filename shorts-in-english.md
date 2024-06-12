@@ -124,111 +124,95 @@ And so, the village of Eldoria continued to flourish, a shining example of how *
 
 ### ИСТОРИЯ 4
 
-**ear** [Ир] {сущ.} ухо; **careful** [кЕрфэл] {прил.} тщательный; **means** [мИн] {сущ.} средства; **weather** [уЕðэр] {сущ.} погода; **upon** [эпАн] {пред.} по; **much** [мАч] {нар.} гораздо; **variety** [вэрАйэти] {сущ.} разнообразие; **overall** [OувэрОл] {прил.} общий; **sign** [сАйн] {гл.} подписывать; **folk** [фOук] {сущ.} народ<tcommon/>
+**ear** [Ир] {сущ.} ухо; **careful** [кЕрфэл] {прил.} тщательный; **means** [мИнз] {сущ.} средства; **weather** [уЕðэр] {сущ.} погода; **upon** [эпАн] {пред.} по; **much** [мАч] {нар.} гораздо; **variety** [вэрАйэти] {сущ.} разнообразие; **overall** [OувэрОл] {прил.} общий; **sign** [сАйн] {гл.} подписывать; **folk** [фOук] {сущ.} народ<tcommon/>
 
-In a small town at the edge of the forest, there lived an old man named Ivan. Ivan was known for his **careful** attention to detail and his love of nature. He would often wander through the woods, listening to the rustling of the leaves and the chirping of the birds.
+Once upon a time, in a small town named Sunnyville, there lived a **careful** tailor named Tim. Tim was known for his **careful** attention to detail and his love for sewing. However, Tim had a little secret: he was absolutely obsessed with his **ears**. He believed that having perfectly shaped **ears** was the key to success in life.
 
-В небольшом городке на краю леса жил старик по имени Иван. Иван был известен своим **тщательным** вниманием к деталям и любовью к природе. Он часто бродил по лесу, слушая шелест листьев и щебетание птиц.
+Однажды, в небольшом городке по имени Саннивилль, жил **тщательный** портной по имени Тим. Тим был известен своим **тщательным** вниманием к деталям и любовью к шитью. Однако у Тима был маленький секрет: он абсолютно одержим своими **ушами**. Он считал, что иметь идеально формированные **уши** - это ключ к успеху в жизни.
 
-One day, as Ivan was walking through the forest, he noticed a strange **sign** upon the trees. It was a series of symbols carved into the bark, like nothing he had ever seen before. Ivan paused, his **ear** cocked to listen for any sound of movement.
+One **ear**ly morning, while Tim was walking to his shop, he noticed a **variety** of clouds in the sky, a **sign** of a change in the **weather**. As he pondered the **weather**, he stumbled **upon** a peculiar sight: his neighbor, Mrs. Smith, was whispering to Mr. Johnson, the local baker, behind the bushes near the park. Tim's **ears** perked up with curiosity.
 
-Однажды, когда Иван шел через лес, он заметил странный **знак** на деревьях. Это была серия символов, вырезанных на коре, как ничто, что он когда-либо видел раньше. Иван остановился, его **ухо** наклонилось, чтобы услышать какое-либо движение.
+Одним ранним утром, когда Тим шел в свой магазин, он заметил **разнообразие** облаков на небе, **признак** изменения **погоды**. Пока он размышлял о **погоде**, он наткнулся на странное зрелище: его соседка, миссис Смит, шепталась с мистером Джонсоном, местным пекарем, за кустами возле парка. **Уши** Тима поднялись от любопытства.
 
-Suddenly, a voice called out from behind him. It was a young woman named Anna, who had been following Ivan through the woods. "What do you make of these symbols?" she asked, pointing to the carvings on the trees. Ivan studied them **carefully**, trying to decipher their meaning.
+Being the **careful** observer that he was, Tim decided to investigate further. He followed Mrs. Smith and Mr. Johnson discreetly, making sure to keep a **careful** distance. To his surprise, he discovered that they were planning a surprise birthday party for Mrs. Smith's husband!
 
-Внезапно из-за него раздался голос. Это была молодая женщина по имени Анна, которая следовала за Иваном через лес. "Что ты думаешь об этих символах?" - спросила она, указывая на вырезки на деревьях. Иван изучал их **тщательно**, пытаясь разгадать их значение.
+Будучи **тщательным** наблюдателем, каким он был, Тим решил дальше исследовать. Он следил за миссис Смит и мистером Джонсоном незаметно, убедившись, что держится на **безопасном** расстоянии. К его удивлению, он обнаружил, что они планируют сюрпризную вечеринку по случаю дня рождения для мистера Смита!
 
-As they continued through the forest, Ivan and Anna encountered a **variety** of strange plants and animals. There were flowers that glowed in the dark and birds with feathers of every color imaginable. Ivan marveled at the **overall** beauty of nature, while Anna scribbled notes in her journal.
+Tim couldn't believe his luck. He knew that if he could somehow use this information to his **advantage**, he could become the most sought-after tailor in town. With this newfound knowledge, Tim carefully crafted the most exquisite birthday outfit for Mrs. Smith's husband, using all the **means** at his disposal.
 
-Продолжая свой путь через лес, Иван и Анна сталкивались с **разнообразием** странных растений и животных. Там были цветы, светившиеся в темноте, и птицы с перьями каждого возможного цвета. Иван поражался **общей** красоте природы, пока Анна записывала заметки в своем журнале.
+Тим не мог поверить своей удаче. Он знал, что если он каким-то образом сможет использовать эту информацию к своей **пользе**, он сможет стать самым востребованным портным в городе. Обладая этим новым знанием, Тим тщательно создал самый изысканный наряд для дня рождения для мистера Смита, используя все имеющиеся у него **средства**.
 
-Eventually, they came to a clearing where they found a group of **folk** gathered around a fire. The **weather** had turned cold, and they were huddled together for warmth. Ivan and Anna joined them, sharing stories and laughter late into the night.
+The day of the party arrived, and Tim's outfit was the talk of the town. Everyone marveled at his **careful** stitching and impeccable taste. Mrs. Smith's husband was thrilled with his surprise gift, and Tim's reputation as the town's best tailor was **overall** improved.
 
-В конце концов они подошли к поляне, где обнаружили группу **народа**, собравшегося вокруг костра. **Погода** стала холодной, и они сгрудились вместе для согрева. Иван и Анна присоединились к ним, делясь историями и смехом до поздней ночи.
+Наступил день вечеринки, и наряд Тима был предметом разговоров в городе. Все восхищались его **тщательным** шитьем и безупречным вкусом. Мистер Смит был в восторге от своего сюрпризного подарка, и репутация Тима как самого лучшего портного в городе **в целом** улучшилась.
 
-As they sat around the fire, Ivan couldn't help but reflect on how **much** he had learned from his time in the forest. He realized that nature held endless mysteries waiting to be discovered, and that by **carefully** observing the world around him, he could unlock its secrets.
+From that day on, Tim's business flourished, and he became known as the **ear**-resistible tailor of Sunnyville. And as for Mrs. Smith and Mr. Johnson, they never suspected that Tim had been listening in on their secret plans all along. After all, when it comes to **ears**, Tim always had a way of hearing things he wasn't supposed to.
 
-Сидя вокруг костра, Иван не мог не подумать о том, **насколько** много он узнал за время, проведенное в лесу. Он понял, что природа скрывает бесконечные тайны, ожидающие открытия, и что, **тщательно** наблюдая за миром вокруг, он может раскрывать их секреты.
-
-And so, as the sun rose the next morning, Ivan and Anna set off once again into the forest, eager to explore its wonders and learn all they could about the world they lived in.
-
-И так, когда на следующее утро взошло солнце, Иван и Анна снова отправились в лес, готовые исследовать его чудеса и узнать все, что могли о мире, в котором они жили.
+С тех пор бизнес Тима процветал, и его стали знать как непревзойденного портного Саннивилля. Что касается миссис Смит и мистера Джонсона, они никогда не подозревали, что Тим всё это время прислушивался к их секретным планам. Ведь когда речь заходит о **ушах**, Тим всегда находил способ услышать то, что не должен был.
 
 ### STORY 5
 
 ### ИСТОРИЯ 5
 
-**weather** [уЕðэр] {сущ.}; **upon** [эпАн] {пред.}; **variety** [вэрАйэти] {сущ.}; **ear** [Ир] {сущ.}; **means** [мИн] {сущ.}; **folk** [фOук] {сущ.}; **overall** [OувэрОл] {прил.}; **careful** [кЕрфэл] {прил.}; **much** [мАч] {нар.}; **sign** [сАйн] {гл.}<tcommon/>
+**weather** [уЕðэр] {сущ.}; **upon** [эпАн] {пред.}; **variety** [вэрАйэти] {сущ.}; **ear** [Ир] {сущ.}; **means** [мИнз] {сущ.}; **folk** [фOук] {сущ.}; **overall** [OувэрОл] {прил.}; **careful** [кЕрфэл] {прил.}; **much** [мАч] {нар.}; **sign** [сАйн] {гл.}<tcommon/>
 
-In the remote village of Blackmoor, nestled among the misty moors, the **weather** was always unpredictable. Thick fog would roll in from the hills, enveloping the town in an eerie silence.
+Once upon a time, in a small village nestled **upon** a hill, there lived two families, the Smiths and the Joneses. They were known for their **variety** of crops and livestock, but more so for their deep-seated hatred for each other.
 
-В отдаленной деревне Блэкмур, спрятанной среди туманных болот, **погода** всегда была непредсказуемой. Толстый туман спускался с холмов, окутывая город загадочным молчанием.
+Однажды, в небольшой деревне, расположенной **на** холме, жили две семьи, Смиты и Джонс. Их знали благодаря **разнообразию** сельскохозяйственных культур и скота, но еще больше из-за глубокой вражды между ними.
 
-One evening, as the sun dipped **below** the horizon, a stranger arrived in Blackmoor. His arrival sent a shiver **down** the spines of the villagers, for he was unlike anyone they had ever seen before. His eyes gleamed with a **variety** of emotions, and his voice carried a strange accent.
+The feud between the families had started generations ago, over a dispute about a piece of land. Since then, the **weather** of their relationship remained stormy, with thunderous arguments echoing through the valley whenever they crossed paths.
 
-Однажды вечером, когда солнце скрылось **под** горизонтом, в Блэкмур прибыл незнакомец. Его прибытие пробудило дрожь у жителей, ведь он был непохож ни на кого из прежних. Его глаза сверкали **разнообразием** эмоций, а его голос нес странный акцент.
+Споры между семьями начались поколения назад из-за разногласий по поводу участка земли. С тех пор **погода** их отношений оставалась бурной, с грозовыми спорами, разносящимися по долине всякий раз, когда они пересекались на пути друг к другу.
 
-The stranger claimed to have traveled from a distant land, where the **folk** lived in harmony with nature. He spoke of lush forests and crystal-clear rivers, of mountains that reached **above** the clouds. The villagers listened with **careful** attention, hanging on his every word.
+One day, young Sarah Smith and Tom Jones, despite the **careful** warnings from their elders, fell in love. Their love was like a delicate flower blossoming amidst thorns, but they were determined to overcome the **much** opposition they faced.
 
-Незнакомец утверждал, что прибыл из далекой страны, где **народ** жил в гармонии с природой. Он рассказывал о пышных лесах и кристально чистых реках, о горах, поднимающихся **над** облаками. Жители слушали с **тщательным** вниманием, вися на его каждом слове.
+Однажды молодые Сара Смит и Том Джонс, несмотря на **тщательные** предостережения старших, влюбились. Их любовь была похожа на нежный цветок, расцветающий среди шипов, но они были решительны в преодолении **гораздо** препятствий, которые стояли на их пути.
 
-But as the days passed, the villagers began to grow suspicious of the stranger's intentions. His stories grew wilder, his demands more outrageous. Some whispered that he was a charlatan, a trickster who meant to deceive them.
+However, their secret romance didn't escape the **ears** of the villagers for long. The news spread like wildfire, igniting the dormant embers of animosity between the Smiths and the Joneses.
 
-Но с каждым днем жители начали подозревать намерения незнакомца. Его истории становились всё более дикими, его требования всё более непомерными. Некоторые шептали, что он шарлатан, обманщик, который **намеревался** их обмануть.
+Однако их тайный роман долго не оставался незамеченным для **ушей** жителей деревни. Слухи распространялись как пожар, разжигая тлеющие угли вражды между Смитами и Джонсами.
 
-One night, as a fierce storm raged outside, the villagers gathered in the old church to discuss what to do about the stranger. Lightning flashed **above** the steeple, casting eerie shadows on the walls. The air was thick with tension as they debated their **means** of dealing with the outsider.
+Fueled by rage and bitterness, Sarah's brother, John Smith, and Tom's cousin, Emily Jones, plotted to end the relationship once and for all. They devised a cunning plan to frame Tom for a crime he didn't commit, hoping to tarnish his reputation irreparably.
 
-Однажды ночью, когда бушевала жестокая буря, жители собрались в старой церкви, чтобы обсудить, что делать с незнакомцем. Молнии сверкали **над** шпилем, бросая жуткие тени на стены. В воздухе витала напряженность, когда они обсуждали свои **средства** борьбы с незнакомцем.
+Подпитанные яростью и горечью, брат Сары, Джон Смит, и кузина Тома, Эмили Джонс, задумали окончательно положить конец отношениям. Они разработали хитрый план обвинить Тома в преступлении, которого он не совершал, надеясь бесповоротно позорить его репутацию.
 
-Suddenly, there came a knock at the door. The villagers froze, their **ears** straining to catch any sound from outside. Slowly, the door creaked open, revealing the stranger standing **upon** the threshold.
+The trap was set, and Tom fell right into it. Despite his innocence, he was arrested and condemned by the villagers, including Sarah's own family. Betrayed and heartbroken, Sarah watched helplessly as her beloved was taken away, knowing she could do nothing to save him.
 
-Внезапно послышался стук в дверь. Жители застыли, их **уши** напряглись, чтобы услышать хоть какой-то звук снаружи. Медленно дверь скрипнула, открывая незнакомца, стоящего **у** порога.
+Ловушка была расставлена, и Том попался в нее. Несмотря на его невиновность, его арестовали и осудили жители деревни, включая даже собственную семью Сары. Преданная и разбитая сердцем, Сара беспомощно смотрела, как ее возлюбленного увозили, зная, что ничего не может сделать, чтобы спасти его.
 
-With a sinister smile, he raised his hand and began to **sign** strange symbols in the air. The villagers watched in horror as the symbols glowed with an otherworldly light, casting a spell over the entire room.
+As the days passed, Sarah's grief turned into resentment towards her own kin, for their blind hatred had torn apart the only thing she ever cherished. The once peaceful village now drowned in sorrow, haunted by the tragic consequences of unchecked animosity. And amidst it all, the **overall** lesson remained clear: that hatred, when left unchecked, can destroy even the purest of loves.
 
-С зловещей улыбкой он поднял руку и начал **подписывать** странные символы в воздухе. Жители с ужасом наблюдали, как символы светились сверхъестественным светом, накладывая заклятие на всю комнату.
-
-In that moment, the true nature of the stranger was revealed. He was not merely a traveler, but a sorcerer from a distant realm. And as he unleashed his dark magic upon the village of Blackmoor, the villagers realized that they had invited a terrible fate **upon** themselves.
-
-В этот момент истинная природа незнакомца была раскрыта. Он был не просто путешественником, а колдуном из далекого мира. И когда он развязал свою темную магию на деревню Блэкмур, жители поняли, что они пригласили страшную судьбу **на** себя.
-
-From that day forth, Blackmoor was never the same. The once-thriving village fell into ruin, its **folk** scattered to the winds. And though the storm eventually passed, the darkness lingered, a grim reminder of the dangers that lurked in the shadows.
-
-С тех пор Блэкмур уже не был тем же. Однажды процветающая деревня пала в руины, её **народ** рассеялся на ветер. И хотя буря в конце концов утихла, тьма осталась, мрачное напоминание о опасностях, скрывающихся в тени.
+Спустя дни горе Сары превратилось в обиду к собственным родным, потому что их слепая ненависть разорвала единственное, что она когда-либо ценила. Когда-то мирная деревня теперь утонула в горе, преследуемая трагическими последствиями необузданной вражды. И среди всего этого **общее** урок оставался ясным: что ненависть, оставленная без внимания, может уничтожить даже самые чистые из любовей.
 
 ### STORY 6
 
 ### ИСТОРИЯ 6
 
-**folk** [фOук] {сущ.}; **careful** [кЕрфэл] {прил.}; **variety** [вэрАйэти] {сущ.}; **sign** [сАйн] {гл.}; **much** [мАч] {нар.}; **means** [мИн] {сущ.}; **ear** [Ир] {сущ.}; **overall** [OувэрОл] {прил.}; **weather** [уЕðэр] {сущ.}; **upon** [эпАн] {пред.}<tcommon/>
+WORDS **folk** [фOук] {сущ.}; **careful** [кЕрфэл] {прил.}; **variety** [вэрАйэти] {сущ.}; **sign** [сАйн] {гл.}; **much** [мАч] {нар.}; **means** [мИнз] {сущ.}; **ear** [Ир] {сущ.}; **overall** [OувэрОл] {прил.}; **weather** [уЕðэр] {сущ.}; **upon** [эпАн] {пред.}<tcommon/>
 
-Once **upon** a time, in the bustling town of Lilliput, there lived a **folk** of tiny people known as the Lilliputians. Despite their small size, they were known for their **careful** attention to detail and their love of adventure.
+Once upon a time, in a small **folk** village nestled amidst rolling hills and lush greenery, a **careful** farmer named Jack stumbled upon a puzzling mystery. It was a sunny morning when Jack, on his usual rounds, discovered the lifeless body of Old Man Thompson, the village elder, lying in the middle of his orchard.
 
-Однажды **по** времени, в оживленном городе Лилипут, жила **народ** крошечных людей, известных как лилипутцы. Несмотря на их маленький размер, они были известны своим **тщательным** вниманием к деталям и любовью к приключениям.
+Когда-то, в небольшой **деревне** среди холмов и зелени, **тщательный** фермер по имени Джек наткнулся на загадочное преступление. Было солнечное утро, когда Джек, обычно делая свои круги, обнаружил безжизненное тело Старика Томпсона, старейшего жителя деревни, лежащего посреди своего сада.
 
-One day, as the Lilliputians were going about their daily lives, they noticed a strange **sign** in the sky. Dark clouds were gathering, and the wind was picking up. The Lilliputians knew that this was a **sign** of bad **weather** to come.
+The scene was **carefully** examined by the local authorities, who found a **variety** of clues scattered around. There were **signs** of struggle near the old oak tree, where the body lay, and the ground was disturbed, as if someone had hurriedly tried to cover up their tracks. 
 
-Однажды, когда лилипутцы шли о своих повседневных делах, они заметили странный **знак** на небе. Темные облака собирались, и ветер нарастал. Лилипутцы знали, что это был **знак** приближающейся плохой **погоды**.
+Сцену **тщательно** исследовали местные власти, которые нашли разнообразные улики, разбросанные повсюду. Были **признаки** борьбы рядом со старым дубом, где лежало тело, и земля была нарушена, как будто кто-то поспешил попытаться прикрыть свои следы.
 
-The Lilliputians quickly sprang into action, using every **means** at their disposal to prepare for the storm. They reinforced their tiny houses, gathered food and supplies, and warned their neighbors of the impending danger.
+The villagers whispered amongst themselves, speculating about what could have happened. Jack, being a **much**-respected member of the community, decided to take matters into his own hands. Armed with his **ear** for detail and an **overall** sense of determination, he vowed to uncover the truth behind Old Man Thompson's demise.
 
-Лилипутцы быстро приняли меры, используя все **средства** в своем распоряжении для подготовки к шторму. Они укрепили свои крошечные дома, собрали еду и припасы, и предупредили своих соседей о надвигающейся опасности.
+Жители шептались между собой, спекулируя о том, что могло произойти. Джек, будучи **очень** уважаемым членом сообщества, решил взять инициативу в свои руки. Вооружившись своим **ухом** для деталей и **общим** чувством решимости, он поклялся раскрыть правду о смерти Старика Томпсона.
 
-As the storm rolled in, the Lilliputians huddled together in their homes, listening to the howling wind and the pounding rain. Despite their fear, they were grateful for their **overall** sense of community and solidarity.
+Despite the unpredictable **weather** and the occasional setback, Jack pressed on, questioning each villager and piecing together the events leading up to that fateful morning. Slowly but surely, he began to unravel a tangled web of secrets and lies that had been hidden beneath the surface of their seemingly peaceful village.
 
-Когда шторм настиг, лилипутцы сгрудились вместе в своих домах, слушая воющий ветер и стучащий дождь. Несмотря на свой страх, они были благодарны за свой **общий** чувство сообщества и солидарности.
+Несмотря на непредсказуемую **погоду** и иногда возникающие проблемы, Джек продолжал расследование, допрашивая каждого жителя и собирая кусочки событий, предшествующих этому роковому утру. Медленно, но верно, он начал разгадывать запутанную сеть секретов и лжи, скрытых под поверхностью их казалось бы мирной деревни.
 
-After the storm had passed, the Lilliputians emerged from their homes to assess the damage. Much to their relief, their town had weathered the storm relatively unscathed. They knew that it was only through their **careful** planning and cooperation that they had survived.
+Finally, after days of investigation, Jack stumbled **upon** a crucial piece of evidence that cracked the case wide open. It turned out that Old Man Thompson had stumbled upon a secret stash of hidden **means** belonging to one of the villagers, who had resorted to **desperate** measures to keep their secret from being exposed.
 
-После того, как шторм прошел, лилипутцы вышли из своих домов, чтобы оценить ущерб. К их облегчению, их город пережил шторм относительно невредимым. Они знали, что только благодаря своему **тщательному** планированию и сотрудничеству им удалось выжить.
+Наконец, спустя несколько дней расследования, Джек наткнулся на ключевое доказательство, которое раскрыло дело широко. Оказалось, что Старик Томпсон наткнулся на секретный запас скрытых **средств**, принадлежавших одному из жителей, который прибег к **отчаянным** мерам, чтобы сохранить свой секрет от раскрытия.
 
-As they went about rebuilding their town, the Lilliputians reflected on the **variety** of challenges they had faced together. They knew that no matter what obstacles came their way, they could always rely on each other for support.
+With the truth revealed and justice served, the village could once again breathe easy, thanks to the **careful** sleuthing of their beloved farmer, Jack. And as the sun set over the horizon, casting a warm glow upon the tranquil village, Jack couldn't help but feel a sense of pride knowing that he had helped bring closure to a dark chapter in their history.
 
-Когда они приступили к восстановлению своего города, лилипутцы размышляли о **разнообразии** вызовов, с которыми им пришлось столкнуться вместе. Они знали, что несмотря на все препятствия, которые возникали на их пути, они всегда могли рассчитывать друг на друга в поиске поддержки.
-
-And so, as the sun broke through the clouds and shone down on their tiny town once more, the Lilliputians felt a sense of pride in their resilience and their ability to overcome adversity.
-
-И так, когда солнце пробило облака и сияло на их крошечный город снова, лилипутцы почувствовали гордость за свою выносливость и способность преодолевать трудности.
+С правдой раскрытой и справедливостью восстановленной, деревня снова могла спокойно дышать благодаря **тщательным** следственным действиям их любимого фермера, Джека. И когда солнце зашло за горизонт, окутывая тихую деревню теплым сиянием, Джек не мог не чувствовать гордость, зная, что он помог привести к завершению темный эпизод их истории.
 
 ### STORY 7
 
@@ -236,42 +220,194 @@ And so, as the sun broke through the clouds and shone down on their tiny town on
 
 **order** [Ордэр] {гл.}; **tend** [тЕнд] {гл.}; **sorry** [сАри] {прил.}; **fit** [фЫт] {гл.}; **least** [лИст] {нар.}; **belief** [былИф] {сущ.}; **merely** [мЫрли] {нар.}; **share** [шЕр] {гл.}; **introduce** [ЫнтрэдУс] {гл.}; **trade** [трЕйд] {сущ.}<tcommon/>
 
-In the quiet village of Rivendell, nestled among the misty mountains, there lived a humble hobbit named Frodo. Frodo was known for his **tend**erness towards animals and his unwavering **belief** in the power of friendship.
+Once upon a time, in a small village nestled between rolling hills, there lived two farmers named Jack and Tom. They were neighbors but also fierce competitors. Each year, they participated in the village's annual pumpkin growing contest, hoping to grow the biggest and most impressive pumpkin.
 
-В тихой деревне Ривенделл, расположенной среди туманных гор, жил скромный хоббит по имени Фродо. Фродо был известен своим **уходом** за животными и неизменной **верой** в силу дружбы.
+Однажды, в небольшой деревушке, спрятанной между холмами, жили два фермера по имени Джек и Том. Они были соседями, но также и ярыми конкурентами. Каждый год они участвовали в ежегодном конкурсе на выращивание тыкв, надеясь вырастить самую большую и впечатляющую тыкву.
 
-One day, while exploring the forest near his home, Frodo stumbled upon a mysterious creature hiding in the bushes. It was a small, **sorry**-looking creature with big, sad eyes. Frodo couldn't help but feel pity for the poor creature.
+Jack was a **tough** man with a **stern** demeanor. He **ordered** his crops around, making sure everything was done his way. His farm was always immaculate, and he took great **care** of his plants, watering them diligently and tending to them with great dedication.
 
-Однажды, пока исследовал лес неподалеку от своего дома, Фродо наткнулся на загадочное существо, прячущееся в кустах. Это было маленькое, **жалкое** создание с большими, грустными глазами. Фродо не мог не почувствовать жалость к бедному существу.
+Джек был **строгим** мужчиной с **суровым** выражением лица. Он **приказывал** своим культурам, убеждаясь, что все делается по его воле. Его ферма всегда была безупречной, и он уделял большое **внимание** своим растениям, усердно поливая и ухаживая за ними.
 
-"Hello there," Frodo said **merely**, trying to calm the creature's fears. "I mean you no harm."
+Tom, on the other hand, was a **sorry** sight compared to Jack. His farm was often messy, and he seemed to **fit** farming in between other activities. But despite his **least** efforts, Tom had a strong **belief** in his abilities as a farmer. He knew that with a little luck, he could beat Jack in the contest.
 
-"Привет," Фродо сказал **просто**, пытаясь успокоить страх существа. "Я не хочу вам вреда."
+Том, с другой стороны, выглядел **жалко** по сравнению с Джеком. Его ферма часто была в беспорядке, и он, казалось, подходил к земледелию между другими делами. Но несмотря на его **наименьшие** усилия, у Тома была крепкая **вера** в свои способности как фермера. Он знал, что с немного удачи он сможет победить Джека в конкурсе.
 
-The creature eyed Frodo warily, but after a moment, it tentatively emerged from the bushes. Frodo could see that it was injured, its fur matted and its leg twisted at an odd angle.
+As the contest approached, both men worked tirelessly in their fields. Jack **merely** glanced at Tom's patch, confident that his own pumpkins would overshadow anything his rival could produce. Meanwhile, Tom quietly **shared** tips with his plants, hoping they would listen and grow bigger.
 
-Существо осторожно оглядело Фродо, но через мгновение оно осторожно вышло из кустов. Фродо понял, что оно было ранено, его шерсть была спутана, а нога вывернута под странным углом.
+По мере приближения конкурса, оба мужчины работали неустанно на своих полях. Джек **просто** бросал взгляд на патч Тома, уверенный, что его собственные тыквы затмят все, что мог бы произвести его соперник. Между тем, Том тихо **делился** советами со своими растениями, надеясь, что они послушают и вырастут больше.
 
-With great care, Frodo helped the creature to its feet and **introduce**d himself. "My name is Frodo," he said gently. "What's yours?"
+Finally, the day of the contest arrived. Villagers from far and wide gathered to witness the competition. Jack proudly rolled out his enormous pumpkin, shining in the sunlight. The crowd gasped in awe at its size.
 
-С большой осторожностью Фродо помог существу встать на ноги и **представился**. "Меня зовут Фродо," он сказал мягко. "А тебя?"
+Наконец, наступил день конкурса. Жители издалека собрались, чтобы стать свидетелями соревнования. Джек с гордостью представил свою огромную тыкву, сверкающую на солнце. Толпа восхищенно вздохнула от ее размера.
 
-The creature hesitated for a moment before replying. "My name is Gollum," it said, its voice trembling with fear and uncertainty.
+But then, Tom unveiled his pumpkin. It was even bigger, eliciting cheers and applause from the onlookers. Jack's face turned red with anger and embarrassment.
 
-Существо немного постояло, прежде чем ответить. "Меня зовут Голлум," сказало оно, его голос дрожал от страха и неуверенности.
+Но потом Том представил свою тыкву. Она была даже больше, вызывая аплодисменты и одобрение зрителей. Лицо Джека покраснело от гнева и смущения.
 
-Frodo could sense that Gollum was in need of help, and so he **tend**ed to his wounds and offered him food and shelter. As they sat by the fire, Frodo listened intently to Gollum's story.
+In the end, Tom won the contest, much to Jack's dismay. But instead of harboring resentment, Jack realized that there was more to farming than just giving **orders**. He learned to **introduce** a little humility and cooperation into his methods, realizing that there was value in **trading** knowledge and experiences with others.
 
-Фродо почувствовал, что Голлуму нужна помощь, и потому он **заботился** о его ранах, предложил ему еду и укрытие. Когда они сидели у костра, Фродо внимательно слушал историю Голлума.
+В конце концов, Том победил в конкурсе, что вызвало разочарование и гнев у Джека. Но вместо того, чтобы питать злобу, Джек понял, что в земледелии есть больше, чем **приказывание**. Он научился **вводить** немного скромности и сотрудничества в свои методы, понимая, что есть ценность в **обмене** знаниями и опытом с другими.
 
-Gollum explained how he had once been a hobbit like Frodo, but had been corrupted by the power of the One Ring. He spoke of his **belief** that he could redeem himself by helping Frodo destroy the ring once and for all.
+From that day on, Jack and Tom became not only competitors but also friends, each **sharing** in the joys and challenges of farming together. And as they worked side by side in their fields, they knew that their rivalry had transformed into something much greater: a partnership built on mutual respect and admiration.
 
-Голлум объяснил, как он когда-то был хоббитом, как Фродо, но был скорежен силой Одного Кольца. Он говорил о своей **вере**, что может искупить себя, помогая Фродо уничтожить кольцо однажды и навсегда.
+С того дня Джек и Том стали не только конкурентами, но и друзьями, каждый **делясь** радостями и вызовами земледелия вместе. И когда они работали плечом к плечу на своих полях, они знали, что их соперничество превратилось в нечто гораздо большее: в партнерство, построенное на взаимном уважении и восхищении.
 
-Frodo was moved by Gollum's tale, and he knew that they shared a common goal. Together, they would embark on a great journey to Mount Doom, where they would **trade** the ring for the salvation of Middle-earth.
+## DAY 3
 
-Фродо был тронут рассказом Голлума, и он знал, что они **разделяют** общую цель. Вместе они отправились в великое путешествие к горе Дуум, где они будут **торговать** кольцо за спасение Средиземья.
+## ДЕНЬ 3
 
-And so, with Frodo's kindness and Gollum's guidance, they set out on their quest, ready to face whatever challenges lay ahead.
+### STORY 8
 
-И так, с добротой Фродо и руководством Голлума, они начали свой квест, готовые столкнуться с любыми вызовами, что лежали впереди.
+### ИСТОРИЯ 8
+
+**appeal** [эпИл] {сущ.} обращение; **shake** [шЕйк] {гл.} трясти; **design** [дызАйн] {сущ.} конструкция; **involved** [ЫнвАлвд] {прил.} вовлеченный; **claim** [клЕйм] {гл.} утверждать; **demand** [дымЭнд] {гл.} требовать; **separate** [сЕпэрЕйт] {гл.} отделять; **growing** [грOуыŋ] {прил.} растущий; **annual** [Энйуэл] {прил.} годовой; **survey** [сэрвЕй] {сущ.} исследование<tcommon/>
+
+In the small town of Glarus, people lived simple lives. One day, a **survey** was conducted to check the health of the townspeople. The **annual** **survey** showed a **growing** problem. More and more people were getting sick.
+
+В маленьком городке Гларус люди жили простой жизнью. Однажды было проведено **исследование**, чтобы проверить здоровье горожан. **Годовое** **исследование** показало **растущую** проблему. Все больше и больше людей заболевали.
+
+The mayor made an **appeal** to the government for help. He **claimed** that an unknown disease was spreading. The government sent scientists to study the situation. They **demanded** to see the **design** of the town's water system.
+
+Мэр сделал **обращение** к правительству за помощью. Он **утверждал**, что распространяется неизвестная болезнь. Правительство отправило ученых изучить ситуацию. Они **требовали** увидеть **конструкцию** городской водопроводной системы.
+
+The scientists found that the **design** of the water pipes was very old. They **claimed** that something must be contaminating the water. The town was **involved** in finding the cause. Everyone worked together to solve the mystery.
+
+Ученые выяснили, что **конструкция** водопроводных труб была очень старой. Они **утверждали**, что что-то должно загрязнять воду. Город был **вовлечен** в поиск причины. Все работали вместе, чтобы разгадать эту тайну.
+
+One night, the ground began to **shake**. The town was **shaking** so hard that buildings started to fall. People ran to the streets, scared and confused. Suddenly, they saw a strange, glowing light in the sky.
+
+Однажды ночью земля начала **трястись**. Город **трясло** так сильно, что здания начали падать. Люди выбегали на улицы, напуганные и растерянные. Вдруг они увидели странный, светящийся свет в небе.
+
+An alien ship landed, and the aliens made an **appeal** for peace. They **claimed** that their ship had crashed underground, causing the contamination. They **demanded** to fix the water pipes and clean the water.
+
+Инопланетный корабль приземлился, и инопланетяне сделали **обращение** о мире. Они **утверждали**, что их корабль потерпел крушение под землей, вызвав загрязнение. Они **требовали** исправить водопроводные трубы и очистить воду.
+
+The aliens used their advanced technology to **separate** the clean water from the contaminated water. The townspeople watched in amazement. The **growing** problem was solved. The **annual** sickness survey showed no more illness.
+
+Инопланетяне использовали свои передовые технологии, чтобы **отделять** чистую воду от загрязненной. Жители города наблюдали с изумлением. **Растущая** проблема была решена. **Годовое** исследование не показало больше заболеваний.
+
+The town of Glarus was saved by the aliens. They rebuilt the town with a new **design**. The people of Glarus were grateful, and they welcomed their new alien friends with open arms.
+
+Город Гларус был спасен инопланетянами. Они перестроили город с новой **конструкцией**. Жители Гларуса были благодарны и с радостью приняли своих новых инопланетных друзей.
+
+### STORY 9
+
+### ИСТОРИЯ 9
+
+WORDS **growing** [грOуыŋ] {прил.}; **appeal** [эпИл] {сущ.}; **involved** [ЫнвАлвд] {прил.}; **demand** [дымЭнд] {гл.}; **annual** [Энйуэл] {прил.}; **shake** [шЕйк] {гл.}; **separate** [сЕпэрЕйт] {гл.}; **design** [дызАйн] {сущ.}; **survey** [сэрвЕй] {сущ.}; **claim** [клЕйм] {гл.}<tcommon/>
+
+In the land of Everwood, a **growing** number of villagers were unhappy. The king, King Eldric, was not kind. Every year, he demanded more taxes. The villagers were tired of his **annual** demands.
+
+В земле Эвервуд, **растущее** число деревенских жителей было недовольно. Король, король Элдрик, не был добр. Каждый год он требовал больше налогов. Жители деревни устали от его **годовых** требований.
+
+One day, a young villager named Elara made an **appeal** to the people. "We must stand together!" she said. "We must make our voices heard!"
+
+Однажды молодая деревенская жительница по имени Элара обратилась к людям. "Мы должны держаться вместе!" сказала она. "Мы должны сделать так, чтобы нас услышали!"
+
+Many villagers became **involved** in Elara's plan. They held secret meetings in the forest. The **design** of their rebellion was simple but clever. They planned to stop paying taxes and **demand** that the king listen to them.
+
+Многие деревенские жители стали **вовлеченными** в план Элары. Они проводили тайные встречи в лесу. **Конструкция** их восстания была простой, но умной. Они планировали перестать платить налоги и **требовать**, чтобы король их выслушал.
+
+Elara and her friends sent a message to King Eldric. "We, the people of Everwood, will no longer pay your taxes!" they **claimed**. "We want fairness and justice!"
+
+Элара и её друзья отправили сообщение королю Элдрику. "Мы, народ Эвервуда, больше не будем платить ваши налоги!" они **утверждали**. "Мы хотим справедливости и правосудия!"
+
+The king was furious. He ordered his soldiers to find the leaders of the rebellion. But the villagers were smart. They used secret paths and hidden places to stay safe.
+
+Король был в ярости. Он приказал своим солдатам найти лидеров восстания. Но деревенские жители были умными. Они использовали секретные пути и укрытия, чтобы оставаться в безопасности.
+
+One night, the villagers held a **survey** to see who supported the rebellion. Almost everyone in Everwood was with them. The support gave them hope.
+
+Однажды ночью деревенские жители провели **исследование**, чтобы узнать, кто поддерживает восстание. Почти все в Эвервуде были с ними. Поддержка дала им надежду.
+
+As the days passed, the tension in Everwood grew. The ground seemed to **shake** with the villagers' anger. King Eldric tried to **separate** the leaders from the people, but it did not work.
+
+С каждым днем напряжение в Эвервуде росло. Казалось, что земля **трескалась** от гнева деревенских жителей. Король Элдрик пытался **отделить** лидеров от народа, но это не сработало.
+
+Finally, the king had no choice. He met with Elara and the other leaders. He listened to their demands. The villagers wanted fair taxes and kind treatment.
+
+Наконец, у короля не осталось выбора. Он встретился с Эларой и другими лидерами. Он выслушал их требования. Жители деревни хотели справедливых налогов и доброго отношения.
+
+In the end, the king agreed. The rebellion was successful. The people of Everwood were happy and free. And Elara became a hero, known for her bravery and wisdom.
+
+В конце концов, король согласился. Восстание было успешным. Народ Эвервуда был счастлив и свободен. А Элара стала героем, известной своей храбростью и мудростью.
+
+Thus, the **growing** discontent led to a new era in Everwood, where the people lived in peace and fairness under a kinder ruler.
+
+Таким образом, **растущее** недовольство привело к новой эре в Эвервуде, где люди жили в мире и справедливости под более добрым правителем.
+
+### STORY 10
+
+### ИСТОРИЯ 10
+
+**claim** [клЕйм] {гл.}; **growing** [грOуыŋ] {прил.}; **survey** [сэрвЕй] {сущ.}; **annual** [Энйуэл] {прил.}; **demand** [дымЭнд] {гл.}; **involved** [ЫнвАлвд] {прил.}; **shake** [шЕйк] {гл.}; **design** [дызАйн] {сущ.}; **separate** [сЕпэрЕйт] {гл.}; **appeal** [эпИл] {сущ.}<tcommon/>
+
+In a small town, there was an old, abandoned house. Every year, during the **annual** festival, children would dare each other to go inside. The house had a strange **design**, with narrow hallways and dark rooms. Many people **claimed** it was haunted.
+
+В маленьком городке был старый, заброшенный дом. Каждый год, во время **годового** фестиваля, дети бросали друг другу вызов зайти внутрь. Дом имел странную **конструкцию**, с узкими коридорами и темными комнатами. Многие люди **утверждали**, что в нем обитают призраки.
+
+One night, Sarah and her friends decided to explore the house. They were **involved** in a school **survey** about local legends. They wanted to find out if the stories were true. As they walked in, the door **shook** behind them, making them jump.
+
+Однажды ночью Сара и её друзья решили исследовать дом. Они были **вовлечены** в школьное **исследование** о местных легендах. Они хотели узнать, правда ли эти истории. Когда они вошли, дверь **затряслась** за ними, заставляя их вздрогнуть.
+
+The air felt cold, and a **growing** sense of fear filled the group. Suddenly, they heard a voice, "Leave this place!" Sarah, trying to be brave, **demanded** to know who was there. No one answered. 
+
+Воздух был холодным, и **растущий** страх охватил группу. Вдруг они услышали голос: "Уходите отсюда!" Сара, пытаясь быть смелой, **потребовала** узнать, кто там. Никто не ответил.
+
+They continued to explore, finding old, dusty furniture and broken windows. Then, they found a **separate** room with a locked door. Sarah's friend, Jake, saw something move in the shadows. "We need to get out," he said, his voice **shaking**.
+
+Они продолжали исследовать, находя старую, пыльную мебель и разбитые окна. Затем они нашли **отдельную** комнату с запертой дверью. Друг Сары, Джейк, увидел что-то движущееся в тенях. "Нам нужно уйти," сказал он, его голос **дрожал**.
+
+But Sarah felt an **appeal** to discover the truth. She pushed open the door, revealing a hidden staircase. As they descended, the voice grew louder. "Go back!" it **demanded**.
+
+Но Сару привлекло желание узнать правду. Она толкнула дверь, обнаружив скрытую лестницу. Когда они спускались, голос становился громче. "Вернитесь!" он **потребовал**.
+
+In the basement, they found old papers from another **survey** done years ago. It seemed someone had tried to understand the house's secrets. But something had stopped them. 
+
+В подвале они нашли старые бумаги из другого **исследования**, проведенного много лет назад. Казалось, кто-то пытался понять секреты дома. Но что-то их остановило.
+
+Sarah's heart raced as she read the final note: "This place is cursed. No one should enter." She realized they had to leave. She led her friends back up the stairs, **shaking** with fear.
+
+Сердце Сары колотилось, когда она читала последнюю записку: "Это место проклято. Никто не должен входить." Она поняла, что они должны уйти. Она повела своих друзей обратно вверх по лестнице, **дрожа** от страха.
+
+They ran out of the house, never looking back. They knew they would never forget the terrifying night they **claimed** to have felt the presence of something truly evil. The town's legend grew, and so did the **growing** fear of the old house.
+
+Они выбежали из дома, не оглядываясь. Они знали, что никогда не забудут ту страшную ночь, когда они **утверждали**, что почувствовали присутствие чего-то по-настоящему злого. Легенда города росла, и также рос **растущий** страх перед старым домом.
+
+### STORY 11
+
+### ИСТОРИЯ 11
+
+**variety** [вэрАйэти] {сущ.}; **means** [мИнз] {сущ.}; **weather** [уЕðэр] {сущ.}; **sign** [сАйн] {гл.}; **much** [мАч] {нар.}; **careful** [кЕрфэл] {прил.}; **upon** [эпАн] {пред.}; **ear** [Ир] {сущ.}; **folk** [фOук] {сущ.}; **overall** [OувэрОл] {прил.}<tcommon/>
+
+Once upon a time, in a village filled with a **variety** of colorful flowers and happy **folk**, there was a kind and brave girl named Lily. The villagers loved her very much. 
+
+Жила-была в деревне, полной **разнообразия** ярких цветов и счастливых **людей**, добрая и храбрая девочка по имени Лили. Жители деревни любили её **гораздо** больше всех.
+
+One day, the **weather** changed suddenly. Dark clouds filled the sky, and it began to rain heavily. The river near the village started to rise. The **folk** became worried. They had to find a way to save their homes from flooding.
+
+Однажды **погода** резко изменилась. Темные облака заполнили небо, и начался сильный дождь. Река возле деревни начала подниматься. **Люди** заволновались. Им нужно было найти способ спасти свои дома от наводнения.
+
+Lily knew they needed to act fast. She gathered everyone in the village square and spoke clearly so all could hear her. "We must find **means** to protect our village!" she said. "Let's build a big wall to stop the water."
+
+Лили знала, что нужно действовать быстро. Она собрала всех на площади и ясно говорила, чтобы все могли её слышать. "Мы должны найти **средства**, чтобы защитить нашу деревню!" — сказала она. "Давайте построим большую стену, чтобы остановить воду."
+
+Everyone agreed. They worked together, using wood and stones. They were **careful** with every step, making sure the wall was strong. Lily also found a big tree and carved a warning **sign** on it to help others know about the danger of the rising river.
+
+Все согласились. Они работали вместе, используя дерево и камни. Они были **тщательными** в каждом шаге, убеждаясь, что стена была прочной. Лили также нашла большое дерево и вырезала на нём предупреждающий **знак**, чтобы помочь другим узнать об опасности подъёма реки.
+
+After hours of hard work, the wall was finished just in time. The river water touched the wall but could not get past it. The village was safe. The **folk** cheered and thanked Lily for her bravery and quick thinking.
+
+После многих часов упорной работы, стена была закончена как раз вовремя. Вода реки коснулась стены, но не смогла её преодолеть. Деревня была спасена. **Люди** радовались и благодарили Лили за её храбрость и быстрое мышление.
+
+As the sun came out and the **weather** improved, everyone saw a beautiful rainbow in the sky. Lily looked at the villagers and smiled. "See how much we can do when we work together?"
+
+Когда выглянуло солнце и **погода** улучшилась, все увидели красивую радугу в небе. Лили посмотрела на жителей и улыбнулась. "Видите, **гораздо** лучше, что мы можем сделать, когда работаем вместе?"
+
+The villagers learned an important lesson that day. They understood the **overall** importance of unity and careful planning. And whenever they heard a storm coming, they remembered to be prepared, knowing they had the **means** to stay safe.
+
+Жители деревни поняли важный урок в тот день. Они поняли **общую** важность единства и тщательного планирования. И каждый раз, когда они слышали приближение шторма, они помнили, что нужно быть готовыми, зная, что у них есть **средства** оставаться в безопасности.
+
+And so, Lily and the villagers lived happily, always listening to each other's ideas and protecting their lovely village. The story of their bravery spread far and wide, and people came from different places to learn from them, bringing even more **variety** and happiness to the village.
+
+Так Лили и жители деревни жили счастливо, всегда слушая идеи друг друга и защищая свою прекрасную деревню. История их храбрости распространилась далеко и широко, и люди приходили из разных мест, чтобы поучиться у них, принося еще больше **разнообразия** и радости в деревню.

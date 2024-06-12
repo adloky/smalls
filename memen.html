@@ -4,7 +4,7 @@
 <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
 <style>
   table { border-collapse: collapse; }
-  input, button, td, label, textarea, .word-retell { padding: 5pt; font-size: 14pt; margin-top: 5pt; }
+  input, button, td, label, textarea, .word-retell, select { padding: 5pt; font-size: 14pt; margin-top: 5pt; }
   textarea { width: 300pt; }
   input[type=checkbox] { transform: scale(1.7); font-size: 14pt; margin-top: 10pt; }
   .hidden { display: none; }
@@ -45,9 +45,26 @@
   
   <div class="word-form">
     <input name="key" type="text"/><br/>
-    <input name="pron" type="text"/><br/>
-    <input name="val" type="text"/><br/>
-    <label><input name="hot" type="checkbox"/> hot</label><br/>
+    <input name="pron" type="text" placeholder="произношение"/><br/>
+    <select name="type">
+      <option value="артикль">артикль</option>
+      <option value="глагол">глагол</option>
+      <option value="местоимение">местоимение</option>
+      <option value="наречие">наречие</option>
+      <option value="предлог">предлог</option>
+      <option value="прилагательное">прилагательное</option>
+      <option value="союз">союз</option>
+      <option value="существительное">существительное</option>
+      <option value="числительное">числительное</option>
+      <option value="междометие">междометие</option>
+      <option value="определитель">определитель</option>
+      <option value="прочее">прочее</option>
+    </select><br/>
+    <input name="val" type="text"  placeholder="перевод"/><br/>
+    <select name="status">
+      <option value="hot">hot</option>
+      <option value="retell">retell</option>
+    </select><br/>
     <input name="retell" type="hidden"/>
     <input name="retell-hours" readonly></br>
     <textarea name="context" rows="4"></textarea></br>
@@ -77,27 +94,27 @@ var word;
 var wordRetell;
 
 (function() {
-  var req = indexedDB.open("memen", ver);
-
-  req.onupgradeneeded = function(event) {
-      var db = event.target.result;
-      var words;
-      
-      if (!db.objectStoreNames.contains("words")) {
-          words = db.createObjectStore("words", {keyPath: "key"});
-      }
-      else {
-          words = event.target.transaction.objectStore("words");
-      }
+    var req = indexedDB.open("memen", ver);
     
-      if (!words.indexNames.contains("hot")) {
-          words.createIndex("hot", "hot", { unique: false });
-      }
+    req.onupgradeneeded = function(event) {
+        var db = event.target.result;
+        var words;
+        
+        if (!db.objectStoreNames.contains("words")) {
+            words = db.createObjectStore("words", {keyPath: "key"});
+        }
+        else {
+            words = event.target.transaction.objectStore("words");
+        }
       
-      if (!words.indexNames.contains("retell")) {
-          words.createIndex("retell", "retell", { unique: false });
-      }
-  };
+        if (!words.indexNames.contains("status")) {
+            words.createIndex("status", "status", { unique: false });
+        }
+        
+        if (!words.indexNames.contains("retell")) {
+            words.createIndex("retell", "retell", { unique: false });
+        }
+    };
 })();
 
 function index() {
@@ -157,7 +174,7 @@ function hot() {
     req.onsuccess = function(event) {
         var db = event.target.result;
         var tx = db.transaction("words", "readonly");
-        var req = tx.objectStore("words").index("hot").getAll(1);
+        var req = tx.objectStore("words").index("status").getAll("hot");
         req.onsuccess = function() {
             words = req.result;
             var index = 0;
@@ -170,7 +187,6 @@ function hot() {
     }
 }
 
-/*
 function del(key) {
     var req = indexedDB.open("memen", ver);
     
@@ -180,11 +196,10 @@ function del(key) {
         tx.onerror = function (event) { console.log(event); }
         req = tx.objectStore("words").delete(key);
         req.onsuccess = function() {
-            search();
+            index();
         }
     }
 }
-*/
 
 function retell() {
     var req = indexedDB.open("memen", ver);
@@ -195,7 +210,7 @@ function retell() {
         var range = IDBKeyRange.upperBound((new Date).valueOf(), true);
         var req = tx.objectStore("words").index("retell").getAll(range);
         req.onsuccess = function() {
-            var words = req.result.filter(x => x.hot === 0);
+            var words = req.result.filter(x => x.status === "retell");
             wordRetell = words.length > 0 ? words[0] : null;
             $(".retell-level-btn").data("level", 0);
             wordRetellHtml(0);
@@ -218,7 +233,7 @@ function wordRetellHtml(level) {
         return;
     }
     var rs = [];
-    rs.push(`<div class="x-large"><b>${wordRetell.key}</b>${wordRetell.pron ? ` [${wordRetell.pron}]` : ""}</div>`);
+    rs.push(`<div class="x-large"><b>${wordRetell.key}</b>${wordRetell.pron ? ` [${wordRetell.pron}]` : ""}${ wordRetell.type === "прочее" ?  "" : " {" + wordRetell.type + "}" }</div>`);
     if (level > 1) {
         rs.push(`<div class="x-large">${wordRetell.val}</div>`);
     }
@@ -241,9 +256,10 @@ function wordToForm() {
         $(".word-form").removeClass("hidden");
     }
     $('[name=key]').val(word.key);
+    $('[name=type]').val(word.type);
     $('[name=pron]').val(word.pron);
     $('[name=val]').val(word.val);
-    $('[name=hot]').prop("checked", word.hot === 1);
+    $('[name=status]').val(word.status);
     $('[name=retell]').val(word.retell);
     var retellHours = Math.round((word.retell - Date.now().valueOf()) / 3600000);
     $('[name=retell-hours]').val( Math.abs(retellHours) < 1000 ? `${retellHours}h` : "");
@@ -254,9 +270,10 @@ function wordToForm() {
 function wordFromForm() {
     word = {
         key: $('[name=key]').val(),
+        type: $('[name=type]').val(),
         pron: $('[name=pron]').val(),
         val: $('[name=val]').val(),
-        hot: $('[name=hot]').prop("checked") ? 1 : 0,
+        status: $('[name=status]').val(),
         context: $('[name=context]').val(),
         retell: Number($('[name=retell]').val())
     };
@@ -303,13 +320,6 @@ $(".save-btn").click(function() {
     }
 });
 
-/*
-$(".del-btn").click(function() {
-    wordFromForm();
-    del(word.key);
-});
-*/
-
 $(".create-btn").click(function() {
     var s = $(".search-box").val();
     if (!s)
@@ -317,9 +327,10 @@ $(".create-btn").click(function() {
         
     word = {
         key: $(".search-box").val()
+      , type: "прочее"
       , val: ""
-      , hot: 1
-      , retell: (new Date(2050,0,1).valueOf())
+      , status: "hot"
+      , retell: Date.now().valueOf()
     };
     put(word, true);
 });
