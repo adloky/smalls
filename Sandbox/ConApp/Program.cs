@@ -417,27 +417,7 @@ namespace ConApp {
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
-            //prepareWords("d:/words.txt");
-
-            var path = "d:/Projects/smalls/words-2000.txt";
-            var ss = File.ReadAllLines(path);
-            var rs = new List<string>();
-            var re = new Regex(@"\*\*[^*]*\*\*|\[[^]]*\]");
-            foreach (var s in ss) {
-                var key = "";
-                var _s = handleString(s, re, (x, m) => {
-                    if (x.StartsWith("**")) {
-                        key = x.Replace("*", "");
-                        return x;
-                    }
-                    else {
-                        return $"[{getPron(key)}]";
-                    }
-                });
-                rs.Add(_s);
-            }
-
-            File.WriteAllLines(path, rs);
+            prepareWords("d:/words.txt");
 
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
