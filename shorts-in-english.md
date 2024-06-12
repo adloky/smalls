@@ -229,3 +229,49 @@ As they went about rebuilding their town, the Lilliputians reflected on the **va
 And so, as the sun broke through the clouds and shone down on their tiny town once more, the Lilliputians felt a sense of pride in their resilience and their ability to overcome adversity.
 
 И так, когда солнце пробило облака и сияло на их крошечный город снова, лилипутцы почувствовали гордость за свою выносливость и способность преодолевать трудности.
+
+### STORY 7
+
+### ИСТОРИЯ 7
+
+**order** [Ордэр] {гл.}; **tend** [тЕнд] {гл.}; **sorry** [сАри] {прил.}; **fit** [фЫт] {гл.}; **least** [лИст] {нар.}; **belief** [былИф] {сущ.}; **merely** [мЫрли] {нар.}; **share** [шЕр] {гл.}; **introduce** [ЫнтрэдУс] {гл.}; **trade** [трЕйд] {сущ.}<tcommon/>
+
+In the quiet village of Rivendell, nestled among the misty mountains, there lived a humble hobbit named Frodo. Frodo was known for his **tend**erness towards animals and his unwavering **belief** in the power of friendship.
+
+В тихой деревне Ривенделл, расположенной среди туманных гор, жил скромный хоббит по имени Фродо. Фродо был известен своим **уходом** за животными и неизменной **верой** в силу дружбы.
+
+One day, while exploring the forest near his home, Frodo stumbled upon a mysterious creature hiding in the bushes. It was a small, **sorry**-looking creature with big, sad eyes. Frodo couldn't help but feel pity for the poor creature.
+
+Однажды, пока исследовал лес неподалеку от своего дома, Фродо наткнулся на загадочное существо, прячущееся в кустах. Это было маленькое, **жалкое** создание с большими, грустными глазами. Фродо не мог не почувствовать жалость к бедному существу.
+
+"Hello there," Frodo said **merely**, trying to calm the creature's fears. "I mean you no harm."
+
+"Привет," Фродо сказал **просто**, пытаясь успокоить страх существа. "Я не хочу вам вреда."
+
+The creature eyed Frodo warily, but after a moment, it tentatively emerged from the bushes. Frodo could see that it was injured, its fur matted and its leg twisted at an odd angle.
+
+Существо осторожно оглядело Фродо, но через мгновение оно осторожно вышло из кустов. Фродо понял, что оно было ранено, его шерсть была спутана, а нога вывернута под странным углом.
+
+With great care, Frodo helped the creature to its feet and **introduce**d himself. "My name is Frodo," he said gently. "What's yours?"
+
+С большой осторожностью Фродо помог существу встать на ноги и **представился**. "Меня зовут Фродо," он сказал мягко. "А тебя?"
+
+The creature hesitated for a moment before replying. "My name is Gollum," it said, its voice trembling with fear and uncertainty.
+
+Существо немного постояло, прежде чем ответить. "Меня зовут Голлум," сказало оно, его голос дрожал от страха и неуверенности.
+
+Frodo could sense that Gollum was in need of help, and so he **tend**ed to his wounds and offered him food and shelter. As they sat by the fire, Frodo listened intently to Gollum's story.
+
+Фродо почувствовал, что Голлуму нужна помощь, и потому он **заботился** о его ранах, предложил ему еду и укрытие. Когда они сидели у костра, Фродо внимательно слушал историю Голлума.
+
+Gollum explained how he had once been a hobbit like Frodo, but had been corrupted by the power of the One Ring. He spoke of his **belief** that he could redeem himself by helping Frodo destroy the ring once and for all.
+
+Голлум объяснил, как он когда-то был хоббитом, как Фродо, но был скорежен силой Одного Кольца. Он говорил о своей **вере**, что может искупить себя, помогая Фродо уничтожить кольцо однажды и навсегда.
+
+Frodo was moved by Gollum's tale, and he knew that they shared a common goal. Together, they would embark on a great journey to Mount Doom, where they would **trade** the ring for the salvation of Middle-earth.
+
+Фродо был тронут рассказом Голлума, и он знал, что они **разделяют** общую цель. Вместе они отправились в великое путешествие к горе Дуум, где они будут **торговать** кольцо за спасение Средиземья.
+
+And so, with Frodo's kindness and Gollum's guidance, they set out on their quest, ready to face whatever challenges lay ahead.
+
+И так, с добротой Фродо и руководством Голлума, они начали свой квест, готовые столкнуться с любыми вызовами, что лежали впереди.
