@@ -298,9 +298,29 @@ namespace ConApp {
             { "existential", "exist." },
         };
 
+        static Regex spRe = new Regex("[^a-z]+", RegexOptions.Compiled);
+
+        static string getPron(string s) {
+            var ks = spRe.Split(s);
+            var ts = new List<string>();
+            foreach (var k in ks) {
+                prons.TryGetValue(k, out var t);
+                if (t == null)
+                    continue;
+
+                ts.Add(t);
+            }
+
+            if (ts.Count == 0)
+                return null;
+
+            return string.Join(" ", ts);
+        }
+
         static void prepareWords(string path) {
             var ints = new Dictionary<int, int>() { { 1, 2 }, { 2, 4 }, { 4, 7 }, { 7, 12 }, { 12, 20 } };
             var intMax = ints.Values.Max();
+
 
             // read words
             var ws = File.ReadAllLines(path).Select(x => {
@@ -309,24 +329,7 @@ namespace ConApp {
                 if (sp.Length > 3)
                     r.e = sp[3];
 
-                var ks = r.k.Split(' ');
-                var ts = new List<string>();
-                foreach (var k in ks) {
-                    var t = (string)null;
-                    if (!existingWords.TryGetValue(k, out t)) {
-                        if (lemmas.TryGetValue(k, out var _k)) {
-                            existingWords.TryGetValue(_k, out t);
-                        }
-                    }
-                    if (t == null)
-                        continue;
-                    
-                    ts.Add(t);
-                }
-
-                if (ts.Count > 0) {
-                    r.t = string.Join(" ", ts);
-                }
+                r.t = getPron(r.k);
 
                 return r;
             }).ToArray();
@@ -414,7 +417,27 @@ namespace ConApp {
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
-            prepareWords("d:/words.txt");
+            //prepareWords("d:/words.txt");
+
+            var path = "d:/Projects/smalls/words-2000.txt";
+            var ss = File.ReadAllLines(path);
+            var rs = new List<string>();
+            var re = new Regex(@"\*\*[^*]*\*\*|\[[^]]*\]");
+            foreach (var s in ss) {
+                var key = "";
+                var _s = handleString(s, re, (x, m) => {
+                    if (x.StartsWith("**")) {
+                        key = x.Replace("*", "");
+                        return x;
+                    }
+                    else {
+                        return $"[{getPron(key)}]";
+                    }
+                });
+                rs.Add(_s);
+            }
+
+            File.WriteAllLines(path, rs);
 
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
