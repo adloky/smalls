@@ -399,7 +399,7 @@ namespace ConApp {
 
         static List<string> allForms(IEnumerable<string> ss) {
             var rs = new List<string>();
-            foreach (var w in existingWords.Keys) {
+            foreach (var w in ss) {
                 if (lemmas.TryGetValue(w, out var k)) {
                     rs.AddRange(lemmaForms[k]);
                 }
@@ -411,13 +411,23 @@ namespace ConApp {
             return rs.Distinct().ToList();
         }
 
+        static void fixQuotes(string path) {
+            var re = new Regex(@"\w\""\w", RegexOptions.Compiled);
+            var ss = File.ReadAllLines(path).Select(x => handleString(x.Replace("'", "\""), re, (y, m) => y.Replace("\"", "'")));
+            File.WriteAllLines(path, ss);
+        }
+
         static volatile bool ctrlC = false;
 
         [STAThread]
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
-            prepareWords("d:/words.txt");
+            //prepareWords("d:/words.txt");
+
+            var set = new HashSet<string>(allForms(File.ReadAllLines("d:/1.txt")));
+            var rs = prons.Where(x => set.Contains(x.Key)).Select(x => $"[ \"{x.Key}\", \"{x.Value}\" ],");
+            File.WriteAllLines("d:/2.txt", rs);
 
             Console.WriteLine("Press ENTER");
             Console.ReadLine();

@@ -1201,3 +1201,1575 @@ Sir Henry shook his head gently.
 Miss Marple had been right again.
 
 Мисс Марпл снова оказалась права.
+
+# Dragon heart
+
+# Сердце дракона
+
+CHAPTER ONE
+
+ГЛАВА ОДНА
+
+The Old Code
+
+Старый кодекс
+
+A sword shone in the sun. "Not bad!" shouted Sir Bowen. Then he pulled out his sword and started to fight Prince Einon. The prince fell to the ground. "But you'll have to fight harder than that, or you'll die!" laughed Sir Bowen.
+
+Меч сверкнул на солнце. "Неплохо!" - воскликнул сэр Боуэн. Затем он вытащил свой меч и начал сражаться с принцем Эйноном. Принц упал на землю. "Но тебе придется драться еще сильнее, иначе ты умрешь!" - рассмеялся сэр Боуэн.
+
+Sir Bowen was one of King Freyne's knights. Prince Einon was the king's son. He was fourteen years old and a strong young man. He liked fighting but he didn't like losing. He got up quickly and took up his sword again. "That's better," laughed Bowen. The young prince smiled. Then suddenly he felt Bowen's sword, hard, on his arm. "Dead again!" laughed Sir Bowen.
+
+Сэр Боуэн был одним из рыцарей короля Фрейна. Принц Эйнон был сыном короля. Ему было четырнадцать лет, и он был сильным юношей. Он любил сражаться, но не любил проигрывать. Он быстро встал и снова взялся за меч. "Так-то лучше", - рассмеялся Боуэн. Юный принц улыбнулся. И вдруг он почувствовал на своей руке твердый меч Боуэна. "Опять мертв!" - рассмеялся сэр Боуэн.
+
+Einon started to fight again. His face was angry now. "Careful! Careful! Fight with your head, don't fight with your heart, boy!" shouted Bowen.
+
+Эйнон снова начал бороться. Теперь его лицо было сердитым. "Осторожно! Осторожнее! Борись головой, а не сердцем, мальчик!" - кричал Боуэн.
+
+The knight wanted to make Einon a good fighter. But he also wanted to teach him the Old Code. Sir Bowen and all the kings, princes and knights before him were Knights of the Old Code. For thousands of years kings were kind to peasants and knights helped kings. This was the Old Code. Life was good, and everybody in the country was happy. Then everything started to change and the peasants were angry. Bowen didn't like this. He loved Einon and he wanted the boy to remember the Old Code all his life.
+
+Рыцарь хотел сделать из Эйнона хорошего бойца. Но он также хотел научить его Старому кодексу. Сэр Боуэн и все короли, принцы и рыцари до него были рыцарями Старого кодекса. Тысячи лет короли были добры к крестьянам, а рыцари помогали королям. Таков был Старый Кодекс. Жизнь была хорошей, и все в стране были счастливы. Потом все стало меняться, и крестьяне возмутились. Боуэну это не нравилось. Он любил Эйнона и хотел, чтобы мальчик всю жизнь помнил Старый кодекс.
+
+After the sword-fighting lesson, Bowen and Einon sat down. "Never turn your back to somebody when you fight, Einon! Why can't you remember that?"
+
+После урока боя на мечах Боуэн и Эйнон сели за стол. "Никогда не поворачивайся к кому-то спиной, когда сражаешься, Эйнон! Почему ты не можешь это запомнить?"
+
+Suddenly they heard the sound of a horse. They looked up and saw Brok, one of the king's knights, on his horse in front of them. Bowen didn't like Brok and looked at him angrily. Brok didn't live by the Old Code.
+
+Вдруг они услышали звук лошади. Они подняли головы и увидели перед собой Брока, одного из королевских рыцарей, сидящего на коне. Боуэн недолюбливал Брока и сердито смотрел на него. Брок не жил по Старому кодексу.
+
+"We're fighting the peasants," Brok told them. "We're winning, of course. King Freyne wants his son to come and watch."
+
+"Мы сражаемся с крестьянами", - сказал им Брок. "Мы побеждаем, конечно. Король Фрейн хочет, чтобы его сын приехал и посмотрел".
+
+"It's not good or clever to fight the peasants," answered Bowen. He really hated Brok.
+
+"Воевать с крестьянами нехорошо и неумно", - ответил Боуэн. Он действительно ненавидел Брока.
+
+"They're stupid! The king says they have to die. He wants Einon to come now. And you too, Bowen," Brok shouted. Then he turned his horse and rode away fast.
+
+"Они глупые! Король говорит, что они должны умереть. Он хочет, чтобы Эйнон пришел сейчас. И ты тоже, Боуэн", - крикнул Брок. Затем он повернул коня и быстро поскакал прочь.
+
+"Why did he shout at you?" asked Einon. "You're a Knight of the Old Code! You're not afraid of him!"
+
+"Почему он на тебя накричал?" - спросил Эйнон. "Ты же рыцарь Старого кодекса! Ты не боишься его!"
+
+"No, of course I'm not afraid of him. I hate him. He doesn't live by the Old Code. He enjoys killing the peasants. He's the king's man."
+
+"Нет, конечно, я его не боюсь. Я его ненавижу. Он не живет по Старому кодексу. Ему нравится убивать крестьян. Он - человек короля".
+
+Einon understood. Bowen hated his father, the king, too. He smiled at Bowen. "When my father dies, I'll be king. And you'll be my man, Sir Bowen."
+
+Эйнон понимал. Боуэн тоже ненавидел своего отца, короля. Он улыбнулся Боуэну. "Когда мой отец умрет, я стану королем. А ты будешь моим человеком, сэр Боуэн".
+
+Bowen looked at Einon with love in his eyes. "I'm your man now, my Prince," he answered warmly.
+
+Боуэн смотрел на Эйнона с любовью в глазах. "Теперь я твой человек, мой принц, - тепло ответил он.
+
+CHAPTER TWO
+
+ГЛАВА ДВА
+
+The Battle
+
+Битва
+
+Brok rode quickly back to the battle. When he got near the fighting, he heard the sound of swords. He laughed loudly when he saw hundreds of peasants, dead on the ground.
+
+Брок быстро поскакал к месту сражения. Когда он подъехал к месту сражения, то услышал звон мечей. Он громко рассмеялся, увидев сотни крестьян, замерших на земле.
+
+In the middle of a field, Brok could see King Freyne on his horse. The crown on the king's head shone in the sun.
+
+Посреди поля Брок увидел короля Фрейна на коне. Корона на голове короля блестела на солнце.
+
+On his coat was a picture of a dragon's head on a sword. The king looked down at the dead men below him with hard eyes. With a cruel smile on his face, he pulled out his sword. The peasants on his right and left were afraid. They ran away fast but the king followed them. He loved fighting and killing. Nothing could stop him now.
+
+На его плаще была изображена голова дракона на мече. Король сурово посмотрел на мертвецов, стоявших под ним. С жестокой улыбкой на лице он выхватил меч. Крестьяне справа и слева от него испугались. Они быстро побежали прочь, но король последовал за ними. Он любил сражаться и убивать. Теперь его ничто не могло остановить.
+
+High above the battle, Sir Bowen and Prince Einon sat and watched. Bowen hated the fighting but Einon was excited.
+
+Высоко над битвой сидели и наблюдали сэр Боуэн и принц Эйнон. Боуэн ненавидел сражения, но Эйнон был в восторге.
+
+"I want to fight down there with my father," he said.
+
+"Я хочу сражаться там вместе со своим отцом", - сказал он.
+
+"No, you don't, boy," Bowen answered sadly.
+
+"Нет, не знаешь, мальчик, - грустно ответил Боуэн.
+
+"I do! I do!" Einon shouted. "And I want to see you fight too, Sir Bowen. You're the best fighter in the world!"
+
+"Я хочу! Хочу!" крикнул Эйнон. "И я тоже хочу увидеть, как вы сражаетесь, сэр Боуэн. Вы лучший боец в мире!"
+
+"Yes, I am a good fighter. Better than your cruel father," Bowen said angrily.
+
+"Да, я хороший боец. Лучше, чем твой жестокий отец", - сердито сказал Боуэн.
+
+Einon felt unhappy when he heard this. "Don't be angry with him, Bowen. He is my father and he is the king."
+
+Эйнон почувствовал себя несчастным, услышав это. "Не сердись на него, Боуэн. Он мой отец и король".
+
+Bowen smiled kindly at the prince. He didn't want to make Einon unhappy. But it was difficult for him to watch the battle. He was a Knight of the Old Code, and it was wrong to kill the peasants.
+
+Боуэн ласково улыбнулся принцу. Он не хотел делать Эйнона несчастным. Но ему было тяжело наблюдать за битвой. Он был рыцарем Старого кодекса, и убивать крестьян было неправильно.
+
+"Yes, Einon, your father's king now," he said to the boy. "But one day you'll be king and you'll wear the crown on your head. When you're king, remember today. And remember the Old. Code. Never, never fight the peasants. Then the crown will shine wonderfully on your head, and you'll be a better king than your father."
+
+"Да, Эйнон, сейчас твой отец - король, - сказал он мальчику. "Но однажды ты станешь королем и наденешь корону на свою голову. Когда ты станешь королем, помни о сегодняшнем дне. И помни Старый. Кодекс. Никогда, никогда не воюй с крестьянами. Тогда корона будет прекрасно сиять на твоей голове, и ты станешь лучшим королем, чем твой отец".
+
+Bowen turned to watch the battle with a heavy heart. He didn't see the prince's eyes when Einon spoke. They were as hard as the king's.
+
+Боуэн с тяжелым сердцем наблюдал за битвой. Он не видел глаз принца, когда Эйнон заговорил. Они были такими же суровыми, как у короля.
+
+"Yes, I'm going to be a better king than my father, Bowen," answered Einon. Then he suddenly shouted, "Oh, look! My father's killing more stupid peasants!"
+
+"Да, я буду лучшим королем, чем мой отец, Боуэн", - ответил Эйнон. И вдруг он воскликнул: "О, смотрите! Мой отец убивает еще больше глупых крестьян!"
+
+Down below them, the king and his knights rode through the peasants" village. They cut down men with their swords and burnt their homes. One of the peasants stood near his house and watched the king carefully. This man's name was Redbeard - he had red hair and a red beard. He suddenly shouted loudly, "Now!" When the other men heard Redbeard, they quickly came out of their houses. They looked angry and dangerous. They ran after Redbeard to the king on his horse and tried to kill him. The king rode out of the village fast, but the peasants followed him. They pulled him from his horse and began to hit him. Then they all jumped on him, hard.
+
+Внизу под ними король и его рыцари проскакали через крестьянскую деревню. Они рубили мечами мужчин и сжигали их дома. Один из крестьян стоял возле своего дома и внимательно наблюдал за королем. Звали этого человека Рыжая Борода - у него были рыжие волосы и рыжая борода. Вдруг он громко крикнул: "Живо!". Услышав Рыжебородого, остальные мужчины быстро вышли из своих домов. Они выглядели злыми и опасными. Они побежали за Рыжей Бородой к королю на его лошади и попытались убить его. Король быстро выехал из деревни, но крестьяне последовали за ним. Они стащили его с лошади и начали бить. Затем они все набросились на него.
+
+From above, Einon watched the fighting and cried, "No! No! They're killing my father!" He quickly jumped on his horse and rode down to the battle.
+
+Сверху Эйнон наблюдал за боем и кричал: "Нет! Нет! Они убивают моего отца!". Он быстро вскочил на коня и поскакал вниз к месту битвы.
+
+"Stop, Einon! Stop!" shouted Bowen, but Einon didn't listen. Bowen climbed on to his horse and followed fast behind the boy. But when he got to the battle, he couldn't find the prince anywhere. "Einon! Einon!" he called, but there was no answer.
+
+"Остановись, Эйнон! Стой!" - кричал Боуэн, но Эйнон его не слушал. Боуэн взобрался на своего коня и быстро последовал за мальчиком. Но когда он добрался до места битвы, то нигде не смог найти принца. "Эйнон! Эйнон!" - звал он, но ответа не было.
+
+Einon found his father on the ground and sat down near him. He looked at the king's grey face and cried, "Father, father!"
+
+Эйнон нашел своего отца на земле и сел рядом с ним. Он посмотрел на серое лицо короля и воскликнул: "Отец, отец!"
+
+Then he looked at the beautiful crown on the king's head. "My father's going to die," he thought. "I'm going to be king and I want that crown now."
+
+Затем он посмотрел на красивую корону на голове короля. "Мой отец умрет, - подумал он. "Я стану королем и хочу получить эту корону прямо сейчас".
+
+Einon started to take the crown from his father's head, but the king suddenly opened his eyes. He looked at the boy and tried to stop him. For a minute, father and son pulled at the crown. But Einon was stronger and he won. Old King Freyne looked at his son angrily. Then he closed his eyes and died.
+
+Эйнон начал снимать корону с головы отца, но король вдруг открыл глаза. Он посмотрел на мальчика и попытался остановить его. Минуту отец и сын тянулись к короне. Но Эйнон оказался сильнее и победил. Старый король Фрейн сердито посмотрел на сына. Затем он закрыл глаза и умер.
+
+When Einon stood up with the crown in his hands, he saw a young peasant opposite him. The man stood on a bridge with a large bucket on his head! He suddenly jumped off the bridge and fell on to Einon. They fought for a long time. Then the peasant, Buckethead, pushed his sword into Einon's heart. The prince fell to the ground with his hands round the crown.
+
+Когда Эйнон встал с короной в руках, он увидел напротив себя молодого крестьянина. Тот стоял на мосту с большим ведром на голове! Внезапно он спрыгнул с моста и упал на Эйнона. Они долго боролись. Затем крестьянин, Ведроголовый, вонзил свой меч в сердце Эйнона. Принц упал на землю, обхватив руками корону.
+
+When the peasant looked down at the prince at his feet, the bucket fell from his head. Einon could see a lot of lovely, long red hair! Buckethead was a woman, not a man. Her name was Kara, and she was Redbeard's daughter. She wore dirty, old clothes but she was very beautiful.
+
+Когда крестьянин посмотрел на принца у своих ног, ведро упало с его головы. Эйнон увидел множество прекрасных длинных рыжих волос! Ведроголовый был женщиной, а не мужчиной. Ее звали Кара, и она была дочерью Рыжебородого. Она носила грязную, старую одежду, но была очень красива.
+
+Suddenly somebody shouted, "Einon! Einon! Where are you?" When Kara heard this, she quickly ran away. Sir Bowen ran to Einon and cried, "It's me, Einon. I'm here, My King."
+
+Вдруг кто-то закричал: "Эйнон! Эйнон! Где ты?" Услышав это, Кара быстро убежала. Сэр Боуэн подбежал к Эйнону и закричал: "Это я, Эйнон. Я здесь, мой король".
+
+Einon looked up at Bowen, and then closed his eyes. Bowen took the prince in his arms and tried to help him. But the boy didn't move. The knight could do nothing.
+
+Эйнон посмотрел на Боуэна, а затем закрыл глаза. Боуэн взял принца на руки и попытался помочь ему. Но мальчик не двигался. Рыцарь ничего не мог сделать.
+
+CHAPTER THREE
+
+ГЛАВА ТРЕТЬЯ
+
+The Great Dragon
+
+Великий дракон
+
+In the king's castle, Queen Aislinn sat in her room. She looked out of the window with sad eyes. She couldn't see the battle, but she could hear the sound of fighting. "The Old Code says it's wrong to kill the peasants," she thought. "My husband's a bad, cruel king."
+
+В королевском замке королева Айслинн сидела в своей комнате. Она смотрела в окно печальными глазами. Она не могла видеть битву, но слышала звуки боя. "В Старом кодексе сказано, что убивать крестьян нельзя", - подумала она. "Мой муж - плохой и жестокий король".
+
+Suddenly Brok, the king's knight, ran into the room. "Queen Aislinn, your husband's dead," he said. "The peasants killed him. King Freyne is dead!"
+
+Вдруг в комнату вбежал Брок, рыцарь короля. "Королева Айслинн, ваш муж мертв", - сказал он. "Крестьяне убили его. Король Фрейн мертв!"
+
+The queen listened to Brok quietly. Behind him she could see Sir Bowen. His face was tired and sad and he stood with her son, Prince Einon, in his arms.
+
+Королева молча слушала Брока. За его спиной она увидела сэра Боуэна. Его лицо было усталым и печальным, и он стоял с ее сыном, принцем Эйноном, на руках.
+
+"I'm sorry, Queen Aislinn," said Bowen, with his head down. "The prince fell too."
+
+"Мне жаль, королева Айслинн, - сказал Боуэн, опустив голову. "Принц тоже упал".
+
+"Don't be sorry, Sir Bowen," answered the queen. "They killed Einon because of his cruel father, the king. Now, put him on my bed."
+
+"Не печальтесь, сэр Боуэн, - ответила королева. "Они убили Эйнона из-за его жестокого отца, короля. Теперь положите его на мою кровать".
+
+But Einon wasn't dead. "The crown, the crown..." he said weakly. Bowen put the crown into Einon's hands. But the queen didn't listen to him. She stood next to Bowen and looked down at her son. Then she slowly took off his shirt.
+
+Но Эйнон не был мертв. "Корона, корона..." - слабо произнес он. Боуэн вложил корону в руки Эйнона. Но королева не слушала его. Она стояла рядом с Боуэном и смотрела на своего сына. Затем она медленно сняла с него рубашку.
+
+"We can't help him now," Bowen said sadly.
+
+"Мы ничем не можем ему помочь, - печально сказал Боуэн.
+
+The queen said nothing. She walked to the window and looked at a beautiful picture of a dragon on the wall. "Perhaps we can, Bowen," she answered. "Perhaps we can..."
+
+Королева ничего не сказала. Она подошла к окну и посмотрела на красивую картину с изображением дракона на стене. "Возможно, мы сможем, Боуэн", - ответила она. "Возможно, мы сможем..."
+
+Queen Aislinn rode quickly. She turned her horse and started to climb the mountain behind the castle. Brok rode in front of her and Sir Bowen followed. Behind them two men carried Einon carefully up the mountain.
+
+Королева Айслинн скакала быстро. Она повернула коня и начала взбираться на гору за замком. Брок скакал впереди нее, а сэр Боуэн следовал за ним. Позади них двое мужчин осторожно несли Эйнона в гору.
+
+After a long time, Bowen heard the sound of music - a strange, sad song. It came from somewhere inside the mountain. Then Einon made a sound and his eyes closed. Bowen got off his horse fast and ran to the young boy. "Wake up! Wake up!" he shouted. "Don't go to sleep, My King. You can't die now. Listen to me, and remember the Old Code. Bowen then spoke quietly into Einon's ear. He talked to him about the Old Code. Einon moved his mouth and tried to repeat Bowen's words. He didn't want to die on the cold mountain.
+
+Спустя долгое время Боуэн услышал звуки музыки - странную, печальную песню. Она доносилась откуда-то изнутри горы. Затем Эйнон издал какой-то звук, и его глаза закрылись. Боуэн быстро слез с коня и подбежал к юноше. "Проснись! Проснись!" - кричал он. "Не засыпай, мой король. Ты не можешь умереть сейчас. Слушай меня и помни Старый Кодекс". Затем Боуэн тихо заговорил на ухо Эйнону. Он говорил с ним о Старом Кодексе. Эйнон шевелил ртом и пытался повторить слова Боуэна. Он не хотел умирать на холодной горе.
+
+They climbed slowly up the mountain, then stopped. The queen got off her horse and turned to the men behind her.
+
+Они медленно поднимались в гору, а затем остановились. Королева слезла с лошади и повернулась к мужчинам, стоявшим позади нее.
+
+"This is the end of our journey. We're going into the mountain now."
+
+"Это конец нашего путешествия. Сейчас мы пойдем в гору".
+
+It was a cold, dark place and it looked dangerous.
+
+Это было холодное, темное место, и оно выглядело опасным.
+
+"Follow me. Don't be afraid," said the queen. She walked in and the men followed her. They couldn't see much. There was a lot of smoke, and there were dead animals on the ground near their feet. Then Bowen heard the strange song again.
+
+"Следуйте за мной. Не бойтесь", - сказала королева. Она вошла, и мужчины последовали за ней. Они мало что могли разглядеть. Было много дыма, а на земле возле их ног лежали мертвые животные. Затем Боуэн снова услышал странную песню.
+
+Suddenly, the music stopped. From out of the dark, somebody asked sadly, "Are the stars shining tonight?"
+
+Внезапно музыка прекратилась. Из темноты кто-то грустно спросил: "А звезды сегодня светят?"
+
+"No, there aren't any stars in the sky tonight," answered the queen.
+
+"Нет, сегодня на небе нет ни одной звезды", - ответила королева.
+
+"Is that Queen Aislinn, wife of King Freyne?" said the dragon.
+
+"Это королева Айслинн, жена короля Фрейна?" - спросил дракон.
+
+"Yes, Great Dragon. The people in my country love you and the other dragons. We're your friends."
+
+"Да, Великий Дракон. Люди в моей стране любят тебя и других драконов. Мы твои друзья".
+
+"No, Madam," answered the dragon. "Men and dragons were friends for thousands of years. But things are different now."
+
+"Нет, госпожа, - ответил дракон. "Люди и драконы были друзьями тысячи лет. Но теперь все изменилось".
+
+The dragon came slowly out of the dark and sat on the ground near the queen.
+
+Дракон медленно вышел из темноты и сел на землю рядом с королевой.
+
+"Bring Einon here, Bowen," said the queen.
+
+"Приведи сюда Эйнона, Боуэн, - сказала королева.
+
+The knight carried Einon in his arms and put him down on the ground. The dragon's face was high above him. It was very ugly - brown and black, with a large mouth, big teeth, and sad eyes. Bowen felt very afraid - he never took his eyes away from that face!
+
+Рыцарь поднял Эйнона на руки и опустил на землю. Над ним возвышалась морда дракона. Оно было очень уродливым - коричнево-черным, с большой пастью, огромными зубами и печальными глазами. Боуэну стало очень страшно - он не сводил глаз с этой морды!
+
+The dragon looked down at Einon. "It's King Freyne's son!" he said. "I hated the king. He loved killing dragons and peasants. What do you want from me, Queen Aislinn?"
+
+Дракон посмотрел на Эйнона. "Это сын короля Фрейна!" - сказал он. "Я ненавидел короля. Он любил убивать драконов и крестьян. Чего ты хочешь от меня, королева Айслинн?"
+
+"I want your help," answered the queen. "A peasant hurt my child in the battle. Einon's not the same as his father, Great Dragon. This knight, Sir Bowen, is teaching him the Old Code. And I'm going to teach him about dragons in the future. Please help him."
+
+"Мне нужна ваша помощь", - ответила королева. "Крестьянин ранил моего ребенка в битве. Эйнон уже не тот, что его отец, Великий Дракон. Этот рыцарь, сэр Боуэн, учит его Старому кодексу. А я собираюсь в будущем учить его драконам. Пожалуйста, помогите ему".
+
+"You're asking a lot, Madam. Your son's very ill," said the dragon.
+
+"Вы очень многого просите, госпожа. Ваш сын очень болен", - сказал дракон.
+
+"I know," cried the queen. "But he's king now. He'll be a good king. Sir Bowen and I will help him. He won't be cruel, Great Dragon."
+
+"Я знаю", - воскликнула королева. "Но теперь он король. Он будет хорошим королем. Мы с сэром Боуэном поможем ему. Он не будет жестоким, Великий Дракон".
+
+"He has to say that, not you," answered the dragon. Then he looked at Bowen. "Give me your sword, Knight."
+
+"Это он должен сказать, а не ты", - ответил дракон. Затем он посмотрел на Боуэна. "Дай мне свой меч, рыцарь".
+
+Bowen pulled out his sword and gave it to the dragon. The dragon stood over Einon, with the sword in his hands. The boy opened his eyes. He saw the dragon, and tried to move away.
+
+Боуэн вытащил свой меч и протянул его дракону. Дракон стоял над Эйноном с мечом в руках. Мальчик открыл глаза. Он увидел дракона и попытался отодвинуться.
+
+"Don't be afraid, son," said the queen quietly. "The Great Dragon's going to help you."
+
+"Не бойся, сынок, - тихо сказала королева. "Великий дракон поможет тебе".
+
+"I will help you, boy. But first you have to say these words: "I won't be a cruel king. I won't kill dragons and peasants. I'll love my people and be kind to them. I'll always live by the Old Code." Now, are you ready? Repeat them after me!
+
+"Я помогу тебе, мальчик. Но сначала ты должен произнести эти слова: "Я не буду жестоким королем. Я не буду убивать драконов и крестьян. Я буду любить свой народ и буду добр к нему. Я всегда буду жить по Старому кодексу". Ну что, вы готовы? Повторяйте за мной!
+
+Einon was very tired, but he repeated the dragon's words. Then he fell back into Bowen's arms.
+
+Эйнон очень устал, но он повторял слова дракона. Затем он снова упал в объятия Боуэна.
+
+"Einon, Einon!" shouted Bowen. "No, no! He's dead!"
+
+"Эйнон, Эйнон!" - кричал Боуэн. "Нет, нет! Он мертв!"
+
+Bowen was very angry and tried to pull his sword away from the dragon. But the dragon shouted, "Knight of the Old Code. Stop! Watch me! Now!"
+
+Боуэн был очень зол и попытался отнять меч у дракона. Но дракон закричал: "Рыцарь старого кодекса! Стой! Смотри на меня! Сейчас же!"
+
+Then he pushed Bowen's sword into his heart! A red light came out of the dragon. He caught the light in his hands and turned to Einon.
+
+Затем он вонзил меч Боуэна в его сердце! Из дракона вырвался красный свет. Он поймал свет в свои руки и повернулся к Эйнону.
+
+"This light's half my heart, boy. I'm giving it to you. It'll make you strong. Enjoy a long life and always remember the words of the Old Code."
+
+"Этот свет - половина моего сердца, мальчик. Я отдаю его тебе. Он сделает тебя сильным. Наслаждайся долгой жизнью и всегда помни слова Старого кодекса".
+
+Einon's eyes slowly opened. He felt weak, but he wasn't dead. Bowen looked at the boy, then he looked up at the dragon. "I'm sorry, Great Dragon. I was angry and afraid. Thank you."
+
+Глаза Эйнона медленно открылись. Он чувствовал слабость, но не был мертв. Боуэн посмотрел на мальчика, затем поднял глаза на дракона. "Прости меня, Великий Дракон. Я был зол и напуган. Спасибо тебе".
+
+"You can help Einon now, Sir Bowen. Teach him the Old Code well. Never forget my words."
+
+"Ты можешь помочь Эйнону сейчас, сэр Боуэн. Хорошо обучите его Старому Кодексу. Никогда не забывай моих слов".
+
+Before Bowen could answer, the dragon went back into the mountain. Everything was dark and cold again. Nobody spoke they listened to the sound of the strange, sad music.
+
+Прежде чем Боуэн успел ответить, дракон вернулся в гору. Все вокруг снова стало темным и холодным. Никто не разговаривал, прислушиваясь к звукам странной печальной музыки.
+
+CHAPTER FOUR
+
+ГЛАВА ЧЕТВЕРТАЯ
+
+Cruel King Einon
+
+Жестокий король Эйнон
+
+Einon sat on his horse, high above the peasants. He looked strong and happy with his father's crown on his head and his sword in his hand.
+
+Эйнон сидел на своем коне, возвышаясь над крестьянами. Он выглядел сильным и счастливым с отцовской короной на голове и мечом в руке.
+
+"I'm king now," he thought. "I love watching my peasants. They're building me a wonderful new castle. It's going to be bigger and better than my father's old castle. It's going to be the greatest castle in the world!"
+
+"Теперь я король", - подумал он. "Мне нравится наблюдать за своими крестьянами. Они строят для меня новый замечательный замок. Он будет больше и лучше, чем старый замок моего отца. Это будет самый лучший замок в мире!"
+
+King Einon was as hard and cruel as his father now. He never remembered the words of the Old Code, or the Great Dragon in the mountain. He hated the peasants, and they had to work harder and harder every day.
+
+Король Эйнон был таким же суровым и жестоким, как и его отец. Он не помнил ни слов Старого кодекса, ни Великого Дракона в горе. Он ненавидел крестьян, и с каждым днем им приходилось работать все тяжелее и тяжелее.
+
+Brok, old King Freyne's knight, rode past Einon on his horse. Behind Brok, some peasants walked slowly up to the castle. They looked weak and ill. They didn't look up at the king when they walked past. But Einon looked down at them and suddenly shouted loudly, "Stop, Brok! Stop!"
+
+Брок, старый рыцарь короля Фрейна, проехал мимо Эйнона на своем коне. Позади Брока к замку медленно подходили несколько крестьян. Они выглядели слабыми и больными. Проходя мимо, они не поднимали глаз на короля. Но Эйнон посмотрел на них сверху вниз и вдруг громко закричал: "Стой, Брок! Стой!"
+
+Brok quickly jumped down from his horse.
+
+Брок быстро спрыгнул с лошади.
+
+"Look, Brok! There! That peasant there! That's Redbeard! He killed my father!"
+
+"Смотри, Брок! Вон там! Вон тот крестьянин! Это Рыжая Борода! Он убил моего отца!"
+
+Einon and Brok looked at the tall, strong peasant with the red hair and red beard. Redbeard looked back at them with hate in his eyes.
+
+Эйнон и Брок посмотрели на высокого, сильного крестьянина с рыжими волосами и рыжей бородой. Рыжебородый смотрел на них с ненавистью в глазах.
+
+"Yes, I killed your father, boy!" he shouted at Einon. "You can thank me now. Now you're king and the crown's on your head."
+
+"Да, я убил твоего отца, мальчик!" - крикнул он Эйнону. "Теперь ты можешь поблагодарить меня. Теперь ты король, и корона на твоей голове".
+
+Brok ran to Redbeard and put his sword up near his face.
+
+Брок подбежал к Рыжей Бороде и поднес свой меч к его лицу.
+
+"No!" Einon shouted. "Don't kill him. That's too kind." He smiled cruelly at Redbeard. "Look at me, dog! Look carefully. You can see me now, but you'll never see me or anything again. Get some wood from the fire, Brok. Burn out his eyes!"
+
+"Нет!" крикнул Эйнон. "Не убивай его. Это слишком мило". Он жестоко улыбнулся Рыжебородому. "Посмотри на меня, пес! Смотри внимательно. Сейчас ты меня видишь, но больше никогда не увидишь ни меня, ни чего-либо другого. Принеси дров из костра, Брок. Выжги ему глаза!"
+
+Brok got some wood from a hot fire. Redbeard watched him angrily but he wasn't afraid. Brok put the burning wood near Redbeard's eyes, then he suddenly stopped. He felt a sword on his arm, and the wood fell from his hands to the ground. He looked up quickly and saw Sir Bowen. Bowen called to the peasants, "Run away! Quickly! Run!" The peasants understood. They ran away from King Einon and his castle as fast as they could.
+
+Брок набрал дров в жаркий костер. Рыжебородый злобно наблюдал за ним, но не боялся. Брок поднес горящие дрова к глазам Рыжебородого, но вдруг остановился. Он почувствовал на своей руке меч, и дрова выпали из его рук на землю. Он быстро поднял голову и увидел сэра Боуэна. Боуэн обратился к крестьянам: "Бегите! Быстрее! Бегите!" Крестьяне поняли. Они побежали прочь от короля Эйнона и его замка так быстро, как только могли.
+
+Kara, Redbeard's beautiful daughter, ran to her father. "Father! Father! Are you all right?" she cried.
+
+Кара, прекрасная дочь Рыжебородого, подбежала к отцу. "Отец! Отец! С тобой все в порядке?" - кричала она.
+
+"Kara! Quickly!" shouted Redbeard. "Let's go. Run!" And Redbeard and Kara followed the other peasants.
+
+"Кара! Быстрее!" - крикнул Рыжебородый. "Пошли. Бежим!" И Рыжая Борода с Карой последовали за остальными крестьянами.
+
+King Einon was very angry with Bowen. He jumped down from his horse and pulled out his sword. "What are you doing, Bowen?" he shouted angrily. "Those are my peasants, not yours! Who's king in this country? Me! Not you!"
+
+Король Эйнон был очень зол на Боуэна. Он спрыгнул с коня и выхватил меч. "Что ты делаешь, Боуэн?" - гневно крикнул он. "Это мои крестьяне, а не твои! Кто король в этой стране? Я! А не ты!"
+
+Bowen got off his horse and pulled out his sword too. They started to fight, but after a few minutes, Einon fell to the ground. Bowen stood over the boy and looked down at him.
+
+Боуэн слез с лошади и тоже вытащил меч. Они начали сражаться, но через несколько минут Эйнон упал на землю. Боуэн встал над мальчиком и посмотрел на него сверху вниз.
+
+"Einon," he said, "don't do this. What's wrong with you? Are you ill? Remember the Old Code, Einon. Remember my words and the words of the Great Dragon."
+
+"Эйнон, - сказал он, - не делай этого. Что с тобой? Ты болен? Вспомни Старый Кодекс, Эйнон. Помни мои слова и слова Великого Дракона".
+
+"I'm king now," Einon shouted back. "Kings don't have to live by the Old Code!"
+
+"Теперь я король", - крикнул в ответ Эйнон. "Короли не обязаны жить по Старому кодексу!"
+
+Bowen couldn't understand Einon. He took him by the arm and cried, "I taught you the Old Code, boy. I taught you everything. Never forget that. What's wrong with you?"
+
+Боуэн не мог понять Эйнона. Он взял его за руку и воскликнул: "Я научил тебя Старому Кодексу, мальчик. Я научил тебя всему. Никогда не забывай об этом. Что с тобой?"
+
+But Einon didn't listen. He pulled his arm away and started to fight Bowen again. Again, he fell to the ground. Bowen looked down at him sadly. "Fight with your head, boy!" he said. "Don't fight with your heart!"
+
+Но Эйнон не слушал. Он отдернул руку и снова начал бороться с Боуэном. И снова он упал на землю. Боуэн печально посмотрел на него. "Борись головой, мальчик!" - сказал он. "Не сражайся сердцем!"
+
+His heart! His heart! Bowen thought about the dragon's words in the mountain: "This light's half my heart, boy. I'm giving it to you." Why was Einon as cruel as his father now? Was it because he had a dragon's heart, not a man's heart? Bowen threw his sword down on the ground next to Einon. He sat down near him on the ground and looked into his eyes.
+
+Его сердце! Его сердце! Боуэн вспомнил слова дракона в горе: "Этот свет - половина моего сердца, мальчик. Я отдаю его тебе". Почему же теперь Эйнон был так жесток, как его отец? Потому ли, что у него было сердце дракона, а не человека? Боуэн бросил меч на землю рядом с Эйноном. Он сел рядом с ним на землю и заглянул ему в глаза.
+
+"Everybody has to live by the Old Code, Einon. Kings, knights and peasants - everybody in the country. Why can't you understand that?"
+
+"Все должны жить по Старому Кодексу, Эйнон. Короли, рыцари, крестьяне - все в стране. Почему ты не можешь этого понять?"
+
+Then he slowly stood up. He got on his horse, and rode away.
+
+Затем он медленно встал. Он сел на лошадь и ускакал.
+
+Brok wanted to ride after Bowen, but King Einon said, "Let: him go, Brok. He's an old man. He doesn't understand. I don't want him to help me now. I'm a king, not a child. Go and find Redbeard. And when you find him, burn out the stupid peasant's eyes!"
+
+Брок хотел поскакать за Боуэном, но король Эйнон сказал: "Отпусти его, Брок. Он старый человек. Он ничего не понимает. Я не хочу, чтобы он помогал мне сейчас. Я король, а не ребенок. Иди и найди Рыжую Бороду. А когда найдешь его, выжги глаза этому глупому крестьянину!"
+
+Brok rode away fast and looked for Redbeard. When he found him, he burnt out his eyes, slowly and cruelly. The peasant could never see Kara, his beautiful daughter, again.
+
+Брок быстро ускакал и стал искать Рыжую Бороду. Когда он нашел его, то медленно и жестоко выжег ему глаза. Крестьянин больше никогда не смог увидеть Кару, свою прекрасную дочь.
+
+Bowen slowly rode away from Einon with a heavy heart. He thought hard about the boy and the dragon. "Einon isn't a cruel boy. But he's got half the dragon's heart. That's the problem. It's the dragons heart. So now, he's as bad as his father. I'm going to find that dragon... and kill him!"
+
+Боуэн медленно поскакал прочь от Эйнона с тяжелым сердцем. Он крепко задумался о мальчике и драконе. "Эйнон не жестокий мальчик. Но у него половина сердца дракона. В этом-то и проблема. Это сердце дракона. Так что теперь он такой же плохой, как и его отец. Я найду этого дракона... и убью его!"
+
+The knight rode quickly back to Queen Aislinn's castle. Then he started on his long journey to find the dragon.
+
+Рыцарь быстро поскакал обратно в замок королевы Айслинн. Затем он отправился в долгий путь на поиски дракона.
+
+After many days, he arrived at the dragon's cold, dark home in, the mountain. But this time the dragon wasn't there.
+
+Через много дней он пришел к холодному и мрачному жилищу дракона в горах. Но на этот раз дракона там не было.
+
+Bowen shouted loudly, "Dragon! Can you hear me? Where are you, Dragon? Why did you do it? Why did you give my King half your cruel heart? I'll never stop looking for you, Dragon. And when I find you..."
+
+Боуэн громко крикнул: "Дракон! Ты меня слышишь? Где ты, Дракон? Зачем ты это сделал? Зачем ты отдал моему королю половину своего жестокого сердца? Я никогда не перестану искать тебя, Дракон. И когда я найду тебя..."
+
+Bowen stopped shouting. He stood in the dark and listened. Outside, from somewhere above him, he could hear the dragon's strange song. He quickly jumped on his horse and rode away. He wanted to find the music... and the dragon.
+
+Боуэн перестал кричать. Он стоял в темноте и прислушивался. Снаружи, откуда-то сверху, до него доносилась странная песня дракона. Он быстро вскочил на лошадь и поскакал прочь. Он хотел найти музыку... и дракона.
+
+CHAPTER FIVE
+
+ГЛАВА ПЯТАЯ
+
+Sir Bowen and the Dragon
+
+Сэр Боуэн и дракон
+
+Sir Bowen rode up the mountain all day and all night. Early the next morning he saw an old man on the road in front of him.
+
+Сэр Боуэн скакал в гору весь день и всю ночь. Рано утром следующего дня он увидел на дороге перед собой старика.
+
+"Who's this?" he thought. Who's he talking to? And why is he riding a horse and writing at the same time?"
+
+"Кто это?" - подумал он. С кем он разговаривает? И почему он скачет на лошади и одновременно пишет?"
+
+"Old man!" he shouted. "Be careful! Look at the road, not at your books. Now please, move out of my way."
+
+"Старик!" - крикнул он. "Будь осторожен! Смотри на дорогу, а не на свои книги. А теперь, пожалуйста, уйди с дороги".
+
+The old man turned round and saw Bowen. Then suddenly his face went white. He looked very afraid. "No! Help! There's a dra... dra... drag..."
+
+Старик обернулся и увидел Боуэна. И вдруг его лицо побелело. Он выглядел очень испуганным. "Нет! Помогите! Там дра... дра... дра... дра..."
+
+"What is it?" asked Bowen. "What's wrong?"
+
+"В чем дело?" - спросил Боуэн. "Что случилось?"
+
+"Be... be... behind you," answered the old man. "Look behind you!"
+
+"Будь... будь... позади тебя", - ответил старик. "Оглянись!"
+
+Bowen turned round quickly. Behind him, there was a big, ugly dragon in the sky! The knight pulled out his sword and they began to fight. This dragon wasn't as big or strong as the Great Dragon in the mountain. In minutes, it fell to the ground with Bowen's sword in its heart. Then everything went very quiet.
+
+Боуэн быстро обернулся. Позади него в небе стоял огромный, уродливый дракон! Рыцарь выхватил меч, и они начали сражаться. Этот дракон был не так велик и силен, как Великий дракон в горе. Через несколько минут он упал на землю с мечом Боуэна в сердце. Затем все стало очень тихо.
+
+The old man spoke first. "Oh, thank you, thank you, Knight! That dragon looked very dangerous. We nearly died! I'd like to thank you a thousand times!"
+
+Старик заговорил первым. "О, спасибо, спасибо, рыцарь! Этот дракон выглядел очень опасным. Мы чуть не погибли! Я хотел бы поблагодарить вас тысячу раз!"
+
+"All right, all right, it's dead now," answered Bowen. "Old man, what's your name? And what are you doing here?"
+
+"Все в порядке, все в порядке, теперь он мертв", - ответил Боуэн. "Старик, как тебя зовут? И что ты здесь делаешь?"
+
+"My name's Brother Gilbert, and I'm a monk. I ride on my horse round the country and try to help people. And I write stories about my journeys. I write about kings and knights, about dragons and the Old Code."
+
+"Меня зовут брат Гилберт, и я монах. Я езжу на своей лошади по стране и стараюсь помогать людям. И я пишу истории о своих путешествиях. Я пишу о королях и рыцарях, о драконах и Старом кодексе".
+
+"Well, I'm on a long journey too, Brother. So I'll say goodbye now," answered Bowen.
+
+"Что ж, брат, я тоже отправляюсь в дальний путь. Так что я прощаюсь с тобой", - ответил Боуэн.
+
+"Will you ride with me, Knight? asked Brother Gilbert.
+
+"Поедешь со мной, рыцарь? спросил брат Гилберт.
+
+"Yes, I'd like to ride with you, Brother. We can talk. Let's go."
+
+"Да, я хотел бы поехать с тобой, брат. Мы можем поговорить. Поехали."
+
+And the two men went slowly up the mountain.
+
+И двое мужчин медленно пошли в гору.
+
+When it was dark, they stopped for the night. They were hungry and thirsty, and they cooked some meat on a hot fire. Then the monk read one of his stories to Bowen. It was a story about the Old Code.
+
+Когда стемнело, они остановились на ночлег. Им хотелось есть и пить, и они приготовили немного мяса на жарком огне. Затем монах прочитал Боуэну одну из своих историй. Это была история о Старом Кодексе.
+
+"What do you think, Sir Bowen? Did you like it?" asked Brother Gilbert at the end.
+
+"Что вы думаете, сэр Боуэн? Вам понравилось?" - спросил брат Гилберт в конце.
+
+"I liked the meat, Brother, but not your story. The Old Code's dead," said Bowen sadly. "Nobody lives by the Old Code now."
+
+"Мне понравилось мясо, брат, но не твоя история. Старый кодекс мертв, - печально сказал Боуэн. "Теперь никто не живет по Старому кодексу".
+
+"Ride with me, good Knight, and find the Old Code again," answered Brother Gilbert.
+
+"Поезжай со мной, добрый рыцарь, и найди снова Старый Кодекс", - ответил брат Гилберт.
+
+"I'll ride with you, Brother. But I'm not going to look for the Old Code. I'm looking for a dragon. And when I find it, I'm going to kill it!"
+
+"Я поеду с тобой, брат. Но я не собираюсь искать Старый Кодекс. Я ищу дракона. И когда я его найду, я его убью!"
+
+The next morning Bowen and Brother Gilbert climbed on their horses again. They talked and laughed. The monk told Bowen more stories. After some time, Gilbert got off his horse and sat down on the ground. He started to write a story about Bowen and the dragon. Suddenly the ground round the monk began to move and his pen fell out of his fingers. Then his papers flew everywhere.
+
+На следующее утро Боуэн и брат Гилберт снова сели на лошадей. Они разговаривали и смеялись. Монах рассказывал Боуэну новые истории. Через некоторое время Гилберт слез с лошади и сел на землю. Он начал писать историю о Боуэне и драконе. Вдруг земля вокруг монаха зашевелилась, и перо выпало из его пальцев. Затем его бумаги разлетелись повсюду.
+
+"Help! Help! What's happening?" he shouted.
+
+"Помогите! Помогите! Что происходит?" - кричал он.
+
+Bowen turned round on his horse and saw the monk with his papers on the ground. Then, in the river behind him, he saw a dragon! He rode quickly down to the river. When he got there, he heard the dragon's strange song again.
+
+Боуэн обернулся на своей лошади и увидел монаха с его бумагами на земле. Затем в реке позади него он увидел дракона! Он быстро поскакал к реке. Когда он добрался до реки, то снова услышал странную песню дракона.
+
+"Don't come into this river, Knight, or you'll die!" the dragon said.
+
+"Не входи в эту реку, рыцарь, иначе ты умрешь!" - сказал дракон.
+
+"I'm not afraid of you," shouted Bowen.
+
+"Я не боюсь тебя, - крикнул Боуэн.
+
+"Aren't you?" shouted the dragon. "Then look at this!"
+
+"Не так ли?" - крикнул дракон. "Тогда посмотрите на это!"
+
+Out of the river, the dragon threw a dead man and his horse.
+
+Из реки дракон выбросил мертвеца и его лошадь.
+
+"That man tried to follow me into the river! Look at him now! And there are more down here!"
+
+"Этот человек пытался зайти за мной в реку! Посмотрите на него! А здесь внизу их еще больше!"
+
+Brother Gilbert stood behind Bowen. He was very afraid. But the knight got off his horse and pulled out his sword. "Come and fight me, Dragon," he shouted. "You can't hurt me."
+
+Брат Гилберт стоял позади Боуэна. Он был очень напуган. Но рыцарь слез с коня и выхватил меч. "Сразись со мной, дракон", - крикнул он. "Ты не сможешь причинить мне вреда".
+
+The dragon carne slowly out of the river and went behind a tree. Bowen could feel the hot fire from the dragon's nose, but he couldn't see him very well. On the ground, round the tree, were dead men and horses.
+
+Дракон медленно выплыл из реки и скрылся за деревом. Боуэн чувствовал жаркий огонь из носа дракона, но не мог его хорошо разглядеть. На земле, вокруг дерева, лежали мертвые люди и лошади.
+
+Bowen moved nearer the tree. He felt afraid, but he didn't want the dragon to know. "Why is all that fire coming out of your nose, Dragon? It's too wet in the river to start a fire, you know!" he laughed.
+
+Боуэн приблизился к дереву. Ему было страшно, но он не хотел, чтобы дракон об этом узнал. "Почему у тебя из носа вырывается огонь, дракон? В реке слишком сыро, чтобы разжигать костер, знаешь ли!" - рассмеялся он.
+
+"Why do you knights always want to fight and kill us? Do you think it'll make you famous?" the dragon asked.
+
+"Почему вы, рыцари, всегда хотите сражаться и убивать нас? Думаете, это сделает вас знаменитыми?" - спросил дракон.
+
+"I don't want to be famous," answered Bowen, with his sword in his hand. "But I want to be rich. These days people pay me for dead dragons. And I'm going to kill you."
+
+"Я не хочу быть знаменитым", - ответил Боуэн, держа в руке меч. "Но я хочу быть богатым. В наши дни люди платят мне за мертвых драконов. И я собираюсь убить тебя".
+
+"Oh, you kill dragons for money! You're that knight!" said the dragon.
+
+"О, ты убиваешь драконов за деньги! Ты - тот самый рыцарь!" - сказал дракон.
+
+"Well, I have to live," answered Bowen.
+
+"Что ж, мне нужно жить, - ответил Боуэн.
+
+"Yes, everybody has to live," laughed the dragon. "Let's start the battle then."
+
+"Да, все должны жить", - рассмеялся дракон. "Тогда давайте начнем битву".
+
+"Yes, let's," shouted Bowen. "I'll enjoy killing you!"
+
+"Да, давайте", - крикнул Боуэн. "Мне будет приятно убить тебя!"
+
+Bowen moved nearer. The dragon watched him and then he saw the knight's sword. "I know that sword," he thought. "I used it in the mountain to cut out half my heart for King Einon." He suddenly left the ground and flew up into the sky. He flew higher and higher, above Sir Bowen and Brother Gilbert.
+
+Боуэн подошел ближе. Дракон наблюдал за ним, а потом увидел меч рыцаря. "Я знаю этот меч", - подумал он. "Я использовал его в горе, чтобы вырезать половину своего сердца для короля Эйнона". Внезапно он оторвался от земли и взлетел в небо. Он летел все выше и выше, выше сэра Боуэна и брата Гилберта.
+
+The knight quickly climbed on to his horse and rode after the dragon. Bowen followed him for a long time but in the end, he got down from his horse, tired and angry. Then the dragon flew down from the sky.
+
+Рыцарь быстро взобрался на своего коня и поскакал за драконом. Боуэн долго ехал за ним, но в конце концов спустился с коня, усталый и злой. Тогда дракон полетел вниз с неба.
+
+"You're clever," shouted Bowen. "Cleverer than the other dragons. Come here! I want a good fight."
+
+"Ты умный, - крикнул Боуэн. "Умнее других драконов. Иди сюда! Я хочу хорошей драки".
+
+"Well, it'll be your last," said the dragon.
+
+"Что ж, это будет твой последний раз", - сказал дракон.
+
+They started to fight. The dragon hit Bowen hard and he fell back into a tree. He got up quickly and shouted, "You won't win, you know. I'm going to kill all dragons."
+
+Они начали сражаться. Дракон сильно ударил Боуэна, и тот упал на дерево. Он быстро поднялся и закричал: "Тебе не победить, ты знаешь. Я собираюсь убить всех драконов".
+
+"There's only me, Knight. I'm the last dragon."
+
+"Есть только я, рыцарь. Я - последний дракон".
+
+Bowen didn't know that this was the last dragon in the country. When he heard this, he stopped fighting for a minute. The dragon watched him and came nearer. He pushed Bowen hard and the knight fell over. Bowen could feel the fire from the dragon's nose. It burnt his face. He heard Brother Gilbert shout.
+
+Боуэн не знал, что это последний дракон в стране. Услышав это, он на минуту прекратил борьбу. Дракон наблюдал за ним и приближался. Он сильно толкнул Боуэна, и рыцарь упал. Боуэн почувствовал огонь из носа дракона. Он обжег ему лицо. Он услышал крик брата Гилберта.
+
+Then everything went black...
+
+Потом все стало черным...
+
+When Bowen woke up, he was inside the dragon's mouth. He pulled out his sword and shouted, "Don't bring your teeth down, Dragon. Or my sword will go up." Nothing happened.
+
+Когда Боуэн очнулся, он находился в пасти дракона. Он вытащил меч и закричал: "Не опускай зубы, дракон. Или мой меч поднимется вверх". Но ничего не произошло.
+
+Bowen sat in the dragon's mouth all day. Outside, Brother Gilbert watched and waited. In the evening, the dragon tried to speak, but it was difficult with Bowen in his mouth!
+
+Боуэн просидел в пасти дракона весь день. Снаружи брат Гилберт наблюдал и ждал. Вечером дракон попытался заговорить, но с Боуэном во рту это было трудно!
+
+"Don't put your sword ufp. Or ma teef come down," he said.
+
+"Не поднимай меч. Иначе я упаду", - сказал он.
+
+Bowen looked round the dragon's mouth. He saw an old shirt between two of the dragon's teeth. He pulled it out and a man's hand came out with it. "Oh, that's Sir Eglamore's shirt!" he cried, and threw it away.
+
+Боуэн оглядел пасть дракона. Между двумя зубами дракона он увидел старую рубашку. Он вытащил ее, и из пасти показалась мужская рука. "О, это рубашка сэра Эгламора!" - воскликнул он и отбросил ее.
+
+"Thannffs!" said the dragon. That's been ufp dere fa monffs! Now get your sword off ma teef."
+
+"Таннффс!" - сказал дракон. Это было уже давно! А теперь убери свой меч от моего голенища".
+
+"Oh be quiet! It's hard for me too, you know," answered Bowen.
+
+"О, помолчите! Мне тоже тяжело, знаете ли, - ответил Боуэн.
+
+The conversation was very boring and difficult for the dragon. "Oh, ma mouf if dry," said the dragon after a short time. "Listen, get out aff ma mouf and led's talk face to face."
+
+Разговор был очень скучным и тяжелым для дракона. "О, ма муф, если он сухой", - сказал дракон через некоторое время. "Слушай, вылезай из ма муф и давай поговорим с глазу на глаз".
+
+Bowen got up slowly and the dragon opened his mouth. The knight stood between his big, dirty teeth. With his sword in his hands, he looked up at the dragon - he felt very afraid. Then he suddenly fell on to the ground outside with his sword next to him. "Kill me, then!" he shouted up to the dragon.
+
+Боуэн медленно поднялся, и дракон открыл пасть. Рыцарь стоял между его огромными грязными зубами. С мечом в руках он смотрел на дракона - ему было очень страшно. Затем он внезапно упал на землю рядом с мечом. "Убей меня!" - крикнул он дракону.
+
+"I don't want to kill you," said the dragon quietly. "And I don't want you to kill me. I'm old and tired and I don't want to fight. I've got an idea. Listen."
+
+"Я не хочу тебя убивать", - тихо сказал дракон. "А я не хочу, чтобы ты убивал меня. Я стар и устал и не хочу сражаться. У меня есть идея. Послушай."
+
+Bowen was tired and hungry. He wanted to eat and sleep. He looked up at the dragon and said weakly, "So tell me. What's your idea?"
+
+Боуэн устал и был голоден. Ему хотелось есть и спать. Он поднял глаза на дракона и слабо сказал: "Расскажи мне. Что ты задумал?"
+
+CHAPTER SIX
+
+ГЛАВА ШЕСТАЯ
+
+The Dragon's Idea
+
+Идея дракона
+
+The dragon began to tell Bowen his clever idea.
+
+Дракон начал рассказывать Боуэну о своей умной идее.
+
+At the same time, down below them, the peasants worked hard in Sir Felton's fields. Sir Felton was one of King Einon's rich knights.
+
+В то же время внизу, под ними, крестьяне усердно трудились на полях сэра Фелтона. Сэр Фелтон был одним из богатых рыцарей короля Эйнона.
+
+One of the boys suddenly stopped his work and looked up at the sky. "Father, father!" he cried. Look! Up there!" The peasants looked at the boy. Then they looked up at the sky. There, above them, was the dragon!
+
+Один из мальчиков вдруг прекратил свою работу и посмотрел на небо. "Отец, отец!" - закричал он. Смотрите! Там, наверху!" Крестьяне посмотрели на мальчика. Затем они посмотрели на небо. Там, над ними, сидел дракон!
+
+"Help! He's coming down!" they shouted. "Look at that fire! It coming out of his nose! It's going to burn us! Run! Fast!"
+
+"Помогите! Он спускается!" - кричали они. "Посмотрите на этот огонь! Он вырывается из его носа! Он сожжет нас! Бежим! Быстро!"
+
+The dragon flew down to the ground. He started to burn down Sir Felton's fields and buildings - there was fire and smoke everywhere. Sir Felton heard the peasants and quickly ran out of his house. But before he could say a word, somebody behind him said, "Look at that! Those dragons! Can I help?"
+
+Дракон слетел на землю. Он начал сжигать поля и постройки сэра Фелтона - повсюду был огонь и дым. Сэр Фелтон услышал крестьян и быстро выбежал из своего дома. Но не успел он произнести ни слова, как кто-то позади него сказал: "Посмотрите-ка! Эти драконы! Чем могу помочь?"
+
+Sir Felton was very, very angry. He looked round and saw Sir Bowen with a smile on his face. "Stupid dragon!" he shouted. "Look! My fields! And my buildings! They're burning!"
+
+Сэр Фелтон был очень, очень зол. Оглянувшись, он увидел сэра Боуэна с улыбкой на лице. "Глупый дракон!" - закричал он. "Смотрите! Мои поля! И мои здания! Они горят!"
+
+"Well, I can help you," answered Bowen. "But you'll have to pay me - it'll cost a lot of money."
+
+"Что ж, я могу вам помочь", - ответил Боуэн. "Но вам придется заплатить мне - это будет стоить много денег".
+
+"I won't pay you anything," shouted back Sir Felton. "Do you hear me?"
+
+"Я вам ничего не заплачу", - крикнул в ответ сэр Фелтон. "Вы меня слышите?"
+
+He turned and started to go back into his house. But the house use was also on fire. "No, no! Not my house too! Don't burn beautiful house! Help!" Sir Felton cried. And he ran back to Bowen fast. "Here. Take this money. Quickly. Do something."
+
+Он повернулся и начал возвращаться в свой дом. Но дом тоже горел. "Нет, нет! Только не мой дом! Не сжигайте красивый дом! Помогите!" закричал сэр Фелтон. И он быстро побежал обратно к Боуэну. "Вот. Возьми эти деньги. Быстрее. Сделай что-нибудь".
+
+Minutes later, Bowen and the peasants were ready. When the dragon flew over them, they started to throw things at him. This was the dragon's wonderful idea! He cried, "Oh... oh... oh!" Then he slowly fell down from the sky and into a river near Sir Felton's house.
+
+Через несколько минут Боуэн и крестьяне были готовы. Когда дракон пролетел над ними, они начали бросать в него вещи. Это была замечательная идея дракона! Он закричал: "О... о... о... о!" Затем он медленно опустился с неба и упал в реку рядом с домом сэра Фелтона.
+
+"He's dying! He's dying!" shouted the peasants. Look, he's in the river!" They all laughed happily, but Sir Felton looked very angry.
+
+"Он умирает! Он умирает!" - кричали крестьяне. Смотрите, он в реке!" Все радостно смеялись, но сэр Фелтон выглядел очень сердитым.
+
+"Get my money back," he shouted at them. "Run after that knight. He's got my money." The peasants ran after Sir Bowen as fast as they could.
+
+"Верните мои деньги", - крикнул он им. "Бегите за этим рыцарем. У него мои деньги". Крестьяне побежали за сэром Боуэном так быстро, как только могли.
+
+Bowen didn't wait. He quickly jumped on to his horse near the river and rode away. With Sir Felton's money in his hand, he laughed loudly. We did it! It was easy! Clever dragon!" He looked down at the money. "Now let's see. How much have we got?"
+
+Боуэн не стал ждать. Он быстро вскочил на своего коня у реки и ускакал. С деньгами сэра Фелтона в руке он громко смеялся. Мы сделали это! Это было легко! Хитрый дракон!" Он посмотрел на деньги. "Теперь посмотрим. Сколько у нас есть?"
+
+A long way down the river, the dragon's head came up out of the water. He swam round and round and waited for Sir Bowen. When the knight saw him, he called, "Well, Dragon, your idea was wonderful! They think you're dead. And we made a lot of money."
+
+Далеко внизу по реке из воды показалась голова дракона. Он плавал туда-сюда и ждал сэра Боуэна. Когда рыцарь увидел его, он позвал: "Ну что, дракон, твоя идея была замечательной! Они думают, что ты умер. И мы заработали кучу денег".
+
+"There's a lot of money in the world, Knight," answered the dragon sadly. "You'll find it all, and then you won't want me."
+
+"В мире много денег, рыцарь, - печально ответил дракон. "Ты найдешь их все, и тогда я стану тебе не нужен".
+
+"No, Dragon," answered Bowen. "I'm a Knight of the Old Code. I'll never forget you."
+
+"Нет, Дракон, - ответил Боуэн. "Я рыцарь Старого кодекса. Я никогда не забуду тебя".
+
+The dragon swam round in the river. He looked up at the night on his horse. "You've got Sir Felton's money. But do you feel bad now?" he asked. "You didn't really kill me."
+
+Дракон плавал по реке. Он смотрел в ночь на своего коня. "Ты получил деньги сэра Фелтона. Но теперь ты чувствуешь себя плохо?" - спросил он. "Ты ведь не убил меня на самом деле".
+
+Bowen looked down at the dragon. "No, I don't feel bad. Sir Felton doesn't live by the Old Code - he's cruel to the peasants."
+
+Боуэн посмотрел вниз на дракона. "Нет, я не чувствую себя плохо. Сэр Фелтон не живет по Старому кодексу - он жесток с крестьянами".
+
+"Yes, but when you took his money, he was angry. And he'll be angry with the peasants now. They'll have to work harder and harder. And he won't pay them a penny," answered the dragon.
+
+"Да, но когда вы забрали его деньги, он был зол. И теперь он будет злиться на крестьян. Им придется работать все больше и больше. А он не заплатит им ни копейки", - ответил дракон.
+
+"That's not my problem," shouted Bowen. "You don't understand the Old Code. You're only a dragon!"
+
+"Это не моя проблема", - крикнул Боуэн. "Ты не понимаешь Старый Кодекс. Ты всего лишь дракон!"
+
+"All right, don't be angry, Knight," said the dragon quietly. "I do know about the Old Code. And I know you tried to live by it."
+
+"Ладно, не сердись, рыцарь, - тихо сказал дракон. "Я знаю о Старом кодексе. И я знаю, что ты пытался жить в соответствии с ним".
+
+"Yes, but nobody wanted to listen to me. So now I'm not going to try," answered Bowen sadly. "I can't change the world, Dragon."
+
+"Да, но никто не хотел меня слушать. Так что теперь я и не собираюсь пытаться", - грустно ответил Боуэн. "Я не могу изменить мир, Дракон".
+
+The dragon's eyes were as sad and tired as Bowen's. They started moving down the river again.
+
+Глаза дракона были такими же печальными и усталыми, как у Боуэна. Они снова начали двигаться вниз по реке.
+
+When evening came, the dragon and Bowen stopped for dinner. They were near cruel King Einon's castle. Bowen was hungry and ate quickly.
+
+Когда наступил вечер, дракон и Боуэн остановились поужинать. Они находились недалеко от замка жестокого короля Эйнона. Боуэн был голоден и быстро поел.
+
+The dragon waited and then asked, "Why do you hate dragons, Knight?"
+
+Дракон подождал, а затем спросил: "Почему ты ненавидишь драконов, рыцарь?"
+
+"I don't hate all dragons," Bowen answered. "I hate one dragon and I wanted to kill him. But I never found him. And now I'll never find him. You're the last dragon, so he's dead."
+
+"Я не ненавижу всех драконов", - ответил Боуэн. "Я ненавижу одного дракона и хотел убить его. Но я так и не нашел его. И теперь уже не найду. Ты - последний дракон, так что он мертв".
+
+"Tell me," said the dragon quietly, "why did you hate that dragon?"
+
+"Скажи мне, - тихо произнес дракон, - почему ты возненавидел этого дракона?"
+
+"He only had half a heart, "Bowen answered. "He gave the other half to King Einon. But it made Einon cruel and bad. When he had the dragon's heart, he forgot the Old Code. He killed peasants and he was as cruel as his father, King Freyne."
+
+"У него была только половина сердца, - ответил Боуэн. "Вторую половину он отдал королю Эйнону. Но это сделало Эйнона жестоким и плохим. Когда у него было сердце дракона, он забыл Старый кодекс. Он убивал крестьян и был таким же жестоким, как его отец, король Фрейн".
+
+The dragon listened and he began to look very angry. "Einon was bad before he met that dragon," he shouted. "He was cruel before he got half the dragon's heart."
+
+Дракон слушал и очень сердился. "Эйнон был плохим до того, как встретил этого дракона", - кричал он. "Он был жестоким до того, как получил половину драконьего сердца".
+
+Bowen stood up quickly. "How do you know that?" he asked.
+
+Боуэн быстро встал. "Откуда вы это знаете?" - спросил он.
+
+The dragon knew because he was the Great Dragon in the mountain. He gave Einon half his heart. But he didn't want to discuss that with Bowen.
+
+Дракон знал, ведь он был Великим Драконом в горе. Он отдал Эйнону половину своего сердца. Но он не хотел обсуждать это с Боуэном.
+
+"Well... urn... all dragons know that," he said. "They know that Einon was a cruel child. And now he's a cruel king."
+
+"Ну... урн... все драконы это знают", - сказал он. "Они знают, что Эйнон был жестоким ребенком. А теперь он жестокий король".
+
+Bowen didn't like this. The dragon's words made him unhappy. "No! I knew Einon when he was little! He was a good boy. I taught him the Old Code," he cried.
+
+Боуэну это не нравилось. Слова дракона его не устраивали. "Нет! Я знал Эйнона, когда он был маленьким! Он был хорошим мальчиком. Я научил его Старому кодексу", - кричал он.
+
+"Then he was cruel to you too," said the dragon. He stood nose-to-nose with Bowen. "He broke your heart. And he broke the kind dragon's heart too."
+
+"Значит, он был жесток и с тобой, - сказал дракон. Он стоял нос к носу с Боуэном. "Он разбил твое сердце. И доброму дракону он тоже разбил сердце".
+
+"No, Dragon, he didn't," shouted Sir Bowen.
+
+"Нет, дракон, это не так", - крикнул сэр Боуэн.
+
+"Oh, stop calling me "dragon"! I've got a name, you know!"
+
+"О, перестань называть меня "драконом"! У меня есть имя, знаешь ли!"
+
+"What is it then, Dragon?" asked Bowen.
+
+"Что же это такое, дракон?" - спросил Боуэн.
+
+"Well, uh, I can't say it in your language," answered the dragon.
+
+"Ну, я не могу сказать это на вашем языке", - ответил дракон.
+
+"Go on. Try," said Bowen.
+
+"Продолжайте. Попробуйте", - сказал Боуэн.
+
+"Arr... er... awrr... ow-w-wsh-s..."
+
+"Аррр... эрр... аврр... ай-ваш-ш..."
+
+"You're right, "laughed Bowen. "I can't say that."
+
+"Вы правы, - рассмеялся Боуэн. "Я не могу этого сказать".
+
+He turned to put some more wood on the fire. With his back to the dragon, he suddenly heard a sad sound. He turned and saw the dragon on the ground.
+
+Он повернулся, чтобы подбросить в огонь еще немного дров. Стоя спиной к дракону, он вдруг услышал печальный звук. Он повернулся и увидел, что дракон лежит на земле.
+
+"Aah. It hurts," said the dragon. He closed his eyes and put his hand on his heart. Bowen could see a red light near the dragon's heart. He quickly put some water on the light, and the dragon slowly opened his eyes.
+
+"Ааа. Больно", - сказал дракон. Он закрыл глаза и положил руку на сердце. Боуэн увидел красный огонек возле сердца дракона. Он быстро капнул на огонек водой, и дракон медленно открыл глаза.
+
+"Thank you. I'm all right now," he said.
+
+"Спасибо. Теперь со мной все в порядке", - сказал он.
+
+"What was it?" asked Bowen.
+
+"Что это было?" - спросил Боуэн.
+
+"Oh nothing. I had a bad accident once, and it hurts sometimes."
+
+"Ничего. Однажды я попал в неприятную аварию, и это иногда больно".
+
+"I hope our conversation didn't make you unhappy," said Bowen.
+
+"Надеюсь, наш разговор не сделал вас несчастной, - сказал Боуэн.
+
+"It wasn't you," said the dragon. "Not you."
+
+"Это был не ты", - сказал дракон. "Не ты".
+
+That night Bowen sat next to the dragon for a long time. He watched the red light near the dragon's heart. The colour got slowly weaker and weaker. In the middle of the night, the dragon opened his eyes.
+
+В ту ночь Боуэн долго сидел рядом с драконом. Он наблюдал за красным светом возле сердца дракона. Цвет постепенно становился все слабее и слабее. В середине ночи дракон открыл глаза.
+
+"Why aren't you asleep?" he asked, when he saw Bowen.
+
+"Почему ты не спишь?" - спросил он, увидев Боуэна.
+
+"I didn't want to sleep. I wanted to think of a name for you," answered Bowen. "And I found a name. Up there. Can you see those stars?"
+
+"Я не хотел спать. Я хотел придумать тебе имя", - ответил Боуэн. "И я нашел имя. Там, наверху. Ты видишь эти звезды?"
+
+The dragon looked up at the sky. "Yes," he said.
+
+Дракон посмотрел на небо. "Да", - сказал он.
+
+"We call those stars Draco," said Bowen. "In our language, "draco" is the same as "dragon"."
+
+"Мы называем эти звезды Драко", - сказал Боуэн. "На нашем языке "драко" - это то же самое, что и "дракон"".
+
+"And would you like to call me Draco?" laughed the dragon.
+
+"А ты бы хотел называть меня Драко?" - рассмеялся дракон.
+
+"No, you're right. It's a stupid idea," said Bowen, with his head down.
+
+"Нет, вы правы. Это глупая идея", - сказал Боуэн, опустив голову.
+
+"No," said the dragon kindly. "It's not stupid. I like the name Draco. Thank you, Knight. And have you got a name?"
+
+"Нет, - добродушно сказал дракон. "Это не глупо. Мне нравится имя Драко. Спасибо, рыцарь. А у тебя есть имя?"
+
+"Yes, my name's Bowen."
+
+"Да, меня зовут Боуэн".
+
+"Thank you Bowen," said Draco.
+
+"Спасибо, Боуэн, - сказал Драко.
+
+And he put his arm, round the Knight.
+
+И он обнял рыцаря.
+
+CHAPTER SEVEN
+
+ГЛАВА СЕДЬМАЯ
+
+A Sad Day for Kara
+
+Печальный день для Кары
+
+King Einon sat on his horse and looked at his new castle. "Good. The peasants are working hard," he thought. "I was right. This is going to be the biggest and most beautiful castle in the world."
+
+Король Эйнон сел на коня и посмотрел на свой новый замок. "Хорошо. Крестьяне усердно трудятся", - подумал он. "Я был прав. Это будет самый большой и самый красивый замок в мире".
+
+Below him, the peasants worked hard in the hot sun. They were all hungry and thirsty but they couldn't stop work. Kara, Redbeard's beautiful daughter, walked round with a large bucket of water. She gave the men a drink when she spoke to them. She wore old, dark clothes, but she looked lovely with her long, red hair and kind face. Kara went to an old man. It was her father, Redbeard. His hair and beard were grey now. He wore old clothes too, and his hands and arms were dirty.
+
+Под ним крестьяне усердно трудились под жарким солнцем. Все они были голодны и хотели пить, но не могли прекратить работу. Кара, красивая дочь Рыжебородого, ходила вокруг с большим ведром воды. Она давала мужчинам попить, когда разговаривала с ними. На ней была старая темная одежда, но она выглядела прекрасно со своими длинными рыжими волосами и добрым лицом. Кара подошла к старику. Это был ее отец, Рыжая Борода. Его волосы и борода уже поседели. Он тоже был одет в старую одежду, а его руки и кисти были грязными.
+
+"Drink, father," Kara said. She looked at her father's eyes. "Cruel King Einon burnt your eyes, dear father, but you have to eat and drink."
+
+"Выпей, отец, - сказала Кара. Она посмотрела в глаза отца. "Жестокий король Эйнон сжег твои глаза, дорогой отец, но ты должен есть и пить".
+
+"Kara! Don't come here. It's dangerous. Please go home!" said the old man, when he heard his daughter.
+
+"Кара! Не ходи сюда. Это опасно. Пожалуйста, иди домой!" - сказал старик, услышав свою дочь.
+
+"No, father. I'm not listening to you. Drink!" Kara said.
+
+"Нет, отец. Я не буду тебя слушать. Пей!" сказала Кара.
+
+The old man put his hand up to her face. "You're not a child now. You're a woman, a beautiful woman," Redbeard said. "One day the king or one of his knights will see you. And they'll want you. Go home, Kara!"
+
+Старик поднес руку к ее лицу. "Теперь ты не ребенок. Ты женщина, красивая женщина", - сказал Рыжебородый. "Однажды король или один из его рыцарей увидит тебя. И они захотят тебя. Иди домой, Кара!"
+
+"You're my home, father," answered Kara. "Now drink this. "And she gave the old man a cup of water.
+
+"Ты мой дом, отец", - ответила Кара. А теперь выпей вот это". "И она протянула старику чашку с водой.
+
+Suddenly a sword pushed the cup out of Redbeard's hand.
+
+Внезапно меч выбил кубок из рук Рыжебородого.
+
+Kara looked up. In front of her, she saw Einon and his knights on their horses.
+
+Кара подняла голову. Перед ней сидели на конях Эйнон и его рыцари.
+
+"That was clever, King Einon," laughed Sir Felton. "Now try the water bucket. There. Behind the stupid old peasant!"
+
+"Это было умно, король Эйнон", - рассмеялся сэр Фелтон. "Теперь попробуй ведро с водой. Вот так. За старым глупым крестьянином!"
+
+Einon laughed and pushed the bucket with his sword. The water went over Redbeard.
+
+Эйнон рассмеялся и толкнул ведро мечом. Вода полилась на Рыжебородого.
+
+"Don't move, father," said Kara quietly.
+
+"Не двигайся, отец, - тихо сказала Кара.
+
+She left her father and went to King Einon and Sir Felton. The knight threw his sword down hard at Kara's feet, but she wasn't afraid.
+
+Она оставила отца и отправилась к королю Эйнону и сэру Фелтону. Рыцарь тяжело опустил свой меч к ногам Кары, но она не испугалась.
+
+"Look at the girl!" shouted Einon. "What are you doing?"
+
+"Посмотрите на девушку!" - крикнул Эйнон. "Что ты делаешь?"
+
+"My father's an old man, King Einon," Kara cried. "He can't fight you now. Please, don't hurt him."
+
+"Мой отец уже старик, король Эйнон, - воскликнула Кара. "Он не может сражаться с тобой. Пожалуйста, не причиняйте ему вреда".
+
+"Don't hurt him?" Einon shouted, and quickly moved nearer Redbeard. Then he pushed his sword hard into the peasant's heart.
+
+"Не трогать его?" крикнул Эйнон и быстро приблизился к Рыжебородому. Затем он вонзил свой меч в сердце крестьянина.
+
+"Father!" shouted Kara and ran to the old man on the ground.
+
+"Отец!" - крикнула Кара и подбежала к лежащему на земле старику.
+
+Einon watched and smiled. "Your father's dead!" he laughed.
+
+Эйнон смотрел и улыбался. "Твой отец мертв!" - рассмеялся он.
+
+Kara had Redbeard in her arms. Her beautiful, long red hair fell down her back. Einon looked at her. He remembered the girl's lovely hear, but not her name.
+
+Кара держала Рыжую Бороду на руках. Ее красивые длинные рыжие волосы ниспадали по спине. Эйнон посмотрел на нее. Он помнил, что девушка прекрасно слышит, но не помнил ее имени.
+
+"Who is she?" he thought. "She's beautiful. What's her name? Where does she come from?"
+
+"Кто она?" - подумал он. "Она красивая. Как ее зовут? Откуда она родом?"
+
+Then he turned his horse and started to ride away.
+
+Затем он повернул коня и поскакал прочь.
+
+Kara looked down at her father, dead in her arms. Then she looked up at Einon and his knights on their horses. "I hate that cruel man", she said quietly. "He killed my father. "I'll never forget that. One day..."
+
+Кара посмотрела на мертвого отца, лежащего у нее на руках. Затем она подняла глаза на Эйнона и его рыцарей на лошадях. "Я ненавижу этого жестокого человека", - тихо сказала она. "Он убил моего отца. "Я никогда не забуду этого. Когда-нибудь..."
+
+CHAPTER EIGHT
+
+ГЛАВА ВОСЬМАЯ
+
+Kara Meets Draco
+
+Кара встречает Драко
+
+At his castle, King Einon sat down to dinner. His knights and their wives ate with him. At the end of the table, his mother, Queen Aislinn, sat quietly. The other men and women at the table were loud and noisy.
+
+В своем замке король Эйнон сел ужинать. Вместе с ним ели его рыцари и их жены. В конце стола тихо сидела его мать, королева Айслинн. Остальные мужчины и женщины за столом вели себя шумно.
+
+Suddenly Einon turned round. He saw somebody behind him with a knife in his hand. The man threw the knife at the king, but he was ready. Einon caught him and pushed him down on to the table. Then Einon and Brok, the king's cruel knight, looked down at the man. But it wasn't a man! It was a woman! She had beautiful, long red hair. It was Kara!
+
+Внезапно Эйнон обернулся. Он увидел позади себя человека с ножом в руке. Человек бросил нож в короля, но тот был готов. Эйнон поймал его и толкнул на стол. Тогда Эйнон и Брок, жестокий рыцарь короля, посмотрели вниз на человека. Но это был не мужчина! Это была женщина! У нее были прекрасные длинные рыжие волосы. Это была Кара!
+
+"I know you," Einon said. You're Redbeard's child." Then he turned to Queen Aislinn. "Look at her, Mother! She tried to kill me!
+
+"Я знаю тебя, - сказал Эйнон. Ты - дитя Рыжебородого". Затем он повернулся к королеве Айслинн. "Посмотри на нее, матушка! Она пыталась убить меня!
+
+The queen looked at her son, but she didn't say a word. Einon looked at Kara. "I killed your father, girl," he said to her. "And now I'm going to kill you."
+
+Королева посмотрела на сына, но не сказала ни слова. Эйнон посмотрел на Кару. "Я убил твоего отца, девочка", - сказал он ей. "А теперь я убью тебя".
+
+"Kill me then! I want to die," shouted Kara. "I don't want to live in this country. You're not my king!"
+
+"Тогда убейте меня! Я хочу умереть", - кричала Кара. "Я не хочу жить в этой стране. Ты не мой король!"
+
+"So what shall I do with you? I'll think of something," Einon shouted at her. "Now, take her away!"
+
+"Так что же мне с тобой делать? Я что-нибудь придумаю", - крикнул ей Эйнон. "А теперь уведите ее!"
+
+Brok and some other knights quickly took Kara out of the room.
+
+Брок и другие рыцари быстро вывели Кару из комнаты.
+
+Einon looked down at her knife in his hands, and then he looked at his mother. The queen watched him but she said nothing. Einon threw the knife down on the table and looked into the hot fire. He thought for a minute. Then he suddenly stood up and ran out of the room.
+
+Эйнон посмотрел на нож в своих руках, а затем на мать. Королева наблюдала за ним, но ничего не сказала. Эйнон бросил нож на стол и посмотрел в жаркий огонь. Он задумался на минуту. Затем он внезапно встал и выбежал из комнаты.
+
+"Where is she? Where's that woman?" he shouted. He found Kara in a small dark room in the bottom of the castle. "I remember you now!" Einon shouted at her. "Your red hair! At the battle! When my father, the king, died! It was your sword! It went through my heart!" He opened his shirt. "Look! You did that. Now I'll find a way to hurt you"
+
+"Где она? Где эта женщина?" - кричал он. Он нашел Кару в маленькой темной комнате в глубине замка. "Теперь я тебя помню!" крикнул Эйнон. "Твои рыжие волосы! В битве! Когда погиб мой отец, король! Это был твой меч! Он пронзил мое сердце!" Он распахнул рубашку. "Смотри! Это ты сделал. Теперь я найду способ причинить тебе боль".
+
+Kara looked into Einon's eyes. She wasn't afraid. "Next time I'll kill you!" she shouted at him.
+
+Кара посмотрела в глаза Эйнону. Она не боялась. "В следующий раз я убью тебя!" - крикнула она ему.
+
+"You can't. I've got a different heart now. It's very strong," answered Einon.
+
+"Ты не можешь. У меня теперь другое сердце. Оно очень сильное", - ответил Эйнон.
+
+"Your heart's black," Kara shouted.
+
+"Твое сердце черное", - крикнула Кара.
+
+When he heard this, Einon looked at her with cruel eyes. "You wait," he said. "I'll think of something..."
+
+Услышав это, Эйнон посмотрел на нее жестокими глазами. "Подожди", - сказал он. "Я что-нибудь придумаю..."
+
+Kara sat in the cold room and looked out of the small window. How could she get out? But then Queen Aislinn came quietly into the room.
+
+Кара сидела в холодной комнате и смотрела в маленькое окно. Как же ей выбраться наружу? Но тут в комнату тихо вошла королева Айслинн.
+
+"You!" Kara said. "How did you get in here?"
+
+"Ты!" сказала Кара. "Как ты сюда попал?"
+
+"Ssh! Be quiet! I want to help you," said the queen.
+
+"Шшш! Тихо! Я хочу помочь тебе", - сказала королева.
+
+"I don't want any help from the mother of that cruel king," answered Kara.
+
+"Мне не нужна помощь матери этого жестокого короля", - ответила Кара.
+
+"I am Einon's mother," the queen said sadly. "But he had a father too. I had to marry King Freyne, but I didn't want to be his wife. Einon's cruel because of his father, not me."
+
+"Я - мать Эйнона, - печально сказала королева. "Но у него был и отец. Я должна была выйти замуж за короля Фрейна, но я не хотела быть его женой. Эйнон жесток из-за своего отца, а не из-за меня".
+
+"Why didn't you kill him when he was a baby then?" shouted Kara.
+
+"Почему ты не убил его, когда он был еще ребенком?" - кричала Кара.
+
+"You can ask that now," the queen answered. "But when a mother looks at the baby in her arms, she only sees her child. She doesn't know that he's going to be a cruel man."
+
+"Ты можешь спросить об этом сейчас", - ответила королева. "Но когда мать смотрит на младенца на руках, она видит только свое дитя. Она не знает, что он станет жестоким человеком".
+
+"And now you want to help me," Kara said.
+
+"А теперь ты хочешь мне помочь", - сказала Кара.
+
+"All right. Give me my knife. Then I can die."
+
+"Хорошо. Дай мне мой нож. Тогда я смогу умереть".
+
+"Don't die now, my girl, when you can live," said the queen. Then she showed Kara a small door behind the fireplace. "Only three people know about this door," she said. She opened it and quickly walked outside the castle walls with Kara. "Can you see that road?" the queen asked. "Run away now. Run fast!"
+
+"Не умирай сейчас, девочка моя, когда ты можешь жить", - сказала королева. Затем она показала Каре маленькую дверь за камином. "Об этой двери знают только три человека", - сказала она. Она открыла ее и вместе с Карой быстро вышла за стены замка. "Ты видишь ту дорогу?" - спросила королева. "Беги сейчас же. Бегите быстрее!"
+
+Kara turned to say thank you to Queen Aislinn, but she wasn't there!
+
+Кара повернулась, чтобы поблагодарить королеву Айслинн, но ее там не было!
+
+"What? Dogs!" shouted Einon angrily. "Stupid men! Where's the girl? How did she get out?" Einon threw his food and drink on the floor. Brok and Queen Aislinn watched him.
+
+"Что? Собаки!" - сердито крикнул Эйнон. "Глупые люди! Где девушка? Как она выбралась?" Эйнон бросил еду и питье на пол. Брок и королева Айслинн наблюдали за ним.
+
+"Sir, there's only one way out of that room," Brok said. And only you, me and the queen know about it."
+
+"Сэр, из этой комнаты есть только один выход, - сказал Брок. И знаем о нем только вы, я и королева".
+
+"I know!" shouted Einon. "So how did the girl find the door?" His eyes turned to his mother. "It was her," he thought. "She helped her."
+
+"Я знаю!" - крикнул Эйнон. "Так как же девочка нашла дверь?" Его глаза обратились к матери. "Это была она", - подумал он. "Она помогла ей".
+
+He shouted at Brok, "Get your best men. Quickly. Go and find her. And bring her here fast."
+
+Он крикнул Броку: "Бери своих лучших людей. Быстро. Идите и найдите ее. И быстро приведите ее сюда".
+
+Brok ran out, and the queen said quietly to her son, "I'll ask somebody to clean up this room." Einon looked at his mother with cold, angry eyes.
+
+Брок выбежал, а королева тихо сказала сыну: "Я попрошу кого-нибудь прибраться в этой комнате". Эйнон посмотрел на мать холодными, сердитыми глазами.
+
+Kara ran away from the castle as fast as she could. When she arrived at her village, she told everybody her story. "I've got a plan to kill the king. Will you help me?" she asked the villagers. But they were afraid. They didn't want to hear her ideas. Her father, Redbeard, was dead. They didn't want to die too. "Listen to me! We have to fight!" said Kara. But the men shouted at her and started to hit her.
+
+Кара убежала из замка так быстро, как только могла. Когда она добралась до своей деревни, то рассказала всем свою историю. "У меня есть план, как убить короля. Вы поможете мне?" - спросила она жителей деревни. Но они испугались. Они не хотели слушать ее идеи. Ее отец, Рыжая Борода, был мертв. Они тоже не хотели умирать. "Послушайте меня! Мы должны бороться!" - сказала Кара. Но мужчины закричали на нее и начали бить.
+
+"Stop that!" somebody behind them said. They turned and saw Sir Bowen on his horse. Then suddenly one of the men cried, "Look! Look up there!" It was Draco, the dragon, high in the sky!
+
+"Прекратите!" - сказал кто-то позади них. Они обернулись и увидели сэра Боуэна на коне. И вдруг один из мужчин закричал: "Смотрите! Посмотрите туда!" Это был Драко, дракон, высоко в небе!
+
+"You're late!" thought Bowen, when he saw the dragon.
+
+"Ты опоздал!" - подумал Боуэн, увидев дракона.
+
+Draco flew down near the village. "Look at that fire!" the men shouted. "It's coming out of his nose! He's going to burn our village!" Some of the villagers ran away into their houses, but Kara and the oldest man in the village stayed behind.
+
+Драко приземлился недалеко от деревни. "Посмотрите на этот огонь!" - кричали мужчины. "Он вырывается из его носа! Он собирается сжечь нашу деревню!" Некоторые жители убежали в свои дома, но Кара и самый старый мужчина в деревне остались.
+
+"Do you want me to kill this dragon?" Bowen asked them. "You'll have to pay me, or I'll leave him here!"
+
+"Хотите, чтобы я убил этого дракона?" спросил их Боуэн. "Вам придется заплатить мне, или я оставлю его здесь!"
+
+Kara looked very angry. "I thought King Einon was cruel. But this knight is worse," she said to the old man. "Don't give him our money."
+
+Кара выглядела очень рассерженной. "Я думала, что король Эйнон был жестоким. Но этот рыцарь еще хуже", - сказала она старику. "Не давайте ему наших денег!"
+
+Bowen looked hard at Kara and said to the old man, "All right. Don't give me any money. But why don't you give the dragon one of the village's lovely young women? Then he'll go away."
+
+Боуэн пристально посмотрел на Кару и сказал старику: "Хорошо. Не давайте мне денег. Но почему бы тебе не отдать дракону одну из прекрасных девушек деревни? Тогда он уйдет".
+
+The other men came out of their houses and listened to Bowen. Then they all looked at Kara.
+
+Остальные мужчины вышли из своих домов и слушали Боуэна. Затем все они посмотрели на Кару.
+
+"Yes, give her to the dragon," they shouted.
+
+"Да, отдайте ее дракону", - кричали они.
+
+"Who's that girl?" asked Draco.
+
+"Кто эта девушка?" - спросил Драко.
+
+"The villagers want you to have her. Then you'll go away," answered Bowen.
+
+"Жители деревни хотят, чтобы она досталась тебе. Тогда вы уедете, - ответил Боуэн.
+
+"That's stupid! Who gave them that idea?" Draco laughed.
+
+"Это глупо! Кто подал им такую идею?" Драко рассмеялся.
+
+"I don't know," Bowen said quietly. "What are you waiting for? Quickly. Go and eat her!"
+
+"Я не знаю", - тихо сказал Боуэн. "Чего вы ждете? Быстрее. Иди и съешь ее!"
+
+"Oh, please!" said Draco. "I feel ill. Yech!"
+
+"О, пожалуйста!" - сказал Драко. "Мне плохо. Йех!"
+
+"But you ate Sir Eglamore. I saw him when I was in your mouth," said Bowen. "Think of something. Quickly!"
+
+"Но вы съели сэра Эгламора. Я видел его, когда был у вас во рту", - сказал Боуэн. "Придумай что-нибудь. Быстрее!"
+
+Draco put out his arms and pulled Kara away from the men in the village. Then he flew away with her into the sky. Everybody shouted and laughed. They were very happy.
+
+Драко протянул руки и оттащил Кару подальше от мужчин в деревне. Затем он улетел с ней в небо. Все кричали и смеялись. Они были очень счастливы.
+
+"Thank you, Knight. Thank you. Now we'll never see Kara or the dragon again!"
+
+"Спасибо, рыцарь. Спасибо. Теперь мы никогда больше не увидим ни Кару, ни дракона!"
+
+CHAPTER NINE
+
+ГЛАВА ДЕСЯТАЯ
+
+Ready for Battle
+
+Готовность к битве
+
+"That's lovely, Draco." Kara sat in the hot sun with a smile on her face. Draco sat next to her and sang his sad, strange song. "And you're a lovely dragon. They're not all as kind as you are," said Kara. She felt warm and happy.
+
+"Это прекрасно, Драко". Кара сидела под жарким солнцем с улыбкой на лице. Драко сидел рядом с ней и пел свою грустную, странную песню. "А ты прекрасный дракон. Не все они такие добрые, как ты", - сказала Кара. Она чувствовала себя теплой и счастливой.
+
+"How many dragons do you know then?" Draco asked.
+
+"Сколько драконов ты знаешь?" спросил Драко.
+
+"You're the first," answered Kara. "But you're funny. You don't eat young women - you sing to them! Do you do anything dangerous?"
+
+"Ты первый", - ответила Кара. "Но ты забавный. Ты не ешь молодых женщин - ты им поешь! Ты делаешь что-нибудь опасное?"
+
+"No," said Draco. "When people are kind to me, I never hurt them."
+
+"Нет", - сказал Драко. "Когда люди добры ко мне, я никогда их не обижаю".
+
+"Then why did you come to my village?" asked Kara.
+
+"Тогда зачем ты пришел в мою деревню?" - спросила Кара.
+
+"Good question!" said somebody behind them. It was Bowen. "You remember Kara's village, Draco. Why did you go there?"
+
+"Хороший вопрос!" - сказал кто-то позади них. Это был Боуэн. "Ты помнишь деревню Кары, Драко. Зачем ты туда отправился?"
+
+Kara looked angrily at Bowen.
+
+Кара сердито посмотрела на Боуэна.
+
+"Go away, Knight," she shouted. "You wanted this dragon to eat me!"
+
+"Уходи, рыцарь, - крикнула она. "Ты хотел, чтобы этот дракон меня съел!"
+
+Then she got up and tried to fight Bowen.
+
+Затем она встала и попыталась бороться с Боуэном.
+
+They fell into the river and Bowen shouted out, "Help! Draco, why didn't you eat her?"
+
+Они упали в реку, и Боуэн закричал: "Помогите! Драко, почему ты не съел ее?"
+
+Draco smiled and answered, "Kara, this is Sir Bowen. He won't hurt you. Bowen meet Kara."
+
+Драко улыбнулся и ответил: - Кара, это сэр Боуэн. Он не причинит вам вреда. Боуэн, познакомьтесь с Карой".
+
+Kara and Bowen stopped fighting and got out of the river. But before they could say anything, they heard the sound of horses. Draco heard them too and quickly jumped into the water.
+
+Кара и Боуэн прекратили борьбу и выбрались из реки. Но прежде чем они успели что-то сказать, послышался шум лошадей. Драко тоже услышал их и быстро прыгнул в воду.
+
+Einon, Brok and the king's other knights came out of the trees. Bowen ran in front of Kara - he didn't want them to see her. Kara looked at Bowen and suddenly remembered his face. "He helped my father," she thought. "When I was younger and Einon tried to burn out his eyes the first time. He was a good Knight of the Old Code then. Why is he different now?" But she didn't have time to think about that. Einon sat above her on his horse. He looked down at the girl and the knight.
+
+Из-за деревьев вышли Эйнон, Брок и другие рыцари короля. Боуэн бежал впереди Кары - он не хотел, чтобы они ее увидели. Кара посмотрела на Боуэна и вдруг вспомнила его лицо. "Он помог моему отцу", - подумала она. "Когда я была моложе и Эйнон в первый раз пытался выжечь ему глаза. Тогда он был хорошим рыцарем Старого кодекса. Почему же теперь он стал другим?" Но у нее не было времени думать об этом. Эйнон сидел над ней на своем коне. Он смотрел вниз на девушку и рыцаря.
+
+"Ah, my old teacher!" he said cruelly. And you've got my woman. I lost her. But here she is!"
+
+"Ах, мой старый учитель!" - беззлобно сказал он. А моя женщина у тебя. Я потерял ее. Но вот она здесь!"
+
+"I don't think she's your woman, King Einon. She doesn't want to come with you," answered Bowen.
+
+"Я не думаю, что она твоя женщина, король Эйнон. Она не хочет идти с тобой", - ответил Боуэн.
+
+"Oh, I'm sorry, but I'm not asking her. I'm telling her. She has to come," shouted Einon.
+
+"О, простите, но я не спрашиваю ее. Я говорю ей. Она должна прийти", - крикнул Эйнон.
+
+"My sword says she doesn't have to," said Bowen, and he pulled out his sword.
+
+"Мой меч говорит, что ей не придется этого делать", - сказал Боуэн и вытащил свой меч.
+
+Einon smiled and pulled out his sword too. Then the teacher and his student started to fight. They fell down but quickly stood up again in the river. They looked strong and dangerous with their swords in their hands. But Einon was younger and faster.
+
+Эйнон улыбнулся и тоже достал свой меч. Затем учитель и его ученик начали бороться. Они упали, но быстро поднялись в реке. С мечами в руках они выглядели сильными и опасными. Но Эйнон был моложе и быстрее.
+
+"Fight me, Bowen", he called. "You're a knight of the Old Code. But nobody remembers the Old Code now. You're dead!"
+
+"Сражайся со мной, Боуэн", - призвал он. "Ты - рыцарь Старого кодекса. Но теперь никто не помнит о Старом Кодексе. Ты мертв!"
+
+His words made Bowen angrier. "You remember the Old Code! It's your Code too, you know," he shouted.
+
+Его слова разозлили Боуэна еще больше. "Ты помнишь Старый Кодекс! Это и твой кодекс, ты же знаешь", - крикнул он.
+
+"Never! It was never my Code," Einon shouted back.
+
+"Никогда! Это никогда не было моим Кодексом", - крикнул в ответ Эйнон.
+
+"Yes, it was. You repeated the words of the Old Code to the dragon in the mountain," said Bowen.
+
+"Да, так и было. Ты повторил слова Старого кодекса дракону в горе, - сказал Боуэн.
+
+"I only said those words because you wanted to hear them," laughed Einon. "And I wanted to live. You taught me to fight and you taught me well, Old Knight!"
+
+"Я сказал эти слова только потому, что ты хотел их услышать", - рассмеялся Эйнон. "А я хотел жить. Ты учил меня сражаться, и учил хорошо, Старый Рыцарь!"
+
+Then Einon brought his sword down hard on Bowen's arm. The knight fell down in the water.
+
+Тогда Эйнон сильно ударил мечом по руке Боуэна. Рыцарь упал в воду.
+
+But before Einon could kill Bowen, Draco came out of the river opposite him. The Great Dragon stood above the king and looked down at him with his angry, yellow eyes. Then Draco put up his arms, and Einon saw the red light on his heart. The king felt very afraid. He climbed out of the river fast and jumped on to his horse. Kara, Bowen and Draco watched him, and Einon rode away.
+
+Но прежде чем Эйнон успел убить Боуэна, из реки напротив него вынырнул Драко. Великий дракон возвышался над королем и смотрел на него злыми желтыми глазами. Затем Драко поднял руки, и Эйнон увидел красный свет на его сердце. Королю стало очень страшно. Он быстро выбрался из реки и вскочил на своего коня. Кара, Боуэн и Драко смотрели ему вслед, а Эйнон поскакал прочь.
+
+Kara helped Bowen out of the river. She sat near him on the ground and washed his arm. "You're a very strong fighter," she said. "Will you help the men in my village to fight Einon and his knights?"
+
+Кара помогла Боуэну выбраться из реки. Она села рядом с ним на землю и омыла его руку. "Ты очень сильный боец", - сказала она. "Поможешь ли ты мужчинам из моей деревни сражаться с Эйноном и его рыцарями?"
+
+"You won't win," said Bowen. "Einon will kill you."
+
+"Ты не победишь, - сказал Боуэн. "Эйнон убьет тебя".
+
+Kara looked at him angrily, then stood up. "Will you fight with us, Draco?" she asked the dragon.
+
+Кара сердито посмотрела на него, затем встала. "Ты будешь сражаться с нами, Драко?" - спросила она дракона.
+
+Draco looked at her sadly. "For thousands of years dragons helped people. There was one dragon - the greatest dragon in the world. He told the other dragons to help the people in this country. Can you see that star up there? When the old dragon died that star was born. And after that, when other dragons died, new stars were born in the night sky. But then men stopped listening to the dragons. I wanted to do one wonderful thing for the people in this country. I wanted to be a star in the sky too. But I made a bad mistake. I helped to make the world a worse place."
+
+Драко печально посмотрел на нее. "Тысячи лет драконы помогали людям. Был один дракон - самый великий дракон в мире. Он велел другим драконам помогать людям в этой стране. Видишь вон ту звезду? Когда старый дракон умер, родилась эта звезда. И после этого, когда умирали другие драконы, на ночном небе рождались новые звезды. Но потом люди перестали слушать драконов. Я хотел сделать одну замечательную вещь для людей в этой стране. Я тоже хотел стать звездой на небе. Но я совершил плохую ошибку. Я помог сделать мир хуже".
+
+Bowen listened to the dragon's sad words. "It was you!" he suddenly shouted. "You're the dragon in the mountain. King Einon has half your heart!"
+
+Боуэн прислушался к печальным словам дракона. "Это был ты!" - вдруг закричал он. "Ты - дракон в горе. Король Эйнон получил половину твоего сердца!"
+
+"Yes," said Draco quietly. Einon will only die when I die. He's got half my heart. I wanted to help him. I wanted him to be good. But my heart didn't change him. I was stupid!"
+
+"Да, - тихо сказал Драко. Эйнон умрет только тогда, когда умру я. У него половина моего сердца. Я хотел помочь ему. Я хотел, чтобы он был хорошим. Но мое сердце не изменило ему. Я был глуп!"
+
+"No you weren't," said Bowen kindly. "I wanted to help Einon too. I wanted to teach him the Old Code. But I couldn't."
+
+"Нет, это не так, - любезно ответил Боуэн. "Я тоже хотел помочь Эйнону. Я хотел научить его Старому Кодексу. Но не смог".
+
+Then Draco turned to Kara. "Yes, I'll fight Einon with you Kara," he said. "I'd like to help you. Come with us, Bowen."
+
+Затем Драко повернулся к Каре. "Да, я буду сражаться с Эйноном вместе с тобой, Кара", - сказал он. "Я хочу помочь тебе. Пойдем с нами, Боуэн".
+
+The knight thought for a minute. Then he stood up, and they all started to walk back to Kara's village.
+
+Рыцарь задумался на минуту. Затем он встал, и все они начали идти обратно в деревню Кары.
+
+When they arrived there, Kara asked the villagers to help her. She wanted them to fight Einon and kill him. But the men were angry and afraid. They shouted at her and began to hit her again.
+
+Когда они прибыли туда, Кара попросила жителей деревни помочь ей. Она хотела, чтобы они сразились с Эйноном и убили его. Но мужчины были злы и напуганы. Они накричали на нее и стали снова бить.
+
+Suddenly somebody said, "Well, I'm going to fight Einon." The men looked round. There, on his horse in the morning sun, was Sir Bowen. He had fire in his eyes and a smile on his face.
+
+Вдруг кто-то сказал: "А я собираюсь сразиться с Эйноном". Мужчины оглянулись. Там, на своей лошади в лучах утреннего солнца, сидел сэр Боуэн. В его глазах горел огонь, а на лице сияла улыбка.
+
+"Only you, Knight?" shouted the men.
+
+"Только ты, рыцарь?" - кричали мужчины.
+
+"And Draco," said Bowen. From behind a bridge, Draco flew down to the village. The men looked at Bowen and then at Draco.
+
+"И Драко", - сказал Боуэн. Из-за моста к деревне спустился Драко. Мужчины посмотрели на Боуэна, потом на Драко.
+
+One of them shouted, "I'm going to fight too. I want to fight Einon with this knight and the dragon."
+
+Один из них крикнул: "Я тоже буду сражаться. Я хочу сразиться с Эйноном, с этим рыцарем и драконом".
+
+The other villagers listened and then they started to shout too, "Kill Einon! Kill the cruel king! We want to fight!"
+
+Остальные жители деревни слушали, а потом тоже начали кричать: "Убейте Эйнона! Убейте жестокого короля! Мы хотим сражаться!"
+
+For weeks, everybody in the village got ready for the battle. On the last night, the villagers gave Bowen a beautiful new sword. It shone in the firelight. On it was a picture of Draco - the dragon looked wonderful. Bowen couldn't say anything. He stood in the middle of the village and looked at the men round him. Then he looked at Draco and Kara and saw the love in his friends" eyes.
+
+Несколько недель все в деревне готовились к битве. В последнюю ночь жители деревни подарили Боуэну новый красивый меч. Он сиял в свете костра. На нем был изображен Драко - дракон выглядел великолепно. Боуэн не мог ничего сказать. Он стоял посреди деревни и смотрел на собравшихся вокруг него людей. Потом он посмотрел на Драко и Кару и увидел любовь в глазах своих друзей.
+
+"You're ready for battle tomorrow," he said to everybody. "And you're ready to win. To win back your country. And the greatest dragon in the world is going to help you!
+
+"Вы готовы к завтрашней битве", - сказал он всем. "И вы готовы победить. Отвоевать свою страну. И величайший дракон в мире поможет вам!
+
+CHAPTER TEN
+
+ГЛАВА ДЕСЯТАЯ
+
+A New Star in the Sky
+
+Новая звезда в небе
+
+It was the day of the great battle. King Einon and his knights looked out of the castle windows.
+
+Это был день великой битвы. Король Эйнон и его рыцари выглядывали из окон замка.
+
+"There are hundreds of peasants down there!" called Brok. "They're ready to fight!"
+
+"Там внизу сотни крестьян!" - воскликнул Брок. "Они готовы сражаться!"
+
+"Then let's go!" answered Sir Felton. "One of us is as strong as a hundred of them!"
+
+"Тогда пошли!" - ответил сэр Фелтон. "Один из нас так же силен, как сотня из них!"
+
+"Don't be stupid!" Einon shouted at him. "They've got Sir Bowen with them. And the dragon."
+
+"Не будь дураком!" крикнул ему Эйнон. "С ними сэр Боуэн. И дракон".
+
+Queen Aislinn came into the room. "Don't be afraid of the dragon, my son," she said quietly to Einon.
+
+В комнату вошла королева Айслинн. "Не бойся дракона, сын мой, - тихо сказала она Эйнону.
+
+Einon turned to her. "I'm not afraid of anything!" he said. "But it's strange, you know, mother. Sometimes the dragon feels very near me."
+
+Эйнон повернулся к ней. "Я ничего не боюсь!" - сказал он. "Но это странно, знаешь, мама. Иногда дракон кажется мне очень близким".
+
+"Come with me, son," said the queen, and walked out of the room.
+
+"Пойдем со мной, сын", - сказала королева и вышла из комнаты.
+
+Einon followed and saw five great, strong knights outside.
+
+Эйнон последовал за ним и увидел снаружи пять сильных рыцарей.
+
+"These men are for you, my son. They're the strongest in the world," the queen said.
+
+"Эти люди для тебя, сын мой. Они самые сильные в мире", - сказала королева.
+
+"The strongest what?" Einon asked.
+
+"Сильнейший что?" спросил Эйнон.
+
+"The strongest dragon killers," answered his mother.
+
+"Сильнейшие убийцы драконов, - ответила его мать.
+
+Einon took his mother's hand. He looked into her eyes and thanked her warmly.
+
+Эйнон взял мать за руку. Он заглянул ей в глаза и горячо поблагодарил.
+
+The king then went back to his knights. Below them, they could see Bowen and the peasants. "Look at them!" shouted Einon angrily. "They're at my castle walls! Well, today Bowen's going to die and the Old Code will die with him!"
+
+Затем король вернулся к своим рыцарям. Под ними виднелись Боуэн и крестьяне. "Посмотрите на них!" - гневно крикнул Эйнон. "Они у стен моего замка! Что ж, сегодня Боуэн умрет, и Старый Кодекс умрет вместе с ним!"
+
+Bowen rode up and down outside the castle, and looked up at Einon. "Come down and fight," he shouted. Einon heard him and felt very angry.
+
+Боуэн скакал взад-вперед возле замка и смотрел на Эйнона. "Спускайся и сражайся", - крикнул он. Эйнон услышал его и очень рассердился.
+
+Suddenly Draco flew down into the castle. The fire from the dragon's nose burnt the king's buildings and men.
+
+Вдруг Драко полетел вниз, в замок. Огонь из носа дракона сжег королевские постройки и людей.
+
+Einon watched and shouted, "We can't stay here! We'll all burn. Let's go outside and fight those stupid peasants!"
+
+Эйнон смотрел и кричал: "Мы не можем здесь оставаться! Мы все сгорим. Давайте выйдем наружу и сразимся с этими глупыми крестьянами!"
+
+He and his knights quickly ran down the stairs. They jumped on their horses and rode out of the castle. Einon, on his great white horse, pulled out his father's sword. "Right! Let's kill them," he shouted to his men.
+
+Он и его рыцари быстро сбежали по лестнице. Они вскочили на коней и поскакали прочь из замка. Эйнон на своем огромном белом коне вытащил отцовский меч. "Так! Давайте убьем их", - крикнул он своим людям.
+
+Bowen saw Einon and shouted to the peasants, "Quickly! Run! Run into the trees!" Einon and his knights followed the peasants but Bowen rode away from them.
+
+Боуэн увидел Эйнона и крикнул крестьянам: "Быстрее! Бегите! Бегите к деревьям!" Эйнон и его рыцари последовали за крестьянами, но Боуэн поскакал прочь от них.
+
+The king and his men looked for the peasants in the trees. They didn't know that Bowen and hundreds of other peasants were behind them. Suddenly Bowen shouted out, "Now!", and the peasants began to fight. They threw burning wood down on to Einon's men from behind them. Then hundreds of peasants came out of the trees in front of them too.
+
+Король и его люди искали крестьян на деревьях. Они не знали, что Боуэн и сотни других крестьян были позади них. Вдруг Боуэн закричал: "Сейчас!", и крестьяне начали сражаться. Они бросали горящие дрова на людей Эйнона сзади. Затем сотни крестьян вышли из-за деревьев перед ними.
+
+"Quickly! Back to the castle, or we'll die!" shouted Einon. He rode through the fire on his horse and his men followed. Bowen was near the king. He pulled out his sword and jumped on to Einon's horse. Then he pushed the sword through Einon's heart. But the king didn't stop. He didn't feel the sword!
+
+"Быстрее! Возвращайтесь в замок, иначе мы погибнем!" - крикнул Эйнон. Он поскакал через огонь на своем коне, а его люди последовали за ним. Боуэн был рядом с королем. Он выхватил меч и вскочил на коня Эйнона. Затем он вонзил меч в сердце Эйнона. Но король не остановился. Он не почувствовал меча!
+
+At the same time, Draco suddenly fell from the sky into the castle. Bowen watched and shouted, "No! Draco!" He thought about the dragon's words: Einon will only die when I'll die."
+
+В это же время Драко внезапно упал с неба в замок. Боуэн смотрел и кричал: "Нет! Драко!". Он задумался над словами дракона: Эйнон умрет только тогда, когда умру я".
+
+He turned to Kara and said, "Einon didn't feel my sword in his heart, but Draco felt it. Quickly! Let's go and help him." Then he and Kara rode to the castle.
+
+Он повернулся к Каре и сказал: "Эйнон не почувствовал моего меча в своем сердце, но Драко его почувствовал. Быстрее! Пойдем и поможем ему". Затем они с Карой поскакали к замку.
+
+Einon also watched Draco fall from the sky. He saw his five dragon killers jump on to the dragon and pull out their swords. "Stop," he shouted. "Don't kill him. I don't want the dragon to die. I want him to live. Then I'll never die."
+
+Эйнон также наблюдал, как Драко падает с неба. Он увидел, как пять его убийц драконов прыгнули на дракона и выхватили мечи. "Остановитесь", - крикнул он. "Не убивайте его. Я не хочу, чтобы дракон умер. Я хочу, чтобы он жил. Тогда я никогда не умру".
+
+"No! "Draco cried. "Kill me! Please!"
+
+"Нет!" - закричал Драко. "Убей меня! Пожалуйста!"
+
+From a window in the castle, the queen looked down at the dragon. She wanted to help him. She ran down the stairs with a knife in her hands.
+
+Из окна замка королева смотрела вниз на дракона. Она хотела помочь ему. Она сбежала вниз по лестнице с ножом в руках.
+
+"Come here, Aislinn," Draco said, when he saw her.
+
+"Иди сюда, Эйслинн, - сказал Драко, увидев ее.
+
+"I've come to help you, Draco," she said sadly. "I've got a knife. I'm going to kill you."
+
+"Я пришла помочь тебе, Драко, - грустно сказала она. "У меня есть нож. Я собираюсь убить тебя".
+
+"I know," said Draco. "You have to kill me. Then cruel Einon will die. Are the stars shining in the sky tonight, Aislinn?"
+
+"Я знаю", - сказал Драко. "Ты должен убить меня. Тогда жестокий Эйнон умрет. Звезды сегодня сияют на небе, Айслинн?"
+
+"Yes, Great Dragon. They're beautiful," answered the queen.
+
+"Да, Великий Дракон. Они прекрасны", - ответила королева.
+
+"Then kill me now," said Draco.
+
+"Тогда убей меня сейчас", - сказал Драко.
+
+But before the queen could do anything, somebody pulled the knife out of her hands. It was Einon. "So, mother, you gave me the five dragon killers because you wanted them to kill this dragon," he shouted angrily. You wanted him to die. And you wanted me to die too!"
+
+Но прежде чем королева успела что-либо предпринять, кто-то выхватил нож у нее из рук. Это был Эйнон. "Итак, мама, ты дала мне пять убийц драконов, потому что хотела, чтобы они убили этого дракона, - гневно воскликнул он. Ты хотела, чтобы он умер. И ты хотела, чтобы я тоже умер!"
+
+"Yes, son. I made a mistake when you were a child. I asked the Great Dragon to help you. But now you're king, you're as cruel as your father. You have to die."
+
+"Да, сынок. Я совершил ошибку, когда ты был ребенком. Я попросил Великого Дракона помочь тебе. Но теперь ты король, и ты такой же жестокий, как твой отец. Ты должен умереть".
+
+Draco listened to the words of mother and son. He couldn't stop Einon. And he couldn't help the queen.
+
+Драко прислушивался к словам матери и сына. Он не мог остановить Эйнона. И он не мог помочь королеве.
+
+Bowen and Kara ran quickly into the castle and found Draco. "Don't try to help me," said the dragon. "I'm tired and I want to die. Then Einon will die too."
+
+Боуэн и Кара быстро вбежали в замок и нашли Драко. "Не пытайтесь мне помочь, - сказал дракон. "Я устал и хочу умереть. Тогда и Эйнон умрет".
+
+"But we won the battle!" shouted Bowen.
+
+"Но мы выиграли битву!" - крикнул Боуэн.
+
+"You'll never win," answered Draco. "Kill me! Then you'll kill cruel King Einon. Then you'll win."
+
+"Ты никогда не победишь", - ответил Драко. "Убей меня! Тогда ты убьешь жестокого короля Эйнона. Тогда ты победишь".
+
+"No, I can't," cried Bowen. "I can't kill you, dear Draco. You're the last dragon in the world."
+
+"Нет, я не могу", - воскликнул Боуэн. "Я не могу убить тебя, дорогой Драко. Ты последний дракон в этом мире".
+
+"This is the end for me, Bowen! Kill me!" said Draco.
+
+"Это конец для меня, Боуэн! Убей меня!" - сказал Драко.
+
+"But you're my friend," Bowen said.
+
+"Но ты же мой друг, - сказал Боуэн.
+
+"So kill me!" Draco shouted.
+
+"Так убейте меня!" крикнул Драко.
+
+Suddenly Einon arrived and Bowen pulled out his sword. He tried to push the sword into the cruel king's heart, but Einon moved away quickly. By mistake, Bowen's sword flew into Draco's heart! Bowen ran to the dragon and pulled it out. Then he turned and pushed it into Einon's heart. The king fell to the ground next to Draco. His eyes closed - cruel King Einon was dead.
+
+Внезапно появился Эйнон, и Боуэн выхватил меч. Он попытался вонзить меч в сердце жестокого короля, но Эйнон быстро отодвинулся. По ошибке меч Боуэна влетел в сердце Драко! Боуэн подбежал к дракону и вытащил его. Затем он повернулся и вонзил его в сердце Эйнона. Король упал на землю рядом с Драко. Его глаза закрылись - жестокий король Эйнон был мертв.
+
+Draco looked at Bowen and smiled warmly. Then he closed his eyes. Bowen went down on the ground near his friend.
+
+Драко посмотрел на Боуэна и тепло улыбнулся. Затем он закрыл глаза. Боуэн опустился на землю рядом со своим другом.
+
+"Are you going to leave us now, Draco? What will we do without you?"
+
+"Ты собираешься покинуть нас, Драко? Что мы будем делать без тебя?"
+
+Draco answered, "I'm going up to the stars, dear Bowen. To my old dragon friends in the stars."
+
+Драко ответил: "Я отправляюсь к звездам, дорогой Боуэн. К моим старым друзьям драконам на звездах".
+
+In front of their eyes, the dragon changed to starlight. Then Bowen and Kara watched the dragon's light fly up into the sky, to the other dragon stars. For a minute, they couldn't see him, but suddenly they saw a new star in the sky. It was Draco!
+
+На их глазах дракон превратился в звездный свет. Затем Боуэн и Кара смотрели, как свет дракона улетает в небо, к другим звездам дракона. Минуту они не могли его разглядеть, но вдруг увидели в небе новую звезду. Это был Драко!
+
+"Look, Kara!" said Bowen. "Look at Draco now. He's the biggest and most beautiful star in the sky!"
+
+"Смотри, Кара!" - сказал Боуэн. "Посмотри на Драко сейчас. Он самая большая и красивая звезда на небе!"
