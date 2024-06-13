@@ -1,6 +1,7 @@
 <HEAD>
 
 <meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/plain; charset=UTF-8"/>
 <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
 <style>
   table { border-collapse: collapse; }
@@ -27,7 +28,7 @@
 </HEAD>
 
 <BODY>
-
+<div class="backup-alert hidden" style=" font-size: 16pt; color: red; ">backup alert</div>
 <div class="wrapper wrapper-all">
   <div>
     <label><input type="radio" name="view" value="all" checked/>all</label>
@@ -93,6 +94,18 @@ var words = [];
 var word;
 var wordRetell;
 var prons;
+var lastBackup = Date.now();
+
+(function () {
+    $.ajax({
+        url: "http://192.168.0.2/sandbox/api/memen/lastbackup"
+    }).done(function(d) {
+        lastBackup = (new Date(d)).valueOf();
+        if (Date.now() - lastBackup > 3600000 * 24 * 2) {
+            $(".backup-alert").removeClass("hidden");
+        }
+    });
+})();
 
 (function() {
     var req = indexedDB.open("memen", ver);
@@ -134,7 +147,6 @@ function put(word, notExists) {
     req.onsuccess = function(event) {
         var db = event.target.result;
         var tx = db.transaction("words", "readwrite");
-        tx.onerror = function (event) { console.log(event); }
         if (notExists) {
             tx.objectStore("words").add(word).onsuccess = function() {
                 index();
@@ -145,6 +157,7 @@ function put(word, notExists) {
                 index();
             }
         }
+        backup();
     }
 }
 
@@ -266,10 +279,14 @@ function wordToForm() {
 }
 
 function wordFromForm() {
+    var pron = $("[name=pron]").val()
+        .replaceAll(/dh/ig, "ð")
+        .replaceAll(/th/ig, "θ")
+        .replaceAll(/ng/ig, "ŋ");
     word = {
         key: $('[name=key]').val(),
         type: $('[name=type]').val(),
-        pron: $('[name=pron]').val(),
+        pron: pron,
         val: $('[name=val]').val(),
         status: $('[name=status]').val(),
         context: $('[name=context]').val(),
@@ -279,6 +296,27 @@ function wordFromForm() {
 
 function getPron(s) {
     return s.split(/[^\w]+/).map(x => prons.get(x)).filter(x => x).join(" ");
+}
+
+function backup() {
+    if (Date.now() - lastBackup < 3600000 || !window.location.href.includes("192.168.0.4"))
+        return;
+
+    lastBackup = Date.now();
+    indexedDB.open("memen", ver).onsuccess = function(event) {
+        var db = event.target.result;
+        var tx = db.transaction("words", "readonly");
+        var range = IDBKeyRange.upperBound((new Date(2034,0,1)).valueOf(), true);
+        var req = tx.objectStore("words").index("retell").getAll(range);
+        req.onsuccess = function() {
+            var body = "=" + JSON.stringify(req.result);
+            $.ajax({
+                url: "http://192.168.0.2/sandbox/api/memen/backup"
+              , method: "post"
+              , data: body
+            });
+        };
+    }
 }
 
 $(".search-btn").click(function() {
