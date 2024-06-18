@@ -1,23 +1,104 @@
 <style>
-  textarea { width: 600pt; height: 150pt; }
+  textarea { width: 600pt; height: 100pt; }
 </style>
 <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
-<textarea class="en-box"></textarea><br/>
-<textarea class="ru-box"></textarea><br/>
+<textarea class="in-box"></textarea><br/>
+<textarea class="out-box"></textarea><br/>
+<button class="in-btn">input</button><br/>
+
+<textarea class="body-box" style="height: 200pt;"></textarea><br/>
 <textarea class="r-box"></textarea><br/>
 <button class="com-btn">combine</button>
+<button class="back-btn">back</button>
+<br/>
 <script>
+    var hs = [];
+    var req;
+    var tpl = "Придумай небольшую историю на английском языке для начального уровня в ВИДЕ с сюжетом основанном на СЮЖЕТЕ, с использованием несколько раз слов из списка (выделив их жирным в тексе): СЛОВА. Затем дай перевод и также выдели в нем слова из списка."
+    var styles = ["стиле фантастики", "стиле космической фантастики", "стиле киберпанка", "стиле научной фантастики", "стиле фэнтези", "стиле городского фэнтези", "стиле ужасов", "стиле комедии", "виде сказки", "виде рассказа", "виде трагедии"];
+    var plots = ["спасении", "мести", "преследовании", "бедствии", "жертве", "мятеже", "похищении", "загадке", "достижении", "ненависти", "соперничестве", "адюльтере", "безумии", "убийстве", "самопожетвовании", "честолюбии", "зависти"];
+
+    function rnd(max) {
+      return Math.floor(Math.random() * max);
+    }    
+    
+    $(".in-btn").click(function() {
+        hs = [];
+        var ss = $(".in-box").val().split(/\r?\n/).filter(x => x !== "");
+        ss.forEach(s => {
+            if (s.indexOf("#") === 0) {
+                var sp = s.split(" ");
+                if (sp[0] === "##") {
+                    hs.push(`## ${sp[1]} ${sp[2]}`);
+                    hs.push(`## ${sp[3]} ${sp[4]}`);
+                }
+                else {
+                    hs.push(`**${sp[1]} ${sp[2]}**`);
+                    hs.push(`**${sp[3]} ${sp[4]}**`);
+                }
+            }
+            else if (s.indexOf("WORDS") === 0) {
+                hs.push(s.replace("WORDS ", "") + "<tcommon/>")
+            }
+            else if (s.indexOf("BODY") === 0) {
+                var rt = tpl.replace("ВИДЕ", styles[rnd(styles.length)]);
+                rt = rt.replace("СЮЖЕТЕ", plots[rnd(plots.length)]);
+                rt = rt.replace("СЛОВА", s.replace("BODY ", ""));
+                $(".out-box").val(rt);
+                $(".out-box").select();
+                document.execCommand("copy");
+            }
+            $(".r-box").val(hs.join("\r\n\r\n"));
+        });
+    });
+    
+    function enru(s) {
+        var en = s.replaceAll(/[^a-zA-Z]+/g, "").length;
+        var ru = s.replaceAll(/[^а-яА-Я]+/g, "").length;
+        var sum = Math.max(1, en + ru);
+        return (en * 100 / sum) - (ru * 100 / sum);
+    }
+    
     $(".com-btn").click(function() {
-        var ens = $(".en-box").val().split(/\r?\n/).filter(x => x !== "");
-        var rus = $(".ru-box").val().split(/\r?\n/).filter(x => x !== "");
-        var rs = [];
-        ens.forEach((x,i) => {
-            rs.push(ens[i]);
-            rs.push(rus[i]);
+        var ss = $(".body-box").val().split(/\r?\n/).filter(x => x !== "");
+        var en = [];
+        var ru = [];
+        ss.forEach((s,i) => {
+            if (enru(s) >= 0) {
+                en.push(s);
+            }
+            else {
+                ru.push(s);
+            }
         });
         
-        $(".r-box").val(rs.join("\r\n\r\n"));
+        rs = [];
+        for (var i = 0; i < en.length; i++) {
+            rs.push(en[i]);
+            rs.push(ru[i]);
+        }
+
+        $(".r-box").val(hs.concat(rs).join("\r\n\r\n"));
         $(".r-box").select();
         document.execCommand("copy");
     });
+    
+    $(".back-btn").click(function() {
+        var ss = $(".r-box").val().split(/\r?\n/).filter(x => x !== "");
+        var en = [];
+        var ru = [];
+        ss.forEach((s,i) => {
+            if (enru(s) >= 0) {
+                en.push(s);
+            }
+            else {
+                ru.push(s);
+            }
+        });
+        
+        $(".body-box").val(en.concat(ru).join("\r\n\r\n"));
+        $(".body-box").select();
+        document.execCommand("copy");
+    });
+    
 </script>
