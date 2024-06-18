@@ -10,6 +10,7 @@
   input[type=checkbox] { transform: scale(1.7); font-size: 14pt; margin-top: 10pt; }
   .hidden { display: none; }
   .x-large { font-size: 20pt; }
+  input[name=search] { -webkit-appearance: searchfield-cancel-button; }
   
     .wrapper-all .word-retell
   , .wrapper-hot .word-retell
@@ -37,7 +38,7 @@
   </div>
   
   <div class="search-wrapper">
-    <input class="search-box" name="search"  type="text"/>
+    <input class="search-box" name="search" type="text"/><div class="clear-btn" style=" display: inline-block; width: 23pt; margin-left: -23pt; font-size: 16pt; ">&nbsp;&nbsp;×</div>
     <button class="search-btn">Search</button>
     <button class="create-btn">Create</button>
   </div>
@@ -67,13 +68,13 @@
       <option value="retell">retell</option>
     </select><br/>
     <input name="retell" type="hidden"/>
-    <input name="retell-hours" readonly></br>
+    <input name="retell-hours" readonly> <button class="retell-reset">reset</button></br>
     <textarea name="context" rows="4"></textarea></br>
     <button class="save-btn">Save</button> 
     <!-- <button class="del-btn">Del</button> -->
   </div>
   <div class="word-retell">
-    <button class="retell-level-btn" data-level="0">Hint</button>
+    <button class="hint-btn" data-level="0">Hint</button>
     <div class="word-retell-body"></div>
     <button class="retell-btn" data-hours="0">&nbsp;0h&nbsp;</button>
     <button class="retell-btn" data-hours="2">&nbsp;2h&nbsp;</button>
@@ -239,6 +240,7 @@ function wordsHtml(index) {
 }
 
 function wordRetellHtml(level) {
+    $(".hint-btn").data("level", level);
     if (!wordRetell) {
         $(".word-retell-body").html("");
         return;
@@ -303,10 +305,11 @@ function backup() {
         return;
 
     lastBackup = Date.now();
+    var year = (new Date()).getFullYear() + 5;
     indexedDB.open("memen", ver).onsuccess = function(event) {
         var db = event.target.result;
         var tx = db.transaction("words", "readonly");
-        var range = IDBKeyRange.upperBound((new Date(2034,0,1)).valueOf(), true);
+        var range = IDBKeyRange.upperBound((new Date(year,0,1)).valueOf(), true);
         var req = tx.objectStore("words").index("retell").getAll(range);
         req.onsuccess = function() {
             var body = "=" + JSON.stringify(req.result);
@@ -376,9 +379,9 @@ $(".create-btn").click(function() {
     put(word, true);
 });
 
-$(".retell-level-btn").click(function() {
+$(".hint-btn").click(function() {
     var level = Number($(this).data("level")) + 1;
-    if (level === 1 && !wordRetell.context.includes("|")) {
+    if (level === 1 && !wordRetell.context) {
         level = 2;
     }
     $(this).data("level", level);
@@ -390,6 +393,17 @@ $(".retell-btn").click(function() {
     put(wordRetell);
     retell();
 });
+
+$(".retell-reset").click(function() {
+    $("[name=retell]").val(Date.now());
+    $("[name=retell-hours]").val("0h");
+});
+
+$(".clear-btn").click(function() {
+    $("[name=search]").val("");
+    $("[name=search]").focus();
+});
+
 
 search();
 

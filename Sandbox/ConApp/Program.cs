@@ -11,6 +11,7 @@ using CsQuery;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using Porter2StemmerStandard;
+using System.Windows.Forms;
 
 namespace ConApp {
     static class Program {
@@ -26,7 +27,15 @@ namespace ConApp {
                     cmu.Add(k, v);
                 }
             });
+
+            // config
+            config = File.ReadAllLines("d:/.sandbox").Select(x => {
+                var i = x.IndexOf(":");
+                return new KeyValuePair<string,string>(x.Substring(0, i), x.Substring(i + 1).Trim());
+            }).ToDictionary(x => x.Key, x => x.Value);
         }
+
+        static Dictionary<string, string> config;
 
         static string handleString(string s, Regex re, Func<string, Match, string> handler) {
             var m = re.Match(s);
@@ -417,6 +426,107 @@ namespace ConApp {
             File.WriteAllLines(path, ss);
         }
 
+        static void deepl(string path) {
+            var advRe = new Regex("\n\nПереведено с помощью DeepL.*", RegexOptions.Multiline);
+
+            var ss = File.ReadAllLines(path);
+            path = pathEx(path, "-deepl");
+            
+            var rs = File.Exists(path) ? File.ReadAllLines(path).ToList() : new List<string>();
+            var qs = new Queue<string>(ss.Skip(rs.Count));
+
+            var driver = new ChromeDriver();
+            driver.Navigate().GoToUrl("https://www.deepl.com/ru/login");
+            Thread.Sleep(2000);
+            var pwd = config["deeplPwd"];
+            driver.FindElement(By.CssSelector("#menu-login-username")).SendKeys("adloky@gmail.com");
+            driver.FindElement(By.CssSelector("#menu-login-password")).SendKeys(pwd);
+            driver.FindElement(By.CssSelector("#menu-login-submit")).Click();
+            Thread.Sleep(5000);
+
+            while (qs.Count > 0) {
+                Thread.Sleep(2000);
+                driver.Navigate().GoToUrl("https://www.deepl.com/translator#en/ru/");
+                var ms = new List<string>();
+                var len = 0;
+                while (qs.Count > 0 && len + qs.Peek().Length < 4900) {
+                    var _s = qs.Dequeue();
+                    len += _s.Length + 2;
+                    ms.Add(_s);
+                }
+
+                var s = string.Join("\n", ms);
+
+                Thread.Sleep(2000);
+                var ta = driver.FindElement(By.CssSelector("div[contenteditable]"));
+                IJavaScriptExecutor jsExecutor = (IJavaScriptExecutor)driver;
+                jsExecutor.ExecuteScript("arguments[0].innerText='" + s.Replace("\n", "\\n").Replace("'", "\\'") + "';", ta);
+                ta.SendKeys(" ");
+
+                IWebElement btn = null;
+                while (btn == null) {
+                    Thread.Sleep(2000);
+                    try {
+                        var tools = driver.FindElements(By.CssSelector(".h-14"))[1];
+                        jsExecutor.ExecuteScript("arguments[0].scrollIntoView(true);", tools);
+
+                        btn = driver.FindElement(By.CssSelector(@"button[data-testid=""translator-target-toolbar-copy""]"));
+                        btn.Click();
+                    }
+                    catch {
+                        btn = null;
+                    }
+                }
+                
+                Thread.Sleep(2000);
+                var r = Clipboard.GetText();
+                r = r.Replace("\r", "");
+                r = advRe.Replace(r, "");
+                File.AppendAllLines(path, r.Split('\n').Select(x => x.Trim()));
+            }
+        }
+
+        static void posReduce(string pathSrc, string pathPos) {
+            var exQue = new Queue<string>();
+            var s = File.ReadAllText(pathSrc);
+            var pos = File.ReadAllText(pathPos).Split(' ');
+            var re = new Regex(@"'(s|t|d|ve|ll)\b|\w+|[^\w\s]", RegexOptions.Compiled | RegexOptions.IgnoreCase | RegexOptions.Multiline);
+            var ntRe = new Regex(@"^n't_", RegexOptions.Compiled | RegexOptions.IgnoreCase | RegexOptions.Multiline);
+            var pRe = new Regex(@"_[^_]+$", RegexOptions.Compiled);
+            var j = 0;
+            var prefix = "";
+            foreach (var m in re.Matches(s).Cast<Match>()) {
+                var w = prefix + m.Value;
+                var i = m.Index - prefix.Length;
+                var p = pRe.Match(pos[j]).Value.Substring(1);
+                var w2 = pos[j].Substring(0, pos[j].Length - p.Length - 1);
+                if (w.Length < w2.Length && w2.StartsWith(w)) {
+                    prefix = w;
+                    continue;
+                }
+                prefix = "";
+                j++;
+
+                if (w.Length > w2.Length) {
+                    if (pos[j].ToLower().StartsWith("n't_")) {
+                        prefix = w.Substring(w2.Length);
+                    }
+                    if (w.ToLower() == "cannot") {
+                        j++;
+                    }
+                    w = w2;
+                }
+
+                exQue.Enqueue($"{w} {w2}");
+                while (exQue.Count > 10) exQue.Dequeue();
+
+                if (w != w2) {
+                    exQue.ToList().ForEach(Console.WriteLine);
+                    throw new Exception();
+                }
+            }
+        }
+
         static volatile bool ctrlC = false;
 
         [STAThread]
@@ -424,10 +534,9 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
             //prepareWords("d:/words.txt");
-
-            var set = new HashSet<string>(allForms(File.ReadAllLines("d:/1.txt")));
-            var rs = prons.Where(x => set.Contains(x.Key)).Select(x => $"[ \"{x.Key}\", \"{x.Value}\" ],");
-            File.WriteAllLines("d:/2.txt", rs);
+            //fixQuotes(@"d:\.temp\3.txt");
+            //deepl(@"d:\.temp\1.txt");
+            posReduce("d:/.temp/3.txt ", "d:/.temp/3-pos.txt");
 
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
