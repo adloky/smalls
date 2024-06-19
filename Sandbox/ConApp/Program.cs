@@ -486,43 +486,62 @@ namespace ConApp {
             }
         }
 
-        static void posReduce(string pathSrc, string pathPos) {
+
+
+        static Dictionary<string, string> posTags = new Dictionary<string, string> {
+            { "RB", "наречие" }, { "RBR", "наречие" }, { "RBS", "наречие" }, { "WRB", "наречие" },
+            { "NN", "существительное" }, { "NNS", "существительное" }, { "NNP", "существительное" },
+            { "NNPS", "существительное" }, { "JJ", "прилагательное" }, { "JJR", "прилагательное" },
+            { "JJS", "прилагательное" }, { "CC", "союз" }, { "DT", "определитель" },
+            { "PDT", "определитель" }, { "WDT", "определитель" }, { "UH", "междометие" },
+            { "MD", "глагол" }, { "VB", "глагол" }, { "VBD", "глагол" }, { "VBG", "глагол" },
+            { "VBN", "глагол" }, { "VBP", "глагол" }, { "VBZ", "глагол" }, { "RP", "частица" },
+            { "PRP", "местоимение" }, { "PRP$", "местоимение" }, { "WP", "местоимение" },
+            { "WP$", "местоимение" }, { "IN", "предлог" }
+        };
+
+        static IEnumerable<(string w, string p)> posReduce(string path) {
             var exQue = new Queue<string>();
-            var s = File.ReadAllText(pathSrc);
-            var pos = File.ReadAllText(pathPos).Split(' ');
-            var re = new Regex(@"'(s|t|d|ve|ll)\b|\w+|[^\w\s]", RegexOptions.Compiled | RegexOptions.IgnoreCase | RegexOptions.Multiline);
-            var ntRe = new Regex(@"^n't_", RegexOptions.Compiled | RegexOptions.IgnoreCase | RegexOptions.Multiline);
+            var re = new Regex(@"\s+|[^\s]+", RegexOptions.Compiled);
+            var s = File.ReadAllText(path);
+            var ss = re.Matches(s).Cast<Match>().Select(x => x.Value).ToArray();
             var pRe = new Regex(@"_[^_]+$", RegexOptions.Compiled);
+            var ps = File.ReadAllText(pathEx(path, "-pos"))
+                .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
+                .Select(x => {
+                    var t = pRe.Match(x).Value.Substring(1);
+                    var w = x.Substring(0, x.Length - t.Length - 1);
+                    return (w: w, t: t);
+                }).ToArray();
+
+            var i = 0;
             var j = 0;
-            var prefix = "";
-            foreach (var m in re.Matches(s).Cast<Match>()) {
-                var w = prefix + m.Value;
-                var i = m.Index - prefix.Length;
-                var p = pRe.Match(pos[j]).Value.Substring(1);
-                var w2 = pos[j].Substring(0, pos[j].Length - p.Length - 1);
-                if (w.Length < w2.Length && w2.StartsWith(w)) {
-                    prefix = w;
+            while (j < ps.Length) {
+                var w = ss[i++];
+                if (char.IsWhiteSpace(w[0])) {
+                    yield return (w: w, p: "пробел");
                     continue;
                 }
-                prefix = "";
-                j++;
 
-                if (w.Length > w2.Length) {
-                    if (pos[j].ToLower().StartsWith("n't_")) {
-                        prefix = w.Substring(w2.Length);
-                    }
-                    if (w.ToLower() == "cannot") {
-                        j++;
-                    }
-                    w = w2;
-                }
-
-                exQue.Enqueue($"{w} {w2}");
-                while (exQue.Count > 10) exQue.Dequeue();
-
-                if (w != w2) {
-                    exQue.ToList().ForEach(Console.WriteLine);
+                var wp = ps[j].w; 
+                if (w.Length < wp.Length)
                     throw new Exception();
+
+                while (w.Length >= wp.Length) {
+                    if (!w.StartsWith(wp))
+                        throw new Exception();
+
+                    if (!posTags.TryGetValue(ps[j].t, out var p)) {
+                        p = "прочее";
+                    }
+
+                    yield return (w: ps[j].w, p: p);
+
+                    j++;
+                    if (w.Length == wp.Length)
+                        break;
+
+                    wp += ps[j].w;
                 }
             }
         }
@@ -536,7 +555,7 @@ namespace ConApp {
             //prepareWords("d:/words.txt");
             //fixQuotes(@"d:\.temp\3.txt");
             //deepl(@"d:\.temp\1.txt");
-            posReduce("d:/.temp/3.txt ", "d:/.temp/3-pos.txt");
+            File.WriteAllLines("d:/3.txt", posReduce("d:/.temp/3.txt ").Where(x => x.p != "пробел" && x.p != "прочее").Select(x => $"{x.w} {x.p}"));
 
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
