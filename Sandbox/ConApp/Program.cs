@@ -486,8 +486,6 @@ namespace ConApp {
             }
         }
 
-
-
         static Dictionary<string, string> posTags = new Dictionary<string, string> {
             { "RB", "наречие" }, { "RBR", "наречие" }, { "RBS", "наречие" }, { "WRB", "наречие" },
             { "NN", "существительное" }, { "NNS", "существительное" }, { "NNP", "существительное" },
@@ -516,6 +514,7 @@ namespace ConApp {
 
             var i = 0;
             var j = 0;
+            var prevDot = false;
             while (j < ps.Length) {
                 var w = ss[i++];
                 if (char.IsWhiteSpace(w[0])) {
@@ -523,18 +522,26 @@ namespace ConApp {
                     continue;
                 }
 
-                var wp = ps[j].w; 
+                var wp = ps[j].w;
+                if (!w.StartsWith(wp) && prevDot && wp == ".") {
+                    j++;
+                    wp = ps[j].w;
+                }
                 if (w.Length < wp.Length)
                     throw new Exception();
 
                 while (w.Length >= wp.Length) {
-                    if (!w.StartsWith(wp))
+                    exQue.Enqueue($"{w} {wp}");
+                    while (exQue.Count > 10) exQue.Dequeue();
+                    if (!w.StartsWith(wp)) {
+                        exQue.ToList().ForEach(Console.WriteLine);
                         throw new Exception();
+                    }
 
                     if (!posTags.TryGetValue(ps[j].t, out var p)) {
                         p = "прочее";
                     }
-
+                    prevDot = wp.Last() == '.';
                     yield return (w: ps[j].w, p: p);
 
                     j++;
@@ -546,6 +553,61 @@ namespace ConApp {
             }
         }
 
+        static Dictionary<string, string> learnDic = ((Func<Dictionary<string,string>>)(() => {
+            var dic = new Dictionary<string, string>();
+            File.ReadAllLines(@"d:\Projects\smalls\learn-dic.txt").Select(x => {
+                var xsp = x.Split('}');
+                var k = xsp[0] + "}";
+                var v = xsp[1].Trim();
+                return (k, v);
+            }).ToList().ForEach(kv => {
+                if (kv.k.Count(x => x == ' ') > 1)
+                    return;
+
+                if (dic.ContainsKey(kv.k)) {
+                    dic[kv.k] = $"{dic[kv.k]}; {kv.v}";
+                }
+                else {
+                    dic[kv.k] = kv.v;
+                }
+            });
+            return dic;
+        }))();
+
+        static string getLearn(string s) {
+            s = s.ToLower();
+            var ssp = s.Split(' ');
+            if (!learnDic.TryGetValue(s, out var v) && lemmas.TryGetValue(ssp[0], out var lemma)) {
+                s = $"{lemma} {{{ssp[1]}}}";
+                learnDic.TryGetValue(s, out v);
+            }
+
+            if (v == null)
+                return null;
+
+            return $"{s} {v}";
+        }
+
+        static void learnStat(string path) {
+            var rDic = new Dictionary<string, int>();
+            foreach (var pos in posReduce(path)) {
+                var r = getLearn($"{pos.w} {{{pos.p}}}");
+                if (r == null)
+                    continue;
+
+                if (!rDic.ContainsKey(r)) {
+                    rDic[r] = 0;
+                }
+
+                rDic[r] += 1;
+            }
+
+            var rs = rDic.OrderByDescending(x => x.Value)
+                .Select(x => $"{x.Value} {x.Key}").ToArray();
+
+            File.WriteAllLines(pathEx(path, "-dic"), rs);
+        }
+
         static volatile bool ctrlC = false;
 
         [STAThread]
@@ -553,9 +615,11 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
             //prepareWords("d:/words.txt");
-            //fixQuotes(@"d:\.temp\3.txt");
+            //fixQuotes(@"d:\.temp\5.txt");
             //deepl(@"d:\.temp\1.txt");
-            File.WriteAllLines("d:/3.txt", posReduce("d:/.temp/3.txt ").Where(x => x.p != "пробел" && x.p != "прочее").Select(x => $"{x.w} {x.p}"));
+            //File.WriteAllLines("d:/3.txt", posReduce("d:/.temp/3.txt ").Where(x => x.p != "пробел" && x.p != "прочее").Select(x => $"{x.w} {x.p}"));
+
+            learnStat("d:/.temp/2.txt");
 
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
