@@ -53,6 +53,7 @@
     });
     
     function enru(s) {
+        s = s.replaceAll(/<\/?\w[^>]*>/g, "");
         var en = s.replaceAll(/[^a-zA-Z]+/g, "").length;
         var ru = s.replaceAll(/[^а-яА-Я]+/g, "").length;
         var sum = Math.max(1, en + ru);

@@ -8,303 +8,303 @@
 
 Sir Henry Clithering, ex-Commissioner of Scotland Yard, was staying with his friends the Bantrys at their place near the little village of St Mary Mead.
 
-Сэр Генри Клитеринг, бывший комиссар Скотланд-Ярда, гостил у своих друзей Бантри в их доме неподалеку от маленькой деревушки Сент-Мэри-Мид.
+Сэр Генри Клитеринг, бывший комиссар Скотланд-Ярда, гостил у своих друзей Бэнтри в их доме неподалеку от маленькой деревушки Сент-Мэри-Мид.
 
-On Saturday morning, coming down to breakfast at the pleasant guestly hour of ten fifteen, he almost collided with his hostess, Mrs Bantry, in the doorway of the breakfast room. She was rushing from the room, evidently in a condition of some excitement and distress.
+On Saturday morning, coming down to breakfast at the pleasant guestly hour of ten fifteen, he <span class='tip-wrap' data-text='almost [ОлмOуст] {наречие} почти'>**almost**<span class='tip-text'> </span></span> collided with his hostess, Mrs Bantry, in the doorway of the breakfast room. She was rushing from the room, evidently in a <span class='tip-wrap' data-text='condition [кэндЫшэн] {существительное} состояние; условие'>**condition**<span class='tip-text'> </span></span> of some excitement and distress.
 
 В субботу утром, спустившись к завтраку в приятный для гостей час десять пятнадцать, он чуть не столкнулся в дверях комнаты для завтрака со своей хозяйкой, миссис Бэнтри. Она выбегала из комнаты, очевидно, в состоянии некоторого волнения и расстройства.
 
-Colonel Bantry was sitting at the table, his face rather redder than usual.
+Colonel Bantry was sitting at the table, his face <span class='tip-wrap' data-text='rather [рЭðэр] {наречие} скорее; довольно'>**rather**<span class='tip-text'> </span></span> redder than <span class='tip-wrap' data-text='usual [йУжэуэл] {прилагательное} обычный [3]'>**usual**<span class='tip-text'> </span></span>.
 
-Полковник Бэнтри сидел за столом, его лицо было гораздо краснее, чем обычно.
+Полковник Бэнтри сидел за столом, лицо его было краснее обычного.
 
-'Morning, Clithering,' he said. 'Nice day. Help yourself.'
+"Morning, Clithering," he said. "Nice day. Help yourself."
 
-Доброе утро, Клитеринг, - сказал он. Хороший день. Угощайтесь.
+"Доброе утро, Клитеринг", - сказал он. "Хороший день. Угощайтесь".
 
 Sir Henry obeyed. As he took his seat, a plate of kidneys and bacon in front of him, his host went on:
 
 Сэр Генри повиновался. Когда он занял свое место, поставив перед собой тарелку с почками и беконом, хозяин продолжил:
 
-'Dolly's a bit upset this morning.'
+"Dolly's a bit upset this morning."
 
-Долли немного расстроена сегодня утром.
+"Долли немного расстроена сегодня утром".
 
-'Yes - er - I rather thought so,' said Sir Henry mildly.
+"Yes - er - I <span class='tip-wrap' data-text='rather [рЭðэр] {наречие} скорее; довольно'>**rather**<span class='tip-text'> </span></span> thought so," said Sir Henry mildly.
 
-Да... э-э... я скорее так и думал, - мягко ответил сэр Генри.
+"Да... э-э... я скорее так и думал", - мягко ответил сэр Генри.
 
 He wondered a little. His hostess was of a placid disposition, little given to moods or excitement. As far as Sir Henry knew, she felt keenly on one subject only - gardening.
 
 Он немного удивился. Его хозяйка отличалась спокойным нравом, мало подверженным настроениям и волнениям. Насколько сэр Генри знал, она остро переживала только по одному поводу - садоводству.
 
-'Yes,' said Colonel Bantry. 'Bit of news we got this morning upset her. Girl in the village - Emmott's daughter - Emmott who keeps the Blue Boar.'
+"Yes," said Colonel Bantry. "Bit of news we got this morning upset her. Girl in the village - Emmott's daughter - Emmott who keeps the Blue Boar."
 
-Да, - сказал полковник Бэнтри. Новости, которые мы получили сегодня утром, расстроили ее. Девушка из деревни - дочь Эммота - Эммота, который держит "Синего вепря".
+"Да, - сказал полковник Бэнтри. "Новости, которые мы получили сегодня утром, расстроили ее. Девушка из деревни - дочь Эммотта, Эммотта, который держит "Синего вепря"".
 
-'Oh, yes, of course.'
+"Oh, yes, of course."
 
-О, да, конечно.
+"О, да, конечно".
 
-'Ye-es,' said Colonel Bantry ruminatively. 'Pretty girl. Got herself into trouble. Usual story. I've been arguing with Dolly about that. Foolish of me. Women never see sense. Dolly was all up in arms for the girl - you know what women are - men are brutes - all the rest of it, etcetera. But it's not so simple as all that - not in these days. Girls know what they're about. Fellow who seduces a girl's not necessarily a villain. Fifty-fifty as often as not. I rather liked young Sandford myself. A young ass rather than a Don Juan, I should have said.'
+"Ye-es," said Colonel Bantry ruminatively. "<span class='tip-wrap' data-text='pretty [прЫти] {наречие} довольно'>**Pretty**<span class='tip-text'> </span></span> girl. Got herself into trouble. <span class='tip-wrap' data-text='usual [йУжэуэл] {прилагательное} обычный [3]'>**Usual**<span class='tip-text'> </span></span> story. I've been arguing with Dolly about that. Foolish of me. Women never see sense. Dolly was all up in arms for the girl - you know what women are - men are brutes - all the rest of it, etcetera. But it's not so simple as all that - not in these days. Girls know what they're about. Fellow who seduces a girl's not necessarily a villain. Fifty-fifty as often as not. I <span class='tip-wrap' data-text='rather [рЭðэр] {наречие} скорее; довольно'>**rather**<span class='tip-text'> </span></span> liked young Sandford myself. A young ass <span class='tip-wrap' data-text='rather [рЭðэр] {наречие} скорее; довольно'>**rather**<span class='tip-text'> </span></span> than a Don Juan, I <span class='tip-wrap' data-text='should [шУд] {глагол} должен'>**should**<span class='tip-text'> </span></span> have said."
 
-Да, - задумчиво произнес полковник Бэнтри. Хорошенькая девочка. Попала в беду. Обычная история. Я спорил об этом с Долли. Глупо с моей стороны. Женщины никогда не видят смысла. Долли была на стороне девушки - вы же знаете, какие бывают женщины, мужчины - грубияны, все остальное и так далее. Но не все так просто - не в наши дни. Девушки знают, что к чему. Тот, кто соблазняет девушку, не обязательно злодей. Чаще всего пятьдесят на пятьдесят. Мне и самому нравился молодой Сэндфорд. Молодой осел, а не Дон Жуан, я бы сказал".
+"Да", - сказал полковник Бэнтри задумчиво. "Хорошенькая девочка. Попала в беду. Обычная история. Я спорил об этом с Долли. Глупо с моей стороны. Женщины никогда не видят смысла. Долли была на стороне девушки - вы же знаете, какие бывают женщины, мужчины - грубияны, все остальное и так далее. Но не все так просто - не в наши дни. Девушки знают, что к чему. Тот, кто соблазняет девушку, не обязательно злодей. Чаще всего пятьдесят на пятьдесят. Мне и самому нравился молодой Сэндфорд. Молодой осел, а не Дон Жуан, я бы сказал".
 
-'It is this man Sandford who got the girl into trouble?'
+"It is this man Sandford who got the girl into trouble?"
 
-Именно этот человек, Сэндфорд, втянул девушку в неприятности?
+"И именно этот человек, Сэндфорд, втянул девушку в неприятности?"
 
-'So it seems. Of course I don't know anything personally,' said the colonel cautiously. 'It's all gossip and chat. You know what this place is! As I say, I know nothing. And I'm not like Dolly-leaping to conclusions, flinging accusations all over the place. Damn it all, one ought to be careful in what one says. You know - inquest and all that'
+"So it seems. Of course I don't know anything <span class='tip-wrap' data-text='personally [пЭрсэнэли] {наречие} лично [3]; персонально [3]; сам [2]'>**personally**<span class='tip-text'> </span></span>," said the colonel cautiously. "It's all gossip and chat. You know what this place is! As I say, I know nothing. And I'm not like Dolly-leaping to conclusions, flinging accusations all over the place. Damn it all, one <span class='tip-wrap' data-text='ought [От] {глагол} должен'>**ought**<span class='tip-text'> </span></span> to be careful in what one says. You know - inquest and all that"
 
-Похоже, что так. Конечно, я ничего не знаю лично, - осторожно сказал полковник. Это все сплетни и разговоры. Вы же знаете, что это за место! Как я уже сказал, я ничего не знаю. И я не такой, как Долли, чтобы делать поспешные выводы и бросаться обвинениями. Черт побери, надо быть осторожным в своих словах. Знаете, расследование и все такое".
+"Похоже, что так. Конечно, я ничего не знаю лично, - осторожно сказал полковник. "Это все сплетни и болтовня. Вы же знаете, что это за место! Как я уже сказал, я ничего не знаю. И я не такой, как Долли, чтобы делать поспешные выводы и бросаться обвинениями. Черт побери, надо быть осторожным в своих словах. Знаете, дознание и все такое".
 
-'Inquest?'
+"Inquest?"
 
-"Дознание?
+"Дознание?"
 
 Colonel Bantry stared.
 
 Полковник Бэнтри уставился на него.
 
-'Yes. Didn't I tell you? Girl drowned herself. That's what all the bother's about.'
+"Yes. Didn't I tell you? Girl drowned herself. That's what all the bother's about."
 
-Да. Разве я вам не говорила? Девушка утопилась. Вот из-за чего все эти хлопоты".
+"Да. Разве я не говорил вам? Девушка утопилась. Вот из-за чего все эти хлопоты".
 
-'That's a nasty business,' said Sir Henry.
+"That's a nasty business," said Sir Henry.
 
-Это неприятное дело, - сказал сэр Генри.
+"Это неприятное дело", - сказал сэр Генри.
 
-'Of course it is. Don't like to think of it myself. Poor pretty little devil. Her father's a hard man by all accounts. I suppose she just felt she couldn't face the music.'
+"Of course it is. Don't like to think of it myself. <span class='tip-wrap' data-text='poor [пУр] {прилагательное} плохой; бедный'>**Poor**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='pretty [прЫти] {наречие} довольно'>**pretty**<span class='tip-text'> </span></span> little devil. Her father's a hard man by all accounts. I <span class='tip-wrap' data-text='suppose [сэпOуз] {глагол} полагать [3]; предполагать [3]; допускать [2]; думать [2]'>**suppose**<span class='tip-text'> </span></span> she just felt she couldn't face the music."
 
-Конечно, это так. Мне и самому не хочется об этом думать. Бедная хорошенькая чертовка. Ее отец - суровый человек, судя по всему. Полагаю, она просто почувствовала, что не сможет противостоять музыке".
+"Конечно, неприятное. Мне и самому не хочется об этом думать. Бедная хорошенькая дьяволица. Ее отец - суровый человек, судя по всему. Полагаю, она просто почувствовала, что не может смириться с этим".
 
 He paused.
 
 Он сделал паузу.
 
-'That's what's upset Dolly so.'
+"That's what's upset Dolly so."
 
-Вот что так расстроило Долли.
+"Вот что так расстроило Долли".
 
-'Where did she drown herself?'
+"Where did she drown herself?"
 
-"Где она утопилась?
+"Где она утопилась?"
 
-'In the river. Just below the mill it runs pretty fast. There's a footpath and a bridge across. They think she threw herself off that. Well, well, it doesn't bear thinking about.'
+"In the river. Just below the mill it runs <span class='tip-wrap' data-text='pretty [прЫти] {наречие} довольно'>**pretty**<span class='tip-text'> </span></span> fast. There's a footpath and a bridge <span class='tip-wrap' data-text='across [экрОс] {предлог} через'>**across**<span class='tip-text'> </span></span>. They think she threw herself off that. Well, well, it doesn't <span class='tip-wrap' data-text='bear [бЕр] {глагол} нести'>**bear**<span class='tip-text'> </span></span> thinking about."
 
-В реке. Чуть ниже мельницы она течет довольно быстро. Там есть тропинка и мост через нее. Они думают, что она бросилась с него. Ну-ну, об этом не стоит думать".
+"В реке. Чуть ниже мельницы она течет довольно быстро. Там есть тропинка и мост через нее. Они думают, что она бросилась с него. Ну-ну, об этом не стоит думать".
 
 And with a portentous rustle, Colonel Bantry opened his newspaper and proceeded to distract his mind from painful matters by an absorption in the newest iniquities of the government.
 
 С предчувственным шелестом полковник Бэнтри раскрыл газету и принялся отвлекаться от наболевших вопросов, поглощенный новейшими беззакониями правительства.
 
-Sir Henry was only mildly interested by the village tragedy. After breakfast, he established himself on a comfortable chair on the lawn, tilted his hat over his eyes and contemplated life from a peaceful angle.
+Sir Henry was only mildly interested by the village <span class='tip-wrap' data-text='tragedy [трЭджэди] {существительное} трагедия [3]; трагизм [2]'>**tragedy**<span class='tip-text'> </span></span>. After breakfast, he established himself on a comfortable chair on the <span class='tip-wrap' data-text='lawn [лОн] {существительное} газон [3]; лужайка [3]'>**lawn**<span class='tip-text'> </span></span>, tilted his <span class='tip-wrap' data-text='hat [хЭт] {существительное} шляпа [3]; шапка [2]'>**hat**<span class='tip-text'> </span></span> over his eyes and contemplated life from a peaceful angle.
 
-Деревенская трагедия заинтересовала сэра Генри лишь в малой степени. После завтрака он устроился в удобном кресле на лужайке, надвинул шляпу на глаза и стал спокойно созерцать жизнь.
+Сэра Генри деревенская трагедия заинтересовала лишь в малой степени. Позавтракав, он устроился в удобном кресле на лужайке, надвинул шляпу на глаза и стал спокойно созерцать жизнь.
 
-It was about half past eleven when a neat parlourmaid tripped across the lawn.
+It was about half past eleven when a neat parlourmaid tripped <span class='tip-wrap' data-text='across [экрОс] {предлог} через'>**across**<span class='tip-text'> </span></span> the <span class='tip-wrap' data-text='lawn [лОн] {существительное} газон [3]; лужайка [3]'>**lawn**<span class='tip-text'> </span></span>.
 
-Было около половины одиннадцатого, когда аккуратная горничная, спотыкаясь, пересекла лужайку.
+Было около половины одиннадцатого, когда через лужайку, спотыкаясь, прошла опрятная горничная.
 
-'If you please, sir, Miss Marple has called, and would like to see you.'
+"If you please, sir, Miss Marple has called, and would like to see you."
 
-Если позволите, сэр, звонила мисс Марпл и хотела бы вас видеть.
+"Будьте добры, сэр, к вам звонила мисс Марпл и хотела бы вас видеть".
 
-'Miss Marple?'
+"Miss Marple?"
 
-Мисс Марпл?
+"Мисс Марпл?"
 
-Sir Henry sat up and straightened his hat. The name surprised him. He remembered Miss Marple very well - her gentle quiet old-maidish ways, her amazing penetration. He remembered a dozen unsolved and hypothetical cases - and how in each case this typical 'old maid of the village' had leaped unerringly to the right solution of the mystery. Sir Henry had a very deep respect for Miss Marple. He wondered what had brought her to see him.
+Sir Henry sat up and straightened his <span class='tip-wrap' data-text='hat [хЭт] {существительное} шляпа [3]; шапка [2]'>**hat**<span class='tip-text'> </span></span>. The name surprised him. He remembered Miss Marple very well - her gentle <span class='tip-wrap' data-text='quiet [куАйэт] {прилагательное} тихий'>**quiet**<span class='tip-text'> </span></span> old-maidish ways, her <span class='tip-wrap' data-text='amazing [эмЕйзыŋ] {прилагательное} удивительный [3]; изумительный [2]'>**amazing**<span class='tip-text'> </span></span> penetration. He remembered a dozen unsolved and hypothetical cases - and how in each case this typical "old maid of the village" had leaped unerringly to the right solution of the mystery. Sir Henry had a very deep respect for Miss Marple. He wondered what had brought her to see him.
 
-Сэр Генри сел и поправил шляпу. Имя удивило его. Он очень хорошо помнил мисс Марпл - ее мягкий тихий старушечий нрав, ее удивительную проницательность. Он помнил дюжину нераскрытых и гипотетических дел - и как в каждом случае эта типичная "старая дева из деревни" безошибочно находила верное решение загадки. Сэр Генри очень уважал мисс Марпл. Он задавался вопросом, что привело ее к нему.
+Сэр Генри сел и поправил шляпу. Это имя удивило его. Он очень хорошо помнил мисс Марпл - ее мягкий тихий старушечий нрав, ее удивительную проницательность. Он помнил дюжину нераскрытых и гипотетических дел - и как в каждом случае эта типичная "старая дева из деревни" безошибочно находила верное решение загадки. Сэр Генри глубоко уважал мисс Марпл. Ему было интересно, что привело ее к нему.
 
-Miss Marple was sitting in the drawing-room - very upright as always, a gaily coloured marketing basket of foreign extraction beside her. Her cheeks were rather pink and she seemed flustered.
+Miss Marple was sitting in the <span class='tip-wrap' data-text='drawing [дрОыŋ] {существительное} графика [3]; рисунок [3]; розыгрыш [3]; чертеж [3]; рисование [2]; черчение [2]; волочение [2]'>**drawing**<span class='tip-text'> </span></span>-room - very upright as always, a gaily coloured marketing basket of foreign extraction beside her. Her cheeks were <span class='tip-wrap' data-text='rather [рЭðэр] {наречие} скорее; довольно'>**rather**<span class='tip-text'> </span></span> pink and she seemed flustered.
 
-Мисс Марпл сидела в гостиной - как всегда, очень прямо, рядом с ней стояла яркая корзинка с товаром иностранного производства. Ее щеки были розовыми, и она выглядела взволнованной.
+Мисс Марпл сидела в гостиной - как всегда, очень прямо, рядом с ней стояла нарядная корзинка иностранного производства. Ее щеки были розовыми, и она выглядела взволнованной.
 
-'Sir Henry - I am so glad. So fortunate to find you. I just happened to hear that you were staying down here... I do hope you will forgive me...'
+"Sir Henry - I am so <span class='tip-wrap' data-text='glad [глЭд] {прилагательное} радостный [2]; довольный [2]; приятный [1]; счастливый [1]; веселый [1]; утешительный [1]; яркий [1]; прекрасный [1]'>**glad**<span class='tip-text'> </span></span>. So fortunate to find you. I just happened to hear that you were staying down here... I do hope you will forgive me..."
 
-Сэр Генри - я так рада. Мне так повезло, что я нашел вас. Я случайно услышала, что вы остановились здесь... Надеюсь, вы простите меня...
+"Сэр Генри, я так рада. Мне так повезло, что я нашла вас. Я просто случайно услышала, что вы остановились здесь... Надеюсь, вы простите меня..."
 
-'This is a great pleasure,' said Sir Henry, taking her hand. 'I'm afraid Mrs Bantry's out.'
+"This is a great pleasure," said Sir Henry, taking her hand. "I'm afraid Mrs Bantry's out."
 
-Очень приятно, - сказал сэр Генри, беря ее за руку. Боюсь, миссис Бэнтри нет дома.
+"Это очень приятно", - сказал сэр Генри, взяв ее за руку. "Боюсь, миссис Бэнтри нет дома".
 
-'Yes,' said Miss Marple. 'I saw her talking to Footit, the butcher, as I passed. Henry Footit was run over yesterday - that was his dog. One of those smooth-haired fox terriers, rather stout and quarrelsome, that butchers always seem to have.'
+"Yes," said Miss Marple. "I saw her talking to Footit, the butcher, as I passed. Henry Footit was run over yesterday - that was his dog. One of <span class='tip-wrap' data-text='those [ðOуз] {определитель} те'>**those**<span class='tip-text'> </span></span> smooth-haired fox terriers, <span class='tip-wrap' data-text='rather [рЭðэр] {наречие} скорее; довольно'>**rather**<span class='tip-text'> </span></span> stout and quarrelsome, that butchers always seem to have."
 
-Да, - сказала мисс Марпл. Я видела, как она разговаривала с мясником Футитом, когда проходила мимо. Генри Футита вчера задавили - это была его собака. Один из тех гладкошерстных фокс-терьеров, довольно крепких и драчливых, которые всегда есть у мясников".
+"Да", - сказала мисс Марпл. "Я видела, как она разговаривала с мясником Футитом, когда проходила мимо. Генри Футита вчера сбили - это была его собака. Один из тех гладкошерстных фокс-терьеров, довольно упитанных и драчливых, которые всегда есть у мясников".
 
-'Yes,' said Sir Henry helpfully.
+"Yes," said Sir Henry helpfully.
 
-Да, - сказал сэр Генри с готовностью.
+"Да, - сказал сэр Генри с готовностью.
 
-'I was glad to get here when she wasn't at home,' continued Miss Marple. 'Because it was you I wanted to see. About this sad affair.'
+"I was <span class='tip-wrap' data-text='glad [глЭд] {прилагательное} радостный [2]; довольный [2]; приятный [1]; счастливый [1]; веселый [1]; утешительный [1]; яркий [1]; прекрасный [1]'>**glad**<span class='tip-text'> </span></span> to get here when she wasn't at home," continued Miss Marple. "Because it was you I wanted to see. About this <span class='tip-wrap' data-text='sad [сЭд] {прилагательное} печальный [3]; грустный [2]; унылый [2]'>**sad**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='affair [эфЕр] {существительное} дело; роман'>**affair**<span class='tip-text'> </span></span>."
 
-Я была рада приехать сюда, когда ее не было дома, - продолжала мисс Марпл. Потому что я хотела увидеть именно вас. Об этом печальном деле".
+"Я была рада приехать сюда, когда ее не было дома, - продолжала мисс Марпл. "Потому что я хотела увидеть именно вас. Об этом печальном деле".
 
-'Henry Footit?' asked Sir Henry, slightly bewildered.
+"Henry Footit?" asked Sir Henry, <span class='tip-wrap' data-text='slightly [слАйтли] {наречие} немного'>**slightly**<span class='tip-text'> </span></span> bewildered.
 
-Генри Футит?" - спросил сэр Генри, слегка растерявшись.
+"Генри Футит?" - спросил сэр Генри, слегка растерявшись.
 
 Miss Marple threw him a reproachful glance.
 
 Мисс Марпл бросила на него укоризненный взгляд.
 
-'No, no. Rose Emmott, of course. You've heard?'
+"No, no. Rose Emmott, of course. You've heard?"
 
-Нет, нет. Роуз Эммотт, конечно. Вы слышали?
+"Нет, нет. Роуз Эммотт, конечно. Вы слышали?"
 
 Sir Henry nodded.
 
 Сэр Генри кивнул.
 
-'Bantry was telling me. Very sad.'
+"Bantry was telling me. Very <span class='tip-wrap' data-text='sad [сЭд] {прилагательное} печальный [3]; грустный [2]; унылый [2]'>**sad**<span class='tip-text'> </span></span>."
 
-Бэнтри рассказывал мне. Очень грустно".
+"Бэнтри рассказывал мне. Очень печально".
 
-He was a little puzzled. He could not conceive why Miss Marple should want to see him about Rose Emmott.
+He was a little puzzled. He could not conceive why Miss Marple <span class='tip-wrap' data-text='should [шУд] {глагол} должен'>**should**<span class='tip-text'> </span></span> want to see him about Rose Emmott.
 
-Он был слегка озадачен. Он не мог понять, почему мисс Марпл захотела встретиться с ним по поводу Роуз Эммотт.
+Он был слегка озадачен. Он не мог понять, почему мисс Марпл хочет видеть его из-за Роуз Эммотт.
 
-Miss Marple sat down again. Sir Henry also sat. When the old lady spoke her manner had changed. It was grave, and had a certain dignity.
+Miss Marple sat down again. Sir Henry also sat. When the old lady spoke her <span class='tip-wrap' data-text='manner [мЭнэр] {существительное} способ (также манера)'>**manner**<span class='tip-text'> </span></span> had changed. It was grave, and had a certain dignity.
 
-Мисс Марпл снова села. Сэр Генри тоже сел. Когда старая леди заговорила, ее манера изменилась. Она стала серьезной, в ней появилось некое достоинство.
+Мисс Марпл снова села. Сэр Генри тоже сел. Когда старая леди заговорила, ее манера изменилась. Она стала серьезной и с некоторым достоинством.
 
-'You may remember, Sir Henry, that on one or two occasions we played what was really a pleasant kind of game. Propounding mysteries and giving solutions. You were kind enough to say that I - that I did not do too badly.'
+"You may remember, Sir Henry, that on one or two occasions we played what was really a pleasant kind of game. Propounding mysteries and giving solutions. You were kind <span class='tip-wrap' data-text='enough [ынАф] {наречие} достаточно'>**enough**<span class='tip-text'> </span></span> to say that I - that I did not do too badly."
 
-Вы, наверное, помните, сэр Генри, что в одном или двух случаях мы играли в очень приятную игру. Загадывали загадки и находили решения. Вы были достаточно любезны, чтобы сказать, что я... что я не слишком плохо справился".
+"Вы, наверное, помните, сэр Генри, что в одном или двух случаях мы играли в очень приятную игру. Загадывали загадки и давали решения. Вы были достаточно любезны, чтобы сказать, что я - что я не так уж плохо справился".
 
-'You beat us all,' said Sir Henry warmly. 'You displayed an absolute genius for getting to die truth. And you always instanced, I remember, some village parallel which had supplied you with the clue.'
+"You beat us all," said Sir Henry warmly. "You displayed an absolute genius for getting to die truth. And you always instanced, I remember, some village parallel which had supplied you with the clue."
 
-Вы победили нас всех, - тепло сказал сэр Генри. Вы проявили абсолютный гений в том, чтобы докопаться до истины. И вы всегда приводили в пример какую-нибудь деревенскую параллель, которая дала вам ключ к разгадке".
+"Вы обыграли нас всех", - тепло сказал сэр Генри. "Вы проявили абсолютный гений в докапывании до истины. И вы всегда приводили в пример, как мне помнится, какую-нибудь деревенскую параллель, которая давала вам ключ к разгадке".
 
 He smiled as he spoke, but Miss Marple did not smile. She remained very grave.
 
-Он улыбался, когда говорил, но мисс Марпл не улыбалась. Она оставалась очень серьезной.
+Он улыбнулся, но мисс Марпл не улыбнулась. Она оставалась очень серьезной.
 
-'What you said has emboldened me to come to you now. I feel that if I say something to you - at least you will not laugh at me.'
+"What you said has emboldened me to come to you now. I feel that if I say something to you - at <span class='tip-wrap' data-text='least [лИст] {наречие} наименее'>**least**<span class='tip-text'> </span></span> you will not <span class='tip-wrap' data-text='laugh [лЭф] {глагол} смеяться'>**laugh**<span class='tip-text'> </span></span> at me."
 
-То, что вы сказали, подтолкнуло меня прийти к вам сейчас. Я чувствую, что если я что-то скажу вам, вы, по крайней мере, не будете смеяться надо мной".
+"Ваши слова подтолкнули меня к тому, чтобы прийти к вам сейчас. Я чувствую, что если скажу вам что-то, вы, по крайней мере, не будете смеяться надо мной".
 
 He realized suddenly that she was in deadly earnest.
 
 Он вдруг понял, что она говорит совершенно серьезно.
 
-'Certainly, I will not laugh,' he said gently.
+"Certainly, I will not <span class='tip-wrap' data-text='laugh [лЭф] {глагол} смеяться'>**laugh**<span class='tip-text'> </span></span>," he said <span class='tip-wrap' data-text='gently [джЕнтли] {наречие} нежно [3]; мягко [3]; осторожно [3]; тихо [2]; спокойно [2]; кротко [2]'>**gently**<span class='tip-text'> </span></span>.
 
-Конечно, я не буду смеяться, - мягко сказал он.
+"Конечно, я не буду смеяться", - мягко сказал он.
 
-'Sir Henry - this girl - Rose Emmott. She did not drown herself - she was murdered... And I know who murdered her.'
+"Sir Henry - this girl - Rose Emmott. She did not drown herself - she was murdered... And I know who murdered her."
 
-Сэр Генри, эта девушка - Роуз Эммотт. Она не утопилась - ее убили... И я знаю, кто ее убил".
+"Сэр Генри, эта девушка - Роуз Эммотт. Она не утопилась - ее убили... И я знаю, кто ее убил".
 
-Sir Henry was silent with sheer astonishment for quite three seconds. Miss Marple's voice had been perfectly quiet and unexcited. She might have been making the most ordinary statement in the world for all the emotion she showed.
+Sir Henry was <span class='tip-wrap' data-text='silent [сАйлэнт] {прилагательное} тихий [3]; молчаливый [2]; немой [2]; безмолвный [2]'>**silent**<span class='tip-text'> </span></span> with sheer astonishment for <span class='tip-wrap' data-text='quite [куАйт] {наречие} довольно'>**quite**<span class='tip-text'> </span></span> three seconds. Miss Marple's voice had been perfectly <span class='tip-wrap' data-text='quiet [куАйэт] {прилагательное} тихий'>**quiet**<span class='tip-text'> </span></span> and unexcited. She <span class='tip-wrap' data-text='might [мАйт] {глагол} может быть'>**might**<span class='tip-text'> </span></span> have been making the <span class='tip-wrap' data-text='most [мOуст] {наречие} очень'>**most**<span class='tip-text'> </span></span> ordinary <span class='tip-wrap' data-text='statement [стЕйтмэнт] {существительное} заявление'>**statement**<span class='tip-text'> </span></span> in the world for all the <span class='tip-wrap' data-text='emotion [ымOушэн] {существительное} эмоция [3]; чувство [2]; волнение [2]'>**emotion**<span class='tip-text'> </span></span> she showed.
 
-Сэр Генри молчал от изумления целых три секунды. Голос мисс Марпл был совершенно тихим и невозмутимым. Она могла бы сделать самое обычное заявление в мире, если бы не проявленные ею эмоции.
+Сэр Генри молчал от изумления целых три секунды. Голос мисс Марпл был совершенно спокойным и невозмутимым. Она могла бы сделать самое обычное заявление в мире, если бы не проявленные ею эмоции.
 
-'This is a very serious statement to make, Miss Marple,' said Sir Henry when he had recovered his breath.
+"This is a very serious <span class='tip-wrap' data-text='statement [стЕйтмэнт] {существительное} заявление'>**statement**<span class='tip-text'> </span></span> to make, Miss Marple," said Sir Henry when he had recovered his <span class='tip-wrap' data-text='breath [брЕθ] {существительное} вздох (осн. дыхание)'>**breath**<span class='tip-text'> </span></span>.
 
-Это очень серьезное заявление, мисс Марпл, - сказал сэр Генри, восстановив дыхание.
+"Это очень серьезное заявление, мисс Марпл", - сказал сэр Генри, когда восстановил дыхание.
 
-She nodded her head gently several times.
+She nodded her head <span class='tip-wrap' data-text='gently [джЕнтли] {наречие} нежно [3]; мягко [3]; осторожно [3]; тихо [2]; спокойно [2]; кротко [2]'>**gently**<span class='tip-text'> </span></span> several times.
 
 Она несколько раз осторожно кивнула головой.
 
-'I know - I know - that is why I have come to you.'
+"I know - I know - that is why I have come to you."
 
-Я знаю, знаю, поэтому и пришел к вам".
+"Я знаю, знаю, поэтому я и пришла к вам".
 
-'But, my dear lady, I am not the person to come to. I am merely a private individual nowadays. If you have knowledge of the kind you claim, you must go to the police.'
+"But, my dear lady, I am not the person to come to. I am merely a private individual nowadays. If you have knowledge of the kind you claim, you must go to the police."
 
-Но, милая леди, я не тот человек, к которому следует обращаться. В настоящее время я всего лишь частное лицо. Если у вас есть сведения, о которых вы заявляете, вы должны обратиться в полицию".
+"Но, милая леди, я не тот человек, к которому следует приходить. В настоящее время я всего лишь частное лицо. Если у вас есть сведения, о которых вы заявляете, вы должны обратиться в полицию".
 
-'I don't think I can do that,' said Miss Marple.
+"I don't think I can do that," said Miss Marple.
 
-Не думаю, что смогу это сделать, - сказала мисс Марпл.
+"Не думаю, что я могу это сделать", - сказала мисс Марпл.
 
-'But why not?'
+"But why not?"
 
-"Но почему бы и нет?
+"Но почему?"
 
-'Because, you see, I haven't got any - what you call knowledge.'
+"Because, you see, I haven't got any - what you call knowledge."
 
-Потому что, видите ли, у меня нет того, что вы называете знаниями.
+"Потому что, видите ли, у меня нет того, что вы называете знанием".
 
-'You mean it's only a guess on your part?'
+"You mean it's only a guess on your part?"
 
-Вы хотите сказать, что это всего лишь ваше предположение?
+"Вы имеете в виду, что с вашей стороны это всего лишь предположение?"
 
-'You can call it that, if you like, but it's not really that at all. I know. I'm in a position to know; but if I gave my reasons for knowing to Inspector Drewitt - well, he'd simply laugh. And really, I don't know that I'd blame him. It's very difficult to understand what you might call specialized knowledge.'
+"You can call it that, if you like, but it's not really that at all. I know. I'm in a position to know; but if I gave my reasons for knowing to Inspector Drewitt - well, he'd <span class='tip-wrap' data-text='simply [сЫмпли] {наречие} просто'>**simply**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='laugh [лЭф] {глагол} смеяться'>**laugh**<span class='tip-text'> </span></span>. And really, I don't know that I'd blame him. It's very difficult to understand what you <span class='tip-wrap' data-text='might [мАйт] {глагол} может быть'>**might**<span class='tip-text'> </span></span> call specialized knowledge."
 
-Можешь называть это так, если хочешь, но на самом деле это совсем не так. Я знаю. Я в состоянии знать; но если бы я рассказал о своих догадках инспектору Дрюитту - он бы просто рассмеялся. И на самом деле, не знаю, стоит ли его винить. Очень трудно понять то, что можно назвать специальными знаниями".
+"Можете называть это так, если хотите, но на самом деле это совсем не так. Я знаю. Я в состоянии знать; но если бы я объяснил свои догадки инспектору Дрюитту - он бы просто рассмеялся. И на самом деле, не знаю, стоит ли его винить. Очень трудно понять то, что можно назвать специальными знаниями".
 
-'Such as?' suggested Sir Henry.
+"Such as?" suggested Sir Henry.
 
-Например?" - предположил сэр Генри.
+"Например?" - предположил сэр Генри.
 
 Miss Marple smiled a little.
 
 Мисс Марпл слегка улыбнулась.
 
-'If I were to tell you that I know because of a man called Peasegood leaving turnips instead of carrots when he came round with a can and sold vegetables to my niece several years ago -'
+"If I were to tell you that I know because of a man called Peasegood leaving turnips instead of carrots when he came round with a can and sold vegetables to my niece several years ago -"
 
-Если я скажу вам, что знаю об этом, потому что человек по имени Писегуд оставил репу вместо моркови, когда несколько лет назад пришел с бидоном и продал овощи моей племяннице...
+"Если я скажу вам, что знаю это благодаря человеку по имени Пизгуд, который оставил репу вместо моркови, когда несколько лет назад пришел с бидоном и продал овощи моей племяннице..."
 
 She stopped eloquently.
 
 Она красноречиво остановилась.
 
-'A very appropriate name for the trade,' murmured Sir Henry. 'You mean that you are simply judging from the facts in a parallel case.'
+"A very appropriate name for the <span class='tip-wrap' data-text='trade [трЕйд] {существительное} сделка (также торговля); ремесло (также торговля)'>**trade**<span class='tip-text'> </span></span>," murmured Sir Henry. "You mean that you are <span class='tip-wrap' data-text='simply [сЫмпли] {наречие} просто'>**simply**<span class='tip-text'> </span></span> judging from the facts in a parallel case."
 
-"Очень подходящее название для профессии", - пробормотал сэр Генри. Вы хотите сказать, что просто судите по фактам в параллельном деле?
+"Очень подходящее название для этой профессии", - пробормотал сэр Генри. "Вы хотите сказать, что просто судите по фактам в параллельном случае".
 
-'I know human nature,' said Miss Marple. 'It's impossible not to know human nature living in a village all these years. The question is, do you believe me, or don't you?'
+"I know human <span class='tip-wrap' data-text='nature [нЕйчэр] {существительное} характер (также природа)'>**nature**<span class='tip-text'> </span></span>," said Miss Marple. "It's impossible not to know human <span class='tip-wrap' data-text='nature [нЕйчэр] {существительное} характер (также природа)'>**nature**<span class='tip-text'> </span></span> living in a village all these years. The question is, do you believe me, or don't you?"
 
-Я знаю человеческую природу, - сказала мисс Марпл. Невозможно не знать человеческую природу, живя в деревне все эти годы. Вопрос в том, верите вы мне или нет?
+"Я знаю человеческую природу", - сказала мисс Марпл. "Невозможно не знать человеческую природу, живя в деревне все эти годы. Вопрос в том, верите вы мне или нет?"
 
-She looked at him very straight. The pink flush had heightened on her cheeks. Her eyes met his steadily without wavering.
+She looked at him very <span class='tip-wrap' data-text='straight [стрЕйт] {наречие} прямо'>**straight**<span class='tip-text'> </span></span>. The pink flush had heightened on her cheeks. Her eyes met his steadily without wavering.
 
 Она смотрела на него очень прямо. Розовый румянец усилился на ее щеках. Ее глаза смотрели на него неотрывно, не дрогнув.
 
-Sir Henry was a man with a very vast experience of life. He made his decisions quickly without beating about the bush. Unlikely and fantastic as Miss Marple's statement might seem, he was instantly aware that he accepted it.
+Sir Henry was a man with a very vast experience of life. He made his decisions quickly without beating about the bush. Unlikely and fantastic as Miss Marple's <span class='tip-wrap' data-text='statement [стЕйтмэнт] {существительное} заявление'>**statement**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='might [мАйт] {глагол} может быть'>**might**<span class='tip-text'> </span></span> seem, he was instantly aware that he accepted it.
 
 Сэр Генри был человеком с огромным жизненным опытом. Он принимал решения быстро, не раздумывая. Каким бы неправдоподобным и фантастическим ни казалось заявление мисс Марпл, он мгновенно понял, что согласен с ним.
 
-'I do believe you, Miss Marple. But I do not see what you want me to do in the matter, or why you have come to me.'
+"I do believe you, Miss Marple. But I do not see what you want me to do in the <span class='tip-wrap' data-text='matter [мЭтэр] {существительное} вопрос (также материя); дело (также материя)'>**matter**<span class='tip-text'> </span></span>, or why you have come to me."
 
-Я верю вам, мисс Марпл. Но я не понимаю, чего вы от меня хотите и почему пришли ко мне".
+"Я верю вам, мисс Марпл. Но я не понимаю, что вы хотите от меня в этом деле и почему вы пришли ко мне".
 
-'I have thought and thought about it,' said Miss Marple. 'As I said, it would be useless going to the police without any facts. I have no facts. What I would ask you to do is to interest yourself in the matter - Inspector Drewitt would be most flattered, I am sure. And, of course, if the matter went farther. Colonel Melchett, the Chief Constable, I am sure, would be wax in your hands.'
+"I have thought and thought about it," said Miss Marple. "As I said, it would be useless going to the police without any facts. I have no facts. What I would ask you to do is to interest yourself in the <span class='tip-wrap' data-text='matter [мЭтэр] {существительное} вопрос (также материя); дело (также материя)'>**matter**<span class='tip-text'> </span></span> - Inspector Drewitt would be <span class='tip-wrap' data-text='most [мOуст] {наречие} очень'>**most**<span class='tip-text'> </span></span> flattered, I am <span class='tip-wrap' data-text='sure [шУр] {прилагательное} верный; уверенный'>**sure**<span class='tip-text'> </span></span>. And, of course, if the <span class='tip-wrap' data-text='matter [мЭтэр] {существительное} вопрос (также материя); дело (также материя)'>**matter**<span class='tip-text'> </span></span> went farther. Colonel Melchett, the Chief Constable, I am <span class='tip-wrap' data-text='sure [шУр] {прилагательное} верный; уверенный'>**sure**<span class='tip-text'> </span></span>, would be wax in your hands."
 
-Я думала и думала об этом, - сказала мисс Марпл. Как я уже сказала, обращаться в полицию без каких-либо фактов бесполезно. У меня нет никаких фактов. Я бы попросила вас заинтересоваться этим делом - инспектор Дрюитт был бы очень польщен, я уверена. И, конечно, если дело пойдет дальше. Полковник Мелчетт, главный констебль, я уверен, будет в ваших руках воском".
+"Я думала и думала об этом", - сказала мисс Марпл. "Как я уже сказала, обращаться в полицию без каких-либо фактов бесполезно. А у меня нет никаких фактов. Я бы попросила вас заинтересоваться этим делом - инспектор Дрюитт будет очень польщен, я уверена. И, конечно, если дело пойдет дальше. Полковник Мелчетт, главный констебль, я уверена, будет в ваших руках воском".
 
 She looked at him appealingly.
 
 Она призывно посмотрела на него.
 
-'And what data are you going to give me to work upon?'
+"And what data are you going to give me to work <span class='tip-wrap' data-text='upon [эпАн] {предлог} по; на; после'>**upon**<span class='tip-text'> </span></span>?"
 
-'И какие данные вы собираетесь предоставить мне для работы?'
+"И какие же данные вы собираетесь предоставить мне для работы?"
 
-'I thought,' said Miss Marple, 'of writing a name - the name - on a piece of paper and giving it to you. Then if, on investigation, you decided that the - the person - is not involved in any way - well, I shall have been quite wrong.'
+"I thought," said Miss Marple, "of writing a name - the name - on a <span class='tip-wrap' data-text='piece [пИс] {существительное} кусок (также пьеса)'>**piece**<span class='tip-text'> </span></span> of paper and giving it to you. Then if, on investigation, you decided that the - the person - is not involved in any way - well, I <span class='tip-wrap' data-text='shall [шЭл] {глагол} будущее от первого лица [3]'>**shall**<span class='tip-text'> </span></span> have been <span class='tip-wrap' data-text='quite [куАйт] {наречие} довольно'>**quite**<span class='tip-text'> </span></span> wrong."
 
-"Я подумала, - сказала мисс Марпл, - написать имя - имя - на листке бумаги и отдать его вам. Тогда, если в ходе расследования вы решите, что этот человек ни при чем, - что ж, я буду совершенно не права".
+"Я подумала, - сказала мисс Марпл, - написать имя - имя - на листке бумаги и отдать его вам. Тогда, если в ходе расследования вы решите, что этот человек никак не связан с делом, - что ж, я буду совершенно не права".
 
-She paused and then added with a slight shiver. 'It would be so dreadful - so very dreadful - if an innocent person were to be hanged.'
+She paused and then added with a slight shiver. "It would be so dreadful - so very dreadful - if an innocent person were to be hanged."
 
-Она сделала паузу, а затем добавила с легкой дрожью. Это было бы так ужасно - так ужасно, - если бы повесили невиновного человека".
+Она сделала паузу, а затем добавила с легкой дрожью. "Было бы ужасно - очень ужасно, - если бы повесили невиновного человека".
 
-'What on earth -' cried Sir Henry, startled.
+"What on earth -" cried Sir Henry, startled.
 
-Что за черт... - вскричал сэр Генри, пораженный.
+"Что за черт..." - вскричал сэр Генри, пораженный.
 
-She turned a distressed face upon him.
+She turned a distressed face <span class='tip-wrap' data-text='upon [эпАн] {предлог} по; на; после'>**upon**<span class='tip-text'> </span></span> him.
 
-Она повернула к нему расстроенное лицо.
+Она повернула к нему страдальческое лицо.
 
-'I may be wrong about that - though I don't think so. Inspector Drewitt you see, is really an intelligent man. But a mediocre amount of intelligence is sometimes most dangerous. It does not take one far enough.'
+"I may be wrong about that - though I don't think so. Inspector Drewitt you see, is really an intelligent man. But a mediocre amount of intelligence is sometimes <span class='tip-wrap' data-text='most [мOуст] {наречие} очень'>**most**<span class='tip-text'> </span></span> dangerous. It does not take one far <span class='tip-wrap' data-text='enough [ынАф] {наречие} достаточно'>**enough**<span class='tip-text'> </span></span>."
 
-Возможно, я ошибаюсь, хотя вряд ли. Инспектор Дрюитт, как видите, действительно умный человек. Но заурядный интеллект иногда очень опасен. Он не заводит человека достаточно далеко".
+"Возможно, я ошибаюсь, но я так не думаю. Инспектор Дрюитт, как вы видите, действительно умный человек. Но заурядный интеллект иногда очень опасен. Он не заводит человека достаточно далеко".
 
 Sir Henry looked at her curiously.
 
@@ -312,359 +312,359 @@ Sir Henry looked at her curiously.
 
 Fumbling a little, Miss Marple opened a small reticule, took out a little notebook, tore out a leaf, carefully wrote a name on it and folding it in two, handed it to Sir Henry.
 
-Немного повозившись, мисс Марпл открыла небольшой ридикюль, достала маленький блокнот, вырвала листок, аккуратно написала на нем имя и, сложив его вдвое, протянула сэру Генри.
+Немного поколебавшись, мисс Марпл открыла маленький ридикюль, достала записную книжку, вырвала листок, аккуратно написала на нем имя и, сложив его вдвое, протянула сэру Генри.
 
-He opened it and read the name. It conveyed nothing to him, but his eyebrows lifted a little. He looked across at Miss Marple and tucked the piece of paper in his pocket.
+He opened it and read the name. It conveyed nothing to him, but his eyebrows lifted a little. He looked <span class='tip-wrap' data-text='across [экрОс] {предлог} через'>**across**<span class='tip-text'> </span></span> at Miss Marple and tucked the <span class='tip-wrap' data-text='piece [пИс] {существительное} кусок (также пьеса)'>**piece**<span class='tip-text'> </span></span> of paper in his pocket.
 
-Он открыл его и прочитал имя. Оно ничего не говорило ему, но его брови слегка приподнялись. Он посмотрел на мисс Марпл и спрятал бумажку в карман.
+Он открыл его и прочитал имя. Оно ничего не говорило ему, но его брови слегка приподнялись. Он посмотрел на мисс Марпл и спрятал листок в карман.
 
-'Well, well,' he said. 'Rather an extraordinary business, this. I've never done anything like it before. But I'm going to back my judgment - of you, Miss Marple.'
+"Well, well," he said. "<span class='tip-wrap' data-text='rather [рЭðэр] {наречие} скорее; довольно'>**Rather**<span class='tip-text'> </span></span> an extraordinary business, this. I've never done anything like it before. But I'm going to <span class='tip-wrap' data-text='back [бЭк] {глагол} поддерживать'>**back**<span class='tip-text'> </span></span> my judgment - of you, Miss Marple."
 
-Так, так, - сказал он. Довольно необычное дело. Я никогда раньше не занимался ничем подобным. Но я буду придерживаться своего мнения - о вас, мисс Марпл".
+"Ну-ну", - сказал он. "Довольно необычное дело. Я никогда раньше не занимался ничем подобным. Но я собираюсь поддержать свое суждение - о вас, мисс Марпл".
 
 Sir Henry was sitting in a room with Colonel Melchett, the Chief Constable of the county, and Inspector Drewitt.
 
 Сэр Генри сидел в комнате с полковником Мелчеттом, главным констеблем графства, и инспектором Дрюиттом.
 
-The Chief Constable was a little man of aggressively military demeanour. The Inspector was big and broad and eminently sensible.
+The Chief Constable was a little man of aggressively military demeanour. The Inspector was big and <span class='tip-wrap' data-text='broad [брОд] {прилагательное} широкий'>**broad**<span class='tip-text'> </span></span> and eminently sensible.
 
-Главный констебль был маленьким человеком с агрессивным военным характером. Инспектор был крупным, широкоплечим и очень разумным.
+Главный констебль был маленьким человечком с агрессивной военной выправкой. Инспектор был крупным, широкоплечим и необычайно рассудительным.
 
-'I really do feel I'm butting in,' said Sir Henry with his pleasant smile. 'I can't really tell you why I'm doing it' (Strict truth this!)
+"I really do feel I'm butting in," said Sir Henry with his pleasant smile. "I can't really tell you why I'm doing it" (Strict truth this!)
 
-"Я действительно чувствую, что вмешиваюсь, - сказал сэр Генри с приятной улыбкой. Не могу сказать, зачем я это делаю" (Строгая правда!).
+"Я действительно чувствую, что вмешиваюсь, - сказал сэр Генри с приятной улыбкой. "Я не могу сказать, почему я это делаю" (Строгая правда!).
 
-'My dear fellow, we're charmed. It's a great compliment.'
+"My dear fellow, we're charmed. It's a great compliment."
 
-Дорогой друг, мы очарованы. Это большой комплимент".
+"Мой дорогой друг, мы очарованы. Это большой комплимент".
 
-'Honoured, Sir Henry,' said the Inspector.
+"Honoured, Sir Henry," said the Inspector.
 
-Честь имею, сэр Генри, - сказал инспектор.
+"Честь имею, сэр Генри", - сказал инспектор.
 
-The Chief Constable was thinking: 'Bored to death, poor fellow, at the Bantrys. The old man abusing the government and the old woman babbling on about bulbs.'
+The Chief Constable was thinking: "Bored to death, <span class='tip-wrap' data-text='poor [пУр] {прилагательное} плохой; бедный'>**poor**<span class='tip-text'> </span></span> fellow, at the Bantrys. The old man abusing the government and the old woman babbling on about bulbs."
 
-Главный констебль подумал: "Скучно до смерти, бедняга, в Бантрисе. Старик издевается над правительством, а старуха болтает о лампочках".
+Главный констебль задумался: "Скучно до смерти, бедняга, в Бантрисе. Старик ругает правительство, а старуха болтает о лампочках".
 
-The Inspector was thinking: 'Pity we're not up against a real teaser. One of the best brains in England, I've heard it said. Pity it's all such plain sailing.'
+The Inspector was thinking: "Pity we're not up <span class='tip-wrap' data-text='against [эгЕнст] {предлог} от; против'>**against**<span class='tip-text'> </span></span> a real teaser. One of the best brains in England, I've heard it said. Pity it's all such plain sailing."
 
-Инспектор подумал: "Жаль, что мы не имеем дело с настоящим тизером. Один из лучших мозгов в Англии, как я слышал. Жаль, что все так просто".
+Инспектор размышлял: "Жаль, что мы не имеем дело с настоящим тизером. Один из лучших мозгов в Англии, как я слышал. Жаль, что все так просто".
 
 Aloud, the Chief Constable said:
 
-Вслух главный констебль сказал:
+Вслух же главный констебль произнес:
 
-'I'm afraid it's all very sordid and straightforward. First idea was that the girl had pitched herself in. She was in the family way, you understand. However, our doctor, Haydock, is a careful fellow. He noticed the bruises on each arm - upper arm. Caused before death. Just where a fellow would have taken her by the arms and flung her in.'
+"I'm afraid it's all very sordid and straightforward. First idea was that the girl had pitched herself in. She was in the family way, you understand. However, our doctor, Haydock, is a careful fellow. He noticed the bruises on each <span class='tip-wrap' data-text='arm [Арм] {существительное} отделение (осн. рука)'>**arm**<span class='tip-text'> </span></span> - upper <span class='tip-wrap' data-text='arm [Арм] {существительное} отделение (осн. рука)'>**arm**<span class='tip-text'> </span></span>. Caused before death. Just where a fellow would have taken her by the arms and flung her in."
 
-Боюсь, что все очень грязно и прямолинейно. Первая мысль была в том, что девушка сама себя подставила. У нее был семейный уклад, вы понимаете. Однако наш доктор, Хейдок, человек внимательный. Он заметил синяки на каждой руке - верхней. Нанесены перед смертью. Как раз там, где человек мог бы взять ее за руки и бросить в воду".
+"Боюсь, что все очень гнусно и прямолинейно. Первая мысль была в том, что девушка сама себя подставила. У нее был семейный уклад, как вы понимаете. Однако наш врач, Хейдок, - внимательный человек. Он заметил синяки на каждой руке - верхней. Нанесены перед смертью. Как раз там, где человек мог бы взять ее за руки и бросить в воду".
 
-'Would that require much strength?'
+"Would that require much strength?"
 
-Это потребует много сил?
+"Это потребовало бы много сил?"
 
-'I think not. There would be no struggle - the girl would be taken unawares. It's a footbridge of slippery wood. Easiest thing in the world to pitch her over - there's no handrail that side.'
+"I think not. There would be no struggle - the girl would be taken unawares. It's a footbridge of slippery wood. Easiest thing in the world to pitch her over - there's no handrail that side."
 
-Думаю, нет. Борьбы не будет - девушку застанут врасплох. Это пешеходный мост из скользкого дерева. Легче всего опрокинуть ее - с той стороны нет перил".
+"Думаю, нет. Борьбы бы не было - девушка была бы захвачена врасплох. Мост из скользкого дерева. Легче всего ее опрокинуть - с той стороны нет перил".
 
-'You know for a fact that the tragedy occurred there?'
+"You know for a fact that the <span class='tip-wrap' data-text='tragedy [трЭджэди] {существительное} трагедия [3]; трагизм [2]'>**tragedy**<span class='tip-text'> </span></span> occurred there?"
 
-Вы точно знаете, что трагедия произошла именно там?
+"Вы точно знаете, что трагедия произошла именно там?"
 
-'Yes. We've got a boy - Jimmy Brown - aged twelve. He was in the woods on the other side. He heard a kind of scream from the bridge and a splash. It was dusk you know - difficult to see anything. Presently he saw something white floating down in the water and he ran and got help. They got her out but it was too late to revive her.'
+"Yes. We've got a boy - Jimmy Brown - aged twelve. He was in the woods on the other side. He heard a kind of scream from the bridge and a splash. It was dusk you know - difficult to see anything. Presently he saw something white floating down in the water and he ran and got help. They got her out but it was too late to revive her."
 
-Да. У нас есть мальчик - Джимми Браун - двенадцати лет. Он был в лесу на другой стороне. Он услышал какой-то крик с моста и всплеск. Были сумерки - трудно было что-то разглядеть. Вдруг он увидел, что в воде плавает что-то белое, и побежал за помощью. Они вытащили ее, но было уже слишком поздно, чтобы ее оживить".
+"Да. У нас есть мальчик - Джимми Браун - двенадцати лет. Он был в лесу на другой стороне. Он услышал какой-то крик с моста и всплеск. Были сумерки - трудно было что-то разглядеть. Вдруг он увидел, что в воде плавает что-то белое, и побежал за помощью. Они вытащили ее, но было уже слишком поздно, чтобы ее оживить".
 
 Sir Henry nodded.
 
 Сэр Генри кивнул.
 
-'The boy saw no one on the bridge?'
+"The boy saw no one on the bridge?"
 
-Мальчик никого не видел на мосту?
+"Мальчик никого не видел на мосту?"
 
-'No. But as I tell you, it was dusk, and there's mist always hanging about there. I'm going to question him as to whether he saw anyone about just afterwards or just before. You see he naturally assumed that the girl had thrown herself over. Everybody did to start with.'
+"No. But as I tell you, it was dusk, and there's mist always hanging about there. I'm going to question him as to whether he saw anyone about just afterwards or just before. You see he <span class='tip-wrap' data-text='naturally [нЭчэрэли] {наречие} естественно [3]; конечно [2]; разумеется [2]; натурально [2]'>**naturally**<span class='tip-text'> </span></span> assumed that the girl had thrown herself over. Everybody did to start with."
 
-Нет. Но, как я уже говорил, это были сумерки, а там всегда висит туман. Я собираюсь расспросить его, не видел ли он кого-нибудь поблизости сразу после этого или перед этим. Видите ли, он, естественно, предположил, что девушка бросилась вниз. Все так делали с самого начала".
+"Нет. Но, как я уже говорил, это были сумерки, а там всегда висит туман. Я собираюсь расспросить его, не видел ли он кого-нибудь сразу после этого или чуть раньше. Видите ли, он, естественно, предположил, что девушка бросилась вниз. Все так делали с самого начала".
 
-'Still, we've got the note,' said Inspector Drewitt. He turned to Sir Henry.
+"Still, we've got the <span class='tip-wrap' data-text='note [нOут] {существительное} примечание (также записка)'>**note**<span class='tip-text'> </span></span>," said Inspector Drewitt. He turned to Sir Henry.
 
-Тем не менее записка у нас, - сказал инспектор Дрюитт. Он повернулся к сэру Генри.
+"Тем не менее записка у нас есть, - сказал инспектор Дрюитт. Он повернулся к сэру Генри.
 
-'Note in the dead girl's pocket, sir. Written with a kind of artist's pencil it was, and all of a sop though the paper was we managed to read it.'
+"Note in the dead girl's pocket, sir. Written with a kind of artist's pencil it was, and all of a sop though the paper was we managed to read it."
 
-Записка в кармане мертвой девушки, сэр. Она была написана карандашом художника, и, хотя бумага была очень плохой, нам удалось ее прочитать".
+"Записка в кармане мертвой девушки, сэр. Она была написана карандашом художника, и, несмотря на то, что бумага была очень плохой, нам удалось ее прочесть".
 
-'And what did it say?'
+"And what did it say?"
 
-И что там было написано?
+"И что там было написано?"
 
-'It was from young Sandford. "All right," that's how it ran. "I'll meet you at the bridge at eight-thirty. - R.S." Well, it was near as might be to eight-thirty - a few minutes after - when Jimmy Brown heard the cry and the splash.'
+"It was from young Sandford. "All right," that's how it ran. "I'll meet you at the bridge at eight-thirty. - R.S." Well, it was near as <span class='tip-wrap' data-text='might [мАйт] {глагол} может быть'>**might**<span class='tip-text'> </span></span> be to eight-thirty - a few minutes after - when Jimmy Brown heard the cry and the splash."
 
-Это было от молодого Сэндфорда. "Хорошо", - вот как это начиналось. "Встретимся у моста в восемь тридцать. - Р.С.". И вот, когда Джимми Браун услышал крик и всплеск, было уже близко к восьми тридцати - через несколько минут после этого.
+"Это было от молодого Сэндфорда. "Хорошо", - вот как это начиналось. "Жду вас у моста в восемь тридцать. - Р.С." Было уже близко к восьми тридцати - через несколько минут, когда Джимми Браун услышал крик и всплеск".
 
-'I don't know whether you've met Sandford at all?' went on Colonel Melchett. 'He's been down here about a month. One of these modern day young architects who build peculiar houses. He's doing a house for Allington. God knows what it's going to be like - full of new-fangled stuff, I suppose. Glass dinner table and surgical chairs made of steel and webbing. Well, that's neither here nor there, but it shows the kind of chap Sandford is. Bolshie, you know - no morals.'
+"I don't know whether you've met Sandford at all?" went on Colonel Melchett. "He's been down here about a month. One of these modern day young architects who build peculiar houses. He's doing a house for Allington. God knows what it's going to be like - full of new-fangled stuff, I <span class='tip-wrap' data-text='suppose [сэпOуз] {глагол} полагать [3]; предполагать [3]; допускать [2]; думать [2]'>**suppose**<span class='tip-text'> </span></span>. Glass dinner table and surgical chairs made of steel and webbing. Well, that's neither here nor there, but it shows the kind of chap Sandford is. Bolshie, you know - no morals."
 
-Не знаю, встречались ли вы с Сэндфордом?" - продолжил полковник Мелчетт. Он здесь уже около месяца. Один из этих современных молодых архитекторов, которые строят необычные дома. Он строит дом для Аллингтона. Бог знает, каким он будет - полный новомодных штучек, я полагаю. Стеклянный обеденный стол и хирургические стулья из стали и паутины. Ну, это не важно, но показывает, что за человек Сэндфорд. Большой, знаете ли, без морали".
+"Не знаю, встречали ли вы Сэндфорда?" - продолжил полковник Мелчетт. "Он здесь уже около месяца. Один из этих современных молодых архитекторов, которые строят необычные дома. Он строит дом для Аллингтона. Бог знает, каким он будет - полный новомодных штучек, я полагаю. Стеклянный обеденный стол и хирургические стулья из стали и паутины. Ну, это не важно, но показывает, что за человек Сэндфорд. Большой человек, знаете ли, без морали".
 
-'Seduction,' said Sir Henry mildly, 'is quite an old-established crime though it does not, of course, date back so far as murder.'
+"Seduction," said Sir Henry mildly, "is quite an old-established crime though it does not, of course, date back so far as murder."
 
-Соблазнение, - мягко сказал сэр Генри, - довольно старое преступление, хотя оно, конечно, не так далеко отстоит от убийства.
+"Соблазнение, - мягко сказал сэр Генри, - довольно старое преступление, хотя оно, конечно, не так далеко отстоит от убийства".
 
 Colonel Melchett stared.
 
 Полковник Мелчетт уставился на него.
 
-'Oh! yes,' he said. 'Quite. Quite.'
+"Oh! yes," he said. "<span class='tip-wrap' data-text='quite [куАйт] {наречие} довольно'>**Quite**<span class='tip-text'> </span></span>. <span class='tip-wrap' data-text='quite [куАйт] {наречие} довольно'>**Quite**<span class='tip-text'> </span></span>."
 
-О! Да, - сказал он. 'Quite. Вполне.
+"О! Да", - сказал он. "Вполне. Вполне."
 
-'Well, Sir Henry,' said Drewitt, 'there it is - an ugly business, but plain. This young Sandford gets the girl into trouble. Then he's all for clearing off back to London. He's got a girl there - nice young lady - he's engaged to be married to her. Well, naturally this business, if she gets to hear of it, may cook his goose good and proper. He meets Rose at the bridge - it's a misty evening, no one about - he catches her by the shoulders and pitches her in. A proper young swine - and deserves what's coming to him. That's my opinion.'
+"Well, Sir Henry," said Drewitt, "there it is - an ugly business, but plain. This young Sandford gets the girl into trouble. Then he's all for clearing off back to London. He's got a girl there - nice young lady - he's engaged to be married to her. Well, <span class='tip-wrap' data-text='naturally [нЭчэрэли] {наречие} естественно [3]; конечно [2]; разумеется [2]; натурально [2]'>**naturally**<span class='tip-text'> </span></span> this business, if she gets to hear of it, may cook his goose good and <span class='tip-wrap' data-text='proper [прАпэр] {прилагательное} надлежащий [2]; правильный [2]; собственный [2]; подходящий [2]; должный [1]; настоящий [1]; истинный [1]; присущий [1]; свойственный [1]; приличный [1]; точный [1]; пристойный [1]; совершенный [1]; красивый [1]'>**proper**<span class='tip-text'> </span></span>. He meets Rose at the bridge - it's a misty evening, no one about - he catches her by the shoulders and pitches her in. A <span class='tip-wrap' data-text='proper [прАпэр] {прилагательное} надлежащий [2]; правильный [2]; собственный [2]; подходящий [2]; должный [1]; настоящий [1]; истинный [1]; присущий [1]; свойственный [1]; приличный [1]; точный [1]; пристойный [1]; совершенный [1]; красивый [1]'>**proper**<span class='tip-text'> </span></span> young swine - and deserves what's coming to him. That's my opinion."
 
-Ну что ж, сэр Генри, - сказал Дрюитт, - вот оно - некрасивое дело, но понятное. Этот молодой Сэндфорд втягивает девушку в неприятности. Потом он решил вернуться в Лондон. У него там есть девушка - милая молодая леди - он помолвлен с ней. Естественно, это дело, если она узнает о нем, может поджарить его гуся как следует. Он встречает Розу на мосту - туманный вечер, никого нет - ловит ее за плечи и подсаживает к себе. Молодой свинтус - и заслуживает того, что с ним приключится. Это мое мнение".
+"Ну что ж, сэр Генри, - сказал Дрюитт, - вот оно - безобразное дело, но простое. Этот молодой Сэндфорд втягивает девушку в неприятности. Потом он решил уехать в Лондон. У него там есть девушка - милая молодая леди - он помолвлен с ней. Естественно, это дело, если она узнает о нем, может поджарить его гуся как следует. Он встречает Розу на мосту - туманный вечер, никого нет - ловит ее за плечи и подсаживает к себе. Молодой свинтус - и заслуживает того, что с ним приключится. Это мое мнение".
 
-Sir Henry was silent for a minute or two. He perceived a strong undercurrent of local prejudice. A new fangled architect was not likely to be popular in the conservative village of St Mary Mead.
+Sir Henry was <span class='tip-wrap' data-text='silent [сАйлэнт] {прилагательное} тихий [3]; молчаливый [2]; немой [2]; безмолвный [2]'>**silent**<span class='tip-text'> </span></span> for a minute or two. He perceived a strong undercurrent of local prejudice. A new fangled architect was not likely to be popular in the conservative village of St Mary Mead.
 
 Сэр Генри молчал минуту или две. Он почувствовал сильную волну местных предрассудков. Новомодный архитектор вряд ли будет популярен в консервативной деревне Сент-Мэри-Мид.
 
-'There is no doubt, I suppose, that this man, Sandford, was actually the father of the coming child?' he asked.
+"There is no <span class='tip-wrap' data-text='doubt [дАут] {существительное} сомнение'>**doubt**<span class='tip-text'> </span></span>, I <span class='tip-wrap' data-text='suppose [сэпOуз] {глагол} полагать [3]; предполагать [3]; допускать [2]; думать [2]'>**suppose**<span class='tip-text'> </span></span>, that this man, Sandford, was <span class='tip-wrap' data-text='actually [ЭкчУэли] {наречие} действительно'>**actually**<span class='tip-text'> </span></span> the father of the coming child?" he asked.
 
-Полагаю, нет никаких сомнений в том, что этот человек, Сэндфорд, действительно был отцом будущего ребенка?
+"Полагаю, нет никаких сомнений, что этот человек, Сэндфорд, действительно был отцом будущего ребенка?" - спросил он.
 
-'He's the father all right,' said Drewitt. 'Rose Emmott let out as much to her father. She thought he'd marry her. Marry her! Not he!'
+"He's the father all right," said Drewitt. "Rose Emmott let out as <span class='tip-wrap' data-text='much [мАч] {наречие} много; гораздо'>**much**<span class='tip-text'> </span></span> to her father. She thought he'd marry her. Marry her! Not he!"
 
-Он точно отец, - сказал Дрюитт. Роуз Эммотт так и сказала своему отцу. Она думала, что он женится на ней. Женится на ней! Не он!
+"Он точно отец", - ответил Дрюитт. "Роуз Эммотт так и сказала отцу. Она думала, что он женится на ней. Женится на ней! Не он!"
 
-'Dear me," thought Sir Henry. 'I seem to be back in mid-Victorian melodrama. Unsuspecting girl, the villain from London, the stern father, the betrayal - we only need the faithful village lover. Yes, I think it's time I asked about him.'
+"Dear me," thought Sir Henry. "I seem to be back in mid-Victorian melodrama. Unsuspecting girl, the villain from London, the stern father, the betrayal - we only need the faithful village lover. Yes, I think it's time I asked about him."
 
-Дорогой мой, - подумал сэр Генри. Кажется, я вернулся в мелодраму середины Викторианской эпохи. Ничего не подозревающая девушка, злодей из Лондона, суровый отец, предательство - не хватает только верного деревенского любовника. Да, думаю, пришло время спросить о нем".
+"Боже мой, - подумал сэр Генри. "Кажется, я вернулся в мелодраму середины Викторианской эпохи. Ничего не подозревающая девушка, злодей из Лондона, суровый отец, предательство - не хватает только верного деревенского любовника. Да, думаю, самое время спросить о нем".
 
 And aloud he said:
 
-А вслух он сказал:
+А вслух он произнес:
 
-'Hadn't the girl a young man other own down here?'
+"Hadn't the girl a young man other own down here?"
 
-Разве у девушки не было здесь другого молодого человека?
+"А не было ли у девушки здесь другого молодого человека?"
 
-'You mean Joe Ellis?' said the inspector. 'Good fellow Joe. Carpentering's his trade. Ah! If she'd stuck to Joe -'
+"You mean Joe Ellis?" said the inspector. "Good fellow Joe. Carpentering's his <span class='tip-wrap' data-text='trade [трЕйд] {существительное} сделка (также торговля); ремесло (также торговля)'>**trade**<span class='tip-text'> </span></span>. Ah! If she'd stuck to Joe -"
 
-Вы имеете в виду Джо Эллиса?" - спросил инспектор. Хороший парень Джо. Плотник - его профессия. Ах! Если бы она остановилась на Джо...
+"Вы имеете в виду Джо Эллиса?" - спросил инспектор. "Хороший парень Джо. Плотник - его профессия. Ах! Если бы она прилепилась к Джо..."
 
 Colonel Melchett nodded approval.
 
 Полковник Мелчетт одобрительно кивнул.
 
-'Stick to your own class,' he snapped.
+"Stick to your own class," he snapped.
 
-Придерживайтесь своего класса, - огрызнулся он.
+"Придерживайся своего класса", - огрызнулся он.
 
-'How did Joe Ellis take this affair?' asked Sir Henry.
+"How did Joe Ellis take this <span class='tip-wrap' data-text='affair [эфЕр] {существительное} дело; роман'>**affair**<span class='tip-text'> </span></span>?" asked Sir Henry.
 
-Как Джо Эллис воспринял это дело?" - спросил сэр Генри.
+"Как Джо Эллис воспринял это дело?" - спросил сэр Генри.
 
-'Nobody knew how he was taking it,' said the inspector. 'He's a quiet fellow, is Joe. Close. Anything Rose did was right in his eyes. She had him on a string all right. Just hoped she'd come back to him some day - that was his attitude, I reckon.'
+"Nobody knew how he was taking it," said the inspector. "He's a <span class='tip-wrap' data-text='quiet [куАйэт] {прилагательное} тихий'>**quiet**<span class='tip-text'> </span></span> fellow, is Joe. Close. Anything Rose did was right in his eyes. She had him on a string all right. Just hoped she'd come back to him some day - that was his attitude, I reckon."
 
-Никто не знал, как он это воспринял, - сказал инспектор. Он тихий парень, Джо. Близкий. В его глазах все, что делала Роуз, было правильным. Она держала его на волоске. Просто надеялся, что она когда-нибудь вернется к нему - таково было его отношение, я думаю".
+"Никто не знал, как он это воспринял", - ответил инспектор. "Он тихий парень, этот Джо. Близкий. В его глазах все, что делала Роуз, было правильным. Она держала его на волоске. Он просто надеялся, что когда-нибудь она вернется к нему - таково было его отношение, я полагаю".
 
-'I'd like to see him,' said Sir Henry.
+"I'd like to see him," said Sir Henry.
 
-Я бы хотел его увидеть, - сказал сэр Генри.
+"Я бы хотел его увидеть", - сказал сэр Генри.
 
-'Oh! We're going to look him up,' said Colonel Melchett 'We're not neglecting any line. I thought myself we'd see Emmott first, then Sandford, and then we can go on and see Ellis. That suits you, Clithering?'
+"Oh! We're going to look him up," said Colonel Melchett "We're not neglecting any line. I thought myself we'd see Emmott first, then Sandford, and then we can go on and see Ellis. That suits you, Clithering?"
 
-О! Мы собираемся его найти, - сказал полковник Мелчетт, - мы не пренебрегаем ни одной линией. Я сам думал, что сначала мы увидим Эммота, потом Сэндфорда, а потом сможем поехать к Эллису. Вас это устраивает, Клитеринг?
+"О! Мы его разыщем, - сказал полковник Мелчетт, - мы не оставим без внимания ни одно направление. Я и сам думал, что сначала мы увидим Эммота, потом Сэндфорда, а потом можем пойти дальше и увидеть Эллиса. Вас это устраивает, Клитеринг?"
 
 Sir Henry said it would suit him admirably.
 
-Сэр Генри сказал, что она ему очень идет.
+Сэр Генри ответил, что это его прекрасно устраивает.
 
-They found Tom Emmott at the Blue Boar. He was a big burly man of middle age with a shifty eye and a truculent jaw.
+They <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> Tom Emmott at the Blue Boar. He was a big burly man of middle age with a shifty eye and a truculent jaw.
 
-Они нашли Тома Эммотта в "Синем вепре". Это был крупный плотный мужчина средних лет с косящим глазом и грозной челюстью.
+Они нашли Тома Эммотта в "Синем вепре". Это был крупный грузный мужчина средних лет с хитрыми глазами и грозной челюстью.
 
-'Glad to see you, gentlemen - good morning, Colonel. Come in here and we can be private. Can I offer you anything, gentlemen? No? It's as you please. You've come about this business of my poor girl. Ah! She was a good girl, Rose was. Always was a good girl - till this bloody swine - beg pardon, but that's what he is - till he came along. Promised her marriage, he did. But I'll have the law on him. Drove her to it, he did. Murdering swine. Bringing disgrace on all of us. My poor girl.'
+"<span class='tip-wrap' data-text='glad [глЭд] {прилагательное} радостный [2]; довольный [2]; приятный [1]; счастливый [1]; веселый [1]; утешительный [1]; яркий [1]; прекрасный [1]'>**Glad**<span class='tip-text'> </span></span> to see you, gentlemen - good morning, Colonel. Come in here and we can be private. Can I offer you anything, gentlemen? No? It's as you please. You've come about this business of my <span class='tip-wrap' data-text='poor [пУр] {прилагательное} плохой; бедный'>**poor**<span class='tip-text'> </span></span> girl. Ah! She was a good girl, Rose was. Always was a good girl - till this bloody swine - beg pardon, but that's what he is - till he came along. Promised her marriage, he did. But I'll have the law on him. Drove her to it, he did. Murdering swine. Bringing disgrace on all of us. My <span class='tip-wrap' data-text='poor [пУр] {прилагательное} плохой; бедный'>**poor**<span class='tip-text'> </span></span> girl."
 
-Рад вас видеть, джентльмены. Доброе утро, полковник. Проходите сюда, и мы сможем поговорить наедине. Могу я предложить вам что-нибудь, джентльмены? Нет? Как вам будет угодно. Вы пришли по делу моей бедной девочки. Она была хорошей девочкой, Роуз. Всегда была хорошей девушкой - пока не появился этот чертов свин - прошу прощения, но он именно такой - пока он не появился. Он пообещал ей выйти замуж. Но я буду преследовать его по закону. Он довел ее до этого. Свинья-убийца. Опозорил всех нас. Моя бедная девочка".
+"Рад вас видеть, джентльмены, доброе утро, полковник. Проходите сюда, и мы сможем поговорить наедине. Могу я предложить вам что-нибудь, джентльмены? Нет? Как вам будет угодно. Вы пришли по делу моей бедной девочки. Она была хорошей девочкой, Роуз. Всегда была хорошей девушкой - пока не появился этот чертов свин - прошу прощения, но он именно такой - пока он не появился. Он пообещал ей выйти замуж. Но я буду преследовать его по закону. Он довел ее до этого. Свинья-убийца. Навлекая позор на всех нас. Моя бедная девочка".
 
-'Your daughter distinctly told you that Mr Sandford was responsible for her condition?' asked Melchett crisply.
+"Your daughter distinctly told you that Mr Sandford was <span class='tip-wrap' data-text='responsible [риспАнсэбэл] {прилагательное} ответственный'>**responsible**<span class='tip-text'> </span></span> for her <span class='tip-wrap' data-text='condition [кэндЫшэн] {существительное} состояние; условие'>**condition**<span class='tip-text'> </span></span>?" asked Melchett crisply.
 
-Ваша дочь точно сказала вам, что мистер Сэндфорд виноват в ее состоянии?" - резко спросил Мелчетт.
+"Ваша дочь ясно сказала вам, что мистер Сэндфорд виноват в ее состоянии?" - резко спросил Мелчетт.
 
-'She did. In this very room she did.'
+"She did. In this very room she did."
 
-"Да. В этой самой комнате".
+"Говорила. В этой самой комнате".
 
-'And what did you say to her?' asked Sir Henry.
+"And what did you say to her?" asked Sir Henry.
 
-И что вы ей сказали?" - спросил сэр Генри.
+"И что вы ей сказали?" - спросил сэр Генри.
 
-'Say to her?' The man seemed momentarily taken aback.
+"Say to her?" The man seemed momentarily taken aback.
 
-"Сказать ей? Мужчина, казалось, на мгновение растерялся.
+"Сказал ей?" Мужчина, казалось, на мгновение опешил.
 
-'Yes. You didn't, for example, threaten to turn her out of the house.'
+"Yes. You didn't, for example, <span class='tip-wrap' data-text='threaten [θрЕтэн] {глагол} угрожать'>**threaten**<span class='tip-text'> </span></span> to turn her out of the house."
 
-Да. Вы не угрожали, например, выгнать ее из дома.
+"Да. Вы не угрожали, например, выгнать ее из дома".
 
-'I was a bit upset - that's only natural. I'm sure you'll agree that's only natural. But, of course, I didn't turn her out of the house. I wouldn't do such a thing.' He assumed virtuous indignation. 'No. What's the law for - that's what I say. What's the law for? He'd got to do the right by her. And if he didn't, by God, he'd got to pay.'
+"I was a bit upset - that's only natural. I'm <span class='tip-wrap' data-text='sure [шУр] {прилагательное} верный; уверенный'>**sure**<span class='tip-text'> </span></span> you'll agree that's only natural. But, of course, I didn't turn her out of the house. I wouldn't do such a thing." He assumed virtuous indignation. "No. What's the law for - that's what I say. What's the law for? He'd got to do the right by her. And if he didn't, by God, he'd got to pay."
 
-Я был немного расстроен - это вполне естественно. Уверен, вы согласитесь, что это вполне естественно. Но, конечно, я не выгнал ее из дома. Я бы так не поступил". Он изобразил добродетельное негодование. "Нет. Для чего нужен закон - вот что я говорю. Для чего нужен закон? Он должен был поступить с ней правильно. А если нет, то, ей-богу, он должен заплатить".
+"Я был немного расстроен - это вполне естественно. Уверен, вы согласитесь, что это вполне естественно. Но, конечно, я не выгнал ее из дома. Я бы так не поступил". Он изобразил добродетельное негодование. "Нет. Для чего нужен закон - вот что я говорю. Для чего нужен закон? Он должен был поступить с ней правильно. А если нет, то, ей-богу, он должен заплатить".
 
 He brought, down his fist on the table.
 
 Он опустил кулак на стол.
 
-'What time did you last see your daughter?' asked Melchett.
+"What time did you last see your daughter?" asked Melchett.
 
-В котором часу вы в последний раз видели свою дочь?
+"В котором часу вы в последний раз видели свою дочь?" - спросил Мелчетт.
 
-'Yesterday - tea time.'
+"Yesterday - tea time."
 
-"Вчера - время чая".
+"Вчера - за чаем".
 
-'What was her manner then?'
+"What was her <span class='tip-wrap' data-text='manner [мЭнэр] {существительное} способ (также манера)'>**manner**<span class='tip-text'> </span></span> then?"
 
-Какова была ее манера поведения?
+"И как она себя вела?"
 
-'Well, much as usual. I didn't notice anything. If I'd known -'
+"Well, <span class='tip-wrap' data-text='much [мАч] {наречие} много; гораздо'>**much**<span class='tip-text'> </span></span> as <span class='tip-wrap' data-text='usual [йУжэуэл] {прилагательное} обычный [3]'>**usual**<span class='tip-text'> </span></span>. I didn't notice anything. If I'd known -"
 
-Ну, как обычно. Я ничего не заметил. Если бы я знал...
+"Ну, как обычно. Я ничего не заметила. Если бы я знал..."
 
-'But you didn't know,' said the inspector dryly.
+"But you didn't know," said the inspector dryly.
 
-Но вы же не знали, - сухо сказал инспектор.
+"Но вы не знали", - сухо сказал инспектор.
 
 They took their leave.
 
-Они ушли.
+Они разошлись.
 
-'Emmott hardly creates a favourable impression,' said Sir Henry thoughtfully.
+"Emmott <span class='tip-wrap' data-text='hardly [хАрдли] {наречие} вряд ли'>**hardly**<span class='tip-text'> </span></span> creates a favourable impression," said Sir Henry thoughtfully.
 
-Эммотт вряд ли производит благоприятное впечатление, - задумчиво произнес сэр Генри.
+"Эммотт вряд ли производит благоприятное впечатление", - задумчиво произнес сэр Генри.
 
-'Bit of a blackguard,' said Melchett. 'He'd have bled Sandford all right if he'd had the chance.'
+"Bit of a blackguard," said Melchett. "He'd have bled Sandford all right if he'd had the chance."
 
-"Немного чернокнижник", - сказал Мелчетт. Если бы у него была такая возможность, он бы в кровь разнес Сэндфорда".
+"Немного чернокнижник", - сказал Мелчетт. "Если бы у него была такая возможность, он бы в кровь разнес Сэндфорда".
 
-Their next call was on the architect. Rex Sandford was very unlike the picture Sir Henry had unconsciously formed of him. He was a tall young man, very fair and very thin. His eyes were blue and dreamy, his hair was untidy and rather too long. His speech was a little too ladylike.
+Their next call was on the architect. Rex Sandford was very unlike the picture Sir Henry had unconsciously formed of him. He was a tall young man, very fair and very thin. His eyes were blue and dreamy, his hair was untidy and <span class='tip-wrap' data-text='rather [рЭðэр] {наречие} скорее; довольно'>**rather**<span class='tip-text'> </span></span> too long. His speech was a little too ladylike.
 
 Следующим они обратились к архитектору. Рекс Сэндфорд был совсем не похож на то представление, которое подсознательно сложилось у сэра Генри. Это был высокий молодой человек, очень светлый и очень худой. Его глаза были голубыми и мечтательными, волосы неухоженными и слишком длинными. Его речь была слишком женской.
 
-Colonel Melchett introduced himself and his companions. Then passing straight to the object of his visit, he invited the architect to make a statement as to his movements on the previous evening.
+Colonel Melchett introduced himself and his companions. Then passing <span class='tip-wrap' data-text='straight [стрЕйт] {наречие} прямо'>**straight**<span class='tip-text'> </span></span> to the object of his visit, he invited the architect to make a <span class='tip-wrap' data-text='statement [стЕйтмэнт] {существительное} заявление'>**statement**<span class='tip-text'> </span></span> as to his movements on the previous evening.
 
 Полковник Мелчетт представил себя и своих спутников. Затем, перейдя непосредственно к цели своего визита, он предложил архитектору рассказать о своих передвижениях в предыдущий вечер.
 
-'You understand,' he said warningly. 'I have no power to compel a statement from you and any statement you make may be used in evidence against you. I want the position to be quite clear to you.'
+"You understand," he said warningly. "I have no power to compel a <span class='tip-wrap' data-text='statement [стЕйтмэнт] {существительное} заявление'>**statement**<span class='tip-text'> </span></span> from you and any <span class='tip-wrap' data-text='statement [стЕйтмэнт] {существительное} заявление'>**statement**<span class='tip-text'> </span></span> you make may be used in evidence <span class='tip-wrap' data-text='against [эгЕнст] {предлог} от; против'>**against**<span class='tip-text'> </span></span> you. I want the position to be <span class='tip-wrap' data-text='quite [куАйт] {наречие} довольно'>**quite**<span class='tip-text'> </span></span> clear to you."
 
-Вы понимаете, - предупреждающе сказал он. Я не имею права заставлять вас давать показания, и любое ваше заявление может быть использовано в качестве доказательства против вас. Я хочу, чтобы вам была ясна ситуация".
+"Вы понимаете, - предупредил он. "Я не имею права требовать от вас показаний, и любое ваше заявление может быть использовано в качестве доказательства против вас. Я хочу, чтобы вам была ясна ситуация".
 
-'I - I don't understand,' said Sandford.
+"I - I don't understand," said Sandford.
 
-Я... я не понимаю, - сказал Сэндфорд.
+"Я... я не понимаю", - сказал Сэндфорд.
 
-'You understand that the girl Rose Emmott was drowned last night?'
+"You understand that the girl Rose Emmott was drowned last night?"
 
-Вы понимаете, что девушка Роуз Эммотт утонула прошлой ночью?
+"Вы понимаете, что девушка Роуз Эммотт утонула прошлой ночью?"
 
-'I know. Oh! It's too, too distressing. Really, I haven't slept a wink. I've been incapable of any work today. I feel responsible - terribly responsible.'
+"I know. Oh! It's too, too distressing. Really, I haven't slept a wink. I've been incapable of any work today. I feel <span class='tip-wrap' data-text='responsible [риспАнсэбэл] {прилагательное} ответственный'>**responsible**<span class='tip-text'> </span></span> - terribly <span class='tip-wrap' data-text='responsible [риспАнсэбэл] {прилагательное} ответственный'>**responsible**<span class='tip-text'> </span></span>."
 
-Я знаю. О! Это слишком, слишком мучительно. Правда, я не сомкнула глаз. Сегодня я не в состоянии работать. Я чувствую себя ответственной - ужасно ответственной".
+"Я знаю. О! Это слишком, слишком печально. Правда, я не сомкнула глаз. Сегодня я не в состоянии работать. Я чувствую себя ответственным - ужасно ответственным".
 
-He ran his hands through his hair, making it untidier still.
+He ran his hands <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> his hair, making it untidier still.
 
 Он провел руками по волосам, сделав их еще более неопрятными.
 
-'I never meant any harm,' he said piteously. 'I never thought. I never dreamt she'd take it that way.'
+"I never meant any harm," he said piteously. "I never thought. I never dreamt she'd take it that way."
 
-Я не хотел ничего плохого, - жалобно сказал он. 'I never thought. Я не думал, что она так воспримет это".
+"Я никогда не хотел ничего плохого", - жалобно сказал он. "Я никогда не думал. Я и представить себе не мог, что она воспримет это так".
 
 He sat down at a table and buried his face in his hands.
 
 Он сел за стол и уткнулся лицом в руки.
 
-'Do I understand you to say, Mr Sandford, that you refuse to make a statement as to where you were last night at eight-thirty?'
+"Do I understand you to say, Mr Sandford, that you refuse to make a <span class='tip-wrap' data-text='statement [стЕйтмэнт] {существительное} заявление'>**statement**<span class='tip-text'> </span></span> as to where you were last night at eight-thirty?"
 
-"Правильно ли я понимаю, мистер Сэндфорд, что вы отказываетесь сделать заявление о том, где вы были вчера вечером в восемь тридцать?
+"Правильно ли я понимаю, мистер Сэндфорд, что вы отказываетесь сделать заявление о том, где вы были вчера вечером в восемь тридцать?"
 
-'No, no - certainly not I was out. I went for a walk.'
+"No, no - certainly not I was out. I went for a <span class='tip-wrap' data-text='walk [уОк] {существительное} аллея [2]; ходьба [1]; шаг [1]; тропа [1]; походка [1]; прогулка пешком [1]; расстояние [1]; обход своего района [1]; выпас [1]; любимое место для прогулки [1]; состязание в ходьбе [1]'>**walk**<span class='tip-text'> </span></span>."
 
-Нет, нет, конечно, меня не было дома. Я пошла прогуляться".
+"Нет, нет - конечно, меня не было дома. Я пошел прогуляться".
 
-'You went to meet Miss Emmott?'
+"You went to meet Miss Emmott?"
 
-Вы ходили на встречу с мисс Эммотт?
+"Вы пошли на встречу с мисс Эммотт?"
 
-'No. I went by myself. Through the woods. A long way.'
+"No. I went by myself. <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**Through**<span class='tip-text'> </span></span> the woods. A long way."
 
-Нет. Я пошел один. Через лес. Очень далеко.
+"Нет. Я пошел один. Через лес. Очень далеко".
 
-'Then how do you account for this note, sir, which was found in the dead girl's pocket?'
+"Then how do you account for this <span class='tip-wrap' data-text='note [нOут] {существительное} примечание (также записка)'>**note**<span class='tip-text'> </span></span>, sir, which was <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> in the dead girl's pocket?"
 
-Тогда как вы объясните эту записку, сэр, которая была найдена в кармане мертвой девушки?
+"Тогда как вы объясните эту записку, сэр, которая была найдена в кармане мертвой девушки?"
 
 And Inspector Drewitt read it unemotionally aloud.
 
-Инспектор Дрюитт безэмоционально прочитал его вслух.
+И инспектор Дрюитт безэмоционально прочитал ее вслух.
 
-'Now, sir,' he finished. 'Do you deny that you wrote that?'
+"Now, sir," he finished. "Do you deny that you wrote that?"
 
-"Итак, сэр, - закончил он. Вы отрицаете, что написали это?
+"Итак, сэр, - закончил он. "Вы отрицаете, что написали ее?"
 
-'No - no. You're right. I did write it Rose asked me to meet her. She insisted. I didn't know what to do. So I wrote that note.'
+"No - no. You're right. I did write it Rose asked me to meet her. She insisted. I didn't know what to do. So I wrote that <span class='tip-wrap' data-text='note [нOут] {существительное} примечание (также записка)'>**note**<span class='tip-text'> </span></span>."
 
-Нет, нет. Вы правы. Я написал, что Роуз попросила меня встретиться с ней. Она настаивала. Я не знал, что делать. Поэтому я написал эту записку".
+"Нет - нет. Вы правы. Я действительно написал, что Роуз попросила меня встретиться с ней. Она настаивала. Я не знал, что делать. Поэтому я написал эту записку".
 
-'Ah, that's better,' said the inspector.
+"Ah, that's <span class='tip-wrap' data-text='better [бЕтэр] {прилагательное} лучший'>**better**<span class='tip-text'> </span></span>," said the inspector.
 
-Вот так-то лучше, - сказал инспектор.
+"Ах, так-то лучше", - сказал инспектор.
 
-'But I didn't go!' Sandford's voice rose high and excited. 'I didn't go! I felt it would be much better not. I was returning to town tomorrow. I felt it would be better not - not to meet I intended to write from London and - and make - some arrangement.'
+"But I didn't go!" Sandford's voice rose high and excited. "I didn't go! I felt it would be <span class='tip-wrap' data-text='much [мАч] {наречие} много; гораздо'>**much**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='better [бЕтэр] {прилагательное} лучший'>**better**<span class='tip-text'> </span></span> not. I was returning to town tomorrow. I felt it would be <span class='tip-wrap' data-text='better [бЕтэр] {прилагательное} лучший'>**better**<span class='tip-text'> </span></span> not - not to meet I intended to write from London and - and make - some arrangement."
 
-Но я не пошел! Голос Сэндфорда поднялся высоко и взволнованно. 'I didn't go! Я чувствовал, что так будет лучше. Я возвращался в город завтра. Я чувствовал, что будет лучше не встречаться... Я намеревался написать из Лондона и... и договориться...
+"Но я не пошел!" Голос Сэндфорда поднялся высоко и взволнованно. "Я не пошел! Я чувствовал, что так будет лучше. Я собирался вернуться в город завтра. Я чувствовал, что будет лучше не встречаться... Я намеревался написать из Лондона и... и договориться..."
 
-'You are aware, sir, that this girl was going to have a child, and that she had named you as its father?'
+"You are aware, sir, that this girl was going to have a child, and that she had named you as its father?"
 
-Вы знаете, сэр, что эта девушка собиралась завести ребенка и что она назвала вас его отцом?
+"Вам известно, сэр, что эта девушка собиралась завести ребенка и что она назвала вас его отцом?"
 
 Sandford groaned, but did not answer.
 
-Сэндфорд застонал, но ничего не ответил.
+Сэндфорд застонал, но не ответил.
 
-'Was that statement true, sir?'
+"Was that <span class='tip-wrap' data-text='statement [стЕйтмэнт] {существительное} заявление'>**statement**<span class='tip-text'> </span></span> true, sir?"
 
-Это было правдой, сэр?
+"Это было правдой, сэр?"
 
 Sandford buried his face deeper.
 
 Сэндфорд еще глубже зарылся лицом в землю.
 
-'I suppose so,' he said in a muffled voice.
+"I <span class='tip-wrap' data-text='suppose [сэпOуз] {глагол} полагать [3]; предполагать [3]; допускать [2]; думать [2]'>**suppose**<span class='tip-text'> </span></span> so," he said in a muffled voice.
 
-Полагаю, да, - сказал он приглушенным голосом.
+"Полагаю, да", - сказал он приглушенным голосом.
 
-'Ah!' Inspector Drewitt could not disguise the satisfaction. 'Now about this "walk" of yours. Is there anyone who saw you last night?'
+"Ah!" Inspector Drewitt could not disguise the satisfaction. "Now about this "<span class='tip-wrap' data-text='walk [уОк] {существительное} аллея [2]; ходьба [1]; шаг [1]; тропа [1]; походка [1]; прогулка пешком [1]; расстояние [1]; обход своего района [1]; выпас [1]; любимое место для прогулки [1]; состязание в ходьбе [1]'>**walk**<span class='tip-text'> </span></span>" of yours. Is there anyone who saw you last night?"
 
-"Ах! Инспектор Дрюитт не смог скрыть удовлетворения. Теперь об этой вашей "прогулке". Есть ли кто-нибудь, кто видел вас прошлой ночью?
+"Инспектор Дрюитт не смог скрыть удовлетворения. "Теперь об этой вашей "прогулке". Есть ли кто-нибудь, кто видел вас прошлой ночью?"
 
-'I don't know. I don't think so. As far as I can remember, I didn't meet anybody.'
+"I don't know. I don't think so. As far as I can remember, I didn't meet anybody."
 
-Не знаю. Я так не думаю. Насколько я помню, я ни с кем не встречался".
+"Не знаю. И не думаю. Насколько я помню, я никого не встретил".
 
-'That's a pity.'
+"That's a pity."
 
-Жаль.
+"Очень жаль."
 
-'What do you mean?' Sandford stared wildly at him. 'What does it matter whether I was out for a walk or not? What difference does that make to Rose drowning herself?'
+"What do you mean?" Sandford stared wildly at him. "What does it matter whether I was out for a <span class='tip-wrap' data-text='walk [уОк] {существительное} аллея [2]; ходьба [1]; шаг [1]; тропа [1]; походка [1]; прогулка пешком [1]; расстояние [1]; обход своего района [1]; выпас [1]; любимое место для прогулки [1]; состязание в ходьбе [1]'>**walk**<span class='tip-text'> </span></span> or not? What difference does that make to Rose drowning herself?"
 
-Что вы имеете в виду? Sandford stared wildly at him. Какая разница, гулял я или нет? Какая разница, что Роуз утопилась?
+"Что вы имеете в виду?" Сэндфорд дико уставился на него. "Какая разница, гулял я или нет? Какая разница, что Роуз утопилась?"
 
-'Ah!' said the inspector. 'But you see, she didn't. She was thrown in deliberately, Mr Sandford.'
+"Ah!" said the inspector. "But you see, she didn't. She was thrown in deliberately, Mr Sandford."
 
-А!" - сказал инспектор. 'But you see, she didn't. Ее специально бросили, мистер Сэндфорд".
+"Ах!" - сказал инспектор. "Но видите ли, это не так. Ее бросили в воду намеренно, мистер Сэндфорд".
 
-'She was -' It took him a minute or two to take in all the horror of it 'My God! Then -'
+"She was -" It took him a minute or two to take in all the horror of it "My God! Then -"
 
-"Она была..." Ему потребовалась минута или две, чтобы осознать весь ужас происходящего. "Боже мой! Тогда...
+"Она..." Ему потребовалась минута или две, чтобы осознать весь ужас происходящего: "Боже мой! Тогда..."
 
 He dropped into a chair.
 
@@ -672,189 +672,189 @@ He dropped into a chair.
 
 Colonel Melchett made a move to depart.
 
-Полковник Мелчетт сделал шаг к отъезду.
+Полковник Мелчетт сделал движение, чтобы уйти.
 
-'You understand, Sandford,' he said. 'You are on no account to leave this house.'
+"You understand, Sandford," he said. "You are on no account to leave this house."
 
-Вы понимаете, Сэндфорд, - сказал он. Вам ни в коем случае нельзя покидать этот дом.
+"Вы понимаете, Сэндфорд, - сказал он. "Вам ни в коем случае нельзя покидать этот дом".
 
 The three men left together. The inspector and the Chief Constable exchanged glances.
 
 Трое мужчин ушли вместе. Инспектор и главный констебль обменялись взглядами.
 
-'That's enough, I think, sir,' said the inspector.
+"That's enough, I think, sir," said the inspector.
 
-Думаю, этого достаточно, сэр, - сказал инспектор.
+"Думаю, сэр, этого достаточно", - сказал инспектор.
 
-'Yes. Get a warrant made out and arrest him.'
+"Yes. Get a warrant made out and arrest him."
 
-Да. Выпишите ордер и арестуйте его".
+"Да. Выпишите ордер и арестуйте его".
 
-'Excuse me,' said Sir Henry, 'I've forgotten my gloves.'
+"Excuse me," said Sir Henry, "I've forgotten my gloves."
 
-Извините, - сказал сэр Генри, - я забыл свои перчатки.
+"Простите, - сказал сэр Генри, - я забыл свои перчатки".
 
 He re-entered the house rapidly. Sandford was sitting just as they had left him, staring dazedly in front of him.
 
 Он быстро вошел в дом. Сэндфорд сидел так же, как они его оставили, и ошарашенно смотрел перед собой.
 
-'I have come back,' said Sir Henry, 'to tell you that I personally, am anxious to do all I can to assist you. The motive of my interest in you I am not at liberty to reveal. But I am going to ask you, if you will, to tell me as briefly as possible exactly what passed between you and this girl Rose.'
+"I have come back," said Sir Henry, "to tell you that I <span class='tip-wrap' data-text='personally [пЭрсэнэли] {наречие} лично [3]; персонально [3]; сам [2]'>**personally**<span class='tip-text'> </span></span>, am anxious to do all I can to assist you. The motive of my interest in you I am not at liberty to reveal. But I am going to ask you, if you will, to tell me as briefly as possible exactly what passed between you and this girl Rose."
 
-Я вернулся, - сказал сэр Генри, - чтобы сказать вам, что я лично хочу сделать все возможное, чтобы помочь вам. Мотивы моего интереса к вам я не вправе раскрывать. Но я хочу попросить вас, если позволите, как можно короче рассказать мне, что именно произошло между вами и этой девушкой Роуз".
+"Я вернулся, - сказал сэр Генри, - чтобы сказать вам, что лично я стремлюсь сделать все возможное, чтобы помочь вам. Мотивы моего интереса к вам я не вправе раскрывать. Но я хочу попросить вас, если позволите, как можно короче рассказать мне, что именно произошло между вами и этой девушкой Роуз".
 
-'She was very pretty,' said Sandford. 'Very pretty and very alluring. And - and she made a dead set at me. Before God, that's true. She wouldn't let me alone. And it was lonely down here, and nobody liked me much, and - and, as I say she was amazingly pretty and she seemed to know her way about and all that -' His voice died away. He looked up. 'And then this happened. She wanted me to marry her. I didn't know what to do. I'm engaged to a girl in London. If she ever gets to hear of this - and she will, of course - well, it's all up. She won't understand. How could she? And I'm a rotter, of course. As I say, I didn't know what to do. I avoided seeing Rose again. I thought I'd get back to town - see my lawyer - make arrangements about money and so forth, for her. God, what a fool I've been! And it's all so clear - the case against me. But they've made a mistake. She must have done it herself.'
+"She was very <span class='tip-wrap' data-text='pretty [прЫти] {наречие} довольно'>**pretty**<span class='tip-text'> </span></span>," said Sandford. "Very <span class='tip-wrap' data-text='pretty [прЫти] {наречие} довольно'>**pretty**<span class='tip-text'> </span></span> and very alluring. And - and she made a dead set at me. Before God, that's true. She wouldn't let me alone. And it was lonely down here, and nobody liked me <span class='tip-wrap' data-text='much [мАч] {наречие} много; гораздо'>**much**<span class='tip-text'> </span></span>, and - and, as I say she was amazingly <span class='tip-wrap' data-text='pretty [прЫти] {наречие} довольно'>**pretty**<span class='tip-text'> </span></span> and she seemed to know her way about and all that -" His voice died <span class='tip-wrap' data-text='away [эуЕй] {наречие} далеко'>**away**<span class='tip-text'> </span></span>. He looked up. "And then this happened. She wanted me to marry her. I didn't know what to do. I'm engaged to a girl in London. If she <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span> gets to hear of this - and she will, of course - well, it's all up. She won't understand. How could she? And I'm a rotter, of course. As I say, I didn't know what to do. I avoided seeing Rose again. I thought I'd get back to town - see my lawyer - make arrangements about money and so forth, for her. God, what a fool I've been! And it's all so clear - the case <span class='tip-wrap' data-text='against [эгЕнст] {предлог} от; против'>**against**<span class='tip-text'> </span></span> me. But they've made a mistake. She must have done it herself."
 
-Она была очень красивой, - сказал Сэндфорд. Очень красивая и очень манящая. И... и она сделала на меня мертвый взгляд. Перед Богом, это правда. Она не давала мне покоя. А здесь было одиноко, и я никому не нравился, и... и, как я уже сказал, она была удивительно красива и, похоже, знала, что делать, и все такое..." Его голос угас. Он поднял голову. А потом случилось вот что. Она хотела, чтобы я женился на ней. Я не знал, что делать. Я помолвлен с девушкой в Лондоне. Если она когда-нибудь узнает об этом - а она, конечно, узнает, - что ж, все кончено. Она не поймет. Да и как она может понять? А я, конечно, гнида. Как я уже сказал, я не знал, что делать. Я избегал встреч с Розой. Я думал, что вернусь в город, увижусь с адвокатом, договорюсь с ней о деньгах и прочем. Боже, каким же дураком я был! А ведь все так ясно - дело против меня. Но они ошиблись. Должно быть, она сама это сделала".
+"Она была очень красива", - сказал Сэндфорд. "Очень красивая и очень манящая. И... и она на меня набросилась. Перед Богом, это правда. Она не давала мне покоя. А здесь было одиноко, и я никому не нравился, и... и, как я уже сказал, она была удивительно красива и, похоже, знала, что делать, и все такое..." Его голос угас. Он поднял голову. "А потом случилось вот что. Она хотела, чтобы я женился на ней. Я не знал, что делать. Я помолвлен с девушкой в Лондоне. Если она когда-нибудь узнает об этом - а она, конечно, узнает, - что ж, все кончено. Она не поймет. Да и как она может понять? А я, конечно, гнида. Как я уже сказал, я не знал, что делать. Я избегал встреч с Розой. Я думал, что вернусь в город, увижусь с адвокатом, договорюсь с ней о деньгах и прочем. Боже, каким же дураком я был! А ведь все так ясно - дело против меня. Но они ошиблись. Должно быть, она сама это сделала".
 
-'Did she ever threaten to take her life?'
+"Did she <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='threaten [θрЕтэн] {глагол} угрожать'>**threaten**<span class='tip-text'> </span></span> to take her life?"
 
-Она когда-нибудь угрожала покончить с собой?
+"Она когда-нибудь угрожала покончить с собой?"
 
 Sandford shook his head.
 
 Сэндфорд покачал головой.
 
-'Never. I shouldn't have said she was that sort'
+"Never. I <span class='tip-wrap' data-text='should [шУд] {глагол} должен'>**should**<span class='tip-text'> </span></span>n't have said she was that sort"
 
-"Никогда. Я не должен был говорить, что она такого типа".
+"Никогда. Я бы не сказал, что она была такого типа".
 
-'What about a man called Joe Ellis?'
+"What about a man called Joe Ellis?"
 
-"А как насчет человека по имени Джо Эллис?
+"А как насчет человека по имени Джо Эллис?"
 
-'The carpenter fellow? Good old village stock. Dull fellow - but crazy about Rose.'
+"The carpenter fellow? Good old village stock. Dull fellow - but crazy about Rose."
 
-Плотник? Старый добрый деревенский парень. Скучный парень, но без ума от Роуз".
+"Плотник? Старый добрый деревенский парень. Скучный парень, но без ума от Роуз".
 
-'He might have been jealous?' suggested Sir Henry.
+"He <span class='tip-wrap' data-text='might [мАйт] {глагол} может быть'>**might**<span class='tip-text'> </span></span> have been jealous?" suggested Sir Henry.
 
-Может быть, он ревновал?" - предположил сэр Генри.
+"Может, он ревновал?" - предположил сэр Генри.
 
-'I suppose he was a bit - but he's the bovine kind. He'd suffer in silence.'
+"I <span class='tip-wrap' data-text='suppose [сэпOуз] {глагол} полагать [3]; предполагать [3]; допускать [2]; думать [2]'>**suppose**<span class='tip-text'> </span></span> he was a bit - but he's the bovine kind. He'd suffer in silence."
 
-"Наверное, да, но он из породы скотов. Он будет страдать молча".
+"Наверное, немного ревновал, но он из породы быков. Он бы страдал молча".
 
-'Well,' said Sir Henry. 'I must be going.'
+"Well," said Sir Henry. "I must be going."
 
-Что ж, - сказал сэр Генри. 'I must be going.'
+"Что ж, - сказал сэр Генри. "Мне пора идти".
 
 He rejoined the others.
 
 Он вернулся к остальным.
 
-'You know, Melchett,' he said. 'I feel we ought to have a look at this other fellow - Ellis - before we do anything drastic. Pity if you made an arrest that turned out to be a mistake. After all, jealousy is a pretty good motive for murder - and a pretty common one, too.'
+"You know, Melchett," he said. "I feel we <span class='tip-wrap' data-text='ought [От] {глагол} должен'>**ought**<span class='tip-text'> </span></span> to have a look at this other fellow - Ellis - before we do anything drastic. Pity if you made an arrest that turned out to be a mistake. After all, jealousy is a <span class='tip-wrap' data-text='pretty [прЫти] {наречие} довольно'>**pretty**<span class='tip-text'> </span></span> good motive for murder - and a <span class='tip-wrap' data-text='pretty [прЫти] {наречие} довольно'>**pretty**<span class='tip-text'> </span></span> common one, too."
 
-Знаешь, Мелчетт, - сказал он. Мне кажется, нам стоит взглянуть на другого парня - Эллиса, - прежде чем предпринимать что-то решительное. Жаль, если арест окажется ошибкой. В конце концов, ревность - неплохой мотив для убийства, и к тому же довольно распространенный".
+"Знаешь, Мелчетт, - сказал он. "Мне кажется, прежде чем предпринимать что-то решительное, нам следует взглянуть на другого парня - Эллиса. Жаль, если арест окажется ошибкой. В конце концов, ревность - неплохой мотив для убийства, причем довольно распространенный".
 
-'That's true enough,' said the inspector. 'But Joe Ellis isn't that kind. He wouldn't hurt a fly. Why, nobody's ever seen him out of temper. Still, I agree we'd better just ask him where he was last night. He'll be at home now. He lodges with Mrs Bartlett - very decent soul - a widow, she takes in a bit of washing.'
+"That's true <span class='tip-wrap' data-text='enough [ынАф] {наречие} достаточно'>**enough**<span class='tip-text'> </span></span>," said the inspector. "But Joe Ellis isn't that kind. He wouldn't hurt a fly. Why, nobody's <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span> seen him out of temper. Still, I agree we'd better just ask him where he was last night. He'll be at home now. He lodges with Mrs Bartlett - very decent soul - a widow, she takes in a bit of washing."
 
-Это правда, - сказал инспектор. Но Джо Эллис не такой. Он и мухи не обидит. Никто никогда не видел его не в духе. И все же я согласен, что нам лучше спросить его, где он был прошлой ночью. Сейчас он наверняка дома. Он живет у миссис Бартлетт - очень порядочная душа - вдова, она немного стирает".
+"Это верно", - сказал инспектор. "Но Джо Эллис не такой. Он и мухи не обидит. Никто никогда не видел его не в духе. И все же я согласен, что нам лучше спросить его, где он был прошлой ночью. Сейчас он наверняка дома. Он живет у миссис Бартлетт - очень порядочная душа - вдова, она немного стирает".
 
 The little cottage to which they bent their footsteps was spotlessly clean and neat. A big stout woman of middle age opened the door to them. She had a pleasant face and blue eyes.
 
-В маленьком коттедже, к которому они направились, было безупречно чисто и аккуратно. Дверь им открыла крупная плотная женщина средних лет. У нее было приятное лицо и голубые глаза.
+Маленький коттедж, к которому они направились, был безупречно чист и опрятен. Дверь им открыла крупная плотная женщина средних лет. У нее было приятное лицо и голубые глаза.
 
-'Good morning, Mrs Bartlett,' said the inspector. 'Is Joe Ellis here?'
+"Good morning, Mrs Bartlett," said the inspector. "Is Joe Ellis here?"
 
-Доброе утро, миссис Бартлетт, - сказал инспектор. Джо Эллис здесь?
+"Доброе утро, миссис Бартлетт", - сказал инспектор. "Джо Эллис здесь?"
 
-'Came back not ten minutes ago,' said Mrs Bartlett. 'Step inside, will you, please, sirs.'
+"Came back not ten minutes ago," said Mrs Bartlett. "Step inside, will you, please, sirs."
 
-"Вернулся не далее как десять минут назад", - сказала миссис Бартлетт. Проходите, пожалуйста, внутрь, сэры.
+"Вернулся не далее как десять минут назад", - ответила миссис Бартлетт. "Проходите в дом, пожалуйста, сэры".
 
 Wiping her hands on her apron she led them into a tiny front parlour with stuffed birds, china dogs, a sofa and several useless pieces of furniture.
 
-Вытерев руки о фартук, она провела их в крошечную переднюю гостиную с чучелами птиц, фарфоровых собачек, диваном и несколькими бесполезными предметами мебели.
+Вытерев руки о фартук, она провела их в крошечную переднюю гостиную с чучелами птиц, фарфоровыми собачками, диваном и несколькими бесполезными предметами мебели.
 
 She hurriedly arranged seats for them, picked up a whatnot bodily to make further room and went out calling:
 
-Она торопливо расставила для них сиденья, подобрала тележку, чтобы освободить место, и вышла, позвав их:
+Она торопливо расставила для них сиденья, подняла тележку с вещами, чтобы освободить место, и вышла, позвав:
 
-'Joe, there's three gentlemen want to see you.'
+"Joe, there's three gentlemen want to see you."
 
-Джо, тебя хотят видеть три джентльмена.
+"Джо, тебя хотят видеть три джентльмена".
 
 A voice from the back kitchen replied:
 
 Голос из задней кухни ответил:
 
-'I'll be there when I've cleaned myself.'
+"I'll be there when I've cleaned myself."
 
-Я приду, когда приведу себя в порядок.
+"Я приду, когда приведу себя в порядок".
 
 Mrs Bartlett smiled.
 
 Миссис Бартлетт улыбнулась.
 
-'Come in, Mrs Bartlett.' said Colonel Melchett 'Sit down.'
+"Come in, Mrs Bartlett." said Colonel Melchett "Sit down."
 
 "Входите, миссис Бартлетт", - сказал полковник Мелчетт, - "Садитесь".
 
-'Oh, no, sir, I couldn't think of it.'
+"Oh, no, sir, I couldn't think of it."
 
-О, нет, сэр, я не мог об этом подумать".
+"О, нет, сэр, я не могла об этом подумать".
 
 Mrs Bartlett was shocked at the idea.
 
 Миссис Бартлетт была потрясена этой идеей.
 
-'You find Joe Ellis a good lodger?' inquired Melchett in a seemingly careless tone.
+"You find Joe Ellis a good lodger?" inquired Melchett in a seemingly careless tone.
 
-Вы считаете Джо Эллиса хорошим жильцом?" - поинтересовался Мелчетт, казалось бы, беззаботным тоном.
+"Вы считаете Джо Эллиса хорошим жильцом?" - спросил Мелчетт, казалось бы, беззаботным тоном.
 
-'Couldn't have a better, sir. A real steady young fellow. Never touches a drop of drink. Takes a pride in his work. And always kind and helpful about the house. He put up those shelves for me, and he's fixed a new dresser in the kitchen. And any little thing that wants doing in the house - why, Joe does it as a matter of course, and won't hardly take thanks for it. Ah! There aren't many young fellows like Joe, sir.'
+"Couldn't have a <span class='tip-wrap' data-text='better [бЕтэр] {прилагательное} лучший'>**better**<span class='tip-text'> </span></span>, sir. A real steady young fellow. Never touches a drop of drink. Takes a pride in his work. And always kind and helpful about the house. He put up <span class='tip-wrap' data-text='those [ðOуз] {определитель} те'>**those**<span class='tip-text'> </span></span> shelves for me, and he's fixed a new dresser in the kitchen. And any little thing that wants doing in the house - why, Joe does it as a <span class='tip-wrap' data-text='matter [мЭтэр] {существительное} вопрос (также материя); дело (также материя)'>**matter**<span class='tip-text'> </span></span> of course, and won't <span class='tip-wrap' data-text='hardly [хАрдли] {наречие} вряд ли'>**hardly**<span class='tip-text'> </span></span> take thanks for it. Ah! There aren't many young fellows like Joe, sir."
 
-Лучше и быть не может, сэр. Настоящий стойкий молодой парень. Никогда не притрагивается к спиртному. Гордится своей работой. И всегда добр и полезен в доме. Он повесил для меня эти полки, а на кухне поставил новый комод. Любая мелочь, которую нужно сделать в доме, - Джо делает это как само собой разумеющееся и не требует благодарности. Таких молодых парней, как Джо, не так уж много, сэр".
+"Лучше и быть не может, сэр. Настоящий стойкий молодой парень. Никогда не притрагивается к спиртному. Гордится своей работой. И всегда добр и полезен в доме. Он повесил для меня эти полки, починил новый комод на кухне. Любая мелочь, которую нужно сделать в доме, - Джо делает это как само собой разумеющееся и не требует благодарности. Таких молодых парней, как Джо, не так уж много, сэр".
 
-'Some girl will be lucky some day,' said Melchett carelessly. 'He was rather sweet on that poor girl. Rose Emmott, wasn't he?'
+"Some girl will be lucky some day," said Melchett carelessly. "He was <span class='tip-wrap' data-text='rather [рЭðэр] {наречие} скорее; довольно'>**rather**<span class='tip-text'> </span></span> sweet on that <span class='tip-wrap' data-text='poor [пУр] {прилагательное} плохой; бедный'>**poor**<span class='tip-text'> </span></span> girl. Rose Emmott, wasn't he?"
 
-Когда-нибудь какой-нибудь девушке повезет, - беззаботно сказал Мелчетт. Он был очень мил с этой бедной девушкой. Роуз Эммотт, не так ли?
+"Когда-нибудь какой-нибудь девушке повезет", - беспечно заметил Мелчетт. "Он был очень мил с этой бедной девушкой. Роуз Эммотт, не так ли?"
 
 Mrs Bartlett sighed.
 
 Миссис Бартлетт вздохнула.
 
-'It made me tired, it did. Him worshipping the ground she trod on and her not caring a snap of the fingers for him.'
+"It made me tired, it did. Him worshipping the ground she trod on and her not caring a snap of the fingers for him."
 
-Это меня утомляло. Он поклонялся земле, по которой она ступала, а она не заботилась о нем даже по щелчку пальцев".
+"Меня это утомляло. Он преклонялся перед ней, а она не обращала на него ни малейшего внимания".
 
-'Where does Joe spend his evenings, Mrs Bartlett?'
+"Where does Joe spend his evenings, Mrs Bartlett?"
 
-"Где Джо проводит вечера, миссис Бартлетт?
+"Где Джо проводит вечера, миссис Бартлетт?"
 
-'Here, sir, usually. He does some odd piece of work in the evenings, sometimes, and he's trying to learn book-keeping by correspondence.'
+"Here, sir, usually. He does some odd <span class='tip-wrap' data-text='piece [пИс] {существительное} кусок (также пьеса)'>**piece**<span class='tip-text'> </span></span> of work in the evenings, sometimes, and he's trying to learn book-keeping by correspondence."
 
-Здесь, сэр, обычно. Иногда он подрабатывает по вечерам и пытается заочно освоить бухгалтерское дело".
+"Обычно здесь, сэр. Иногда он подрабатывает по вечерам и пытается заочно освоить бухгалтерское дело".
 
-'Ah! really. Was he in yesterday evening?'
+"Ah! really. Was he in yesterday evening?"
 
-А! Правда. Он был вчера вечером?
+"Ах! Правда. Он был вчера вечером?"
 
-'Yes, sir.'
+"Yes, sir."
 
-Да, сэр.
+"Да, сэр".
 
-'You're sure, Mrs Bartlett?' said Sir Henry sharply.
+"You're <span class='tip-wrap' data-text='sure [шУр] {прилагательное} верный; уверенный'>**sure**<span class='tip-text'> </span></span>, Mrs Bartlett?" said Sir Henry sharply.
 
-Вы уверены, миссис Бартлетт?" - резко сказал сэр Генри.
+"Вы уверены, миссис Бартлетт?" - резко сказал сэр Генри.
 
 She turned to him.
 
 Она повернулась к нему.
 
-'Quite sure, sir.'
+"<span class='tip-wrap' data-text='quite [куАйт] {наречие} довольно'>**Quite**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='sure [шУр] {прилагательное} верный; уверенный'>**sure**<span class='tip-text'> </span></span>, sir."
 
-"Совершенно уверен, сэр".
+"Совершенно уверена, сэр".
 
-'He didn't go out, for instance, somewhere about eight to eight-thirty?'
+"He didn't go out, for instance, somewhere about eight to eight-thirty?"
 
-"Он не выходил, например, где-то с восьми до восьми тридцати?
+"Он не выходил, например, где-то с восьми до восьми тридцати?"
 
-'Oh, no.' Mrs Bartlett laughed. 'He was fixing the kitchen dresser for me nearly all the evening, and I was helping him.'
+"Oh, no." Mrs Bartlett laughed. "He was fixing the kitchen dresser for me nearly all the evening, and I was helping him."
 
-О, нет. Миссис Бартлетт рассмеялась. Он почти весь вечер чинил для меня кухонный комод, а я ему помогала.
+"О, нет". Миссис Бартлетт рассмеялась. "Он почти весь вечер чинил кухонный комод, а я ему помогала".
 
-Sir Henry looked at her smiling assured face and felt his first pang of doubt.
+Sir Henry looked at her smiling assured face and felt his first pang of <span class='tip-wrap' data-text='doubt [дАут] {существительное} сомнение'>**doubt**<span class='tip-text'> </span></span>.
 
 Сэр Генри посмотрел на ее улыбающееся уверенное лицо и почувствовал первый укол сомнения.
 
@@ -862,7 +862,7 @@ A moment later Ellis himself entered the room.
 
 Через минуту в комнату вошел сам Эллис.
 
-He was a tall broad-shouldered young man, very good-looking in a rustic way. He had shy, blue eyes and a good-tempered smile. Altogether an amiable young giant.
+He was a tall <span class='tip-wrap' data-text='broad [брОд] {прилагательное} широкий'>**broad**<span class='tip-text'> </span></span>-shouldered young man, very good-looking in a rustic way. He had shy, blue eyes and a good-tempered smile. Altogether an amiable young giant.
 
 Это был высокий широкоплечий молодой человек, очень симпатичный в деревенском стиле. У него были застенчивые голубые глаза и добродушная улыбка. В общем, приятный молодой гигант.
 
@@ -870,61 +870,61 @@ Melchett opened the conversation. Mrs Barlett withdrew to the kitchen.
 
 Разговор начал Мелчетт. Миссис Барлетт удалилась на кухню.
 
-'We are investigating the death of Rose Emmott You knew her, Ellis.'
+"We are investigating the death of Rose Emmott You knew her, Ellis."
 
-Мы расследуем смерть Роуз Эммотт. Вы знали ее, Эллис.
+"Мы расследуем смерть Роуз Эммотт. Вы знали ее, Эллис".
 
-'Yes.' He hesitated, then muttered, 'Hoped to marry her one day. Poor lass.'
+"Yes." He hesitated, then muttered, "Hoped to marry her one day. <span class='tip-wrap' data-text='poor [пУр] {прилагательное} плохой; бедный'>**Poor**<span class='tip-text'> </span></span> lass."
 
-Да. Он заколебался, потом пробормотал: "Надеялся когда-нибудь на ней жениться. Бедная девочка".
+"Да". Он заколебался, потом пробормотал: "Надеялся когда-нибудь на ней жениться. Бедная девочка".
 
-'You have heard of what her condition was?'
+"You have heard of what her <span class='tip-wrap' data-text='condition [кэндЫшэн] {существительное} состояние; условие'>**condition**<span class='tip-text'> </span></span> was?"
 
-Вы слышали, в каком она была состоянии?
+"Вы слышали, в каком она была состоянии?"
 
-'Yes.' A spark of anger showed in his eyes. 'Let her down, he did. But 'twere for the best. She wouldn't have been happy married to him. I reckoned she'd come to me when this happened. I'd have looked after her.'
+"Yes." A spark of anger showed in his eyes. "Let her down, he did. But "twere for the best. She wouldn't have been happy married to him. I reckoned she'd come to me when this happened. I'd have looked after her."
 
-Да. В его глазах мелькнула искра гнева. Он подвел ее. Но это было к лучшему. Она не была бы счастлива в браке с ним. Я думал, что она придет ко мне, когда это случится. Я бы присмотрел за ней".
+"Да". В его глазах мелькнула искра гнева. "Он подвел ее. Но это было к лучшему. Она не была бы счастлива в браке с ним. Я полагал, что она придет ко мне, когда это случится. Я бы присмотрел за ней".
 
-'In spite of -'
+"In spite of -"
 
-'Несмотря на...'
+"Несмотря на..."
 
-'Tweren't her fault. He led her astray with fine promises and all. Oh! she told me about it. She'd no call to drown herself. He weren't worth it.'
+"Tweren't her fault. He led her astray with fine promises and all. Oh! she told me about it. She'd no call to drown herself. He weren't worth it."
 
-Она не виновата. Он сбил ее с пути хорошими обещаниями и все такое. О! Она рассказала мне об этом. Она не собиралась топиться. Он того не стоил".
+"Она не виновата. Он сбил ее с пути хорошими обещаниями и все такое. О! Она рассказала мне об этом. Она не собиралась топиться. Он того не стоил".
 
-'Where were you, Ellis, last night at eight-thirty?'
+"Where were you, Ellis, last night at eight-thirty?"
 
-Где вы были, Эллис, вчера вечером в восемь тридцать?
+"Где вы были, Эллис, вчера вечером в восемь тридцать?"
 
-Was it Sir Henry's fancy, or was there really a shade of constraint in the ready - almost too ready - reply?
+Was it Sir Henry's fancy, or was there really a shade of constraint in the ready - <span class='tip-wrap' data-text='almost [ОлмOуст] {наречие} почти'>**almost**<span class='tip-text'> </span></span> too ready - reply?
 
-Показалось ли это сэру Генри, или в готовом - почти слишком готовом - ответе действительно был оттенок сдержанности?
+Показалось ли это сэру Генри, или в готовом - почти слишком готовом - ответе действительно прозвучала нотка сдержанности?
 
-'I was here. Fixing up a contraption in the kitchen for Mrs B. You ask her. She'll tell you.'
+"I was here. Fixing up a contraption in the kitchen for Mrs B. You ask her. She'll tell you."
 
-Я был здесь. Чинил на кухне штуковину для миссис Б. Спросите ее. Она вам расскажет".
+"Я был здесь. Устанавливал на кухне приспособление для миссис Б. Спросите ее. Она вам расскажет".
 
-'He was too quick with that,' thought Sir Henry. 'He's a slow thinking man. That popped out so pat that I suspect he'd got it ready beforehand.'
+"He was too quick with that," thought Sir Henry. "He's a slow <span class='tip-wrap' data-text='thinking [θЫŋкыŋ] {существительное} мышление'>**thinking**<span class='tip-text'> </span></span> man. That popped out so pat that I suspect he'd got it ready beforehand."
 
-Он слишком поторопился с этим, - подумал сэр Генри. Он медленно соображает. Это выскочило так неожиданно, что я подозреваю, что он подготовился к этому заранее".
+"Он слишком поторопился с этим", - подумал сэр Генри. "Он медленно соображает. Это выскочило так неожиданно, что я подозреваю, что он приготовил это заранее".
 
-Then he told himself that it was imagination. He was imagining things - yes, even imagining an apprehensive glint in those blue eyes.
+Then he told himself that it was imagination. He was imagining things - yes, even imagining an apprehensive glint in <span class='tip-wrap' data-text='those [ðOуз] {определитель} те'>**those**<span class='tip-text'> </span></span> blue eyes.
 
 Потом он сказал себе, что это воображение. Ему все привиделось - да, даже тревожный блеск в этих голубых глазах.
 
-A few more questions and answers and they left. Sir Henry made an excuse to go to the kitchen. Mrs Bartlett was busy at the stove. She looked up with a pleasant smile. A new dresser was fixed against the wall. It was not quite finished. Some tools lay about and some pieces of wood.
+A few more questions and answers and they left. Sir Henry made an excuse to go to the kitchen. Mrs Bartlett was busy at the stove. She looked up with a pleasant smile. A new dresser was fixed <span class='tip-wrap' data-text='against [эгЕнст] {предлог} от; против'>**against**<span class='tip-text'> </span></span> the wall. It was not <span class='tip-wrap' data-text='quite [куАйт] {наречие} довольно'>**quite**<span class='tip-text'> </span></span> finished. Some tools lay about and some pieces of wood.
 
-Еще несколько вопросов и ответов, и они ушли. Сэр Генри нашел предлог, чтобы пойти на кухню. Миссис Бартлетт была занята у плиты. Она подняла голову с приятной улыбкой. У стены стоял новый комод. Он был не совсем закончен. На нем лежали инструменты и куски дерева.
+Еще несколько вопросов и ответов, и они ушли. Сэр Генри попросил прощения, чтобы пойти на кухню. Миссис Бартлетт была занята у плиты. Она с приятной улыбкой подняла голову. У стены стоял новый комод. Он был не совсем закончен. На нем лежали инструменты и несколько кусков дерева.
 
-'That's what Ellis was at work on last night?' said Sir Henry.
+"That's what Ellis was at work on last night?" said Sir Henry.
 
-Так вот над чем работал Эллис прошлой ночью?" - спросил сэр Генри.
+"Это то, над чем Эллис работал вчера вечером?" - спросил сэр Генри.
 
-'Yes, sir, it's a nice bit of work, isn't it? He's a very clever carpenter, Joe is.'
+"Yes, sir, it's a nice bit of work, isn't it? He's a very clever carpenter, Joe is."
 
-Да, сэр, отличная работа, не правда ли? Он очень толковый плотник, Джо".
+"Да, сэр, отличная работа, не правда ли? Он очень толковый плотник, Джо".
 
 No apprehensive gleam in her eye - no embarrassment.
 
@@ -934,49 +934,49 @@ But Ellis - had he imagined it? No, there had been something.
 
 Но Эллис - показалось ли ему? Нет, что-то было.
 
-'I must tackle him,' thought Sir Henry.
+"I must tackle him," thought Sir Henry.
 
-Я должен его схватить, - подумал сэр Генри.
+"Я должен с ним разобраться", - подумал сэр Генри.
 
 Turning to leave the kitchen, he collided with a perambulator.
 
-Поворачиваясь, чтобы выйти из кухни, он столкнулся с коляской.
+Повернувшись, чтобы выйти из кухни, он столкнулся с коляской.
 
-'Not woken the baby up, I hope,' he said.
+"Not woken the baby up, I hope," he said.
 
-Надеюсь, ребенок не проснулся?
+"Надеюсь, не разбудил ребенка", - сказал он.
 
 Mrs Bartlett's laugh rang out.
 
 Раздался смех миссис Бартлетт.
 
-'Oh, no, sir. I've no children - more's the pity. That's what I take the laundry on, sir.'
+"Oh, no, sir. I've no children - more's the pity. That's what I take the laundry on, sir."
 
-О, нет, сэр. У меня нет детей, что еще более печально. Вот за это я и берусь стирать, сэр".
+"О, нет, сэр. У меня нет детей - к большому сожалению. Вот я и беру на себя стирку, сэр".
 
-'Oh! I see -'
+"Oh! I see -"
 
-"О! Я вижу...
+"О! Понятно..."
 
 He paused then said on an impulse:
 
-Он сделал паузу, а затем сказал, поддавшись порыву:
+Он сделал паузу, затем порывисто произнес:
 
-'Mrs Bartlett! You knew Rose Emmott. Tell me what you really thought of her.'
+"Mrs Bartlett! You knew Rose Emmott. Tell me what you really thought of her."
 
-Миссис Бартлетт! Вы знали Розу Эммотт. Скажите мне, что вы на самом деле о ней думаете?
+"Миссис Бартлетт! Вы знали Розу Эммотт. Скажите мне, что вы на самом деле о ней думаете".
 
 She looked at him curiously.
 
 Она с любопытством посмотрела на него.
 
-'Well, sir, I thought she was flighty. But she's dead - and I don't like to speak ill of the dead.'
+"Well, sir, I thought she was flighty. But she's dead - and I don't like to speak ill of the dead."
 
-"Ну, сэр, я думал, что она взбалмошная. Но она мертва, а я не люблю говорить плохо о мертвых".
+"Ну, сэр, я думала, что она взбалмошная. Но она умерла, а я не люблю говорить плохо о мертвых".
 
-'But I have a reason - a very good reason for asking.'
+"But I have a reason - a very good reason for asking."
 
-Но у меня есть причина - очень веская причина, чтобы спросить".
+"Но у меня есть причина - очень веская причина, чтобы спросить".
 
 He spoke persuasively.
 
@@ -984,147 +984,147 @@ He spoke persuasively.
 
 She seemed to consider, studying him attentively. Finally she made up her mind.
 
-Она, казалось, раздумывала, внимательно изучая его. Наконец она приняла решение.
+Она, казалось, раздумывала, внимательно изучая его. Наконец она решилась.
 
-'She was a bad lot, sir,' she said quietly. 'I wouldn't say so before Joe. She took him in good and proper. That kind can - more's the pity. You know how it is, sir.'
+"She was a bad lot, sir," she said quietly. "I wouldn't say so before Joe. She took him in good and <span class='tip-wrap' data-text='proper [прАпэр] {прилагательное} надлежащий [2]; правильный [2]; собственный [2]; подходящий [2]; должный [1]; настоящий [1]; истинный [1]; присущий [1]; свойственный [1]; приличный [1]; точный [1]; пристойный [1]; совершенный [1]; красивый [1]'>**proper**<span class='tip-text'> </span></span>. That kind can - more's the pity. You know how it is, sir."
 
-Она была не из лучших, сэр, - тихо сказала она. Я бы не сказала так о Джо. Она приняла его хорошо и правильно. Такие могут - жаль только. Вы знаете, как это бывает, сэр".
+"Она была плохим человеком, сэр", - тихо сказала она. "Я бы не сказала так о Джо. Она приняла его хорошо и правильно. Такие люди могут... жаль только. Вы знаете, как это бывает, сэр".
 
-Yes, Sir Henry knew. The Joe Ellises of the world were peculiarly vulnerable. They trusted blindly. But for that very cause the shock of discovery might be greater.
+Yes, Sir Henry knew. The Joe Ellises of the world were peculiarly vulnerable. They trusted blindly. But for that very cause the shock of discovery <span class='tip-wrap' data-text='might [мАйт] {глагол} может быть'>**might**<span class='tip-text'> </span></span> be greater.
 
 Да, сэр Генри знал. Джо Эллисы в этом мире были особенно уязвимы. Они доверяли вслепую. Но именно по этой причине шок от разоблачения может оказаться сильнее.
 
-He left the cottage baffled and perplexed. He was up against a blank wall. Joe Ellis had been working indoors all yesterday evening. Mrs Bartlett had actually been there watching him. Could one possibly get round that? There was nothing to set against it - except possibly that suspicious readiness in replying on Joe Ellis's part - that suggestion of having a story pat.
+He left the cottage baffled and perplexed. He was up <span class='tip-wrap' data-text='against [эгЕнст] {предлог} от; против'>**against**<span class='tip-text'> </span></span> a blank wall. Joe Ellis had been working indoors all yesterday evening. Mrs Bartlett had <span class='tip-wrap' data-text='actually [ЭкчУэли] {наречие} действительно'>**actually**<span class='tip-text'> </span></span> been there watching him. Could one possibly get round that? There was nothing to set <span class='tip-wrap' data-text='against [эгЕнст] {предлог} от; против'>**against**<span class='tip-text'> </span></span> it - except possibly that suspicious readiness in replying on Joe Ellis's part - that suggestion of having a story pat.
 
-Он покинул коттедж в недоумении. Перед ним была глухая стена. Весь вчерашний вечер Джо Эллис работал в доме. Миссис Бартлетт действительно была там и наблюдала за ним. Можно ли обойти это? Против этого ничего не было - разве что подозрительная готовность Джо Эллиса к ответу, предположение о том, что у него есть готовая история.
+Он покинул коттедж озадаченным и растерянным. Перед ним была глухая стена. Весь вчерашний вечер Джо Эллис работал в доме. Миссис Бартлетт действительно была там и наблюдала за ним. Можно ли обойти это? Против этого ничего не было, кроме, возможно, подозрительной готовности Джо Эллиса отвечать, предположения о том, что у него есть готовая история.
 
-'Well,' said Melchett, 'that seems to make the matter quite clear, eh?'
+"Well," said Melchett, "that seems to make the <span class='tip-wrap' data-text='matter [мЭтэр] {существительное} вопрос (также материя); дело (также материя)'>**matter**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='quite [куАйт] {наречие} довольно'>**quite**<span class='tip-text'> </span></span> clear, eh?"
 
-Что ж, - сказал Мелчетт, - кажется, это проясняет ситуацию, да?
+"Ну что ж, - сказал Мелчетт, - похоже, дело проясняется, а?"
 
-'It does, sir,' agreed the inspector. 'Sandford's our man. Not a leg to stand upon. The thing's as plain as daylight. It's my opinion as the girl and her father were out to - well - practically blackmail him. He's no money to speak of - he didn't want the matter to get to his young lady's ears. He was desperate and he acted accordingly. What do you say, sir?' he added, addressing Sir Henry deferentially.
+"It does, sir," agreed the inspector. "Sandford's our man. Not a leg to stand <span class='tip-wrap' data-text='upon [эпАн] {предлог} по; на; после'>**upon**<span class='tip-text'> </span></span>. The thing's as plain as daylight. It's my opinion as the girl and her father were out to - well - practically blackmail him. He's no money to speak of - he didn't want the <span class='tip-wrap' data-text='matter [мЭтэр] {существительное} вопрос (также материя); дело (также материя)'>**matter**<span class='tip-text'> </span></span> to get to his young lady's ears. He was desperate and he acted accordingly. What do you say, sir?" he added, addressing Sir Henry deferentially.
 
-Да, сэр, - согласился инспектор. Сэндфорд - наш человек. Ни одной ноги, чтобы устоять на ногах. Все ясно как божий день. Я считаю, что девушка и ее отец хотели... ну, практически шантажировали его. У него нет денег, и он не хотел, чтобы дело дошло до ушей его юной леди. Он был в отчаянии и действовал соответственно. Что скажете, сэр?" - добавил он, почтительно обращаясь к сэру Генри.
+"Да, сэр, - согласился инспектор. "Сэндфорд - наш человек. Не на что опереться. Все ясно как божий день. Я считаю, что девушка и ее отец хотели - ну, практически шантажировали его. У него нет денег, и он не хотел, чтобы дело дошло до ушей его юной леди. Он был в отчаянии и действовал соответственно. Что скажете, сэр?" - добавил он, почтительно обращаясь к сэру Генри.
 
-'It seems so,' admitted Sir Henry. 'And yet - I can hardly picture Sandford committing any violent action.'
+"It seems so," admitted Sir Henry. "And <span class='tip-wrap' data-text='yet [йЕт] {наречие} еще; пока'>**yet**<span class='tip-text'> </span></span> - I can <span class='tip-wrap' data-text='hardly [хАрдли] {наречие} вряд ли'>**hardly**<span class='tip-text'> </span></span> picture Sandford committing any violent action."
 
-Похоже на то, - признал сэр Генри. И все же я с трудом представляю себе Сэндфорда, совершающего какие-либо насильственные действия.
+"Похоже на то", - признал сэр Генри. "И все же я с трудом могу представить себе Сэндфорда, совершившего какое-либо насильственное действие".
 
-But he knew as he spoke that that objection was hardly valid. The meekest animal, when cornered, is capable of amazing actions.
+But he knew as he spoke that that objection was <span class='tip-wrap' data-text='hardly [хАрдли] {наречие} вряд ли'>**hardly**<span class='tip-text'> </span></span> valid. The meekest animal, when cornered, is capable of <span class='tip-wrap' data-text='amazing [эмЕйзыŋ] {прилагательное} удивительный [3]; изумительный [2]'>**amazing**<span class='tip-text'> </span></span> actions.
 
-Но, говоря, он понимал, что это возражение вряд ли обоснованно. Самое кроткое животное, если его загнать в угол, способно на удивительные поступки.
+Но он и сам понимал, что это возражение вряд ли обоснованно. Самое кроткое животное, загнанное в угол, способно на удивительные поступки.
 
-'I should like to see the boy, though,' he said suddenly. 'The one who heard the cry.'
+"I <span class='tip-wrap' data-text='should [шУд] {глагол} должен'>**should**<span class='tip-text'> </span></span> like to see the boy, though," he said suddenly. "The one who heard the cry."
 
-Я бы хотел увидеть мальчика, - вдруг сказал он. Того, кто услышал крик.
+"Но я хотел бы увидеть мальчика, - вдруг сказал он. "Того, кто услышал крик".
 
-Jimmy Brown proved to be an intelligent lad, rather small for his age, with a sharp, rather cunning face. He was eager to be questioned and was rather disappointed when checked in his dramatic tale of what he had heard on the fatal night.
+Jimmy Brown proved to be an intelligent lad, <span class='tip-wrap' data-text='rather [рЭðэр] {наречие} скорее; довольно'>**rather**<span class='tip-text'> </span></span> small for his age, with a sharp, <span class='tip-wrap' data-text='rather [рЭðэр] {наречие} скорее; довольно'>**rather**<span class='tip-text'> </span></span> cunning face. He was eager to be questioned and was <span class='tip-wrap' data-text='rather [рЭðэр] {наречие} скорее; довольно'>**rather**<span class='tip-text'> </span></span> disappointed when checked in his dramatic tale of what he had heard on the fatal night.
 
-Джимми Браун оказался смышленым пареньком, довольно маленьким для своего возраста, с острым и довольно хитрым лицом. Он охотно принимал участие в расспросах и был весьма разочарован, когда его драматический рассказ о том, что он услышал в роковую ночь, был прерван.
+Джимми Браун оказался смышленым мальчиком, довольно маленьким для своего возраста, с острым, довольно хитрым лицом. Он охотно принимал участие в расспросах и был весьма разочарован, когда его рассказ о том, что он слышал в ту роковую ночь, оказался драматичным.
 
-'You were on the other side of the bridge, I understand,' said Sir Henry. 'Across the river from the village. Did you see anyone on that side as you came over the bridge?'
+"You were on the other side of the bridge, I understand," said Sir Henry. "<span class='tip-wrap' data-text='across [экрОс] {предлог} через'>**Across**<span class='tip-text'> </span></span> the river from the village. Did you see anyone on that side as you came over the bridge?"
 
-Вы были на другой стороне моста, как я понимаю, - сказал сэр Генри. Через реку от деревни. Вы видели кого-нибудь на той стороне, когда переезжали мост?
+"Вы были на другой стороне моста, как я понимаю", - сказал сэр Генри. "Через реку от деревни. Вы видели кого-нибудь на той стороне, когда переходили мост?"
 
-'There was someone walking up in the woods. Mr Sandford, I think it was, the architecting gentleman who's building the queer house.'
+"There was someone walking up in the woods. Mr Sandford, I think it was, the architecting gentleman who's building the queer house."
 
-В лесу кто-то ходил. Кажется, это был мистер Сэндфорд, джентльмен-архитектор, который строит этот странный дом".
+"Там кто-то шел по лесу. Кажется, это был мистер Сэндфорд, архитектор, который строит этот странный дом".
 
 The three men exchanged glances.
 
 Трое мужчин обменялись взглядами.
 
-'That was about ten minutes or so before you heard the cry?'
+"That was about ten minutes or so before you heard the cry?"
 
-Это было примерно за десять минут до того, как вы услышали крик?
+"Это было минут за десять или около того до того, как вы услышали крик?"
 
 The boy nodded.
 
 Мальчик кивнул.
 
-'Did you see anyone else - on the village side of the river?'
+"Did you see anyone else - on the village side of the river?"
 
-Вы видели кого-нибудь еще на деревенской стороне реки?
+"Вы видели кого-нибудь еще на деревенской стороне реки?"
 
-'A man came along the path that side. Going slow and whistling he was. Might have been Joe Ellis.'
+"A man came <span class='tip-wrap' data-text='along [элОŋ] {предлог} вдоль'>**along**<span class='tip-text'> </span></span> the path that side. Going slow and whistling he was. <span class='tip-wrap' data-text='might [мАйт] {глагол} может быть'>**Might**<span class='tip-text'> </span></span> have been Joe Ellis."
 
-По тропинке в ту сторону шел человек. Шел медленно и насвистывал. Возможно, это был Джо Эллис".
+"По тропинке на той стороне шел человек. Шел медленно и насвистывал. Возможно, это был Джо Эллис".
 
-'You couldn't possibly have seen who it was,' said the inspector sharply. 'What with the mist and its being dusk.'
+"You couldn't possibly have seen who it was," said the inspector sharply. "What with the mist and its being dusk."
 
-Вы не могли видеть, кто это был, - резко сказал инспектор. Из-за тумана и сумерек.
+"Вы не могли видеть, кто это был", - резко сказал инспектор. "Из-за тумана и сумерек".
 
-'It's on account of the whistle,' said the boy. 'Joe Ellis always whistles the same tune - "I wanner be happy" - it's the only tune he knows.'
+"It's on account of the whistle," said the boy. "Joe Ellis always whistles the same tune - "I wanner be happy" - it's the only tune he knows."
 
-Это из-за свистка, - сказал мальчик. Джо Эллис всегда насвистывает одну и ту же мелодию - "I wanner be happy" - это единственная мелодия, которую он знает".
+"Это из-за свистка", - сказал мальчик. "Джо Эллис всегда насвистывает одну и ту же мелодию - "I wanner be happy" - это единственная мелодия, которую он знает".
 
 He spoke with the scorn of the modernist for the old-fashioned.
 
-Он говорил о старомодности с презрением модерниста.
+Он говорил со свойственным модернистам презрением к старомодному.
 
-'Anyone might whistle a tune,' said Melchett 'Was he going towards the bridge?'
+"Anyone <span class='tip-wrap' data-text='might [мАйт] {глагол} может быть'>**might**<span class='tip-text'> </span></span> whistle a tune," said Melchett "Was he going <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the bridge?"
 
-"Кто-нибудь может насвистывать мелодию, - сказал Мелчетт, - он шел к мосту?
+"Любой может насвистывать мелодию", - сказал Мелчетт. "Он шел к мосту?"
 
-'No. Other way - to village.'
+"No. Other way - to village."
 
-Нет. Другой путь - в деревню.
+"Нет. В другую сторону - в деревню".
 
-'I don't think we need concern ourselves with this unknown man,' said Melchett. 'You heard the cry and the splash and a few minutes later you saw the body floating downstream and you ran for help, going back to the bridge, crossing it, and making straight for the village. You didn't see anyone near the bridge as you ran for help?'
+"I don't think we need concern ourselves with this unknown man," said Melchett. "You heard the cry and the splash and a few minutes later you saw the body floating downstream and you ran for help, going back to the bridge, crossing it, and making straight for the village. You didn't see anyone near the bridge as you ran for help?"
 
-Не думаю, что нам стоит беспокоиться об этом неизвестном человеке, - сказал Мелчетт. Вы услышали крик и всплеск, а через несколько минут увидели тело, плывущее вниз по течению, и побежали за помощью, вернувшись к мосту, перейдя его и направившись прямо в деревню. Вы никого не видели возле моста, когда бежали за помощью?
+"Не думаю, что нам стоит беспокоиться об этом неизвестном человеке, - сказал Мелчетт. "Вы услышали крик и всплеск, а через несколько минут увидели тело, плывущее вниз по течению, и побежали за помощью, вернувшись к мосту, перейдя его и направившись прямо в деревню. Вы никого не видели возле моста, когда бежали за помощью?"
 
-'I think as there were two men with a wheelbarrow on the river path; but they were some way away and I couldn't tell if they were going or coming and Mr Giles's place was nearest - so I ran there.'
+"I think as there were two men with a wheelbarrow on the river path; but they were some way <span class='tip-wrap' data-text='away [эуЕй] {наречие} далеко'>**away**<span class='tip-text'> </span></span> and I couldn't tell if they were going or coming and Mr Giles's place was nearest - so I ran there."
 
-Я думаю, что на тропинке к реке стояли двое мужчин с тачкой, но они были уже далеко, и я не мог понять, идут они или едут, а дом мистера Джайлса был ближе всего, поэтому я побежал туда".
+"Думаю, там были двое мужчин с тачкой на речной дорожке; но они были уже далеко, и я не мог понять, идут они или едут, а дом мистера Джайлса был ближе всего, поэтому я побежал туда".
 
-'You did well, my boy,' said Melchett 'You acted very creditably and with presence of mind. You're a scout, aren't you?'
+"You did well, my boy," said Melchett "You acted very creditably and with presence of mind. You're a scout, aren't you?"
 
-Ты хорошо справился, мой мальчик, - сказал Мелчетт, - ты действовал очень достойно и с умом. Ты ведь разведчик, не так ли?
+"Ты молодец, мой мальчик, - сказал Мелчетт, - ты действовал очень достойно и с умом. Ты ведь разведчик, не так ли?"
 
-'Yes, sir.'
+"Yes, sir."
 
-Да, сэр.
+"Да, сэр".
 
-'Very good. Very good indeed.'
+"Very good. Very good indeed."
 
-"Очень хорошо. Действительно, очень хорошо.
+"Очень хорошо. Действительно, очень хорошо".
 
-Sir Henry was silent - thinking. He took a slip of paper from his pocket, looked at it, shook his head. It didn't seem possible - and yet - He decided to pay a call on Miss Marple.
+Sir Henry was <span class='tip-wrap' data-text='silent [сАйлэнт] {прилагательное} тихий [3]; молчаливый [2]; немой [2]; безмолвный [2]'>**silent**<span class='tip-text'> </span></span> - <span class='tip-wrap' data-text='thinking [θЫŋкыŋ] {существительное} мышление'>**thinking**<span class='tip-text'> </span></span>. He took a slip of paper from his pocket, looked at it, shook his head. It didn't seem possible - and <span class='tip-wrap' data-text='yet [йЕт] {наречие} еще; пока'>**yet**<span class='tip-text'> </span></span> - He decided to pay a call on Miss Marple.
 
 Сэр Генри замолчал - задумался. Он достал из кармана листок бумаги, посмотрел на него и покачал головой. Это казалось невозможным - и все же... Он решил позвонить мисс Марпл.
 
-She received him in her pretty, slightly overcrowded old style drawing-room.
+She received him in her <span class='tip-wrap' data-text='pretty [прЫти] {наречие} довольно'>**pretty**<span class='tip-text'> </span></span>, <span class='tip-wrap' data-text='slightly [слАйтли] {наречие} немного'>**slightly**<span class='tip-text'> </span></span> overcrowded old style <span class='tip-wrap' data-text='drawing [дрОыŋ] {существительное} графика [3]; рисунок [3]; розыгрыш [3]; чертеж [3]; рисование [2]; черчение [2]; волочение [2]'>**drawing**<span class='tip-text'> </span></span>-room.
 
 Она приняла его в своей красивой, немного переполненной гостиной в старинном стиле.
 
-'I've come to report progress,' said Sir Henry. 'I'm afraid that from our point of view things aren't going well. They are going to arrest Sandford. And I must say I think they are justified.'
+"I've come to report progress," said Sir Henry. "I'm afraid that from our point of view things aren't going well. They are going to arrest Sandford. And I must say I think they are justified."
 
-Я пришел сообщить о ходе работ, - сказал сэр Генри. Боюсь, что с нашей точки зрения дела идут не очень хорошо. Они собираются арестовать Сэндфорда. И я должен сказать, что считаю это оправданным".
+"Я пришел сообщить о прогрессе", - сказал сэр Генри. "Боюсь, что с нашей точки зрения дела идут не очень хорошо. Они собираются арестовать Сэндфорда. И я должен сказать, что считаю это оправданным".
 
-'You have found nothing in - what shall I say - support of my theory, then?' She looked perplexed - anxious. 'Perhaps I have been wrong - quite wrong. You have such wide experience - you would surely detect it if it were so.'
+"You have <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> nothing in - what <span class='tip-wrap' data-text='shall [шЭл] {глагол} будущее от первого лица [3]'>**shall**<span class='tip-text'> </span></span> I say - support of my theory, then?" She looked perplexed - anxious. "Perhaps I have been wrong - <span class='tip-wrap' data-text='quite [куАйт] {наречие} довольно'>**quite**<span class='tip-text'> </span></span> wrong. You have such wide experience - you would surely detect it if it were so."
 
-Вы ничего не нашли в поддержку моей теории, как бы это сказать? Она выглядела озадаченной - встревоженной. 'Возможно, я ошиблась - совсем ошиблась. У вас такой богатый опыт - вы бы наверняка обнаружили это, если бы это было так".
+"Значит, вы ничего не нашли - как бы это сказать - в поддержку моей теории?" Она выглядела озадаченной и встревоженной. "Возможно, я ошибалась - совсем ошибалась. У вас такой богатый опыт - вы наверняка обнаружили бы это, если бы это было так".
 
-'For one thing,' said Sir Henry, 'I can hardly believe it. And for another we are up against an unbreakable alibi. Joe Ellis was fixing shelves in the kitchen all the evening and Mrs Bartlett was watching him do it.'
+"For one thing," said Sir Henry, "I can <span class='tip-wrap' data-text='hardly [хАрдли] {наречие} вряд ли'>**hardly**<span class='tip-text'> </span></span> believe it. And for another we are up <span class='tip-wrap' data-text='against [эгЕнст] {предлог} от; против'>**against**<span class='tip-text'> </span></span> an unbreakable alibi. Joe Ellis was fixing shelves in the kitchen all the evening and Mrs Bartlett was watching him do it."
 
-С одной стороны, - сказал сэр Генри, - мне трудно в это поверить. А с другой стороны, мы имеем дело с нерушимым алиби. Джо Эллис весь вечер чинил полки на кухне, а миссис Бартлетт наблюдала за ним".
+"С одной стороны, - сказал сэр Генри, - мне трудно в это поверить. А с другой стороны, мы имеем дело с нерушимым алиби. Джо Эллис весь вечер чинил полки на кухне, и миссис Бартлетт наблюдала, как он это делает".
 
-Miss Marple leaned forward, taking in a quick breath.
+Miss Marple leaned forward, taking in a quick <span class='tip-wrap' data-text='breath [брЕθ] {существительное} вздох (осн. дыхание)'>**breath**<span class='tip-text'> </span></span>.
 
 Мисс Марпл наклонилась вперед, делая быстрый вдох.
 
-'But that can't be so,' she said. 'It was Friday night.'
+"But that can't be so," she said. "It was Friday night."
 
-Но этого не может быть, - сказала она. Это было в пятницу вечером.
+"Но этого не может быть, - сказала она. "Это было в пятницу вечером".
 
-'Friday night?'
+"Friday night?"
 
-"В пятницу вечером?
+"В пятницу вечером?"
 
-'Yes - Friday night. On Friday evenings Mrs Bartlett takes the laundry she has done round to the different people.'
+"Yes - Friday night. On Friday evenings Mrs Bartlett takes the laundry she has done round to the different people."
 
-Да, в пятницу вечером. По вечерам в пятницу миссис Бартлетт разносит по разным людям выстиранное белье".
+"Да - в пятницу вечером. По вечерам в пятницу миссис Бартлетт разносит по разным людям выстиранное белье".
 
 Sir Henry leaned back in his chair. He remembered the boy Jimmy's story of the whistling man and - yes - it would all fit in.
 
@@ -1134,69 +1134,69 @@ He rose, taking Miss Marple warmly by the hand.
 
 Он поднялся и тепло взял мисс Марпл за руку.
 
-'I think I see my way,' he said. 'At least I can try...'
+"I think I see my way," he said. "At <span class='tip-wrap' data-text='least [лИст] {наречие} наименее'>**least**<span class='tip-text'> </span></span> I can try..."
 
-Кажется, я вижу свой путь, - сказал он. По крайней мере, я могу попытаться...
+"Кажется, я вижу свой путь", - сказал он. "По крайней мере, я могу попытаться..."
 
 Five minutes later he was back at Mrs Bartlett's cottage and facing Joe Ellis in the little parlour among the china dogs.
 
-Через пять минут он снова был в коттедже миссис Бартлетт и стоял перед Джо Эллисом в маленькой гостиной среди фарфоровых собачек.
+Через пять минут он уже вернулся в коттедж миссис Бартлетт и стоял перед Джо Эллисом в маленькой гостиной среди фарфоровых собачек.
 
-'You lied to us, Ellis, about last night,' he said crisply. 'You were not in the kitchen here fixing the dresser between eight and eight-thirty. You were seen walking along the path by the river towards the bridge a few minutes before Rose Emmott was murdered.'
+"You lied to us, Ellis, about last night," he said crisply. "You were not in the kitchen here fixing the dresser between eight and eight-thirty. You were seen walking <span class='tip-wrap' data-text='along [элОŋ] {предлог} вдоль'>**along**<span class='tip-text'> </span></span> the path by the river <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the bridge a few minutes before Rose Emmott was murdered."
 
-Вы солгали нам, Эллис, о прошлой ночи, - резко сказал он. Вас не было на кухне, вы чинили комод между восемью и восемью тридцатью. Вас видели идущим по тропинке у реки в сторону моста за несколько минут до убийства Роуз Эммотт".
+"Вы солгали нам, Эллис, о прошлой ночи, - сказал он резко. "Вас не было на кухне, вы чинили комод между восемью и восемью тридцатью. Вас видели идущим по тропинке у реки в сторону моста за несколько минут до убийства Роуз Эммотт".
 
 The man gasped.
 
 Мужчина вздохнул.
 
-'She weren't murdered - she weren't. I had naught to do with it. She threw herself in, she did. She was desperate like. I wouldn't have harmed a hair on her head, I wouldn't.'
+"She weren't murdered - she weren't. I had naught to do with it. She threw herself in, she did. She was desperate like. I wouldn't have harmed a hair on her head, I wouldn't."
 
-Она не была убита - не была. Я не имею к этому никакого отношения. Она сама бросилась. Она была в отчаянии. Я бы не тронул ни одного волоска на ее голове, не тронул бы".
+"Она не была убита - не была. Я не имею к этому никакого отношения. Она сама бросилась в воду. Она была в отчаянии. Я бы не тронул и волоска на ее голове, не тронул".
 
-'Then why did you lie as to where you were?' asked Sir Henry keenly.
+"Then why did you lie as to where you were?" asked Sir Henry keenly.
 
-Тогда почему вы солгали о том, где были?" - резко спросил сэр Генри.
+"Тогда почему вы солгали о том, где были?" - резко спросил сэр Генри.
 
 The man's eyes shifted and lowered uncomfortably.
 
-Глаза мужчины неловко опустились.
+Глаза мужчины неловко дернулись и опустились.
 
-'I was scared. Mrs B. saw me around there and when we heard just afterwards what had happened - well, she thought it might look bad for me. I fixed I'd say I was working here, and she agreed to back me up. She's a rare one, she is. She's always been good to me.'
+"I was scared. Mrs B. saw me around there and when we heard just afterwards what had happened - well, she thought it <span class='tip-wrap' data-text='might [мАйт] {глагол} может быть'>**might**<span class='tip-text'> </span></span> look bad for me. I fixed I'd say I was working here, and she agreed to <span class='tip-wrap' data-text='back [бЭк] {глагол} поддерживать'>**back**<span class='tip-text'> </span></span> me up. She's a rare one, she is. She's always been good to me."
 
-Мне было страшно. Миссис Б. видела меня там, а когда мы узнали, что произошло, она подумала, что это может плохо для меня выглядеть. Я решила сказать, что работаю здесь, и она согласилась меня поддержать. Она вообще редкая женщина. Она всегда была добра ко мне".
+"Я была напугана. Миссис Б. видела меня там, и когда мы узнали, что произошло, она подумала, что это может плохо для меня выглядеть. Я решила сказать, что работаю здесь, и она согласилась меня поддержать. Она вообще редкая женщина. Она всегда была добра ко мне".
 
 Without a word Sir Henry left the room and walked into the kitchen. Mrs Bartlett was washing up at the sink.
 
 Не говоря ни слова, сэр Генри вышел из комнаты и прошел на кухню. Миссис Бартлетт мыла посуду у раковины.
 
-'Mrs Bartlett,' he said, 'I know everything. I think you'd better confess - that is, unless you want Joe Ellis hanged for something he didn't do... No. I see you don't want that. I'll tell you what happened. You were out taking the laundry home. You came across Rose Emmott. You thought she'd given Joe the chuck and was taking up with this stranger. Now she was in trouble - Joe was prepared to come to the rescue - marry her if need be, and if she'd have him. He's lived in your house for four years. You've fallen in love with him. You want him for yourself. You hated this girl - you couldn't bear that this worthless little slut should take your man from you. You're a strong woman, Mrs Bartlett. You caught the girl by the shoulders and shoved her over into the stream. A few minutes later you met Joe Ellis. The boy Jimmy saw you together in the distance - but in the darkness and the mist he assumed the perambulator was a wheelbarrow and two men wheeling it. You persuaded Joe that he might be suspected and you concocted what was supposed to be an alibi for him, but which was really an alibi for you. Now then, I'm right, am I not?'
+"Mrs Bartlett," he said, "I know everything. I think you'd better confess - that is, unless you want Joe Ellis hanged for something he didn't do... No. I see you don't want that. I'll tell you what happened. You were out taking the laundry home. You came <span class='tip-wrap' data-text='across [экрОс] {предлог} через'>**across**<span class='tip-text'> </span></span> Rose Emmott. You thought she'd given Joe the chuck and was taking up with this stranger. Now she was in trouble - Joe was prepared to come to the rescue - marry her if need be, and if she'd have him. He's lived in your house for four years. You've fallen in love with him. You want him for yourself. You hated this girl - you couldn't <span class='tip-wrap' data-text='bear [бЕр] {глагол} нести'>**bear**<span class='tip-text'> </span></span> that this worthless little slut <span class='tip-wrap' data-text='should [шУд] {глагол} должен'>**should**<span class='tip-text'> </span></span> take your man from you. You're a strong woman, Mrs Bartlett. You caught the girl by the shoulders and shoved her over into the stream. A few minutes later you met Joe Ellis. The boy Jimmy saw you together in the distance - but in the darkness and the mist he assumed the perambulator was a wheelbarrow and two men wheeling it. You persuaded Joe that he <span class='tip-wrap' data-text='might [мАйт] {глагол} может быть'>**might**<span class='tip-text'> </span></span> be suspected and you concocted what was supposed to be an alibi for him, but which was really an alibi for you. Now then, I'm right, am I not?"
 
-Миссис Бартлетт, - сказал он, - я все знаю. Думаю, вам лучше признаться - если только вы не хотите, чтобы Джо Эллиса повесили за то, чего он не совершал... Нет. Я вижу, вы этого не хотите. Я расскажу вам, что произошло. Вы ходили за бельем домой. Вы наткнулись на Розу Эммотт. Вы думали, что она бросила Джо и стала встречаться с этим незнакомцем. Теперь она попала в беду, и Джо был готов прийти на помощь - жениться на ней, если понадобится, и если она согласится. Он живет в вашем доме уже четыре года. Вы влюбились в него. Вы хотите его для себя. Вы ненавидели эту девушку - вы не могли смириться с тем, что эта никчемная маленькая шлюха отнимет у вас мужчину. Вы сильная женщина, миссис Бартлетт. Вы схватили девушку за плечи и толкнули ее в ручей. Через несколько минут вы встретили Джо Эллиса. Мальчик Джимми увидел вас вместе вдалеке - но в темноте и тумане он принял коляску за тачку, которую катили двое мужчин. Вы убедили Джо, что его могут подозревать, и придумали то, что должно было стать алиби для него, но на самом деле стало алиби для вас. Итак, я прав, не так ли?
+"Миссис Бартлетт, - сказал он, - я все знаю. Думаю, вам лучше признаться - если только вы не хотите, чтобы Джо Эллиса повесили за то, чего он не совершал... Нет. Я вижу, вы этого не хотите. Я расскажу вам, что произошло. Вы ходили за бельем домой. Вы наткнулись на Розу Эммотт. Вы думали, что она бросила Джо и стала встречаться с этим незнакомцем. Теперь она попала в беду, и Джо был готов прийти на помощь - жениться на ней, если понадобится, и если она согласится. Он живет в вашем доме уже четыре года. Вы влюбились в него. Вы хотите его для себя. Вы ненавидели эту девушку - вы не могли смириться с тем, что эта никчемная маленькая шлюха отнимет у вас мужчину. Вы сильная женщина, миссис Бартлетт. Вы схватили девушку за плечи и толкнули ее в ручей. Через несколько минут вы встретили Джо Эллиса. Мальчик Джимми увидел вас вместе вдалеке - но в темноте и тумане он принял коляску за тачку, которую катили двое мужчин. Вы убедили Джо, что его могут заподозрить, и придумали то, что должно было стать алиби для него, но на самом деле стало алиби для вас. Значит, я прав, не так ли?"
 
-He held his breath. He had staked all on this throw.
+He held his <span class='tip-wrap' data-text='breath [брЕθ] {существительное} вздох (осн. дыхание)'>**breath**<span class='tip-text'> </span></span>. He had staked all on this throw.
 
-Он затаил дыхание. Он поставил все на карту в этом броске.
+Он затаил дыхание. Он ставил все на карту в этом броске.
 
 She stood before him rubbing her hands on her apron, slowly making up her mind.
 
 Она стояла перед ним, вытирая руки о фартук, и медленно принимала решение.
 
-'It's just as you say, sir,' she said at last, in her quiet subdued voice (a dangerous voice. Sir Henry suddenly felt it to be). 'I don't know what came over me. Shameless - that's what she was. It just came over me - she shan't take Joe from me. I haven't had a happy life, sir. My husband, he was a poor lot - an invalid and cross-grained, I nursed and looked after him true. And then Joe came here to lodge. I'm not such an old woman, sir, in spite of my grey hair. I'm just forty, sir. Joe's one in a thousand. I'd have done anything for him - anything at all. He was like a little child, sir, so gentle and believing. He was mine, sir, to look after and see to. And this - this -' She swallowed - checked her emotion. Even at this moment she was a strong woman. She stood up straight and looked at Sir Henry curiously. 'I'm ready to come, sir. I never thought anyone would find out I don't know how you knew, sir - I don't, I'm sure.'
+"It's just as you say, sir," she said at last, in her <span class='tip-wrap' data-text='quiet [куАйэт] {прилагательное} тихий'>**quiet**<span class='tip-text'> </span></span> subdued voice (a dangerous voice. Sir Henry suddenly felt it to be). "I don't know what came over me. Shameless - that's what she was. It just came over me - she shan't take Joe from me. I haven't had a happy life, sir. My husband, he was a <span class='tip-wrap' data-text='poor [пУр] {прилагательное} плохой; бедный'>**poor**<span class='tip-text'> </span></span> lot - an invalid and cross-grained, I nursed and looked after him true. And then Joe came here to lodge. I'm not such an old woman, sir, in spite of my grey hair. I'm just forty, sir. Joe's one in a thousand. I'd have done anything for him - anything at all. He was like a little child, sir, so gentle and believing. He was mine, sir, to look after and see to. And this - this -" She swallowed - checked her <span class='tip-wrap' data-text='emotion [ымOушэн] {существительное} эмоция [3]; чувство [2]; волнение [2]'>**emotion**<span class='tip-text'> </span></span>. Even at this moment she was a strong woman. She stood up <span class='tip-wrap' data-text='straight [стрЕйт] {наречие} прямо'>**straight**<span class='tip-text'> </span></span> and looked at Sir Henry curiously. "I'm ready to come, sir. I never thought anyone would find out I don't know how you knew, sir - I don't, I'm <span class='tip-wrap' data-text='sure [шУр] {прилагательное} верный; уверенный'>**sure**<span class='tip-text'> </span></span>."
 
-"Все так, как вы говорите, сэр, - сказала она наконец своим тихим приглушенным голосом (опасным голосом, как вдруг почувствовал сэр Генри). 'I don't know what came over me. Бесстыдница - вот кто она была. На меня просто нашло - она не сможет отнять у меня Джо. У меня не было счастливой жизни, сэр. Мой муж, он был бедняга - инвалид и крестоносец, я за ним ухаживала и заботилась. А потом Джо приехал сюда жить. Я не такая уж старая женщина, сэр, несмотря на седые волосы. Мне всего сорок, сэр. Джо - один из тысячи. Я бы сделала для него все, что угодно - все, что угодно. Он был как маленький ребенок, сэр, такой нежный и верующий. Он был моим, сэр, чтобы заботиться и ухаживать за ним. А это... это..." Она сглотнула и сдержала свои эмоции. Даже в этот момент она была сильной женщиной. Она выпрямилась и с любопытством посмотрела на сэра Генри. Я готова приехать, сэр. Я никогда не думала, что кто-то узнает. Не знаю, как вы узнали, сэр - я не знаю, я уверена".
+"Все так, как вы говорите, сэр", - сказала она наконец своим тихим приглушенным голосом (опасным голосом. Сэр Генри вдруг почувствовал, что это так). "Я не знаю, что на меня нашло. Бесстыдница - вот кто она была. На меня просто нашло: она не сможет отнять у меня Джо. У меня не было счастливой жизни, сэр. Мой муж, он был бедняга - инвалид и крестоносец, я его выхаживала и заботилась о нем. А потом Джо приехал сюда жить. Я не такая уж старая женщина, сэр, несмотря на седые волосы. Мне всего сорок, сэр. Джо - один из тысячи. Я бы сделала для него все, что угодно - все, что угодно. Он был как маленький ребенок, сэр, такой нежный и верующий. Он был моим, сэр, чтобы заботиться и ухаживать за ним. А это... это..." Она сглотнула, сдерживая свои эмоции. Даже в этот момент она была сильной женщиной. Она выпрямилась и с любопытством посмотрела на сэра Генри. "Я готова приехать, сэр. Я никогда не думала, что кто-то узнает. Не знаю, как вы узнали, сэр, - я не знаю, я уверена".
 
-Sir Henry shook his head gently.
+Sir Henry shook his head <span class='tip-wrap' data-text='gently [джЕнтли] {наречие} нежно [3]; мягко [3]; осторожно [3]; тихо [2]; спокойно [2]; кротко [2]'>**gently**<span class='tip-text'> </span></span>.
 
-Сэр Генри осторожно покачал головой.
+Сэр Генри мягко покачал головой.
 
-'It was not I who knew,' he said - and he thought of the piece of paper still reposing in his pocket with the words on it written in neat old-fashioned handwriting.
+"It was not I who knew," he said - and he thought of the <span class='tip-wrap' data-text='piece [пИс] {существительное} кусок (также пьеса)'>**piece**<span class='tip-text'> </span></span> of paper still reposing in his pocket with the words on it written in neat old-fashioned handwriting.
 
-Не я знал, - сказал он и вспомнил о клочке бумаги, все еще лежавшем в его кармане, на котором аккуратным старомодным почерком были написаны слова.
+"Это не я знал", - сказал он - и вспомнил о клочке бумаги, все еще лежавшем в его кармане, на котором аккуратным старомодным почерком было написано
 
-'Mrs Bartlett, with whom Joe Ellis lodges at 2 Mill Cottages.'
+"Mrs Bartlett, with whom Joe Ellis lodges at 2 Mill Cottages."
 
-Миссис Бартлетт, у которой Джо Эллис поселился в коттедже "Милл", 2.
+"Миссис Бартлетт, у которой Джо Эллис остановился в коттедже "Милл", 2".
 
 Miss Marple had been right again.
 
@@ -5386,7 +5386,7 @@ He never finished his sentence.
 
 # Достать коротышку
 
-The trouble between Chili Palmer and Ray Bones started in Miami. Ray took Chili's jacket. Chili was eating lunch with his friend Tommy. When they finished, Chili went to get his jacket. It wasn't there.
+The trouble between Chili Palmer and Ray Bones started in Miami. Ray took Chili's <span class='tip-wrap' data-text='jacket [джЭкэт] {существительное} куртка [3]; жакет [3]; рубашка [2]'>**jacket**<span class='tip-text'> </span></span>. Chili was eating lunch with his friend Tommy. When they finished, Chili went to get his <span class='tip-wrap' data-text='jacket [джЭкэт] {существительное} куртка [3]; жакет [3]; рубашка [2]'>**jacket**<span class='tip-text'> </span></span>. It wasn't there.
 
 Неприятности между Чили Палмером и Рэем Боунсом начались в Майами. Рэй забрал у Чили куртку. Чили обедал со своим другом Томми. Когда они закончили, Чили пошел за курткой. Но его там не оказалось.
 
@@ -5406,11 +5406,11 @@ Tommy knew Ray Barboni's house. He also knew Ray Barboni.
 
 Томми знал дом Рэя Барбони. Он также знал Рэя Барбони.
 
-"They call him Ray Bones. He works for Jimmy Cap." Tommy stopped the car in front of Ray's house. "And you know Jimmy Cap, so get the jacket but don't make Ray mad, okay?"
+"They call him Ray Bones. He works for Jimmy <span class='tip-wrap' data-text='cap [кЭп] {существительное} колпачок [3]; крышка [3]; колпак [3]; шапка [2]; кепка [2]; заглушка [2]; цоколь [2]; фуражка [2]; наконечник [2]'>**Cap**<span class='tip-text'> </span></span>." Tommy stopped the car in front of Ray's house. "And you know Jimmy <span class='tip-wrap' data-text='cap [кЭп] {существительное} колпачок [3]; крышка [3]; колпак [3]; шапка [2]; кепка [2]; заглушка [2]; цоколь [2]; фуражка [2]; наконечник [2]'>**Cap**<span class='tip-text'> </span></span>, so get the <span class='tip-wrap' data-text='jacket [джЭкэт] {существительное} куртка [3]; жакет [3]; рубашка [2]'>**jacket**<span class='tip-text'> </span></span> but don't make Ray mad, okay?"
 
 "Они зовут его Рэй Боунс. Он работает на Джимми Кэпа". Томми остановил машину перед домом Рэя. "А ты знаешь Джимми Кэпа, так что бери куртку, но не зли Рэя, ладно?"
 
-Chili got out of the car. "Don't worry. I won't say anything to him." And he didn't. When Ray opened the door, Chili hit him in the face, walked in and got his jacket, and walked out.
+Chili got out of the car. "Don't worry. I won't say anything to him." And he didn't. When Ray opened the door, Chili hit him in the face, walked in and got his <span class='tip-wrap' data-text='jacket [джЭкэт] {существительное} куртка [3]; жакет [3]; рубашка [2]'>**jacket**<span class='tip-text'> </span></span>, and walked out.
 
 Чили вышел из машины. "Не волнуйся. Я ему ничего не скажу". И он не сказал. Когда Рэй открыл дверь, Чили ударил его по лицу, зашел в дом, взял куртку и вышел.
 
@@ -5422,11 +5422,11 @@ And Ray Bones had a broken nose. Chili Palmer was in his office a few days later
 
 А у Рэя Боунса был сломан нос. Через несколько дней Чили Палмер был в своем кабинете, когда туда вошел Рэй Боунс с пистолетом. Но у Чили тоже был пистолет. Они начали стрелять одновременно. Рэй промахнулся, а Чили - нет. Пуля попала в макушку Рэя, на два дюйма выше, чем нужно, чтобы убить его.
 
-Jimmy Cap and Momo heard about the problem between Ray and Chili and told them both to end it. It was over. And it stayed that way for twelve years. Until someone killed Momo in New York and Jimmy Cap got his business in Miami.
+Jimmy <span class='tip-wrap' data-text='cap [кЭп] {существительное} колпачок [3]; крышка [3]; колпак [3]; шапка [2]; кепка [2]; заглушка [2]; цоколь [2]; фуражка [2]; наконечник [2]'>**Cap**<span class='tip-text'> </span></span> and Momo heard about the problem between Ray and Chili and told them both to end it. It was <span class='tip-wrap' data-text='over [Oувэр] {наречие} свыше'>**over**<span class='tip-text'> </span></span>. And it stayed that way for twelve years. <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**Until**<span class='tip-text'> </span></span> someone killed Momo in New York and Jimmy <span class='tip-wrap' data-text='cap [кЭп] {существительное} колпачок [3]; крышка [3]; колпак [3]; шапка [2]; кепка [2]; заглушка [2]; цоколь [2]; фуражка [2]; наконечник [2]'>**Cap**<span class='tip-text'> </span></span> got his business in Miami.
 
 Джимми Кэп и Момо узнали о проблеме между Рэем и Чили и посоветовали им покончить с этим. Все было кончено. И так продолжалось двенадцать лет. Пока кто-то не убил Момо в Нью-Йорке, а Джимми Кэп не занялся своим бизнесом в Майами.
 
-This time, Ray didn't come with a gun. He didn't have to. He brought a big black man. Chili was at the hairdresser when they found him. "Hey Ray," Chili said, "these guys can cut your hair so that ugly line doesn't show." And he pointed at the long line through his hair, from the bullet.
+This time, Ray didn't come with a gun. He didn't have to. He brought a big black man. Chili was at the hairdresser when they <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> him. "Hey Ray," Chili said, "these guys can cut your hair so that ugly line doesn't show." And he pointed at the long line <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> his hair, from the bullet.
 
 На этот раз Рэй не пришел с оружием. Да ему и не нужно было. Он привел с собой здоровенного чернокожего мужика. Чили был в парикмахерской, когда они нашли его. "Эй, Рэй, - сказал Чили, - эти парни могут подстричь тебя так, чтобы не было видно этой уродливой линии". И он указал на длинную линию, проходящую через его волосы от пули.
 
@@ -5442,7 +5442,7 @@ Chili showed him the names of the people who borrowed money.
 
 "Что это?" спросил Рэй, ткнув пальцем в имя Лео Дево. "Он не заплатил".
 
-"He died," Chili said. "Airplane crash. It was in the newspaper."
+"He died," Chili said. "Airplane <span class='tip-wrap' data-text='crash [крЭш] {существительное} крах [3]; крушение [2]; авария [2]; грохот [2]; треск [2]'>**crash**<span class='tip-text'> </span></span>. It was in the newspaper."
 
 "Он умер", - сказал Чили. "Разбился на самолете. Об этом писали в газете".
 
@@ -5450,15 +5450,15 @@ Chili showed him the names of the people who borrowed money.
 
 "Может, у его жены есть деньги. Мне все равно. Возьми у нее или заплати из своего кармана. Теперь это мои книги. Это мои деньги, так что получай".
 
-As the two men left, Chili said, "You know that jacket, Ray? I gave it to the poor two years ago."
+As the two men left, Chili said, "You know that <span class='tip-wrap' data-text='jacket [джЭкэт] {существительное} куртка [3]; жакет [3]; рубашка [2]'>**jacket**<span class='tip-text'> </span></span>, Ray? I gave it to the poor two years ago."
 
 Когда двое мужчин уходили, Чили сказал: "Знаешь эту куртку, Рэй? Я отдал ее бедным два года назад".
 
-"What jacket?" Bones said, but he knew.
+"What <span class='tip-wrap' data-text='jacket [джЭкэт] {существительное} куртка [3]; жакет [3]; рубашка [2]'>**jacket**<span class='tip-text'> </span></span>?" Bones said, but he knew.
 
 "Какой пиджак?" сказал Боунс, но он знал.
 
-Chili went to see Leo Devoe's wife. I can ask her, he thought. But he didn't. He didn't because when he went to see her, she told him, "I'm sorry that he's not dead."
+Chili went to see Leo Devoe's wife. I can ask her, he thought. But he didn't. He didn't because when he went to see her, she told him, "I'm <span class='tip-wrap' data-text='sorry [сАри] {прилагательное} жалкий (также сожалеющий)'>**sorry**<span class='tip-text'> </span></span> that he's not dead."
 
 Чили отправился к жене Лео Дево. Я могу спросить у нее, подумал он. Но не спросил. Не стал, потому что, когда он пришел к ней, она сказала ему: "Мне жаль, что он не умер".
 
@@ -5466,7 +5466,7 @@ Chili didn't say anything. Don't talk when you don't have to.
 
 Чили ничего не ответил. Не говори, когда не нужно.
 
-"They gave me money because of the crash. Three hundred thousand dollars. Leo took it. I trust you, Chili, even if you are a gangster. You find Leo and the money, and I'll give you half."
+"They gave me money because of the <span class='tip-wrap' data-text='crash [крЭш] {существительное} крах [3]; крушение [2]; авария [2]; грохот [2]; треск [2]'>**crash**<span class='tip-text'> </span></span>. Three hundred thousand dollars. Leo took it. I trust you, Chili, even if you are a gangster. You find Leo and the money, and I'll give you half."
 
 "Они дали мне денег из-за аварии. Триста тысяч долларов. Лео взял их. Я доверяю тебе, Чили, даже если ты гангстер. Найди Лео и деньги, и я отдам тебе половину".
 
@@ -5502,7 +5502,7 @@ But Karen couldn't leave it alone. "Wake up, Harry. Somebody's downstairs."
 
 "У меня нет собаки", - сказала Карен. "Так ты спускаешься или хочешь, чтобы это сделала я?"
 
-Harry got out of bed and put on a T-shirt. Coming down the stairs, he could hear the TV. Probably one of Karen's actor friends trying to be funny.
+Harry got out of bed and put on a T-<span class='tip-wrap' data-text='shirt [шЭрт] {существительное} рубашка'>**shirt**<span class='tip-text'> </span></span>. Coming down the stairs, he could hear the TV. Probably one of Karen's actor friends trying to be funny.
 
 Гарри встал с кровати и надел футболку. Спускаясь по лестнице, он услышал звук телевизора. Вероятно, один из друзей-актеров Карен пытался шутить.
 
@@ -5510,7 +5510,7 @@ The television was in the next room. Harry opened the door. The blue light from 
 
 Телевизор находился в соседней комнате. Гарри открыл дверь. Голубой свет от телевизора исчез, а на столе зажегся свет. Там сидел незнакомый Гарри парень. Парень в черном. Темные волосы, темные глаза.
 
-He said "Harry Zimm, how are you doing?" in a quiet voice. "I'm Chili Palmer." The man's dark eyes stayed on him. "Where have you been, Harry?"
+He said "Harry Zimm, how are you doing?" in a <span class='tip-wrap' data-text='quiet [куАйэт] {прилагательное} тихий'>**quiet**<span class='tip-text'> </span></span> voice. "I'm Chili Palmer." The man's dark eyes stayed on him. "Where have you been, Harry?"
 
 Он тихим голосом спросил "Гарри Зимм, как дела?". "Я Чили Палмер". Темные глаза мужчины не отрывались от него. "Где ты был, Гарри?"
 
@@ -5546,15 +5546,15 @@ This wasn't a script. Harry said "What is this? I thought that you were an actor
 
 Это был не сценарий. Гарри сказал: "Что это? Я думал, что вы актер".
 
-The guy almost smiled. "Is that right? That I was acting?" Harry picked up the phone. "We'll see about this."
+The guy <span class='tip-wrap' data-text='almost [ОлмOуст] {наречие} почти'>**almost**<span class='tip-text'> </span></span> smiled. "Is that right? That I was acting?" Harry picked up the phone. "We'll see about this."
 
 Парень почти улыбнулся. "Это правда? Что я играл?" Гарри поднял трубку. "Это мы еще посмотрим".
 
-Chili said "Harry, stop and think a minute, okay? It's hard to be a big, strong guy, a dangerous guy, Harry, when you're standing there without any pants on. Talk to me, Harry."
+Chili said "Harry, stop and think a minute, okay? It's hard to be a big, strong guy, a dangerous guy, Harry, when you're standing there without any <span class='tip-wrap' data-text='pants [пЭнтс] {существительное} брюки [3]; штаны [3]; кальсоны [3]; трусы [2]'>**pants**<span class='tip-text'> </span></span> on. Talk to me, Harry."
 
 Чили сказал: "Гарри, остановись и подумай минутку, хорошо? Трудно быть большим, сильным парнем, опасным парнем, Гарри, когда ты стоишь там без штанов. Поговори со мной, Гарри".
 
-And Harry talked to him. He lost most of the money on a football game, he said, and then he lost the rest of it on cards.
+And Harry talked to him. He lost most of the money on a football game, he said, and then he lost the <span class='tip-wrap' data-text='rest [рЕст] {существительное} отдых (также остаток)'>**rest**<span class='tip-text'> </span></span> of it on cards.
 
 И Гарри поговорил с ним. По его словам, большую часть денег он проиграл на футболе, а остальные - в карты.
 
@@ -5586,7 +5586,7 @@ Karen was worried. She came out of the bedroom and stood at the top of the stair
 
 "Карен Флорес", - сказала она.
 
-"That's right," Harry said. "You changed your name back." Chili looked at her and saw a very pretty woman. Not like in her movies, but still pretty. "Karen," he said, "it's nice to meet you."
+"That's right," Harry said. "You changed your name back." Chili looked at her and saw a very <span class='tip-wrap' data-text='pretty [прЫти] {наречие} довольно'>**pretty**<span class='tip-text'> </span></span> woman. Not like in her movies, but still <span class='tip-wrap' data-text='pretty [прЫти] {наречие} довольно'>**pretty**<span class='tip-text'> </span></span>. "Karen," he said, "it's nice to meet you."
 
 "Верно", - сказал Гарри. "Ты сменила имя". Чили посмотрела на нее и увидела очень красивую женщину. Не такая, как в фильмах, но все равно красивая. "Карен, - сказал он, - приятно познакомиться".
 
@@ -5610,11 +5610,11 @@ Karen was worried. She came out of the bedroom and stood at the top of the stair
 
 "Так ты просто вошел?" Но в ее голосе не было злости.
 
-"You want to hear his idea?" Harry said. "This guy, everybody thinks he's dead, they even pay his wife because he died in this crash. Go on, tell her."
+"You want to hear his idea?" Harry said. "This guy, everybody thinks he's dead, they even pay his wife because he died in this <span class='tip-wrap' data-text='crash [крЭш] {существительное} крах [3]; крушение [2]; авария [2]; грохот [2]; треск [2]'>**crash**<span class='tip-text'> </span></span>. Go on, tell her."
 
 "Хочешь услышать его идею?" сказал Гарри. "Этот парень, все считают его мертвым, они даже платят его жене, потому что он погиб в этой аварии. Давай, расскажи ей".
 
-"He owes money to a Shylock," Chili began. "He can't pay and he's scared. He wants to get away. He buys an airplane ticket. But there's a problem at the airport, he doesn't get on the airplane. His suitcase goes on but he's in the bar when the airplane leaves. And he's still in the bar when the airplane crashes, killing everyone. His luck has changed, he thinks. He's dead. He doesn't have to pay the shylock. Then some people from the airplane company come to see his wife. They tell her that they're very sorry about her husband and they give her a lot of money. The guy takes the money and goes to Las Vegas. There he wins more money and he comes here to Los Angeles. After that, I don't know what happens."
+"He owes money to a Shylock," Chili began. "He can't pay and he's scared. He wants to get <span class='tip-wrap' data-text='away [эуЕй] {наречие} далеко'>**away**<span class='tip-text'> </span></span>. He buys an airplane ticket. But there's a problem at the airport, he doesn't get on the airplane. His suitcase goes on but he's in the <span class='tip-wrap' data-text='bar [бАр] {существительное} полоса (также бар)'>**bar**<span class='tip-text'> </span></span> when the airplane leaves. And he's still in the <span class='tip-wrap' data-text='bar [бАр] {существительное} полоса (также бар)'>**bar**<span class='tip-text'> </span></span> when the airplane crashes, killing everyone. His luck has changed, he thinks. He's dead. He doesn't have to pay the shylock. Then some people from the airplane company come to see his wife. They tell her that they're very <span class='tip-wrap' data-text='sorry [сАри] {прилагательное} жалкий (также сожалеющий)'>**sorry**<span class='tip-text'> </span></span> about her husband and they give her a lot of money. The guy takes the money and goes to Las Vegas. There he wins more money and he comes here to Los Angeles. After that, I don't know what happens."
 
 "Он задолжал деньги Шейлоку", - начал Чили. "Он не может заплатить и боится. Он хочет сбежать. Он покупает билет на самолет. Но в аэропорту возникает проблема, и он не попадает в самолет. Его чемодан отправляется дальше, но он оказывается в баре, когда самолет улетает. И он все еще в баре, когда самолет разбивается, убивая всех. Его удача изменилась, думает он. Он мертв. Он не должен платить штирлицу. Затем к его жене приходят люди из авиационной компании. Они говорят ей, что им очень жаль ее мужа, и дают ей много денег. Парень забирает деньги и отправляется в Лас-Вегас. Там он выигрывает еще больше денег и приезжает сюда, в Лос-Анджелес. После этого я не знаю, что происходит".
 
@@ -5622,11 +5622,11 @@ Karen was worried. She came out of the bedroom and stood at the top of the stair
 
 "И это все?" спросил Гарри. "Это и есть твоя великая идея для фильма? Это полфильма с дырами. Кое-что неплохое, но... они просто отдали деньги жене?"
 
-Karen smiled. "Harry doesn't realise that it's a true story. The airplane crash in Florida, I read about it in the newspaper."
+Karen smiled. "Harry doesn't realise that it's a true story. The airplane <span class='tip-wrap' data-text='crash [крЭш] {существительное} крах [3]; крушение [2]; авария [2]; грохот [2]; треск [2]'>**crash**<span class='tip-text'> </span></span> in Florida, I read about it in the newspaper."
 
 Карен улыбнулась. "Гарри не понимает, что это правдивая история. Об авиакатастрофе во Флориде я прочитала в газете".
 
-"That's where you got the idea," Harry said to Chili. "And then you thought of the rest."
+"That's where you got the idea," Harry said to Chili. "And then you thought of the <span class='tip-wrap' data-text='rest [рЕст] {существительное} отдых (также остаток)'>**rest**<span class='tip-text'> </span></span>."
 
 "Вот откуда у тебя идея", - сказал Гарри, обращаясь к Чили. "А потом ты придумал все остальное".
 
@@ -5742,7 +5742,7 @@ Chili said, "Yeah, he's good. He played the gangster in that movie, The Cyclone,
 
 "Нет, не могу. Я спрошу ее, а она скажет "нет". Это должна быть ее идея. Тогда она сделает это".
 
-"Maybe I can ask him," Chili said. "Get your meeting for you. Or maybe you're thinking about Leo's money. Ask him, Leo, you want to put money in a movie or you want to go to prison? Something like that? Having Leo in the movie, that's better than having those guys? The ones that scare you?" Harry didn't say anything but Chili understood. "I can talk to the guys. Tell them to wait. If you want, Harry."
+"Maybe I can ask him," Chili said. "Get your meeting for you. Or maybe you're thinking about Leo's money. Ask him, Leo, you want to put money in a movie or you want to go to prison? Something like that? Having Leo in the movie, that's <span class='tip-wrap' data-text='better [бЕтэр] {прилагательное} лучший'>**better**<span class='tip-text'> </span></span> than having <span class='tip-wrap' data-text='those [ðOуз] {определитель} те'>**those**<span class='tip-text'> </span></span> guys? The ones that scare you?" Harry didn't say anything but Chili understood. "I can talk to the guys. Tell them to wait. If you want, Harry."
 
 "Может, я могу попросить его", - сказал Чили. "Устроить тебе встречу. А может, ты думаешь о деньгах Лео? Спроси его: Лео, ты хочешь вложить деньги в фильм или сесть в тюрьму? Что-то в этом роде? Если Лео будет сниматься в кино, это лучше, чем те парни? Тех, которые тебя пугают?" Гарри ничего не сказал, но Чили поняла. "Я могу поговорить с ребятами. Попросить их подождать. Если хочешь, Гарри".
 
@@ -5750,7 +5750,7 @@ When Harry went back to bed, Karen was still awake. "Did your new friend leave, 
 
 Когда Гарри вернулся в постель, Карен еще не спала. "Твой новый друг ушел, Гарри?"
 
-"No, I put him in the room behind the kitchen. He's sleeping."
+"No, I put him in the room <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> the kitchen. He's sleeping."
 
 "Нет, я поселил его в комнате за кухней. Он спит".
 
@@ -5766,7 +5766,7 @@ Harry took Chili to his office the next day. Chili promised to help him, but Har
 
 На следующий день Гарри взял Чили к себе в офис. Чили пообещал помочь ему, но Гарри пришлось выслушать его. "Во-первых, не говори им моего имени. Ты просто начинаешь с ними разговаривать. Не говори им о другом фильме. Ты не можешь снять их фильм сейчас. Ты сделаешь его позже. Не объясняй. Правильно? А теперь расскажи мне о них".
 
-"There are two of them. Ronnie Wingate is a little rich boy, he likes to play with guns. Bo Catlett is the other guy. He doesn't talk much. Wears nice clothes. He's Mexican or something, I don't know."
+"There are two of them. Ronnie Wingate is a little <span class='tip-wrap' data-text='rich [рЫч] {прилагательное} богатый'>**rich**<span class='tip-text'> </span></span> boy, he likes to play with guns. Bo Catlett is the other guy. He doesn't talk much. Wears nice clothes. He's Mexican or something, I don't know."
 
 "Их двое. Ронни Вингейт - маленький богатый мальчик, он любит играть с оружием. Бо Кэтлетт - второй парень. Он мало говорит. Носит красивую одежду. Он мексиканец или что-то вроде того, я не знаю".
 
@@ -5774,11 +5774,11 @@ Chili was looking at the photographs on the office walls. There was a good one o
 
 Чили рассматривал фотографии на стенах офиса. Там была хорошая фотография Карен. Он подумал, что в ней что-то есть, и тут Гарри сказал: "Они здесь".
 
-Chili stayed where he was, at the desk. Ronnie Wingate came in first, looked at Chili, looked away. "Hey, Harry, what year is it in here?" he said, looking at the furniture and the photographs.
+Chili stayed where he was, at the desk. Ronnie Wingate came in first, looked at Chili, looked <span class='tip-wrap' data-text='away [эуЕй] {наречие} далеко'>**away**<span class='tip-text'> </span></span>. "Hey, Harry, what year is it in here?" he said, looking at the furniture and the photographs.
 
 Чили остался сидеть на месте, за столом. Первым вошел Ронни Уингейт, посмотрел на Чили и отвел взгляд. "Эй, Гарри, какой здесь год?" - спросил он, разглядывая мебель и фотографии.
 
-The other one, Bo Catlett, was taller than Ronnie and he was black. His skin wasn't very dark, not much darker than his shirt, but he was black. Bo sat down and said, "How are you?" to Chili. "What brings you here?"
+The other one, Bo Catlett, was taller than Ronnie and he was black. His skin wasn't very dark, not <span class='tip-wrap' data-text='much [мАч] {наречие} много; гораздо'>**much**<span class='tip-text'> </span></span> darker than his <span class='tip-wrap' data-text='shirt [шЭрт] {существительное} рубашка'>**shirt**<span class='tip-text'> </span></span>, but he was black. Bo sat down and said, "How are you?" to Chili. "What brings you here?"
 
 Второй, Бо Кэтлетт, был выше Ронни и чернокожим. Его кожа была не очень темной, не намного темнее его рубашки, но он был черным. Бо сел и спросил Чили: "Как дела?". "Что привело тебя сюда?"
 
@@ -5814,11 +5814,11 @@ Ronnie said "What is this? Where's our money, Harry? Do you have it? I want to s
 
 Ронни сказал: "Что это такое? Где наши деньги, Гарри? У тебя они есть? Я хочу посмотреть".
 
-Chili said to the little rich boy "Hey, Ronnie, look at me." This surprised Ronnie. He looked at Chili. So did Catlett.
+Chili said to the little <span class='tip-wrap' data-text='rich [рЫч] {прилагательное} богатый'>**rich**<span class='tip-text'> </span></span> boy "Hey, Ronnie, look at me." This surprised Ronnie. He looked at Chili. So did Catlett.
 
 Чили сказал маленькому богатому мальчику: "Эй, Ронни, посмотри на меня". Это удивило Ронни. Он посмотрел на Чили. Кэтлетт тоже.
 
-"You bought a piece of a movie, Ronnie. You didn't buy a piece of Harry. He'll make your movie. You heard him. You understand? We're doing another movie first. That's how it is."
+"You bought a <span class='tip-wrap' data-text='piece [пИс] {существительное} кусок (также пьеса)'>**piece**<span class='tip-text'> </span></span> of a movie, Ronnie. You didn't buy a <span class='tip-wrap' data-text='piece [пИс] {существительное} кусок (также пьеса)'>**piece**<span class='tip-text'> </span></span> of Harry. He'll make your movie. You heard him. You understand? We're doing another movie first. That's how it is."
 
 "Ты купил кусочек фильма, Ронни. Ты не купил кусок Гарри. Он снимет твой фильм. Ты его слышал. Ты понял? Сначала мы снимем другой фильм. Вот как это бывает".
 
@@ -5850,7 +5850,7 @@ Bo said, "You can talk to me."
 
 "Я так и думал", - сказал Чили. "Другой фильм? Это не твое дело". И не сводил с него холодных глаз.
 
-Now it was between the two of them. Until Harry picked up the script and said "This is it. Mr Lovejoy. It's nothing. Not your kind of movie."
+Now it was between the two of them. <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**Until**<span class='tip-text'> </span></span> Harry picked up the script and said "This is it. Mr Lovejoy. It's nothing. Not your kind of movie."
 
 Теперь это было только между ними. Пока Гарри не взял в руки сценарий и не сказал: "Вот оно. Мистер Лавджой. Ничего особенного. Не ваш тип фильма".
 
@@ -5878,7 +5878,7 @@ Now Bo saw Yayo. The man was pushing people out of his way, a little gangster, v
 
 Теперь Бо увидел Яйо. Тот расталкивал людей со своего пути, маленький гангстер, очень опасный. Бо ненавидел этих парней. Все они были похожи на актеров из гангстерских фильмов.
 
-The Bear disappeared. He was getting Yayo's suitcase. Yayo was walking towards Bo, towards his money. Bo looked to the right and the left. He saw them then. A man by the door. Another one on the other side of the room. Policemen.
+The Bear disappeared. He was getting Yayo's suitcase. Yayo was walking <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> Bo, <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> his money. Bo looked to the right and the left. He saw them then. A man by the door. Another one on the other side of the room. Policemen.
 
 Медведь исчез. Он забирал чемодан Яйо. Яйо шел к Бо, к своим деньгам. Бо посмотрел направо и налево. И тут он увидел их. Один мужчина у двери. Другой - на другом конце комнаты. Полицейские.
 
@@ -5886,11 +5886,11 @@ Yayo said, "Hey, where's the money?"
 
 Яйо сказал: "Эй, где деньги?".
 
-Bo said quietly "Don't talk to me. You're waiting for someone. Don't look at me. I'm going to sit down. When I get up, you sit in my chair. There will be a key on the chair. The money is in a locker. But don't go near it now. Wait. They're watching us. You understand? Not now."
+Bo said <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span> "Don't talk to me. You're waiting for someone. Don't look at me. I'm going to sit down. When I get up, you sit in my chair. There will be a key on the chair. The money is in a locker. But don't go near it now. Wait. They're watching us. You understand? Not now."
 
 Бо тихо ответил: "Не разговаривай со мной. Ты кого-то ждешь. Не смотри на меня. Я собираюсь сесть. Когда я встану, ты сядешь в мое кресло. На стуле будет ключ. Деньги лежат в шкафчике. Но сейчас не подходи к нему. Подожди. Они следят за нами. Вы понимаете? Не сейчас".
 
-Chili Palmer was talking on the telephone to his friend Tommy. He was asking questions about Michael Weir. "Some of the guys met him," Tommy was saying, "when he made that movie Cyclone. He came down to 86th Street. Wanted to see real gangsters. But forget Weir, Chili. You have other problems. Ray Bones is coming out to L.A."
+Chili Palmer was talking on the telephone to his friend Tommy. He was asking questions about Michael Weir. "Some of the guys met him," Tommy was saying, "when he made that movie Cyclone. He came down to 86th Street. Wanted to see real gangsters. But <span class='tip-wrap' data-text='forget [фэргЕт] {глагол} забывать'>**forget**<span class='tip-text'> </span></span> Weir, Chili. You have other problems. Ray Bones is coming out to L.A."
 
 Чили Палмер разговаривал по телефону со своим другом Томми. Он задавал вопросы о Майкле Вейре. "Некоторые из ребят встречались с ним, - рассказывал Томми, - когда он снимал фильм "Циклон". Он приезжал на 86-ю улицу. Хотел посмотреть на настоящих гангстеров. Но забудь о Вейре, Чили. У тебя другие проблемы. Рэй Боунс приезжает в Лос-Анджелес".
 
@@ -5906,7 +5906,7 @@ After he talked to Tommy, Chili called Fay. "I had to tell him, Chili," Fay said
 
 После разговора с Томми Чили позвонил Фэй. "Я должна была сказать ему, Чили", - сказала Фэй. "Он ударил меня. Я не хотела, чтобы он ударил меня снова. Теперь все узнают о Лео, не так ли?" Чили ответил, что нет, он так не думает. "Кости хочет получить деньги для себя".
 
-When he put down the telephone, Harry showed him something in an old newspaper. It was Michael Weir with his new girlfriend. Chili looked carefully at the photograph. He knew Michael Weir's face from the movies but he knew the other face, too. What was her name?
+When he put down the telephone, Harry showed him something in an old newspaper. It was Michael Weir with his new girlfriend. Chili looked <span class='tip-wrap' data-text='carefully [кЕрфэли] {наречие} бережно'>**carefully**<span class='tip-text'> </span></span> at the photograph. He knew Michael Weir's face from the movies but he knew the other face, too. What was her name?
 
 Когда он положил трубку, Гарри показал ему что-то в старой газете. Это был Майкл Вейр со своей новой девушкой. Чили внимательно посмотрел на фотографию. Он знал лицо Майкла Вейра по фильмам, но ему было знакомо и другое лицо. Как же ее зовут?
 
@@ -5922,7 +5922,7 @@ Harry said, "I'll ask some people."
 
 Гарри сказал: "Я спрошу у кого-нибудь".
 
-Chili thought of something else. "Hey, Harry, I haven't read this script. Do you have it here?"
+Chili <span class='tip-wrap' data-text='thought [θОт] {существительное} мысль'>**thought**<span class='tip-text'> </span></span> of something else. "Hey, Harry, I haven't read this script. Do you have it here?"
 
 Чили подумала о другом. "Эй, Гарри, я не читала этот сценарий. У тебя он здесь?"
 
@@ -5970,7 +5970,7 @@ Chili said no, not all of it.
 
 Чили ответил, что нет, не все.
 
-"Read it now. Then we can talk about it, okay? I have some ideas. It's good, but we can make it better."
+"Read it now. Then we can talk about it, okay? I have some ideas. It's good, but we can make it <span class='tip-wrap' data-text='better [бЕтэр] {прилагательное} лучший'>**better**<span class='tip-text'> </span></span>."
 
 "Прочитай сейчас. А потом мы поговорим об этом, хорошо? У меня есть несколько идей. Это хорошо, но мы можем сделать это лучше".
 
@@ -5994,7 +5994,7 @@ When Bo Catlett returned home, the Bear was waiting for him. "We have a problem"
 
 "Да, сходи за ним".
 
-The Bear left. Bo drove to the office, thinking about movies and money. Living like the rich. Soon, he thought. Very soon. He parked in the garage and waited in his car.
+The Bear left. Bo drove to the office, thinking about movies and money. Living like the <span class='tip-wrap' data-text='rich [рЫч] {прилагательное} богатый'>**rich**<span class='tip-text'> </span></span>. Soon, he thought. Very soon. He parked in the garage and waited in his car.
 
 Медведь ушел. Бо ехал в офис, думая о кино и деньгах. Жить как богатые. Скоро, думал он. Очень скоро. Он припарковался в гараже и стал ждать в машине.
 
@@ -6010,7 +6010,7 @@ In a loud voice the smaller man said "No, it's not okay. Maybe I just go to the 
 
 Громким голосом маленький человек сказал: "Нет, не хорошо. Может, я просто пойду в камеру хранения и возьму деньги сейчас. Полиция меня поймает, и я расскажу им о вас".
 
-Catlett said "Yeah? You wait here a minute, I'll be back." He left them and went to Ronnie's office. Where was it? He found it in the desk. He came back to the garage with the gun in his hand, his arm straight out.
+Catlett said "Yeah? You wait here a minute, I'll be back." He left them and went to Ronnie's office. Where was it? He <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> it in the desk. He came back to the garage with the gun in his hand, his <span class='tip-wrap' data-text='arm [Арм] {существительное} отделение (осн. рука)'>**arm**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='straight [стрЕйт] {наречие} прямо'>**straight**<span class='tip-text'> </span></span> out.
 
 Кэтлетт сказал: "Да? Подождите здесь минутку, я вернусь". Он оставил их и отправился в офис Ронни. Где же он был? Он нашел его в столе. Он вернулся в гараж с пистолетом в руке, вытянув руку.
 
@@ -6030,7 +6030,7 @@ The Bear looked down at the body. "You've done this before, haven't you?" he sai
 
 "Давно не делал", - ответил Кэтлетт.
 
-Chili didn't like the place much. The crowd was too young. He asked the barman about Nicki.
+Chili didn't like the place <span class='tip-wrap' data-text='much [мАч] {наречие} много; гораздо'>**much**<span class='tip-text'> </span></span>. The crowd was too young. He asked the barman about Nicki.
 
 Чили не очень понравилось это место. Публика была слишком молодая. Он спросил бармена о Ники.
 
@@ -6038,15 +6038,15 @@ Chili didn't like the place much. The crowd was too young. He asked the barman a
 
 "Она внизу. Ты занимаешься музыкой?"
 
-"Movies," Chili said, walking towards the stairs.
+"Movies," Chili said, walking <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the stairs.
 
 "Кино", - сказал Чили, идя к лестнице.
 
-The room was almost empty downstairs. There were four guys at the far end but he didn't see Nicki anywhere. He made a small sound and they turned to look at him. The one in the middle said "Chili?"
+The room was <span class='tip-wrap' data-text='almost [ОлмOуст] {наречие} почти'>**almost**<span class='tip-text'> </span></span> empty downstairs. There were four guys at the far end but he didn't see Nicki anywhere. He made a small sound and they turned to look at him. The one in the middle said "Chili?"
 
 Внизу зал был почти пуст. В дальнем конце сидели четверо парней, но Ники нигде не было видно. Он издал небольшой звук, и они повернулись, чтобы посмотреть на него. Тот, что был посередине, сказал: "Чили?"
 
-It was Nicole, Nicki. She ran over and gave him a kiss. "It's Chili, guys. From Miami. He's a gangster, a real gangster!" She smiled.
+It was Nicole, Nicki. She ran <span class='tip-wrap' data-text='over [Oувэр] {наречие} свыше'>**over**<span class='tip-text'> </span></span> and gave him a kiss. "It's Chili, guys. From Miami. He's a gangster, a real gangster!" She smiled.
 
 Это была Николь, Ники. Она подбежала и поцеловала его. "Это Чили, ребята. Из Майами. Он гангстер, настоящий гангстер!" Она улыбнулась.
 
@@ -6070,11 +6070,11 @@ It was Nicole, Nicki. She ran over and gave him a kiss. "It's Chili, guys. From 
 
 "Да, - спокойно ответил Чили, - почему бы и нет?"
 
-Nicki gave him another kiss and went back to the others. Chili listened while they played. They were good. Suddenly the music stopped. The room was quiet. He looked over. Michael Weir was standing there.
+Nicki gave him another kiss and went back to the others. Chili listened while they played. They were good. Suddenly the music stopped. The room was <span class='tip-wrap' data-text='quiet [куАйэт] {прилагательное} тихий'>**quiet**<span class='tip-text'> </span></span>. He looked over. Michael Weir was standing there.
 
 Ники поцеловала его еще раз и вернулась к остальным. Чили слушал, пока они играли. Они были хороши. Внезапно музыка прекратилась. В комнате стало тихо. Он огляделся. Там стоял Майкл Вейр.
 
-Nicki took Weir's arm and she started to walk. Now Weir was standing in front of him. "Chili? Meet Michael Weir." Chili stood up and put out his hand. Hey, Chili thought, this guy is short.
+Nicki took Weir's <span class='tip-wrap' data-text='arm [Арм] {существительное} отделение (осн. рука)'>**arm**<span class='tip-text'> </span></span> and she started to walk. Now Weir was standing in front of him. "Chili? Meet Michael Weir." Chili stood up and put out his hand. Hey, Chili thought, this guy is short.
 
 Ники взяла Вейра за руку и начала прогуливаться. Теперь Вейр стоял перед ним. "Чили? Познакомься с Майклом Вейром". Чили встал и протянул руку. Эй, подумал Чили, этот парень невысокого роста.
 
@@ -6090,7 +6090,7 @@ Michael sat down with him. "We've met before," Chili said. "Maybe you don't reme
 
 "А как мы говорим?" спросил Чили.
 
-"Not the voices. What your voices say. 'My way is the only way.' That's how you think, isn't it? When I listen to people carefully, I understand them. I know what they're thinking."
+"Not the voices. What your voices say. 'My way is the only way.' That's how you think, isn't it? When I listen to people <span class='tip-wrap' data-text='carefully [кЕрфэли] {наречие} бережно'>**carefully**<span class='tip-text'> </span></span>, I understand them. I know what they're thinking."
 
 "Не голоса. То, что говорят ваши голоса. "Мой путь - единственный путь". Вы ведь так думаете, не так ли? Когда я внимательно слушаю людей, я их понимаю. Я знаю, о чем они думают".
 
@@ -6110,7 +6110,7 @@ Michael laughed. "No, I don't. But I'm interested."
 
 "Об одном из моих?"
 
-"You've read it. You liked it. We want you to be in it." Michael said, "Wait a minute. Sorry. I can't talk about this. There are rules, I'm sorry, I didn't make them."
+"You've read it. You liked it. We want you to be in it." Michael said, "Wait a minute. Sorry. I can't talk about this. There are rules, I'm <span class='tip-wrap' data-text='sorry [сАри] {прилагательное} жалкий (также сожалеющий)'>**sorry**<span class='tip-text'> </span></span>, I didn't make them."
 
 "Ты его читал. Тебе понравилось. Мы хотим, чтобы ты в нем снялся". Майкл сказал: "Подожди минутку. Извините. Я не могу говорить об этом. Есть правила, простите, не я их устанавливал".
 
@@ -6194,7 +6194,7 @@ Michael looked at him. "Wonderful. You're wonderful. Now I have to read the scri
 
 "В любое время", - сказал Майкл. "В любое время, когда у Гарри Зимма будет полмиллиона долларов".
 
-An hour later Chili was in his hotel room making phone calls. He called Tommy first. "Sorry about this," Tommy said.
+An hour later Chili was in his hotel room making phone calls. He called Tommy first. "<span class='tip-wrap' data-text='sorry [сАри] {прилагательное} жалкий (также сожалеющий)'>**Sorry**<span class='tip-text'> </span></span> about this," Tommy said.
 
 Час спустя Чили сидел в своем номере и звонил по телефону. Первым он позвонил Томми. "Извини за это", - сказал Томми.
 
@@ -6262,7 +6262,7 @@ Bo took the call in Ronnie's office. "Harry, how are you?"
 
 "Я не могу ими воспользоваться", - сказал Гарри.
 
-Because you don't have it, Bo thought. You lost it. Forget it, he told himself. Lovejoy was more important. "Harry, let's have a drink. I have some money for you. I want part of this movie, Harry. It's a great script."
+Because you don't have it, Bo thought. You lost it. <span class='tip-wrap' data-text='forget [фэргЕт] {глагол} забывать'>**Forget**<span class='tip-text'> </span></span> it, he told himself. Lovejoy was more important. "Harry, let's have a <span class='tip-wrap' data-text='drink [дрЫŋк] {существительное} напиток [3]; питье [2]; глоток [2]'>**drink**<span class='tip-text'> </span></span>. I have some money for you. I want part of this movie, Harry. It's a great script."
 
 Потому что у тебя их нет, подумал Бо. Ты их потерял. Забудь об этом, сказал он себе. Лавджой был важнее. "Гарри, давай выпьем. У меня есть для тебя деньги. Я хочу участвовать в этом фильме, Гарри. Это отличный сценарий".
 
@@ -6270,7 +6270,7 @@ Because you don't have it, Bo thought. You lost it. Forget it, he told himself. 
 
 "Ты читал его?" спросил Гарри.
 
-"Meet me for a drink, Harry. We'll talk. At Tribeca's, in an hour?"
+"Meet me for a <span class='tip-wrap' data-text='drink [дрЫŋк] {существительное} напиток [3]; питье [2]; глоток [2]'>**drink**<span class='tip-text'> </span></span>, Harry. We'll talk. At Tribeca's, in an hour?"
 
 "Встретимся, выпьем, Гарри. Мы поговорим. В "Трайбеке", через час?"
 
@@ -6278,15 +6278,15 @@ Because you don't have it, Bo thought. You lost it. Forget it, he told himself. 
 
 "Где Гарри?" спросил Чили у Карен. Они были у нее дома. "Он сделал телефонный звонок и ушел".
 
-"He's not happy with me," Chili said. He wasn't really thinking about Harry. He was looking at Karen. It was nice, sitting here with her. The sun was going down, the sky was pretty. She was too.
+"He's not happy with me," Chili said. He wasn't really thinking about Harry. He was looking at Karen. It was nice, sitting here with her. The sun was going down, the sky was <span class='tip-wrap' data-text='pretty [прЫти] {наречие} довольно'>**pretty**<span class='tip-text'> </span></span>. She was too.
 
 "Он недоволен мной", - сказал Чили. На самом деле он не думал о Гарри. Он смотрел на Карен. Было приятно сидеть здесь с ней. Солнце садилось, небо было красивым. И она тоже.
 
-"He wants Michael. But Michael means money. That's where he is. Those guys with the money for the other movie."
+"He wants Michael. But Michael means money. That's where he is. <span class='tip-wrap' data-text='those [ðOуз] {определитель} те'>**Those**<span class='tip-text'> </span></span> guys with the money for the other movie."
 
 "Он хочет Майкла. Но Майкл - это деньги. Вот где он. Те парни с деньгами на другой фильм".
 
-"Catlett? He went to see Catlett?" Chili put down his drink. "Do you know where?"
+"Catlett? He went to see Catlett?" Chili put down his <span class='tip-wrap' data-text='drink [дрЫŋк] {существительное} напиток [3]; питье [2]; глоток [2]'>**drink**<span class='tip-text'> </span></span>. "Do you know where?"
 
 "Кэтлетт? Он ходил к Кэтлетту?" Чили отставил свой стакан. "Ты знаешь, куда?"
 
@@ -6310,7 +6310,7 @@ Harry was asking about the script. "How did you see it?"
 
 Гарри спрашивал о сценарии. "Как ты на это смотришь?"
 
-Bo smiled. "That was strange. Your man called me, I went to your office."
+Bo smiled. "That was <span class='tip-wrap' data-text='strange [стрЕйндж] {прилагательное} странный; чужой'>**strange**<span class='tip-text'> </span></span>. Your man called me, I went to your office."
 
 Бо улыбнулся. "Это было странно. Мне позвонил твой человек, и я поехал к тебе в офис".
 
@@ -6322,7 +6322,7 @@ Bo smiled. "That was strange. Your man called me, I went to your office."
 
 "Чили Палмер из Майами. Не знаю, почему. Скажи мне, Гарри, что он для тебя делает?"
 
-"Not much," said Harry in an angry voice. Bo liked that.
+"Not <span class='tip-wrap' data-text='much [мАч] {наречие} много; гораздо'>**much**<span class='tip-text'> </span></span>," said Harry in an angry voice. Bo liked that.
 
 "Не очень много", - ответил Гарри сердитым голосом. Бо это понравилось.
 
@@ -6342,7 +6342,7 @@ Harry looked at him. "The airport?"
 
 "Вы имеете в виду полицию", - сказал Гарри.
 
-"That's possible too. Or other people. You don't want to get hurt."
+"That's possible too. Or other people. You don't want to get <span class='tip-wrap' data-text='hurt [хЭрт] {глагол} причинять боль'>**hurt**<span class='tip-text'> </span></span>."
 
 "Это тоже возможно. Или другие люди. Ты же не хочешь пострадать".
 
@@ -6354,11 +6354,11 @@ Harry said no, he didn't. But he did want the money.
 
 "У меня есть идея, Гарри. Ты посылаешь Чили Палмера. Он откроет шкафчик и принесет тебе деньги. Если кто-то ударит его по голове, ты ничего не потеряешь. Это не твоя голова".
 
-At the same time, Chili and Karen were standing downstairs. They looked at the bar and the tables in front of it, but Harry wasn't there. Chili started up the stairs.
+At the same time, Chili and Karen were standing downstairs. They looked at the <span class='tip-wrap' data-text='bar [бАр] {существительное} полоса (также бар)'>**bar**<span class='tip-text'> </span></span> and the tables in front of it, but Harry wasn't there. Chili started up the stairs.
 
 В это время Чили и Карен стояли внизу. Они смотрели на бар и столики перед ним, но Гарри там не было. Чили начал подниматься по лестнице.
 
-A man was waiting for him at the top of the stairs, a very big man in a bright shirt. He was in the way and he wasn't moving. What's this, Chili thought, and then he saw Bo Catlett behind the big man.
+A man was waiting for him at the top of the stairs, a very big man in a bright <span class='tip-wrap' data-text='shirt [шЭрт] {существительное} рубашка'>**shirt**<span class='tip-text'> </span></span>. He was in the way and he wasn't moving. What's this, Chili thought, and then he saw Bo Catlett <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> the big man.
 
 На вершине лестницы его ждал мужчина, очень крупный, в яркой рубашке. Он стоял на пути и не двигался. Что это такое, подумал Чили и тут же увидел Бо Кэтлетта, стоявшего позади здоровяка.
 
@@ -6374,7 +6374,7 @@ Chili was standing below the Bear. He looked at him now and said, "So you're a s
 
 Чили стоял ниже Медведя. Он посмотрел на него и сказал: "Значит, ты каскадер. Хорошо ли ты справляешься со своей работой?"
 
-The Bear smiled and turned his head towards Bo. He didn't see Chili's hand when it moved, but he felt it. Chili's fingers closed hard between the Bear's legs. Chili pulled and the Bear screamed and fell down the stairs. Chili watched him and then he turned to Catlett. "Not bad, for a big man."
+The Bear smiled and turned his head <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> Bo. He didn't see Chili's hand when it moved, but he felt it. Chili's fingers closed hard between the Bear's legs. Chili pulled and the Bear screamed and fell down the stairs. Chili watched him and then he turned to Catlett. "Not bad, for a big man."
 
 Медведь улыбнулся и повернул голову в сторону Бо. Он не видел руки Чили, когда она двигалась, но почувствовал ее. Пальцы Чили плотно сомкнулись между ног Медведя. Чили потянул, Медведь закричал и упал с лестницы. Чили наблюдал за ним, а потом повернулся к Кэтлетт. "Неплохо, для большого человека".
 
@@ -6418,19 +6418,19 @@ After Harry left, Karen said "Oh, I forgot. One of your friends called the house
 
 "Нет, не Томми", - сказала она. "Рэй какой-то. Рэй Барбони?"
 
-Chili drove to the airport the next day. He left the locker key in his hotel room. It was ten-thirty in the morning and the airport was busy. He didn't like that, too many people. He looked at the lockers. His locker was C-018. He walked past it.
+Chili drove to the airport the next day. He left the locker key in his hotel room. It was ten-thirty in the morning and the airport was busy. He didn't like that, too many people. He looked at the lockers. His locker was C-018. He walked <span class='tip-wrap' data-text='past [пЭст] {предлог} мимо; за'>**past**<span class='tip-text'> </span></span> it.
 
 На следующий день Чили поехал в аэропорт. Ключ от шкафчика он оставил в гостиничном номере. Было десять тридцать утра, и в аэропорту было многолюдно. Ему это не нравилось, слишком много людей. Он посмотрел на шкафчики. Его шкафчик был C-018. Он прошел мимо него.
 
-He went to the airport shop and bought a T-shirt and a bag. He put the shirt in the bag. There was a young man there who was reading the newspapers. Chili asked him "Hey, you want to make five dollars in two minutes? Go to the lockers and put this in C-017. It's a surprise for my wife."
+He went to the airport shop and bought a T-<span class='tip-wrap' data-text='shirt [шЭрт] {существительное} рубашка'>**shirt**<span class='tip-text'> </span></span> and a bag. He put the <span class='tip-wrap' data-text='shirt [шЭрт] {существительное} рубашка'>**shirt**<span class='tip-text'> </span></span> in the bag. There was a young man there who was reading the newspapers. Chili asked him "Hey, you want to make five dollars in two minutes? Go to the lockers and put this in C-017. It's a surprise for my wife."
 
 Он зашел в магазин аэропорта и купил футболку и сумку. Он положил футболку в сумку. Там был молодой человек, который читал газеты. Чили спросил его: "Эй, хочешь заработать пять долларов за две минуты? Подойди к шкафчикам и положи это в C-017. Это сюрприз для моей жены".
 
-The young man took the bag and came back with the key. Now Chili waited. I can't see them, he thought, but the police are here. They're watching locker C-018. He waited until there was a group of people in front of the locker. He walked behind them, opened locker C-017, and took out the bag. The people walked past him. He started to walk away and two men stopped him. "Please come with us, sir."
+The young man took the bag and came back with the key. Now Chili waited. I can't see them, he thought, but the police are here. They're watching locker C-018. He waited <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> there was a group of people in front of the locker. He walked <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> them, opened locker C-017, and took out the bag. The people walked <span class='tip-wrap' data-text='past [пЭст] {предлог} мимо; за'>**past**<span class='tip-text'> </span></span> him. He started to walk <span class='tip-wrap' data-text='away [эуЕй] {наречие} далеко'>**away**<span class='tip-text'> </span></span> and two men stopped him. "Please come with us, sir."
 
 Молодой человек взял пакет и вернулся с ключом. Теперь Чили ждал. Я их не вижу, подумал он, но полиция уже здесь. Они следят за шкафчиком C-018. Он подождал, пока перед шкафчиком не появилась группа людей. Он прошел за ними, открыл шкафчик C-017 и достал сумку. Люди прошли мимо него. Он начал уходить, но двое мужчин остановили его. "Пожалуйста, пройдемте с нами, сэр".
 
-They took Chili to a small room. They opened the bag and pulled out the shirt. That was all that was in it. They looked in his pockets. Chili said "What is this?"
+They took Chili to a small room. They opened the bag and pulled out the <span class='tip-wrap' data-text='shirt [шЭрт] {существительное} рубашка'>**shirt**<span class='tip-text'> </span></span>. That was all that was in it. They looked in his pockets. Chili said "What is this?"
 
 Они отвели Чили в небольшую комнату. Они открыли сумку и достали рубашку. Это было все, что в ней находилось. Они заглянули в его карманы. Чили спросил "Что это?".
 
@@ -6462,7 +6462,7 @@ They took Chili to a small room. They opened the bag and pulled out the shirt. T
 
 "У тебя не было с собой ключа", - сказал Медведь.
 
-"These ideas work better when they're a surprise. Can you remember that?" He looked at the Bear. The guy wasn't very good at this work. "Tell me, what movies were you in? Maybe I've seen some of them."
+"These ideas work <span class='tip-wrap' data-text='better [бЕтэр] {прилагательное} лучший'>**better**<span class='tip-text'> </span></span> when they're a surprise. Can you remember that?" He looked at the Bear. The guy wasn't very good at this work. "Tell me, what movies were you in? Maybe I've seen some of them."
 
 "Такие идеи лучше работают, когда они являются сюрпризом. Ты можешь это запомнить?" Он посмотрел на Медведя. Тот был не слишком хорош в этой работе. "Скажи мне, в каких фильмах ты снимался? Может быть, я видел некоторые из них".
 
@@ -6470,11 +6470,11 @@ The Bear said, "I need the key. Bo wants it back."
 
 Медведь сказал: "Мне нужен ключ. Бо хочет его вернуть".
 
-Chili laughed. "You guys are great. You give me to the police, it doesn't work, and you want your key back? You always do business like this? In Miami, people as stupid as you, they kill them. Now get away from my car."
+Chili laughed. "You guys are great. You give me to the police, it doesn't work, and you want your key back? You always do business like this? In Miami, people as stupid as you, they kill them. Now get <span class='tip-wrap' data-text='away [эуЕй] {наречие} далеко'>**away**<span class='tip-text'> </span></span> from my car."
 
 Чили рассмеялся. "Вы отличные ребята. Отдаете меня в полицию, он не работает, а вы хотите вернуть ключ? Вы всегда так ведете дела? В Майами таких тупых, как ты, убивают. А теперь отойди от моей машины".
 
-The Bear didn't move. Chili looked down at the garage floor and then suddenly kicked the Bear in the left knee. The Bear's head came down and Chili pulled him by the hair. Chili's knee found the Bear's face. The Bear's head came back up, and Chili hit him as hard as he could in the stomach. The Bear went down.
+The Bear didn't move. Chili looked down at the garage floor and then suddenly kicked the Bear in the left knee. The Bear's head came down and Chili pulled him by the hair. Chili's knee <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> the Bear's face. The Bear's head came back up, and Chili hit him as hard as he could in the stomach. The Bear went down.
 
 Медведь не двинулся с места. Чили посмотрел на пол гаража, а затем неожиданно ударил Медведя ногой в левое колено. Голова Медведя опустилась, и Чили потянул его за волосы. Колено Чили попало Медведю в лицо. Медведь снова поднял голову, и Чили изо всех сил ударил его в живот. Медведь упал.
 
@@ -6482,7 +6482,7 @@ The Bear didn't move. Chili looked down at the garage floor and then suddenly ki
 
 "Вот, - сказал Чили, - поставь руки вот так. Вот так".
 
-The Bear felt a little better. It didn't hurt as much as before. "Hey," Chili said. "Look at me. Tell Bo, I don't want to see him again. You understand?"
+The Bear felt a little <span class='tip-wrap' data-text='better [бЕтэр] {прилагательное} лучший'>**better**<span class='tip-text'> </span></span>. It didn't <span class='tip-wrap' data-text='hurt [хЭрт] {глагол} причинять боль'>**hurt**<span class='tip-text'> </span></span> as <span class='tip-wrap' data-text='much [мАч] {наречие} много; гораздо'>**much**<span class='tip-text'> </span></span> as before. "Hey," Chili said. "Look at me. Tell Bo, I don't want to see him again. You understand?"
 
 Медведю стало немного легче. Было уже не так больно, как раньше. "Эй, - сказал Чили. "Посмотри на меня. Скажи Бо, что я не хочу его больше видеть. Ты понял?"
 
@@ -6538,7 +6538,7 @@ Chili sat down slowly on the chair. He took out a cigarette and said, "It's at t
 
 "Сто семьдесят тысяч", - сказал Чили.
 
-"Listen, Chili," Ray said, "let's forget our little troubles, okay? What I did, what you did, that was a long time ago. This money, it's mine, right? You say nothing about it to anyone, and we stay friends."
+"Listen, Chili," Ray said, "let's <span class='tip-wrap' data-text='forget [фэргЕт] {глагол} забывать'>**forget**<span class='tip-text'> </span></span> our little troubles, okay? What I did, what you did, that was a long time ago. This money, it's mine, right? You say nothing about it to anyone, and we stay friends."
 
 "Послушай, Чили, - сказал Рэй, - давай забудем наши маленькие неприятности, хорошо? То, что сделал я, то, что сделал ты, было давным-давно. Эти деньги - мои, верно? Ты никому об этом не говоришь, и мы остаемся друзьями".
 
@@ -6638,11 +6638,11 @@ Catlett said, "The police got you but you're here?"
 
 "Полиция ждала меня".
 
-"What can I say? You look like a gangster," Bo said. "Really?" Chili began to take off his jacket. "Go now, Bo. Go quickly, before I hurt you. Before I clean the floor with your pretty clothes."
+"What can I say? You look like a gangster," Bo said. "Really?" Chili began to take off his <span class='tip-wrap' data-text='jacket [джЭкэт] {существительное} куртка [3]; жакет [3]; рубашка [2]'>**jacket**<span class='tip-text'> </span></span>. "Go now, Bo. Go quickly, before I <span class='tip-wrap' data-text='hurt [хЭрт] {глагол} причинять боль'>**hurt**<span class='tip-text'> </span></span> you. Before I clean the floor with your <span class='tip-wrap' data-text='pretty [прЫти] {прилагательное} хорошенький [2]; прелестный [2]; хороший [1]; приятный [1]; привлекательный [1]; миленький [1]; смазливый [1]; миловидный [1]; значительный [1]; изрядный [1]'>**pretty**<span class='tip-text'> </span></span> clothes."
 
 "Что я могу сказать? Ты похож на гангстера", - сказал Бо. "Правда?" Чили начал снимать куртку. "Уходи, Бо. Уходи быстрее, пока я не сделал тебе больно. Пока я не вытер пол твоей красивой одеждой".
 
-"You don't know me," Catlett said in a quiet voice. "You think you do, but you don't." He turned and walked out.
+"You don't know me," Catlett said in a <span class='tip-wrap' data-text='quiet [куАйэт] {прилагательное} тихий'>**quiet**<span class='tip-text'> </span></span> voice. "You think you do, but you don't." He turned and walked out.
 
 "Ты меня не знаешь", - сказала Кэтлетт тихим голосом. "Ты думаешь, что знаешь, но это не так". Он повернулся и вышел.
 
@@ -6654,11 +6654,11 @@ Harry looked at Chili and said, "Tell me again, you didn't get the money? But yo
 
 "Это еще не все", - сказал Чили, садясь.
 
-Bo Catlett was sitting in his car in the street outside Karen Flores' house. Harry still needs money, he thought, so he still needs me. The door opened and Chili Palmer came out. Bo watched him. Palmer took a suitcase out of his car and walked back in. What did Harry say? "No, I called his hotel. He's gone." He's not gone, Bo thought. He's staying with Karen now. Until I come back here and shoot him.
+Bo Catlett was sitting in his car in the street outside Karen Flores' house. Harry still needs money, he thought, so he still needs me. The door opened and Chili Palmer came out. Bo watched him. Palmer took a suitcase out of his car and walked back in. What did Harry say? "No, I called his hotel. He's gone." He's not gone, Bo thought. He's staying with Karen now. <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**Until**<span class='tip-text'> </span></span> I come back here and shoot him.
 
 Бо Кэтлетт сидел в своей машине на улице возле дома Карен Флорес. Гарри все еще нужны деньги, подумал он, значит, я все еще нужен ему. Дверь открылась, и из нее вышел Чили Палмер. Бо наблюдал за ним. Палмер взял из машины чемодан и вошел обратно. Что сказал Гарри? "Нет, я позвонил ему в отель. Он уехал". Он не уехал, подумал Бо. Он сейчас живет у Карен. Пока я не вернусь сюда и не пристрелю его.
 
-Chili was in the kitchen. She came in quietly. "Look at you," she said, "not worried about anything, are you?"
+Chili was in the kitchen. She came in <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span>. "Look at you," she said, "not worried about anything, are you?"
 
 Чили была на кухне. Она вошла тихо. "Посмотри на себя, - сказала она, - ты ни о чем не беспокоишься, правда?"
 
@@ -6706,7 +6706,7 @@ Harry walked in and Chili said "Michael called. He wants to talk."
 
 "Что ж, самое время", - сказал Гарри.
 
-Bo Catlett was out on the balcony of his house, high on a hill above Hollywood, looking down the mountain. He couldn't see the stones far below, but they were there. He looked over the railing into the black night and thought, fall off here and you die. In the movies, railings broke all the time, people fell through them. You couldn't fall through this railing. It was too strong. Too bad, he thought. He closed his eyes and saw Chili Palmer falling. That was an idea. He picked up the phone and called the Bear again. This time the Bear was home.
+Bo Catlett was out on the balcony of his house, high on a hill above Hollywood, looking down the mountain. He couldn't see the stones far below, but they were there. He looked over the railing into the black night and <span class='tip-wrap' data-text='thought [θОт] {существительное} мысль'>**thought**<span class='tip-text'> </span></span>, fall off here and you die. In the movies, railings broke all the time, people fell <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> them. You couldn't fall <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> this railing. It was too strong. Too bad, he thought. He closed his eyes and saw Chili Palmer falling. That was an idea. He picked up the phone and called the Bear again. This time the Bear was home.
 
 Бо Кэтлетт стоял на балконе своего дома, расположенного на холме над Голливудом, и смотрел вниз с горы. Он не мог видеть камни далеко внизу, но они были там. Он посмотрел через перила в черную ночь и подумал: упади сюда и умрешь. В кино перила постоянно ломались, люди падали через них. Через эти перила нельзя было упасть. Они были слишком прочными. Очень жаль, подумал он. Он закрыл глаза и увидел, как падает Чили Палмер. Это была идея. Он поднял трубку и снова позвонил Медведю. На этот раз Медведь был дома.
 
@@ -6738,7 +6738,7 @@ Bo Catlett was out on the balcony of his house, high on a hill above Hollywood, 
 
 "Этот парень - не Яйо. Этот парень опасен".
 
-Catlett said "Listen, Bear, I had an idea. You come over here and work on my railing. Like they do in the movies. You understand? We get Chili Palmer here, he goes down the mountain. What do you think?'
+Catlett said "Listen, Bear, I had an idea. You come <span class='tip-wrap' data-text='over [Oувэр] {наречие} свыше'>**over**<span class='tip-text'> </span></span> here and work on my railing. Like they do in the movies. You understand? We get Chili Palmer here, he goes down the mountain. What do you think?'
 
 Кэтлетт сказал: "Слушай, Медведь, у меня есть идея. Ты приходишь сюда и работаешь над моими перилами. Как это делают в кино. Понимаешь? Мы приводим сюда Чили Палмера, и он спускается с горы. Что скажешь?
 
@@ -6758,7 +6758,7 @@ There was silence, and then the Bear said, "No, I'm not. I told you, I'm not wor
 
 "Мне неприятно это слышать, Медведь. Потому что если у меня будут неприятности, мне придется рассказать им о тебе. Все о тебе".
 
-There was silence again. The Bear said, "Why?" in a quiet voice.
+There was silence again. The Bear said, "Why?" in a <span class='tip-wrap' data-text='quiet [куАйэт] {прилагательное} тихий'>**quiet**<span class='tip-text'> </span></span> voice.
 
 Снова наступило молчание. Медведь спросил "Почему?" тихим голосом.
 
@@ -6778,7 +6778,7 @@ They talked while they ate. Michael said, "It's a love story, really. They love 
 
 "Какой гангстер?" спросил Гарри.
 
-Michael didn't answer the question. Instead he went on. "And she's another man's wife. How do I feel about that? And what does her husband do? I mean, what's his job?"
+Michael didn't answer the question. Instead he went <span class='tip-wrap' data-text='on [Ан] {наречие} вперёд; позднее; далее'>**on**<span class='tip-text'> </span></span>. "And she's another man's wife. How do I feel about that? And what does her husband do? I mean, what's his job?"
 
 Майкл не ответил на вопрос. Вместо этого он продолжил. "И она - чужая жена. Как я к этому отношусь? А чем занимается ее муж? В смысле, какая у него работа?"
 
@@ -6826,11 +6826,11 @@ Harry was already looking at him. Chili said, "That's good."
 
 "То есть, - сказал Гарри, - все это время..."
 
-Michael put out his hand. "Have to go. Chili, call me. Harry, be good." He walked away.
+Michael put out his hand. "Have to go. Chili, call me. Harry, be good." He walked <span class='tip-wrap' data-text='away [эуЕй] {наречие} далеко'>**away**<span class='tip-text'> </span></span>.
 
 Майкл протянул руку. "Мне нужно идти. Чили, позвони мне. Гарри, будь умницей". Он ушел.
 
-Harry threw his fork down on his plate. Chili took out a cigarette. He said, "Let's have a drink."
+Harry threw his fork down on his plate. Chili took out a cigarette. He said, "Let's have a <span class='tip-wrap' data-text='drink [дрЫŋк] {существительное} напиток [3]; питье [2]; глоток [2]'>**drink**<span class='tip-text'> </span></span>."
 
 Гарри бросил вилку на свою тарелку. Чили достал сигарету. Он сказал: "Давай выпьем".
 
@@ -6846,7 +6846,7 @@ Catlett sat in the dark, looking at the television. Just do it, he thought. Chil
 
 Кэтлетт сидел в темноте и смотрел на телевизор. Просто сделай это, подумал он. Чили Палмер войдет, застрелит его. Никаких разговоров.
 
-Chili put on his pants and shoes. He went to the door and stopped. He was listening. After a minute Karen said, "Are you going down?"
+Chili put on his <span class='tip-wrap' data-text='pants [пЭнтс] {существительное} брюки [3]; штаны [3]; кальсоны [3]; трусы [2]'>**pants**<span class='tip-text'> </span></span> and shoes. He went to the door and stopped. He was listening. After a minute Karen said, "Are you going down?"
 
 Чили надел брюки и ботинки. Он подошел к двери и остановился. Он прислушивался. Через минуту Карен спросила: "Ты спускаешься?"
 
@@ -6862,7 +6862,7 @@ Chili went downstairs.
 
 Чили спустилась вниз.
 
-Bo Catlett was tired of waiting. He left the room, walking quiedy. He saw something on the stairs and he pointed the gun at it. Suddenly there was a scream. He'd never heard a scream that loud. He shot at the shape and it fell. The scream went on louder and louder, and he ran.
+Bo Catlett was tired of waiting. He left the room, walking quiedy. He saw something on the stairs and he pointed the gun at it. Suddenly there was a scream. He'd never heard a scream that loud. He shot at the shape and it fell. The scream went <span class='tip-wrap' data-text='on [Ан] {наречие} вперёд; позднее; далее'>**on**<span class='tip-text'> </span></span> louder and louder, and he ran.
 
 Бо Кэтлетт устал ждать. Он вышел из комнаты и пошел быстрым шагом. Увидев что-то на лестнице, он направил на это пистолет. Внезапно раздался крик. Он никогда не слышал такого громкого крика. Он выстрелил в фигуру, и она упала. Крик становился все громче и громче, и он побежал.
 
@@ -6902,7 +6902,7 @@ Bo Catlett heard a car outside his house. The police, he thought. But when he op
 
 "Я только что сказал тебе", - ответил Медведь.
 
-This was strange, Catlett thought. He said, "Bear, why are you talking to me like that. Aren't we friends?"
+This was <span class='tip-wrap' data-text='strange [стрЕйндж] {прилагательное} странный; чужой'>**strange**<span class='tip-text'> </span></span>, Catlett thought. He said, "Bear, why are you talking to me like that. Aren't we friends?"
 
 Это странно, подумал Кэтлетт. Он сказал: "Медведь, почему ты так со мной разговариваешь. Разве мы не друзья?"
 
@@ -6922,7 +6922,7 @@ Bo looked at the Bear. "Hey, Bear, you haven't asked me. Did I get Chili Palmer?
 
 Бо посмотрел на Медведя. "Эй, Медведь, ты меня не спрашивал. Я получил Чили Палмер? Почему нет? Может, ты с ним уже поговорил. Медведь, я рад, что ты здесь", - сказал он и, оставив его, пошел в свою спальню. Он взял пистолет со столика у кровати и положил его в карман. И тут услышал звук второй машины.
 
-The door was open, so Chili walked in. Bo was coming out of another room. His hands were in the big pockets of his jacket. The Bear was standing between them. He moved to the side when Chili came in.
+The door was open, so Chili walked in. Bo was coming out of another room. His hands were in the big pockets of his <span class='tip-wrap' data-text='jacket [джЭкэт] {существительное} куртка [3]; жакет [3]; рубашка [2]'>**jacket**<span class='tip-text'> </span></span>. The Bear was standing between them. He moved to the side when Chili came in.
 
 Дверь была открыта, и Чили вошел. Бо выходил из другой комнаты. Его руки были засунуты в большие карманы куртки. Между ними стоял Медведь. Он отодвинулся в сторону, когда Чили вошел.
 
@@ -6930,7 +6930,7 @@ The door was open, so Chili walked in. Bo was coming out of another room. His ha
 
 "Люди уже пытались застрелить меня, но я все еще здесь".
 
-Chili said to Bo. "I'm here, and you, you're gone. Come near me, or Harry, again and I'll throw you off your pretty balcony."
+Chili said to Bo. "I'm here, and you, you're gone. Come near me, or Harry, again and I'll throw you off your <span class='tip-wrap' data-text='pretty [прЫти] {прилагательное} хорошенький [2]; прелестный [2]; хороший [1]; приятный [1]; привлекательный [1]; миленький [1]; смазливый [1]; миловидный [1]; значительный [1]; изрядный [1]'>**pretty**<span class='tip-text'> </span></span> balcony."
 
 сказал Чили Бо. "Я здесь, а ты, ты ушел. Еще раз подойдешь ко мне или к Гарри, и я сброшу тебя с твоего симпатичного балкона".
 
@@ -6950,15 +6950,15 @@ The Bear wanted to live. "Yeah, he came to rob you. And you didn't want to shoot
 
 "Да, как в кино". Бо понравилась эта идея.
 
-"So he's here," the Bear said, holding Chili in his big arms, "and you go over there."
+"So he's here," the Bear said, holding Chili in his big arms, "and you go <span class='tip-wrap' data-text='over [Oувэр] {наречие} свыше'>**over**<span class='tip-text'> </span></span> there."
 
 "Значит, он здесь, - сказал Медведь, держа Чили в своих больших руках, - а ты иди туда".
 
-Bo went towards the railing. Chili tried to move, but he couldn't. The Bear was too strong. "And you're holding the railing when you shoot," the Bear said.
+Bo went <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the railing. Chili tried to move, but he couldn't. The Bear was too strong. "And you're holding the railing when you shoot," the Bear said.
 
 Бо пошел к перилам. Чили попытался сдвинуться с места, но не смог. Медведь был слишком силен. "И держись за перила, когда будешь стрелять", - сказал Медведь.
 
-Bo pointed the gun straight at Chili's jumping heart and put his other hand on the railing. And screamed when the railing fell away behind him. One minute Catlett was there and the next minute he wasn't. When he hit the stones, he was still thinking, "Like a movie."
+Bo pointed the gun <span class='tip-wrap' data-text='straight [стрЕйт] {наречие} прямо'>**straight**<span class='tip-text'> </span></span> at Chili's jumping heart and put his other hand on the railing. And screamed when the railing fell <span class='tip-wrap' data-text='away [эуЕй] {наречие} далеко'>**away**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> him. One minute Catlett was there and the next minute he wasn't. When he hit the stones, he was still thinking, "Like a movie."
 
 Бо направил пистолет прямо в прыгающее сердце Чили, а другой рукой ухватился за перила. И закричал, когда перила упали за его спиной. В одну минуту Кэтлетт был там, а в другую - нет. Когда он упал на камни, он все еще думал: "Как в кино".
 
@@ -6974,7 +6974,7 @@ Chili said, "Michael, look at me."
 
 Чили сказал: "Майкл, посмотри на меня".
 
-Michael smiled. "Yeah, I've got those cold eyes now."
+Michael smiled. "Yeah, I've got <span class='tip-wrap' data-text='those [ðOуз] {определитель} те'>**those**<span class='tip-text'> </span></span> cold eyes now."
 
 Майкл улыбнулся. "Да, у меня теперь такие холодные глаза".
 

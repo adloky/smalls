@@ -12,6 +12,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using Porter2StemmerStandard;
 using System.Windows.Forms;
+using System.Diagnostics;
 
 namespace ConApp {
     static class Program {
@@ -498,12 +499,26 @@ namespace ConApp {
             { "WP$", "местоимение" }, { "IN", "предлог" }
         };
 
-        static IEnumerable<(string w, string p)> posReduce(string path) {
+        static IEnumerable<string> posReduce(string path) {
             var exQue = new Queue<string>();
             var re = new Regex(@"\s+|[^\s]+", RegexOptions.Compiled);
             var s = File.ReadAllText(path);
             var ss = re.Matches(s).Cast<Match>().Select(x => x.Value).ToArray();
             var pRe = new Regex(@"_[^_]+$", RegexOptions.Compiled);
+
+            var pathPos = pathEx(path, "-pos");
+            // java -mx300m -cp 'stanford-postagger.jar:' edu.stanford.nlp.tagger.maxent.MaxentTagger -model $1 -textFile $2
+            if (!File.Exists(pathPos)) {
+            var proc = new Process();
+                proc.StartInfo.FileName = "java.exe";
+                proc.StartInfo.UseShellExecute = false;
+                proc.StartInfo.Arguments = "-mx300m -cp \"stanford-postagger.jar;\" edu.stanford.nlp.tagger.maxent.MaxentTagger -model models/english-left3words-distsim.tagger -textFile " + path;
+                proc.StartInfo.WorkingDirectory = "d:/Portables/postagger";
+                proc.StartInfo.RedirectStandardOutput = true;
+                proc.Start();
+                File.WriteAllText(pathPos, proc.StandardOutput.ReadToEnd().Replace("\n", " "));
+            }
+
             var ps = File.ReadAllText(pathEx(path, "-pos"))
                 .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
                 .Select(x => {
@@ -518,7 +533,7 @@ namespace ConApp {
             while (j < ps.Length) {
                 var w = ss[i++];
                 if (char.IsWhiteSpace(w[0])) {
-                    yield return (w: w, p: "пробел");
+                    yield return $"{w} {{{"пробел"}}}";
                     continue;
                 }
 
@@ -542,7 +557,7 @@ namespace ConApp {
                         p = "прочее";
                     }
                     prevDot = wp.Last() == '.';
-                    yield return (w: ps[j].w, p: p);
+                    yield return $"{ps[j].w} {{{p}}}";
 
                     j++;
                     if (w.Length == wp.Length)
@@ -553,9 +568,11 @@ namespace ConApp {
             }
         }
 
-        static Dictionary<string, string> learnDic = ((Func<Dictionary<string,string>>)(() => {
+        static Dictionary<string, string> loadDic(string path) {
             var dic = new Dictionary<string, string>();
-            File.ReadAllLines(@"d:\Projects\smalls\learn-dic.txt").Select(x => {
+            var nRe = new Regex(@"^\d+ ", RegexOptions.Compiled);
+            File.ReadAllLines(path).Select(x => {
+                x = nRe.Replace(x, "");
                 var xsp = x.Split('}');
                 var k = xsp[0] + "}";
                 var v = xsp[1].Trim();
@@ -572,14 +589,18 @@ namespace ConApp {
                 }
             });
             return dic;
-        }))();
+        }
 
-        static string getLearn(string s) {
+        static Dictionary<string, string> learnDic = loadDic(@"d:\Projects\smalls\learn-dic-3000.txt");
+
+        static string getLearn(string s, Dictionary<string, string> dic = null) {
+            if (dic == null)
+                dic = learnDic;
             s = s.ToLower();
             var ssp = s.Split(' ');
-            if (!learnDic.TryGetValue(s, out var v) && lemmas.TryGetValue(ssp[0], out var lemma)) {
+            if (!dic.TryGetValue(s, out var v) && lemmas.TryGetValue(ssp[0], out var lemma)) {
                 s = $"{lemma} {{{ssp[1]}}}";
-                learnDic.TryGetValue(s, out v);
+                dic.TryGetValue(s, out v);
             }
 
             if (v == null)
@@ -591,7 +612,7 @@ namespace ConApp {
         static void learnStat(string path) {
             var rDic = new Dictionary<string, int>();
             foreach (var pos in posReduce(path)) {
-                var r = getLearn($"{pos.w} {{{pos.p}}}");
+                var r = getLearn(pos);
                 if (r == null)
                     continue;
 
@@ -608,6 +629,26 @@ namespace ConApp {
             File.WriteAllLines(pathEx(path, "-dic"), rs);
         }
 
+        static void makeTip(string path) {
+            var dic = loadDic(pathEx(path, "-dic"));
+            var sb = new StringBuilder();
+            foreach (var wp in posReduce(path)) {
+                var w = wp.Split(new[] { " {" }, ssop)[0];
+                var r = getLearn(wp, dic);
+                if (r == null) {
+                    sb.Append(w);
+                    continue;
+                }
+                
+                var pron = getPron(w.ToLower());
+                if (pron != null) {
+                    r = r.Replace("{", $"[{pron}] {{");
+                }
+                sb.Append($"<span class='tip-wrap' data-text='{r}'>**{w}**<span class='tip-text'> </span></span>");
+            }
+            File.WriteAllText(pathEx(path, "-tip"), sb.ToString());
+        }
+
         static volatile bool ctrlC = false;
 
         [STAThread]
@@ -615,11 +656,12 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
             //prepareWords("d:/words.txt");
-            //fixQuotes(@"d:\.temp\5.txt");
+            //fixQuotes(@"d:\.temp\1.txt");
             //deepl(@"d:\.temp\1.txt");
             //File.WriteAllLines("d:/3.txt", posReduce("d:/.temp/3.txt ").Where(x => x.p != "пробел" && x.p != "прочее").Select(x => $"{x.w} {x.p}"));
 
-            learnStat("d:/.temp/2.txt");
+            //learnStat("d:/.temp/1.txt");
+            makeTip("d:/.temp/1.txt");
 
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
