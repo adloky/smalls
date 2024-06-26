@@ -13,6 +13,8 @@ using OpenQA.Selenium.Chrome;
 using Porter2StemmerStandard;
 using System.Windows.Forms;
 using System.Diagnostics;
+using CsvHelper;
+using System.Globalization;
 
 namespace ConApp {
     static class Program {
@@ -542,8 +544,10 @@ namespace ConApp {
                     j++;
                     wp = ps[j].w;
                 }
-                if (w.Length < wp.Length)
+                if (w.Length < wp.Length) {
+                    exQue.ToList().ForEach(Console.WriteLine);
                     throw new Exception();
+                }
 
                 while (w.Length >= wp.Length) {
                     exQue.Enqueue($"{w} {wp}");
@@ -649,6 +653,40 @@ namespace ConApp {
             File.WriteAllText(pathEx(path, "-tip"), sb.ToString());
         }
 
+        static Regex twSpRe = new Regex(" +", RegexOptions.Compiled);
+        static Regex twSNlRe = new Regex(@"[!,\.:;?]\r\n", RegexOptions.Compiled | RegexOptions.Multiline);
+        static Regex twSpNlRe = new Regex(@"^ +", RegexOptions.Compiled | RegexOptions.Multiline);
+        static Regex twNlNlRe = new Regex(@"(\r\n)+", RegexOptions.Compiled | RegexOptions.Multiline);
+        static Regex twNlRe = new Regex(@"\r\n", RegexOptions.Compiled | RegexOptions.Multiline);
+        static Regex twSpSRe = new Regex(@" [!,\.:;?]", RegexOptions.Compiled | RegexOptions.Multiline);
+        static Regex twHttpRe = new Regex(@"https?://t.co/[a-zA-Z0-9]+", RegexOptions.Compiled | RegexOptions.Multiline);
+
+
+        static string tweet2ascii(string s) {
+            s = s.Replace("’", "'").Replace("…", "...").Replace("“", "\"").Replace("”", "\"").Replace("—", "-").Replace("–", "-");
+            s = string.Concat(s.Select(x => x > 127 ? ' ' : x));
+            s = twHttpRe.Replace(s, "http");
+            s = twSpNlRe.Replace(s, "");
+            s = twNlNlRe.Replace(s, "\r\n");
+            s = handleString(s, twSNlRe, (x, m) => $"{x[0]} ");
+            s = twNlRe.Replace(s, ". ");
+            s = twSpRe.Replace(s, " ");
+            s = handleString(s, twSpSRe, (x, m) => $"{x[1]}");
+            s = s.Trim();
+
+            return s;
+        }
+
+        static void readCsv(string path) {
+            using (var reader = new StreamReader(path))
+            using (var csv = new CsvReader(reader, CultureInfo.InvariantCulture)) {
+                var rs = csv.GetRecords(new { author = "" , content = "" });
+                //var i = 0;
+
+                File.WriteAllLines("d:/.temp/tweets.txt", rs.Select(x =>$"{x.author}: {tweet2ascii(x.content)}"));
+            }
+        }
+
         static volatile bool ctrlC = false;
 
         [STAThread]
@@ -656,12 +694,22 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
             //prepareWords("d:/words.txt");
-            //fixQuotes(@"d:\.temp\1.txt");
-            //deepl(@"d:\.temp\1.txt");
+            //fixQuotes(@"d:\.temp\2.txt");
+            //deepl(@"d:\.temp\2.txt");
             //File.WriteAllLines("d:/3.txt", posReduce("d:/.temp/3.txt ").Where(x => x.p != "пробел" && x.p != "прочее").Select(x => $"{x.w} {x.p}"));
 
-            //learnStat("d:/.temp/1.txt");
-            makeTip("d:/.temp/1.txt");
+            //learnStat("d:/.temp/2.txt");
+            //makeTip("d:/.temp/2.txt");
+            //readCsv("d:/.temp/tweets.csv ");
+            //Console.WriteLine(tweet2ascii("Test , Test"));
+            var en = File.ReadAllLines("d:/.temp/tweets.txt");
+            var ru = File.ReadAllLines("d:/.temp/tweets-ru.txt");
+            var rs = new List<string>();
+            for (var i = 0; i < en.Length; i++) {
+                rs.Add(en[i]);
+                rs.Add(ru[i]);
+            }
+            File.WriteAllLines("d:/.temp/tweets-all.txt", rs);
 
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
