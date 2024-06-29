@@ -15,6 +15,7 @@ using System.Windows.Forms;
 using System.Diagnostics;
 using CsvHelper;
 using System.Globalization;
+using System.Web;
 
 namespace ConApp {
     static class Program {
@@ -704,48 +705,31 @@ namespace ConApp {
             //readCsv("d:/.temp/tweets.csv ");
             //Console.WriteLine(tweet2ascii("Test , Test"));
             
-            var en = File.ReadAllLines("d:/.temp/tweets-en.txt");
-            var ru = File.ReadAllLines("d:/.temp/tweets-ru.txt");
+            var ts = File.ReadAllLines("d:/Projects/smalls/learn-tweets.txt");
             var rs = new List<string>();
-            var re = new Regex(@"[!,\.:;?]$");
-            var nickRe = new Regex("^[^:]*: ");
+            var prefix = "WORD: ";
+            var key = "";
             var i = 0;
-            var rDic = new Dictionary<string,List<string>>();
-            var spRe = new Regex(@"\s+", RegexOptions.Compiled);
-            var ln = new List<(string w, string d)>();
-            
-            var lDic = loadDic(@"d:\Projects\smalls\learn-dic-5000.txt");
-            foreach (var pos in posReduce("d:/.temp/tweets-en.txt")) {
-                if (pos.Contains("\n")) {
-                    var js = ln.Select((x,j) => x.d == null ? -1 : j).Where(x => x != -1).ToArray();
-                    foreach (var j in js) {
-                        var d = ln[j].d;
-                        if (!rDic.ContainsKey(d)) {
-                            rDic[d] = new List<string>();
-                        }
-                        var pron = getPron(ln[j].w);
-                        if (pron != null)
-                            pron = $" [{pron}]";
-
-                        var s = string.Concat(ln.Select((x, k) => k == j ? $"<b>{x.w}</b>" + pron : x.w));
-                        rDic[d].Add(s + "\r\n" + ru[i]);
-                    }
-                    i++;
-                    ln.Clear();
+            var en = "";
+            var vs = new List<string>();
+            Func<string,string> esc = x => x.Replace("\\", "\\\\").Replace("\"", "\\\"");
+            foreach (var t in ts) {
+                if (t.StartsWith(prefix)) {
+                    rs.Add($"[\"{key}\", [{string.Join(", ", vs)}]],");
+                    vs.Clear();
+                    key = t.Substring(prefix.Length).Split(new[] { "} " }, ssop)[0] + "}";
                     continue;
                 }
 
-                var w = pos.Split(new[] { " {" }, ssop)[0];
-                ln.Add((w, getLearn(pos, lDic)));
+                if (i % 2 == 0) { en = t; }
+                else {
+                    vs.Add($"{{ en: \"{esc(en)}\", ru: \"{esc(t)}\" }}");
+                }
+                i++;
             }
             
-            foreach (var kv in rDic) {
-                rs.Add($"WORD: {kv.Key}");
-                kv.Value.Shuffle(0, kv.Value.Count);
-                kv.Value.Take(25).ToList().ForEach(x => rs.Add(x));
-            }
-
-            File.WriteAllLines("d:/.temp/learn-tweets.txt", rs);
+            //var re = new Regex(@"[!,\.:;?]$");
+            File.WriteAllLines("d:/.temp/tweets.js", rs);
 
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
