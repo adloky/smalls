@@ -702,14 +702,56 @@ namespace ConApp {
             //makeTip("d:/.temp/2.txt");
             //readCsv("d:/.temp/tweets.csv ");
             //Console.WriteLine(tweet2ascii("Test , Test"));
-            var en = File.ReadAllLines("d:/.temp/tweets.txt");
+            
+            var en = File.ReadAllLines("d:/.temp/tweets-en.txt");
             var ru = File.ReadAllLines("d:/.temp/tweets-ru.txt");
             var rs = new List<string>();
-            for (var i = 0; i < en.Length; i++) {
-                rs.Add(en[i]);
-                rs.Add(ru[i]);
+            var re = new Regex(@"[!,\.:;?]$");
+            var nickRe = new Regex("^[^:]*: ");
+            //var i = 0;
+            var rDic = new Dictionary<string,List<string>>();
+            var spRe = new Regex(@"\s+", RegexOptions.Compiled);
+            var ln = new List<(string w, string d)>();
+            /*
+            var lDic = loadDic(@"d:\Projects\smalls\learn-dic-3000.txt");
+            foreach (var pos in posReduce("d:/.temp/tweets-en.txt")) {
+                if (pos.Contains("\n")) {
+                    var js = ln.Select((x,j) => x.d == null ? -1 : j).Where(x => x != -1).ToArray();
+                    foreach (var j in js) {
+                        var d = ln[j].d;
+                        if (!rDic.ContainsKey(d)) {
+                            rDic[d] = new List<string>();
+                        }
+                        var s = string.Concat(ln.Select((x, k) => k == j ? $"<b>{x.w}</b>" : x.w));
+                        rDic[d].Add(s);
+                        rDic[d].Add(ru[i]);
+                    }
+                    i++;
+                    ln.Clear();
+                    continue;
+                }
+
+                var w = pos.Split(new[] { " {" }, ssop)[0];
+                ln.Add((w, getLearn(pos, lDic)));
             }
-            File.WriteAllLines("d:/.temp/tweets-all.txt", rs);
+            */
+            /*
+            for (var i = 0; i < en.Length; i++) {
+                var nick = nickRe.Match(en[i]).Value;
+                rs.Add(nick + ru[i]);
+            }
+            
+            File.WriteAllLines("d:/.temp/tweets-ru-2.txt", rs);
+            */
+
+            /*
+            foreach (var kv in rDic) {
+                rs.Add($"WORD: {kv.Key}");
+                kv.Value.ForEach(x => rs.Add(x));
+            }
+
+            File.WriteAllLines("d:/.temp/lern-tweets.txt", rs);
+            */
 
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
