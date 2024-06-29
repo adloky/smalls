@@ -708,12 +708,12 @@ namespace ConApp {
             var rs = new List<string>();
             var re = new Regex(@"[!,\.:;?]$");
             var nickRe = new Regex("^[^:]*: ");
-            //var i = 0;
+            var i = 0;
             var rDic = new Dictionary<string,List<string>>();
             var spRe = new Regex(@"\s+", RegexOptions.Compiled);
             var ln = new List<(string w, string d)>();
-            /*
-            var lDic = loadDic(@"d:\Projects\smalls\learn-dic-3000.txt");
+            
+            var lDic = loadDic(@"d:\Projects\smalls\learn-dic-5000.txt");
             foreach (var pos in posReduce("d:/.temp/tweets-en.txt")) {
                 if (pos.Contains("\n")) {
                     var js = ln.Select((x,j) => x.d == null ? -1 : j).Where(x => x != -1).ToArray();
@@ -734,7 +734,7 @@ namespace ConApp {
                 var w = pos.Split(new[] { " {" }, ssop)[0];
                 ln.Add((w, getLearn(pos, lDic)));
             }
-            */
+            
             /*
             for (var i = 0; i < en.Length; i++) {
                 var nick = nickRe.Match(en[i]).Value;
@@ -744,14 +744,13 @@ namespace ConApp {
             File.WriteAllLines("d:/.temp/tweets-ru-2.txt", rs);
             */
 
-            /*
+            
             foreach (var kv in rDic) {
                 rs.Add($"WORD: {kv.Key}");
                 kv.Value.ForEach(x => rs.Add(x));
             }
 
-            File.WriteAllLines("d:/.temp/lern-tweets.txt", rs);
-            */
+            File.WriteAllLines("d:/.temp/learn-tweets.txt", rs);
 
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
