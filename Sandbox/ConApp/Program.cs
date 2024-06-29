@@ -313,6 +313,7 @@ namespace ConApp {
         static Regex spRe = new Regex("[^a-z]+", RegexOptions.Compiled);
 
         static string getPron(string s) {
+            s = s.ToLower();
             var ks = spRe.Split(s);
             var ts = new List<string>();
             foreach (var k in ks) {
@@ -722,9 +723,12 @@ namespace ConApp {
                         if (!rDic.ContainsKey(d)) {
                             rDic[d] = new List<string>();
                         }
-                        var s = string.Concat(ln.Select((x, k) => k == j ? $"<b>{x.w}</b>" : x.w));
-                        rDic[d].Add(s);
-                        rDic[d].Add(ru[i]);
+                        var pron = getPron(ln[j].w);
+                        if (pron != null)
+                            pron = $" [{pron}]";
+
+                        var s = string.Concat(ln.Select((x, k) => k == j ? $"<b>{x.w}</b>" + pron : x.w));
+                        rDic[d].Add(s + "\r\n" + ru[i]);
                     }
                     i++;
                     ln.Clear();
@@ -735,19 +739,10 @@ namespace ConApp {
                 ln.Add((w, getLearn(pos, lDic)));
             }
             
-            /*
-            for (var i = 0; i < en.Length; i++) {
-                var nick = nickRe.Match(en[i]).Value;
-                rs.Add(nick + ru[i]);
-            }
-            
-            File.WriteAllLines("d:/.temp/tweets-ru-2.txt", rs);
-            */
-
-            
             foreach (var kv in rDic) {
                 rs.Add($"WORD: {kv.Key}");
-                kv.Value.ForEach(x => rs.Add(x));
+                kv.Value.Shuffle(0, kv.Value.Count);
+                kv.Value.Take(25).ToList().ForEach(x => rs.Add(x));
             }
 
             File.WriteAllLines("d:/.temp/learn-tweets.txt", rs);
