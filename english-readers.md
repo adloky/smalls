@@ -9089,3 +9089,6783 @@ There was this little line of dancing men.
 Only one word of epilogue. The American, Abe Slaney, was sentenced to death at Norwich. But the punishment was changed to hard labour, as it was proved that Hilton Cubitt had fired first. As for Mrs. Hilton Cubitt, I only know that she recovered completely, and that she still remains a widow. She has devoted her life to the care of the <span class='tip-wrap' data-text='poor [пУр] {прилагательное} плохой; бедный'>**poor**<span class='tip-text'> </span></span> and to the administration of her husband's estate.
 
 Только одно слово в эпилоге. Американец Эйб Слейни был приговорен к смертной казни в Норвиче. Но наказание было заменено на каторжные работы, так как было доказано, что Хилтон Кьюбитт выстрелил первым. Что касается миссис Хилтон Кьюбитт, то я знаю только, что она полностью выздоровела и до сих пор остается вдовой. Она посвятила свою жизнь заботе о бедных и управлению имуществом своего мужа.
+
+# Heart Of Darkness
+
+# Сердце тьмы
+
+CHAPTER ONE
+
+ГЛАВА ОДИН
+
+It was evening, and the Nellie, a yawl, was anchored in the Thames. We looked down the river that flowed to the sea. London was <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> us, a great black shape.
+
+Был вечер, и ял «Нелли» стоял на якоре в Темзе. Мы посмотрели на реку, которая текла к морю. Лондон остался позади нас — огромная черная фигура.
+
+The <span class='tip-wrap' data-text='captain [кЭптэн] {существительное} капитан [3]; капитан команды [2]'>**captain**<span class='tip-text'> </span></span> of the Nellie was a company director. The other guests included a lawyer, an accountant, myself - and of course Marlow. We all knew each other well, and we all shared a passion for the sea.
+
+Капитан «Нелли» был директором компании. Среди других гостей были юрист, бухгалтер, я и, конечно же, Марлоу. Мы все хорошо знали друг друга, и всех нас разделяла страсть к морю.
+
+We looked out on the river and remembered its history. Famous men and famous ships had sailed out from here to perform famous deeds. They had sailed out to fight in battles, to conquer other countries, and make fortunes. The Thames had carried men to the places of their dreams, and it had carried men who were inspired by greed.
+
+Мы посмотрели на реку и вспомнили ее историю. Отсюда отправлялись знаменитые люди и знаменитые корабли, чтобы совершить знаменитые дела. Они отправились сражаться в битвах, завоевывать другие страны и зарабатывать состояния. Темза несла людей в места их мечты, и она несла людей, которых вдохновляла жадность.
+
+'This has been a dark place as well,' Marlow said suddenly.
+
+— Это тоже темное место, — внезапно сказал Марлоу.
+
+Marlow was the only one of us who was still a professional sailor. He was like a lot of sailors in some ways. He liked telling stories, and he was more comfortable at sea than on land. He was also unlike most sailors in some ways. Marlow's stories were not simple tales. He did not just describe exciting events. He tried to understand the people in his stories, and the places where the stories had taken place.
+
+Марлоу был единственным из нас, кто все еще был профессиональным моряком. В чем-то он был похож на многих моряков. Он любил рассказывать истории, и на море ему было удобнее, чем на суше. Он также в чем-то отличался от большинства моряков. Рассказы Марлоу не были простыми сказками. Он не просто описывал захватывающие события. Он пытался понять людей в своих рассказах и места, где происходили эти истории.
+
+No one was surprised at Marlow's remark. We did not say anything. We waited for him to continue. There was a silence on the Nellie for a few moments, and then Marlow went on.
+
+Никто не удивился замечанию Марлоу. Мы ничего не сказали. Мы ждали, пока он продолжит. На «Нелли» на несколько мгновений воцарилось молчание, а затем Марлоу продолжил.
+
+'I was thinking of the Romans,' he said softly, 'when they first sailed up this river. It was a dark place then, you can be <span class='tip-wrap' data-text='sure [шУр] {прилагательное} верный; уверенный'>**sure**<span class='tip-text'> </span></span> of that - a dark, frightening place full of forests and dangerous savages. And they conquered it, the Romans did. Conquest is an ugly thing when you really consider it. It means strong men killing and robbing <span class='tip-wrap' data-text='weak [уИк] {прилагательное} слабый [3]'>**weak**<span class='tip-text'> </span></span> men. Of course, conquerors don't see it like that. They usually have some idea, some ideal as well...'
+
+— Я думал о римлянах, — сказал он тихо, — когда они впервые поднялись по этой реке. Тогда это было темное место, можете быть уверены – темное, пугающее место, полное лесов и опасных дикарей. И они завоевали его, римляне. Завоевание — уродливая вещь, если серьезно задуматься. Это означает, что сильные люди убивают и грабят слабых людей. Конечно, завоеватели так не считают. У них обычно тоже есть какая-то идея, какой-то идеал...»
+
+He paused for a moment.
+
+Он на мгновение остановился.
+
+'I once sailed <span class='tip-wrap' data-text='along [элОŋ] {предлог} вдоль'>**along**<span class='tip-text'> </span></span> a great river,' he reminded us. 'It was an important experience for me,' he said. 'I'd better tell you how it all happened.'
+
+«Однажды я плыл по большой реке», — напомнил он нам. «Для меня это был важный опыт», — сказал он. — Я лучше расскажу тебе, как все произошло.
+
+Then we knew that Marlow had a story for us. We <span class='tip-wrap' data-text='lay [лЕй] {глагол} лежать'>**lay**<span class='tip-text'> </span></span> back in our chairs and prepared to listen to him.
+
+Тогда мы поняли, что у Марлоу есть для нас история. Мы откинулись на стульях и приготовились слушать его.
+
+'It was after I got back from the East,' he said. 'I was here in England, and I had nothing to do. I used to come and see you fellows,' he said affectionately, 'and I expect I was a nuisance. You were all busy, and I had nothing to do - nothing at all.
+
+«Это было после того, как я вернулся с Востока», — сказал он. «Я был здесь, в Англии, и мне нечего было делать. Я приходил к вам, ребята, — ласково сказал он, — и, наверное, доставлял вам неприятности. Вы все были заняты, а мне нечего было делать, вообще ничего.
+
+'I had the idea that I wanted to go to Africa,' Marlow went on. 'I wanted to explore the inside of that great continent. There was one huge river there that I wanted to see. I knew that there was a continental company that had trading posts <span class='tip-wrap' data-text='along [элОŋ] {предлог} вдоль'>**along**<span class='tip-text'> </span></span> that river. I decided to find a job with that company.
+
+«У меня возникла идея поехать в Африку», — продолжил Марлоу. «Я хотел исследовать внутреннюю часть этого великого континента. Там была одна огромная река, которую я хотел увидеть. Я знал, что существовала континентальная компания, имевшая торговые посты вдоль этой реки. Я решил найти работу в этой компании.
+
+'In the end I was successful. I got the job. I have relatives who live on the continent, you see, and I asked them to use their influence with the company. It was my <span class='tip-wrap' data-text='aunt [Энт] {существительное} тетя [3]; тетка [3]'>**aunt**<span class='tip-text'> </span></span> who got me the job. One of the company's men had been killed out there, you see. They needed another man to replace him.
+
+«В конце концов я добился успеха. Я получил работу. Видите ли, у меня есть родственники, которые живут на континенте, и я попросил их использовать свое влияние на компанию. Это моя тетя устроила меня на работу. Видите ли, там был убит один из людей роты. Им нужен был другой человек, чтобы заменить его.
+
+'I had to go to Brussels to sign the contract for the job. Everything went smoothly out there in the company's offices, although they were grim and depressing. Then I went to see the company doctor for a medical examination. It was a mere formality, you understand. They had to be <span class='tip-wrap' data-text='sure [шУр] {прилагательное} верный; уверенный'>**sure**<span class='tip-text'> </span></span> that I was strong and fit.
+
+«Мне пришлось поехать в Брюссель, чтобы подписать контракт на работу. В офисах компании все шло гладко, хотя они были мрачными и унылыми. Затем я пошел к врачу компании для медицинского осмотра. Понимаете, это была простая формальность. Они должны были быть уверены, что я сильный и здоровый.
+
+'The company doctor was an old man. He felt my pulse. He wanted to know if there was any history of madness in my family. I thought the question was an <span class='tip-wrap' data-text='odd [Ад] {прилагательное} странный [2]; нечетный [2]; необычный [2]; лишний [1]; случайный [1]; чудной [1]; непарный [1]; эксцентричный [1]; разрозненный [1]; добавочный [1]; остающийся [1]; свободный [1]; незанятый [1]'>**odd**<span class='tip-text'> </span></span> one. Then he asked if he could <span class='tip-wrap' data-text='measure [мЕжэр] {глагол} измерять'>**measure**<span class='tip-text'> </span></span> my head. I was surprised by the question, but I gave him my permission. He measured it <span class='tip-wrap' data-text='carefully [кЕрфэли] {наречие} бережно'>**carefully**<span class='tip-text'> </span></span>, and wrote the measurements down in his notebook.
+
+«Врач роты был пожилым человеком. Он пощупал мой пульс. Он хотел знать, были ли случаи безумия в моей семье. Мне показалось, что вопрос странный. Затем он спросил, может ли он измерить мою голову. Меня удивил вопрос, но я дал ему свое разрешение. Он тщательно измерил его и записал результаты измерений в свой блокнот.
+
+'"I always ask the men who are going out there to let me <span class='tip-wrap' data-text='measure [мЕжэр] {глагол} измерять'>**measure**<span class='tip-text'> </span></span> their heads," he explained.
+
+«Я всегда прошу мужчин, которые собираются туда, позволить мне измерить их головы», - объяснил он.
+
+'"Po you <span class='tip-wrap' data-text='measure [мЕжэр] {глагол} измерять'>**measure**<span class='tip-text'> </span></span> them when they come back?" I asked him.
+
+«Почему ты их измеряешь, когда они вернутся?» Я спросил его.
+
+'For a moment he looked surprised.
+
+«На мгновение он выглядел удивленным.
+
+'"I never see them," he told me. "And then, the important changes take place inside the head," he added with a smile.
+
+«Я никогда их не вижу», — сказал он мне. «И затем важные изменения происходят внутри головы», — добавил он с улыбкой.
+
+'Then he asked me some more questions. He told me he was interested in what happened to people's minds when they went "out there". I remember he gave me some <span class='tip-wrap' data-text='rather [рЭðэр] {наречие} скорее; довольно'>**rather**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='odd [Ад] {прилагательное} странный [2]; нечетный [2]; необычный [2]; лишний [1]; случайный [1]; чудной [1]; непарный [1]; эксцентричный [1]; разрозненный [1]; добавочный [1]; остающийся [1]; свободный [1]; незанятый [1]'>**odd**<span class='tip-text'> </span></span> advice.
+
+«Затем он задал мне еще несколько вопросов. Он сказал мне, что его интересует, что происходит с умами людей, когда они выходят «туда». Помню, он дал мне довольно странный совет.
+
+'"Don't let yourself <span class='tip-wrap' data-text='become [быкАм] {глагол} становиться'>**become**<span class='tip-text'> </span></span> angry when you're out there," he warned me. "<span class='tip-wrap' data-text='anger [Эŋгэр] {существительное} гнев [3]; злость [2]; ярость [2]; раздражение [2]'>**Anger**<span class='tip-text'> </span></span> is more dangerous than the sun out there. Try to remember that, young man."
+
+«Не позволяй себе злиться, когда ты там», — предупредил он меня. «Гнев опаснее, чем солнце. Постарайтесь помнить об этом, молодой человек».
+
+'And that was it. I had the job. I left the company offices.
+
+«И это все. У меня была работа. Я вышел из офиса компании.
+
+'Then I went to thank my <span class='tip-wrap' data-text='aunt [Энт] {существительное} тетя [3]; тетка [3]'>**aunt**<span class='tip-text'> </span></span> for the trouble she had taken to help me with the company. She was very kind to me. She had the idea that I was going to Africa to help civilisation, and all that sort of thing. She was enthusiastic about that. A lot of people were, in those days. I reminded her that the company was a trading business - it was interested in profit. My <span class='tip-wrap' data-text='aunt [Энт] {существительное} тетя [3]; тетка [3]'>**aunt**<span class='tip-text'> </span></span> was still enthusiastic about what I was doing. She imagined that I was some kind of apostle for civilisation.
+
+«Затем я пошел поблагодарить тетю за труды, которые она взяла на себя, чтобы помочь мне с компанией. Она была очень добра ко мне. У нее была идея, что я еду в Африку, чтобы помочь цивилизации и все такое. Она была в восторге от этого. В те времена там было много людей. Я напомнил ей, что компания занимается торговлей и заинтересована в прибыли. Моя тетя все еще была в восторге от того, что я делал. Она воображала, что я своего рода апостол цивилизации.
+
+'Civilisation and profit!'
+
+«Цивилизация и прибыль!»
+
+CHAPTER TWO
+
+ГЛАВА ВТОРАЯ
+
+I sailed for Africa in a French steamer,' Marlow went on. 'We stopped at every port on the way to land soldiers and customs officers. I watched the <span class='tip-wrap' data-text='coast [кOуст] {существительное} побережье'>**coast**<span class='tip-text'> </span></span> as we sailed <span class='tip-wrap' data-text='along [элОŋ] {наречие} с собой; вперед'>**along**<span class='tip-text'> </span></span>. I could see the beginnings of the huge jungle. Sometimes I saw a trading post - a small collection of huts flying a <span class='tip-wrap' data-text='flag [флЭг] {существительное} флаг [3]; флажок [2]; знамя [2]; признак [2]'>**flag**<span class='tip-text'> </span></span>. It went on like that for days.
+
+Я отплыл в Африку на французском пароходе, — продолжал Марлоу. «Мы останавливались в каждом порту по пути высадки солдат и таможенников. Пока мы плыли, я смотрел на берег. Я мог видеть начало огромных джунглей. Иногда я видел торговый пост – небольшое скопление хижин, развевающихся под флагом. Так продолжалось несколько дней.
+
+'We stopped. The soldiers and customs officers got off, and then we sailed away.
+
+'Мы остановились. Солдаты и таможенники вышли, а потом мы уплыли.
+
+'Once we passed a French warship anchored near the <span class='tip-wrap' data-text='coast [кOуст] {существительное} побережье'>**coast**<span class='tip-text'> </span></span>. She was firing all her guns into the jungle. <span class='tip-wrap' data-text='imagine [ЫмЭджэн] {глагол} вообразить'>**Imagine**<span class='tip-text'> </span></span> firing a gun into that mass of jungle. Someone said they were firing at their enemies, hidden out of <span class='tip-wrap' data-text='sight [сАйт] {существительное} взгляд (также зрение)'>**sight**<span class='tip-text'> </span></span> somewhere. Nothing happened at all. There was something mad about it, something <span class='tip-wrap' data-text='strange [стрЕйндж] {прилагательное} странный; чужой'>**strange**<span class='tip-text'> </span></span> and useless.
+
+«Однажды мы прошли мимо французского военного корабля, стоящего на якоре недалеко от побережья. Она стреляла из всех своих ружей в джунгли. Представьте себе, что вы стреляете из пистолета в эту массу джунглей. Кто-то сказал, что они стреляли по своим врагам, спрятанным где-то вне поля зрения. Ничего не произошло вообще. В этом было что-то безумное, что-то странное и бесполезное.
+
+'At last we came to the mouth of the great river. My boat was waiting for me two hundred miles <span class='tip-wrap' data-text='up [Ап] {предлог} в; на; по направлению к'>**up**<span class='tip-text'> </span></span> the river.
+
+«Наконец мы подошли к устью великой реки. Моя лодка ждала меня в двухстах милях вверх по реке.
+
+'The first company trading post that I saw was a depressing place. There were pieces of ruined machines lying on the ground. There was a group of African prisoners working there. They were tied together with chains, and they looked <span class='tip-wrap' data-text='weak [уИк] {прилагательное} слабый [3]'>**weak**<span class='tip-text'> </span></span> and ill. I walked around <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> I came to a large hole in the ground. There was more <span class='tip-wrap' data-text='broken [брOукэн] {прилагательное} сломанный [3]; разбитый [2]'>**broken**<span class='tip-text'> </span></span> machinery lying here. I looked at it, and listened to the river that was nearby. Then I heard an explosion. The company was excavating near the river. Every few minutes there was another explosion.
+
+«Первый торговый пост компании, который я увидел, был удручающим местом. На земле валялись куски разрушенных машин. Там работала группа африканских заключенных. Они были связаны цепями и выглядели слабыми и больными. Я ходил вокруг, пока не наткнулся на большую яму в земле. Здесь лежало еще больше сломанной техники. Я смотрел на него и слушал реку, которая была неподалеку. Потом я услышал взрыв. Компания вела раскопки недалеко от реки. Каждые несколько минут раздавался новый взрыв.
+
+'I walked <span class='tip-wrap' data-text='on [Ан] {наречие} вперёд; позднее; далее'>**on**<span class='tip-text'> </span></span>. There were black bodies lying on the ground all around me. They were company workers - the ones who had fallen ill and were going to die. They <span class='tip-wrap' data-text='lay [лЕй] {глагол} лежать'>**lay**<span class='tip-text'> </span></span> on the ground waiting for the end to come. No one helped them. It was horrible.
+
+«Я пошел дальше. Вокруг меня на земле лежали черные тела. Это были работники компании – те самые, которые заболели и собирались умереть. Они лежали на земле и ждали конца. Им никто не помог. Это было ужасно.
+
+'I walked back to the company trading post as quickly as I could. The first white man I saw was very smartly dressed. He wore white trousers, and his white shirt was ironed and starched.He looked as if he worked in a big city somewhere, not in this <span class='tip-wrap' data-text='terrible [тЕрэбэл] {прилагательное} страшный'>**terrible**<span class='tip-text'> </span></span> place. He was the company accountant, he told me. I admired him for the <span class='tip-wrap' data-text='effort [Ефэрт] {существительное} усилие'>**effort**<span class='tip-text'> </span></span> he made. His work was good, too. His accounts were in <span class='tip-wrap' data-text='proper [прАпэр] {прилагательное} надлежащий [2]; правильный [2]; собственный [2]; подходящий [2]; должный [1]; настоящий [1]; истинный [1]; присущий [1]; свойственный [1]; приличный [1]; точный [1]; пристойный [1]; совершенный [1]; красивый [1]'>**proper**<span class='tip-text'> </span></span> order, just like his appearance.
+
+«Я вернулся к торговому посту компании так быстро, как только мог. Первый белый мужчина, которого я увидел, был очень нарядно одет. На нем были белые брюки, а белая рубашка была выглажена и накрахмалена. Выглядел он так, словно работал где-то в большом городе, а не в этом ужасном месте. Он сказал мне, что он был бухгалтером компании. Я восхищался им за усилия, которые он приложил. Его работа тоже была хороша. Его счета были в полном порядке, как и его внешний вид.
+
+'It was the accountant who first mentioned Kurtz.
+
+— Первым упомянул Курца бухгалтер.
+
+'"You'll meet him when you go into the interior," he told me. "Mr Kurtz is a <span class='tip-wrap' data-text='remarkable [рымАркэбэл] {прилагательное} замечательный [3]; удивительный [2]; выдающийся [2]'>**remarkable**<span class='tip-text'> </span></span> person," he added. "He'll go far with the company. The <span class='tip-wrap' data-text='council [кАунсэл] {существительное} совет'>**Council**<span class='tip-text'> </span></span> in Europe know all about him. They want him to <span class='tip-wrap' data-text='succeed [сэксИд] {глагол} преуспевать [2]; иметь успех [2]; следовать за [1]; наследовать [1]; сменять [1]; достигать цели [1]; спориться [1]; быть преемником [1]'>**succeed**<span class='tip-text'> </span></span>."
+
+«Вы встретите его, когда войдёте внутрь», — сказал он мне. «Г-н Курц — замечательный человек», — добавил он. «Он далеко пойдет с компанией. Совет Европы знает о нем все. Они хотят, чтобы он добился успеха».
+
+'I left the trading post the next day. We travelled on foot for the next two hundred miles. It was a hard <span class='tip-wrap' data-text='journey [джЭрни] {существительное} путешествие [3]; поездка [2]'>**journey**<span class='tip-text'> </span></span>. We walked PffT <span class='tip-wrap' data-text='along [элОŋ] {предлог} вдоль'>**along**<span class='tip-text'> </span></span> the jungle paths without seeing anyone else. Sometimes we - came to a <span class='tip-wrap' data-text='native [нЕйтыв] {прилагательное} родной'>**native**<span class='tip-text'> </span></span> village, but it was always empty. The villages were abandoned. Some of the carriers with us died on the <span class='tip-wrap' data-text='journey [джЭрни] {существительное} путешествие [3]; поездка [2]'>**journey**<span class='tip-text'> </span></span>. There was a white man travelling with me. He was a heavy man, and he fell ill. The natives had to carry him most of the way. One day they dropped him. He was furious, and he wanted me to punish the natives. I remembered the words of the old doctor back in Brussels: "<span class='tip-wrap' data-text='anger [Эŋгэр] {существительное} гнев [3]; злость [2]; ярость [2]; раздражение [2]'>**Anger**<span class='tip-text'> </span></span> is more dangerous than the sun out there." I felt the old doctor would be interested in the mental changes that were taking place inside me!
+
+«На следующий день я покинул торговый пост. Следующие двести миль мы прошли пешком. Это было тяжелое путешествие. Мы шли по тропинкам джунглей, не встретив никого больше. Иногда мы приезжали в родное село, но оно всегда было пусто. Деревни были заброшены. Некоторые из сопровождавших нас перевозчиков погибли в пути. Со мной путешествовал белый мужчина. Он был тяжелым человеком и заболел. Большую часть пути его пришлось нести туземцам. Однажды они его бросили. Он был в ярости и хотел, чтобы я наказал туземцев. Я вспомнил слова старого доктора еще в Брюсселе: «Гнев там опаснее солнца». Я чувствовал, что старого доктора заинтересуют психические изменения, происходящие внутри меня!
+
+'We reached the central station after fifteen days. The station was near the river, and I saw at once that there was disorder and confusion here as well. There was a big <span class='tip-wrap' data-text='gap [гЭп] {существительное} разрыв [3]; зазор [3]; пробел [3]; промежуток [2]; щель [2]; отставание [2]; брешь [2]; дефицит [2]; интервал [2]'>**gap**<span class='tip-text'> </span></span> in the <span class='tip-wrap' data-text='fence [фЕнс] {существительное} забор [3]; ограда [2]; ограждение [2]; загородка [2]; изгородь [2]'>**fence**<span class='tip-text'> </span></span> around the station. A man approached me and asked who I was. Then he told me the steamer I had to command was at the bottom of the river. I was astonished and asked what had happened. The man tried to reassure me.
+
+«Мы добрались до центрального вокзала через пятнадцать дней. Станция находилась недалеко от реки, и я сразу увидел, что и здесь беспорядок и неразбериха. В заборе вокруг станции была большая дыра. Ко мне подошел мужчина и спросил, кто я. Затем он сказал мне, что пароход, которым я должен был командовать, находится на дне реки. Я был удивлён и спросил, что случилось. Мужчина пытался меня успокоить.
+
+'"Everything's all right," he told me. "Everyone behaved splendidly. You must go and speak to the manager - he's waiting to see you."
+
+«Все в порядке», — сказал он мне. «Все вели себя великолепно. Вам нужно пойти и поговорить с менеджером – он вас ждет».
+
+'I assumed the steamer had sunk as the result of some <span class='tip-wrap' data-text='accident [Эксэдэнт] {существительное} несчастный случай'>**accident**<span class='tip-text'> </span></span>. I did not think there <span class='tip-wrap' data-text='might [мАйт] {глагол} может быть'>**might**<span class='tip-text'> </span></span> be other, more sinister reasons for what had happened. I'm not even <span class='tip-wrap' data-text='sure [шУр] {прилагательное} верный; уверенный'>**sure**<span class='tip-text'> </span></span> now, so many years later, what the truth of it was.
+
+«Я предположил, что пароход затонул в результате какой-то аварии. Я не думал, что могут быть другие, более зловещие причины произошедшего. Я даже не уверен сейчас, столько лет спустя, в чем была правда.
+
+'The manager did not make a good impression on me. He was quite a stupid man, and obviously no good at running the station which I could see from the condition of the place. He was successful in his job because he never fell ill. Other men could not survive the heat and the poor diet - but that had no effect on him at all. When they left Africa, or when they died, the manager simply took over their jobs.
+
+«Менеджер не произвел на меня хорошего впечатления. Он был довольно глупым человеком и явно не умел управлять станцией, что я мог видеть по состоянию этого места. Он преуспел в своей работе, потому что никогда не болел. Другие мужчины не могли пережить жару и плохое питание – но на него это совершенно не подействовало. Когда они покинули Африку или умерли, менеджер просто занял их работу.
+
+'He told me that he was in a hurry to make the <span class='tip-wrap' data-text='journey [джЭрни] {существительное} путешествие [3]; поездка [2]'>**journey**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='up [Ап] {предлог} в; на; по направлению к'>**up**<span class='tip-text'> </span></span>-river.
+
+— Он сказал мне, что торопится отправиться вверх по реке.
+
+'"Things are bad up there," he explained. "We don't really know what's happening to the other stations up there. We don't know who's <span class='tip-wrap' data-text='alive [элАйв] {прилагательное} живой'>**alive**<span class='tip-text'> </span></span> and who's dead."
+
+«Там дела плохи», — объяснил он. «Мы действительно не знаем, что там происходит с другими станциями. Мы не знаем, кто жив, а кто мертв».
+
+'Then he went on to tell me about an important station that was run by Mr Kurtz. He said he was "very uneasy" about Mr Kurtz. Then he asked me how long it would take to repair the steamer.
+
+«Затем он рассказал мне о важной станции, которой руководил мистер Курц. Он сказал, что его «очень беспокоит» Курц. Потом он спросил меня, сколько времени займет ремонт парохода.
+
+'I was tired after the fifteen-day <span class='tip-wrap' data-text='journey [джЭрни] {существительное} путешествие [3]; поездка [2]'>**journey**<span class='tip-text'> </span></span> into this place, and I was annoyed with the manager and his talk.
+
+«Я устал после пятнадцатидневного путешествия сюда, и меня раздражал менеджер и его разговоры.
+
+'"How can I tell how long the work on the steamer will take?" I demanded irritably. "I haven't even seen her yet!" Then I made a quick calculation. "It's bound to be a <span class='tip-wrap' data-text='couple [кАпэл] {существительное} пара'>**couple**<span class='tip-text'> </span></span> of months at <span class='tip-wrap' data-text='least [лИст] {наречие} наименее'>**least**<span class='tip-text'> </span></span>," I told him.
+
+«Как я могу узнать, сколько времени займут работы на пароходе?» — раздраженно спросил я. «Я ее еще даже не видел!» Затем я сделал быстрый расчет. «Это должно занять как минимум пару месяцев», — сказал я ему.
+
+'The manager was <span class='tip-wrap' data-text='silent [сАйлэнт] {прилагательное} тихий [3]; молчаливый [2]; немой [2]; безмолвный [2]'>**silent**<span class='tip-text'> </span></span> for a moment.
+
+«Менеджер какое-то время молчал.
+
+'"A <span class='tip-wrap' data-text='couple [кАпэл] {существительное} пара'>**couple**<span class='tip-text'> </span></span> of months," he said. "Let's say three months before we can go up-river, to be <span class='tip-wrap' data-text='sure [шУр] {прилагательное} верный; уверенный'>**sure**<span class='tip-text'> </span></span>.'"
+
+«Пару месяцев», — сказал он. «Скажем, три месяца, прежде чем мы сможем подняться вверх по реке, чтобы быть уверенным».
+
+CHAPTER THREE
+
+В ТРЕТЬЕЙ ГЛАВЕ
+
+I began work on the steamer as soon as I could. First we had to <span class='tip-wrap' data-text='raise [рЕйз] {глагол} поднимать'>**raise**<span class='tip-text'> </span></span> her from the bottom of the river, and she came up full of mud and filth. Then I had to inspect the damage, which was considerable.
+
+Я начал работу над пароходом, как только смог. Сначала нам пришлось поднять ее со дна реки, и она вылезла полная грязи и нечистот. Затем мне пришлось осмотреть повреждения, которые были значительными.
+
+'Life at the station went on as usual while I was working. There were always a lot of people wandering about, but no one seemed to do <span class='tip-wrap' data-text='much [мАч] {наречие} много; гораздо'>**much**<span class='tip-text'> </span></span>. Sometimes I heard the word "ivory", and that word did cause excitement. Men became excited at the word "ivory". It was almost a religion for some of them.
+
+«Жизнь на станции шла своим чередом, пока я работал. Вокруг всегда бродило много людей, но, казалось, никто особо не делал. Иногда я слышал слово «слоновая кость», и это слово действительно вызывало волнение. Мужчины возбуждались при слове «слоновая кость». Для некоторых из них это было почти религией.
+
+'One evening there was a fire at the station. A hut full of calico, cotton prints and beads suddenly burst into flames. I walked <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the hut in the darkness. There were two men in front of me talking. One of them was the manager. I heard one of them say "Kurtz", and then the manager said, "take advantage of this <span class='tip-wrap' data-text='accident [Эксэдэнт] {существительное} несчастный случай'>**accident**<span class='tip-text'> </span></span>".
+
+«Однажды вечером на станции случился пожар. Изба, полная ситца, ситца и бус, вдруг загорелась. Я пошел к хижине в темноте. Передо мной разговаривали двое мужчин. Один из них был менеджером. Я услышал, как один из них сказал «Курц», а затем менеджер сказал: «Воспользуйтесь этим несчастным случаем».
+
+'I spoke to them. The manager greeted me politely, and then he walked away. The other man was an <span class='tip-wrap' data-text='agent [Ейджэнт] {существительное} средство (также агент)'>**agent**<span class='tip-text'> </span></span>. He was young, and <span class='tip-wrap' data-text='clearly [клЫрли] {наречие} очевидно'>**clearly**<span class='tip-text'> </span></span> a gentleman. We spoke for a while and then he asked me to come to his room for a drink. I accepted the invitation.
+
+«Я говорил с ними. Менеджер вежливо поприветствовал меня и ушел. Другой мужчина был агентом. Он был молод и явно джентльмен. Мы поговорили некоторое время, а затем он пригласил меня зайти к нему в комнату выпить. Я принял приглашение.
+
+'The young <span class='tip-wrap' data-text='agent [Ейджэнт] {существительное} средство (также агент)'>**agent**<span class='tip-text'> </span></span> talked quite a lot that evening. He told me that he was waiting here at the station. He really wanted a station of his own. He told me station managers could make a lot of money out of ivory. That was what he wanted.
+
+«Молодой агент довольно много говорил в тот вечер. Он сказал мне, что ждет здесь, на вокзале. Ему очень хотелось иметь собственную станцию. Он сказал мне, что менеджеры станций могут заработать много денег на слоновой кости. Это было то, чего он хотел.
+
+'He kept talking about the <span class='tip-wrap' data-text='council [кАунсэл] {существительное} совет'>**Council**<span class='tip-text'> </span></span> in Europe. As he was talking, I looked around the room. There was a <span class='tip-wrap' data-text='fine [фАйн] {прилагательное} прекрасный; тонкий'>**fine**<span class='tip-text'> </span></span> painting on the wall. It was a picture of Liberty - the woman was blindfolded and carrying a torch. I asked him who the artist was.
+
+«Он продолжал говорить о Совете Европы. Пока он говорил, я оглядел комнату. На стене висела прекрасная картина. Это была фотография Свободы — женщина с завязанными глазами и нес факел. Я спросил его, кто художник.
+
+'"Mr Kurtz," he told me.
+
+«Мистер Курц», — сказал он мне.
+
+'I had heard the name "Kurtz" several times now, and I was curious to learn about him.
+
+«Я уже несколько раз слышал имя «Курц», и мне было любопытно узнать о нем.
+
+'"Who is this Mr Kurtz?" I asked him.
+
+«Кто этот мистер Курц?» Я спросил его.
+
+'"He's the chief of the inner station," the young <span class='tip-wrap' data-text='agent [Ейджэнт] {существительное} средство (также агент)'>**agent**<span class='tip-text'> </span></span> told me. "He's a brilliant man. He represents compassion, and science, and progress. He was sent to us from Europe," he went <span class='tip-wrap' data-text='on [Ан] {наречие} вперёд; позднее; далее'>**on**<span class='tip-text'> </span></span>.
+
+«Он начальник внутренней станции», — сказал мне молодой агент. «Он блестящий человек. Он олицетворяет сострадание, науку и прогресс. Его прислали к нам из Европы», - продолжил он.
+
+"Apparently he can teach us all what we should be doing."
+
+«Очевидно, он может научить нас всех тому, что нам следует делать».
+
+'He spoke sneeringly now.
+
+— Теперь он говорил насмешливо.
+
+'"In two years' time Mr Kurtz will be a great man here. You know all about that, of course, with your contacts in the <span class='tip-wrap' data-text='council [кАунсэл] {существительное} совет'>**Council**<span class='tip-text'> </span></span>. You're part of the new team - the team of virtue!"
+
+«Через два года мистер Курц станет здесь великим человеком. Вы, конечно, все об этом знаете благодаря своим контактам в Совете. Вы часть новой команды – команды добродетели!»
+
+'It was then that I understood. The young man thought I knew everything about the company. He thought I was important. I decided to tease him a little.
+
+«Именно тогда я понял. Молодой человек думал, что я знаю о компании все. Он думал, что я важен. Я решил его немного подразнить.
+
+'"You know a lot about the company's intentions," I said sternly. "I suppose you read all the company's correspondence?"
+
+«Вы многое знаете о намерениях компании», — строго сказал я. «Полагаю, вы читали всю переписку компании?»
+
+'He did not <span class='tip-wrap' data-text='reply [рыплАй] {глагол} отвечать [3]'>**reply**<span class='tip-text'> </span></span>. He did not need to <span class='tip-wrap' data-text='reply [рыплАй] {глагол} отвечать [3]'>**reply**<span class='tip-text'> </span></span>. The answer was obvious.
+
+«Он не ответил. Ему не нужно было отвечать. Ответ был очевиден.
+
+'"When Mr Kurtz is in <span class='tip-wrap' data-text='charge [чАрдж] {существительное} обвинение (также зарядка)'>**charge**<span class='tip-text'> </span></span>, you won't read any more private correspondence," I told him.
+
+«Когда у власти будет господин Курц, вы больше не будете читать частную переписку», — сказал я ему.
+
+'We went outside for a walk. The young <span class='tip-wrap' data-text='agent [Ейджэнт] {существительное} средство (также агент)'>**agent**<span class='tip-text'> </span></span> was <span class='tip-wrap' data-text='silent [сАйлэнт] {прилагательное} тихий [3]; молчаливый [2]; немой [2]; безмолвный [2]'>**silent**<span class='tip-text'> </span></span> for a few minutes. He was <span class='tip-wrap' data-text='clearly [клЫрли] {наречие} очевидно'>**clearly**<span class='tip-text'> </span></span> thinking what he should say to me.
+
+«Мы вышли на улицу прогуляться. Молодой агент несколько минут молчал. Он явно думал, что ему сказать мне.
+
+"Tdon't want you to misunderstand me," he said after a silence. "You'll be seeing Mr Kurtz soon, and I don't want you to give him a false idea about me."
+
+«Я не хочу, чтобы вы меня неправильно поняли», — сказал он после паузы. «Вы скоро встретитесь с мистером Курцем, и я не хочу, чтобы вы дали ему обо мне ложное представление».
+
+'Now I understood everything! The young <span class='tip-wrap' data-text='agent [Ейджэнт] {существительное} средство (также агент)'>**agent**<span class='tip-text'> </span></span> had been hoping to work with the manager here. They got <span class='tip-wrap' data-text='along [элОŋ] {предлог} вдоль'>**along**<span class='tip-text'> </span></span> together,and life would have been comfortable for both of them if Mr Kurtz had not arrived. But his presence had upset everything for both of them. They felt threatened by him.
+
+«Теперь я все понял!» Молодой агент надеялся работать здесь с менеджером. Они ладили вместе, и жизнь была бы комфортной для них обоих, если бы мистер Курц не приехал. Но его присутствие все расстроило для них обоих. Они чувствовали угрозу с его стороны.
+
+'While the <span class='tip-wrap' data-text='agent [Ейджэнт] {существительное} средство (также агент)'>**agent**<span class='tip-text'> </span></span> was talking to me I was looking at the jungle around us. The moon was shining on the great river, and the country seemed huge. What were we all doing here? Could we hope to control that vastness? I thought of Mr Kurtz - he was deep inside the country somewhere.
+
+«Пока агент разговаривал со мной, я смотрел на джунгли вокруг нас. Луна светила над великой рекой, и страна казалась огромной. Что мы все здесь делали? Можем ли мы надеяться контролировать эту необъятность? Я подумал о мистере Курце - он был где-то глубоко в стране.
+
+'Then I made a decision. I did not know Mr Kurtz; he was just a name to me. But I decided to let the <span class='tip-wrap' data-text='agent [Ейджэнт] {существительное} средство (также агент)'>**agent**<span class='tip-text'> </span></span> think I was an important man with contacts back in Brussels. I thought it would help Mr Kurtz, you see.
+
+«Тогда я принял решение. Я не знал мистера Курца; для меня он был просто именем. Но я решил позволить агенту думать, что я важный человек со связями в Брюсселе. Видите ли, я думал, что это поможет мистеру Курцу.
+
+'Now the <span class='tip-wrap' data-text='agent [Ейджэнт] {существительное} средство (также агент)'>**agent**<span class='tip-text'> </span></span> was telling me that Mr Kurtz was a genius.
+
+«Теперь агент сказал мне, что мистер Курц гений.
+
+'"But even a genius needs <span class='tip-wrap' data-text='ordinary [ОрдэнЕри] {прилагательное} обычный [3]; обыкновенный [2]; простой [2]'>**ordinary**<span class='tip-text'> </span></span> men around him," he argued. "You can see that, can't you?"
+
+«Но даже гений нуждается в окружении простых людей», — утверждал он. — Ты ведь это видишь, не так ли?
+
+'"I can see it," I agreed.
+
+«Я вижу это», — согласился я.
+
+'Then I told him that what I really wanted were rivets. They were essential for repairing the steamer. I knew there were lots of rivets at the station on the <span class='tip-wrap' data-text='coast [кOуст] {существительное} побережье'>**coast**<span class='tip-text'> </span></span>. I had seen boxes of them lying around. But here, in the middle of this jungle, there were no rivets.
+
+«Тогда я сказал ему, что на самом деле мне нужны заклепки. Они были необходимы для ремонта парохода. Я знал, что на станции на берегу было много заклепок. Я видел коробки с ними, лежащие повсюду. Но здесь, посреди этих джунглей, заклепок не было.
+
+'The <span class='tip-wrap' data-text='agent [Ейджэнт] {существительное} средство (также агент)'>**agent**<span class='tip-text'> </span></span> listened to me coldly. He said that he knew nothing about rivets.
+
+«Агент выслушал меня холодно. Он сказал, что ничего не знает о заклепках.
+
+'"I just obey my orders," he told me.
+
+«Я просто подчиняюсь своим приказам», — сказал он мне.
+
+'I thought that meant he would order rivets for me, because he imagined I was an important man in the company. I thought I had won a victory - but I had misunderstood the man. He meant that he only obeyed the manager's orders - and the manager did not want the steamer to be repaired quickly.
+
+«Я думал, что это означает, что он закажет мне заклепки, потому что он воображал, что я важный человек в компании. Я думал, что одержал победу, но я неправильно понял этого человека. Он имел в виду, что лишь подчинялся приказам управляющего – а управляющий не хотел, чтобы пароход быстро отремонтировали.
+
+'Then he began to talk about a hippopotamus that lived near the river. He asked me if I was frightened of the animal when I slept out on the steamer. He said the men had tried to shoot it several times, but had never succeeded.
+
+«Затем он начал рассказывать о бегемоте, который жил недалеко от реки. Он спросил меня, боюсь ли я этого животного, когда спал на пароходе. Он сказал, что мужчины несколько раз пытались выстрелить в него, но безуспешно.
+
+'"That animal has a charmed life," he told me. Then he gave me a significant look. "Only animals have a charmed life here in Africa. Human beings do not. Do you understand me?"
+
+«У этого животного очаровательная жизнь», — сказал он мне. Затем он многозначительно посмотрел на меня. «Здесь, в Африке, только у животных есть очаровательная жизнь. У людей нет. Вы меня понимаете?»
+
+'The <span class='tip-wrap' data-text='agent [Ейджэнт] {существительное} средство (также агент)'>**agent**<span class='tip-text'> </span></span> looked at me silently for a few seconds more, and then he went away.'
+
+«Агент молча смотрел на меня еще несколько секунд, а затем ушел».
+
+CHAPTER FOUR
+
+ГЛАВА ЧЕТВЕРТАЯ
+
+I went back on board the steamer and talked to the boiler-maker. We got <span class='tip-wrap' data-text='along [элОŋ] {наречие} с собой; вперед'>**along**<span class='tip-text'> </span></span> well together, and he was a good worker. '"We'll get the rivets!" I told him.
+
+Я вернулся на пароход и поговорил с изготовителем котлов. Мы хорошо ладили вместе, и он был хорошим работником. «Мы достанем заклепки!» Я сказал ему.
+
+'"No!" he cried in great delight. "Rivets at last!"
+
+'"Нет!" - воскликнул он в большом восторге. «Наконец-то заклепки!»
+
+'We were both so happy at the <span class='tip-wrap' data-text='thought [θОт] {существительное} мысль'>**thought**<span class='tip-text'> </span></span> of having some real work to do that we began to dance around the <span class='tip-wrap' data-text='deck [дЕк] {существительное} палуба [3]; колода [2]; настил [2]'>**deck**<span class='tip-text'> </span></span> like madmen. We made a lot of noise.
+
+«Мы оба были так счастливы при мысли о том, что нам предстоит по-настоящему поработать, что начали танцевать по палубе, как сумасшедшие. Мы наделали много шума.
+
+'"In three weeks," I told him. "They'll arrive in about three weeks."
+
+«Через три недели», — сказал я ему. «Они прибудут примерно через три недели».
+
+'But they did not arrive. Something else arrived instead. It was the Eldorado Expedition. This consisted of little groups of men who arrived at the station. There was always a white man in <span class='tip-wrap' data-text='charge [чАрдж] {существительное} обвинение (также зарядка)'>**charge**<span class='tip-text'> </span></span>. He sat on a donkey and gave orders to the <span class='tip-wrap' data-text='native [нЕйтыв] {прилагательное} родной'>**native**<span class='tip-text'> </span></span> carriers who accompanied him. Five little groups like that arrived. They were ivory hunters, and they were greedy for money. They knew nothing about Africa, and they cared nothing for African people. They just wanted ivory, and the money they could earn from it. They were like men on a pilgrimage - a pilgrimage for ivory.
+
+— Но они не прибыли. Вместо этого пришло что-то другое. Это была экспедиция Эльдорадо. Он состоял из небольших групп мужчин, прибывших на станцию. Главным всегда был белый человек. Он сидел на осле и отдавал приказы сопровождавшим его туземным носильщикам. Прибыло пять таких маленьких групп. Они были охотниками за слоновой костью и были жадными до денег. Они ничего не знали об Африке и не заботились об африканцах. Им просто нужна была слоновая кость и деньги, которые они могли на ней заработать. Они были подобны людям, совершившим паломничество – паломничество за слоновой костью.
+
+'One of the pilgrims was the station manager's <span class='tip-wrap' data-text='uncle [Аŋкэл] {существительное} дядя [3]; дядька [2]'>**uncle**<span class='tip-text'> </span></span>. He was a <span class='tip-wrap' data-text='fat [фЭт] {прилагательное} толстый [2]; жирный [2]; тучный [2]; упитанный [1]; откормленный [1]; сальный [1]; богатый [1]; плодородный [1]; доходный [1]; маслянистый [1]; обильный [1]; выгодный [1]; тупоумный [1]; глупый [1]'>**fat**<span class='tip-text'> </span></span> man. He looked dishonest and cunning. He talked to no one <span class='tip-wrap' data-text='except [ыксЕпт] {предлог} кроме'>**except**<span class='tip-text'> </span></span> the manager.
+
+— Одним из паломников был дядя начальника станции. Он был толстым человеком. Он выглядел нечестным и хитрым. Он ни с кем не разговаривал, кроме менеджера.
+
+'There were no rivets for our steamer. I watched the ivory hunters with disgust. I sometimes thought about Mr Kurtz. He, at <span class='tip-wrap' data-text='least [лИст] {наречие} наименее'>**least**<span class='tip-text'> </span></span>, had come to Africa with some moral idea to give him strength. I wondered if his moral ideas were as strong now as they had been at first.
+
+«На нашем пароходе не было заклепок. Я с отвращением наблюдал за охотниками за слоновой костью. Иногда я думал о мистере Курце. По крайней мере, он приехал в Африку с какой-то моральной идеей, которая придала бы ему сил. Я задавался вопросом, стали ли его моральные идеи сейчас такими же сильными, как вначале.
+
+'One evening I was lying on the <span class='tip-wrap' data-text='deck [дЕк] {существительное} палуба [3]; колода [2]; настил [2]'>**deck**<span class='tip-text'> </span></span> of the steamer. Suddenly I heard two men talking - the manager and his <span class='tip-wrap' data-text='uncle [Аŋкэл] {существительное} дядя [3]; дядька [2]'>**uncle**<span class='tip-text'> </span></span>. I heard the manager complaining about something.
+
+«Однажды вечером я лежал на палубе парохода. Внезапно я услышал разговор двух мужчин — менеджера и его дяди. Я слышал, как менеджер на что-то жаловался.
+
+"Tm not a dangerous man, but I'm not used to being given orders. I'm the manager here, after all."
+
+«Я не опасный человек, но я не привык, чтобы мне приказывали. В конце концов, я здесь менеджер».
+
+'"Quite right," the <span class='tip-wrap' data-text='uncle [Аŋкэл] {существительное} дядя [3]; дядька [2]'>**uncle**<span class='tip-text'> </span></span> agreed. "It is unpleasant. But perhaps the <span class='tip-wrap' data-text='climate [клАймэт] {существительное} климат [3]; атмосфера [2]'>**climate**<span class='tip-text'> </span></span> will get rid of him for you. He's <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span> out there, isn't he?"
+
+«Совершенно верно», — согласился дядя. «Это неприятно. Но, возможно, климат избавит вас от него. Он там один, не так ли?»
+
+'There was a pause, and then the <span class='tip-wrap' data-text='uncle [Аŋкэл] {существительное} дядя [3]; дядька [2]'>**uncle**<span class='tip-text'> </span></span> spoke again.
+
+— Последовала пауза, а затем дядя снова заговорил.
+
+'"What else?"
+
+'"Что еще?"
+
+'"He sends more ivory than anyone else," the manager replied.
+
+«Он присылает больше слоновой кости, чем кто-либо другой», — ответил менеджер.
+
+"He doesn't come himself. He sends a clerk to deliver the ivory. Nobody's ever done that before!"
+
+«Сам он не приходит. Он посылает клерка доставить слоновую кость. Никто раньше этого не делал!»
+
+'I realised they were talking about Mr Kurtz. I began to listen very <span class='tip-wrap' data-text='carefully [кЕрфэли] {наречие} бережно'>**carefully**<span class='tip-text'> </span></span> to their conversation now.
+
+«Я понял, что они говорили о мистере Курце. Теперь я стал очень внимательно прислушиваться к их разговору.
+
+'"The clerk says that he's been very ill," the manager now said.
+
+«Клерк говорит, что он очень болен», — сказал теперь менеджер.
+
+'"You'll outlast him," the <span class='tip-wrap' data-text='fat [фЭт] {прилагательное} толстый [2]; жирный [2]; тучный [2]; упитанный [1]; откормленный [1]; сальный [1]; богатый [1]; плодородный [1]; доходный [1]; маслянистый [1]; обильный [1]; выгодный [1]; тупоумный [1]; глупый [1]'>**fat**<span class='tip-text'> </span></span> man said. "You never get ill."
+
+«Ты его переживешь», — сказал толстяк. «Ты никогда не болеешь».
+
+'They wandered away from the steamer, and I could not hear what they were saying. Then they wandered back again, and they seemed to be talking about something else. The manager was saying, "No one, as far as I know - <span class='tip-wrap' data-text='except [ыксЕпт] {предлог} кроме'>**except**<span class='tip-text'> </span></span> for some fool of a wandering trader. He's got nothing to do with the company at all. There won't be fair competition <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> we <span class='tip-wrap' data-text='hang [хЭŋ] {глагол} висеть'>**hang**<span class='tip-text'> </span></span> those fellows."
+
+«Они отошли от парохода, и я не слышал, что они говорили. Потом они снова пошли обратно и, казалось, говорили о чем-то другом. Управляющий говорил: «Насколько мне известно, никто, кроме какого-то дурака-бродячего торговца. Он вообще не имеет никакого отношения к компании. Честной конкуренции не будет, пока мы не повесим этих ребят».
+
+'"Certainly," the <span class='tip-wrap' data-text='uncle [Аŋкэл] {существительное} дядя [3]; дядька [2]'>**uncle**<span class='tip-text'> </span></span> agreed. "Get him hanged. Why not, we can do anything in this country."
+
+«Конечно», — согласился дядя. «Повесьте его. Почему бы и нет, в этой стране мы можем сделать все что угодно».
+
+'Now they wandered away from the steamer again, and their voices became indistinct. When they came back I heard the manager talking:
+
+«Теперь они снова отошли от парохода, и голоса их стали неразборчивы. Когда они вернулись, я услышал, как менеджер говорил:
+
+'"All these delays are not my fault."
+
+«Все эти задержки не моя вина».
+
+'"It's very sad," the <span class='tip-wrap' data-text='uncle [Аŋкэл] {существительное} дядя [3]; дядька [2]'>**uncle**<span class='tip-text'> </span></span> said with a deep sigh. "But a man <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span> out there - what chance has he got?" Then his voice became suddenly cheerful. "<span class='tip-wrap' data-text='trust [трАст] {глагол} доверять'>**Trust**<span class='tip-text'> </span></span> the <span class='tip-wrap' data-text='climate [клАймэт] {существительное} климат [3]; атмосфера [2]'>**climate**<span class='tip-text'> </span></span>, my boy. That's what I say - trust the <span class='tip-wrap' data-text='climate [клАймэт] {существительное} климат [3]; атмосфера [2]'>**climate**<span class='tip-text'> </span></span>!"
+
+«Это очень грустно», — сказал дядя с глубоким вздохом. «Но человек там один – какой у него шанс?» Затем его голос внезапно стал веселым. «Доверяй климату, мой мальчик. Вот что я говорю — доверяй климату!»
+
+'A few days later the Eldorado Expedition disappeared into the jungle. We heard, <span class='tip-wrap' data-text='much [мАч] {наречие} много; гораздо'>**much**<span class='tip-text'> </span></span> later, that all of their donkeys died in the jungle. I didn't know what happened to the men and their ivory. I didn't ask. The rivets had arrived by then, and I was excited at the prospect of meeting Kurtz very soon.'
+
+«Несколько дней спустя экспедиция Эльдорадо исчезла в джунглях. Намного позже мы услышали, что все их ослы погибли в джунглях. Я не знал, что случилось с мужчинами и их слоновой костью. Я не спрашивал. К тому времени уже были доставлены заклепки, и я был воодушевлен перспективой очень скорой встречи с Курцем».
+
+CHAPTER FIVE
+
+ГЛАВА ПЯТАЯ
+
+Of course it was not "very soon" before I met Kurtz. The Oj <span class='tip-wrap' data-text='journey [джЭрни] {существительное} путешествие [3]; поездка [2]'>**journey**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='up [Ап] {предлог} в; на; по направлению к'>**up**<span class='tip-text'> </span></span> the river took two months. It was like travelling back in time to the beginning of the world, to a time when there was just forest and trees.
+
+Конечно, это произошло не «очень скоро», прежде чем я встретил Курца. Путешествие Оджа вверх по реке заняло два месяца. Это было похоже на путешествие во времени, к началу мира, во времена, когда там был только лес и деревья.
+
+'The river was wide but shallow, so it was always difficult to find the deep channel for the steamer. There were little islands of sand in the middle of the river, and there was the constant TJ danger of running aground on them. Sometimes the steamer did touch the bottom of the river. Then the cannibals we had taken on as crew had to get out and push her <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> it. They were <span class='tip-wrap' data-text='fine [фАйн] {прилагательное} прекрасный; тонкий'>**fine**<span class='tip-text'> </span></span> fellows, those cannibals. They worked hard, and they didn't eat each other while they were on board the steamer.
+
+«Река была широкая, но мелкая, поэтому всегда было трудно найти глубокое русло для парохода. Посреди реки были небольшие песчаные островки, и Ти-Джею постоянно угрожала опасность сесть на мель. Иногда пароход все же касался дна реки. Тогда каннибалам, которых мы взяли в команду, пришлось выбраться и протолкнуть ее через это. Молодцы они были, эти каннибалы. Они много работали и не ели друг друга, пока находились на пароходе.
+
+'The manager and three or four pilgrims were also on board with us. We drifted together <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> that huge silence, surrounded by millions of great trees. It was a <span class='tip-wrap' data-text='strange [стрЕйндж] {прилагательное} странный; чужой'>**strange**<span class='tip-text'> </span></span> experience.
+
+«С нами на борту также находились управляющий и три или четыре паломника. Мы вместе плыли сквозь эту огромную тишину, окруженную миллионами огромных деревьев. Это был странный опыт.
+
+Sometimes we saw a little trading station on the riverbank. They were miserable places, just a <span class='tip-wrap' data-text='broken [брOукэн] {прилагательное} сломанный [3]; разбитый [2]'>**broken**<span class='tip-text'> </span></span>-down building and a few white men occupying it. The men would run out excitedly when they saw the steamer. They called out to us, and the men on board would <span class='tip-wrap' data-text='shout [шАут] {глагол} кричать [3]'>**shout**<span class='tip-text'> </span></span> out the word "ivory" a few times.
+
+Иногда мы видели на берегу реки небольшую торговую станцию. Это были жалкие места: просто полуразрушенное здание и несколько белых людей, населявших его. Мужчины взволнованно выбегали, увидев пароход. Они окликнули нас, и люди на борту несколько раз выкрикивали слово «слоновая кость».
+
+'Sometimes the silence of the forest was broken by the sound of drums in the interior. We never knew what the drums meant - war, peace or prayer. Sometimes we rounded a bend in the river and saw a <span class='tip-wrap' data-text='native [нЕйтыв] {прилагательное} родной'>**native**<span class='tip-text'> </span></span> village on the riverbank. Then we would see black people dancing and shouting. We didn't know if they were welcoming us or cursing us. We would watch for a few minutes <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> the steamer rounded the next bend and the village disappeared from <span class='tip-wrap' data-text='sight [сАйт] {существительное} взгляд (также зрение)'>**sight**<span class='tip-text'> </span></span>.
+
+«Иногда тишину леса нарушал звук барабанов внутри. Мы никогда не знали, что означают барабаны – войну, мир или молитву. Иногда мы обходили излучину реки и видели на берегу родную деревню. Потом мы видели, как чернокожие танцуют и кричат. Мы не знали, приветствовали они нас или ругали. Мы наблюдали несколько минут, пока пароход не завернул за следующий поворот и деревня не исчезла из виду.
+
+'We were in the middle of this huge primitive world and we didn't understand anything about it. We had no way of understanding the people or the way they lived. Everything seemed ugly and frightening to us, but at the same time the people were like us. It was that common humanity that excited me.
+
+«Мы находились посреди этого огромного первобытного мира и ничего о нем не понимали. У нас не было возможности понять людей и образ их жизни. Нам все казалось некрасивым и пугающим, но в то же время люди были похожи на нас. Меня волновала именно эта человечность.
+
+'The steamer's fireman was one of the savages. He came from a cannibal tribe, and he had ceremonial scars on his cheeks. But he had learned something from us. He watched the steam gauge and the water gauge all day, and he knew what to do when the pressure changed. He was good at his job, but I don't think he understood anything about it really. I think he saw the boiler as an angry devil that would <span class='tip-wrap' data-text='surely [шУрли] {наречие} конечно [3]; несомненно [3]; уверенно [2]; обязательно [2]; верно [2]; непременно [2]; наверное [2]; разумеется [2]; надежно [2]'>**surely**<span class='tip-text'> </span></span> explode if he didn't watch the gauges <span class='tip-wrap' data-text='properly [прАпэрли] {наречие} правильно [3]; должным образом [3]; собственно [2]; как следует [2]'>**properly**<span class='tip-text'> </span></span>.
+
+— Пожарный парохода был одним из дикарей. Он происходил из племени каннибалов, и на щеках у него были церемониальные шрамы. Но он кое-чему у нас научился. Он весь день следил за датчиком пара и воды и знал, что делать, когда давление изменится. Он хорошо справлялся со своей работой, но я не думаю, что он действительно что-то в ней понимал. Я думаю, он видел в котле разъяренного дьявола, который наверняка взорвется, если он не будет внимательно следить за приборами.
+
+'About fifty miles from Kurtz's station we saw a hut on the riverbank. There was a <span class='tip-wrap' data-text='flag [флЭг] {существительное} флаг [3]; флажок [2]; знамя [2]; признак [2]'>**flag**<span class='tip-text'> </span></span> flying from a stick nearby, and a neatly stacked pile of wood. We came in closer to have a look, and there was a message on the firewood. The message was for us. It read: "Wood for you. Hurry up. <span class='tip-wrap' data-text='approach [эпрOуч] {существительное} подход; приближение'>**Approach**<span class='tip-text'> </span></span> cautiously." There was a signature, but we could not read it. It was not Kurtz - the name was a <span class='tip-wrap' data-text='much [мАч] {наречие} много; гораздо'>**much**<span class='tip-text'> </span></span> longer one.
+
+«Примерно в пятидесяти милях от станции Курца мы увидели хижину на берегу реки. Рядом висел флаг, развевающийся на палке, и аккуратно сложенная стопка дров. Мы подошли поближе, чтобы посмотреть, и на дровах было сообщение. Сообщение было для нас. Там было написано: «Дрова для тебя. Поторопись. Подойди осторожно». Подпись была, но мы не смогли ее прочитать. Это был не Курц — имя было гораздо длиннее.
+
+'We tried to work out what the message meant. "Hurry up." That seemed to indicate there was trouble further <span class='tip-wrap' data-text='up [Ап] {предлог} в; на; по направлению к'>**up**<span class='tip-text'> </span></span> the river. Something was obviously wrong, but we didn't know what it was, or how serious it was. And then "<span class='tip-wrap' data-text='approach [эпрOуч] {существительное} подход; приближение'>**Approach**<span class='tip-text'> </span></span> cautiously". What could that mean?
+
+«Мы попытались понять, что означает это сообщение. "Торопиться." Казалось, это указывало на то, что дальше по реке возникли проблемы. Что-то явно было не так, но мы не знали, что это было и насколько это серьезно. А затем «Подойди осторожно». Что это может значить?
+
+'I <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> an old book in the <span class='tip-wrap' data-text='broken [брOукэн] {прилагательное} сломанный [3]; разбитый [2]'>**broken**<span class='tip-text'> </span></span>-down hut. It was an English book about seamanship, full of calculations and tables. The book was about sixty years old. It was an <span class='tip-wrap' data-text='extraordinary [ЕкстрэОрдэнЕри] {прилагательное} внеочередной [2]; чрезвычайный [2]; экстраординарный [2]; необычный [2]; исключительный [2]; необычайный [2]; удивительный [2]; выдающийся [2]; незаурядный [1]; странный [1]; внеплановый [1]'>**extraordinary**<span class='tip-text'> </span></span> thing to find there in the middle of all that jungle! Someone had written notes in the margin of the book in a kind of code. It was a <span class='tip-wrap' data-text='mystery [мЫстэри] {существительное} тайна [3]; таинство [2]; мистерия [2]; детективный роман [2]'>**mystery**<span class='tip-text'> </span></span> to me, and I took the book away with me.
+
+«В разрушенной хижине я нашел старую книгу. Это была английская книга о мореплавании, полная расчетов и таблиц. Книге было около шестидесяти лет. Это была невероятная вещь — найти здесь, посреди джунглей! Кто-то сделал заметки на полях книги в виде шифра. Для меня это было загадкой, и я взял книгу с собой.
+
+'Late the next afternoon we were about eight miles from Kurtz's station. I wanted to go <span class='tip-wrap' data-text='on [Ан] {наречие} вперёд; позднее; далее'>**on**<span class='tip-text'> </span></span>, but the manager said it was too dangerous. He said the river was difficult there, and he reminded me of the message to "approach cautiously". He said he would <span class='tip-wrap' data-text='rather [рЭðэр] {наречие} скорее; довольно'>**rather**<span class='tip-text'> </span></span> arrive in daylight.
+
+— На следующий день поздно вечером мы были примерно в восьми милях от станции Курца. Я хотел продолжить, но тренер сказал, что это слишком опасно. Он сказал, что река там сложная, и напомнил мне о совете «приближаться осторожно». Он сказал, что предпочел бы приехать днем.
+
+'I put the steamer in the middle of the river for the night, and we anchored there to be safe. When the sun rose in the morning we were surrounded by a dense white fog. It was very warm and we couldn't see anything.
+
+«Я поставил пароход на ночь посреди реки, и мы бросили там якорь на всякий случай. Когда утром взошло солнце, нас окружил густой белый туман. Было очень тепло, и мы ничего не видели.
+
+'The fog suddenly lifted and we saw the trees on the riverbanks. I gave the order to <span class='tip-wrap' data-text='raise [рЕйз] {глагол} поднимать'>**raise**<span class='tip-text'> </span></span> the anchor. As the men were pulling up the chain, the fog came down again. The riverbanks and trees disappeared from <span class='tip-wrap' data-text='sight [сАйт] {существительное} взгляд (также зрение)'>**sight**<span class='tip-text'> </span></span>. I ordered the men to lower the anchor chain again.
+
+«Туман внезапно рассеялся, и мы увидели деревья на берегах реки. Я отдал приказ поднять якорь. Когда люди тянули цепь, туман снова опустился. Берега реки и деревья исчезли из виду. Я приказал людям снова спустить якорную цепь.
+
+'Suddenly we heard a cry from the riverbank. Then there was noise all around us. Hundreds of voices were shrieking in a <span class='tip-wrap' data-text='terrible [тЕрэбэл] {прилагательное} страшный'>**terrible**<span class='tip-text'> </span></span> way. The noise went on for a while, and then it stopped as suddenly as it had started.
+
+«Внезапно мы услышали крик с берега реки. Потом вокруг нас послышался шум. Сотни голосов ужасно визжали. Шум продолжался некоторое время, а затем прекратился так же внезапно, как и начался.
+
+'It was appalling to hear that dreadful noise, followed by complete silence. Some of the pilgrims on board the steamer ran into the little cabin to fetch their Winchesters.'
+
+«Было ужасно слышать этот ужасный шум, за которым последовала полная тишина. Некоторые из паломников на пароходе побежали в маленькую каюту за своими Винчестерами».
+
+CHAPTER SIX
+
+ГЛАВА ШЕСТАЯ
+
+Are they going to attack?" someone asked in a whisper.
+
+Они собираются напасть? - спросил кто-то шепотом.
+
+'"They'll kill us all if they do," someone replied. "We can't see anything in this fog."
+
+«Если они это сделают, они нас всех убьют», — ответил кто-то. «В этом тумане мы ничего не видим».
+
+'We all peered anxiously into the fog, but it was impossible to see anything. It was interesting to see the different reactions of the black and white men on board. The white men were <span class='tip-wrap' data-text='clearly [клЫрли] {наречие} очевидно'>**clearly**<span class='tip-text'> </span></span> shocked by the awful noise and the <span class='tip-wrap' data-text='sudden [сАдэн] {прилагательное} внезапный [3]; неожиданный [2]'>**sudden**<span class='tip-text'> </span></span> silence. The natives were calmer. They did not seem frightened.
+
+«Мы все с тревогой вглядывались в туман, но ничего разглядеть было невозможно. Было интересно наблюдать за разной реакцией чернокожих и белых мужчин на борту. Белые люди были явно потрясены ужасным шумом и внезапной тишиной. Туземцы были спокойнее. Они не выглядели напуганными.
+
+'One of the cannibals was standing near me, and I looked at him in a friendly way. He grinned at me.
+
+«Один из каннибалов стоял рядом со мной, и я дружелюбно посмотрел на него. Он ухмыльнулся мне.
+
+'"Catch them," he said. "Catch them and give them to us."
+
+«Поймайте их», — сказал он. «Поймайте их и отдайте нам».
+
+'"What will you do with them?"
+
+«Что ты с ними будешь делать?»
+
+'"Eat them," he replied quickly.
+
+«Ешьте их», — быстро ответил он.
+
+'I was not as shocked as I <span class='tip-wrap' data-text='might [мАйт] {глагол} может быть'>**might**<span class='tip-text'> </span></span> have been. The cannibals had been eating dried meat all the time they were with us, and they must have been hungry. Besides, they were part of this primitive world we were travelling <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span>. Eating people was their custom. I don't know why they had left us <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span>. There were thirty of them on the steamer, and only a handful of us. I looked at them with interest now. What human secret had stopped them from attacking us and eating us?
+
+«Я не был так шокирован, как мог бы. Каннибалы все время, пока были с нами, ели сушеное мясо и, должно быть, были голодны. Кроме того, они были частью того примитивного мира, по которому мы путешествовали. Поедание людей было их обычаем. Я не знаю, почему они оставили нас в покое. На пароходе их было тридцать человек, а нас — всего несколько человек. Теперь я смотрел на них с интересом. Какая человеческая тайна помешала им напасть на нас и съесть?
+
+'"It's very serious," the manager said to me <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span>. "It would be <span class='tip-wrap' data-text='terrible [тЕрэбэл] {прилагательное} страшный'>**terrible**<span class='tip-text'> </span></span> if anything happened to Mr Kurtz before we could help him."
+
+«Это очень серьезно», — тихо сказал мне менеджер. «Было бы ужасно, если бы с мистером Курцем что-нибудь случилось прежде, чем мы смогли бы ему помочь».
+
+'He said we should move on to Kurtz's station as soon as we could. 'I did not <span class='tip-wrap' data-text='reply [рыплАй] {глагол} отвечать [3]'>**reply**<span class='tip-text'> </span></span> to him. He knew that we could not move in the fog.
+
+— Он сказал, что нам следует как можно скорее отправиться на станцию Курца. «Я не ответил ему. Он знал, что мы не сможем двигаться в тумане.
+
+"Tm giving you permission to take all the risks that are necessary," he said <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span>.
+
+«Я разрешаю вам принять на себя весь необходимый риск», — тихо сказал он.
+
+"Tm not taking any risks," I said firmly.
+
+«Я не рискую», — твердо сказал я.
+
+'"Well, I must accept what you decide. You're the <span class='tip-wrap' data-text='captain [кЭптэн] {существительное} капитан [3]; капитан команды [2]'>**captain**<span class='tip-text'> </span></span>," he said <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span>.
+
+— Что ж, я должен принять ваше решение. Вы капитан, — тихо сказал он.
+
+'Now I spoke to everyone on the steamer. I told them what I thought. The natives could not attack us from their canoes. They could not see in the fog, any more than we could. They did not seem aggressive, I told them. It was more as if the <span class='tip-wrap' data-text='sight [сАйт] {существительное} взгляд (также зрение)'>**sight**<span class='tip-text'> </span></span> of the steamer had made them sad. That <span class='tip-wrap' data-text='terrible [тЕрэбэл] {прилагательное} страшный'>**terrible**<span class='tip-text'> </span></span> noise they had made seemed more like an outburst of grief than aggression.
+
+«Теперь я поговорил со всеми на пароходе. Я сказал им, что думаю. Туземцы не могли напасть на нас со своих каноэ. Они не могли видеть в тумане, как и мы. Я сказал им, что они не кажутся агрессивными. Скорее всего, вид парохода их огорчил. Тот ужасный шум, который они издали, больше походил на вспышку горя, чем на агрессию.
+
+'We waited there and the fog lifted. Still nothing happened. Then we <span class='tip-wrap' data-text='set [сЕт] {глагол} устанавливать'>**set**<span class='tip-text'> </span></span> off again <span class='tip-wrap' data-text='up [Ап] {предлог} в; на; по направлению к'>**up**<span class='tip-text'> </span></span> the river. About two hours later, we were just over a mile from Kurtz's station. There was a narrow island in the middle of the river, and I could not decide whether to go to the left of it or to the right. The water seemed the same depth on both sides. I took the left channel because I knew the trading station was on that side of the river.
+
+«Мы ждали там, и туман рассеялся. По-прежнему ничего не произошло. Затем мы снова отправились вверх по реке. Примерно через два часа мы были чуть более чем в миле от станции Курца. Посреди реки находился узкий остров, и я не мог решить, идти ли ему налево или направо. Вода казалась одинаковой глубины с обеих сторон. Я выбрал левый канал, потому что знал, что торговая станция находится на том берегу реки.
+
+'We went very close to the riverbank. The <span class='tip-wrap' data-text='native [нЕйтыв] {прилагательное} родной'>**native**<span class='tip-text'> </span></span> helmsman was steering the steamer. There was another <span class='tip-wrap' data-text='native [нЕйтыв] {прилагательное} родной'>**native**<span class='tip-text'> </span></span> with a long <span class='tip-wrap' data-text='wooden [уУдэн] {прилагательное} деревянный [3]'>**wooden**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='pole [пOул] {существительное} полюс [3]; шест [2]; столб [2]'>**pole**<span class='tip-text'> </span></span> on the <span class='tip-wrap' data-text='deck [дЕк] {существительное} палуба [3]; колода [2]; настил [2]'>**deck**<span class='tip-text'> </span></span> whose job was to push the <span class='tip-wrap' data-text='pole [пOул] {существительное} полюс [3]; шест [2]; столб [2]'>**pole**<span class='tip-text'> </span></span> into the water, to find out how deep the river was. Suddenly the <span class='tip-wrap' data-text='pole [пOул] {существительное} полюс [3]; шест [2]; столб [2]'>**pole**<span class='tip-text'> </span></span>-man <span class='tip-wrap' data-text='lay [лЕй] {глагол} лежать'>**lay**<span class='tip-text'> </span></span> down on the <span class='tip-wrap' data-text='deck [дЕк] {существительное} палуба [3]; колода [2]; настил [2]'>**deck**<span class='tip-text'> </span></span>, leaving the <span class='tip-wrap' data-text='wooden [уУдэн] {прилагательное} деревянный [3]'>**wooden**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='pole [пOул] {существительное} полюс [3]; шест [2]; столб [2]'>**pole**<span class='tip-text'> </span></span> in the water. He held on to the end of the <span class='tip-wrap' data-text='pole [пOул] {существительное} полюс [3]; шест [2]; столб [2]'>**pole**<span class='tip-text'> </span></span>, and it floated after us in the water. At the same moment I saw the fireman sit down quickly in front of the fire. I was amazed.
+
+«Мы подошли очень близко к берегу реки. Управлял пароходом туземный рулевой. На палубе стоял еще один туземец с длинным деревянным шестом, задача которого заключалась в том, чтобы опустить шест в воду, чтобы узнать, насколько глубока река. Внезапно шестовик лег на палубу, оставив деревянный шест в воде. Он держался за конец шеста, и тот поплыл за нами по воде. В тот же момент я увидел, как пожарный быстро сел перед огнем. Я был удивлен.
+
+'I looked away at the river, and I could see lots of little sticks flying <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> us. The air was thick with them, and they made a noise as they flew <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> us. Then I realised what they were - arrows! We were being attacked from the riverbank.
+
+«Я посмотрел на реку и увидел множество маленьких палочек, летящих к нам. Воздух был густым от них, и они с шумом летели к нам. Потом я понял, что это были за стрелы! Нас атаковали с берега реки.
+
+'I stepped quickly up to the helmsman. He was holding the <span class='tip-wrap' data-text='wheel [уИл] {существительное} колесо [3]; колесико [2]; велосипед [2]; круг [2]'>**wheel**<span class='tip-text'> </span></span>, but he was making <span class='tip-wrap' data-text='strange [стрЕйндж] {прилагательное} странный; чужой'>**strange**<span class='tip-text'> </span></span> gestures with his legs and mouth. Then I saw a dark face hidden in the trees. The face looked fiercely at me. I looked again, and I could see a lot of dark shapes among the trees.
+
+— Я быстро подошел к рулевому. Он держал руль, но делал странные жесты ногами и ртом. Затем я увидел темное лицо, спрятанное среди деревьев. Лицо свирепо посмотрело на меня. Я посмотрел еще раз и увидел среди деревьев множество темных фигур.
+
+'"Steer <span class='tip-wrap' data-text='properly [прАпэрли] {наречие} правильно [3]; должным образом [3]; собственно [2]; как следует [2]'>**properly**<span class='tip-text'> </span></span>," I told the helmsman. "You've gone too close to the riverbank."
+
+«Рулите правильно», — сказал я рулевому. «Вы подошли слишком близко к берегу реки».
+
+'The helmsman ignored me. He kept on holding the <span class='tip-wrap' data-text='wheel [уИл] {существительное} колесо [3]; колесико [2]; велосипед [2]; круг [2]'>**wheel**<span class='tip-text'> </span></span> and making those peculiar movements of his legs. The pilgrims began to shoot into the jungle. There was noise and <span class='tip-wrap' data-text='smoke [смOук] {существительное} дым [3]; курение [2]; дымок [2]'>**smoke**<span class='tip-text'> </span></span> from their Winchesters.
+
+«Рулевой проигнорировал меня. Он продолжал держать руль и совершать странные движения ногами. Паломники начали стрелять в джунгли. От их Винчестеров стоял шум и дым.
+
+ 'The helmsman dropped the <span class='tip-wrap' data-text='wheel [уИл] {существительное} колесо [3]; колесико [2]; велосипед [2]; круг [2]'>**wheel**<span class='tip-text'> </span></span> and picked up a rifle. He, too, began firing out of the cabin. Then something large flew into the cabin. The helmsman dropped his rifle, and stepped back quickly. He looked at me for a long moment, and then fell at my feet. There was a spear in his side. His blood ran over my shoes.
+
+— Рулевой бросил штурвал и взял винтовку. Он тоже начал стрелять из кабины. Затем в кабину влетело что-то большое. Рулевой бросил винтовку и быстро отступил назад. Он долго смотрел на меня, а затем упал к моим ногам. В его боку было копье. Его кровь текла по моим ботинкам.
+
+'I grabbed the <span class='tip-wrap' data-text='wheel [уИл] {существительное} колесо [3]; колесико [2]; велосипед [2]; круг [2]'>**wheel**<span class='tip-text'> </span></span> and steered <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the middle of the river. Then I reached for the line of the steam whistle and pulled it hard. The whistle screeched out noisily. The arrows stopped instantly. There was a <span class='tip-wrap' data-text='sudden [сАдэн] {прилагательное} внезапный [3]; неожиданный [2]'>**sudden**<span class='tip-text'> </span></span> and complete silence in the forest. The natives stopped shouting. They began to cry out sadly, as if the noise of the whistle was a great grief to them.
+
+«Я схватил руль и направился к середине реки. Затем я дотянулся до линии парового свистка и сильно потянул за нее. Свисток громко завизжал. Стрелы мгновенно остановились. В лесу внезапно наступила полная тишина. Туземцы перестали кричать. Они начали грустно кричать, как будто шум свистка был для них большим горем.
+
+'One of the pilgrims came into the cabin. He looked in shock at the helmsman lying at my feet. The black man stared at us both for a moment or two, and then he died without a word.
+
+«Один из паломников вошел в хижину. Он в шоке посмотрел на рулевого, лежавшего у моих ног. Чернокожий мужчина мгновение или две смотрел на нас обоих, а затем умер, не сказав ни слова.
+
+'"He's dead," the hunter said <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span>.
+
+— Он мертв, — тихо сказал охотник.
+
+'"Yes," I replied. "And I expect Mr Kurtz is dead by now, as well." 'I was disappointed at the <span class='tip-wrap' data-text='thought [θОт] {существительное} мысль'>**thought**<span class='tip-text'> </span></span> of Kurtz's death. I realised that I had wanted to talk to him. I had heard he was the best ivory <span class='tip-wrap' data-text='agent [Ейджэнт] {существительное} средство (также агент)'>**agent**<span class='tip-text'> </span></span> in the region, but I had also been told that he was a man with ideas. I was saddened to think I would never hear those ideas of his now.'
+
+«Да», — ответил я. «И я ожидаю, что мистер Курц тоже уже мертв». «Я был разочарован мыслью о смерти Курца. Я понял, что хотел с ним поговорить. Я слышал, что он был лучшим агентом из слоновой кости в регионе, но мне также говорили, что у него были идеи. Мне было грустно думать, что я больше никогда не услышу эти его идеи».
+
+Here Marlow broke off his story to look at us as we <span class='tip-wrap' data-text='lay [лЕй] {глагол} лежать'>**lay**<span class='tip-text'> </span></span> on the <span class='tip-wrap' data-text='deck [дЕк] {существительное} палуба [3]; колода [2]; настил [2]'>**deck**<span class='tip-text'> </span></span> of the Nellie listening to him.
+
+Здесь Марлоу прервал свой рассказ и посмотрел на нас, лежавших на палубе «Нелли» и слушавших его.
+
+CHAPTER SEVEN
+
+ГЛАВА СЕДЬМАЯ
+
+I was wrong, of course,' he told us. 'In the end I did hear Kurtz speak. I heard more than enough. He was just a voice by then. And then there was the girl. I lied about him in the end. She had nothing to do with it all - nothing at all.
+
+Конечно, я ошибался», — сказал он нам. «В конце концов я услышал речь Курца. Я услышал более чем достаточно. К тому времени он был всего лишь голосом. А потом была девушка. В конце концов я солгал о нем. Она не имела ко всему этому никакого отношения, вообще ничего.
+
+'Kurtz and his gifts! The jungle had taken him and loved him. It had gone into him and consumed him. He had <span class='tip-wrap' data-text='become [быкАм] {глагол} становиться'>**become**<span class='tip-text'> </span></span> the jungle.
+
+— Курц и его дары! Джунгли взяли его и полюбили. Оно вошло в него и поглотило его. Он превратился в джунгли.
+
+'Of course he had more ivory than anyone else. We took it and piled it on <span class='tip-wrap' data-text='deck [дЕк] {существительное} палуба [3]; колода [2]; настил [2]'>**deck**<span class='tip-text'> </span></span> where he could look at it and enjoy the <span class='tip-wrap' data-text='sight [сАйт] {существительное} взгляд (также зрение)'>**sight**<span class='tip-text'> </span></span> of it. He used to call it "my ivory". The girl was "my intended". The station was "my station". Everything was his, you see. It all belonged to him. I listened to him, expecting to hear the wilderness laugh at him.
+
+— Конечно, у него было больше слоновой кости, чем у кого-либо другого. Мы взяли его и сложили на палубе, чтобы он мог смотреть на него и наслаждаться видом. Он называл это «моя слоновая кость». Девушка была «моей женой». Станция была «моя станция». Понимаете, все принадлежало ему. Все это принадлежало ему. Я слушал его, ожидая услышать смех дикой местности над ним.
+
+'What belonged to him didn't <span class='tip-wrap' data-text='matter [мЭтэр] {глагол} иметь значение'>**matter**<span class='tip-text'> </span></span>, you see. It didn't <span class='tip-wrap' data-text='matter [мЭтэр] {глагол} иметь значение'>**matter**<span class='tip-text'> </span></span> at all. I wanted to understand what he belonged to. I wanted to know what darkness had taken hold of him.'
+
+— Видите ли, то, что принадлежало ему, не имело значения. Это не имело никакого значения. Я хотел понять, чему он принадлежит. Я хотел знать, какая тьма овладела им».
+
+Marlow looked at us again.
+
+Марлоу снова посмотрел на нас.
+
+'You can't understand,' he told us. 'You've got your lives here. You've got the solid pavement under your feet, and neighbours and friends. You can't <span class='tip-wrap' data-text='imagine [ЫмЭджэн] {глагол} вообразить'>**imagine**<span class='tip-text'> </span></span> what complete solitude is like, complete silence. That was what Africa was for Kurtz, you see. He was a man on his own. He had no support from other people. He had to rely on his own character and strength, and on his ideas. And that's where Kurtz failed. He didn't have that kind of strength.
+
+«Вы не можете понять», — сказал он нам. «Вы живете здесь. У тебя под ногами твердый тротуар, соседи и друзья. Вы не представляете, что такое полное одиночество, полная тишина. Видите ли, именно такой была Африка для Курца. Он был человеком сам по себе. У него не было поддержки со стороны других людей. Ему пришлось полагаться на свой характер и силы, на свои идеи. И здесь Курц потерпел неудачу. У него не было такой силы.
+
+'I'm not making excuses for Kurtz. I want to understand him. He talked to me. He spoke English - his mother was half-English and his father half-French. Europe produced him.
+
+«Я не оправдываю Курца. Я хочу понять его. Он разговаривал со мной. Он говорил по-английски: его мать была наполовину англичанкой, а отец наполовину французом. Европа его родила.
+
+'I learned that the International Society for the Suppression of Savage Customs had asked him to write a report about Africa. He had written it, too, before he failed. I read it, and it was a brilliant document. He wrote that white men must seem like gods to the natives. That we could use that power to do good for Africa. It was a passionate argument, a <span class='tip-wrap' data-text='highly [хАйли] {наречие} очень (также высоко)'>**highly**<span class='tip-text'> </span></span> moral view of the European role. And right at the end of the beautifully written document there was a single sentence: "Kill all the brutes!" 
+
+«Я узнал, что Международное общество по подавлению диких обычаев попросило его написать отчет об Африке. Он тоже написал это до того, как потерпел неудачу. Я прочитал его, и это был блестящий документ. Он писал, что белые люди должны казаться туземцам богами. Что мы могли бы использовать эту силу, чтобы принести пользу Африке. Это был страстный спор, высоконравственный взгляд на роль Европы. И в самом конце прекрасно написанного документа было единственное предложение: «Убейте всех скотин!»
+
+'Kurtz failed, you see. He took part in <span class='tip-wrap' data-text='certain [сЭртэн] {прилагательное} определенный'>**certain**<span class='tip-text'> </span></span> midnight dances, and <span class='tip-wrap' data-text='certain [сЭртэн] {прилагательное} определенный'>**certain**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='terrible [тЕрэбэл] {прилагательное} страшный'>**terrible**<span class='tip-text'> </span></span> ceremonies. The darkness claimed him.
+
+— Видите ли, Курц потерпел неудачу. Он принимал участие в некоторых полуночных танцах и некоторых ужасных церемониях. Тьма захватила его.
+
+'I took the steamer slowly <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the station, and at last we saw it. There was a <span class='tip-wrap' data-text='gap [гЭп] {существительное} разрыв [3]; зазор [3]; пробел [3]; промежуток [2]; щель [2]; отставание [2]; брешь [2]; дефицит [2]; интервал [2]'>**gap**<span class='tip-text'> </span></span> in the forest, and a long building stood at the top of a hill. There was no <span class='tip-wrap' data-text='fence [фЕнс] {существительное} забор [3]; ограда [2]; ограждение [2]; загородка [2]; изгородь [2]'>**fence**<span class='tip-text'> </span></span> around it, but there had been a <span class='tip-wrap' data-text='fence [фЕнс] {существительное} забор [3]; ограда [2]; ограждение [2]; загородка [2]; изгородь [2]'>**fence**<span class='tip-text'> </span></span> once. I could see some <span class='tip-wrap' data-text='wooden [уУдэн] {прилагательное} деревянный [3]'>**wooden**<span class='tip-text'> </span></span> posts standing around the building. They were decorated with round balls.
+
+«Я медленно повел пароход к станции, и наконец мы его увидели. В лесу была пропасть, а на вершине холма стояло длинное здание. Вокруг него не было забора, но когда-то забор был. Я увидел несколько деревянных столбов, стоящих вокруг здания. Их украшали круглыми шарами.
+
+'A white man stood on the riverbank waving to us. We tied up the steamer.
+
+«Белый мужчина стоял на берегу реки и махал нам рукой. Мы привязали пароход.
+
+'"We've been attacked," the manager told the white man.
+
+«На нас напали», — сказал менеджер белому человеку.
+
+'"I know, I know," the white man replied. "It's all right now."
+
+«Я знаю, я знаю», — ответил белый человек. "Уже все хорошо."
+
+'I looked at the man. His clothes were <span class='tip-wrap' data-text='highly [хАйли] {наречие} очень (также высоко)'>**highly**<span class='tip-text'> </span></span> coloured. Where the cloth had worn <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span>, it had been replaced with patches of blue, red and yellow. He looked like a harlequin. I noticed that he had a Russian accent.
+
+«Я посмотрел на мужчину. Его одежда была яркой. Там, где ткань протерлась, ее заменили пятна синего, красного и желтого цвета. Он был похож на арлекина. Я заметил, что у него русский акцент.
+
+'The <span class='tip-wrap' data-text='strange [стрЕйндж] {прилагательное} странный; чужой'>**strange**<span class='tip-text'> </span></span> man came on board.
+
+«Странный человек поднялся на борт.
+
+'"I don't like this," I told him. "The natives are everywhere."
+
+«Мне это не нравится», — сказал я ему. «Туземцы повсюду».
+
+'"Oh, it's all right," he said cheerfully. "They don't mean any harm. They're simple people. You can frighten them away with the steamer whistle."
+
+- О, все в порядке, - весело сказал он. «Они не причиняют никакого вреда. Они простые люди. Их можно спугнуть пароходным свистком».
+
+'"I left some wood for you," he told me. "That was my old house."
+
+«Я оставил для тебя немного дров», — сказал он мне. «Это был мой старый дом».
+
+'"Then this must be your book," I replied. I handed him the old book about seamanship. He took it gratefully.
+
+«Тогда это, должно быть, ваша книга», — ответил я. Я протянул ему старую книгу о мореплавании. Он принял это с благодарностью.
+
+'"The only book I've got left!" he cried excitedly.
+
+«Единственная книга, которая у меня осталась!» - взволнованно воскликнул он.
+
+'Then I understood the <span class='tip-wrap' data-text='mystery [мЫстэри] {существительное} тайна [3]; таинство [2]; мистерия [2]; детективный роман [2]'>**mystery**<span class='tip-text'> </span></span> of the notes in code.
+
+«Тогда я понял тайну заметок в коде.
+
+'"You write notes in Russian?" I asked him. "I thought it was a code."
+
+«Вы пишете заметки по-русски?» Я спросил его. «Я думал, что это код».
+
+'He laughed.
+
+'Он посмеялся.
+
+'We talked together. He was a Russian, and had started life as a sailor. Then he had come to Africa. He decided he wanted to be a trader. He went into the interior by himself and began to <span class='tip-wrap' data-text='trade [трЕйд] {глагол} торговать [3]'>**trade**<span class='tip-text'> </span></span> in ivory.
+
+«Мы разговаривали вместе. Он был русским и начал жизнь моряком. Затем он приехал в Африку. Он решил, что хочет стать трейдером. Он вошел в глубь страны и начал торговать слоновой костью.
+
+'"And then I met Mr Kurtz," he said very solemnly. "They don't want him to go," he explained. "That's why they attacked the steamer."
+
+«А потом я встретил мистера Курца», - сказал он очень торжественно. «Они не хотят, чтобы он уходил», - объяснил он. «Вот почему они напали на пароход».
+
+'He looked wildly at me for a moment.
+
+«Он дико посмотрел на меня на мгновение.
+
+'"Mr Kurtz enlarged my mind," he announced.'
+
+«Мистер Курц расширил мое сознание», — заявил он.
+
+CHAPTER EIGHT
+
+ГЛАВА ВОСЬМАЯ
+
+I looked at the man in astonishment. He seemed such an impossible sort of man, in his coloured clothes, and with his enthusiasm for Kurtz.
+
+Я посмотрел на мужчину с удивлением. Он казался таким невозможным человеком в своей цветной одежде и с таким энтузиазмом по отношению к Курцу.
+
+'"Take Kurtz away quick," he advised me.
+
+«Быстро уведите Курца», — посоветовал он мне.
+
+'It was clear to me that he wanted nothing for himself. He wanted to remain where he was, and to continue <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span> in the jungle pursuing his own purposes. I admired his youth and his courage. But I did not admire his devotion to Kurtz.
+
+«Мне было ясно, что он ничего для себя не хотел. Он хотел остаться там, где был, и продолжить одиночество в джунглях, преследуя свои собственные цели. Я восхищался его молодостью и смелостью. Но я не восхищался его преданностью Курцу.
+
+'They had met in the jungle, and Kurtz had talked to him one night.
+
+«Они встретились в джунглях, и однажды ночью Курц разговаривал с ним.
+
+'"We talked about everything," he told me. "We talked all night. He made me see things - things."
+
+«Мы говорили обо всем», - сказал он мне. «Мы проговорили всю ночь. Он заставил меня увидеть вещи – вещи».
+
+'He told me that Kurtz did not often talk to him. He was busy'.
+
+«Он сказал мне, что Курц не часто с ним разговаривал. Он был занят».
+
+He disappeared into the jungle by himself.
+
+Он исчез в джунглях сам.
+
+'"How did he manage to <span class='tip-wrap' data-text='trade [трЕйд] {глагол} торговать [3]'>**trade**<span class='tip-text'> </span></span>?" I asked. "He had nothing to <span class='tip-wrap' data-text='trade [трЕйд] {глагол} торговать [3]'>**trade**<span class='tip-text'> </span></span> with," I pointed out.
+
+«Как он умудрялся торговать?» Я спросил. «Ему нечем было торговать», — заметил я.
+
+'"He had his guns," the man told me.
+
+«У него было оружие», — сказал мне мужчина.
+
+ '"You mean he was a raider?" I asked. "But not <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span>, <span class='tip-wrap' data-text='surely [шУрли] {наречие} конечно [3]; несомненно [3]; уверенно [2]; обязательно [2]; верно [2]; непременно [2]; наверное [2]; разумеется [2]; надежно [2]'>**surely**<span class='tip-text'> </span></span>? Who went with him?"
+
+«Вы имеете в виду, что он был рейдером?» Я спросил. — Но не один, конечно? Кто пошел с ним?
+
+'"The tribe loved him," the man explained. "What can you expect? He came here with thunder and lightning. They'd never seen anything like it before."
+
+«Племя любило его», — объяснил мужчина. «Чего можно ожидать? Он пришел сюда с громом и молнией. Они никогда раньше не видели ничего подобного».
+
+'He hesitated.
+
+«Он колебался.
+
+'"And then Kurtz can be <span class='tip-wrap' data-text='terrible [тЕрэбэл] {прилагательное} страшный'>**terrible**<span class='tip-text'> </span></span>," he added. "You can't <span class='tip-wrap' data-text='judge [джАдж] {глагол} судить'>**judge**<span class='tip-text'> </span></span> him like an <span class='tip-wrap' data-text='ordinary [ОрдэнЕри] {прилагательное} обычный [3]; обыкновенный [2]; простой [2]'>**ordinary**<span class='tip-text'> </span></span> man. He even wanted to shoot me once. But I don't <span class='tip-wrap' data-text='judge [джАдж] {глагол} судить'>**judge**<span class='tip-text'> </span></span> him for that."
+
+«И тогда Курц может быть ужасен», — добавил он. «Нельзя судить его как обычного человека. Однажды он даже хотел меня застрелить. Но я не сужу его за это».
+
+'"Shoot you! What for?"
+
+«Застрелить тебя! Зачем?»
+
+'"I had some ivory, you see," the man said. "Kurtz wanted it. He said he would shoot me if I didn't give it to him, and that I had to leave the country. He said he had the power to make me go, and he would use it. I gave him the ivory, of course - I didn't care about that. But I wouldn't leave him. He needed me. He'd already been ill once, and then he was ill again. He hated the place, and I begged him to leave. He always said he would leave, but he never did. He would disappear for weeks into the jungle."
+
+«Понимаете, у меня было немного слоновой кости», — сказал мужчина. «Курц хотел этого. Он сказал, что пристрелит меня, если я не отдам его ему, и что мне придется покинуть страну. Он сказал, что у него есть сила заставить меня уйти, и он воспользуется ею. Я дал ему слоновая кость, конечно - меня это не волновало. Но я бы не оставила его. Он нуждался во мне. Он уже однажды болел, а потом снова заболел. Он ненавидел это место, и я умоляла его. уйти. Он всегда говорил, что уйдет, но никогда этого не делал. Он исчезал на несколько недель в джунглях».
+
+'"He's mad," I commented.
+
+«Он сумасшедший», — прокомментировал я.
+
+'The man disagreed strongly. Kurtz could not be mad, he argued. He talked so well; he was so brilliant. He said that Kurtz had got worse <span class='tip-wrap' data-text='recently [рИсэнтли] {наречие} недавно'>**recently**<span class='tip-text'> </span></span>.
+
+«Мужчина категорически не согласился. Курц не мог злиться, утверждал он. Он так хорошо говорил; он был таким блестящим. Он сказал, что Курцу в последнее время стало хуже.
+
+'"I heard that he was very ill, so I came here to look after him," he said.
+
+«Я слышал, что он очень болен, поэтому пришел сюда, чтобы позаботиться о нем», - сказал он.
+
+'I studied the station house <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> my binoculars while the man was talking. I could seethe half-ruined house and the <span class='tip-wrap' data-text='wooden [уУдэн] {прилагательное} деревянный [3]'>**wooden**<span class='tip-text'> </span></span> posts. Suddenly I <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> myself looking at one of the balls on top of the posts. They were not ornaments - they were human skulls! The faces of the skulls were turned <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the house.
+
+«Я изучал здание вокзала в бинокль, пока мужчина говорил. Я увидел полуразрушенный дом и деревянные столбы. Внезапно я обнаружил, что смотрю на один из шаров на вершине столбов. Это были не украшения – это были человеческие черепа! Лица черепов были обращены к дому.
+
+'Those heads told me something about Kurtz. He was a man who had begun to satisfy his real desires. They showed what kind of man he really was, under all that <span class='tip-wrap' data-text='fine [фАйн] {прилагательное} прекрасный; тонкий'>**fine**<span class='tip-text'> </span></span> talk of his about morality and vision. The wilderness had discovered the secret about him. It whispered horrible things to him, and he was <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span>. He looked at his own desires, and then he satisfied them. Take away all the eloquence and the talents, and Kurtz was a hollow man.
+
+— Эти головы рассказали мне кое-что о Курце. Он был человеком, который начал удовлетворять свои истинные желания. Они показали, каким человеком он был на самом деле, несмотря на все его прекрасные разговоры о морали и мировоззрении. Дикая природа раскрыла его тайну. Оно нашептывало ему ужасные вещи, и он оставался один. Он посмотрел на свои желания и затем удовлетворил их. Уберите все красноречие и таланты, и Курц станет пустым человеком.
+
+'The man was embarrassed that I had seen those heads. He told me he had not had the courage to take them down. He said he was not afraid of the natives. The chiefs came every day to see Mr Kurtz. They would crawl...
+
+«Этот мужчина был смущен тем, что я увидел эти головы. Он сказал мне, что у него не хватило смелости снять их. Он сказал, что не боится туземцев. Руководители приходили каждый день навестить Курца. Они бы ползли...
+
+'"I don't want to hear about his horrible ceremonies!" I shouted.
+
+«Я не хочу слышать о его ужасных церемониях!» Я закричал.
+
+'The young man seemed surprised by my attitude <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> Kurtz.
+
+«Молодой человек, казалось, был удивлен моим отношением к Курцу.
+
+'"But they were rebels," he told me about the heads on the posts.
+
+«Но они были повстанцами», — рассказал он мне о головах на столбах.
+
+'I looked at him in astonishment.
+
+«Я посмотрел на него с удивлением.
+
+'"You don't understand how tired he is!" the man said.
+
+«Вы не представляете, как он устал!» - сказал мужчина.
+
+'"What about you?'
+
+'"А вы?'
+
+'"Me! I'm just a simple man. I don't have any great thoughts. How can you compare me to ...?"
+
+«Я! Я простой человек. У меня нет никаких великих мыслей. Как ты можешь сравнивать меня с…?»
+
+'He was <span class='tip-wrap' data-text='silent [сАйлэнт] {прилагательное} тихий [3]; молчаливый [2]; немой [2]; безмолвный [2]'>**silent**<span class='tip-text'> </span></span> for a minute.
+
+«Он молчал с минуту.
+
+'"I've tried to keep him <span class='tip-wrap' data-text='alive [элАйв] {прилагательное} живой'>**alive**<span class='tip-text'> </span></span>. I don't know anything about all this. Kurtz was abandoned here without medicine and without <span class='tip-wrap' data-text='proper [прАпэр] {прилагательное} надлежащий [2]; правильный [2]; собственный [2]; подходящий [2]; должный [1]; настоящий [1]; истинный [1]; присущий [1]; свойственный [1]; приличный [1]; точный [1]; пристойный [1]; совершенный [1]; красивый [1]'>**proper**<span class='tip-text'> </span></span> food. He's a wonderful man with great ideas.'"
+
+«Я пытался сохранить ему жизнь. Я ничего обо всем этом не знаю. Курца бросили здесь без лекарств и нормальной еды. Он замечательный человек с прекрасными идеями».
+
+CHAPTER NINE
+
+ГЛАВА ДЕВЯТАЯ
+
+A group of men suddenly appeared near the house.
+
+Возле дома внезапно появилась группа мужчин.
+
+They were carrying a stretcher. Suddenly the jungle broke into a great cry. A vast number of naked black figures came out of the darkness. They ran <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the figure on the stretcher. They were carrying spears, bows and shields with them.
+
+Они несли носилки. Внезапно джунгли разразились сильным криком. Из темноты вышло огромное количество обнаженных черных фигур. Они побежали к фигуре на носилках. С собой они несли копья, луки и щиты.
+
+'"If he says the wrong thing now, they'll kill us all," the Russian said.
+
+«Если он сейчас скажет что-то не то, они нас всех убьют», — сказал русский.
+
+'The group of men carrying the stretcher stopped when they saw the natives coming <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> them. The figure on the stretcher sat up and raised his arm. I could not hear what he was saying, but there was no doubt that he was giving orders. He spoke briefly, and then he fell back on the stretcher exhausted. The men carrying him moved forward again. The crowd of natives disappeared into the forest again.
+
+«Группа мужчин, несущих носилки, остановилась, когда увидела идущих к ним туземцев. Фигура на носилках сел и поднял руку. Я не мог расслышать, что он говорил, но не было сомнений, что он отдавал приказы. Он говорил коротко, а затем в изнеможении упал на носилки. Люди, несущие его, снова двинулись вперед. Толпа туземцев снова исчезла в лесу.
+
+The pilgrims and the manager carried Kurtz into the steamer. They put him gently down in one of the cabins. They put some of his papers next to him. I saw his hands touch the papers.
+
+Паломники и управляющий перенесли Курца на пароход. Его осторожно положили в одну из кают. Рядом с ним положили несколько его бумаг. Я видел, как его руки коснулись бумаг.
+
+'I looked out at the riverbank, and saw an <span class='tip-wrap' data-text='extraordinary [ЕкстрэОрдэнЕри] {прилагательное} внеочередной [2]; чрезвычайный [2]; экстраординарный [2]; необычный [2]; исключительный [2]; необычайный [2]; удивительный [2]; выдающийся [2]; незаурядный [1]; странный [1]; внеплановый [1]'>**extraordinary**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='sight [сАйт] {существительное} взгляд (также зрение)'>**sight**<span class='tip-text'> </span></span>. There were two natives with spears standing near the bank, and a beautiful, wild woman was walking up and down.
+
+«Я выглянул на берег реки и увидел необыкновенное зрелище. Возле берега стояли два туземца с копьями, а взад и вперед прогуливалась красивая дикая женщина.
+
+'She walked with enormous <span class='tip-wrap' data-text='pride [прАйд] {существительное} гордость [3]; гордыня [2]; прайд [2]; чувство гордости [2]'>**pride**<span class='tip-text'> </span></span>, and her clothes were rich and decorative. She was savage, superb and magnificent. She came close to the steamer and stood still. For a moment there was complete silence while she looked at us. Then she turned and walked proudly away from the steamer.
+
+«Она ходила с огромной гордостью, и ее одежда была богатой и декоративной. Она была дикой, величественной и великолепной. Она подошла вплотную к пароходу и остановилась. На мгновение воцарилась полная тишина, пока она смотрела на нас. Затем она повернулась и гордо пошла прочь от парохода.
+
+'The manager came out from the cabin, where he had been talking to Kurtz.
+
+«Менеджер вышел из каюты, где он разговаривал с Курцем.
+
+He's very ill," he said. "We've done everything we could have done, haven't we? Still," he went <span class='tip-wrap' data-text='on [Ан] {наречие} вперёд; позднее; далее'>**on**<span class='tip-text'> </span></span>, "his methods were bad ones. His actions have harmed the company."
+
+Он очень болен", - сказал он. "Мы сделали все, что могли, не так ли? И все же, — продолжал он, — его методы были плохими. Его действия нанесли вред компании».
+
+'The manager's greed and ambition disgusted me.
+
+«Жадность и амбиции менеджера вызывали у меня отвращение.
+
+'"Kurtz is a <span class='tip-wrap' data-text='remarkable [рымАркэбэл] {прилагательное} замечательный [3]; удивительный [2]; выдающийся [2]'>**remarkable**<span class='tip-text'> </span></span> man," I told him coldly.
+
+«Курц — замечательный человек», — холодно сказал я ему.
+
+'The Russian stepped forward now and began speaking hurriedly.
+
+— Русский шагнул вперед и начал торопливо говорить.
+
+'"You're a fellow sailor," he told me, "and I can <span class='tip-wrap' data-text='trust [трАст] {глагол} доверять'>**trust**<span class='tip-text'> </span></span> you. I want to protect Mr Kurtz's <span class='tip-wrap' data-text='reputation [рЕпйэтЕйшэн] {существительное} репутация [3]; слава [2]'>**reputation**<span class='tip-text'> </span></span>. These men" - he indicated the pilgrims and the manager - "they want to damage his name."
+
+«Вы товарищ-моряк, — сказал он мне, — и я могу вам доверять. Я хочу защитить репутацию мистера Курца. Эти люди», — он указал на паломников и управляющего, — «они хотят опорочить его имя».
+
+'I smiled. I had suddenly remembered a conversation back at the manager's station.
+
+'Я улыбнулась. Я внезапно вспомнил разговор на посту менеджера.
+
+'"And they want to <span class='tip-wrap' data-text='hang [хЭŋ] {глагол} висеть'>**hang**<span class='tip-text'> </span></span> you," I told him.
+
+«И они хотят тебя повесить», — сказал я ему.
+
+'"They <span class='tip-wrap' data-text='might [мАйт] {глагол} может быть'>**might**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='succeed [сэксИд] {глагол} преуспевать [2]; иметь успех [2]; следовать за [1]; наследовать [1]; сменять [1]; достигать цели [1]; спориться [1]; быть преемником [1]'>**succeed**<span class='tip-text'> </span></span>," the Russian said.
+
+«Они могут добиться успеха», — сказал россиянин.
+
+'"Perhaps you should go, if you have friends in the forest," I told him.
+
+«Может быть, тебе стоит пойти, если у тебя есть друзья в лесу», — сказал я ему.
+
+'"Oh, yes, I have friends," he said calmly. "They're simple people. And I don't want anything from them. But about Mr Kurtz -"
+
+«О да, у меня есть друзья», — спокойно сказал он. «Они простые люди. И я ничего от них не хочу. А насчет мистера Курца…»
+
+'He told me that Kurtz had organised the attack on the steamer.
+
+— Он сказал мне, что Курц организовал нападение на пароход.
+
+'"He wanted to frighten you away," the Russian explained. "I couldn't stop him."
+
+«Он хотел вас напугать», — объяснил русский. «Я не мог остановить его».
+
+'"I won't tell anyone," I promised.
+
+«Я никому не скажу», — пообещал я.
+
+'Then I gave the Russian some guns and tobacco, and he went back into the forest <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span>. He was not afraid of the wilderness at . all.
+
+«Затем я дал русскому оружие и табак, и он вернулся в лес один. Он не боялся пустыни в . все.
+
+'I woke up at about midnight. There was a light in Mr Kurtz's cabin, but he was not there. He had left the steamer. I went ashore without telling anyone what had happened. It was my destiny not to betray him - never to betray him.
+
+«Я проснулся около полуночи. В каюте мистера Курца горел свет, но его там не было. Он покинул пароход. Я сошел на берег, никому не сказав, что произошло. Моей судьбой было не предать его, никогда не предать его.
+
+'I saw marks on the grass where Kurtz had crawled <span class='tip-wrap' data-text='along [элОŋ] {наречие} с собой; вперед'>**along**<span class='tip-text'> </span></span>. I followed the marks, and then I made a quick circle to come out ahead of him. I waited for him to reach me. Kurtz came crawling <span class='tip-wrap' data-text='along [элОŋ] {наречие} с собой; вперед'>**along**<span class='tip-text'> </span></span>, <span class='tip-wrap' data-text='weak [уИк] {прилагательное} слабый [3]'>**weak**<span class='tip-text'> </span></span> and ill. It was a dangerous moment. I knew that if Kurtz shouted, the natives would come and kill me.
+
+«Я видел следы на траве там, где полз Курц. Я пошел по отметкам, а затем сделал быстрый круг, чтобы выйти впереди него. Я ждал, пока он доберется до меня. Курц приполз, слабый и больной. Это был опасный момент. Я знал, что если Курц закричит, туземцы придут и убьют меня.
+
+'When he saw me he stood up.
+
+«Когда он увидел меня, он встал.
+
+'"Go away," he ordered. "Hide yourself."
+
+«Уходите», — приказал он. «Спрячься».
+
+We stood facing each other in the darkness. Then I spoke to him.
+
+Мы стояли лицом друг к другу в темноте. Потом я поговорил с ним.
+
+'"You will be lost," I said. "You will be utterly lost."
+
+«Вы потеряетесь», — сказал я. «Вы совсем потеряетесь».
+
+'I don't know why I said that. It was a <span class='tip-wrap' data-text='sudden [сАдэн] {прилагательное} внезапный [3]; неожиданный [2]'>**sudden**<span class='tip-text'> </span></span> inspiration, and it worked. Kurtz paused and studied my face.
+
+«Я не знаю, почему я это сказал. Это было внезапное вдохновение, и оно сработало. Курц остановился и изучил мое лицо.
+
+'"I had such plans -" he said.
+
+«У меня были такие планы, — сказал он.
+
+'"If you <span class='tip-wrap' data-text='shout [шАут] {глагол} кричать [3]'>**shout**<span class='tip-text'> </span></span>, I'll kill you," I told him.
+
+«Если ты закричишь, я тебя убью», — сказал я ему.
+
+'"I was going to do great things -" he told me. "And now this idiot -" He meant the manager.
+
+«Я собирался совершить великие дела, — сказал он мне. «А теперь этот идиот…» Он имел в виду менеджера.
+
+'I did not want to kill him, you understand. I wanted to shock him. He was in the power of the wilderness. The jungle had woken his real desires, and he could not resist them. He had gone too far. Now he was <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span>. His soul had gone mad, that was the truth. I don't mean his intelligence. That was clear enough. He was still a rational creature. But his soul had been <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span> in the wilderness. It had looked at itself, and it had gone mad.
+
+— Я не хотел его убивать, вы понимаете. Мне хотелось его шокировать. Он был во власти пустыни. Джунгли пробудили его истинные желания, и он не мог им сопротивляться. Он зашел слишком далеко. Теперь он был один. Его душа сошла с ума, это была правда. Я не имею в виду его интеллект. Это было достаточно ясно. Он все еще оставался разумным существом. Но его душа была одна в пустыне. Оно посмотрело на себя и сошло с ума.
+
+'He had struggled <span class='tip-wrap' data-text='against [эгЕнст] {предлог} от; против'>**against**<span class='tip-text'> </span></span> that madness of his soul, I'm <span class='tip-wrap' data-text='sure [шУр] {прилагательное} верный; уверенный'>**sure**<span class='tip-text'> </span></span> of it. But his soul knew no fear, recognised no limits - and it had no faith in anything.
+
+— Он боролся с этим безумием своей души, я в этом уверен. Но душа его не знала страха, не признавала границ — и ни во что не верила.
+
+'I carried him back to the steamer.'
+
+— Я отнес его обратно на пароход.
+
+CHAPTER TEN
+
+ГЛАВА ДЕСЯТАЯ
+
+We left on the steamer the next day at noon. A huge crowd of natives came out to watch us go. I swung the steamer into the middle of the river to turn her round. As we steamed past I could see three men covered in red earth. They stamped their feet on the ground, and moved their bodies rhythmically. The three men shouted something, and the crowd <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> them made a noise.
+
+На следующий день в полдень мы отправились на пароходе. Огромная толпа туземцев вышла посмотреть на нас. Я повернул пароход на середину реки, чтобы развернуть его. Когда мы проходили мимо, я увидел троих мужчин, засыпанных красной землей. Они топтали ногами по земле и ритмично двигали телами. Трое мужчин что-то кричали, и толпа позади них подняла шум.
+
+'The woman whom I had seen the day before also appeared now. She looked at the steamer and shouted something. Again the crowd of people echoed her shouts.
+
+«Женщина, которую я видел накануне, тоже появилась сейчас. Она посмотрела на пароход и что-то крикнула. И снова толпа людей повторила ее крики.
+
+'"Do you understand this?" I asked Kurtz.
+
+'"Ты понимаешь это?" Я спросил Курца.
+
+'"Of course," he replied with a smile.
+
+«Конечно», — ответил он с улыбкой.
+
+'I reached for the line to the whistle and pulled it hard. The steamer whistle screeched, and the crowd of natives began to run away in terror. The only person who did not move was that magnificent woman. She stayed motionless, looking at us with her arms held high up in the air. And then the pilgrims on board took out their rifles and began to shoot. I did not see anything else because of the <span class='tip-wrap' data-text='smoke [смOук] {существительное} дым [3]; курение [2]; дымок [2]'>**smoke**<span class='tip-text'> </span></span>.
+
+«Я дотянулся до свистка и сильно потянул за него. Пароходный гудок взвизгнул, и толпа туземцев в ужасе начала разбегаться. Единственным человеком, который не пошевелился, была эта великолепная женщина. Она оставалась неподвижной, глядя на нас, высоко подняв руки. И тогда паломники на борту достали винтовки и начали стрелять. Из-за дыма я больше ничего не видел.
+
+'The river took us away from the heart of darkness. It carried us swiftly <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the sea. Kurtz's life was moving swiftly <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> its end, too. The manager was relaxed now. He could see that his problems would end with the end of Kurtz's life.
+
+«Река унесла нас из сердца тьмы. Он быстро понес нас к морю. Жизнь Курца тоже стремительно приближалась к концу. Теперь менеджер расслабился. Он понимал, что его проблемы закончатся с концом жизни Курца.
+
+'Now Kurtz began to talk. How he talked! He hid the darkness in his heart with that voice of his! He talked about "my intended", "my station", "my career", and "my ideas". There was a <span class='tip-wrap' data-text='struggle [стрАгэл] {существительное} борьба'>**struggle**<span class='tip-text'> </span></span> going on inside him between his love of what he had discovered and his hatred for what he had discovered. I saw that <span class='tip-wrap' data-text='struggle [стрАгэл] {существительное} борьба'>**struggle**<span class='tip-text'> </span></span> and it was <span class='tip-wrap' data-text='terrible [тЕрэбэл] {прилагательное} страшный'>**terrible**<span class='tip-text'> </span></span>.
+
+«Теперь Курц начал говорить. Как он говорил! Этим своим голосом он скрыл тьму в своем сердце! Он говорил о «моих намерениях», «моей станции», «моей карьере» и «моих идеях». Внутри него шла борьба между любовью к тому, что он открыл, и ненавистью к тому, что он открыл. Я видел эту борьбу, и это было ужасно.
+
+'The steamer broke down during the <span class='tip-wrap' data-text='journey [джЭрни] {существительное} путешествие [3]; поездка [2]'>**journey**<span class='tip-text'> </span></span>, and we had to stop for repairs. Kurtz was impatient because of the delay. He gave me his papers to look after, and a photograph of a European girl.
+
+«Пароход сломался во время пути, и нам пришлось остановиться на ремонт. Курц был нетерпелив из-за задержки. Он дал мне на присмотр свои документы и фотографию европейской девушки.
+
+'"This fool," he told me, "may want to look at them." He meant the manager.
+
+«Этот дурак, — сказал он мне, — возможно, захочет взглянуть на них». Он имел в виду менеджера.
+
+'The repairs took several days, and Kurtz grew weaker every day. I worked to repair the steamer, and I watched Kurtz dying. It was fascinating to see that man die. I saw his <span class='tip-wrap' data-text='pride [прАйд] {существительное} гордость [3]; гордыня [2]; прайд [2]; чувство гордости [2]'>**pride**<span class='tip-text'> </span></span>, his power, and I saw his absolute despair. Did he live <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> his <span class='tip-wrap' data-text='whole [хOул] {прилагательное} весь'>**whole**<span class='tip-text'> </span></span> life again in those few days? Did he experience once more the desires and the surrender to them that had destroyed him? Did he see that he was just a hollow man?
+
+«Ремонт занял несколько дней, и Курц с каждым днем становился слабее. Я работал на ремонте парохода и видел, как умирал Курц. Было интересно наблюдать за смертью этого человека. Я видел его гордость, его силу и видел его абсолютное отчаяние. Прожил ли он снова всю свою жизнь за эти несколько дней? Испытал ли он еще раз желания и капитуляцию перед ними, которые его погубили? Понял ли он, что он всего лишь пустой человек?
+
+'Once he cried out at some <span class='tip-wrap' data-text='thought [θОт] {существительное} мысль'>**thought**<span class='tip-text'> </span></span> or vision he was seeing. His voice was very <span class='tip-wrap' data-text='weak [уИк] {прилагательное} слабый [3]'>**weak**<span class='tip-text'> </span></span> -
+
+«Однажды он вскрикнул от какой-то мысли или видения, которое видел. Голос его был очень слаб -
+
+'"The horror! The horror!"
+
+«Ужас! Ужас!»
+
+'I left him <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span> in his cabin.
+
+— Я оставил его одного в его каюте.
+
+'A few minutes later the manager's servant came in to tell us that Kurtz was dead.
+
+«Через несколько минут пришёл слуга управляющего и сообщил, что Курц мёртв.
+
+'The pilgrims buried him the next day.
+
+«Паломники похоронили его на следующий день.
+
+'And then they nearly buried me. But I survived my illness. I survived to be loyal to Kurtz once again. It was my destiny to protect that man's <span class='tip-wrap' data-text='reputation [рЕпйэтЕйшэн] {существительное} репутация [3]; слава [2]'>**reputation**<span class='tip-text'> </span></span>.
+
+— А потом меня чуть не похоронили. Но я пережил свою болезнь. Я выжил, чтобы снова быть верным Курцу. Моей судьбой было защитить репутацию этого человека.
+
+'I have been close to death, and I know how dull it is to struggle <span class='tip-wrap' data-text='against [эгЕнст] {предлог} от; против'>**against**<span class='tip-text'> </span></span> it. I know that when I was very close to dying, I had nothing to say. That's why I think Kurtz was a <span class='tip-wrap' data-text='remarkable [рымАркэбэл] {прилагательное} замечательный [3]; удивительный [2]; выдающийся [2]'>**remarkable**<span class='tip-text'> </span></span> man, despite everything. He did have something to say, ancj he said it. He looked out into the abyss that confronts us all jn the end, and he gave his opinion: "The horror! The horror!"
+
+«Я был близок к смерти и знаю, как скучно с ней бороться. Я знаю, что когда я был очень близок к смерти, мне нечего было сказать. Вот почему я думаю, что Курц, несмотря ни на что, был замечательным человеком. Ему было что сказать, и он это сказал. Он взглянул в бездну, которая предстает перед нами всеми в конце, и высказал свое мнение: «Ужас! Ужас!»
+
+'His cry was a kind of victory. It was a moral victory. He had been defeated by his desires, he had done abominable things, and at-the end he had the courage to look at what had happened to himself. That's why I've remained loyal to him.'
+
+«Его крик был своего рода победой. Это была моральная победа. Он потерпел поражение от своих желаний, он совершил отвратительные поступки, и в конце концов у него хватило смелости посмотреть на то, что случилось с ним самим. Вот почему я остался ему верен».
+
+CHAPTER ELEVEN
+
+ГЛАВА ОДИННАДЦАТАЯ
+
+No, they did not bury me, but I lived <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> a <span class='tip-wrap' data-text='strange [стрЕйндж] {прилагательное} странный; чужой'>**strange**<span class='tip-text'> </span></span> period when there seemed no hope and no desire in the world. I returned to the city and was disgusted by the people there. They took money from each other, they ate and drank, and they had silly dreams.
+
+Нет, меня не похоронили, но я пережил странный период, когда, казалось, в мире не было ни надежды, ни желания. Я вернулся в город и почувствовал отвращение к тамошним людям. Они брали друг у друга деньги, ели и пили и видели глупые сны.
+
+'One day a man from the company came to see me. He wanted me to give him Kurtz's documents and papers. I refused to give them to him. He told me the company had the right to all the information that Kurtz had gathered while he worked for it. I told him Kurtz's papers had no commercial value. I let him see Kurtz's paper for the International Society for the Suppression of Savage Customs. I tore off the postscript with those <span class='tip-wrap' data-text='terrible [тЕрэбэл] {прилагательное} страшный'>**terrible**<span class='tip-text'> </span></span> words: "Kill all the brutes!" The man read it eagerly and then threw it down with contempt.
+
+«Однажды ко мне пришел мужчина из компании. Он хотел, чтобы я передал ему документы и бумаги Курца. Я отказался отдать их ему. Он сказал мне, что компания имеет право на всю информацию, которую Курц собрал, пока он в ней работал. Я сказал ему, что документы Курца не имеют коммерческой ценности. Я дал ему посмотреть статью Курца для Международного общества по подавлению диких обычаев. Я сорвал приписку с этими страшными словами: «Убейте всех скотин!» Мужчина жадно прочитал его, а затем с презрением бросил.
+
+'"This is not the kind of thing we expected,'' he told me angrily. "Not what we expected, at all."
+
+"Это не то, чего мы ожидали, - сказал он мне сердито. - Совсем не то, чего мы ожидали".
+
+'A few days later another man came to see me. He said he was Kurtz's cousin. He told me that Kurtz had been, essentially, a great musician.
+
+«Через несколько дней ко мне пришел еще один мужчина. Он сказал, что он двоюродный брат Курца. Он сказал мне, что Курц, по сути, был великим музыкантом.
+
+'Then a <span class='tip-wrap' data-text='journalist [джЭрнэлэст] {существительное} журналист [3]'>**journalist**<span class='tip-text'> </span></span> called who wanted to talk about the death of his "dear colleague".
+
+«Тогда позвонил журналист, который хотел рассказать о смерти своего «дорогого коллеги».
+
+'"He should have been a politician," the <span class='tip-wrap' data-text='journalist [джЭрнэлэст] {существительное} журналист [3]'>**journalist**<span class='tip-text'> </span></span> told me. "He wasn't a particularly good <span class='tip-wrap' data-text='journalist [джЭрнэлэст] {существительное} журналист [3]'>**journalist**<span class='tip-text'> </span></span> - but that man could talk!"
+
+«Он должен был стать политиком», — сказал мне журналист. «Он не был особенно хорошим журналистом, но этот человек умел говорить!»
+
+'I could not decide what Kurtz's real talents were. He could paint, he could write, he could play music, and he could talk like no one else. He was a sort of universal genius.
+
+«Я не мог решить, в чем заключались настоящие таланты Курца. Он умел рисовать, писать, играть музыку и говорить, как никто другой. Он был своего рода универсальным гением.
+
+'Kurtz's mother had <span class='tip-wrap' data-text='recently [рИсэнтли] {наречие} недавно'>**recently**<span class='tip-text'> </span></span> died, and I heard that his "intended" had looked after her. I thought she should have his papers, and the picture of her that was with them.
+
+— Мать Курца недавно умерла, и я слышал, что его «предназначенный» присматривал за ней. Я подумал, что ей следует забрать его документы и ее фотографию, которая была с ними.
+
+'It was evening when I went to her house. She came forward to greet me, dressed in black. He had died more than a year ago, but she was still wearing black for him. I put the packet of papers and the picture on the table. She covered it with her hand.
+
+«Был вечер, когда я пришел к ней домой. Она подошла ко мне, одетая в черное. Он умер больше года назад, но ради него она все еще носила черное. Я положил пачку бумаг и фотографию на стол. Она прикрыла его рукой.
+
+'"You knew him well?" she asked me.
+
+«Вы хорошо его знали?» она спросила меня.
+
+'"I knew him very well," I replied.
+
+«Я знал его очень хорошо», — ответил я.
+
+'"You admired him, of course," she told me. "It was impossible to know him and not to admire him."
+
+«Конечно, ты восхищался им», — сказала она мне. «Невозможно было знать его и не восхищаться им».
+
+'"He was a <span class='tip-wrap' data-text='remarkable [рымАркэбэл] {прилагательное} замечательный [3]; удивительный [2]; выдающийся [2]'>**remarkable**<span class='tip-text'> </span></span> man," I said. "It was impossible not to -"
+
+«Он был замечательным человеком», — сказал я. «Было невозможно не…»
+
+'"Love him," she said eagerly. "How true! But I knew him best. He told me everything."
+
+«Люблю его», — сказала она с нетерпением. «Как верно! Но я знал его лучше всех. Он мне все рассказал».
+
+'And so the girl talked to me about her love for Kurtz. She was proud of him, and she spoke very <span class='tip-wrap' data-text='highly [хАйли] {наречие} очень (также высоко)'>**highly**<span class='tip-text'> </span></span> of his many talents.
+
+«И вот девушка рассказала мне о своей любви к Курцу. Она гордилась им и очень высоко отзывалась о его многочисленных талантах.
+
+'"His death was a <span class='tip-wrap' data-text='terrible [тЕрэбэл] {прилагательное} страшный'>**terrible**<span class='tip-text'> </span></span> loss to me - to us - to the <span class='tip-wrap' data-text='whole [хOул] {прилагательное} весь'>**whole**<span class='tip-text'> </span></span> world. And now there is nothing of his greatness left. There is only the memory of it. You and I -"
+
+— «Его смерть была ужасной потерей для меня — для нас — для всего мира. И теперь от его величия не осталось ничего. Есть только память о нем. Мы с тобой…»
+
+'"We will always remember him," I told her.
+
+«Мы всегда будем помнить его», — сказал я ей.
+
+'"We'll remember his goodness," she said. "We'll remember the example -"
+
+«Мы будем помнить его доброту», — сказала она. «Мы запомним пример…»
+
+'"The example he <span class='tip-wrap' data-text='set [сЕт] {глагол} устанавливать'>**set**<span class='tip-text'> </span></span>. Yes. I had forgotten that," I replied.
+
+«Пример, который он подал. Да. Я забыл об этом», — ответил я.
+
+'"Were you with him when he died?" she asked me.
+
+«Вы были с ним, когда он умер?» она спросила меня.
+
+'"To the very end. I heard his last words."
+
+«До самого конца. Я слышал его последние слова».
+
+'"What were they?" she wanted to know. "Tell me what he said!"
+
+'"Кем они были?" она хотела знать. «Скажи мне, что он сказал!»
+
+'It was dark in the house now. I could almost hear that voice saying, "The horror! The horror!"
+
+«Теперь в доме было темно. Я почти слышал этот голос, говорящий: «Ужас! Ужас!»
+
+'"What did he say?" she asked me again. "Tell me. It will give me something to live for. I loved him - I loved him!"
+
+'"Что он сказал?" она спросила меня еще раз. «Скажи мне. Это даст мне то, ради чего стоит жить. Я любила его, я любила его!»
+
+'I made a great <span class='tip-wrap' data-text='effort [Ефэрт] {существительное} усилие'>**effort**<span class='tip-text'> </span></span>,' Marlow said. 'I looked at her and spoke slowly:
+
+«Я приложил огромные усилия», — сказал Марлоу. Я посмотрел на нее и медленно произнес:
+
+'"The last word he said was your name.'"
+
+«Последнее слово, которое он сказал, было твое имя».
+
+Marlow looked at us as we <span class='tip-wrap' data-text='lay [лЕй] {глагол} лежать'>**lay**<span class='tip-text'> </span></span> on the <span class='tip-wrap' data-text='deck [дЕк] {существительное} палуба [3]; колода [2]; настил [2]'>**deck**<span class='tip-text'> </span></span> of the Nellie listening to his story.
+
+Марлоу смотрел на нас, пока мы лежали на палубе «Нелли» и слушали его рассказ.
+
+'I couldn't tell her the truth. It would have been too dark - much too dark.'
+
+«Я не мог сказать ей правду. Было бы слишком темно, слишком темно».
+
+Marlow stopped talking now, and there was silence on the boat. Nobody moved. I looked up. There were clouds over the river. The quiet river seemed to lead into the heart of an immense darkness.
+
+Марлоу замолчал, и на лодке воцарилась тишина. Никто не двинулся с места. Я посмотрел вверх. Над рекой были облака. Тихая река, казалось, вела в самое сердце необъятной тьмы.
+
+# Godfather
+
+# Крестный отец
+
+Introduction
+
+Введение
+
+"My father made him an <span class='tip-wrap' data-text='offer [Офэр] {существительное} предложение [3]'>**offer**<span class='tip-text'> </span></span> he couldn't <span class='tip-wrap' data-text='refuse [рэфйУз] {глагол} отказываться'>**refuse**<span class='tip-text'> </span></span>. Luca held a gun to his head and my father told him that if he didn't agree to let Johnny go, Luca would <span class='tip-wrap' data-text='blow [блOу] {глагол} дуть'>**blow**<span class='tip-text'> </span></span> his brains out."
+
+«Мой отец сделал ему предложение, от которого он не смог отказаться. Лука приставил пистолет к его виску, и мой отец сказал ему, что, если он не согласится отпустить Джонни, Лука вышибет ему мозги».
+
+So Michael, youngest son of Don Vito Corleone, introduces his girlfriend Kay to his father's business practice. His father is a gangster, a very important gangster. He is the Godfather of one of the <span class='tip-wrap' data-text='most [мOуст] {наречие} очень'>**most**<span class='tip-text'> </span></span> powerful and richest families in New York. His business is <span class='tip-wrap' data-text='fear [фЫр] {существительное} страх'>**fear**<span class='tip-text'> </span></span> and murder. Michael, an <span class='tip-wrap' data-text='innocent [Ынэсэнт] {прилагательное} невинный [3]; невиновный [2]'>**innocent**<span class='tip-text'> </span></span> college boy, doesn't want anything to do with his father. He's different from the others in his family. All he wants is a <span class='tip-wrap' data-text='quiet [куАйэт] {прилагательное} тихий'>**quiet**<span class='tip-text'> </span></span>, peaceful, <span class='tip-wrap' data-text='honest [Анэст] {прилагательное} честный [3]'>**honest**<span class='tip-text'> </span></span> life with Kay. But this isn't as easy as he thinks. Things happen, and Michael begins to change. He slowly realizes that, at heart, he's a Corleone too. And, if he must, he can be as deadly as the <span class='tip-wrap' data-text='rest [рЕст] {существительное} отдых (также остаток)'>**rest**<span class='tip-text'> </span></span>...
+
+Итак, Майкл, младший сын дона Вито Корлеоне, знакомит свою девушку Кей с деловой практикой своего отца. Его отец — гангстер, очень важный гангстер. Он крестный отец одной из самых влиятельных и богатых семей Нью-Йорка. Его дело — страх и убийства. Майкл, невинный студент колледжа, не хочет иметь ничего общего со своим отцом. Он отличается от других членов своей семьи. Все, что он хочет, — это тихая, мирная и честная жизнь с Кей. Но это не так просто, как он думает. Что-то происходит, и Майкл начинает меняться. Постепенно он понимает, что в глубине души он тоже Корлеоне. И, если понадобится, он может быть таким же смертоносным, как и остальные...
+
+Mario Puzo was <span class='tip-wrap' data-text='born [бОрн] {глагол} родился'>**born**<span class='tip-text'> </span></span> in New York in 1920. He has written many books but The Godfather, which he wrote in 1969, is his <span class='tip-wrap' data-text='most [мOуст] {наречие} очень'>**most**<span class='tip-text'> </span></span> famous. In 1972, it was made into a film by Francis Ford Coppola. Marlon Brando won an Oscar for his performance as Don Vito Corleone. Coppola and Puzo won an Oscar for the best writing of a film. Coppola, <span class='tip-wrap' data-text='born [бОрн] {глагол} родился'>**born**<span class='tip-text'> </span></span> in 1939, was one of Hollywood's <span class='tip-wrap' data-text='most [мOуст] {наречие} очень'>**most**<span class='tip-text'> </span></span> important film-makers in the 1970s. As well as The Godfather and The Godfather 2 (1974), he made Apocalypse Now (1979), also starring Marlon Brando.
+
+Марио Пьюзо родился в Нью-Йорке в 1920 году. Он написал много книг, но самой известной из них является «Крестный отец», написанный им в 1969 году. В 1972 году по нему был снят фильм Фрэнсиса Форда Копполы. Марлон Брандо получил «Оскар» за роль дона Вито Корлеоне. Коппола и Пьюзо получили «Оскар» за лучший сценарий к фильму. Коппола, родившийся в 1939 году, был одним из самых выдающихся режиссеров Голливуда 1970-х годов. Помимо «Крестного отца» и «Крестного отца 2» (1974), он снял «Апокалипсис сегодня» (1979) с Марлоном Брандо в главной роли.
+
+His films during the 1980s were not so popular but, more recently, he has made two successful films: The Godfather 3 (1990) and Bram Stoker's Dracula (1992).
+
+Его фильмы в 1980-е годы не пользовались такой популярностью, но совсем недавно он снял два успешных фильма: «Крестный отец 3» (1990) и «Дракула» Брэма Стокера (1992).
+
+Mario Puzo has written several films as well as books. His best-known films are Superman (1978) and Superman 2 (1980).
+
+Марио Пьюзо написал несколько фильмов и книг. Его самые известные фильмы — «Супермен» (1978) и «Супермен 2» (1980).
+
+## Chapter 1 <span class='tip-wrap' data-text='wedding [уЕдыŋ] {существительное} свадьба [3]; венчание [3]; бракосочетание [2]'>**Wedding**<span class='tip-text'> </span></span> on Long Island
+
+## Глава 1 Свадьба на Лонг-Айленде
+
+On the last Saturday in August, 1945, Miss Constanzia Corleone, daughter of Don Vito Corleone, married Carlo Rizzi. Her father had invited hundreds of people to the <span class='tip-wrap' data-text='wedding [уЕдыŋ] {существительное} свадьба [3]; венчание [3]; бракосочетание [2]'>**wedding**<span class='tip-text'> </span></span> at his huge house on Long Island, just outside New York. As the guests arrived, Don Corleone welcomed them all, rich and poor, with an equal show of love. Many of the guests had reason to be grateful to Don Corleone for their good <span class='tip-wrap' data-text='luck [лАк] {существительное} удача [3]; счастье [3]; везение [2]; судьба [2]'>**luck**<span class='tip-text'> </span></span> in life, and they called him "Godfather" to his face.
+
+В последнюю субботу августа 1945 года мисс Констанция Корлеоне, дочь дона Вито Корлеоне, вышла замуж за Карло Рицци. Ее отец пригласил сотни людей на свадьбу в свой огромный дом на Лонг-Айленде, недалеко от Нью-Йорка. Когда прибыли гости, дон Корлеоне приветствовал их всех, богатых и бедных, с одинаковой любовью. У многих гостей были основания быть благодарными дону Корлеоне за удачу в жизни, и они называли его «Крестным отцом» в лицо.
+
+Standing next to him as he welcomed the guests were two of his three sons, Santino - or Sonny, as he was called - was the eldest. He was a tall, strong, good-looking man with <span class='tip-wrap' data-text='thick [θЫк] {прилагательное} толстый; густой'>**thick**<span class='tip-text'> </span></span> brown hair. He looked uncomfortable in his white <span class='tip-wrap' data-text='shirt [шЭрт] {существительное} рубашка'>**shirt**<span class='tip-text'> </span></span> and black <span class='tip-wrap' data-text='suit [сУт] {существительное} костюм'>**suit**<span class='tip-text'> </span></span>. The second son, Fredo, was <span class='tip-wrap' data-text='completely [кэмплИтли] {наречие} полностью'>**completely**<span class='tip-text'> </span></span> different. He was <span class='tip-wrap' data-text='weak [уИк] {прилагательное} слабый [3]'>**weak**<span class='tip-text'> </span></span>-looking and pale, with sad dark eyes and <span class='tip-wrap' data-text='thin [θЫн] {прилагательное} тонкий'>**thin**<span class='tip-text'> </span></span> lips.
+
+Рядом с ним, когда он приветствовал гостей, стояли двое из трех его сыновей, Сантино, или Сонни, как его называли, был старшим. Это был высокий, сильный, красивый мужчина с густыми каштановыми волосами. В своей белой рубашке и черном костюме он выглядел неуютно. Второй сын, Фредо, был совершенно другим. Он был слаб на вид и бледен, с грустными темными глазами и тонкими губами.
+
+The youngest son, Michael, was sitting at a table in the corner of the garden with his girlfriend, Kay. There was a gentle, <span class='tip-wrap' data-text='innocent [Ынэсэнт] {прилагательное} невинный [3]; невиновный [2]'>**innocent**<span class='tip-text'> </span></span> quality to him, with his soft dark eyes and full lips, but his army uniform suggested that this was not a <span class='tip-wrap' data-text='weak [уИк] {прилагательное} слабый [3]'>**weak**<span class='tip-text'> </span></span> man. Just a <span class='tip-wrap' data-text='quiet [куАйэт] {прилагательное} тихий'>**quiet**<span class='tip-text'> </span></span> one. He was embarrassed by all the singing and dancing, but he was <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span> pleased that Kay was enjoying herself. This was the first time that she had met his family.
+
+Младший сын Майкл сидел за столом в углу сада со своей девушкой Кей. В его характере были нежные и невинные качества, его мягкие темные глаза и полные губы, но его армейская форма говорила о том, что это был не слабый человек. Просто тихий. Его смущало все это пение и танцы, но он был тихо доволен тем, что Кей развлекается. Это был первый раз, когда она встретила его семью.
+
+"Who's that funny little <span class='tip-wrap' data-text='fat [фЭт] {прилагательное} толстый [2]; жирный [2]; тучный [2]; упитанный [1]; откормленный [1]; сальный [1]; богатый [1]; плодородный [1]; доходный [1]; маслянистый [1]; обильный [1]; выгодный [1]; тупоумный [1]; глупый [1]'>**fat**<span class='tip-text'> </span></span> man over there?" she asked, her eyes shining with excitement. "He looks about sixty years old but he's dancing like a teenager."
+
+«Кто этот смешной маленький толстяк?» — спросила она, ее глаза сияли от волнения. «На вид ему около шестидесяти лет, но танцует как подросток».
+
+"That's Pete Clemenza," Michael said. "He's an old friend of my father's."
+
+«Это Пит Клеменца», сказал Майкл. «Он старый друг моего отца».
+
+"And what about him?" Kay looked at a large, ugly man who was sitting <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span> outside the house, talking to himself. "He's very frightening." "That's Luca Brasi," Michael smiled at Kay. "He's waiting to speak to my father in private."
+
+— А что с ним? Кей посмотрел на большого уродливого мужчину, который сидел один возле дома и разговаривал сам с собой. «Он очень пугает». «Это Лука Брази», — Майкл улыбнулся Кею. «Он ждет возможности поговорить с моим отцом наедине».
+
+"Yes, but who is he?"
+
+«Да, но кто он?»
+
+"He helps my father sometimes," Michael replied <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span>, looking at his food.
+
+«Он иногда помогает моему отцу», — тихо ответил Майкл, глядя на свою еду.
+
+Suddenly, the big man stood up and Kay looked away quickly, afraid that he was coming over to talk to her. But another man came up to the table instead. He had <span class='tip-wrap' data-text='thin [θЫн] {прилагательное} тонкий'>**thin**<span class='tip-text'> </span></span> fair hair and blue eyes. Michael stood up and the two men hugged each other warmly.
+
+Внезапно здоровяк встал, и Кей быстро отвела взгляд, боясь, что он подойдет поговорить с ней. Но вместо этого к столу подошел другой мужчина. У него были тонкие светлые волосы и голубые глаза. Майкл встал, и двое мужчин тепло обняли друг друга.
+
+"My brother, Tom Hagen, this is Kay Adams," Michael finally said.
+
+«Мой брат Том Хаген, это Кей Адамс», — наконец сказал Майкл.
+
+Tom Hagen shook Kay's hand, then whispered to Michael: "My father wants to know why you don't go to see him."
+
+Том Хаген пожал Кею руку, а затем прошептал Майклу: «Мой отец хочет знать, почему ты не ходишь к нему».
+
+Michael sat down without speaking, and Tom walked away into the house, followed by Luca Brasi.
+
+Майкл молча сел, а Том ушел в дом в сопровождении Луки Брази.
+
+"If he's your brother, why does he have a different name?" Kay asked Michael when Tom had gone.
+
+«Если он твой брат, почему у него другое имя?» Кей спросил Майкла, когда Том ушел.
+
+"When my brother Sonny was a boy," Michael explained, "he <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> Tom Hagen in the street. Tom had no home, so my father took him in and he's been with us <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span> since. He's a good lawyer. Not a Sicilian, but I think he's going to be a Consigliori!
+
+«Когда мой брат Сонни был мальчиком, — объяснил Майкл, — он нашел Тома Хагена на улице. У Тома не было дома, поэтому мой отец взял его к себе, и с тех пор он с нами. Он хороший юрист. Не сицилиец, но я думаю, что он будет консильори!
+
+"What's that?"
+
+"Что это такое?"
+
+"My father's chief adviser. Very important to the family."
+
+«Главный советник моего отца. Очень важен для семьи».
+
+Suddenly, there came a loud, happy sound from the other side of the garden. The music and singing stopped. Connie, in her white <span class='tip-wrap' data-text='wedding [уЕдыŋ] {существительное} свадьба [3]; венчание [3]; бракосочетание [2]'>**wedding**<span class='tip-text'> </span></span>- dress, left her husband and ran <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the gate screaming: "Johnny! Johnny!" She threw herself into the arms of a very handsome dark- haired man in a white <span class='tip-wrap' data-text='suit [сУт] {существительное} костюм'>**suit**<span class='tip-text'> </span></span>, and covered his face with kisses. Then she led him by the hand <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> a crowd of excited, screaming girls, to meet her new husband, Carlo.
+
+Внезапно с другой стороны сада послышался громкий счастливый звук. Музыка и пение прекратились. Конни в своем белом свадебном платье оставила мужа и побежала к воротам с криком: «Джонни! Джонни!» Она бросилась в объятия очень красивого темноволосого мужчины в белом костюме и покрыла его лицо поцелуями. Затем она повела его за руку сквозь толпу возбужденных, кричащих девушек на встречу со своим новым мужем Карло.
+
+Kay turned to Michael excitedly. "You didn't tell me your family knew Johnny Fontane," she said.
+
+Кей взволнованно повернулась к Майклу. «Вы не сказали мне, что ваша семья знала Джонни Фонтейна», - сказала она.
+
+"Sure. Do you want to meet him?" Michael smiled. "My father helped him to <span class='tip-wrap' data-text='become [быкАм] {глагол} становиться'>**become**<span class='tip-text'> </span></span> famous."
+
+«Конечно. Ты хочешь с ним встретиться?» Майкл улыбнулся. «Мой отец помог ему прославиться».
+
+"He did? How?"
+
+— Он это сделал? Как?
+
+At that moment, Johnny Fontane began to sing. "Let's listen to the song," Michael tried to change the <span class='tip-wrap' data-text='subject [сэбджЕкт] {существительное} предмет'>**subject**<span class='tip-text'> </span></span>.
+
+В этот момент Джонни Фонтейн начал петь. «Давайте послушаем песню», — Майкл попытался сменить тему.
+
+"Please Michael," Kay said impatiently, reaching <span class='tip-wrap' data-text='across [экрОс] {предлог} через'>**across**<span class='tip-text'> </span></span> the table and squeezing his hand. "Tell me."
+
+«Пожалуйста, Майкл», — нетерпеливо сказала Кей, протягивая руку через стол и сжимая его руку. "Скажи мне."
+
+"Well, Johnny is my father's godson. When Johnny was beginning to <span class='tip-wrap' data-text='become [быкАм] {глагол} становиться'>**become**<span class='tip-text'> </span></span> popular, he had a problem with his <span class='tip-wrap' data-text='boss [бАс] {существительное} босс [3]; хозяин [2]; шеф [2]; руководитель [2]; выступ [2]'>**boss**<span class='tip-text'> </span></span>, a <span class='tip-wrap' data-text='band [бЭнд] {существительное} полоса (также банда)'>**band**<span class='tip-text'> </span></span>-leader. Johnny wanted to leave the <span class='tip-wrap' data-text='band [бЭнд] {существительное} полоса (также банда)'>**band**<span class='tip-text'> </span></span>, but this man wouldn't let him. So Johnny asked my father to help. My father went to see the <span class='tip-wrap' data-text='band [бЭнд] {существительное} полоса (также банда)'>**band**<span class='tip-text'> </span></span>-leader and offered him $10,000 to let Johnny go. He said no. The next day my father went to see him with Luca Brasi. One hour later, the <span class='tip-wrap' data-text='band [бЭнд] {существительное} полоса (также банда)'>**band**<span class='tip-text'> </span></span>-leader let Johnny go. For $1,000."
+
+«Ну, Джонни — крестник моего отца. Когда Джонни начал становиться популярным, у него были проблемы со своим боссом, лидером группы. Джонни хотел уйти из группы, но этот человек не позволил ему. Поэтому Джонни спросил моего отец, чтобы помочь. Мой отец пошел к лидеру группы и предложил ему 10 000 долларов, чтобы отпустить Джонни. Он сказал нет. На следующий день мой отец пошел к нему с Лукой Брази. Через час лидер группы отпустил Джонни. . За 1000 долларов».
+
+Kay looked confused. "How did he do that?"
+
+Кей выглядел растерянным. "Как он это сделал?"
+
+"My father made him an <span class='tip-wrap' data-text='offer [Офэр] {существительное} предложение [3]'>**offer**<span class='tip-text'> </span></span> he couldn't <span class='tip-wrap' data-text='refuse [рэфйУз] {глагол} отказываться'>**refuse**<span class='tip-text'> </span></span>. Luca held a gun to his head and my father told him that if he didn't agree to let Johnny go, Luca would <span class='tip-wrap' data-text='blow [блOу] {глагол} дуть'>**blow**<span class='tip-text'> </span></span> his brains out."
+
+«Мой отец сделал ему предложение, от которого он не смог отказаться. Лука приставил пистолет к его виску, и мой отец сказал ему, что, если он не согласится отпустить Джонни, Лука вышибет ему мозги».
+
+At first Kay didn't say anything. She thought Michael was joking. But Michael wasn't smiling. "That's a true story, Kay," he said <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span>. Then he saw Kay beginning to look worried, a little frightened, so he squeezed her hand and added quickly: "That's my family, Kay. That's not me."
+
+Сначала Кей ничего не сказал. Она думала, что Майкл шутит. Но Майкл не улыбался. — Это правдивая история, Кей, — тихо сказал он. Затем он увидел, что Кей начала выглядеть обеспокоенной и немного испуганной, поэтому сжал ее руку и быстро добавил: «Это моя семья, Кей. Это не я».
+
+I don't know what to do, Godfather. "Johnny Fontane sat on the corner of the desk in Don Corleone's dark office and shook his head helplessly. Don Corleone was sitting in his leather chair, listening <span class='tip-wrap' data-text='carefully [кЕрфэли] {наречие} бережно'>**carefully**<span class='tip-text'> </span></span> to his favourite godson. He had, after all, travelled   two   thousand   miles from California to be at his daughter's <span class='tip-wrap' data-text='wedding [уЕдыŋ] {существительное} свадьба [3]; венчание [3]; бракосочетание [2]'>**wedding**<span class='tip-text'> </span></span>. "My voice is <span class='tip-wrap' data-text='weak [уИк] {прилагательное} слабый [3]'>**weak**<span class='tip-text'> </span></span>, "Johnny went on. "I can't sing as well as I used to. There's a part in a film that I want. It would be perfect for me. If I had this part, I'd be a top star again. But the <span class='tip-wrap' data-text='boss [бАс] {существительное} босс [3]; хозяин [2]; шеф [2]; руководитель [2]; выступ [2]'>**boss**<span class='tip-text'> </span></span> of the film company, Jack Woltz, won't give me the part. Can you help me?"
+
+Я не знаю, что делать, Крестный отец. «Джонни Фонтейн сидел на углу стола в темном кабинете дона Корлеоне и беспомощно качал головой. Дон Корлеоне сидел в своем кожаном кресле, внимательно слушая своего любимого крестника. В конце концов, он проехал две тысячи миль из Калифорнии в быть на свадьбе своей дочери. «У меня слабый голос, — продолжал Джонни, — я не могу петь так хорошо, как раньше. В фильме есть роль, которую я хочу. Это было бы идеально для меня. Если бы у меня была эта роль, я бы снова стал звездой. Но босс кинокомпании Джек Вольц не дал мне эту роль. Вы можете помочь мне?"
+
+" Go and rest," Don Corleone said. His voice was soft, but there was a <span class='tip-wrap' data-text='rough [рАф] {прилагательное} грубый [3]; черновой [2]; приблизительный [2]; бурный [2]; шероховатый [2]'>**rough**<span class='tip-text'> </span></span> quality to it that made everybody listen. It was a voice impossible to <span class='tip-wrap' data-text='argue [Аргйу] {глагол} спорить; утверждать; рассуждать'>**argue**<span class='tip-text'> </span></span> with. Something to do with the way he spoke without moving his mouth. "In a month, this man will give you what you want."
+
+«Иди и отдохни», — сказал дон Корлеоне. Его голос был мягким, но в нем была какая-то грубость, заставившая всех прислушаться. С этим голосом невозможно было спорить. Что-то связано с тем, как он говорил, не двигая ртом. «Через месяц этот человек даст тебе то, что ты хочешь».
+
+"Too late," Johnny looked at his godfather unhappily. "They start filming in a week."
+
+— Слишком поздно, — Джонни несчастно посмотрел на своего крестного. «Они начнут снимать через неделю».
+
+Don Corleone stood up and put a fatherly <span class='tip-wrap' data-text='arm [Арм] {существительное} отделение (осн. рука)'>**arm**<span class='tip-text'> </span></span> around Johnny's <span class='tip-wrap' data-text='shoulder [шOулдэр] {существительное} плечо; обочина'>**shoulder**<span class='tip-text'> </span></span>. "I'm going to make this man an <span class='tip-wrap' data-text='offer [Офэр] {существительное} предложение [3]'>**offer**<span class='tip-text'> </span></span> he can't <span class='tip-wrap' data-text='refuse [рэфйУз] {глагол} отказываться'>**refuse**<span class='tip-text'> </span></span>," he said, leading Johnny <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the door. "Now, go and enjoy yourself He kissed Johnny on the <span class='tip-wrap' data-text='cheek [чИк] {существительное} щека [3]; наглость [2]'>**cheek**<span class='tip-text'> </span></span>, shut the door and turned to Tom Hagen, who had heard everything.
+
+Дон Корлеоне встал и по-отечески обнял Джонни за плечо. «Я собираюсь сделать этому человеку предложение, от которого он не сможет отказаться», — сказал он, ведя Джонни к двери. «А теперь иди и наслаждайся. Он поцеловал Джонни в щеку, закрыл дверь и повернулся к Тому Хагену, который все слышал.
+
+"What are we going to do with your daughter's new husband?" Tom asked. "Shall we give him anything important to do?"
+
+«Что мы будем делать с новым мужем вашей дочери?» — спросил Том. — Дадим ему что-нибудь важное?
+
+"No," Don Corleone replied. "Give him something small. A betting shop, maybe. But never discuss the family business with him."
+
+«Нет», — ответил дон Корлеоне. «Дайте ему что-нибудь маленькое. Может быть, букмекерскую контору. Но никогда не обсуждайте с ним семейные дела».
+
+"Virgil Sollozzo called, "Tom went on. "He wants to meet you next week."
+
+«Позвонил Вирджил Солоццо», — продолжил Том. «Он хочет встретиться с тобой на следующей неделе».
+
+"We'll discuss that after you get back from California." Tom looked surprised. "Why am I going to California?"
+
+«Мы обсудим это после того, как ты вернешься из Калифорнии». Том выглядел удивленным. «Почему я еду в Калифорнию?»
+
+I want you to help Johnny. You're going to talk to this Jack Woltz. I want you to go tonight. And now, if there's no other business, I'd like to go to my daughter's <span class='tip-wrap' data-text='wedding [уЕдыŋ] {существительное} свадьба [3]; венчание [3]; бракосочетание [2]'>**wedding**<span class='tip-text'> </span></span>."
+
+Я хочу, чтобы ты помог Джонни. Ты поговоришь с этим Джеком Вольцем. Я хочу, чтобы ты ушел сегодня вечером. А теперь, если нет других дел, я бы хотел пойти на свадьбу дочери».
+
+With these words, Don Corleone left Tom <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span> in the office, went outside, took his daughter by the hand and danced with her to the slow, Sicilian music.
+
+С этими словами дон Корлеоне оставил Тома одного в кабинете, вышел на улицу, взял дочь за руку и потанцевал с ней под медленную сицилийскую музыку.
+
+## Chapter 2 The Greatest Racehorse in the World
+
+## Глава 2 Величайшая скаковая лошадь в мире
+
+Tom Hagen arrived in Hollywood early the next morning. From the airport he went <span class='tip-wrap' data-text='straight [стрЕйт] {наречие} прямо'>**straight**<span class='tip-text'> </span></span> to his hotel, showered, shaved, and had breakfast. Then he drove to the film company for his meeting with Jack Woltz at ten o'clock.
+
+Том Хаген прибыл в Голливуд рано утром следующего дня. Из аэропорта он сразу отправился в отель, принял душ, побрился и позавтракал. Затем он поехал в кинокомпанию на встречу с Джеком Вольцем в десять часов.
+
+Jack Woltz was giving a birthday party for one of his young girl stars in front of a lot of reporters. Tom waited patiently. Finally, Woltz walked up to him. He was a tall man with <span class='tip-wrap' data-text='thick [θЫк] {прилагательное} толстый; густой'>**thick**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='silver [сЫлвэр] {существительное} серебро [3]'>**silver**<span class='tip-text'> </span></span> hair, <span class='tip-wrap' data-text='expensive [ыкспЕнсыв] {прилагательное} дорогой'>**expensive**<span class='tip-text'> </span></span> clothes and a hard, unfriendly face.
+
+Джек Вольц устраивал вечеринку по случаю дня рождения одной из своих юных звезд на глазах у множества репортеров. Том терпеливо ждал. Наконец, Вольц подошел к нему. Это был высокий мужчина с густыми серебристыми волосами, дорогой одеждой и суровым, недружелюбным лицом.
+
+"OK, start talking," he said to Tom. "I'm a busy man."
+
+«Хорошо, начинай говорить», — сказал он Тому. «Я занятой человек».
+
+I was sent by a friend of Johnny Fontane, "Tom said. "He would be very grateful to you if you could do him a small favour."
+
+Меня прислал друг Джонни Фонтейн, — сказал Том. — Он был бы вам очень благодарен, если бы вы могли оказать ему небольшую услугу».
+
+"I'm listening, "Woltz said, busily signing papers.
+
+«Я слушаю», — сказал Вольц, деловито подписывая бумаги.
+
+"Give Johnny the part in that new war film you're going to make."
+
+«Дайте Джонни роль в новом военном фильме, который вы собираетесь снять».
+
+Woltz stopped writing and laughed. He took Tom by the <span class='tip-wrap' data-text='arm [Арм] {существительное} отделение (осн. рука)'>**arm**<span class='tip-text'> </span></span>, as if he was an old friend, and led him <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the door. "And if I gave Johnny Fontane this part, what favour would your friend do for me? "he said. "You have some problems with your workers," Tom said. "My friend could make these problems <span class='tip-wrap' data-text='disappear [дЫсэпЫр] {глагол} исчезать'>**disappear**<span class='tip-text'> </span></span>. You also have a top star who's taking drugs
+
+Вольц перестал писать и засмеялся. Он взял Тома за руку, как будто он был старым другом, и повел его к двери. «А если бы я отдал эту роль Джонни Фонтейну, какую услугу оказывал бы мне твой друг?» - сказал он. «У вас проблемы с вашими работниками», — сказал Том. «Мой друг мог бы решить эти проблемы. У вас также есть звезда, которая принимает наркотики.
+
+But Jack Woltz had heard <span class='tip-wrap' data-text='enough [ынАф] {наречие} достаточно'>**enough**<span class='tip-text'> </span></span>. "Listen to me!" he shouted angrily. "You tell your <span class='tip-wrap' data-text='boss [бАс] {существительное} босс [3]; хозяин [2]; шеф [2]; руководитель [2]; выступ [2]'>**boss**<span class='tip-text'> </span></span>, whoever he is, that Johnny Fontane will never get that film". You don't frighten me!"
+
+Но Джек Вольц услышал достаточно. "Послушай меня!" - крикнул он сердито. «Скажите своему боссу, кем бы он ни был, что Джонни Фонтейн никогда не получит этот фильм». Ты меня не пугаешь!»
+
+"I'm a lawyer, "Tom said calmly. "I'm not trying to frighten you."
+
+«Я юрист», — спокойно сказал Том. «Я не пытаюсь тебя напугать».
+
+I know all the lawyers in New York," said Jack Woltz, "but I've never heard of you. Who are you?"
+
+Я знаю всех адвокатов в Нью-Йорке, — сказал Джек Вольц, — но никогда о вас не слышал. Кто ты?"
+
+I work for one special family, "Tom said. "Now, you have my number. I'll wait for your call." He shook Woltz's hand and added, before leaving: "By the way, I like your films very <span class='tip-wrap' data-text='much [мАч] {наречие} много; гораздо'>**much**<span class='tip-text'> </span></span>."
+
+Я работаю в одной особенной семье, - сказал Том. - Теперь у тебя есть мой номер. Я буду ждать вашего звонка». Он пожал Вольцу руку и добавил перед уходом: «Кстати, мне очень нравятся ваши фильмы».
+
+Tom was <span class='tip-wrap' data-text='sure [шУр] {прилагательное} верный; уверенный'>**sure**<span class='tip-text'> </span></span> that, when Woltz realized who he worked for, he would call. And he was right. Late that afternoon, a car picked him up from the hotel and drove him out of the city to Jack Woltz's home in the country.
+
+Том был уверен, что, когда Вольц поймет, на кого он работает, он позвонит. И он был прав. Ближе к вечеру машина забрала его из отеля и отвезла из города в загородный дом Джека Вольца.
+
+Woltz's house looked like something from a film. It was a huge pink- walled house surrounded by beautiful gardens, lakes and fields full of horses. Woltz welcomed Tom like an old friend, gave him a drink and showed him around.
+
+Дом Вольца выглядел как кадр из фильма. Это был огромный дом с розовыми стенами, окруженный прекрасными садами, озерами и полями, полными лошадей. Вольц встретил Тома как старого друга, напоил его и показал окрестности.
+
+"Why didn't you tell me you worked for Corleone, Tom?" he asked. "I don't like to use his name unless it's really necessary."
+
+«Почему ты не сказал мне, что работал на Корлеоне, Том?» он спросил. «Я не люблю использовать его имя, если это действительно не необходимо».
+
+Woltz took Tom by the <span class='tip-wrap' data-text='arm [Арм] {существительное} отделение (осн. рука)'>**arm**<span class='tip-text'> </span></span>. "Come with me, Tom," he said. "I want to show you something really beautiful."
+
+Вольц взял Тома за руку. «Пойдем со мной, Том», — сказал он. «Я хочу показать тебе что-то действительно красивое».
+
+Woltz led Tom into a white building which was guarded by private detectives. Inside the building there were rows of horses. Woltz led Tom <span class='tip-wrap' data-text='straight [стрЕйт] {наречие} прямо'>**straight**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> a beautiful horse with <span class='tip-wrap' data-text='smooth [смУð] {прилагательное} гладкий [3]; плавный [3]; ровный [2]'>**smooth**<span class='tip-text'> </span></span> black skin and a large, white, diamond-shaped mark between its eyes.
+
+Вольц привел Тома в белое здание, которое охраняли частные детективы. Внутри здания стояли ряды лошадей. Вольц повел Тома прямо к красивой лошади с гладкой черной кожей и большой белой ромбовидной отметиной между глазами.
+
+"You have an eye for beauty, don't you, Tom?" Woltz said proudly. "This is Khartoum, the greatest racehorse in the world. I bought him in England for $600,000." He looked lovingly into the animal's <span class='tip-wrap' data-text='enormous [ынОрмэс] {прилагательное} огромный'>**enormous**<span class='tip-text'> </span></span> dark eyes for a long time, talking to it softly like a lover, forgetting about Tom. Tom coughed with embarrassment. Woltz touched the horse one last time on the neck, then said to Tom: "Let's go and have dinner." "Corleone is Johnny's godfather," Tom began to explain at dinner. Although there were only two people at the table, the food was served by three waiters. "To Italians, that's very important."
+
+«Ты ценишь красоту, не так ли, Том?» - гордо сказал Вольц. «Это Хартум, величайшая скаковая лошадь в мире. Я купил ее в Англии за 600 000 долларов». Он долго и с любовью смотрел в огромные темные глаза животного, нежно разговаривая с ним, как с возлюбленным, забывая о Томе. Том смущенно кашлянул. Вольц в последний раз коснулся шеи лошади, затем сказал Тому: «Пойдем пообедать». «Корлеоне — крестный отец Джонни», — начал объяснять Том за ужином. Хотя за столом сидело всего два человека, еду обслуживали три официанта. «Для итальянцев это очень важно».
+
+I <span class='tip-wrap' data-text='respect [рыспЕкт] {глагол} уважать [3]; соблюдать [3]'>**respect**<span class='tip-text'> </span></span> that, "Woltz said. "Just tell him he can ask me anything he likes. But not this. This is one favour I can't give him."
+
+Я уважаю это», — сказал Вольц. «Просто скажите ему, что он может спрашивать меня о чем угодно. Но не это. Это единственная услуга, которую я не могу ему оказать».
+
+"He never asks a second favour when the first one is refused." Tom gave Woltz a <span class='tip-wrap' data-text='warning [уОрныŋ] {существительное} предупреждение [3]; предостережение [2]'>**warning**<span class='tip-text'> </span></span> look. "Understood?"
+
+«Он никогда не просит о второй услуге, если в первой ему отказывают». Том предупреждающе посмотрел на Вольца. "Понял?"
+
+This made Woltz angry. "No," he said, pointing his finger <span class='tip-wrap' data-text='across [экрОс] {предлог} через'>**across**<span class='tip-text'> </span></span> the table at Tom. "You don't understand. Johnny Fontane never
+
+Это разозлило Вольца. — Нет, — сказал он, указывая пальцем через стол на Тома. «Вы не понимаете. Джонни Фонтейн никогда не
+
+gets that film. The part is perfect for him. It'd make him a big star. But I'm not going to give it to him. And do you know why?" He stood up and began to move slowly around the table <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> Tom. "I had a beautiful young actress. She was going to be a star. I spent hundreds of thousands of dollars on her, singing lessons, acting lessons, dancing lessons. Then Johnny Fontane came along and took her away from me. I lost her. He made me look stupid, and that's something I can never forgive. That's why I'll make <span class='tip-wrap' data-text='sure [шУр] {прилагательное} верный; уверенный'>**sure**<span class='tip-text'> </span></span> that Johnny Fontane never works in films. Now, you get out of here! And if your <span class='tip-wrap' data-text='boss [бАс] {существительное} босс [3]; хозяин [2]; шеф [2]; руководитель [2]; выступ [2]'>**boss**<span class='tip-text'> </span></span> wants to frighten me, tell him I'm no <span class='tip-wrap' data-text='band [бЭнд] {существительное} полоса (также банда)'>**band**<span class='tip-text'> </span></span>-leader!"
+
+получит этот фильм. Эта роль ему идеально подходит. Это сделало бы его большой звездой. Но я не собираюсь ему это давать. И знаете почему? Он встал и начал медленно двигаться вокруг стола к Тому. «У меня была красивая молодая актриса. Она собиралась стать звездой. Я потратил на нее сотни тысяч долларов, уроки пения, актерского мастерства, уроки танцев. Потом появился Джонни Фонтейн и забрал ее у меня. Я ее потерял. Он заставил меня выглядеть глупо, и этого я никогда не смогу простить. Поэтому я позабочусь о том, чтобы Джонни Фонтейн никогда не работал в кино. А теперь уходи отсюда! А если твой босс хочет меня напугать, скажи ему, что я не руководитель группы!»
+
+Tom waited <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> Woltz had finished. "Thank you for the dinner," he said <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span>. "Could your car take me to the airport now, please? Mr. Corleone is a man who likes to hear bad news immediately."
+
+Том подождал, пока Вольц закончит. — Спасибо за ужин, — тихо сказал он. «Не могла бы ваша машина отвезти меня сейчас в аэропорт, пожалуйста? Мистер Корлеоне — человек, который любит сразу же услышать плохие новости».
+
+Then without another word he left the table, took his hat from one of the servants and walked quickly out of the room.
+
+Затем, не говоря больше ни слова, он вышел из-за стола, взял шляпу у одного из слуг и быстро вышел из комнаты.
+
+Jack Woltz was sleeping <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span> in his <span class='tip-wrap' data-text='enormous [ынОрмэс] {прилагательное} огромный'>**enormous**<span class='tip-text'> </span></span> bed. For some reason, this morning he woke up earlier than <span class='tip-wrap' data-text='usual [йУжэуэл] {прилагательное} обычный [3]'>**usual**<span class='tip-text'> </span></span>. The room was getting light. Everything was <span class='tip-wrap' data-text='quiet [куАйэт] {прилагательное} тихий'>**quiet**<span class='tip-text'> </span></span>. But he could feel that there was something wrong. He turned over and saw that there were wet red marks on his bedclothes. His night-<span class='tip-wrap' data-text='shirt [шЭрт] {существительное} рубашка'>**shirt**<span class='tip-text'> </span></span> felt sticky, and there was a horrible <span class='tip-wrap' data-text='smell [смЕл] {существительное} запах [3]; обоняние [3]'>**smell**<span class='tip-text'> </span></span> in the room. He lifted the bedclothes <span class='tip-wrap' data-text='off [Оф] {предлог} от; у'>**off**<span class='tip-text'> </span></span> his body and looked down. His nightshirt was covered in blood. Without <span class='tip-wrap' data-text='thinking [θЫŋкыŋ] {существительное} мышление'>**thinking**<span class='tip-text'> </span></span>, he sat up and pulled the bedclothes <span class='tip-wrap' data-text='off [Оф] {предлог} от; у'>**off**<span class='tip-text'> </span></span> his bed <span class='tip-wrap' data-text='completely [кэмплИтли] {наречие} полностью'>**completely**<span class='tip-text'> </span></span>. The <span class='tip-wrap' data-text='shock [шАк] {существительное} шок [3]; удар [3]; потрясение [2]; толчок [2]'>**shock**<span class='tip-text'> </span></span> of what he saw nearly killed him. At first he couldn't <span class='tip-wrap' data-text='breathe [брИð] {глагол} дышать [3]; вдыхать [3]; подышать [2]; вздохнуть [2]; выдыхать [2]'>**breathe**<span class='tip-text'> </span></span>. He felt <span class='tip-wrap' data-text='sick [сЫк] {прилагательное} больной'>**sick**<span class='tip-text'> </span></span>. Then, a moment later, he was filled with an animal <span class='tip-wrap' data-text='fear [фЫр] {существительное} страх'>**fear**<span class='tip-text'> </span></span>. He opened his mouth and screamed.
+
+Джек Вольц спал один на своей огромной кровати. По какой-то причине сегодня утром он проснулся раньше обычного. В комнате стало светло. Все было тихо. Но он чувствовал, что что-то не так. Он перевернулся и увидел, что на его постельном белье были мокрые красные пятна. Его ночная рубашка была липкой, и в комнате стоял ужасный запах. Он снял с тела одеяло и посмотрел вниз. Его ночная рубашка была вся в крови. Недолго думая, он сел и полностью сдернул с кровати одеяло. Шок от увиденного чуть не убил его. Сначала он не мог дышать. Ему стало плохо. Затем, мгновение спустя, его наполнил животный страх. Он открыл рот и закричал.
+
+For there, at the bottom of his bed, was the beautiful black head of his favourite racehorse, Khartoum. Somebody had cut it
+
+Там, на изножье его кровати, лежала прекрасная черная голова его любимой скаковой лошади Хартума. Кто-то разрезал это
+
+off during the night and put it in his bed while he was sleeping. It was stuck to the bed in a <span class='tip-wrap' data-text='thick [θЫк] {прилагательное} толстый; густой'>**thick**<span class='tip-text'> </span></span> cake of blood, its mouth open, its huge round eyes staring at him like pieces of half-eaten fruit.
+
+выключить на ночь и положить его в постель, пока он спит. Он прилип к кровати толстым слоем крови, с открытой пастью и огромными круглыми глазами, уставившимися на него, словно кусочки недоеденного фрукта.
+
+Jack Woltz's screams woke all the servants. Six hours later, Johnny Fontane received a phone call telling him that he had the part that he wanted in the film.
+
+Крики Джека Вольца разбудили всех слуг. Шесть часов спустя Джонни Фонтейну позвонили и сообщили, что он получил в фильме ту роль, которую хотел.
+
+## Chapter 3 Virgil Sollozzo
+
+## Глава 3 Вирджил Солоццо
+
+Virgil Sollozzo was excellent at killing people with a <span class='tip-wrap' data-text='knife [нАйф] {существительное} нож [3]'>**knife**<span class='tip-text'> </span></span>. He was a strongly-built man with dark eyes and a wide, cruel mouth, but today he was trying to be polite and friendly. He had an important favour to ask, which was why he had asked for this meeting with Don Corleone.
+
+Вирджил Солоццо превосходно убивал людей ножом. Это был мужчина крепкого телосложения с темными глазами и широким жестоким ртом, но сегодня он старался быть вежливым и дружелюбным. У него была важная просьба, и именно поэтому он попросил о встрече с доном Корлеоне.
+
+"Don Corleone," he smiled warmly. "I need money to help me start a new business in drugs," he said. "If you give me one million dollars, I can <span class='tip-wrap' data-text='promise [прАмэс] {глагол} обещать'>**promise**<span class='tip-text'> </span></span> you between three and four million dollars in your first year. After that, you'll get even more."
+
+«Дон Корлеоне», — тепло улыбнулся он. «Мне нужны деньги, чтобы начать новый бизнес в сфере наркотиков», — сказал он. «Если вы дадите мне один миллион долларов, я могу пообещать вам от трех до четырех миллионов долларов в первый год. После этого вы получите еще больше».
+
+Don Corleone said nothing at first. He seemed to be thinking. He looked around the room, at Sonny and Tom Hagen, and at Clemenza and Tessio, his two oldest friends. They were all watching him <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span> with serious faces, waiting to hear his reply. Finally, he turned back to Sollozzo. "Why do you come to me?" he asked in his <span class='tip-wrap' data-text='usual [йУжэуэл] {прилагательное} обычный [3]'>**usual**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='rough [рАф] {прилагательное} грубый [3]; черновой [2]; приблизительный [2]; бурный [2]; шероховатый [2]'>**rough**<span class='tip-text'> </span></span> whisper.
+
+Дон Корлеоне сначала ничего не сказал. Он, казалось, думал. Он оглядел комнату, на Сонни и Тома Хагена, а также на Клеменцу и Тессио, двух своих старых друзей. Все они спокойно смотрели на него с серьезными лицами, ожидая услышать его ответ. Наконец он снова повернулся к Солоццо. «Почему ты приходишь ко мне?» — спросил он своим обычным грубым шепотом.
+
+"I need a man who has important friends," Sollozzo said, lowering his eyes respectfully <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the Don.
+
+«Мне нужен человек, у которого есть важные друзья», — сказал Солоццо, почтительно опуская глаза на дона.
+
+"And what about the Tattaglia family? How much will they get?" Sollozzo looked surprised. He didn't know that Don Corleone had discovered that he worked with the Tattaglias. He nodded his congratulations in the direction of Tom Hagen, who had obviously done his homework, and turned back to Don
+
+«А как насчет семьи Татталья? Сколько они получат?» Солоццо выглядел удивленным. Он не знал, что дон Корлеоне обнаружил, что он работает с Татталья. Он кивнул в сторону Тома Хагена, который, очевидно, сделал домашнее задание, и снова повернулся к Дону.
+
+Corleone. "Don't worry," he said. "I'll pay the Tattaglias from my own money."
+
+Корлеоне. «Не волнуйтесь», — сказал он. «Я заплачу Татталья из своих денег».
+
+Don Corleone didn't <span class='tip-wrap' data-text='reply [рыплАй] {глагол} отвечать [3]'>**reply**<span class='tip-text'> </span></span>. He stood up slowly, took a bottle from the table and politely offered Sollozzo some more wine. Sollozzo watched with a worried look as the Don sat down next to him.
+
+Дон Корлеоне не ответил. Он медленно встал, взял со стола бутылку и вежливо предложил Солоццо еще вина. Солоццо с беспокойством наблюдал, как дон сел рядом с ним.
+
+Finally, Don Corleone spoke. "I said that I would see you because I heard you were a serious man. You are a man I should <span class='tip-wrap' data-text='respect [рыспЕкт] {глагол} уважать [3]; соблюдать [3]'>**respect**<span class='tip-text'> </span></span>. But I must <span class='tip-wrap' data-text='refuse [рэфйУз] {глагол} отказываться'>**refuse**<span class='tip-text'> </span></span> your <span class='tip-wrap' data-text='offer [Офэр] {существительное} предложение [3]'>**offer**<span class='tip-text'> </span></span>. I will give you my reasons. It's true I have a lot of important friends in Government and the Law. But they wouldn't be my friends if they knew my business was drugs. Drugs is a dirty business."
+
+Наконец, дон Корлеоне заговорил. «Я сказал, что увижу вас, потому что слышал, что вы серьезный человек. Вы человек, которого я должен уважать. Но я должен отказаться от вашего предложения. Я изложу вам свои причины. Это правда, что у меня много важных друзей в правительстве. и Закон. Но они не были бы моими друзьями, если бы знали, что мой бизнес — наркотики — грязный бизнес».
+
+"But nobody will know," Sollozzo said. "I <span class='tip-wrap' data-text='promise [прАмэс] {глагол} обещать'>**promise**<span class='tip-text'> </span></span> you the Tattaglias will make <span class='tip-wrap' data-text='sure [шУр] {прилагательное} верный; уверенный'>**sure**<span class='tip-text'> </span></span> that nobody finds out."
+
+«Но никто не узнает», — сказал Солоццо. «Я обещаю вам, что Татталья позаботятся о том, чтобы никто не узнал».
+
+Don Corleone opened his mouth to <span class='tip-wrap' data-text='reply [рыплАй] {глагол} отвечать [3]'>**reply**<span class='tip-text'> </span></span> but, before he could speak, Sonny said: "Are you saying that the Tattaglias can <span class='tip-wrap' data-text='promise [прАмэс] {глагол} обещать'>**promise**<span class='tip-text'> </span></span> that they'll...?"
+
+Дон Корлеоне открыл было рот, чтобы ответить, но, прежде чем он успел заговорить, Сонни сказал: «Вы хотите сказать, что Татталья могут пообещать, что они...?»
+
+He didn't finish his question. He saw a cold look in his father's eye and stopped talking at once. Don Corleone turned back to Sollozzo. "I apologize for my children," he said. "They talk when they should listen. But Signor Sollozzo, my no is final. I congratulate you on your new business, and I wish you <span class='tip-wrap' data-text='luck [лАк] {существительное} удача [3]; счастье [3]; везение [2]; судьба [2]'>**luck**<span class='tip-text'> </span></span>. Your business is different from mine. We mustn't be enemies. Thank you."
+
+Он не закончил свой вопрос. Он увидел холодный взгляд в глазах отца и сразу замолчал. Дон Корлеоне снова повернулся к Солоццо. «Я извиняюсь за своих детей», — сказал он. «Они говорят, когда им следует слушать. Но синьор Солоццо, мое «нет» окончательное. Поздравляю вас с новым бизнесом и желаю вам удачи. Ваш бизнес отличается от моего. Мы не должны быть врагами. Спасибо».
+
+Don Corleone got to his feet, and everybody stood up too. Sollozzo was angry, but he hid his feelings from the others. He politely shook Don Corleone's hand and walked out of the room.
+
+Дон Корлеоне поднялся на ноги, и все тоже встали. Солоццо разозлился, но скрыл свои чувства от остальных. Он вежливо пожал руку дону Корлеоне и вышел из комнаты.
+
+Don Corleone waited for Tessio, Clemenza and Tom to leave the room, but called Sonny back. He stared up into his son's eyes for a moment, then said in an angry whisper: "What's wrong with you? Has your brain gone soft?"
+
+Дон Корлеоне дождался, пока Тессио, Клеменца и Том выйдут из комнаты, но перезвонил Сонни. На мгновение он посмотрел в глаза сына, а затем сказал сердитым шепотом: «Что с тобой не так? Твой мозг размягчился?»
+
+Sonny looked away, <span class='tip-wrap' data-text='unable [энЕйбэл] {прилагательное} неспособный [2]'>**unable**<span class='tip-text'> </span></span> to look his father in the eye.
+
+Сонни отвернулся, не в силах смотреть отцу в глаза.
+
+"I know you think this drugs business is a good idea. I know you think it's the business of the future, and I'm just a stupid old-fashioned man. But never tell anyone outside the family what you're thinking again." Sonny looked surprised at first, and then a little angry. But he was too afraid of his father to <span class='tip-wrap' data-text='argue [Аргйу] {глагол} спорить; утверждать; рассуждать'>**argue**<span class='tip-text'> </span></span> with him. He lowered his head respectfully, turned <span class='tip-wrap' data-text='round [рАунд] {прилагательное} круглый [3]'>**round**<span class='tip-text'> </span></span> and left the room.
+
+«Я знаю, ты думаешь, что этот наркобизнес — хорошая идея. Я знаю, ты думаешь, что это бизнес будущего, а я просто глупый старомодный человек. Но никогда больше не говори никому, кроме семьи, о том, что ты думаешь. " Сонни сначала выглядел удивленным, а затем немного рассерженным. Но он слишком боялся отца, чтобы спорить с ним. Он почтительно опустил голову, повернулся и вышел из комнаты.
+
+Don Corleone immediately called Tom Hagen: "Tell Luca Brasi to come in," he said.
+
+Дон Корлеоне немедленно позвонил Тому Хагену: «Скажи Луке Брази, чтобы зашел», — сказал он.
+
+Brasi sat down <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span> in the office with Don Corleone. He had the <span class='tip-wrap' data-text='terrible [тЕрэбэл] {прилагательное} страшный'>**terrible**<span class='tip-text'> </span></span>, frightening face of a <span class='tip-wrap' data-text='killer [кЫлэр] {существительное} убийца [3]; киллер [2]'>**killer**<span class='tip-text'> </span></span>, an <span class='tip-wrap' data-text='enormous [ынОрмэс] {прилагательное} огромный'>**enormous**<span class='tip-text'> </span></span> body that looked as if it was made of rock. But, as he looked at Don Corleone, his <span class='tip-wrap' data-text='dark [дАрк] {существительное} темнота [2]; тьма [2]; тень [1]; потемки [1]; неведение [1]; невежество [1]'>**dark**<span class='tip-text'> </span></span>, unintelligent eyes were soft with respect. He loved his Godfather. And Don Corleone, knowing this, trusted Luca Brasi more than anyone he knew.
+
+Брази сел в офисе наедине с доном Корлеоне. У него было ужасное, устрашающее лицо убийцы, огромное тело, похожее на каменное. Но когда он посмотрел на дона Корлеоне, его темные, неразумные глаза были мягкими и уважительными. Он любил своего крестного отца. И дон Корлеоне, зная это, доверял Луке Брази больше, чем кому-либо из своих знакомых.
+
+"I'm worried about Sollozzo," Don Corleone said. "I want you to find out what he's hiding, what he's got under his fingernails. Do you understand? Go to the Tattaglias. Pretend that you're not happy with our family and that you want to work for them. Then tell me what you find out."
+
+«Я беспокоюсь о Солоццо», - сказал Дон Корлеоне. «Я хочу, чтобы ты узнал, что он скрывает, что у него под ногтями. Ты понимаешь? Иди к Таттальяс. Притворись, что тебя не устраивает наша семья и что ты хочешь работать на них. Тогда скажи мне, что Вы узнаете."
+
+Luca Brasi asked no questions. He nodded once, lifted his mountainous body to its feet, and walked out of the room, <span class='tip-wrap' data-text='proud [прАуд] {прилагательное} гордый [3]'>**proud**<span class='tip-text'> </span></span> to do <span class='tip-wrap' data-text='whatever [уАтЕвэр] {определитель} что/какой бы ни'>**whatever**<span class='tip-text'> </span></span> his Godfather asked him to do.
+
+Лука Брази не задавал вопросов. Он кивнул, поднял свое гористое тело на ноги и вышел из комнаты, гордый тем, что сделал все, что попросил его крестный отец.
+
+For the next few weeks, Luca Brasi went <span class='tip-wrap' data-text='regularly [рЕгйэлэрли] {наречие} регулярно [3]; правильно [2]'>**regularly**<span class='tip-text'> </span></span> to the night-dubs controlled by the Tattaglia family. He made contact with Bruno Tattaglia, the youngest son and manager of the night-dubs. He told Bruno he was dissatisfied with the Corleone family. For a <span class='tip-wrap' data-text='couple [кАпэл] {существительное} пара'>**couple**<span class='tip-text'> </span></span> of months, nothing happened. Then one night, a few days before Christmas, Bruno told Luca he had a friend who wanted a private meeting with him. Who is he?" Luca wanted to know.
+
+В течение следующих нескольких недель Лука Брази регулярно ходил в ночные клубы, контролируемые семьей Татталья. Он связался с Бруно Таттальей, младшим сыном и менеджером ночного дубляжа. Он сказал Бруно, что недоволен семьей Корлеоне. За пару месяцев ничего не произошло. Однажды ночью, за несколько дней до Рождества, Бруно сказал Луке, что у него есть друг, который хочет встретиться с ним наедине. Кто он?» Лука хотел знать.
+
+"Just a friend," said Bruno. "He wants to offer you something. Can you meet him here, after the club closes? Four o'clock tomorrow morning?" Luca went back to his room and got ready. He thought for a moment about calling the Godfather to tell him about the meeting, but decided not to. Don Corleone never talked over the phone. As well as this, his job was <span class='tip-wrap' data-text='completely [кэмплИтли] {наречие} полностью'>**completely**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='secret [сИкрэт] {прилагательное} секретный [3]; тайный [2]'>**secret**<span class='tip-text'> </span></span>. Not even Sonny or Tom Hagen knew what the Godfather had asked him to do. So he took out a gun, hid it under his <span class='tip-wrap' data-text='jacket [джЭкэт] {существительное} куртка [3]; жакет [3]; рубашка [2]'>**jacket**<span class='tip-text'> </span></span>, lay on the bed and waited.
+
+«Просто друг», — сказал Бруно. «Он хочет тебе кое-что предложить. Ты можешь встретиться с ним здесь, после закрытия клуба? Завтра в четыре часа утра?» Лука вернулся в свою комнату и приготовился. Он на мгновение подумал, не позвонить ли крестному отцу и рассказать о встрече, но решил не делать этого. Дон Корлеоне никогда не разговаривал по телефону. Кроме того, его работа была совершенно секретной. Даже Сонни и Том Хаген не знали, о чем его просил Крестный отец. Поэтому он достал пистолет, спрятал его под куртку, лег на кровать и стал ждать.
+
+Luca arrived at the night-club just before four in the morning. The doorman had gone, but the door was open. Inside, the club was dark and empty, except for one man standing <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> the <span class='tip-wrap' data-text='bar [бАр] {существительное} полоса (также бар)'>**bar**<span class='tip-text'> </span></span>. It was Bruno Tattaglia. Luca walked <span class='tip-wrap' data-text='across [экрОс] {предлог} через'>**across**<span class='tip-text'> </span></span> to the <span class='tip-wrap' data-text='bar [бАр] {существительное} полоса (также бар)'>**bar**<span class='tip-text'> </span></span> and sat down. Bruno offered him a drink, but Luca shook his head. Moments later, a second man in a dark <span class='tip-wrap' data-text='coat [кOут] {существительное} пальто [3]; слой [3]; шерсть [2]; пиджак [2]; оболочка [2]; шубка [2]'>**coat**<span class='tip-text'> </span></span> and grey hat moved out of the shadows and stood next to Bruno <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> the <span class='tip-wrap' data-text='bar [бАр] {существительное} полоса (также бар)'>**bar**<span class='tip-text'> </span></span>.
+
+Лука прибыл в ночной клуб около четырех утра. Швейцар ушел, но дверь была открыта. Внутри клуба было темно и пусто, за исключением одного мужчины, стоящего за стойкой. Это был Бруно Татталья. Лука подошел к бару и сел. Бруно предложил ему выпить, но Лука покачал головой. Спустя несколько мгновений второй мужчина в темном пальто и серой шляпе вышел из тени и встал рядом с Бруно за стойкой.
+
+"Do you know who I am?" he said in Italian, his face in shadow. "I know you," Luca replied. "You're Sollozzo."
+
+"Ты знаешь кто я?" — сказал он по-итальянски, его лицо было в тени. «Я знаю тебя», — ответил Лука. «Ты Солоццо».
+
+"We need a man like you," said Sollozzo. "Strong and dangerous. I understand you're not happy with the Corleone family. Do you want to <span class='tip-wrap' data-text='join [джОйн] {глагол} соединять (также присоединятся)'>**join**<span class='tip-text'> </span></span> me?"
+
+«Нам нужен такой человек, как вы», — сказал Солоццо. «Сильный и опасный. Я понимаю, что тебя не устраивает семья Корлеоне. Ты хочешь присоединиться ко мне?»
+
+"If the money's good." "$50,000 to start with."
+
+«Если деньги хорошие». «Для начала 50 000 долларов».
+
+Luca nodded slowly, pretending to think. Sollozzo held out his hand. "Do you agree?"
+
+Лука медленно кивнул, делая вид, что думает. Солоццо протянул руку. "Вы согласны?"
+
+Luca looked at Sollozzo's hand but he didn't take it. Instead he took out a cigarette and put it in his mouth. Bruno moved forward with a lighter. Luca rested his hands on the <span class='tip-wrap' data-text='bar [бАр] {существительное} полоса (также бар)'>**bar**<span class='tip-text'> </span></span>, bent forward and lit his cigarette. Bruno put the lighter in his pocket, smiled at Luca and gently touched the <span class='tip-wrap' data-text='back [бЭк] {существительное} спина'>**back**<span class='tip-text'> </span></span> of Luca's hand. Then suddenly, without <span class='tip-wrap' data-text='warning [уОрныŋ] {существительное} предупреждение [3]; предостережение [2]'>**warning**<span class='tip-text'> </span></span>, he took Luca's <span class='tip-wrap' data-text='arm [Арм] {существительное} отделение (осн. рука)'>**arm**<span class='tip-text'> </span></span> with his other hand and held it tight. At the same moment, Sollozzo pulled out a <span class='tip-wrap' data-text='knife [нАйф] {существительное} нож [3]'>**knife**<span class='tip-text'> </span></span> and pushed it <span class='tip-wrap' data-text='straight [стрЕйт] {наречие} прямо'>**straight**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> Luca's hand. Before Luca could move, a third man stepped out of the shadows <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> him and threw a <span class='tip-wrap' data-text='thin [θЫн] {прилагательное} тонкий'>**thin**<span class='tip-text'> </span></span> cord around his <span class='tip-wrap' data-text='thick [θЫк] {прилагательное} толстый; густой'>**thick**<span class='tip-text'> </span></span> neck. The cord pulled tight. He tried to fight, but he couldn't get his hands up to the cord around his neck. They had planned everything perfectly. While Sollozzo and Bruno Tattaglia held one hand down, his other hand was pinned to the <span class='tip-wrap' data-text='bar [бАр] {существительное} полоса (также бар)'>**bar**<span class='tip-text'> </span></span> with the <span class='tip-wrap' data-text='knife [нАйф] {существительное} нож [3]'>**knife**<span class='tip-text'> </span></span>. The cord pulled tighter and tighter, cutting into his <span class='tip-wrap' data-text='throat [θрOут] {существительное} горло [3]; глотка [3]; гортань [2]; горловина [2]'>**throat**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> he finally stopped moving and fell slowly to the floor. But Sollozzo, Tattaglia and the other man did not let him go for several more minutes. They needed to be <span class='tip-wrap' data-text='sure [шУр] {прилагательное} верный; уверенный'>**sure**<span class='tip-text'> </span></span> that Luca Brasi, the <span class='tip-wrap' data-text='most [мOуст] {наречие} очень'>**most**<span class='tip-text'> </span></span> dangerous man in the Corleone family, was dead.
+
+Лука посмотрел на руку Солоццо, но не взял ее. Вместо этого он достал сигарету и сунул ее в рот. Бруно двинулся вперед с зажигалкой. Лука оперся руками о стойку, наклонился вперед и закурил сигарету. Бруно положил зажигалку в карман, улыбнулся Луке и нежно коснулся тыльной стороны его руки. Затем внезапно, без предупреждения, другой рукой он взял руку Луки и крепко сжал ее. В тот же момент Солоццо вытащил нож и проткнул им руку Луки. Прежде чем Лука успел пошевелиться, из тени позади него вышел третий мужчина и накинул тонкий шнур на его толстую шею. Шнур натянулся туго. Он пытался бороться, но не мог дотянуться руками до шнура на шее. Они все идеально спланировали. Пока Солоццо и Бруно Татталья удерживали одну руку, его другая рука была прижата к перекладине ножом. Шнур натягивался все туже и туже, врезаясь ему в горло, пока он, наконец, не перестал двигаться и медленно не упал на пол. Но Солоццо, Татталья и еще один мужчина не отпускали его еще несколько минут. Им нужно было убедиться, что Лука Брази, самый опасный человек в семье Корлеоне, мертв.
+
+Later on the same day, Tom Hagen came out of a large shop carrying Christmas presents for his children. Sollozzo was standing in the street, waiting for him.
+
+Позже в тот же день Том Хаген вышел из большого магазина с рождественскими подарками для своих детей. Солоццо стоял на улице и ждал его.
+
+"Happy Christmas, Tom," Sollozzo smiled. Tom nodded nervously.
+
+«Счастливого Рождества, Том», — улыбнулся Солоццо. Том нервно кивнул.
+
+"I'm <span class='tip-wrap' data-text='glad [глЭд] {прилагательное} радостный [2]; довольный [2]; приятный [1]; счастливый [1]; веселый [1]; утешительный [1]; яркий [1]; прекрасный [1]'>**glad**<span class='tip-text'> </span></span> I met you," Sollozzo continued in a friendly voice."I want to talk to you."
+
+«Я рад, что встретил вас, — продолжал Солоццо дружелюбным голосом. — Я хочу поговорить с вами».
+
+"I haven't got time, "Tom said, and began to walk away. But two men stepped forward and stopped him.
+
+«У меня нет времени», — сказал Том и начал уходить. Но двое мужчин шагнули вперед и остановили его.
+
+"Make time, Consigliori," Sollozzo said, suddenly less friendly. "Get in the car." Then, noticing the look of <span class='tip-wrap' data-text='fear [фЫр] {существительное} страх'>**fear**<span class='tip-text'> </span></span> in Tom's eyes, added quickly: "Don't be frightened. If I wanted to kill you, you'd be dead already. <span class='tip-wrap' data-text='trust [трАст] {глагол} доверять'>**Trust**<span class='tip-text'> </span></span> me."
+
+— Найди время, Консильори, — сказал Солоццо, внезапно потеряв дружелюбие. "Забирайся в машину." Затем, заметив страх в глазах Тома, быстро добавил: «Не бойся. Если бы я хотел тебя убить, ты бы уже был мертв. Поверь мне».
+
+Without a word, Tom got into the car.
+
+Не говоря ни слова, Том сел в машину.
+
+Later that same afternoon, not knowing that Sollozzo had killed Luca Brasi and had kidnapped Tom Hagen, Don Corleone finished his work in the offices of his fruit company. He put on his <span class='tip-wrap' data-text='coat [кOут] {существительное} пальто [3]; слой [3]; шерсть [2]; пиджак [2]; оболочка [2]; шубка [2]'>**coat**<span class='tip-text'> </span></span> and said to Fredo, who was reading a newspaper: "Tell Paulie Gatto to bring the car. I want to go home."
+
+Позже в тот же день, не зная, что Солоццо убил Луку Брази и похитил Тома Хагена, дон Корлеоне закончил свою работу в офисе своей фруктовой компании. Он надел пальто и сказал Фредо, читавшему газету: «Скажи Поли Гатто, чтобы пригнал машину. Я хочу домой».
+
+"I'll have to get it myself," Fredo replied. "Gatto's <span class='tip-wrap' data-text='sick [сЫк] {прилагательное} больной'>**sick**<span class='tip-text'> </span></span> today."
+
+«Мне придется получить это самому», — ответил Фредо. «Гатто сегодня заболел».
+
+Don Corleone looked annoyed. "That's the third time this month. Maybe we'd better get another man for the job."
+
+Дон Корлеоне выглядел раздраженным. «Это уже третий раз за этот месяц. Может быть, нам лучше нанять для этой работы другого человека».
+
+Fredo jumped to his feet. "No, I'll get the car. It's OK," he said. "Paulie's a good boy. If he says he's <span class='tip-wrap' data-text='sick [сЫк] {прилагательное} больной'>**sick**<span class='tip-text'> </span></span>, he's <span class='tip-wrap' data-text='sick [сЫк] {прилагательное} больной'>**sick**<span class='tip-text'> </span></span>."
+
+Фредо вскочил на ноги. «Нет, я возьму машину. Все в порядке», — сказал он. «Поли хороший мальчик. Если он говорит, что болен, значит, он болен».
+
+Don Corleone waited inside the door <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> he saw Fredo park the car just outside. There was snow in the air and it was getting dark. He stepped on to the pavement and was about to get into the car when he decided to buy some fruit from the market on the other side of the street. He crossed the road and showed the fruit-seller the exact oranges and grapes that he wanted.
+
+Дон Корлеоне ждал за дверью, пока не увидел Фредо, припарковавшего машину снаружи. В воздухе лежал снег, и начало темнеть. Он вышел на тротуар и собирался сесть в машину, когда решил купить фруктов на рынке на другой стороне улицы. Он перешел дорогу и показал продавцу фруктов именно те апельсины и виноград, которые ему нужны.
+
+He was so busy choosing fruit that he didn't see two men in black hats and long black coats turn the corner and walk quickly <span class='tip-wrap' data-text='along [элОŋ] {предлог} вдоль'>**along**<span class='tip-text'> </span></span> the street <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> him. He took the bag of fruit and paid the fruit-seller. Then he heard the sound of the two men running wards him. Without <span class='tip-wrap' data-text='thinking [θЫŋкыŋ] {существительное} мышление'>**thinking**<span class='tip-text'> </span></span>, he dropped the bag of fruit and surprisingly quickly for a man of his age, back <span class='tip-wrap' data-text='across [экрОс] {предлог} через'>**across**<span class='tip-text'> </span></span> the street <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> his car.
+
+Он был так занят выбором фруктов, что не заметил, как двое мужчин в черных шляпах и длинных черных пальто повернули за угол и быстро пошли к нему по улице. Он взял мешок с фруктами и заплатил продавцу фруктов. Затем он услышал звук двух мужчин, бегущих к нему. Не раздумывая, он бросил пакет с фруктами и на удивление быстро для человека его возраста вернулся через улицу к своей машине.
+
+He had just reached the car when the two men pulled guns out of their coats and began to fire. Don Corleone was hit several times in the <span class='tip-wrap' data-text='back [бЭк] {существительное} спина'>**back**<span class='tip-text'> </span></span>. Fredo, on hearing the sound of guns, jumped out of the car; he was shaking so <span class='tip-wrap' data-text='much [мАч] {наречие} много; гораздо'>**much**<span class='tip-text'> </span></span> with <span class='tip-wrap' data-text='fear [фЫр] {существительное} страх'>**fear**<span class='tip-text'> </span></span> that he dropped his gun before he could use it. But his appearance was <span class='tip-wrap' data-text='enough [ынАф] {наречие} достаточно'>**enough**<span class='tip-text'> </span></span>. On seeing him, the two men stopped shooting and ran away.
+
+Он только добрался до машины, когда двое мужчин вытащили из пальто пистолеты и начали стрелять. Дон Корлеоне получил несколько ударов в спину. Фредо, услышав выстрелы, выскочил из машины; его так трясло от страха, что он уронил пистолет, прежде чем успел им воспользоваться. Но его внешнего вида было достаточно. Увидев его, двое мужчин прекратили стрелять и убежали.
+
+Fredo looked down and saw his father's body lying in a pool of blood. <span class='tip-wrap' data-text='unable [энЕйбэл] {прилагательное} неспособный [2]'>**Unable**<span class='tip-text'> </span></span> to believe what had happened, he sat down in the road next to his father, pulled off his hat and began to cry like a baby.
+
+Фредо посмотрел вниз и увидел тело своего отца, лежащее в луже крови. Не в силах поверить в случившееся, он сел на дороге рядом с отцом, снял шляпу и начал плакать, как ребенок.
+
+## Chapter 4 Sicilian Message
+
+## Глава 4 Сицилийское послание
+
+Late that night, Michael and Kay were coming out of a theatre. Although they were staying in New York, Michael had told his family that he was in New Hampshire, over a hundred miles away. "If I told my family we were in New York, we would have to see them right away," he told Kay. "Then we wouldn't be able to be <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span> together."
+
+Поздно вечером Майкл и Кей выходили из театра. Хотя они остановились в Нью-Йорке, Майкл сказал своей семье, что он находится в Нью-Гэмпшире, более чем в ста милях отсюда. «Если бы я сказал своей семье, что мы в Нью-Йорке, нам пришлось бы увидеться с ними прямо сейчас», — сказал он Кею. «Тогда мы не сможем оставаться наедине».
+
+The night was freezing, and Michael and Kay held each other <span class='tip-wrap' data-text='closely [клOусли] {наречие} тесно [3]; внимательно [3]; близко [3]; вплотную [2]'>**closely**<span class='tip-text'> </span></span> as they walked slowly <span class='tip-wrap' data-text='along [элОŋ] {предлог} вдоль'>**along**<span class='tip-text'> </span></span> the crowded pavement.
+
+Ночь была морозной, и Майкл и Кей крепко держались друг за друга, медленно шли по людному тротуару.
+
+"What do you want for Christmas?" he asked Kay.
+
+"Что ты хочешь на Рождество?" — спросил он Кея.
+
+Kay laughed and kissed his frozen <span class='tip-wrap' data-text='cheek [чИк] {существительное} щека [3]; наглость [2]'>**cheek**<span class='tip-text'> </span></span>. "Just you," she said.
+
+Кей засмеялся и поцеловал его замерзшую щеку. «Только ты», сказала она.
+
+They walked a little further, then suddenly Kay stopped. Mike," she said, looking <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> her, her face white with <span class='tip-wrap' data-text='shock [шАк] {существительное} шок [3]; удар [3]; потрясение [2]; толчок [2]'>**shock**<span class='tip-text'> </span></span>.
+
+Они прошли еще немного, и вдруг Кей остановился. Майк, — сказала она, оглядываясь назад, ее лицо побледнело от шока.
+
+"What's the <span class='tip-wrap' data-text='matter [мЭтэр] {существительное} вопрос (также материя); дело (также материя)'>**matter**<span class='tip-text'> </span></span>?" said Mike, confused.
+
+«В чем дело?» - сказал Майк в замешательстве.
+
+She took his hand and led him back to a newspaper shop they had just passed. She pointed to a newspaper. Michael picked it up. "VITO CORLEONE <span class='tip-wrap' data-text='shot [шАт] {существительное} выстрел'>**SHOT**<span class='tip-text'> </span></span> FIVE TIMES" he read on the front page. Opening it, he saw a photograph of his father. "KILLERS SHOOT UNDERWORLD <span class='tip-wrap' data-text='boss [бАс] {существительное} босс [3]; хозяин [2]; шеф [2]; руководитель [2]; выступ [2]'>**BOSS**<span class='tip-text'> </span></span>".
+
+Она взяла его за руку и повела обратно в газетный магазин, мимо которого они только что прошли. Она указала на газету. Майкл поднял его. «ВИТО КОРЛЕОНЕ СТРЕЛИЛ ПЯТЬ РАЗ», — прочитал он на первой странице. Открыв его, он увидел фотографию своего отца. «УБИЙЦЫ СТРЕЛЯЮТ БОССА ПОДМИРА».
+
+Without looking at Kay, he ran <span class='tip-wrap' data-text='across [экрОс] {предлог} через'>**across**<span class='tip-text'> </span></span> the street to a public telephone and rang Sonny.
+
+Не глядя на Кея, он перебежал улицу к телефону-автомату и позвонил Сонни.
+
+"Sonny?" he said. "It's Michael. Is he all right?"
+
+"Сынок?" он сказал. «Это Майкл. С ним все в порядке?»
+
+"We don't know yet, but he's hit bad, Mikey," his brother said. "Where have you been? We've been worried."
+
+«Мы пока не знаем, но он сильно пострадал, Майки», — сказал его брат. «Где ты был? Мы волновались».
+
+Michael suddenly felt <span class='tip-wrap' data-text='guilty [гЫлти] {прилагательное} виновный [2]; виноватый [1]; повинный [1]; преступный [1]'>**guilty**<span class='tip-text'> </span></span> about lying to his family about New Hampshire. "I called. Didn't Tom tell you?"
+
+Майкл внезапно почувствовал себя виноватым из-за того, что солгал своей семье о Нью-Гэмпшире. — Я звонил. Разве Том тебе не сказал?
+
+"No. But come home, Mikey. You should be with Mama. We need you."
+
+«Нет. Но возвращайся домой, Майки. Ты должен быть с мамой. Ты нам нужен».
+
+Michael put down the phone. Kay, who had followed him <span class='tip-wrap' data-text='across [экрОс] {предлог} через'>**across**<span class='tip-text'> </span></span> the road, looked at him with tears in her eyes. Michael kissed her and hugged her tightly. Then, stepping away from her, he said: "Go back to the hotel, Kay. I've got to go home."
+
+Майкл положил трубку. Кей, которая следовала за ним через дорогу, посмотрела на него со слезами на глазах. Майкл поцеловал ее и крепко обнял. Затем, отойдя от нее, он сказал: «Возвращайся в отель, Кей. Мне пора домой».
+
+As soon as Sonny had put down the phone, there was a knock on the door.
+
+Как только Сонни положил трубку, в дверь постучали.
+
+"They say he's dead, Sonny," said Pete Clemenza as he came in.
+
+«Они говорят, что он мертв, Сонни», — сказал Пит Клеменца, войдя.
+
+Sonny took him <span class='tip-wrap' data-text='roughly [рАфли] {наречие} приблизительно [3]; грубо [3]; бурно [2]'>**roughly**<span class='tip-text'> </span></span> by the collar and threw him <span class='tip-wrap' data-text='against [эгЕнст] {предлог} от; против'>**against**<span class='tip-text'> </span></span> the wall.
+
+Сонни грубо схватил его за воротник и швырнул к стене.
+
+"Take it easy," Clemenza cried.
+
+— Успокойся, — крикнул Клеменца.
+
+Sonny took a deep <span class='tip-wrap' data-text='breath [брЕθ] {существительное} вздох (осн. дыхание)'>**breath**<span class='tip-text'> </span></span> and took his hands away. "I'm <span class='tip-wrap' data-text='sorry [сАри] {прилагательное} жалкий (также сожалеющий)'>**sorry**<span class='tip-text'> </span></span>," he said. And then asked: "How's Paulie?"
+
+Сонни глубоко вздохнул и убрал руки. «Мне очень жаль», сказал он. А потом спросил: «Как Поли?»
+
+"Paulie wasn't there. He was <span class='tip-wrap' data-text='sick [сЫк] {прилагательное} больной'>**sick**<span class='tip-text'> </span></span>."
+
+«Поли там не было. Он был болен».
+
+"What do you mean? How many times has he been <span class='tip-wrap' data-text='sick [сЫк] {прилагательное} больной'>**sick**<span class='tip-text'> </span></span>?"
+
+«Что вы имеете в виду? Сколько раз он болел?»
+
+"I don't know, Sonny," Clemenza said, half afraid, half confused. "Three, maybe four times."
+
+— Я не знаю, Сонни, — сказала Клеменца наполовину испуганная, наполовину растерянная. «Три, может быть, четыре раза».
+
+"Listen. I don't care how <span class='tip-wrap' data-text='sick [сЫк] {прилагательное} больной'>**sick**<span class='tip-text'> </span></span> he is. I want you to bring him to my father's house now. Do you understand?"
+
+«Послушай. Меня не волнует, насколько он болен. Я хочу, чтобы ты сейчас же привел его в дом моего отца. Ты понимаешь?»
+
+After Clemenza had gone, Sonny looked at his wife, who was standing nervously in the doorway, holding a crying baby. He hugged and kissed them both, trying to calm them down. Trying to calm himself down. Suddenly, the phone rang again. The voice on the other end was very soft, very gentle:
+
+После того как Клеменца ушел, Сонни посмотрел на свою жену, которая нервно стояла в дверях с плачущим ребенком на руках. Он обнял и поцеловал их обоих, пытаясь их успокоить. Пытаюсь успокоиться. Внезапно телефон снова зазвонил. Голос на другом конце провода был очень мягким, очень нежным:
+
+"We have Tom Hagen," the voice said. "In about three hours we'll let him go. He'll have a message for you. Don't do anything stupid <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> you've heard what he has to say. Your father's dead. Let's all keep clear-headed about this, OK?"
+
+«У нас есть Том Хаген», — сказал голос. «Примерно через три часа мы его отпустим. У него будет для тебя сообщение. Не делай ничего глупого, пока не услышишь, что он скажет. Твой отец мертв. Давайте все будем трезво мыслить об этом. , ХОРОШО?"
+
+OK." Although he felt like shouting, Sonny spoke <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span>. "I'll wait."
+
+Хорошо. Хотя ему хотелось кричать, Сонни говорил тихо. — Я подожду.
+
+He immediately left his house and crossed the private road to the one where his father lived. He <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> his mother in the kitchen.
+
+Он немедленно вышел из дома и перешел частную дорогу к той, где жил его отец. Он нашел свою мать на кухне.
+
+"Papa's hurt," he told her. "I don't know how bad."
+
+«Папа ранен», сказал он ей. «Я не знаю, насколько плохо».
+
+His mother just said: "I'll go and get ready. I <span class='tip-wrap' data-text='might [мАйт] {глагол} может быть'>**might**<span class='tip-text'> </span></span> be able to see him." She didn't ask her son any questions. A Sicilian woman was taught never to ask men questions.
+
+Его мать просто сказала: «Я пойду и приготовлюсь. Возможно, я смогу его увидеть». Она не задавала сыну никаких вопросов. Сицилийскую женщину учили никогда не задавать вопросы мужчинам.
+
+Sonny took a mouthful of <span class='tip-wrap' data-text='bread [брЕд] {существительное} хлеб [3]'>**bread**<span class='tip-text'> </span></span>, went into his father's office and picked up the phone. "Tessio? I want fifty good men here right away."
+
+Сонни наглотался хлеба, зашел в кабинет отца и взял трубку. — Тессио? Мне нужны пятьдесят хороших людей прямо сейчас.
+
+"What about Clemenza's people?" Tessio asked. "No. I don't want to use his men right now."
+
+— А как насчет людей Клеменцы? — спросил Тессио. «Нет. Я не хочу использовать его людей прямо сейчас».
+
+Then he made a second call. This time it was to a friend of his who worked for the telephone company. "Farrell? I want you to do me a favour. I want you to check two phone numbers for me. Give me all the calls they made and received over the last three months. It's very important. Give me the information before midnight." He gave him Paulie Gatto's and Pete Clemenza's numbers.
+
+Затем он сделал второй звонок. На этот раз это было его другу, который работал в телефонной компании. «Фаррелл? Я хочу, чтобы ты оказал мне услугу. Я хочу, чтобы ты проверил для меня два телефонных номера. Назови мне все звонки, которые они сделали и получили за последние три месяца. Это очень важно. Дай мне информацию до полуночи». Он дал ему номера Поли Гатто и Пита Клеменцы.
+
+Then he made a third call. He phoned Luca Brasi. But this time there was no answer.
+
+Затем он сделал третий звонок. Он позвонил Луке Брази. Но на этот раз ответа не последовало.
+
+When Michael arrived, he <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> his father's house full of men he didn't know. He went into the living-room, shook hands with a sad-looking Pete Clemenza, kissed Tom Hagen's wife on the <span class='tip-wrap' data-text='cheek [чИк] {существительное} щека [3]; наглость [2]'>**cheek**<span class='tip-text'> </span></span>, then went into his father's corner-room office.
+
+Когда Майкл прибыл, он обнаружил, что дом его отца полон мужчин, которых он не знал. Он прошел в гостиную, пожал руку печальному на вид Питу Клеменце, поцеловал жену Тома Хагена в щеку, а затем вошел в угловой кабинет своего отца.
+
+Sonny was sitting with Tessio, talking <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span>. When he saw Michael, he stood up and ran <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> him. "I'm really <span class='tip-wrap' data-text='glad [глЭд] {прилагательное} радостный [2]; довольный [2]; приятный [1]; счастливый [1]; веселый [1]; утешительный [1]; яркий [1]; прекрасный [1]'>**glad**<span class='tip-text'> </span></span> to see you," he said, hugging his brother warmly. "Mama's at the hospital with the old man. He's going to be OK, thank God." But then he saw Michael sit down, and he stopped smiling. "What are you doing?" he said. "I'm talking important business with Tessio."
+
+Сонни сидел с Тессио и тихо разговаривал. Увидев Майкла, он встал и побежал к нему. «Я очень рад тебя видеть», — сказал он, тепло обнимая брата. «Мама в больнице со стариком. Слава Богу, с ним все будет в порядке». Но затем он увидел, что Майкл сел, и перестал улыбаться. "Что ты делаешь?" он сказал. «Я говорю о важном деле с Тессио».
+
+"Maybe I can help, "Michael said.
+
+«Может быть, я смогу помочь», — сказал Майкл.
+
+"If you stay here, you'll hear things you shouldn't," Sonny warned him. "The old man will kill me if he finds out."
+
+«Если ты останешься здесь, ты услышишь то, чего не следует», — предупредил его Сонни. «Старик убьет меня, если узнает».
+
+Michael stared at his brother. "He's my father too," he said <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span>-
+
+Майкл уставился на брата. «Он тоже мой отец», — тихо сказал он.
+
+"OK," said Sonny, annoyed at Michael's refusal to leave. "You want to hear? Then I'll tell you. Whose head do we shoot off, Paulie's or Clemenza's? One of them betrayed the old man to Sollozzo. Who do you think it was?"
+
+«Хорошо», — сказал Сонни, раздраженный отказом Майкла уйти. — Хотите услышать? Тогда я вам скажу. Чью голову мы отстрелим, Поли или Клеменцу? Один из них выдал старика Солоццо. Как вы думаете, кто это был?
+
+If Sonny was hoping to shock Michael, he didn't succeed. His younger brother just looked at him coldly and said: "Not Clemenza."
+
+Если Сонни и надеялся шокировать Майкла, ему это не удалось. Его младший брат просто холодно посмотрел на него и сказал: «Не Клеменца».
+
+Sonny stared at his brother for a moment, then looked at Tessio with disbelief. "I don't believe it. The college boy's right. It was Paulie. I had their numbers checked. While Paulie was <span class='tip-wrap' data-text='sick [сЫк] {прилагательное} больной'>**sick**<span class='tip-text'> </span></span>, he got phone calls from Sollozzo's people."
+
+Сонни какое-то время смотрел на брата, затем с недоверием посмотрел на Тессио. «Я не верю в это. Мальчик из колледжа прав. Это был Поли. Я проверил их номера. Пока Поли болел, ему звонили люди Солоццо».
+
+Michael got up and stood in front of his brother. "Is there going to be a war, Sonny?" he said.
+
+Майкл встал и встал перед своим братом. «Будет ли война, Сонни?» он сказал.
+
+"Of course there is. Unless the old man tells me different. Sollozzo's a dead man. I'm going to hit all five families if I have to The Tattaglias are going to eat dirt."
+
+«Конечно, есть. Если только старик не скажет мне иное. Солоццо мертвец. Если придется, я ударю все пять семей. Таттальяс будут есть грязь».
+
+"Wait, Sonny" Michael said with a look of <span class='tip-wrap' data-text='warning [уОрныŋ] {существительное} предупреждение [3]; предостережение [2]'>**warning**<span class='tip-text'> </span></span> in his eyes. "This isn't how Papa would do it."
+
+«Подожди, сынок», — сказал Майкл с предостерегающим выражением в глазах. «Папа бы так не поступил».
+
+Just then, they heard loud voices from outside the door, and the sound of people laughing. Sonny Michael and Tessio rushed out of the room and saw Tom Hagen standing at the front door, hugging his wife and smiling.
+
+В этот момент они услышали громкие голоса за дверью и смех людей. Сонни Майкл и Тессио выбежали из комнаты и увидели Тома Хагена, стоящего у входной двери, обнимающего жену и улыбающегося.
+
+Sonny, Tom, Clemenza and Tessio sat in the Godfather's office, talking. They were planning to kill Sollozzo, wondering where Luca Brasi was, thinking about what to do if the Godfather died. Michael sat by the desk, listening to the conversation, but not permitted to speak. There was a knock at the door, and Paulie Gatto came in. He was blowing his nose, and looked very ill.
+
+Сонни, Том, Клеменца и Тессио сидели в кабинете Крестного отца и разговаривали. Они планировали убить Солоццо, гадая, где находится Лука Брази, думая, что делать, если Крестный отец умрет. Майкл сидел за столом, слушая разговор, но ему не разрешалось говорить. В дверь постучали, и вошел Поли Гатто. Он сморкался и выглядел очень больным.
+
+"There's a man at the gate," Paulie said, looking at Sonny. "He's got something for you."
+
+«У ворот стоит мужчина», — сказал Поли, глядя на Сонни. «У него есть кое-что для тебя».
+
+Sonny sent Tessio out to see what it was. Then he smiled at Paulie. "Are you OK, Paulie?" he asked. "Why don't you go to the kitchen and get something to drink? You look <span class='tip-wrap' data-text='terrible [тЕрэбэл] {прилагательное} страшный'>**terrible**<span class='tip-text'> </span></span>."
+
+Сонни послал Тессио посмотреть, что это такое. Затем он улыбнулся Поли. — С тобой все в порядке, Поли? он спросил. «Почему бы тебе не пойти на кухню и не выпить чего-нибудь? Ты ужасно выглядишь».
+
+When Paulie had gone, Sonny turned to Clemenza. "I want you to kill him tomorrow," he said. "He betrayed the old man to Sollozzo. I don't want to see him again."
+
+Когда Поли ушел, Сонни повернулся к Клеменце. «Я хочу, чтобы ты убил его завтра», — сказал он. «Он предал старика Солоццо. Я не хочу его больше видеть».
+
+Clemenza hid his surprise and just nodded. To him, it was just a job. Then Tessio came into the room. He was carrying something inside a large piece of brown paper. He gave it to Sonny, and stepped back. Sonny opened the paper. Inside, there was Luca Brasi's <span class='tip-wrap' data-text='jacket [джЭкэт] {существительное} куртка [3]; жакет [3]; рубашка [2]'>**jacket**<span class='tip-text'> </span></span>. And inside the <span class='tip-wrap' data-text='jacket [джЭкэт] {существительное} куртка [3]; жакет [3]; рубашка [2]'>**jacket**<span class='tip-text'> </span></span>, there was a dead fish. Sonny looked up at Tessio, confused. "What's this?" he asked.
+
+Клеменца скрыл свое удивление и просто кивнул. Для него это была просто работа. Затем в комнату вошел Тессио. Он нес что-то внутри большого куска коричневой бумаги. Он отдал его Сонни и отступил назад. Сонни развернул газету. Внутри была куртка Луки Брази. А внутри куртки была дохлая рыба. Сонни в замешательстве посмотрел на Тессио. "Что это?" он спросил.
+
+"It's a Sicilian message," Tessio said in his deep but strangely gentle voice. "It means that Luca Brasi sleeps with the fishes."
+
+«Это сицилийское послание», — сказал Тессио глубоким, но странно нежным голосом. «Это значит, что Лука Брази спит с рыбами».
+
+## Chapter 5 Seeds of Revenge
+
+## Глава 5 Семена мести
+
+The next night, before going to visit his father in hospital, Michael had dinner with Kay in the hotel. They didn't talk much. Kay kept looking <span class='tip-wrap' data-text='across [экрОс] {предлог} через'>**across**<span class='tip-text'> </span></span> the table at him, worried by his silence. Finally, he put down his glass of wine, stood up and said: "I have to go."
+
+На следующий вечер, прежде чем отправиться навестить отца в больнице, Майкл ужинал с Кей в отеле. Они мало разговаривали. Кей продолжал смотреть на него через стол, обеспокоенный его молчанием. Наконец он поставил свой бокал вина, встал и сказал: «Мне пора идти».
+
+"Can I come with you?" Kay said, staring at her food.
+
+"Могу я пойти с тобой?" — сказала Кей, глядя на свою еду.
+
+"There'll be policemen at the hospital," Michael said, putting on his <span class='tip-wrap' data-text='coat [кOут] {существительное} пальто [3]; слой [3]; шерсть [2]; пиджак [2]; оболочка [2]; шубка [2]'>**coat**<span class='tip-text'> </span></span>. "Reporters too. I don't want to get you mixed up in this."
+
+«В больнице будут полицейские», — сказал Майкл, надевая пальто. «Репортеры тоже. Я не хочу впутывать вас в это».
+
+Kay looked at him sadly. She understood that, <span class='tip-wrap' data-text='since [сЫнс] {предлог} с (также после)'>**since**<span class='tip-text'> </span></span> the <span class='tip-wrap' data-text='shooting [шУтыŋ] {существительное} стрельба [3]; расстрел [2]'>**shooting**<span class='tip-text'> </span></span> of his father, he was different. He was more distant from her. "When will I see you again?" she asked <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span>.
+
+Кей грустно посмотрел на него. Она понимала, что после расстрела отца он стал другим. Он был от нее дальше. "Когда я увижу тебя снова?" — тихо спросила она.
+
+Michael <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> it difficult to look her in the eyes. "Go back to your parents and I'll call you," he said.
+
+Майклу было трудно смотреть ей в глаза. «Возвращайтесь к своим родителям, и я вам позвоню», — сказал он.
+
+But Kay repeated her question: "When will I see you again?" This time, Michael looked at her. "I don't know," he said, touching her gently on the <span class='tip-wrap' data-text='shoulder [шOулдэр] {существительное} плечо; обочина'>**shoulder**<span class='tip-text'> </span></span>. Then, without another word, he left her sitting <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span> at the table and walked <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the door.
+
+Но Кей повторила свой вопрос: «Когда я увижу тебя снова?» На этот раз Майкл посмотрел на нее. «Я не знаю», сказал он, нежно коснувшись ее плеча. Затем, не говоря больше ни слова, он оставил ее сидеть одну за столом и пошел к двери.
+
+When Michael got out of the taxi, he was surprised to see that the street outside the hospital was <span class='tip-wrap' data-text='quiet [куАйэт] {прилагательное} тихий'>**quiet**<span class='tip-text'> </span></span> and empty. When he climbed the steps and went <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> the front door, he was even more surprised to find that there was nobody inside the hospital either. "Where are Tessio's and Clemenza's men?" he thought nervously as he took the lift up to the fourth floor.
+
+Когда Майкл вышел из такси, он с удивлением увидел, что улица возле больницы тиха и пуста. Когда он поднялся по ступенькам и прошел через парадную дверь, он еще больше удивился, обнаружив, что внутри больницы тоже никого нет. «Где люди Тессио и Клеменцы?» — нервно думал он, поднимаясь на лифте на четвертый этаж.
+
+There was nobody outside his father's room. Michael opened the door slowly and walked inside. His father was lying in bed; glass bottles hung next to him. As Michael stood by the bed and looked down at his sleeping father, he heard a noise <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> him in the doorway.
+
+За пределами комнаты отца никого не было. Майкл медленно открыл дверь и вошел внутрь. Его отец лежал в постели; рядом с ним висели стеклянные бутылки. Когда Майкл стоял у кровати и смотрел на своего спящего отца, он услышал позади себя шум в дверном проеме.
+
+He turned quickly. It was only a nurse.
+
+Он быстро повернулся. Это была всего лишь медсестра.
+
+"What are you doing here?" she whispered angrily.
+
+"Что ты здесь делаешь?" — сердито прошептала она.
+
+"I'm Michael Corleone. This is my father. There's nobody here. What happened to the guards?"
+
+«Я Майкл Корлеоне. Это мой отец. Здесь никого нет. Что случилось с охранниками?»
+
+"Your father had too many visitors. The police came and made them all leave ten minutes ago."
+
+«У твоего отца было слишком много посетителей. Десять минут назад пришла полиция и заставила их всех уйти».
+
+Michael thought quickly. He picked up the phone by the bed and told Sonny to send some people to the hospital at once. Then he told the nurse to help him move his father's bed to another room. When she complained, he said: "You know my father? Men are coming here to kill him. You understand? Now help me, please."
+
+Майкл быстро подумал. Он взял телефон у кровати и велел Сонни немедленно отправить нескольких человек в больницу. Затем он попросил медсестру помочь ему перенести кровать отца в другую комнату. Когда она пожаловалась, он сказал: «Вы знаете моего отца? Люди приходят сюда, чтобы убить его. Вы понимаете? Теперь помогите мне, пожалуйста».
+
+As Michael and the nurse were pushing the bed <span class='tip-wrap' data-text='carefully [кЕрфэли] {наречие} бережно'>**carefully**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> the <span class='tip-wrap' data-text='narrow [нЕрoу] {прилагательное} узкий [3]'>**narrow**<span class='tip-text'> </span></span> door of another room, they heard the sound of someone coming up the stairs. Michael closed the door <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span> and looked <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> the window. He saw a man in a black hat and long black <span class='tip-wrap' data-text='coat [кOут] {существительное} пальто [3]; слой [3]; шерсть [2]; пиджак [2]; оболочка [2]; шубка [2]'>**coat**<span class='tip-text'> </span></span> carrying flowers. Michael didn't know who he was, but decided that he didn't look like a <span class='tip-wrap' data-text='killer [кЫлэр] {существительное} убийца [3]; киллер [2]'>**killer**<span class='tip-text'> </span></span>.
+
+Когда Майкл и медсестра осторожно проталкивали кровать через узкую дверь другой комнаты, они услышали звук поднимающегося по лестнице человека. Майкл тихо закрыл дверь и посмотрел в окно. Он увидел мужчину в черной шляпе и длинном черном пальто, несущего цветы. Майкл не знал, кто он такой, но решил, что на убийцу он не похож.
+
+"Who are you?" he said, opening the door.
+
+"Кто ты?" — сказал он, открывая дверь.
+
+The man turned round, surprised. "I am Enzo," he said. "The butcher." "Listen, Enzo," Michael said. "You'd better get out of here. There's going to be trouble."
+
+Мужчина удивленно обернулся. «Я Энцо», сказал он. "Мясник." — Послушай, Энцо, — сказал Майкл. «Тебе лучше уйти отсюда. Будут проблемы».
+
+Enzo lifted his head and looked at Michael proudly. "If there is trouble, I stay here to help you. For your father."
+
+Энцо поднял голову и гордо посмотрел на Майкла. «Если возникнут проблемы, я останусь здесь, чтобы помочь тебе. Ради твоего отца».
+
+Michael didn't <span class='tip-wrap' data-text='argue [Аргйу] {глагол} спорить; утверждать; рассуждать'>**argue**<span class='tip-text'> </span></span>. He needed help. "Go outside," he told Enzo, "and <span class='tip-wrap' data-text='stand [стЭнд] {глагол} стоять'>**stand**<span class='tip-text'> </span></span> in front of the hospital. I'll be out in a minute."
+
+Майкл не спорил. Ему нужна была помощь. «Выйди на улицу, — сказал он Энцо, — и встань перед больницей. Я выйду через минуту».
+
+He went back into the dark room and looked down at his father. "It's all right, Papa," he whispered, softly touching his father's grey hair. "I'll take care of you now." He bent down to kiss his father's hand and, when he looked up, he saw a tear in the corner of his father's eye.
+
+Он вернулся в темную комнату и посмотрел на отца. — Все в порядке, папа, — прошептал он, нежно касаясь седых волос отца. «Я позабочусь о тебе сейчас». Он наклонился, чтобы поцеловать руку отца, а когда поднял глаза, увидел слезу в уголке глаза отца.
+
+Michael <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> Enzo outside on the steps in front of the hospital. He threw Enzo's flowers away, turned up the collar of Enzo's <span class='tip-wrap' data-text='coat [кOут] {существительное} пальто [3]; слой [3]; шерсть [2]; пиджак [2]; оболочка [2]; шубка [2]'>**coat**<span class='tip-text'> </span></span> and told him to put his hand in his pocket as if he had a gun. They waited nervously in the icy cold and <span class='tip-wrap' data-text='dark [дАрк] {существительное} темнота [2]; тьма [2]; тень [1]; потемки [1]; неведение [1]; невежество [1]'>**dark**<span class='tip-text'> </span></span>.
+
+Майкл нашел Энцо снаружи, на ступеньках перед больницей. Он выбросил цветы Энцо, поднял воротник пальто Энцо и велел ему сунуть руку в карман, как если бы у него был пистолет. Они нервно ждали в ледяном холоде и темноте.
+
+A few minutes later, the silence was broken by the soft sound of an engine moving slowly <span class='tip-wrap' data-text='along [элОŋ] {предлог} вдоль'>**along**<span class='tip-text'> </span></span> the street. Michael and Enzo held their <span class='tip-wrap' data-text='breath [брЕθ] {существительное} вздох (осн. дыхание)'>**breath**<span class='tip-text'> </span></span> as a long black car appeared in front of the hospital gates and stopped. Shadowy shapes of men in hats moved inside the car. They seemed to be talking to each other. Then the car moved quickly away.
+
+Через несколько минут тишину нарушил тихий звук медленно движущегося по улице двигателя. Майкл и Энцо затаили дыхание, когда перед воротами больницы появилась и остановилась длинная черная машина. Внутри машины двигались призрачные силуэты мужчин в шляпах. Казалось, они разговаривали друг с другом. Затем машина быстро двинулась прочь.
+
+Michael smiled at Enzo. "You did well," he said.
+
+Майкл улыбнулся Энцо. «Вы хорошо справились», — сказал он.
+
+Enzo smiled and took out a packet of cigarettes, but his hands were shaking. Michael lit a cigarette for him. To his surprise, his own hands weren't shaking at all. He felt <span class='tip-wrap' data-text='completely [кэмплИтли] {наречие} полностью'>**completely**<span class='tip-text'> </span></span> calm.
+
+Энцо улыбнулся и достал пачку сигарет, но руки у него дрожали. Майкл закурил для него сигарету. К его удивлению, его руки вообще не дрожали. Он чувствовал себя совершенно спокойно.
+
+Suddenly, there was the sound of police cars, and the street outside the hospital was filled with policemen.
+
+Внезапно послышался звук полицейских машин, и улица возле больницы заполнилась полицейскими.
+
+"Good old Sonny," Michael smiled as he walked down the steps to meet them. What happened next took him <span class='tip-wrap' data-text='completely [кэмплИтли] {наречие} полностью'>**completely**<span class='tip-text'> </span></span> by surprise. Two policemen took him <span class='tip-wrap' data-text='roughly [рАфли] {наречие} приблизительно [3]; грубо [3]; бурно [2]'>**roughly**<span class='tip-text'> </span></span> by the arms while a third policeman searched him. A huge police <span class='tip-wrap' data-text='captain [кЭптэн] {существительное} капитан [3]; капитан команды [2]'>**captain**<span class='tip-text'> </span></span> with a strong red face and white hair walked <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> him.
+
+«Старый добрый Сонни», улыбнулся Майкл, спускаясь по ступенькам им навстречу. То, что произошло дальше, застало его врасплох. Двое полицейских грубо схватили его за руки, а третий полицейский обыскал его. Навстречу ему подошел огромный капитан полиции с волевым красным лицом и белыми волосами.
+
+"I thought I locked all you gangsters up," he said angrily to Michael. "Who are you?"
+
+«Я думал, что запер всех вас, гангстеры», — сердито сказал он Майклу. "Кто ты?"
+
+Michael looked up into the police <span class='tip-wrap' data-text='captain [кЭптэн] {существительное} капитан [3]; капитан команды [2]'>**captain**<span class='tip-text'> </span></span>'s fiery eyes and said, unafraid: "What happened to the men guarding my father, <span class='tip-wrap' data-text='captain [кЭптэн] {существительное} капитан [3]; капитан команды [2]'>**captain**<span class='tip-text'> </span></span>?"
+
+Майкл посмотрел в горящие глаза капитана полиции и сказал без страха: «Что случилось с людьми, охранявшими моего отца, капитан?»
+
+"You little animal!" the <span class='tip-wrap' data-text='captain [кЭптэн] {существительное} капитан [3]; капитан команды [2]'>**captain**<span class='tip-text'> </span></span> shouted. "Don't tell me my business! Now, get out of here and stay away from this hospital!"
+
+«Ты, маленькое животное!» - крикнул капитан. «Не рассказывайте мне мои дела! А теперь уходите отсюда и держитесь подальше от этой больницы!»
+
+The policemen let go of Michael's arms, but Michael didn't move. "I'm not going <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> you put some guards outside my father's room," he said. The <span class='tip-wrap' data-text='captain [кЭптэн] {существительное} капитан [3]; капитан команды [2]'>**captain**<span class='tip-text'> </span></span> shouted to his men: "Take him away!"
+
+Полицейские отпустили руки Майкла, но Майкл не пошевелился. «Я не пойду, пока вы не поставите охранников возле комнаты моего отца», — сказал он. Капитан крикнул своим людям: «Уведите его!»
+
+Michael stared at him coldly. "What's Sollozzo paying you to betray my father, <span class='tip-wrap' data-text='captain [кЭптэн] {существительное} капитан [3]; капитан команды [2]'>**captain**<span class='tip-text'> </span></span>?"
+
+Майкл холодно посмотрел на него. — Сколько Солоццо платит вам за предательство моего отца, капитан?
+
+At this, the <span class='tip-wrap' data-text='captain [кЭптэн] {существительное} капитан [3]; капитан команды [2]'>**captain**<span class='tip-text'> </span></span> lost all control. "Hold his arms!" he told the policemen <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> Michael. Then, as they held him, he hit Michael hard in the face.
+
+При этом капитан потерял всякое управление. «Держи его за руки!» - сказал он полицейским позади Майкла. Затем, пока его держали, он сильно ударил Майкла по лицу.
+
+Before he could hit Michael again, another car suddenly arrived. It was Tom Hagen with a group of men to guard the Godfather. Tom saw Michael's face covered in blood and said: "Do you want to report this?" Michael had trouble talking, but he managed to say: "That's OK, Tom. It was an accident." As he spoke, he didn't take his eyes <span class='tip-wrap' data-text='off [Оф] {предлог} от; у'>**off**<span class='tip-text'> </span></span> the police <span class='tip-wrap' data-text='captain [кЭптэн] {существительное} капитан [3]; капитан команды [2]'>**captain**<span class='tip-text'> </span></span>. He tried to smile. He didn't want to show anyone how he really felt at that moment. Seeds of revenge were growing in his icy heart.
+
+Прежде чем он успел еще раз ударить Майкла, внезапно подъехала другая машина. Это был Том Хаген с группой людей, охранявших Крестного отца. Том увидел лицо Майкла, залитое кровью, и сказал: «Вы хотите сообщить об этом?» Майклу было трудно говорить, но он сумел сказать: «Все в порядке, Том. Это был несчастный случай». Говоря это, он не сводил глаз с капитана полиции. Он попытался улыбнуться. Он не хотел никому показывать, что он на самом деле чувствовал в тот момент. В его ледяном сердце росли семена мести.
+
+## Chapter 6 Nothing Personal
+
+## Глава 6 Ничего личного
+
+The <span class='tip-wrap' data-text='entrance [Ентрэнс] {существительное} вход [3]; въезд [2]; выход [2]; вступление [2]'>**entrance**<span class='tip-text'> </span></span> to the private road where the Corleone family lived was crowded with cars and men with guns. As Michael and Clemenza got out of the car together and walked in, Tessio came to meet them.
+
+Въезд на частную дорогу, где жила семья Корлеоне, был забит машинами и мужчинами с оружием. Когда Майкл и Клеменца вместе вышли из машины и вошли, Тессио подошел к ним навстречу.
+
+"Why all the guns?" Clemenza asked.
+
+«Почему все оружие?» – спросил Клеменца.
+
+"We'll need them," Tessio said. "After Sollozzo tried to kill the Don at the hospital, Sonny got angry. We killed Bruno Tattaglia at four o'clock this morning."
+
+«Они нам понадобятся», — сказал Тессио. «После того, как Солоццо попытался убить дона в больнице, Сонни разозлился. Мы убили Бруно Татталью сегодня в четыре часа утра».
+
+Inside the house, Sonny was in an excited, happy mood. He held Michael's badly bruised face in his hands and laughed. "Hey Mikey, you look beautiful!"
+
+Внутри дома Сонни был в возбужденном и счастливом настроении. Он взял в руки сильно избитое лицо Майкла и засмеялся. «Эй, Майки, ты прекрасно выглядишь!»
+
+Michael pushed his brother's hands away and went to pour himself a drink to take away the pain.
+
+Майкл оттолкнул руки брата и пошел налить себе выпить, чтобы облегчить боль.
+
+"Hey, Tom," Sonny said, turning to the Consigliori. "Listen to this. Sollozzo wants to talk. He wants us to send Michael to hear his <span class='tip-wrap' data-text='offer [Офэр] {существительное} предложение [3]'>**offer**<span class='tip-text'> </span></span>." Tom looked worried. Sonny was talking and laughing as if it was all a joke. "Perhaps we should hear what Sollozzo has to say," he said, "We don't want another war."
+
+— Привет, Том, — сказал Сонни, обращаясь к Консильори. «Послушайте. Солоццо хочет поговорить. Он хочет, чтобы мы послали Майкла выслушать его предложение». Том выглядел обеспокоенным. Сонни говорил и смеялся, как будто это была шутка. «Возможно, нам следует услышать, что говорит Солоццо, — сказал он. — Мы не хотим новой войны».
+
+Sonny stopped smiling at once. "No!" he said, suddenly angry. "No more. Not this time. No more meetings. No more Sollozzo tricks. I want Sollozzo dead. If not, we'll have a war!"
+
+Сонни сразу перестал улыбаться. "Нет!" — сказал он, внезапно рассердившись. «Больше нет. Не в этот раз. Больше никаких встреч. Никаких больше трюков Солоццо. Я хочу смерти Солоццо. Если нет, у нас будет война!»
+
+"You're taking things too <span class='tip-wrap' data-text='personally [пЭрсэнэли] {наречие} лично [3]; персонально [3]; сам [2]'>**personally**<span class='tip-text'> </span></span>," Tom said, getting angry too. "This is business."
+
+«Ты принимаешь все слишком близко к сердцу», — сказал Том, тоже рассердившись. «Это бизнес».
+
+"I don't want your advice," Sonny said."I just want you to help me win, all right?"
+
+«Мне не нужен твой совет, — сказал Сонни. — Я просто хочу, чтобы ты помог мне победить, ясно?»
+
+When everybody had calmed down, Tom explained to Sonny why he thought killing Sollozzo was a bad idea. "Sollozzo's paying the police <span class='tip-wrap' data-text='captain [кЭптэн] {существительное} капитан [3]; капитан команды [2]'>**captain**<span class='tip-text'> </span></span> who hit Michael a lot of money. His name's McCluskey. He's agreed to be Sollozzo's bodyguard at the
+
+Когда все успокоились, Том объяснил Сонни, почему он считает убийство Солоццо плохой идеей. «Солоццо платит много денег капитану полиции, который ударил Майкла. Его зовут Маккласки. Он согласился быть телохранителем Солоццо в
+
+meeting. Now you must understand, Sonny, that you can't kill Sollozzo while he's with McCluskey. Nobody's <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span> shot a New York police <span class='tip-wrap' data-text='captain [кЭптэн] {существительное} капитан [3]; капитан команды [2]'>**captain**<span class='tip-text'> </span></span>. It would be a disaster. All the five families would come after you. All our important friends would <span class='tip-wrap' data-text='disappear [дЫсэпЫр] {глагол} исчезать'>**disappear**<span class='tip-text'> </span></span>. We'd have no friends in the world. We'd be finished!"
+
+встреча. Теперь ты должен понять, Сонни, что ты не можешь убить Солоццо, пока он с Маккласки. Никто никогда не стрелял в капитана полиции Нью-Йорка. Это было бы катастрофой. Все пять семей придут за тобой. Все наши важные друзья исчезнут. У нас не было бы друзей в мире. Нам бы конец!"
+
+Sonny listened to Tom <span class='tip-wrap' data-text='carefully [кЕрфэли] {наречие} бережно'>**carefully**<span class='tip-text'> </span></span>, and finally agreed to wait. But Michael, who had heard the <span class='tip-wrap' data-text='whole [хOул] {прилагательное} весь'>**whole**<span class='tip-text'> </span></span> conversation from his armchair said: "We can't wait."
+
+Сонни внимательно выслушал Тома и наконец согласился подождать. Но Майкл, слышавший весь разговор из своего кресла, сказал: «Мы не можем ждать».
+
+Sonny and Tom stared at him in surprise, but Michael went on thoughtfully: "We've got to kill Sollozzo before he kills Papa."
+
+Сонни и Том удивленно уставились на него, но Майкл задумчиво продолжил: «Мы должны убить Солоццо, прежде чем он убьет папу».
+
+Tom thought for a moment, and then said <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span>: "Mike's right."
+
+Том на мгновение задумался, а затем тихо сказал: «Майк прав».
+
+"But you just told me we can't kill him because of McCluskey!" Sonny said, waving one <span class='tip-wrap' data-text='arm [Арм] {существительное} отделение (осн. рука)'>**arm**<span class='tip-text'> </span></span> angrily at Tom.
+
+«Но ты только что сказал мне, что мы не можем убить его из-за Маккласки!» — сказал Сонни, сердито махнув рукой Тому.
+
+"They want to have a meeting, right?" Michael began to take control of the conversation. "Find out where it's going to be. If Clemenza can think of a way of hiding a gun there, I'll kill them both."
+
+«Они хотят встретиться, да?» Майкл начал брать разговор под свой контроль. «Узнай, где оно будет. Если Клеменца придумает, как спрятать там пистолет, я убью их обоих».
+
+There was a long silence as everybody looked at each other in disbelief at what they had heard Michael say. Then Clemenza laughed, <span class='tip-wrap' data-text='closely [клOусли] {наречие} тесно [3]; внимательно [3]; близко [3]; вплотную [2]'>**closely**<span class='tip-text'> </span></span> followed by Sonny and Tessio. Only Tom looked serious. He knew that Michael wasn't joking.
+
+Наступило долгое молчание, пока все смотрели друг на друга, не веря словам Майкла. Затем Клеменца засмеялся, а за ним последовали Сонни и Тессио. Только Том выглядел серьезным. Он знал, что Майкл не шутит.
+
+"Hey," Sonny laughed, walking up and down in front of Michael, who sat strangely still in his armchair looking <span class='tip-wrap' data-text='straight [стрЕйт] {наречие} прямо'>**straight**<span class='tip-text'> </span></span> in front of him. "What are you going to do? Nice college boy. You want to kill a police <span class='tip-wrap' data-text='captain [кЭптэн] {существительное} капитан [3]; капитан команды [2]'>**captain**<span class='tip-text'> </span></span> because he hit you in the face? This is business. You're taking it too <span class='tip-wrap' data-text='personally [пЭрсэнэли] {наречие} лично [3]; персонально [3]; сам [2]'>**personally**<span class='tip-text'> </span></span>."
+
+«Эй», - засмеялся Сонни, прогуливаясь взад и вперед перед Майклом, который странно неподвижно сидел в своем кресле и смотрел прямо перед собой. «Что ты собираешься делать? Хороший мальчик из колледжа. Ты хочешь убить капитана полиции, потому что он ударил тебя по лицу? Это бизнес. Ты принимаешь это слишком близко к сердцу».
+
+Tom smiled to himself. He had used those exact words to Sonny minutes earlier.
+
+Том улыбнулся про себя. Минутой ранее он сказал Сонни именно эти слова.
+
+Michael became angry. "This is a policeman who's mixed up in drugs. He's dishonest." He turned to Tom. "Listen, if he's killed, our friends in the newspapers will make a good story out of it. Isn't that true, Tom?"
+
+Майкл рассердился. «Это полицейский, который замешан в наркотиках. Он нечестен». Он повернулся к Тому. «Послушай, если его убьют, наши друзья в газетах сделают из этого хорошую историю. Не правда ли, Том?»
+
+Tom looked at Michael thoughtfully for a second before saying: "You <span class='tip-wrap' data-text='might [мАйт] {глагол} может быть'>**might**<span class='tip-text'> </span></span> be right."
+
+Том на секунду задумчиво посмотрел на Майкла, прежде чем сказать: «Возможно, ты прав».
+
+"All right, all right!" Sonny held up his hands. He gave Michael long,
+
+«Хорошо, хорошо!» Сонни поднял руки. Он дал Майклу лонг,
+
+hard look, then shook his head as if he didn't want to hear what he was saying. "OK, we'll do it. Clemenza will teach you everything you need to know. We'll take care of everything. When it's <span class='tip-wrap' data-text='over [Oувэр] {наречие} свыше'>**over**<span class='tip-text'> </span></span>, things'll be very bad, but that'll be our problem. You'll be out of it, Mikey. We'll make you <span class='tip-wrap' data-text='disappear [дЫсэпЫр] {глагол} исчезать'>**disappear**<span class='tip-text'> </span></span> for a nice long holiday <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> things calm down." He looked at Michael, and added in a <span class='tip-wrap' data-text='quiet [куАйэт] {прилагательное} тихий'>**quiet**<span class='tip-text'> </span></span> voice filled with respect for his younger brother: "You can do it, Mikey. I know you can."
+
+сурово посмотрел, затем покачал головой, как будто не хотел слышать, что он говорит. «Хорошо, мы сделаем это. Клеменца научит тебя всему, что тебе нужно знать. Мы обо всем позаботимся. Когда все закончится, все будет очень плохо, но это будет наша проблема. избавься от этого, Майки, мы заставим тебя исчезнуть на долгие каникулы, пока все не успокоится». Он посмотрел на Майкла и добавил тихим голосом, полным уважения к младшему брату: «Ты сможешь это сделать, Майки. Я знаю, что ты сможешь».
+
+Michael smiled. He was beginning to feel a real Corleone at last. "I learnt things from my father too," he said.
+
+Майкл улыбнулся. Наконец он начал чувствовать себя настоящим Корлеоне. «Я тоже многому научился у своего отца», - сказал он.
+
+Eventually, after a lot of <span class='tip-wrap' data-text='nervous [нЭрвэс] {прилагательное} нервный [3]'>**nervous**<span class='tip-text'> </span></span> preparation, the meeting between Michael and Sollozzo was arranged. At the last minute, Sonny was able to discover where it was going to take place: a small family restaurant in the Bronx* called "Louie's".
+
+В конце концов, после долгих нервных приготовлений, встреча Михаэля и Солоццо состоялась. В последнюю минуту Сонни смог узнать, где это должно было произойти: небольшой семейный ресторан в Бронксе* под названием «Луи».
+
+Michael waited <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span>, as agreed with Sollozzo, outside Dempsey's restaurant on Broadway. Finally, a large black car stopped in front of him, and Michael got into the <span class='tip-wrap' data-text='passenger [пЭсэнджэр] {существительное} пассажир [3]'>**passenger**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='seat [сИт] {существительное} место'>**seat**<span class='tip-text'> </span></span>. In the back <span class='tip-wrap' data-text='seat [сИт] {существительное} место'>**seat**<span class='tip-text'> </span></span> sat Sollozzo and <span class='tip-wrap' data-text='captain [кЭптэн] {существительное} капитан [3]; капитан команды [2]'>**Captain**<span class='tip-text'> </span></span> McCluskey, although this evening the policeman was not in uniform.
+
+Майкл ждал один, как и договорились с Солоццо, возле ресторана Демпси на Бродвее. Наконец перед ним остановилась большая черная машина, и Майкл сел на пассажирское сиденье. На заднем сиденье сидели Солоццо и капитан Маккласки, хотя в этот вечер полицейский был не в форме.
+
+Sollozzo put a friendly hand on Michael's <span class='tip-wrap' data-text='shoulder [шOулдэр] {существительное} плечо; обочина'>**shoulder**<span class='tip-text'> </span></span> and said: I'm <span class='tip-wrap' data-text='glad [глЭд] {прилагательное} радостный [2]; довольный [2]; приятный [1]; счастливый [1]; веселый [1]; утешительный [1]; яркий [1]; прекрасный [1]'>**glad**<span class='tip-text'> </span></span> you came, Mike. We're going to solve all our problems tonight."
+
+Солоццо дружелюбно положил руку Майклу на плечо и сказал: Я рад, что ты пришел, Майк. Сегодня вечером мы решим все наши проблемы».
+
+"I don't want anyone to try to hurt my father again," Michael replied in a <span class='tip-wrap' data-text='quiet [куАйэт] {прилагательное} тихий'>**quiet**<span class='tip-text'> </span></span>, cold voice.
+
+«Я не хочу, чтобы кто-нибудь снова попытался причинить вред моему отцу», — ответил Майкл тихим, холодным голосом.
+
+The Bronx: an area of New York City, north-east of Manhattan Island, which is the <span class='tip-wrap' data-text='most [мOуст] {наречие} очень'>**most**<span class='tip-text'> </span></span> famous part of the city.
+
+Бронкс: район Нью-Йорка, к северо-востоку от острова Манхэттен, самая известная часть города.
+
+Broadway: a large street in Manhattan, famous for its theatres, night-clubs and restaurants.
+
+Бродвей: большая улица Манхэттена, известная своими театрами, ночными клубами и ресторанами.
+
+"Don't worry," Sollozzo said warmly. "He'll be <span class='tip-wrap' data-text='safe [сЕйф] {прилагательное} безопасный'>**safe**<span class='tip-text'> </span></span>. I <span class='tip-wrap' data-text='promise [прАмэс] {глагол} обещать'>**promise**<span class='tip-text'> </span></span>. But please keep an open mind when we talk. I hope you're not a hothead like your brother, Sonny. You can't talk business with him."
+
+— Не волнуйся, — тепло сказал Солоццо. «Он будет в безопасности. Я обещаю. Но, пожалуйста, сохраняй непредвзятость, когда мы говорим. Надеюсь, ты не такой вспыльчивый, как твой брат, Сонни. Ты не можешь говорить с ним о делах».
+
+Just then, McCluskey moved forward in his <span class='tip-wrap' data-text='seat [сИт] {существительное} место'>**seat**<span class='tip-text'> </span></span> and offered Michael his hand. "You're a good boy," he said in a strong, friendly voice. "I'm <span class='tip-wrap' data-text='sorry [сАри] {прилагательное} жалкий (также сожалеющий)'>**sorry**<span class='tip-text'> </span></span> about the other night, Mike. Nothing personal, I hope. I'm getting too old for my job, I <span class='tip-wrap' data-text='guess [гЕс] {глагол} догадываться'>**guess**<span class='tip-text'> </span></span>."
+
+В этот момент Маккласки двинулся вперед на своем месте и протянул Майклу руку. — Ты хороший мальчик, — сказал он сильным, дружелюбным голосом. «Мне жаль за ту ночь, Майк. Надеюсь, ничего личного. Думаю, я слишком стар для своей работы».
+
+Without turning round, Michael shook the policeman's hand over his <span class='tip-wrap' data-text='shoulder [шOулдэр] {существительное} плечо; обочина'>**shoulder**<span class='tip-text'> </span></span>.
+
+Не оборачиваясь, Майкл потряс руку полицейского через плечо.
+
+"And now I'm afraid I've got to search you," McCluskey said. "So turn round please, on your knees
+
+«И теперь, боюсь, мне придется вас обыскать», — сказал Маккласки. «Так что повернись, пожалуйста, на колени
+
+Michael did as he was asked. "He's clean," McCluskey said at last, sitting back next to Sollozzo. Michael slowly put his hat back on his head, and stared out of the window with a dead look in his eyes.
+
+Майкл сделал, как его просили. «Он чист», — сказал наконец Маккласки, садясь рядом с Солоццо. Майкл медленно надел шляпу на голову и уставился в окно мертвым взглядом.
+
+Half an hour later, McCluskey, Sollozzo and Michael were sitting at a small round table in the middle of a <span class='tip-wrap' data-text='quiet [куАйэт] {прилагательное} тихий'>**quiet**<span class='tip-text'> </span></span> restaurant.
+
+Полчаса спустя Маккласки, Солоццо и Майкл сидели за маленьким круглым столиком посреди тихого ресторана.
+
+"How's the Italian food here? "McCluskey asked Sollozzo with real interest.
+
+«Как здесь итальянская еда?» — с большим интересом спросил Маккласки Солоццо.
+
+"Good," Sollozzo replied. "The best in the city."
+
+«Хорошо», — ответил Солоццо. «Лучший в городе».
+
+When the waiter had poured wine into their glasses, Sollozzo began to talk to Michael in Italian. "I have great respect for your father," he said. "What happened between him and me is just business. His <span class='tip-wrap' data-text='thinking [θЫŋкыŋ] {существительное} мышление'>**thinking**<span class='tip-text'> </span></span> is old-fashioned. Let's <span class='tip-wrap' data-text='forget [фэргЕт] {глагол} забывать'>**forget**<span class='tip-text'> </span></span> these disagreements. I want peace."
+
+Когда официант налил им вино в бокалы, Солоццо начал говорить с Майклом по-итальянски. «Я очень уважаю вашего отца», - сказал он. «То, что произошло между ним и мной, — это всего лишь бизнес. Его мышление старомодно. Давайте забудем эти разногласия. Я хочу мира».
+
+Michael tried to <span class='tip-wrap' data-text='reply [рыплАй] {глагол} отвечать [3]'>**reply**<span class='tip-text'> </span></span> in Italian, but he couldn't think of the words. So he spoke English instead. "You must <span class='tip-wrap' data-text='promise [прАмэс] {глагол} обещать'>**promise**<span class='tip-text'> </span></span> me that no one will try to kill my father again."
+
+Майкл попытался ответить по-итальянски, но не смог подобрать слов. Поэтому вместо этого он говорил по-английски. «Вы должны пообещать мне, что никто больше не попытается убить моего отца».
+
+Sollozzo looked at Michael in wide-eyed innocence. "You think too much of me," he said. "I'm the one in danger, not your father. I'm not as clever as you think. All I want is peace."
+
+Солоццо посмотрел на Майкла широко раскрытыми глазами и невинно. «Ты слишком много думаешь обо мне», — сказал он. «Я в опасности, а не твой отец. Я не такой умный, как ты думаешь. Все, что я хочу, это мира».
+
+Michael looked at McCluskey. The policeman seemed more interested in his food than the conversation. He turned back to Sollozzo, thought for a moment, then said: "I have to go "to the bathroom. Is that OK?"
+
+Майкл посмотрел на Маккласки. Полицейского, похоже, больше интересовала еда, чем разговор. Он снова повернулся к Солоццо, подумал на мгновение, а затем сказал: «Мне пора» в ванную. Это нормально?"
+
+"No problem," said McCluskey.
+
+«Нет проблем», — сказал Маккласки.
+
+But Sollozzo didn't like it. When Michael stood up, he stopped him and searched him very <span class='tip-wrap' data-text='carefully [кЕрфэли] {наречие} бережно'>**carefully**<span class='tip-text'> </span></span>. Finally satisfied that Michael wasn't carrying a gun, he sat down again. "Don't take too long," he said, staring at Michael moodily.
+
+Но Солоццо это не понравилось. Когда Майкл встал, он остановил его и очень тщательно обыскал. Наконец убедившись, что у Майкла нет с собой пистолета, он снова сел. «Не задерживайся», сказал он, угрюмо глядя на Майкла.
+
+Michael <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> the gun hidden in the toilet. Clemenza had done his job well. He pushed the gun into the top of his trousers, buttoned his <span class='tip-wrap' data-text='jacket [джЭкэт] {существительное} куртка [3]; жакет [3]; рубашка [2]'>**jacket**<span class='tip-text'> </span></span>, took a few deep breaths to calm himself down, and returned to the restaurant.
+
+Майкл нашел пистолет, спрятанный в туалете. Клеменца хорошо выполнил свою работу. Он засунул пистолет в верхнюю часть брюк, застегнул куртку, сделал несколько глубоких вдохов, чтобы успокоиться, и вернулся в ресторан.
+
+Sollozzo was sitting with his <span class='tip-wrap' data-text='back [бЭк] {существительное} спина'>**back**<span class='tip-text'> </span></span> to him, smoking a cigarette. McCluskey looked at Michael out of the corner of his eye, but went on eating. Sollozzo turned round. Michael walked back to his chair and sat down. Sollozzo began talking again in Italian, but Michael couldn't understand a word. He wasn't listening. All he could hear was the sound of his heart, the thunder of blood between his ears. Somewhere <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> the restaurant there was the sound of a <span class='tip-wrap' data-text='train [трЕйн] {существительное} поезд'>**train**<span class='tip-text'> </span></span>. It was getting louder. McCluskey went on eating greedily. Sollozzo moved his face closer to Michael's to talk <span class='tip-wrap' data-text='above [эбАв] {предлог} над'>**above**<span class='tip-text'> </span></span> the noise of the <span class='tip-wrap' data-text='train [трЕйн] {существительное} поезд'>**train**<span class='tip-text'> </span></span>. Now was the moment. Now!
+
+Солоццо сидел к нему спиной и курил сигарету. Маккласки краем глаза посмотрел на Майкла, но продолжил есть. Солоццо обернулся. Майкл вернулся к своему стулу и сел. Солоццо снова заговорил по-итальянски, но Майкл не мог понять ни слова. Он не слушал. Все, что он мог слышать, это стук своего сердца и грохот крови между ушами. Где-то за рестораном послышался шум поезда. Звук становился все громче. Маккласки продолжал жадно есть. Солоццо приблизил лицо Майкла, чтобы говорить сквозь шум поезда. Сейчас был самый подходящий момент. Сейчас!
+
+Michael jumped to his feet, pulled the gun from his trousers, pointed it <span class='tip-wrap' data-text='straight [стрЕйт] {наречие} прямо'>**straight**<span class='tip-text'> </span></span> at Sollozzo's head and fired. The bullet hit Sollozzo between the eyes. McCluskey stared at Sollozzo in surprise, as if watching something far away. He did not seem to realize his own danger. His fork was half-way to his mouth. He was just beginning to understand what was happening when Michael fired at him. The <span class='tip-wrap' data-text='shot [шАт] {существительное} выстрел'>**shot**<span class='tip-text'> </span></span> was bad. It hit McCluskey in the <span class='tip-wrap' data-text='throat [θрOут] {существительное} горло [3]; глотка [3]; гортань [2]; горловина [2]'>**throat**<span class='tip-text'> </span></span>. He dropped his fork, put his hands to his neck and began to cough up food and blood. Very <span class='tip-wrap' data-text='carefully [кЕрфэли] {наречие} бережно'>**carefully**<span class='tip-text'> </span></span>, very coolly, Michael tired the next bullet <span class='tip-wrap' data-text='straight [стрЕйт] {наречие} прямо'>**straight**<span class='tip-text'> </span></span> into the policeman's brain. McCluskey stared at Michael for a second then fell forward, his head hitting the table with a <span class='tip-wrap' data-text='crash [крЭш] {существительное} крах [3]; крушение [2]; авария [2]; грохот [2]; треск [2]'>**crash**<span class='tip-text'> </span></span>.
+
+Майкл вскочил на ноги, вытащил пистолет из брюк, направил его прямо в голову Солоццо и выстрелил. Пуля попала Солоццо между глаз. Маккласки удивленно уставился на Солоццо, словно наблюдая за чем-то вдалеке. Он, казалось, не осознавал собственной опасности. Его вилка была на полпути ко рту. Он только начал понимать, что происходит, когда Майкл выстрелил в него. Выстрел был плохим. Он попал Маккласки в горло. Он уронил вилку, прижал руки к шее и начал кашлять едой и кровью. Очень осторожно и очень хладнокровно Майкл направил следующую пулю прямо в мозг полицейского. Маккласки секунду смотрел на Майкла, затем упал вперед, его голова с грохотом ударилась о стол.
+
+Michael turned away. He let the gun <span class='tip-wrap' data-text='fall [фОл] {существительное} падение'>**fall**<span class='tip-text'> </span></span> from his hand and, looking <span class='tip-wrap' data-text='straight [стрЕйт] {наречие} прямо'>**straight**<span class='tip-text'> </span></span> in front of him, he walked quickly out of the restaurant, round the corner and into the car where Tessio was waiting to drive him away.
+
+Майкл отвернулся. Он выпустил пистолет из руки и, глядя прямо перед собой, быстро вышел из ресторана, завернул за угол и сел в машину, где Тессио ждал, чтобы отвезти его.
+
+## Chapter 7 Apollonia
+
+## Глава 7 Аполлония
+
+After the <span class='tip-wrap' data-text='shooting [шУтыŋ] {существительное} стрельба [3]; расстрел [2]'>**shooting**<span class='tip-text'> </span></span> of <span class='tip-wrap' data-text='captain [кЭптэн] {существительное} капитан [3]; капитан команды [2]'>**Captain**<span class='tip-text'> </span></span> McCluskey, the police took revenge on all five New York families. The Five Families War of 1946 had begun. But Michael wasn't there. He was hiding thousands of miles away, in Sicily. He was staying with Don Tommasino, a friend of his father's and a Godfather himself. In the evenings, Michael sat in a huge garden filled with flowers, drinking wine and hearing old stories about his family. During the day, he walked in the Sicilian countryside, dressed in old clothes. Two bodyguards, Fabrizio and Calo, went everywhere with him, carrying guns over their shoulders. Michael often thought of Kay during these long walks in the white hot sun. He felt sad and <span class='tip-wrap' data-text='guilty [гЫлти] {прилагательное} виновный [2]; виноватый [1]; повинный [1]; преступный [1]'>**guilty**<span class='tip-text'> </span></span> that he had left America without saying goodbye to her.
+
+После расстрела капитана Маккласки полиция отомстила всем пяти нью-йоркским семьям. Началась Война пяти семей 1946 года. Но Майкла там не было. Он прятался за тысячи миль отсюда, на Сицилии. Он остановился у дона Томмазино, друга его отца и самого крестного отца. По вечерам Майкл сидел в огромном саду, наполненном цветами, пил вино и слушал старые истории о своей семье. Днем он гулял по сицилийской сельской местности, одетый в старую одежду. С ним повсюду ходили два телохранителя, Фабрицио и Кало, с оружием на плечах. Майкл часто думал о Кее во время этих долгих прогулок под палящим белым солнцем. Ему было грустно и виновато, что он покинул Америку, не попрощавшись с ней.
+
+One morning, seven months after arriving in Sicily, Michael decided to walk into the mountains <span class='tip-wrap' data-text='past [пЭст] {предлог} мимо; за'>**past**<span class='tip-text'> </span></span> the hilltop town of Corleone. He walked with his two bodyguards <span class='tip-wrap' data-text='along [элОŋ] {предлог} вдоль'>**along**<span class='tip-text'> </span></span> dusty country roads, past fruit-trees and fields of flowers. The hot, still air was rich with the <span class='tip-wrap' data-text='smell [смЕл] {существительное} запах [3]; обоняние [3]'>**smell**<span class='tip-text'> </span></span> of oranges. <span class='tip-wrap' data-text='along [элОŋ] {предлог} вдоль'>**Along**<span class='tip-text'> </span></span> the way, they met a group of girls and children picking flowers. They stopped to watch them pass. One girl in a simple dress with a basket over her <span class='tip-wrap' data-text='arm [Арм] {существительное} отделение (осн. рука)'>**arm**<span class='tip-text'> </span></span> stopped in front of Michael to <span class='tip-wrap' data-text='pick [пЫк] {глагол} выбирать'>**pick**<span class='tip-text'> </span></span> a small pink flower. Michael watched her, studying the way that her long, brown hair shone in the sunlight and hung around her face. Suddenly, the girl lifted her head and looked at him. She had large brown eyes, and her heart- shaped mouth was red with the juice of grapes.
+
+Однажды утром, через семь месяцев после прибытия на Сицилию, Майкл решил прогуляться в горы мимо города Корлеоне на вершине холма. Он шел со своими двумя телохранителями по пыльным проселочным дорогам, мимо фруктовых деревьев и цветочных полей. Горячий, неподвижный воздух был насыщен запахом апельсинов. По пути они встретили группу девочек и детей, собирающих цветы. Они остановились, чтобы посмотреть, как они проходят. Одна девушка в простом платье с корзиной на руке остановилась перед Майклом, чтобы сорвать маленький розовый цветок. Майкл наблюдал за ней, изучая, как ее длинные каштановые волосы блестели на солнце и свисали вокруг ее лица. Внезапно девушка подняла голову и посмотрела на него. У нее были большие карие глаза, а рот в форме сердца был красным от виноградного сока.
+
+Michael felt <span class='tip-wrap' data-text='weak [уИк] {прилагательное} слабый [3]'>**weak**<span class='tip-text'> </span></span>, as if hit by lightning. He had never seen anyone so lovely.
+
+Майкл почувствовал слабость, словно его ударила молния. Он никогда не видел никого настолько милого.
+
+The girl lowered her eyes with a shy smile, ran back to <span class='tip-wrap' data-text='join [джОйн] {глагол} соединять (также присоединятся)'>**join**<span class='tip-text'> </span></span> her friends and disappeared down the road. Fabrizio noticed the look on Michael's face and laughed. "Let's go and find out who she is," he suggested. Michael agreed, and followed Fabrizio and Calo down a <span class='tip-wrap' data-text='narrow [нЕрoу] {прилагательное} узкий [3]'>**narrow**<span class='tip-text'> </span></span> path <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the village where the girls and children had gone.
+
+Девушка с застенчивой улыбкой опустила глаза, побежала обратно к друзьям и скрылась по дороге. Фабрицио заметил выражение лица Майкла и рассмеялся. «Пойдем и выясним, кто она», — предложил он. Майкл согласился и последовал за Фабрицио и Кало по узкой тропинке к деревне, куда ушли девочки и дети.
+
+In the village, they sat at a table outside a small cafe. The owner of the cafe was a short man with white hair and a dark moustache. He was a friendly man and he smiled as he served them, not worried at all by the fact that his customers carried guns.
+
+В деревне они сидели за столиком возле небольшого кафе. Владельцем кафе оказался невысокий мужчина с седыми волосами и темными усами. Он был дружелюбным человеком и улыбался, обслуживая их, совершенно не беспокоясь о том, что его клиенты носят с собой оружие.
+
+When Fabrizio asked the cafe owner about the beautiful girl they had seen picking flowers, and described her to him, a <span class='tip-wrap' data-text='strange [стрЕйндж] {прилагательное} странный; чужой'>**strange**<span class='tip-text'> </span></span> thing happened. The man stopped smiling, looked at the three men angrily, and disappeared inside the cafe. Fabrizio followed him inside and, moments later, ran out looking <span class='tip-wrap' data-text='nervous [нЭрвэс] {прилагательное} нервный [3]'>**nervous**<span class='tip-text'> </span></span>.
+
+Когда Фабрицио спросил владельца кафе о красивой девушке, которую они видели собирающей цветы, и описал ее ему, произошла странная вещь. Мужчина перестал улыбаться, сердито посмотрел на троих мужчин и исчез в кафе. Фабрицио последовал за ним внутрь и через несколько мгновений выбежал, нервничая.
+
+"Quick, we must go," he said to Michael. "He's really angry. The girl's his daughter."
+
+«Быстрее, нам пора идти», — сказал он Майклу. «Он очень зол. Эта девочка — его дочь».
+
+But Michael didn't move. He stared at Fabrizio and said: "I want to speak to him."
+
+Но Майкл не двинулся с места. Он посмотрел на Фабрицио и сказал: «Я хочу поговорить с ним».
+
+Fabrizio quickly drank some wine, picked up his gun and went inside to bring the man to Michael. The cafe owner appeared with two young, strong-looking men at his side. They were his sons. He looked down at Michael without speaking, a hard look in his eye.
+
+Фабрицио быстро выпил немного вина, взял пистолет и вошел внутрь, чтобы привести мужчину к Майклу. Владелец кафе появился в сопровождении двух молодых, сильных мужчин. Они были его сыновьями. Он молча посмотрел на Майкла, его взгляд был суровым.
+
+Michael spoke to him <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span>. "I'm <span class='tip-wrap' data-text='sorry [сАри] {прилагательное} жалкий (также сожалеющий)'>**sorry**<span class='tip-text'> </span></span> if I made you angry," he said. I'm an American hiding in Sicily. My name's Michael. You can tell the police, and make a lot of money. But then your daughter would lose a father instead of getting a husband. With your agreement, I would like to meet your daughter. With all respect."
+
+Майкл говорил с ним тихо. «Мне жаль, если я вас разозлил», — сказал он. Я американец, скрывающийся на Сицилии. Меня зовут Майкл. Вы можете сообщить в полицию и заработать много денег. Но тогда ваша дочь потеряет отца вместо того, чтобы обрести мужа. С вашего согласия я хотел бы познакомиться с вашей дочерью. Со всем уважением."
+
+The cafe owner's face softened. He looked with interest at Michael, this young man with the <span class='tip-wrap' data-text='strange [стрЕйндж] {прилагательное} странный; чужой'>**strange**<span class='tip-text'> </span></span> mixture of softness and confidence in his voice. He noticed that the two men with guns looked at this young man with great respect. He was obviously important, and probably rich.
+
+Лицо владельца кафе смягчилось. Он с интересом посмотрел на Майкла, этого молодого человека со странной смесью мягкости и уверенности в голосе. Он заметил, что двое мужчин с оружием смотрели на этого молодого человека с большим уважением. Он был явно важным человеком и, вероятно, богатым.
+
+" Come on Sunday afternoon," he said. "My name is Vitelli and my house is up there in the hills, <span class='tip-wrap' data-text='above [эбАв] {предлог} над'>**above**<span class='tip-text'> </span></span> the village."
+
+«Приходите в воскресенье днем», — сказал он. «Меня зовут Вителли, и мой дом находится там, на холмах, над деревней».
+
+"And what's you daughter's name?" Michael said, standing up and shaking the man's hand.
+
+— А как зовут твою дочь? — сказал Майкл, вставая и пожимая мужчине руку.
+
+"Apollonia, "the cafe owner smiled.
+
+«Аполлония», — улыбнулся хозяин кафе.
+
+That Sunday, Michael, dressed in his best clothes, brought presents for Apollonia and all her family. He gave Apollonia some jewellery. He began to visit the family home <span class='tip-wrap' data-text='regularly [рЕгйэлэрли] {наречие} регулярно [3]; правильно [2]'>**regularly**<span class='tip-text'> </span></span> after that. One evening, at the dinner table, he noticed that she was wearing the jewellery he had given her. It was her way of saying that she liked him. He invited her for a walk in the country, and she agreed. They walked side by side, but they were careful not to touch each other. They were not <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span>. All the women in Apollonia's family walked <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> them, followed by Calo and Fabrizio, carrying their guns.
+
+В то воскресенье Михаил, одетый в свою лучшую одежду, принес подарки Аполлонии и всей ее семье. Он подарил Аполлонии украшения. После этого он начал регулярно посещать семейный дом. Однажды вечером за обеденным столом он заметил, что на ней надеты украшения, которые он ей подарил. Это был ее способ сказать, что он ей нравится. Он пригласил ее на прогулку за город, и она согласилась. Они шли бок о бок, но старались не касаться друг друга. Они были не одни. Все женщины семьи Аполлонии шли за ними, за ними следовали Кало и Фабрицио с оружием в руках.
+
+Two weeks later, Michael and Apollonia got married. Compared to his sister's <span class='tip-wrap' data-text='wedding [уЕдыŋ] {существительное} свадьба [3]; венчание [3]; бракосочетание [2]'>**wedding**<span class='tip-text'> </span></span> to Carlo in New York two years earlier, it was a simple Sicilian <span class='tip-wrap' data-text='wedding [уЕдыŋ] {существительное} свадьба [3]; венчание [3]; бракосочетание [2]'>**wedding**<span class='tip-text'> </span></span>. Apollonia wore white while all the other women wore black. The villagers stood in the streets and threw flowers as the <span class='tip-wrap' data-text='couple [кАпэл] {существительное} пара'>**couple**<span class='tip-text'> </span></span> passed on foot from the church to Apollonia's house in the hills. The <span class='tip-wrap' data-text='wedding [уЕдыŋ] {существительное} свадьба [3]; венчание [3]; бракосочетание [2]'>**wedding**<span class='tip-text'> </span></span> guests walked <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> the <span class='tip-wrap' data-text='couple [кАпэл] {существительное} пара'>**couple**<span class='tip-text'> </span></span> and, <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> the guests, there was a <span class='tip-wrap' data-text='band [бЭнд] {существительное} полоса (также банда)'>**band**<span class='tip-text'> </span></span> of musicians. The <span class='tip-wrap' data-text='wedding [уЕдыŋ] {существительное} свадьба [3]; венчание [3]; бракосочетание [2]'>**wedding**<span class='tip-text'> </span></span> party went on <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> midnight. Then Michael took Apollonia away, and drove her to Don Tommasino's house outside Corleone.
+
+Две недели спустя Михаил и Аполлония поженились. По сравнению со свадьбой его сестры и Карло в Нью-Йорке двумя годами ранее это была простая сицилийская свадьба. Аполлония носила белое, а все остальные женщины — черное. Жители деревни стояли на улицах и бросали цветы, когда пара шла пешком от церкви к дому Аполлонии на холмах. Гости свадьбы шли за парой, а за ними шел оркестр музыкантов. Свадебная вечеринка продолжалась до полуночи. Затем Майкл забрал Аполлонию и отвез ее в дом дона Томмазино недалеко от Корлеоне.
+
+## Chapter 8 A Bridge Too Far
+
+## Глава 8 Мост слишком далеко
+
+Two years after their <span class='tip-wrap' data-text='wedding [уЕдыŋ] {существительное} свадьба [3]; венчание [3]; бракосочетание [2]'>**wedding**<span class='tip-text'> </span></span>, Connie and Carlo Rizzi were not happily married. Carlo drank a lot and saw other women. Connie shouted at him all the time, and Carlo used to hit her. One day, Sonny visited his sister and saw her face was covered in bruises. He became very angry and, although Connie tried to stop him, he rushed away to find Carlo.
+
+Через два года после свадьбы Конни и Карло Рицци не были счастливы в браке. Карло много пил и виделся с другими женщинами. Конни все время кричала на него, а Карло ее бил. Однажды Сонни навестил сестру и увидел, что ее лицо покрыто синяками. Он очень рассердился и, хотя Конни пыталась его остановить, бросился искать Карло.
+
+He <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> Carlo sitting outside the betting shop where he worked. Sonny jumped out of his car and ran quickly <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> him. Carlo tried to escape, but Sonny dived and caught him by the ankles, pulling him down with a <span class='tip-wrap' data-text='crash [крЭш] {существительное} крах [3]; крушение [2]; авария [2]; грохот [2]; треск [2]'>**crash**<span class='tip-text'> </span></span>. Then, while Carlo was still on the ground, Sonny kicked and hit him, screaming at him all the time. Carlo didn't try to fight. He stayed on his knees and covered his head with his hands. Finally, Sonny grew tired. He looked down at Carlo's bruised and bloody body and said: "If you <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span> touch my sister again, I'll kill you!"
+
+Он нашел Карло сидящим возле букмекерской конторы, где он работал. Сонни выскочил из машины и быстро побежал к нему. Карло попытался убежать, но Сонни нырнул и схватил его за лодыжки, с грохотом повалив на землю. Затем, пока Карло все еще лежал на земле, Сонни пинал его и все время кричал на него. Карло не пытался драться. Он остался на коленях и закрыл голову руками. Наконец Сонни устал. Он посмотрел на избитое и окровавленное тело Карло и сказал: «Если ты когда-нибудь еще раз прикоснешься к моей сестре, я убью тебя!»
+
+A few weeks later, the telephone rang in the kitchen of Don Corleone's house. Sonny was called to the phone. It was Connie, and she was crying. Carlo had hit her badly, and she wanted to come home.
+
+Несколько недель спустя на кухне дома дона Корлеоне зазвонил телефон. Сонни позвали к телефону. Это была Конни, и она плакала. Карло сильно ее ударил, и она хотела вернуться домой.
+
+As he listened, Sonny's face went red and he began to <span class='tip-wrap' data-text='shake [шЕйк] {глагол} трясти'>**shake**<span class='tip-text'> </span></span>. "I'm coming right <span class='tip-wrap' data-text='over [Oувэр] {наречие} свыше'>**over**<span class='tip-text'> </span></span>," he told his sister. "Just wait there."
+
+Пока он слушал, лицо Сонни покраснело, и его начало трясти. «Я сейчас приеду», — сказал он сестре. «Просто подожди там».
+
+"Please Sonny, don't ..." Connie began, but Sonny put down the phone and ran <span class='tip-wrap' data-text='straight [стрЕйт] {наречие} прямо'>**straight**<span class='tip-text'> </span></span> out of the house.
+
+«Пожалуйста, Сонни, не надо…» — начала Конни, но Сонни положил трубку и выбежал прямо из дома.
+
+Tom Hagen tried to stop him, but Sonny refused to listen. As Sonny drove quickly out of the gates, Tom told two bodyguards to follow him. Between Long Island and the City of New York, there was a kind of bridge. Before anyone could cross, they had to stop at the tollbooth and pay. When Sonny arrived at the bridge, only one tollbooth was open. He had to wait because another car was in front of him. Sonny impatiently looked for some money in his <span class='tip-wrap' data-text='jacket [джЭкэт] {существительное} куртка [3]; жакет [3]; рубашка [2]'>**jacket**<span class='tip-text'> </span></span> pocket. The car in front of Sonny drove forward a little way and stopped. Sonny drove up to the tollbooth. He gave the man inside his money and tried to drive away, but the car was still in front of him. The man in the tollbooth dropped the money and bent down to <span class='tip-wrap' data-text='pick [пЫк] {глагол} выбирать'>**pick**<span class='tip-text'> </span></span> it up. From the corner of his eye, Sonny noticed something moving in the empty tollbooth on his right. He looked <span class='tip-wrap' data-text='round [рАунд] {прилагательное} круглый [3]'>**round**<span class='tip-text'> </span></span> and saw four men standing in the windows looking at him. At the same moment, two men got out of the car in front and began to walk <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> him. They were carrying machine-guns. Sonny thought about driving backwards, but he was too late. In the second before anything happened, Sonny knew that he was a dead man.
+
+Том Хаген пытался остановить его, но Сонни отказался слушать. Когда Сонни быстро выехал за ворота, Том велел двум телохранителям следовать за ним. Между Лонг-Айлендом и Нью-Йорком существовал своего рода мост. Прежде чем кто-либо смог пересечь дорогу, им пришлось остановиться у пункта взимания платы и заплатить. Когда Сонни подъехал к мосту, была открыта только одна станция взимания платы за проезд. Ему пришлось ждать, потому что перед ним была другая машина. Сонни нетерпеливо поискал в кармане куртки деньги. Машина перед Сонни проехала немного вперед и остановилась. Сонни подъехал к пункту взимания платы за проезд. Он отдал мужчине деньги и попытался уехать, но машина все еще была перед ним. Мужчина в пункте взимания платы уронил деньги и наклонился, чтобы их поднять. Краем глаза Сонни заметил, что в пустой платной будке справа от него что-то движется. Он оглянулся и увидел четырех мужчин, стоящих у окон и смотрящих на него. В тот же момент из идущей впереди машины вышли двое мужчин и направились к нему. Они несли пулеметы. Сонни подумал было поехать задним ходом, но было слишком поздно. За секунду до того, как что-то произошло, Сонни понял, что он мертв.
+
+There was a <span class='tip-wrap' data-text='sudden [сАдэн] {прилагательное} внезапный [3]; неожиданный [2]'>**sudden**<span class='tip-text'> </span></span> thunder of noise, and bullets crashed <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> the windows of his car from all directions. Before Sonny could dive for cover, he was hit several times in the <span class='tip-wrap' data-text='chest [чЕст] {существительное} грудь; сундук'>**chest**<span class='tip-text'> </span></span> and head. But he was a strong man. He refused to die <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span>. He pulled himself <span class='tip-wrap' data-text='across [экрОс] {предлог} через'>**across**<span class='tip-text'> </span></span> the <span class='tip-wrap' data-text='seat [сИт] {существительное} место'>**seat**<span class='tip-text'> </span></span>, opened the door and half jumped, half fell out of the car. He tried to pull his gun from his <span class='tip-wrap' data-text='jacket [джЭкэт] {существительное} куртка [3]; жакет [3]; рубашка [2]'>**jacket**<span class='tip-text'> </span></span>, but bullets continued to hit him. At last, with a wild and angry look on his face, he fell to the ground in a pool of blood and stopped moving.
+
+Внезапно раздался грохот, и пули полетели в окна его машины со всех сторон. Прежде чем Сонни успел нырнуть в укрытие, его несколько раз ударили в грудь и голову. Но он был сильным человеком. Он отказался умереть спокойно. Он перелез через сиденье, открыл дверь и полуподпрыгнул, полувыпал из машины. Он попытался вытащить пистолет из куртки, но пули продолжали попадать в него. Наконец, с диким и злым выражением лица, он упал на землю в луже крови и перестал двигаться.
+
+By the time the bodyguards that Tom had sent to follow him arrived, Sonny Corleone, eldest son of Vito Corleone, was dead, and his killers were gone.
+
+К тому времени, когда прибыли телохранители, которых Том послал за ним, Сонни Корлеоне, старший сын Вито Корлеоне, был мертв, а его убийцы ушли.
+
+Later that night, Tom Hagen sat <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span> in Don Corleone's dark office, drinking. He couldn't believe that Sonny was dead. He heard the door <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> him open and close. Turning round, he saw Don Corleone.
+
+Позже тем же вечером Том Хаген сидел один в темном кабинете дона Корлеоне и пил. Он не мог поверить, что Сонни мертв. Он услышал, как дверь позади него открылась и закрылась. Обернувшись, он увидел дона Корлеоне.
+
+He looked very old and tired as he walked stiffly <span class='tip-wrap' data-text='across [экрОс] {предлог} через'>**across**<span class='tip-text'> </span></span> the room. He had lost weight, and his clothes hung loosely from his body.
+
+Он выглядел очень старым и усталым, когда с трудом шел через комнату. Он похудел, и одежда свободно свисала с его тела.
+
+"Give me some wine," he said as he lowered himself slowly into his favourite leather armchair. He waited while Tom poured him a drink, then half spoke, half whispered: "My wife was crying before she fell asleep. Outside my window, I saw Tessio and Clemenza coming to the house and it's midnight. So, Tom, I think you should tell your Don what everybody already knows."
+
+«Дайте мне вина», — сказал он, медленно опускаясь в свое любимое кожаное кресло. Он подождал, пока Том налил ему выпить, затем полуговорил, полушептал: «Моя жена плакала, прежде чем заснуть. За окном я увидел Тессио и Клеменцу, идущих к дому, и сейчас полночь. Итак, Том, я думаю, ты должен рассказать своему дону то, что все уже знают».
+
+"I was about to come up and tell you, "Tom said. "But you needed a drink first."
+
+«Я собирался подойти и рассказать тебе», — сказал Том. — Но сначала тебе нужно было выпить.
+
+"Yes, "Tom looked down, ashamed.
+
+«Да», Том опустил взгляд, пристыженный.
+
+"You've had your drink. You can tell me now."
+
+«Вы уже выпили. Теперь можете мне сказать».
+
+Tom looked up, his eyes filled with tears. "They shot Sonny," he said, his voice shaking. "He's dead."
+
+Том поднял глаза, его глаза были полны слез. «Они застрелили Сонни», — сказал он дрожащим голосом. "Он мертв."
+
+Don Corleone closed his eyes. For a second he, too, seemed about to cry. But when he opened his eyes again, they were dry. "I want no revenge," he said sadly. "I want you to <span class='tip-wrap' data-text='arrange [эрЕйндж] {глагол} договориться [3]; устраивать [2]; аранжировать [2]; располагать [2]'>**arrange**<span class='tip-text'> </span></span> a meeting with the heads of the five families. This war stops now."
+
+Дон Корлеоне закрыл глаза. На секунду он тоже, казалось, собирался заплакать. Но когда он снова открыл глаза, они были сухими. «Я не хочу мести», - сказал он грустно. «Я хочу, чтобы вы организовали встречу с главами пяти семей. Эта война сейчас прекращается».
+
+## Chapter 9 A Good American Wife
+
+## Глава 9 Хорошая американская жена
+
+In the first weeks of married life, Michael and Apollonia went for walks in the hills and drove around the countryside in their small black car. But news of the <span class='tip-wrap' data-text='wedding [уЕдыŋ] {существительное} свадьба [3]; венчание [3]; бракосочетание [2]'>**wedding**<span class='tip-text'> </span></span> had reached Michael's enemies. Don Tommasino told Michael that it was too dangerous for him to leave the house. He put men with guns around the house to guard him, and told Fabrizio and Calo to stay with Michael all the time. Although he was a prisoner in his home, Michael wasn't too unhappy. He had Apollonia. He spent the time teaching her how to speak English and how to drive the car.
+
+В первые недели семейной жизни Майкл и Аполлония гуляли по холмам и разъезжали по сельской местности на своей маленькой черной машине. Но новости о свадьбе дошли до врагов Майкла. Дон Томмазино сказал Майклу, что ему слишком опасно выходить из дома. Он поставил вокруг дома людей с оружием, чтобы охранять его, и велел Фабрицио и Кало все время оставаться с Майклом. Хотя Майкл был пленником в своем доме, он не был слишком несчастен. У него была Аполлония. Он провел время, обучая ее говорить по-английски и водить машину.
+
+One morning, Don Tommasino came home to tell Michael that Sonny was dead. It wasn't <span class='tip-wrap' data-text='safe [сЕйф] {прилагательное} безопасный'>**safe**<span class='tip-text'> </span></span> for Michael to stay in the house any more. He had <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> a <span class='tip-wrap' data-text='safe [сЕйф] {прилагательное} безопасный'>**safe**<span class='tip-text'> </span></span> house outside Syracuse, and he would have to leave at once. Apollonia could live with her parents for a short time. She could <span class='tip-wrap' data-text='join [джОйн] {глагол} соединять (также присоединятся)'>**join**<span class='tip-text'> </span></span> him later.
+
+Однажды утром Дон Томмасино пришел домой и сообщил Майклу, что Сонни мертв. Майклу больше было небезопасно оставаться в доме. Он нашел убежище недалеко от Сиракуз, и ему придется немедленно уехать. Аполлония могла некоторое время пожить у своих родителей. Она могла бы присоединиться к нему позже.
+
+The next morning, Michael stood at his bedroom window and saw Fabrizio sitting in a garden chair.
+
+На следующее утро Майкл стоял у окна своей спальни и увидел Фабрицио, сидящего в садовом кресле.
+
+"Get the car," Michael called down. "I'm leaving in five minutes." "Is your wife coming with you?" Fabrizio asked.
+
+— Бери машину, — крикнул Майкл. «Я ухожу через пять минут». — Твоя жена пойдет с тобой? – спросил Фабрицио.
+
+"No, I want you to take her to her father's house <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> I'm <span class='tip-wrap' data-text='safe [сЕйф] {прилагательное} безопасный'>**safe**<span class='tip-text'> </span></span>."
+
+«Нет, я хочу, чтобы ты отвез ее в дом ее отца, пока я не буду в безопасности».
+
+Michael washed, then went downstairs to the kitchen, where he <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> Calo having breakfast.
+
+Майкл умылся, затем спустился на кухню, где обнаружил Кало завтракающим.
+
+"Where's Apollonia?" Michael asked.
+
+«Где Аполлония?» – спросил Майкл.
+
+"She's in the car," Calo said, his mouth full of <span class='tip-wrap' data-text='bread [брЕд] {существительное} хлеб [3]'>**bread**<span class='tip-text'> </span></span>. "You'll get a surprise. She's driving it <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span>. She'll make a good American wife." Michael smiled and went outside. Apollonia was sitting in the car, her hands on the wheel. She laughed and waved at him. But Michael was annoyed to see Fabrizio about to <span class='tip-wrap' data-text='disappear [дЫсэпЫр] {глагол} исчезать'>**disappear**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> the garden gates. "Fabrizio. Where are you going?" Michael called.
+
+«Она в машине», — сказал Кало с набитым ртом хлеба. «Тебя ждет сюрприз. Она будет водить машину одна. Из нее получится хорошая американская жена». Майкл улыбнулся и вышел на улицу. Аполлония сидела в машине, положив руки на руль. Она засмеялась и помахала ему рукой. Но Майкл был раздражен, увидев, что Фабрицио собирается исчезнуть за садовыми воротами. «Фабрицио. Куда ты идешь?» Майкл позвонил.
+
+Fabrizio looked over his <span class='tip-wrap' data-text='shoulder [шOулдэр] {существительное} плечо; обочина'>**shoulder**<span class='tip-text'> </span></span> at Michael, then continued to walk quickly away. Michael watched him go, confused at first. Then he looked at the car. Suddenly, without thinking, he realized there was danger.
+
+Фабрицио посмотрел через плечо на Майкла, а затем продолжил быстро идти прочь. Майкл смотрел ему вслед, поначалу растерянный. Потом он посмотрел на машину. Внезапно, не раздумывая, он понял, что существует опасность.
+
+He shouted to Apollonia: "No! No!" But she never heard him. There was a loud explosion and Michael was thrown to the ground. When he looked up, pieces of burning car were lying all over the garden. The bomb, which someone had intended for him, had killed his beautiful, <span class='tip-wrap' data-text='innocent [Ынэсэнт] {прилагательное} невинный [3]; невиновный [2]'>**innocent**<span class='tip-text'> </span></span> wife instead.
+
+Он крикнул Аполлонии: «Нет! Нет!» Но она никогда его не слышала. Раздался громкий взрыв, и Майкла повалило на землю. Когда он поднял глаза, по всему саду валялись куски горящей машины. Бомба, которую кто-то предназначал для него, вместо этого убила его прекрасную, невинную жену.
+
+## Chapter 10 No Revenge
+
+## Глава 10 Никакой мести
+
+The <span class='tip-wrap' data-text='secret [сИкрэт] {прилагательное} секретный [3]; тайный [2]'>**secret**<span class='tip-text'> </span></span> meeting between the heads of the five New York families and all the other important families in America took place in a large room <span class='tip-wrap' data-text='above [эбАв] {предлог} над'>**above**<span class='tip-text'> </span></span> a bank. Everybody sat around a large table, each head with his Consigliori sitting close behind. Don Corleone, who had invited them all, was the first to <span class='tip-wrap' data-text='stand [стЭнд] {глагол} стоять'>**stand**<span class='tip-text'> </span></span> up and speak.
+
+Тайная встреча глав пяти семей Нью-Йорка и всех других важных семей Америки состоялась в большой комнате над банком. Все сидели вокруг большого стола, рядом с каждой главой сидели его консильори. Дон Корлеоне, пригласивший их всех, первым встал и заговорил.
+
+"How did things get so far?" he said. "It's so unnecessary." He looked at the small man with <span class='tip-wrap' data-text='dark [дАрк] {существительное} темнота [2]; тьма [2]; тень [1]; потемки [1]; неведение [1]; невежество [1]'>**dark**<span class='tip-text'> </span></span>, oily hair and shadows under his eyes who was sitting opposite him. "Tattaglia, you've lost a son. I've lost a son too. Why can't we stop this foolish war now before more people die?"
+
+«Как дела зашли так далеко?» он сказал. «Это так ненужно». Он посмотрел на маленького человека с темными, маслянистыми волосами и тенями под глазами, сидевшего напротив него. «Татталья, ты потерял сына. Я тоже потерял сына. Почему мы не можем остановить эту глупую войну сейчас, пока не погибло еще больше людей?»
+
+A handsome man with silver hair who sat at one end of the table began to speak. This was Barzini. "We all know Don Corleone is an <span class='tip-wrap' data-text='honest [Анэст] {прилагательное} честный [3]'>**honest**<span class='tip-text'> </span></span> man," he said. "We can <span class='tip-wrap' data-text='trust [трАст] {глагол} доверять'>**trust**<span class='tip-text'> </span></span> him."
+
+Красивый мужчина с серебристыми волосами, сидевший на одном конце стола, начал говорить. Это был Барзини. «Мы все знаем, что дон Корлеоне — честный человек», — сказал он. «Мы можем ему доверять».
+
+"Yes, "Tattaglia said to Barzini. "He has many important friends. But he refused to <span class='tip-wrap' data-text='share [шЕр] {глагол} делиться; разделять'>**share**<span class='tip-text'> </span></span> them with us."
+
+«Да», — сказал Татталья Барзини. «У него много важных друзей. Но он отказался поделиться ими с нами».
+
+"I only <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span> refused to help you once," Don Corleone looked at Tattaglia. He was thinking about the meeting with Sollozzo. "I refused to help you because I don't like the drugs business."
+
+«Я только один раз отказался помочь тебе», — Дон Корлеоне посмотрел на Татталью. Он думал о встрече с Солоццо. «Я отказался вам помочь, потому что мне не нравится наркобизнес».
+
+"Times have changed, "Barzini said." A man who refuses to help his friends is not a true friend. Don Corleone must <span class='tip-wrap' data-text='share [шЕр] {глагол} делиться; разделять'>**share**<span class='tip-text'> </span></span> his important friends in Law and Government with us. We will pay him well for his help, of course."
+
+«Времена изменились», - сказал Барзини. «Человек, который отказывается помочь своим друзьям, не является настоящим другом. Дон Корлеоне должен поделиться с нами своими важными друзьями в области права и правительства. Мы, конечно, хорошо заплатим ему за его помощь. "
+
+The Godfathers talked for a long time. Finally Don Corleone said: "I'm a man you can <span class='tip-wrap' data-text='trust [трАст] {глагол} доверять'>**trust**<span class='tip-text'> </span></span>. I'll do <span class='tip-wrap' data-text='whatever [уАтЕвэр] {определитель} что/какой бы ни'>**whatever**<span class='tip-text'> </span></span> I can for peace."
+
+Крестные отцы долго разговаривали. Наконец дон Корлеоне сказал: «Я человек, которому вы можете доверять. Я сделаю все, что смогу, ради мира».
+
+"Then we all agree," Barzini smiled. "The drugs business will be permitted, but controlled. And Don Corleone will <span class='tip-wrap' data-text='share [шЕр] {глагол} делиться; разделять'>**share**<span class='tip-text'> </span></span> his important friends with us."
+
+«Тогда мы все согласны», — улыбнулся Барзини. «Наркобизнес будет разрешен, но контролируем. А дон Корлеоне поделится с нами своими важными друзьями».
+
+"If Don Corleone promises not to take revenge on us for his son's death, "Tattaglia said.
+
+«Если дон Корлеоне пообещает не мстить нам за смерть сына», — сказал Татталья.
+
+Don Corleone looked sadly at Tattaglia. "Is revenge going to bring your son back to you? Or my boy to me? I <span class='tip-wrap' data-text='promise [прАмэс] {глагол} обещать'>**promise**<span class='tip-text'> </span></span>, there will be no revenge. But only if my youngest son is permitted to come back safely. He has had to live abroad <span class='tip-wrap' data-text='since [сЫнс] {предлог} с (также после)'>**since**<span class='tip-text'> </span></span> that Sollozzo business. I want him home. But I warn you, if anything happens to my son - if he mysteriously falls off the boat on his way home, or if he's hit by lightning after he returns - then I will blame some of the people in this room. That, I will not forgive. But if my son is permitted to return safely to New York, then I <span class='tip-wrap' data-text='promise [прАмэс] {глагол} обещать'>**promise**<span class='tip-text'> </span></span> I will not be the one to break the peace we have made here today." At this, he stood up and opened his arms to Tattaglia. Tattaglia stood up too, and the two men walked around the table. They met <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> Barzini's chair and hugged each other warmly. Then all the Godfathers in the room stood up and began to hug and kiss each other, congratulating each other on the end of the war.
+
+Дон Корлеоне грустно посмотрел на Татталью. «Месть вернет вам вашего сына? Или моего мальчика ко мне? Обещаю, мести не будет. Но только если моему младшему сыну будет разрешено вернуться благополучно. После того дела Солоццо ему пришлось жить за границей. Я хочу, чтобы он вернулся домой. Но предупреждаю: если что-нибудь случится с моим сыном – если он таинственным образом упадет с лодки по пути домой или если после возвращения в него ударит молния – то я буду винить в этом некоторых людей. Этого я не прощу. Но если моему сыну позволят благополучно вернуться в Нью-Йорк, то я обещаю, что не буду нарушать мир, который мы заключили здесь сегодня». При этом он встал и раскрыл руки Татталье. Татталья тоже встал, и двое мужчин обошли стол. Они встретились за креслом Барзини и тепло обняли друг друга. Тогда все Крестные отцы в комнате встали и стали обнимать и целовать друг друга, поздравляя друг друга с окончанием войны.
+
+## Chapter 11 Ghost from the Past
+
+## Глава 11 Призрак из прошлого
+
+One autumn afternoon, as Kay was walking home, she saw a large black car parked outside the school where she was a teacher. Next to the car, there was a serious-looking man in a black hat and long black <span class='tip-wrap' data-text='coat [кOут] {существительное} пальто [3]; слой [3]; шерсть [2]; пиджак [2]; оболочка [2]; шубка [2]'>**coat**<span class='tip-text'> </span></span>, watching her. Kay stopped as if she had seen a ghost.
+
+Однажды осенним днем, когда Кей шла домой, она увидела большую черную машину, припаркованную возле школы, где она работала учительницей. Рядом с машиной за ней наблюдал серьезный мужчина в черной шляпе и длинном черном пальто. Кей остановилась, как будто увидела привидение.
+
+"Michael," she said. "How long have you been back?"
+
+«Майкл», сказала она. — Как давно ты вернулся?
+
+"About a year," he said <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span>. Then, walking slowly <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> her, he said: "It's good to see you Kay"
+
+— Около года, — тихо сказал он. Затем, медленно подойдя к ней, он сказал: «Рада видеть тебя, Кей».
+
+They walked together <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> the park, hands in pockets, a little shy with each other after so much time. "I'm working for my father now," Michael explained. "He's been <span class='tip-wrap' data-text='sick [сЫк] {прилагательное} больной'>**sick**<span class='tip-text'> </span></span>. Very <span class='tip-wrap' data-text='sick [сЫк] {прилагательное} больной'>**sick**<span class='tip-text'> </span></span>."
+
+Они гуляли вместе по парку, руки в карманах, немного стесняясь друг друга после столь долгого времени. «Сейчас я работаю на своего отца», — объяснил Майкл. «Он был болен. Очень болен».
+
+"But you're not like him," Kay replied. "I thought you weren't going to <span class='tip-wrap' data-text='become [быкАм] {глагол} становиться'>**become**<span class='tip-text'> </span></span> a man like your father."
+
+«Но ты не такой, как он», — ответил Кей. «Я думал, ты не станешь таким человеком, как твой отец».
+
+"As I've grown older, I've learnt to <span class='tip-wrap' data-text='respect [рыспЕкт] {глагол} уважать [3]; соблюдать [3]'>**respect**<span class='tip-text'> </span></span> him more. He's just an <span class='tip-wrap' data-text='ordinary [ОрдэнЕри] {прилагательное} обычный [3]; обыкновенный [2]; простой [2]'>**ordinary**<span class='tip-text'> </span></span> man who loves his family, that's all."
+
+«Когда я стал старше, я научился его больше уважать. Он просто обычный человек, который любит свою семью, вот и все».
+
+"<span class='tip-wrap' data-text='ordinary [ОрдэнЕри] {прилагательное} обычный [3]; обыкновенный [2]; простой [2]'>**Ordinary**<span class='tip-text'> </span></span> men don't have other men killed," Kay said.
+
+«Обычные люди не убивают других мужчин», - сказал Кей.
+
+"Listen, Kay," Michael stopped walking and looked her in the eyes. "In five years" time, my family will have no more problems. We'll be a lawful, respectable family. <span class='tip-wrap' data-text='trust [трАст] {глагол} доверять'>**Trust**<span class='tip-text'> </span></span> me. That's all I can tell you about my business."
+
+«Послушай, Кей», Майкл остановился и посмотрел ей в глаза. «Через пять лет» у моей семьи больше не будет проблем. Мы будем законной, респектабельной семьей. Поверьте мне. Это все, что я могу вам рассказать о своем бизнесе».
+
+Kay's eyes filled with tears. "Michael, why did you come here?" she said. "What do you want with me after all this time? You didn't call.You didn't write ..."
+
+Глаза Кея наполнились слезами. «Майкл, зачем ты пришел сюда?» она сказала. «Что тебе от меня нужно после всего этого времени? Ты не позвонил. Ты не написал...»
+
+"I came here because I need you. I care for you." "Please stop it."
+
+«Я пришел сюда, потому что ты мне нужен. Я забочусь о тебе». "Пожалуйста, прекрати."
+
+But Michael went on: "Because I want you to marry me." Kay shook her head. "It's too late."
+
+Но Майкл продолжал: «Потому что я хочу, чтобы ты вышла за меня замуж». Кей покачала головой. "Слишком поздно."
+
+"I <span class='tip-wrap' data-text='promise [прАмэс] {глагол} обещать'>**promise**<span class='tip-text'> </span></span> I'll do anything you ask," Michael continued in a soft, calm voice. "Let's <span class='tip-wrap' data-text='forget [фэргЕт] {глагол} забывать'>**forget**<span class='tip-text'> </span></span> the last two years. What's important is that we have each other. That we have children. Kay, I need you. And I love you."
+
+«Я обещаю, что сделаю все, что ты попросишь», - продолжил Майкл мягким, спокойным голосом. «Давай забудем последние два года. Важно то, что мы есть друг у друга. Что у нас есть дети. Кей, ты мне нужен. И я люблю тебя».
+
+As Michael was speaking, Kay kept looking away. She didn't know what to say. Michael had changed. He was different now. There was something cold about him, something hard ...
+
+Пока Майкл говорил, Кей продолжал отводить взгляд. Она не знала, что сказать. Майкл изменился. Теперь он был другим. Было в нем что-то холодное, что-то твердое...
+
+But in the end, this didn't matter. Before she could answer him, the large black car drove up and stopped next to them. Michael opened the back door for her and waited. In her heart, Kay realized that she still loved him. Without a word, she stepped inside the car.
+
+Но в конце концов это не имело значения. Прежде чем она успела ему ответить, подъехала большая черная машина и остановилась рядом с ними. Майкл открыл ей заднюю дверь и стал ждать. В глубине души Кей поняла, что она все еще любит его. Не говоря ни слова, она вошла в машину.
+
+## Chapter 12 Many Changes
+
+## Глава 12 Множество изменений
+
+As months turned into years, there were many changes. Michael and Kay got married and had two children. Connie and Carlo Rizzi moved with their children into a house on Long Island, to be near the <span class='tip-wrap' data-text='rest [рЕст] {существительное} отдых (также остаток)'>**rest**<span class='tip-text'> </span></span> of the family. Fredo was sent to Las Vegas, where the Corleones had bought one hotel and were planning to buy many more. Barzini was taking advantage of the peace between the five families, and was beginning to take over a lot of the Corleone family business in New York. Tessio and Clemenza wanted to fight Barzini before he became too strong, but Michael, who had spent long hours talking to Tom Hagen and his father, learning the family business, told them to be patient. At first, Tessio and Clemenza didn't like taking orders from Michael. They tried to talk to Don Corleone instead. But the old man said: "Do you <span class='tip-wrap' data-text='trust [трАст] {глагол} доверять'>**trust**<span class='tip-text'> </span></span> me?"
+
+Месяцы превратились в годы, и произошло много изменений. Майкл и Кей поженились и родили двоих детей. Конни и Карло Рицци переехали со своими детьми в дом на Лонг-Айленде, чтобы быть рядом с остальной семьей. Фредо отправили в Лас-Вегас, где Корлеоне купили один отель и планировали купить еще много. Барзини воспользовался миром между пятью семьями и начал брать на себя большую часть семейного бизнеса Корлеоне в Нью-Йорке. Тессио и Клеменца хотели сразиться с Барзини, прежде чем он станет слишком сильным, но Майкл, который провел долгие часы, разговаривая с Томом Хагеном и его отцом, изучая семейный бизнес, посоветовал им набраться терпения. Поначалу Тессио и Клеменца не любили подчиняться приказам Майкла. Вместо этого они попытались поговорить с доном Корлеоне. Но старик сказал: «Ты мне доверяешь?»
+
+"Yes, Godfather," Tessio and Clemenza replied
+
+«Да, Крестный отец», — ответили Тессио и Клеменца.
+
+"Then be a friend to Michael He's head of the family now Do as he says" One afternoon, Michael sat in the garden with his father Don Corleone had put on a lot of weight and moved very slowly He spent most of his time in the garden, looking after his plants, or just sitting under a tree, drinking wine, thinking about the past. But his mind was still sharp Michael always came to him for advice
+
+«Тогда будь другом Майклу. Теперь он глава семьи. Делай, как он говорит». Однажды днем Майкл сидел в саду со своим отцом. Дон Корлеоне сильно набрал вес и двигался очень медленно. Большую часть времени он проводил в саду, ухаживая за своими растениями, или просто сидя под деревом, попивая вино и думая о прошлом. Но его ум по-прежнему был острым. Майкл всегда приходил к нему за советом.
+
+"Be careful of Barzini," he told Michael "He'll move <span class='tip-wrap' data-text='against [эгЕнст] {предлог} от; против'>**against**<span class='tip-text'> </span></span> you first He'll <span class='tip-wrap' data-text='arrange [эрЕйндж] {глагол} договориться [3]; устраивать [2]; аранжировать [2]; располагать [2]'>**arrange**<span class='tip-text'> </span></span> a meeting with someone that you <span class='tip-wrap' data-text='trust [трАст] {глагол} доверять'>**trust**<span class='tip-text'> </span></span>. He'll <span class='tip-wrap' data-text='promise [прАмэс] {глагол} обещать'>**promise**<span class='tip-text'> </span></span> you safety But at that meeting, he'll kill you"
+
+«Будь осторожен с Барзини», - сказал он Майклу. «Сначала он выступит против тебя. Он устроит встречу с кем-то, кому ты доверяешь. Он пообещает тебе безопасность, Но на этой встрече он убьет тебя».
+
+Don Corleone drank some red wine, and suddenly changed the <span class='tip-wrap' data-text='subject [сэбджЕкт] {существительное} предмет'>**subject**<span class='tip-text'> </span></span> "Are you happy with your wife and children" he asked "Very happy," Michael said softly He wanted to hear more about Barzini, but he respected and loved his father too much to hurry him.
+
+Дон Корлеоне выпил немного красного вина и внезапно сменил тему. «Ты счастлив со своей женой и детьми?» — спросил он. «Очень счастлив», — тихо сказал Майкл. Ему хотелось услышать больше о Барзини, но он слишком уважал и любил своего отца, чтобы поторопи его.
+
+"That's good," said Don Corleone. He looked around the garden for a moment with a sad look in his eyes, then said "I'm <span class='tip-wrap' data-text='sorry [сАри] {прилагательное} жалкий (также сожалеющий)'>**sorry**<span class='tip-text'> </span></span> I can't stop thinking about Barzini. It worries me. I always thought Sonny would be head of the family. I never wanted this for you There just wasn't enough time
+
+«Это хорошо», сказал дон Корлеоне. Он оглядел сад на мгновение с грустным выражением в глазах, затем сказал: «Мне жаль, но я не могу перестать думать о Барзини. Это меня беспокоит. Я всегда думал, что Сонни будет главой семьи. Я никогда не хотел это для тебя, просто не хватило времени
+
+Michael gently touched his father's <span class='tip-wrap' data-text='arm [Арм] {существительное} отделение (осн. рука)'>**arm**<span class='tip-text'> </span></span> "Don't worry, Father," he said. "I'll take care of it."
+
+Майкл нежно коснулся руки отца. «Не волнуйся, отец», - сказал он. "Я позабочусь об этом."
+
+Don Corleone nodded, smiled to himself, then looked suddenly serious as if he had forgotten to tell Michael something important
+
+Дон Корлеоне кивнул, улыбнулся про себя, а затем внезапно посерьезнел, как будто забыл сказать Майклу что-то важное.
+
+"What's the <span class='tip-wrap' data-text='matter [мЭтэр] {существительное} вопрос (также материя); дело (также материя)'>**matter**<span class='tip-text'> </span></span>, Father?" Michael asked.
+
+— В чем дело, отец? – спросил Майкл.
+
+"Listen," Don Corleone raised one finger. "Whoever comes to you with this Barzini meeting - he's the traitor. Don't <span class='tip-wrap' data-text='forget [фэргЕт] {глагол} забывать'>**forget**<span class='tip-text'> </span></span> that"
+
+— Послушай, — Дон Корлеоне поднял палец. «Кто бы ни пришел к вам с этой встречей Барзини – он предатель. Не забывайте об этом»
+
+Then, standing with great difficulty, he touched Michael lovingly on the <span class='tip-wrap' data-text='cheek [чИк] {существительное} щека [3]; наглость [2]'>**cheek**<span class='tip-text'> </span></span> and walked slowly back to the house, out of the sun.
+
+Затем, с большим трудом поднявшись, он любовно коснулся щеки Майкла и медленно пошел обратно к дому, подальше от солнца.
+
+One Sunday morning, while the women were at church, Don Corleone was playing with his grandson <span class='tip-wrap' data-text='among [эмАŋ] {предлог} среди; между'>**among**<span class='tip-text'> </span></span> his <span class='tip-wrap' data-text='tomato [тэмЕйтOу] {существительное} помидор [3]; томат [3]'>**tomato**<span class='tip-text'> </span></span> plants in the garden. As he tried to run away from the little boy who was chasing him, he suddenly <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> it hard to <span class='tip-wrap' data-text='breathe [брИð] {глагол} дышать [3]; вдыхать [3]; подышать [2]; вздохнуть [2]; выдыхать [2]'>**breathe**<span class='tip-text'> </span></span>. It was as if the sun had come down very close to his head. He stopped running and started to cough as he tried to get air into his <span class='tip-wrap' data-text='chest [чЕст] {существительное} грудь; сундук'>**chest**<span class='tip-text'> </span></span> The little boy laughed, thinking this was part of the game. Don Corleone bent forward, coughing more and more, and then he felt it: an explosion of fire inside his <span class='tip-wrap' data-text='chest [чЕст] {существительное} грудь; сундук'>**chest**<span class='tip-text'> </span></span>. With a cry of pain, he fell back <span class='tip-wrap' data-text='among [эмАŋ] {предлог} среди; между'>**among**<span class='tip-text'> </span></span> his <span class='tip-wrap' data-text='tomato [тэмЕйтOу] {существительное} помидор [3]; томат [3]'>**tomato**<span class='tip-text'> </span></span> plants, dead.
+
+Однажды воскресным утром, когда женщины были в церкви, дон Корлеоне играл со своим внуком среди помидоров в саду. Когда он пытался убежать от преследовавшего его маленького мальчика, ему внезапно стало трудно дышать. Словно солнце опустилось совсем близко к его голове. Он перестал бежать и начал кашлять, пытаясь наполнить грудь воздухом. Маленький мальчик засмеялся, думая, что это часть игры. Дон Корлеоне наклонился вперед, кашляя все сильнее и сильнее, а затем почувствовал это: взрыв огня в груди. С криком боли он упал мертвым среди своих помидоров.
+
+All his life, people had tried to kill him They had failed In the end, Don Vito Corleone died a natural death, playing with his grandson in his garden on a peaceful Sunday morning. 
+
+Всю его жизнь люди пытались его убить. Но им это не удалось. В конце концов, дон Вито Корлеоне умер естественной смертью, играя со своим внуком в саду мирным воскресным утром.
+
+## Chapter 13 Traitor
+
+## Глава 13 Предатель
+
+At the <span class='tip-wrap' data-text='funeral [фйУнэрэл] {существительное} похороны [3]'>**funeral**<span class='tip-text'> </span></span>, Michael sat with his family as people walked past, one by one, throwing flowers on to his father's grave Michael studied their faces <span class='tip-wrap' data-text='carefully [кЕрфэли] {наречие} бережно'>**carefully**<span class='tip-text'> </span></span> Clemenza, Tessio, Enzo the butcher, Johnny Fontane, all the people that his father had helped in his long and dangerous life Some of his enemies were at the <span class='tip-wrap' data-text='funeral [фйУнэрэл] {существительное} похороны [3]'>**funeral**<span class='tip-text'> </span></span> too Barzini threw a red rose on to the grave, and lowered his eyes respectfully in Michael's direction Michael stared at him coldly as he turned and walked away
+
+На похоронах Майкл сидел со своей семьей, а люди проходили мимо один за другим, бросая цветы на могилу его отца. Майкл внимательно изучал их лица Клеменца, Тессио, мясник Энцо, Джонни Фонтане, все люди, которым помогал его отец. его долгая и опасная жизнь Некоторые из его врагов тоже присутствовали на похоронах. Барзини бросил на могилу красную розу и почтительно опустил глаза в сторону Майкла. Майкл холодно посмотрел на него, когда он повернулся и пошел прочь.
+
+A few minutes later, Tessio walked up to Michael and whispered something in his ear Michael stood up and walked away from the grave to hear what Tessio wanted to say
+
+Через несколько минут Тессио подошел к Майклу и что-то прошептал ему на ухо. Майкл встал и отошел от могилы, чтобы услышать, что хотел сказать Тессио.
+
+"Barzini wants to <span class='tip-wrap' data-text='arrange [эрЕйндж] {глагол} договориться [3]; устраивать [2]; аранжировать [2]; располагать [2]'>**arrange**<span class='tip-text'> </span></span> a meeting, "Tessio said "He says we can solve all our problems"
+
+«Барзини хочет организовать встречу, — сказал Тессио. — Он говорит, что мы можем решить все наши проблемы».
+
+"Did you talk to him?"
+
+"Вы говорили с ним?"
+
+"Yes I can <span class='tip-wrap' data-text='arrange [эрЕйндж] {глагол} договориться [3]; устраивать [2]; аранжировать [2]; располагать [2]'>**arrange**<span class='tip-text'> </span></span> everything <span class='tip-wrap' data-text='trust [трАст] {глагол} доверять'>**Trust**<span class='tip-text'> </span></span> me"
+
+«Да, я могу всё организовать, поверь мне»
+
+Michael looked at Tessio He had known him all his life He had always been like an uncle to him But Michael remembered his father's words
+
+Майкл посмотрел на Тессио. Он знал его всю жизнь. Он всегда был ему как дядя. Но Майкл помнил слова отца.
+
+- "Whoever comes to you with this Barzini meeting, he's the traitor" - and he felt a great sadness in his heart
+
+- «Кто бы ни пришел к вам с этой встречей Барзини, тот предатель» - и он почувствовал огромную печаль в своем сердце.
+
+"All right," Michael said <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span>, and he returned to his <span class='tip-wrap' data-text='seat [сИт] {существительное} место'>**seat**<span class='tip-text'> </span></span> by his father's grave He told Tom, who was sitting next to him, about his conversation with Tessio
+
+«Хорошо», тихо сказал Майкл и вернулся на свое место у могилы отца. Он рассказал Тому, который сидел рядом с ним, о своем разговоре с Тессио.
+
+Tom shook his head sadly "I always thought it would be Clemenza," he said
+
+Том грустно покачал головой. «Я всегда думал, что это будет Клеменца», — сказал он.
+
+"No," said Michael "This is a clever move, and Tessio's cleverer than Clemenza But I'm going to wait I've decided to be godfather to Connie's baby, and then I'm going to meet Barzini, Tattaglia and all the heads of the five families"
+
+«Нет», сказал Майкл, «Это умный ход, и Тессио умнее, чем Клеменца. Но я подожду, я решил стать крестным отцом ребенка Конни, а потом я встречусь с Барзини, Таттальей и всеми главы пяти семей»
+
+He watched Tessio who was standing some distance away, shaking hands and talking with Barzini He hadn't told Tom the <span class='tip-wrap' data-text='whole [хOул] {прилагательное} весь'>**whole**<span class='tip-text'> </span></span> truth Tom was not a Consigliori any more, so he didn't
+
+Он наблюдал за Тессио, который стоял на некотором расстоянии, пожимал руки и разговаривал с Барзини. Он не сказал Тому всей правды, Том больше не был Консильори, поэтому он не сказал Тому всей правды.
+
+know everything in the way that he used to. The truth was that Michael had already decided to kill all his enemies. They were going to die on the day he stood as godfather to Connie's child.
+
+знать все так, как знал раньше. Правда заключалась в том, что Майкл уже решил убить всех своих врагов. Им предстояло умереть в тот день, когда он станет крестным отцом ребенка Конни.
+
+## Chapter 14 Michael Rizzi, Go in Peace
+
+## Глава 14 Майкл Рицци, Идите с миром
+
+As Michael walked into the church with Kay, Connie, Carlo and the <span class='tip-wrap' data-text='rest [рЕст] {существительное} отдых (также остаток)'>**rest**<span class='tip-text'> </span></span> of the family, his men were all over New York, getting ready to kill his enemies. Pete Clemenza kissed his wife goodbye and left the house carrying a large flower-box under his <span class='tip-wrap' data-text='arm [Арм] {существительное} отделение (осн. рука)'>**arm**<span class='tip-text'> </span></span> Michael's personal bodyguard, Albert Neri, was putting on a policeman's uniform. Clemenza's close friend, Rocco Lampone, was sitting with his eyes closed in a large hotel, while a man gave him a shave. Two other men who worked for the family were checking their machine-guns in a small, apartment room somewhere in a <span class='tip-wrap' data-text='cheap [чИп] {прилагательное} дешевый'>**cheap**<span class='tip-text'> </span></span> part of the city
+
+Когда Майкл вошел в церковь с Кей, Конни, Карло и остальными членами семьи, его люди разбросаны по всему Нью-Йорку, готовясь убить его врагов. Пит Клеменца поцеловал жену на прощание и вышел из дома, неся под мышкой большую коробку с цветами. Личный телохранитель Майкла, Альберт Нери, надевал форму полицейского. Близкий друг Клеменцы, Рокко Лампоне, сидел с закрытыми глазами в большом отеле, пока мужчина брил его. Двое других мужчин, которые работали на семью, проверяли свои пулеметы в маленькой комнатке где-то в дешевом районе города.
+
+Kay stood in the church, Connie's baby sleeping in her arms. The <span class='tip-wrap' data-text='priest [прИст] {существительное} священник [3]; жрец [3]'>**priest**<span class='tip-text'> </span></span> spoke Latin and touched the baby's cheeks and mouth with water. Then he asked Michael: "Do you believe in God the Father, the Maker of Heaven and Earth? Do you believe in Jesus Christ?"
+
+Кей стояла в церкви, ребенок Конни спал у нее на руках. Священник говорил по-латыни и коснулся щек и рта ребенка водой. Тогда он спросил Михаила: «Веришь ли ты в Бога Отца, Создателя Неба и Земли? Веришь ли ты в Иисуса Христа?»
+
+Michael said: "I do."
+
+Майкл сказал: «Да».
+
+Albert Neri was standing on the pavement in his policeman's uniform He was talking to the driver of a car which was parked in front of the Plaza Building, trying to make him move away The driver shook his head and refused to move.
+
+Альберт Нери стоял на тротуаре в форме полицейского. Он разговаривал с водителем автомобиля, припаркованного перед зданием Плаза, пытаясь заставить его отойти. Водитель покачал головой и отказался двигаться.
+
+Pete Clemenza was running up a lot of stairs in a dark hotel, the flower-box under his <span class='tip-wrap' data-text='arm [Арм] {существительное} отделение (осн. рука)'>**arm**<span class='tip-text'> </span></span>. His fat face was hot and red, and he was very short of <span class='tip-wrap' data-text='breath [брЕθ] {существительное} вздох (осн. дыхание)'>**breath**<span class='tip-text'> </span></span>.
+
+Пит Клеменца взбегал по лестнице темного отеля с цветочным ящиком под мышкой. Его толстое лицо было горячим и красным, и он сильно задыхался.
+
+Rocco Lampone checked his face in the mirror, paid the man in the hotel who had given him the shave, and calmly walked out of the door. The two men with machine-guns looked at each other and, without a word, walked out of their apartment.
+
+Рокко Лампоне взглянул на свое лицо в зеркало, заплатил мужчине в отеле, который его побрил, и спокойно вышел за дверь. Двое мужчин с автоматами переглянулись и, не говоря ни слова, вышли из квартиры.
+
+The baby in Kay's arms woke up and began to cry. He didn't like the water on his face.
+
+Младенец на руках Кея проснулся и заплакал. Ему не нравилась вода на его лице.
+
+Barzini appeared at the top of the steps of the Plaza Building with his bodyguard. Looking down, he saw his driver arguing with a policeman on the pavement, so he sent his bodyguard down to find out what the problem was.
+
+Барзини появился на вершине лестницы здания Плаза со своим телохранителем. Посмотрев вниз, он увидел, что его водитель спорит с полицейским на тротуаре, поэтому он послал своего телохранителя выяснить, в чем проблема.
+
+Rocco Lampone waited near the desk in the hotel <span class='tip-wrap' data-text='entrance [Ентрэнс] {существительное} вход [3]; въезд [2]; выход [2]; вступление [2]'>**entrance**<span class='tip-text'> </span></span>, and smoked a cigarette.
+
+Рокко Лампоне ждал возле стола у входа в отель и курил сигарету.
+
+Pete Clemenza reached the top of the stairs and rested <span class='tip-wrap' data-text='against [эгЕнст] {предлог} от; против'>**against**<span class='tip-text'> </span></span> a wall outside a lift, <span class='tip-wrap' data-text='completely [кэмплИтли] {наречие} полностью'>**completely**<span class='tip-text'> </span></span> out of <span class='tip-wrap' data-text='breath [брЕθ] {существительное} вздох (осн. дыхание)'>**breath**<span class='tip-text'> </span></span>.
+
+Пит Клеменца достиг вершины лестницы и прислонился к стене возле лифта, полностью запыхавшись.
+
+"Michael Francis Rizzi," the <span class='tip-wrap' data-text='priest [прИст] {существительное} священник [3]; жрец [3]'>**priest**<span class='tip-text'> </span></span> spoke to the crying baby. "Do you <span class='tip-wrap' data-text='refuse [рэфйУз] {глагол} отказываться'>**refuse**<span class='tip-text'> </span></span> Satan, and everything that Satan does?"
+
+«Майкл Фрэнсис Рицци», — обратился священник к плачущему младенцу. «Вы отвергаете сатану и все, что делает сатана?»
+
+Clemenza waited outside the lift. Suddenly, the doors opened and a small, <span class='tip-wrap' data-text='thin [θЫн] {прилагательное} тонкий'>**thin**<span class='tip-text'> </span></span> man with silver hair, a red flower in the buttonhole of his <span class='tip-wrap' data-text='expensive [ыкспЕнсыв] {прилагательное} дорогой'>**expensive**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='suit [сУт] {существительное} костюм'>**suit**<span class='tip-text'> </span></span>, stepped out. It was Cuneo, one of the New York Godfathers who had been at the meeting with Don Corleone three years before. He stopped when he saw Clemenza, a look of confusion on his face Clemenza lifted his short, <span class='tip-wrap' data-text='fat [фЭт] {прилагательное} толстый [2]; жирный [2]; тучный [2]; упитанный [1]; откормленный [1]; сальный [1]; богатый [1]; плодородный [1]; доходный [1]; маслянистый [1]; обильный [1]; выгодный [1]; тупоумный [1]; глупый [1]'>**fat**<span class='tip-text'> </span></span> leg and kicked Cuneo hard in the stomach. Cuneo fell backwards into the lift. Clemenza quickly opened his flower-box and took out a large shotgun. He pointed it at Cuneo and fired.
+
+Клеменца ждал у лифта. Внезапно двери открылись, и вышел маленький, худощавый человек с серебристыми волосами, с красным цветком в петлице дорогого костюма. Это был Кунео, один из крестных отцов Нью-Йорка, который три года назад присутствовал на встрече с доном Корлеоне. Он остановился, увидев Клеменцу, на его лице отразилось растерянность. Клеменца поднял свою короткую, толстую ногу и сильно ударил Кунео в живот. Кунео упал назад в лифт. Клеменца быстро открыл ящик с цветами и достал большой дробовик. Он направил его на Кунео и выстрелил.
+
+"I do <span class='tip-wrap' data-text='refuse [рэфйУз] {глагол} отказываться'>**refuse**<span class='tip-text'> </span></span> Satan," Michael spoke <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span> to the <span class='tip-wrap' data-text='priest [прИст] {существительное} священник [3]; жрец [3]'>**priest**<span class='tip-text'> </span></span>, answering for the baby. "And everything that Satan does." The baby went on crying.
+
+«Я отказываюсь от сатаны», — тихо сказал Майкл священнику, отвечая за ребенка. «И все, что делает сатана». Ребенок продолжал плакать.
+
+A man in a white <span class='tip-wrap' data-text='suit [сУт] {существительное} костюм'>**suit**<span class='tip-text'> </span></span> walked <span class='tip-wrap' data-text='past [пЭст] {предлог} мимо; за'>**past**<span class='tip-text'> </span></span> the desk where Rocco Lampone was waiting. He was on his way out of the hotel This was Stracci, another New York Godfather As he was half-way <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> the revolving doors, Lampone ran from the desk and locked the door to stop it turning. Stracci was caught inside. He tried to push, but the doors wouldn't move. He hit the glass with his hands. He turned <span class='tip-wrap' data-text='round [рАунд] {прилагательное} круглый [3]'>**round**<span class='tip-text'> </span></span> and <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> himself face to face with the end of Rocco Lampone's gun He put his hands up and pressed himself <span class='tip-wrap' data-text='against [эгЕнст] {предлог} от; против'>**against**<span class='tip-text'> </span></span> the door <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> him Rocco fired and the bullets crashed <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> the glass of the door <span class='tip-wrap' data-text='straight [стрЕйт] {наречие} прямо'>**straight**<span class='tip-text'> </span></span> into Stracci's heart Philip Tattaglia had left his bodyguards outside in the street while he had a <span class='tip-wrap' data-text='secret [сИкрэт] {прилагательное} секретный [3]; тайный [2]'>**secret**<span class='tip-text'> </span></span> meeting with his girlfriend in a small room in a <span class='tip-wrap' data-text='cheap [чИп] {прилагательное} дешевый'>**cheap**<span class='tip-text'> </span></span> part of New York. This was his last mistake. As he was kissing her, the door burst open and two men with machine-guns rushed in. As Tattaglia looked around for his gun, the girl jumped to her feet and screamed. The gunmen opened fire and Tattaglia and the girl fell back in a shower of bullets. Then the gunmen left as suddenly as they had appeared, leaving <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> them a smoke-filled room and two dead bodies in a pile of torn and bloody bedclothes
+
+Мужчина в белом костюме прошел мимо стола, за которым ждал Рокко Лампоне. Он выходил из отеля. Это был Страччи, еще один крестный отец Нью-Йорка. Когда он был на полпути через вращающиеся двери, Лампоне выбежал из-за стола и запер дверь, чтобы она не поворачивалась. Страччи оказался заперт внутри. Он пытался толкнуть, но двери не двигались. Он ударил руками по стеклу. Он обернулся и оказался лицом к лицу с наконечником пистолета Рокко Лампоне. Он поднял руки вверх и прижался к двери позади себя. Рокко выстрелил, и пули пронзили стекло двери прямо в сердце Страччи. Филип Татталья оставил свой телохранители на улице, пока он тайно встречался со своей девушкой в маленькой комнате в дешевом районе Нью-Йорка. Это была его последняя ошибка. Когда он целовал ее, дверь распахнулась, и внутрь ворвались двое мужчин с автоматами. Когда Татталья огляделся в поисках пистолета, девушка вскочила на ноги и закричала. Бандиты открыли огонь, и Татталья и девушка отступили под градом пуль. Затем боевики ушли так же внезапно, как и появились, оставив после себя задымленную комнату и два трупа в куче рваного и окровавленного постельного белья.
+
+The <span class='tip-wrap' data-text='priest [прИст] {существительное} священник [3]; жрец [3]'>**priest**<span class='tip-text'> </span></span> held a <span class='tip-wrap' data-text='silver [сЫлвэр] {существительное} серебро [3]'>**silver**<span class='tip-text'> </span></span> spoon <span class='tip-wrap' data-text='above [эбАв] {предлог} над'>**above**<span class='tip-text'> </span></span> the baby's head, and let drops of water <span class='tip-wrap' data-text='fall [фОл] {существительное} падение'>**fall**<span class='tip-text'> </span></span> on to the baby's face. "In Nomine Patris, et Filii, et Spintus Sancti," the <span class='tip-wrap' data-text='priest [прИст] {существительное} священник [3]; жрец [3]'>**priest**<span class='tip-text'> </span></span> said...
+
+Священник держал серебряную ложку над головой ребенка и капал каплям воды на лицо ребенка. «In Nomine Patris, et Filii, et Spintus Sancti», — сказал священник...
+
+... Barzini's bodyguard ran down the steps of the Plaza Building and called to the policeman, who was writing something in his notebook. The policeman put away his notebook, took out his handgun and shot the bodyguard dead. The driver of the car put up his hands but there was no pity in Albert Neri's heart He killed him too. Barzini, who was half- way down the steps, turned and began to walk quickly back up <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the building. He was a <span class='tip-wrap' data-text='proud [прАуд] {прилагательное} гордый [3]'>**proud**<span class='tip-text'> </span></span> man. He never liked to run too fast for anything, not even when his life was in danger. This gave Neri the time that he needed to go down on one knee, point his gun <span class='tip-wrap' data-text='carefully [кЕрфэли] {наречие} бережно'>**carefully**<span class='tip-text'> </span></span> up at Barzini, and shoot him three times in the <span class='tip-wrap' data-text='back [бЭк] {существительное} спина'>**back**<span class='tip-text'> </span></span>. Barzini stopped. as if in surprise, then fell backwards down the steps.
+
+... Телохранитель Барзини сбежал по ступенькам здания Плаза и позвал полицейского, который что-то записывал в блокноте. Полицейский спрятал блокнот, достал пистолет и застрелил телохранителя. Водитель автомобиля поднял руки, но в сердце Альберта Нери не было жалости. Он убил и его. Барзини, спустившийся по лестнице на полпути, повернулся и быстро пошел обратно к зданию. Он был гордым человеком. Ему никогда не нравилось бежать слишком быстро, даже когда его жизнь была в опасности. Это дало Нери время, необходимое для того, чтобы опуститься на одно колено, осторожно направить пистолет на Барзини и трижды выстрелить ему в спину. Барзини остановился. как бы от удивления, затем упал навзничь со ступенек.
+
+Suddenly, inside the church, the baby stopped crying.
+
+Внезапно внутри церкви ребенок перестал плакать.
+
+"Michael Rizzi, go in peace," the <span class='tip-wrap' data-text='priest [прИст] {существительное} священник [3]; жрец [3]'>**priest**<span class='tip-text'> </span></span> said. "And God go with you always. Amen."
+
+«Майкл Рицци, иди с миром», — сказал священник. «И Бог всегда будет с тобой. Аминь».
+
+"Amen," Michael Corleone said softly, and lowered his eyes knowing that, by now, all his enemies were dead.
+
+«Аминь», — тихо сказал Майкл Корлеоне и опустил глаза, зная, что к настоящему времени все его враги мертвы.
+
+## Chapter 15 Family Business
+
+## Глава 15 Семейный бизнес
+
+As the family stood on the steps outside the church, Carlo Rizzi shook Michael's hand. "Thank you, Godfather, thank you," he kept saying, tears of happiness in his eyes.
+
+Когда семья стояла на ступеньках церкви, Карло Рицци пожал Майклу руку. «Спасибо, крестный отец, спасибо», — говорил он со слезами счастья на глазах.
+
+"I was pleased to do it," Michael said, then added, without smiling, "Now, Carlo, could you go and wait for me in the house? I'm afraid we can't go with our families to visit Las Vegas today. We'll have to wait here for a <span class='tip-wrap' data-text='couple [кАпэл] {существительное} пара'>**couple**<span class='tip-text'> </span></span> of days. You can <span class='tip-wrap' data-text='join [джОйн] {глагол} соединять (также присоединятся)'>**join**<span class='tip-text'> </span></span> Connie and your children then, OK?"
+
+«Я был рад это сделать», — сказал Майкл, а затем без улыбки добавил: «Теперь, Карло, не мог бы ты пойти и подождать меня в доме? Боюсь, мы не сможем поехать всей семьей в Лас-Вегас. сегодня нам придется подождать здесь пару дней. Тогда ты сможешь присоединиться к Конни и своим детям, хорошо?»
+
+"OK," Carlo said. He knew better than to show he was unhappy. Michael had been very good to him. He had welcomed him into the family, he had been godfather to his son. He did <span class='tip-wrap' data-text='whatever [уАтЕвэр] {определитель} что/какой бы ни'>**whatever**<span class='tip-text'> </span></span> Michael wanted him to do. He never argued.
+
+«Хорошо», сказал Карло. Он знал, что лучше не показывать, что он недоволен. Майкл был к нему очень добр. Он принял его в семью, был крестным отцом своего сына. Он делал все, что хотел от него Майкл. Он никогда не спорил.
+
+When Carlo had gone, Michael   kissed   his wife and his   sister, and left them on the steps outside the church. He had more business to take care of.
+
+Когда Карло ушел, Майкл поцеловал жену и сестру и оставил их на ступеньках церкви. У него были другие дела, о которых нужно было позаботиться.
+
+Tessio was ringing Barzini's office from the wall-phone in Tom Hagen's kitchen, not knowing that Barzini was already dead.
+
+Тессио звонил в офис Барзини с настенного телефона на кухне Тома Хагена, не зная, что Барзини уже мертв.
+
+"Tell Barzini we're on our way to Brooklyn," he said. After the call, he turned to Tom, who was waiting for him, and said: "I hope Mike gets what he wants from the meeting tonight."
+
+«Скажите Барзини, что мы едем в Бруклин», — сказал он. После звонка он повернулся к ожидавшему его Тому и сказал: «Надеюсь, Майк получит от сегодняшней встречи то, что хочет».
+
+"I'm <span class='tip-wrap' data-text='sure [шУр] {прилагательное} верный; уверенный'>**sure**<span class='tip-text'> </span></span> he will, "Tom nodded seriously.
+
+«Я уверен, что так и будет», — серьезно кивнул Том.
+
+He followed Tessio out of the house. They were half-way <span class='tip-wrap' data-text='across [экрОс] {предлог} через'>**across**<span class='tip-text'> </span></span> the street to Michael's house when they were stopped by a bodyguard.
+
+Он последовал за Тессио из дома. Они были на полпути к дому Майкла, когда их остановил телохранитель.
+
+"The <span class='tip-wrap' data-text='boss [бАс] {существительное} босс [3]; хозяин [2]; шеф [2]; руководитель [2]; выступ [2]'>**boss**<span class='tip-text'> </span></span> says he'll come in another car," the man said. "He says you two can go before him."
+
+«Начальник говорит, что приедет на другой машине», — сказал мужчина. «Он говорит, что вы двое можете пойти раньше него».
+
+Tessio looked worried. "He can't do that," he said, turning to Tom. "That spoils all my arrangements."
+
+Тессио выглядел обеспокоенным. «Он не может этого сделать», — сказал он, поворачиваясь к Тому. «Это портит все мои приготовления».
+
+Three more bodyguards appeared from nowhere and stood around him. Then Tom said gently: "I can't go with you either, Tessio."
+
+Откуда-то из ниоткуда появились еще трое телохранителей и встали вокруг него. Тогда Том мягко сказал: «Я тоже не могу пойти с тобой, Тессио».
+
+Tessio understood everything immediately. He knew that he was going to die for trying to betray Michael. He looked at Tom sadly and said: "Tell Mike it was only business. I always liked him."
+
+Тессио все сразу понял. Он знал, что умрет за попытку предать Майкла. Он грустно посмотрел на Тома и сказал: «Скажи Майку, что это был всего лишь бизнес. Он мне всегда нравился».
+
+"He understands that," Hagen nodded.
+
+«Он это понимает», — кивнул Хаген.
+
+Tessio paused for a second. He was a brave man, but he couldn't stop himself from showing Tom a moment of plain, human weakness. "Tom, can you help me?" he asked. "As a friend?"
+
+Тессио на секунду остановился. Он был храбрым человеком, но не мог удержаться от того, чтобы показать Тому момент простой человеческой слабости. — Том, ты можешь мне помочь? он спросил. "Как друг?"
+
+Tom shook his head and looked away. He didn't want to show his feelings, but inside he felt <span class='tip-wrap' data-text='sick [сЫк] {прилагательное} больной'>**sick**<span class='tip-text'> </span></span>. Tessio had always been the best soldier in the Corleone family. "I'm <span class='tip-wrap' data-text='sorry [сАри] {прилагательное} жалкий (также сожалеющий)'>**sorry**<span class='tip-text'> </span></span>, Tessio, I can't do that," he said, and walked away.
+
+Том покачал головой и отвернулся. Он не хотел показывать своих чувств, но внутри ему было плохо. Тессио всегда был лучшим солдатом в семье Корлеоне. «Прости, Тессио, я не могу этого сделать», — сказал он и ушел.
+
+Tom watched from his window as   the   four   bodyguards   led Tessio <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> a waiting car and drove him away for his meeting, not with Barzini, but with death.
+
+Том наблюдал из окна, как четверо телохранителей подвели Тессио к ожидающей машине и увезли его на встречу не с Барзини, а со смертью.
+
+Carlo Rizzi was sitting in his front room, making a phone-call, when something made him turn round. Michael was watching him from the doorway. Tom Hagen and a bodyguard were standing <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> him. Carlo saw the icy look in Michael's eyes, and he felt his <span class='tip-wrap' data-text='whole [хOул] {прилагательное} весь'>**whole**<span class='tip-text'> </span></span> body go <span class='tip-wrap' data-text='weak [уИк] {прилагательное} слабый [3]'>**weak**<span class='tip-text'> </span></span>.
+
+Карло Рицци сидел в своей гостиной и разговаривал по телефону, когда что-то заставило его обернуться. Майкл наблюдал за ним из дверного проема. Том Хаген и телохранитель тихо стояли позади него. Карло увидел ледяной взгляд Майкла и почувствовал, как все его тело ослабевает.
+
+"Carlo, you have to answer for Sonny," Michael said.
+
+«Карло, ты должен ответить за Сонни», — сказал Майкл.
+
+Carlo didn't answer. He stood up, pretending not to understand.
+
+Карло не ответил. Он встал, делая вид, что не понимает.
+
+"You betrayed Sonny," Michael continued in a cold, flat voice. "Did you really think you could fool a Corleone? You played a game, didn't you? You made Sonny angry by hitting your own wife. You knew that he'd come to help her."
+
+«Ты предал Сонни», продолжил Майкл холодным, ровным голосом. «Ты действительно думал, что сможешь обмануть Корлеоне? Ты играл в игру, не так ли? Ты разозлил Сонни, ударив собственную жену. Ты знал, что он пришел помочь ей».
+
+Carlo began to <span class='tip-wrap' data-text='shake [шЕйк] {глагол} трясти'>**shake**<span class='tip-text'> </span></span> with <span class='tip-wrap' data-text='fear [фЫр] {существительное} страх'>**fear**<span class='tip-text'> </span></span>. "I <span class='tip-wrap' data-text='promise [прАмэс] {глагол} обещать'>**promise**<span class='tip-text'> </span></span> you, on my son's life, I'm <span class='tip-wrap' data-text='innocent [Ынэсэнт] {прилагательное} невинный [3]; невиновный [2]'>**innocent**<span class='tip-text'> </span></span>. Mike, don't do this to me, please!"
+
+Карло начал трястись от страха. «Я обещаю тебе, что в жизни моего сына я невиновен. Майк, не делай этого со мной, пожалуйста!»
+
+But Michael calmly made him sit down next to him. "Barzini's dead," he said <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span>, not taking his eyes <span class='tip-wrap' data-text='off [Оф] {предлог} от; у'>**off**<span class='tip-text'> </span></span> Carlo's frightened face. "Philip Tattaglia's dead too. Cuneo, Stracci, they're all gone. Today, I'm taking care of all family business. So don't tell me you're <span class='tip-wrap' data-text='innocent [Ынэсэнт] {прилагательное} невинный [3]; невиновный [2]'>**innocent**<span class='tip-text'> </span></span>. Don't lie to me."
+
+Но Майкл спокойно усадил его рядом с собой. — Барзини мертв, — тихо сказал он, не сводя глаз с испуганного лица Карло. «Филип Татталья тоже мертв. Кунео, Страччи, они все ушли. Сегодня я беру на себя все семейные дела. Так что не говорите мне, что вы невиновны. Не лгите мне».
+
+Carlo started to cry, but he didn't say anything. Tom Hagen gave him a drink, and Michael put a brotherly <span class='tip-wrap' data-text='arm [Арм] {существительное} отделение (осн. рука)'>**arm**<span class='tip-text'> </span></span> around his <span class='tip-wrap' data-text='shoulder [шOулдэр] {существительное} плечо; обочина'>**shoulder**<span class='tip-text'> </span></span>. "Don't be afraid," he said. "I'm not going to kill you. You're my sister's husband. I'm your son's godfather. No. I'm going to throw you out of the family business. I'm putting you on a plane to Las Vegas to <span class='tip-wrap' data-text='join [джОйн] {глагол} соединять (также присоединятся)'>**join**<span class='tip-text'> </span></span> your family. I want you to stay there. That's going to be your punishment. Now please, don't tell me you're <span class='tip-wrap' data-text='innocent [Ынэсэнт] {прилагательное} невинный [3]; невиновный [2]'>**innocent**<span class='tip-text'> </span></span>, because that insults my intelligence. It makes me very angry. Tell me what happened. Who killed Sonny? Barzini or Tattaglia?"
+
+Карло начал плакать, но ничего не сказал. Том Хаген напоил его, и Майкл по-братски обнял его за плечо. «Не бойтесь», — сказал он. «Я не собираюсь тебя убивать. Ты муж моей сестры. Я крестный отец твоего сына. Нет. Я собираюсь вышвырнуть тебя из семейного бизнеса. Я посажу тебя на самолет до Лас-Вегаса». присоединиться к твоей семье. Я хочу, чтобы ты остался там. Это будет твое наказание. Теперь, пожалуйста, не говори мне, что ты невиновен, потому что это оскорбляет мой интеллект. Скажи мне, что произошло. убил Сонни или Татталью?
+
+Carlo stopped crying and looked up with a <span class='tip-wrap' data-text='sudden [сАдэн] {прилагательное} внезапный [3]; неожиданный [2]'>**sudden**<span class='tip-text'> </span></span> feeling of hope. He saw Michael's eyes close to his. They looked warm and full of forgiveness. He swallowed the <span class='tip-wrap' data-text='rest [рЕст] {существительное} отдых (также остаток)'>**rest**<span class='tip-text'> </span></span> of his drink and smiled at Michael with a grateful look in his eyes.
+
+Карло перестал плакать и поднял голову с внезапным чувством надежды. Он увидел глаза Майкла близко к себе. Они выглядели теплыми и полными прощения. Он проглотил остаток напитка и улыбнулся Майклу с благодарным взглядом.
+
+"It was Barzini," he said <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span>.
+
+«Это был Барзини», — тихо сказал он.
+
+" Good. Good," Michael said, nodding to himself. He stood up and turned <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the window. "There's a car waiting for you outside," he said. "It'll take you to the airport. I'll call Connie to tell her you're coming."
+
+«Хорошо. Хорошо», — сказал Майкл, кивая самому себе. Он встал и повернулся к окну. «Снаружи вас ждет машина», - сказал он. «Он отвезет тебя в аэропорт. Я позвоню Конни и скажу ей, что ты приедешь».
+
+Carlo stood up and tried to speak. "Michael, please ..."
+
+Карло встал и попытался заговорить. «Майкл, пожалуйста…»
+
+But Michael turned on him angrily, his eyes cold and hard again. "Get out of here," he said. "I never want to see you again."
+
+Но Майкл сердито повернулся к нему, его глаза снова стали холодными и жесткими. «Уходите отсюда», — сказал он. «Я больше никогда не хочу тебя видеть».
+
+When Carlo left the house, he saw two men putting suitcases into the <span class='tip-wrap' data-text='back [бЭк] {существительное} спина'>**back**<span class='tip-text'> </span></span> of his car. He got into the <span class='tip-wrap' data-text='passenger [пЭсэнджэр] {существительное} пассажир [3]'>**passenger**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='seat [сИт] {существительное} место'>**seat**<span class='tip-text'> </span></span> and waited for someone to drive him away. He didn't see Pete Clemenza sitting <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> him in the back <span class='tip-wrap' data-text='seat [сИт] {существительное} место'>**seat**<span class='tip-text'> </span></span>.
+
+Когда Карло вышел из дома, он увидел, как двое мужчин кладут чемоданы на заднее сиденье его машины. Он сел на пассажирское сиденье и стал ждать, пока кто-нибудь его отвезет. Он не видел Пита Клеменцу, тихо сидевшего позади него на заднем сиденье.
+
+"Hello, Carlo," Clemenza said.
+
+— Привет, Карло, — сказал Клеменца.
+
+Before Carlo could turn round, Clemenza threw a <span class='tip-wrap' data-text='smooth [смУð] {прилагательное} гладкий [3]; плавный [3]; ровный [2]'>**smooth**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='thin [θЫн] {прилагательное} тонкий'>**thin**<span class='tip-text'> </span></span> cord around Carlo's neck and pulled hard. Carlo fought and tried to escape. His body jumped around like a fish on the end of a line. His foot crashed <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> the front window of the car, but Clemenza was too strong for him. He pulled the cord <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> it cut into Carlo's <span class='tip-wrap' data-text='throat [θрOут] {существительное} горло [3]; глотка [3]; гортань [2]; горловина [2]'>**throat**<span class='tip-text'> </span></span>. A minute later, Carlo Rizzi was dead.
+
+Прежде чем Карло успел обернуться, Клеменца набросил гладкий тонкий шнур на шею Карло и сильно потянул. Карло сопротивлялся и пытался убежать. Его тело прыгало, как рыба на конце лески. Его нога врезалась в лобовое стекло машины, но Клеменца оказался для него слишком силен. Он тянул шнур, пока тот не перерезал горло Карло. Через минуту Карло Рицци был мертв.
+
+Michael, who had watched it all from the front of the house, turned away, followed by Tom Hagen. He had taken care of all the family business in one day. The Corleones were now the strongest family in New York. He had reason to feel <span class='tip-wrap' data-text='proud [прАуд] {прилагательное} гордый [3]'>**proud**<span class='tip-text'> </span></span>.
+
+Майкл, наблюдавший за всем этим с передней части дома, отвернулся, а за ним последовал Том Хаген. Он позаботился обо всех семейных делах за один день. Корлеоне теперь были самой сильной семьей в Нью-Йорке. У него были причины гордиться.
+
+When Connie heard that her husband was dead, she flew back at once to see Michael. She ran <span class='tip-wrap' data-text='straight [стрЕйт] {наречие} прямо'>**straight**<span class='tip-text'> </span></span> into his office and screamed at him: "You killed my husband! You waited <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> Papa died and then you killed him! You blamed him for Sonny. You always did. Everybody did. You never thought about me! What am I going to do?"
+
+Когда Конни узнала, что ее муж умер, она сразу же прилетела обратно, чтобы увидеть Майкла. Она побежала прямо в его кабинет и закричала на него: «Ты убил моего мужа! Ты ждал, пока папа умрет, а потом убил его! Ты винил его в Сонни. Ты всегда так делал. Все так делали. Ты никогда не думал обо мне! Что я такое?» собирается сделать?"
+
+Michael sat <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span> at his desk. Kay tried to calm Connie down, but Connie pushed her away, ran around the desk and
+
+Майкл тихо сидел за своим столом. Кей попыталась успокоить Конни, но Конни оттолкнула ее, обежала вокруг стола и
+
+started to kick and hit her brother, crying and screaming the <span class='tip-wrap' data-text='whole [хOул] {прилагательное} весь'>**whole**<span class='tip-text'> </span></span> time." You stood godfather to our baby! You cold-hearted <span class='tip-wrap' data-text='killer [кЫлэр] {существительное} убийца [3]; киллер [2]'>**killer**<span class='tip-text'> </span></span>! You animal! You ...!"
+
+начала пинать и бить брата, все время плача и крича. «Ты был крестным отцом нашей малышке! Ты бессердечный убийца! Ты животное! Ты...!»
+
+Michael didn't try to move away. He let Connie scream at him and hit him. Finally, she was taken away into another room, and Michael was left <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span> with Kay in the office.
+
+Майкл не пытался отойти. Он позволил Конни кричать на него и ударить его. Наконец ее увели в другую комнату, и Майкл остался в офисе наедине с Кей.
+
+He walked around the room, feeling uncomfortable at the <span class='tip-wrap' data-text='strange [стрЕйндж] {прилагательное} странный; чужой'>**strange**<span class='tip-text'> </span></span> look Kay was giving him. She was shocked by what had happened. She was also a little afraid.
+
+Он ходил по комнате, чувствуя себя неловко из-за странного взгляда, который бросил на него Кей. Она была шокирована случившимся. Она тоже немного боялась.
+
+"She's gone crazy," Michael tried to explain. "Understandable, I <span class='tip-wrap' data-text='guess [гЕс] {глагол} догадываться'>**guess**<span class='tip-text'> </span></span> Kay could hear Connie screaming from the next room. She looked her husband in the eye and said: "Michael, is it true?"
+
+«Она сошла с ума», — пытался объяснить Майкл. «Это понятно, я думаю, Кей слышала крики Конни из соседней комнаты. Она посмотрела мужу в глаза и сказала: « Майкл, это правда?»
+
+"Don't ask me about my business, Kay," he replied. "Is it true?" she repeated.
+
+«Не спрашивай меня о моих делах, Кей», — ответил он. "Это правда?" повторила она.
+
+Michael repeated his reply.
+
+Майкл повторил свой ответ.
+
+When she asked him for the third time, he crashed his hand down on to the desk. "Enough!" he shouted.
+
+Когда она спросила его в третий раз, он ударил рукой по столу. "Достаточно!" он крикнул.
+
+Kay lowered her eyes and bit her lip.
+
+Кей опустила глаза и закусила губу.
+
+Finally, Michael said: "All right. This one time. I'll let you ask me about my business."
+
+Наконец Майкл сказал: «Хорошо. На этот раз. Я позволю тебе спросить меня о моих делах».
+
+"Is it true?" she whispered.
+
+"Это правда?" прошептала она.
+
+Michael looked at Kay. He stood <span class='tip-wrap' data-text='completely [кэмплИтли] {наречие} полностью'>**completely**<span class='tip-text'> </span></span> still. Then he shook his head and softly answered: "No."
+
+Майкл посмотрел на Кея. Он стоял совершенно неподвижно. Затем он покачал головой и тихо ответил: «Нет».
+
+Kay was so happy that she almost started crying. She ran up to her husband and hugged him.
+
+Кей была так счастлива, что чуть не заплакала. Она подбежала к мужу и обняла его.
+
+A few minutes later, she moved back and looked at him. "I <span class='tip-wrap' data-text='guess [гЕс] {глагол} догадываться'>**guess**<span class='tip-text'> </span></span> we both need a drink," she tried to laugh.
+
+Через несколько минут она отодвинулась и посмотрела на него. «Думаю, нам обоим нужно выпить», — попыталась она засмеяться.
+
+She left the office to get a drink. She was about to take the two glasses back into the room when she saw several men entering the office from another door. One of them was Pete Clemenza, the funny little <span class='tip-wrap' data-text='fat [фЭт] {прилагательное} толстый [2]; жирный [2]; тучный [2]; упитанный [1]; откормленный [1]; сальный [1]; богатый [1]; плодородный [1]; доходный [1]; маслянистый [1]; обильный [1]; выгодный [1]; тупоумный [1]; глупый [1]'>**fat**<span class='tip-text'> </span></span> man she had first seen dancing at Connie's <span class='tip-wrap' data-text='wedding [уЕдыŋ] {существительное} свадьба [3]; венчание [3]; бракосочетание [2]'>**wedding**<span class='tip-text'> </span></span> many years before. She watched in silence as he lowered his head, kissed Michael's hand and said, in a deep, respectful voice: "Don Corleone."
+
+Она вышла из офиса, чтобы выпить. Она собиралась отнести два стакана обратно в комнату, когда увидела, как несколько мужчин входят в офис из другой двери. Одним из них был Пит Клеменца, забавный маленький толстяк, которого она впервые увидела танцующим на свадьбе Конни много лет назад. Она молча наблюдала, как он опустил голову, поцеловал руку Майкла и сказал глубоким, уважительным голосом: «Дон Корлеоне».
+
+Then someone gently closed the door, and Kay was left outside, <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span>. Her new life as the Godfather's wife had only just begun.
+
+Затем кто-то осторожно закрыл дверь, и Кей осталась снаружи одна. Ее новая жизнь в качестве жены Крестного отца только началась.
+
+# Running on blade
+
+# Бегущий по лезвию
+
+CHAPTER ONE
+
+ГЛАВА ОДИН
+
+The <span class='tip-wrap' data-text='challenge [чЭлэндж] {существительное} вызов'>**Challenge**<span class='tip-text'> </span></span>
+
+Соревнование
+
+Rick Deckard woke up to the sound of the alarm from the <span class='tip-wrap' data-text='mood [мУд] {существительное} настроение [3]; наклонение [2]'>**mood**<span class='tip-text'> </span></span> machine <span class='tip-wrap' data-text='beside [бысАйд] {предлог} рядом с'>**beside**<span class='tip-text'> </span></span> his bed. He got up and stretched. In her own bed, his wife Iran opened her sad, grey eyes, frowned, and then <span class='tip-wrap' data-text='shut [шАт] {глагол} закрывать'>**shut**<span class='tip-text'> </span></span> them again.
+
+Рик Декард проснулся от звука будильника, работавшего на устройстве настроения рядом с его кроватью. Он встал и потянулся. В своей постели его жена Иран открыла грустные серые глаза, нахмурилась, а затем снова закрыла их.
+
+"Your <span class='tip-wrap' data-text='mood [мУд] {существительное} настроение [3]; наклонение [2]'>**mood**<span class='tip-text'> </span></span> machine is on too <span class='tip-wrap' data-text='weak [уИк] {прилагательное} слабый [3]'>**weak**<span class='tip-text'> </span></span>," he said to her. "If I turn it up for you, you'll be awake and..."
+
+«Твоя машина настроения слишком слаба», — сказал он ей. «Если я включу тебе звук, ты проснешься и…»
+
+"Don't touch my <span class='tip-wrap' data-text='mood [мУд] {существительное} настроение [3]; наклонение [2]'>**mood**<span class='tip-text'> </span></span> settings." Her voice was <span class='tip-wrap' data-text='sharp [шАрп] {прилагательное} резкий [3]; острый [3]; крутой [2]'>**sharp**<span class='tip-text'> </span></span> and bitter. "I don't want to be awake."
+
+«Не трогай мои настройки настроения». Голос ее был резким и горьким. «Я не хочу просыпаться».
+
+He sat down on her bed, bent over her and explained softly, "At a high enough <span class='tip-wrap' data-text='setting [сЕтыŋ] {существительное} установка'>**setting**<span class='tip-text'> </span></span>, you'll be <span class='tip-wrap' data-text='glad [глЭд] {прилагательное} радостный [2]; довольный [2]; приятный [1]; счастливый [1]; веселый [1]; утешительный [1]; яркий [1]; прекрасный [1]'>**glad**<span class='tip-text'> </span></span> you're awake; that's the <span class='tip-wrap' data-text='whole [хOул] {прилагательное} весь'>**whole**<span class='tip-text'> </span></span> point." He touched her <span class='tip-wrap' data-text='shoulder [шOулдэр] {существительное} плечо; обочина'>**shoulder**<span class='tip-text'> </span></span> gently - his <span class='tip-wrap' data-text='setting [сЕтыŋ] {существительное} установка'>**setting**<span class='tip-text'> </span></span> had been high and he was in a good <span class='tip-wrap' data-text='mood [мУд] {существительное} настроение [3]; наклонение [2]'>**mood**<span class='tip-text'> </span></span>.
+
+Он сел на ее кровать, наклонился над ней и мягко объяснил: «При достаточно высокой настройке вы будете рады, что не спите; в этом весь смысл». Он нежно коснулся ее плеча – его настроение было высоким, и он был в хорошем настроении.
+
+"Get that policeman's hand away from me," Iran said.
+
+«Уберите от меня руку этого полицейского», — сказал Иран.
+
+"I'm not a policeman." He felt cross, although he hadn't dialled the <span class='tip-wrap' data-text='mood [мУд] {существительное} настроение [3]; наклонение [2]'>**mood**<span class='tip-text'> </span></span> machine for crossness.
+
+«Я не полицейский». Он рассердился, хотя и не включил машину настроения для раздражения.
+
+"You're worse than a policeman," his wife said, her eyes still <span class='tip-wrap' data-text='shut [шАт] {глагол} закрывать'>**shut**<span class='tip-text'> </span></span>. "You're a murderer working for the police."
+
+«Ты хуже полицейского», — сказала его жена, все еще закрывая глаза. «Вы убийца, работающий на полицию».
+
+"I've never killed a human <span class='tip-wrap' data-text='being [бИыŋ] {существительное} существо; бытие'>**being**<span class='tip-text'> </span></span> in my life." He was really angry now.
+
+«Я никогда в жизни не убивал человека». Теперь он действительно злился.
+
+"Only those poor androids."
+
+«Только эти бедные андроиды».
+
+"You've always been happy to <span class='tip-wrap' data-text='spend [спЕнд] {глагол} тратить'>**spend**<span class='tip-text'> </span></span> the money I <span class='tip-wrap' data-text='earn [Эрн] {глагол} зарабатывать'>**earn**<span class='tip-text'> </span></span>." He stood up and walked <span class='tip-wrap' data-text='across [экрОс] {предлог} через'>**across**<span class='tip-text'> </span></span> the room to his <span class='tip-wrap' data-text='mood [мУд] {существительное} настроение [3]; наклонение [2]'>**mood**<span class='tip-text'> </span></span> machine. "Instead of saving," he added, "so we can buy a real sheep in place of that fake <span class='tip-wrap' data-text='electric [ылЕктрык] {прилагательное} электрический [3]'>**electric**<span class='tip-text'> </span></span> one upstairs." He wondered whether to dial for a happier <span class='tip-wrap' data-text='mood [мУд] {существительное} настроение [3]; наклонение [2]'>**mood**<span class='tip-text'> </span></span> or for an angrier one that would allow him to win the argument.
+
+«Ты всегда был рад потратить деньги, которые я зарабатываю». Он встал и подошел через комнату к своей машине настроения. «Вместо того, чтобы экономить, — добавил он, — чтобы мы могли купить настоящую овцу вместо той фальшивой электрической овцы наверху». Он раздумывал, стоит ли набирать номер для более счастливого настроения или для более злого, что позволило бы ему выиграть спор.
+
+"If you dial for more <span class='tip-wrap' data-text='anger [Эŋгэр] {существительное} гнев [3]; злость [2]; ярость [2]; раздражение [2]'>**anger**<span class='tip-text'> </span></span>," Iran said, eyes open and watching, "then I'll dial the same. We'll have the biggest fight that we've <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span> had. Just try me." She got up quickly and moved <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> her own <span class='tip-wrap' data-text='mood [мУд] {существительное} настроение [3]; наклонение [2]'>**mood**<span class='tip-text'> </span></span> machine.
+
+«Если вы наберете еще больше гнева, - сказал Иран, открыв глаза и наблюдая, - тогда я наберу то же самое. У нас будет самая большая ссора, которая когда-либо была. Просто испытайте меня». Она быстро встала и направилась к своей машине настроения.
+
+Rick gave in. "What's on your timetable for today?" he asked, dialing his own to check it.
+
+Рик сдался. «Что у тебя в расписании на сегодня?» — спросил он, набирая свой номер, чтобы проверить.
+
+"It lists a six-hour <span class='tip-wrap' data-text='depression [дыпрЕшэн] {существительное} депрессия [3]; снижение [2]; углубление [2]; впадина [2]; разрежение [2]; тоска [2]'>**depression**<span class='tip-text'> </span></span>," Iran said.
+
+«В нем указана шестичасовая депрессия», — заявил Иран.
+
+"What? Why did you timetable that?" It defeated the <span class='tip-wrap' data-text='whole [хOул] {прилагательное} весь'>**whole**<span class='tip-text'> </span></span> purpose of the <span class='tip-wrap' data-text='mood [мУд] {существительное} настроение [3]; наклонение [2]'>**mood**<span class='tip-text'> </span></span> machine. "I didn't even know there was a <span class='tip-wrap' data-text='setting [сЕтыŋ] {существительное} установка'>**setting**<span class='tip-text'> </span></span> for <span class='tip-wrap' data-text='depression [дыпрЕшэн] {существительное} депрессия [3]; снижение [2]; углубление [2]; впадина [2]; разрежение [2]; тоска [2]'>**depression**<span class='tip-text'> </span></span>," he said miserably.
+
+— Что? Почему ты это запланировал? Это свело на нет всю цель машины настроения. «Я даже не знал, что существует предрасположенность к депрессии», - сказал он несчастно.
+
+"I was watching Buster Friendly on television one afternoon," Iran said. "During the advertisements I turned off the sound for a minute, and I heard this building..."
+
+«Однажды днем я смотрел Buster Friendly по телевизору», - сказал Иран. «Во время рекламы я на минуту выключил звук и услышал это здание…»
+
+"The empty apartments." Rick understood immediately. Sometimes he heard them at night. But their building was <span class='tip-wrap' data-text='actually [ЭкчУэли] {наречие} действительно'>**actually**<span class='tip-text'> </span></span> half-full. Others, in areas that before the war were called the suburbs, were now <span class='tip-wrap' data-text='completely [кэмплИтли] {наречие} полностью'>**completely**<span class='tip-text'> </span></span> empty. He had heard this, anyway; he did not want to <span class='tip-wrap' data-text='experience [ыкспЫриэнс] {глагол} испытывать'>**experience**<span class='tip-text'> </span></span> it directly.
+
+«Пустые квартиры». Рик сразу понял. Иногда он слышал их по ночам. Но на самом деле их здание было наполовину заполнено. Другие, в районах, которые до войны назывались пригородами, теперь совершенно пустовали. Во всяком случае, он это слышал; он не хотел испытывать это непосредственно.
+
+"I was in a 382 <span class='tip-wrap' data-text='mood [мУд] {существительное} настроение [3]; наклонение [2]'>**mood**<span class='tip-text'> </span></span> at the time," Iran went <span class='tip-wrap' data-text='on [Ан] {наречие} вперёд; позднее; далее'>**on**<span class='tip-text'> </span></span>, "so I heard the emptiness but I didn't feel it. At first I was grateful that I had a <span class='tip-wrap' data-text='mood [мУд] {существительное} настроение [3]; наклонение [2]'>**mood**<span class='tip-text'> </span></span> machine. But then I realized that it was unhealthy not to <span class='tip-wrap' data-text='react [риЭкт] {глагол} реагировать [3]'>**react**<span class='tip-text'> </span></span> to the absence of life. So I <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> a <span class='tip-wrap' data-text='setting [сЕтыŋ] {существительное} установка'>**setting**<span class='tip-text'> </span></span> for <span class='tip-wrap' data-text='depression [дыпрЕшэн] {существительное} депрессия [3]; снижение [2]; углубление [2]; впадина [2]; разрежение [2]; тоска [2]'>**depression**<span class='tip-text'> </span></span> and I put it on my timetable for twice a month. I can <span class='tip-wrap' data-text='spend [спЕнд] {глагол} тратить'>**spend**<span class='tip-text'> </span></span> that time thinking about life here on Earth, now that anybody with any <span class='tip-wrap' data-text='intelligence [ЫнтЕлэджэнс] {существительное} интеллект; разведка'>**intelligence**<span class='tip-text'> </span></span> has emigrated. That's reasonable, don't you think?"
+
+«В то время у меня было настроение 382, — продолжал Иран, — поэтому я слышал пустоту, но не чувствовал ее. Сначала я был благодарен, что у меня есть машина настроения. Но потом я понял, что это вредно для здоровья». не реагировать на отсутствие жизни. Итак, я нашел место для депрессии и включил это в свое расписание два раза в месяц. Я могу проводить это время, думая о жизни здесь, на Земле, теперь, когда любой, у кого есть хоть какой-то разум, эмигрировал. разумно, тебе не кажется?»
+
+"But in that kind of <span class='tip-wrap' data-text='mood [мУд] {существительное} настроение [3]; наклонение [2]'>**mood**<span class='tip-text'> </span></span> it's difficult to dial something different. You'll just stay depressed."
+
+«Но в таком настроении трудно выбрать что-то другое. Вы просто останетесь в депрессии».
+
+"I put a 481 on the timetable for six hours later," Iran explained. "New hope, <span class='tip-wrap' data-text='awareness [эуЕрнэс] {существительное} осознание [3]; осведомленность [3]'>**awareness**<span class='tip-text'> </span></span> of..."
+
+«Я включил в расписание рейс 481 на шесть часов позже», — пояснил Иран. «Новая надежда, осознание...»
+
+"I know 481," he said. He had dialled it many times. He took his wife's hands. "Listen. Cancel the <span class='tip-wrap' data-text='depression [дыпрЕшэн] {существительное} депрессия [3]; снижение [2]; углубление [2]; впадина [2]; разрежение [2]; тоска [2]'>**depression**<span class='tip-text'> </span></span>. It's dangerous. I must go soon, but come into the other room now and watch some television with me."
+
+«Я знаю 481», — сказал он. Он набирал его много раз. Он взял жену за руки. «Послушай. Прекрати депрессию. Это опасно. Мне скоро пора идти, но сейчас зайди в другую комнату и посмотри со мной телевизор».
+
+"I hate watching television before breakfast."
+
+«Я ненавижу смотреть телевизор перед завтраком».
+
+"Dial 888," Rick said, as he went into the <span class='tip-wrap' data-text='living [лЫвыŋ] {существительное} жизнь'>**living**<span class='tip-text'> </span></span>-room and turned the television on. "Then you'll want to watch it."
+
+«Наберите 888», — сказал Рик, зайдя в гостиную и включив телевизор. «Тогда тебе захочется это посмотреть».
+
+He turned up the sound and the voice of Buster Friendly filled the room. Iran came in and turned it off again.
+
+Он увеличил звук, и голос Бастера Френдли заполнил комнату. Иран пришел и снова выключил его.
+
+"OK, I'll dial," she said. "Any <span class='tip-wrap' data-text='mood [мУд] {существительное} настроение [3]; наклонение [2]'>**mood**<span class='tip-text'> </span></span> you want. What difference does it make?"
+
+«Хорошо, я наберу номер», — сказала она. «Какое настроение пожелаешь. Какая разница?»
+
+"I'll dial for both of us," Rick said. In the bedroom he dialled 594 for her (happy <span class='tip-wrap' data-text='awareness [эуЕрнэс] {существительное} осознание [3]; осведомленность [3]'>**awareness**<span class='tip-text'> </span></span> of her husband's greater common <span class='tip-wrap' data-text='sense [сЕнс] {существительное} смысл (также чувство)'>**sense**<span class='tip-text'> </span></span>) and for himself a fresh and businesslike interest in his job.
+
+«Я позвоню за нас обоих», — сказал Рик. В спальне он набрал для нее номер 594 (радостное осознание здравого смысла ее мужа), а для себя — свежий и деловой интерес к своей работе.
+
+After a quick breakfast, Rick put on his protective <span class='tip-wrap' data-text='clothing [клOуðыŋ] {существительное} одежда [3]'>**clothing**<span class='tip-text'> </span></span> and hurried up to the <span class='tip-wrap' data-text='roof [рУф] {существительное} крыша [3]; кровля [2]; потолок [2]'>**roof**<span class='tip-text'> </span></span> garden. His <span class='tip-wrap' data-text='electric [ылЕктрык] {прилагательное} электрический [3]'>**electric**<span class='tip-text'> </span></span> sheep was chewing calmly, just like a normal sheep in a field of <span class='tip-wrap' data-text='grass [грЭс] {существительное} трава [3]; травка [2]; газон [2]'>**grass**<span class='tip-text'> </span></span>. The neighbours, of course, never asked if it was a fake. The question "Is your sheep real?" would be even ruder than "Are those your own teeth?"
+
+После быстрого завтрака Рик надел защитную одежду и поспешил в сад на крыше. Его электрическая овца спокойно жевала, как обычная овца на травяном поле. Соседи, конечно, ни разу не спросили, подделка ли это. Вопрос «Настоящая ли ваша овца?» было бы еще грубее, чем «Это твои собственные зубы?»
+
+The morning sky was grey with radioactive dust and he could <span class='tip-wrap' data-text='smell [смЕл] {глагол} пахнуть [3]; понюхать [3]; чувствовать запах [2]; нюхать [2]'>**smell**<span class='tip-text'> </span></span> death in the air. But it was not so bad now. People like him who had lived <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> World War Terminus were the strong ones. The dust continued to have its effects on their minds and their bodies, but police hospital tests showed that Rick was a "regular" - he could still have children. If you failed the test, you became a "<span class='tip-wrap' data-text='special [спЕшэл] {прилагательное} особый (также специальный)'>**special**<span class='tip-text'> </span></span>", and every day new specials were created from regulars by the dust. "Emigrate now!" the government advertisements ordered. But I can't emigrate, Rick said to himself, because of my job.
+
+Утреннее небо было серым от радиоактивной пыли, и в воздухе чувствовался запах смерти. Но сейчас все было не так уж и плохо. Такие люди, как он, пережившие Терминал мировой войны, были сильными. Пыль продолжала воздействовать на их разум и тело, но анализы в полицейской больнице показали, что Рик был «завсегдатаем» — он все еще мог иметь детей. Если ты провалил тест, ты становился «особенным», и каждый день из завсегдатаев пылью создавались новые специальные предложения. «Эмигрируйте немедленно!» приказала государственная реклама. Но я не могу эмигрировать, сказал себе Рик, из-за моей работы.
+
+Bill Barbour, the owner of the next garden, greeted him. Barbour was checking his horse. "I'll have two soon," he said, pointing to the horse's <span class='tip-wrap' data-text='stomach [стАмэк] {существительное} желудок [3]; живот [3]'>**stomach**<span class='tip-text'> </span></span>.
+
+Его приветствовал Билл Барбур, владелец соседнего сада. Барбур проверял свою лошадь. «Скоро у меня будет два», — сказал он, указывая на живот лошади.
+
+"Can I buy the baby from you?" Rick asked quickly. He hated owning a fake animal but followers of Mercerism, the official religion, had to have one if they couldn't <span class='tip-wrap' data-text='afford [эфОрд] {глагол} позволять себе'>**afford**<span class='tip-text'> </span></span> a real animal.
+
+«Могу ли я купить у вас ребенка?» — быстро спросил Рик. Он ненавидел иметь искусственное животное, но последователям мерсеризма, официальной религии, приходилось иметь его, если они не могли позволить себе настоящее животное.
+
+"Sorry. They're Percherons. I want to keep them both."
+
+«Извините. Они першероны. Я хочу оставить их обоих».
+
+Rick reached into his pocket and took out his bent copy of Sidney's, the official <span class='tip-wrap' data-text='guide [гАйд] {существительное} руководство (также гид)'>**guide**<span class='tip-text'> </span></span> to all animal prices. He <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> the page for horses.
+
+Рик полез в карман и достал погнутый экземпляр «Сидни», официального справочника цен на животных. Он нашел страницу о лошадях.
+
+"I can buy a young Percheron horse from Sydney's for five thousand dollars," he said aloud.
+
+«Я могу купить молодую лошадь першерона у Сиднея за пять тысяч долларов», — сказал он вслух.
+
+"No, you can't," Barbour said. "Look again. That would be the price if they had any, but they haven't."
+
+«Нет, ты не можешь», — сказала Барбур. «Посмотрите еще раз. Это была бы цена, если бы они у них были, но их нет».
+
+"I could pay you five hundred dollars a month for ten months," Rick suggested.
+
+«Я мог бы платить вам пятьсот долларов в месяц в течение десяти месяцев», — предложил Рик.
+
+"Sorry, Deckard," Barbour replied. "Before the war there were hundreds of these Percherons, but now... I had to fly to Canada for this one and drive her back myself so that she wasn't stolen. Then I had to pay a fortune for the frozen eggs, to produce the baby."
+
+«Извини, Декард», — ответил Барбур. «До войны таких першеронов были сотни, а теперь... Мне пришлось лететь в Канаду за этим и самому везти ее обратно, чтобы ее не украли. Потом мне пришлось заплатить целое состояние за замороженные яйца, родить ребенка».
+
+"But if you have two horses and I haven't got one, that's <span class='tip-wrap' data-text='against [эгЕнст] {предлог} от; против'>**against**<span class='tip-text'> </span></span> the <span class='tip-wrap' data-text='whole [хOул] {прилагательное} весь'>**whole**<span class='tip-text'> </span></span> idea of Mercerism."
+
+«Но если у вас есть две лошади, а у меня нет ни одной, это противоречит всей идее мерсеризма».
+
+"You have your sheep. There are about fifty families in this building - one for every three apartments - and every family has an animal. Even Ed Smith has a cat, although nobody's <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span> seen it."
+
+«У вас есть овцы. В этом доме около пятидесяти семей — по одной на каждые три квартиры — и в каждой семье есть животное. Даже у Эда Смита есть кот, хотя никто его никогда не видел».
+
+Rick bent down and searched in the <span class='tip-wrap' data-text='thick [θЫк] {прилагательное} толстый; густой'>**thick**<span class='tip-text'> </span></span>, white wool of his sheep. He <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> the hidden door of the control box, and opened it.
+
+Рик наклонился и порылся в густой белой шерсти своей овцы. Он нашел потайную дверцу пульта управления и открыл ее.
+
+"Look," he said to Barbour. "Do you understand now why I want that horse so badly? I care about this sheep, but it's not the same. I'm always afraid that someone in the building will <span class='tip-wrap' data-text='notice [нOутэс] {глагол} замечать'>**notice**<span class='tip-text'> </span></span> when it breaks down. The repair man is very careful and dresses in white like an animal doctor, but... You know what people are like if you're not looking after a real animal. It's not a crime now, but I still feel like a criminal."
+
+— Смотри, — сказал он Барбуру. «Теперь ты понимаешь, почему мне так сильно нужна эта лошадь? Я забочусь об этой овце, но она не та. Я всегда боюсь, что кто-нибудь в доме заметит, когда она сломается. Мастер по ремонту очень осторожен и одевает в белом, как врач-зоотехник, но... Знаешь, какие бывают люди, если не присматриваешь за настоящим животным. Сейчас это не преступление, но я все еще чувствую себя преступником.
+
+Barbour stared at the controls and then looked at Rick sympathetically. "I'm really <span class='tip-wrap' data-text='sorry [сАри] {прилагательное} жалкий (также сожалеющий)'>**sorry**<span class='tip-text'> </span></span>," he said. "Why don't you buy a cat? They're <span class='tip-wrap' data-text='cheap [чИп] {прилагательное} дешевый'>**cheap**<span class='tip-text'> </span></span>."
+
+Барбур уставился на органы управления, а затем сочувственно посмотрел на Рика. «Мне очень жаль», — сказал он. «Почему бы тебе не купить кота? Они дешевые».
+
+"I want a large animal," Rick answered. "I had a real sheep once, but it died." If he killed <span class='tip-wrap' data-text='live [лАйв] {прилагательное} реальный [3]; живой [3]'>**live**<span class='tip-text'> </span></span> androids, he thought, he would get a thousand dollars for each on top of his normal <span class='tip-wrap' data-text='salary [сЭлэри] {существительное} зарплата [3]; заработная плата [3]; оклад [2]; жалованье [2]'>**salary**<span class='tip-text'> </span></span>. But there were too many android killers around. "I have to get to work," he told his neighbour. His mind was now on his job, on the day <span class='tip-wrap' data-text='ahead [эхЕд] {наречие} впереди'>**ahead**<span class='tip-text'> </span></span>.
+
+«Мне нужно большое животное», — ответил Рик. «Однажды у меня была настоящая овца, но она умерла». Если бы он убивал живых андроидов, подумал он, то получил бы за каждого по тысяче долларов сверх своей обычной зарплаты. Но вокруг было слишком много убийц-андроидов. «Мне пора на работу», — сказал он своему соседу. Его мысли теперь были заняты работой, предстоящим днём.
+
+On his way to work, Rick, like so many other people, stopped outside one of San Francisco's larger pet shops. In the centre of the long shop window stood an ostrich in a heated plastic cage. It was, Rick knew, the only ostrich on the West Coast. He spent a few minutes staring at the price, and as a result he was late arriving for work at the police station.
+
+По пути на работу Рик, как и многие другие люди, остановился возле одного из крупнейших зоомагазинов Сан-Франциско. В центре длинной витрины стоял страус в отапливаемой пластиковой клетке. Рик знал, что это был единственный страус на Западном побережье. Он потратил несколько минут, разглядывая цену, и в результате опоздал на работу в полицейский участок.
+
+While he was unlocking his office door, his <span class='tip-wrap' data-text='boss [бАс] {существительное} босс [3]; хозяин [2]; шеф [2]; руководитель [2]; выступ [2]'>**boss**<span class='tip-text'> </span></span>, Police Inspector Harry Bryant, appeared at his side.
+
+Пока он открывал дверь своего офиса, рядом с ним появился его начальник, инспектор полиции Гарри Брайант.
+
+"I want to see you at nine thirty in Dave Holden's office," Inspector Bryant told him. "Holden," he added, "is in Mount Zion Hospital. Half his backbone was blown away by a laser gun. It'll be a month, at <span class='tip-wrap' data-text='least [лИст] {наречие} наименее'>**least**<span class='tip-text'> </span></span>, before they can fit him with a new plastic one."
+
+«Я хочу увидеть вас в девять тридцать в офисе Дэйва Холдена», — сказал ему инспектор Брайант. «Холден», — добавил он, — «находится в больнице Маунт-Сион. Ему оторвало половину позвоночника лазерным пистолетом. Пройдет по крайней мере месяц, прежде чем ему смогут поставить новый пластиковый».
+
+"What happened?" Rick asked, shocked. Holden had been fine the day before.
+
+"Что случилось?" – потрясенно спросил Рик. Холден накануне был в порядке.
+
+"Nine thirty," Bryant repeated, and walked away.
+
+«Девять тридцать», — повторил Брайант и ушел.
+
+Rick entered his own office. Holden was one of the best. His attacker must have been one of the new super-intelligent androids with the Nexus-6 brain. Most police forces were protesting about them, in Russia as well as <span class='tip-wrap' data-text='across [экрОс] {предлог} через'>**across**<span class='tip-text'> </span></span> America. The company that had developed the Nexus-6 was difficult to control, <span class='tip-wrap' data-text='though [ðOу] {наречие} однако [2]; все же [2]'>**though**<span class='tip-text'> </span></span>, because its main factory was on the planet Mars.
+
+Рик вошел в свой кабинет. Холден был одним из лучших. Нападавшим, должно быть, был один из новых сверхразумных андроидов с мозгом Нексус-6. Большинство полицейских сил протестовали против них как в России, так и по всей Америке. Однако компанию, разработавшую «Нексус-6», было трудно контролировать, поскольку ее главный завод находился на планете Марс.
+
+Rick took a large brown envelope from his desk drawer, then looked at the time. It was still only nine fifteen and the ostrich in the shop window was still fresh in his mind. He picked up the phone.
+
+Рик достал из ящика стола большой коричневый конверт и посмотрел на время. Было еще только девять пятнадцать, и страус в витрине магазина все еще был свеж в его памяти. Он взял трубку.
+
+"Happy Dog Pet Shop," a voice answered and a <span class='tip-wrap' data-text='tiny [тАйни] {прилагательное} крошечный'>**tiny**<span class='tip-text'> </span></span> happy face slowly appeared on the video screen. Rick could hear the sounds of animals in the background.
+
+«Зоомагазин Happy Dog», — ответил голос, и на видеоэкране медленно появилось крошечное счастливое личико. Рик мог слышать звуки животных на заднем плане.
+
+"The ostrich in your window," Rick said, playing with a pen on his desk. "How much would the first <span class='tip-wrap' data-text='payment [пЕймэнт] {существительное} оплата [3]; платеж [3]; плата [3]; уплата [2]; взнос [2]'>**payment**<span class='tip-text'> </span></span> be?"
+
+«Страус в твоем окне», — сказал Рик, играя ручкой на своем столе. «Сколько будет стоить первый платеж?»
+
+"Let's see..." the animal salesman said. "One third of the full price. Then you pay the <span class='tip-wrap' data-text='rest [рЕст] {существительное} отдых (также остаток)'>**rest**<span class='tip-text'> </span></span> over thirty months at..."
+
+«Посмотрим…» — сказал продавец животных. «Одна треть полной стоимости. Затем вы платите остальную часть в течение тридцати месяцев по цене…»
+
+"Take two thousand <span class='tip-wrap' data-text='off [Оф] {предлог} от; у'>**off**<span class='tip-text'> </span></span> the price, and I'll pay cash," Rick said. With Dave Holden out of action, he could <span class='tip-wrap' data-text='earn [Эрн] {глагол} зарабатывать'>**earn**<span class='tip-text'> </span></span> a lot in the next month.
+
+«Сними две тысячи с цены, и я заплачу наличными», — сказал Рик. Поскольку Дэйв Холден выбыл из строя, он мог бы много заработать в следующем месяце.
+
+"Sir, the price is already low," the salesman told him. "Check your Sydney's."
+
+«Сэр, цена уже низкая», — сказал ему продавец. «Проверь свой Сидни».
+
+Rick pulled it out of his pocket again and <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> the page for ostriches.
+
+Рик снова вытащил его из кармана и нашел страницу со страусами.
+
+"Male, <span class='tip-wrap' data-text='excellent [Ексэлэнт] {прилагательное} отличный [3]; превосходный [2]; великолепный [2]'>**excellent**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='condition [кэндЫшэн] {существительное} состояние; условие'>**condition**<span class='tip-text'> </span></span>," the salesman continued. "Thirty thousand dollars. Now, about that first <span class='tip-wrap' data-text='payment [пЕймэнт] {существительное} оплата [3]; платеж [3]; плата [3]; уплата [2]; взнос [2]'>**payment**<span class='tip-text'> </span></span>..."
+
+«Мужчина, в отличном состоянии», — продолжил продавец. «Тридцать тысяч долларов. Теперь насчет первого платежа…»
+
+"I'll think about it," Rick said, "and call you back." He started to hang up.
+
+«Я подумаю об этом, — сказал Рик, — и перезвоню тебе». Он начал вешать трубку.
+
+"Your name, sir?" the salesman asked quickly.
+
+— Ваше имя, сэр? — быстро спросил продавец.
+
+"Frank Merriwell," Rick told him, and invented an address. All that money, he thought, as he hung up. But some people have <span class='tip-wrap' data-text='enough [ынАф] {наречие} достаточно'>**enough**<span class='tip-text'> </span></span> to buy them. He dialled the number of the <span class='tip-wrap' data-text='false [фОлс] {прилагательное} ложный [3]; фальшивый [2]'>**false**<span class='tip-text'> </span></span>-animal shop where he had bought his sheep.
+
+«Фрэнк Мерриуэлл», — сказал ему Рик и придумал адрес. «Все эти деньги», — подумал он, кладя трубку. Но у некоторых людей достаточно, чтобы их купить. Он набрал номер магазина фальшивых животных, где купил овец.
+
+"Dr McRae." The figure of the man himself appeared more slowly.
+
+«Доктор Макрей». Фигура самого мужчины появлялась медленнее.
+
+"This is Deckard. How <span class='tip-wrap' data-text='much [мАч] {наречие} много; гораздо'>**much**<span class='tip-text'> </span></span> is an <span class='tip-wrap' data-text='electric [ылЕктрык] {прилагательное} электрический [3]'>**electric**<span class='tip-text'> </span></span> ostrich?"
+
+«Это Декард. Сколько стоит электрический страус?»
+
+"Oh, I think we could make you one for under eight hundred dollars. How soon do you want it? We..."
+
+«О, я думаю, мы могли бы сделать его менее чем за восемьсот долларов. Как скоро вы его захотите? Мы…»
+
+"I'll talk to you later," said Rick. "Goodbye."
+
+«Я поговорю с тобой позже», сказал Рик. "До свидания."
+
+He put the phone down, feeling depressed. His eyes fell on the brown envelope in front of him and he looked <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> it <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> he <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> what he wanted: all the <span class='tip-wrap' data-text='most [мOуст] {наречие} очень'>**most**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='recent [рИсэнт] {прилагательное} недавний'>**recent**<span class='tip-text'> </span></span> information on the Nexus-6.
+
+Он положил трубку, чувствуя себя подавленным. Его взгляд упал на коричневый конверт перед ним, и он просматривал его, пока не нашел то, что хотел: всю самую свежую информацию о Нексусе-6.
+
+The figures were extraordinary. The Nexus-6 had a choice of ten million separate electrical pathways in its brain; in less than a second these androids could <span class='tip-wrap' data-text='react [риЭкт] {глагол} реагировать [3]'>**react**<span class='tip-text'> </span></span> in one of at <span class='tip-wrap' data-text='least [лИст] {наречие} наименее'>**least**<span class='tip-text'> </span></span> fourteen different ways. They were more intelligent than some classes of human specials, so no <span class='tip-wrap' data-text='intelligence [ЫнтЕлэджэнс] {существительное} интеллект; разведка'>**intelligence**<span class='tip-text'> </span></span> test would trap them. The only hope of recognizing them was by using the Voigt-Kampff Empathy Test; only humans were <span class='tip-wrap' data-text='capable [кЕйпэбэл] {прилагательное} способный [3]'>**capable**<span class='tip-text'> </span></span> of feeling empathy with other life forms. Rick, and other followers of Mercerism, had no problem experiencing the feelings of other living creatures. Humanlike androids did not have this quality. They stood <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span>, so they were considered killers. Rick and his colleagues could kill them without breaking the laws of Mercerism.
+
+Цифры были необычайными. У Нексуса-6 был выбор из десяти миллионов отдельных электрических путей в мозгу; менее чем за секунду эти андроиды могли отреагировать одним из как минимум четырнадцати различных способов. Они были более умны, чем некоторые классы особенных людей, поэтому никакие тесты на интеллект их не поймали. Единственной надеждой распознать их было использование теста на эмпатию Фойгта-Кампфа; только люди были способны испытывать сочувствие к другим формам жизни. Рик и другие последователи мерсеризма без проблем переживали чувства других живых существ. Человекоподобные андроиды не обладали этим качеством. Они стояли одиноко, поэтому их считали убийцами. Рик и его коллеги могли убить их, не нарушая законов Мерсеризма.
+
+It was already nine thirty. Rick quickly put the papers back in the envelope and hurried to Holden's room. Inspector Bryant was already in there, using the videophone.
+
+Было уже девять тридцать. Рик быстро положил бумаги обратно в конверт и поспешил в комнату Холдена. Инспектор Брайант уже был там и пользовался видеофоном.
+
+"I see you've brought the information on the Nexus-6," Bryant said, putting the phone down as Rick entered.
+
+«Я вижу, вы принесли информацию о Нексусе-6», — сказал Брайант, кладя трубку, когда вошел Рик.
+
+"Yes, I thought it must be them," Rick answered. "How many androids are involved and how far did Dave get?"
+
+«Да, я думал, что это, должно быть, они», — ответил Рик. «Сколько андроидов задействовано и как далеко зашел Дэйв?»
+
+"There were eight to start with," Bryant said, checking Holden's notes, which were on the desk in front of him. "Dave killed the first two."
+
+«Начнем с того, что их было восемь», — сказал Брайант, проверяя записи Холдена, лежавшие перед ним на столе. «Дэйв убил первых двоих».
+
+"And the others are here in Northern California?"
+
+«А остальные здесь, в Северной Калифорнии?»
+
+"Dave thinks so. That was him on the phone."
+
+«Дэйв так думает. Это он говорил по телефону».
+
+"I'm ready to take Dave's place," Rick offered.
+
+«Я готов занять место Дэйва», — предложил Рик.
+
+Bryant thought for a moment.
+
+Брайант на мгновение задумался.
+
+"Dave used the Voigt-Kampff Test on those he suspected. You <span class='tip-wrap' data-text='realize [рИэлАйз] {глагол} понимать'>**realize**<span class='tip-text'> </span></span> that the test was not prepared specially for the Nexus-6? No test has been." He paused. "Dave thinks it's <span class='tip-wrap' data-text='accurate [Экйэрэт] {прилагательное} точный [3]'>**accurate**<span class='tip-text'> </span></span>. Maybe it is. But before you look for the other six, I want you to fly to the Rosen Corporation in Seattle and talk with the people who made them."
+
+«Дэйв использовал тест Фойгта-Кампфа на тех, кого он подозревал. Вы понимаете, что тест не был подготовлен специально для Нексуса-6? Никакого теста не проводилось». Он сделал паузу. «Дэйв думает, что это правда. Возможно, это так. Но прежде чем вы начнете искать остальных шестерых, я хочу, чтобы вы полетели в корпорацию Розен в Сиэтле и поговорили с людьми, которые их сделали».
+
+"And test the new androids?"
+
+«И протестировать новых андроидов?»
+
+"Yes. I'm going to phone the company now and discuss the possibility of including several humans in the tests. You won't know which ones they are." Bryant suddenly pointed his finger at Rick. His face was serious. "This is a very <span class='tip-wrap' data-text='responsible [риспАнсэбэл] {прилагательное} ответственный'>**responsible**<span class='tip-text'> </span></span> job. Dave has a lot of experience <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> him."
+
+«Да. Я сейчас позвоню в компанию и обсужу возможность включения в испытания нескольких людей. Вы не будете знать, какие именно». Брайант внезапно указал пальцем на Рика. Лицо его было серьезным. «Это очень ответственная работа. За плечами Дэйва большой опыт».
+
+"So have I," Rick said.
+
+«Я тоже», сказал Рик.
+
+"Your jobs usually come <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> Dave. He chooses them <span class='tip-wrap' data-text='carefully [кЕрфэли] {наречие} бережно'>**carefully**<span class='tip-text'> </span></span>. But now you've got six that he intended to kill himself, and one of them shot him first. Max Polokov. That's what it calls itself. If Dave was right, of course - his list of names is only as <span class='tip-wrap' data-text='accurate [Экйэрэт] {прилагательное} точный [3]'>**accurate**<span class='tip-text'> </span></span> as the Voigt-Kampff Test itself. And so far the test has only been given to the first three, the two Dave killed and then Polokov. Dave was giving the test when Polokov lasered him."
+
+«Ваша работа обычно поступает через Дэйва. Он выбирает ее тщательно. Но теперь у вас есть шесть человек, которых он намеревался покончить с собой, и один из них застрелил его первым. Макс Полоков. Так оно себя называет. Если Дэйв был прав, то Конечно, его список имен так же точен, как и сам тест Фойгта-Кампфа. И пока тест был проведен только для первых троих, двоих Дэйв убил, а затем Дейв проводил тест, когда Полоков ударил его лазером. "
+
+"Then Dave was right," said Rick.
+
+«Тогда Дэйв был прав», сказал Рик.
+
+"Go to Seattle," Bryant ordered. "Take a station car."
+
+«Отправляйтесь в Сиэтл», — приказал Брайант. «Возьмите служебный вагон».
+
+Rick stood up.
+
+Рик встал.
+
+"Can I take Dave's notes with me?" he asked. "I want to read them on the way."
+
+«Могу ли я взять с собой записи Дэйва?» он спросил. «Я хочу прочитать их по дороге».
+
+"Let's wait <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> you've tried that test," Bryant said.
+
+«Давайте подождем, пока вы не проведете этот тест», — сказал Брайант.
+
+His voice was not encouraging, Rick noted uneasily. He stood up, feeling miserable. But Dave's sudden disappearance from work meant he could <span class='tip-wrap' data-text='earn [Эрн] {глагол} зарабатывать'>**earn**<span class='tip-text'> </span></span> six thousand dollars if he killed all six androids. He should be pleased. He breathed <span class='tip-wrap' data-text='deeply [дИпли] {наречие} глубоко [3]'>**deeply**<span class='tip-text'> </span></span> for a moment and then turned his mind to Seattle.
+
+Его голос не был обнадеживающим, с тревогой заметил Рик. Он встал, чувствуя себя несчастным. Но внезапное исчезновение Дэйва с работы означало, что он сможет заработать шесть тысяч долларов, если убьет всех шестерых андроидов. Он должен быть доволен. На мгновение он глубоко вздохнул, а затем сосредоточил свои мысли на Сиэтле.
+
+CHAPTER TWO
+
+ГЛАВА ВТОРАЯ
+
+Seattle
+
+Сиэтл
+
+When Rick landed the police hovercar on the <span class='tip-wrap' data-text='roof [рУф] {существительное} крыша [3]; кровля [2]; потолок [2]'>**roof**<span class='tip-text'> </span></span> of the Rosen Corporation Building, a young woman was waiting for him there. She was a <span class='tip-wrap' data-text='thin [θЫн] {прилагательное} тонкий'>**thin**<span class='tip-text'> </span></span> woman with black hair and she was wearing <span class='tip-wrap' data-text='thick [θЫк] {прилагательное} толстый; густой'>**thick**<span class='tip-text'> </span></span> glasses to protect herself from the dust. She did not look happy to see him.
+
+Когда Рик приземлил полицейский ховеркар на крыше здания Rosen Corporation, там его ждала молодая женщина. Это была худая женщина с черными волосами и носила толстые очки, чтобы защитить себя от пыли. Она не выглядела счастливой, увидев его.
+
+"I'm Rachael Rosen," she said, holding out her hand. "I <span class='tip-wrap' data-text='guess [гЕс] {глагол} догадываться'>**guess**<span class='tip-text'> </span></span> you're Mr Deckard."
+
+«Я Рэйчел Розен», — сказала она, протягивая руку. «Я думаю, вы мистер Декард».
+
+"This wasn't my idea," he answered.
+
+«Это была не моя идея», — ответил он.
+
+"Yes, Inspector Bryant told us that. But you're here for the San Francisco police, and the police never believe that we're working to help the public."
+
+«Да, инспектор Брайант сказал нам это. Но вы здесь ради полиции Сан-Франциско, а полиция никогда не верит, что мы работаем, чтобы помочь населению».
+
+"Androids can be <span class='tip-wrap' data-text='useful [йУсфэл] {прилагательное} полезный [3]'>**useful**<span class='tip-text'> </span></span> one moment and dangerous the next. They're not a problem for us as long as they serve their true purpose," Rick said.
+
+«Андроиды могут быть полезны в один момент и опасны в следующий. Они не являются для нас проблемой, пока служат своей истинной цели», — сказал Рик.
+
+"But when they're considered dangerous, it's your job to kill them, isn't it, Mr Deckard?" said Rachael Rosen coldly.
+
+«Но когда они считаются опасными, ваша работа — убить их, не так ли, мистер Декард?» — холодно сказала Рэйчел Розен.
+
+"Have you chosen the group for me?" Rick asked. He had no wish to discuss his job with the woman. "I'd like to..."
+
+«Вы выбрали для меня группу?» — спросил Рик. У него не было желания обсуждать свою работу с женщиной. "Я хотел бы..."
+
+He stopped as he noticed the animals <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> her. He had never seen so many in one place. The cages were guarded by men in company uniforms with machine guns, and the men's eyes were watching Rick <span class='tip-wrap' data-text='carefully [кЕрфэли] {наречие} бережно'>**carefully**<span class='tip-text'> </span></span>. He checked his Sydney's <span class='tip-wrap' data-text='guide [гАйд] {существительное} руководство (также гид)'>**guide**<span class='tip-text'> </span></span>. Some of those animals did not even have a price. The owl, for example. He stared at the bird, then realized that the girl was speaking again.
+
+Он остановился, заметив животных позади нее. Он никогда не видел такого количества людей в одном месте. Клетки охраняли люди в ротной форме с автоматами, и глаза мужчин внимательно следили за Риком. Он проверил свой путеводитель по Сиднею. Некоторым из этих животных даже не было цены. Сова, например. Он посмотрел на птицу, а затем понял, что девушка снова заговорила.
+
+"We don't buy from Sydney's or any animal <span class='tip-wrap' data-text='dealer [дИлэр] {существительное} дилер [3]; торговец [2]'>**dealer**<span class='tip-text'> </span></span>," she was saying. "We buy from private individuals. That's why the prices we pay aren't listed."
+
+«Мы не покупаем ни у Сиднея, ни у других торговцев животными», - говорила она. «Мы покупаем у частных лиц. Поэтому цены, которые мы платим, не указаны».
+
+Rick just stood there in silence. He remembered the time, in his <span class='tip-wrap' data-text='childhood [чАйлдхУд] {существительное} детство [3]'>**childhood**<span class='tip-text'> </span></span>, when animal after animal started disappearing from the Earth for <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span>. He thought too about his own need for real animal. An <span class='tip-wrap' data-text='electric [ылЕктрык] {прилагательное} электрический [3]'>**electric**<span class='tip-text'> </span></span> sheep was nothing - nothing at all. It had no feelings and did not even know that he existed. For the first time Rick realized that in many ways <span class='tip-wrap' data-text='electric [ылЕктрык] {прилагательное} электрический [3]'>**electric**<span class='tip-text'> </span></span> animals were <span class='tip-wrap' data-text='actually [ЭкчУэли] {наречие} действительно'>**actually**<span class='tip-text'> </span></span> very <span class='tip-wrap' data-text='similar [сЫмэлэр] {прилагательное} похожий'>**similar**<span class='tip-text'> </span></span> to androids.
+
+Рик просто стоял молча. Он вспомнил время своего детства, когда животное за животным начало исчезать с Земли навсегда. Он думал также о своей потребности в настоящем животном. Электрическая овца была ничем, вообще ничем. Он не имел никаких чувств и даже не знал, что он существует. Рик впервые осознал, что во многом электрические животные на самом деле очень похожи на андроидов.
+
+"What kind of animal do you have?" Rachael's voice seemed a long way away.
+
+«Что за животное у тебя есть?» Голос Рэйчел казался очень далеким.
+
+"A sheep," he answered slowly.
+
+«Овца», — медленно ответил он.
+
+"Well, then you should be happy."
+
+— Что ж, тогда ты должен быть счастлив.
+
+"I am happy," he said. "But I'd love to own an owl." He pointed at the bird in front of him. "I always wanted one, even before they all died... All <span class='tip-wrap' data-text='except [ыксЕпт] {предлог} кроме'>**except**<span class='tip-text'> </span></span> yours, that is." He turned away. "I'd like to do the tests now. Can we go downstairs?"
+
+«Я счастлив», сказал он. «Но я бы хотел иметь сову». Он указал на птицу перед собой. «Я всегда хотел одного, даже до того, как они все умерли… То есть все, кроме твоего». Он отвернулся. «Я бы хотел сделать анализы сейчас. Можем ли мы спуститься вниз?»
+
+"I expect <span class='tip-wrap' data-text='uncle [Аŋкэл] {существительное} дядя [3]; дядька [2]'>**Uncle**<span class='tip-text'> </span></span> Eldon has arranged everything by now," Rachael replied without <span class='tip-wrap' data-text='expression [ыкспрЕшэн] {существительное} выражение'>**expression**<span class='tip-text'> </span></span>. She turned her back and walked <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the door. Rick followed her, surprised that the large corporation was in fact a family business.
+
+«Я думаю, дядя Элдон уже все устроил», — без выражения ответила Рэйчел. Она повернулась спиной и пошла к двери. Рик последовал за ней, удивившись тому, что крупная корпорация на самом деле является семейным бизнесом.
+
+"Why don't you like me?" he asked Rachael while they travelled down together to the lower floors.
+
+«Почему я тебе не нравлюсь?» — спросил он Рэйчел, пока они вместе спускались на нижние этажи.
+
+"If your test doesn't work, we'll have to take all Nexus-6 types <span class='tip-wrap' data-text='off [Оф] {предлог} от; у'>**off**<span class='tip-text'> </span></span> the market." Her black eyes were fierce now as she frowned at him. "Just because you police aren't able to do the simple job of recognizing the <span class='tip-wrap' data-text='tiny [тАйни] {прилагательное} крошечный'>**tiny**<span class='tip-text'> </span></span> number that get out of control."
+
+«Если ваш тест не сработает, нам придется убрать с рынка все типы Nexus-6». Ее черные глаза теперь были свирепыми, когда она нахмурилась. «Просто потому, что вы, полицейские, не в состоянии выполнить простую работу по выявлению небольшого количества людей, вышедших из-под контроля».
+
+An older man was waiting for them downstairs. He had a worried <span class='tip-wrap' data-text='expression [ыкспрЕшэн] {существительное} выражение'>**expression**<span class='tip-text'> </span></span> on his face.
+
+Внизу их ждал пожилой мужчина. На его лице было обеспокоенное выражение.
+
+"I'm Eldon Rosen," he explained to Rick. They shook hands. "This is very short notice, but we've done the best we can."
+
+«Я Элдон Розен», — объяснил он Рику. Они пожали друг другу руки. «Это очень короткий срок, но мы сделали все, что могли».
+
+Rick became more <span class='tip-wrap' data-text='confident [кАнфэдэнт] {прилагательное} уверенный [3]'>**confident**<span class='tip-text'> </span></span>. They're afraid of me, he realized. I can <span class='tip-wrap' data-text='probably [прАбэблИ] {наречие} вероятно'>**probably**<span class='tip-text'> </span></span> stop them producing the Nexus-6, and that could have a serious effect on the future of the corporation.
+
+Рик стал более уверенным в себе. «Они меня боятся», — понял он. Вероятно, я смогу остановить производство «Нексуса-6», и это может серьезно повлиять на будущее корпорации.
+
+The Rosens led him into a small room full of beautiful <span class='tip-wrap' data-text='furniture [фЭрнычэр] {существительное} мебель [3]'>**furniture**<span class='tip-text'> </span></span>. He sat down next to an <span class='tip-wrap' data-text='expensive [ыкспЕнсыв] {прилагательное} дорогой'>**expensive**<span class='tip-text'> </span></span>-looking coffee table and took out his Voigt-Kampff instruments. "You can send in the first testee," he informed Eldon Rosen, who was looking more and more anxious.
+
+Розены привели его в небольшую комнату, полную красивой мебели. Он сел рядом с дорогим на вид журнальным столиком и достал инструменты «Фойгт-Кампфф». «Вы можете прислать первого испытуемого», — сообщил он Элдону Розену, который выглядел все более и более обеспокоенным.
+
+"What do those instruments measure?" Rachael asked.
+
+«Что измеряют эти инструменты?» — спросила Рэйчел.
+
+"They <span class='tip-wrap' data-text='measure [мЕжэр] {глагол} измерять'>**measure**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='tiny [тАйни] {прилагательное} крошечный'>**tiny**<span class='tip-text'> </span></span> movements in the eye muscles and under the <span class='tip-wrap' data-text='skin [скЫн] {существительное} кожа'>**skin**<span class='tip-text'> </span></span> of the face when people are shocked by something that's said to them. It doesn't <span class='tip-wrap' data-text='matter [мЭтэр] {глагол} иметь значение'>**matter**<span class='tip-text'> </span></span> what people <span class='tip-wrap' data-text='actually [ЭкчУэли] {наречие} действительно'>**actually**<span class='tip-text'> </span></span> say - it's the physical reactions that they can't control which are important."
+
+«Они измеряют крошечные движения глазных мышц и под кожей лица, когда люди шокированы тем, что им говорят. Неважно, что люди на самом деле говорят — важны физические реакции, которые они не могут контролировать. ."
+
+"Give me the test," Rachael ordered.
+
+«Дайте мне тест», — приказала Рэйчел.
+
+"Why?" Rick asked, puzzled.
+
+"Почему?" – озадаченно спросил Рик.
+
+"We chose her as a testee," Eldon Rosen answered. "She may be an android. We're hoping you can tell." He lit a cigarette and sat down to watch.
+
+«Мы выбрали ее в качестве испытуемой», — ответил Элдон Розен. «Она может быть андроидом. Мы надеемся, что вы можете это сказать». Он закурил сигарету и сел смотреть.
+
+Rick attached wires to Rachael's face and shone a <span class='tip-wrap' data-text='thin [θЫн] {прилагательное} тонкий'>**thin**<span class='tip-text'> </span></span> white light into her left eye. Then he sat in front of his instruments.
+
+Рик прикрепил провода к лицу Рэйчел и посветил тонким белым светом в ее левый глаз. Затем он сел перед своими инструментами.
+
+"I'm going to talk about a number of situations," he told Rachael. She seemed calm. "I want you to tell me how you feel about each one as quickly as possible." Rick chose question three. "Right. You are given a leather wallet on your birthday."
+
+«Я собираюсь поговорить о ряде ситуаций», — сказал он Рэйчел. Она казалась спокойной. «Я хочу, чтобы ты как можно быстрее рассказал мне, что ты думаешь о каждом из них». Рик выбрал третий вопрос. — Верно. На день рождения тебе дарят кожаный кошелек.
+
+The needles on his instruments immediately moved up <span class='tip-wrap' data-text='past [пЭст] {предлог} мимо; за'>**past**<span class='tip-text'> </span></span> the green and into the red, then down again.
+
+Стрелки его инструментов тут же переместились вверх, мимо зеленого цвета, в красный, а затем снова вниз.
+
+"I wouldn't accept it," Rachael said. "And I'd report the person who gave it to me to the police."
+
+«Я бы этого не приняла», — сказала Рэйчел. «И я бы сообщил в полицию о человеке, который дал мне это».
+
+Rick made notes and then continued. "You have a little boy and he shows you his insect collection, including his killing bottle."
+
+Рик сделал пометки и продолжил. «У вас есть маленький мальчик, и он показывает вам свою коллекцию насекомых, включая бутылку-убийцу».
+
+"I'd take him to the doctor." Rachael's voice was low but <span class='tip-wrap' data-text='confident [кАнфэдэнт] {прилагательное} уверенный [3]'>**confident**<span class='tip-text'> </span></span>. The needles moved again, but not so far. He made another note.
+
+«Я бы отвез его к врачу». Голос Рэйчел был тихим, но уверенным. Стрелки снова двинулись, но не так далеко. Он сделал еще одну заметку.
+
+"In a magazine you see a full-page colour picture of a girl, wearing no clothes." Rick paused.
+
+«В журнале вы видите цветную фотографию девушки на всю страницу без одежды». Рик сделал паузу.
+
+"Are you testing whether I'm an android or whether I like women?" Rachael asked sharply. The needles did not move.
+
+«Ты проверяешь, андроид ли я или люблю ли я женщин?» — резко спросила Рэйчел. Иглы не двигались.
+
+He continued: "Your husband likes the picture." Still no reaction. "The girl," he added, "is lying on a large and beautiful sheepskin carpet." Nothing. An android reaction, he said to himself. Her mind is not on the dead animal. "Your husband hangs the picture on the wall of his study," he finished, and this time the needles moved.
+
+Он продолжил: «Вашему мужу нравится фотография». Все еще никакой реакции. «Девочка, — добавил он, — лежит на большом и красивом ковре из овчины». Ничего. Реакция андроида, сказал он себе. Ее мысли не о мертвом животном. «Ваш муж вешает картину на стену своего кабинета», — закончил он, и на этот раз иглы зашевелились.
+
+"I wouldn't let him," Rachael said.
+
+«Я бы ему не позволила», — сказала Рэйчел.
+
+"OK," Rick answered. "Now, you're reading a book written in the old days before the war. The characters <span class='tip-wrap' data-text='become [быкАм] {глагол} становиться'>**become**<span class='tip-text'> </span></span> hungry and go to a seafood restaurant. One of them orders lobster and they all watch while the cook drops the lobster, <span class='tip-wrap' data-text='alive [элАйв] {прилагательное} живой'>**alive**<span class='tip-text'> </span></span>, into boiling water."
+
+«ОК», — ответил Рик. «Сейчас вы читаете книгу, написанную в довоенные времена. Герои проголодались и идут в ресторан морепродуктов. Один из них заказывает лобстера, и все смотрят, как повар бросает живого лобстера в кипящую воду. ."
+
+"Oh!" Rachael said. "That's awful! Did they really do that?" A correct spoken reaction, but the needles did not move. Rick asked a few more questions to check that he was right.
+
+"Ой!" - сказала Рэйчел. «Это ужасно! Они действительно это сделали?» Правильная речевая реакция, но иголки не двигались. Рик задал еще несколько вопросов, чтобы убедиться в своей правоте.
+
+"You're an android," he told her - or it. He turned to Eldon Rosen, who was looking angry as well as anxious. "I'm right, aren't I?" he asked. There was no answer. "Look," he said, "we both want this test to work."
+
+«Ты андроид», — сказал он ей — или оно. Он повернулся к Элдону Розену, который выглядел не только встревоженным, но и злым. «Я прав, не так ли?» он спросил. Ответа не было. «Послушайте, — сказал он, — мы оба хотим, чтобы этот тест сработал».
+
+"She's not an android," Rosen said.
+
+«Она не андроид», — сказал Розен.
+
+"I don't believe it."
+
+«Я не верю в это».
+
+"Why would he lie?" Rachael said to Rick fiercely.
+
+«Зачем ему лгать?» – яростно сказала Рэйчел Рику.
+
+"I can explain why my niece failed your empathy test," the old man said. "She was <span class='tip-wrap' data-text='born [бОрн] {глагол} родился'>**born**<span class='tip-text'> </span></span> on a spaceship and lived there for fourteen of her eighteen years. All she knew about Earth came from the nine other people on the <span class='tip-wrap' data-text='ship [шЫп] {существительное} корабль'>**ship**<span class='tip-text'> </span></span>, and from cassettes."
+
+«Я могу объяснить, почему моя племянница провалила ваш тест на эмпатию», — сказал старик. «Она родилась на космическом корабле и прожила там четырнадцать из своих восемнадцати лет. Все, что она знала о Земле, пришло от девяти других людей на корабле и из кассет».
+
+"Outside this building, you would kill me," Rachael said to Rick. "I've known that <span class='tip-wrap' data-text='since [сЫнс] {предлог} с (также после)'>**since**<span class='tip-text'> </span></span> I arrived on Earth."
+
+«За пределами этого здания ты бы убил меня», — сказала Рэйчел Рику. «Я знал это с тех пор, как прибыл на Землю».
+
+"What were your orders," Eldon Rosen asked, "if your test results showed a human as an android?"
+
+«Каковы были ваши приказы, — спросил Элдон Розен, — если результаты вашего теста показали, что человек — андроид?»
+
+"To stop the <span class='tip-wrap' data-text='testing [тЕстыŋ] {существительное} тестирование [3]'>**testing**<span class='tip-text'> </span></span>," Rick replied, packing his instruments away again. "The test has failed." Bryant was right, he thought. I could have killed an innocent person using this test. "The problem," he went <span class='tip-wrap' data-text='on [Ан] {наречие} вперёд; позднее; далее'>**on**<span class='tip-text'> </span></span>, "is that you continue to make androids that are more and more like humans, so now..."
+
+«Чтобы остановить тестирование», — ответил Рик, снова убирая свои инструменты. «Тест не пройден». Брайант был прав, подумал он. Я мог бы убить невиновного человека, используя этот тест. «Проблема, — продолжал он, — в том, что вы продолжаете создавать андроидов, которые все больше и больше похожи на людей, так что теперь…»
+
+"We only make what people who emigrate want," Eldon Rosen said. "If we don't make them, other companies will. Your Voigt-Kampff test was a failure before we produced the Nexus-6 android. You've <span class='tip-wrap' data-text='probably [прАбэблИ] {наречие} вероятно'>**probably**<span class='tip-text'> </span></span> killed other people with underdeveloped empathy reactions, like my niece here. The police are the ones with the problem, not us."
+
+«Мы делаем только то, чего хотят люди, которые эмигрируют», — сказал Элдон Розен. «Если мы не сделаем их, это сделают другие компании. Ваш тест Фойгта-Кампфа был неудачным до того, как мы выпустили андроид Nexus-6. Вы, вероятно, убивали других людей с недостаточно развитыми реакциями эмпатии, как моя племянница. Полиция у тех, у кого проблема, а не у нас».
+
+"So now I'll never be able to test a Nexus-6," Rick realized. "The test is useless."
+
+«Так что теперь я никогда не смогу протестировать Nexus-6», — понял Рик. «Тест бесполезен».
+
+"That's right, Mr Deckard," Rachael Rosen agreed. Then she smiled. "And if you can't use the test, you can't find the androids, or kill them, or <span class='tip-wrap' data-text='earn [Эрн] {глагол} зарабатывать'>**earn**<span class='tip-text'> </span></span> your money."
+
+«Правильно, мистер Декард», — согласилась Рэйчел Розен. Затем она улыбнулась. «И если вы не можете использовать тест, вы не сможете найти андроидов, убить их или заработать деньги».
+
+"Your <span class='tip-wrap' data-text='boss [бАс] {существительное} босс [3]; хозяин [2]; шеф [2]; руководитель [2]; выступ [2]'>**boss**<span class='tip-text'> </span></span>, Inspector Bryant," Eldon Rosen said, "won't understand why you let us defeat your test before it began. But don't worry, Mr Deckard. I'm <span class='tip-wrap' data-text='sure [шУр] {прилагательное} верный; уверенный'>**sure**<span class='tip-text'> </span></span> that together we can find a way for you to continue to do your work."
+
+«Ваш босс, инспектор Брайант, — сказал Элдон Розен, — не поймет, почему вы позволили нам провалить ваше испытание еще до его начала. Но не волнуйтесь, мистер Декард. Я уверен, что вместе мы сможем найти для вас выход. продолжать делать свою работу».
+
+"Would you really like to own an owl?" Rachael asked Rick.
+
+«Вы бы действительно хотели иметь сову?» Рэйчел спросила Рика.
+
+"I don't think I'll <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span> have one," Rick replied, but he knew what she meant. He was starting to <span class='tip-wrap' data-text='realize [рИэлАйз] {глагол} понимать'>**realize**<span class='tip-text'> </span></span> the kind of business that the Rosen Corporation wanted to do with him.
+
+«Я не думаю, что он у меня когда-нибудь будет», — ответил Рик, но он знал, что она имела в виду. Он начал понимать, какой бизнес хочет с ним вести корпорация «Розен».
+
+"You almost own an owl," Rachael continued. "You can have it. But if it <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span> has any babies, they'll be ours. Take half an hour to think about it." She and Eldon Rosen moved <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the door.
+
+«У тебя почти есть сова», — продолжила Рэйчел. «Вы можете получить его. Но если у него когда-нибудь появятся дети, они будут нашими. Подумайте об этом полчаса». Она и Элдон Розен двинулись к двери.
+
+"You've trapped me," Rick said angrily. They stopped and looked back at him. "You know that my job depends on being able to use the Voigt-Kampff test, and you know that I want your owl."
+
+«Ты поймал меня в ловушку», — сердито сказал Рик. Они остановились и посмотрели на него. «Вы знаете, что моя работа зависит от умения использовать тест Фойгта-Кампфа, и вы знаете, что мне нужна ваша сова».
+
+"Your owl, dear," replied Rachael. "It's all yours. Have you decided then?"
+
+«Твоя сова, дорогая», — ответила Рэйчел. «Это все твое. Ты уже решил?»
+
+It, Rick thought. She's calling the owl it, not her. "I want," he said, "to ask you one more question. Sit down again."
+
+«Это», — подумал Рик. Она зовет это совой, а не ее. «Я хочу, — сказал он, — задать вам еще один вопрос. Садитесь еще раз».
+
+Rachael looked at her <span class='tip-wrap' data-text='uncle [Аŋкэл] {существительное} дядя [3]; дядька [2]'>**uncle**<span class='tip-text'> </span></span> and then returned to her <span class='tip-wrap' data-text='seat [сИт] {существительное} место'>**seat**<span class='tip-text'> </span></span>. Rick put his black leather bag on the table, took out his instruments, and attached the wires to Rachael's face.
+
+Рэйчел посмотрела на дядю, а затем вернулась на свое место. Рик положил свою черную кожаную сумку на стол, достал инструменты и прикрепил провода к лицу Рэйчел.
+
+"Do you like my bag?" he asked her, as he searched for his question papers inside it.
+
+— Тебе нравится моя сумка? — спросил он ее, ища в нем свои вопросы.
+
+"Yes, yes," she answered, without interest.
+
+«Да, да», — ответила она без всякого интереса.
+
+"It's made from the <span class='tip-wrap' data-text='skin [скЫн] {существительное} кожа'>**skin**<span class='tip-text'> </span></span> of human babies," Rick explained. There was a pause, and then the needles moved violently. Too late. There should have been no reaction time. "Thanks, Miss Rosen," he said, and put everything away again. "That's all."
+
+«Он сделан из кожи человеческих младенцев», — объяснил Рик. Последовала пауза, а затем иглы резко зашевелились. Слишком поздно. Времени на реакцию быть не должно. «Спасибо, мисс Розен», — сказал он и снова убрал все. "Вот и все."
+
+"You're leaving?" Rachael asked.
+
+"Ты уезжаешь?" — спросила Рэйчел.
+
+"Yes," he said. "You're an android, and the test works. Does she know?" he asked Eldon Rosen, who was looking very unhappy. Sometimes androids didn't know, because <span class='tip-wrap' data-text='false [фОлс] {прилагательное} ложный [3]; фальшивый [2]'>**false**<span class='tip-text'> </span></span> memories were programmed into their brains.
+
+«Да», сказал он. «Ты андроид, и тест работает. Она знает?» — спросил он Элдона Розена, который выглядел очень несчастным. Иногда андроиды не знали этого, потому что в их мозг были запрограммированы ложные воспоминания.
+
+"No. But I think <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the end, when you asked for another try, she had a good idea. Didn't you?" he asked the girl.
+
+«Нет. Но я думаю, что ближе к концу, когда ты попросил еще одну попытку, у нее появилась хорошая идея. Не так ли?» — спросил он девушку.
+
+"Yes," Rachael answered. Her voice was expressionless.
+
+«Да», ответила Рэйчел. Ее голос был ничего не выражающим.
+
+"Don't be afraid of him," Eldon Rosen told her. "You <span class='tip-wrap' data-text='belong [былОŋ] {глагол} принадлежать'>**belong**<span class='tip-text'> </span></span> to the Rosen Corporation and the police can't touch you."
+
+«Не бойтесь его», — сказал ей Элдон Розен. «Вы принадлежите корпорации Rosen, и полиция не может вас тронуть».
+
+"He's right," Rick said. "I'm not going to kill you, Miss Rosen. Good day." He started <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the door and then paused. To the two of them he said, is the owl real?"
+
+«Он прав», сказал Рик. «Я не собираюсь вас убивать, мисс Розен. Добрый день». Он направился к двери, а затем остановился. Он сказал им двоим: настоящая ли сова?»
+
+"No, it's <span class='tip-wrap' data-text='false [фОлс] {прилагательное} ложный [3]; фальшивый [2]'>**false**<span class='tip-text'> </span></span>," Eldon Rosen answered. "There are no owls."
+
+«Нет, это ложь», — ответил Элдон Розен. «Сов нет».
+
+Rick left the room and closed the door <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> him. So that's how these people succeed in business, he said to himself. But Rachael must be a Nexus-6. I've seen one for the first time. The test nearly failed - and it's the only way that we have to trap them. The Rosen Corporation certainly tries hard to protect its androids. And I have to find six more of them.
+
+Рик вышел из комнаты и закрыл за собой дверь. Вот как эти люди преуспевают в бизнесе, сказал он себе. Но Рэйчел, должно быть, Нексус-6. Я видел один впервые. Испытание чуть не провалилось – и это единственный способ поймать их. Корпорация Розен, конечно, изо всех сил старается защитить своих андроидов. И мне нужно найти еще шесть из них.
+
+He would <span class='tip-wrap' data-text='earn [Эрн] {глагол} зарабатывать'>**earn**<span class='tip-text'> </span></span> his money. Every cent. If he lived.
+
+Он заработает свои деньги. Каждый цент. Если бы он жил.
+
+CHAPTER THREE
+
+В ТРЕТЬЕЙ ГЛАВЕ
+
+Neighbours
+
+Соседи
+
+In a great empty apartment building far from the centre of San Francisco a single television played. Before World War Terminus the building had been well looked after, but now the owner of these and other apartments had died or emigrated to other planets. There were few people left to miss them.
+
+В огромном пустом многоквартирном доме далеко от центра Сан-Франциско работал единственный телевизор. До Терминуса Мировой Войны за зданием хорошо ухаживали, но теперь владелец этих и других квартир умер или эмигрировал на другие планеты. Мало кто мог по ним скучать.
+
+Nobody really remembered why the war had started or who, if anyone, had won. The radioactive dust that covered the Earth had come from no country and nobody had planned it. After the war the animals had died, the sun had stopped shining, and most people were encouraged to emigrate. Under United Nations law each person who left was given an android to work for them. It became easy to go and very difficult to stay. The few thousands who remained moved into areas where they could live together and see each other. There were only a few <span class='tip-wrap' data-text='odd [Ад] {прилагательное} странный [2]; нечетный [2]; необычный [2]; лишний [1]; случайный [1]; чудной [1]; непарный [1]; эксцентричный [1]; разрозненный [1]; добавочный [1]; остающийся [1]; свободный [1]; незанятый [1]'>**odd**<span class='tip-text'> </span></span> individuals who stayed <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span> in the suburbs. John Isidore, listening to the television as he shaved, was one of these.
+
+Никто толком не помнил, почему началась война и кто победил (если вообще кто-то победил). Радиоактивная пыль, покрывшая Землю, пришла ни из одной страны, и никто ее не планировал. После войны животные вымерли, солнце перестало светить, и большинству людей пришлось эмигрировать. По законам Организации Объединенных Наций каждому уехавшему человеку давали работать на него андроида. Стало легко идти и очень трудно оставаться. Несколько тысяч оставшихся перебрались в районы, где они могли жить вместе и видеться друг с другом. Лишь несколько странных особей остались одни в пригороде. Джон Исидор, слушавший телевизор во время бритья, был одним из них.
+
+"Let's hear from Mrs Maggie Klugman," the television presenter was saying. "She emigrated to Mars a short time ago. Mrs Klugman, how does your <span class='tip-wrap' data-text='exciting [ыксАйтыŋ] {прилагательное} захватывающий [3]; возбуждающий [2]; волнующий [2]'>**exciting**<span class='tip-text'> </span></span> life in New New York compare with the difficulties of your previous life on Earth?"
+
+«Давайте послушаем миссис Мэгги Клагман», — говорил телеведущий. «Недавно она эмигрировала на Марс. Миссис Клагман, как ваша захватывающая жизнь в Нью-Йорке соотносится с трудностями вашей предыдущей жизни на Земле?»
+
+There was a pause, and then a tired middle-aged voice said, "Oh, it's wonderful to have an android that you can <span class='tip-wrap' data-text='depend [дыпЕнд] {глагол} зависеть'>**depend**<span class='tip-text'> </span></span> on. And before we left, my husband and I were always worried that we might <span class='tip-wrap' data-text='become [быкАм] {глагол} становиться'>**become**<span class='tip-text'> </span></span> specials. Now our worries have gone for <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span>."
+
+Последовала пауза, а затем усталый голос средних лет произнес: «О, как здорово иметь андроида, на которого можно положиться. И перед отъездом мы с мужем всегда волновались, что можем стать особенными. Теперь наш тревоги ушли навсегда».
+
+For me too, John Isidore thought, and I didn't have to emigrate. He had been a <span class='tip-wrap' data-text='special [спЕшэл] {прилагательное} особый (также специальный)'>**special**<span class='tip-text'> </span></span> now for over a year. <span class='tip-wrap' data-text='since [сЫнс] {предлог} с (также после)'>**Since**<span class='tip-text'> </span></span> he had failed even a basic <span class='tip-wrap' data-text='intelligence [ЫнтЕлэджэнс] {существительное} интеллект; разведка'>**intelligence**<span class='tip-text'> </span></span> test, the popular name for him and others like him was "chickenhead". But he survived. He had a job driving a <span class='tip-wrap' data-text='truck [трАк] {существительное} грузовик'>**truck**<span class='tip-text'> </span></span> for a <span class='tip-wrap' data-text='false [фОлс] {прилагательное} ложный [3]; фальшивый [2]'>**false**<span class='tip-text'> </span></span>-animal repair company, and Mr Sloat, his <span class='tip-wrap' data-text='boss [бАс] {существительное} босс [3]; хозяин [2]; шеф [2]; руководитель [2]; выступ [2]'>**boss**<span class='tip-text'> </span></span>, accepted him as a human <span class='tip-wrap' data-text='being [бИыŋ] {существительное} существо; бытие'>**being**<span class='tip-text'> </span></span>. There were chickenheads who were <span class='tip-wrap' data-text='much [мАч] {наречие} много; гораздо'>**much**<span class='tip-text'> </span></span> more stupid than Isidore.
+
+И мне тоже, подумал Иоанн Исидор, и мне не пришлось эмигрировать. Он был особенным уже больше года. Поскольку он провалил даже базовый тест на интеллект, его и других ему подобных прозвали «куриная голова». Но он выжил. Он работал водителем грузовика в компании по ремонту ложных животных, и его босс мистер Слоат принял его как человека. Были цыплята, которые были гораздо глупее Исидора.
+
+"So your husband was never <span class='tip-wrap' data-text='confident [кАнфэдэнт] {прилагательное} уверенный [3]'>**confident**<span class='tip-text'> </span></span>," continued the presenter, "that his protective <span class='tip-wrap' data-text='clothing [клOуðыŋ] {существительное} одежда [3]'>**clothing**<span class='tip-text'> </span></span> would..."
+
+«Значит, ваш муж никогда не был уверен, — продолжила ведущая, — что его защитная одежда…»
+
+Isidore had finished shaving, and turned the television off. Silence. It came from the walls, the floor, the ceiling, and from all the machines in the apartment that had stopped working years before. He experienced the silence with his eyes as well as his ears. It almost felt <span class='tip-wrap' data-text='alive [элАйв] {прилагательное} живой'>**alive**<span class='tip-text'> </span></span>.
+
+Исидор закончил бриться и выключил телевизор. Тишина. Он исходил от стен, пола, потолка и от всех машин в квартире, которые перестали работать много лет назад. Он ощущал тишину не только ушами, но и глазами. Он почти казался живым.
+
+Did other people feel this emptiness, or only specials like himself? He wanted to ask someone, but there was nobody to ask. There were a thousand apartments in the building, all uninhabited and slowly falling down. In the end they would be buried under the dust. But then, of course, he would be dead too.
+
+Ощущали ли эту пустоту другие люди или только такие особенные, как он? Он хотел у кого-то спросить, но спросить было не у кого. В доме была тысяча квартир, все нежилые и медленно разрушались. В конце концов они будут погребены под пылью. Но тогда, конечно, он тоже был бы мертв.
+
+He should turn the television on again, but it frightened him. The programmes were for regulars and only reminded him that he, a <span class='tip-wrap' data-text='special [спЕшэл] {прилагательное} особый (также специальный)'>**special**<span class='tip-text'> </span></span>, could not emigrate if he wanted to. Why listen to that? he thought crossly. I hope there's a war up there too, and everyone who's emigrated becomes a <span class='tip-wrap' data-text='special [спЕшэл] {прилагательное} особый (также специальный)'>**special**<span class='tip-text'> </span></span>.
+
+Ему следовало снова включить телевизор, но он его напугал. Программы были для постоянных клиентов и лишь напоминали ему, что он, особенный, не может эмигрировать, если бы захотел. Зачем это слушать? — сердито подумал он. Надеюсь, там тоже война, и каждый эмигрировавший станет особенным.
+
+Right, he thought; time for work. He opened the door and looked out into the unlit hall. Once again, he felt the emptiness of the <span class='tip-wrap' data-text='rest [рЕст] {существительное} отдых (также остаток)'>**rest**<span class='tip-text'> </span></span> of the building. He was not ready to <span class='tip-wrap' data-text='climb [клАйм] {глагол} взбираться'>**climb**<span class='tip-text'> </span></span> up to the empty <span class='tip-wrap' data-text='roof [рУф] {существительное} крыша [3]; кровля [2]; потолок [2]'>**roof**<span class='tip-text'> </span></span> where he had no animal. He closed the door again and crossed the room to his black empathy box. He turned it on, held the two handles and breathed <span class='tip-wrap' data-text='deeply [дИпли] {наречие} глубоко [3]'>**deeply**<span class='tip-text'> </span></span>. The light came on and a picture began to form on the screen. There on a <span class='tip-wrap' data-text='dry [дрАй] {прилагательное} сухой'>**dry**<span class='tip-text'> </span></span>, brown hillside under a dark sunless sky was an old man in <span class='tip-wrap' data-text='thin [θЫн] {прилагательное} тонкий'>**thin**<span class='tip-text'> </span></span>, loose clothes and no shoes. The man, Wilbur Mercer, was walking slowly <span class='tip-wrap' data-text='up [Ап] {предлог} в; на; по направлению к'>**up**<span class='tip-text'> </span></span> the hill and, as he held the handles, John Isidore <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> himself entering the picture. His own feet now walked <span class='tip-wrap' data-text='across [экрОс] {предлог} через'>**across**<span class='tip-text'> </span></span> the stones. He felt the <span class='tip-wrap' data-text='familiar [фэмЫлйэр] {прилагательное} знакомый'>**familiar**<span class='tip-text'> </span></span> roughness under his feet and smelled the bitter air of the sky - not the Earth's sky, but the sky of some <span class='tip-wrap' data-text='distant [дЫстэнт] {прилагательное} далекий [2]; отдаленный [2]; дальний [2]; сдержанный [1]; холодный [1]; слабый [1]; сухой [1]; давний [1]; неуловимый [1]; прошлый [1]'>**distant**<span class='tip-text'> </span></span> place. A place that he could always <span class='tip-wrap' data-text='reach [рИч] {глагол} достигать'>**reach**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> the empathy box.
+
+Да, подумал он; время для работы. Он открыл дверь и выглянул в неосвещенный зал. Он снова почувствовал пустоту остальной части здания. Он не был готов подняться на пустую крышу, где у него не было животных. Он снова закрыл дверь и подошел к своему черному ящику сочувствия. Он включил его, взялся за две ручки и глубоко вздохнул. Загорелся свет, и на экране начало формироваться изображение. Там, на сухом коричневом склоне холма, под темным, тусклым небом стоял старик в тонкой, свободной одежде и без обуви. Мужчина, Уилбур Мерсер, медленно поднимался по холму, и, держась за ручки, в кадре появился Джон Исидор. Его собственные ноги теперь шли по камням. Он почувствовал знакомую шероховатость под ногами и почувствовал горький воздух неба – не земного неба, а неба какого-то далекого места. Место, куда он всегда мог добраться через ящик сочувствия.
+
+Like everyone else who at this moment was holding the handles, he was one with Wilbur Mercer and with all those other people on Earth and on other planets. Together they concentrated on the hill, the need to <span class='tip-wrap' data-text='climb [клАйм] {глагол} взбираться'>**climb**<span class='tip-text'> </span></span>. It was impossible to see the end, but one day it would come.
+
+Как и все остальные, кто в этот момент держал ручки, он был един с Уилбуром Мерсером и со всеми остальными людьми на Земле и на других планетах. Вместе они сосредоточились на холме, на необходимости подняться. Невозможно было увидеть конец, но однажды он наступит.
+
+A rock, thrown at him - Wilbur Mercer, the others - hit his <span class='tip-wrap' data-text='arm [Арм] {существительное} отделение (осн. рука)'>**arm**<span class='tip-text'> </span></span>. He felt the pain. Another rock flew past, missing him. Who was it? He turned to look, but could not see his attackers. As they always did, they had followed him up the hill. He stood, rested, and rubbed the <span class='tip-wrap' data-text='cut [кАт] {существительное} порез'>**cut**<span class='tip-text'> </span></span> on his <span class='tip-wrap' data-text='arm [Арм] {существительное} отделение (осн. рука)'>**arm**<span class='tip-text'> </span></span>. Why am I up here <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span> like this with my pain, he thought. Then, inside himself, he could hear the others. They felt the pain too and they walked with him. He was not <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span>.
+
+Брошенный в него камень - Уилбур Мерсер и остальные - попал ему в руку. Он чувствовал боль. Еще один камень пролетел мимо, не заметив его. Кто это был? Он повернулся, чтобы посмотреть, но не увидел нападавших. Как всегда, они последовали за ним на холм. Он встал, отдохнул и потер порез на руке. «Почему я здесь один со своей болью?» — подумал он. Затем внутри себя он услышал остальных. Они тоже почувствовали боль и пошли с ним. Он был не один.
+
+Once, he remembered, life had been different. <span class='tip-wrap' data-text='childhood [чАйлдхУд] {существительное} детство [3]'>**Childhood**<span class='tip-text'> </span></span> had been nice; he had loved all life, <span class='tip-wrap' data-text='especially [эспЕшли] {наречие} особенно'>**especially**<span class='tip-text'> </span></span> the animals. He had in fact been able for a time to bring dead animals back to life. Then the killers came and arrested him in his sixteenth year. They said it was now <span class='tip-wrap' data-text='against [эгЕнст] {предлог} от; против'>**against**<span class='tip-text'> </span></span> the law to make dead creatures live again. They attacked his brain with something radioactive and he dropped into a different world full of dead animals and bones. He became part of those dead animals and could not escape <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> they all started to grow again. In the end it happened and, together, they all began to <span class='tip-wrap' data-text='climb [клАйм] {глагол} взбираться'>**climb**<span class='tip-text'> </span></span>. Then he was walking <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span>, but the others were there somewhere. He could feel them.
+
+Когда-то, вспоминал он, жизнь была другой. Детство было прекрасным; он любил всю жизнь, особенно животных. Ему действительно удавалось какое-то время возвращать к жизни мертвых животных. Затем пришли убийцы и арестовали его, когда ему было шестнадцать лет. Они сказали, что теперь противозаконно оживлять мертвых существ. Они атаковали его мозг чем-то радиоактивным, и он упал в другой мир, полный мертвых животных и костей. Он стал частью этих мертвых животных и не мог спастись, пока все они не начали снова расти. В конце концов это произошло, и они все вместе начали подниматься. Потом он шел один, но остальные где-то были. Он мог чувствовать их.
+
+Isidore stood holding the two handles, experiencing himself and every living thing. Then he let go. It had to <span class='tip-wrap' data-text='end [Енд] {глагол} завершать'>**end**<span class='tip-text'> </span></span>, as always, and anyway his <span class='tip-wrap' data-text='arm [Арм] {существительное} отделение (осн. рука)'>**arm**<span class='tip-text'> </span></span> was hurting. He went slowly to the bathroom to wash the <span class='tip-wrap' data-text='cut [кАт] {существительное} порез'>**cut**<span class='tip-text'> </span></span>. Some people, <span class='tip-wrap' data-text='especially [эспЕшли] {наречие} особенно'>**especially**<span class='tip-text'> </span></span> older people, died when they were hit by the rocks. In the city centre there were doctors that you could call, but not out in the suburbs. He dried his <span class='tip-wrap' data-text='arm [Арм] {существительное} отделение (осн. рука)'>**arm**<span class='tip-text'> </span></span> and heard, far away, the sound of a television.
+
+Исидор стоял, держась за две ручки, ощущая себя и все живое. Затем он отпустил. Как всегда, этому нужно было положить конец, и все равно рука у него болела. Он медленно пошел в ванную, чтобы промыть порез. Некоторые люди, особенно пожилые, погибли от ударов камнями. В центре города были врачи, которым можно было позвонить, но не на окраинах. Он вытер руку и услышал далеко-далеко звук телевизора.
+
+It's someone else in the building, he thought, unable to believe it. Two or three levels below, in one of the other apartments. Now I'm not <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span> here. What do you do when a new neighbour moves in? Go and borrow something? He could not remember. People moved away, people emigrated, but nobody <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span> moved in. You take them something, he decided. Like a cup of milk or maybe an egg - or, to be strictly correct, what people now ate instead of milk and eggs. In his fridge he <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> a small <span class='tip-wrap' data-text='piece [пИс] {существительное} кусок (также пьеса)'>**piece**<span class='tip-text'> </span></span> of <span class='tip-wrap' data-text='false [фОлс] {прилагательное} ложный [3]; фальшивый [2]'>**false**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='butter [бАтэр] {существительное} масло [3]; сливочное масло [3]'>**butter**<span class='tip-text'> </span></span>.
+
+«Это кто-то еще в здании», — подумал он, не в силах в это поверить. Двумя-тремя уровнями ниже, в одной из других квартир. Теперь я здесь не один. Что вы делаете, когда въезжает новый сосед? Пойти и одолжить что-нибудь? Он не мог вспомнить. Люди уезжали, люди эмигрировали, но никто так и не въехал. «Отнесите им что-нибудь», — решил он. Как чашка молока или, может быть, яйцо — или, если быть совсем точным, то, что люди теперь ели вместо молока и яиц. В своем холодильнике он нашел небольшой кусочек ложного сливочного масла.
+
+His heart was beating fast as he left his apartment and followed the sound. I mustn't show that I'm a chickenhead, he thought. If he knows I'm a chickenhead, he won't talk to me. It's always the same. Isidore hurried <span class='tip-wrap' data-text='along [элОŋ] {предлог} вдоль'>**along**<span class='tip-text'> </span></span> the hall.
+
+Его сердце сильно билось, когда он вышел из квартиры и последовал за звуком. «Я не должен показывать, что я болван», — подумал он. Если он узнает, что я тупица, он не будет со мной разговаривать. Это всегда то же самое. Исидор поспешил по коридору.
+
+Walking down the dusty stairs, Isidore recognized the <span class='tip-wrap' data-text='familiar [фэмЫлйэр] {прилагательное} знакомый'>**familiar**<span class='tip-text'> </span></span> voice of Buster Friendly on the television.
+
+Спускаясь по пыльной лестнице, Исидор узнал знакомый голос Бастера Френдли по телевизору.
+
+"...and the dust will be particularly bad in the middle of the day, so if you're thinking of going out, wait <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> the afternoon. And speaking of waiting, it's now only ten hours <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> that big <span class='tip-wrap' data-text='piece [пИс] {существительное} кусок (также пьеса)'>**piece**<span class='tip-text'> </span></span> of news, my <span class='tip-wrap' data-text='special [спЕшэл] {прилагательное} особый (также специальный)'>**special**<span class='tip-text'> </span></span> report. Tell your friends to watch! It's something that will really surprise you..."
+
+«...и пыль будет особенно сильной в середине дня, так что, если вы думаете о выходе из дома, подождите до полудня. И, говоря об ожидании, осталось всего десять часов до той важной новости, мой специальный репортаж. Расскажите своим друзьям, чтобы они посмотрели. Это то, что вас действительно удивит...»
+
+As Isidore knocked on the apartment door, the television fell <span class='tip-wrap' data-text='silent [сАйлэнт] {прилагательное} тихий [3]; молчаливый [2]; немой [2]; безмолвный [2]'>**silent**<span class='tip-text'> </span></span>. He could feel the <span class='tip-wrap' data-text='presence [прЕзэнс] {существительное} присутствие'>**presence**<span class='tip-text'> </span></span> of life <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> the closed door, and the <span class='tip-wrap' data-text='fear [фЫр] {существительное} страх'>**fear**<span class='tip-text'> </span></span> of someone who did not want to see him.
+
+Когда Исидор постучал в дверь квартиры, телевизор замолчал. Он чувствовал присутствие жизни за закрытой дверью и страх перед кем-то, кто не хотел его видеть.
+
+"Hey," he called. "I live upstairs. I heard your television. Let's meet." He waited and listened. No sound and no movement. "I brought you some <span class='tip-wrap' data-text='butter [бАтэр] {существительное} масло [3]; сливочное масло [3]'>**butter**<span class='tip-text'> </span></span>," he said. "My name's J.R. Isidore and I work for the animal doctor Mr Hannibal Sloat. I have a <span class='tip-wrap' data-text='responsible [риспАнсэбэл] {прилагательное} ответственный'>**responsible**<span class='tip-text'> </span></span> job."
+
+«Эй», — позвал он. «Я живу наверху. Я слышал твой телевизор. Давай встретимся». Он ждал и слушал. Ни звука, ни движения. «Я принес тебе немного масла», - сказал он. «Меня зовут Джей Ар Исидор, и я работаю на врача-зоотехника мистера Ганнибала Слоата. У меня ответственная работа».
+
+The door opened a little and he saw a girl. She looked frightened, ill and very <span class='tip-wrap' data-text='weak [уИк] {прилагательное} слабый [3]'>**weak**<span class='tip-text'> </span></span>. She tried to smile.
+
+Дверь приоткрылась и он увидел девушку. Она выглядела испуганной, больной и очень слабой. Она попыталась улыбнуться.
+
+"You thought this building was empty," he said as he realized.
+
+«Вы думали, что это здание пусто», — сказал он, осознав это.
+
+"Yes," the girl whispered.
+
+- Да, - прошептала девушка.
+
+"But," Isidore said, "it's good to have neighbours. I didn't have any <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> you came."
+
+«Но, — сказал Исидор, — хорошо иметь соседей. У меня их не было, пока ты не пришел».
+
+"You're the only one here <span class='tip-wrap' data-text='except [ыксЕпт] {предлог} кроме'>**except**<span class='tip-text'> </span></span> me?" She seemed less shy now. He saw that she had a nice figure and <span class='tip-wrap' data-text='pretty [прЫти] {наречие} довольно'>**pretty**<span class='tip-text'> </span></span> eyes. <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**Behind**<span class='tip-text'> </span></span> her in the room were open suitcases; there were things all over the floor.
+
+— Ты здесь один, кроме меня? Теперь она казалась менее застенчивой. Он увидел, что у нее хорошая фигура и красивые глаза. Позади нее в комнате стояли открытые чемоданы; были вещи по всему полу.
+
+"I'm your only neighbour," Isidore said. "And I won't bother you." He felt sad. She was confused, he knew, and she didn't seem to understand about the <span class='tip-wrap' data-text='butter [бАтэр] {существительное} масло [3]; сливочное масло [3]'>**butter**<span class='tip-text'> </span></span>. "Good old Buster," he said, trying to make conversation. "You like him? I watch him every morning and then again after work <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> I go to bed. Or I did <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> my television broke. Now I can only get one station."
+
+«Я твой единственный сосед», — сказал Исидор. — И я не буду тебя беспокоить. Ему стало грустно. Он знал, что она была в замешательстве, а она, похоже, ничего не понимала насчет масла. — Старый добрый Бастер, — сказал он, пытаясь завязать разговор. «Он тебе нравится? Я смотрю его каждое утро, а потом еще раз после работы, пока не лягу спать. Или любил, пока у меня не сломался телевизор. Теперь я могу смотреть только одну станцию».
+
+"Who...?" the girl began and then stopped and bit her lip.
+
+"ВОЗ...?" - начала девочка, а потом остановилась и закусила губу.
+
+"Buster Friendly," he explained. It was <span class='tip-wrap' data-text='odd [Ад] {прилагательное} странный [2]; нечетный [2]; необычный [2]; лишний [1]; случайный [1]; чудной [1]; непарный [1]; эксцентричный [1]; разрозненный [1]; добавочный [1]; остающийся [1]; свободный [1]; незанятый [1]'>**odd**<span class='tip-text'> </span></span> that she didn't know about him. "Where have you come here from?" he asked curiously.
+
+«Бастер Дружелюбный», — объяснил он. Странно, что она о нем не знала. «Откуда вы сюда пришли?» — спросил он с любопытством.
+
+"It's not important," she said quickly. She looked at him <span class='tip-wrap' data-text='carefully [кЕрфэли] {наречие} бережно'>**carefully**<span class='tip-text'> </span></span> and seemed to like what she saw. "I'd like to talk to you," she continued, "but later, when I've organized the apartment. Not now."
+
+«Это не важно», быстро сказала она. Она внимательно посмотрела на него, и, похоже, ей понравилось то, что она увидела. «Я бы хотела поговорить с тобой, — продолжила она, — но позже, когда я приведу в порядок квартиру. Не сейчас».
+
+"Why not now?" He did not understand. Everything about her was <span class='tip-wrap' data-text='strange [стрЕйндж] {прилагательное} странный; чужой'>**strange**<span class='tip-text'> </span></span> to him. Maybe I've been living here <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span> too long, he thought. I really am a chickenhead. "I can look in the other apartments and find you some <span class='tip-wrap' data-text='furniture [фЭрнычэр] {существительное} мебель [3]'>**furniture**<span class='tip-text'> </span></span>," he offered.
+
+"Почему не сейчас?" Он не понимал. Все в ней было для него странным. «Может быть, я слишком долго живу здесь один», — подумал он. Я действительно цыплёнок. «Я могу поискать в других квартирах и найти тебе мебель», — предложил он.
+
+"I'll do it," the girl said. "Alone."
+
+«Я сделаю это», — сказала девушка. "Один."
+
+"You want to go into those empty apartments <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span>?" He could not believe it.
+
+«Ты хочешь пойти в эти пустые квартиры один?» Он не мог в это поверить.
+
+"Why not?" Again, she looked uncomfortable; she knew that she had said something wrong.
+
+"Почему нет?" И снова она выглядела неуютно; она знала, что сказала что-то не так.
+
+"The <span class='tip-wrap' data-text='whole [хOул] {прилагательное} весь'>**whole**<span class='tip-text'> </span></span> building is full of rubbish that people left when they died or emigrated. As you sleep, the rubbish grows and grows."
+
+«Все здание завалено мусором, который люди оставили после смерти или эмиграции. Пока вы спите, мусор растет и растет».
+
+"I see," said the girl uncertainly.
+
+— Понятно, — неуверенно сказала девушка.
+
+"In the end it will be everywhere. We can't win."
+
+«В конце концов, это будет повсюду. Мы не сможем победить».
+
+"Why not?" she asked.
+
+"Почему нет?" она спросила.
+
+"Nobody can win <span class='tip-wrap' data-text='against [эгЕнст] {предлог} от; против'>**against**<span class='tip-text'> </span></span> rubbish," he answered. "In my apartment the situation is under control, but if I die or go away, the rubbish will cover it again. The <span class='tip-wrap' data-text='whole [хOул] {прилагательное} весь'>**whole**<span class='tip-text'> </span></span> world is moving that way. <span class='tip-wrap' data-text='except [ыксЕпт] {предлог} кроме'>**Except**<span class='tip-text'> </span></span>, of course, for the climb of Wilbur Mercer."
+
+«Никто не может победить мусор», — ответил он. «В моей квартире ситуация под контролем, но если я умру или уйду, мусор снова накроет ее. Весь мир движется таким образом. За исключением, конечно, восхождения Уилбура Мерсера».
+
+The girl eyed him. "I don't see the connection."
+
+Девушка посмотрела на него. «Я не вижу связи».
+
+"That's what Mercerism is all about," he said, surprised. "Don't you have an empathy box?"
+
+«В этом вся суть мерсеризма», - сказал он удивленно. «У тебя нет коробки сочувствия?»
+
+After a pause, the girl said <span class='tip-wrap' data-text='carefully [кЕрфэли] {наречие} бережно'>**carefully**<span class='tip-text'> </span></span>. "I didn't bring <span class='tip-wrap' data-text='mine [мАйн] {существительное} шахта [3]; рудник [2]; мина [2]'>**mine**<span class='tip-text'> </span></span> with me. I thought there'd be one here."
+
+После паузы осторожно сказала девушка. «Я не взял с собой свой. Я думал, что он здесь есть».
+
+"But an empathy box," he cried, "is so personal! It's a part of yourself. It's the way you touch other human beings so that you're not <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span>. But you know that. Everyone knows that. Mercer even lets people like me..." He stopped, but it was too late. He saw the <span class='tip-wrap' data-text='expression [ыкспрЕшэн] {существительное} выражение'>**expression**<span class='tip-text'> </span></span> of dislike on her face. She knew. "I almost passed the <span class='tip-wrap' data-text='intelligence [ЫнтЕлэджэнс] {существительное} интеллект; разведка'>**intelligence**<span class='tip-text'> </span></span> test," he said in a low voice. "I'm not very <span class='tip-wrap' data-text='special [спЕшэл] {прилагательное} особый (также специальный)'>**special**<span class='tip-text'> </span></span>, not like some people. But Mercer doesn't care about that."
+
+«Но ящик сочувствия, — воскликнул он, — настолько личный! Это часть тебя самого. Это то, как ты прикасаешься к другим людям, чтобы не быть одиноким. Но ты это знаешь. Это знают все. Мерсер даже позволяет людям как я… — Он остановился, но было уже поздно. Он увидел выражение неприязни на ее лице. Она знала. «Я почти прошел тест на интеллект», — сказал он тихим голосом. «Я не такой уж особенный, не такой, как некоторые люди. Но Мерсера это не волнует».
+
+"To me, that's a problem with Mercerism," the girl said <span class='tip-wrap' data-text='clearly [клЫрли] {наречие} очевидно'>**clearly**<span class='tip-text'> </span></span>.
+
+«Для меня это проблема мерсеризма», - ясно сказала девушка.
+
+"I <span class='tip-wrap' data-text='guess [гЕс] {глагол} догадываться'>**guess**<span class='tip-text'> </span></span> I'll go back upstairs," he said, turning away from her. The <span class='tip-wrap' data-text='butter [бАтэр] {существительное} масло [3]; сливочное масло [3]'>**butter**<span class='tip-text'> </span></span> was melting in his hand.
+
+«Думаю, я вернусь наверх», — сказал он, отвернувшись от нее. Масло таяло в его руке.
+
+The girl watched him go and then called, "Wait!"
+
+Девушка смотрела ему вслед, а затем позвала: «Подожди!»
+
+He turned back <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> her. "Why?" he asked.
+
+Он повернулся к ней. "Почему?" он спросил.
+
+"I'll need your help with the <span class='tip-wrap' data-text='furniture [фЭрнычэр] {существительное} мебель [3]'>**furniture**<span class='tip-text'> </span></span>. What time do you get home from work? You can help me then."
+
+«Мне понадобится твоя помощь с мебелью. Во сколько ты вернешься домой с работы? Тогда ты сможешь мне помочь».
+
+"Did you get my name?" he said eagerly. "John Isidore, and I work for..."
+
+«Вы узнали мое имя?» - сказал он с нетерпением. «Джон Исидор и я работаем на…»
+
+"...some person with the unlikely name of Hannibal Sloat, who is <span class='tip-wrap' data-text='probably [прАбэблИ] {наречие} вероятно'>**probably**<span class='tip-text'> </span></span> only real in your mind." She looked at him coldly. "My name is Pris Stratton. You can call me Pris." She thought for a moment. "No, call me Miss Stratton. Because we don't really know each other. At <span class='tip-wrap' data-text='least [лИст] {наречие} наименее'>**least**<span class='tip-text'> </span></span>, I don't know you." She <span class='tip-wrap' data-text='shut [шАт] {глагол} закрывать'>**shut**<span class='tip-text'> </span></span> the door and he <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> himself <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span> in the hall.
+
+«...какой-то человек с необычным именем Ганнибал Слоат, который, вероятно, реален только в твоем воображении». Она холодно посмотрела на него. «Меня зовут Прис Стрэттон. Можешь звать меня Прис». Она на мгновение задумалась. «Нет, зовите меня мисс Стрэттон. Потому что мы на самом деле не знаем друг друга. По крайней мере, я не знаю вас». Она закрыла дверь, и он оказался один в коридоре.
+
+I'll make dinner for both of us this evening, Isidore decided as he walked back to his apartment. Maybe she'll change her mind and let me call her Pris.
+
+«Я приготовлю ужин для нас обоих сегодня вечером», — решил Исидор, возвращаясь в свою квартиру. Возможно, она передумает и позволит мне называть ее Прис.
+
+She's <span class='tip-wrap' data-text='strange [стрЕйндж] {прилагательное} странный; чужой'>**strange**<span class='tip-text'> </span></span>, he thought, while he put on his white work uniform; he was going to be late, but that didn't <span class='tip-wrap' data-text='matter [мЭтэр] {глагол} иметь значение'>**matter**<span class='tip-text'> </span></span>. She's never heard of Buster Friendly, and that's impossible. Buster's the <span class='tip-wrap' data-text='most [мOуст] {наречие} очень'>**most**<span class='tip-text'> </span></span> important person <span class='tip-wrap' data-text='alive [элАйв] {прилагательное} живой'>**alive**<span class='tip-text'> </span></span> - <span class='tip-wrap' data-text='except [ыксЕпт] {предлог} кроме'>**except**<span class='tip-text'> </span></span> Wilbur Mercer, but Mercer isn't a human <span class='tip-wrap' data-text='being [бИыŋ] {существительное} существо; бытие'>**being**<span class='tip-text'> </span></span>. She may need help. Can I help her? he asked himself. A <span class='tip-wrap' data-text='special [спЕшэл] {прилагательное} особый (также специальный)'>**special**<span class='tip-text'> </span></span>, a chickenhead: what do I know? I can't marry and I can't emigrate and in the end the dust will kill me. I have nothing to offer. He went up to the <span class='tip-wrap' data-text='roof [рУф] {существительное} крыша [3]; кровля [2]; потолок [2]'>**roof**<span class='tip-text'> </span></span> and climbed into his old hovercar.
+
+«Она странная», — подумал он, надевая белую рабочую форму; он собирался опоздать, но это не имело значения. Она никогда не слышала о Бастере Френдли, а это невозможно. Бастер — самый важный человек на свете, за исключением Уилбура Мерсера, но Мерсер не человек. Возможно, ей понадобится помощь. Могу ли я ей помочь? — спросил он себя. Спец, куропатка: что я знаю? Я не могу жениться, не могу эмигрировать, и в конце концов пыль убьет меня. Мне нечего предложить. Он поднялся на крышу и забрался в свой старый ховеркар.
+
+An hour later he collected an <span class='tip-wrap' data-text='electric [ылЕктрык] {прилагательное} электрический [3]'>**electric**<span class='tip-text'> </span></span> cat which was not working <span class='tip-wrap' data-text='properly [прАпэрли] {наречие} правильно [3]; должным образом [3]; собственно [2]; как следует [2]'>**properly**<span class='tip-text'> </span></span>, and drove it in his <span class='tip-wrap' data-text='truck [трАк] {существительное} грузовик'>**truck**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the Van Ness Pet Hospital. The cat was making all the right noises for a <span class='tip-wrap' data-text='sick [сЫк] {прилагательное} больной'>**sick**<span class='tip-text'> </span></span> animal; it almost seemed real.
+
+Час спустя он подобрал неисправного электрического кота и отвез его на своем грузовике в сторону больницы для домашних животных Ван-Несс. Кот издавал все звуки, подходящие для больного животного; это казалось почти реальным.
+
+Wow, Isidore said to himself, it's in a bad way. He stopped the <span class='tip-wrap' data-text='truck [трАк] {существительное} грузовик'>**truck**<span class='tip-text'> </span></span> on a <span class='tip-wrap' data-text='roof [рУф] {существительное} крыша [3]; кровля [2]; потолок [2]'>**roof**<span class='tip-text'> </span></span> and searched the animal for its control box. He could not find it, and while he was looking the cat stopped moving. The owner hasn't been looking after it <span class='tip-wrap' data-text='properly [прАпэрли] {наречие} правильно [3]; должным образом [3]; собственно [2]; как следует [2]'>**properly**<span class='tip-text'> </span></span>, Isidore thought. It'll be <span class='tip-wrap' data-text='expensive [ыкспЕнсыв] {прилагательное} дорогой'>**expensive**<span class='tip-text'> </span></span> to repair it now. He continued his <span class='tip-wrap' data-text='flight [флАйт] {существительное} полет'>**flight**<span class='tip-text'> </span></span> back to the repair shop.
+
+Ух ты, сказал себе Исидор, это в плохом смысле. Он остановил грузовик на крыше и обыскал животное в поисках блока управления. Он не смог его найти, и пока он искал, кот перестал двигаться. Хозяин не заботился о нем должным образом, подумал Исидор. Ремонтировать его теперь будет дорого. Он продолжил полет обратно в ремонтную мастерскую.
+
+For company, he turned on the radio and listened to Buster Friendly. Like the television programme, Buster's radio broadcast was on twenty-three hours a day. He was interviewing one of those beautiful women who did not sing or act; they were famous only as guests of Buster Friendly. How did Buster manage to make both his television and radio programmes? Isidore wondered. And how did the women always find something new to say?
+
+За компанию он включил радио и послушал Buster Friendly. Как и телевизионная программа, радиопередача Бастера шла двадцать три часа в сутки. Он брал интервью у одной из тех красивых женщин, которые не поют и не играют; они были известны только как гости Buster Friendly. Как Бастеру удавалось создавать свои теле- и радиопрограммы? Исидор задумался. И как женщинам всегда удавалось сказать что-то новое?
+
+One thing about Buster worried Isidore. He sometimes made fun of empathy boxes. He was doing it now.
+
+Одна вещь в Бастере беспокоила Изидора. Иногда он высмеивал коробки сочувствия. Он делал это сейчас.
+
+"And if I'm going up the side of a mountain," he was saying to his guest, "I want a <span class='tip-wrap' data-text='couple [кАпэл] {существительное} пара'>**couple**<span class='tip-text'> </span></span> of bottles of beer with me!"
+
+«А если я поднимусь на гору, — говорил он своему гостю, — я хочу взять с собой пару бутылок пива!»
+
+John Isidore felt angry. Why did Buster's remarks not worry other people? Even the United Nations supported his broadcasts. Maybe Buster is jealous of Wilbur Mercer, Isidore thought. Perhaps they're competing. But for what?
+
+Иоанн Исидор рассердился. Почему высказывания Бастера не обеспокоили других людей? Даже Организация Объединенных Наций поддерживала его передачи. «Может быть, Бастер завидует Уилбуру Мерсеру», — подумал Исидор. Возможно, они конкурируют. Но для чего?
+
+Our minds, Isidore decided. I'll have to tell Hannibal Sloat. Ask him if it's true; he'll know.
+
+«Наш разум», — решил Исидор. Мне придется рассказать Ганнибалу Слоуту. Спросите его, правда ли это; он узнает.
+
+Isidore parked his <span class='tip-wrap' data-text='truck [трАк] {существительное} грузовик'>**truck**<span class='tip-text'> </span></span> on the <span class='tip-wrap' data-text='roof [рУф] {существительное} крыша [3]; кровля [2]; потолок [2]'>**roof**<span class='tip-text'> </span></span> of the hospital and carried the cat downstairs to Hannibal Sloat's office. Mr Sloat was not a <span class='tip-wrap' data-text='special [спЕшэл] {прилагательное} особый (также специальный)'>**special**<span class='tip-text'> </span></span> but was too old to emigrate. The dust had made his face grey and he walked with great difficulty. He never cleaned his glasses, so he saw the world <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> a <span class='tip-wrap' data-text='thick [θЫк] {прилагательное} толстый; густой'>**thick**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='coat [кOут] {существительное} пальто [3]; слой [3]; шерсть [2]; пиджак [2]; оболочка [2]; шубка [2]'>**coat**<span class='tip-text'> </span></span> of dust.
+
+Исидор припарковал свой грузовик на крыше больницы и отнес кота вниз, в кабинет Ганнибала Слоата. Мистер Слоат не был особенным, но был слишком стар, чтобы эмигрировать. Пыль поседела у него на лице, и он шел с большим трудом. Он никогда не чистил очки, поэтому видел мир сквозь толстый слой пыли.
+
+"What do you have there?" Mr Sloat asked.
+
+"Что же у вас там?" — спросил мистер Слоат.
+
+"A cat with an electrical problem."
+
+«Кошка с проблемой с электричеством».
+
+Mr Sloat took the cat from him. Isidore continued, "I think Buster Friendly and Mercerism are fighting for control of us."
+
+Мистер Слоат забрал у него кота. Исидор продолжил: «Я думаю, что Бастер Френдли и Мерсеризм борются за контроль над нами».
+
+"If so," Sloat answered, examining the cat, "Buster's winning."
+
+«Если так», — ответил Слоат, рассматривая кота, — «Бастер побеждает».
+
+"He's winning now," Isidore said, "but he'll lose in the end."
+
+«Сейчас он побеждает, — сказал Исидор, — но в конце концов он проиграет».
+
+Mr Sloat lifted his head. "Why?"
+
+Мистер Слоат поднял голову. "Почему?"
+
+"Because Wilbur Mercer is for <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span>. He never dies. At the top of the hill he's wounded and falls, but he always rises again. And we <span class='tip-wrap' data-text='rise [рАйз] {глагол} подниматься'>**rise**<span class='tip-text'> </span></span> with him." Isidore felt good. He did not usually speak to Mr Sloat so easily.
+
+«Потому что Уилбур Мерсер — навсегда. Он никогда не умирает. На вершине холма он ранен и падает, но всегда поднимается снова. И мы поднимаемся вместе с ним». Исидор чувствовал себя хорошо. Обычно он не так легко разговаривал с мистером Слоатом.
+
+Sloat said, "Buster is like Mercer. He won't <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span> die."
+
+Слоат сказал: «Бастер похож на Мерсера. Он никогда не умрет».
+
+"That can't be right. He's a man."
+
+«Этого не может быть. Он мужчина».
+
+"I don't know," Sloat said. "But it's true. They've never admitted it, of course... This cat isn't <span class='tip-wrap' data-text='false [фОлс] {прилагательное} ложный [3]; фальшивый [2]'>**false**<span class='tip-text'> </span></span>! I knew that one day this would happen. And it's dead." He stared at the cat's body and shook his head. "Another living <span class='tip-wrap' data-text='creature [крИчэр] {существительное} создание [3]; тварь [2]; творение [2]; живое существо [2]'>**creature**<span class='tip-text'> </span></span> is dead, chickenhead. Didn't you <span class='tip-wrap' data-text='notice [нOутэс] {глагол} замечать'>**notice**<span class='tip-text'> </span></span> the difference?"
+
+«Я не знаю», сказал Слоат. «Но это правда. Они, конечно, никогда этого не признавали... Этот кот не фальшивый! Я знал, что однажды это произойдет. И он мертв». Он посмотрел на тело кота и покачал головой. «Еще одно живое существо мертво, цыпленок. Разве ты не заметил разницы?»
+
+Mr Sloat had never called him chickenhead before. Not to his face.
+
+Мистер Слоат никогда раньше не называл его цыплёнком. Не ему в лицо.
+
+"I th-thought," Isidore managed to say, "it was a r-really good job. I mean it seemed <span class='tip-wrap' data-text='alive [элАйв] {прилагательное} живой'>**alive**<span class='tip-text'> </span></span>, and..."
+
+«Я думаю, — сумел выговорить Исидор, — это была п-действительно хорошая работа. Я имею в виду, что она казалась живой, и…»
+
+"Another dead animal," Mr Stoat repeated sadly.
+
+«Еще одно мертвое животное», — печально повторил мистер Стоут.
+
+"Mercer says," Isidore reminded him, "that all life returns. We all <span class='tip-wrap' data-text='climb [клАйм] {глагол} взбираться'>**climb**<span class='tip-text'> </span></span> with him, die,..."
+
+«Мерсер говорит, — напомнил ему Исидор, — что вся жизнь возвращается. Мы все лезем вместе с ним, умираем…»
+
+"Tell that to the owner of the cat," Mr Sloat said. "Phone him now."
+
+«Скажите это владельцу кошки», — сказал Слоат. «Позвони ему сейчас».
+
+"You mean I have to?" Isidore asked. His heart stopped. He hated videophones. "You always make the calls. I'm ugly, <span class='tip-wrap' data-text='dirty [дЭрти] {прилагательное} грязный [3]'>**dirty**<span class='tip-text'> </span></span> and grey. I feel <span class='tip-wrap' data-text='sick [сЫк] {прилагательное} больной'>**sick**<span class='tip-text'> </span></span>. I think I'm going to die."
+
+— Ты имеешь в виду, что я должен? – спросил Исидор. Его сердце остановилось. Он ненавидел видеофоны. «Ты всегда звонишь. Я уродливый, грязный и серый. Меня тошнит. Думаю, я умру».
+
+"Do it, chickenhead, or lose your job," Sloat said angrily.
+
+«Сделай это, придурок, или потеряешь работу», — сердито сказал Слоат.
+
+"I d-don't like the n-name chickenhead. The d-dust has an effect on all of us, n-not just me." I can't make the call, he thought, and then he remembered. The owner of the cat was at work; he had seen him leave the apartment, "I g-guess I can call," he said as he looked for the number.
+
+«Мне н-не нравится курица с н-имя. Д-пыль влияет на всех нас, н-не только на меня». «Я не могу позвонить», — подумал он, а потом вспомнил. Хозяин кота был на работе; он видел, как тот выходил из квартиры. «Д-полагаю, я могу позвонить», — сказал он, ища номер.
+
+He dialled, and a woman's face appeared on the screen. "Yes?" she said.
+
+Он набрал номер, и на экране появилось женское лицо. "Да?" она сказала.
+
+"M-mrs Pilsen?" Isidore asked, shaking with <span class='tip-wrap' data-text='fear [фЫр] {существительное} страх'>**fear**<span class='tip-text'> </span></span>. "I want to t-talk to you about your c-c-c-cat. It died."
+
+— М-миссис Пльзень? — спросил Исидор, дрожа от страха. «Я хочу поговорить с тобой о твоем коте. Он умер».
+
+"Oh, no," cried the woman.
+
+«О, нет!» — воскликнула женщина.
+
+"We'll get you another one," Isidore heard himself saying. "Tell us what you'd like."
+
+«Мы достанем тебе еще один», — услышал Исидор собственный голос. «Расскажите нам, чего бы вы хотели».
+
+"Horace is dead!" Mrs Pilsen said. "There's only one cat like Horace. When he was little,..."
+
+«Гораций мертв!» - сказала г-жа Пилсен. «Есть только один такой кот, как Гораций. Когда он был маленьким…»
+
+Isidore had an idea. "Would you like an <span class='tip-wrap' data-text='electric [ылЕктрык] {прилагательное} электрический [3]'>**electric**<span class='tip-text'> </span></span> copy of Horace?" he asked. "An exact copy?"
+
+У Исидора возникла идея. «Хотите электрическую копию Горация?» он спросил. «Точная копия?»
+
+"Oh, what are you saying?" Mrs Pilsen cried. "But yes, you're right. We won't tell my husband. He needn't know anything."
+
+«О, что ты говоришь?» Миссис Пльзень плакала. «Но да, ты прав. Мы не скажем моему мужу. Ему не обязательно ничего знать».
+
+Mr Sloat took the phone from Isidore. "Are you <span class='tip-wrap' data-text='sure [шУр] {прилагательное} верный; уверенный'>**sure**<span class='tip-text'> </span></span>, madam?" he asked. "The neighbours won't <span class='tip-wrap' data-text='notice [нOутэс] {глагол} замечать'>**notice**<span class='tip-text'> </span></span>, but the owner always does. When you get near a <span class='tip-wrap' data-text='false [фОлс] {прилагательное} ложный [3]; фальшивый [2]'>**false**<span class='tip-text'> </span></span> animal,..."
+
+Мистер Слоат взял трубку у Исидора. — Вы уверены, мадам? он спросил. «Соседи не заметят, но хозяин всегда замечает. Когда приближаешься к ложному животному,...»
+
+"My husband never really went near Horace because he was afraid of losing him. I looked after him. I think I would like a <span class='tip-wrap' data-text='false [фОлс] {прилагательное} ложный [3]; фальшивый [2]'>**false**<span class='tip-text'> </span></span> animal. I don't think my husband could <span class='tip-wrap' data-text='survive [сэрвАйв] {глагол} выживать'>**survive**<span class='tip-text'> </span></span> Horace's death. That's why, when he was ill, we waited so long before we called you. Too long... I knew that before you phoned. How long will it take?"
+
+«Мой муж никогда особо не приближался к Горацию, потому что боялся его потерять. Я присматривала за ним. Думаю, мне бы хотелось ложное животное. Не думаю, что мой муж смог бы пережить смерть Горация. мы так долго ждали, прежде чем позвонить тебе. Слишком долго... Я знал это еще до того, как ты позвонил. Сколько времени это займет?»
+
+"Ten days. We'll <span class='tip-wrap' data-text='deliver [дылЫвэр] {глагол} доставлять (также поставлять)'>**deliver**<span class='tip-text'> </span></span> it while your husband's at work." Mr Sloat said goodbye and hung up. He looked at Isidore. "Not bad," he said. "Perhaps you're not so stupid really."
+
+«Десять дней. Доставим, пока ваш муж на работе». Мистер Слоат попрощался и повесил трубку. Он посмотрел на Исидора. «Неплохо», сказал он. «Возможно, ты на самом деле не такой уж и глупый».
+
+"I'll take the cat to be measured and photographed," Isidore said. He felt very, very happy.
+
+«Я отвезу кота на измерение и фотографию», — сказал Исидор. Он чувствовал себя очень, очень счастливым.
+
+CHAPTER FOUR
+
+ГЛАВА ЧЕТВЕРТАЯ
+
+The Chase Begins
+
+Погоня начинается
+
+Rick Deckard parked his police hovercar on the station <span class='tip-wrap' data-text='roof [рУф] {существительное} крыша [3]; кровля [2]; потолок [2]'>**roof**<span class='tip-text'> </span></span> and went down to Inspector Bryant's office.
+
+Рик Декард припарковал свой полицейский ховеркар на крыше вокзала и спустился в офис инспектора Брайанта.
+
+"That was quick," his <span class='tip-wrap' data-text='boss [бАс] {существительное} босс [3]; хозяин [2]; шеф [2]; руководитель [2]; выступ [2]'>**boss**<span class='tip-text'> </span></span> said, putting his papers down.
+
+«Это было быстро», — сказал его босс, откладывая бумаги.
+
+"The <span class='tip-wrap' data-text='trip [трЫп] {существительное} поездка'>**trip**<span class='tip-text'> </span></span> was a success." He was tired, Rick realized, and the job <span class='tip-wrap' data-text='ahead [эхЕд] {наречие} впереди'>**ahead**<span class='tip-text'> </span></span> of him would be hard. "How's Dave?" he asked. "I'd like to talk to him before I go after the first of the androids."
+
+«Поездка удалась». Он устал, понял Рик, и работа, которую ему предстоит, будет трудной. «Как Дэйв?» он спросил. «Я хотел бы поговорить с ним, прежде чем отправиться за первым из андроидов».
+
+"You must find Polokov first. The one who shot Dave," Bryant said. "He knows we're looking for him."
+
+«Сначала вы должны найти Полокова. Того, кто застрелил Дэйва», — сказал Брайант. «Он знает, что мы его ищем».
+
+"Before I speak to Dave?"
+
+— Прежде чем я поговорю с Дэйвом?
+
+Bryant reached for a sheet of paper. "Polokov has taken a job with the city as a rubbish collector."
+
+Брайант потянулся за листом бумаги. «Полоков устроился на работу в город сборщиком мусора».
+
+"Don't only specials do that kind of work?"
+
+«Разве только спецы не выполняют такую работу?»
+
+"Polokov is pretending to be a <span class='tip-wrap' data-text='special [спЕшэл] {прилагательное} особый (также специальный)'>**special**<span class='tip-text'> </span></span>, a chickenhead. That's what gave Dave problems. Polokov's a very good actor. Are you <span class='tip-wrap' data-text='sure [шУр] {прилагательное} верный; уверенный'>**sure**<span class='tip-text'> </span></span> about the Voigt-Kampff test now? You're certain, after Seattle, that..."
+
+«Полоков притворяется особенным, тупоголовым. Вот что доставило Дейву проблемы. Полоков очень хороший актер. Ты уверен насчет теста Фойгта-Кампфа сейчас? Ты уверен, после Сиэтла, что...»
+
+"I am," Rick said <span class='tip-wrap' data-text='shortly [шОртли] {наречие} вскоре [3]; незадолго [3]; коротко [3]; быстро [2]; вкратце [2]'>**shortly**<span class='tip-text'> </span></span>. He did not explain.
+
+«Да», — коротко сказал Рик. Он не объяснил.
+
+"OK," said Bryant. "But we can't <span class='tip-wrap' data-text='afford [эфОрд] {глагол} позволять себе'>**afford**<span class='tip-text'> </span></span> a single mistake."
+
+«Хорошо», сказал Брайант. «Но мы не можем позволить себе ни одной ошибки».
+
+"I already <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> my first Nexus-6," Rick told him. "And Dave <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> two. Three, if you count Polokov. I'll kill Polokov today, and then maybe tonight or tomorrow talk to Dave." He took the sheet with the information about Polokov from Bryant.
+
+«Я уже нашел свой первый Нексус-6», — сказал ему Рик. «И Дэйв нашел двоих. Трех, если считать Полокова. Я убью Полокова сегодня, а потом, может быть, сегодня вечером или завтра поговорю с Дэйвом». Лист с информацией о Полокове он взял у Брайанта.
+
+"One more thing," said Bryant. "A Russian policeman is on his way here. I had a call from him while you were in Seattle. Sandor Kadalyi, his name is."
+
+«Еще одна вещь», — сказал Брайант. «Сюда едет российский полицейский. Он мне звонил, пока вы были в Сиэтле. Его зовут Шандор Кадалии».
+
+"What does he want?"
+
+"Что же он хочет?"
+
+"The Russians are also interested in the new Nexus-6 types. They want their man with you to watch - and to help, if he can. I agreed. You won't have to <span class='tip-wrap' data-text='share [шЕр] {глагол} делиться; разделять'>**share**<span class='tip-text'> </span></span> the money, <span class='tip-wrap' data-text='though [ðOу] {наречие} однако [2]; все же [2]'>**though**<span class='tip-text'> </span></span>," Bryant added, noticing Rick's <span class='tip-wrap' data-text='expression [ыкспрЕшэн] {существительное} выражение'>**expression**<span class='tip-text'> </span></span>.
+
+"Русские также заинтересованы в новых типах Nexus-6. Они хотят, чтобы их человек с вами наблюдал и помогал, если сможет. Я согласился. Однако вам не придется делиться деньгами", - добавил Брайант. заметив выражение лица Рика.
+
+Rick studied the <span class='tip-wrap' data-text='description [дыскрЫпшэн] {существительное} описание [3]'>**description**<span class='tip-text'> </span></span> of Polokov and noted his address and place of work.
+
+Рик изучил описание Полокова и отметил его адрес и место работы.
+
+"Do you want to wait for the Russian before you go after the android?" Bryant asked. "He's coming by Aeroflot rocket and it lands soon."
+
+«Хочешь дождаться русского, прежде чем идти за андроидом?» — спросил Брайант. «Он прилетит на ракете Аэрофлота, и она скоро приземлится».
+
+"I work <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span>," Rick answered <span class='tip-wrap' data-text='shortly [шОртли] {наречие} вскоре [3]; незадолго [3]; коротко [3]; быстро [2]; вкратце [2]'>**shortly**<span class='tip-text'> </span></span>. "I'll start now and Kadalyi can find me."
+
+«Я работаю один», - коротко ответил Рик. «Я начну сейчас, и Кадали сможет меня найти».
+
+"OK. And after Polokov, the next android is a Miss Luba Luft. Here's the sheet on her."
+
+— Хорошо. А после Полокова следующий андроид — это мисс Люба Люфт. Вот листок на нее.
+
+Rick left Bryant's office and returned to his hovercar. Here I come, Polokov, he thought, and he ran his fingers over his laser gun.
+
+Рик покинул офис Брайанта и вернулся в свой ховеркар. Вот и я, Полоков, подумал он и провел пальцами по лазерному пистолету.
+
+His first stop was the company where Polokov worked. It was a large, modern building - you could <span class='tip-wrap' data-text='become [быкАм] {глагол} становиться'>**become**<span class='tip-text'> </span></span> very rich these days by collecting rubbish. An <span class='tip-wrap' data-text='official [эфЫшэл] {существительное} чиновник'>**official**<span class='tip-text'> </span></span> there checked the timetables.
+
+Первой его остановкой стала компания, где работал Полоков. Это было большое современное здание — в наши дни можно было очень разбогатеть, собирая мусор. Тамошний чиновник проверил расписание.
+
+"Polokov should be at work," he said, after he had looked <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> them for a moment. He made a call to someone in the building, and then turned back to Rick. "Polokov didn't come to work this morning. No explanation. What's he done, officer?"
+
+«Полоков должен быть на работе», — сказал он, просматривая их некоторое время. Он позвонил кому-то в здании, а затем снова повернулся к Рику. — Полоков сегодня утром на работу не пришел. Никаких объяснений. Что он сделал, офицер?
+
+"If he comes in," Rick said, "don't tell him I was asking about him. Do you understand?"
+
+«Если он придет, — сказал Рик, — не говори ему, что я спрашивал о нем. Ты понимаешь?»
+
+"Of course I understand," the <span class='tip-wrap' data-text='official [эфЫшэл] {существительное} чиновник'>**official**<span class='tip-text'> </span></span> answered coldly, "I do know a little about police work."
+
+«Конечно, я понимаю, — холодно ответил чиновник, — я немного разбираюсь в работе полиции».
+
+Next Rick flew to Polokov's apartment building. Bryant and Holden waited too long, he thought to himself. I should have looked for him last night as soon as Dave was hit.
+
+Далее Рик полетел в дом Полокова. Брайант и Холден ждали слишком долго, подумал он про себя. Мне следовало поискать его вчера вечером, как только Дэйва сбили.
+
+It was a <span class='tip-wrap' data-text='dark [дАрк] {существительное} темнота [2]; тьма [2]; тень [1]; потемки [1]; неведение [1]; невежество [1]'>**dark**<span class='tip-text'> </span></span>, <span class='tip-wrap' data-text='dirty [дЭрти] {прилагательное} грязный [3]'>**dirty**<span class='tip-text'> </span></span> building. He <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> Polokov's floor and used his police torch to look again at his information sheet. The Voigt-Kampff test had been given to Polokov, so Rick could <span class='tip-wrap' data-text='forget [фэргЕт] {глагол} забывать'>**forget**<span class='tip-text'> </span></span> that part and kill him on <span class='tip-wrap' data-text='sight [сАйт] {существительное} взгляд (также зрение)'>**sight**<span class='tip-text'> </span></span>.
+
+Это было темное, грязное здание. Он нашел этаж Полокова и с помощью полицейского фонарика еще раз просмотрел его информационный листок. Полокову дали тест Фойгта-Кампфа, так что Рик мог забыть эту часть и убить его, как только увидит.
+
+From out here, he decided. He took out his <span class='tip-wrap' data-text='mood [мУд] {существительное} настроение [3]; наклонение [2]'>**mood**<span class='tip-text'> </span></span> weapon, protected himself <span class='tip-wrap' data-text='carefully [кЕрфэли] {наречие} бережно'>**carefully**<span class='tip-text'> </span></span> and turned it on. The weapon sent out electrical waves that prevented everyone in the area, human beings and androids, from moving even a finger. He used a <span class='tip-wrap' data-text='special [спЕшэл] {прилагательное} особый (также специальный)'>**special**<span class='tip-text'> </span></span> key to open the apartment door and walked in with his torch in his hand.
+
+Отсюда, решил он. Он достал свое оружие настроения, тщательно защитился и включил его. Оружие излучало электрические волны, которые не позволяли всем, кто находился в этом районе, будь то люди или андроиды, пошевелить даже пальцем. Он использовал специальный ключ, чтобы открыть дверь квартиры, и вошел с фонариком в руке.
+
+No Polokov. Only broken <span class='tip-wrap' data-text='furniture [фЭрнычэр] {существительное} мебель [3]'>**furniture**<span class='tip-text'> </span></span> and dust; nothing personal at all. I knew it, Rick said to himself. He's <span class='tip-wrap' data-text='probably [прАбэблИ] {наречие} вероятно'>**probably**<span class='tip-text'> </span></span> left San Francisco. Someone else is going to <span class='tip-wrap' data-text='earn [Эрн] {глагол} зарабатывать'>**earn**<span class='tip-text'> </span></span> those thousand dollars now. So... on to Luba Luft.
+
+Нет Полокова. Только сломанная мебель и пыль; вообще ничего личного. «Я знал это», — сказал себе Рик. Вероятно, он уехал из Сан-Франциско. Кто-то другой сейчас заработает эту тысячу долларов. Итак... перейдем к Любе Люфт.
+
+Back on the <span class='tip-wrap' data-text='roof [рУф] {существительное} крыша [3]; кровля [2]; потолок [2]'>**roof**<span class='tip-text'> </span></span> in his hovercar, he reported by phone to Inspector Bryant.
+
+Вернувшись на крышу своего автомобиля на воздушной подушке, он доложил по телефону инспектору Брайанту.
+
+"Polokov has escaped. Do you want me to <span class='tip-wrap' data-text='pick [пЫк] {глагол} выбирать'>**pick**<span class='tip-text'> </span></span> up Kadalyi at the field before I look for Luba Luft?"
+
+«Полоков сбежал. Хотите, чтобы я забрал Кадалого на поле, прежде чем искать Любу Люфт?»
+
+"He's already here. His rocket arrived early," Bryant said. "Just a moment." There was a pause. "He'll go and meet you now. Stay where you are."
+
+«Он уже здесь. Его ракета прибыла рано», — сказал Брайант. "Момент." Наступила пауза. «Он сейчас пойдет и встретит тебя. Оставайся там, где стоишь».
+
+While he waited, Rick read about Luba Luft. She was an opera singer working for the San Francisco Opera Company. She had told the company she was from Germany. She must have a good voice to make connections so fast, he thought. I'll pretend to be an opera lover. We can talk about music while I prepare the test instruments.
+
+Пока он ждал, Рик прочитал о Любе Люфт. Она была оперной певицей, работавшей в Оперной труппе Сан-Франциско. Она сказала компании, что она из Германии. Должно быть, у нее хороший голос, чтобы так быстро устанавливать связи, подумал он. Я притворюсь любителем оперы. Мы можем поговорить о музыке, пока я готовлю тестовые инструменты.
+
+The car phone rang. Rick answered, and Rachael Rosen's face appeared. "<span class='tip-wrap' data-text='hello [хэлOу] {междометие} привет [3]'>**Hello**<span class='tip-text'> </span></span>, Officer Deckard." Her voice was friendly. "Are you busy or can I talk to you?"
+
+Зазвонил автомобильный телефон. Рик ответил, и появилось лицо Рэйчел Роузен. «Здравствуйте, офицер Декард». Ее голос был дружелюбным. — Ты занят или я могу с тобой поговорить?
+
+"I have a little time."
+
+«У меня есть немного времени».
+
+"We've been discussing your situation here at the corporation. <span class='tip-wrap' data-text='since [сЫнс] {предлог} с (также после)'>**Since**<span class='tip-text'> </span></span> we know the Nexus-6 types well, we think one of us should help you trap them."
+
+«Мы обсуждали вашу ситуацию здесь, в корпорации. Поскольку мы хорошо знаем типы Нексус-6, мы думаем, что один из нас должен помочь вам поймать их».
+
+"How?"
+
+"Как?"
+
+"By coming with you. You'll have more success if another Nexus-6 contacts them."
+
+«Пойдем с тобой. Ты добьешься большего успеха, если с ними свяжется еще один Нексус-6».
+
+"You?"
+
+"Ты?"
+
+"Yes." Her <span class='tip-wrap' data-text='expression [ыкспрЕшэн] {существительное} выражение'>**expression**<span class='tip-text'> </span></span> was serious.
+
+"Да." Выражение ее лица было серьезным.
+
+"I've got too much help already. I'll think about it and call you." At some <span class='tip-wrap' data-text='distant [дЫстэнт] {прилагательное} далекий [2]; отдаленный [2]; дальний [2]; сдержанный [1]; холодный [1]; слабый [1]; сухой [1]; давний [1]; неуловимый [1]; прошлый [1]'>**distant**<span class='tip-text'> </span></span> future time, he thought. <span class='tip-wrap' data-text='probably [прАбэблИ] {наречие} вероятно'>**Probably**<span class='tip-text'> </span></span> never.
+
+«Мне уже слишком много помощи. Я подумаю об этом и позвоню тебе». «В каком-то далеком будущем», — подумал он. Наверное, никогда.
+
+"You won't call me," Rachael said. "We feel we should help because of - you know. What we did."
+
+«Ты не позвонишь мне», сказала Рэйчел. «Мы чувствуем, что должны помочь из-за… ну, вы знаете. того, что мы сделали».
+
+"No, thank you." Rick started to put the phone down.
+
+"Нет, спасибо." Рик начал откладывать трубку.
+
+"Without me," Rachael said, "one of them will kill you before you can kill it."
+
+«Без меня, — сказала Рэйчел, — один из них убьет тебя прежде, чем ты сможешь убить его».
+
+"Goodbye," Rick said and hung up. An android offering him her help! What kind of world was this?
+
+«До свидания», — сказал Рик и повесил трубку. Андроид предлагает ему свою помощь! Что это был за мир?
+
+A hovercar taxi landed on the <span class='tip-wrap' data-text='roof [рУф] {существительное} крыша [3]; кровля [2]; потолок [2]'>**roof**<span class='tip-text'> </span></span>. A man with a red face in his mid-fifties and wearing a big Russian <span class='tip-wrap' data-text='coat [кOут] {существительное} пальто [3]; слой [3]; шерсть [2]; пиджак [2]; оболочка [2]; шубка [2]'>**coat**<span class='tip-text'> </span></span> climbed out. He smiled at Rick and walked <span class='tip-wrap' data-text='across [экрОс] {предлог} через'>**across**<span class='tip-text'> </span></span> to his car as the taxi left.
+
+На крышу приземлилось такси на воздушной подушке. Из машины вышел краснолицый мужчина лет пятидесяти пяти в большом русском пальто. Он улыбнулся Рику и подошел к своей машине, когда такси уехало.
+
+"Mr Deckard?" the man said, with a strong accent. "I'm Sandor Kadalyi." He opened the door to Rick's car and got in <span class='tip-wrap' data-text='beside [бысАйд] {предлог} рядом с'>**beside**<span class='tip-text'> </span></span> him. They shook hands and Rick noticed that he carried a <span class='tip-wrap' data-text='strange [стрЕйндж] {прилагательное} странный; чужой'>**strange**<span class='tip-text'> </span></span> kind of laser gun.
+
+«Мистер Декард?» — сказал мужчина с сильным акцентом. «Я Шандор Кадалии». Он открыл дверь машины Рика и сел рядом с ним. Они пожали друг другу руки, и Рик заметил, что у него при себе странный лазерный пистолет.
+
+Kadalyi's eyes followed his. "This?" Kadalyi asked, showing it to him. "Interesting, isn't it? I got it on Mars. Try it."
+
+Взгляд Кадалии проследил за ним. "Этот?" — спросил Кадалии, показывая ему это. «Интересно, не правда ли? Я получил это на Марсе. Попробуйте».
+
+Rick pointed it out of the window and fired. Nothing.
+
+Рик направил его в окно и выстрелил. Ничего.
+
+"You need this," Kadalyi said, laughing, and opened his hand. There was a small <span class='tip-wrap' data-text='piece [пИс] {существительное} кусок (также пьеса)'>**piece**<span class='tip-text'> </span></span> of metal in it. "You fire with this, and it doesn't <span class='tip-wrap' data-text='matter [мЭтэр] {глагол} иметь значение'>**matter**<span class='tip-text'> </span></span> what the gun is aimed at."
+
+«Тебе это нужно», — сказал Кадалии, смеясь, и разжал руку. Там был небольшой кусок металла. «Вы стреляете из этого, и не имеет значения, на что направлен пистолет».
+
+"You're not a Russian policeman, you're Polokov," Rick suddenly realized. With his foot he touched the emergency <span class='tip-wrap' data-text='button [бАтэн] {существительное} кнопка [3]'>**button**<span class='tip-text'> </span></span> on the floor of his car.
+
+«Ты не русский милиционер, ты Полоков», — вдруг понял Рик. Ногой он коснулся аварийной кнопки на полу своей машины.
+
+"My laser's not firing," Kadalyi-Polokov said angrily.
+
+«Мой лазер не стреляет», — сердито сказал Кадали-Полоков.
+
+"I've got <span class='tip-wrap' data-text='equipment [ыкуЫпмэнт] {существительное} оборудование'>**equipment**<span class='tip-text'> </span></span> in this car," Rick said, "that breaks up the laser beam and spreads it out into ordinary light."
+
+«В этой машине есть оборудование, — сказал Рик, — которое расщепляет лазерный луч и превращает его в обычный свет».
+
+"Then I'll have to break your neck," the android replied and threw himself at Rick.
+
+«Тогда мне придется сломать тебе шею», — ответил андроид и бросился на Рика.
+
+As the android's hands held his throat, Rick fired an old-style gun from its place under his <span class='tip-wrap' data-text='arm [Арм] {существительное} отделение (осн. рука)'>**arm**<span class='tip-text'> </span></span>. The bullet hit the android in the head and the android's brain box burst. The Nexus-6 controls blew into pieces which fell on Rick. He shook them off and, shakily, reached for the car phone.
+
+Руки андроида схватили его за горло, и Рик выстрелил из пистолета старого образца, находившегося у него под мышкой. Пуля попала андроиду в голову, и мозговая коробка андроида лопнула. Элементы управления Нексуса-6 разлетелись на куски, которые упали на Рика. Он стряхнул их и, дрожа, потянулся за автомобильным телефоном.
+
+"Tell Bryant that I got Polokov," he said to the officer who answered. "He'll understand." He breathed <span class='tip-wrap' data-text='deeply [дИпли] {наречие} глубоко [3]'>**deeply**<span class='tip-text'> </span></span>. It almost killed me, he thought. Slowly his heart returned to its normal speed, but he was still shaking. A thousand dollars, he thought. And I reacted faster than Dave. Of course his experience prepared me. Dave had no <span class='tip-wrap' data-text='warning [уОрныŋ] {существительное} предупреждение [3]; предостережение [2]'>**warning**<span class='tip-text'> </span></span>.
+
+«Скажите Брайанту, что у меня есть Полоков», — сказал он ответившему офицеру. «Он поймет». Он глубоко вздохнул. «Это почти убило меня», — подумал он. Медленно его сердце вернулось к нормальной скорости, но его все еще трясло. «Тысяча долларов», — подумал он. И я отреагировал быстрее, чем Дэйв. Конечно, его опыт подготовил меня. Дэйв не получил никакого предупреждения.
+
+Rick lit a cigarette, then picked up the phone again and rang his home number. He saw his wife's miserable face in front of him.
+
+Рик закурил сигарету, затем снова взял трубку и набрал свой домашний номер. Он увидел перед собой несчастное лицо своей жены.
+
+"Oh <span class='tip-wrap' data-text='hello [хэлOу] {междометие} привет [3]'>**hello**<span class='tip-text'> </span></span>, Rick."
+
+«О, привет, Рик».
+
+"What happened to the 594 <span class='tip-wrap' data-text='mood [мУд] {существительное} настроение [3]; наклонение [2]'>**mood**<span class='tip-text'> </span></span> that I dialled for you?"
+
+«Что случилось с настроением 594, которое я набрал для тебя?»
+
+"I redialled. What do you want? I'm so tired and I have no hope, none at all. Our marriage is <span class='tip-wrap' data-text='terrible [тЕрэбэл] {прилагательное} страшный'>**terrible**<span class='tip-text'> </span></span>, and you'll be killed by one of those androids, and..."
+
+«Я перезвонила. Чего ты хочешь? Я так устала и у меня нет надежды, совсем нет. Наш брак ужасен, и тебя убьет один из этих андроидов, и…»
+
+"Listen," he said impatiently. "I'm investigating a new kind of android that nobody can trap <span class='tip-wrap' data-text='except [ыксЕпт] {предлог} кроме'>**except**<span class='tip-text'> </span></span> me. I've killed one, so that's a good start. Do you know what we're going to have when I finish?"
+
+— Послушай, — сказал он нетерпеливо. «Я исследую новый вид андроидов, которого никто, кроме меня, не сможет поймать. Я убил одного, так что это хорошее начало. Знаешь, что у нас будет, когда я закончу?»
+
+"Yes," Iran answered. Her eyes were dull and expressionless.
+
+«Да», — ответил Иран. Ее глаза были тусклыми и ничего не выражающими.
+
+"I haven't told you <span class='tip-wrap' data-text='yet [йЕт] {наречие} еще; пока'>**yet**<span class='tip-text'> </span></span>!" He could see that she was too depressed to listen to him. "I'll see you tonight," he finished bitterly, and hung up. Why do I risk my life? he asked himself. She doesn't care about ostriches. We should go our own ways. Most androids have a stronger wish to live than my wife.
+
+— Я тебе еще не сказал! Он видел, что она была слишком подавлена, чтобы его слушать. «Увидимся сегодня вечером», — горько закончил он и повесил трубку. Почему я рискую своей жизнью? — спросил он себя. Ей плевать на страусов. Нам следует идти своим путем. У большинства андроидов желание жить сильнее, чем у моей жены.
+
+He thought about Rachael Rosen again. Maybe I could use her if she doesn't want any of the money. He started his hovercar and <span class='tip-wrap' data-text='set [сЕт] {глагол} устанавливать'>**set**<span class='tip-text'> </span></span> out for the opera house. He wondered now about Rachael; some androids seemed very <span class='tip-wrap' data-text='pretty [прЫти] {наречие} довольно'>**pretty**<span class='tip-text'> </span></span>. It was a <span class='tip-wrap' data-text='strange [стрЕйндж] {прилагательное} странный; чужой'>**strange**<span class='tip-text'> </span></span> feeling, reacting to a machine like that. She's too <span class='tip-wrap' data-text='thin [θЫн] {прилагательное} тонкий'>**thin**<span class='tip-text'> </span></span>, he decided. Like a child. How old is Luba Luft? He looked in his notes for her "age". Twenty-eight - in appearance.
+
+Он снова подумал о Рэйчел Розен. Может быть, я мог бы использовать ее, если ей не нужны деньги. Он завел свой ховеркар и отправился в оперный театр. Теперь он думал о Рэйчел; некоторые андроиды показались мне очень красивыми. Это было странное чувство — реагировать на такую машину. Она слишком худая, решил он. Как ребенок. Сколько лет Любе Люфт? Он посмотрел в своих заметках ее «возраст». Двадцать восемь – на вид.
+
+I'll try one more android before I ask Rachael for help, Rick decided. If Miss Luft is really hard - but I think Polokov was <span class='tip-wrap' data-text='probably [прАбэблИ] {наречие} вероятно'>**probably**<span class='tip-text'> </span></span> the hardest. The others don't know I'm coming for them.
+
+«Я попробую еще одного андроида, прежде чем попрошу о помощи Рэйчел», — решил Рик. Если Мисс Люфт действительно тяжелая – но я думаю, что Полокову было, наверное, сложнее всех. Остальные не знают, что я иду за ними.
+
+As he landed on the <span class='tip-wrap' data-text='roof [рУф] {существительное} крыша [3]; кровля [2]; потолок [2]'>**roof**<span class='tip-text'> </span></span> of the opera house, he was singing loudly. He had no <span class='tip-wrap' data-text='mood [мУд] {существительное} настроение [3]; наклонение [2]'>**mood**<span class='tip-text'> </span></span> machine in the car, but he was happy again. And ready.
+
+Когда он приземлился на крышу оперного театра, он громко пел. У него не было настроения, машина в машине, но он снова был счастлив. И готово.
+
+The singers were rehearsing when he sat down in the main hall. He recognized the music immediately, because he loved Mozart. It took longer, <span class='tip-wrap' data-text='though [ðOу] {наречие} однако [2]; все же [2]'>**though**<span class='tip-text'> </span></span>, before he recognized the woman in front of him as Luba Luft. His third Nexus-6 android. She sang, and her voice was fantastic, one of the best that he had <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span> heard. The Rosen Corporation built her well, he admitted to himself. But then the <span class='tip-wrap' data-text='better [бЕтэр] {прилагательное} лучший'>**better**<span class='tip-text'> </span></span> she sings, the more I'm needed. There was no problem <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> the quality of androids became so high.
+
+Певцы репетировали, когда он сел в главном зале. Он сразу узнал музыку, потому что любил Моцарта. Однако потребовалось больше времени, прежде чем он узнал в женщине перед собой Любу Люфт. Его третий андроид Нексус-6. Она пела, и ее голос был фантастическим, одним из лучших, которые он когда-либо слышал. «Корпорация Розен» построила ее хорошо, признался он себе. Но чем лучше она поет, тем больше я нужен. Никаких проблем не было, пока качество андроидов не стало настолько высоким.
+
+The practice ended. Rick followed the last singers to the dressing-rooms and <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> a door with MISS LUFT PRIVATE on it. He knocked.
+
+Практика закончилась. Рик проследовал за последними певцами в гримерные и нашел дверь с надписью «МИСС ЛЮФТ ЧАСТНАЯ». Он постучал.
+
+"Come in!"
+
+"Войдите!"
+
+He entered. The girl was studying her sheets of music and using a pen to make notes on them.
+
+Он вошел. Девушка изучала свои ноты и делала на них ручкой пометки.
+
+"Yes?" she said, looking up. "I am busy, as you can see." Her English was <span class='tip-wrap' data-text='completely [кэмплИтли] {наречие} полностью'>**completely**<span class='tip-text'> </span></span> without accent.
+
+"Да?" — сказала она, поднимая взгляд. — Я занят, как видишь. Ее английский был совершенно без акцента.
+
+"You're an <span class='tip-wrap' data-text='excellent [Ексэлэнт] {прилагательное} отличный [3]; превосходный [2]; великолепный [2]'>**excellent**<span class='tip-text'> </span></span> singer," Rick said.
+
+«Ты превосходный певец», — сказал Рик.
+
+"Who are you?" Her voice was cold, like the voices of many androids.
+
+"Кто ты?" Ее голос был холодным, как голоса многих андроидов.
+
+"I'm from the San Francisco Police," he told her.
+
+«Я из полиции Сан-Франциско», — сказал он ей.
+
+"Oh?" There was no reaction in her eyes. "What do you want?"
+
+"Ой?" В ее глазах не было никакой реакции. "Что ты хочешь?"
+
+"I've been sent here to give you a test."
+
+«Меня послали сюда, чтобы дать вам тест».
+
+"An <span class='tip-wrap' data-text='intelligence [ЫнтЕлэджэнс] {существительное} интеллект; разведка'>**intelligence**<span class='tip-text'> </span></span> test?"
+
+«Тест на интеллект?»
+
+"No. Empathy."
+
+«Нет. Сочувствие».
+
+"I'll have to put on my glasses." She started to look for them.
+
+«Мне придется надеть очки». Она начала их искать.
+
+"If you can make notes on your music without your glasses, you can do the test without them. I'll show you some pictures and ask you some questions." Rick prepared his instruments, attached the wires to her face and shone a light in her eyes. "That's it," he told her.
+
+«Если вы можете делать заметки под свою музыку без очков, вы можете пройти тест без них. Я покажу вам несколько фотографий и задам несколько вопросов». Рик подготовил свои инструменты, прикрепил провода к ее лицу и посветил ей в глаза. «Вот и все», сказал он ей.
+
+"Do you think I'm an android? I'm not. I've never been to Mars. I've never even seen an android!" She was trying to stay calm. "Have you got information about an android here in the opera house? I'll help you. If I were an android, would I help you?"
+
+«Вы думаете, что я андроид? Это не так. Я никогда не был на Марсе. Я даже никогда не видел андроида!» Она старалась сохранять спокойствие. «У вас есть информация об андроиде здесь, в оперном театре? Я вам помогу. Если бы я был андроидом, я бы вам помог?»
+
+"An android," Rick answered, "doesn't care about other androids. That's one of the signs we look for."
+
+«Андроид, — ответил Рик, — не заботится о других андроидах. Это один из признаков, который мы ищем».
+
+"Then," Miss Luft said, "you must be an android."
+
+«Тогда, — сказала мисс Люфт, — вы, должно быть, андроид».
+
+This stopped him; he stared at her.
+
+Это остановило его; он уставился на нее.
+
+"Because," she continued, "your job is to kill them, isn't it? This test you want to give me..." Her voice was growing stronger. "Have you taken it?"
+
+«Потому что, — продолжила она, — твоя работа — убивать их, не так ли? Это испытание, которое ты хочешь устроить мне…» Ее голос становился сильнее. — Ты взял это?
+
+"Yes. A long time ago. When I first worked for the police."
+
+«Да. Давным-давно. Когда я впервые работал в полиции».
+
+"Maybe that's a <span class='tip-wrap' data-text='false [фОлс] {прилагательное} ложный [3]; фальшивый [2]'>**false**<span class='tip-text'> </span></span> memory. Don't androids sometimes have <span class='tip-wrap' data-text='false [фОлс] {прилагательное} ложный [3]; фальшивый [2]'>**false**<span class='tip-text'> </span></span> memories? I'll take the test if you take it first."
+
+«Может быть, это ложная память. Разве у андроидов иногда не бывает ложных воспоминаний? Я пройду тест, если ты сдашь его первым».
+
+He stared at her again, and then shook his head. "You need experience to give the Voigt-Kampff test. Now please listen <span class='tip-wrap' data-text='carefully [кЕрфэли] {наречие} бережно'>**carefully**<span class='tip-text'> </span></span>. I'm going to describe situations to you. I want you to tell me what you'd do in those situations. And I want you to answer quickly. The speed of your reaction is important."
+
+Он снова посмотрел на нее, а затем покачал головой. «Чтобы пройти тест Фойгта-Кампфа, вам нужен опыт. Теперь, пожалуйста, слушайте внимательно. Я собираюсь описать вам ситуации. Я хочу, чтобы вы сказали мне, что вы будете делать в таких ситуациях. И я хочу, чтобы вы ответили быстро. Важна скорость вашей реакции».
+
+He chose his first question. "You are watching an old film on television, a film from before the war. It shows a meal. The main dish is boiled dog with <span class='tip-wrap' data-text='rice [рАйс] {существительное} рис [3]'>**rice**<span class='tip-text'> </span></span>."
+
+Он выбрал свой первый вопрос. «Вы смотрите по телевизору старый фильм, фильм довоенного времени. Там показана еда. Основное блюдо — вареная собака с рисом».
+
+"Nobody kills and eats dogs," Luba Luft said. "They're too <span class='tip-wrap' data-text='expensive [ыкспЕнсыв] {прилагательное} дорогой'>**expensive**<span class='tip-text'> </span></span>. You mean a <span class='tip-wrap' data-text='false [фОлс] {прилагательное} ложный [3]; фальшивый [2]'>**false**<span class='tip-text'> </span></span> dog. But those are made of wires and motors. You can't eat them."
+
+«Никто не убивает и не ест собак», — сказала Люба Люфт. «Они слишком дорогие. Вы имеете в виду фальшивую собаку. Но они сделаны из проводов и моторов. Их нельзя есть».
+
+"Before the war," Rick said crossly.
+
+«До войны», — сердито сказал Рик.
+
+"I wasn't <span class='tip-wrap' data-text='alive [элАйв] {прилагательное} живой'>**alive**<span class='tip-text'> </span></span> before the war."
+
+«До войны меня не было в живых».
+
+"But you've seen old films on television."
+
+«Но вы же видели старые фильмы по телевидению».
+
+"Was the film made in the Philippines?"
+
+«Фильм был снят на Филиппинах?»
+
+"Why?" Rick was losing his patience.
+
+"Почему?" Рик терял терпение.
+
+"Because they ate dog with <span class='tip-wrap' data-text='rice [рАйс] {существительное} рис [3]'>**rice**<span class='tip-text'> </span></span> in the Philippines. I remember that."
+
+«Потому что на Филиппинах ели собаку с рисом. Я это помню».
+
+"But your reaction," he said. "I want your reaction."
+
+«Но ваша реакция», - сказал он. «Мне нужна твоя реакция».
+
+"To the film?" She thought about it. "I'd turn it off and watch Buster Friendly."
+
+«В фильм?» Она подумала об этом. «Я бы выключил его и посмотрел Buster Friendly».
+
+"Why would you turn it off?"
+
+«Зачем тебе его выключить?»
+
+"Well," she answered. "Who wants to watch an old film about the Philippines?" She looked at him angrily. The needles were moving violently, but after a conversation like that the movements were meaningless.
+
+«Ну», ответила она. «Кто хочет посмотреть старый фильм о Филиппинах?» Она сердито посмотрела на него. Иглы сильно двигались, но после такого разговора движения были бессмысленными.
+
+He paused, then said. "You rent a little house in the mountains."
+
+Он сделал паузу, затем сказал. «Вы снимаете домик в горах».
+
+"OK."
+
+"ХОРОШО."
+
+"Above the fireplace is a deer's head..."
+
+«Над камином голова оленя…»
+
+"What's a deer?"
+
+«Что такое олень?»
+
+"It's an animal that used to live in the woods. People killed them for sport."
+
+«Это животное, которое раньше жило в лесу. Люди убивали его ради развлечения».
+
+"Tell me the German word."
+
+«Назови мне немецкое слово».
+
+He couldn't remember it. "Your English is perfect," he said angrily.
+
+Он не мог этого вспомнить. «Твой английский идеален», — сердито сказал он.
+
+"My accent is perfect. It has to be for the singing. But there are many words I don't know."
+
+«У меня идеальный акцент. Должно быть, он для пения. Но есть много слов, которых я не знаю».
+
+He did not know whether she was acting or not. He decided to try another question. "A man invites you to his apartment. While you're there..."
+
+Он не знал, играет она или нет. Он решил попробовать еще один вопрос. «Мужчина приглашает тебя в свою квартиру. Пока ты там…»
+
+"Oh no," Luba said quickly, "I wouldn't be there. That's easy to answer."
+
+«О нет, — быстро сказала Люба, — меня бы там не было. На это легко ответить».
+
+"That's not the question!"
+
+«Это не вопрос!»
+
+"Did you read the wrong question?" She rubbed her face and the wires fell to the floor.
+
+«Вы прочитали неправильный вопрос?» Она потерла лицо, и провода упали на пол.
+
+"I'll get them," Rick said. When he stood up again, a laser gun was pointing at him.
+
+«Я принесу их», сказал Рик. Когда он снова встал, на него был направлен лазерный пистолет.
+
+"Questions about men's apartments," said Luba Luft confidently, "are not very nice. You're not from the police."
+
+«Вопросы о мужских квартирах, — уверенно сказала Люба Люфт, — не очень приятные. Вы не из полиции».
+
+"You can see my card," he said, putting his hand in his pocket. He was shaking again, he noticed.
+
+«Вы можете увидеть мою визитку», — сказал он, засунув руку в карман. Он заметил, что его снова трясло.
+
+"If you remove that hand from your pocket," Luba Luft said, "I'll kill you." She picked up her videophone and dialled a number. "Connect me to the San Francisco Police Station," she ordered. "I need a policeman."
+
+«Если ты вытащишь эту руку из кармана, — сказала Люба Люфт, — я тебя убью». Она взяла видеотелефон и набрала номер. «Соедините меня с полицейским участком Сан-Франциско», — приказала она. «Мне нужен полицейский».
+
+"That's very sensible of you," Rick said when she hung up. But it was <span class='tip-wrap' data-text='strange [стрЕйндж] {прилагательное} странный; чужой'>**strange**<span class='tip-text'> </span></span>. Why didn't she kill him? She couldn't do it after the officer arrived.
+
+«Это очень разумно с твоей стороны», — сказал Рик, когда она повесила трубку. Но это было странно. Почему она не убила его? Она не смогла этого сделать после прибытия офицера.
+
+A few minutes later a large man in police uniform entered the room.
+
+Через несколько минут в комнату вошел крупный мужчина в полицейской форме.
+
+"All right," he said to Luba Luft. "Put that gun down." Then he turned to Rick. "Who are you?" he asked.
+
+«Хорошо», — сказал он Любе Люфт. «Опусти пистолет». Затем он повернулся к Рику. "Кто ты?" он спросил.
+
+Luba Luft said, "He came in here and wanted to ask me questions - very rude, personal questions to ask a woman."
+
+Люба Люфт сказала: «Он пришёл сюда и хотел задать мне вопросы — очень грубые, личные вопросы, которые можно задать женщине».
+
+"Show me your card," the officer said to Rick.
+
+«Покажи мне свою визитку», — сказал офицер Рику.
+
+Rick gave it to him. "I'm an android <span class='tip-wrap' data-text='killer [кЫлэр] {существительное} убийца [3]; киллер [2]'>**killer**<span class='tip-text'> </span></span>," he explained, "I work for Inspector Harry Bryant. I'm working with Dave Holden's list now he's in hospital."
+
+Рик дал ему это. «Я убийца андроидов, — объяснил он. — Я работаю на инспектора Гарри Брайанта. Я работаю со списком Дэйва Холдена, сейчас он в больнице».
+
+"I know all the android killers and I've never heard of you," the police officer said. "Or Inspector Bryant." Rick realized what was happening.
+
+«Я знаю всех убийц-андроидов и никогда о вас не слышал», — сказал полицейский. «Или инспектор Брайант». Рик понял, что происходит.
+
+"You're an android," he told the man. "Like Miss Luft." He walked <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the phone. "Let me talk to Inspector Bryant," he said. Why weren't the androids trying to stop him? The officer was not looking at him; he was talking to Luba Luft.
+
+«Ты андроид», — сказал он мужчине. «Как мисс Люфт». Он подошел к телефону. «Позвольте мне поговорить с инспектором Брайантом», - сказал он. Почему андроиды не пытались его остановить? Офицер не смотрел на него; он разговаривал с Любой Люфт.
+
+There was a pause after he dialled, and then Bryant's face appeared. Rick explained the problem.
+
+После того, как он набрал номер, возникла пауза, а затем появилось лицо Брайанта. Рик объяснил проблему.
+
+"Let me talk to the officer," Bryant said. Rick held out the phone to the police officer.
+
+«Позвольте мне поговорить с офицером», — сказал Брайант. Рик протянул телефон полицейскому.
+
+"Officer Crams... <span class='tip-wrap' data-text='hello [хэлOу] {междометие} привет [3]'>**Hello**<span class='tip-text'> </span></span>?" The man listened for a moment and then turned to Rick. "There's nobody there." Rick looked at the video screen. Nothing. "I'm going to take you to the police station and question you there," Crams continued.
+
+«Офицер Крамс... Алло?» Мужчина какое-то время слушал, а затем повернулся к Рику. «Там никого нет». Рик посмотрел на видеоэкран. Ничего. «Я собираюсь отвезти вас в полицейский участок и допросить там», — продолжил Крамс.
+
+"OK," Rick said. And, to Luba Luft, "I haven't finished <span class='tip-wrap' data-text='testing [тЕстыŋ] {существительное} тестирование [3]'>**testing**<span class='tip-text'> </span></span> you <span class='tip-wrap' data-text='yet [йЕт] {наречие} еще; пока'>**yet**<span class='tip-text'> </span></span>. I'll be back soon."
+
+«ОК», сказал Рик. И Любе Люфт: «Я еще не закончила тебя тестировать. Скоро вернусь».
+
+Officer Crams searched Rick and took his guns. He smelt the old one. "This has just been fired," he said.
+
+Офицер Крамс обыскал Рика и забрал его оружие. Он почувствовал запах старого. «Это только что уволили», - сказал он.
+
+"I killed an android. The pieces are in my car."
+
+«Я убил андроида. Обломки у меня в машине».
+
+"We'll go up and have a look then."
+
+— Тогда мы поднимемся и посмотрим.
+
+"Don't let him come near me again, officer," Luba Luft said as they left. "He's very <span class='tip-wrap' data-text='strange [стрЕйндж] {прилагательное} странный; чужой'>**strange**<span class='tip-text'> </span></span>. I'm afraid of him."
+
+«Не позволяйте ему больше приближаться ко мне, офицер», — сказала Люба Люфт, когда они уходили. «Он очень странный. Я его боюсь».
+
+"If he's got a dead body in the car, he won't return," Crams told her. He pushed Rick and they went up to the <span class='tip-wrap' data-text='roof [рУф] {существительное} крыша [3]; кровля [2]; потолок [2]'>**roof**<span class='tip-text'> </span></span>. Crams opened the door to Rick's hovercar and looked silently at the pieces of Polokov.
+
+«Если у него в машине труп, он не вернется», — сказал ей Крамс. Он толкнул Рика, и они поднялись на крышу. Крамс открыл дверь ховеркара Рика и молча посмотрел на куски Полокова.
+
+"An android," Rick said, "I was sent to find it. It almost killed me when it pretended to be..."
+
+«Андроид, — сказал Рик, — меня послали найти его. Он чуть не убил меня, когда притворился…»
+
+"Wait <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> we arrive at the police station." He led Rick to the police car, and they climbed in.
+
+«Подождите, пока мы не приедем в полицейский участок». Он повел Рика к полицейской машине, и они сели в нее.
+
+Something, Rick noticed after a moment, was not right. They were going the wrong way.
+
+Что-то, как через мгновение заметил Рик, было не так. Они шли неверным путем.
+
+"The police station," he said, "is north on Lombard."
+
+«Полицейский участок, — сказал он, — находится на севере Ломбардии».
+
+"That's the old one," Officer Crams said. "It's just dust now. Nobody uses it. The new one is on Mission."
+
+«Это старый», — сказал офицер Крамс. «Теперь это просто пыль. Никто им не пользуется. Новый находится на Миссии».
+
+"Take me to the old one," Rick said. He understood now what the two androids, working together, had done. This was <span class='tip-wrap' data-text='probably [прАбэблИ] {наречие} вероятно'>**probably**<span class='tip-text'> </span></span> his last ride.
+
+«Отвези меня к старому», — сказал Рик. Теперь он понял, что сделали два андроида, работая вместе. Вероятно, это была его последняя поездка.
+
+"That girl's very <span class='tip-wrap' data-text='pretty [прЫти] {наречие} довольно'>**pretty**<span class='tip-text'> </span></span>," Officer Crams said.
+
+«Эта девушка очень красивая», — сказал офицер Крамс.
+
+"Tell me that you're an android," said Rick.
+
+«Скажи мне, что ты андроид», — сказал Рик.
+
+"Why? I'm not an android. What do you do? Kill people and tell yourself they're android. You're dangerous. I agree with Miss Luft. Maybe you're an android with a <span class='tip-wrap' data-text='false [фОлс] {прилагательное} ложный [3]; фальшивый [2]'>**false**<span class='tip-text'> </span></span> memory. Have you thought of that?" Crams smiled.
+
+«Почему? Я не андроид. Что вы делаете? Убивайте людей и говорите себе, что они андроиды. Вы опасны. Я согласен с мисс Люфт. Может быть, вы андроид с ложной памятью. Вы думали того, что?" Крамс улыбнулся.
+
+Rick knew there was nothing he could say. He sat and waited. The androids had trapped him now. But I did get one of them, he told himself. And Dave got two.
+
+Рик знал, что ему нечего сказать. Он сидел и ждал. Андроиды поймали его в ловушку. «Но я получил один из них», — сказал он себе. А Дэйв получил два.
+
+Officer Crams" police car prepared to land.
+
+Полицейская машина офицера Крамса готовится к приземлению.
+
+CHAPTER FIVE
+
+ГЛАВА ПЯТАЯ
+
+On Trial
+
+На суде
+
+The Mission Street police station was an <span class='tip-wrap' data-text='exciting [ыксАйтыŋ] {прилагательное} захватывающий [3]; возбуждающий [2]; волнующий [2]'>**exciting**<span class='tip-text'> </span></span> modern building. Rick Deckard liked it - <span class='tip-wrap' data-text='except [ыксЕпт] {предлог} кроме'>**except**<span class='tip-text'> </span></span> for one thing. He had never seen it before.
+
+Полицейский участок на Мишн-стрит представлял собой впечатляющее современное здание. Рику Декарду понравилось, за исключением одного. Он никогда раньше этого не видел.
+
+"304," Officer Crams said to the man on the front desk, "and 612.4. And pretending to work for the police."
+
+«304», — сказал офицер Крамс мужчине на стойке регистрации, — «и 612.4. И притворяется, что работает на полицию».
+
+"That's 406.7," the other man said, and completed the <span class='tip-wrap' data-text='necessary [нЕсэсЕри] {прилагательное} необходимый'>**necessary**<span class='tip-text'> </span></span> papers.
+
+«Это 406,7», — сказал другой мужчина и заполнил необходимые документы.
+
+"Over here," Officer Crams said to Rick, leading him to a small white table full of <span class='tip-wrap' data-text='equipment [ыкуЫпмэнт] {существительное} оборудование'>**equipment**<span class='tip-text'> </span></span>. "Head measurements for identification purposes."
+
+«Вот сюда», — сказал офицер Крамс Рику, подводя его к маленькому белому столу, полному оборудования. «Измерения головы в целях идентификации».
+
+"I know," Rick said crossly. In the old days, when he had been a young officer himself, he had brought many people to a table like this. Like this, but not this <span class='tip-wrap' data-text='particular [пэртЫкйэлэр] {прилагательное} особый'>**particular**<span class='tip-text'> </span></span> table.
+
+— Я знаю, — сердито сказал Рик. В прежние времена, когда он сам был молодым офицером, он многих людей собирал за таким столом. Вот так, но не в этой конкретной таблице.
+
+Next, in another room, his clothes were searched and everything he had was listed. It makes no <span class='tip-wrap' data-text='sense [сЕнс] {существительное} смысл (также чувство)'>**sense**<span class='tip-text'> </span></span>, he thought. Who are these people? If this place has always existed, why didn't we know about it? Two police organizations, ours and this one, but no contact between them... <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> now. Or perhaps this isn't the first time. And perhaps these aren't really police officers.
+
+Далее в другой комнате у него обыскали одежду и перечислили все, что у него было. «Это бессмысленно», — подумал он. Кто эти люди? Если это место существовало всегда, почему мы о нем не знали? Две полицейские организации, наша и эта, но между ними нет контакта... до сих пор. Или, возможно, это не первый раз. И, возможно, это не совсем полицейские.
+
+A man, not in uniform, approached Rick slowly and looked at him curiously. "What's this one?" he asked Officer Crams.
+
+Мужчина не в форме медленно подошел к Рику и с любопытством посмотрел на него. «Что это?» — спросил он офицера Крэмса.
+
+"Suspected murder," Crams answered. "There's a body in his car - but he says it's an android. We're checking that now, doing bone tests on the body. And pretending to be a police officer, an android <span class='tip-wrap' data-text='killer [кЫлэр] {существительное} убийца [3]; киллер [2]'>**killer**<span class='tip-text'> </span></span>, to enter a woman's dressing-room and ask her offensive questions. She called us. Do you wish to interview him, sir?"
+
+«Подозреваемое убийство», — ответил Крэмс. «В его машине есть тело, но он говорит, что это андроид. Мы сейчас это проверяем, делаем анализ костей тела. И притворяемся полицейским, убийцей андроидов, чтобы войти в женскую раздевалку и спросить ее оскорбительные вопросы. Она позвонила нам. Вы хотите взять у него интервью, сэр?
+
+"All right." Crams" <span class='tip-wrap' data-text='boss [бАс] {существительное} босс [3]; хозяин [2]; шеф [2]; руководитель [2]; выступ [2]'>**boss**<span class='tip-text'> </span></span> looked at Rick again, then took his bag. "What do you have in here, Mr Deckard?"
+
+"Все в порядке." Босс Крамса снова посмотрел на Рика, затем взял его сумку. «Что у вас здесь, мистер Декард?»
+
+"Material for the Voigt-Kampff empathy test," Rick said. "I was testing a suspect when Officer Crams arrested me." The officer was searching his bag and examining everything in it. "I asked Miss Luft the normal V-K questions..."
+
+«Материал для теста на эмпатию Фойгта-Кампфа», — сказал Рик. «Я проверял подозреваемого, когда меня арестовал офицер Крэмс». Офицер обыскивал его сумку и осматривал все, что в ней находилось. «Я задавал Мисс Люфт обычные вопросы ВК…»
+
+"Do you know George Gleason and Phil Resch?"
+
+«Вы знаете Джорджа Глисона и Фила Реша?»
+
+"No," Rick answered. The names meant nothing to him.
+
+«Нет», ответил Рик. Имена для него ничего не значили.
+
+"They're the android killers for Northern California. They work here. Are you an android, Mr Deckard? From time to time we have escaped androids here pretending to be android killers chasing a suspect."
+
+«Они убийцы андроидов из Северной Калифорнии. Они работают здесь. Вы андроид, мистер Декард? Время от времени нам здесь сбегают андроиды, притворяющиеся убийцами-андроидами, преследующими подозреваемого».
+
+"I'm not an android. You can give me the Voigt-Kampff test. I've taken it before and I know what the results will be. Can I phone my wife?"
+
+«Я не андроид. Вы можете дать мне тест Фойгта-Кампфа. Я уже проходил его и знаю, какие будут результаты. Могу ли я позвонить жене?»
+
+"You can make one call. Do you want to phone her or a lawyer?"
+
+«Вы можете сделать один звонок. Вы хотите позвонить ей или адвокату?»
+
+"My wife can get a lawyer for me."
+
+«Моя жена может нанять для меня адвоката».
+
+The officer pointed to the videophone and Rick dialled his home number. A face appeared, but it was not Iran. He hung up.
+
+Офицер указал на видеофон, и Рик набрал свой домашний номер. Появилось лицо, но это был не Иран. Он повесил трубку.
+
+"No <span class='tip-wrap' data-text='luck [лАк] {существительное} удача [3]; счастье [3]; везение [2]; судьба [2]'>**luck**<span class='tip-text'> </span></span>?" said the officer. "Well, you can try again later. I can't let you go, <span class='tip-wrap' data-text='though [ðOу] {наречие} однако [2]; все же [2]'>**though**<span class='tip-text'> </span></span>, because your crimes are very serious. Come into my office. I'd like to talk to you."
+
+"Не повезло?" - сказал офицер. «Ну, ты можешь попробовать еще раз позже. Но я не могу тебя отпустить, потому что твои преступления очень серьезны. Заходи в мой кабинет. Я хотел бы поговорить с тобой».
+
+"My name's Garland," the man said, when they were both sitting down. "Is this Voigt-Kampff test efficient?"
+
+«Меня зовут Гарланд», — сказал мужчина, когда они оба сели. «Эффективен ли этот тест Фойгта-Кампфа?»
+
+"It's the only one we use. Don't you know it?" Rick asked.
+
+«Это единственный, который мы используем. Разве ты не знаешь?» — спросил Рик.
+
+"No," Garland said. He paused. "This list from your bag - Polokov, Miss Luft... The next name on it is me."
+
+«Нет», — сказал Гарланд. Он сделал паузу. «Этот список из вашей сумки — Полоков, мисс Люфт… Следующее имя в нем — я».
+
+Rick stared at him and then took the paper. Neither of them spoke for a moment.
+
+Рик уставился на него, а затем взял газету. Ни один из них не произнес ни слова.
+
+"It's very unpleasant," Garland said, "to find yourself on a list like this. I've asked Phil Resch to join us. I want to see his list."
+
+«Очень неприятно, — сказал Гарланд, — оказаться в таком списке. Я попросил Фила Реша присоединиться к нам. Я хочу увидеть его список».
+
+"Do you think I'm on it?" Rick asked.
+
+— Ты думаешь, я в этом заинтересован? — спросил Рик.
+
+"It's possible. This <span class='tip-wrap' data-text='description [дыскрЫпшэн] {существительное} описание [3]'>**description**<span class='tip-text'> </span></span> of me is correct <span class='tip-wrap' data-text='except [ыксЕпт] {предлог} кроме'>**except**<span class='tip-text'> </span></span> for my job. Yes, it's certainly me."
+
+«Это возможно. Это описание меня верно, за исключением моей работы. Да, это определенно я».
+
+The office door opened and a tall man with a beard and glasses came in. Garland explained everything to him.
+
+Дверь кабинета открылась, и вошел высокий мужчина с бородой и в очках. Гарланд все ему объяснил.
+
+"I talked to Polokov once," Phil Resch said. "Very cold. I wanted to test him too." He turned to Rick. "Have you tested Inspector Garland?"
+
+«Однажды я разговаривал с Полоковым», — сказал Фил Реш. «Очень холодно. Я тоже хотел его проверить». Он повернулся к Рику. — Вы проверяли инспектора Гарланда?
+
+"Of course not!" Garland said.
+
+"Конечно, нет!" - сказал Гарланд.
+
+"I've always said," Resch continued, "that the best place for an android would be in a big police station."
+
+«Я всегда говорил, — продолжал Реш, — что лучшее место для андроида — это большой полицейский участок».
+
+Garland opened his mouth to speak, but the videophone rang. It was Garland's secretary.
+
+Гарланд открыл рот, чтобы что-то сказать, но зазвонил видеофон. Это была секретарша Гарланд.
+
+"Inspector Garland, we have the results of the tests on Mr Polokov's body. Mr Polokov was a humanlike android."
+
+«Инспектор Гарланд, у нас есть результаты анализов тела господина Полокова. Господин Полоков был человекоподобным андроидом».
+
+Garland looked at the far wall; he said nothing to Rick or Phil Resch.
+
+Гарланд посмотрел на дальнюю стену; он ничего не сказал Рику и Филу Решу.
+
+"So yours is an empathy test, Mr Deckard," Resch said to Rick. "Ours is <span class='tip-wrap' data-text='probably [прАбэблИ] {наречие} вероятно'>**probably**<span class='tip-text'> </span></span> simpler. We play a noise or show a light and the suspect pushes a <span class='tip-wrap' data-text='button [бАтэн] {существительное} кнопка [3]'>**button**<span class='tip-text'> </span></span>. We <span class='tip-wrap' data-text='measure [мЕжэр] {глагол} измерять'>**measure**<span class='tip-text'> </span></span> the time of the reaction. Then we can do the bone tests, as we did with Polokov, to be <span class='tip-wrap' data-text='sure [шУр] {прилагательное} верный; уверенный'>**sure**<span class='tip-text'> </span></span>."
+
+«Итак, это тест на эмпатию, мистер Декард», — сказал Реш Рику. «Наш, наверное, проще. Мы издаем шум или светимся, а подозреваемый нажимает кнопку. Мы измеряем время реакции. Затем мы можем сделать тесты костей, как мы это сделали с Полоковым, чтобы быть уверенным».
+
+Rick was <span class='tip-wrap' data-text='silent [сАйлэнт] {прилагательное} тихий [3]; молчаливый [2]; немой [2]; безмолвный [2]'>**silent**<span class='tip-text'> </span></span>. Then he said, "You can test me. I'm ready. But I'd like to test you too, if that's all right with you."
+
+Рик молчал. Затем он сказал: «Вы можете проверить меня. Я готов. Но я хотел бы проверить и вас, если вы не против».
+
+"Of course," Resch said. "They should test higher officers more often too." He looked at Garland.
+
+«Конечно», сказал Реш. «Они также должны чаще проверять высших офицеров». Он посмотрел на Гарланда.
+
+Garland smiled at him. "You're not going to like the results of your test," he said.
+
+Гарланд улыбнулась ему. «Результаты вашего теста вам не понравятся», — сказал он.
+
+Resch did not look pleased. "I'll get the Boneli instruments," he said to Rick, and left the office.
+
+Реш не выглядел довольным. «Я принесу инструменты Бонели», — сказал он Рику и вышел из офиса.
+
+Garland looked in his desk drawer, took out a laser gun, and pointed it at Rick.
+
+Гарланд заглянул в ящик своего стола, достал лазерный пистолет и направил его на Рика.
+
+"Why?" Rick asked. "They'll test my body and they'll know that I wasn't an android. You can't win."
+
+"Почему?" — спросил Рик. «Они проверят мое тело и узнают, что я не андроид. Ты не сможешь победить».
+
+Garland stared at him, then put the gun down again. "Resch is an android too," he said. "He doesn't <span class='tip-wrap' data-text='suspect [сэспЕкт] {глагол} подозревать [3]'>**suspect**<span class='tip-text'> </span></span>, <span class='tip-wrap' data-text='though [ðOу] {наречие} однако [2]; все же [2]'>**though**<span class='tip-text'> </span></span>. I came with the others on a <span class='tip-wrap' data-text='ship [шЫп] {существительное} корабль'>**ship**<span class='tip-text'> </span></span> from Mars. Not Resch - he stayed another week and was given a <span class='tip-wrap' data-text='false [фОлс] {прилагательное} ложный [3]; фальшивый [2]'>**false**<span class='tip-text'> </span></span> memory. When he learns the truth, he'll <span class='tip-wrap' data-text='probably [прАбэблИ] {наречие} вероятно'>**probably**<span class='tip-text'> </span></span> kill all of us. That's what happens, I understand, when an android thought he was human."
+
+Гарланд уставился на него, затем снова опустил пистолет. «Реш тоже андроид», — сказал он. - Хотя он ничего не подозревает. Я приехал с остальными на корабле с Марса. Не Реш - он остался еще на неделю и получил ложную память. Когда он узнает правду, он, вероятно, убьет всех нас. Я понимаю, что происходит, когда андроид думает, что он человек».
+
+"So why do you put these <span class='tip-wrap' data-text='false [фОлс] {прилагательное} ложный [3]; фальшивый [2]'>**false**<span class='tip-text'> </span></span> memories in if it's so dangerous?" Rick asked.
+
+«Так зачем же ты впускаешь в себя эти ложные воспоминания, если это так опасно?» — спросил Рик.
+
+"It's all a risk," Garland said. "Coming here to Earth where we're less important than any animal or insect. I didn't know about Polokov. He must have come here earlier - he hasn't had any contact with our group. I took a chance on the test. So did Crams."
+
+«Это все риск», — сказал Гарланд. «Приезжаем сюда, на Землю, где мы менее важны, чем любое животное или насекомое. Я не знал о Полокове. Он, должно быть, пришел сюда раньше - у него не было никаких контактов с нашей группой. Я рискнул на тесте. . И Крамс тоже».
+
+"When I phoned my wife," Rick said, "why didn't I get her?"
+
+«Когда я позвонил жене, — сказал Рик, — почему я не позвонил ей?»
+
+"If you call from here, you <span class='tip-wrap' data-text='reach [рИч] {глагол} достигать'>**reach**<span class='tip-text'> </span></span> another office in the same building. We're separate from the <span class='tip-wrap' data-text='rest [рЕст] {существительное} отдых (также остаток)'>**rest**<span class='tip-text'> </span></span> of San Francisco. We know about them, but they don't know about us. Sometimes we bring someone like you in, for our own <span class='tip-wrap' data-text='protection [прэтЕкшэн] {существительное} охрана (также защита)'>**protection**<span class='tip-text'> </span></span>." There were footsteps in the hall. "Here comes Resch now. Isn't he clever? He's going to kill us both."
+
+«Если вы позвоните отсюда, вы попадете в другой офис в том же здании. Мы отделены от остального Сан-Франциско. Мы знаем о них, но они не знают о нас. Иногда мы приглашаем кого-то вроде вас, потому что наша собственная защита». В зале послышались шаги. «А вот и Реш. Разве он не умен? Он собирается убить нас обоих».
+
+"You androids don't help each other at difficult times," Rick said.
+
+«Вы, андроиды, не помогаете друг другу в трудные времена», — сказал Рик.
+
+"No," Garland agreed sharply. "We don't have, do we, that <span class='tip-wrap' data-text='special [спЕшэл] {прилагательное} особый (также специальный)'>**special**<span class='tip-text'> </span></span> thing that you humans have. I believe it's called empathy."
+
+«Нет», — резко согласился Гарланд. «У нас нет, не так ли, той особенной вещи, которая есть у вас, людей. Я считаю, что это называется сочувствием».
+
+The office door opened. Phil Resch came in carrying a machine with a number of different wires hanging from it.
+
+Дверь кабинета открылась. Фил Реш пришёл с машиной, на которой свисало множество разных проводов.
+
+"Here we are," he said, and sat down.
+
+«Вот и мы», — сказал он и сел.
+
+Garland suddenly raised his right hand. Resch and Rick rolled on to the floor. At the same time, Resch pulled out his laser gun and fired at Garland. The beam hit Garland in the head. His body fell forwards and then dropped <span class='tip-wrap' data-text='off [Оф] {предлог} от; у'>**off**<span class='tip-text'> </span></span> the chair.
+
+Гарланд внезапно поднял правую руку. Реш и Рик скатились на пол. В то же время Реш вытащил лазерный пистолет и выстрелил в Гарланда. Луч попал Гарланду в голову. Его тело упало вперед, а затем упало со стула.
+
+"It forgot," Resch said as he stood up again, "that this is my job. I always know what an android's going to do." He looked at the body. "What did it say to you while I wasn't here?"
+
+«Он забыл, — сказал Реш, снова вставая, — что это моя работа. Я всегда знаю, что собирается делать андроид». Он посмотрел на тело. — Что оно тебе говорило, пока меня здесь не было?
+
+"That he - it - was an android. And you..." Rick paused, and then changed his mind. "And you would kill it."
+
+«Что он – оно – был андроидом. А ты…» Рик сделал паузу, а затем передумал. «И ты бы убил его».
+
+"What else?"
+
+"Что еще?"
+
+"This building is full of androids."
+
+«В этом здании полно андроидов».
+
+Resch thought for a moment. "Then we're going to have trouble getting out of here," he said. "Usually, of course, I can leave when I want. And take a prisoner with me." He listened. There was silence outside the office. "I <span class='tip-wrap' data-text='guess [гЕс] {глагол} догадываться'>**guess**<span class='tip-text'> </span></span> nobody heard." He picked up the videophone. "Inspector Garland is busy for the next half an hour," he said into it. "He doesn't want to be disturbed."
+
+Реш на мгновение задумался. «Тогда нам будет трудно выбраться отсюда», — сказал он. «Обычно, конечно, я могу уйти, когда захочу. И взять с собой пленного». Он слушал. За пределами офиса воцарилась тишина. «Думаю, никто не услышал». Он взял видеофон. «Инспектор Гарланд будет занят следующие полчаса», — сказал он в ответ. «Он не хочет, чтобы его беспокоили».
+
+"Yes, Mr Resch," a voice answered.
+
+«Да, мистер Реш», — ответил голос.
+
+"Let's go," Resch said to Rick. "And remember that you're under arrest <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> we're outside the building."
+
+«Пойдем», — сказал Реш Рику. «И помни, что ты под арестом, пока мы не выйдем из здания».
+
+They walked <span class='tip-wrap' data-text='past [пЭст] {предлог} мимо; за'>**past**<span class='tip-text'> </span></span> the uniformed guards and travelled up to the <span class='tip-wrap' data-text='roof [рУф] {существительное} крыша [3]; кровля [2]; потолок [2]'>**roof**<span class='tip-text'> </span></span>.
+
+Они прошли мимо охранников в форме и поднялись на крышу.
+
+"Do you think your station will give me a job?" Resch asked. "I think I've lost mine now."
+
+«Как вы думаете, ваша станция даст мне работу?» – спросил Реш. «Думаю, я уже потерял свою».
+
+Rick hesitated. "I - I don't see why not. But we already have two android killers." I've got to tell him that he's an android, he thought. He got me out of that place, but he's everything that we both hate.
+
+Рик колебался. «Я… я не понимаю, почему бы и нет. Но у нас уже есть два убийцы-андроида». «Я должен сказать ему, что он андроид», — подумал он. Он вытащил меня из этого места, но он — все, что мы оба ненавидим.
+
+"Why didn't I know they were androids?" Phil Resch asked. "I've been working for them for three years."
+
+«Почему я не знал, что они андроиды?» – спросил Фил Реш. «Я работаю на них уже три года».
+
+"Garland and his friends only came to Earth a few months ago," Rick told him.
+
+«Гарланд и его друзья прибыли на Землю всего несколько месяцев назад», — сказал ему Рик.
+
+"Then there was once a real Garland. Or - I've got a <span class='tip-wrap' data-text='false [фОлс] {прилагательное} ложный [3]; фальшивый [2]'>**false**<span class='tip-text'> </span></span> memory system." His face turned grey. "Only androids have <span class='tip-wrap' data-text='false [фОлс] {прилагательное} ложный [3]; фальшивый [2]'>**false**<span class='tip-text'> </span></span> memory systems. Those systems don't work in human beings."
+
+«Значит, когда-то была настоящая Гирлянда. Или — у меня ложная система памяти». Его лицо стало серым. «Только у андроидов есть системы ложной памяти. Эти системы не работают у людей».
+
+They were up on the <span class='tip-wrap' data-text='roof [рУф] {существительное} крыша [3]; кровля [2]; потолок [2]'>**roof**<span class='tip-text'> </span></span> now.
+
+Они уже были на крыше.
+
+"Here's my car," Resch said and waved Rick inside. They lifted into the sky and drove north in the direction of the Opera House. Resch's mind was not on the <span class='tip-wrap' data-text='journey [джЭрни] {существительное} путешествие [3]; поездка [2]'>**journey**<span class='tip-text'> </span></span>.
+
+«Вот моя машина», — сказал Реш и жестом пригласил Рика войти. Они поднялись в небо и поехали на север, в сторону Оперного театра. Мысли Реша были не о путешествии.
+
+"Listen, Deckard," he said suddenly. "After we kill Luba Luft, I want you to... you know... give me the Boneli test or that empathy test. I need to know."
+
+— Послушай, Декард, — сказал он внезапно. «После того, как мы убьем Любу Люфт, я хочу, чтобы ты… ну знаешь… провел мне тест Бонели или тот тест на эмпатию. Мне нужно знать».
+
+"We can worry about that later," Rick answered slowly.
+
+«Мы можем побеспокоиться об этом позже», — медленно ответил Рик.
+
+"You don't want me to take it, do you?" Resch looked at him. "Garland told you something about me."
+
+— Ты же не хочешь, чтобы я это взял, да? Реш посмотрел на него. — Гарланд рассказал тебе кое-что обо мне.
+
+"Let's just concentrate on Luba Luft. That's going to be hard."
+
+«Давайте сосредоточимся на Любе Люфт. Это будет сложно».
+
+"It's not just <span class='tip-wrap' data-text='false [фОлс] {прилагательное} ложный [3]; фальшивый [2]'>**false**<span class='tip-text'> </span></span> memory systems," Phil Resch said, "I own an animal; not a <span class='tip-wrap' data-text='false [фОлс] {прилагательное} ложный [3]; фальшивый [2]'>**false**<span class='tip-text'> </span></span> one, but the real thing. A squirrel. Its name's Buffy. I love that squirrel, Deckard. Every morning I feed it and then in the evening I bring it into my apartment and it plays there. It has a <span class='tip-wrap' data-text='wheel [уИл] {существительное} колесо [3]; колесико [2]; велосипед [2]; круг [2]'>**wheel**<span class='tip-text'> </span></span> and it runs inside that too. It runs and runs, the <span class='tip-wrap' data-text='wheel [уИл] {существительное} колесо [3]; колесико [2]; велосипед [2]; круг [2]'>**wheel**<span class='tip-text'> </span></span> turns, but Buffy stays in the same place."
+
+«Это не просто системы ложной памяти, — сказал Фил Реш, — у меня есть животное; не ложное, а настоящее. Белка. Ее зовут Баффи. Я люблю эту белку, Декард. Каждое утро я кормлю ее, а затем вечером я приношу его в свою квартиру, и оно там играет. У него есть колесо, и оно тоже бегает внутри него. Оно бегает и бегает, колесо крутится, а Баффи остается на том же месте».
+
+"I <span class='tip-wrap' data-text='guess [гЕс] {глагол} догадываться'>**guess**<span class='tip-text'> </span></span> squirrels aren't very intelligent," Rick said.
+
+«Думаю, белки не очень умны», — сказал Рик.
+
+They flew on in silence.
+
+Они летели молча.
+
+At the opera house, they were told that the rehearsal had finished and Miss Luft had left. Resch showed his identification.
+
+В оперном театре им сказали, что репетиция окончена и мисс Люфт ушла. Реш показал свое удостоверение.
+
+"Do you know where she went?" he asked.
+
+— Ты знаешь, куда она пошла? он спросил.
+
+"To the museum. She wanted to see the Edvard Munch paintings."
+
+«В музей. Она хотела посмотреть картины Эдварда Мунка».
+
+"Did you <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span> hear of an android with a pet?" Resch asked as they walked to the museum.
+
+«Вы когда-нибудь слышали об андроиде с домашним животным?» — спросил Реш, когда они шли к музею.
+
+Rick decided to be honest. "I know of two cases," he answered, "but it isn't common. The android usually can't keep the animal <span class='tip-wrap' data-text='alive [элАйв] {прилагательное} живой'>**alive**<span class='tip-text'> </span></span>. Animals need love."
+
+Рик решил быть честным. «Я знаю два случая, — ответил он, — но они не распространены. Андроид обычно не может сохранить животному жизнь. Животные нуждаются в любви».
+
+"Would a squirrel need that? Love? Buffy's happy and healthy."
+
+«А нужно ли это белке? Любовь? Баффи счастлива и здорова».
+
+They were inside the museum now, and Resch stopped in front of a <span class='tip-wrap' data-text='painting [пЕйнтыŋ] {существительное} живопись; покраска'>**painting**<span class='tip-text'> </span></span>. It showed a hairless <span class='tip-wrap' data-text='creature [крИчэр] {существительное} создание [3]; тварь [2]; творение [2]; живое существо [2]'>**creature**<span class='tip-text'> </span></span> standing <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span> on a bridge. Its hands were held over its ears in horror and its mouth was open in a soundless scream.
+
+Они уже были внутри музея, и Реш остановился перед картиной. На нем было изображено безволосое существо, одиноко стоящее на мосту. Его руки в ужасе закрыли уши, а рот был открыт в беззвучном крике.
+
+"I think," Phil Resch said, "that this is how an android must feel. I don't feel like that, so maybe I'm not an..." He stopped as other people came near them.
+
+«Я думаю, — сказал Фил Реш, — что именно так должен себя чувствовать андроид. Я этого не чувствую, так что, возможно, я не…» Он остановился, когда к ним подошли другие люди.
+
+"There's Luba Luft." Rick pointed, and they walked <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> her. They did not want to frighten other museum visitors.
+
+«Есть Люба Люфт». Рик указал, и они тихо подошли к ней. Они не хотели пугать других посетителей музея.
+
+Luba Luft was looking at a drawing of a young girl sitting on the <span class='tip-wrap' data-text='edge [Едж] {существительное} край; преимущество'>**edge**<span class='tip-text'> </span></span> of a bed.
+
+Люба Люфт смотрела на рисунок молодой девушки, сидящей на краю кровати.
+
+"Do you want me to buy it for you?" Rick asked Luba Luft, gently taking her <span class='tip-wrap' data-text='arm [Арм] {существительное} отделение (осн. рука)'>**arm**<span class='tip-text'> </span></span>. On the other side of her, Phil Resch put his hand on her <span class='tip-wrap' data-text='shoulder [шOулдэр] {существительное} плечо; обочина'>**shoulder**<span class='tip-text'> </span></span> and Rick saw the end of his laser gun.
+
+— Хочешь, чтобы я купил это для тебя? — спросил Рик у Любы Люфт, нежно взяв ее за руку. С другой стороны от нее Фил Реш положил руку ей на плечо, и Рик увидел конец своего лазерного пистолета.
+
+"It's not for sale." Luba Luft looked at Rick and the colour left her face. "I thought they arrested you."
+
+«Это не продается». Люба Люфт посмотрела на Рика, и краска исчезла с ее лица. «Я думал, они тебя арестовали».
+
+"Miss Luft," he said, "this is Mr Resch. The officer that arrested me is an android. So was his <span class='tip-wrap' data-text='boss [бАс] {существительное} босс [3]; хозяин [2]; шеф [2]; руководитель [2]; выступ [2]'>**boss**<span class='tip-text'> </span></span>. Do you know - did you know - an Inspector Garland? He told me you all came here on the same <span class='tip-wrap' data-text='ship [шЫп] {существительное} корабль'>**ship**<span class='tip-text'> </span></span>."
+
+«Мисс Люфт, — сказал он, — это мистер Реш. Офицер, арестовавший меня, — андроид. Как и его босс. Вы знаете… знаете ли вы, что это инспектор Гарланд? Он сказал мне, что вы все пришли сюда в одном корабль."
+
+"The police station that you called," Phil Resch added, "seems to be an organization <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> which your group keeps in touch. They even feel <span class='tip-wrap' data-text='confident [кАнфэдэнт] {прилагательное} уверенный [3]'>**confident**<span class='tip-text'> </span></span> enough to hire a human <span class='tip-wrap' data-text='being [бИыŋ] {существительное} существо; бытие'>**being**<span class='tip-text'> </span></span> as an android <span class='tip-wrap' data-text='killer [кЫлэр] {существительное} убийца [3]; киллер [2]'>**killer**<span class='tip-text'> </span></span>..."
+
+«Полицейский участок, в который вы позвонили, — добавил Фил Реш, — похоже, является организацией, через которую ваша группа поддерживает связь. Они даже чувствуют себя достаточно уверенно, чтобы нанять человека в качестве убийцы андроидов…»
+
+"You?" Luba Luft said. "You're not a human <span class='tip-wrap' data-text='being [бИыŋ] {существительное} существо; бытие'>**being**<span class='tip-text'> </span></span>. You're an android, like me."
+
+"Ты?" Люба Люфт сказала. «Ты не человек. Ты андроид, как и я».
+
+There was a silence, then Resch said to Rick in a low voice, "Let's take her to my car."
+
+Наступила тишина, затем Реш сказал Рику тихим голосом: «Давай отвезем ее в мою машину».
+
+Luba Luft seemed to accept the situation. She went <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span>, but stopped <span class='tip-wrap' data-text='beside [бысАйд] {предлог} рядом с'>**beside**<span class='tip-text'> </span></span> the museum shop. "Listen," she said to Rick. Some colour had returned to her face. "Buy me a copy of that <span class='tip-wrap' data-text='painting [пЕйнтыŋ] {существительное} живопись; покраска'>**painting**<span class='tip-text'> </span></span> of the girl on the bed."
+
+Люба Люфт, похоже, смирилась с ситуацией. Она пошла тихо, но остановилась возле музейного магазина. «Послушай», сказала она Рику. К ее лицу вернулся цвет. «Купите мне копию картины с девушкой на кровати».
+
+After a pause, Rick asked the shop assistant for a copy.
+
+После паузы Рик попросил у продавца копию.
+
+"We only have one in this book," the assistant told him. "Twenty-five dollars."
+
+«В этой книге у нас только один», — сказал ему помощник. «Двадцать пять долларов».
+
+"I'll take it." Rick reached for his wallet, bought the book and gave it to Luba Luft. They went into the lift.
+
+"Я возьму это." Рик потянулся за бумажником, купил книгу и отдал ее Любе Люфт. Они вошли в лифт.
+
+"Thank you," she said. "No android would do that." She looked at Phil Resch. "You wouldn't. I really don't like androids. <span class='tip-wrap' data-text='since [сЫнс] {предлог} с (также после)'>**Since**<span class='tip-text'> </span></span> I came here, I've been pretending to be a human <span class='tip-wrap' data-text='being [бИыŋ] {существительное} существо; бытие'>**being**<span class='tip-text'> </span></span>, acting and thinking as they do. That's how it is, isn't it Resch? Trying to be..."
+
+«Спасибо», сказала она. «Ни один андроид такого не сделает». Она посмотрела на Фила Реша. «Ты бы не стал. Мне действительно не нравятся андроиды. С тех пор, как я приехал сюда, я притворяюсь человеком, действую и думаю, как они. Вот так оно и есть, не так ли, Реш? Пытаюсь быть..."
+
+"I can't listen to this," Resch said, and reached for his gun.
+
+«Я не могу это слушать», — сказал Реш и потянулся за пистолетом.
+
+"No," Rick said. "The test."
+
+«Нет», сказал Рик. "Тест."
+
+"We don't have to wait. It said it's an android."
+
+«Нам не придется ждать. Он сказал, что это андроид».
+
+"But you mustn't kill it because it annoys you." He tried to take the gun from Resch, but could not.
+
+«Но ты не должен убивать его, потому что он тебя раздражает». Он пытался отобрать у Реша пистолет, но не смог.
+
+Phil Resch fired. Luba Luft, <span class='tip-wrap' data-text='terror [тЕрэр] {существительное} террор [3]; ужас [3]; страх [3]; гроза [2]'>**terror**<span class='tip-text'> </span></span> on her face, jumped sideways, but the beam hit her in the <span class='tip-wrap' data-text='stomach [стАмэк] {существительное} желудок [3]; живот [3]'>**stomach**<span class='tip-text'> </span></span>. She stared in front of her and screamed. Like the picture, Rick thought, and killed her with his own laser gun.
+
+Фил Реш уволен. Люба Люфт с ужасом на лице отскочила в сторону, но луч попал ей в живот. Она посмотрела перед собой и закричала. «Как на картинке», — подумал Рик и убил ее из собственного лазерного пистолета.
+
+"I'm leaving this business," he told Resch. "I'll emigrate and go to Mars."
+
+«Я ухожу из этого бизнеса», — сказал он Решу. «Я эмигрирую и полечу на Марс».
+
+"Someone has to do it," Phil Resch replied.
+
+«Кто-то должен это сделать», — ответил Фил Реш.
+
+"They can use androids. I've had <span class='tip-wrap' data-text='enough [ынАф] {наречие} достаточно'>**enough**<span class='tip-text'> </span></span>. She was a wonderful singer and she liked paintings. The planet could have used her. This is crazy."
+
+«Они могут использовать андроидов. С меня достаточно. Она была замечательной певицей и любила картины. Планета могла бы использовать ее. Это безумие».
+
+"This is <span class='tip-wrap' data-text='necessary [нЕсэсЕри] {прилагательное} необходимый'>**necessary**<span class='tip-text'> </span></span>. Remember that they killed humans before they escaped. And they wanted to kill you in that police station. Didn't Polokov almost kill you? They're attacking us. They're pretending to be..."
+
+«Это необходимо. Помните, что они убивали людей, прежде чем сбежать. И они хотели убить вас в этом отделении. Разве Полоков вас чуть не убил? Они нападают на нас. Они притворяются...»
+
+"Police," Rick continued, "android killers."
+
+«Полиция, — продолжил Рик, — убийцы-андроиды».
+
+"Maybe Garland lied about me. What about my squirrel?"
+
+«Может быть, Гарланд солгал обо мне. А как насчет моей белки?»
+
+"Yes, I forgot about your squirrel." They were on the first floor now and the doors opened. People were looking at them. "You stay here with the body, and I'll phone for a police car."
+
+«Да, я забыл про твою белку». Они уже были на первом этаже, и двери открылись. Люди смотрели на них. «Оставайся здесь с телом, а я вызову полицейскую машину».
+
+He <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> a phone and called. How can such a beautiful voice be so dangerous? he thought as he hung up. But it wasn't the voice - it was the android itself. I can't leave the job now.
+
+Он нашел телефон и позвонил. Как такой красивый голос может быть таким опасным? подумал он, повесив трубку. Но дело было не в голосе, а в самом андроиде. Я не могу уйти с работы сейчас.
+
+Rick returned to Phil Resch. "I hope you are an android," he said. "The way you killed Garland and then Luba Luft - you don't kill like I do. You <span class='tip-wrap' data-text='enjoy [ЕнджОй] {глагол} наслаждаться'>**enjoy**<span class='tip-text'> </span></span> it. If you fail your test, will you kill yourself?" Androids rarely did that.
+
+Рик вернулся к Филу Решу. «Надеюсь, ты андроид», — сказал он. «То, как ты убил Гарланда, а затем Любу Люфт — ты не убиваешь, как я. Тебе это нравится. Если ты провалишь тест, ты убьешь себя?» Андроиды редко так делали.
+
+"Yes," Phil Resch answered. "You only have to test me. I'll do the <span class='tip-wrap' data-text='rest [рЕст] {существительное} отдых (также остаток)'>**rest**<span class='tip-text'> </span></span>."
+
+«Да», — ответил Фил Реш. «Тебе нужно только проверить меня. Я сделаю все остальное».
+
+A police car arrived and took the body away. Rick and Resch walked back to the opera house in silence, and travelled up to the <span class='tip-wrap' data-text='roof [рУф] {существительное} крыша [3]; кровля [2]; потолок [2]'>**roof**<span class='tip-text'> </span></span>. They climbed into the hovercar. "Here's my laser gun," Phil Resch said. "You'll tell me the truth, won't you?"
+
+Приехала полицейская машина и забрала тело. Рик и Реш молча вернулись в оперный театр и поднялись на крышу. Они забрались в ховеркар. «Вот мой лазерный пистолет», — сказал Фил Реш. — Ты скажешь мне правду, не так ли?
+
+"Sure." Rick took out his instruments and explained the test. "Here's the first question." The test began.
+
+"Конечно." Рик достал свои инструменты и объяснил суть теста. «Вот первый вопрос». Испытание началось.
+
+Afterwards, Rick did not speak. He felt very tired.
+
+После этого Рик ничего не говорил. Он чувствовал себя очень усталым.
+
+"I can tell by your face," Resch said, breathing <span class='tip-wrap' data-text='deeply [дИпли] {наречие} глубоко [3]'>**deeply**<span class='tip-text'> </span></span>. "You can give me my gun back."
+
+«Я могу сказать это по твоему лицу», — сказал Реш, глубоко дыша. — Ты можешь вернуть мне мой пистолет.
+
+"Garland was lying to make us <span class='tip-wrap' data-text='suspect [сэспЕкт] {глагол} подозревать [3]'>**suspect**<span class='tip-text'> </span></span> each other," Rick answered slowly. "But you have got one problem. One that we don't test for. Your feelings <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> androids."
+
+«Гарланд солгал, чтобы заставить нас подозревать друг друга», медленно ответил Рик. «Но у тебя есть одна проблема. Эту проблему мы не проверяем. Твоё отношение к андроидам».
+
+"We can't test for that," Phil Resch said <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span>. "Empathy <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> animals is one thing. If we felt empathy <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> androids too..."
+
+«Мы не можем это проверить», — тихо сказал Фил Реш. «Сочувствие к животным — это одно. Если бы мы тоже сочувствовали андроидам…»
+
+"We wouldn't be able to protect ourselves." Rick finished the sentence. Then he looked at Resch. "I want to ask myself a question. Tell me what the needles show. Don't worry about speed of reaction."
+
+«Мы не сможем защитить себя». Рик закончил предложение. Затем он посмотрел на Реша. «Я хочу задать себе вопрос. Скажи мне, что показывают иглы. Не беспокойся о скорости реакции».
+
+"Sure, Rick," Resch agreed. Rick showed him the controls.
+
+«Конечно, Рик», — согласился Реш. Рик показал ему элементы управления.
+
+"I'm going down in a lift with an android that I've caught. And suddenly somebody kills it without <span class='tip-wrap' data-text='warning [уОрныŋ] {существительное} предупреждение [3]; предостережение [2]'>**warning**<span class='tip-text'> </span></span>."
+
+«Я спускаюсь в лифте с пойманным мной андроидом. И вдруг кто-то убивает его без предупреждения».
+
+"No <span class='tip-wrap' data-text='particular [пэртЫкйэлэр] {прилагательное} особый'>**particular**<span class='tip-text'> </span></span> reaction," Resch told him.
+
+«Никакой особой реакции», — сказал ему Реш.
+
+"What did the needles hit?"
+
+«Во что попали иглы?»
+
+"The left one 2.8. The right one 3.3."
+
+«Левый 2,8. Правый 3,3».
+
+Rick said, "A female android."
+
+Рик сказал: «Женщина-андроид».
+
+"Now they're up to 4.0 and 6.0."
+
+«Теперь они дошли до 4.0 и 6.0».
+
+"That's high." Rick removed the wires from his face. "I'm <span class='tip-wrap' data-text='capable [кЕйпэбэл] {прилагательное} способный [3]'>**capable**<span class='tip-text'> </span></span> of feeling empathy for at <span class='tip-wrap' data-text='least [лИст] {наречие} наименее'>**least**<span class='tip-text'> </span></span> two <span class='tip-wrap' data-text='particular [пэртЫкйэлэр] {прилагательное} особый'>**particular**<span class='tip-text'> </span></span> female androids." And Luba Luft is one, he thought. There's nothing unnatural about Phil Resch - it's me.
+
+«Это высоко». Рик убрал провода со своего лица. «Я способен испытывать сочувствие как минимум к двум конкретным женщинам-андроидам». «И Люба Люфт одна из них», — подумал он. В Филе Реше нет ничего противоестественного – это я.
+
+Resch seemed amused. "It's love," he said. "Some of them are really <span class='tip-wrap' data-text='pretty [прЫти] {наречие} довольно'>**pretty**<span class='tip-text'> </span></span>. Don't you know that there are people on other planets who sleep with their androids? Your only problem is that you want to go to bed with a female android. I felt like that a <span class='tip-wrap' data-text='couple [кАпэл] {существительное} пара'>**couple**<span class='tip-text'> </span></span> of times. The answer is to love them before, not after, you kill them."
+
+Реша, казалось, позабавило. «Это любовь», сказал он. «Некоторые из них очень красивые. Разве ты не знаешь, что на других планетах есть люди, которые спят со своими андроидами? Твоя единственная проблема в том, что ты хочешь лечь спать с женщиной-андроидом. У меня такое было пару раз. . Ответ в том, чтобы любить их до, а не после того, как вы их убьете».
+
+Rick stared at him. Resch is a good android <span class='tip-wrap' data-text='killer [кЫлэр] {существительное} убийца [3]; киллер [2]'>**killer**<span class='tip-text'> </span></span>, he said to himself. But am I? Suddenly, for the first time in his life, he was not <span class='tip-wrap' data-text='sure [шУр] {прилагательное} верный; уверенный'>**sure**<span class='tip-text'> </span></span>.
+
+Рик уставился на него. «Реш — хороший убийца андроидов», — сказал он себе. Но я? Внезапно, впервые в жизни, он не был уверен.
+
+CHAPTER SIX
+
+ГЛАВА ШЕСТАЯ
+
+New Arrivals
+
+Новые поступления
+
+John R. Isidore drove <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> the sky on his way home from work. I <span class='tip-wrap' data-text='wonder [уАндэр] {глагол} удивляться'>**wonder**<span class='tip-text'> </span></span> if she's still there, he asked himself. Watching Buster Friendly on her television and shaking with <span class='tip-wrap' data-text='fear [фЫр] {существительное} страх'>**fear**<span class='tip-text'> </span></span> when she hears somebody in the hall.
+
+Джон Р. Исидор ехал по небу по пути домой с работы. «Интересно, здесь ли она еще?» — спросил он себя. Смотрит «Бастер Френдли» по телевизору и дрожит от страха, когда слышит кого-то в холле.
+
+Including, I suppose, me.
+
+В том числе, полагаю, и я.
+
+On the <span class='tip-wrap' data-text='seat [сИт] {существительное} место'>**seat**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='beside [бысАйд] {предлог} рядом с'>**beside**<span class='tip-text'> </span></span> him were some fruit and some very <span class='tip-wrap' data-text='expensive [ыкспЕнсыв] {прилагательное} дорогой'>**expensive**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='cheese [чИз] {существительное} сыр [3]; творог [2]'>**cheese**<span class='tip-text'> </span></span>. They had cost two weeks" <span class='tip-wrap' data-text='salary [сЭлэри] {существительное} зарплата [3]; заработная плата [3]; оклад [2]; жалованье [2]'>**salary**<span class='tip-text'> </span></span>, borrowed from Mr Sloat. And under the <span class='tip-wrap' data-text='seat [сИт] {существительное} место'>**seat**<span class='tip-text'> </span></span> was a bottle of wine that he had kept in a box at the Bank of America for years. He had always refused to sell it; he was waiting for a girl to arrive in his life. That had never happened, not <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> now.
+
+На сиденье рядом с ним лежали фрукты и очень дорогой сыр. Они стоили двухнедельной зарплаты, взятой взаймы у мистера Слоата. А под сиденьем лежала бутылка вина, которую он много лет хранил в ящике в Банке Америки. Он всегда отказывался ее продавать; он ждал Девушка появилась в его жизни. Такого еще никогда не случалось, до сих пор.
+
+He arrived at his apartment building and carried the food and drink <span class='tip-wrap' data-text='carefully [кЕрфэли] {наречие} бережно'>**carefully**<span class='tip-text'> </span></span> downstairs to Pris Stratton's apartment. He knocked.
+
+Он прибыл в свой многоквартирный дом и осторожно отнес еду и напитки вниз, в квартиру Прис Стрэттон. Он постучал.
+
+"Who's there?" Her voice was <span class='tip-wrap' data-text='sharp [шАрп] {прилагательное} резкий [3]; острый [3]; крутой [2]'>**sharp**<span class='tip-text'> </span></span> but frightened.
+
+"Кто здесь?" Ее голос был резким, но испуганным.
+
+"This is J.R. Isidore here," he said with the new <span class='tip-wrap' data-text='confidence [кАнфэдэнс] {существительное} уверенность'>**confidence**<span class='tip-text'> </span></span> that he had had <span class='tip-wrap' data-text='since [сЫнс] {предлог} с (также после)'>**since**<span class='tip-text'> </span></span> using Mr Sloat's videophone. "I've brought some things for dinner."
+
+«Это Джей Ар Исидор», - сказал он с новой уверенностью, которая появилась у него с тех пор, как он воспользовался видеофоном мистера Слоата. «Я принес кое-что на ужин».
+
+The door opened. "You sound different," Pris said. "More adult." She noticed what he was carrying and her face lit with excitement. Then the excitement disappeared again, and her normal bitter <span class='tip-wrap' data-text='expression [ыкспрЕшэн] {существительное} выражение'>**expression**<span class='tip-text'> </span></span> returned.
+
+Дверь открылась. «Ты говоришь по-другому», — сказала Прис. «Более взрослый». Она заметила, что он нес, и ее лицо осветилось волнением. Затем волнение снова исчезло, и ее обычное горькое выражение лица вернулось.
+
+"What is it?" he asked as he put everything down in her kitchen.
+
+"Что это такое?" — спросил он, расставляя все на ее кухне.
+
+"They're wasted on me."
+
+«Они тратятся на меня».
+
+"Why?"
+
+"Почему?"
+
+"Oh... One day I'll tell you. It was nice of you, <span class='tip-wrap' data-text='though [ðOу] {наречие} однако [2]; все же [2]'>**though**<span class='tip-text'> </span></span>. Now you must leave. I want to be alone."
+
+«О... Однажды я тебе расскажу. Хотя это было очень мило с твоей стороны. Теперь ты должен уйти. Я хочу побыть один».
+
+"I know what's the <span class='tip-wrap' data-text='matter [мЭтэр] {существительное} вопрос (также материя); дело (также материя)'>**matter**<span class='tip-text'> </span></span> with you," he said. "You don't have any friends, so you're all <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span>."
+
+«Я знаю, что с тобой», сказал он. «У тебя нет друзей, поэтому ты совсем один».
+
+"I have friends." Her voice was stronger now. "Or I had. Seven of them. But the killers are looking for them. Maybe now they're all dead. You could be right. I may have no friends now."
+
+"У меня есть друзья." Теперь ее голос был сильнее. «Или у меня были. Семь штук. Но убийцы их ищут. Может быть, теперь они все мертвы. Возможно, ты прав. Возможно, у меня теперь нет друзей».
+
+"Who are these killers?" Isidore asked. He didn't understand. "Are they trying to kill you? It's <span class='tip-wrap' data-text='against [эгЕнст] {предлог} от; против'>**against**<span class='tip-text'> </span></span> Mercerism. Can't you go to the police?"
+
+«Кто эти убийцы?» – спросил Исидор. Он не понимал. «Они пытаются тебя убить? Это против мерсеризма. Ты не можешь пойти в полицию?»
+
+"No."
+
+"Нет."
+
+Perhaps she's a <span class='tip-wrap' data-text='special [спЕшэл] {прилагательное} особый (также специальный)'>**special**<span class='tip-text'> </span></span> and she's imagining the danger, he thought. "I'll get them first if they come here," he offered.
+
+«Возможно, она особенная и ей мерещится опасность», — подумал он. «Я приведу их первым, если они придут сюда», — предложил он.
+
+"With what?" She smiled.
+
+"С чем?" Она улыбнулась.
+
+"I'll get a permit for a laser. It isn't difficult when you live away from the centre. The police don't often come to these areas."
+
+«Я получу разрешение на лазер. Это несложно, если ты живешь вдали от центра. Полиция не часто приезжает в эти районы».
+
+"And when you're at work?"
+
+— А когда ты на работе?
+
+"I'll take a holiday."
+
+«Я возьму отпуск».
+
+"It's very nice of you, J.R. Isidore," Pris said. "But if the killers got the others - got Max Polokov and Garland and Luba and Roy Baty... Oh, Roy and Irmgard Baty are my best friends. If they're dead, nothing matters. Why don't I hear from them?"
+
+«Очень мило с твоей стороны, Джей Ар Исидор», — сказала Прис. «Но если убийцы достали остальных — Макса Полокова, и Гарланда, и Любу, и Роя Батого… О, Рой и Ирмгард Бати — мои лучшие друзья. Если они мертвы, ничего не имеет значения. Почему я ничего не слышу от них?» ?"
+
+Isidore went to the kitchen and <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> some dusty plates and glasses. He washed them <span class='tip-wrap' data-text='carefully [кЕрфэли] {наречие} бережно'>**carefully**<span class='tip-text'> </span></span>. After he had dried them, he opened the wine and divided the food. Pris sat down and tried some fruit. Then she began to cry. Isidore did not know what to do. Suddenly Pris stood up again.
+
+Исидор пошел на кухню и нашел несколько пыльных тарелок и стаканов. Он тщательно их вымыл. Высушив их, он открыл вино и разделил еду. Прис села и попробовала фрукты. Потом она начала плакать. Исидор не знал, что делать. Внезапно Прис снова встал.
+
+"We lived on Mars," she said slowly. "All of us. It was an awful place. If you think I'm miserable now, well, I was <span class='tip-wrap' data-text='much [мАч] {наречие} много; гораздо'>**much**<span class='tip-text'> </span></span> more unhappy there. And very lonely."
+
+«Мы жили на Марсе», — медленно сказала она. «Все мы. Это было ужасное место. Если вы думаете, что я сейчас несчастен, то там я был гораздо более несчастен. И очень одинок».
+
+"Don't the androids keep you company? I heard an advertisement..."
+
+«Разве андроиды не составляют тебе компанию? Я слышал рекламу…»
+
+She drank a little wine. "The androids," she said, "are lonely too."
+
+Она выпила немного вина. «Андроиды, — сказала она, — тоже одиноки».
+
+Isidore opened his mouth to speak again, but at that moment there was a knock on the front door. Pris looked at Isidore white-faced.
+
+Исидор открыл было рот, чтобы еще раз заговорить, но в этот момент во входную дверь постучали. Прис посмотрела на Исидора, побледневшего.
+
+"We can't open it," she whispered. "Don't make any noise!"
+
+«Мы не можем его открыть», — прошептала она. «Не шуми!»
+
+A woman's voice called from the hall, "Pris? Are you in there?" Then a man, "It's Roy and Irmgard. We got your card."
+
+Из холла послышался женский голос: «Прис? Ты здесь?» Потом мужчина: «Это Рой и Ирмгард. Мы получили вашу карточку».
+
+Pris stood up and <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> a pen and paper. She wrote a message and passed it to Isidore. YOU GO TO THE DOOR.
+
+Прис встала и нашла ручку и бумагу. Она написала послание и передала его Исидору. ВЫ ПОДХОДИТЕ К ДВЕРИ.
+
+Isidore took her pen nervously and wrote: AND SAY WHAT?
+
+Исидор нервно взял ее перо и написал: И ЧТО СКАЖИ?
+
+Angrily, Pris replied: SEE IF IT'S REALLY THEM.
+
+В гневе Прис ответила: ПОСМОТРИ, ДЕЙСТВИТЕЛЬНО ЭТО ОНИ.
+
+Isidore walked slowly into the <span class='tip-wrap' data-text='living [лЫвыŋ] {существительное} жизнь'>**living**<span class='tip-text'> </span></span> room. How will I know if it is them? he asked himself. He opened the door.
+
+Исидор медленно вошел в гостиную. Как я узнаю, что это они? — спросил он себя. Он открыл дверь.
+
+Two people stood in the dark hall. One was a small, beautiful woman in fashionable clothes with blue eyes and golden hair. The man had intelligent eyes and a <span class='tip-wrap' data-text='flat [флЭт] {прилагательное} плоский [3]'>**flat**<span class='tip-text'> </span></span> face that made him look foreign.
+
+В темном зале стояли два человека. Одна была маленькая красивая женщина в модной одежде с голубыми глазами и золотистыми волосами. У этого человека были умные глаза и плоское лицо, из-за которого он выглядел иностранцем.
+
+"We're looking..." the woman began, but then she looked past Isidore and ran into the apartment calling, "Pris! How are you?" Isidore turned. The women were in each other's arms. He stood back and Roy Baty followed his wife in. He had an <span class='tip-wrap' data-text='odd [Ад] {прилагательное} странный [2]; нечетный [2]; необычный [2]; лишний [1]; случайный [1]; чудной [1]; непарный [1]; эксцентричный [1]; разрозненный [1]; добавочный [1]; остающийся [1]; свободный [1]; незанятый [1]'>**odd**<span class='tip-text'> </span></span>, cold smile on his face.
+
+- Ищем... - начала женщина, но потом посмотрела мимо Исидора и побежала в квартиру с криком: "Прис! Как дела?" Исидор повернулся. Женщины были в объятиях друг друга. Он отступил, и Рой Бэти последовал за женой. На его лице играла странная холодная улыбка.
+
+"Can we talk?" Roy said to Pris, and then looked at Isidore.
+
+"Мы можем поговорить?" — сказал Рой Прис, а затем посмотрел на Исидора.
+
+"More or less," Pris answered, smiling with happiness. She took the two visitors to one side and whispered for a moment, then she turned back to Isidore, who was starting to feel very uncomfortable.
+
+«Более или менее», — ответила Прис, счастливо улыбаясь. Она отвела двух посетителей в сторону и какое-то время что-то шептала, затем снова повернулась к Исидору, который начал чувствовать себя очень неуютно.
+
+"This is Mr Isidore," Pris told her friends. "He's been looking after me. He brought me some natural food."
+
+«Это мистер Исидор», — сказала Прис своим друзьям. «Он присматривал за мной. Он принес мне немного натуральной еды».
+
+"Food..." repeated Irmgard, and went into the kitchen to see. "Fruit!" She started eating it immediately. Isidore <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> her warmer than Pris and followed her to the table. "You're from Mars."
+
+- Еда... - повторила Ирмгард и пошла на кухню посмотреть. "Фрукты!" Она сразу начала его есть. Исидор нашел ее теплее, чем Прис, и последовал за ней к столу. «Вы с Марса».
+
+"Yes," she answered, and her blue eyes shone at him. "What an awful building you live in. Nobody else lives here, do they? We didn't see any other lights."
+
+«Да», — ответила она, и ее голубые глаза сверкнули на него. «В каком ужасном здании вы живете. Здесь больше никто не живет, не так ли? Других огней мы не видели».
+
+"I live upstairs," Isidore explained.
+
+«Я живу наверху», — объяснил Исидор.
+
+"Oh, I thought perhaps you and Pris were living together."
+
+«О, я думал, возможно, вы с Прис живете вместе».
+
+Roy and Pris had come into the kitchen after them.
+
+Вслед за ними на кухню пришли Рой и Прис.
+
+"Well, they got Polokov," Roy said. Pris's happy smile disappeared.
+
+«Ну, Полоков у них есть», — сказал Рой. Счастливая улыбка Прис исчезла.
+
+"Who else?" she asked.
+
+"Кто еще?" она спросила.
+
+"Anders and Gitchel before that. Garland, and then - a little earlier today - they got Luba." He sounded pleased that he was shocking Pris.
+
+— До этого Андерс и Гитчел. Гарленд, а потом — чуть раньше сегодня — они получили Любу. Казалось, он был доволен тем, что шокировал Прис.
+
+"So that leaves..."
+
+«Так что остается…»
+
+"The three of us," Irmgard said.
+
+«Мы трое», — сказала Ирмгард.
+
+"That's why we're here," Roy added.
+
+«Вот почему мы здесь», — добавил Рой.
+
+"They had this <span class='tip-wrap' data-text='killer [кЫлэр] {существительное} убийца [3]; киллер [2]'>**killer**<span class='tip-text'> </span></span> called Dave Holden," Irmgard explained anxiously. "Polokov almost got him, and now he's in hospital. He gave his list to another <span class='tip-wrap' data-text='killer [кЫлэр] {существительное} убийца [3]; киллер [2]'>**killer**<span class='tip-text'> </span></span> and Polokov almost got him too. But in the end he killed Polokov. And then he went after Luba. She phoned Garland and Garland sent someone to <span class='tip-wrap' data-text='pick [пЫк] {глагол} выбирать'>**pick**<span class='tip-text'> </span></span> him up. She thought Garland would kill him, but something went wrong on Mission Street. We don't know what."
+
+«У них был убийца по имени Дэйв Холден», — с тревогой объяснила Ирмгард. "Полоков почти поймал его, и теперь он в больнице. Он отдал свой список другому убийце, и Полоков почти поймал и его. Но в конце концов он убил Полокова. А потом он пошел за Любой. Она позвонила Гарланду, и Гарланд послал кого-то забрать Она думала, что Гарланд убьет его, но на Мишн-стрит что-то пошло не так. Мы не знаем, что именно.
+
+"Does this <span class='tip-wrap' data-text='killer [кЫлэр] {существительное} убийца [3]; киллер [2]'>**killer**<span class='tip-text'> </span></span> have our names?" Pris asked.
+
+«У этого убийцы есть наши имена?» – спросила Прис.
+
+"Oh yes, dear, he <span class='tip-wrap' data-text='probably [прАбэблИ] {наречие} вероятно'>**probably**<span class='tip-text'> </span></span> does. But he doesn't know where we are. Roy and I have brought all our things, and we'll move into one of these apartments."
+
+«О да, дорогая, он, вероятно, знает. Но он не знает, где мы находимся. Мы с Роем привезли все наши вещи и переедем в одну из этих квартир».
+
+"Is that a g-good idea?" Isidore suddenly managed to speak. "T-to be all in one place?"
+
+— Это п-хорошая идея? Исидору внезапно удалось заговорить. — Т-чтобы быть все в одном месте?
+
+"It may not make any difference," Irmgard said. Her voice was strangely <span class='tip-wrap' data-text='flat [флЭт] {прилагательное} плоский [3]'>**flat**<span class='tip-text'> </span></span> now, without <span class='tip-wrap' data-text='expression [ыкспрЕшэн] {существительное} выражение'>**expression**<span class='tip-text'> </span></span>. They're all <span class='tip-wrap' data-text='odd [Ад] {прилагательное} странный [2]; нечетный [2]; необычный [2]; лишний [1]; случайный [1]; чудной [1]; непарный [1]; эксцентричный [1]; разрозненный [1]; добавочный [1]; остающийся [1]; свободный [1]; незанятый [1]'>**odd**<span class='tip-text'> </span></span>, Isidore thought. <span class='tip-wrap' data-text='except [ыксЕпт] {предлог} кроме'>**Except**<span class='tip-text'> </span></span> Pris. She was really frightened - she seemed almost normal. But...
+
+«Возможно, это не имеет никакого значения», — сказала Ирмгард. Ее голос теперь был странно ровным, без выражения. «Они все странные», — подумал Исидор. Кроме Приса. Она была очень напугана – казалась почти нормальной. Но...
+
+"Why don't you move in with him?" Roy asked Pris, pointing to Isidore. "He could give you some <span class='tip-wrap' data-text='protection [прэтЕкшэн] {существительное} охрана (также защита)'>**protection**<span class='tip-text'> </span></span>."
+
+— Почему бы тебе не переехать к нему? — спросил Рой у Прис, указывая на Исидора. «Он мог бы дать тебе некоторую защиту».
+
+"A chickenhead?" Pris said. "I'm not going to live with a chickenhead."
+
+— Куриная голова? - сказала Прис. «Я не собираюсь жить с цыплёнком».
+
+"You shouldn't be proud at a time like this," Irmgard told her, speaking quickly. "The killers may come tonight."
+
+«Тебе не следует гордиться в такое время», — быстро сказала ей Ирмгард. «Убийцы могут прийти сегодня вечером».
+
+"I think you should move in with Isidore, Pris," Roy agreed. "And we'll stay here too so we can help each other. I'll put in a listening system so that we can hear what's happening in your apartment, and you can hear us, and I'll also organize some alarms. If he's coming, he'll arrive soon, because that's how they work. If he doesn't come, we'll move somewhere else."
+
+«Я думаю, тебе стоит переехать к Исидору, Прис», — согласился Рой. «И мы тоже останемся здесь, чтобы помогать друг другу. Я поставлю подслушивающую систему, чтобы мы могли слышать, что происходит в вашей квартире, и вы могли слышать нас, а также я организую несколько сигнализаций. Если он придет, он скоро придет, потому что так они работают. Если он не придет, мы переедем куда-нибудь еще».
+
+Isidore spoke: "I g-gather from l-listening to Mr Baty that he's your natural leader."
+
+Исидор заговорил: — Судя по л-слушанию г-на Бэти, я понял, что он ваш естественный лидер.
+
+"Oh, yes. He's a leader," Irmgard said. "He planned our... <span class='tip-wrap' data-text='trip [трЫп] {существительное} поездка'>**trip**<span class='tip-text'> </span></span>, from Mars to here."
+
+«О, да. Он лидер», — сказала Ирмгард. «Он спланировал наше... путешествие с Марса сюда».
+
+"Then," Isidore said, "you must do what h-he suggests." His voice was full of hope. "Pris, if you l-<span class='tip-wrap' data-text='live [лАйв] {прилагательное} реальный [3]; живой [3]'>**live**<span class='tip-text'> </span></span> with me, I'll stay at h-home for a few days. To make <span class='tip-wrap' data-text='sure [шУр] {прилагательное} верный; уверенный'>**sure**<span class='tip-text'> </span></span> you're all right." Unbelievable, he thought, that the police can't do anything. These people must have done something. But nobody kills another human being these days.
+
+— Тогда, — сказал Исидор, — ты должен сделать то, что он предлагает. Его голос был полон надежды. «Прис, если ты будешь жить со мной, я останусь дома на несколько дней. Чтобы убедиться, что с тобой все в порядке». Невероятно, подумал он, что полиция ничего не может сделать. Эти люди, должно быть, что-то сделали. Но в наши дни никто не убивает другого человека.
+
+"The chickenhead," Pris said, "likes me."
+
+— Курица, — сказала Прис, — я нравлюсь.
+
+"Don't call him that," Irmgard said, giving Isidore a warm look. "Think what he could call you."
+
+— Не называй его так, — сказала Ирмгард, тепло взглянув на Исидора. «Подумай, как он мог бы тебя назвать».
+
+"I'll go and get some wires," Roy said, "Irmgard and I'll stay in this apartment." He hurried out of the front door.
+
+«Я пойду и возьму провода, — сказал Рой. — Мы с Ирмгард останемся в этой квартире». Он поспешил через парадную дверь.
+
+"OK, J.R., I'll move in with you and you can protect me," Pris told him.
+
+«Хорошо, Джей Ар, я перееду к тебе, и ты сможешь защитить меня», — сказал ему Прис.
+
+Irmgard touched Isidore's <span class='tip-wrap' data-text='arm [Арм] {существительное} отделение (осн. рука)'>**arm**<span class='tip-text'> </span></span>. "I want you to know that we're very grateful to you, Mr Isidore. You're the first friend that any of us have <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> on Earth. I hope that one day we can repay your kindness."
+
+Ирмгард коснулась руки Исидора. «Я хочу, чтобы вы знали, что мы очень благодарны вам, мистер Исидор. Вы первый друг, которого любой из нас нашел на Земле. Я надеюсь, что однажды мы сможем отплатить вам за доброту».
+
+Isidore led Pris upstairs to his own apartment. He turned on the lights, the heater and the only television station that worked.
+
+Исидор повел Приса наверх, в его собственную квартиру. Он включил свет, обогреватель и единственную работавшую телевизионную станцию.
+
+"I like this," Pris said, although her normal bitter <span class='tip-wrap' data-text='expression [ыкспрЕшэн] {существительное} выражение'>**expression**<span class='tip-text'> </span></span> did not show any pleasure. "None of it's true, you know. We're all crazy; we took a lot of drugs on Mars and now we <span class='tip-wrap' data-text='imagine [ЫмЭджэн] {глагол} вообразить'>**imagine**<span class='tip-text'> </span></span> things, have group dreams. We don't know what's real and what isn't."
+
+«Мне это нравится», — сказала Прис, хотя ее обычное горькое выражение лица не выражало никакого удовольствия. «Знаете, все это неправда. Мы все сумасшедшие; мы приняли много наркотиков на Марсе, а теперь воображаем разные вещи, видим групповые сны. Мы не знаем, что реально, а что нет».
+
+"I didn't think it was true," Isidore said happily.
+
+«Я не думал, что это правда», — радостно сказал Исидор.
+
+"Why didn't you?" She stared at him.
+
+«Почему ты этого не сделал?» Она уставилась на него.
+
+"B-because the government never kills anyone, for any crime. And Mercerism..."
+
+«Б-потому что правительство никогда никого не убивает за какое-либо преступление. А мерсеризм…»
+
+"But if you're not human," Pris said, "it's all different."
+
+«Но если ты не человек, — сказала Прис, — все по-другому».
+
+"That's not true. Even animals - and birds - are protected by law."
+
+«Это неправда. Даже животные и птицы находятся под защитой закона».
+
+"<span class='tip-wrap' data-text='especially [эспЕшли] {наречие} особенно'>**Especially**<span class='tip-text'> </span></span> insects," Roy added. He had come in while they were talking. He lifted a picture from the <span class='tip-wrap' data-text='living [лЫвыŋ] {существительное} жизнь'>**living**<span class='tip-text'> </span></span>-room wall, hung a small <span class='tip-wrap' data-text='piece [пИс] {существительное} кусок (также пьеса)'>**piece**<span class='tip-text'> </span></span> of listening <span class='tip-wrap' data-text='equipment [ыкуЫпмэнт] {существительное} оборудование'>**equipment**<span class='tip-text'> </span></span>, and covered it again with the picture. "Now the alarm. These wires go under the carpet. The alarm rings if a - if somebody else steps on them. Not one of us."
+
+«Особенно насекомые», — добавил Рой. Он вошел, пока они разговаривали. Он снял картину со стены гостиной, повесил небольшой аппарат для прослушивания и снова накрыл ее картиной. - Теперь сигнализация. Эти провода проходят под ковром. Сигнализация звонит, если... если кто-то другой наступит на них. Не один из нас.
+
+"And when it rings? He'll have a gun," Pris said.
+
+— А когда прозвенит? У него будет пистолет, — сказал Прис.
+
+"This system has a <span class='tip-wrap' data-text='mood [мУд] {существительное} настроение [3]; наклонение [2]'>**mood**<span class='tip-text'> </span></span> machine in it. Unless our visitor acts very fast, he'll feel a great <span class='tip-wrap' data-text='sense [сЕнс] {существительное} смысл (также чувство)'>**sense**<span class='tip-text'> </span></span> of <span class='tip-wrap' data-text='fear [фЫр] {существительное} страх'>**fear**<span class='tip-text'> </span></span>. He won't be able to stay here for more than a few seconds before running away. Then we'll catch him."
+
+«В этой системе есть машина настроения. Если наш посетитель не будет действовать очень быстро, он почувствует сильное чувство страха. Он не сможет оставаться здесь более нескольких секунд, прежде чем убежать. Тогда мы Поймай его."
+
+"But the alarm will have an effect on Isidore too," Pris reminded Roy.
+
+«Но тревога повлияет и на Исидора», — напомнила Рою Прис.
+
+"That doesn't <span class='tip-wrap' data-text='matter [мЭтэр] {глагол} иметь значение'>**matter**<span class='tip-text'> </span></span>. They'll both rush out. But Isidore won't start the alarm by himself. It needs another human. And the <span class='tip-wrap' data-text='killer [кЫлэр] {существительное} убийца [3]; киллер [2]'>**killer**<span class='tip-text'> </span></span> won't attack Isidore; he's not on the list."
+
+«Это не имеет значения. Они оба выбегут. Но Исидор сам не заведет тревогу. Нужен другой человек. И убийца не нападет на Исидора, его нет в списке».
+
+"You're androids," Isidore realized. "I see why they want to kill you. <span class='tip-wrap' data-text='actually [ЭкчУэли] {наречие} действительно'>**Actually**<span class='tip-text'> </span></span>, you're not <span class='tip-wrap' data-text='alive [элАйв] {прилагательное} живой'>**alive**<span class='tip-text'> </span></span>." He understood everything now. The <span class='tip-wrap' data-text='killer [кЫлэр] {существительное} убийца [3]; киллер [2]'>**killer**<span class='tip-text'> </span></span>, the deaths of their friends, the <span class='tip-wrap' data-text='trip [трЫп] {существительное} поездка'>**trip**<span class='tip-text'> </span></span> to earth. "It doesn't <span class='tip-wrap' data-text='matter [мЭтэр] {глагол} иметь значение'>**matter**<span class='tip-text'> </span></span> to me. I'm a <span class='tip-wrap' data-text='special [спЕшэл] {прилагательное} особый (также специальный)'>**special**<span class='tip-text'> </span></span>. They're not very nice to me either. I can't emigrate." He couldn't stop talking now. "You can't come here; I can't..." He calmed himself.
+
+«Вы андроиды», — понял Исидор. «Я понимаю, почему они хотят тебя убить. На самом деле тебя нет в живых». Теперь он все понял. Убийца, смерть друзей, путешествие на Землю. «Для меня это не имеет значения. Я особенный. Они тоже не очень хорошо ко мне относятся. Я не могу эмигрировать». Теперь он не мог перестать говорить. «Тебе нельзя сюда приходить, я не могу…» Он успокоил себя.
+
+After a pause, Roy Baty said, "You wouldn't like Mars. You aren't missing anything."
+
+После паузы Рой Бэти сказал: «Марс вам не понравится. Вы ничего не упускаете».
+
+"We are different, aren't we?" Pris said.
+
+«Мы разные, не так ли?» - сказал Прис.
+
+"I wish I had your <span class='tip-wrap' data-text='intelligence [ЫнтЕлэджэнс] {существительное} интеллект; разведка'>**intelligence**<span class='tip-text'> </span></span>," Isidore said. "Then I wouldn't be a chickenhead. I could learn a lot from you."
+
+«Я бы хотел обладать твоим интеллектом», — сказал Исидор. «Тогда я бы не был болваном. Я мог бы многому у тебя научиться».
+
+Roy finished his alarm system in silence.
+
+Рой молча включил сигнализацию.
+
+"He doesn't understand," said Pris in a <span class='tip-wrap' data-text='sharp [шАрп] {прилагательное} резкий [3]; острый [3]; крутой [2]'>**sharp**<span class='tip-text'> </span></span> voice, "how we got off Mars. What we did there."
+
+«Он не понимает, — сказал Прис резким голосом, — как мы выбрались с Марса. Что мы там делали».
+
+Irmgard spoke. She was standing at the door. "I don't think we have to worry about Mr Isidore," she said seriously, looking up into Isidore's face. "He knows us and he likes us... and that's everything to him. It's hard for us to understand that, but it's true."
+
+Ирмгард заговорила. Она стояла у двери. «Я не думаю, что нам стоит беспокоиться о мистере Исидоре», — серьезно сказала она, глядя ему в лицо. «Он нас знает, и мы ему нравимся... и это все для него. Нам трудно это понять, но это правда».
+
+"You're a great man, Isidore," Pris said.
+
+«Ты великий человек, Исидор», — сказала Прис.
+
+"If he were an android," Roy added, laughing, "he'd call the police tomorrow morning on his way to work. But he's going to keep <span class='tip-wrap' data-text='quiet [куАйэт] {прилагательное} тихий'>**quiet**<span class='tip-text'> </span></span> to help us. Isn't that wonderful?" Isidore could not tell if he was sincere or not. "And we imagined this would be a friendless world."
+
+«Если бы он был андроидом, — добавил Рой, смеясь, — он бы позвонил в полицию завтра утром по дороге на работу. Но он будет хранить молчание, чтобы помочь нам. Разве это не чудесно?» Исидор не мог сказать, искренен он или нет. «И мы представляли, что это будет мир без друзей».
+
+"I'm not worried," Irmgard said.
+
+«Я не волнуюсь», — сказала Ирмгард.
+
+"You should be," said Roy.
+
+«Так и должно быть», — сказал Рой.
+
+"Let's vote," Pris suggested, "like we did on the <span class='tip-wrap' data-text='ship [шЫп] {существительное} корабль'>**ship**<span class='tip-text'> </span></span>."
+
+«Давайте проголосуем, — предложил Прис, — как мы это сделали на корабле».
+
+"Well, I won't say anything more," said Irmgard, "but I think Mr Isidore is..."
+
+- Ну, я больше ничего не скажу, - сказала Ирмгард, - но я думаю, что господин Исидор...
+
+"Special," Pris said.
+
+«Особенный», — сказал Прис.
+
+Irmgard and Pris voted to stay. Roy voted to kill Isidore and move somewhere else. The females won.
+
+Ирмгард и Прис проголосовали за то, чтобы остаться. Рой проголосовал за убийство Исидора и переезд в другое место. Женщины победили.
+
+"I'm tired, Isidore," Roy explained as he accepted defeat, it's been a long <span class='tip-wrap' data-text='trip [трЫп] {существительное} поездка'>**trip**<span class='tip-text'> </span></span>."
+
+«Я устал, Исидор», — объяснил Рой, признавая поражение. Это было долгое путешествие.
+
+"I hope," said Isidore happily, "I can help make your stay on Earth pleasant." After his <span class='tip-wrap' data-text='recent [рИсэнт] {прилагательное} недавний'>**recent**<span class='tip-text'> </span></span> experience with the videophone, he felt <span class='tip-wrap' data-text='sure [шУр] {прилагательное} верный; уверенный'>**sure**<span class='tip-text'> </span></span> he could.
+
+«Надеюсь, — радостно сказал Исидор, — я смогу помочь сделать твое пребывание на Земле приятным». После недавнего опыта работы с видеофоном он был уверен, что сможет.
+
+CHAPTER SEVEN
+
+ГЛАВА СЕДЬМАЯ
+
+A Call for Help
+
+Призыв о помощи
+
+As soon as he officially finished work that evening, Rick Deckard flew <span class='tip-wrap' data-text='across [экрОс] {предлог} через'>**across**<span class='tip-text'> </span></span> town to animal row, a street of animal dealers with huge glass windows and <span class='tip-wrap' data-text='bright [брАйт] {прилагательное} яркий'>**bright**<span class='tip-text'> </span></span> signs. The <span class='tip-wrap' data-text='depression [дыпрЕшэн] {существительное} депрессия [3]; снижение [2]; углубление [2]; впадина [2]; разрежение [2]; тоска [2]'>**depression**<span class='tip-text'> </span></span> that had hit him earlier that day had not lifted, but the <span class='tip-wrap' data-text='sight [сАйт] {существительное} взгляд (также зрение)'>**sight**<span class='tip-text'> </span></span> of animals always made him feel better.
+
+Как только он официально закончил работу в тот вечер, Рик Декард полетел через весь город на Скотный ряд, улицу торговцев животными с огромными стеклянными окнами и яркими вывесками. Депрессия, охватившая его в тот день, не прошла, но вид животных всегда помогал ему чувствовать себя лучше.
+
+"Yes, sir," a salesman said as he stared at the creatures in one of the shops. "See anything you like?"
+
+«Да, сэр», — сказал продавец, глядя на существ в одном из магазинов. — Видишь что-нибудь, что тебе нравится?
+
+"I like all of them," Rick replied. "The problem is the <span class='tip-wrap' data-text='cost [кАст] {существительное} стоимость'>**cost**<span class='tip-text'> </span></span>. I've got three thousand dollars." The station had paid him his money for the three androids.
+
+«Мне они все нравятся», — ответил Рик. «Проблема в цене. У меня есть три тысячи долларов». Станция заплатила ему деньги за трех андроидов.
+
+"What about a goat, sir? Three thousand is a good first <span class='tip-wrap' data-text='payment [пЕймэнт] {существительное} оплата [3]; платеж [3]; плата [3]; уплата [2]; взнос [2]'>**payment**<span class='tip-text'> </span></span> on a goat. The <span class='tip-wrap' data-text='advantage [эдвЭнтыдж] {существительное} преимущество'>**advantage**<span class='tip-text'> </span></span> of a goat is that you can teach it to attack thieves. And, unlike other animals, it can eat anything. If a cow or a horse eats something radioactive, it dies. A cat's the same. But not a goat, sir. This one's female - a very beautiful black Nubian female. And the price is good." The assistant wrote a figure on a <span class='tip-wrap' data-text='piece [пИс] {существительное} кусок (также пьеса)'>**piece**<span class='tip-text'> </span></span> of paper.
+
+- А как насчет козы-с? Три тысячи - это хороший первый взнос за козу. Преимущество козы в том, что ее можно научить нападать на воров. И, в отличие от других животных, она может есть все, что угодно. Если корова или лошадь ест что-то радиоактивное, она умирает. Кошка такая же, но не коза, сэр. Это самка - очень красивая черная нубийская самка. И цена хорошая. Ассистент написал цифру на листе бумаги.
+
+Rick checked his Sydney's. Then he took the <span class='tip-wrap' data-text='piece [пИс] {существительное} кусок (также пьеса)'>**piece**<span class='tip-text'> </span></span> of paper and wrote a lower figure.
+
+Рик проверил свой Сидни. Затем он взял лист бумаги и написал нижнюю цифру.
+
+"Oh, no. That's not enough! She's less than a year old." The assistant wrote again.
+
+«О, нет. Этого недостаточно! Ей меньше года». Ассистент написал еще раз.
+
+"It's a deal," Rick said, and passed over all his money.
+
+«Это сделка», — сказал Рик и отдал все свои деньги.
+
+Employees of the animal <span class='tip-wrap' data-text='dealer [дИлэр] {существительное} дилер [3]; торговец [2]'>**dealer**<span class='tip-text'> </span></span> helped him load the goat into his hovercar. I own an animal now, Rick said to himself. A living animal, not <span class='tip-wrap' data-text='electric [ылЕктрык] {прилагательное} электрический [3]'>**electric**<span class='tip-text'> </span></span>. For the second time in my life. The <span class='tip-wrap' data-text='cost [кАст] {существительное} стоимость'>**cost**<span class='tip-text'> </span></span> frightened him; he <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> that he was shaking. But I had to do it, he told himself. The experience with Phil Resch - I need to find my <span class='tip-wrap' data-text='confidence [кАнфэдэнс] {существительное} уверенность'>**confidence**<span class='tip-text'> </span></span> again, or I won't keep my job.
+
+Сотрудники зооторговца помогли ему погрузить козу в его ховеркар. «Теперь у меня есть животное», — сказал себе Рик. Живое животное, а не электрическое. Второй раз в жизни. Цена его испугала; он обнаружил, что его трясет. «Но я должен это сделать», — сказал он себе. Опыт с Филом Решем: мне нужно снова обрести уверенность, иначе я не смогу сохранить свою работу.
+
+He drove off in the direction of his apartment and Iran. She'll be angry, he thought, because we're <span class='tip-wrap' data-text='responsible [риспАнсэбэл] {прилагательное} ответственный'>**responsible**<span class='tip-text'> </span></span> for this goat now. And she'll have to look after it <span class='tip-wrap' data-text='since [сЫнс] {предлог} с (также после)'>**since**<span class='tip-text'> </span></span> she's at home all day. Again he felt depressed. He landed on the <span class='tip-wrap' data-text='roof [рУф] {существительное} крыша [3]; кровля [2]; потолок [2]'>**roof**<span class='tip-text'> </span></span> and lifted the goat out. It looked at him with <span class='tip-wrap' data-text='bright [брАйт] {прилагательное} яркий'>**bright**<span class='tip-text'> </span></span> eyes but made no sound. Rick hurried downstairs.
+
+Он уехал в сторону своей квартиры и Ирана. «Она рассердится, — подумал он, — потому что теперь мы несем ответственность за эту козу». И ей придется за ним присматривать, так как она весь день дома. Он снова почувствовал себя подавленным. Он приземлился на крышу и вытащил козу. Оно посмотрело на него яркими глазами, но не издало ни звука. Рик поспешил вниз.
+
+"<span class='tip-wrap' data-text='hello [хэлOу] {междометие} привет [3]'>**Hello**<span class='tip-text'> </span></span>," Iran greeted him, busy with the dinner. "You're late tonight."
+
+«Здравствуйте», — поприветствовал его Иран, занятый ужином. «Ты сегодня опоздал».
+
+"Come up to the <span class='tip-wrap' data-text='roof [рУф] {существительное} крыша [3]; кровля [2]; потолок [2]'>**roof**<span class='tip-text'> </span></span>," Rick said. "I want to show you something."
+
+«Поднимитесь на крышу», сказал Рик. "Я хочу показать тебе кое-что."
+
+"You bought an animal!" She followed him immediately. "But why did you buy it without me? It's the <span class='tip-wrap' data-text='most [мOуст] {наречие} очень'>**most**<span class='tip-text'> </span></span> important thing we'll <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span> buy. You made some money, didn't you?"
+
+«Вы купили животное!» Она немедленно последовала за ним. «Но почему ты купил это без меня? Это самая важная вещь, которую мы когда-либо купим. Ты заработал немного денег, не так ли?»
+
+"Yes. I killed three androids. I had to buy this," Rick explained. "Something went wrong today, something about killing them. I need an animal so that I can continue."
+
+«Да. Я убил трех андроидов. Мне пришлось купить это», — объяснил Рик. «Что-то сегодня пошло не так, что-то из-за их убийства. Мне нужно животное, чтобы я мог продолжить».
+
+They were outside now, and he pointed silently at the goat.
+
+Они уже были снаружи, и он молча указал на козу.
+
+"Oh, my god!" Iran said softly. "A black Nubian goat. Is it real?"
+
+"Боже мой!" - мягко сказал Иран. «Черная нубийская коза. Это правда?»
+
+"Yes," Rick replied. "It's real, and it's female, so perhaps we'll have babies one day. And we can make <span class='tip-wrap' data-text='cheese [чИз] {существительное} сыр [3]; творог [2]'>**cheese**<span class='tip-text'> </span></span> from her milk."
+
+«Да», ответил Рик. «Оно настоящее, оно женского пола, так что, возможно, однажды у нас родятся дети. И мы сможем делать сыр из ее молока».
+
+Iran put her hand gently on his <span class='tip-wrap' data-text='shoulder [шOулдэр] {существительное} плечо; обочина'>**shoulder**<span class='tip-text'> </span></span> and kissed him. "I love you," she said.
+
+Иран нежно положила руку ему на плечо и поцеловала. «Я люблю тебя», сказала она.
+
+"Thank you," he said, and kissed her.
+
+— Спасибо, — сказал он и поцеловал ее.
+
+Iran pulled at his <span class='tip-wrap' data-text='arm [Арм] {существительное} отделение (осн. рука)'>**arm**<span class='tip-text'> </span></span>. "Let's run downstairs and thank Mercer. Then we can come up here again and name her."
+
+Иран потянул его за руку. «Давай сбежим вниз и поблагодарим Мерсера. Тогда мы сможем прийти сюда снова и назвать ее».
+
+As they walked inside, their neighbour Bill Barbour called to them.
+
+Когда они вошли внутрь, их окликнул сосед Билл Барбур.
+
+"That's a nice-looking goat you have there, Deckard. Congratulations. One baby horse for two little goats one day, perhaps?"
+
+«Какая хорошенькая коза у тебя, Декард. Поздравляю. Может быть, когда-нибудь один лошадка на двух козлят?»
+
+"Thank you," Rick said. "Does this put an end to your <span class='tip-wrap' data-text='depression [дыпрЕшэн] {существительное} депрессия [3]; снижение [2]; углубление [2]; впадина [2]; разрежение [2]; тоска [2]'>**depression**<span class='tip-text'> </span></span>?" he asked his wife.
+
+«Спасибо», сказал Рик. «Положит ли это конец вашей депрессии?» — спросил он жену.
+
+"It certainly does," she answered. "Come on. We must <span class='tip-wrap' data-text='share [шЕр] {глагол} делиться; разделять'>**share**<span class='tip-text'> </span></span> this <span class='tip-wrap' data-text='mood [мУд] {существительное} настроение [3]; наклонение [2]'>**mood**<span class='tip-text'> </span></span> with everyone."
+
+«Конечно, да», ответила она. «Давай. Мы должны поделиться этим настроением со всеми».
+
+She was right, of course, although she experienced this sharing more easily than he did. When they reached their <span class='tip-wrap' data-text='living [лЫвыŋ] {существительное} жизнь'>**living**<span class='tip-text'> </span></span> room, they turned on the empathy box. The screen showed streams of colours and Iran reached for the handles.
+
+Она, конечно, была права, хотя пережила это разделение легче, чем он. Добравшись до своей гостиной, они включили ящик сочувствия. На экране появились потоки цветов, и Иран потянулся к ручкам.
+
+"Listen, Iran," Rick said urgently, pulling her away from the box, "I need to talk about what happened today. I met another <span class='tip-wrap' data-text='killer [кЫлэр] {существительное} убийца [3]; киллер [2]'>**killer**<span class='tip-text'> </span></span>; one who seemed to <span class='tip-wrap' data-text='enjoy [ЕнджОй] {глагол} наслаждаться'>**enjoy**<span class='tip-text'> </span></span> killing. For the first time, after being with him, I began to empathize with the androids. Like you did this morning. That's why I bought the goat. Maybe it was a <span class='tip-wrap' data-text='depression [дыпрЕшэн] {существительное} депрессия [3]; снижение [2]; углубление [2]; впадина [2]; разрежение [2]; тоска [2]'>**depression**<span class='tip-text'> </span></span>. I never understood yours - I thought you could use the <span class='tip-wrap' data-text='mood [мУд] {существительное} настроение [3]; наклонение [2]'>**mood**<span class='tip-text'> </span></span> machine to come out of them. But when you're very depressed, you don't care. You have no worth..."
+
+«Послушай, Иран», - настойчиво сказал Рик, оттаскивая ее от коробки, - «Мне нужно поговорить о том, что произошло сегодня. Я встретил еще одного убийцу; того, который, похоже, получал удовольствие от убийства. Впервые после того, как я был с ним, я начал сопереживать андроидам, как ты сегодня утром. Вот почему я купил козу. Может быть, это была депрессия, я никогда не понимал твоей - я думал, что ты можешь использовать машину настроения, чтобы выйти из них. очень подавлен, тебе все равно. Ты ничего не стоишь...»
+
+"What about your job?" Iran said sharply. "Your job," she repeated. "I'm <span class='tip-wrap' data-text='glad [глЭд] {прилагательное} радостный [2]; довольный [2]; приятный [1]; счастливый [1]; веселый [1]; утешительный [1]; яркий [1]; прекрасный [1]'>**glad**<span class='tip-text'> </span></span> you got the goat, but now we've got all those monthly payments. Don't <span class='tip-wrap' data-text='forget [фэргЕт] {глагол} забывать'>**forget**<span class='tip-text'> </span></span> that."
+
+"Что насчет твоей работы?" – резко заявил Иран. «Твоя работа», повторила она. «Я рад, что у тебя есть коза, но теперь у нас есть все эти ежемесячные платежи. Не забывай об этом».
+
+The videophone rang. Rick froze.
+
+Зазвонил видеофон. Рик замер.
+
+"I'm not here," he said, and went into the bedroom.
+
+«Меня здесь нет», — сказал он и пошел в спальню.
+
+"<span class='tip-wrap' data-text='hello [хэлOу] {междометие} привет [3]'>**Hello**<span class='tip-text'> </span></span>," Iran greeted the caller. "Yes, he's here. We bought a goat. Come and see it, Mr Bryant." There was a pause while she listened and then she called to Rick. "He has something to say to you."
+
+«Здравствуйте», — поприветствовал звонившего Иран. «Да, он здесь. Мы купили козу. Приходите посмотреть, мистер Брайант». Была пауза, пока она слушала, а затем позвала Рика. «Ему есть что вам сказать».
+
+Iran left the phone and went to the empathy box. Rick was suddenly very conscious of being <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span>.
+
+Иран оставил телефон и подошел к ящику сочувствия. Рик внезапно почувствовал себя одиноким.
+
+"We have some information about two of the other androids," Bryant told him. "They've left the address that Dave gave you, and they've gone to... yes, Conapt Building 3967-C. Leave as soon as you can. They <span class='tip-wrap' data-text='probably [прАбэблИ] {наречие} вероятно'>**probably**<span class='tip-text'> </span></span> know about the ones you killed; that's the reason for their unlawful <span class='tip-wrap' data-text='flight [флАйт] {существительное} полет'>**flight**<span class='tip-text'> </span></span>."
+
+«У нас есть некоторая информация о двух других андроидах», — сказал ему Брайант. «Они оставили адрес, который дал вам Дэйв, и отправились в… да, здание Конапта 3967-C. Уходите, как только сможете. Они, вероятно, знают о тех, кого вы убили; в этом причина их незаконный полет».
+
+"Unlawful," Rick repeated. To save their lives.
+
+«Незаконно», повторил Рик. Чтобы спасти их жизни.
+
+"I'll come and look at your goat after you've killed them," Bryant said. "Oh, and I spoke to Dave. He says congratulations and be careful. These Nexus-6 types are more intelligent than we <span class='tip-wrap' data-text='imagine [ЫмЭджэн] {глагол} вообразить'>**imagine**<span class='tip-text'> </span></span>."
+
+«Я приду и посмотрю на твоих коз после того, как ты их убьешь», — сказал Брайант. «О, и я говорил с Дэйвом. Он передает поздравления и будьте осторожны. Эти типы Нексуса-6 более умны, чем мы думаем».
+
+"OK," Rick said slowly, "I'll go now. If I get them, I'm going to buy a sheep."
+
+«Хорошо», — медленно сказал Рик, — «Я пойду. Если я получу их, я куплю овцу».
+
+"You have a sheep. You've had it all the time I've known you."
+
+«У тебя есть овца. Она была у тебя все время, что я тебя знаю».
+
+"It's <span class='tip-wrap' data-text='electric [ылЕктрык] {прилагательное} электрический [3]'>**electric**<span class='tip-text'> </span></span>," Rick said. He hung up. A real sheep this time, he thought. I have to get one. A life for a death.
+
+«Он электрический», — сказал Рик. Он повесил трубку. «На этот раз настоящая овца», — подумал он. Я должен получить один. Жизнь ради смерти.
+
+His wife stood at the black empathy box, her face lit with deep happiness. He stood <span class='tip-wrap' data-text='beside [бысАйд] {предлог} рядом с'>**beside**<span class='tip-text'> </span></span> her with his hand on her chest, feeling it <span class='tip-wrap' data-text='rise [рАйз] {глагол} подниматься'>**rise**<span class='tip-text'> </span></span> and fall; the life in her, the activity. Iran did not <span class='tip-wrap' data-text='notice [нOутэс] {глагол} замечать'>**notice**<span class='tip-text'> </span></span> him. She was with Mercer.
+
+Его жена стояла у черной коробки сочувствия, ее лицо светилось глубоким счастьем. Он стоял рядом с ней, положив руку ей на грудь, чувствуя, как она поднимается и опускается; жизнь в ней, деятельность. Иран его не заметил. Она была с Мерсером.
+
+Rick watched the picture of Mercer climbing upwards, rocks flying <span class='tip-wrap' data-text='past [пЭст] {предлог} мимо; за'>**past**<span class='tip-text'> </span></span> him. My god, Rick thought, there's something worse about my situation than his. He feels pain, but at <span class='tip-wrap' data-text='least [лИст] {наречие} наименее'>**least**<span class='tip-text'> </span></span> he can be true to himself. Rick took his wife's hands gently from the handles and put his own there for the first time in weeks.
+
+Рик наблюдал за картиной Мерсера, карабкающегося вверх, а мимо него пролетали камни. Боже мой, подумал Рик, в моей ситуации есть что-то хуже, чем в его. Он чувствует боль, но, по крайней мере, он может быть верен себе. Рик осторожно снял руки жены с ручек и впервые за несколько недель положил туда свои.
+
+He was in a <span class='tip-wrap' data-text='desert [дЕзэрт] {существительное} пустыня [3]'>**desert**<span class='tip-text'> </span></span>, and a man stood in front of him.
+
+Он был в пустыне, и перед ним стоял человек.
+
+"Mercer," Rick said.
+
+«Мерсер», сказал Рик.
+
+"I am your friend," the man said, "but you must continue without me. Can you understand that?"
+
+«Я твой друг, — сказал мужчина, — но ты должен продолжать без меня. Ты можешь это понять?»
+
+"No," Rick said. "I need help."
+
+«Нет», сказал Рик. "Мне нужна помощь."
+
+"How can I save you if I can't save myself?" The old man smiled.
+
+«Как я могу спасти тебя, если я не могу спасти себя?» Старик улыбнулся.
+
+"Then what's this for?" Rick demanded. "What are you for?"
+
+«Тогда для чего это?» — потребовал Рик. «Зачем ты?»
+
+"To show you," Wilbur Mercer said, "that you aren't <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span>. I am here with you and I always will be. Do your job even if you know it's wrong."
+
+«Чтобы показать вам, — сказал Уилбур Мерсер, — что вы не одиноки. Я здесь с вами и всегда буду. Делайте свою работу, даже если знаете, что это неправильно».
+
+"Why?" asked Rick. "Why should I? I'll leave my job and emigrate."
+
+"Почему?" — спросил Рик. «Зачем? Я уйду с работы и эмигрирую».
+
+The old man said, "You will not be asked to do wrong. Every <span class='tip-wrap' data-text='creature [крИчэр] {существительное} создание [3]; тварь [2]; творение [2]; живое существо [2]'>**creature**<span class='tip-text'> </span></span> which lives sometimes has to do things it doesn't believe in. We all have to accept that."
+
+Старик сказал: «Вас не будут просить поступать неправильно. Каждому живому существу иногда приходится делать то, во что оно не верит. Мы все должны это принять».
+
+A flying rock hit Rick on the <span class='tip-wrap' data-text='ear [Ир] {существительное} ухо'>**ear**<span class='tip-text'> </span></span>, and he took his hands <span class='tip-wrap' data-text='off [Оф] {предлог} от; у'>**off**<span class='tip-text'> </span></span> the handles. His head hurt and blood was running down his face. Iran cleaned it for him.
+
+Летящий камень ударил Рика в ухо, и он убрал руки с ручек. У него болела голова, и кровь текла по лицу. Иран очистил это за него.
+
+"I <span class='tip-wrap' data-text='guess [гЕс] {глагол} догадываться'>**guess**<span class='tip-text'> </span></span> I'm <span class='tip-wrap' data-text='glad [глЭд] {прилагательное} радостный [2]; довольный [2]; приятный [1]; счастливый [1]; веселый [1]; утешительный [1]; яркий [1]; прекрасный [1]'>**glad**<span class='tip-text'> </span></span> you took me off the box," she said. "Thank you for taking the rock in my place."
+
+«Думаю, я рада, что ты вытащил меня из коробки», — сказала она. «Спасибо, что взял камень вместо меня».
+
+"I'm going," Rick said.
+
+«Я иду», сказал Рик.
+
+"The job?"
+
+"Работа?"
+
+"Three jobs." He went to the door. He was feeling <span class='tip-wrap' data-text='sick [сЫк] {прилагательное} больной'>**sick**<span class='tip-text'> </span></span> now.
+
+«Три работы». Он подошел к двери. Теперь ему было плохо.
+
+"Good <span class='tip-wrap' data-text='luck [лАк] {существительное} удача [3]; счастье [3]; везение [2]; судьба [2]'>**luck**<span class='tip-text'> </span></span>!" Iran said.
+
+"Удачи!" Иран сказал.
+
+"I didn't get anything from holding those handles," Rick told her. "Mercer doesn't know any more than I do. He's just an old man climbing a hill to his death."
+
+«Я ничего не получил, держась за эти ручки», — сказал ей Рик. «Мерсер знает не больше меня. Он просто старик, карабкающийся на холм навстречу своей смерти».
+
+"Isn't that what we have to learn?"
+
+«Разве это не то, чему нам нужно научиться?»
+
+"I already knew that. I'll see you later."
+
+«Я уже знал это. Увидимся позже».
+
+Conapt 3967-C, Rick thought. That's in the suburbs. A good place to hide, <span class='tip-wrap' data-text='except [ыксЕпт] {предлог} кроме'>**except**<span class='tip-text'> </span></span> for the lights at night. I'll look for the lights. And then, after this, I'll <span class='tip-wrap' data-text='earn [Эрн] {глагол} зарабатывать'>**earn**<span class='tip-text'> </span></span> my <span class='tip-wrap' data-text='salary [сЭлэри] {существительное} зарплата [3]; заработная плата [3]; оклад [2]; жалованье [2]'>**salary**<span class='tip-text'> </span></span> doing something else. These three are my last. But, he worried, can I <span class='tip-wrap' data-text='actually [ЭкчУэли] {наречие} действительно'>**actually**<span class='tip-text'> </span></span> kill three? I'm tired, <span class='tip-wrap' data-text='sick [сЫк] {прилагательное} больной'>**sick**<span class='tip-text'> </span></span> and alone... But I know where I can find help.
+
+Conapt 3967-C, подумал Рик. Это в пригороде. Хорошее место, чтобы спрятаться, если не считать ночных огней. Я поищу фонари. А потом, после этого, я буду зарабатывать зарплату, занимаясь чем-то другим. Эти трое мои последние. Но, беспокоился он, смогу ли я убить троих? Я устал, болен и одинок... Но я знаю, где найти помощь.
+
+He reached the <span class='tip-wrap' data-text='roof [рУф] {существительное} крыша [3]; кровля [2]; потолок [2]'>**roof**<span class='tip-text'> </span></span> and sat in his hovercar, dialling.
+
+Он добрался до крыши и сел в свой ховеркар, набирая номер.
+
+"Rachael Rosen, please," he said.
+
+«Рэйчел Розен, пожалуйста», — сказал он.
+
+A few minutes later, Rachael's face appeared. "<span class='tip-wrap' data-text='hello [хэлOу] {междометие} привет [3]'>**Hello**<span class='tip-text'> </span></span>, Mr Deckard. Your <span class='tip-wrap' data-text='ear [Ир] {существительное} ухо'>**ear**<span class='tip-text'> </span></span> is cut."
+
+Несколько минут спустя появилось лицо Рэйчел. «Здравствуйте, мистер Декард. У вас порезано ухо».
+
+"Did you think I wouldn't call you?"
+
+— Ты думал, я не позвоню тебе?
+
+"Well, you're calling now. Do you want me to come to San Francisco?"
+
+«Ну, ты сейчас звонишь. Хочешь, чтобы я приехал в Сан-Франциско?»
+
+"Tonight."
+
+"Сегодня вечером."
+
+"Oh, it's too late. I'll come tomorrow."
+
+«Ой, уже слишком поздно. Я приду завтра».
+
+"I have to get them tonight." He paused. "There are only three out of the eight left. If you don't come, I'll have to try <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span> and I won't manage it. I just bought a goat," he added, "with the money from the three I got earlier."
+
+«Я должен забрать их сегодня вечером». Он сделал паузу. «Из восьми осталось только трое. Если вы не приедете, мне придется попытаться одному, и у меня ничего не получится. Я только что купил козу, — добавил он, — на деньги трех Я пришел раньше».
+
+"You humans," Rachael laughed. "Goats <span class='tip-wrap' data-text='smell [смЕл] {глагол} пахнуть [3]; понюхать [3]; чувствовать запах [2]; нюхать [2]'>**smell**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='terrible [тЕрэбэл] {прилагательное} страшный'>**terrible**<span class='tip-text'> </span></span>."
+
+«Вы, люди», — засмеялась Рэйчел. «Козы ужасно пахнут».
+
+"Only male goats."
+
+«Только козы-самцы».
+
+"You look really tired," Rachael said. "Are you <span class='tip-wrap' data-text='sure [шУр] {прилагательное} верный; уверенный'>**sure**<span class='tip-text'> </span></span> you're ready for more? Nobody has <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span> killed six androids in one day. Look, Rick, I can't come <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> tomorrow."
+
+«Ты выглядишь очень усталым», — сказала Рэйчел. «Ты уверен, что готов к большему? Никто никогда не убивал шесть андроидов за один день. Послушай, Рик, я не смогу прийти до завтра».
+
+"Fly down here now and we'll rent a hotel room," Rick suggested.
+
+«Теперь лети сюда, и мы снимем номер в отеле», — предложил Рик.
+
+"Why?"
+
+"Почему?"
+
+"Something I heard about human men and android women. If you <span class='tip-wrap' data-text='share [шЕр] {глагол} делиться; разделять'>**share**<span class='tip-text'> </span></span> a room with me, I won't go after the other androids today."
+
+«Кое-что я слышал о людях-мужчинах и женщинах-андроидах. Если вы будете жить в одной комнате со мной, я не буду сегодня преследовать других андроидов».
+
+She looked at him <span class='tip-wrap' data-text='carefully [кЕрфэли] {наречие} бережно'>**carefully**<span class='tip-text'> </span></span>. "OK," she said suddenly, "I'll meet you at the St Francis Hotel. But you won't do anything <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> I arrive?"
+
+Она внимательно посмотрела на него. «Хорошо, — внезапно сказала она, — я встречу тебя в отеле «Сент-Фрэнсис». Но ты ничего не сделаешь, пока я не приеду?»
+
+"I'll sit in the room and watch Buster Friendly on television," he said and hung up. He thought for a while <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> he began to feel the cold. Then he started the hovercar and flew in the direction of the St Francis Hotel.
+
+«Я посижу в комнате и посмотрю Buster Friendly по телевизору», — сказал он и повесил трубку. Он подумал некоторое время, пока не начал чувствовать холод. Затем он завел ховеркар и полетел в направлении отеля «Сент-Фрэнсис».
+
+Later, in the large, <span class='tip-wrap' data-text='expensive [ыкспЕнсыв] {прилагательное} дорогой'>**expensive**<span class='tip-text'> </span></span> hotel room, Rick sat reading the typed sheets of information about Roy and Irmgard Baty. There were photographs. The woman, he decided, looked <span class='tip-wrap' data-text='pretty [прЫти] {наречие} довольно'>**pretty**<span class='tip-text'> </span></span>. Roy Baty, <span class='tip-wrap' data-text='though [ðOу] {наречие} однако [2]; все же [2]'>**though**<span class='tip-text'> </span></span>, was different. Worse. Baty had run a shop on Mars, he read. Or that's what the android said. He had <span class='tip-wrap' data-text='probably [прАбэблИ] {наречие} вероятно'>**probably**<span class='tip-text'> </span></span> just worked in the fields or with his hands. Do androids dream? Rick asked himself. <span class='tip-wrap' data-text='probably [прАбэблИ] {наречие} вероятно'>**Probably**<span class='tip-text'> </span></span>. That was why they killed their employers and escaped to Earth, looking for a <span class='tip-wrap' data-text='better [бЕтэр] {прилагательное} лучший'>**better**<span class='tip-text'> </span></span> life as free individuals. Like Luba Luft, singing Mozart at the opera house.
+
+Позже, в большом, дорогом гостиничном номере, Рик сидел и читал напечатанные листы с информацией о Рое и Ирмгард Бати. Были фотографии. Женщина, решил он, выглядела симпатично. Однако Рой Бэти был другим. Худший. Он прочитал, что у Бати был магазин на Марсе. Или так сказал андроид. Вероятно, он только что работал в поле или руками. Мечтают ли андроиды? — спросил себя Рик. Вероятно. Вот почему они убили своих работодателей и сбежали на Землю в поисках лучшей жизни в качестве свободных людей. Как Люба Люфт, поющая Моцарта в оперном театре.
+
+The report on Roy Baty described him as a rough, cold android. He had killed a number of people before he left and <span class='tip-wrap' data-text='probably [прАбэблИ] {наречие} вероятно'>**probably**<span class='tip-text'> </span></span> still took mind-changing drugs. He was the father figure of a group that hoped, <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> the use of such drugs, to provide for androids an experience <span class='tip-wrap' data-text='similar [сЫмэлэр] {прилагательное} похожий'>**similar**<span class='tip-text'> </span></span> to Mercerism.
+
+В отчете о Рое Бэти он описывался как грубый и холодный андроид. Прежде чем уйти, он убил несколько человек и, вероятно, до сих пор принимает наркотики, изменяющие сознание. Он был отцом группы, которая надеялась с помощью таких препаратов дать андроидам опыт, аналогичный мерсеризму.
+
+The door burst open.
+
+Дверь распахнулась.
+
+"What a <span class='tip-wrap' data-text='flight [флАйт] {существительное} полет'>**flight**<span class='tip-text'> </span></span>!" Rachael Rosen cried. "Less than an hour. This is a nice room. Here..." She passed Rick a bag. "I brought some whisky."
+
+«Какой полет!» Рэйчел Розен плакала. «Меньше часа. Это хорошая комната. Вот…» Она передала Рику сумку. «Я принес немного виски».
+
+"The worst of the eight is still <span class='tip-wrap' data-text='alive [элАйв] {прилагательное} живой'>**alive**<span class='tip-text'> </span></span>," Rick said. "Roy Baty."
+
+«Худший из восьми все еще жив», - сказал Рик. «Рой Бэти».
+
+"Do you know where he is?" Rachael asked.
+
+— Ты знаешь, где он? — спросила Рэйчел.
+
+"Yes, he's out in the suburbs."
+
+«Да, он в пригороде».
+
+"And the others?"
+
+"И др?"
+
+"Both females." He gave her the sheets. She looked at them and then went to the window. She said nothing.
+
+«Обе женщины». Он дал ей простыни. Она посмотрела на них, а затем подошла к окну. Она ничего не сказала.
+
+"What's the <span class='tip-wrap' data-text='matter [мЭтэр] {существительное} вопрос (также материя); дело (также материя)'>**matter**<span class='tip-text'> </span></span>?" Rick asked her, watching her back.
+
+«В чем дело?» – спросил ее Рик, глядя на нее в ответ.
+
+"Tell me what we're going to do instead of worrying about those androids," she ordered, turning to face him. She took her <span class='tip-wrap' data-text='coat [кOут] {существительное} пальто [3]; слой [3]; шерсть [2]; пиджак [2]; оболочка [2]; шубка [2]'>**coat**<span class='tip-text'> </span></span> off and he was able to examine her <span class='tip-wrap' data-text='properly [прАпэрли] {наречие} правильно [3]; должным образом [3]; собственно [2]; как следует [2]'>**properly**<span class='tip-text'> </span></span> for the first time. Rachael had, he noticed, the body of a child, and her <span class='tip-wrap' data-text='thick [θЫк] {прилагательное} толстый; густой'>**thick**<span class='tip-text'> </span></span>, dark hair made her head seem larger than it should be. Only her big eyes were the eyes of a woman.
+
+«Скажи мне, что мы собираемся делать вместо того, чтобы беспокоиться об этих андроидах», — приказала она, повернувшись к нему лицом. Она сняла пальто, и он впервые смог как следует рассмотреть ее. Он заметил, что у Рэйчел тело ребенка, а из-за густых темных волос ее голова кажется больше, чем должна быть. Только ее большие глаза были глазами женщины.
+
+Rachael sat down next to him on the bed, and they drank some whisky.
+
+Рэйчел села рядом с ним на кровать, и они выпили виски.
+
+"What upset you?" Rick asked again.
+
+— Что тебя расстроило? Рик спросил еще раз.
+
+"That last Nexus-6 female, Pris Stratton, is the same type as I am. Didn't you <span class='tip-wrap' data-text='notice [нOутэс] {глагол} замечать'>**notice**<span class='tip-text'> </span></span> the <span class='tip-wrap' data-text='description [дыскрЫпшэн] {существительное} описание [3]'>**description**<span class='tip-text'> </span></span>? She may wear her hair differently and dress in different clothes, but you'll know what I mean when you see her. And I'll be there when you kill her. I think you're asking too <span class='tip-wrap' data-text='much [мАч] {наречие} много; гораздо'>**much**<span class='tip-text'> </span></span>." She <span class='tip-wrap' data-text='lay [лЕй] {глагол} лежать'>**lay**<span class='tip-text'> </span></span> down on the bed and <span class='tip-wrap' data-text='shut [шАт] {глагол} закрывать'>**shut**<span class='tip-text'> </span></span> her eyes. "Let's <span class='tip-wrap' data-text='forget [фэргЕт] {глагол} забывать'>**forget**<span class='tip-text'> </span></span> them. I'm tired." Her eyes suddenly opened again. "Do you know why I'm really here... why Eldon Rosen sent me?"
+
+«Эта последняя женщина из Нексуса-6, Прис Стрэттон, того же типа, что и я. Разве вы не заметили описание? Она может носить разные волосы и одеваться в другую одежду, но вы поймете, что я имею в виду, когда увидите ее. И я буду рядом, когда ты ее убьешь. Я думаю, ты слишком многого хочешь». Она легла на кровать и закрыла глаза. «Давайте забудем их. Я устал». Ее глаза внезапно снова открылись. «Знаешь, почему я на самом деле здесь… почему Элдон Розен послал меня?»
+
+"To watch the Voigt-Kampff test," Rick said, "and see how it traps the Nexus-6."
+
+«Понаблюдать за испытанием Фойгта-Кампфа, — сказал Рик, — и посмотреть, как оно заманит в ловушку Нексус-6».
+
+"Yes, to <span class='tip-wrap' data-text='notice [нOутэс] {глагол} замечать'>**notice**<span class='tip-text'> </span></span> anything that will help us build the Nexus-7. And when you can catch that, we'll change the design again. In the end there'll be an android that you can't find. Now take off your <span class='tip-wrap' data-text='coat [кOут] {существительное} пальто [3]; слой [3]; шерсть [2]; пиджак [2]; оболочка [2]; шубка [2]'>**coat**<span class='tip-text'> </span></span>."
+
+"Да, заметить что-нибудь, что поможет нам построить Нексус-7. И когда вы это поймаете, мы снова поменяем дизайн. В конце концов будет андроид, которого вы не сможете найти. Теперь взлетайте твое пальто."
+
+"Why?"
+
+"Почему?"
+
+"So we can go to bed."
+
+— Итак, мы можем пойти спать.
+
+He realized how frightened he was of his final <span class='tip-wrap' data-text='challenge [чЭлэндж] {существительное} вызов'>**challenge**<span class='tip-text'> </span></span>; of Baty, the leader.
+
+Он понял, как был напуган своим последним испытанием; Батыя, лидера.
+
+"I can't go without you now," he told Rachael. He was walking round the room. "I can't even leave here. Polokov came after me; Garland more or less came after me."
+
+«Теперь я не могу обойтись без тебя», — сказал он Рэйчел. Он ходил по комнате. — Я даже уйти отсюда не могу. За мной пришел Полоков, за мной примерно пришла Гарланд.
+
+"You think Roy Baty is looking for you too? Come here."
+
+— Думаешь, Рой Бэти тоже тебя ищет? Иди сюда.
+
+The drink had obviously had an effect, because she was smiling at him. He walked slowly to the bed and undressed her.
+
+Выпивка явно подействовала, потому что она улыбалась ему. Он медленно подошел к кровати и раздел ее.
+
+"How does it feel to be <span class='tip-wrap' data-text='born [бОрн] {глагол} родился'>**born**<span class='tip-text'> </span></span>?" she asked. "We're not <span class='tip-wrap' data-text='born [бОрн] {глагол} родился'>**born**<span class='tip-text'> </span></span> and we don't grow up." She rolled on to her side and laughed. "I'm not <span class='tip-wrap' data-text='alive [элАйв] {прилагательное} живой'>**alive**<span class='tip-text'> </span></span>! You're not going to bed with a woman. Don't be disappointed, OK? Have you <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span> made love to an android before?"
+
+«Каково это — родиться?» она спросила. «Мы не рождаемся и не взрослеем». Она перекатилась на бок и засмеялась. «Я не жив! Ты не собираешься спать с женщиной. Не разочаровывайся, ладно? Ты когда-нибудь раньше занимался любовью с андроидом?»
+
+"No," he said, taking off his shirt and tie.
+
+— Нет, — сказал он, снимая рубашку и галстук.
+
+"They tell me it's almost the same if you don't think too much about it. And if you do think about it, you can't continue."
+
+«Мне говорят, что это почти то же самое, если ты не слишком много думаешь об этом. А если ты думаешь об этом, ты не сможешь продолжать».
+
+He kissed her <span class='tip-wrap' data-text='shoulder [шOулдэр] {существительное} плечо; обочина'>**shoulder**<span class='tip-text'> </span></span>.
+
+Он поцеловал ее плечо.
+
+"I love you," Rachael told him. "If I entered a room and <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> a sofa covered in your <span class='tip-wrap' data-text='skin [скЫн] {существительное} кожа'>**skin**<span class='tip-text'> </span></span>, I'd score very high on the Voigt-Kampff test."
+
+«Я люблю тебя», сказала ему Рэйчел. «Если бы я вошел в комнату и обнаружил диван, покрытый вашей кожей, я бы получил очень высокий балл по тесту Фойгта-Кампфа».
+
+Some time tonight, he thought as he turned off the bedside light, I will kill a Nexus-6 which looks just like this girl. Good god, he thought; I'm taking Phil Resch's advice. Go to bed with her first, he remembered. Then kill her.
+
+«Сегодня вечером, — подумал он, выключив прикроватный свет, — я убью Нексус-6, который выглядит точно так же, как эта девушка». Боже мой, подумал он; Я следую совету Фила Реша. «Сначала ложись с ней в постель», — вспомнил он. Тогда убей ее.
+
+"I can't do it," he said and moved off the bed.
+
+«Я не могу этого сделать», — сказал он и встал с кровати.
+
+"I wish you could," Rachael said. Her voice was warm.
+
+«Я бы хотела, чтобы ты мог», сказала Рэйчел. Ее голос был теплым.
+
+"Not because of you. Because of Pris Stratton; what I have to do to her."
+
+«Не из-за тебя. Из-за Прис Стрэттон; того, что я должен с ней сделать».
+
+"We're not the same. I don't care about Pris Stratton. Listen... Come to bed with me and I'll kill Stratton."
+
+«Мы не одинаковые. Меня не волнует Прис Стрэттон. Послушай… Пойди со мной в постель, и я убью Стрэттона».
+
+"Thank you," he said gratefully. Would Rachael really do it? It seemed that an android could in fact kill another android.
+
+«Спасибо», — сказал он с благодарностью. Действительно ли Рэйчел это сделает? Казалось, что андроид действительно может убить другого андроида.
+
+"Now get into bed!" Rachael ordered.
+
+«Теперь ложись в постель!» Рэйчел приказала.
+
+He got into bed.
+
+Он лег в постель.
+
+Afterwards they enjoyed the luxury of coffee brought up by room service. Then Rachael sat in the bath and sang.
+
+После этого они наслаждались роскошным кофе, который им доставили в номер. Потом Рэйчел села в ванну и запела.
+
+"You made a good deal with me," she called. "You knew that we androids can't control our feelings. You took <span class='tip-wrap' data-text='advantage [эдвЭнтыдж] {существительное} преимущество'>**advantage**<span class='tip-text'> </span></span> of me." She seemed as human as any woman that Rick had <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span> known. "Do we really have to kill those androids tonight?"
+
+«Вы заключили со мной хорошую сделку», - крикнула она. «Ты знал, что мы, андроиды, не можем контролировать свои чувства. Ты воспользовался мной». Она казалась таким же человеком, как и любая женщина, которую Рик когда-либо знал. «Неужели нам действительно придется сегодня вечером убить этих андроидов?»
+
+"Yes," he answered. Two for me, he thought, and one for you.
+
+«Да», - ответил он. Два для меня, подумал он, и один для тебя.
+
+Rachael came out of the bathroom wrapped in a large white towel.
+
+Рэйчел вышла из ванной, завернувшись в большое белое полотенце.
+
+"I've been in <span class='tip-wrap' data-text='existence [егзЫстэнс] {существительное} существование [3]; наличие [3]; бытие [2]; жизнь [2]'>**existence**<span class='tip-text'> </span></span> for two years now," she said. "How <span class='tip-wrap' data-text='much [мАч] {наречие} много; гораздо'>**much**<span class='tip-text'> </span></span> longer do you think I've got?"
+
+«Я существую уже два года», - сказала она. — Как ты думаешь, сколько мне еще осталось?
+
+He hesitated. "About two more years. I'm <span class='tip-wrap' data-text='sorry [сАри] {прилагательное} жалкий (также сожалеющий)'>**sorry**<span class='tip-text'> </span></span>."
+
+Он колебался. «Еще два года. Мне очень жаль».
+
+She dried herself. "No - I'm <span class='tip-wrap' data-text='sorry [сАри] {прилагательное} жалкий (также сожалеющий)'>**sorry**<span class='tip-text'> </span></span> I said anything. Anyway, it stops humans running off and living with androids."
+
+Она высохла. «Нет, мне жаль, что я что-то сказал. В любом случае, это останавливает людей, убегающих и живущих с андроидами».
+
+They dressed and travelled together up to the <span class='tip-wrap' data-text='roof [рУф] {существительное} крыша [3]; кровля [2]; потолок [2]'>**roof**<span class='tip-text'> </span></span> field. Then they headed <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the suburbs of San Francisco.
+
+Они оделись и вместе отправились на поле на крыше. Затем они направились в сторону пригорода Сан-Франциско.
+
+"My goat is <span class='tip-wrap' data-text='probably [прАбэблИ] {наречие} вероятно'>**probably**<span class='tip-text'> </span></span> asleep by now," Rick said. "Or maybe it doesn't sleep at night. I don't know."
+
+«Моя коза, наверное, уже спит», — сказал Рик. «А может быть, оно не спит по ночам. Я не знаю».
+
+"What kind of wife do you have?"
+
+«Какая у тебя жена?»
+
+Rick did not answer.
+
+Рик не ответил.
+
+"Do you...?" She hesitated.
+
+"Ты...?" Она колебалась.
+
+"If you weren't an android," Rick told her, "if I could marry you by law, I would."
+
+«Если бы ты не была андроидом, — сказал ей Рик, — если бы я мог жениться на тебе по закону, я бы это сделал».
+
+"You look so sad."
+
+«Ты выглядишь таким грустным».
+
+He stretched out his hand and touched her face.
+
+Он протянул руку и коснулся ее лица.
+
+"You're not going to be able to kill androids any more," she went <span class='tip-wrap' data-text='on [Ан] {наречие} вперёд; позднее; далее'>**on**<span class='tip-text'> </span></span> calmly. "So don't look sad. Please."
+
+«Ты больше не сможешь убивать андроидов», — спокойно продолжила она. «Так что не грусти. Пожалуйста».
+
+He stared at her.
+
+Он уставился на нее.
+
+"No android <span class='tip-wrap' data-text='killer [кЫлэр] {существительное} убийца [3]; киллер [2]'>**killer**<span class='tip-text'> </span></span> has <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span> gone on after being with me," Rachael said. "<span class='tip-wrap' data-text='except [ыксЕпт] {предлог} кроме'>**Except**<span class='tip-text'> </span></span> one. Phil Resch. And he's crazy."
+
+«Ни один убийца-андроид не ушел после того, как был со мной», - сказала Рэйчел. «Кроме одного. Фила Реша. И он сумасшедший».
+
+"I see," said Rick. His <span class='tip-wrap' data-text='whole [хOул] {прилагательное} весь'>**whole**<span class='tip-text'> </span></span> body was frozen in his <span class='tip-wrap' data-text='seat [сИт] {существительное} место'>**seat**<span class='tip-text'> </span></span>. He had no feeling in any part of it.
+
+«Понятно», сказал Рик. Все его тело застыло на сиденье. У него не было никаких чувств ни в какой части этого процесса.
+
+"But now you're going to meet a wonderful man," Rachael continued.
+
+«Но теперь ты встретишь замечательного человека», — продолжила Рэйчел.
+
+"Roy Baty," he said. "Do you know all of them?"
+
+«Рой Бэти», — сказал он. — Ты знаешь их всех?
+
+"I knew all of them, when they still existed. I know three now. We tried to stop you this morning when I rang you, but then we had to wait."
+
+«Я знал их всех, когда они еще существовали. Теперь я знаю троих. Мы пытались остановить тебя этим утром, когда я тебе звонил, но потом нам пришлось ждать».
+
+"<span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**Until**<span class='tip-text'> </span></span> I broke down and called you.""
+
+«Пока я не сломался и не позвонил тебе».
+
+"Luba Luft and I were very good friends. What did you think of her? Did you like her?"
+
+«Мы с Любой Люфт были очень хорошими друзьями. Что ты о ней думаешь? Она тебе нравилась?»
+
+"I liked her."
+
+"Я любил ее."
+
+"But you killed her."
+
+— Но ты убил ее.
+
+"Phil Resch killed her."
+
+«Фил Реш убил ее».
+
+"Ah, we didn't know that. Only that she had been killed. We thought by you."
+
+«Ах, мы этого не знали. Только то, что она была убита. Мы думали тобой».
+
+"So everything that happened at the hotel was just a... How many times have you done this?" Rick asked.
+
+«Значит, все, что произошло в отеле, было просто… Сколько раз ты это делал?» — спросил Рик.
+
+"I don't remember. Seven or eight times. Nine. It's a <span class='tip-wrap' data-text='useful [йУсфэл] {прилагательное} полезный [3]'>**useful**<span class='tip-text'> </span></span> weapon."
+
+«Я не помню. Семь или восемь раз. Девять. Это полезное оружие».
+
+"The idea is very old-fashioned," Rick said and started landing the hovercar. "I'm going to kill you now. And then I'll go on alone and kill the others."
+
+«Идея очень старомодная», — сказал Рик и начал приземлять ховеркар. «Я убью тебя сейчас. А потом пойду один и убью остальных».
+
+"You can't do that," she said nervously. "I <span class='tip-wrap' data-text='belong [былОŋ] {глагол} принадлежать'>**belong**<span class='tip-text'> </span></span> to the corporation. I didn't escape from Mars."
+
+— Ты не можешь этого сделать, — нервно сказала она. «Я принадлежу корпорации. Я не сбежал с Марса».
+
+"But," he reminded her, "if I can kill you, I can kill them."
+
+«Но, — напомнил он ей, — если я смогу убить тебя, я смогу убить и их».
+
+The life force was leaving her. He had seen it before with androids. Calm, mechanical acceptance, where a human, desperate to <span class='tip-wrap' data-text='survive [сэрвАйв] {глагол} выживать'>**survive**<span class='tip-text'> </span></span>, would fight on to the end.
+
+Жизненная сила покидала ее. Он видел это раньше с андроидами. Спокойное механическое принятие, в котором человек, отчаянно пытающийся выжить, будет сражаться до конца.
+
+"Will you do it <span class='tip-wrap' data-text='carefully [кЕрфэли] {наречие} бережно'>**carefully**<span class='tip-text'> </span></span>?" she asked <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span>. "So that it doesn't <span class='tip-wrap' data-text='hurt [хЭрт] {глагол} причинять боль'>**hurt**<span class='tip-text'> </span></span>?"
+
+— Ты будешь делать это осторожно? — тихо спросила она. — Чтобы не было больно?
+
+He landed the car and took out his laser gun.
+
+Он приземлился на машине и достал лазерный пистолет.
+
+"At the bottom of my head," Rachael said, turning away from him and pointing to the <span class='tip-wrap' data-text='back [бЭк] {существительное} спина'>**back**<span class='tip-text'> </span></span> of her neck. "Here. Please."
+
+«В нижней части моей головы», — сказала Рэйчел, отворачиваясь от него и указывая на свой затылок. "Здесь пожалуйста."
+
+He stared at her, then he put the gun away and a moment later they took off again. He flew back <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the St Francis Hotel, where she had left her car.
+
+Он посмотрел на нее, затем убрал пистолет, и через мгновение они снова взлетели. Он полетел обратно к отелю «Сент-Фрэнсис», где она оставила свою машину.
+
+"Thank you for not killing me," Rachael said.
+
+«Спасибо, что не убил меня», — сказала Рэйчел.
+
+"Well, you've only got two years and I've got fifty," Rick replied.
+
+«Ну, у тебя всего два года, а у меня пятьдесят», — ответил Рик.
+
+"You're the same as the others." Rachael sounded more <span class='tip-wrap' data-text='confident [кАнфэдэнт] {прилагательное} уверенный [3]'>**confident**<span class='tip-text'> </span></span> now. "You all get angry and talk about killing me. I'm right, you know. You won't be able to kill the others. So go home to your goat. You love that goat more than me. More than you love your wife, <span class='tip-wrap' data-text='probably [прАбэблИ] {наречие} вероятно'>**probably**<span class='tip-text'> </span></span>." She laughed.
+
+«Ты такой же, как и другие». Теперь голос Рэйчел звучал более уверенно. «Вы все злитесь и говорите о том, чтобы убить меня. Я прав, вы знаете. Вы не сможете убить остальных. Так что идите домой к своей козе. Вы любите эту козу больше, чем меня. Больше, чем вы любите свою козу. жена, наверное». Она смеялась.
+
+He did not answer. They continued in silence for a while and then Rachael <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> the car radio and turned it on.
+
+Он не ответил. Некоторое время они продолжали молчать, а затем Рэйчел нашла автомобильное радио и включила его.
+
+"No," Rick said.
+
+«Нет», сказал Рик.
+
+"Don't you want to listen to Buster Friendly and his friendly friends? It's almost time for his great <span class='tip-wrap' data-text='piece [пИс] {существительное} кусок (также пьеса)'>**piece**<span class='tip-text'> </span></span> of news. Did you know about that? He's been talking about it for..."
+
+«Разве ты не хочешь послушать Бастера Френдли и его дружелюбных друзей? Пришло время сообщить ему замечательную новость. Ты знал об этом? Он говорил об этом уже…»
+
+Rick turned the radio off. Rachael turned it on again. "I want to listen. This is important, what Buster Friendly has to say on his show tonight."
+
+Рик выключил радио. Рэйчел снова включила его. «Я хочу послушать. Важно то, что Бастер Френдли скажет в своем сегодняшнем шоу».
+
+She sat back in her <span class='tip-wrap' data-text='seat [сИт] {существительное} место'>**seat**<span class='tip-text'> </span></span> as Buster's voice flooded the speakers once again. She had beaten him.
+
+Она откинулась на своем месте, когда голос Бастера снова зазвучал из динамиков. Она избила его.
+
+CHAPTER EIGHT
+
+ГЛАВА ВОСЬМАЯ
+
+Surprises
+
+Сюрпризы
+
+"Bring the <span class='tip-wrap' data-text='rest [рЕст] {существительное} отдых (также остаток)'>**rest**<span class='tip-text'> </span></span> of my things up here," Pris ordered J.R. Isidore. "I want my television so we can hear Buster's news."
+
+«Принеси сюда остальные мои вещи», — приказала Прис Джей Ар Исидору. «Мне нужен телевизор, чтобы мы могли слушать новости Бастера».
+
+"Yes," Irmgard agreed, <span class='tip-wrap' data-text='bright [брАйт] {прилагательное} яркий'>**bright**<span class='tip-text'> </span></span>-eyed. "We need the television; we've been waiting a long time for tonight and it'll be starting soon."
+
+— Да, — согласилась Ирмгард с ясными глазами. «Нам нужен телевизор; мы долго ждали сегодняшнего вечера, и он скоро начнется».
+
+Alone, Isidore walked down the <span class='tip-wrap' data-text='dark [дАрк] {существительное} темнота [2]; тьма [2]; тень [1]; потемки [1]; неведение [1]; невежество [1]'>**dark**<span class='tip-text'> </span></span>, empty hall to the stairs. He was still bursting with happiness, with a <span class='tip-wrap' data-text='sense [сЕнс] {существительное} смысл (также чувство)'>**sense**<span class='tip-text'> </span></span> of being <span class='tip-wrap' data-text='useful [йУсфэл] {прилагательное} полезный [3]'>**useful**<span class='tip-text'> </span></span> for the first time in his dull life. Others <span class='tip-wrap' data-text='depend [дыпЕнд] {глагол} зависеть'>**depend**<span class='tip-text'> </span></span> on me now, he thought as he stepped <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> the <span class='tip-wrap' data-text='dirt [дЭрт] {существительное} грязь [3]'>**dirt**<span class='tip-text'> </span></span> on the stairs to the floor below. And it'll be nice to see Buster Friendly on television again, instead of just listening to him on the <span class='tip-wrap' data-text='truck [трАк] {существительное} грузовик'>**truck**<span class='tip-text'> </span></span> radio. It is tonight, he realized, that Buster has promised to surprise us. So because of Pris and Roy and Irmgard I shall watch what is <span class='tip-wrap' data-text='probably [прАбэблИ] {наречие} вероятно'>**probably**<span class='tip-text'> </span></span> the <span class='tip-wrap' data-text='most [мOуст] {наречие} очень'>**most**<span class='tip-text'> </span></span> important news broadcast for years.
+
+В одиночестве Исидор прошел по темному пустому коридору к лестнице. Его все еще переполняло счастье, впервые в его скучной жизни он чувствовал себя полезным. «Теперь от меня зависят другие», — подумал он, шагая по грязной лестнице на этаж ниже. И было бы здорово снова увидеть Бастера Френдли по телевидению, а не просто слушать его по радио в грузовике. Именно сегодня вечером, понял он, Бастер пообещал нас удивить. Так что благодаря Прису, Рою и Ирмгарду я буду смотреть, наверное, самые важные новости за последние годы.
+
+Life, for J.R. Isidore, had certainly got <span class='tip-wrap' data-text='better [бЕтэр] {прилагательное} лучший'>**better**<span class='tip-text'> </span></span>.
+
+Жизнь Дж. Р. Исидора определенно стала лучше.
+
+He entered the apartment that Pris had been living in and picked up the television. The silence was starting to worry him, and his arms felt <span class='tip-wrap' data-text='weak [уИк] {прилагательное} слабый [3]'>**weak**<span class='tip-text'> </span></span>. You have to be with people, he thought. Before they came here, I could stand it, being <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span> in the building. But now it's changed. I need them. Thank god they stayed.
+
+Он вошел в квартиру, где жила Прис, и взял телевизор. Тишина начала его беспокоить, и его руки почувствовали слабость. «Нужно быть с людьми», — подумал он. До того, как они пришли сюда, я мог вытерпеть, находясь один в здании. Но теперь все изменилось. Мне они нужны. Слава богу, они остались.
+
+He decided to carry the television up first and then return for the hags and clothes. When he reached his own <span class='tip-wrap' data-text='living [лЫвыŋ] {существительное} жизнь'>**living**<span class='tip-text'> </span></span> room, he put the television down on a table.
+
+Он решил сначала отнести телевизор, а потом вернуться за ведьмами и одеждой. Добравшись до своей гостиной, он положил телевизор на стол.
+
+"The picture's good in this building," he said, breathing hard. "When I used to get Buster..."
+
+«В этом здании хорошая картинка», — сказал он, тяжело дыша. «Когда я встречал Бастера…»
+
+"Just turn it on and stop talking," Roy said.
+
+«Просто включи его и перестань говорить», — сказал Рой.
+
+He did so, then hurried to the door.
+
+Он так и сделал, а затем поспешил к двери.
+
+"One more <span class='tip-wrap' data-text='trip [трЫп] {существительное} поездка'>**trip**<span class='tip-text'> </span></span>," he told them.
+
+«Еще одна поездка», — сказал он им.
+
+"Fine," Pris answered, her eyes on the television.
+
+«Хорошо», ответила Прис, глядя на телевизор.
+
+I think, Isidore thought as he went downstairs again, they're using me. But he didn't care. They're good friends to have, he said to himself.
+
+«Думаю, — подумал Исидор, снова спускаясь вниз, — они меня используют». Но ему было все равно. «Они хорошие друзья», — сказал он себе.
+
+On a step <span class='tip-wrap' data-text='below [былOу] {предлог} ниже'>**below**<span class='tip-text'> </span></span> him, something moved in the dust. He stopped immediately and took out a plastic medicine bottle which, like everyone else, he carried with him at all times for this purpose. A spider, and it was <span class='tip-wrap' data-text='alive [элАйв] {прилагательное} живой'>**alive**<span class='tip-text'> </span></span>. He <span class='tip-wrap' data-text='carefully [кЕрфэли] {наречие} бережно'>**carefully**<span class='tip-text'> </span></span> guided it into the bottle and put the lid on. There were <span class='tip-wrap' data-text='tiny [тАйни] {прилагательное} крошечный'>**tiny**<span class='tip-text'> </span></span> breathing holes in the top. He ran back upstairs.
+
+На ступеньке ниже что-то шевельнулось в пыли. Он тут же остановился и достал пластиковый флакончик с лекарством, который, как и все остальные, всегда носил с собой для этой цели. Паук, и он был живым. Он осторожно ввел его в бутылку и закрыл крышку. Вверху были крошечные дыхательные отверстия. Он побежал обратно наверх.
+
+"...yes, sir; the time is now. This is Buster Friendly, who hopes you're all ready to <span class='tip-wrap' data-text='share [шЕр] {глагол} делиться; разделять'>**share**<span class='tip-text'> </span></span> the <span class='tip-wrap' data-text='discovery [дыскАвэри] {существительное} открытие [3]; обнаружение [3]; раскрытие [2]'>**discovery**<span class='tip-text'> </span></span> which I've made and which top investigators have checked for me. Ho, ho, this is it!"
+
+«...да, сэр, самое время. Это Бастер Френдли, он надеется, что вы все готовы поделиться открытием, которое я сделал и которое ведущие следователи проверили для меня. Хо-хо, вот и все. !"
+
+John Isidore said, "I <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> a spider."
+
+Иоанн Исидор сказал: «Я нашел паука».
+
+The three androids gave him a quick look, turning their attention from the television for a moment.
+
+Трое андроидов бросили на него быстрый взгляд, на мгновение оторвавшись от телевизора.
+
+"Let's see it," Pris said. She held out her hand.
+
+«Давайте посмотрим», — сказала Прис. Она протянула руку.
+
+"Don't talk while Buster's on," said Roy Baty.
+
+«Не разговаривай, пока включен Бастер», — сказал Рой Бэти.
+
+"I've never seen a spider," Pris said, the bottle cupped in her hand. "All those legs. Why does it need so many legs, J.R?"
+
+«Я никогда не видела паука», — сказала Прис, держа бутылку в руке. «Все эти ноги. Зачем ему столько ног, младший?»
+
+"That's the way spiders are," Isidore replied. "Eight legs."
+
+«Пауки такие», — ответил Исидор. «Восемь ног».
+
+Standing up, Pris said, "Do you know what I think, J.R? I think it doesn't need all those legs."
+
+Вставая, Прис сказала: «Знаешь, что я думаю, младший? Я думаю, ему не нужны все эти ноги».
+
+"Eight?" said Irmgard. "Maybe four are <span class='tip-wrap' data-text='enough [ынАф] {наречие} достаточно'>**enough**<span class='tip-text'> </span></span>. <span class='tip-wrap' data-text='cut [кАт] {существительное} порез'>**Cut**<span class='tip-text'> </span></span> four off and see." She took a pair of scissors out of her bag and passed them to Pris.
+
+"Восемь?" — сказала Ирмгард. «Может быть, четырех достаточно. Отрежь четыре и посмотри». Она достала из сумки ножницы и передала их Прис.
+
+J.R. Isidore experienced a <span class='tip-wrap' data-text='strange [стрЕйндж] {прилагательное} странный; чужой'>**strange**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='sense [сЕнс] {существительное} смысл (также чувство)'>**sense**<span class='tip-text'> </span></span> of <span class='tip-wrap' data-text='terror [тЕрэр] {существительное} террор [3]; ужас [3]; страх [3]; гроза [2]'>**terror**<span class='tip-text'> </span></span>.
+
+Дж. Р. Исидор испытал странное чувство ужаса.
+
+Carrying the medicine bottle into the kitchen, Pris sat down, took the lid <span class='tip-wrap' data-text='off [Оф] {предлог} от; у'>**off**<span class='tip-text'> </span></span> the bottle, and knocked the spider out <span class='tip-wrap' data-text='onto [Анту] {предлог} на; в'>**onto**<span class='tip-text'> </span></span> Isidore's breakfast table. "It <span class='tip-wrap' data-text='probably [прАбэблИ] {наречие} вероятно'>**probably**<span class='tip-text'> </span></span> won't be able to run as fast," she said, "but there's nothing for it to eat around here. It'll die anyway." She reached for the scissors.
+
+Отнеся флакон с лекарством на кухню, Прис села, сняла крышку с флакона и вышвырнула паука на стол для завтрака Исидора. «Вероятно, он не сможет бегать так быстро, — сказала она, — но здесь ему нечего есть. Он все равно умрет». Она потянулась за ножницами.
+
+"Please," Isidore said.
+
+— Пожалуйста, — сказал Исидор.
+
+Pris looked up at him. "Is it worth something?"
+
+Прис посмотрела на него. «Это чего-то стоит?»
+
+"Don't <span class='tip-wrap' data-text='hurt [хЭрт] {глагол} причинять боль'>**hurt**<span class='tip-text'> </span></span> it," he begged.
+
+«Не делай ему больно», — умолял он.
+
+With the scissors, Pris cut off one of the spider's legs. In the <span class='tip-wrap' data-text='living [лЫвыŋ] {существительное} жизнь'>**living**<span class='tip-text'> </span></span> room, Buster Friendly said, "Look at this picture. This is the sky that you normally see on the screens of your empathy boxes. Now Earl Parameter, one of my investigators, will explain our world-shaking <span class='tip-wrap' data-text='discovery [дыскАвэри] {существительное} открытие [3]; обнаружение [3]; раскрытие [2]'>**discovery**<span class='tip-text'> </span></span> to you." Pris cut off another leg, holding the spider with the <span class='tip-wrap' data-text='edge [Едж] {существительное} край; преимущество'>**edge**<span class='tip-text'> </span></span> of her hand. She was smiling.
+
+Ножницами Прис отрезал пауку одну из ног. В гостиной Бастер Френдли сказал: «Посмотрите на эту картинку. Это небо, которое вы обычно видите на экранах своих ящиков сочувствия. Теперь Эрл Параметр, один из моих исследователей, объяснит вам наше потрясающее открытие. " Прис отрезала еще одну ногу, придерживая паука ребром руки. Она улыбалась.
+
+"When the video pictures are made larger," the <span class='tip-wrap' data-text='investigator [ЫнвЕстэгЕйтэр] {существительное} следователь [3]; исследователь [3]'>**investigator**<span class='tip-text'> </span></span> continued, "we can see that the grey sky <span class='tip-wrap' data-text='against [эгЕнст] {предлог} от; против'>**against**<span class='tip-text'> </span></span> which Mercer moves is not real."
+
+«Когда видеоизображения увеличиваются, — продолжил следователь, — мы видим, что серое небо, на фоне которого движется Мерсер, нереально».
+
+"You're missing it," Irmgard called anxiously to Pris. She rushed to the kitchen door to see what Pris was doing. "Oh, do that afterwards," she said, "this is so important. It proves that everything we believed..."
+
+— Ты упускаешь это, — с тревогой позвала Ирмгард Прис. Она бросилась к кухонной двери, чтобы посмотреть, что делает Прис. «О, сделай это потом, — сказала она, — это так важно. Это доказывает, что все, во что мы верили…»
+
+"Be <span class='tip-wrap' data-text='quiet [куАйэт] {прилагательное} тихий'>**quiet**<span class='tip-text'> </span></span>," Roy Baty said.
+
+«Молчи», — сказал Рой Бэти.
+
+"...is true," Irmgard finished.
+
+«...это правда», — закончила Ирмгард.
+
+The television broadcast continued. "We can see here that the moon is obviously painted, and the <span class='tip-wrap' data-text='dry [дрАй] {прилагательное} сухой'>**dry**<span class='tip-text'> </span></span> ground is <span class='tip-wrap' data-text='false [фОлс] {прилагательное} ложный [3]; фальшивый [2]'>**false**<span class='tip-text'> </span></span>. It is <span class='tip-wrap' data-text='quite [куАйт] {наречие} довольно'>**quite**<span class='tip-text'> </span></span> possible that the stones are made of soft plastic and do not in fact <span class='tip-wrap' data-text='hurt [хЭрт] {глагол} причинять боль'>**hurt**<span class='tip-text'> </span></span>."
+
+Телевизионная трансляция продолжалась. «Здесь мы видим, что луна явно нарисована, а сухая земля — фальшивая. Вполне возможно, что камни сделаны из мягкого пластика и на самом деле не причиняют боли».
+
+"In other words," Buster Friendly said, "Wilbur Mercer is not in pain at all."
+
+«Другими словами, — сказал Бастер Френдли, — Уилбуру Мерсеру вообще не больно».
+
+"We managed, Mr Friendly," the <span class='tip-wrap' data-text='investigator [ЫнвЕстэгЕйтэр] {существительное} следователь [3]; исследователь [3]'>**investigator**<span class='tip-text'> </span></span> told him, "using thousands of photographs, to find a very old man called Al Jarry, who used to act in films before the war. We went to his home in East Harmony, Virginia, and he told us that he did once make a number of short fifteen-minute video films for an employer that he never met. The rocks they threw at him were in fact plastic, the blood was paint, and the only pain that Mr Jarry experienced was a <span class='tip-wrap' data-text='whole [хOул] {прилагательное} весь'>**whole**<span class='tip-text'> </span></span> day without whisky." The <span class='tip-wrap' data-text='investigator [ЫнвЕстэгЕйтэр] {существительное} следователь [3]; исследователь [3]'>**investigator**<span class='tip-text'> </span></span> laughed.
+
+«Нам удалось, мистер Френдли, — рассказал ему следователь, — используя тысячи фотографий, найти очень старого человека по имени Эл Джарри, который до войны снимался в кино. Мы поехали к нему домой в Ист-Хармони, штат Вирджиния. и он рассказал нам, что однажды он сделал несколько коротких пятнадцатиминутных видеофильмов для работодателя, с которым никогда не встречался. Камни, которые в него бросали, на самом деле были пластиковыми, кровь была краской, и единственная боль, которую испытал мистер Джарри. был целый день без виски». Следователь рассмеялся.
+
+"Al Jarry," Buster Friendly said as his face reappeared. "Al Jarry made a few dull films and did not know who they were for. People have said that Wilbur Mercer is not a human <span class='tip-wrap' data-text='being [бИыŋ] {существительное} существо; бытие'>**being**<span class='tip-text'> </span></span>, that he is something <span class='tip-wrap' data-text='much [мАч] {наречие} много; гораздо'>**much**<span class='tip-text'> </span></span> greater, perhaps from another planet. Well, in a <span class='tip-wrap' data-text='sense [сЕнс] {существительное} смысл (также чувство)'>**sense**<span class='tip-text'> </span></span> they are correct. Wilbur Mercer is not human, does not in fact exist. The world in which he climbs is a <span class='tip-wrap' data-text='cheap [чИп] {прилагательное} дешевый'>**cheap**<span class='tip-text'> </span></span>, Hollywood <span class='tip-wrap' data-text='setting [сЕтыŋ] {существительное} установка'>**setting**<span class='tip-text'> </span></span> which disappeared into the dust years ago. And who, then, started this joke?"
+
+«Эл Джарри», — сказал Бастер Френдли, когда его лицо снова появилось. «Эл Джарри снял несколько скучных фильмов и не знал, для кого они. Люди говорили, что Уилбур Мерсер – не человек, что он нечто гораздо большее, возможно, с другой планеты. Что ж, в каком-то смысле они правы. Уилбур Мерсер не человек, его на самом деле не существует. Мир, в котором он лазит, — это дешевый голливудский декор, исчезнувший в пыли много лет назад. И кто же тогда начал эту шутку?»
+
+"We may never know," Irmgard whispered.
+
+«Возможно, мы никогда не узнаем», — прошептала Ирмгард.
+
+"We may never know," Buster continued. "But we do know that Mercerism is nothing more than an invention. Yes, Mercer is a fake."
+
+«Возможно, мы никогда не узнаем», — продолжил Бастер. «Но мы знаем, что мерсеризм — не более чем выдумка. Да, Мерсер — подделка».
+
+"I think we know," Roy Baty said. "Mercerism came into <span class='tip-wrap' data-text='existence [егзЫстэнс] {существительное} существование [3]; наличие [3]; бытие [2]; жизнь [2]'>**existence**<span class='tip-text'> </span></span>..."
+
+«Думаю, мы знаем», — сказал Рой Бэти. «Мерсеризм возник...»
+
+"But think about this." Buster Friendly was still talking. "Ask yourself what Mercerism does. Well, if we're to believe those who practise it, Mercerism brings men and women on every planet together. And how is this done? By the so-called voice of "Mercer", a..."
+
+«Но подумай об этом». Бастер Френдли все еще говорил. «Спросите себя, что делает мерсеризм. Что ж, если верить тем, кто его практикует, мерсеризм объединяет мужчин и женщин на каждой планете. И как это делается? Так называемый голос «Мерсера», ... ."
+
+"No," said Irmgard angrily, walking up to Isidore, "it's a way of proving that humans can do something we can't, isn't it? Because without your Mercerism, we only have your word that you feel this empathy, this shared group thing. How's the spider?" She bent over Pris" <span class='tip-wrap' data-text='shoulder [шOулдэр] {существительное} плечо; обочина'>**shoulder**<span class='tip-text'> </span></span>.
+
+«Нет, — сердито сказала Ирмгард, подходя к Изидору, — это способ доказать, что люди могут делать то, чего мы не можем, не так ли? Потому что без вашего мерсеризма у нас есть только ваше слово, что вы чувствуете это сочувствие, эта общая групповая вещь. Как паук?" Она склонилась над плечом Прис.
+
+"Four gone," Pris replied. She pushed the spider. "He won't move. But he can."
+
+«Четверо ушли», ответил Прис. Она толкнула паука. «Он не пошевелится. Но он может».
+
+Roy Baty appeared in the doorway. "It's done. Buster said it and almost every human heard him. Mercerism is meaningless." He looked curiously at the spider.
+
+В дверях появился Рой Бэти. «Это сделано. Бастер сказал это, и почти каждый человек его услышал. Мерсеризм бессмыслен». Он с любопытством посмотрел на паука.
+
+"It won't walk," Irmgard told him.
+
+«Оно не пойдет», — сказала ему Ирмгард.
+
+"I can make it walk." Roy took out some matches and lit one; he held it near the spider <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> at last it moved slowly away.
+
+«Я могу заставить его ходить». Рой достал несколько спичек и зажег одну; он держал его возле паука, пока тот, наконец, не начал медленно удаляться.
+
+"I was right," Irmgard said. "It can walk on four legs." She looked up at Isidore. "What's the <span class='tip-wrap' data-text='matter [мЭтэр] {существительное} вопрос (также материя); дело (также материя)'>**matter**<span class='tip-text'> </span></span>? You won't lose anything. We'll pay you what... that Sydney's <span class='tip-wrap' data-text='guide [гАйд] {существительное} руководство (также гид)'>**guide**<span class='tip-text'> </span></span> says it's worth. Don't look so unhappy. Isn't that interesting, what they discovered about Mercer? Hey, answer me." She pushed him anxiously.
+
+«Я была права», сказала Ирмгард. «Оно может ходить на четырех ногах». Она посмотрела на Исидора. "В чем дело? Ты ничего не потеряешь. Мы заплатим тебе столько... гид из Сиднея говорит, что это того стоит. Не выгляди таким несчастным. Разве не интересно, что они узнали о Мерсере? Эй, ответь". мне." Она с тревогой толкнула его.
+
+"He's upset," Pris said, "because he has an empathy box in the other room. Do you use it, J.R?"
+
+«Он расстроен, — сказала Прис, — потому что в другой комнате у него есть ящик для сочувствия. Ты пользуешься им, Джей Ар?»
+
+"Of course he uses it. They all do - or did. Maybe now they'll start wondering." Roy smiled.
+
+«Конечно, он им пользуется. Они все используют – или использовали. Может быть, теперь они начнут задаваться вопросом». Рой улыбнулся.
+
+"This won't <span class='tip-wrap' data-text='end [Енд] {глагол} завершать'>**end**<span class='tip-text'> </span></span> it," Pris said. "But now there are a lot of unhappy human beings." To Isidore she said: "We've waited for months. We knew this was coming." She hesitated, then said, "Well, why not. Buster is one of us."
+
+«Это не положит этому конец», — сказал Прис. «Но сейчас много несчастных людей». Исидору она сказала: «Мы ждали несколько месяцев. Мы знали, что это произойдет». Она поколебалась, затем сказала: «Ну, почему бы и нет. Бастер — один из нас».
+
+"An android," Irmgard explained. "And nobody knows. No humans, I mean."
+
+«Андроид», — объяснила Ирмгард. «И никто не знает. Я имею в виду ни один человек».
+
+Pris, with the scissors, cut another leg <span class='tip-wrap' data-text='off [Оф] {предлог} от; у'>**off**<span class='tip-text'> </span></span> the spider. Suddenly John Isidore pushed her away and lifted the <span class='tip-wrap' data-text='creature [крИчэр] {существительное} создание [3]; тварь [2]; творение [2]; живое существо [2]'>**creature**<span class='tip-text'> </span></span> from the table. He carried it to the tap, turned the water on, and drowned it. His mind, his hopes, drowned too. As quickly as the spider.
+
+Прис ножницами отрезала пауку еще одну ногу. Внезапно Иоанн Исидор оттолкнул ее и поднял существо со стола. Он отнес его к крану, включил воду и утопил. Его разум, его надежды тоже утонули. Так же быстро, как паук.
+
+"He's really upset," Irmgard said nervously. "Don't look like that, J.R. And why don't you say anything?" To Pris and her husband, she said, "He hasn't spoken <span class='tip-wrap' data-text='since [сЫнс] {предлог} с (также после)'>**since**<span class='tip-text'> </span></span> we turned the television on."
+
+«Он очень расстроен», нервно сказала Ирмгард. «Не смотри так, Джей Ар. И почему ты ничего не говоришь?» Прис и ее мужу она сказала: «Он не разговаривал с тех пор, как мы включили телевизор».
+
+"It's not the television, it's the spider - isn't it, John R. Isidore? He'll be all right," Pris said to Irmgard, who had gone into the other room to turn the television off.
+
+«Дело не в телевизоре, а в пауке, не так ли, Джон Р. Исидор? С ним все будет в порядке», — сказала Прис Ирмгард, которая ушла в другую комнату, чтобы выключить телевизор.
+
+Looking at Isidore with amusement, Roy Baty said, "It's all finished now. Mercerism, I mean." He picked up the dead spider. "Maybe this was the last spider," he added thoughtfully. "The last <span class='tip-wrap' data-text='living [лЫвыŋ] {существительное} жизнь'>**living**<span class='tip-text'> </span></span> spider on Earth. In that case it's finished for spiders too."
+
+С удовольствием глядя на Исидора, Рой Бэти сказал: «Теперь все кончено. Я имею в виду мерсеризм». Он подобрал мертвого паука. «Может быть, это был последний паук», — задумчиво добавил он. «Последний живой паук на Земле. В таком случае и для пауков тоже конец».
+
+"I... don't feel well," Isidore said. He took a cup out of a kitchen cupboard and stood holding it for a while - he didn't know for how long. "Is the sky <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> Mercer really just painted?" he suddenly asked Roy.
+
+— Я… неважно себя чувствую, — сказал Исидор. Он достал из кухонного шкафа чашку и некоторое время стоял, держа ее в руках — он не знал, сколько времени. «Небо за спиной Мерсера действительно только что нарисовали?» — внезапно спросил он Роя.
+
+"You saw the lines from the paintbrush on the television."
+
+«Вы видели линии от кисти по телевизору».
+
+"Mercerism isn't finished," Isidore said. There was something wrong with these androids, very wrong. The spider, he thought. Maybe it was the last spider on earth, as Roy Baty said. And the spider is gone; Mercer is gone. He saw the dust spreading and the rubbish covering the empty buildings, the end of everything. He heard the cupboards in his kitchen breaking and falling, and he felt the ground under his feet begin to move.
+
+«Мерсеризм еще не закончился», - сказал Исидор. С этими андроидами было что-то не так, очень не так. Паук, подумал он. Возможно, как сказал Рой Бэти, это был последний паук на земле. И паук исчез; Мерсер ушел. Он видел, как распространялась пыль и мусор, покрывающий пустые здания, — конец всему. Он услышал, как сломались и упали шкафы на кухне, и почувствовал, как земля под его ногами начала двигаться.
+
+He touched the wall, and his hand went <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> it. He sat down, and the legs of the chair bent. The cup in his hand was in little pieces.
+
+Он коснулся стены, и его рука прошла сквозь нее. Он сел, и ножки стула подогнулись. Чашка в его руке была разбита на мелкие кусочки.
+
+"What's he doing?" Irmgard's voice came to him. "He's breaking everything. Isidore, stop!"
+
+"Что он делает?" До него донесся голос Ирмгард. «Он все ломает. Исидор, стой!»
+
+"I'm not doing it," he said. He walked slowly into the <span class='tip-wrap' data-text='living [лЫвыŋ] {существительное} жизнь'>**living**<span class='tip-text'> </span></span> room, to be <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span>, and looked around. It's all old, he thought, and it's being destroyed. He saw pieces of animals, grey bones, and as he walked he felt them breaking under his shoes. It's happening to me again, he realized. I'll be down here a long time. Like before.
+
+«Я этого не делаю», — сказал он. Он медленно вошел в гостиную, чтобы побыть один, и огляделся. «Все это старо, — подумал он, — и его разрушают». Он видел куски животных, серые кости и, пока шел, чувствовал, как они ломаются под его ботинками. «Это снова происходит со мной», — понял он. Я пробуду здесь надолго. Как раньше.
+
+The wind blew, and more bones broke. I wish I could remember how to <span class='tip-wrap' data-text='climb [клАйм] {глагол} взбираться'>**climb**<span class='tip-text'> </span></span> up from here, he thought. Looking up, he could see nothing to <span class='tip-wrap' data-text='hold [хOулд] {глагол} держать; занимать'>**hold**<span class='tip-text'> </span></span> on to. Mercer, he said, where are you now? I'm down here, but this time you're not here with me.
+
+Подул ветер, и сломалось еще больше костей. «Хотел бы я вспомнить, как отсюда подняться», — подумал он. Подняв глаза, он не увидел ничего, за что можно было бы держаться. Мерсер, сказал он, где ты сейчас? Я здесь, но на этот раз тебя здесь нет со мной.
+
+Something crossed his foot. He bent down and looked for it - and <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> it because it moved so slowly. The spider, walking on its remaining legs; he picked it up and held it in his hands. The spider is <span class='tip-wrap' data-text='alive [элАйв] {прилагательное} живой'>**alive**<span class='tip-text'> </span></span>, he realized. Mercer must be near.
+
+Что-то пересекло ему ногу. Он наклонился и поискал его — и нашел, потому что он двигался очень медленно. Паук, идущий на оставшихся ногах; он поднял его и подержал в руках. Паук жив, понял он. Мерсер должен быть рядом.
+
+The wind blew again and broke the bones, but he felt the <span class='tip-wrap' data-text='presence [прЕзэнс] {существительное} присутствие'>**presence**<span class='tip-text'> </span></span> of Mercer. Come here, he said to Mercer. "Mercer!" Suddenly the face of the old man was in front of him, a calm <span class='tip-wrap' data-text='expression [ыкспрЕшэн] {существительное} выражение'>**expression**<span class='tip-text'> </span></span> on his face.
+
+Снова подул ветер и сломал кости, но он почувствовал присутствие Мерсера. «Иди сюда», — сказал он Мерсеру. «Мерсер!» Внезапно перед ним оказалось лицо старика, на его лице было спокойное выражение.
+
+"Is the sky painted?" Isidore asked. "Are there really lines from the brush?"
+
+«Небо нарисовано?» – спросил Исидор. «Неужели есть линии от кисти?»
+
+"Yes," Mercer said.
+
+«Да», сказал Мерсер.
+
+"I can't see them."
+
+«Я не могу их видеть».
+
+"You are too near," Mercer answered. "You have to be a long way away, like the androids. They see things more <span class='tip-wrap' data-text='clearly [клЫрли] {наречие} очевидно'>**clearly**<span class='tip-text'> </span></span>. It's all true, you know, what they said."
+
+«Ты слишком близко», — ответил Мерсер. «Вы должны быть далеко, как андроиды. Они видят вещи более четко. Знаете, все, что они сказали, — это правда».
+
+"Including about the whisky?"
+
+— Включая виски?
+
+"It was all true. They will have trouble understanding why nothing's changed. Because you're still here and I'm still here. I lifted you from the bones just now, and I will continue to <span class='tip-wrap' data-text='lift [лЫфт] {глагол} поднимать'>**lift**<span class='tip-text'> </span></span> you <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> you want to stop. But you will have to stop searching for me, because I will never stop searching for you."
+
+«Все это было правдой. Им будет трудно понять, почему ничего не изменилось. Потому что ты все еще здесь, и я все еще здесь. Я только что поднял тебя с костей и буду продолжать поднимать тебя, пока ты не захочешь остановиться. Но тебе придется перестать меня искать, потому что я никогда не перестану искать тебя».
+
+"I didn't like that, about the whisky."
+
+«Мне это не понравилось насчет виски».
+
+"That's because you are a very good person. I'm not. I don't judge - not even myself." Mercer held out his hand. "Before I <span class='tip-wrap' data-text='forget [фэргЕт] {глагол} забывать'>**forget**<span class='tip-text'> </span></span>, I have something that belongs to you." On his hand rested the spider, but with all its eight legs.
+
+«Это потому, что ты очень хороший человек. Я нет. Я не сужу, даже себя». Мерсер протянул руку. «Пока я не забыл, у меня есть кое-что, что принадлежит тебе». На его руке покоился паук, но всеми своими восемью ногами.
+
+"Thank you." Isidore accepted the spider. He started to say something else, but then the alarm rang.
+
+"Спасибо." Исидор принял паука. Он хотел было сказать что-то еще, но тут зазвонил будильник.
+
+"There's a <span class='tip-wrap' data-text='killer [кЫлэр] {существительное} убийца [3]; киллер [2]'>**killer**<span class='tip-text'> </span></span> in the building!" Roy Baty shouted. "Turn the lights off. Get Isidore away from that empathy box; he has to be ready at the door. Move him!"
+
+«В здании убийца!» - крикнул Рой Бэти. «Выключите свет. Уведите Исидора от этого ящика сочувствия; он должен быть готов к двери. Уберите его!»
+
+Looking down, Isidore saw his hands on the handles of the empathy box. The lights went out, and he heard Irmgard's voice in his <span class='tip-wrap' data-text='ear [Ир] {существительное} ухо'>**ear**<span class='tip-text'> </span></span>.
+
+Посмотрев вниз, Исидор увидел свои руки на ручках коробки сочувствия. Свет погас, и он услышал в ухе голос Ирмгард.
+
+"Listen, J.R.," she whispered. <span class='tip-wrap' data-text='anger [Эŋгэр] {существительное} гнев [3]; злость [2]; ярость [2]; раздражение [2]'>**Anger**<span class='tip-text'> </span></span> and <span class='tip-wrap' data-text='fear [фЫр] {существительное} страх'>**fear**<span class='tip-text'> </span></span> suddenly made her look ugly. "You have to go to the door, when he knocks - if he knocks. You must show him your identification and tell him this is your apartment and nobody else is here."
+
+«Послушай, младший», — прошептала она. Гнев и страх внезапно сделали ее уродливой. «Вы должны подойти к двери, когда он постучит — если он постучит. Вы должны показать ему свое удостоверение личности и сказать, что это ваша квартира, и больше никого здесь нет».
+
+Pris, on the other side of him now, whispered in his other <span class='tip-wrap' data-text='ear [Ир] {существительное} ухо'>**ear**<span class='tip-text'> </span></span>. "Don't let him in, J.R. Say anything; do anything to stop him. Do you understand what he would do to us if he <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> us?"
+
+Прис, стоявшая теперь по другую сторону от него, прошептала ему в другое ухо. «Не впускай его, Джей Ар. Скажи что-нибудь; сделай что-нибудь, чтобы остановить его. Ты понимаешь, что он сделал бы с нами, если бы нашел нас?»
+
+Moving away from them, Isidore made his way <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> the <span class='tip-wrap' data-text='dark [дАрк] {существительное} темнота [2]; тьма [2]; тень [1]; потемки [1]; неведение [1]; невежество [1]'>**dark**<span class='tip-text'> </span></span> to the door. He stood there and listened. He could sense the hall outside, as he always sensed it: empty and lifeless.
+
+Отойдя от них, Исидор пробрался сквозь тьму к двери. Он стоял и слушал. Он чувствовал коридор снаружи, как всегда чувствовал: пустой и безжизненный.
+
+"Can you hear anything?" Roy Baty bent near him, and Isidore could <span class='tip-wrap' data-text='smell [смЕл] {глагол} пахнуть [3]; понюхать [3]; чувствовать запах [2]; нюхать [2]'>**smell**<span class='tip-text'> </span></span> his <span class='tip-wrap' data-text='fear [фЫр] {существительное} страх'>**fear**<span class='tip-text'> </span></span>. "Step outside and have a look."
+
+— Ты что-нибудь слышишь? Рой Бати наклонился рядом с ним, и Исидор почувствовал запах его страха. «Выйдите на улицу и посмотрите».
+
+Isidore opened the door. He was still holding the spider which Mercer had given him. Was it the same spider that Pris had cut with her scissors? <span class='tip-wrap' data-text='probably [прАбэблИ] {наречие} вероятно'>**Probably**<span class='tip-text'> </span></span> not. He would never know. But at <span class='tip-wrap' data-text='least [лИст] {наречие} наименее'>**least**<span class='tip-text'> </span></span> it was <span class='tip-wrap' data-text='alive [элАйв] {прилагательное} живой'>**alive**<span class='tip-text'> </span></span>. He walked to the end of the hall and down the stairs, and stepped into the garden. Most of the plants had died, and the broken paths were covered with dust, but it felt good to feel the <span class='tip-wrap' data-text='familiar [фэмЫлйэр] {прилагательное} знакомый'>**familiar**<span class='tip-text'> </span></span> ground under his feet. He <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> a small area of half-dead <span class='tip-wrap' data-text='grass [грЭс] {существительное} трава [3]; травка [2]; газон [2]'>**grass**<span class='tip-text'> </span></span> and put the spider <span class='tip-wrap' data-text='carefully [кЕрфэли] {наречие} бережно'>**carefully**<span class='tip-text'> </span></span> down on it. Then he stood up again.
+
+Исидор открыл дверь. Он все еще держал паука, которого дал ему Мерсер. Был ли это тот самый паук, которого Прис разрезала ножницами? Возможно нет. Он никогда не узнает. Но, по крайней мере, оно было живо. Он дошел до конца холла, спустился по лестнице и вышел в сад. Большинство растений погибло, а разбитые дорожки покрылись пылью, но было приятно чувствовать знакомую землю под ногами. Он нашел небольшой участок полумертвой травы и осторожно положил на него паука. Затем он снова встал.
+
+CHAPTER NINE
+
+ГЛАВА ДЕВЯТАЯ
+
+Last Battles
+
+Последние битвы
+
+The light of a torch shone on the <span class='tip-wrap' data-text='grass [грЭс] {существительное} трава [3]; травка [2]; газон [2]'>**grass**<span class='tip-text'> </span></span>. Now Isidore could see the spider resting on a leaf. So it was all right now.
+
+Свет факела падал на траву. Теперь Исидор увидел паука, отдыхающего на листе. Так что теперь все было в порядке.
+
+"What did you do?" asked the man holding the torch.
+
+"Что ты сделал?" — спросил мужчина, державший факел.
+
+"I put down a spider," Isidore answered, wondering why the man did not see it. "So it could escape."
+
+«Я уложил паука», — ответил Исидор, недоумевая, почему человек этого не заметил. «Чтобы оно могло сбежать».
+
+"Why don't you take it up to your apartment and put it in a bottle? The price in Sydney's for a spider is a hundred and ten dollars."
+
+«Почему бы тебе не отнести его к себе домой и не поместить в бутылку? Цена паука в Сиднее сто десять долларов».
+
+"If I took it back there, she'd cut its legs off again. One by one, to see what it would do."
+
+«Если бы я взял его туда, она снова отрезала бы ему ноги. Одну за другой, чтобы посмотреть, что он будет делать».
+
+"Androids do that," the man said. He took a card from his pocket and showed it to Isidore. "I work for the San Francisco Police. Deckard. Rick Deckard." He put the card away again. "They're up there now? The three of them?"
+
+«Андроиды делают это», — сказал мужчина. Он вынул из кармана карточку и показал ее Исидору. «Я работаю в полиции Сан-Франциско. Декард. Рик Декард». Он снова убрал карточку. — Они сейчас там? Они втроем?
+
+"<span class='tip-wrap' data-text='actually [ЭкчУэли] {наречие} действительно'>**Actually**<span class='tip-text'> </span></span>," Isidore said, "I'm looking after them. Two are women. They're the last ones of the group; the others are dead. I brought Pris's television up from her apartment and put it in <span class='tip-wrap' data-text='mine [мАйн] {существительное} шахта [3]; рудник [2]; мина [2]'>**mine**<span class='tip-text'> </span></span>, so that they could watch Buster Friendly. Buster proved that Mercer doesn't exist." Isidore was excited that he knew something important - news that the <span class='tip-wrap' data-text='killer [кЫлэр] {существительное} убийца [3]; киллер [2]'>**killer**<span class='tip-text'> </span></span> obviously hadn't heard.
+
+«Вообще-то, — сказал Исидор, — я присматриваю за ними. Двое — женщины. Они последние в группе; остальные мертвы. Я принес телевизор Прис из ее квартиры и поставил его в свою, так что они могли бы посмотреть «Бастер Френдли». Бастер доказал, что Мерсера не существует». Исидор был взволнован тем, что узнал что-то важное — новость, которую убийца явно не услышал.
+
+"Let's go up there," Deckard said. He pointed his laser gun at Isidore; then, a moment later, he put it away again. "You're a <span class='tip-wrap' data-text='special [спЕшэл] {прилагательное} особый (также специальный)'>**special**<span class='tip-text'> </span></span>, aren't you?" he said. "A chickenhead."
+
+— Давай поднимемся туда, — сказал Декард. Он направил свой лазерный пистолет на Исидора; затем, мгновение спустя, он снова убрал его. «Ты особенный, не так ли?» он сказал. «Куриная голова».
+
+"But I have a job. I drive a <span class='tip-wrap' data-text='truck [трАк] {существительное} грузовик'>**truck**<span class='tip-text'> </span></span> for..." He hesitated, forgetting the name. "...for a pet hospital. The Van Ness Pet Hospital. Owned b-b-by Hannibal Sloat."
+
+«Но у меня есть работа. Я вожу грузовик для…» Он заколебался, забыв имя. «...для больницы для домашних животных. Больница для домашних животных Ван Несса. Принадлежит Ганнибалу Слоату».
+
+Deckard said, "Will you take me up there and show me which apartment they're in? You can save me a lot of time - there are more than a thousand apartments." He sounded exhausted.
+
+Декард сказал: «Вы отвезете меня туда и покажете, в какой квартире они находятся? Вы можете сэкономить мне много времени — квартир больше тысячи». Он звучал изнуренно.
+
+"If you kill them, you won't be able to <span class='tip-wrap' data-text='become [быкАм] {глагол} становиться'>**become**<span class='tip-text'> </span></span> one with Mercer again," Isidore told him.
+
+«Если ты убьешь их, ты не сможешь снова стать единым целым с Мерсером», — сказал ему Исидор.
+
+"You won't take me up? Tell me which floor?"
+
+«Вы не поднимете меня? Скажите мне, какой этаж?»
+
+"No," said Isidore.
+
+— Нет, — сказал Исидор.
+
+"By law..." Deckard began. Then he stopped. "Good night," he said, and walked away <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the building, following the path with his torchlight.
+
+— По закону… — начал Декард. Затем он остановился. «Спокойной ночи», — сказал он и пошел к зданию, следуя по тропинке при свете фонаря.
+
+Inside the building, Rick turned off his torch and made his way slowly <span class='tip-wrap' data-text='along [элОŋ] {предлог} вдоль'>**along**<span class='tip-text'> </span></span> the hall. The chickenhead knew they were androids before I told him, he thought. But he doesn't understand. On the other hand, who does? Do I? Did I? And one of them will look exactly like Rachael, he reminded himself. Maybe the <span class='tip-wrap' data-text='special [спЕшэл] {прилагательное} особый (также специальный)'>**special**<span class='tip-text'> </span></span> has been living with her. I <span class='tip-wrap' data-text='wonder [уАндэр] {глагол} удивляться'>**wonder**<span class='tip-text'> </span></span> how he liked it.
+
+Внутри здания Рик выключил фонарик и медленно пошел по коридору. «Куриголовый знал, что они андроиды, еще до того, как я ему сказал», — подумал он. Но он не понимает. С другой стороны, кто это делает? Я? Я сделал? «И одна из них будет выглядеть точно так же, как Рэйчел», — напомнил он себе. Может быть, с ней жил особенный человек. Интересно, как ему это понравилось?
+
+He had brought his listening <span class='tip-wrap' data-text='equipment [ыкуЫпмэнт] {существительное} оборудование'>**equipment**<span class='tip-text'> </span></span> from the car. In the silence of the hall, it showed no sounds. Not on this floor. He changed the controls to a vertical reading. Upstairs, he noted. He climbed the stairs to the next floor.
+
+Он взял с собой подслушивающее оборудование из машины. В тишине зала не было слышно ни звука. Не на этом этаже. Он изменил управление на вертикальное чтение. Наверху, отметил он. Он поднялся по лестнице на следующий этаж.
+
+A figure was waiting in the shadows.
+
+В тени ждала фигура.
+
+"If you move, I'll kill you," Rick said. The male one. The laser gun felt heavy in his hand. He tried to <span class='tip-wrap' data-text='lift [лЫфт] {глагол} поднимать'>**lift**<span class='tip-text'> </span></span> it but couldn't.
+
+«Если ты пошевелишься, я убью тебя», — сказал Рик. Мужской. Лазерный пистолет казался тяжелым в его руке. Он попытался поднять его, но не смог.
+
+"I'm not an android," the figure said. "My name is Mercer. I inhabit this building because of Mr Isidore. The <span class='tip-wrap' data-text='special [спЕшэл] {прилагательное} особый (также специальный)'>**special**<span class='tip-text'> </span></span> who had the spider - you spoke to him outside."
+
+«Я не андроид», — сказала фигура. «Меня зовут Мерсер. Я живу в этом здании из-за мистера Исидора. Особый человек, у которого был паук, — вы говорили с ним снаружи».
+
+"Am I outside Mercerism now?" Rick asked. "As the chickenhead said? Because of what I'm going to do in the next few minutes?"
+
+«Теперь я вне мерсеризма?» — спросил Рик. — Как сказал цыплёнок? Из-за того, что я собираюсь делать в ближайшие несколько минут?
+
+Mercer answered, "Mr Isidore spoke for himself, not for me. What you are doing has to be done." He pointed at the stairs <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> Rick. "I came to tell you that one of them is <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> you and below, not in the apartment. It will be the hard one of the three, and you must kill it first. Quick, Mr Deckard. On the steps."
+
+Мерсер ответил: «Мистер Исидор говорил за себя, а не за меня. То, что вы делаете, должно быть сделано». Он указал на лестницу позади Рика. «Я пришел сказать вам, что один из них находится позади вас и внизу, а не в квартире. Он будет самым тяжелым из трех, и вы должны убить его первым. Быстро, мистер Декард. На ступеньках».
+
+Rick turned and dropped to his knees. There was a woman, and he knew her. He lowered his laser gun.
+
+Рик повернулся и упал на колени. Там была женщина, и он знал ее. Он опустил лазерный пистолет.
+
+"Rachael," he said. Had she followed him in her own hovercar? Why? "Go back to Seattle," he told her. "Leave me <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span>." And then he saw that it was not Rachael.
+
+«Рэйчел», сказал он. Следовала ли она за ним на своем собственном ховеркаре? Почему? «Возвращайся в Сиэтл», — сказал он ей. "Оставь меня в покое." А потом он увидел, что это была не Рэйчел.
+
+"Come here, my dear," the android said, holding out its arms. The clothes, he thought, are wrong. But the eyes, the same eyes. And there are more like this, each with its own name, but all Rachael Rosens. He fired at her as her eyes begged him not to. The android burst and parts of it flew <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> him; he covered his face. The hard one of the three, Mercer had said. He looked in the shadows, searching for Mercer, but the old man had gone. They can follow me with Rachael Rosens <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> I die, he thought, or <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> they invent a Nexus-7 type.
+
+«Иди сюда, моя дорогая», — сказал андроид, протягивая руки. Одежда, подумал он, не та. Но глаза, те же глаза. И таких еще есть, каждая со своим именем, но все Рэйчел Розенс. Он выстрелил в нее, хотя ее глаза умоляли его не делать этого. Андроид взорвался, и его части полетели в его сторону; он закрыл лицо. «Самый сложный из трех», — сказал Мерсер. Он посмотрел в тень в поисках Мерсера, но старик ушел. Они могут следовать за мной вместе с Рэйчел Розенс, пока я не умру, подумал он, или пока они не изобретут тип «Нексуса-7».
+
+And now the other two. Mercer protected me, he realized. Offered help. And now I can do the <span class='tip-wrap' data-text='rest [рЕст] {существительное} отдых (также остаток)'>**rest**<span class='tip-text'> </span></span>. The Batys will be hard, but they won't be like this. Somewhere in the building the Batys waited and knew. <span class='tip-wrap' data-text='probably [прАбэблИ] {наречие} вероятно'>**Probably**<span class='tip-text'> </span></span>, at this point, they were afraid. Rachael - or Pris Stratton - was their best weapon, and without Mercer it would have worked.
+
+А теперь еще двое. Мерсер защитил меня, понял он. Предложил помощь. И теперь я могу сделать все остальное. Батысам будет тяжело, но они не будут такими. Где-то в здании Батыи ждали и знали. Наверное, в этот момент они испугались. Рэйчел – или Прис Стрэттон – была их лучшим оружием, и без Мерсера оно бы сработало.
+
+He took out his <span class='tip-wrap' data-text='equipment [ыкуЫпмэнт] {существительное} оборудование'>**equipment**<span class='tip-text'> </span></span> again and hurried down the hall. Here. He had <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> the apartment. He knocked on the door.
+
+Он снова достал свое оборудование и поспешил в коридор. Здесь. Он нашел квартиру. Он постучал в дверь.
+
+A man's voice answered. "Who is it?"
+
+Ответил мужской голос. "Кто это?"
+
+"This is Mr Isidore," Rick said. "Let me in because I'm looking after you and t-t-two of you are women."
+
+«Это мистер Исидор», сказал Рик. «Впустите меня, потому что я присматриваю за вами, а двое из вас женщины».
+
+"We're not opening the door," said a woman's voice.
+
+«Мы не откроем дверь», - сказал женский голос.
+
+"I want to watch Buster Friendly on Pris's television," Rick called. "I d-drive a <span class='tip-wrap' data-text='truck [трАк] {существительное} грузовик'>**truck**<span class='tip-text'> </span></span> for the Van Ness Pet Hospital," he added. "Would you p-p-please open the d-d-door."
+
+«Я хочу посмотреть «Бастер Френдли» по телевизору Приса», — позвонил Рик. «Я буду водить грузовик для больницы для домашних животных Ван Несс», - добавил он. «П-пожалуйста, откройте д-дверь».
+
+He waited and the door opened. There were two shapes in the dark apartment.
+
+Он подождал, и дверь открылась. В темной квартире были две фигуры.
+
+The smaller shape, the woman, said, "You have to do the tests."
+
+Меньшая фигура, женщина, сказала: «Тебе нужно пройти тесты».
+
+"It's too late," Rick told her. The taller figure tried to <span class='tip-wrap' data-text='shut [шАт] {глагол} закрывать'>**shut**<span class='tip-text'> </span></span> the door and turn on some electrical <span class='tip-wrap' data-text='equipment [ыкуЫпмэнт] {существительное} оборудование'>**equipment**<span class='tip-text'> </span></span>. "No," Rick said. "I have to come in." He moved quickly to one side as Roy Baty fired at him. "You shouldn't have done that," Rick shouted. "I can now kill you without the test." Roy Baty fired again, missed, and ran into another room.
+
+«Уже слишком поздно», сказал ей Рик. Более высокая фигура попыталась закрыть дверь и включить какое-то электрооборудование. «Нет», сказал Рик. «Мне нужно войти». Он быстро отошел в сторону, когда Рой Бэти выстрелил в него. «Тебе не следовало этого делать», — крикнул Рик. «Теперь я могу убить тебя без теста». Рой Бати снова выстрелил, промахнулся и убежал в другую комнату.
+
+"Why didn't Pris get you?" Mrs Baty asked.
+
+— Почему Прис тебя не поймал? — спросила миссис Бэти.
+
+"There is no Pris," he told her. "Only hundreds of Rachael Rosens." He saw the gun in her hand; her husband must have passed it to her as he ran to the <span class='tip-wrap' data-text='back [бЭк] {существительное} спина'>**back**<span class='tip-text'> </span></span>. "I'm <span class='tip-wrap' data-text='sorry [сАри] {прилагательное} жалкий (также сожалеющий)'>**sorry**<span class='tip-text'> </span></span>, Mrs Baty," Rick said, and shot her.
+
+«Прис нет», — сказал он ей. «Только сотни Рэйчел Розенс». Он увидел пистолет в ее руке; ее муж, должно быть, передал это ей, когда бежал назад. «Мне очень жаль, миссис Бэти», — сказал Рик и выстрелил в нее.
+
+Roy Baty, in the shadows, screamed.
+
+Рой Бэти, стоявший в тени, закричал.
+
+"OK, you loved her," Rick said. "And I loved Rachael. And the <span class='tip-wrap' data-text='special [спЕшэл] {прилагательное} особый (также специальный)'>**special**<span class='tip-text'> </span></span> loved the other Rachael." He shot Roy Baty. The big man's body fell <span class='tip-wrap' data-text='onto [Анту] {предлог} на; в'>**onto**<span class='tip-text'> </span></span> the kitchen table. Plates and glasses flew in all directions. Then the body hit the ground. I got the last one. Rick thought. Six today. And now it's finished and I can go back home to Iran and the goat. And we'll finally have enough money.
+
+«Хорошо, ты любил ее», сказал Рик. «И я любил Рэйчел. А особенный любил другую Рэйчел». Он застрелил Роя Бэти. Тело здоровяка упало на кухонный стол. Тарелки и стаканы полетели во все стороны. Затем тело упало на землю. Я получил последний. Рик подумал. Шесть сегодня. И теперь все закончено, и я могу вернуться домой, к Ирану и козе. И у нас наконец-то будет достаточно денег.
+
+He sat down on the sofa. After a few minutes the <span class='tip-wrap' data-text='special [спЕшэл] {прилагательное} особый (также специальный)'>**special**<span class='tip-text'> </span></span>, Mr Isidore, appeared in the doorway.
+
+Он сел на диван. Через несколько минут в дверях появился специальный агент, мистер Исидор.
+
+"Don't look," Rick said.
+
+«Не смотри», сказал Рик.
+
+"I saw her on the stairs. Pris." The <span class='tip-wrap' data-text='special [спЕшэл] {прилагательное} особый (также специальный)'>**special**<span class='tip-text'> </span></span> was crying.
+
+— Я видел ее на лестнице. Прис. Спец плакал.
+
+"Don't get upset," Rick said. He stood up slowly. "Where's your phone?"
+
+«Не расстраивайся», сказал Рик. Он медленно встал. «Где твой телефон?»
+
+The <span class='tip-wrap' data-text='special [спЕшэл] {прилагательное} особый (также специальный)'>**special**<span class='tip-text'> </span></span> said nothing, so Rick searched for it himself. When he <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> it, he dialled Harry Bryant's office.
+
+В специальном выпуске ничего не говорилось, поэтому Рик поискал его сам. Когда он нашел его, он набрал номер офиса Гарри Брайанта.
+
+"Good," Bryant said, after he had been told the news. "Well, go and get some <span class='tip-wrap' data-text='rest [рЕст] {существительное} отдых (также остаток)'>**rest**<span class='tip-text'> </span></span>. We'll send a car for the bodies."
+
+«Хорошо», — сказал Брайант после того, как ему сообщили эту новость. — Ну, иди отдыхай. Мы пришлем машину за телами.
+
+Rick hung up. "Androids are stupid," he told the <span class='tip-wrap' data-text='special [спЕшэл] {прилагательное} особый (также специальный)'>**special**<span class='tip-text'> </span></span> angrily. "Roy Baty thought I was you. The police will clean all this. Why don't you stay in another apartment <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> they've finished?"
+
+Рик повесил трубку. «Андроиды глупы», — сердито сказал он в интервью специальному выпуску. «Рой Бэти думал, что это ты. Полиция все это уберет. Почему бы тебе не остаться в другой квартире, пока они не закончат?»
+
+"I'm leaving this b-b-building," Isidore said. "I'm g-g-going to live nearer the centre where there are m-m-more people."
+
+«Я покидаю это здание», — сказал Исидор. «Я буду жить поближе к центру, где людей будет мм-больше».
+
+"I think there's an empty apartment in my building," Rick said.
+
+«Я думаю, что в моем доме есть пустая квартира», — сказал Рик.
+
+"I don't w-w-want to live near you!"
+
+«Я не хочу жить рядом с тобой!»
+
+"Go outside or upstairs," Rick said. "Don't stay in here."
+
+«Иди на улицу или наверх», — сказал Рик. «Не оставайся здесь».
+
+The <span class='tip-wrap' data-text='special [спЕшэл] {прилагательное} особый (также специальный)'>**special**<span class='tip-text'> </span></span> hesitated. A number of different expressions crossed his face and then, turning, he left the apartment. Rick was <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span> again.
+
+Спецназ колебался. На его лице промелькнуло несколько разных выражений, а затем, повернувшись, он вышел из квартиры. Рик снова остался один.
+
+What a job! Rick thought. As Mercer says, it's my job to do wrong. Everything I've done has been wrong, from start to finish. But now it's time to go home. Perhaps there I can <span class='tip-wrap' data-text='forget [фэргЕт] {глагол} забывать'>**forget**<span class='tip-text'> </span></span>.
+
+Какая работа! Рик подумал. Как говорит Мерсер, моя работа — поступать неправильно. Все, что я сделал, было неправильным, от начала до конца. Но теперь пришло время идти домой. Возможно, там я смогу забыть.
+
+CHAPTER TEN
+
+ГЛАВА ДЕСЯТАЯ
+
+<span class='tip-wrap' data-text='journey [джЭрни] {существительное} путешествие [3]; поездка [2]'>**Journey**<span class='tip-text'> </span></span>'s End
+
+Конец путешествия
+
+Iran met Rick on the <span class='tip-wrap' data-text='roof [рУф] {существительное} крыша [3]; кровля [2]; потолок [2]'>**roof**<span class='tip-text'> </span></span> of their apartment building. She looked at him in a <span class='tip-wrap' data-text='strange [стрЕйндж] {прилагательное} странный; чужой'>**strange**<span class='tip-text'> </span></span>, crazy way; in all his years with her, he had never seen her like this. He put his arms around her.
+
+Иран встретил Рика на крыше их многоквартирного дома. Она посмотрела на него как-то странно, безумно; за все годы, проведенные с ней, он никогда не видел ее такой. Он обнял ее.
+
+"It's finished now," he said <span class='tip-wrap' data-text='quietly [куАйэтли] {наречие} спокойно [3]; тихо [3]'>**quietly**<span class='tip-text'> </span></span>. "I've been thinking that maybe Bryant can find me another job..."
+
+«Теперь все закончено», — тихо сказал он. «Я подумал, что, возможно, Брайант сможет найти мне другую работу…»
+
+"Rick," his wife said. "I have to tell you something. I'm <span class='tip-wrap' data-text='sorry [сАри] {прилагательное} жалкий (также сожалеющий)'>**sorry**<span class='tip-text'> </span></span>. The goat's dead."
+
+«Рик», — сказала его жена. «Я должен тебе кое-что сказать. Мне очень жаль. Коза умерла».
+
+For some reason it did not surprise him; it only made him feel worse. "I think there's something in the agreement," he said. "If it gets <span class='tip-wrap' data-text='sick [сЫк] {прилагательное} больной'>**sick**<span class='tip-text'> </span></span> within ninety days, the <span class='tip-wrap' data-text='dealer [дИлэр] {существительное} дилер [3]; торговец [2]'>**dealer**<span class='tip-text'> </span></span>..."
+
+Почему-то это его не удивило; от этого ему стало только хуже. «Я думаю, что в соглашении что-то есть», - сказал он. «Если он заболеет в течение девяноста дней, дилер…»
+
+"It didn't get <span class='tip-wrap' data-text='sick [сЫк] {прилагательное} больной'>**sick**<span class='tip-text'> </span></span>. Someone..." Iran stopped and covered her eyes for a moment. "Someone came here and pushed it off the <span class='tip-wrap' data-text='roof [рУф] {существительное} крыша [3]; кровля [2]; потолок [2]'>**roof**<span class='tip-text'> </span></span>."
+
+«Он не заболел. Кто-то…» Иран остановилась и на мгновение прикрыла глаза. «Кто-то пришел сюда и столкнул его с крыши».
+
+"Did you see who did it?"
+
+— Ты видел, кто это сделал?
+
+"I saw her very <span class='tip-wrap' data-text='clearly [клЫрли] {наречие} очевидно'>**clearly**<span class='tip-text'> </span></span>," Iran said. "Barbour was still up here with his horse. He came to find me and we called the police, but when they arrived it was too late. The animal was dead and she'd left. A small young-looking girl with dark hair and large black eyes, very <span class='tip-wrap' data-text='thin [θЫн] {прилагательное} тонкий'>**thin**<span class='tip-text'> </span></span>. She didn't try to hide - she didn't seem to care if we saw her."
+
+«Я видел ее очень ясно», - сказал Иран. «Барбур все еще был здесь со своей лошадью. Он пришел, чтобы найти меня, и мы вызвали полицию, но когда они приехали, было уже слишком поздно. Животное было мертво, и она ушла. Маленькая молодая девочка с темными волосами и большие черные глаза, очень тонкие. Она не пыталась спрятаться — казалось, ее не волновало, увидим ли мы ее».
+
+"No, she didn't care," Rick agreed. "Rachael <span class='tip-wrap' data-text='probably [прАбэблИ] {наречие} вероятно'>**probably**<span class='tip-text'> </span></span> wanted you to see her, so I'd know who did it." He kissed her. "Have you been waiting here all this time?"
+
+«Нет, ей было все равно», — согласился Рик. «Рэйчел, наверное, хотела, чтобы ты ее увидел, чтобы я знал, кто это сделал». Он поцеловал ее. — Ты ждал здесь все это время?
+
+"Only for half an hour. That's when it happened - half an hour ago." Iran gently returned the kiss. "It's so awful. So meaningless."
+
+«Только на полчаса. Вот тогда это и произошло — полчаса назад». Иран нежно ответил на поцелуй. «Это так ужасно. Так бессмысленно».
+
+Rick opened his car door and got in <span class='tip-wrap' data-text='behind [быхАйнд] {предлог} за'>**behind**<span class='tip-text'> </span></span> the <span class='tip-wrap' data-text='wheel [уИл] {существительное} колесо [3]; колесико [2]; велосипед [2]; круг [2]'>**wheel**<span class='tip-text'> </span></span>. "She had what seemed to her a reason," he said. An android reason, he thought.
+
+Рик открыл дверцу машины и сел за руль. «У нее была, как ей казалось, причина», - сказал он. «Причина андроида», — подумал он.
+
+"Where are you going? Won't you come downstairs and... be with me? There was shocking news on television; Buster Friendly said that Mercer was a fake. What do you think, Rick? Could it be true?"
+
+«Куда ты идешь? Не хочешь ли спуститься вниз и… побыть со мной? По телевидению были шокирующие новости; Бастер Френдли сказал, что Мерсер — фальшивка. Что ты думаешь, Рик? Может ли это быть правдой?»
+
+"Everything is true," he replied. "Everything that anybody has thought." He started the car.
+
+«Все верно», — ответил он. «Все, о чем кто-либо думал». Он завел машину.
+
+"Will you be all right?"
+
+— С тобой все будет в порядке?
+
+"I'll be all right," he said. I'm going to die, he thought. That's true too. He waved to Iran and drove up into the sky.
+
+«Со мной все будет в порядке», сказал он. «Я умру», — подумал он. Это тоже правда. Он помахал Ирану и поднялся в небо.
+
+Once, Rick thought, you could see the stars. But now it's only dust. Nobody has seen a star for years - at <span class='tip-wrap' data-text='least [лИст] {наречие} наименее'>**least**<span class='tip-text'> </span></span> not from Earth. Maybe I'll go to a place where I can see stars, he said to himself. He turned the car away from San Francisco <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the uninhabited areas to the north. <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**Towards**<span class='tip-text'> </span></span> a place where no <span class='tip-wrap' data-text='living [лЫвыŋ] {существительное} жизнь'>**living**<span class='tip-text'> </span></span> thing <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span> went, unless it felt that the end had come.
+
+Когда-то, подумал Рик, можно было увидеть звезды. Но теперь это только пыль. Никто уже много лет не видел звезду – по крайней мере, с Земли. «Может быть, я пойду туда, где смогу увидеть звезды», — сказал он себе. Он повернул машину от Сан-Франциско в сторону необитаемых районов на севере. К месту, куда никогда не ступало ни одно живое существо, если только оно не чувствовало, что наступил конец.
+
+In the early morning light, the land <span class='tip-wrap' data-text='below [былOу] {предлог} ниже'>**below**<span class='tip-text'> </span></span> him seemed to continue for <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span>, grey and covered in stones and rubbish. Once, he reminded himself, plants grew and animals lived here. I'm exhausted, he thought; I shouldn't be flying. He landed the hovercar at the bottom of a rocky hill.
+
+В свете раннего утра земля под ним казалась вечной, серой, покрытой камнями и мусором. Когда-то, напомнил он себе, здесь росли растения и жили животные. Я устал, подумал он; Мне не следует лететь. Он посадил ховеркар у подножия каменистого холма.
+
+What would Dave Holden say about me now? Six androids in twenty-four hours. I ought to call him. He picked up the car phone and dialled. "Mount Zion Hospital?" he checked. "You have a patient called Dave Holden. Is he well enough for me to talk to him? It's police business."
+
+Что бы сказал обо мне Дэйв Холден сейчас? Шесть андроидов за двадцать четыре часа. Мне следует позвонить ему. Он взял автомобильный телефон и набрал номер. «Больница Маунт-Сион?» он проверил. «У вас есть пациент по имени Дэйв Холден. Он достаточно здоров, чтобы я мог с ним поговорить? Это дело полиции».
+
+"Just a moment, sir... No, sir. Dr Costa does not feel that Mr Holden should take any calls for at <span class='tip-wrap' data-text='least [лИст] {наречие} наименее'>**least**<span class='tip-text'> </span></span>..."
+
+«Минуточку, сэр… Нет, сэр. Доктор Коста не считает, что мистеру Холдену следует отвечать на звонки, по крайней мере…»
+
+"OK," Rick said, and hung up. Dave's <span class='tip-wrap' data-text='condition [кэндЫшэн] {существительное} состояние; условие'>**condition**<span class='tip-text'> </span></span> is really serious, he thought. I <span class='tip-wrap' data-text='wonder [уАндэр] {глагол} удивляться'>**wonder**<span class='tip-text'> </span></span> why Bryant didn't tell me. Because I was moving too fast, he decided. Bryant was right not to let me know.
+
+«ОК», — сказал Рик и повесил трубку. «Состояние Дэйва действительно серьезное», — подумал он. Интересно, почему Брайант мне не сказал? Потому что я двигался слишком быстро, решил он. Брайант был прав, не сообщив мне об этом.
+
+It was cold in the car now, so Rick opened the door and stepped out. He was hit by a <span class='tip-wrap' data-text='terrible [тЕрэбэл] {прилагательное} страшный'>**terrible**<span class='tip-text'> </span></span>-smelling wind, and he rubbed his hands, trying to keep warm. Dave would have understood, he knew... even the other part, which I don't think even Mercer understands. For Mercer everything is easy, because he accepts everything. But what I've done I can't accept. I've <span class='tip-wrap' data-text='become [быкАм] {глагол} становиться'>**become**<span class='tip-text'> </span></span> unnatural to myself.
+
+В машине стало холодно, поэтому Рик открыл дверь и вышел. Его ударил ужасно пахнущий ветер, и он потер руки, пытаясь согреться. Дэйв бы понял, он знал... даже другую часть, которую, я думаю, не понимает даже Мерсер. Для Мерсера все легко, потому что он все принимает. Но то, что я сделал, я не могу принять. Я стал неестественным для самого себя.
+
+He walked on <span class='tip-wrap' data-text='up [Ап] {предлог} в; на; по направлению к'>**up**<span class='tip-text'> </span></span> the hillside, more slowly with every step. Too tired, he thought, to <span class='tip-wrap' data-text='climb [клАйм] {глагол} взбираться'>**climb**<span class='tip-text'> </span></span>. He stopped for a moment. His <span class='tip-wrap' data-text='whole [хOул] {прилагательное} весь'>**whole**<span class='tip-text'> </span></span> body ached. He was angry, hating himself. Then, <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span> on the hill, he began to <span class='tip-wrap' data-text='climb [клАйм] {глагол} взбираться'>**climb**<span class='tip-text'> </span></span> again.
+
+Он пошел вверх по склону холма, медленнее с каждым шагом. «Слишком устал, — подумал он, — чтобы подниматься». Он остановился на мгновение. Все его тело болело. Он злился и ненавидел себя. Затем, оставшись один на холме, он снова начал подниматься.
+
+It was hot now. Obviously time had passed. And he was hungry; god knows how long it was <span class='tip-wrap' data-text='since [сЫнс] {предлог} с (также после)'>**since**<span class='tip-text'> </span></span> he last ate. Defeat, that was what he felt. I've been defeated in some way. By killing the androids? By Rachael's murder of my goat? He did not know. Suddenly he fell on the stones, and at that moment the first rock - and it was not a plastic rock - hit him. The pain was greater than he had <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span> experienced.
+
+Сейчас было жарко. Очевидно, время прошло. И он был голоден; Бог знает, сколько времени прошло с тех пор, как он в последний раз ел. Поражение – вот что он чувствовал. В каком-то смысле я потерпел поражение. Убивая андроидов? Убийством Рэйчел моей козы? Он не знал. Внезапно он упал на камни, и в этот момент в него ударил первый камень – и это был не пластиковый камень. Боль была сильнее, чем он когда-либо испытывал.
+
+"Mercer!" he cried. In front of him, he could see a figure. "Wilbur Mercer! Is that you?" My god, he realized, it's my own shadow. I have to get away, down <span class='tip-wrap' data-text='off [Оф] {предлог} от; у'>**off**<span class='tip-text'> </span></span> this hill. He ran back down again. Once he fell, and clouds of dust rose from the ground. He hurried on <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> he saw his car, then jumped inside. Who threw the rock at me? he wondered. Nobody. But why does it worry me? I've experienced all this before, using the empathy box. Because, he realized, this time I was <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span>.
+
+«Мерсер!» воскликнул он. Перед собой он увидел фигуру. «Уилбур Мерсер! Это ты?» Боже мой, понял он, это моя собственная тень. Мне нужно уйти, спуститься с этого холма. Он снова побежал вниз. Однажды он упал, и над землей поднялись тучи пыли. Он поспешил вперед, пока не увидел свою машину, а затем прыгнул внутрь. Кто бросил в меня камень? он задавался вопросом. Никто. Но почему меня это беспокоит? Я уже сталкивался со всем этим раньше, используя ящик сочувствия. Потому что, как он понял, на этот раз я был один.
+
+He looked at his watch. Nine-thirty. He dialled the police station. "Give me Inspector Bryant," he said.
+
+Он посмотрел на свои часы. Девять тридцать. Он позвонил в полицейский участок. «Дайте мне инспектора Брайанта», - сказал он.
+
+"Inspector Bryant is not in his office, Mr Deckard," an officer answered.
+
+«Инспектора Брайанта нет в офисе, мистер Декард», - ответил офицер.
+
+"Let me speak to his secretary, then."
+
+— Тогда позвольте мне поговорить с его секретарем.
+
+The secretary's face appeared on the screen. "Oh, Mr Deckard, Inspector Bryant has been trying to find you. Congratulations on killing all those androids. Oh, and Mr Deckard, your wife phoned. She wants to know if you're all right. Are you?"
+
+На экране появилось лицо секретаря. «О, мистер Декард, инспектор Брайант пытался вас найти. Поздравляю с убийством всех этих андроидов. О, и мистер Декард, звонила ваша жена. Она хочет знать, в порядке ли вы. А вы?»
+
+He said nothing.
+
+Он ничего не сказал.
+
+"Maybe you should call her. She's at home, waiting to hear from you. Mr Deckard, you look awful. So tired. And you're bleeding."
+
+«Может быть, вам стоит позвонить ей. Она дома и ждет вашего ответа. Мистер Декард, вы выглядите ужасно. Такой усталый. И у вас течет кровь».
+
+He lifted his hand and felt the blood.
+
+Он поднял руку и почувствовал кровь.
+
+"You look," the secretary went <span class='tip-wrap' data-text='on [Ан] {наречие} вперёд; позднее; далее'>**on**<span class='tip-text'> </span></span>, "like Wilbur Mercer."
+
+«Вы выглядите, — продолжал секретарь, — как Уилбур Мерсер».
+
+"I am," he said. "I'm Wilbur Mercer; I've <span class='tip-wrap' data-text='become [быкАм] {глагол} становиться'>**become**<span class='tip-text'> </span></span> one with him, and I've lost myself. I'm somewhere up in the state of Oregon."
+
+«Я», сказал он. «Я Уилбур Мерсер; я стал с ним одним целым и потерял себя. Я где-то в штате Орегон».
+
+"Come back to San Francisco, Mr Deckard, where there are people. Aren't you all <span class='tip-wrap' data-text='alone [элOун] {наречие} только; в одиночку'>**alone**<span class='tip-text'> </span></span> up there?"
+
+«Возвращайтесь в Сан-Франциско, мистер Декард, где есть люди. Разве вы там не один?»
+
+"I'm alone," he agreed, "but I've <span class='tip-wrap' data-text='become [быкАм] {глагол} становиться'>**become**<span class='tip-text'> </span></span> Mercer. Not the way you <span class='tip-wrap' data-text='experience [ыкспЫриэнс] {глагол} испытывать'>**experience**<span class='tip-text'> </span></span> it when you <span class='tip-wrap' data-text='hold [хOулд] {глагол} держать; занимать'>**hold**<span class='tip-text'> </span></span> the handles of an empathy box. Then you're with Mercer. I'm not with anyone."
+
+«Я один», — согласился он, — «но я стал Мерсером. Не так, как ты испытываешь это, когда держишь ручки коробки сочувствия. Тогда ты с Мерсером. Я ни с кем».
+
+"They're saying now that Mercer's a fake."
+
+«Теперь они говорят, что Мерсер — фальшивка».
+
+"Mercer isn't a fake," he told her, "unless reality is a fake." I'm afraid, he thought, that I can't stop being Mercer. Will I have to <span class='tip-wrap' data-text='climb [клАйм] {глагол} взбираться'>**climb**<span class='tip-text'> </span></span> that hill for <span class='tip-wrap' data-text='ever [Евэр] {наречие} всегда'>**ever**<span class='tip-text'> </span></span>? "Good-bye," he said.
+
+«Мерсер не подделка, — сказал он ей, — если только реальность не подделка». Боюсь, подумал он, я не смогу перестать быть Мерсером. Придется ли мне вечно подниматься на этот холм? «До свидания», — сказал он.
+
+I need bed <span class='tip-wrap' data-text='rest [рЕст] {существительное} отдых (также остаток)'>**rest**<span class='tip-text'> </span></span>, he told himself. The last time I was in bed was with Rachael Rosen. Sleeping with an android - <span class='tip-wrap' data-text='against [эгЕнст] {предлог} от; против'>**against**<span class='tip-text'> </span></span> the law, here and on the other planets. She must be in Seattle now with the other Rosens, humans and androids. If I had killed her last night, my goat would still be <span class='tip-wrap' data-text='alive [элАйв] {прилагательное} живой'>**alive**<span class='tip-text'> </span></span>. That's when I made a wrong decision. Well, she was correct about one thing; the experience did change me. But not in the way that she expected. A much worse way, he decided.
+
+Мне нужен постельный режим, сказал он себе. Последний раз я был в постели с Рэйчел Розен. Спать с андроидом – противозаконно здесь и на других планетах. Должно быть, она сейчас в Сиэтле вместе с другими Розенами, людьми и андроидами. Если бы я убил ее прошлой ночью, моя коза была бы еще жива. Именно тогда я принял неправильное решение. Что ж, в одном она была права; этот опыт изменил меня. Но не так, как она ожидала. Гораздо худший способ, решил он.
+
+But I don't really care now. Not after what happened to me up there on the hill. If I'm Mercer, he thought, I can never die, not in ten thousand years. He picked up the phone to call his wife. And froze.
+
+Но мне сейчас все равно. Не после того, что случилось со мной там, на холме. Если я Мерсер, подумал он, то я никогда не умру, ни через десять тысяч лет. Он взял телефон, чтобы позвонить жене. И замер.
+
+He put the phone down again and stared at the place where something had moved. An animal, he said to himself. I know what it is, he realized, from the old nature films they show on television. But they're all dead. He quickly pulled out his Sydney's <span class='tip-wrap' data-text='guide [гАйд] {существительное} руководство (также гид)'>**guide**<span class='tip-text'> </span></span> and turned the pages to TOAD. There were no toads in <span class='tip-wrap' data-text='existence [егзЫстэнс] {существительное} существование [3]; наличие [3]; бытие [2]; жизнь [2]'>**existence**<span class='tip-text'> </span></span>.
+
+Он снова положил трубку и уставился на место, где что-то сдвинулось. «Животное», — сказал он себе. Я знаю, что это такое, понял он из старых фильмов о природе, которые показывают по телевидению. Но они все мертвы. Он быстро вытащил свой путеводитель по Сиднею и перевернул страницы на TOAD. Жаб не существовало.
+
+A box. He looked in the <span class='tip-wrap' data-text='back [бЭк] {существительное} спина'>**back**<span class='tip-text'> </span></span> of the car and <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> one full of tools. He emptied it quickly and walked <span class='tip-wrap' data-text='towards [тэуОрдз] {предлог} к [3]; в направлении [3]; по отношению к [2]; по направлению к [2]; навстречу [2]'>**towards**<span class='tip-text'> </span></span> the toad. It was yellowish-brown, the same colour as the dust. If it hadn't moved, he wouldn't have noticed it. What happens if you find the only animal of its kind? He tried to remember. You got some kind of prize from the United Nations, and a lot of money, he thought. This can't be true. Perhaps it's the effect of the radioactive dust. I'm a <span class='tip-wrap' data-text='special [спЕшэл] {прилагательное} особый (также специальный)'>**special**<span class='tip-text'> </span></span> now. It's like Isidore finding the spider. Did Mercer arrange this? But I'm Mercer. I arranged it. I <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> the toad because I see <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> Mercer's eyes.
+
+Коробка. Он заглянул в заднюю часть машины и нашел одну, полную инструментов. Он быстро опорожнил его и подошел к жабе. Оно было желтовато-коричневым, такого же цвета, как пыль. Если бы оно не двигалось, он бы этого не заметил. Что произойдет, если вы найдете единственное животное в своем роде? Он попытался вспомнить. «Ты получил какой-то приз от ООН и много денег», — подумал он. Это не может быть правдой. Возможно, это эффект радиоактивной пыли. Я теперь особенный. Это как если бы Исидор нашел паука. Мерсер организовал это? Но я Мерсер. Я это организовал. Я нашел жабу, потому что смотрю глазами Мерсера.
+
+He <span class='tip-wrap' data-text='carefully [кЕрфэли] {наречие} бережно'>**carefully**<span class='tip-text'> </span></span> brushed the <span class='tip-wrap' data-text='dirt [дЭрт] {существительное} грязь [3]'>**dirt**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='off [Оф] {предлог} от; у'>**off**<span class='tip-text'> </span></span> the toad and lifted it into the box. He <span class='tip-wrap' data-text='shut [шАт] {глагол} закрывать'>**shut**<span class='tip-text'> </span></span> the box and carried it to the car. This is what Mercer sees, he thought; life in the dust. And now that I've seen <span class='tip-wrap' data-text='through [θрУ] {предлог} через; по'>**through**<span class='tip-text'> </span></span> Mercer's eyes once, I <span class='tip-wrap' data-text='probably [прАбэблИ] {наречие} вероятно'>**probably**<span class='tip-text'> </span></span> won't stop. Wait <span class='tip-wrap' data-text='until [энтЫл] {предлог} до'>**until**<span class='tip-text'> </span></span> Iran hears about this. He got back into the car, put the box on the passenger <span class='tip-wrap' data-text='seat [сИт] {существительное} место'>**seat**<span class='tip-text'> </span></span>, and started to dial. Then paused. It'll be a surprise for her, he decided. He <span class='tip-wrap' data-text='set [сЕт] {глагол} устанавливать'>**set**<span class='tip-text'> </span></span> out for San Francisco, seven hundred miles to the south.
+
+Он тщательно смахнул с жабы грязь и положил ее в коробку. Он закрыл коробку и отнес ее в машину. «Вот что видит Мерсер», — подумал он; жизнь в пыли. И теперь, когда я однажды увидел глазами Мерсера, я, наверное, не остановлюсь. Подождите, пока Иран услышит об этом. Он вернулся в машину, положил коробку на пассажирское сиденье и начал набирать номер. Затем сделал паузу. Для нее это будет сюрпризом, решил он. Он отправился в Сан-Франциско, расположенный в семистах милях к югу.
+
+Back in the apartment, Iran was sitting <span class='tip-wrap' data-text='beside [бысАйд] {предлог} рядом с'>**beside**<span class='tip-text'> </span></span> her <span class='tip-wrap' data-text='mood [мУд] {существительное} настроение [3]; наклонение [2]'>**mood**<span class='tip-text'> </span></span> machine. But she felt too miserable and ill to dial a new <span class='tip-wrap' data-text='mood [мУд] {существительное} настроение [3]; наклонение [2]'>**mood**<span class='tip-text'> </span></span>. If Rick were here, she thought, he'd dial for me. I <span class='tip-wrap' data-text='wonder [уАндэр] {глагол} удивляться'>**wonder**<span class='tip-text'> </span></span> where he is... and if he'll come back.
+
+Вернувшись в квартиру, Иран сидела возле своей машины настроения. Но она чувствовала себя слишком несчастной и больной, чтобы набраться нового настроения. Если бы Рик был здесь, подумала она, он бы позвонил мне. Интересно, где он... и вернется ли?
+
+There was a knock at the door.
+
+Был стук в дверь.
+
+Rick! She jumped up and opened the door wide.
+
+Рик! Она вскочила и широко открыла дверь.
+
+"<span class='tip-wrap' data-text='hello [хэлOу] {междометие} привет [3]'>**Hello**<span class='tip-text'> </span></span>!" he said. There was blood on his face and dust in his clothes, but his eyes shone like the eyes of a small boy.
+
+"Привет!" он сказал. На его лице была кровь и пыль на одежде, но глаза его блестели, как глаза маленького мальчика.
+
+"It's nice to see you," she said.
+
+«Приятно тебя видеть», — сказала она.
+
+"I have something." He held a box, but did not put it down as he came in. It's something so valuable to him, she thought, that he wants to keep it in his arms.
+
+"У меня кое-что есть." Он держал коробку, но не поставил ее, войдя. «Это что-то настолько ценное для него, — подумала она, — что он хочет держать ее на руках».
+
+She said, "I'll make you a cup of coffee."
+
+Она сказала: «Я приготовлю тебе чашку кофе».
+
+While she made it, he sat down, and the <span class='tip-wrap' data-text='bright [брАйт] {прилагательное} яркий'>**bright**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='expression [ыкспрЕшэн] {существительное} выражение'>**expression**<span class='tip-text'> </span></span> remained on his face. Something had happened <span class='tip-wrap' data-text='since [сЫнс] {предлог} с (также после)'>**since**<span class='tip-text'> </span></span> she last saw him, and he held in that box everything that had happened.
+
+Пока она это делала, он сел, и на его лице осталось светлое выражение. Что-то произошло с тех пор, как она видела его в последний раз, и он хранил в этой коробке все, что произошло.
+
+"I'm going to sleep," he told her. "All day. I need to rest." He put the box on the table and, because she wanted him to, drank his coffee.
+
+«Я пойду спать», — сказал он ей. «Весь день. Мне нужно отдохнуть». Он поставил коробку на стол и, по ее желанию, выпил кофе.
+
+"What do you have in the box, Rick?"
+
+«Что у тебя в коробке, Рик?»
+
+"A toad."
+
+«Жаба».
+
+"Can I see it?"
+
+"Могу я увидеть это?"
+
+He opened the box. For some reason she felt afraid.
+
+Он открыл коробку. По какой-то причине ей стало страшно.
+
+"Will it bite?" She picked it up gently.
+
+«Он укусит?» Она осторожно взяла его.
+
+"No, toads don't have teeth. I <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> it in Oregon, in the <span class='tip-wrap' data-text='desert [дЕзэрт] {существительное} пустыня [3]'>**desert**<span class='tip-text'> </span></span> where everything else had died." He reached to take it back, but she had discovered something. She showed him the <span class='tip-wrap' data-text='tiny [тАйни] {прилагательное} крошечный'>**tiny**<span class='tip-text'> </span></span> control box near the toad's <span class='tip-wrap' data-text='stomach [стАмэк] {существительное} желудок [3]; живот [3]'>**stomach**<span class='tip-text'> </span></span>.
+
+«Нет, у жаб нет зубов. Я нашел ее в Орегоне, в пустыне, где все остальное вымерло». Он потянулся, чтобы забрать его обратно, но она кое-что обнаружила. Она показала ему крошечный блок управления возле желудка жабы.
+
+"Oh. Yes, I see," he said sadly. He looked at the <span class='tip-wrap' data-text='false [фОлс] {прилагательное} ложный [3]; фальшивый [2]'>**false**<span class='tip-text'> </span></span> animal without <span class='tip-wrap' data-text='quite [куАйт] {наречие} довольно'>**quite**<span class='tip-text'> </span></span> understanding. "I <span class='tip-wrap' data-text='wonder [уАндэр] {глагол} удивляться'>**wonder**<span class='tip-text'> </span></span> how it got to Oregon. Somebody must have put it there."
+
+«О, да, я понимаю», - сказал он грустно. Он посмотрел на ложное животное, не совсем понимая. «Интересно, как оно попало в Орегон. Должно быть, кто-то положил его туда».
+
+"Perhaps I shouldn't have showed you." She touched his <span class='tip-wrap' data-text='arm [Арм] {существительное} отделение (осн. рука)'>**arm**<span class='tip-text'> </span></span>.
+
+— Возможно, мне не следовало показывать тебе. Она коснулась его руки.
+
+"No," Rick said. "I'm <span class='tip-wrap' data-text='glad [глЭд] {прилагательное} радостный [2]; довольный [2]; приятный [1]; счастливый [1]; веселый [1]; утешительный [1]; яркий [1]; прекрасный [1]'>**glad**<span class='tip-text'> </span></span> to know. Or... I'd prefer to know."
+
+«Нет», сказал Рик. «Я рад знать. Или… я бы предпочел знать».
+
+"Do you want to use the <span class='tip-wrap' data-text='mood [мУд] {существительное} настроение [3]; наклонение [2]'>**mood**<span class='tip-text'> </span></span> machine?" Iran asked. "To feel <span class='tip-wrap' data-text='better [бЕтэр] {прилагательное} лучший'>**better**<span class='tip-text'> </span></span>?"
+
+«Хочешь воспользоваться машиной настроения?» — спросил Иран. «Чтобы чувствовать себя лучше?»
+
+"I'll be OK." He shook his head. "The spider that Mercer gave the chickenhead, Isidore; it was <span class='tip-wrap' data-text='probably [прАбэблИ] {наречие} вероятно'>**probably**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='false [фОлс] {прилагательное} ложный [3]; фальшивый [2]'>**false**<span class='tip-text'> </span></span> too. But it doesn't <span class='tip-wrap' data-text='matter [мЭтэр] {глагол} иметь значение'>**matter**<span class='tip-text'> </span></span>. These electrical things have lives too, although they're poorer than ours."
+
+"Со мной все будет в порядке." Он покачал головой. «Паук, которому Мерсер дал куриную голову, Исидор; он, вероятно, тоже был ложным. Но это не имеет значения. У этих электрических штук тоже есть жизни, хотя они беднее нашей».
+
+"Go and sleep," Iran told him.
+
+«Иди и спи», — сказал ему Иран.
+
+He looked at her, still confused. "It's finished, isn't it?"
+
+Он посмотрел на нее, все еще смущенный. «Все кончено, не так ли?»
+
+"It's finished."
+
+"Закончено."
+
+"What a job," Rick said. "After I'd started, I couldn't stop. Then after I'd finished, I couldn't stop because there would be nothing left if I did stop. You were right this morning when you said I was worse than a policeman."
+
+«Какая работа», сказал Рик. «После того, как я начал, я не мог остановиться. Затем, когда я закончил, я не мог остановиться, потому что, если бы я остановился, ничего бы не осталось. Сегодня утром вы были правы, когда сказали, что я хуже полицейского. ."
+
+"I don't feel that now," she said. "I'm just so happy to have you back here where you <span class='tip-wrap' data-text='belong [былОŋ] {глагол} принадлежать'>**belong**<span class='tip-text'> </span></span>." She kissed him and that seemed to please him. His eyes shone again, in the way they did before she <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> the controls for the toad.
+
+«Сейчас я этого не чувствую», — сказала она. «Я так рада, что ты вернулся сюда, где твое место». Она поцеловала его, и это, казалось, доставило ему удовольствие. Его глаза снова засияли, как и до того, как она нашла управление жабой.
+
+"You must have heard all about it from Bryant," he said. "Do you think I did wrong? What I did today?"
+
+«Вы, должно быть, слышали все об этом от Брайанта», - сказал он. «Думаешь, я поступил неправильно? То, что я сделал сегодня?»
+
+"No."
+
+"Нет."
+
+"Mercer said it was wrong but I should do it anyway. Sometimes it's <span class='tip-wrap' data-text='better [бЕтэр] {прилагательное} лучший'>**better**<span class='tip-text'> </span></span> to do something wrong than right."
+
+«Мерсер сказал, что это неправильно, но я все равно должен это сделать. Иногда лучше сделать что-то неправильно, чем правильно».
+
+"When the killers <span class='tip-wrap' data-text='found [фАунд] {глагол} основывать [1]; основываться [1]; обосновывать [1]; варить [1]; лить [1]; отливать [1]; опираться [1]; плавить [1]; закладывать фундамент [1]; закладывать [1]; учреждать [1]; создавать [1]; подводить основу [1]'>**found**<span class='tip-text'> </span></span> Mercer in his sixteenth year," Iran said, "they told him that he couldn't bring things to life again. So now he can only move along with life, going where it goes, to death. And the killers throw the rocks; they're still chasing him. And all of us. Did one of them cut your face, where it's bleeding?"
+
+«Когда убийцы нашли Мерсера на шестнадцатом году жизни, — рассказал Иран, — они сказали ему, что он не сможет снова оживить вещи. Так что теперь он может только двигаться вместе с жизнью, идя туда, куда она идет, к смерти. убийцы бросают камни; они все еще гонятся за ним. И все мы. Кто-то из них порезал тебе лицо, где текла кровь?
+
+"Yes," he said weakly.
+
+— Да, — сказал он слабо.
+
+"Will you go to bed now if I dial 670 on your <span class='tip-wrap' data-text='mood [мУд] {существительное} настроение [3]; наклонение [2]'>**mood**<span class='tip-text'> </span></span> machine for you?"
+
+«Ты пойдёшь спать, если я наберу для тебя номер 670 на твоем автомате настроения?»
+
+"What does that bring?"
+
+«Что это дает?»
+
+"Peace."
+
+"Мир."
+
+He stood up painfully and walked slowly to the bedroom. "OK," he agreed, "peace." He <span class='tip-wrap' data-text='lay [лЕй] {глагол} лежать'>**lay**<span class='tip-text'> </span></span> on the bed, and dust fell on to the sheets from his hair and clothes.
+
+Он с трудом встал и медленно пошел в спальню. «Хорошо, — согласился он, — мира». Он лежал на кровати, и на простыни падала пыль от его волос и одежды.
+
+She didn't need to turn on the <span class='tip-wrap' data-text='mood [мУд] {существительное} настроение [3]; наклонение [2]'>**mood**<span class='tip-text'> </span></span> machine, Iran realized. On the bed Rick, after a moment, slept.
+
+Ей не нужно было включать машину настроения, понял Иран. На кровати Рик через мгновение уснул.
+
+She stayed with him for a while and then returned to the kitchen and sat down. Next to her on the table, the <span class='tip-wrap' data-text='electric [ылЕктрык] {прилагательное} электрический [3]'>**electric**<span class='tip-text'> </span></span> toad was moving in its box. What did it eat? <span class='tip-wrap' data-text='false [фОлс] {прилагательное} ложный [3]; фальшивый [2]'>**False**<span class='tip-text'> </span></span> flies, she decided.
+
+Она побыла с ним некоторое время, а затем вернулась на кухню и села. Рядом с ней на столе в ящике двигалась электрическая жаба. Что оно ело? Ложные мухи, решила она.
+
+She looked in the telephone book and rang a number. When the sales assistant answered, she ordered some flies.
+
+Она заглянула в телефонную книгу и набрала номер. Когда продавец ответил, она заказала несколько мух.
+
+"Will you <span class='tip-wrap' data-text='deliver [дылЫвэр] {глагол} доставлять (также поставлять)'>**deliver**<span class='tip-text'> </span></span> them here?" she asked. "My husband's asleep and I don't want to leave my apartment."
+
+— Вы доставите их сюда? она спросила. «Мой муж спит, а я не хочу выходить из квартиры».
+
+"Of course," the assistant said. "What kind of animal are the flies for?"
+
+«Конечно», — сказал помощник. «Какому животному предназначены мухи?»
+
+"A toad."
+
+«Жаба».
+
+"Well, for a toad I suggest you also buy a small pool. And our service team will check the animal <span class='tip-wrap' data-text='regularly [рЕгйэлэрли] {наречие} регулярно [3]; правильно [2]'>**regularly**<span class='tip-text'> </span></span>, if you like. Toads sometimes develop problems with their tongues if they're fed <span class='tip-wrap' data-text='regularly [рЕгйэлэрли] {наречие} регулярно [3]; правильно [2]'>**regularly**<span class='tip-text'> </span></span>."
+
+«Ну, для жабы я предлагаю вам также купить небольшой бассейн. И наша сервисная команда будет регулярно проверять животное, если хотите. У жаб иногда возникают проблемы с языком, если их регулярно кормить».
+
+"Fine," Iran said. "I want it to work perfectly. My husband is very fond of it." She gave her address and hung up.
+
+«Хорошо», — сказал Иран. «Я хочу, чтобы оно работало идеально. Моему мужу оно очень нравится». Она дала свой адрес и повесила трубку.
+
+Feeling <span class='tip-wrap' data-text='better [бЕтэр] {прилагательное} лучший'>**better**<span class='tip-text'> </span></span>, she made herself another cup of hot, black coffee.
+
+Почувствовав себя лучше, она приготовила себе еще чашку горячего черного кофе.

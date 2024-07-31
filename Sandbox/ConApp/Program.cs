@@ -16,6 +16,9 @@ using System.Diagnostics;
 using CsvHelper;
 using System.Globalization;
 using System.Web;
+using System.Net.Http;
+using System.Net.Http.Headers;
+using Newtonsoft.Json.Linq;
 
 namespace ConApp {
     static class Program {
@@ -635,7 +638,7 @@ namespace ConApp {
             File.WriteAllLines(pathEx(path, "-dic"), rs);
         }
 
-        static void makeTip(string path) {
+        static void makeTip(string path, bool srt = false) {
             var dic = loadDic(pathEx(path, "-dic"));
             var sb = new StringBuilder();
             foreach (var wp in posReduce(path)) {
@@ -650,7 +653,12 @@ namespace ConApp {
                 if (pron != null) {
                     r = r.Replace("{", $"[{pron}] {{");
                 }
-                sb.Append($"<span class='tip-wrap' data-text='{r}'>**{w}**<span class='tip-text'> </span></span>");
+                if (srt) {
+                    sb.Append($"<u>{w}</u>");
+                }
+                else {
+                    sb.Append($"<span class='tip-wrap' data-text='{r}'>**{w}**<span class='tip-text'> </span></span>");
+                }
             }
             File.WriteAllText(pathEx(path, "-tip"), sb.ToString());
         }
@@ -689,48 +697,137 @@ namespace ConApp {
             }
         }
 
-        static volatile bool ctrlC = false;
+        static string gemini(string s) {
+            s = s.Replace(@"\", @"\\").Replace(@"""", @"\""").Replace("\r", @"\r").Replace("\n", @"\n");
+            var url = $"https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key={config["geminiKey"]}";
+            var request = WebRequest.Create(url);
+            request.Method = "POST";
+            request.ContentType = "application/json";
+            s = $"{{\"contents\":[{{\"parts\":[{{\"text\":\"{s}\"}}]}}]}}";
+            var data = Encoding.UTF8.GetBytes(s);
+            request.ContentLength = data.Length;
+            using (var stream = request.GetRequestStream()) {
+                stream.Write(data, 0, data.Length);
+            }
+            var r = (string)null;
 
-        [STAThread]
-        static void Main(string[] args) {
-            Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
+            using (var response = request.GetResponse())
+            using (Stream dataStream = response.GetResponseStream()) {
+                var reader = new StreamReader(dataStream);
+                r = reader.ReadToEnd();
+            }
 
-            //prepareWords("d:/words.txt");
-            //fixQuotes(@"d:\.temp\2.txt");
-            //deepl(@"d:\.temp\2.txt");
-            //File.WriteAllLines("d:/3.txt", posReduce("d:/.temp/3.txt ").Where(x => x.p != "пробел" && x.p != "прочее").Select(x => $"{x.w} {x.p}"));
+            var obj = JObject.Parse(r);
+            r = string.Join("\n", obj.SelectToken("$.candidates[0].content.parts").Select(x => x.SelectToken(".text")));
 
-            //learnStat("d:/.temp/2.txt");
-            //makeTip("d:/.temp/2.txt");
-            //readCsv("d:/.temp/tweets.csv ");
-            //Console.WriteLine(tweet2ascii("Test , Test"));
-            
-            var ts = File.ReadAllLines("d:/Projects/smalls/learn-tweets.txt");
+            return r;
+        }
+
+        static void srtClear(string path) {
+            var ss = File.ReadAllLines(path);
             var rs = new List<string>();
-            var prefix = "WORD: ";
-            var key = "";
             var i = 0;
-            var en = "";
-            var vs = new List<string>();
-            Func<string,string> esc = x => x.Replace("\\", "\\\\").Replace("\"", "\\\"");
-            foreach (var t in ts) {
-                if (t.StartsWith(prefix)) {
-                    rs.Add($"[\"{key}\", [{string.Join(", ", vs)}]],");
-                    vs.Clear();
-                    key = t.Substring(prefix.Length).Split(new[] { "} " }, ssop)[0] + "}";
+            foreach (var s in ss) {
+                i++;
+                if (i < 3)
+                    continue;
+                if (string.IsNullOrEmpty(s)) {
+                    i = 0;
+                    continue;
+                }
+                rs.Add(s);
+            }
+            File.WriteAllLines(pathEx(path, "-clear"), rs);
+        }
+
+        static void srtLine(string path) {
+            var ss = File.ReadAllLines(path);
+            var rs = new List<string>();
+            var numRe = new Regex(@"^\d+$", RegexOptions.Compiled);
+            var timeRe = new Regex(@"^\d\d:\d\d:\d\d", RegexOptions.Compiled);
+            var backRe = new Regex(@"-?\([^a-z)]*\)", RegexOptions.Compiled);
+            var i = 0;
+            foreach (var s in ss) {
+                i++;
+                if (i < 3) {
+                    if (i == 1 && !numRe.IsMatch(s) || i == 2 && !timeRe.IsMatch(s))
+                        throw new Exception();
+
+                    rs.Add(s);
+                    if (i == 2)
+                        rs.Add("");
+
                     continue;
                 }
 
-                if (i % 2 == 0) { en = t; }
-                else {
-                    vs.Add($"{{ en: \"{esc(en)}\", ru: \"{esc(t)}\" }}");
-                }
-                i++;
-            }
-            
-            //var re = new Regex(@"[!,\.:;?]$");
-            File.WriteAllLines("d:/.temp/tweets.js", rs);
+                if (s == "") {
+                    i = 0;
 
+                    if (rs.Last() == "") {
+                        rs.RemoveRange(rs.Count - 3, 3);
+                    }
+                    else {
+                        rs.Add(s);
+                    }
+                    
+                    continue;
+                }
+
+                var s2 = backRe.Replace(s, "").Trim();
+                if (s2 != "") {
+                    rs[rs.Count - 1] += (rs.Last() == "" ? "" : " ") + s2;
+                }
+            }
+            File.WriteAllLines(path.Replace("-orig", ""), rs);
+        }
+
+        static void srtCombile(string path, string pathOrig) {
+            var ss = File.ReadAllLines(path);
+            var os = File.ReadAllLines(pathOrig);
+            var rs = new List<string>();
+            var k = 0;
+            var j = 0;
+            for (var i = 0; i < os.Length; i++) {
+                k++;
+                if (k < 3) {
+                    rs.Add(os[i]);
+                    continue;
+                }
+                if (string.IsNullOrEmpty(os[i])) {
+                    k = 0;
+                    rs.Add(os[i]);
+                    continue;
+                }
+                rs.Add(ss[j]);
+                j++;
+            }
+            File.WriteAllLines(path.Replace("-clear", ""), rs);
+        }
+
+        static volatile bool ctrlC = false;
+
+        [STAThread]
+        static async Task Main(string[] args) {
+            Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
+
+            //prepareWords("d:/words.txt");
+            //fixQuotes(@"d:\.temp\1.txt");
+            //deepl(@"d:\.temp\st\S01E01[eng]-clear.srt");
+            //File.WriteAllLines("d:/3.txt", posReduce("d:/.temp/3.txt ").Where(x => x.p != "пробел" && x.p != "прочее").Select(x => $"{x.w} {x.p}"));
+            //var s = gemini(File.ReadAllText("d:/1.txt"));
+            //learnStat($"d:/.temp/1.txt");
+            makeTip($"d:/.temp/1.txt");
+
+            var name = "S01E05";
+            /*
+            srtLine($"d:/.temp/srt/{name}[eng]-orig.srt");
+            srtClear($"d:/.temp/srt/{name}[eng].srt");
+            learnStat($"d:/.temp/srt/{name}[eng]-clear.srt");
+            makeTip($"d:/.temp/srt/{name}[eng]-clear.srt", true);
+            srtCombile($"d:/.temp/srt/{name}[eng]-clear-tip.srt", $"d:/.temp/srt/{name}[eng].srt");
+            */
+            //srtCombile($"d:/.temp/srt/{name}[eng]-clear-ru.srt", $"d:/.temp/srt/{name}[eng].srt");
+            
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
         }
