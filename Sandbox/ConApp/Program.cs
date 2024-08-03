@@ -815,8 +815,8 @@ namespace ConApp {
             //deepl(@"d:\.temp\st\S01E01[eng]-clear.srt");
             //File.WriteAllLines("d:/3.txt", posReduce("d:/.temp/3.txt ").Where(x => x.p != "пробел" && x.p != "прочее").Select(x => $"{x.w} {x.p}"));
             //var s = gemini(File.ReadAllText("d:/1.txt"));
-            //learnStat($"d:/.temp/1.txt");
-            makeTip($"d:/.temp/1.txt");
+            //learnStat($"d:/.temp/6.txt");
+            makeTip($"d:/.temp/6.txt");
 
             var name = "S01E05";
             /*
