@@ -740,11 +740,65 @@ namespace ConApp {
             File.WriteAllLines(pathEx(path, "-clear"), rs);
         }
 
+        
+        static IEnumerable<List<string>> handleSrt(string path) {
+            var ss = File.ReadAllLines(path);
+            var numRe = new Regex(@"^\d+$", RegexOptions.Compiled);
+            var timeRe = new Regex(@"^\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d$", RegexOptions.Compiled);
+            var i = 0;
+            var rs = new List<string>();
+            for (var j = 0; j < ss.Length; j++) {
+                i++;
+                var s = ss[j];
+                if (i < 3) {
+                    if (i == 1 && !numRe.IsMatch(s) || i == 2 && !timeRe.IsMatch(s)) {
+                        throw new Exception();
+                    }
+                    rs.Add(s);
+                    continue;
+                }
+
+                if (s == "") {
+                    i = 0;
+                    yield return rs;
+                    rs = new List<string>();
+                    continue;
+                }
+
+                rs.Add(s);
+            }
+        }
+        
+
+        static void checkSrt(string path) {
+            var ss = File.ReadAllLines(path);
+            var numRe = new Regex(@"^\d+$", RegexOptions.Compiled);
+            var timeRe = new Regex(@"^\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d$", RegexOptions.Compiled);
+            var backRe = new Regex(@"-?\([^a-z)]*\)", RegexOptions.Compiled);
+            var i = 0;
+            for (var j = 0; j < ss.Length; j++) {
+                i++;
+                var s = ss[j];
+                if (i < 3) {
+                    if (i == 1 && !numRe.IsMatch(s) || i == 2 && !timeRe.IsMatch(s)) {
+                        Console.WriteLine($"[{j+1}] {path}");
+                        throw new Exception();
+                    }
+                    continue;
+                }
+
+                if (s == "") {
+                    i = 0;
+                    continue;
+                }
+            }
+        }
+
         static void srtLine(string path) {
             var ss = File.ReadAllLines(path);
             var rs = new List<string>();
             var numRe = new Regex(@"^\d+$", RegexOptions.Compiled);
-            var timeRe = new Regex(@"^\d\d:\d\d:\d\d", RegexOptions.Compiled);
+            var timeRe = new Regex(@"^\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d$", RegexOptions.Compiled);
             var backRe = new Regex(@"-?\([^a-z)]*\)", RegexOptions.Compiled);
             var i = 0;
             foreach (var s in ss) {
@@ -816,7 +870,7 @@ namespace ConApp {
             //File.WriteAllLines("d:/3.txt", posReduce("d:/.temp/3.txt ").Where(x => x.p != "пробел" && x.p != "прочее").Select(x => $"{x.w} {x.p}"));
             //var s = gemini(File.ReadAllText("d:/1.txt"));
             //learnStat($"d:/.temp/6.txt");
-            makeTip($"d:/.temp/6.txt");
+            //makeTip($"d:/.temp/6.txt");
 
             var name = "S01E05";
             /*
@@ -827,7 +881,60 @@ namespace ConApp {
             srtCombile($"d:/.temp/srt/{name}[eng]-clear-tip.srt", $"d:/.temp/srt/{name}[eng].srt");
             */
             //srtCombile($"d:/.temp/srt/{name}[eng]-clear-ru.srt", $"d:/.temp/srt/{name}[eng].srt");
-            
+            // "S(\d\d) ?E(\d\d)"
+            var files = Directory.GetFiles("d:/english/srt", "*.*", SearchOption.AllDirectories).ToList();
+            //files.ForEach(Console.WriteLine);
+            var re = new Regex("[^a-z0-9A-Z _]{2,}");
+            var xRe = new Regex(@"[-]{2,}");
+            var abs = new List<string>();
+            var aRe = new Regex(@"\b(C[Oo]|I[Nn][Cc]|Mr|Mrs|Ms|[Ii]\.[Ee]|[Ee]\.[Gg]|St|Dr|[AaPp]\.[Mm]|Jr|Ph\.D|Mt)\.");
+            var a2Re = new Regex(@"\b[A-HJ-Z]\.");
+            var dotRe = new Regex(@"\.{2,}");
+            var spRe = new Regex(@" {2,}");
+            var _Re = new Regex(@"^- ?");
+            var endRe = new Regex(@"[\.?!]");
+            //var domRe = new Regex(@"[a-zA-Z0-9-]\.[a-zA-Z]{2,}");
+            var signs = new List<string>();
+            var corRe = new Regex(@"[\.!?][""']$", RegexOptions.Compiled);
+            files.ForEach(f => {
+                var ss = File.ReadAllLines(f).ToList();
+                ss = ss.Select(s => handleString(s, corRe, (x, m) => {
+                    var cs = x.ToCharArray();
+                    var tmp = cs[0];
+                    cs[0] = cs[1];
+                    cs[1] = tmp;
+                    return new string(cs);
+                })).ToList();
+                //ss = ss.Select(s => _Re.Replace(s, "")).ToList();
+                //sum += ss.Where(s => s.Contains("\"")).Select(s => s.Length).Sum();
+                /*
+                for (var i = 0; i < ss.Count; i++) {
+                    var r = dotRe.Matches(ss[i]).Cast<Match>().Select(m => m.Value).Any(x => x.Length == 2);
+                    if (r) {
+                        Console.WriteLine($"[{i}] {f}");
+                    }
+
+                }
+                */
+                //var s = string.Join(" ", ss);
+                //signs.AddRange(re.Matches(s).Cast<Match>().Select(m => m.Value));
+                
+                //ss = ss.Select(x => x == "-" ? "." : x).ToList();
+                //ss = ss.SelectMany(x => x.Split('|')).ToList();
+                /*
+                ss = ss.Select(s => handleString(s, xRe, (x, m) => {
+                    
+                    return "-";
+                })).ToList();
+                
+                
+                */
+                File.WriteAllLines(f, ss);
+            });
+            //Console.WriteLine(sum);
+            //File.WriteAllLines("d:/signs.txt", signs.Distinct().ToList());
+            //File.WriteAllLines("d:/abbrs.txt", abs.Distinct().ToList());
+            //rs = rs.Distinct().ToList();
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
         }
