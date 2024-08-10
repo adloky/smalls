@@ -19,6 +19,12 @@ using System.Web;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using Newtonsoft.Json.Linq;
+using OpenNLP.Tools.Chunker;
+using OpenNLP.Tools.Parser;
+using OpenNLP.Tools.PosTagger;
+using OpenNLP.Tools.SentenceDetect;
+using OpenNLP.Tools.Tokenize;
+using OpenNLP.Tools.Trees;
 
 namespace ConApp {
     static class Program {
@@ -210,7 +216,7 @@ namespace ConApp {
                     var fs = new List<string>();
                     _lemmaForms[key] = fs;
                     foreach (var xx in x) {
-                        _lemmas[xx] = x[0];
+                        if (xx != key) _lemmas[xx] = x[0];
                         fs.Add(xx);
                     }
                 });
@@ -858,6 +864,37 @@ namespace ConApp {
             File.WriteAllLines(path.Replace("-clear", ""), rs);
         }
 
+        static Dictionary<string, string> openNlpTags = initOpenNlpTags();
+
+        static Dictionary<string, string> initOpenNlpTags() {
+            var dic = new Dictionary<string, string>();
+            "MD VB VBD VBG VBN VBP VBZ".Split(' ').ToList().ForEach(x => { dic.Add(x, "{глагол}"); });
+            "NNP NNPS".Split(' ').ToList().ForEach(x => { dic.Add(x, "{имя}"); });
+            "UH".Split(' ').ToList().ForEach(x => { dic.Add(x, "{междометие}"); });
+            "PRP PRP$ WP WP$".Split(' ').ToList().ForEach(x => { dic.Add(x, "{местоимение}"); });
+            "RB RBR RBS WRB".Split(' ').ToList().ForEach(x => { dic.Add(x, "{наречие}"); });
+            "DT WDT".Split(' ').ToList().ForEach(x => { dic.Add(x, "{определитель}"); });
+            "JJ JJR JJS".Split(' ').ToList().ForEach(x => { dic.Add(x, "{прилагательное}"); });
+            "EX FW LS POS SYM TO RP".Split(' ').ToList().ForEach(x => { dic.Add(x, "{прочее}"); });
+            "CC IN PDT".Split(' ').ToList().ForEach(x => { dic.Add(x, "{служебное}"); });
+            "NN NNS".Split(' ').ToList().ForEach(x => { dic.Add(x, "{существительное}"); });
+            "CD".Split(' ').ToList().ForEach(x => { dic.Add(x, "{числительное}"); });
+            return dic;
+        }
+
+        static EnglishRuleBasedTokenizer openNlpTokenizer = new EnglishRuleBasedTokenizer(false);
+        static EnglishMaximumEntropyPosTagger openNlpTagget = new EnglishMaximumEntropyPosTagger(@"d:\Projects\smalls\OpenNLP\EnglishPOS.nbin", @"d:\Projects\smalls\OpenNLP\tagdict");
+
+        static IEnumerable<string> posTag(string s) {
+            var ts = openNlpTokenizer.Tokenize(s);
+            var pos = openNlpTagget.Tag(ts);
+            for (var i = 0; i < ts.Length; i++) {
+                if (openNlpTags.TryGetValue(pos[i], out var p2)) {
+                    yield return $"{ts[i].ToLower()} {p2}";
+                }
+            }
+        }
+
         static volatile bool ctrlC = false;
 
         [STAThread]
@@ -880,61 +917,17 @@ namespace ConApp {
             makeTip($"d:/.temp/srt/{name}[eng]-clear.srt", true);
             srtCombile($"d:/.temp/srt/{name}[eng]-clear-tip.srt", $"d:/.temp/srt/{name}[eng].srt");
             */
-            //srtCombile($"d:/.temp/srt/{name}[eng]-clear-ru.srt", $"d:/.temp/srt/{name}[eng].srt");
-            // "S(\d\d) ?E(\d\d)"
-            var files = Directory.GetFiles("d:/english/srt", "*.*", SearchOption.AllDirectories).ToList();
-            //files.ForEach(Console.WriteLine);
-            var re = new Regex("[^a-z0-9A-Z _]{2,}");
-            var xRe = new Regex(@"[-]{2,}");
-            var abs = new List<string>();
-            var aRe = new Regex(@"\b(C[Oo]|I[Nn][Cc]|Mr|Mrs|Ms|[Ii]\.[Ee]|[Ee]\.[Gg]|St|Dr|[AaPp]\.[Mm]|Jr|Ph\.D|Mt)\.");
-            var a2Re = new Regex(@"\b[A-HJ-Z]\.");
-            var dotRe = new Regex(@"\.{2,}");
-            var spRe = new Regex(@" {2,}");
-            var _Re = new Regex(@"^- ?");
-            var endRe = new Regex(@"[\.?!]");
-            //var domRe = new Regex(@"[a-zA-Z0-9-]\.[a-zA-Z]{2,}");
-            var signs = new List<string>();
-            var corRe = new Regex(@"[\.!?][""']$", RegexOptions.Compiled);
-            files.ForEach(f => {
-                var ss = File.ReadAllLines(f).ToList();
-                ss = ss.Select(s => handleString(s, corRe, (x, m) => {
-                    var cs = x.ToCharArray();
-                    var tmp = cs[0];
-                    cs[0] = cs[1];
-                    cs[1] = tmp;
-                    return new string(cs);
-                })).ToList();
-                //ss = ss.Select(s => _Re.Replace(s, "")).ToList();
-                //sum += ss.Where(s => s.Contains("\"")).Select(s => s.Length).Sum();
-                /*
-                for (var i = 0; i < ss.Count; i++) {
-                    var r = dotRe.Matches(ss[i]).Cast<Match>().Select(m => m.Value).Any(x => x.Length == 2);
-                    if (r) {
-                        Console.WriteLine($"[{i}] {f}");
-                    }
 
-                }
-                */
-                //var s = string.Join(" ", ss);
-                //signs.AddRange(re.Matches(s).Cast<Match>().Select(m => m.Value));
-                
-                //ss = ss.Select(x => x == "-" ? "." : x).ToList();
-                //ss = ss.SelectMany(x => x.Split('|')).ToList();
-                /*
-                ss = ss.Select(s => handleString(s, xRe, (x, m) => {
-                    
-                    return "-";
-                })).ToList();
-                
-                
-                */
-                File.WriteAllLines(f, ss);
-            });
-            //Console.WriteLine(sum);
-            //File.WriteAllLines("d:/signs.txt", signs.Distinct().ToList());
-            //File.WriteAllLines("d:/abbrs.txt", abs.Distinct().ToList());
-            //rs = rs.Distinct().ToList();
+            var rs = new List<string>();
+            var dic = loadDic(@"d:\Projects\smalls\dic-corpus.txt");
+            dic.Keys.ToList().ForEach(k => { if (Regex.IsMatch(k, @"\{(глагол|наречие|прилагательное|существительное)\}")) { dic.Remove(k); } } );
+            var dic2 = new HashSet<string>(dic.Keys.Select(k => k.Split(' ')[0]).Distinct());
+
+            var tokenizer = new EnglishRuleBasedTokenizer(false);
+            var sentence = "But the hardest thing to get past an screw is peanuts, or anything that contains peanuts, or anything that even MAY contain peanuts.";
+            var rs2 = posTag(sentence).ToList();
+            //File.WriteAllLines(@"d:\dic-corpus-2.txt", rs);
+
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
         }
