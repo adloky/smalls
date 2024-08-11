@@ -885,7 +885,7 @@ namespace ConApp {
         static EnglishRuleBasedTokenizer openNlpTokenizer = new EnglishRuleBasedTokenizer(false);
         static EnglishMaximumEntropyPosTagger openNlpTagget = new EnglishMaximumEntropyPosTagger(@"d:\Projects\smalls\OpenNLP\EnglishPOS.nbin", @"d:\Projects\smalls\OpenNLP\tagdict");
 
-        static IEnumerable<string> posTag(string s) {
+        static IEnumerable<string> posTagging(string s) {
             var ts = openNlpTokenizer.Tokenize(s);
             var pos = openNlpTagget.Tag(ts);
             for (var i = 0; i < ts.Length; i++) {
@@ -893,6 +893,29 @@ namespace ConApp {
                     yield return $"{ts[i].ToLower()} {p2}";
                 }
             }
+        }
+
+
+        static Regex ampRe = new Regex(@"[a-zA-Z']+", RegexOptions.Compiled);
+
+        static string handleAmp(string s) {
+            return handleString(s, ampRe, (x, m) => {
+                if (!x.Contains("'")) return x;
+                x = x.ToLower()
+                    .Replace("can't", "can not")
+                    .Replace("won't", "will not")
+                    .Replace("ain't", "ai not")
+                    .Replace("n't", " not");
+
+                if (!x.Contains("'")) return x;
+
+                if ((x.StartsWith("'") || s.EndsWith("'")) && x.Count(c => c == '\'') == 1)
+                    return x;
+
+                x = x.Substring(0, x.LastIndexOf("'"));
+
+                return x;
+            });
         }
 
         static volatile bool ctrlC = false;
@@ -923,10 +946,45 @@ namespace ConApp {
             dic.Keys.ToList().ForEach(k => { if (Regex.IsMatch(k, @"\{(глагол|наречие|прилагательное|существительное)\}")) { dic.Remove(k); } } );
             var dic2 = new HashSet<string>(dic.Keys.Select(k => k.Split(' ')[0]).Distinct());
 
-            var tokenizer = new EnglishRuleBasedTokenizer(false);
-            var sentence = "But the hardest thing to get past an screw is peanuts, or anything that contains peanuts, or anything that even MAY contain peanuts.";
-            var rs2 = posTag(sentence).ToList();
-            //File.WriteAllLines(@"d:\dic-corpus-2.txt", rs);
+            var sentence = "But loadin' the hardest thing to get past an screw is peanuts, or anything that contains peanuts, or anything that even MAY contain peanuts.";
+            var rs2 = posTagging(sentence).ToList();
+
+            var capRe = new Regex(@"[A-Z]{2,}", RegexOptions.Compiled);
+            var statDic = new Dictionary<string, int>();
+            var letRe = new Regex(@"[A-Za-z]", RegexOptions.Compiled);
+            Func<string, bool> firstCap = x => { var m = letRe.Match(x); return m.Success && char.IsUpper(m.Value[0]); };
+            //Console.WriteLine(firstCap(sentence));
+
+            using (var readStream = File.OpenRead(@"d:\english\.db\OpenSubtitles.en-ru.en"))
+            using (var reader = new StreamReader(readStream)) {
+                var i = 0;
+                while (i < 100000) {
+                    var s = reader.ReadLine();
+                    if (s ==  "" || s == null || s.Contains("\"") || capRe.IsMatch(s) || s.Contains("''") || !firstCap(s))
+                        continue;
+
+                    s = handleAmp(s);
+
+                    i++;
+                    foreach (var tag in posTagging(s)) {
+                        var k = tag.Split(' ')[0];
+                        if (dic.ContainsKey(tag) || !dic2.Contains(k))
+                            continue;
+
+                        if (!statDic.ContainsKey(tag)) statDic[tag] = 0;
+                        statDic[tag]++;
+                    }
+                    /*
+                    ampRe.Matches(s.ToLower()).Cast<Match>().Select(m => m.Value).Where(x => x.Contains("'")).ToList().ForEach(x => {
+                        if (!statDic.ContainsKey(x)) statDic.Add(x, 0);
+                        statDic[x] += 1;
+                    });
+                    */
+                }
+            }
+
+            rs =  statDic.OrderByDescending(x => x.Value).Select(x => $"{x.Key} {x.Value}").ToList();
+            File.WriteAllLines("d:/stat-dic.txt", rs);
 
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
