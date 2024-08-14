@@ -983,12 +983,12 @@ namespace ConApp {
             var statDic = new Dictionary<string, int>();
             var letRe = new Regex(@"[A-Za-z]+", RegexOptions.Compiled);
             var iRe = new Regex(@"\bi\b", RegexOptions.Compiled);
+            var asciiRe = new Regex(@"[^\x20-\x7f]", RegexOptions.Compiled);
             Func<string, bool> firstCap = x => { var m = letRe.Match(x); return m.Success && char.IsUpper(m.Value[0]); };
             //Console.WriteLine(firstCap(sentence));
 
-            /*
             var wordApp = new Microsoft.Office.Interop.Word.Application();
-            */
+            
 
             Func<string, string> lemm = s => {
                 var sp = s.Split(' ');
@@ -999,84 +999,39 @@ namespace ConApp {
                 return dic.TryGetValue(s, out var tmp) || dic.TryGetValue(lemm(s), out tmp);
             };
 
-            var excepts = new HashSet<string>(new[] { "the {определитель}", "a {определитель}", "an {определитель}", "of {служебное}", "to {прочее}", "to {служебное}" });
-            var dups = new HashSet<Guid>();
+            var i2 = 0;
+            var i1 = 0;
+            var ss = File.ReadAllLines(@"d:\subs.txt");
+            for (var i = 0; i < ss.Length; i++) {
+                if (ctrlC) break;
+                var s = ss[i];
+                if (s.StartsWith("[+]")) continue;
+                i1++;
 
-            var ti = CultureInfo.InvariantCulture.TextInfo;
-            using (var readStream = File.OpenRead(@"d:\english\.db\OpenSubtitles.en-ru.en"))
-            using (var reader = new StreamReader(readStream)) {
-                var i = 0L;
-                var i2 = 0L;
-                while (!reader.EndOfStream) {
-                    var s = reader.ReadLine();
-                    //for (var j = 0; j < 10 && !reader.EndOfStream; j++) reader.ReadLine();
-                    if (s == "" || s == null || s.Contains("\"") || capRe.IsMatch(s) || s.Contains("''") || !firstCap(s) || iRe.IsMatch(s)) {
-                        continue;
-                    }
-
-                    var s2 = handleAmp(s);
-                    i++;
-
-                    var ts = posTagging(s2).Where(x => !excepts.Contains(x)).ToList();
-                    ts.Where(x => !exists(x)).ToList().ForEach(x => {
-                        if (!statDic.ContainsKey(x)) statDic[x] = 0;
-                        statDic[x]++;
-                    });
-                    if (ts.Count < 5 || ts.Count > 9 || ts.Any(x => !exists(x))) {
-                    }
-                    else {
-                        i2++;
-                        var hash = StringToGuid(string.Join(" ", ts.Select(x => x.Split(' ')[0])));
-                        if (!dups.Contains(hash)) {
-                            dups.Add(hash);
-                            rs.Add(s);
-                        }
-                        //else { Console.WriteLine("DIP"); }
-                    }
-
-                    /*
-                    posTagging(s).Where(x => x.Contains("{имя}")).Select(x => ti.ToTitleCase(x.Split(' ')[0])).ToList().ForEach(x => {
-                        if (!statDic.ContainsKey(x)) statDic[x] = 0;
-                        statDic[x]++;
-                    });
-                    */
-
-                    //letRe.Matches(s.ToLower()).Cast<Match>().Select(m => m.Value).ToList();
-
-                    /*
-                    var good = false;
-                    try {
-                        good = wordApp.CheckSpelling(s) && wordApp.CheckGrammar(s);
-                    } catch { }
-                    if (good) { i2++; }
-                    if (i % 1000 == 0) Console.WriteLine($"{i2 * 100 / i} {i2}");
-                    */
-
-
-
-                    if (i % 1000 == 0) Console.WriteLine(i / 1000);
-
-                    /*
-                    foreach (var tag in posTagging(s)) {
-                        var k = tag.Split(' ')[0];
-                        if (dic.ContainsKey(tag) || !dic2.Contains(k))
-                            continue;
-
-                        if (!statDic.ContainsKey(tag)) statDic[tag] = 0;
-                        statDic[tag]++;
-                    }
-                    /*
-                    ampRe.Matches(s.ToLower()).Cast<Match>().Select(m => m.Value).Where(x => x.Contains("'")).ToList().ForEach(x => {
-                        if (!statDic.ContainsKey(x)) statDic.Add(x, 0);
-                        statDic[x] += 1;
-                    });
-                    */
+                var good = false;
+                try {
+                    good = wordApp.CheckGrammar(s); //wordApp.CheckSpelling(s) && 
                 }
+                catch { }
+
+                if (good) {
+                    i2++;
+                    s = $"[+]{s}";
+                }
+                else { s = null; }
+
+                if (i1 != 0 && i1 % 1000 == 0) Console.WriteLine($"{i / 1000} {i2 * 100 / i1}% {i2}");
+
+                ss[i] = s;
             }
 
             //rs =  statDic.OrderByDescending(x => x.Value).Select(x => $"{x.Key} {x.Value}").ToList();
             //File.WriteAllLines("d:/stat-dic.txt", rs);
-            File.WriteAllLines("d:/subs.txt", rs);
+            Console.WriteLine("Save y/n");
+            var yn = Console.ReadLine();
+            if (yn.ToLower() == "y") {
+                File.WriteAllLines("d:/subs.txt", ss.Where(x => x != null));
+            }
 
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
