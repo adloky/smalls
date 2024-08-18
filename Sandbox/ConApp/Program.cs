@@ -25,8 +25,6 @@ using OpenNLP.Tools.PosTagger;
 using OpenNLP.Tools.SentenceDetect;
 using OpenNLP.Tools.Tokenize;
 using OpenNLP.Tools.Trees;
-using Microsoft.Office;
-using Microsoft.Office.Core;
 using System.Security.Cryptography;
 
 namespace ConApp {
@@ -971,7 +969,15 @@ namespace ConApp {
             srtCombile($"d:/.temp/srt/{name}[eng]-clear-tip.srt", $"d:/.temp/srt/{name}[eng].srt");
             */
 
-            var rs = new List<string>();
+
+            Directory.GetFiles(@"d:\.temp\___\en", "*-en.jpg").Where(x => x.Split('\\').Last().CompareTo("551-en") >= 0).ToList().ForEach(p => File.Move(p, handleString(p, new Regex(@"\d+"), (x,m) => (int.Parse(x) - 1).ToString("000")))); // 
+            //Directory.GetFiles(@"d:\.temp\___\en", "*-ru.jpg").ToList().ForEach(Console.WriteLine); //x 
+
+            Console.WriteLine("Press ENTER");
+            Console.ReadLine();
+            return;
+
+            //var rs = new List<string>();
             var dic = loadDic(@"d:\Projects\smalls\dic-corpus.txt");
             //dic.Keys.ToList().ForEach(k => { if (Regex.IsMatch(k, @"\{(глагол|наречие|прилагательное|существительное)\}")) { dic.Remove(k); } } );
             var dic2 = new HashSet<string>(dic.Keys.Select(k => k.Split(' ')[0]).Distinct());
@@ -987,7 +993,6 @@ namespace ConApp {
             Func<string, bool> firstCap = x => { var m = letRe.Match(x); return m.Success && char.IsUpper(m.Value[0]); };
             //Console.WriteLine(firstCap(sentence));
 
-            var wordApp = new Microsoft.Office.Interop.Word.Application();
             
 
             Func<string, string> lemm = s => {
@@ -1001,28 +1006,20 @@ namespace ConApp {
 
             var i2 = 0;
             var i1 = 0;
-            var ss = File.ReadAllLines(@"d:\subs.txt");
+            var dRe = new Regex(@"^ ?- ?");
+            var bRe = new Regex(@"[\[\]\(\)\{\}]");
+            var rnd = new Random();
+            var ss = File.ReadAllLines(@"d:\subs.txt").Where(x => !bRe.IsMatch(x)).ToArray();
+            File.WriteAllLines("d:/subs-2.txt", ss);
+            return;
+            var rs = new string[10000000];
             for (var i = 0; i < ss.Length; i++) {
                 if (ctrlC) break;
-                var s = ss[i];
-                if (s.StartsWith("[+]")) continue;
-                i1++;
-
-                var good = false;
-                try {
-                    good = wordApp.CheckGrammar(s); //wordApp.CheckSpelling(s) && 
-                }
-                catch { }
-
-                if (good) {
-                    i2++;
-                    s = $"[+]{s}";
-                }
-                else { s = null; }
-
-                if (i1 != 0 && i1 % 1000 == 0) Console.WriteLine($"{i / 1000} {i2 * 100 / i1}% {i2}");
-
-                ss[i] = s;
+                var j = 0;
+                do {
+                    j = rnd.Next(10000000);
+                } while (rs[j] != null);
+                rs[j] = ss[i];
             }
 
             //rs =  statDic.OrderByDescending(x => x.Value).Select(x => $"{x.Key} {x.Value}").ToList();
@@ -1030,11 +1027,11 @@ namespace ConApp {
             Console.WriteLine("Save y/n");
             var yn = Console.ReadLine();
             if (yn.ToLower() == "y") {
-                File.WriteAllLines("d:/subs.txt", ss.Where(x => x != null));
+                File.WriteAllLines("d:/subs-2.txt", rs.Where(x => x != null));
             }
 
-            Console.WriteLine("Press ENTER");
-            Console.ReadLine();
+            //Console.WriteLine("Press ENTER");
+            //Console.ReadLine();
         }
     }
 }
