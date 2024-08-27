@@ -945,6 +945,19 @@ namespace ConApp {
             return BytesToGuid(bytes, bytes.Length);
         }
 
+        public static IEnumerable<List<string>> dsl(IList<string> ss) {
+            var l = new List<string>();
+            for (var i = 0; i < ss.Count; i++) {
+                var s = ss[i];
+                if (!s.StartsWith("\t")) {
+                    if (l.Count == 0) continue;
+                    yield return l;
+                    l = new List<string>();
+                }
+                l.Add(s);
+            }
+            yield return l;
+        }
 
         static volatile bool ctrlC = false;
 
@@ -970,7 +983,7 @@ namespace ConApp {
             */
 
             //var ss = File.ReadAllLines("d:/l-dic.txt");
-            var path = "d:/l-dic.txt";
+            var path = "d:/Projects/smalls/l-dic.txt";
             var tRe = new Regex(@"\[[^\]]+\]");
             var nsRe = new Regex(@"[^ ]+");
             var pRe = new Regex(@"\[p\][^\]]*\[/p\]");
@@ -980,17 +993,23 @@ namespace ConApp {
             var brRe = new Regex(@"\(.*?\)");
             var ss = File.ReadAllLines(path).ToList(); // .Select(x => x.Replace("[m1]", "[m]"))
             var set = new HashSet<string>(new [] { "n", "adv", "v", "adj", "prep", "pl", "conj", "pron", "interj", "sing", "pass", "num", "pref", });
-
-            for (var i = 0; i < ss.Count; i++) {
+            var rs = new List<string>();
+            foreach (var l in dsl(ss)) {
+                if (l[0].Contains(" ") || l[0].Contains("{")) continue;
+                var trn = string.Join("; ", l.Skip(1).Select(s => s.Replace("\t", "").Trim()).Where(x => x != ""));
+                var r = l[0] + " " + trn;
+                r = r.Replace("[/p];", "[/p]");
+                rs.Add(r);
             }
+            //dsl(ss).Select(x => string.Join("; ", x)).ToList().ForEach(Console.WriteLine);
 
             ss = ss.Where(s => s.Trim() != "").ToList();
             
-            var rs = new List<string>();
+            
             //ss.ForEach(s => { pRe.Matches(s).Cast<Match>().Select(m => m.Value).ToList().ForEach(s2 => rs.Add(s2)); });
             //rs.Distinct().ToList().ForEach(Console.WriteLine);
             //var rs = tRe.Matches(s).Cast<Match>().Select(m => m.Value).Distinct().ToArray();
-            File.WriteAllLines(pathEx(path, "-2"), ss);
+            File.WriteAllLines(pathEx(path, "-2"), rs);
             //File.WriteAllText(path, s);
 
             Console.WriteLine("Press ENTER");
