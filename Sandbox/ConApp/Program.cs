@@ -993,15 +993,29 @@ namespace ConApp {
             var brRe = new Regex(@"\(.*?\)");
             var ss = File.ReadAllLines(path).ToList(); // .Select(x => x.Replace("[m1]", "[m]"))
             var set = new HashSet<string>(new [] { "n", "adv", "v", "adj", "prep", "pl", "conj", "pron", "interj", "sing", "pass", "num", "pref", });
-            var rs = new List<string>();
-            foreach (var l in dsl(ss)) {
-                if (l[0].Contains(" ") || l[0].Contains("{")) continue;
-                var trn = string.Join("; ", l.Skip(1).Select(s => s.Replace("\t", "").Trim()).Where(x => x != ""));
-                var r = l[0] + " " + trn;
-                r = r.Replace("[/p];", "[/p]");
-                rs.Add(r);
-            }
+            var posDic = new Dictionary<string, string>() {
+                { "[p]n[/p]", "{существительное}" },
+                { "[p]adv[/p]", "{наречие}" },
+                { "[p]v[/p]", "{глагол}" },
+                { "[p]adj[/p]", "{прилагательное}" },
+                { "[p]prep[/p]", "{предлог}" },
+                { "[p]pl[/p]", "{существительное}" },
+                { "[p]conj[/p]", "{союз}" },
+                { "[p]pron[/p]", "{местоимение}" },
+                { "[p]interj[/p]", "{междометие}" },
+                { "[p]sing[/p]", "{существительное}" },
+                { "[p]pass[/p]", "{пассив}" },
+                { "[p]num[/p]", "{числительное}" },
+                { "[p]pref[/p]", "{префикс}" },
+            };
+
             //dsl(ss).Select(x => string.Join("; ", x)).ToList().ForEach(Console.WriteLine);
+
+            for (var i = 0; i < ss.Count; i++) {
+                ss[i] = handleString(ss[i], pRe, (x, m) => {
+                    return posDic[x];
+                });
+            }
 
             ss = ss.Where(s => s.Trim() != "").ToList();
             
@@ -1009,7 +1023,7 @@ namespace ConApp {
             //ss.ForEach(s => { pRe.Matches(s).Cast<Match>().Select(m => m.Value).ToList().ForEach(s2 => rs.Add(s2)); });
             //rs.Distinct().ToList().ForEach(Console.WriteLine);
             //var rs = tRe.Matches(s).Cast<Match>().Select(m => m.Value).Distinct().ToArray();
-            File.WriteAllLines(pathEx(path, "-2"), rs);
+            File.WriteAllLines(pathEx(path, "-2"), ss);
             //File.WriteAllText(path, s);
 
             Console.WriteLine("Press ENTER");
