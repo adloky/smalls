@@ -953,12 +953,12 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
             //prepareWords("d:/words.txt");
-            //fixQuotes(@"d:\.temp\1.txt");
+            //fixQuotes(@"d:\.temp\7.txt");
             //deepl(@"d:\.temp\st\S01E01[eng]-clear.srt");
             //File.WriteAllLines("d:/3.txt", posReduce("d:/.temp/3.txt ").Where(x => x.p != "пробел" && x.p != "прочее").Select(x => $"{x.w} {x.p}"));
             //var s = gemini(File.ReadAllText("d:/1.txt"));
-            //learnStat($"d:/.temp/6.txt");
-            //makeTip($"d:/.temp/6.txt");
+            //learnStat($"d:/.temp/7.txt");
+            //makeTip($"d:/.temp/7.txt");
 
             var name = "S01E05";
             /*
@@ -969,9 +969,29 @@ namespace ConApp {
             srtCombile($"d:/.temp/srt/{name}[eng]-clear-tip.srt", $"d:/.temp/srt/{name}[eng].srt");
             */
 
+            //var ss = File.ReadAllLines("d:/l-dic.txt");
+            var path = "d:/l-dic.txt";
+            var tRe = new Regex(@"\[[^\]]+\]");
+            var nsRe = new Regex(@"[^ ]+");
+            var pRe = new Regex(@"\[p\][^\]]*\[/p\]");
+            var trRe = new Regex(@"<[^>]*> ?");
+            var nRe = new Regex(@"[а-я]\) ?");
+            var iiRe = new Regex(@"\[b\][IV]+\[/b\] ?");
+            var brRe = new Regex(@"\(.*?\)");
+            var ss = File.ReadAllLines(path).ToList(); // .Select(x => x.Replace("[m1]", "[m]"))
+            var set = new HashSet<string>(new [] { "n", "adv", "v", "adj", "prep", "pl", "conj", "pron", "interj", "sing", "pass", "num", "pref", });
 
-            Directory.GetFiles(@"d:\.temp\___\en", "*-en.jpg").Where(x => x.Split('\\').Last().CompareTo("551-en") >= 0).ToList().ForEach(p => File.Move(p, handleString(p, new Regex(@"\d+"), (x,m) => (int.Parse(x) - 1).ToString("000")))); // 
-            //Directory.GetFiles(@"d:\.temp\___\en", "*-ru.jpg").ToList().ForEach(Console.WriteLine); //x 
+            for (var i = 0; i < ss.Count; i++) {
+            }
+
+            ss = ss.Where(s => s.Trim() != "").ToList();
+            
+            var rs = new List<string>();
+            //ss.ForEach(s => { pRe.Matches(s).Cast<Match>().Select(m => m.Value).ToList().ForEach(s2 => rs.Add(s2)); });
+            //rs.Distinct().ToList().ForEach(Console.WriteLine);
+            //var rs = tRe.Matches(s).Cast<Match>().Select(m => m.Value).Distinct().ToArray();
+            File.WriteAllLines(pathEx(path, "-2"), ss);
+            //File.WriteAllText(path, s);
 
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
@@ -994,7 +1014,7 @@ namespace ConApp {
             //Console.WriteLine(firstCap(sentence));
 
             
-
+            /*
             Func<string, string> lemm = s => {
                 var sp = s.Split(' ');
                 return lemmas.TryGetValue(sp[0], out var s2) ? $"{s2} {sp[1]}" : s;
@@ -1003,7 +1023,8 @@ namespace ConApp {
             Func<string, bool> exists = s => {
                 return dic.TryGetValue(s, out var tmp) || dic.TryGetValue(lemm(s), out tmp);
             };
-
+            */
+            /*
             var i2 = 0;
             var i1 = 0;
             var dRe = new Regex(@"^ ?- ?");
@@ -1021,15 +1042,16 @@ namespace ConApp {
                 } while (rs[j] != null);
                 rs[j] = ss[i];
             }
-
+            */
             //rs =  statDic.OrderByDescending(x => x.Value).Select(x => $"{x.Key} {x.Value}").ToList();
             //File.WriteAllLines("d:/stat-dic.txt", rs);
+            /*
             Console.WriteLine("Save y/n");
             var yn = Console.ReadLine();
             if (yn.ToLower() == "y") {
                 File.WriteAllLines("d:/subs-2.txt", rs.Where(x => x != null));
             }
-
+            */
             //Console.WriteLine("Press ENTER");
             //Console.ReadLine();
         }
