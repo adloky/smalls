@@ -991,39 +991,42 @@ namespace ConApp {
             var nRe = new Regex(@"[а-я]\) ?");
             var iiRe = new Regex(@"\[b\][IV]+\[/b\] ?");
             var brRe = new Regex(@"\(.*?\)");
+            var tokRe = new Regex(@"\{.*?\}|[^{]+");
             var ss = File.ReadAllLines(path).ToList(); // .Select(x => x.Replace("[m1]", "[m]"))
             var set = new HashSet<string>(new [] { "n", "adv", "v", "adj", "prep", "pl", "conj", "pron", "interj", "sing", "pass", "num", "pref", });
-            var posDic = new Dictionary<string, string>() {
-                { "[p]n[/p]", "{существительное}" },
-                { "[p]adv[/p]", "{наречие}" },
-                { "[p]v[/p]", "{глагол}" },
-                { "[p]adj[/p]", "{прилагательное}" },
-                { "[p]prep[/p]", "{предлог}" },
-                { "[p]pl[/p]", "{существительное}" },
-                { "[p]conj[/p]", "{союз}" },
-                { "[p]pron[/p]", "{местоимение}" },
-                { "[p]interj[/p]", "{междометие}" },
-                { "[p]sing[/p]", "{существительное}" },
-                { "[p]pass[/p]", "{пассив}" },
-                { "[p]num[/p]", "{числительное}" },
-                { "[p]pref[/p]", "{префикс}" },
-            };
 
             //dsl(ss).Select(x => string.Join("; ", x)).ToList().ForEach(Console.WriteLine);
-
+            var rs = new List<string>();
             for (var i = 0; i < ss.Count; i++) {
-                ss[i] = handleString(ss[i], pRe, (x, m) => {
-                    return posDic[x];
+                var idx = ss[i].IndexOf(" ");
+                var key = ss[i].Substring(0, idx);
+                var val = ss[i].Substring(idx + 1);
+                var ts = tokRe.Matches(val).Cast<Match>().Select(m => m.Value).ToList();
+                var d = new Dictionary<string, string>();
+                var cp = (string)null;
+                foreach (var t in ts) {
+                    if (t.StartsWith("{")) {
+                        if (!d.ContainsKey(t)) d[t] = "";
+                        cp = t;
+                    }
+                    else if (cp != null) {
+                        if (d[cp] != "") d[cp] += "; ";
+                        d[cp] += t;
+                    }
+                }
+
+                d.ToList().ForEach(kv => {
+                    rs.Add($"{key} {kv.Key} {kv.Value.Trim()}");
                 });
             }
 
-            ss = ss.Where(s => s.Trim() != "").ToList();
+            //ss = ss.Where(s => s.Trim() != "").ToList();
             
             
             //ss.ForEach(s => { pRe.Matches(s).Cast<Match>().Select(m => m.Value).ToList().ForEach(s2 => rs.Add(s2)); });
             //rs.Distinct().ToList().ForEach(Console.WriteLine);
             //var rs = tRe.Matches(s).Cast<Match>().Select(m => m.Value).Distinct().ToArray();
-            File.WriteAllLines(pathEx(path, "-2"), ss);
+            File.WriteAllLines(pathEx(path, "-2"), rs);
             //File.WriteAllText(path, s);
 
             Console.WriteLine("Press ENTER");
