@@ -90,7 +90,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClipboardAsync.cs" />
     <Compile Include="LancasterStemmer.cs" />
+    <Compile Include="OcrResults.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

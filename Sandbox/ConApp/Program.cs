@@ -26,6 +26,8 @@ using OpenNLP.Tools.SentenceDetect;
 using OpenNLP.Tools.Tokenize;
 using OpenNLP.Tools.Trees;
 using System.Security.Cryptography;
+using Newtonsoft.Json;
+using System.Drawing;
 
 namespace ConApp {
     static class Program {
@@ -441,6 +443,21 @@ namespace ConApp {
             File.WriteAllLines(path, ss);
         }
 
+        static void deeplSplit(string path) {
+            var qs = new Queue<string>(File.ReadAllLines(path));
+            var rs = new List<string>();
+            while (qs.Count > 0) {
+                var len = 0;
+                while (qs.Count > 0 && len + qs.Peek().Length < 4900) {
+                    var _s = qs.Dequeue();
+                    len += _s.Length + 2;
+                    rs.Add(_s);
+                }
+                rs.Add("---");
+            }
+            File.WriteAllLines(pathEx(path, "-split"), rs);
+        }
+
         static void deepl(string path) {
             var advRe = new Regex("\n\nПереведено с помощью DeepL.*", RegexOptions.Multiline);
 
@@ -451,6 +468,7 @@ namespace ConApp {
             var qs = new Queue<string>(ss.Skip(rs.Count));
 
             var driver = new ChromeDriver();
+            /*
             driver.Navigate().GoToUrl("https://www.deepl.com/ru/login");
             Thread.Sleep(2000);
             var pwd = config["deeplPwd"];
@@ -458,13 +476,14 @@ namespace ConApp {
             driver.FindElement(By.CssSelector("#menu-login-password")).SendKeys(pwd);
             driver.FindElement(By.CssSelector("#menu-login-submit")).Click();
             Thread.Sleep(5000);
+            */
 
             while (qs.Count > 0) {
                 Thread.Sleep(2000);
                 driver.Navigate().GoToUrl("https://www.deepl.com/translator#en/ru/");
                 var ms = new List<string>();
                 var len = 0;
-                while (qs.Count > 0 && len + qs.Peek().Length < 4900) {
+                while (qs.Count > 0 && len + qs.Peek().Length < 1400) {
                     var _s = qs.Dequeue();
                     len += _s.Length + 2;
                     ms.Add(_s);
@@ -485,6 +504,7 @@ namespace ConApp {
                         var tools = driver.FindElements(By.CssSelector(".h-14"))[1];
                         jsExecutor.ExecuteScript("arguments[0].scrollIntoView(true);", tools);
 
+                        Thread.Sleep(2000);
                         btn = driver.FindElement(By.CssSelector(@"button[data-testid=""translator-target-toolbar-copy""]"));
                         btn.Click();
                     }
@@ -492,9 +512,11 @@ namespace ConApp {
                         btn = null;
                     }
                 }
-                
                 Thread.Sleep(2000);
-                var r = Clipboard.GetText();
+
+                ClipboardAsync Clipboard2 = new ClipboardAsync();
+                var r = Clipboard2.GetText();
+                //var r = Clipboard.GetText();
                 r = r.Replace("\r", "");
                 r = advRe.Replace(r, "");
                 File.AppendAllLines(path, r.Split('\n').Select(x => x.Trim()));
@@ -959,6 +981,91 @@ namespace ConApp {
             yield return l;
         }
 
+        public static void comicOcr(string path) {
+            if (path.Last() != '/' && path.Last() != '\\') path += "/";
+            var rs = new List<string>();
+            var ps = Directory.GetFiles(path, "*.*").Where(x => x.EndsWith(".jpg") || x.EndsWith(".jpeg")).OrderBy(p => p).ToArray();
+            foreach (var p in ps) {
+                var httpClient = new HttpClient();
+                var form = new MultipartFormDataContent();
+                form.Add(new StringContent(config["ocrKey"]), "apikey");
+                form.Add(new StringContent("eng"), "language");
+                form.Add(new StringContent("2"), "ocrengine");
+                form.Add(new StringContent("True"), "isOverlayRequired");
+                var imageData = File.ReadAllBytes(p);
+                form.Add(new ByteArrayContent(imageData, 0, imageData.Length), "image", "image.jpg");
+                //var response = await httpClient.PostAsync();
+                var task1 = Task.Run(() => httpClient.PostAsync("https://api.ocr.space/Parse/Image", form));
+                task1.Wait();
+                var response = task1.Result;
+
+                var task2 = Task.Run(() => response.Content.ReadAsStringAsync());
+                task1.Wait();
+                var s = task2.Result;
+                var bm = new Bitmap(p);
+                s = Regex.Replace(s, @"\}$", $",Width:{bm.Width}}}");
+                File.WriteAllText(Path.ChangeExtension(p, ".json"), s);
+                Console.WriteLine((s.Contains("\"IsErroredOnProcessing\":true") ? "ERROR: " : "") + p);
+
+            }
+
+            //rs.Add("* * * * " + Path.GetFileNameWithoutExtension(p) + " (" + n + ")");
+            //rs.AddRange(File.ReadAllLines(p).Where(s => tRe.IsMatch(s)).Select(s => tRe.Replace(s, "")));
+            //File.WriteAllLines(path + "en.txt", rs);
+        }
+
+        public static void comicOcrPost(string path, int fsize, int indent) {
+            if (path.Last() != '/' && path.Last() != '\\') path += "/";
+            var rs = new List<string>();
+            var n = 0;
+            foreach (var p in Directory.GetFiles(path, "*.json").OrderBy(p => p)) {
+                n++;
+                rs.Add("* * * * " + Path.GetFileNameWithoutExtension(p) + " (" + n + ")");
+                var or = JsonConvert.DeserializeObject<OcrRootObject>(File.ReadAllText(p));
+                var rects = or.GetRects().ToArray();
+                var r = OcrRect.Group(rects, or.Width, fsize, indent);
+                rs.AddRange(r.Select(x => string.Join(" ", x.Select(y => y.Text))));
+            }
+            File.WriteAllLines(path + "en.txt", rs);
+        }
+
+        public static void comicJoin(string path) {
+            if (path.Last() != '/' && path.Last() != '\\') path += "/";
+            var rs = new List<string>();
+            var n = 0;
+            var tRe = new Regex("^text: *");
+            Directory.GetFiles(path, "*_translations.txt").OrderBy(p => p).ToList().ForEach(p => {
+                n++;
+                rs.Add("* * * * " + Path.GetFileNameWithoutExtension(p).Replace("_translations", "") + " (" + n + ")");
+                rs.AddRange(File.ReadAllLines(p).Where(s => tRe.IsMatch(s)).Select(s => tRe.Replace(s, "")));
+            });
+            File.WriteAllLines(path + "en.txt", rs);
+        }
+
+        public static void comicComplete(string path) {
+            if (path.Last() != '/' && path.Last() != '\\') path += "/";
+            var es = File.ReadAllLines(path + "en.txt");
+            var rs = File.ReadAllLines(path + "ru.txt");
+            var ss = new List<string>();
+            for (var i = 0; i < es.Length; i++) {
+                ss.Add(es[i]);
+                ss.Add(rs[i]);
+            }
+            ss = ss.Select((s, i) => $"<tr><td>{s}</td>{(i % 2 == 1 ? "" : "<td class=trn rowspan=2>>>></td>")}</tr>").ToList();
+            ss.Insert(0, "<meta charset='utf-8'><style> body { margin: 0; } tr:nth-child(even) { background-color: #CCC; } table { width: 100%; } td { padding: 3pt; } tr:nth-child(odd) td { padding-top: 15pt; } .trn { vertical-align: top; } </style>");
+            ss.Insert(1, @"<script src='https://code.jquery.com/jquery-3.7.0.js'></script>
+                <script>
+                    $(document).on('click', '.trn', function() {
+                        var s = $(this).closest('tr').find('td:first').text().toLowerCase();
+                        window.open('https://www.deepl.com/translator#en/ru/' + s);
+                    });
+                </script>");
+            ss.Insert(2, "<table>");
+            ss.Add("</table>");
+            File.WriteAllLines(path + "result.html", ss);
+        }
+
+
         static volatile bool ctrlC = false;
 
         [STAThread]
@@ -982,7 +1089,20 @@ namespace ConApp {
             srtCombile($"d:/.temp/srt/{name}[eng]-clear-tip.srt", $"d:/.temp/srt/{name}[eng].srt");
             */
 
-            //var ss = File.ReadAllLines("d:/l-dic.txt");
+
+            //comicOcr(@"d:\.temp\123\");
+            //comicOcrPost(@"d:\.temp\archie\", 20, 5);
+            //deeplSplit(@"d:\.temp\archie\en.txt");
+            comicComplete(@"d:\.temp\archie\");
+
+            /*
+            var ocrResult = JsonConvert.DeserializeObject<OcrRootObject>(File.ReadAllText($"d:/.temp/.ocr-test/{fn}.txt"));
+            var rects = ocrResult.GetRects().ToArray();
+            var r = OcrRect.Group(rects);
+            r.Select(x => string.Join(" ", x.Select(y => y.Text))).ToList().ForEach(Console.WriteLine);
+            */
+
+            /*
             var path = "d:/Projects/smalls/l-dic.txt";
             var tRe = new Regex(@"\[[^\]]+\]");
             var nsRe = new Regex(@"[^ ]+");
@@ -1019,14 +1139,15 @@ namespace ConApp {
                     rs.Add($"{key} {kv.Key} {kv.Value.Trim()}");
                 });
             }
+            */
 
             //ss = ss.Where(s => s.Trim() != "").ToList();
-            
-            
+
+
             //ss.ForEach(s => { pRe.Matches(s).Cast<Match>().Select(m => m.Value).ToList().ForEach(s2 => rs.Add(s2)); });
             //rs.Distinct().ToList().ForEach(Console.WriteLine);
             //var rs = tRe.Matches(s).Cast<Match>().Select(m => m.Value).Distinct().ToArray();
-            File.WriteAllLines(pathEx(path, "-2"), rs);
+            //File.WriteAllLines(pathEx(path, "-2"), rs);
             //File.WriteAllText(path, s);
 
             Console.WriteLine("Press ENTER");
