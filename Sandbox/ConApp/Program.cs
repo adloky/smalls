@@ -218,8 +218,8 @@ namespace ConApp {
                     var key = x[0];
                     var fs = new List<string>();
                     _lemmaForms[key] = fs;
-                    foreach (var xx in x) {
-                        if (xx != key) _lemmas[xx] = x[0];
+                    foreach (var xx in x.Skip(1)) {
+                        _lemmas[xx] = key;
                         fs.Add(xx);
                     }
                 });
@@ -971,8 +971,7 @@ namespace ConApp {
             var l = new List<string>();
             for (var i = 0; i < ss.Count; i++) {
                 var s = ss[i];
-                if (!s.StartsWith("\t")) {
-                    if (l.Count == 0) continue;
+                if (!s.StartsWith("\t") && l.Count != 0) {
                     yield return l;
                     l = new List<string>();
                 }
@@ -986,6 +985,10 @@ namespace ConApp {
             var rs = new List<string>();
             var ps = Directory.GetFiles(path, "*.*").Where(x => x.EndsWith(".jpg") || x.EndsWith(".jpeg")).OrderBy(p => p).ToArray();
             foreach (var p in ps) {
+                var jsonPath = Path.ChangeExtension(p, ".json");
+                if (File.Exists(jsonPath))
+                    continue;
+
                 var httpClient = new HttpClient();
                 var form = new MultipartFormDataContent();
                 form.Add(new StringContent(config["ocrKey"]), "apikey");
@@ -1002,9 +1005,16 @@ namespace ConApp {
                 var task2 = Task.Run(() => response.Content.ReadAsStringAsync());
                 task1.Wait();
                 var s = task2.Result;
+
+                try {
+                    JsonConvert.DeserializeObject<OcrRootObject>(s);
+                }
+                catch { Console.WriteLine(p + ": " + s); }
+
+
                 var bm = new Bitmap(p);
                 s = Regex.Replace(s, @"\}$", $",Width:{bm.Width}}}");
-                File.WriteAllText(Path.ChangeExtension(p, ".json"), s);
+                File.WriteAllText(jsonPath, s);
                 Console.WriteLine((s.Contains("\"IsErroredOnProcessing\":true") ? "ERROR: " : "") + p);
 
             }
@@ -1047,7 +1057,11 @@ namespace ConApp {
             var es = File.ReadAllLines(path + "en.txt");
             var rs = File.ReadAllLines(path + "ru.txt");
             var ss = new List<string>();
+            var lSet = new HashSet<string>(learnDic.Select(x => x.Key.Split(' ')[0])
+                .SelectMany(x => (lemmaForms.TryGetValue(x, out var xs) ? xs : Enumerable.Empty<string>()).Concat(Enumerable.Repeat(x, 1))));
+            var wRe = new Regex(@"[a-zA-Z]+");
             for (var i = 0; i < es.Length; i++) {
+                es[i] = handleString(es[i], wRe, (x,m) => lSet.Contains(x.ToLower()) ? $"<u>{x}</u>" : x);
                 ss.Add(es[i]);
                 ss.Add(rs[i]);
             }
@@ -1080,8 +1094,8 @@ namespace ConApp {
             //learnStat($"d:/.temp/7.txt");
             //makeTip($"d:/.temp/7.txt");
 
-            var name = "S01E05";
             /*
+            var name = "S01E05";
             srtLine($"d:/.temp/srt/{name}[eng]-orig.srt");
             srtClear($"d:/.temp/srt/{name}[eng].srt");
             learnStat($"d:/.temp/srt/{name}[eng]-clear.srt");
@@ -1090,20 +1104,16 @@ namespace ConApp {
             */
 
 
-            //comicOcr(@"d:\.temp\123\");
+            //comicOcr(@"d:\.temp\archie\");
             //comicOcrPost(@"d:\.temp\archie\", 20, 5);
             //deeplSplit(@"d:\.temp\archie\en.txt");
-            comicComplete(@"d:\.temp\archie\");
+            //comicComplete(@"d:\.temp\archie\");
 
-            /*
-            var ocrResult = JsonConvert.DeserializeObject<OcrRootObject>(File.ReadAllText($"d:/.temp/.ocr-test/{fn}.txt"));
-            var rects = ocrResult.GetRects().ToArray();
-            var r = OcrRect.Group(rects);
-            r.Select(x => string.Join(" ", x.Select(y => y.Text))).ToList().ForEach(Console.WriteLine);
-            */
 
-            /*
-            var path = "d:/Projects/smalls/l-dic.txt";
+
+            
+            
+            var path = "d:/Projects/smalls/freq-20k.txt";
             var tRe = new Regex(@"\[[^\]]+\]");
             var nsRe = new Regex(@"[^ ]+");
             var pRe = new Regex(@"\[p\][^\]]*\[/p\]");
@@ -1112,10 +1122,39 @@ namespace ConApp {
             var iiRe = new Regex(@"\[b\][IV]+\[/b\] ?");
             var brRe = new Regex(@"\(.*?\)");
             var tokRe = new Regex(@"\{.*?\}|[^{]+");
-            var ss = File.ReadAllLines(path).ToList(); // .Select(x => x.Replace("[m1]", "[m]"))
+            var ss = File.ReadAllLines(path).Select(x => tRe.Replace(x, "")).ToList(); // .Select(x => x.Replace("[m1]", "[m]"))
             var set = new HashSet<string>(new [] { "n", "adv", "v", "adj", "prep", "pl", "conj", "pron", "interj", "sing", "pass", "num", "pref", });
-
+            var m11Re = new Regex(@"^\t\[m1\]\[p\][acdegijmnprtuvx]\[/p\] \[c red\]\[b\]\d+\[/b\]\[/c\]$");
+            var aDic = new Dictionary<string, string>() {
+                { "a", "{артикль}" },
+                { "c", "{союз}" },
+                { "d", "{определитель}" },
+                { "e", "{прочее}" },
+                { "i", "{предлог}" },
+                { "j", "{прилагательное}" },
+                { "m", "{числительное}" },
+                { "n", "{существительное}" },
+                { "p", "{местоимение}" },
+                { "r", "{наречие}" },
+                { "t", "{прочее}" },
+                { "u", "{междометие}" },
+                { "v", "{глагол}" },
+                { "x", "{прочее}" },
+            };
+            var rs = new List<string>();
+            foreach (var l in dsl(ss)) {
+                var w = l[0];
+                foreach (var v in l.Skip(1)) {
+                    var vs = v.Trim().Split(' ');
+                    var pos = aDic[vs[0]];
+                    rs.Add($"{vs[1]} {w} {pos}");
+                }
+            }
+            // [m1][p]n[/p] [c red][b]10172[/b][/c]
+            // [m1][c forestgreen][b]Synonyms[/b][/c]
+            //ss.Where(x => x.StartsWith("\t[m1]") && !m11Re.IsMatch(x)).ToList().ForEach(Console.WriteLine);
             //dsl(ss).Select(x => string.Join("; ", x)).ToList().ForEach(Console.WriteLine);
+            /*
             var rs = new List<string>();
             for (var i = 0; i < ss.Count; i++) {
                 var idx = ss[i].IndexOf(" ");
@@ -1140,7 +1179,8 @@ namespace ConApp {
                 });
             }
             */
-
+            rs = rs.OrderBy(x => int.Parse(x.Split(' ')[0])).ToList();
+            File.WriteAllLines(pathEx(path, "-2"), rs);
             //ss = ss.Where(s => s.Trim() != "").ToList();
 
 
@@ -1154,23 +1194,6 @@ namespace ConApp {
             Console.ReadLine();
             return;
 
-            //var rs = new List<string>();
-            var dic = loadDic(@"d:\Projects\smalls\dic-corpus.txt");
-            //dic.Keys.ToList().ForEach(k => { if (Regex.IsMatch(k, @"\{(глагол|наречие|прилагательное|существительное)\}")) { dic.Remove(k); } } );
-            var dic2 = new HashSet<string>(dic.Keys.Select(k => k.Split(' ')[0]).Distinct());
-
-//            var sentence = "But loadin' the hardest thing to get past an screw is peanuts, or anything that contains peanuts, or anything that even MAY contain peanuts.";
-//            var rs2 = posTagging(sentence).ToList();
-
-            var capRe = new Regex(@"[A-Z]{2,}", RegexOptions.Compiled);
-            var statDic = new Dictionary<string, int>();
-            var letRe = new Regex(@"[A-Za-z]+", RegexOptions.Compiled);
-            var iRe = new Regex(@"\bi\b", RegexOptions.Compiled);
-            var asciiRe = new Regex(@"[^\x20-\x7f]", RegexOptions.Compiled);
-            Func<string, bool> firstCap = x => { var m = letRe.Match(x); return m.Success && char.IsUpper(m.Value[0]); };
-            //Console.WriteLine(firstCap(sentence));
-
-            
             /*
             Func<string, string> lemm = s => {
                 var sp = s.Split(' ');
