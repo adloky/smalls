@@ -1110,9 +1110,6 @@ namespace ConApp {
             //comicComplete(@"d:\.temp\archie\");
 
 
-
-            
-            
             var path = "d:/Projects/smalls/freq-20k.txt";
             var tRe = new Regex(@"\[[^\]]+\]");
             var nsRe = new Regex(@"[^ ]+");
@@ -1122,32 +1119,16 @@ namespace ConApp {
             var iiRe = new Regex(@"\[b\][IV]+\[/b\] ?");
             var brRe = new Regex(@"\(.*?\)");
             var tokRe = new Regex(@"\{.*?\}|[^{]+");
-            var ss = File.ReadAllLines(path).Select(x => tRe.Replace(x, "")).ToList(); // .Select(x => x.Replace("[m1]", "[m]"))
+            var ss = File.ReadAllLines(path).Select(x => x).ToList(); // .Select(x => x.Replace("[m1]", "[m]"))
             var set = new HashSet<string>(new [] { "n", "adv", "v", "adj", "prep", "pl", "conj", "pron", "interj", "sing", "pass", "num", "pref", });
             var m11Re = new Regex(@"^\t\[m1\]\[p\][acdegijmnprtuvx]\[/p\] \[c red\]\[b\]\d+\[/b\]\[/c\]$");
-            var aDic = new Dictionary<string, string>() {
-                { "a", "{артикль}" },
-                { "c", "{союз}" },
-                { "d", "{определитель}" },
-                { "e", "{прочее}" },
-                { "i", "{предлог}" },
-                { "j", "{прилагательное}" },
-                { "m", "{числительное}" },
-                { "n", "{существительное}" },
-                { "p", "{местоимение}" },
-                { "r", "{наречие}" },
-                { "t", "{прочее}" },
-                { "u", "{междометие}" },
-                { "v", "{глагол}" },
-                { "x", "{прочее}" },
-            };
-            var rs = new List<string>();
-            foreach (var l in dsl(ss)) {
-                var w = l[0];
-                foreach (var v in l.Skip(1)) {
-                    var vs = v.Trim().Split(' ');
-                    var pos = aDic[vs[0]];
-                    rs.Add($"{vs[1]} {w} {pos}");
+            //var rs = new List<string>();
+            var dic = loadDic(@"d:\Projects\smalls\l-dic.txt");
+            for (var i = 0; i < ss.Count; i++) {
+                var key = ss[i].Substring(ss[i].IndexOf(' ') + 1);
+                if (!key.EndsWith("}")) continue;
+                if (dic.ContainsKey(key)) {
+                    ss[i] += " " + dic[key];
                 }
             }
             // [m1][p]n[/p] [c red][b]10172[/b][/c]
@@ -1179,15 +1160,14 @@ namespace ConApp {
                 });
             }
             */
-            rs = rs.OrderBy(x => int.Parse(x.Split(' ')[0])).ToList();
-            File.WriteAllLines(pathEx(path, "-2"), rs);
+            //File.WriteAllLines(pathEx(path, "-2"), rs);
             //ss = ss.Where(s => s.Trim() != "").ToList();
 
 
             //ss.ForEach(s => { pRe.Matches(s).Cast<Match>().Select(m => m.Value).ToList().ForEach(s2 => rs.Add(s2)); });
             //rs.Distinct().ToList().ForEach(Console.WriteLine);
             //var rs = tRe.Matches(s).Cast<Match>().Select(m => m.Value).Distinct().ToArray();
-            //File.WriteAllLines(pathEx(path, "-2"), rs);
+            File.WriteAllLines(pathEx(path, "-2"), ss);
             //File.WriteAllText(path, s);
 
             Console.WriteLine("Press ENTER");
