@@ -1110,7 +1110,7 @@ namespace ConApp {
             //comicComplete(@"d:\.temp\archie\");
 
 
-            var path = @"d:\Projects\smalls\freq-20k-single.txt";
+            var path = @"d:\Projects\smalls\freq-20k.txt";
             var tRe = new Regex(@"\[[^\]]+\]");
             var nsRe = new Regex(@"[^ ]+");
             var pRe = new Regex(@"\[p\][^\]]*\[/p\]");
@@ -1123,9 +1123,13 @@ namespace ConApp {
             var set = new HashSet<string>(new [] { "n", "adv", "v", "adj", "prep", "pl", "conj", "pron", "interj", "sing", "pass", "num", "pref", });
             var m11Re = new Regex(@"^\t\[m1\]\[p\][acdegijmnprtuvx]\[/p\] \[c red\]\[b\]\d+\[/b\]\[/c\]$");
             var ss = File.ReadAllLines(path);
-            ss = ss.Where(s => {
-                var sp = s.Split(new[] { "} " }, ssop)[1].Split(new[] { " == " }, ssop);
-                return sp[0] != sp[1];
+            ss = ss.Select(s => {
+                var fs = Regex.Matches(s, @"\[\d\]").Cast<Match>().Select(m => m.Value).Distinct().ToArray();
+                if (fs.Length <= 2) return s;
+
+                Console.WriteLine(s);
+                return s;
+                
             }).ToArray();
             
             //var dic = loadDic(@"d:\Projects\smalls\freq-20k-single.txt");
@@ -1162,7 +1166,7 @@ namespace ConApp {
                 });
             }
             */
-            File.WriteAllLines(pathEx(path, "-2"), ss);
+            //File.WriteAllLines(pathEx(path, "-2"), ss);
             //ss = ss.Where(s => s.Trim() != "").ToList();
 
 
