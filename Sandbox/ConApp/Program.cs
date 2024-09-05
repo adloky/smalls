@@ -1124,9 +1124,8 @@ namespace ConApp {
             var m11Re = new Regex(@"^\t\[m1\]\[p\][acdegijmnprtuvx]\[/p\] \[c red\]\[b\]\d+\[/b\]\[/c\]$");
             var ss = File.ReadAllLines(path);
             ss = ss.Select(s => {
-                var fs = Regex.Matches(s, @"\[\d\]").Cast<Match>().Select(m => m.Value).Distinct().ToArray();
-                if (fs.Length <= 2) return s;
-
+                var trn = s.Split('}')[1];
+                if (trn.Contains("[") || !Regex.IsMatch(trn, @"[a-z]")) return s;
                 Console.WriteLine(s);
                 return s;
                 
