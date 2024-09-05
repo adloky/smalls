@@ -1110,7 +1110,7 @@ namespace ConApp {
             //comicComplete(@"d:\.temp\archie\");
 
 
-            var path = "d:/Projects/smalls/freq-20k.txt";
+            var path = @"d:\Projects\smalls\freq-20k-single.txt";
             var tRe = new Regex(@"\[[^\]]+\]");
             var nsRe = new Regex(@"[^ ]+");
             var pRe = new Regex(@"\[p\][^\]]*\[/p\]");
@@ -1119,18 +1119,20 @@ namespace ConApp {
             var iiRe = new Regex(@"\[b\][IV]+\[/b\] ?");
             var brRe = new Regex(@"\(.*?\)");
             var tokRe = new Regex(@"\{.*?\}|[^{]+");
-            var ss = File.ReadAllLines(path).Select(x => x).ToList(); // .Select(x => x.Replace("[m1]", "[m]"))
+            //var ss = File.ReadAllLines(path).Select(x => x).ToList(); // .Select(x => x.Replace("[m1]", "[m]"))
             var set = new HashSet<string>(new [] { "n", "adv", "v", "adj", "prep", "pl", "conj", "pron", "interj", "sing", "pass", "num", "pref", });
             var m11Re = new Regex(@"^\t\[m1\]\[p\][acdegijmnprtuvx]\[/p\] \[c red\]\[b\]\d+\[/b\]\[/c\]$");
+            var ss = File.ReadAllLines(path);
+            ss = ss.Where(s => {
+                var sp = s.Split(new[] { "} " }, ssop)[1].Split(new[] { " == " }, ssop);
+                return sp[0] != sp[1];
+            }).ToArray();
+            
+            //var dic = loadDic(@"d:\Projects\smalls\freq-20k-single.txt");
+
+            //File.WriteAllLines(pathEx(path, "-2"), ss);
             //var rs = new List<string>();
-            var dic = loadDic(@"d:\Projects\smalls\l-dic.txt");
-            for (var i = 0; i < ss.Count; i++) {
-                var key = ss[i].Substring(ss[i].IndexOf(' ') + 1);
-                if (!key.EndsWith("}")) continue;
-                if (dic.ContainsKey(key)) {
-                    ss[i] += " " + dic[key];
-                }
-            }
+            //var rs = new List<string>();
             // [m1][p]n[/p] [c red][b]10172[/b][/c]
             // [m1][c forestgreen][b]Synonyms[/b][/c]
             //ss.Where(x => x.StartsWith("\t[m1]") && !m11Re.IsMatch(x)).ToList().ForEach(Console.WriteLine);
@@ -1160,14 +1162,14 @@ namespace ConApp {
                 });
             }
             */
-            //File.WriteAllLines(pathEx(path, "-2"), rs);
+            File.WriteAllLines(pathEx(path, "-2"), ss);
             //ss = ss.Where(s => s.Trim() != "").ToList();
 
 
             //ss.ForEach(s => { pRe.Matches(s).Cast<Match>().Select(m => m.Value).ToList().ForEach(s2 => rs.Add(s2)); });
             //rs.Distinct().ToList().ForEach(Console.WriteLine);
             //var rs = tRe.Matches(s).Cast<Match>().Select(m => m.Value).Distinct().ToArray();
-            File.WriteAllLines(pathEx(path, "-2"), ss);
+            //File.WriteAllLines(pathEx(path, "-2"), ss);
             //File.WriteAllText(path, s);
 
             Console.WriteLine("Press ENTER");
