@@ -1110,7 +1110,13 @@ namespace ConApp {
             //comicComplete(@"d:\.temp\archie\");
 
 
-            var path = @"d:\Projects\smalls\freq-20k-g.txt";
+            var path = @"d:\Projects\smalls\freq-20k.txt";
+            var dic = loadDic(@"d:\Projects\smalls\freq-20k-g.txt");
+            //path = @"d:\Projects\smalls\freq-20k-g.txt";
+            //var ss = File.ReadAllLines(path).Select(x => handleString(x, new Regex(@"\{."), (x2, m) => x2.ToLower())).ToArray();
+
+            //File.WriteAllLines(pathEx(path, "-2"), ss);
+
             var tRe = new Regex(@"\[[^\]]+\]");
             var nsRe = new Regex(@"[^ ]+");
             var pRe = new Regex(@"\[p\][^\]]*\[/p\]");
@@ -1121,22 +1127,21 @@ namespace ConApp {
             var tokRe = new Regex(@"\{.*?\}|[^{]+");
             //var ss = File.ReadAllLines(path).Select(x => x).ToList(); // .Select(x => x.Replace("[m1]", "[m]"))
             var set = new HashSet<string>(new[] { "n", "adv", "v", "adj", "prep", "pl", "conj", "pron", "interj", "sing", "pass", "num", "pref", });
+            
             var ss = File.ReadAllLines(path);
+            Console.WriteLine(ss.Count(x => x.EndsWith("}")));
+//            var rs = new List<string>();
+/*
             for (var i = 0; i < ss.Length; i++) {
-                if (ctrlC) break;
-                if (ss[i].Contains("{") || ss[i].Contains("NotFound")) continue;
-                var j = 0;
-                var s = (string)null;
-                do {
-                    j++;
-                    try {
-                        s = gtranslate(ss[i]);
-                    }
-                    catch { };
-                } while (j < 5 && s != null && s.Contains("NotFound"));
-                if (s != null) ss[i] = s;
+                var s = ss[i];
+                if (!s.EndsWith("}")) continue;
+                var k = Regex.Replace(s, @"^\d+ ", "");
+                if (dic.ContainsKey(k)) {
+                    ss[i] += " " + dic[k];
+                } 
             }
-            File.WriteAllLines(path, ss);
+ */           
+            //File.WriteAllLines(pathEx(path, "-2"), ss);
             //var dic = loadDic(@"d:\Projects\smalls\freq-20k-single.txt");
 
             //File.WriteAllLines(pathEx(path, "-g"), ss);
