@@ -1111,7 +1111,7 @@ namespace ConApp {
 
 
             var path = @"d:\Projects\smalls\freq-20k.txt";
-            var dic = loadDic(@"d:\Projects\smalls\freq-20k-g.txt");
+            var dic = loadDic(@"d:\Projects\smalls\freq-20k-rest-2.txt");
             //path = @"d:\Projects\smalls\freq-20k-g.txt";
             //var ss = File.ReadAllLines(path).Select(x => handleString(x, new Regex(@"\{."), (x2, m) => x2.ToLower())).ToArray();
 
@@ -1127,9 +1127,16 @@ namespace ConApp {
             var tokRe = new Regex(@"\{.*?\}|[^{]+");
             //var ss = File.ReadAllLines(path).Select(x => x).ToList(); // .Select(x => x.Replace("[m1]", "[m]"))
             var set = new HashSet<string>(new[] { "n", "adv", "v", "adj", "prep", "pl", "conj", "pron", "interj", "sing", "pass", "num", "pref", });
-            
             var ss = File.ReadAllLines(path);
-            Console.WriteLine(ss.Count(x => x.EndsWith("}")));
+            for (var i = 0; i < ss.Length; i++) {
+                if (!ss[i].EndsWith("}")) continue;
+                var k = Regex.Replace(ss[i], @"^\d+ ", "");
+                if (dic.ContainsKey(k)) {
+                    ss[i] += " " + dic[k] + " [0]";
+                }
+                //ss[i] += " " + ss2[i];
+            }
+            File.WriteAllLines(pathEx(path, "-2"), ss);
 //            var rs = new List<string>();
 /*
             for (var i = 0; i < ss.Length; i++) {
