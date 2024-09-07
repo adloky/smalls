@@ -92,7 +92,7 @@ namespace ConApp {
                 chromeDriver = new ChromeDriver();
 
             chromeDriver.Navigate().GoToUrl("https://translate.google.com/details?sl=en&tl=ru&text=" + s + "&op=translate");
-            Thread.Sleep(navI % 20 == 0 ? 20000 : 5000);
+            Thread.Sleep(navI % 20 == 0 ? 5000 : 1500);
             navI++;
             var html = chromeDriver.FindElement(By.CssSelector("[jsname=kepomc]")).GetAttribute("innerHTML");
 
@@ -1110,7 +1110,7 @@ namespace ConApp {
             //comicComplete(@"d:\.temp\archie\");
 
 
-            var path = @"d:\Projects\smalls\freq-20k.txt";
+            var path = @"d:\Projects\smalls\freq-20k-g.txt";
             var tRe = new Regex(@"\[[^\]]+\]");
             var nsRe = new Regex(@"[^ ]+");
             var pRe = new Regex(@"\[p\][^\]]*\[/p\]");
@@ -1120,20 +1120,26 @@ namespace ConApp {
             var brRe = new Regex(@"\(.*?\)");
             var tokRe = new Regex(@"\{.*?\}|[^{]+");
             //var ss = File.ReadAllLines(path).Select(x => x).ToList(); // .Select(x => x.Replace("[m1]", "[m]"))
-            var set = new HashSet<string>(new [] { "n", "adv", "v", "adj", "prep", "pl", "conj", "pron", "interj", "sing", "pass", "num", "pref", });
-            var m11Re = new Regex(@"^\t\[m1\]\[p\][acdegijmnprtuvx]\[/p\] \[c red\]\[b\]\d+\[/b\]\[/c\]$");
+            var set = new HashSet<string>(new[] { "n", "adv", "v", "adj", "prep", "pl", "conj", "pron", "interj", "sing", "pass", "num", "pref", });
             var ss = File.ReadAllLines(path);
-            ss = ss.Select(s => {
-                var trn = s.Split('}')[1];
-                if (trn.Contains("[") || !Regex.IsMatch(trn, @"[a-z]")) return s;
-                Console.WriteLine(s);
-                return s;
-                
-            }).ToArray();
-            
+            for (var i = 0; i < ss.Length; i++) {
+                if (ctrlC) break;
+                if (ss[i].Contains("{") || ss[i].Contains("NotFound")) continue;
+                var j = 0;
+                var s = (string)null;
+                do {
+                    j++;
+                    try {
+                        s = gtranslate(ss[i]);
+                    }
+                    catch { };
+                } while (j < 5 && s != null && s.Contains("NotFound"));
+                if (s != null) ss[i] = s;
+            }
+            File.WriteAllLines(path, ss);
             //var dic = loadDic(@"d:\Projects\smalls\freq-20k-single.txt");
 
-            //File.WriteAllLines(pathEx(path, "-2"), ss);
+            //File.WriteAllLines(pathEx(path, "-g"), ss);
             //var rs = new List<string>();
             //var rs = new List<string>();
             // [m1][p]n[/p] [c red][b]10172[/b][/c]
