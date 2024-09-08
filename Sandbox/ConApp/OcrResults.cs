@@ -74,7 +74,7 @@ namespace ConApp {
         private static IEnumerable<OcrRect> group(OcrRect rect, HashSet<OcrRect> set, int width, int fsize, int indent) {
             if (!set.Contains(rect)) return Enumerable.Empty<OcrRect>();
             set.Remove(rect);
-            var irs = set.Where(r => rect.Intersect(r, indent) > fsize * 2).ToArray();
+            var irs = set.Where(r => rect.Intersect(r, indent) > fsize * 3).ToArray();
             return Enumerable.Repeat(rect, 1).Concat(irs.SelectMany(r => group(r, set, width, fsize, indent)));
         }
 
