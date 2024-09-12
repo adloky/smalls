@@ -1105,97 +1105,14 @@ namespace ConApp {
 
 
             //comicOcr(@"d:\.temp\archie\");
-            comicOcrPost(@"d:\.temp\archie\", 20, 5);
+            //comicOcrPost(@"d:\.temp\archie\", 20, 5);
             //deeplSplit(@"d:\.temp\archie\en.txt");
             //comicComplete(@"d:\.temp\archie\");
 
-
-            var path = @"d:\Projects\smalls\freq-20k.txt";
-            var dic = loadDic(@"d:\Projects\smalls\freq-20k-rest-2.txt");
-            //path = @"d:\Projects\smalls\freq-20k-g.txt";
-            //var ss = File.ReadAllLines(path).Select(x => handleString(x, new Regex(@"\{."), (x2, m) => x2.ToLower())).ToArray();
-
-            //File.WriteAllLines(pathEx(path, "-2"), ss);
-
-            var tRe = new Regex(@"\[[^\]]+\]");
-            var nsRe = new Regex(@"[^ ]+");
-            var pRe = new Regex(@"\[p\][^\]]*\[/p\]");
-            var trRe = new Regex(@"<[^>]*> ?");
-            var nRe = new Regex(@"[а-я]\) ?");
-            var iiRe = new Regex(@"\[b\][IV]+\[/b\] ?");
-            var brRe = new Regex(@"\(.*?\)");
-            var tokRe = new Regex(@"\{.*?\}|[^{]+");
-            //var ss = File.ReadAllLines(path).Select(x => x).ToList(); // .Select(x => x.Replace("[m1]", "[m]"))
-            var set = new HashSet<string>(new[] { "n", "adv", "v", "adj", "prep", "pl", "conj", "pron", "interj", "sing", "pass", "num", "pref", });
-            var ss = File.ReadAllLines(path);
-            for (var i = 0; i < ss.Length; i++) {
-                if (!ss[i].EndsWith("}")) continue;
-                var k = Regex.Replace(ss[i], @"^\d+ ", "");
-                if (dic.ContainsKey(k)) {
-                    ss[i] += " " + dic[k] + " [0]";
-                }
-                //ss[i] += " " + ss2[i];
-            }
-            File.WriteAllLines(pathEx(path, "-2"), ss);
-//            var rs = new List<string>();
-/*
-            for (var i = 0; i < ss.Length; i++) {
-                var s = ss[i];
-                if (!s.EndsWith("}")) continue;
-                var k = Regex.Replace(s, @"^\d+ ", "");
-                if (dic.ContainsKey(k)) {
-                    ss[i] += " " + dic[k];
-                } 
-            }
- */           
-            //File.WriteAllLines(pathEx(path, "-2"), ss);
-            //var dic = loadDic(@"d:\Projects\smalls\freq-20k-single.txt");
-
-            //File.WriteAllLines(pathEx(path, "-g"), ss);
-            //var rs = new List<string>();
-            //var rs = new List<string>();
-            // [m1][p]n[/p] [c red][b]10172[/b][/c]
-            // [m1][c forestgreen][b]Synonyms[/b][/c]
-            //ss.Where(x => x.StartsWith("\t[m1]") && !m11Re.IsMatch(x)).ToList().ForEach(Console.WriteLine);
-            //dsl(ss).Select(x => string.Join("; ", x)).ToList().ForEach(Console.WriteLine);
-            /*
-            var rs = new List<string>();
-            for (var i = 0; i < ss.Count; i++) {
-                var idx = ss[i].IndexOf(" ");
-                var key = ss[i].Substring(0, idx);
-                var val = ss[i].Substring(idx + 1);
-                var ts = tokRe.Matches(val).Cast<Match>().Select(m => m.Value).ToList();
-                var d = new Dictionary<string, string>();
-                var cp = (string)null;
-                foreach (var t in ts) {
-                    if (t.StartsWith("{")) {
-                        if (!d.ContainsKey(t)) d[t] = "";
-                        cp = t;
-                    }
-                    else if (cp != null) {
-                        if (d[cp] != "") d[cp] += "; ";
-                        d[cp] += t;
-                    }
-                }
-
-                d.ToList().ForEach(kv => {
-                    rs.Add($"{key} {kv.Key} {kv.Value.Trim()}");
-                });
-            }
-            */
-            //File.WriteAllLines(pathEx(path, "-2"), ss);
-            //ss = ss.Where(s => s.Trim() != "").ToList();
-
-
-            //ss.ForEach(s => { pRe.Matches(s).Cast<Match>().Select(m => m.Value).ToList().ForEach(s2 => rs.Add(s2)); });
-            //rs.Distinct().ToList().ForEach(Console.WriteLine);
-            //var rs = tRe.Matches(s).Cast<Match>().Select(m => m.Value).Distinct().ToArray();
-            //File.WriteAllLines(pathEx(path, "-2"), ss);
-            //File.WriteAllText(path, s);
-
-            Console.WriteLine("Press ENTER");
-            Console.ReadLine();
-            return;
+            var excepts = new HashSet<string>(new[] { "the {определитель}", "a {определитель}", "an {определитель}", "of {служебное}", "to {прочее}", "to {служебное}" });
+            var path = @"d:\subs.txt";
+            var dic = loadDic(@"d:\Projects\smalls\dic-corpus.txt");
+            var ss = File.ReadAllLines(path).Select(x => x).ToArray();
 
             /*
             Func<string, string> lemm = s => {
@@ -1207,36 +1124,54 @@ namespace ConApp {
                 return dic.TryGetValue(s, out var tmp) || dic.TryGetValue(lemm(s), out tmp);
             };
             */
-            /*
-            var i2 = 0;
-            var i1 = 0;
-            var dRe = new Regex(@"^ ?- ?");
-            var bRe = new Regex(@"[\[\]\(\)\{\}]");
+
+            var rDic = new Dictionary<string, List<string>[]>();
+            foreach (var kv in dic) {
+                rDic.Add($"{kv.Value} {kv.Key}", new[] { new List<string>(), new List<string>() });
+            }
+
+            Func<string,string> fromDic = s => {
+                var sp = s.Split(' ');
+                var _ss = new List<string>() { s };
+                if (lemmas.TryGetValue(sp[0], out var s2)) {
+                    _ss.Add($"{s2} {sp[1]}");
+                }
+                return _ss.Select(x => dic.TryGetValue(x, out var v) ? $"{v} {x}" : $"9999 {x}").OrderBy(x => x).First();
+            };
+
             var rnd = new Random();
-            var ss = File.ReadAllLines(@"d:\subs.txt").Where(x => !bRe.IsMatch(x)).ToArray();
-            File.WriteAllLines("d:/subs-2.txt", ss);
-            return;
-            var rs = new string[10000000];
-            for (var i = 0; i < ss.Length; i++) {
-                if (ctrlC) break;
-                var j = 0;
-                do {
-                    j = rnd.Next(10000000);
-                } while (rs[j] != null);
-                rs[j] = ss[i];
+            var i = 0;
+            foreach (var s in ss) {
+                i++;
+                if (i % 1000 == 0) Console.WriteLine(i);
+
+                var s2 = handleAmp(s);
+                var ts = posTagging(s2).Where(x => !excepts.Contains(x)).Select(x => fromDic(x)).ToList();
+                var c = ts.Count;
+                ts = ts.Where(x => !x.StartsWith("9999") && x.CompareTo("0500") > 0).OrderByDescending(x => x).ToList();
+                if (ts.Count == 0 || ts.Count(x => x.CompareTo("3000") > 0) > 1) {
+                    continue;
+                }
+                var min = ts.Select(x => rDic[x]).OrderBy(x => x[0].Count + x[1].Count).First();
+                c = c > 6 ? 0
+                    : rnd.Next(2) == 1 ? 0 : 1;
+
+                min[c].Add(s);
             }
-            */
-            //rs =  statDic.OrderByDescending(x => x.Value).Select(x => $"{x.Key} {x.Value}").ToList();
-            //File.WriteAllLines("d:/stat-dic.txt", rs);
-            /*
-            Console.WriteLine("Save y/n");
-            var yn = Console.ReadLine();
-            if (yn.ToLower() == "y") {
-                File.WriteAllLines("d:/subs-2.txt", rs.Where(x => x != null));
+            var rs = new List<string>();
+            foreach (var kv in rDic) {
+                kv.Value[0].AddRange(kv.Value[1]);
+                var sens = kv.Value[0].Take(20).ToList();
+                if (sens.Count == 0) continue;
+
+                rs.Add($"DIC: {kv.Key}");
+                rs.AddRange(sens.Select(x => $"SEN: {x}"));
             }
-            */
-            //Console.WriteLine("Press ENTER");
-            //Console.ReadLine();
+
+            File.WriteAllLines(pathEx(path, "-2"), rs);
+
+            Console.WriteLine("Press ENTER");
+            Console.ReadLine();
         }
     }
 }
