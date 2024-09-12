@@ -1105,7 +1105,7 @@ namespace ConApp {
 
 
             //comicOcr(@"d:\.temp\archie\");
-            //comicOcrPost(@"d:\.temp\archie\", 20, 5);
+            comicOcrPost(@"d:\.temp\archie\", 20, 5);
             //deeplSplit(@"d:\.temp\archie\en.txt");
             //comicComplete(@"d:\.temp\archie\");
 
