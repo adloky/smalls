@@ -46,7 +46,8 @@
   <div class="word-index"></div>
   
   <div class="word-form">
-    <input name="key" type="text"/><br/>
+    <input name="key"  type="hidden"/>
+    <input name="src" type="text"/><br/>
     <input name="pron" type="text" placeholder="произношение"/><br/>
     <select name="type">
       <option value="артикль">артикль</option>
@@ -68,6 +69,7 @@
       <option value="retell">retell</option>
     </select><br/>
     <input name="retell" type="hidden"/>
+    <input name="cxtNum"  type="hidden"/>
     <input name="retell-hours" readonly> <button class="retell-reset">reset</button></br>
     <textarea name="context" rows="4"></textarea></br>
     <button class="save-btn">Save</button> 
@@ -90,7 +92,7 @@
 </div>
   
 <script>
-var ver = 1;
+var ver = 2;
 var words = [];
 var word;
 var wordRetell;
@@ -130,8 +132,18 @@ var lastBackup = Date.now();
         if (!words.indexNames.contains("retell")) {
             words.createIndex("retell", "retell", { unique: false });
         }
+        
+        if (!words.indexNames.contains("src")) {
+            words.createIndex("src", "src", { unique: false });
+        }
     };
 })();
+
+function guid() {
+  return "10000000-1000-4000-8000-100000000000".replace(/[018]/g, c =>
+    (+c ^ crypto.getRandomValues(new Uint8Array(1))[0] & 15 >> +c / 4).toString(16)
+  );
+}
 
 function index() {
     var wrapper = $(".wrapper");
@@ -169,13 +181,13 @@ function search() {
         var dicHtml = dic.filter(x => x.key.indexOf(s) === 0).slice(0,10).map(x => `<div>${x.value}</div>`).join("");
         $(".dic").html(dicHtml);
     }
-    var req = indexedDB.open("memen", ver);
     
+    var req = indexedDB.open("memen", ver);
     req.onsuccess = function(event) {
         var db = event.target.result;
         var tx = db.transaction("words", "readonly");
         var range = IDBKeyRange.bound(s, s + "~", false, true);
-        var req = tx.objectStore("words").getAll(range, 10);
+        var req = tx.objectStore("words").index("src").getAll(range, 10);
         req.onsuccess = function() {
             words = req.result;
             var index = 0;
@@ -241,7 +253,7 @@ function retell() {
 function wordsHtml(index) {
     if (!Number.isInteger(index))
         index = 0;
-    $(".word-index").html(`<table>${words.map((x, i) => `<tr class="word-item${i === index ? " sel" : ""}" data-i="${i}"><td><b>${x.key}</b></td><td>${x.pron ? `[${x.pron}]` : ""}</td><td>${x.val}</td></tr>`).join("")}</table>`);
+    $(".word-index").html(`<table>${words.map((x, i) => `<tr class="word-item${i === index ? " sel" : ""}" data-i="${i}"><td><b>${x.src}</b></td><td>${x.pron ? `[${x.pron}]` : ""}</td><td>${x.val}</td></tr>`).join("")}</table>`);
 }
 
 function wordRetellHtml(level) {
@@ -251,7 +263,7 @@ function wordRetellHtml(level) {
         return;
     }
     var rs = [];
-    rs.push(`<div class="x-large"><b>${wordRetell.key}</b>${wordRetell.pron ? ` [${wordRetell.pron}]` : ""}${ wordRetell.type === "прочее" ?  "" : " {" + wordRetell.type + "}" }</div>`);
+    rs.push(`<div class="x-large"><b>${wordRetell.src}</b>${wordRetell.pron ? ` [${wordRetell.pron}]` : ""}${ wordRetell.type === "прочее" ?  "" : " {" + wordRetell.type + "}" }</div>`);
     if (level > 1) {
         rs.push(`<div class="x-large">${wordRetell.val}</div>`);
     }
@@ -274,6 +286,7 @@ function wordToForm() {
         $(".word-form").removeClass("hidden");
     }
     $('[name=key]').val(word.key);
+    $('[name=src]').val(word.src);
     $('[name=type]').val(word.type);
     $('[name=pron]').val(word.pron);
     $('[name=val]').val(word.val);
@@ -282,7 +295,7 @@ function wordToForm() {
     var retellHours = Math.round((word.retell - Date.now().valueOf()) / 3600000);
     $('[name=retell-hours]').val( Math.abs(retellHours) < 1000 ? `${retellHours}h` : "");
     $('[name=context]').val(word.context);
-    
+    $('[name=ctxNum]').val(word.ctxNum);    
 }
 
 function wordFromForm() {
@@ -292,12 +305,14 @@ function wordFromForm() {
         .replaceAll(/ng/ig, "ŋ");
     word = {
         key: $('[name=key]').val(),
+        src: $('[name=src]').val(),
         type: $('[name=type]').val(),
         pron: pron,
         val: $('[name=val]').val(),
         status: $('[name=status]').val(),
         context: $('[name=context]').val(),
-        retell: Number($('[name=retell]').val())
+        retell: Number($('[name=retell]').val()),
+        ctxNum: Number($('[name=cxtNum]').val())
     };
 }
 
@@ -310,11 +325,12 @@ function backup() {
         return;
 
     lastBackup = Date.now();
-    var year = (new Date()).getFullYear() + 5;
+    var upperYear = (new Date()).getFullYear() + 5;
+    var upperTime = (new Date(upperYear,0,1)).valueOf();
     indexedDB.open("memen", ver).onsuccess = function(event) {
         var db = event.target.result;
         var tx = db.transaction("words", "readonly");
-        var range = IDBKeyRange.upperBound((new Date(year,0,1)).valueOf(), true);
+        var range = IDBKeyRange.upperBound(upperTime, true);
         var req = tx.objectStore("words").index("retell").getAll(range);
         req.onsuccess = function() {
             var body = "=" + JSON.stringify(req.result);
@@ -329,6 +345,25 @@ function backup() {
 
 $(".search-btn").click(function() {
     search();
+});
+
+$(".migrate-btn").click(function() {
+    var req = indexedDB.open("memen", ver);
+    req.onsuccess = function(event) {
+        var db = event.target.result;
+        var tx = db.transaction("words", "readonly");
+        var req = tx.objectStore("words").getAll();
+        req.onsuccess = function() {
+            var words = req.result.filter(w => !/([0-9a-f]+-){5}/.test(w.key + "-"));
+            words.forEach(w => {
+                del(w.key);
+                w.src = w.key;
+                w.key = guid();
+                w.ctxNum = 0;
+                put(w, true);
+            });
+        };
+    };
 });
 
 $('[name="view"]').on("change", function() {
@@ -358,12 +393,11 @@ $(document).on("click", ".word-item", function() {
 });
 
 $(".save-btn").click(function() {
-    var prevKey = word ? word.key : null;
     wordFromForm();
-    if (word.key !== prevKey && prevKey !== null) {
-        del(prevKey);
+    if (!word.src) {
+        del(word.key);
     }
-    if (word.key) {
+    if (word.src) {
         put(word);
     }
 });
@@ -372,13 +406,15 @@ $(".create-btn").click(function() {
     var s = $(".search-box").val();
     if (!s)
         return;
-    var key = $(".search-box").val();
+    var src = $(".search-box").val();
     word = {
-        key: key
+        key: guid()
+      , src: src
       , type: "прочее"
-      , pron: getPron(key)
+      , pron: getPron(src)
       , val: ""
       , status: "hot"
+      , ctxNum: 0
       , retell: Date.now().valueOf()
     };
     put(word, true);
