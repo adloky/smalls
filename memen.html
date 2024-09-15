@@ -459,6 +459,8 @@ $(".clear-btn").click(function() {
 
 $(document).on("click", ".dic-item", function() {
     var s = $(this).text();
+    var nl = s.match(/^\d+/)[0].length;
+    for (var i = nl; i < 4; i++) s = "0" + s;
     var n = s.substr(0,2);
     var key = s.split("{")[0] + "{";
     $.ajax({
