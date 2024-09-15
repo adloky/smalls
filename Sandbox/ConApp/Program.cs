@@ -1108,27 +1108,88 @@ namespace ConApp {
             //deeplSplit(@"d:\.temp\archie\en.txt");
             //comicComplete(@"d:\.temp\archie\");
 
-            var path = @"d:\Projects\smalls\subs.txt";
-            var subs = File.ReadAllLines(path).Where(x => x.StartsWith("DIC: ")).Select(x => x.Substring(5)).Where(x => x.CompareTo("1000") > 0).ToList();
-            var dic = File.ReadAllLines(@"d:\Projects\smalls\freq-us.txt").ToDictionary(x => x.Split('{')[0].Trim(), x => x.Split('}')[1].Trim());
-            subs = subs.Select(x => {
-                var key = x.Split('{')[0].Trim();
-                if (dic.TryGetValue(key, out var val)) {
-                    x += $" {val}";
-                }
-                if (learnDic.ContainsKey(x.Substring(5).Split('}')[0] + "}") || x.CompareTo("3001") > 0) {
-                    x = "// " + x;
-                }
-                return x;
-            }).ToList();
+            var excepts = new HashSet<string>(new[] { "the {определитель}", "a {определитель}", "an {определитель}", "of {служебное}", "to {прочее}", "to {служебное}" });
+            var path = @"d:\subs.txt";
+            var dic = loadDic(@"d:\Projects\smalls\dic-corpus.txt");
+            foreach (var k in dic.Keys.ToList()) {
+                dic[k] = dic[k].Split(';')[0];
+            }
+            var ss = File.ReadAllLines(path).Select(x => x).ToArray();
 
-            File.WriteAllLines(@"d:/conen.txt", subs);
+            var rDic = new Dictionary<string, List<string>[]>();
+            foreach (var kv in dic) {
+                rDic.Add($"{kv.Value} {kv.Key}", new[] { new List<string>(), new List<string>() });
+            }
+
+            Func<string,string> fromDic = s => {
+                var sp = s.Split(' ');
+                var _ss = new List<string>() { s };
+                if (lemmas.TryGetValue(sp[0], out var s2)) {
+                    _ss.Add($"{s2} {sp[1]}");
+                }
+                return _ss.Select(x => dic.TryGetValue(x, out var v) ? $"{v} {x}" : $"9999 {x}").OrderBy(x => x).First();
+            };
+
+            var rnd = new Random();
+
+            var i = 0;
+            foreach (var s in ss) {
+                i++;
+                if (i % 1000 == 0) Console.WriteLine(i);
+
+                var s2 = handleAmp(s);
+                var ts = posTagging(s2).Where(x => !excepts.Contains(x)).Select(x => fromDic(x)).ToList();
+                var c = ts.Count;
+                ts = ts.Where(x => !x.StartsWith("9999") && x.CompareTo("0500") > 0).OrderByDescending(x => x).ToList();
+                var gt3k = ts.Count(x => x.CompareTo("3000") > 0);
+                if (ts.Count == 0 || gt3k > 1) {
+                    continue;
+                }
+
+                var dSel = ts.Select(x => rDic[x]);
+                var min = gt3k == 1 ? dSel.First() : dSel.OrderBy(x => x[0].Count + x[1].Count).First();
+                c = c > 6 ? 0
+                    : rnd.Next(2) == 1 ? 0 : 1;
+
+                min[c].Add(s);
+            }
+
+            var rs = new List<string>();
+            foreach (var kv in rDic) {
+                kv.Value[0].AddRange(kv.Value[1]);
+                var sens = kv.Value[0].Take(30).ToList();
+                if (sens.Count == 0) continue;
+
+                rs.Add($"DIC: {kv.Key}");
+                rs.AddRange(sens.Select(x => $"SEN: {x}"));
+            }
+
+            File.WriteAllLines(pathEx(path, "-2"), rs);
 
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
         }
     }
 }
+
+/*
+// словарь извесных слов для контекста
+var path = @"d:\Projects\smalls\subs.txt";
+var subs = File.ReadAllLines(path).Where(x => x.StartsWith("DIC: ")).Select(x => x.Substring(5)).Where(x => x.CompareTo("1000") > 0).ToList();
+var dic = File.ReadAllLines(@"d:\Projects\smalls\freq-us.txt").ToDictionary(x => x.Split('{')[0].Trim(), x => x.Split('}')[1].Trim());
+subs = subs.Select(x => {
+    var key = x.Split('{')[0].Trim();
+    if (dic.TryGetValue(key, out var val)) {
+        x += $" {val}";
+    }
+    if (learnDic.ContainsKey(x.Substring(5).Split('}')[0] + "}") || x.CompareTo("3001") > 0) {
+        x = "// " + x;
+    }
+    return x;
+}).ToList();
+File.WriteAllLines(@"d:/conen.txt", subs);
+*/
+
 
 /*
             // PRONUNCES
