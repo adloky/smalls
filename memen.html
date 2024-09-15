@@ -6,11 +6,13 @@
 <script src="prons.js"></script>
 <style>
   table { border-collapse: collapse; }
-  input, button, td, label, textarea, .word-retell, select, .dic { padding: 5pt; font-size: 14pt; margin-top: 5pt; }
-  textarea { width: 300pt; }
+  input, button, td, label, textarea, .word-retell, select, .dic-item, .ctx-item, .ctx-msg, .ctx-retell { padding: 5pt; font-size: 14pt; margin-top: 5pt; }
+  textarea { width: 100%; }
   input[type=checkbox] { transform: scale(1.7); font-size: 14pt; margin-top: 10pt; }
   .hidden { display: none; }
   .x-large { font-size: 20pt; }
+  .xx-large { font-size: 14pt; }
+  .ctx-item.sel { background-color: #DDF; }
 
     .wrapper-all .word-retell
   , .wrapper-hot .word-retell
@@ -71,12 +73,16 @@
       <option value="retell">retell</option>
     </select><br/>
     <input name="retell" type="hidden"/>
-    <input name="cxtNum"  type="hidden"/>
+    <input name="ctxNum"  type="hidden"/>
     <input name="retell-hours" readonly> <button class="retell-reset">reset</button></br>
-    <textarea name="context" rows="4"></textarea></br>
+    <textarea name="context" rows="6"></textarea></br>
     <button class="save-btn">Save</button> 
   </div>
   <div class="dic"></div>
+  <div class="ctx-wrapper hidden">
+    <button class="ctx-btn">Past</button>
+    <div class="ctx"></div>
+  </div>
   <div class="word-retell">
     <button class="hint-btn" data-level="0">Hint</button>
     <div class="word-retell-body"></div>
@@ -178,8 +184,10 @@ function put(word, notExists) {
 function search() {
     var s = $(".search-box").val();
     if (freqDic && freqDic.length > 0 && freqDic[0].key) {
-        var dicHtml = !s ? "" : freqDic.filter(x => x.key.indexOf(s) === 0).slice(0,10).map(x => `<div>${x.value}</div>`).join("");
+        var dicS = s.toLowerCase().replaceAll(/[^a-z]/g, "");
+        var dicHtml = !s ? "" : freqDic.filter(x => x.key.indexOf(dicS) === 0).slice(0,10).map(x => `<div class="dic-item">${x.value}</div>`).join("");
         $(".dic").html(dicHtml);
+        $(".ctx-wrapper").addClass("hidden");
     }
     
     var req = indexedDB.open("memen", ver);
@@ -263,16 +271,18 @@ function wordRetellHtml(level) {
         return;
     }
     var rs = [];
-    rs.push(`<div class="x-large"><b>${wordRetell.src}</b>${wordRetell.pron ? ` [${wordRetell.pron}]` : ""}${ wordRetell.type === "прочее" ?  "" : " {" + wordRetell.type + "}" }</div>`);
-    if (level > 1) {
-        rs.push(`<div class="x-large">${wordRetell.val}</div>`);
-    }
-    if (level > 0) {
-        var cs = wordRetell.context.replaceAll("\r", "").split("\n");
-        if (level < 2) {
-            cs = cs.map(x => x.split("|")[0]);
+    var c = wordRetell.context.split(/\r?\n/).filter(x => x !== "");
+    if (c.length !== 0) {
+        var s = c[wordRetell.ctxNum].split(/ ?\| ?/);
+        rs.push(`<div class="ctx-retell">${s[0]}</div>`);
+        if (level > 0) {
+            rs.push(`<div class="ctx-retell">${s[1]}</div>`);
         }
-        rs.push(`<div>${cs.join("<br/>")}</div>`);
+    }
+    
+    rs.push(`<div class="x-large"><b>${wordRetell.src}</b>${wordRetell.pron ? ` [${wordRetell.pron}]` : ""}${ wordRetell.type === "прочее" ?  "" : " {" + wordRetell.type + "}" }</div>`);
+    if (level > 0) {
+        rs.push(`<div class="x-large">${wordRetell.val}</div>`);
     }
     $(".word-retell-body").html(rs.join(""));
 }
@@ -312,7 +322,7 @@ function wordFromForm() {
         status: $('[name=status]').val(),
         context: $('[name=context]').val(),
         retell: Number($('[name=retell]').val()),
-        ctxNum: Number($('[name=cxtNum]').val())
+        ctxNum: Number($('[name=ctxNum]').val())
     };
 }
 
@@ -432,6 +442,7 @@ $(".hint-btn").click(function() {
 
 $(".retell-btn").click(function() {
     wordRetell.retell = Date.now().valueOf() + Number($(this).data("hours")) * 3600000;
+    wordRetell.ctxNum = (wordRetell.ctxNum + 1) % wordRetell.context.split(/\r?\n/).length;
     put(wordRetell);
     retell();
 });
@@ -444,6 +455,39 @@ $(".retell-reset").click(function() {
 $(".clear-btn").click(function() {
     $("[name=search]").val("");
     $("[name=search]").focus();
+});
+
+$(document).on("click", ".dic-item", function() {
+    var s = $(this).text();
+    var n = s.substr(0,2);
+    var key = s.split("{")[0] + "{";
+    $.ajax({
+        url: `conen/${n}.txt`
+    }).done(function(d) {
+        var ss = d.split(/\r\n/);
+        var i = 0;
+        var rs = [];
+        for (; i < ss.length && !(ss[i].indexOf(key) === 0); i++);
+        i++;
+        for (; i < ss.length && !ss[i].includes("{"); i++) {
+            rs.push(ss[i]);
+        }
+        var html = rs.length === 0 ? `<div class="ctx-msg">Не найдено</div>` : rs.map(x => `<div class="ctx-item">${x}</div>`).join("");
+        $(".ctx").html(html);
+        $(".ctx-wrapper").removeClass("hidden");
+    }).fail(function() {
+        $(".ctx").html(`<div class="ctx-msg">Не найдено</div>`);
+        $(".ctx-wrapper").removeClass("hidden");
+    });
+});
+
+$(document).on("click", ".ctx-item", function() {
+    $(this).toggleClass("sel");
+});
+
+$(".ctx-btn").click(function() {
+    var s = $(".ctx-item.sel").get().map(x => $(x).text()).join("\r\n");
+    $("[name=context]").val(s);
 });
 
 search();
