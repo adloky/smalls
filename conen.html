@@ -20,7 +20,7 @@
 
 <div class="en"></div>
 <div class="ru hidden"></div>
-<div class="dic hidden"></div>
+<div class="dic"><span class="dic-key"></span> <span class="dic-val hidden"></span></div>
 
 <script>
 
@@ -35,11 +35,13 @@ function rnd(n) {
 
 function render() {
     $(".ru").addClass("hidden");
-    $(".dic").addClass("hidden");
+    $(".dic-val").addClass("hidden");
     var ss = ctx[ctxNum].split(/ \| /);
     $(".en").html(ss[0]);
     $(".ru").html(ss[1]);
-    $(".dic").html(word);
+    var sp = word.split("} ");
+    $(".dic-key").html(sp[0] + "}");
+    $(".dic-val").html(sp[1]);
 }
 
 function next() {
@@ -68,7 +70,7 @@ $(".next-btn").click(function() {
 
 $(".hint-btn").click(function() {
     $(".ru").removeClass("hidden");
-    $(".dic").removeClass("hidden");
+    $(".dic-val").removeClass("hidden");
 });
 
 $(".more-btn").click(function() {
