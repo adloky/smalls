@@ -1107,6 +1107,31 @@ namespace ConApp {
             //comicOcrPost(@"d:\.temp\archie\", 20, 5);
             //deeplSplit(@"d:\.temp\archie\en.txt");
             //comicComplete(@"d:\.temp\archie\");
+
+            var path = @"d:\Projects\smalls\subs.txt";
+            var subs = File.ReadAllLines(path).Where(x => x.StartsWith("DIC: ")).Select(x => x.Substring(5)).Where(x => x.CompareTo("0500") > 0).ToList();
+            var dic = File.ReadAllLines(@"d:\Projects\smalls\freq-us.txt").ToDictionary(x => x.Split('{')[0].Trim(), x => x.Split('}')[1].Trim());
+            subs = subs.Select(x => {
+                var key = x.Split('{')[0].Trim();
+                if (dic.TryGetValue(Regex.Replace(key, @"^0+", "") , out var val)) {
+                    x += $" {val}";
+                }
+                if (learnDic.ContainsKey(x.Substring(5).Split('}')[0] + "}") || x.CompareTo("3001") > 0) {
+                    x = "// " + x;
+                }
+                return x;
+            }).ToList();
+            File.WriteAllLines(@"d:/conen.txt", subs);
+
+
+            Console.WriteLine("Press ENTER");
+            Console.ReadLine();
+        }
+    }
+}
+
+/*
+            // conen/ 
             var path = @"d:\Projects\smalls\subs.txt";
             var ss = File.ReadAllLines(path).Select(x => x).ToList();
             var rs = new string[51];
@@ -1123,13 +1148,7 @@ namespace ConApp {
                 File.WriteAllText($"d:/Projects/smalls/conen/{i.ToString("00")}.txt", rs[i].Substring(2));
             }
 
-            //File.WriteAllLines(pathEx(path, "-2"), ss);
-
-            Console.WriteLine("Press ENTER");
-            Console.ReadLine();
-        }
-    }
-}
+ */
 
 /*
 // словарь извесных слов для контекста
