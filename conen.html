@@ -3,7 +3,7 @@
 
 <meta charset="utf-8">
 <style>
-  div, button { padding: 5pt; font-size: 16pt; }
+  td, button { padding: 5pt; font-size: 16pt; }
   .hidden { display: none; }  
 </style>
 
@@ -14,14 +14,14 @@
 <BODY>
 <div>
 <button class="next-btn">next</button>
-<button class="hint-btn">hint</button>
 <p><button class="more-btn">more</button></p>
 </div>
-
-<div class="en"></div>
-<div class="ru hidden"></div>
-<div class="dic"><span class="dic-key"></span> <span class="dic-val hidden"></span></div>
-
+<table>
+<tr><td class="en"></td></tr>
+<tr><td class="ru hidden"></td></tr>
+<tr><td><button class="hint-btn">hint</button></td></tr>
+<tr><td class="dic"><span class="dic-key"></span> <span class="dic-val hidden"></span></td></tr>
+</table>
 <script>
 
 var words;

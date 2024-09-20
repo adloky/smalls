@@ -1091,8 +1091,8 @@ namespace ConApp {
             //deepl(@"d:\.temp\st\S01E01[eng]-clear.srt");
             //File.WriteAllLines("d:/3.txt", posReduce("d:/.temp/3.txt ").Where(x => x.p != "пробел" && x.p != "прочее").Select(x => $"{x.w} {x.p}"));
             //var s = gemini(File.ReadAllText("d:/1.txt"));
-            //learnStat($"d:/.temp/7.txt");
-            //makeTip($"d:/.temp/7.txt");
+            //learnStat($"d:/.temp/8.txt");
+            makeTip($"d:/.temp/8.txt");
 
             /*
             var name = "S01E05";
@@ -1107,7 +1107,7 @@ namespace ConApp {
             //comicOcrPost(@"d:\.temp\archie\", 20, 5);
             //deeplSplit(@"d:\.temp\archie\en.txt");
             //comicComplete(@"d:\.temp\archie\");
-
+            /*
             var path = @"d:\Projects\smalls\subs.txt";
             var subs = File.ReadAllLines(path).Where(x => x.StartsWith("DIC: ")).Select(x => x.Substring(5)).Where(x => x.CompareTo("0500") > 0).ToList();
             var dic = File.ReadAllLines(@"d:\Projects\smalls\freq-us.txt").ToDictionary(x => x.Split('{')[0].Trim(), x => x.Split('}')[1].Trim());
@@ -1122,7 +1122,7 @@ namespace ConApp {
                 return x;
             }).ToList();
             File.WriteAllLines(@"d:/conen.txt", subs);
-
+            */
 
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
@@ -1153,11 +1153,11 @@ namespace ConApp {
 /*
 // словарь извесных слов для контекста
 var path = @"d:\Projects\smalls\subs.txt";
-var subs = File.ReadAllLines(path).Where(x => x.StartsWith("DIC: ")).Select(x => x.Substring(5)).Where(x => x.CompareTo("1000") > 0).ToList();
+var subs = File.ReadAllLines(path).Where(x => x.StartsWith("DIC: ")).Select(x => x.Substring(5)).Where(x => x.CompareTo("0500") > 0).ToList();
 var dic = File.ReadAllLines(@"d:\Projects\smalls\freq-us.txt").ToDictionary(x => x.Split('{')[0].Trim(), x => x.Split('}')[1].Trim());
 subs = subs.Select(x => {
     var key = x.Split('{')[0].Trim();
-    if (dic.TryGetValue(key, out var val)) {
+    if (dic.TryGetValue(Regex.Replace(key, @"^0+", "") , out var val)) {
         x += $" {val}";
     }
     if (learnDic.ContainsKey(x.Substring(5).Split('}')[0] + "}") || x.CompareTo("3001") > 0) {
