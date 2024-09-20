@@ -67,10 +67,10 @@
         ss.forEach((s,i) => {
             if (enru(s) >= 0) {
                 en.push(s);
-            }
-            else {
+            };
+            if (enru(s) <= 0) {
                 ru.push(s);
-            }
+            };
         });
         
         rs = [];
@@ -91,10 +91,10 @@
         ss.forEach((s,i) => {
             if (enru(s) >= 0) {
                 en.push(s);
-            }
-            else {
+            };
+            if (enru(s) <= 0) {
                 ru.push(s);
-            }
+            };
         });
         
         $(".body-box").val(en.concat(ru).join("\r\n\r\n"));
