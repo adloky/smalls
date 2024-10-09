@@ -1061,6 +1061,8 @@ namespace ConApp {
                 .SelectMany(x => (lemmaForms.TryGetValue(x, out var xs) ? xs : Enumerable.Empty<string>()).Concat(Enumerable.Repeat(x, 1))));
             var wRe = new Regex(@"[a-zA-Z]+");
             for (var i = 0; i < es.Length; i++) {
+                es[i] = es[i].Replace("<", "&lt;");
+                rs[i] = rs[i].Replace("<", "&lt;");
                 es[i] = handleString(es[i], wRe, (x,m) => lSet.Contains(x.ToLower()) ? $"<u>{x}</u>" : x);
                 ss.Add(es[i]);
                 ss.Add(rs[i]);
@@ -1079,20 +1081,87 @@ namespace ConApp {
             File.WriteAllLines(path + "result.html", ss);
         }
 
+        static void toAscii(string path) {
+            var rps = new string[] { ""
+                                   , "" };
+            var rpDic = rps[0].Select((x, i) => (k: rps[0][i], v: rps[1][i])).ToDictionary(x => x.k, x => x.v);
+
+            var s = new string(File.ReadAllText(path).Select(x => rpDic.TryGetValue(x, out var nx) ? nx : x).ToArray());
+            s = Regex.Replace(s, @"[\x00-\x09\x0b-\x0c\x0e-\x1f]", " ");
+            s = Regex.Replace(s, @" +", " ");
+            s = Regex.Replace(s, @"\r?\n | \r?\n", "\r\n");
+            s = Regex.Replace(s, @"\.( ?\.)+", "...");
+            File.WriteAllText(pathEx(path, "-2"), s);
+        }
+
+        static byte[] speechKit(string s) {
+            var iamToken = config["speechKitKey"];
+            var folderId = "b1gc2cklho9c16s0h2pj";
+
+            HttpClient client = new HttpClient();
+            client.DefaultRequestHeaders.Add("Authorization", "Bearer " + iamToken);
+            var values = new Dictionary<string, string> {
+                { "text", s },
+                { "lang", "en-US" },
+                { "voice", "john" },
+                { "folderId", folderId }
+            };
+            var content = new FormUrlEncodedContent(values);
+
+            var task1 = Task.Run(() => client.PostAsync("https://tts.api.cloud.yandex.net/speech/v1/tts:synthesize", content));
+            task1.Wait();
+            var response = task1.Result;
+
+            var task2 = Task.Run(() => response.Content.ReadAsByteArrayAsync());
+            task1.Wait();
+            return task2.Result;
+        }
+
 
         static volatile bool ctrlC = false;
 
         [STAThread]
         static async Task Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
+            //var r = speechKit("You can't afford troubles with the federal courts.");
+            //File.WriteAllBytes("d:/hello.ogg", r);
+
+            var path = @"d:\Projects\smalls\lisen.txt";
+            var path2 = @"d:/exs.txt";
+            var exs = new HashSet<string>(File.ReadAllLines(path2));
+            var ss = File.ReadAllLines(path);
+            var c = ss.Length - exs.Count;
+            foreach (var s in ss) {
+                if (ctrlC) break;
+                var id = s.Split('|')[0].Trim();
+                var val = s.Split('|')[2].Trim();
+                if (exs.Contains(id)) {
+                    continue;
+                }
+                var r = new byte[0];
+                try {
+                    r = speechKit(val);
+                }
+                catch {
+                    break;
+                }
+                var dir = $"d:/english/lisen/{id.Substring(0,2)}";
+                if (!Directory.Exists(dir)) Directory.CreateDirectory(dir);
+                File.WriteAllBytes($"{dir}/{id}.ogg", r);
+                exs.Add(id);
+                c--;
+                Console.WriteLine($"{c} {id}");
+            }
+            File.WriteAllLines(path2, exs);
 
             //prepareWords("d:/words.txt");
             //fixQuotes(@"d:\.temp\7.txt");
             //deepl(@"d:\.temp\st\S01E01[eng]-clear.srt");
             //File.WriteAllLines("d:/3.txt", posReduce("d:/.temp/3.txt ").Where(x => x.p != "пробел" && x.p != "прочее").Select(x => $"{x.w} {x.p}"));
             //var s = gemini(File.ReadAllText("d:/1.txt"));
-            //learnStat($"d:/.temp/8.txt");
-            makeTip($"d:/.temp/8.txt");
+            //toAscii(@"d:\.temp\3.txt");
+            //learnStat($"d:/.temp/3.txt");
+            //makeTip($"d:/.temp/3.txt");
 
             /*
             var name = "S01E05";
@@ -1107,28 +1176,36 @@ namespace ConApp {
             //comicOcrPost(@"d:\.temp\archie\", 20, 5);
             //deeplSplit(@"d:\.temp\archie\en.txt");
             //comicComplete(@"d:\.temp\archie\");
-            /*
-            var path = @"d:\Projects\smalls\subs.txt";
-            var subs = File.ReadAllLines(path).Where(x => x.StartsWith("DIC: ")).Select(x => x.Substring(5)).Where(x => x.CompareTo("0500") > 0).ToList();
-            var dic = File.ReadAllLines(@"d:\Projects\smalls\freq-us.txt").ToDictionary(x => x.Split('{')[0].Trim(), x => x.Split('}')[1].Trim());
-            subs = subs.Select(x => {
-                var key = x.Split('{')[0].Trim();
-                if (dic.TryGetValue(Regex.Replace(key, @"^0+", "") , out var val)) {
-                    x += $" {val}";
-                }
-                if (learnDic.ContainsKey(x.Substring(5).Split('}')[0] + "}") || x.CompareTo("3001") > 0) {
-                    x = "// " + x;
-                }
-                return x;
-            }).ToList();
-            File.WriteAllLines(@"d:/conen.txt", subs);
-            */
 
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
         }
     }
 }
+
+/*
+            // all words forms
+            var lSet = new HashSet<string>(File.ReadAllLines(@"d:\Projects\smalls\dic-corpus.txt").Select(x => x.Split(' ')[0])
+               .SelectMany(x => (lemmaForms.TryGetValue(x, out var xs) ? xs : Enumerable.Empty<string>()).Concat(Enumerable.Repeat(x, 1))));
+ */
+
+/*
+var path = @"d:\Projects\smalls\subs.txt";
+var subs = File.ReadAllLines(path).Where(x => x.StartsWith("DIC: ")).Select(x => x.Substring(5)).Where(x => x.CompareTo("0500") > 0).ToList();
+var dic = File.ReadAllLines(@"d:\Projects\smalls\freq-us.txt").ToDictionary(x => x.Split('{')[0].Trim(), x => x.Split('}')[1].Trim());
+subs = subs.Select(x => {
+    var key = x.Split('{')[0].Trim();
+    if (dic.TryGetValue(Regex.Replace(key, @"^0+", "") , out var val)) {
+        x += $" {val}";
+    }
+    if (learnDic.ContainsKey(x.Substring(5).Split('}')[0] + "}") || x.CompareTo("3001") > 0) {
+        x = "// " + x;
+    }
+    return x;
+}).ToList();
+File.WriteAllLines(@"d:/conen.txt", subs);
+*/
+
 
 /*
             // conen/ 
