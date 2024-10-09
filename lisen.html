@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<HEAD>
+
+<meta charset="utf-8">
+<style>
+  * { box-sizing: border-box; }
+  td, button { padding: 5pt; font-size: 16pt; }
+  .ru.hidden { visibility: hidden; }  
+  .key { width: 10%; display: inline-block; background-color: gray; padding: 8pt; border: 2pt solid white; color: white; font-family: sans-serif; font-size: 18pt; text-align: center; }
+  .key-space { width: 5%; background-color: white; }
+</style>
+
+<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+
+</HEAD>
+
+<BODY>
+<div>
+<p><button class="next-btn">next</button></p>
+<audio class="audio" controls></audio>
+</div>
+<table>
+<tr><td class="en"></td></tr>
+<tr><td><button class="hint-btn">hint</button></td></tr>
+<tr><td class="ru hidden"></td></tr>
+</table>
+<div>
+  <div class="key">q</div><div class="key">w</div><div class="key">e</div><div class="key">r</div><div class="key">t</div><div class="key">y</div><div class="key">u</div><div class="key">i</div><div class="key">o</div><div class="key">p</div></br>
+  <div class="key key-space"></div><div class="key">a</div><div class="key">s</div><div class="key">d</div><div class="key">f</div><div class="key">g</div><div class="key">h</div><div class="key">j</div><div class="key">k</div><div class="key">l</div></br>
+  <div class="key key-space"></div><div class="key key-space"></div><div class="key">z</div><div class="key">x</div><div class="key">c</div><div class="key">v</div><div class="key">b</div><div class="key">n</div><div class="key">m</div>
+</div>
+<script>
+
+var en;
+var ru;
+var eni;
+var enc;
+
+function render() {
+    var rs = [];
+    var i = 0;
+    for (var j = 0; j < en.length; j++) {
+        var s = en[j];
+        var ms = s.match(/[a-z]/gi);
+        var c = ms === null ? "" : ms[0].toLowerCase();
+        if (c === "") {
+            rs.push(s);
+            continue;
+        }
+        
+        if (i >= eni) {
+            rs.push(s.replaceAll(/./gi, "_"));
+            if (i === eni) {
+                enc = c;
+            }
+        }
+        else {
+            rs.push(s);
+        }
+        i++;
+    }
+    var r = rs.join("")
+    $(".en").text(r);
+    if (/_/gi.test(r)) {
+        $(".ru").addClass("hidden");
+    }
+    else {
+        $(".ru").removeClass("hidden");
+    }
+}
+
+function next() {
+    $.ajax({
+        url: `/sandbox/api/lisen/next`
+      , method: "post"
+    }).done(function(d) {
+        var sp = d.split(/ ?\| ?/);
+        var id = sp[0];
+        $(".ru").addClass("hidden");
+        $(".ru").text(sp[3]);
+        en = sp[2].match(/[a-z']+|[^a-z']+/gi);
+        eni = 0;
+        $(".audio").attr("src", `/lisen/${id.substr(0,2)}/${id}.ogg`);
+        $(".audio")[0].play();
+        render();
+    });
+}
+
+$(".next-btn").click(function() {
+    next();
+});
+
+$(".hint-btn").click(function() {
+    eni++;
+    render();
+});
+
+$(".key").click(function() {
+    var c = $(this).text();
+    if (c !== enc) return;
+    eni++;
+    render();
+});
+
+
+$(document).ready(function () {
+    next();
+});
+
+</script>
+</BODY>
