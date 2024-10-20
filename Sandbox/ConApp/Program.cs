@@ -99,7 +99,7 @@ namespace ConApp {
             var dom = CQ.Create(html);
             var h3 = dom.Find("h3").Where(x => x.Cq().Text().Contains("варианты перевода")).FirstOrDefault();
             if (h3 == null) {
-                s = $"{s} NotFound";
+                s = $"{s} {{прочее}} NotFound";
                 Console.WriteLine(s);
                 return s;
             }
@@ -1121,38 +1121,23 @@ namespace ConApp {
         static volatile bool ctrlC = false;
 
         [STAThread]
-        static async Task Main(string[] args) {
+        static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
-            //var r = speechKit("You can't afford troubles with the federal courts.");
-            //File.WriteAllBytes("d:/hello.ogg", r);
 
-            var path = @"d:\Projects\smalls\lisen.txt";
-            var path2 = @"d:/exs.txt";
-            var exs = new HashSet<string>(File.ReadAllLines(path2));
+            var path = @"d:/phras.txt";
             var ss = File.ReadAllLines(path);
-            var c = ss.Length - exs.Count;
-            foreach (var s in ss) {
+            for (var i = 0; i < ss.Length; i++) {
                 if (ctrlC) break;
-                var id = s.Split('|')[0].Trim();
-                var val = s.Split('|')[2].Trim();
-                if (exs.Contains(id)) {
-                    continue;
+                var s = ss[i].Substring(6);
+                if (s.Contains("{")) continue;
+                var t = s + " {прочее} NotFound";
+                for (var j = 0; j < 5 && t.Contains("NotFound"); j++) {
+                    try { t = gtranslate(s); } catch { }
                 }
-                var r = new byte[0];
-                try {
-                    r = speechKit(val);
-                }
-                catch {
-                    break;
-                }
-                var dir = $"d:/english/lisen/{id.Substring(0,2)}";
-                if (!Directory.Exists(dir)) Directory.CreateDirectory(dir);
-                File.WriteAllBytes($"{dir}/{id}.ogg", r);
-                exs.Add(id);
-                c--;
-                Console.WriteLine($"{c} {id}");
+                t = t.Substring(s.Length + 1);
+                ss[i] += " " + t;
             }
-            File.WriteAllLines(path2, exs);
+            File.WriteAllLines(path, ss);
 
             //prepareWords("d:/words.txt");
             //fixQuotes(@"d:\.temp\7.txt");
