@@ -225,6 +225,19 @@ namespace ConApp {
                 });
         }
 
+        static IEnumerable<string> getLemmaForms(string s) {
+            s = s.ToLower();
+            if (lemmas.ContainsKey(s)) {
+                s = lemmas[s];
+            }
+
+            var r = Enumerable.Repeat(s, 1);
+            if (lemmaForms.ContainsKey(s)) {
+                r = r.Concat(lemmaForms[s]);
+            }
+            return r;
+        }
+
         static Dictionary<string,string> _existingWords;
 
         static Dictionary<string, string> existingWords {
@@ -1124,21 +1137,29 @@ namespace ConApp {
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
-            var path = @"d:/phras.txt";
-            var ss = File.ReadAllLines(path);
-            for (var i = 0; i < ss.Length; i++) {
-                if (ctrlC) break;
-                var s = ss[i].Substring(6);
-                if (s.Contains("{")) continue;
-                var t = s + " {прочее} NotFound";
-                for (var j = 0; j < 5 && t.Contains("NotFound"); j++) {
-                    try { t = gtranslate(s); } catch { }
-                }
-                t = t.Substring(s.Length + 1);
-                ss[i] += " " + t;
-            }
-            File.WriteAllLines(path, ss);
+            var path = @"d:\Projects\smalls\subs.txt";
+            var ps = File.ReadAllLines(@"d:\Projects\smalls\phras.txt").Select(x => x.Split(new[] { "**" }, ssop)[1]).ToDictionary(x => x, x => new List<string>());
+            var ss = File.ReadAllLines(path).Where(x => x.StartsWith("SEN")).Select(x => x.Substring(5)).ToArray();
+            var res = ps.Keys.ToDictionary(x => x, x => {
+                var sp = x.Split(' ');
+                sp[0] = string.Join("|", getLemmaForms(sp[0]));
+                sp[1] = string.Join("|", getLemmaForms(sp[1]));
+                return new Regex($"\\b({sp[0]})\\b.+?\\b({sp[1]})\\b", RegexOptions.Compiled);
+            });
 
+            foreach (var s in ss) {
+                foreach (var re in res) {
+                    if (re.Value.IsMatch(s)) {
+                        if (ps[re.Key].Count >= 50) continue;
+                        ps[re.Key].Add(s);
+                    }
+                }
+            }
+
+            var rs = ps.SelectMany(x => Enumerable.Repeat($"@ {x.Key}", 1).Concat(x.Value).Select(xx => $"<tr><td>{xx}</td></tr>")).ToArray();
+            File.WriteAllLines(@"d:/ph.html", rs);
+
+            var a = 1;
             //prepareWords("d:/words.txt");
             //fixQuotes(@"d:\.temp\7.txt");
             //deepl(@"d:\.temp\st\S01E01[eng]-clear.srt");
@@ -1157,10 +1178,10 @@ namespace ConApp {
             srtCombile($"d:/.temp/srt/{name}[eng]-clear-tip.srt", $"d:/.temp/srt/{name}[eng].srt");
             */
 
-            //comicOcr(@"d:\.temp\archie\");
-            //comicOcrPost(@"d:\.temp\archie\", 20, 5);
-            //deeplSplit(@"d:\.temp\archie\en.txt");
-            //comicComplete(@"d:\.temp\archie\");
+            //comicOcr(@"d:\.temp\comics-ocr\");
+            //comicOcrPost(@"d:\.temp\comics-ocr\", 20, 5);
+            //deeplSplit(@"d:\.temp\comics-ocr\en.txt");
+            //comicComplete(@"d:\.temp\comics-ocr\");
 
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
