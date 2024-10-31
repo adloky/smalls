@@ -17,6 +17,7 @@
 <BODY>
 <div>
 <p><button class="next-btn">next</button></p>
+<p>&nbsp;</p>
 <audio class="audio" controls></audio>
 </div>
 <table>
@@ -80,7 +81,7 @@ function next() {
         $(".ru").text(sp[3]);
         en = sp[2].match(/[a-z']+|[^a-z']+/gi);
         eni = 0;
-        $(".audio").attr("src", `/lisen/${id.substr(0,2)}/${id}.ogg`);
+        $(".audio").attr("src", `/lisen/${id.substr(0,2)}/${id}.mp3`);
         $(".audio")[0].play();
         render();
     });
