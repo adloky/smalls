@@ -1130,44 +1130,76 @@ namespace ConApp {
             return task2.Result;
         }
 
+        static string[] edgeVocs = new[] { "en-US-AvaNeural", "en-US-AndrewNeural", "en-US-EmmaNeural", "en-US-BrianNeural", "en-US-AnaNeural", "en-US-AriaNeural", "en-US-ChristopherNeural", "en-US-EricNeural", "en-US-GuyNeural", "en-US-JennyNeural", "en-US-MichelleNeural", "en-US-RogerNeural", "en-US-SteffanNeural" };
+
+        static byte[] edgeTts(string s, string v) {
+            var httpClient = new HttpClient();
+            var json = $"{{ \"input\": \"{s}\", \"voice\": \"{v}\", \"response_format\": \"mp3\", \"speed\": 1.0 }}";
+
+            var url = $"http://localhost:5050/v1/audio/speech";
+            var request = WebRequest.Create(url);
+            request.Method = "POST";
+            request.ContentType = "application/json";
+            var data = Encoding.UTF8.GetBytes(json);
+            request.ContentLength = data.Length;
+            using (var stream = request.GetRequestStream()) {
+                stream.Write(data, 0, data.Length);
+            }
+            var r = (string)null;
+
+            using (var response = request.GetResponse())
+            using (Stream dataStream = response.GetResponseStream())
+            using (var memStream = new MemoryStream()) {
+                dataStream.CopyTo(memStream);
+                return memStream.ToArray();
+            }
+        }
+
 
         static volatile bool ctrlC = false;
 
         [STAThread]
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
+            var rnd = new Random();
 
-            var path = @"d:\Projects\smalls\subs.txt";
-            var ps = File.ReadAllLines(@"d:\Projects\smalls\phras.txt").Select(x => x.Split(new[] { "**" }, ssop)[1]).ToDictionary(x => x, x => new List<string>());
-            var ss = File.ReadAllLines(path).Where(x => x.StartsWith("SEN")).Select(x => x.Substring(5)).ToArray();
-            var res = ps.Keys.ToDictionary(x => x, x => {
-                var sp = x.Split(' ');
-                sp[0] = string.Join("|", getLemmaForms(sp[0]));
-                sp[1] = string.Join("|", getLemmaForms(sp[1]));
-                return new Regex($"\\b({sp[0]})\\b.+?\\b({sp[1]})\\b", RegexOptions.Compiled);
-            });
-
+            var path = @"d:\Projects\smalls\lisen.txt";
+            var path2 = @"d:/exs.txt";
+            var exs = new HashSet<string>(File.ReadAllLines(path2));
+            var ss = File.ReadAllLines(path);
+            var c = ss.Length - exs.Count;
             foreach (var s in ss) {
-                foreach (var re in res) {
-                    if (re.Value.IsMatch(s)) {
-                        if (ps[re.Key].Count >= 50) continue;
-                        ps[re.Key].Add(s);
+                if (ctrlC) break;
+                var id = s.Split('|')[0].Trim();
+                var val = s.Split('|')[2].Trim();
+                if (exs.Contains(id)) {
+                        continue;
                     }
+                var r = new byte[0];
+                try {
+                    var voc = edgeVocs[rnd.Next(edgeVocs.Length)];
+                    r = edgeTts(val, voc);
                 }
+                catch {
+                    break;
+                }
+                var dir = $"d:/english/lisen/{id.Substring(0, 2)}";
+                if (!Directory.Exists(dir)) Directory.CreateDirectory(dir);
+                File.WriteAllBytes($"{dir}/{id}.mp3", r);
+                exs.Add(id);
+                c--;
+                Console.WriteLine($"{c} {id}");
             }
+            File.WriteAllLines(path2, exs);
 
-            var rs = ps.SelectMany(x => Enumerable.Repeat($"@ {x.Key}", 1).Concat(x.Value).Select(xx => $"<tr><td>{xx}</td></tr>")).ToArray();
-            File.WriteAllLines(@"d:/ph.html", rs);
-
-            var a = 1;
             //prepareWords("d:/words.txt");
             //fixQuotes(@"d:\.temp\7.txt");
             //deepl(@"d:\.temp\st\S01E01[eng]-clear.srt");
             //File.WriteAllLines("d:/3.txt", posReduce("d:/.temp/3.txt ").Where(x => x.p != "пробел" && x.p != "прочее").Select(x => $"{x.w} {x.p}"));
             //var s = gemini(File.ReadAllText("d:/1.txt"));
             //toAscii(@"d:\.temp\3.txt");
-            //learnStat($"d:/.temp/3.txt");
-            //makeTip($"d:/.temp/3.txt");
+            //learnStat($"d:/.temp/4.txt");
+            //makeTip($"d:/.temp/4.txt");
 
             /*
             var name = "S01E05";

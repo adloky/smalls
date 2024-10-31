@@ -9177,3 +9177,7543 @@ The door of the lighthouse stood half open. They pushed it wide open and walked 
 Slowly, very slowly, like two unhurried compass needles, the feet turned towards the right; north, north-east, east, south-east, south, south-south-west; then paused, and, after a few seconds, turned as unhurriedly back towards the left. South-south-west, south, south-east, east...
 
 Медленно, очень медленно, как две неспешные стрелки компаса, ноги повернули направо; север, северо-восток, восток, юго-восток, юг, юго-юго-запад; затем остановились и через несколько секунд так же неторопливо повернули обратно налево. Юго-юго-запад, юг, юго-восток, восток...
+
+# The Puppet Masters
+
+# Кукловоды
+
+CHAPTER 1.
+
+ГЛАВА ПЕРВАЯ
+
+Were they truly <span class='tip-wrap' data-text='intelligent [ЫнтЕлэджэнт] {прилагательное} умный'>**intelligent**<span class='tip-text'> </span></span>? I don't know and I don't know how we can ever find out. I'm not a lab man; I'm an operator.
+
+Были ли они действительно разумными? Я не знаю и не знаю, как мы когда-нибудь сможем это выяснить. Я не лаборант; я оператор.
+
+If they were not truly <span class='tip-wrap' data-text='intelligent [ЫнтЕлэджэнт] {прилагательное} умный'>**intelligent**<span class='tip-text'> </span></span>, I hope I never live to see us tangle with anything at all like them, which is <span class='tip-wrap' data-text='intelligent [ЫнтЕлэджэнт] {прилагательное} умный'>**intelligent**<span class='tip-text'> </span></span>. I know who will lose. Me. You. The so-called human race.
+
+Если они не были по-настоящему разумными, я надеюсь, что никогда не доживу до того, чтобы увидеть, как мы столкнемся с чем-то вроде них, что разумно. Я знаю, кто проиграет. Я. Ты. Так называемая человеческая раса.
+
+For me it started much too early on July 12, '07, with my phone shrilling in a frequency guaranteed to peel off the skull. The sort of phone my section uses is not standard; the audio relay was buried surgically under the skin back of my left ear-bone conduction. I felt around my person, trying to find the thing to shut it off, then recalled that I had left it in my <span class='tip-wrap' data-text='jacket [джЭкэт] {существительное} куртка'>**jacket**<span class='tip-text'> </span></span> across the room. "All right," I growled. "I hear you. Shut off that damned noise."
+
+Для меня это началось слишком рано 12 июля 2007 года, когда мой телефон завизжал на частоте, которая гарантированно снесет череп. Телефон, который использует моя секция, нестандартный; аудиореле было хирургическим путем зарыто под кожу за левым ухом. Я ощупал себя, пытаясь найти то, что можно выключить, а потом вспомнил, что оставил его в куртке на другом конце комнаты. «Ладно», — прорычал я. «Я тебя слышу. Выключи этот проклятый шум».
+
+"Emergency," a voice said in my ear.
+
+«Чрезвычайная ситуация», — раздался голос у меня в ухе.
+
+I told him what to do with his emergency. "I'm on a seventy-two hour <span class='tip-wrap' data-text='pass [пЭс] {существительное} пропуск; пас; проход'>**pass**<span class='tip-text'> </span></span>."
+
+Я сказал ему, что делать с его чрезвычайной ситуацией. «У меня пропуск на семьдесят два часа».
+
+"Report to the Old Man," the voice persisted, "at once."
+
+«Доложите Старику, — настаивал голос, — немедленно».
+
+That was different. "Moving," I acknowledged.
+
+Это было по-другому. «Движение», — признал я.
+
+Soon I entered our section offices through a washroom booth in MacArthur Station. You won't find our section in the phone lists. In fact, it does not exist. Probably I don't exist either. All is illusion. United Nations had never heard of us, nor had Central Intelligence - I think.
+
+Вскоре я вошел в офис нашего отдела через туалетную кабинку на станции Макартур. Вы не найдете наш отдел в телефонных списках. Фактически, его не существует. Вероятно, я тоже не существую. Все это иллюзия. Организация Объединенных Наций никогда не слышала о нас, как и Центральная разведка - я думаю.
+
+All I really knew about was the training I had received and the jobs the Old Man sent me on. Interesting jobs, some of them - if you don't care where you sleep, what you eat, nor how long you live.
+
+Все, что я действительно знал, это полученное мной обучение и задания, на которые меня посылал Старик. Интересные задания, некоторые из них — если вам все равно, где вы спите, что вы едите и как долго вы живете.
+
+The Old Man got up and limped toward me as I came in. He smiled. With his big hairless skull and his strong Roman nose he looked a bit like Satan. "Welcome, Sam," he said. "Sorry to get you out of bed."
+
+Старик встал и захромал ко мне, когда я вошел. Он улыбнулся. С его большим безволосым черепом и сильным римским носом он был немного похож на Сатану. «Добро пожаловать, Сэм», — сказал он. «Извините, что вытащил вас из постели».
+
+"I was on leave," I answered <span class='tip-wrap' data-text='shortly [шОртли] {наречие} вскоре'>**shortly**<span class='tip-text'> </span></span>. He was the Old Man, but leave is leave - and damned seldom!
+
+«Я был в отпуске», — коротко ответил я. Он был Стариком, но отпуск есть отпуск — и чертовски редко!
+
+"Ah, but you still are. We're going on a <span class='tip-wrap' data-text='vacation [вейкЕйшэн] {существительное} отпуск; каникулы'>**vacation**<span class='tip-text'> </span></span>."
+
+«А, но ты все еще здесь. Мы едем в отпуск».
+
+I didn't trust his "vacations" so I did not rise to the bait. "So my name is 'Sam'," I answered. "What's my last name?"
+
+Я не доверял его «отпускам», поэтому не попался на удочку. «Итак, меня зовут „Сэм“», — ответил я. «Какая у меня фамилия?»
+
+"Cavanaugh. And I'm your Uncle Charlie - Charles M. Cavanaugh, retired. Meet your sister Mary."
+
+«Кавано. А я твой дядя Чарли — Чарльз М. Кавано, на пенсии. Познакомься с твоей сестрой Мэри».
+
+I had noticed that there was another person in the room, but when the Old Man is present he gets full attention as long as he wants it. Now I looked over my "sister" more carefully and then looked her over again. It was worth it.
+
+Я заметил, что в комнате был еще один человек, но когда присутствует Старик, он получает все внимание, пока он этого хочет. Теперь я осмотрел свою «сестру» более внимательно, а затем снова осмотрел ее. Это того стоило.
+
+A long, slim body. Good legs. Broad shoulders for a woman. Wavy red hair. Her teeth were <span class='tip-wrap' data-text='sharp [шАрп] {прилагательное} резкий; острый'>**sharp**<span class='tip-text'> </span></span> and clean.
+
+Длинное, стройное тело. Хорошие ноги. Широкие плечи для женщины. Волнистые рыжие волосы. Зубы острые и чистые.
+
+The Old Man said gently, "Sammy, there's no incest in the Cavanaugh family. You were both carefully brought up, by my favorite sister-in-law. Your sister dotes on you and you are extremely fond of your sister, but in a healthy, chivalrous, All- American-Boy sort of way."
+
+Старик мягко сказал: «Сэмми, в семье Кавано нет инцеста. Вас обоих заботливо воспитывала моя любимая невестка. Твоя сестра души в тебе не чает, а ты очень привязан к своей сестре, но в здоровой, благородной, типично американской манере».
+
+"As bad as that?" I asked, still looking at my "sister".
+
+«Настолько плохо?» — спросил я, все еще глядя на свою «сестру».
+
+"Worse."
+
+"Худший."
+
+"Well, Sis. Glad to know you."
+
+«Ну что ж, сестренка. Рад познакомиться».
+
+She stuck out a hand. It was firm and seemed as strong as mine. "Hi, Bud." Her voice was deep contralto, which was all I needed. Damn the Old Man!
+
+Она протянула руку. Она была твердой и, казалось, такой же сильной, как моя. «Привет, Бад». Ее голос был глубоким контральто, что мне было нужно. Черт побери Старика!
+
+"I might add," the Old Man went on in the same <span class='tip-wrap' data-text='gentle [джЕнтэл] {прилагательное} нежный; вежливый'>**gentle**<span class='tip-text'> </span></span> tones, "that you are so devoted to your sister that you would gladly die to protect her. I dislike to tell you so, Sammy, but your sister is a little more <span class='tip-wrap' data-text='valuable [вЭлйэбэл] {прилагательное} ценный'>**valuable**<span class='tip-text'> </span></span>, for the present at least, to the organization than you are."
+
+«Я мог бы добавить», продолжал Старик тем же мягким тоном, «что ты так предан своей сестре, что с радостью умер бы, защищая ее. Мне не хочется говорить тебе это, Сэмми, но твоя сестра немного более ценна, по крайней мере сейчас, для организации, чем ты».
+
+"Got it," I acknowledged. "Thanks for the polite qualification."
+
+«Понял», — подтвердил я. «Спасибо за вежливое замечание».
+
+"Now, Sammy -"
+
+«Сейчас, Сэмми...»
+
+"She's my favorite sister; I protect her from dogs and strange men. Okay, when do we start?"
+
+«Она моя любимая сестра; я защищаю ее от собак и незнакомых мужчин. Хорошо, когда начнем?»
+
+"Better stop over in Cosmetics; I think they have a new face for you."
+
+«Лучше загляните в косметический отдел; думаю, у них есть для вас новое лицо».
+
+"Make it a whole new head. See you. Goodbye, Sis."
+
+«Сделай ему совершенно новую голову. Увидимся. До свидания, сестренка».
+
+They did not quite do that, but they fitted my personal phone in the back of my head and then cemented hair over it. They dyed my hair to the same <span class='tip-wrap' data-text='shade [шЕйд] {существительное} штора (тень)'>**shade**<span class='tip-text'> </span></span> as that of my <span class='tip-wrap' data-text='newly [нУли] {наречие} вновь; недавно'>**newly**<span class='tip-text'> </span></span> acquired sister, bleached my skin, and did things to my cheekbones and chin. The mirror showed me to be as good an authentic redhead as Sis.
+
+Они не совсем это сделали, но они приладили мой личный телефон к моей голове, а затем закрепили волосы поверх него. Они покрасили мои волосы в тот же оттенок, что и у моей новообретенной сестры, обесцветили мою кожу и сделали что-то со скулами и подбородком. Зеркало показало, что я такая же настоящая рыжая, как и Сис.
+
+I put on the kit they gave me and somebody handed me a bag, already packed. The Old Man had evidently been in Cosmetics, too; his skull was now covered by curls of a <span class='tip-wrap' data-text='shade [шЕйд] {существительное} штора (тень)'>**shade**<span class='tip-text'> </span></span> just between pink and white. They had done something to his face, and we were all three clearly related by blood.
+
+Я надел набор, который мне дали, и кто-то вручил мне сумку, уже упакованную. Старик, очевидно, тоже был в косметике; его череп теперь был покрыт кудрями оттенка как раз между розовым и белым. Они что-то сделали с его лицом, и мы все трое были явно кровными родственниками.
+
+"Come, Sammy," he said. "Time is short. I'll brief you in the car."
+
+«Пойдем, Сэмми», — сказал он. «Времени мало. Я проведу тебе инструктаж в машине».
+
+I drove while the Old Man talked. Once we were out of local control he told me to set it automatic on Des Moines, Iowa. I then joined Mary and "Uncle Charlie". He gave us our personal histories <span class='tip-wrap' data-text='briefly [брИфли] {наречие} кратко'>**briefly**<span class='tip-text'> </span></span>. "So here we are," he concluded, "a merry little family party-tourists. And if we run into <span class='tip-wrap' data-text='unusual [энйУжУэл] {прилагательное} необычный'>**unusual**<span class='tip-text'> </span></span> events, that is how we will behave, as nosy and irresponsible tourists might."
+
+Я ехал, пока Старик говорил. Как только мы вышли из-под контроля, он сказал мне поставить автомат на Де-Мойн, штат Айова. Затем я присоединился к Мэри и «дяде Чарли». Он кратко рассказал нам наши личные истории. «Итак, вот мы здесь», — заключил он, — «веселая семейная вечеринка-туристы. И если мы столкнемся с необычными событиями, то будем вести себя так же, как и любопытные и безответственные туристы».
+
+"But what is the problem?" I asked.
+
+«Но в чем проблема?» — спросил я.
+
+"Sam, you've heard of 'flying saucers'," the Old Man said.
+
+«Сэм, ты слышал о «летающих тарелках»?» — сказал Старик.
+
+"Huh? Can't say that I have."
+
+«А? Не могу сказать, что видел».
+
+"You've studied history. Come, now!"
+
+«Ты изучал историю. Ну же!»
+
+"You mean those? The flying-saucer craze, long before the Disorders? I thought you meant something recent and real; those were mass hallucinations."
+
+«Вы имеете в виду это? Увлечение летающими тарелками, задолго до Беспорядков? Я думал, вы имеете в виду что-то недавнее и реальное; это были массовые галлюцинации».
+
+"Were they?"
+
+«Они были?»
+
+"Well, weren't they? That whole period was psychopathic."
+
+«Ну, разве не так? Весь этот период был психопатическим».
+
+"But this present day is sane, eh?"
+
+«Но ведь сегодняшний день — это нормально, да?»
+
+"Oh, I wouldn't go so far as to say that."
+
+«О, я бы не стал так говорить».
+
+"Sammy, we are going to inspect a flying saucer today. Maybe we'll even saw off a piece for a souvenir, like true tourists."
+
+«Сэмми, сегодня мы собираемся осмотреть летающую тарелку. Может, даже отпилим кусочек на сувенир, как настоящие туристы».
+
+CHAPTER 2.
+
+ГЛАВА ВТОРАЯ
+
+"Seventeen hours -" the Old Man glanced at his finger watch and added, "- and twenty-three minutes ago an unidentified spaceship landed near Grinnell, Iowa. Type, unknown. <span class='tip-wrap' data-text='approximately [эпрАксэмэтли] {наречие} приблизительно'>**Approximately**<span class='tip-text'> </span></span> disc-shaped and about one hundred fifty feet across. <span class='tip-wrap' data-text='origin [Орэджэн] {существительное} происхождение'>**Origin**<span class='tip-text'> </span></span>, unknown, but -"
+
+«Семнадцать часов, — Старик взглянул на свои наручные часы и добавил, — и двадцать три минуты назад неопознанный космический корабль приземлился недалеко от Гриннелла, штат Айова. Тип неизвестен. Примерно дискообразный, около ста пятидесяти футов в поперечнике. Происхождение неизвестно, но...»
+
+"Didn't they <span class='tip-wrap' data-text='track [трЭк] {глагол} следить'>**track**<span class='tip-text'> </span></span> a trajectory on it?" I interrupted.
+
+«Разве они не отслеживали траекторию?» — перебил я.
+
+"They did not," he answered, spacing his words. "Here is a photo of it taken after landing by Space Station Beta."
+
+«Они этого не сделали», — ответил он, делая паузы между словами. «Вот фотография, сделанная после посадки космической станцией Бета».
+
+I looked it over and passed it to Mary. It was as unsatisfactory as a telephoto taken from five thousand miles out usually is. Trees looking like moss... a cloud shadow that spoilt the best part of the picture... and a gray circle that might be a disc-shaped spaceship and could just as well be an oil <span class='tip-wrap' data-text='tank [тЭŋк] {существительное} бак'>**tank**<span class='tip-text'> </span></span> or a water reservoir.
+
+Я посмотрел его и передал Мэри. Он был таким же неудовлетворительным, каким обычно бывает телефото, снятое с расстояния в пять тысяч миль. Деревья, похожие на мох... тень от облака, которая портила лучшую часть снимка... и серый круг, который мог быть космическим кораблем в форме диска, а мог бы быть и нефтяным баком или резервуаром для воды.
+
+Mary handed the pic back. I said, "Looks like a <span class='tip-wrap' data-text='tent [тЕнт] {существительное} палатка'>**tent**<span class='tip-text'> </span></span> for a camp meeting to me. What else do we know?"
+
+Мэри вернула фотографию. Я сказал: «Мне кажется, это палатка для лагерного собрания. Что еще мы знаем?»
+
+"Nothing."
+
+"Ничего."
+
+"Nothing! After seventeen hours! We ought to have agents pouring out of their ears!"
+
+«Ничего! После семнадцати часов! У нас агенты должны сыпаться из ушей!»
+
+"Ah, yes. We had. Six guys were sent there. They failed to report back. I dislike losing agents, Sammy, especially with no results."
+
+«А, да. Мы это сделали. Шестерых ребят отправили туда. Они не вернулись. Я не люблю терять агентов, Сэмми, особенно безрезультатно».
+
+Then I had a sudden cold realization that the situation must be so serious that the Old Man had chosen to <span class='tip-wrap' data-text='bet [бЕт] {глагол} держать пари'>**bet**<span class='tip-text'> </span></span> his own brain against the loss of the organization - for he was the Section. Nobody who knew him doubted his bravery, but they did not doubt his horse sense, either. He knew his own value; he would not risk himself unless he believed coldly that it would take his own skill to do it and that the job had to be done.
+
+Затем я внезапно осознал, что ситуация настолько серьезна, что Старик решил поставить на кон свой собственный мозг против потери организации, поскольку он был Секцией. Никто из тех, кто его знал, не сомневался в его храбрости, но они также не сомневались в его здравом смысле. Он знал себе цену; он не стал бы рисковать собой, если бы не был холодно убежден, что для этого потребуется его собственное мастерство и что работа должна быть сделана.
+
+I felt suddenly chilly. Ordinarily an agent has a duty to save his own neck, in order to complete his mission and report back. On this job it was the Old Man who must come back - and after him, Mary. I stood number three and was as expendable as a paper clip. I didn't like it.
+
+Я внезапно почувствовал холод. Обычно агент обязан спасти свою собственную шею, чтобы выполнить свою миссию и доложить. На этом задании должен был вернуться Старик, а после него — Мэри. Я стоял третьим и был таким же расходным материалом, как скрепка. Мне это не нравилось.
+
+"One agent made a partial report," the Old Man went on. "He went in as a casual bystander and reported by phone that it must be a spaceship although he could not determine its motive power. We got the same thing from the newscasts. He then reported that the ship was opening and that he was going to try to get <span class='tip-wrap' data-text='closer [клOусэр] {прилагательное} теснее'>**closer**<span class='tip-text'> </span></span>, past the police lines. The last thing he said was, 'Here they come. They are little creatures, about -' then he shut off."
+
+«Один агент сделал частичный отчет», — продолжил Старик. «Он вошел как случайный свидетель и сообщил по телефону, что это, должно быть, космический корабль, хотя он не смог определить его движущую силу. То же самое мы получили из выпусков новостей. Затем он сообщил, что корабль раскрывается и что он собирается попытаться приблизиться, минуя полицейские линии. Последнее, что он сказал, было: «Вот они. Это маленькие существа, около...», и он отключился».
+
+"Other reports?"
+
+«Другие отчеты?»
+
+"Plenty of them. The Des Moines stereocasting station reported the landing and sent mobile units in for spot cast. The pictures they sent out were taken from the air. They showed nothing but a disc-shaped object. Then, for about two hours, no pictures and no news, followed later by a new news line."
+
+«Их было много. Стереостанция Де-Мойна сообщила о посадке и отправила мобильные устройства для точечного наблюдения. Снимки, которые они отправили, были сделаны с воздуха. На них не было видно ничего, кроме дискообразного объекта. Затем в течение примерно двух часов не было ни снимков, ни новостей, а затем появилась новая новостная лента».
+
+The Old Man shut up. I said, "Well?"
+
+Старик заткнулся. Я сказал: «Ну?»
+
+"The whole thing was a hoax. The 'spaceship' was a sheet metal and plastic <span class='tip-wrap' data-text='fraud [фрОд] {существительное} мошенничество; обман'>**fraud**<span class='tip-text'> </span></span>, built by two farm boys in some woods near their home. The fake reports originated with an announcer with more sense of humor than good <span class='tip-wrap' data-text='judgment [джАджмэнт] {существительное} суждение (также суд)'>**judgment**<span class='tip-text'> </span></span> and who had put the boys up to it to make a story. He has been fired and the latest '<span class='tip-wrap' data-text='invasion [ЫнвЕйжэн] {существительное} вторжение'>**invasion**<span class='tip-text'> </span></span> from <span class='tip-wrap' data-text='outer [Аутэр] {прилагательное} внешний'>**outer**<span class='tip-text'> </span></span> space' turns out to be a joke."
+
+«Вся эта история была мистификацией. «Космический корабль» был подделкой из листового металла и пластика, которую построили два фермерских мальчика в лесу недалеко от своего дома. Фальшивые репортажи исходили от диктора, у которого было больше чувства юмора, чем здравого смысла, и который подговорил мальчиков сделать историю. Его уволили, а последнее «вторжение из космоса» оказалось шуткой».
+
+I fidgeted. "So it's a hoax - but we lose six men. We're going to look for them?"
+
+Я заерзал. «Значит, это розыгрыш, но мы потеряли шестерых человек. Мы будем их искать?»
+
+"No, for we would not find them. We are going to try to find out why the object location in this photograph -" He held up the teleshot taken from the space station." - doesn't quite agree with the news reports - and why Des Moines stereo station shut up for a while."
+
+«Нет, потому что мы их не найдем. Мы попытаемся выяснить, почему местоположение объекта на этой фотографии — «Он поднял телеснимок, сделанный с космической станции», — не совсем соответствует новостным сообщениям — и почему стереостанция Де-Мойна на некоторое время замолчала».
+
+Mary spoke up for the first time. "I'd like to talk with those farm boys."
+
+Мэри впервые заговорила: «Я бы хотела поговорить с этими фермерскими ребятами».
+
+I roaded the car about five miles this side of Grinnell and we started looking for the McLain farm - the news reports had named Vincent and George McLain as the culprits. It wasn't hard to find. At a fork in the road was a big sign: THIS WAY TO THE SPACESHIP. Soon the road was parked both sides with cars. A couple of hastily built stands dispensed cold drinks and souvenirs at the turn-off into the McLain place. A state cop was directing traffic.
+
+Я проехал около пяти миль в эту сторону от Гриннелла, и мы начали искать ферму Маклейнов — в новостях виновниками называли Винсента и Джорджа Маклейнов. Найти ее было несложно. На развилке дороги стоял большой знак: ЭТО ПУТЬ К КОСМИЧЕСКОМУ КОРАБЛЮ. Вскоре дорога была заставлена машинами по обеим сторонам. Пара наспех построенных киосков продавали прохладительные напитки и сувениры на повороте к ферме Маклейнов. Полицейский регулировал движение.
+
+"Pull up," directed the Old Man. "Might as well see the fun, eh?"
+
+«Подъезжай», — приказал Старик. «Может, и повеселимся, а?»
+
+"Right, Uncle Charlie," I agreed.
+
+«Правильно, дядя Чарли», — согласился я.
+
+The Old Man got out of the car, swinging his cane. I handed Mary out and she grasped my arm.
+
+Старик вышел из машины, размахивая тростью. Я протянул Мэри, и она схватила меня за руку.
+
+"Uncle Charlie" walked around, bothering state police, talking to people to give them unasked - for opinions, stopping to buy cigars at one of the stands, and in general giving a picture of a well-to-do old fool, out for a holiday. He turned back to us and waved his cigar at a state sergeant. "The inspector says the whole thing is a <span class='tip-wrap' data-text='fraud [фрОд] {существительное} мошенничество; обман'>**fraud**<span class='tip-text'> </span></span>, my dears - a prank thought up by some boys. Shall we go?"
+
+«Дядя Чарли» ходил вокруг, беспокоя полицию штата, разговаривая с людьми, чтобы высказать им непрошеное мнение, останавливаясь, чтобы купить сигары на одном из стендов, и в целом создавая образ зажиточного старого дурака, отправившегося на праздник. Он повернулся к нам и помахал сигарой сержанту штата. «Инспектор говорит, что все это мошенничество, мои дорогие, — шутка, придуманная какими-то мальчишками. Пойдем?»
+
+Mary looked <span class='tip-wrap' data-text='disappointed [дЫсэпОйнтыд] {прилагательное} разочарованный'>**disappointed**<span class='tip-text'> </span></span>. "No spaceship?"
+
+Мэри выглядела разочарованной. «Нет космического корабля?»
+
+"There's a spaceship, if you want to call it that," the cop answered. "Just follow the people, and you'll find it."
+
+«Там есть космический корабль, если вы хотите его так называть», — ответил коп. «Просто следуйте за людьми, и вы его найдете».
+
+We set out, across a pasture and into some woods. I moved carefully, wishing for eyes in the back of my head instead of a phone. According to the book six agents had gone down this path and - none had come back. I didn't want it to be nine.
+
+Мы отправились в путь, через пастбище и в какой-то лес. Я двигался осторожно, желая иметь глаза на затылке вместо телефона. Согласно книге, шесть агентов прошли по этой тропе и - ни один не вернулся. Я не хотел, чтобы их было девять.
+
+Uncle Charlie and Sis walked ahead. We came to a clearing and there was the "spaceship".
+
+Дядя Чарли и сестренка пошли вперед. Мы вышли на поляну, а там стоял «космический корабль».
+
+It was the <span class='tip-wrap' data-text='proper [прАпэр] {прилагательное} правильный'>**proper**<span class='tip-text'> </span></span> size, more than a hundred feet across, but it was made out of light metal and sheet plastic, sprayed with aluminum. It was <span class='tip-wrap' data-text='roughly [рАфли] {наречие} грубо (приблизительно)'>**roughly**<span class='tip-text'> </span></span> the shape of two <span class='tip-wrap' data-text='giant [джАйэнт] {прилагательное} гигантский'>**giant**<span class='tip-text'> </span></span> pie plates, face to face. <span class='tip-wrap' data-text='aside [эсАйд] {наречие} в сторону'>**Aside**<span class='tip-text'> </span></span> from that, it looked like nothing in particular. <span class='tip-wrap' data-text='nevertheless [нЕвэрðэлЕс] {наречие} тем не менее'>**Nevertheless**<span class='tip-text'> </span></span> Mary cried, "Oh, how exciting!"
+
+Он был подходящего размера, более ста футов в поперечнике, но был сделан из легкого металла и листового пластика, покрытого алюминием. Он был примерно в форме двух гигантских тарелок для пирогов, поставленных лицом к лицу. Кроме этого, он не выглядел как что-то особенное. Тем не менее Мэри воскликнула: «О, как волнительно!»
+
+A youngster, eighteen or nineteen, with a pimply face, stuck his head out of a sort of hatch in the top of the monstrosity. "Care to see inside?" he called out. He added that it would be fifty cents a piece more and Uncle Charlie gave the money.
+
+Юноша лет восемнадцати или девятнадцати с прыщавым лицом высунул голову из своего рода люка наверху чудовища. «Хочешь заглянуть внутрь?» — крикнул он. Он добавил, что это будет стоить на пятьдесят центов больше за штуку, и дядя Чарли дал деньги.
+
+Mary hesitated at the hatch. Pimple face was joined by his <span class='tip-wrap' data-text='twin [туЫн] {существительное} близнец'>**twin**<span class='tip-text'> </span></span> and they started to <span class='tip-wrap' data-text='hand [хЭнд] {глагол} передавать'>**hand**<span class='tip-text'> </span></span> her down in. She drew back and I moved in fast, intending to help her. My reasons were 99 percent professional; I could feel danger all through the place. "It's dark in there," she said.
+
+Мэри замешкалась у люка. К Прыщавому Лику присоединился его близнец, и они начали спускать ее вниз. Она отстранилась, и я быстро двинулся вперед, намереваясь помочь ей. Мои причины были на 99 процентов профессиональными; я чувствовал опасность повсюду. «Там темно», — сказала она.
+
+"It's perfectly safe," the second young man said. "We've been taking sightseers through all day. I'm Vine McLain, one of the owners. Come on, lady."
+
+«Это совершенно безопасно», — сказал второй молодой человек. «Мы целый день водили экскурсантов. Я Вайн Маклейн, один из владельцев. Пошли, леди».
+
+Uncle Charlie peered down the hatch, like a cautious mother hen. "Might be snakes in there," he decided. "Mary, I don't think you had better go in."
+
+Дядя Чарли заглянул в люк, как осторожная наседка. «Там могут быть змеи», — решил он. «Мэри, я не думаю, что тебе лучше туда заходить».
+
+"Nothing to fear," the first McLain said insistently.
+
+«Бояться нечего», — настойчиво сказал первый Маклейн.
+
+"Just keep the money, gentlemen." Uncle Charlie glanced at his finger. "We're late. Let's go, my dears."
+
+«Просто оставьте деньги себе, джентльмены». Дядя Чарли взглянул на свой палец. «Мы опаздываем. Пойдемте, мои дорогие».
+
+I followed them back up the path.
+
+Я последовал за ними по тропинке.
+
+We got back to the car and I pulled out into the road. Once we were rolling, the Old Man said <span class='tip-wrap' data-text='sharply [шАрпли] {наречие} резко'>**sharply**<span class='tip-text'> </span></span>, "Well? What did you see?"
+
+Мы вернулись к машине, и я выехал на дорогу. Когда мы тронулись, Старик резко сказал: «Ну? Что ты видел?»
+
+"That thing over in the woods wasn't the ship our agent saw," I said.
+
+«То, что было в лесу, — это не тот корабль, который видел наш агент», — сказал я.
+
+"Of course not. What else?"
+
+«Конечно, нет. Что еще?»
+
+"How much would you say that fake cost? That was new sheet metal, fresh paint..."
+
+«Сколько, по-вашему, стоит эта подделка? Это был новый листовой металл, свежая краска...»
+
+"Go on."
+
+"Продолжать."
+
+"Well, the McLain house hadn't been painted in years. The boys didn't foot the bill."
+
+«Ну, дом Маклейнов не красили уже много лет. Мальчики не оплатили счет».
+
+"Obviously. You, Mary?"
+
+«Очевидно. Ты, Мэри?»
+
+"Uncle Charlie, did you notice the way they treated me?"
+
+«Дядя Чарли, ты заметил, как они со мной обращались?»
+
+"Who?" I said <span class='tip-wrap' data-text='sharply [шАрпли] {наречие} резко'>**sharply**<span class='tip-text'> </span></span>.
+
+«Кто?» — резко спросил я.
+
+"Both the state sergeant and the two boys. When I use the sweet-little-bundle-of-sex <span class='tip-wrap' data-text='routine [рутИн] {существительное} рутина'>**routine**<span class='tip-text'> </span></span>, something should happen. Nothing did. Something was wrong with them. They were dead inside. Harem guards, if you know what I mean."
+
+«И государственный сержант, и двое мальчиков. Когда я использую процедуру «сладкий маленький комочек секса», что-то должно произойти. Ничего не произошло. Что-то было не так с ними. Они были мертвы внутри. Гаремные стражники, если вы понимаете, о чем я».
+
+"Hypnosis?" asked the Old Man.
+
+«Гипноз?» — спросил Старик.
+
+"Possibly. Or drugs perhaps." She frowned and looked puzzled.
+
+«Возможно. Или наркотики, возможно». Она нахмурилась и выглядела озадаченной.
+
+"Hmm -" he answered. "Sammy, take the next turn to the left. We're investigating a point about two miles south of here."
+
+«Хм-м, — ответил он. — Сэмми, следующий поворот налево. Мы исследуем точку примерно в двух милях к югу отсюда».
+
+"The object location in the pic?"
+
+«Расположение объекта на снимке?»
+
+"What else?"
+
+"Что еще?"
+
+But we didn't get there. First, the bridge was destroyed. We circled to the south and came in again, the only remaining <span class='tip-wrap' data-text='route [рУт] {существительное} путь'>**route**<span class='tip-text'> </span></span>. We were stopped by a highway cop. A brush fire, he told us; go any farther and we would probably be impressed into firefighting.
+
+Но мы туда не добрались. Сначала мост был разрушен. Мы объехали на юг и вернулись снова, это был единственный оставшийся маршрут. Нас остановил дорожный полицейский. Лесной пожар, сказал он нам; если проедете немного дальше, нас, вероятно, заставят тушить пожары.
+
+After we pulled away I asked her, "How about that one?"
+
+Когда мы тронулись, я спросил ее: «А как насчет этого?»
+
+"What about him?"
+
+«А что с ним?»
+
+"Harem guard?"
+
+«Охранник гарема?»
+
+"Oh, no! A most attractive man."
+
+«О, нет! Очень привлекательный мужчина».
+
+Her answer annoyed me.
+
+Ее ответ меня разозлил.
+
+We headed for Des Moines and ended up at the main studios of Des Moines stereo. "Uncle Charlie" rushed into the office of the general manager, and we were following him.
+
+Мы направились в Де-Мойн и оказались в главной студии Des Moines stereo. «Дядя Чарли» ворвался в кабинет генерального директора, а мы последовали за ним.
+
+Once inside and the door shut he said, "Now, sir, what is all this nonsense about a spaceship hoax? Speak plainly, sir; I warn you your license may depend on it."
+
+Оказавшись внутри и захлопнув дверь, он сказал: «Ну, сэр, что это за чушь насчет мистификации космического корабля? Говорите прямо, сэр; предупреждаю, от этого может зависеть ваша лицензия».
+
+The manager was a little round-shouldered man, but he did not seem scared, merely annoyed. "We've made a full <span class='tip-wrap' data-text='explanation [ЕксплэнЕйшэн] {существительное} объяснение'>**explanation**<span class='tip-text'> </span></span> over the channels," he said. "We were victimized by one of our own people. The man has been discharged."
+
+Менеджер был немного сутуловатым человеком, но он не казался испуганным, просто раздраженным. «Мы дали полное объяснение по каналам», — сказал он. «Мы стали жертвами одного из наших людей. Этот человек был уволен».
+
+"Hardly <span class='tip-wrap' data-text='adequate [Эдэкуэт] {прилагательное} достаточный (адекватный)'>**adequate**<span class='tip-text'> </span></span>, sir."
+
+«Едва ли это приемлемо, сэр».
+
+The little man - Barnes, his name was - shrugged.
+
+Маленький человек — его звали Барнс — пожал плечами.
+
+Uncle Charlie pointed his cigar at him. "I warn you, sir, that I am not to be played with. I have been making an investigation of my own and I am convinced it's not about nasty boys. There was money in it, sir. Yes, sir - money. And where would I expect to find money? Here at the top. Now tell me, sir, just what did you -"
+
+Дядя Чарли указал на него сигарой. "Предупреждаю вас, сэр, что со мной шутки плохи. Я провел собственное расследование и убежден, что дело не в скверных мальчишках. Там были деньги, сэр. Да, сэр, деньги. А где я мог бы найти деньги? Здесь, наверху. Теперь скажите мне, сэр, что вы..."
+
+Mary had seated herself close by Barnes's desk. She had done something to her costume, which exposed more skin. She made a thumbs-down signal to the Old Man.
+
+Мэри села рядом со столом Барнса. Она что-то сделала со своим костюмом, отчего стало больше обнаженной кожи. Она показала Старику большой палец вниз.
+
+Barnes' attention appeared to be turned to the Old Man. But he noticed the <span class='tip-wrap' data-text='gesture [джЕсчэр] {существительное} жест'>**gesture**<span class='tip-text'> </span></span>. He turned toward Mary and his face went dead. He reached for his desk.
+
+Внимание Барнса, казалось, было обращено на Старика. Но он заметил жест. Он повернулся к Мэри, и его лицо померкло. Он потянулся к своему столу.
+
+"Sam! Kill him!" the Old Man shouted.
+
+«Сэм! Убей его!» — крикнул Старик.
+
+I burned his legs off and his body fell to the floor. It was a poor shot; I had intended to burn his belly.
+
+Я сжег ему ноги, и его тело упало на пол. Это был плохой выстрел; я намеревался сжечь ему живот.
+
+I stepped quickly to him and kicked his gun away from his still-groping fingers.
+
+Я быстро подошел к нему и выбил ногой пистолет из его все еще шарящих пальцев.
+
+The Old Man snapped, "Don't touch him! Mary, stand back!"
+
+Старик рявкнул: «Не трогай его! Мэри, отойди!»
+
+We did so. The Old Man came toward the body, looked him over and poked him gently with his cane. "This building may be swarming with them," he said.
+
+Мы так и сделали. Старик подошел к телу, осмотрел его и легонько ткнул его тростью. «Это здание может кишеть ими», — сказал он.
+
+"Swarming with what?"
+
+«Кишит чем?»
+
+"How would I know? Swarming with whatever he was." He pointed to Barnes's body. "That's what I've got to find out."
+
+«Откуда мне знать? Кишит тем, чем он был». Он указал на тело Барнса. «Вот что мне нужно выяснить».
+
+Mary gasped, "He's still breathing. Look!"
+
+Мэри ахнула: «Он все еще дышит. Смотри!»
+
+The body lay facedown; the back of the <span class='tip-wrap' data-text='jacket [джЭкэт] {существительное} куртка'>**jacket**<span class='tip-text'> </span></span> heaved as if the chest were rising. The Old Man looked at it and poked at it with his cane. "Sam. Come here."
+
+Тело лежало лицом вниз; задняя часть куртки вздымалась, как будто грудь поднималась. Старик посмотрел на нее и ткнул в нее тростью. «Сэм. Иди сюда».
+
+I came. "<span class='tip-wrap' data-text='strip [стрЫп] {существительное} полоса'>**Strip**<span class='tip-text'> </span></span> it," he went on. "Use your gloves. And be careful."
+
+Я пришел. «Раздевай его», — продолжал он. «Надевай перчатки. И будь осторожен».
+
+I pulled on gloves - agent's gloves; I started to turn him over to undress him.
+
+Я натянул перчатки — перчатки агента; я начал переворачивать его, чтобы раздеть.
+
+The back was still heaving; I did not like the look of it - unnatural. I placed a palm between the shoulder blades.
+
+Спина все еще вздымалась, мне это не понравилось — неестественно. Я положил ладонь между лопаток.
+
+A man's back is bone and muscle. This was jelly soft, rising and falling. I snatched my hand away.
+
+Спина мужчины — это кости и мышцы. Это было желеобразно, поднималось и опускалось. Я отдернул руку.
+
+Without a word, Mary handed me a pair of scissors from Barnes's desk. I took them and cut the <span class='tip-wrap' data-text='jacket [джЭкэт] {существительное} куртка'>**jacket**<span class='tip-text'> </span></span> away. Presently I folded it back and we all looked. Underneath the <span class='tip-wrap' data-text='jacket [джЭкэт] {существительное} куртка'>**jacket**<span class='tip-text'> </span></span> the body was dressed in a light shirt, almost transparent. Between this shirt and the skin, from the neck halfway down the back, was something which was not flesh. A couple of inches thick, it gave the corpse a round-shouldered, or slightly humped, appearance.
+
+Не говоря ни слова, Мэри протянула мне ножницы со стола Барнса. Я взял их и отрезал куртку. Вскоре я сложил ее, и мы все посмотрели. Под курткой тело было одето в легкую рубашку, почти прозрачную. Между этой рубашкой и кожей, от шеи до середины спины, было что-то, что не было плотью. Толщиной в пару дюймов, оно придавало трупу сутуловатую или слегка горбатую внешность.
+
+It pulsed like a jellyfish.
+
+Он пульсировал, как медуза.
+
+As we watched, it slid slowly off the back, away from us.
+
+На наших глазах он медленно соскользнул со спины и ушёл от нас.
+
+Grayish, faintly translucent, and shot through with darker structure, shapeless - it reminded me of a <span class='tip-wrap' data-text='giant [джАйэнт] {прилагательное} гигантский'>**giant**<span class='tip-text'> </span></span> lump of frogs' eggs. It was clearly alive, for it pulsed and moved by flowing. As we watched, it flowed down into the space between Barnes's arm and chest, filled it and stayed there, <span class='tip-wrap' data-text='unable [энЕйбэл] {прилагательное} неспособный'>**unable**<span class='tip-text'> </span></span> to go farther.
+
+Сероватый, слегка полупрозрачный, пронизанный более темной структурой, бесформенный — он напомнил мне гигантский комок лягушачьей икры. Он был явно живым, поскольку пульсировал и двигался, перетекая. Пока мы наблюдали, он стекал в пространство между рукой и грудью Барнса, заполнял его и оставался там, не в силах двигаться дальше.
+
+On a side table there was an untidy stack of cans, the sort used for stereo tapes. The Old Man took a can and came back with it. He placed the can on the floor, near the thing, and began moving it with his cane, trying to make it <span class='tip-wrap' data-text='crawl [крОл] {глагол} ползать'>**crawl**<span class='tip-text'> </span></span> into the can.
+
+На боковом столике стояла неаккуратная стопка банок, вроде тех, что используются для стереокассет. Старик взял банку и вернулся с ней. Он поставил банку на пол, рядом с этой штукой, и начал двигать ее тростью, пытаясь заставить ее заползти в банку.
+
+Instead it crept back until it was almost entirely under the body. I grabbed the free arm and pulled what was left of Barnes away from the spot; the thing clung momentarily, then flopped to the floor. After that, under dear old Uncle Charlie's directions, Mary and I used our guns set at lowest power to force it, by burning the floor close to it, into the can. We got it in, and I slapped the cover on.
+
+Вместо этого он пополз обратно, пока не оказался почти полностью под телом. Я схватил свободную руку и оттащил то, что осталось от Барнса, от места; существо на мгновение зацепилось, а затем шлепнулось на пол. После этого, по указанию доброго старого дяди Чарли, мы с Мэри использовали наши пушки, установленные на самую низкую мощность, чтобы заставить его, прожигая пол рядом с ним, засунуть в банку. Мы засунули его туда, и я захлопнул крышку.
+
+The Old Man tucked the can under his arm. "On our way, my dears."
+
+Старик сунул банку под мышку. «Мы в пути, мои дорогие».
+
+On the way out he paused in the <span class='tip-wrap' data-text='partly [пАртли] {наречие} частично'>**partly**<span class='tip-text'> </span></span> open door to call out a parting to Barnes, then, after closing the door, stopped at the desk of Barnes's secretary. "I'll be seeing Mr. Barnes again tomorrow," he told her. "No, no <span class='tip-wrap' data-text='appointment [эпОйнтмэнт] {существительное} назначение (встреча)'>**appointment**<span class='tip-text'> </span></span>. I'll phone first."
+
+Выходя, он задержался в полуоткрытой двери, чтобы попрощаться с Барнсом, затем, закрыв дверь, остановился у стола секретаря Барнса. «Я снова увижу мистера Барнса завтра», — сказал он ей. «Нет, никаких назначений. Сначала я позвоню».
+
+Out we went.
+
+Мы вышли.
+
+The trip back was no trouble.
+
+Обратная дорога не составила труда.
+
+We went straight down to the Old Man's office, and there we opened the can. The Old Man sent for Dr. Graves, the head of the Section's bio lab, and the job was done with handling equipment.
+
+Мы пошли прямо в кабинет Старика и там открыли банку. Старик послал за доктором Грейвсом, главой биологической лаборатории Секции, и работа с оборудованием была сделана.
+
+What we needed were gas masks, not handling equipment. A stink of decaying organic matter, like the stench from a gangrenous wound, filled the room and forced us to slap the cover back on. Graves wrinkled his nose. "What in the world was that?" he demanded.
+
+Нам нужны были противогазы, а не оборудование для работы с ним. Вонь разлагающейся органики, как от гангренозной раны, заполнила комнату и заставила нас захлопнуть крышку обратно. Грейвс сморщил нос. «Что это было?» — потребовал он.
+
+The Old Man was swearing quietly. "You should find out," he said. "Use handling equipment. Work it in suits, in a sterilized compartment, and don't assume that it is dead."
+
+Старик тихо ругался. «Вы должны это выяснить», — сказал он. «Используйте погрузочно-разгрузочное оборудование. Работайте с ним в костюмах, в стерилизованном отсеке и не думайте, что он мертв».
+
+"If that is alive, I'm Queen Anne."
+
+«Если это живое, то я королева Анна».
+
+"Maybe you are, but don't risk. It's a parasite; it's <span class='tip-wrap' data-text='capable [кЕйпэбэл] {прилагательное} способный'>**capable**<span class='tip-text'> </span></span> of attaching itself to a <span class='tip-wrap' data-text='host [хOуст] {существительное} хозяин; ведущий'>**host**<span class='tip-text'> </span></span>, such as a man, and controlling the <span class='tip-wrap' data-text='host [хOуст] {существительное} хозяин; ведущий'>**host**<span class='tip-text'> </span></span>. It is almost certainly extra-terrestrial in <span class='tip-wrap' data-text='origin [Орэджэн] {существительное} происхождение'>**origin**<span class='tip-text'> </span></span> and metabolism."
+
+«Возможно, так оно и есть, но не рискуйте. Это паразит; он способен прикрепляться к хозяину, например, к человеку, и контролировать его. Он почти наверняка имеет внеземное происхождение и метаболизм».
+
+The lab boss sniffed. "Extra-terrestrial parasite on a terrestrial <span class='tip-wrap' data-text='host [хOуст] {существительное} хозяин; ведущий'>**host**<span class='tip-text'> </span></span>? Ridiculous! The body chemistries would be incompatible."
+
+Начальник лаборатории фыркнул. «Внеземной паразит на земном хозяине? Смешно! Химия тел была бы несовместима».
+
+The Old Man grunted. "Damn your theories. When we captured it, it was living on a man. If that means it has to be a terrestrial organism, show me where it fits into the <span class='tip-wrap' data-text='scheme [скИм] {существительное} схема; система'>**scheme**<span class='tip-text'> </span></span> of things and where to look for its mates. And <span class='tip-wrap' data-text='quit [куЫт] {глагол} бросать; прекращать'>**quit**<span class='tip-text'> </span></span> jumping to conclusions; I want facts."
+
+Старик хмыкнул. «К черту ваши теории. Когда мы его поймали, он жил на человеке. Если это значит, что он должен быть земным организмом, покажите мне, где он вписывается в схему вещей и где искать его сородичей. И хватит делать поспешные выводы; мне нужны факты».
+
+The biologist stiffened. "You'll get them!"
+
+Биолог напрягся. «Вы их получите!»
+
+"Get going. Wait - don't use more of it than necessary for your investigations; I need the major <span class='tip-wrap' data-text='portion [пОршэн] {существительное} часть'>**portion**<span class='tip-text'> </span></span> as evidence. And don't persist in the silly <span class='tip-wrap' data-text='assumption [эсАмпшэн] {существительное} предположение'>**assumption**<span class='tip-text'> </span></span> that the thing is dead; that perfume may be a protective weapon. That thing, if alive, is fantastically dangerous. If it gets on one of your laboratory men, I'll almost certainly have to kill him."
+
+«Давайте действовать. Подождите — не используйте больше, чем необходимо для ваших расследований; мне нужна большая часть в качестве доказательства. И не настаивайте на глупом предположении, что эта штука мертва; этот парфюм может быть защитным оружием. Эта штука, если она жива, фантастически опасна. Если она попадет на одного из ваших лаборантов, мне почти наверняка придется его убить».
+
+The lab director said nothing more and left.
+
+Директор лаборатории ничего больше не сказал и ушел.
+
+The Old Man settled back in his chair, sighed, and closed his eyes. Mary and I kept quiet. After five minutes or so he opened his eyes, looked at me, and said, "How many mustard plasters the size of that thing Doc just carted out of here can arrive in a spaceship as big as that <span class='tip-wrap' data-text='fraud [фрОд] {существительное} мошенничество; обман'>**fraud**<span class='tip-text'> </span></span> we looked at?"
+
+Старик откинулся на спинку стула, вздохнул и закрыл глаза. Мы с Мэри молчали. Примерно через пять минут он открыл глаза, посмотрел на меня и сказал: «Сколько горчичников размером с ту штуку, которую Док только что вывез отсюда, могут прибыть на космическом корабле такого размера, как та афера, которую мы рассматривали?»
+
+"Was there a spaceship?" I asked.
+
+«А был ли космический корабль?» — спросил я.
+
+"There was a ship. There still is a ship. Answer my question."
+
+«Был корабль. Корабль все еще есть. Ответь на мой вопрос».
+
+"I can't. How big the ship was doesn't tell me anything about its <span class='tip-wrap' data-text='load [лOуд] {существительное} нагрузка; груз'>**load**<span class='tip-text'> </span></span>, when I don't know its driving force method, the jump it made, or what supply <span class='tip-wrap' data-text='load [лOуд] {существительное} нагрузка; груз'>**load**<span class='tip-text'> </span></span> the passengers require. It's a case of how long is a piece of rope? If you want a rough guess, I'd say several hundred, maybe several thousand."
+
+«Я не могу. То, насколько велико было судно, ничего не говорит мне о его грузе, когда я не знаю его движущую силу, прыжок, который оно совершило, или какой груз требуется пассажирам. Это вопрос длины куска веревки? Если хотите грубой оценки, я бы сказал, несколько сотен, может быть, несколько тысяч».
+
+"Mmm... yes. So there are several hundred, maybe several thousand zombies in the State of Iowa tonight. Or harem guards, as Mary puts it." He thought for a moment. "But how am I to get past them to the harem? We can't go around shooting every round-shouldered man in Iowa; it would cause talk." He smiled.
+
+"Ммм... да. Так что сегодня в штате Айова несколько сотен, может быть, несколько тысяч зомби. Или охранников гарема, как выразилась Мэри". Он на мгновение задумался. "Но как мне пройти мимо них в гарем? Мы не можем ходить и стрелять в каждого сутулого мужчину в Айове; это вызовет толки". Он улыбнулся.
+
+"I'll put you another question with no answer," I said. "If one spaceship lands in Iowa yesterday, how many will <span class='tip-wrap' data-text='land [лЭнд] {глагол} приземляться'>**land**<span class='tip-text'> </span></span> in North Dakota tomorrow? Or in Brazil?"
+
+«Я задам вам еще один вопрос без ответа», — сказал я. «Если вчера один космический корабль приземлится в Айове, сколько завтра приземлится в Северной Дакоте? Или в Бразилии?»
+
+"Yes, there's that." He looked still more troubled. "I'll answer it by telling you how long is your piece of rope."
+
+«Да, это так». Он выглядел еще более обеспокоенным. «Я отвечу, сказав, какой длины ваш кусок веревки».
+
+"Huh?"
+
+"Хм?"
+
+"Long enough to choke you to death. You kids go wash up and enjoy yourselves; you may not have another chance. Don't leave the offices."
+
+«Достаточно долго, чтобы задушить вас насмерть. Вы, дети, идите умывайтесь и развлекайтесь; другого шанса у вас может не быть. Не покидайте офисы».
+
+I went back to Cosmetics, got my own skin color back and in general resumed my normal appearance, had a soak and a massage, and then went to the staff lounge in search of a drink and some company. I looked around, not knowing whether I was looking for a blonde, brunette, or redhead, but feeling <span class='tip-wrap' data-text='fairly [фЕрли] {наречие} достаточно'>**fairly**<span class='tip-text'> </span></span> sure that I could <span class='tip-wrap' data-text='spot [спАт] {глагол} страховать'>**spot**<span class='tip-text'> </span></span> the right figure.
+
+Я вернулась в косметический отдел, вернула себе свой собственный цвет кожи и в целом вернулась к своему нормальному внешнему виду, приняла ванну и массаж, а затем пошла в комнату отдыха для персонала в поисках выпивки и компании. Я огляделась, не зная, ищу ли я блондинку, брюнетку или рыжую, но чувствуя себя вполне уверенной, что смогу заметить нужную фигуру.
+
+It was a redhead. Mary was having a drink and looking much as she had looked when she was introduced to me as my sister. "Hi, Sis," I said, sliding in beside her.
+
+Это была рыжая. Мэри пила и выглядела почти так же, как когда ее представили мне как мою сестру. «Привет, сестренка», — сказал я, проскальзывая рядом с ней.
+
+She smiled and answered, "Hello, Bud."
+
+Она улыбнулась и ответила: «Привет, Бад».
+
+I ordered bourbon and water, which I needed for medicinal purposes.
+
+Я заказал бурбон и воду, которые мне были нужны в лечебных целях.
+
+We continued to sit there, feeling warm and good, and, for the moment, not <span class='tip-wrap' data-text='worried [уЭрид] {прилагательное} озабоченный'>**worried**<span class='tip-text'> </span></span>. There aren't many hours like that, especially in our profession; it makes one value them.
+
+Мы продолжали сидеть там, чувствуя себя тепло и хорошо, и, на данный момент, не беспокоясь. Таких часов не так много, особенно в нашей профессии; это заставляет ценить их.
+
+One of the nicest things about Mary was that she did not turn on the sex, except for professional purposes. I think she knew - I'm sure she knew - what a <span class='tip-wrap' data-text='load [лOуд] {существительное} нагрузка; груз'>**load**<span class='tip-text'> </span></span> of it she possessed. But she didn't use it socially. She kept it turned down low, just enough to keep us both warm and comfortable.
+
+Одной из самых приятных черт Мэри было то, что она не включала секс, за исключением профессиональных целей. Я думаю, она знала — я уверена, что знала — каким грузом его она обладала. Но она не использовала его в обществе. Она держала его приглушенным, ровно настолько, чтобы нам обоим было тепло и комфортно.
+
+While we sat there, not saying much, I got to thinking how well she would look on the other side of a fireplace. I had never thought seriously about getting married because of my job. But Mary was an agent herself; talking to her would be easy. I realized that I had been lonely for a long time.
+
+Пока мы сидели там, не говоря много, я задумался, как хорошо она будет смотреться по ту сторону камина. Я никогда серьезно не думал о женитьбе из-за своей работы. Но Мэри сама была агентом; поговорить с ней было бы легко. Я понял, что я уже долгое время одинок.
+
+"Mary -"
+
+"Мэри -"
+
+"Yes?"
+
+"Да?"
+
+"Are you married?"
+
+"Ты женат?"
+
+"Eh? Why do you ask? As a matter of fact I'm not - now. But why does it matter?"
+
+«А? Почему ты спрашиваешь? На самом деле я не... сейчас. Но какое это имеет значение?»
+
+"Well, it might," I persisted.
+
+«Ну, может быть», — настаивал я.
+
+She shook her head.
+
+Она покачала головой.
+
+"I'm serious," I went on. "Look me over. I've got both hands and both feet. I'm <span class='tip-wrap' data-text='fairly [фЕрли] {наречие} достаточно'>**fairly**<span class='tip-text'> </span></span> young, and I don't <span class='tip-wrap' data-text='track [трЭк] {глагол} следить'>**track**<span class='tip-text'> </span></span> mud in the house."
+
+«Я серьезно, — продолжал я. — Осмотрите меня. У меня есть обе руки и обе ноги. Я довольно молод и не оставляю следов грязи в доме».
+
+She laughed, but her <span class='tip-wrap' data-text='laugh [лЭф] {существительное} смех'>**laugh**<span class='tip-text'> </span></span> was kindly, then she shook her head. "Agents should not marry. You know that."
+
+Она рассмеялась, но ее смех был добрым, затем она покачала головой. «Агенты не должны жениться. Ты же знаешь».
+
+"Agents shouldn't marry anyone but agents."
+
+«Агенты не должны жениться ни на ком, кроме агентов».
+
+She started to answer, but stopped suddenly. My own phone was talking in my ear, the Old Man's voice, and I knew she heard the same thing. "Come into my office," he said.
+
+Она начала отвечать, но внезапно остановилась. Мой собственный телефон говорил мне в ухо голосом Старика, и я знал, что она услышала то же самое. «Зайди в мой кабинет», — сказал он.
+
+We both got up without saying anything. Mary stopped me at the door, put a hand on my arm, and looked up into my eyes. "That is why it is silly to talk about marriage. We've got this job to finish. All the time we've been talking, you've been thinking about the job and so have I."
+
+Мы оба встали, не сказав ни слова. Мэри остановила меня у двери, положила мне руку на плечо и посмотрела мне в глаза. «Вот почему глупо говорить о браке. Нам нужно закончить эту работу. Все время, пока мы разговаривали, ты думал о работе, и я тоже».
+
+"I have not."
+
+"Я не."
+
+"Don't play with me! Consider this, Sam - suppose you were married and you woke up to find one of those things on your wife's shoulders, possessing her." There was <span class='tip-wrap' data-text='horror [хОрэр] {существительное} ужас'>**horror**<span class='tip-text'> </span></span> in her eyes as she went on, "Suppose I woke up and found one of them on your shoulders."
+
+«Не играй со мной! Подумай об этом, Сэм — предположим, ты женат и проснулся, обнаружив, что одна из этих тварей сидит на плечах твоей жены и вселяется в нее». В ее глазах был ужас, когда она продолжила: «Предположим, я проснулась и обнаружила одну из этих тварей на твоих плечах».
+
+"I'll risk. And I won't let one get to you."
+
+«Я рискну. И не позволю никому добраться до тебя».
+
+She touched my <span class='tip-wrap' data-text='cheek [чИк] {существительное} щека'>**cheek**<span class='tip-text'> </span></span>. "I don't believe you would."
+
+Она коснулась моей щеки. «Я не верю, что ты это сделаешь».
+
+We went on into the Old Man's office.
+
+Мы прошли в кабинет Старика.
+
+He looked up just long enough to say, "Come along. We're leaving."
+
+Он поднял взгляд ровно настолько, чтобы сказать: «Пойдем. Мы уходим».
+
+"Where to?" I answered. "Or shouldn't I ask?"
+
+«Куда?» — ответил я. «Или не стоит спрашивать?»
+
+"White House. See the President. Shut up."
+
+«Белый дом. Обратитесь к президенту. Заткнитесь».
+
+I shut.
+
+Я замолчал.
+
+CHAPTER 3.
+
+ГЛАВА ТРЕТЬЯ
+
+What the President needed to do the Old Man had already figured out - declare a national emergency, fence off the Des Moines area, and shoot anybody who tried to slip out. Then let them out one at a time, stripping them and searching them for parasites. Meantime, use the radar screen, the rocket boys, and the space stations to <span class='tip-wrap' data-text='spot [спАт] {глагол} страховать'>**spot**<span class='tip-text'> </span></span> and smash any new landings.
+
+Что нужно было сделать президенту, Старик уже придумал — объявить чрезвычайное положение в стране, огородить территорию Де-Мойна и расстреливать всех, кто пытался выскользнуть. Затем выпускать их по одному, раздевая и обыскивая на наличие паразитов. Тем временем, используйте экран радара, ракетчиков и космические станции, чтобы обнаружить и уничтожить любые новые посадки.
+
+Warn all the other nations, ask for their help.
+
+Предупредите все остальные народы, попросите их о помощи.
+
+The Old Man had cracked the case, analyzed it, and come up with the right answer in a little more than twenty-four hours. His unique gift was the ability to reason logically with unfamiliar, hard-to-believe facts as easily as with the commonplace. So the Old Man had the ear of the President.
+
+Старик раскрыл дело, проанализировал его и дал правильный ответ чуть больше чем за двадцать четыре часа. Его уникальным даром была способность логически рассуждать с незнакомыми, трудно верящими фактами так же легко, как и с обыденностью. Поэтому Старик пользовался расположением президента.
+
+The Secret Service printed us, photographed our retinas, and accompanied us into a waiting room. The Old Man was asked to see the President alone.
+
+Секретная служба распечатала нас, сфотографировала сетчатку и проводила в зал ожидания. Старику было предложено встретиться с президентом наедине.
+
+After a while we were invited. The Old Man introduced us and I stammered. Mary just bowed.
+
+Через некоторое время нас пригласили. Старик представил нас, и я запнулся. Мэри просто поклонилась.
+
+The Old Man directed me to report all that I had done and seen and heard on this <span class='tip-wrap' data-text='assignment [эсАйнмэнт] {существительное} назначение; задание'>**assignment**<span class='tip-text'> </span></span>. I made it <span class='tip-wrap' data-text='brief [брИф] {прилагательное} краткий'>**brief**<span class='tip-text'> </span></span> but complete. Then it was Mary's turn. The President asked a couple of questions, then sat still for several minutes.
+
+Старик поручил мне доложить обо всем, что я сделал, увидел и услышал на этом задании. Я сделал это кратко, но полно. Затем настала очередь Мэри. Президент задал пару вопросов, затем несколько минут сидел неподвижно.
+
+Presently he looked up and spoke to the Old Man. "Andrew," he said, "your section has been invaluable."
+
+Затем он поднял глаза и обратился к Старику. «Эндрю, — сказал он, — твой раздел был бесценен».
+
+The Old Man snorted. "So it's 'no', is it?"
+
+Старик фыркнул. «То есть это «нет», да?»
+
+"I did not say so. I was going to suggest that your young people leave, but now it does not matter. Andrew, you are a genius, but even geniuses make mistakes."
+
+«Я этого не говорил. Я собирался предложить вашей молодежи уйти, но теперь это не имеет значения. Эндрю, вы гений, но даже гении совершают ошибки».
+
+"God damn it, Tom! I knew you when you were an investigating senator and I was a key man in your investigations. You know I wouldn't bring you this fairy tale if there were any way to explain it away. Facts can't be ignored. How about that spaceship? What was in it? Why couldn't I even reach the spot where it landed?" He pulled out the photograph taken by Space Station Beta and shoved it under the President's nose.
+
+«Черт возьми, Том! Я знал тебя, когда ты был сенатором-расследователем, и я был ключевым человеком в твоих расследованиях. Ты же знаешь, я бы не стал рассказывать тебе эту сказку, если бы можно было как-то ее объяснить. Факты нельзя игнорировать. А как насчет того космического корабля? Что в нем было? Почему я даже не смог добраться до места его приземления?» Он вытащил фотографию, сделанную космической станцией Бета, и сунул ее под нос президенту.
+
+The President was calm. "Ah, yes, facts. Andrew, both you and I have a passion for facts. But I have several sources of information other than your section. I've checked the matter. The metes and bounds of the McLain farm as recorded in the local county courthouse check precisely with the latitude and longitude of this object on this photograph." The President looked up.
+
+Президент был спокоен. «А, да, факты. Эндрю, и ты, и я любим факты. Но у меня есть несколько источников информации, помимо вашего раздела. Я проверил этот вопрос. Границы фермы Маклейн, зафиксированные в местном окружном суде, точно совпадают с широтой и долготой этого объекта на этой фотографии». Президент поднял глаза.
+
+"Tom -"
+
+"Том -"
+
+"Yes, Andrew?"
+
+«Да, Эндрю?»
+
+"You did not go out there and check those courthouse maps yourself?"
+
+«Вы сами не ходили туда и не проверяли карты здания суда?»
+
+"Of course not."
+
+"Конечно, нет."
+
+"Thank God for that - or you would be carrying three pounds of pulsing tapioca between your shoulder blades this minute - and God save the United States! You can be sure of this: the courthouse clerk and whatever agent was sent to see him, both have filthy parasites on them this very moment." The Old Man stared at the ceiling. "Yes, and the Des Moines chief of police, newspaper editors around there, dispatchers, cops, all sorts of key people. Tom, I don't know what we are up against, but they know what we are, and they are turning off the <span class='tip-wrap' data-text='nerve [нЭрв] {существительное} нерв; наглость'>**nerve**<span class='tip-text'> </span></span> cells of our social organism before true messages can get back - or they cover up the true reports with false ones, just as they did with Barnes. Mr. President, you must order an <span class='tip-wrap' data-text='immediate [ЫмИдИэт] {прилагательное} немедленный'>**immediate**<span class='tip-text'> </span></span> quarantine of the whole area. There is no other hope!"
+
+«Слава Богу за это — иначе вы бы сейчас носили три фунта пульсирующей тапиоки между лопатками — и Боже, храни Соединенные Штаты! Можете быть уверены: у клерка суда и того агента, которого к нему послали, в этот самый момент на них водятся грязные паразиты». Старик уставился в потолок. «Да, и у начальника полиции Де-Мойна, редакторов газет там, диспетчеров, полицейских, всех видов ключевых людей. Том, я не знаю, с чем мы имеем дело, но они знают, кто мы, и они отключают нервные клетки нашего социального организма, прежде чем истинные сообщения успеют вернуться — или они скрывают истинные сообщения ложными, как они сделали с Барнсом. Господин президент, вы должны немедленно объявить карантин во всем районе. Другого выхода нет!»
+
+"Barnes," the President repeated softly, as if he had heard nothing else. He flipped a key at his desk. "Get me stereo station WDES, Des Moines, the manager's office."
+
+«Барнс», — тихо повторил президент, словно ничего больше не слыша. Он щелкнул ключом на своем столе. «Соедините меня со стереостанцией WDES, Де-Мойн, офис управляющего».
+
+<span class='tip-wrap' data-text='shortly [шОртли] {наречие} вскоре'>**Shortly**<span class='tip-text'> </span></span> a screen lighted on his desk; he touched another switch and a <span class='tip-wrap' data-text='solid [сАлэд] {прилагательное} твердый; сплошной'>**solid**<span class='tip-text'> </span></span> display in the wall lighted up. We were looking into the room we had been in only a few hours before.
+
+Вскоре на его столе загорелся экран; он коснулся другого переключателя, и на стене загорелся сплошной дисплей. Мы смотрели в комнату, в которой были всего несколько часов назад.
+
+Looking into it past the shoulders of a man who filled most of the screen - Barnes.
+
+Взгляд через плечо человека, который занимал большую часть экрана — Барнса.
+
+Or his <span class='tip-wrap' data-text='twin [туЫн] {существительное} близнец'>**twin**<span class='tip-text'> </span></span>. When I kill a man, I expect him to stay dead. I was shaken but I still believed in myself - and my weapon, the heater.
+
+Или его близнец. Когда я убиваю человека, я ожидаю, что он останется мертвым. Я был потрясен, но я все еще верил в себя - и свое оружие, обогреватель.
+
+The man in the display said, "You asked for me, Mr. President?" He looked dazzled by the <span class='tip-wrap' data-text='honor [Анэр] {существительное} честь'>**honor**<span class='tip-text'> </span></span>.
+
+Человек на дисплее сказал: «Вы спрашивали меня, господин президент?» Он выглядел ослепленным оказанной честью.
+
+"Yes, thank you. Mr. Barnes, do you recognize any of these people?"
+
+«Да, спасибо. Мистер Барнс, вы узнаете кого-нибудь из этих людей?»
+
+He looked surprised. "I'm afraid not. Should I?"
+
+Он выглядел удивленным. «Боюсь, что нет. А должен ли я?»
+
+The Old Man interrupted. "Tell him to call in his office force."
+
+Старик прервал его. «Скажи ему, чтобы вызвал свою служебную силу».
+
+The President looked surprised but did just that. "Barnes" looked puzzled but obeyed. They walked in, girls mostly, and I recognized the secretary who sat outside the manager's door.
+
+Президент выглядел удивленным, но сделал именно это. «Барнс» выглядел озадаченным, но повиновался. Они вошли, в основном девушки, и я узнал секретаршу, которая сидела у двери менеджера.
+
+None of them identified us.
+
+Никто из них нас не опознал.
+
+But I noticed one thing about them - every single one of them was round-shouldered.
+
+Но я заметил одну особенность: каждый из них был сутуловат.
+
+The President put a hand on the Old Man's shoulder. "Seriously, Andrew, take a <span class='tip-wrap' data-text='vacation [вейкЕйшэн] {существительное} отпуск; каникулы'>**vacation**<span class='tip-text'> </span></span>."
+
+Президент положил руку на плечо Старика. «Серьезно, Эндрю, возьми отпуск».
+
+Ten minutes later we were standing in the wind on the Rock <span class='tip-wrap' data-text='creek [крИк] {существительное} ручей; залив'>**Creek**<span class='tip-text'> </span></span> platform. The Old Man seemed shrunken and, for the first time, old. "What now, boss?"
+
+Десять минут спустя мы стояли на ветру на платформе Рок-Крик. Старик казался сморщенным и, впервые за все время, старым. «Что теперь, босс?»
+
+"Eh? For you two, nothing. You are both on leave until recalled."
+
+«А? Для вас двоих — ничего. Вы оба в отпуске, пока вас не отзовут».
+
+"I'd like to take another look at Barnes's office."
+
+«Я хотел бы еще раз осмотреть офис Барнса».
+
+"Don't go near the place. Stay out of Iowa. That's an order."
+
+«Не приближайтесь к этому месту. Держитесь подальше от Айовы. Это приказ».
+
+"Mmm... What are you going to do, if I may ask?"
+
+«Ммм... Что ты собираешься делать, если можно спросить?»
+
+"You heard the President, didn't you? I am going down to Florida and lie in the sun and wait for the world to go to hell. If you have any sense, you'll do the same. There's damned little time."
+
+«Вы слышали президента, не так ли? Я собираюсь во Флориду, лежать на солнышке и ждать, пока мир не полетит к чертям. Если у вас есть хоть капля здравого смысла, вы сделаете то же самое. Времени осталось чертовски мало».
+
+He squared his shoulders and walked away. I turned to speak to Mary, but she was gone.
+
+Он расправил плечи и ушел. Я повернулся, чтобы поговорить с Мэри, но ее уже не было.
+
+I considered trying to relay to her through the Section <span class='tip-wrap' data-text='circuit [сЭркэт] {существительное} схема; цепь; контур'>**circuit**<span class='tip-text'> </span></span>, when I remembered that I did not know her right name, nor her code, nor her I. D. number.
+
+Я подумывал попытаться связаться с ней через Отдел, но вспомнил, что не знаю ни ее настоящего имени, ни ее кода, ни ее идентификационного номера.
+
+So I found a room for the night. After I found it I wondered why I had not left the Capital and gone back to my own apartment. Then I went to <span class='tip-wrap' data-text='sleep [слИп] {существительное} сон [3]'>**sleep**<span class='tip-text'> </span></span>.
+
+Итак, я нашел комнату на ночь. После того, как я нашел ее, я задался вопросом, почему я не покинул Столицу и не вернулся в свою собственную квартиру. Затем я пошел спать.
+
+CHAPTER 4.
+
+ГЛАВА ЧЕТВЕРТАЯ
+
+I woke up at dusk. The room I was in had a real window - the Section pays well and I could afford little luxuries. I looked out over the Capital as it came to life for the night. I really missed Mary but I could do nothing to find her.
+
+Я проснулся в сумерках. В комнате, где я был, было настоящее окно — в Секции хорошо платят, и я мог позволить себе небольшие излишества. Я смотрел на Столицу, которая оживала на ночь. Я очень скучал по Мэри, но ничего не мог сделать, чтобы найти ее.
+
+So I put on my gun and phone, left the hotel and headed for the Library of Congress.
+
+Поэтому я взял пистолет и телефон, вышел из отеля и направился в Библиотеку Конгресса.
+
+At the Library I went to the general catalog, and started scanning for references. "Flying Saucers" led to "Flying Discs", then to "Project Saucer", then "Lights in the Sky", "Fireballs", "Cosmic Diffusion Theory of Life Origins", and two dozen <span class='tip-wrap' data-text='blind [блАйнд] {прилагательное} слепой'>**blind**<span class='tip-text'> </span></span> alleys of literature.
+
+В библиотеке я зашел в общий каталог и начал просматривать ссылки. «Летающие тарелки» привели к «Летящим дискам», затем к «Проекту «Блюдце», затем к «Огням в небе», «Огненным шарам», «Теории происхождения жизни посредством космической диффузии» и двум десяткам тупиковых литературных закоулков.
+
+<span class='tip-wrap' data-text='nevertheless [нЕвэрðэлЕс] {наречие} тем не менее'>**Nevertheless**<span class='tip-text'> </span></span>, in an hour I had a double <span class='tip-wrap' data-text='handful [хЭндфУл] {существительное} горсть'>**handful**<span class='tip-text'> </span></span> of selector cards. I handed them to the lady at the desk. She looked through the cards and said, "Most of the films you want are in use. The rest will be delivered to study room 9-A. Take the south escalator, please."
+
+Тем не менее, через час у меня было две горсти селекторных карточек. Я передал их даме за стойкой. Она просмотрела карточки и сказала: «Большинство фильмов, которые вам нужны, уже используются. Остальные будут доставлены в учебную комнату 9-А. Поднимитесь, пожалуйста, на южном эскалаторе».
+
+Room 9-A had one occupant - who looked up as I came in and said, "Well! How did you manage to pick me up again?"
+
+В номере 9-А был один жилец, который поднял голову, когда я вошел, и сказал: «Ну! Как вам удалось снова меня забрать?»
+
+I said, "Hello, Mary."
+
+Я сказала: «Привет, Мэри».
+
+"Hello," she answered.
+
+«Привет», — ответила она.
+
+I sat down and smiled at her. "Nothing could persuade me to leave. I did not expect to find you here, but now that I have, I don't intend to let you out of sight until I know your phone code, your home address, and the true color of your hair."
+
+Я сел и улыбнулся ей. «Ничто не могло заставить меня уйти. Я не ожидал увидеть тебя здесь, но теперь, когда я это сделал, я не собираюсь выпускать тебя из виду, пока не узнаю твой телефонный код, твой домашний адрес и настоящий цвет твоих волос».
+
+"You'll never know any of them," she said softly.
+
+«Ты никогда никого из них не узнаешь», — тихо сказала она.
+
+The delivery <span class='tip-wrap' data-text='tube [тУб] {существительное} труба'>**tube**<span class='tip-text'> </span></span> made a noise and my spools spilled into the basket. I gathered them up and stacked them on the table by the other machine. One of them rolled over against the ones Mary had stacked up and knocked them down.
+
+Трубка подачи издала звук, и мои катушки высыпались в корзину. Я собрала их и сложил на столе у другой машины. Одна из них перекатилась на те, что сложила Мэри, и сбила их.
+
+I saw Mary's spools then and said, "So that's why nothing I wanted was in," I said. "But you didn't do a thorough job; I found some that you missed." I handed her my selection.
+
+Я увидела катушки Мэри и сказала: «Вот почему ничего из того, что я хотела, не было», — сказала я. «Но вы не сделали работу тщательно; я нашла кое-что, что вы пропустили». Я передала ей свой выбор.
+
+Mary looked them over, then pushed all the spools into a single pile. "Shall we <span class='tip-wrap' data-text='split [сплЫт] {глагол} разделить'>**split**<span class='tip-text'> </span></span> them fifty-fifty, or both of us see them all?"
+
+Мэри осмотрела их, затем сгребла все катушки в одну кучу. «Мы поделим их пополам или обе посмотрим их все?»
+
+"Fifty-fifty to <span class='tip-wrap' data-text='exclude [ыксклУд] {глагол} исключать'>**exclude**<span class='tip-text'> </span></span> the junk, then we'll both go over the remainder," I decided. "Let's get busy."
+
+«Пятьдесят на пятьдесят, чтобы исключить мусор, а потом мы вместе разберемся с остатком», — решил я. «Давайте займемся делом».
+
+I was not prepared for the monumental pile of evidence buried in a public library.
+
+Я не был готов к колоссальной куче доказательств, похороненных в публичной библиотеке.
+
+The evidence was unmistakable; Earth had been visited by ships from <span class='tip-wrap' data-text='outer [Аутэр] {прилагательное} внешний'>**outer**<span class='tip-text'> </span></span> space not once but many times.
+
+Доказательства были неоспоримы: Землю посещали корабли из космоса не один, а много раз.
+
+Some of the reports ran back into the seventeenth century, but it was impossible to judge the quality of reports dating back to a time when "science" meant an appeal to Aristotle. The first systematic data came from the United States itself in the 1940's and 50's.
+
+Некоторые из отчетов восходят к семнадцатому веку, но невозможно было судить о качестве отчетов, относящихся к тому времени, когда «наука» означала обращение к Аристотелю. Первые систематические данные поступили из самих Соединенных Штатов в 1940-х и 50-х годах.
+
+I noticed something and started taking down dates. Strange objects in the sky appeared to hit a cycle with crests at thirty-year intervals, about. I made a note about it; a statistical analyst might make something of it.
+
+Я заметил что-то и начал записывать даты. Странные объекты в небе, казалось, попадали в цикл с пиками с интервалом в тридцать лет, примерно. Я сделал пометку об этом; статистический аналитик мог бы что-то из этого сделать.
+
+"Flying saucers" were tied in with "mysterious disappearances"; in at least three well-documented instances pilots had chased "saucers" and never come back, or down, anywhere.
+
+«Летающие тарелки» были связаны с «таинственными исчезновениями»; по крайней мере в трех хорошо документированных случаях пилоты преследовали «тарелки» и не возвращались или не приземлялись где-либо.
+
+I got another wild hunch and tried to see whether or not there was a thirty-year cycle in mysterious disappearances, and, if so, did it phase-<span class='tip-wrap' data-text='match [мЭч] {существительное} матч; спичка'>**match**<span class='tip-text'> </span></span> the objects in-the-sky cycle?
+
+У меня возникла еще одна дикая догадка, и я попытался выяснить, существует ли тридцатилетний цикл в таинственных исчезновениях, и если да, совпадает ли он по фазе с циклом объектов в небе?
+
+Mary and I did not exchange three words all night. Eventually we got up and stretched, then I lent Mary change to pay the machine for the spools of notes she had taken (why don't women carry change?) and got my spools, too.
+
+За всю ночь мы с Мэри не обменялись и тремя словами. В конце концов мы встали и потянулись, затем я одолжил Мэри мелочь, чтобы заплатить в автомате за катушки купюр, которые она сняла (почему женщины не носят мелочь?), и взял свои катушки тоже.
+
+Dawn was on us as we left and the big library was almost deserted.
+
+Когда мы уходили, уже рассвело, и большая библиотека была почти пуста.
+
+"Well, what's the verdict?" I asked.
+
+«Ну и каков вердикт?» — спросил я.
+
+"Sam, we've got to do something, fast. The President has to be convinced. This time they are moving in to stay."
+
+«Сэм, нам нужно что-то сделать, и быстро. Нужно убедить президента. На этот раз они собираются остаться».
+
+"Could be. In fact I think they are."
+
+«Может быть. На самом деле, я так думаю».
+
+"Well, what do we do?"
+
+«Ну, и что нам делать?»
+
+"Let's find a <span class='tip-wrap' data-text='barrel [бЭрэл] {существительное} ствол (бочка)'>**barrel**<span class='tip-text'> </span></span> of beer, take it to my hotel room, and talk this thing over."
+
+«Давайте найдем бочку пива, отнесем ее в мой номер в отеле и обсудим это дело».
+
+She shook her head. "Not to your hotel room."
+
+Она покачала головой. «Не в твой номер в отеле».
+
+"Damn it, this is business."
+
+«Чёрт возьми, это бизнес».
+
+"Let's go to my apartment. It's only a couple of hundred miles away; I'll fix you breakfast when we get there."
+
+«Пойдем ко мне на квартиру. Это всего в паре сотен миль отсюда; я приготовлю тебе завтрак, когда мы приедем».
+
+"That's the best offer I've had all night."
+
+«Это лучшее предложение, которое я получил за всю ночь».
+
+I flagged a taxi and we went to her apartment.
+
+Я поймал такси, и мы поехали к ней на квартиру.
+
+When we got inside she left me standing, while she made a careful search of the place, then she came back and said, "Turn around. I want to feel your back."
+
+Когда мы вошли внутрь, она оставила меня стоять, пока она тщательно осматривала помещение, затем вернулась и сказала: «Повернись. Я хочу пощупать твою спину».
+
+"Why do -"
+
+«Почему...»
+
+"Turn around!"
+
+"Повернись!"
+
+I shut up and did so. She gave it a good knuckling, all over, then said, "Now you can feel mine."
+
+Я заткнулся и сделал это. Она хорошенько потрепала его по всему телу, а затем сказала: «Теперь ты можешь почувствовать мой».
+
+"With pleasure!" <span class='tip-wrap' data-text='nevertheless [нЕвэрðэлЕс] {наречие} тем не менее'>**Nevertheless**<span class='tip-text'> </span></span> I did a <span class='tip-wrap' data-text='proper [прАпэр] {прилагательное} правильный'>**proper**<span class='tip-text'> </span></span> job, for I saw what she was driving at. There was nothing under her clothes but girl.
+
+"С удовольствием!" Тем не менее, я сделал все правильно, потому что я понял, к чему она клонит. Под ее одеждой не было ничего, кроме девушки.
+
+She turned around and let a deep sigh. "That's why I didn't want to go to your hotel room. Now we're safe. Now I know we are safe for the first time since I saw that thing on the station manager's back. This apartment is <span class='tip-wrap' data-text='tight [тАйт] {прилагательное} плотный; тугой'>**tight**<span class='tip-text'> </span></span>; I turn off the air and leave it sealed like a vault every time I leave it."
+
+Она обернулась и глубоко вздохнула. «Вот почему я не хотела идти в твой номер в отеле. Теперь мы в безопасности. Теперь я знаю, что мы в безопасности впервые с тех пор, как увидела эту штуку на спине у начальника станции. Эта квартира тесная; я выключаю воздух и оставляю ее запечатанной, как сейф, каждый раз, когда ухожу».
+
+"Say - how about the air conditioning? Could one get in through the system?"
+
+«Скажите, а как насчет кондиционирования воздуха? Можно ли попасть внутрь через систему?»
+
+"Possibly - but I didn't turn it on; I opened one of the air-raid <span class='tip-wrap' data-text='reserve [рызЭрв] {существительное} заповедник (резерв)'>**reserve**<span class='tip-text'> </span></span> bottles instead. Never <span class='tip-wrap' data-text='mind [мАйнд] {глагол} возражать; прислушиваться; присматривать'>**mind**<span class='tip-text'> </span></span>; what would you like to eat?"
+
+«Возможно, но я его не включал; вместо этого я открыл одну из бутылок с противовоздушной обороной. Неважно, что ты хочешь съесть?»
+
+"Any chance of about two pounds of steak, just warmed through?"
+
+«Есть ли шанс получить около двух фунтов стейка, только что разогретого?»
+
+We <span class='tip-wrap' data-text='split [сплЫт] {глагол} разделить'>**split**<span class='tip-text'> </span></span> a five-pound steak between us and I <span class='tip-wrap' data-text='swear [суЕр] {глагол} клясться; ругаться'>**swear**<span class='tip-text'> </span></span> I ate the short half. While we ate, we watched the newscast. Still no news from Iowa.
+
+Мы разделили между собой пятифунтовый стейк, и я клянусь, что съел короткую половину. Пока мы ели, мы смотрели выпуск новостей. По-прежнему никаких новостей из Айовы.
+
+CHAPTER 5.
+
+ГЛАВА ПЯТАЯ
+
+We slept in different rooms for three hours, and then we had a second breakfast.
+
+Мы спали в разных комнатах три часа, а потом позавтракали второй раз.
+
+Mary said, "We've got to <span class='tip-wrap' data-text='arrange [эрЕйндж] {глагол} договориться'>**arrange**<span class='tip-text'> </span></span> the facts we have dug up and <span class='tip-wrap' data-text='rub [рАб] {глагол} тереть'>**rub**<span class='tip-text'> </span></span> the President's nose in them. Action has to be on a national scale - global, really."
+
+Мэри сказала: «Мы должны упорядочить факты, которые мы раскопали, и ткнуть в них носом президента. Действия должны быть общенациональными, на самом деле глобальными».
+
+"How?" I asked.
+
+«Как?» — спросил я.
+
+"We've got to see him again."
+
+«Нам нужно увидеть его снова».
+
+I repeated, "How?"
+
+Я повторил: «Как?»
+
+She had no answer for that one.
+
+На этот вопрос у нее не было ответа.
+
+I said, "We've got only one <span class='tip-wrap' data-text='route [рУт] {существительное} путь'>**route**<span class='tip-text'> </span></span> - <span class='tip-wrap' data-text='via [вАйэ] {предлог} через'>**via**<span class='tip-text'> </span></span> official channels. Through the Old Man."
+
+Я сказал: «У нас есть только один путь — по официальным каналам. Через Старика».
+
+The Old Man has a special code, in <span class='tip-wrap' data-text='addition [эдЫшэн] {существительное} дополнение; добавление'>**addition**<span class='tip-text'> </span></span> to regular channels, which is guaranteed to cause him to rise up out of his coffin - but God help the agent who uses it unnecessarily. I hadn't used it in five years, but it was high time.
+
+У Старика есть специальный код, в дополнение к обычным каналам, который гарантированно заставит его подняться из гроба - но не дай Бог агенту, который использует его без необходимости. Я не пользовался им уже пять лет, но пора было.
+
+He answered with a burst of profanity.
+
+Он ответил потоком ругательств.
+
+"Boss," I said, "on the Iowa matter -"
+
+«Босс», сказал я, «по поводу Айовы...»
+
+He stopped. "Yes?"
+
+Он остановился. «Да?»
+
+"Mary and I spent all night digging former data out of the files. We want to talk it over with you."
+
+«Мы с Мэри всю ночь копались в файлах в старых данных. Мы хотим обсудить это с вами».
+
+"Palmglade Hotel, North Miami Beach. I'll be the third sunburn from the end."
+
+«Отель Palmglade, Северный Майами-Бич. Я буду третьим обгоревшим с конца».
+
+The Old Man was sunburned all right. He lay there, letting sand leak through his fingers, while we reported.
+
+Старик был в полном порядке загорелым. Он лежал там, пропуская песок сквозь пальцы, пока мы докладывали.
+
+He looked up <span class='tip-wrap' data-text='sharply [шАрпли] {наречие} резко'>**sharply**<span class='tip-text'> </span></span> when we came to the point about thirty-year cycles, but he allowed it to ride until he came to my <span class='tip-wrap' data-text='later [лЕйтэр] {прилагательное} поздний'>**later**<span class='tip-text'> </span></span> question about possible similar cycles in disappearances. Then he stopped me and called the Section. "Get me Analysis. Hello, Peter? This is the boss. I want a <span class='tip-wrap' data-text='curve [кЭрв] {существительное} кривая; изгиб'>**curve**<span class='tip-text'> </span></span> on unexplained disappearances, starting with 1800. Smooth out known factors - what I want to see is humps and valleys. When? I want it two hours ago; what are you waiting for?"
+
+Он резко поднял глаза, когда мы дошли до тридцатилетних циклов, но позволил этому продолжаться, пока не дошел до моего последующего вопроса о возможных похожих циклах исчезновений. Затем он остановил меня и позвонил в Отдел. «Приведите мне Анализ. Алло, Питер? Это босс. Мне нужна кривая необъяснимых исчезновений, начиная с 1800 года. Сгладьте известные факторы — я хочу увидеть горбы и впадины. Когда? Мне нужно два часа назад; чего вы ждете?»
+
+After he switched off he struggled to his feet, let me <span class='tip-wrap' data-text='hand [хЭнд] {глагол} передавать'>**hand**<span class='tip-text'> </span></span> him his cane and said, "Well, let's get back. We've no facilities here."
+
+После того, как он отключился, он с трудом поднялся на ноги, позволил мне подать ему трость и сказал: «Ну, давай вернемся. У нас здесь нет никаких удобств».
+
+"To the White House?" Mary asked eagerly.
+
+«В Белый дом?» — нетерпеливо спросила Мэри.
+
+"Eh? Be your age. You two have picked up nothing that would change the President's mind."
+
+«А? Будь в вашем возрасте. Вы двое не нашли ничего, что могло бы изменить мнение президента».
+
+"Oh. Then what?"
+
+«О. И что тогда?»
+
+"I don't know. Keep quiet, unless you have a bright idea."
+
+«Не знаю. Молчи, если только у тебя нет блестящей идеи».
+
+The Old Man had a car at hand, of course, and I drove us back. After I turned it over to block control I said, "Boss, I've got an idea how to <span class='tip-wrap' data-text='convince [кэнвЫнс] {глагол} убеждать'>**convince**<span class='tip-text'> </span></span> the President."
+
+У Старика, конечно, была машина под рукой, и я отвез нас обратно. После того, как я переключил ее на блокировку управления, я сказал: «Босс, у меня есть идея, как убедить президента».
+
+He looked at me. "Like this," I went on, "send two agents in, me and one other. The other agent carries a portable scanning device and keeps it trained on me the whole time. You get the President to watch what happens."
+
+Он посмотрел на меня. «Вот так», — продолжил я, — «пошлите двух агентов, меня и еще одного. Другой агент носит с собой портативное сканирующее устройство и все время держит его направленным на меня. Вы заставляете президента наблюдать за тем, что происходит».
+
+"Suppose nothing happens?"
+
+«А что, если ничего не произойдет?»
+
+"I plan to make it happen. First, I am going where the spaceship landed. We'll get close-up pix of the real ship, piped right into the White House. After that I plan to go back to Barnes's office and <span class='tip-wrap' data-text='investigate [ЫнвЕстэгЕйт] {глагол} расследовать (также исследовать)'>**investigate**<span class='tip-text'> </span></span> those round shoulders. I'll <span class='tip-wrap' data-text='tear [тЕр] {глагол} рвать'>**tear**<span class='tip-text'> </span></span> shirts off right in front of the camera."
+
+«Я планирую это осуществить. Сначала я пойду туда, где приземлился космический корабль. Мы сделаем снимок настоящего корабля крупным планом, который будет передан прямо в Белый дом. После этого я планирую вернуться в кабинет Барнса и исследовать эти круглые плечи. Я буду рвать рубашки прямо перед камерой».
+
+"You realize you would have the same chance as a mouse at a cat meeting."
+
+«Вы понимаете, что у вас будет такой же шанс, как у мыши на кошачьем собрании».
+
+"I'm not so sure. As I see it, these things haven't any superhuman powers. I'll <span class='tip-wrap' data-text='bet [бЕт] {глагол} держать пари'>**bet**<span class='tip-text'> </span></span> they are strictly limited to whatever the human being they are riding can do - maybe less. I am not going to be a martyr. In any case I'll get you pix, good ones."
+
+«Я не уверен. Насколько я понимаю, у этих тварей нет никаких сверхчеловеческих способностей. Держу пари, что они строго ограничены тем, что может сделать человек, на котором они едут, — может, и меньше. Я не собираюсь быть мучеником. В любом случае, я сделаю тебе фотки, хорошие фотки».
+
+"Hmm -"
+
+"Хм -"
+
+"It might work," Mary put in. "I'll be the other agent, I can -"
+
+«Это может сработать», — вставила Мэри. «Я буду другим агентом, я могу...»
+
+"No," the Old Man said, "It won't be necessary. Where he's going they'll all have riders - assumed so until proved otherwise. <span class='tip-wrap' data-text='besides [бысАйдз] {наречие} кроме'>**Besides**<span class='tip-text'> </span></span>, I am saving you for something. I'm planning to make you a presidential bodyguard, as soon as I can get it through his head that this is serious."
+
+«Нет», — сказал Старик, — «В этом нет необходимости. Там, куда он направляется, у всех будут всадники — так предполагается, пока не будет доказано обратное. К тому же, я берегу тебя для чего-то. Я планирую сделать тебя телохранителем президента, как только смогу втолковать ему, что это серьезно».
+
+"Oh." She thought about it and answered, "uh, boss -"
+
+«Ох», — она задумалась и ответила: «Э-э, босс...»
+
+"Eh?"
+
+«А?»
+
+"I'm not certain I could <span class='tip-wrap' data-text='spot [спАт] {глагол} страховать'>**spot**<span class='tip-text'> </span></span> a woman who was possessed. I'm not, uh, equipped for it."
+
+«Я не уверен, что смогу заметить одержимую женщину. Я, э-э, не подготовлен к этому».
+
+"So we take his women secretaries away from him. And Mary - you'll be watching him, too. He's a man, you know."
+
+«Поэтому мы отнимем у него женщин-секретарей. И Мэри — ты тоже будешь за ним наблюдать. Он мужчина, ты же знаешь».
+
+She turned that over in her mind. "And suppose I find that one has gotten to him, in spite of everything?"
+
+Она обдумала это. «А если я обнаружу, что кто-то добрался до него, несмотря ни на что?»
+
+"You take necessary action, the Vice President succeeds to the chair, and you get shot for treason. Simple. Now about this mission. We'll send Jarvis with the scanner and I think I'll include Davidson, too. While Jarvis keeps the pick-up on you, Davidson can keep his eyes on Jarvis - and you can try to keep one eye on him."
+
+«Вы предпринимаете необходимые действия, вице-президент занимает кресло, а вас расстреливают за измену. Все просто. Теперь об этой миссии. Мы отправим Джарвиса со сканером, и я думаю, я включу Дэвидсона. Пока Джарвис следит за вами, Дэвидсон может не спускать глаз с Джарвиса, а вы можете попытаться не спускать с него глаз».
+
+"You think it will work, then?"
+
+«Ты думаешь, это сработает?»
+
+"No - but any plan of action is better than no plan."
+
+«Нет, но любой план действий лучше, чем никакого плана».
+
+While we headed for Iowa - Jarvis, Davidson, and I - the Old Man went back to Washington. He took Mary along. She came up to me as we were about to leave, grabbed me by the ears, kissed me <span class='tip-wrap' data-text='firmly [фЭрмли] {наречие} твердо'>**firmly**<span class='tip-text'> </span></span> and said, "Sam - try to come back."
+
+Пока мы направлялись в Айову — Джарвис, Дэвидсон и я — Старик вернулся в Вашингтон. Он взял с собой Мэри. Она подошла ко мне, когда мы собирались уходить, схватила меня за уши, крепко поцеловала и сказала: «Сэм — постарайся вернуться».
+
+I felt like a fifteen-year-old. Second childhood, I guess.
+
+Я чувствовал себя пятнадцатилетним. Второе детство, наверное.
+
+Davidson roaded the car beyond the place where I had found a bridge out. Nobody tried to stop us. We ran into freshly burned-over ground and decided to walk. The site as shown by the space station photograph was included in the brush fire area - and there was no "flying saucer". The fire had destroyed the traces, if any.
+
+Дэвидсон повел машину дальше того места, где я нашел мост. Никто не пытался нас остановить. Мы наткнулись на свежевыжженную землю и решили идти пешком. Место, показанное на фотографии космической станции, было включено в зону лесного пожара — и там не было «летающей тарелки». Пожар уничтожил следы, если таковые имелись.
+
+Davidson said to me, "Are you and the Old Man sure you know what you are up to?"
+
+Дэвидсон спросил меня: «Вы со Стариком уверены, что знаете, что делаете?»
+
+"I can make a mistake," I said savagely, "but not the Old Man."
+
+«Я могу совершить ошибку, — свирепо сказал я, — но не Старик».
+
+"Mmm... no. Where next?"
+
+«Ммм... нет. Куда дальше?»
+
+"Straight in to WDES main station."
+
+«Прямо на главную станцию WDES».
+
+At the gates into Des Moines the gatekeeper hesitated when I offered the fee. He glanced at a notebook and then at our plates.
+
+На въезде в Де-Мойн привратник замешкался, когда я предложил плату. Он взглянул на блокнот, а затем на наши номера.
+
+"Sheriff has warned about this car," he said. "Pull over to the right." He left the barrier down.
+
+«Шериф предупреждал об этой машине», — сказал он. «Съезжайте направо». Он оставил шлагбаум опущенным.
+
+"Ok," I agreed, backed up about thirty feet and stamped on the accelerator. I did not <span class='tip-wrap' data-text='slow [слOу] {глагол} замедлять'>**slow**<span class='tip-text'> </span></span> down on the far side.
+
+«Хорошо», — согласился я, отъехал футов на тридцать и нажал на газ. На дальней стороне я не стал тормозить.
+
+"This," said Davidson dreamily, "is interesting. Do you still know what you are doing?"
+
+«Это, — мечтательно сказал Дэвидсон, — интересно. Ты все еще знаешь, что делаешь?»
+
+"I maybe crazy but I am still agent-in-charge. Get this, both of you: we aren't likely to get out of this. But we are going to get those pix."
+
+«Может, я и сумасшедший, но я все еще главный агент. Поймите, вы оба: мы вряд ли выберемся из этого. Но мы получим эти фотографии».
+
+"As you say, chief."
+
+«Как скажете, шеф».
+
+I slammed to a stop in front of the station and we poured out. We swarmed into the first elevator that was open and punched for the top floor - Barnes's floor.
+
+Я резко остановился перед станцией, и мы высыпали. Мы ввалились в первый же открытый лифт и набрали номер верхнего этажа — этажа Барнса.
+
+As we came into the <span class='tip-wrap' data-text='outer [Аутэр] {прилагательное} внешний'>**outer**<span class='tip-text'> </span></span> office the receptionist tried to stop us but we pushed on by. The girls looked up, startled. I went straight to Barnes's <span class='tip-wrap' data-text='inner [Ынэр] {прилагательное} внутренний'>**inner**<span class='tip-text'> </span></span> door and tried to open it; it was locked. I turned to his secretary. "Where's Barnes?"
+
+Когда мы вошли в приемную, администратор попыталась остановить нас, но мы протиснулись мимо. Девочки вздрогнули и подняли глаза. Я направился прямо к внутренней двери Барнса и попытался ее открыть; она была заперта. Я повернулся к его секретарю. «Где Барнс?»
+
+"Who is calling, please?" She said, polite as a fish.
+
+«Кто звонит, пожалуйста?» — вежливо, как рыба, спросила она.
+
+I looked down across her shoulders. Humped. By God, I said to myself, this one has to be. She was here when I killed Barnes. I bent over and pulled up her sweater.
+
+Я посмотрел вниз на ее плечи. Горбатые. Ей-богу, сказал я себе, эта должна быть. Она была здесь, когда я убил Барнса. Я наклонился и задрал ей свитер.
+
+I was right. I had to be right. For the second time I stared at the <span class='tip-wrap' data-text='raw [рА] {прилагательное} сырой'>**raw**<span class='tip-text'> </span></span> flesh of one of the parasites.
+
+Я был прав. Я должен был быть прав. Во второй раз я уставился на сырую плоть одного из паразитов.
+
+She struggled and clawed and tried to bite. I hit her in the neck, and she went limp. I swung her around. "Jarvis," I yelled, "get a close up."
+
+Она боролась, царапалась и пыталась укусить. Я ударил ее по шее, и она обмякла. Я развернул ее. «Джарвис, — крикнул я, — сними поближе».
+
+The idiot was fiddling with his <span class='tip-wrap' data-text='gear [гЫр] {существительное} снаряжение; шестерня'>**gear**<span class='tip-text'> </span></span>. He straightened up. "It broke down," he said. "Blew a <span class='tip-wrap' data-text='tube [тУб] {существительное} труба'>**tube**<span class='tip-text'> </span></span>."
+
+Идиот возился со своим снаряжением. Он выпрямился. «Оно сломалось», — сказал он. «Прорвало трубку».
+
+"Replace it - hurry!"
+
+«Замени его — поторопись!»
+
+A stenographer stood up on the other side of the room and fired, not at me, not at Jarvis, but at the scanner. Hit it, too - and both Davidson and I burned her down. As if it had been a signal, about six of them jumped to Davidson. They swarmed over him.
+
+Стенографистка встала с другой стороны комнаты и выстрелила, не в меня, не в Джарвиса, а в сканер. Попал и в него — и мы с Дэвидсоном спалили ее. Как будто это был сигнал, около шести из них подскочили к Дэвидсону. Они набросились на него.
+
+I still hung onto the secretary and shot from where I was. I caught a movement out of the corner of my eye and turned to find Barnes - "Barnes" number two - <span class='tip-wrap' data-text='standing [стЭндыŋ] {существительное} положение; репутация'>**standing**<span class='tip-text'> </span></span> in his <span class='tip-wrap' data-text='doorway [дОруЕй] {существительное} портал; проем'>**doorway**<span class='tip-text'> </span></span>. I shot him through the chest to be sure to get the slug I knew was on his back.
+
+Я все еще держался за секретаря и стрелял оттуда, где я был. Я уловил движение краем глаза и повернулся, чтобы увидеть Барнса — «Барнса» номер два — стоящего в дверном проеме. Я выстрелил ему в грудь, чтобы наверняка попасть в пулю, которая, как я знал, была у него на спине.
+
+Davidson was up again. A girl crawled toward him; she seemed wounded. He shot her full in the face and she stopped. I looked around and said, "Now let's get out of here. Jarvis - come on!"
+
+Дэвидсон снова встал. К нему подползла девушка; она казалась раненой. Он выстрелил ей прямо в лицо, и она остановилась. Я оглянулся и сказал: «А теперь давайте выбираться отсюда. Джарвис, пошли!»
+
+The elevator was still open and we rushed in, me still burdened with Barnes's secretary. I slammed the door closed and started it. Davidson was trembling and Jarvis was dead white. "Come on," I said, "you weren't shooting people, you were shooting things. Like this." I held the girl's body up and looked down at her back myself.
+
+Лифт был все еще открыт, и мы вбежали внутрь, я все еще обремененный секретарем Барнса. Я захлопнул дверь и завел его. Дэвидсон дрожал, а Джарвис был мертвенно-бледным. «Да ладно», — сказал я, — «ты не стрелял в людей, ты стрелял в вещи. Вот так». Я поднял тело девушки и сам посмотрел на ее спину.
+
+Then I almost collapsed. My specimen, the one I had grabbed with its <span class='tip-wrap' data-text='host [хOуст] {существительное} хозяин; ведущий'>**host**<span class='tip-text'> </span></span> to take back alive, was gone. Slipped to the floor, probably, and crept away.
+
+Тут я чуть не рухнул. Мой экземпляр, тот, которого я схватил вместе с хозяином, чтобы вернуть живым, исчез. Сполз на пол, наверное, и уполз.
+
+The girl's back was covered with a red rash in the area where the thing had ridden her. I pulled her sweater down and settled her on the floor. She was still unconscious. When we reached street level we left her in the elevator. Apparently nobody noticed, for it was quiet as we went through the <span class='tip-wrap' data-text='lobby [лАби] {существительное} вестибюль'>**lobby**<span class='tip-text'> </span></span> to the street. Our car was still standing there.
+
+Спина девушки была покрыта красной сыпью в том месте, где эта штука проехала по ней. Я стянул с нее свитер и уложил ее на пол. Она все еще была без сознания. Когда мы достигли уровня улицы, мы оставили ее в лифте. По-видимому, никто не заметил, потому что было тихо, когда мы прошли через вестибюль на улицу. Наша машина все еще стояла там.
+
+I tried to report on the way in but the Old Man cut me short and ordered us into the Section offices. Mary was there with him.
+
+Я попытался доложить о пути, но Старик прервал меня и приказал нам идти в офисы Секции. Мэри была там с ним.
+
+He let me tell what had happened with only an <span class='tip-wrap' data-text='occasional [экЕйжэнэл] {прилагательное} случайный'>**occasional**<span class='tip-text'> </span></span> grunt. "How much did you see?" I asked when I had finished.
+
+Он позволил мне рассказать, что произошло, лишь изредка хрюкая. «Сколько ты видел?» — спросил я, когда закончил.
+
+"<span class='tip-wrap' data-text='transmission [трэнсмЫшэн] {существительное} трансмиссия'>**Transmission**<span class='tip-text'> </span></span> cut off when you hit the barrier," he informed me. "I can't say that the President was impressed by what he saw."
+
+«Передача отключается, когда вы наезжаете на барьер», — сообщил он мне. «Не могу сказать, что президент был впечатлен увиденным».
+
+"I suppose not."
+
+«Я полагаю, что нет».
+
+"In fact he told me to fire you."
+
+«На самом деле он сказал мне уволить тебя».
+
+I stiffened.
+
+Я напрягся.
+
+"I told him that he could fire me, but that he could not fire my subordinates. You are a dolt," he went on more quietly, "but you can't be spared, not now."
+
+«Я сказал ему, что он может уволить меня, но не моих подчиненных. Ты болван, — продолжал он тише, — но тебя нельзя пощадить, не сейчас».
+
+"Thanks."
+
+"Спасибо."
+
+Mary had been wandering restlessly around the room. I had tried to catch her eye. Now she stopped back of Jarvis's chair - and gave the Old Man the same sign she had given about Barnes.
+
+Мэри беспокойно бродила по комнате. Я пытался поймать ее взгляд. Теперь она остановилась позади стула Джарвиса — и дала Старику тот же знак, что и Барнсу.
+
+I hit Jarvis in the side of the head with my heater and he sagged out of his chair.
+
+Я ударил Джарвиса по голове обогревателем, и он свалился со стула.
+
+"Stand back, Davidson!" the Old Man rapped. His own gun was out and pointed at Davidson's chest. "Mary, how about him?"
+
+«Отойди, Дэвидсон!» — проревел Старик. Его собственный пистолет был вытащен и направлен в грудь Дэвидсона. «Мэри, а как насчет него?»
+
+"He's all right."
+
+«С ним все в порядке».
+
+"And him?"
+
+«А он?»
+
+"Sam's clean."
+
+«Сэм чист».
+
+The Old Man's eyes moved from one of us to the other and I have never felt <span class='tip-wrap' data-text='closer [клOусэр] {прилагательное} теснее'>**closer**<span class='tip-text'> </span></span> to death. "Both of you peel off your shirts," he said.
+
+Взгляд Старика переместился с одного из нас на другого, и я никогда не чувствовал себя ближе к смерти. «Оба снимите свои рубашки», — сказал он.
+
+We did - and Mary was right on both counts. I had begun to wonder whether or not I would know it if I had a parasite on me. "Now him," the Old Man ordered. "Gloves, both of you."
+
+Мы так и сделали — и Мэри была права в обоих случаях. Я уже начал задаваться вопросом, узнаю ли я об этом, если на мне будет паразит. «Теперь его», — приказал Старик. «Перчатки, оба».
+
+We stretched Jarvis out on his face and very carefully cut his <span class='tip-wrap' data-text='clothing [клOуðыŋ] {существительное} одежда'>**clothing**<span class='tip-text'> </span></span> away. We had our <span class='tip-wrap' data-text='live [лАйв] {прилагательное} живой'>**live**<span class='tip-text'> </span></span> specimen.
+
+Мы растянули Джарвиса лицом вниз и очень осторожно срезали с него одежду. У нас был живой образец.
+
+CHAPTER 6.
+
+ГЛАВА ШЕСТАЯ
+
+I swallowed hard and said, "Let's see what we can do to work it off. Maybe we can still save Jarvis." I did not really think so; I had a deep-down hunch that anyone who had been ridden by one of those things was spoiled, permanently.
+
+Я с трудом сглотнул и сказал: «Давайте посмотрим, что мы можем сделать, чтобы от этого избавиться. Может быть, мы все еще можем спасти Джарвиса». Я на самом деле так не думал; у меня было глубокое предчувствие, что любой, кто был оседлан одной из этих тварей, был испорчен, навсегда.
+
+The Old Man waved us back. "Forget about Jarvis!"
+
+Старик помахал нам в ответ. «Забудьте о Джарвисе!»
+
+"But -"
+
+"Но -"
+
+"If he can be saved, a bit longer won't matter. In any case -" He shut up and so did I. I knew what he meant; the principle which declared that the individual was all important now called for canceling Jarvis out as a factor, i.e., we were expendable; the people of the United States were not.
+
+«Если его можно спасти, то немногое продление не будет иметь значения. В любом случае...» Он замолчал, и я тоже. Я знал, что он имел в виду; принцип, который гласил, что личность имеет первостепенное значение, теперь требовал исключить Джарвиса как фактор, то есть мы были расходным материалом; народ Соединенных Штатов — нет.
+
+Pardon the speech. I liked Jarvis.
+
+Извините за речь. Мне понравился Джарвис.
+
+The Old Man, with his gun drawn, continued to watch the unconscious agent and the thing on his back. He said to Mary, "Get the President on the screen. Special code zero zero zero seven."
+
+Старик, держа пистолет наготове, продолжал наблюдать за бессознательным агентом и тварью на его спине. Он сказал Мэри: «Выведите президента на экран. Специальный код ноль ноль ноль семь».
+
+Mary went to his desk and did so. My own attention was on the parasite. It made no move to leave its <span class='tip-wrap' data-text='host [хOуст] {существительное} хозяин; ведущий'>**host**<span class='tip-text'> </span></span>.
+
+Мэри подошла к его столу и сделала это. Мое внимание было приковано к паразиту. Он не сделал ни единого движения, чтобы покинуть своего хозяина.
+
+Presently Mary reported, "I can't get him, sir. One of his assistants is on the screen."
+
+В этот момент Мэри сообщила: «Я не могу его поймать, сэр. На экране один из его помощников».
+
+"Which one?"
+
+"Который из?"
+
+"Mr. McDonough."
+
+«Мистер Макдоноу».
+
+McDonough was an <span class='tip-wrap' data-text='intelligent [ЫнтЕлэджэнт] {прилагательное} умный'>**intelligent**<span class='tip-text'> </span></span>, likeable man who hadn't changed his mind on anything. The President used him as a buffer.
+
+Макдоноу был умным, приятным человеком, который не менял своего мнения ни по одному вопросу. Президент использовал его в качестве буфера.
+
+I thought the Old Man was going to have a <span class='tip-wrap' data-text='stroke [стрOук] {существительное} удар; ход; штрих'>**stroke**<span class='tip-text'> </span></span>. But after a moment he took two deep breaths, his features relaxed, and he said, "Dave, slip down the hall and ask Doc Graves to step in. The rest of you keep your distance and your eyes opened."
+
+Я думал, что у Старика случится инсульт. Но через мгновение он сделал два глубоких вдоха, черты его лица расслабились, и он сказал: «Дэйв, пройди по коридору и попроси Дока Грейвса выйти. Остальные держитесь на расстоянии и откройте глаза».
+
+The head of the biological lab came in <span class='tip-wrap' data-text='shortly [шОртли] {наречие} вскоре'>**shortly**<span class='tip-text'> </span></span>, wiping his hands as he came. "Doc," said the Old Man, "there is one that isn't dead."
+
+Вскоре вошел заведующий биологической лабораторией, вытирая руки. «Док», — сказал Старик, — «есть один, который не умер».
+
+Graves looked at Jarvis, then more <span class='tip-wrap' data-text='closely [клOусли] {наречие} тесно'>**closely**<span class='tip-text'> </span></span> at Jarvis's back. "Interesting," he said. "Unique, possibly." He dropped to one knee.
+
+Грейвс посмотрел на Джарвиса, затем более пристально на его спину. «Интересно», — сказал он. «Возможно, уникально». Он опустился на одно колено.
+
+"Stand back!"
+
+«Отойдите!»
+
+Graves looked up. "But I must have an opportunity -" he said reasonably.
+
+Грейвс поднял глаза. «Но у меня должна быть возможность...» — резонно сказал он.
+
+"Listen - I want you to study it, yes, but that purpose has low priority. First, you've got to keep it alive. Second, you've got to keep it from escaping. Third, you've got to protect yourself."
+
+«Послушай, я хочу, чтобы ты его изучил, да, но эта цель имеет низкий приоритет. Во-первых, ты должен сохранить его живым. Во-вторых, ты должен не дать ему сбежать. В-третьих, ты должен защитить себя».
+
+Graves smiled. "I'm not afraid of it. I -"
+
+Грейвс улыбнулся. «Я этого не боюсь. Я...»
+
+"Be afraid of it! That's an order."
+
+«Бойтесь его! Это приказ».
+
+"I was about to say that I think I must have an incubator to care for it after we remove it from the <span class='tip-wrap' data-text='host [хOуст] {существительное} хозяин; ведущий'>**host**<span class='tip-text'> </span></span>. The dead specimen you gave me did not afford much opportunity for studying its chemistry, but it is <span class='tip-wrap' data-text='evident [Евэдэнт] {прилагательное} очевидный'>**evident**<span class='tip-text'> </span></span> that these things need <span class='tip-wrap' data-text='oxygen [Аксэджэн] {существительное} кислород'>**oxygen**<span class='tip-text'> </span></span>. You suffocated the other one. Don't misunderstand me, not free <span class='tip-wrap' data-text='oxygen [Аксэджэн] {существительное} кислород'>**oxygen**<span class='tip-text'> </span></span>, but <span class='tip-wrap' data-text='oxygen [Аксэджэн] {существительное} кислород'>**oxygen**<span class='tip-text'> </span></span> from its <span class='tip-wrap' data-text='host [хOуст] {существительное} хозяин; ведущий'>**host**<span class='tip-text'> </span></span>. Perhaps a large dog would do."
+
+«Я собирался сказать, что, по-моему, мне нужен инкубатор, чтобы заботиться о нем после того, как мы извлечем его из хозяина. Мертвый экземпляр, который вы мне дали, не давал особых возможностей для изучения его химии, но очевидно, что этим вещам нужен кислород. Вы задушили другого. Не поймите меня неправильно, не свободный кислород, а кислород от хозяина. Возможно, подойдет большая собака».
+
+"No," snapped the Old Man. "Leave it right where it is."
+
+«Нет», — отрезал Старик. «Оставьте его там, где он есть».
+
+"Eh?" Graves looked surprised. "Is this man a <span class='tip-wrap' data-text='volunteer [вАлэнтЫр] {существительное} волонтер'>**volunteer**<span class='tip-text'> </span></span>?"
+
+«А?» Грейвс выглядел удивленным. «Этот человек — доброволец?»
+
+"Doctor Graves, every agent in this Section is a <span class='tip-wrap' data-text='volunteer [вАлэнтЫр] {существительное} волонтер'>**volunteer**<span class='tip-text'> </span></span> for whatever I find necessary. That is what they sign up for. Please carry out my orders. Get a stretcher in here and take Jarvis out. Use care."
+
+«Доктор Грейвс, каждый агент в этом отделе — доброволец, который сделает все, что я сочту нужным. Это то, на что они подписываются. Пожалуйста, выполняйте мои приказы. Принесите сюда носилки и вытащите Джарвиса. Будьте осторожны».
+
+The Old Man dismissed us after they had carted Jarvis away, and Davidson and Mary and I went to the lounge for a drink. Davidson had the shakes. When the first drink failed to fix him I said, "Look, Dave, I feel as bad about those girls as you do - but it could not be helped. Get that through your head; it could not be helped."
+
+Старик отпустил нас после того, как они увезли Джарвиса, а Дэвидсон, Мэри и я пошли в гостиную выпить. У Дэвидсона трясло. Когда первый напиток не помог ему, я сказал: «Слушай, Дэйв, мне так же плохо из-за этих девушек, как и тебе, но ничего не поделаешь. Вбей это себе в голову; ничего не поделаешь».
+
+After a bit he left us. Mary and I talked a while longer, trying to figure out answers and getting <span class='tip-wrap' data-text='nowhere [нOууЕр] {наречие} нигде'>**nowhere**<span class='tip-text'> </span></span>. Then she announced that she was sleepy and headed for the women's dormitory. The Old Man had ordered everybody to <span class='tip-wrap' data-text='sleep [слИп] {существительное} сон [3]'>**sleep**<span class='tip-text'> </span></span> in that night, so I went to the boys' wing.
+
+Через некоторое время он нас покинул. Мы с Мэри еще немного поговорили, пытаясь найти ответы, но так и не пришли к какому-либо результату. Затем она заявила, что хочет спать, и направилась в женское общежитие. Старик приказал всем спать этой ночью, поэтому я пошел в мужское крыло.
+
+I did not get to <span class='tip-wrap' data-text='sleep [слИп] {существительное} сон [3]'>**sleep**<span class='tip-text'> </span></span> at once. I could hear the rumble of the city above us.
+
+Я не сразу уснул. Я слышал гул города над нами.
+
+The air-raid alarm woke me. I put on my clothes, then I heard the Old Man's voice through the intercom, "Anti-gas and anti-radiation procedures! Seal everything - all gather in the conference hall. Move!"
+
+Меня разбудила воздушная тревога. Я оделся, и тут по внутренней связи раздался голос Старика: «Противохимические и противорадиационные мероприятия! Все загерметизировать — всем собраться в конференц-зале. Пошевелиться!»
+
+The Old Man was in the big hall, looking grim. Presently it was clear that every living person listed on the register was now inside the hall, from old Miss Haines, the Old Man's private secretary, down to the steward of the staff lounge. Jarvis was there, too, attended by Graves and one of his lab men. He was on his feet and wrapped in a hospital robe, <span class='tip-wrap' data-text='conscious [кАншэс] {прилагательное} сознательный'>**conscious**<span class='tip-text'> </span></span> apparently, but he seemed dopey.
+
+Старик был в большом зале, выглядя мрачно. Вскоре стало ясно, что все живые люди, перечисленные в регистре, теперь были внутри зала, от старой мисс Хейнс, личного секретаря Старика, до стюарда в комнате отдыха персонала. Джарвис тоже был там, его сопровождали Грейвс и один из его лаборантов. Он был на ногах и закутан в больничный халат, по-видимому, в сознании, но казался вялым.
+
+When I saw him I began to have some notion of what it was all about. The Old Man did not leave us in doubt. He was facing the assembled staff; now he drew his gun. "One of the invading parasites is among us," he said. "To some of you that means something - too much. To the rest of you I will have to explain, as the safety of all of us - and of our whole race - depends this moment on complete cooperation and absolute obedience." He went on to explain <span class='tip-wrap' data-text='briefly [брИфли] {наречие} кратко'>**briefly**<span class='tip-text'> </span></span> but with ugly exactness what a parasite was, what the situation was. "In other words," he concluded, "the parasite is almost certainly here in this room. One of us looks human but is actually an automaton, moving at the will of our deadliest and most dangerous enemy."
+
+Когда я его увидел, у меня появилось некоторое представление о том, что все это значит. Старик не оставил нас в сомнениях. Он стоял лицом к собравшимся сотрудникам; теперь он вытащил пистолет. «Один из вторгшихся паразитов среди нас», — сказал он. «Для некоторых из вас это что-то значит — слишком много. Для остальных из вас мне придется объяснить, поскольку безопасность всех нас — и всей нашей расы — зависит в этот момент от полного сотрудничества и абсолютного повиновения». Он продолжил объяснять кратко, но с уродливой точностью, что такое паразит, какова ситуация. «Другими словами, — заключил он, — паразит почти наверняка здесь, в этой комнате. Один из нас выглядит человеком, но на самом деле является автоматом, движущимся по воле нашего самого смертельного и опасного врага».
+
+There was a murmur from the staff. Some tried to draw away.
+
+Послышался ропот среди персонала. Некоторые пытались отстраниться.
+
+Graves cleared his <span class='tip-wrap' data-text='throat [θрOут] {существительное} горло'>**throat**<span class='tip-text'> </span></span>. "Chief," he started in, "I want you to understand that I took every <span class='tip-wrap' data-text='reasonable [рИзэнэбэл] {прилагательное} разумный'>**reasonable**<span class='tip-text'> </span></span> -"
+
+Грейвс прочистил горло. «Шеф», начал он, «я хочу, чтобы вы поняли, что я принял все разумные меры...»
+
+"I don't want excuses. Bring Jarvis out in front. Take his robe off."
+
+«Мне не нужны оправдания. Выведите Джарвиса вперед. Снимите с него халат».
+
+Graves shut up and he and his assistant complied. Jarvis did not <span class='tip-wrap' data-text='mind [мАйнд] {глагол} возражать; прислушиваться; присматривать'>**mind**<span class='tip-text'> </span></span>; he seemed only <span class='tip-wrap' data-text='partly [пАртли] {наречие} частично'>**partly**<span class='tip-text'> </span></span> aware of his surroundings. I think Graves drugged him.
+
+Грейвс заткнулся, и он и его помощник подчинились. Джарвис не возражали; он, казалось, лишь отчасти осознавал свое окружение. Я думаю, Грейвс накачал его наркотиками.
+
+"Turn him around," the Old Man ordered. Jarvis let himself be turned; there was the mark of the slug, a red rash on the shoulders and neck. "You can all see," the Old Man went on, "where the thing rode him." Now there was a dead silence.
+
+«Поверните его», — приказал Старик. Джарвис позволил себя повернуть; на плечах и шее был след от пули, красная сыпь. «Вы все видите», — продолжал Старик, — «куда эта штука его загнала». Теперь наступила мертвая тишина.
+
+"Now," said the Old Man, "we are going to get that slug! <span class='tip-wrap' data-text='furthermore [фЭрðэрмОр] {наречие} более того'>**Furthermore**<span class='tip-text'> </span></span>, we are going to capture it alive. You have all seen where a parasite rides on a man. I'm warning you; if the parasite gets burned, I'll burn the man who did it. If you have to shoot the <span class='tip-wrap' data-text='host [хOуст] {существительное} хозяин; ведущий'>**host**<span class='tip-text'> </span></span> to catch it, shoot low. Come here!" He pointed his gun at me.
+
+«Сейчас», — сказал Старик, — «мы поймаем этого слизняка! Более того, мы поймаем его живым. Вы все видели, как паразит ездит на человеке. Я предупреждаю вас: если паразит сгорит, я сожгу и того, кто это сделал. Если вам придется стрелять в хозяина, чтобы поймать его, стреляйте низко. Иди сюда!» Он направил на меня свое оружие.
+
+"Take out your gun. <span class='tip-wrap' data-text='drop [дрАп] {существительное} падение'>**Drop**<span class='tip-text'> </span></span> it on the floor."
+
+«Достань свой пистолет. Брось его на пол».
+
+The Old Man's gun was pointed at my belly. I slid my gun some six feet away from me.
+
+Пистолет Старика был направлен мне в живот. Я отвел пистолет на шесть футов от себя.
+
+"Take off your clothes - all of them."
+
+«Сними всю одежду».
+
+I obeyed.
+
+Я повиновался.
+
+After he looked me over the Old Man told me to pick up my gun and stand beside him. "Back me up," he ordered, "and keep an eye on the door. You! Dotty - you're next."
+
+Осмотрев меня, Старик сказал мне поднять ружье и встать рядом с ним. «Придержи меня», — приказал он, — «и следи за дверью. Ты! Дотти — ты следующая».
+
+Dotty was a clerk. She had evidently been in bed when the alarm sounded; she was dressed in a floor length negligee. She stepped forward, stopped, but did nothing more.
+
+Дотти была клерком. Она, очевидно, была в постели, когда зазвонил будильник; на ней было неглиже длиной до пола. Она шагнула вперед, остановилась, но больше ничего не сделала.
+
+The Old Man waved his gun at her. "Come on - get them off! Don't take all night."
+
+Старик помахал ей пистолетом. «Давай, снимай их! Не трать всю ночь».
+
+She bit her lower lip and then slowly unfastened the clasp at her waist. "I ought to get a bonus for this," she said, then threw the robe from her all in one motion. She was clean.
+
+Она прикусила нижнюю губу, а затем медленно расстегнула застежку на талии. «Мне за это полагается премия», — сказала она, а затем одним движением сбросила с себя халат. Она была чистой.
+
+"Over against the wall," the Old Man said savagely. "Renfrew!"
+
+«У стены», — яростно сказал Старик. «Ренфрю!»
+
+I don't know whether the Old Man alternated men and women on purpose or not, but it was a good idea, as it kept <span class='tip-wrap' data-text='resistance [рызЫстэнс] {существительное} сопротивление'>**resistance**<span class='tip-text'> </span></span> to a minimum.
+
+Не знаю, намеренно ли Старик чередовал мужчин и женщин, но это была хорошая идея, так как это сводило сопротивление к минимуму.
+
+Finally we were all mother naked and quite evidently free of parasites, except the Old Man himself and his secretary, Miss Haines. I think he was afraid of Miss Haines a little; she was older than he and inclined to boss him.
+
+Наконец мы все были совершенно голыми и, очевидно, свободными от паразитов, за исключением самого Старика и его секретарши, мисс Хейнс. Я думаю, он немного боялся мисс Хейнс; она была старше его и склонна была им командовать.
+
+The Old Man looked distressed. Finally, he looked up at his secretary. "Miss Haines - if you please. You are next."
+
+Старик выглядел расстроенным. Наконец он поднял глаза на свою секретаршу. «Мисс Хейнс — пожалуйста. Вы следующая».
+
+She did not move. She stood there like a statue of offended virginity. I could see that he was about to take action, so I moved closer to him and said, out of the corner of my mouth, "Boss - how about yourself? Take them off."
+
+Она не двигалась. Она стояла там, как статуя оскорбленной девственности. Я видел, что он собирался действовать, поэтому я придвинулся к нему поближе и сказал уголком рта: «Босс, а как насчет тебя? Сними их».
+
+He looked startled. "I mean it," I said. "It's you or she. It might be either."
+
+Он выглядел пораженным. «Я серьезно», — сказал я. «Или ты, или она. Может быть, и то, и другое».
+
+The Old Man can relax to the <span class='tip-wrap' data-text='inevitable [ЫнЕвэтэбэл] {прилагательное} неизбежный'>**inevitable**<span class='tip-text'> </span></span>. He said, "Have her stripped. And I'm next." He began fumbling at his zippers, looking grim.
+
+Старик может расслабиться перед неизбежным. Он сказал: «Разденьте ее. И я следующий». Он начал возиться с молниями, выглядя мрачно.
+
+I told Mary to take a couple of the women and peel Miss Haines. Suddenly Miss Haines rushed away.
+
+Я сказал Мэри взять пару женщин и обчистить мисс Хейнс. Внезапно мисс Хейнс бросилась прочь.
+
+The Old Man was between her and me and I couldn't get in a clean shot - and every other agent in the place was disarmed!
+
+Старик оказался между ней и мной, и я не мог сделать точный выстрел, а все остальные агенты в этом месте были обезоружены!
+
+She was out the door and running down the passage by the time I could get organized.
+
+К тому времени, как я успел собраться, она уже выбежала за дверь и побежала по коридору.
+
+She ducked into a room; I came up to it and hesitated; it was the ladies' room.
+
+Она нырнула в комнату; я подошел и заколебался; это была женская комната.
+
+In a moment I slammed the door open and looked around, with my gun ready.
+
+Через мгновение я распахнул дверь и огляделся, держа пистолет наготове.
+
+Something hit me back of my right ear.
+
+Что-то ударило меня в область правого уха.
+
+I can give no clear account of the next few moments. I remember a struggle and some shouts: "Look out!" "Damn her - she's bitten me!"
+
+Я не могу дать ясного отчета о следующих нескольких мгновениях. Я помню борьбу и крики: «Берегись!» «Черт ее побери — она меня укусила!»
+
+"Watch your hands! Watch your hands!" Then somebody said more quietly, "<span class='tip-wrap' data-text='bind [бАйнд] {глагол} связывать'>**Bind**<span class='tip-text'> </span></span> her hands and feet, now - careful." Somebody said, "How about him?" and someone else answered, "Later. He's not really hurt."
+
+«Берегите руки! Берегите руки!» Затем кто-то сказал тише: «Свяжите ей руки и ноги, теперь — осторожно». Кто-то сказал: «А как насчет него?», а кто-то другой ответил: «Позже. Он не сильно пострадал».
+
+I was still practically out as they left, but I began to feel a flood of life stirring back into me. I sat up, feeling extreme urgency about something. I got up, staggering a little, and went to the door. I hesitated there, looked out cautiously; nobody was in sight. I stepped out and trotted down the corridor, away from the direction of the conference hall.
+
+Я все еще был практически без сознания, когда они ушли, но я начал чувствовать, как поток жизни возвращается ко мне. Я сел, чувствуя крайнюю срочность чего-то. Я встал, немного пошатываясь, и пошел к двери. Я помедлил там, осторожно выглянул; никого не было видно. Я вышел и побежал по коридору, прочь от направления конференц-зала.
+
+I slowed down at the <span class='tip-wrap' data-text='outer [Аутэр] {прилагательное} внешний'>**outer**<span class='tip-text'> </span></span> door, then realized with a shock that I was naked and tore on down the <span class='tip-wrap' data-text='hallway [хОлуЕй] {существительное} прихожая'>**hallway**<span class='tip-text'> </span></span> toward the men's wing. There I grabbed the first clothes I could find and pulled them on. I found a pair of shoes much too small for me, but it did not seem to matter.
+
+Я замедлил шаг у входной двери, затем с ужасом понял, что я голый, и помчался по коридору к мужскому крылу. Там я схватил первую попавшуюся одежду и натянул ее на себя. Я нашел пару обуви, которая была мне слишком мала, но это, похоже, не имело значения.
+
+I ran back toward the exit, and found the switch; the door opened.
+
+Я побежал обратно к выходу и нашел выключатель; дверь открылась.
+
+I thought I had made a clean escape, but somebody shouted, "Sam!" just as I was going out. I did not wait, but plunged on out.
+
+Я думал, что я благополучно выбрался, но кто-то крикнул: «Сэм!» как раз, когда я выходил. Я не стал ждать, а бросился вперед.
+
+I caught the up-river <span class='tip-wrap' data-text='jet [джЕт] {существительное} струя'>**jet**<span class='tip-text'> </span></span> express and got off at the first station. I crossed over to the down-river side, waited around the change window until a man came up who displayed quite a bit of money as he bought his counter. I got on the same train he did and got off when he did. At the first dark spot I robbed him. Now I had money and was ready to operate. I did not know quite why I had to have money, but I knew that I needed it for what I was about to do.
+
+Я сел на реактивный экспресс вверх по реке и вышел на первой станции. Я перешел на сторону вниз по реке, подождал у окошка обмена, пока не подошел человек, который показал довольно много денег, покупая билет у своего прилавка. Я сел в тот же поезд, что и он, и вышел вместе с ним. В первом же темном месте я ограбил его. Теперь у меня были деньги, и я был готов действовать. Я не совсем понимал, зачем мне нужны были деньги, но я знал, что они мне нужны для того, что я собирался сделать.
+
+CHAPTER 7.
+
+ГЛАВА СЕДЬМАЯ
+
+How can I tell how I felt?
+
+Как я могу определить, что я чувствовал?
+
+I saw things around me with a curious double vision, as if I stared at them through rippling water - yet I felt no surprise and no curiosity about this. I moved like a sleepwalker, unaware of what I was about to do - but I was wide-awake, fully aware of who I was, where I was, what my job at the Section had been. There was no amnesia; my full memories were available to me at any moment. And, although I did not know what I was about to do, I was always aware of what I was doing and sure that each act was the necessary, purposeful act at that moment.
+
+Я видел вещи вокруг себя странным двойным зрением, как будто я смотрел на них сквозь рябь воды - однако я не чувствовал удивления или любопытства по этому поводу. Я двигался как лунатик, не осознавая, что я собираюсь сделать - но я был полностью бодрствующим, полностью осознавая, кто я, где я, в чем заключалась моя работа в Отделе. Не было никакой амнезии; мои полные воспоминания были доступны мне в любой момент. И, хотя я не знал, что я собираюсь сделать, я всегда осознавал, что я делаю, и был уверен, что каждое действие было необходимым, целенаправленным действием в тот момент.
+
+They say that post-hypnotic commands work something like that. I don't know; I am a poor hypnotic subject.
+
+Говорят, что постгипнотические команды работают примерно так. Я не знаю, я плохой гипнотический субъект.
+
+I felt no particular emotion most of the time, except the <span class='tip-wrap' data-text='mild [мАйлд] {прилагательное} мягкий; спокойный'>**mild**<span class='tip-text'> </span></span> contentment that comes from being at work which needs to be done. That was up on the <span class='tip-wrap' data-text='conscious [кАншэс] {прилагательное} сознательный'>**conscious**<span class='tip-text'> </span></span> level. Someplace, more levels down than I understand about, I was unhappy, terrified, and filled with <span class='tip-wrap' data-text='guilt [гЫлт] {существительное} вина'>**guilt**<span class='tip-text'> </span></span> - but that was down, locked, suppressed.
+
+Я не чувствовал никаких особых эмоций большую часть времени, кроме легкого удовлетворения, которое приходит от работы, которую нужно сделать. Это было на сознательном уровне. Где-то, на более низких уровнях, чем я понимаю, я был несчастен, напуган и полон вины - но это было внизу, заперто, подавлено.
+
+I knew that I had been seen to leave. That shout of "Sam!" had been intended for me; only two persons knew me by that name and the Old Man would have used my right name. So Mary had seen me leave.
+
+Я знал, что меня видели уходящим. Этот крик "Сэм!" предназначался мне; только два человека знали меня под этим именем, а Старик назвал бы меня по имени. Так что Мэри видела, как я уходил.
+
+I was in a warehouse district, moving through it cautiously. <span class='tip-wrap' data-text='shortly [шОртли] {наречие} вскоре'>**Shortly**<span class='tip-text'> </span></span> I found what seemed to be a satisfactory building; there was a sign: LOFT FOR LEASE - SEE RENTAL AGENT ON GROUND FLOOR. I noted the address, then went to the nearest Western Union booth. There I sat down at a vacant machine and sent the following message: EXPEDITE TWO CASES TINY TOTS TO JOEL FREEMAN and added the address of the empty loft. I sent it to Roscoe and Dillard, Jobbers and Manufacturers Agents, Des Moines, Iowa.
+
+Я находился в складском районе, осторожно продвигаясь по нему. Вскоре я нашел то, что показалось мне удовлетворительным зданием; там была вывеска: ЛОФТ В АРЕНДУ - ОБРАТИТЕСЬ К АГЕНТУ ПО АРЕНДЕ НА ПЕРВОМ ЭТАЖЕ. Я запомнил адрес, затем пошел к ближайшему киоску Western Union. Там я сел за свободный аппарат и отправил следующее сообщение: УСКОРИТЬ ДВА ДЕЛА TINY TOTS ДЛЯ ДЖОЭЛА ФРИМЕНА и добавил адрес пустого лофта. Я отправил его Роско и Дилларду, агентам по сбыту и производству, Де-Мойн, Айова.
+
+I returned to the warehouse building, found a dark corner in the rear, and settled quietly back to wait for dawn and business hours.
+
+Я вернулся в здание склада, нашел темный угол в глубине и тихонько устроился там, ожидая рассвета и начала рабочего дня.
+
+From daylight until nine o'clock I hung around a hiring hall, studying the notices; it was the one place in the neighborhood where a man of no <span class='tip-wrap' data-text='occupation [АкйэпЕйшэн] {существительное} оккупация; занятие'>**occupation**<span class='tip-text'> </span></span> would not <span class='tip-wrap' data-text='attract [этрЭкт] {глагол} привлекать'>**attract**<span class='tip-text'> </span></span> attention. At nine o'clock I met the rental agent as he unlocked his office, and leased the loft. I went up to the loft, unlocked it, and waited.
+
+С рассвета до девяти часов я слонялся по залу найма, изучая объявления; это было единственное место в округе, где человек без занятий не привлекал бы внимания. В девять часов я встретился с агентом по аренде, когда он отпирал свой офис и сдавал в аренду чердак. Я поднялся на чердак, отпер его и стал ждать.
+
+About ten-thirty my crates were delivered. I opened one crate, took out one cell, warmed it, and got it ready. Then I went downstairs, found the rental agent again, and said, "Mr. Greenberg, could you come up for a moment? I want to see about making some changes in the lighting."
+
+Около десяти тридцати мои ящики были доставлены. Я открыл один ящик, вынул одну ячейку, прогрел ее и подготовил. Затем я спустился вниз, снова нашел агента по аренде и сказал: «Мистер Гринберг, не могли бы вы подняться на минутку? Я хочу посмотреть, можно ли внести некоторые изменения в освещение».
+
+He grunted, but agreed to do so. When we entered the loft, I closed the door behind us and led him over to the open crate. "Here," I said, "if you will just lean over there, you will see what I mean."
+
+Он хмыкнул, но согласился. Когда мы вошли на чердак, я закрыл за собой дверь и подвел его к открытому ящику. «Вот», — сказал я, — «если ты просто наклонишься туда, ты поймешь, что я имею в виду».
+
+I got him around the neck with a <span class='tip-wrap' data-text='grip [грЫп] {существительное} рукоятка; сцепление; контроль'>**grip**<span class='tip-text'> </span></span> that cut off his wind, ripped his <span class='tip-wrap' data-text='jacket [джЭкэт] {существительное} куртка'>**jacket**<span class='tip-text'> </span></span> and shirt up, and, with my free hand, transferred a master from the cell to his bare back, then held him <span class='tip-wrap' data-text='tight [тАйт] {прилагательное} плотный; тугой'>**tight**<span class='tip-text'> </span></span> for a moment until his struggles stopped. Then I let him up, tucked his shirt back in and dusted him off. When he had recovered his breath, I said, "What news from Des Moines?"
+
+Я схватил его за шею с такой силой, что он перестал дышать, сорвал с него куртку и рубашку, а свободной рукой перенес из камеры на его голую спину хозяина, затем крепко держал его в течение минуты, пока он не перестал сопротивляться. Затем я отпустил его, заправил рубашку обратно и отряхнул его. Когда он отдышался, я спросил: «Какие новости из Де-Мойна?»
+
+"What do you want to know?" he asked. "How long have you been out?"
+
+«Что ты хочешь знать?» — спросил он. «Как долго ты был без сознания?»
+
+I started to explain, but he interrupted me with, "Let's have a direct conference and not waste time." I skinned up my shirt; he did the same; and we sat down on the edge of the unopened case, back to back, so that our masters could be in contact. My own mind was merely blank and I have no idea how long the conference went on.
+
+Я начал объяснять, но он прервал меня словами: «Давайте проведем прямую конференцию и не будем тратить время». Я задрал рубашку; он сделал то же самое; и мы сели на край нераскрытого корпуса, спина к спине, так, чтобы наши хозяева могли общаться. Мой собственный разум был просто пуст, и я понятия не имею, как долго продолжалась конференция.
+
+The building superintendent was our next recruit. He was a large Swede and it took both of us to hold him. After that Mr. Greenberg called up the owner of the building and insisted that he simply had to come down and see some damage that had occurred to the structure - just what, I don't know; I was busy, opening and warming several more cells.
+
+Следующим нашим рекрутом был управляющий зданием. Он был крупным шведом, и нам пришлось вдвоем его удерживать. После этого мистер Гринберг позвонил владельцу здания и настоял, что ему просто необходимо спуститься и осмотреть некоторые повреждения, которые были нанесены зданию — какие именно, я не знаю; я был занят, открывая и отапливая еще несколько камер.
+
+The owner of the building was a real prize and we all felt quiet <span class='tip-wrap' data-text='satisfaction [сЭтэсфЭкшэн] {существительное} удовлетворение'>**satisfaction**<span class='tip-text'> </span></span>, including, of course, he himself. He belonged to the Constitution Club.
+
+Владелец здания был настоящей находкой, и мы все чувствовали тихое удовлетворение, включая, конечно, и его самого. Он был членом клуба «Конституция».
+
+It was almost noon; we had no time to lose. The super went out to buy suitable clothes and a bag for me and sent the owner's chauffeur up to be recruited as he did so. At twelve-thirty we left for the club, the owner and I, in his own car; the bag contained twelve masters, still in their cells but ready.
+
+Был почти полдень; у нас не было времени на раскачку. Супервайзер вышел, чтобы купить мне подходящую одежду и сумку, и послал шофера владельца, чтобы он был завербован, пока он это делал. В двенадцать тридцать мы отправились в клуб, владелец и я, на его собственной машине; в сумке было двенадцать мастеров, все еще в своих камерах, но готовых.
+
+The owner signed: J. Hardwick Potter and Guest. One of the clerks tried to take my bag but I insisted that I needed it to change my shirt before lunch. We fiddled around in the washroom until we had it to ourselves, recruited the attendant, and sent him out with a message to the resident manager that a guest had taken ill in the washroom.
+
+Владелец подписал: J. Hardwick Potter and Guest. Один из клерков попытался отобрать мою сумку, но я настоял, что она мне нужна, чтобы сменить рубашку перед обедом. Мы возились в туалете, пока он не оказался в нашем распоряжении, наняли дежурного и отправили его с сообщением управляющему, что гостю стало плохо в туалете.
+
+After we took care of the manager, he obtained a white <span class='tip-wrap' data-text='coat [кOут] {существительное} слой; пальто'>**coat**<span class='tip-text'> </span></span> for me and I became another washroom attendant. I had only ten masters left but I knew that the cases would be picked up from the warehouse loft and delivered to the club <span class='tip-wrap' data-text='shortly [шОртли] {наречие} вскоре'>**shortly**<span class='tip-text'> </span></span>. The regular attendant and I used up the rest of those I had been able to bring before the lunch hour rush was over. One guest surprised us while we were busy and I had to kill him, as there was no time to save him for recruiting. We stuffed him into the mop <span class='tip-wrap' data-text='closet [клАзэт] {существительное} чулан; шкаф'>**closet**<span class='tip-text'> </span></span>.
+
+После того, как мы разобрались с менеджером, он достал для меня белый халат, и я стал еще одним уборщиком. У меня осталось всего десять мастеров, но я знал, что скоро их заберут со склада и доставят в клуб. Мы с постоянным уборщиком израсходовали оставшиеся, которые я успел принести до окончания обеденного перерыва. Один гость застал нас врасплох, пока мы были заняты, и мне пришлось его убить, так как времени сохранить его для рекрутинга не было. Мы засунули его в кладовку для швабр.
+
+There was a quiet period after that, as the cases had not yet arrived. Hunger reflex nearly doubled me over, then it dropped off <span class='tip-wrap' data-text='sharply [шАрпли] {наречие} резко'>**sharply**<span class='tip-text'> </span></span> but still persisted; I told the manager, who had me served one of the best lunches I have ever eaten, in his office. The cases arrived just as I was finishing.
+
+После этого наступило затишье, поскольку ящики еще не прибыли. Голодный рефлекс почти согнул меня пополам, затем резко отступил, но все еще сохранялся; я рассказал об этом менеджеру, который подал мне один из лучших обедов, которые я когда-либо ел, в своем офисе. Ящики прибыли как раз тогда, когда я заканчивал.
+
+During the drowsy period that every gentlemen's club has in the mid-afternoon we secured the place. By four o'clock everyone present in the building - members, staff, and guests - were with us. Later in the day the manager phoned Des Moines for four more cases.
+
+В сонливый период, который бывает в каждом джентльменском клубе в середине дня, мы забронировали место. К четырем часам все, кто был в здании — члены клуба, персонал и гости — были с нами. Позже в тот же день менеджер позвонил в Де-Мойн, чтобы заказать еще четыре случая.
+
+Our big prize came that evening - a guest, the Assistant Secretary of the Treasury. We saw a real victory in that; the Treasury Department is charged with the safety of the President.
+
+Наш главный приз пришел тем вечером - гость, помощник министра финансов. Мы увидели в этом настоящую победу; Министерство финансов отвечает за безопасность президента.
+
+CHAPTER 8.
+
+ГЛАВА ВОСЬМАЯ
+
+I felt the joy caused by the capture of a high key official only as absent-minded <span class='tip-wrap' data-text='satisfaction [сЭтэсфЭкшэн] {существительное} удовлетворение'>**satisfaction**<span class='tip-text'> </span></span>, then I thought no more about it. We - the human recruits, I mean - hardly thought at all; we knew what we were to do each instant, but we knew it only at the moment of action, as a "high school" horse gets his orders, responds to them instantly, and is ready for the next signal from his rider.
+
+Радость, вызванную пленением высокопоставленного чиновника, я ощущал только как рассеянное удовлетворение, потом я больше не думал об этом. Мы — я имею в виду человеческих рекрутов — почти не думали; мы знали, что нам делать в каждое мгновение, но мы знали это только в момент действия, как лошадь «старшей школы» получает приказы, мгновенно на них реагирует и готова к следующему сигналу от своего всадника.
+
+I had no more to do with words spoken by me for my master than had the audio relay buried behind my ear to do with words it sounded - the relay was silent all this time, incidentally. I was a communication instrument, nothing more. Some days after I was recruited I gave the club manager new instructions about how to order shipments of masters' carrying cells. I was aware, as I did so, that three more ships had landed, but I was not aware of their locations; my knowledge was limited to a single address in New Orleans.
+
+Я не имел ничего общего со словами, сказанными мной для моего хозяина, так же как аудиореле, зарытое за моим ухом, не имело ничего общего со словами, которые оно звучало, — реле все это время молчало, кстати. Я был инструментом связи, не более. Через несколько дней после того, как меня завербовали, я дал менеджеру клуба новые инструкции о том, как заказывать поставки переносных клеток для хозяев. Я знал, когда делал это, что приземлились еще три корабля, но я не знал их местонахождения; мои знания ограничивались одним адресом в Новом Орлеане.
+
+I knew - and my master certainly knew - that it was well for me to stay out of sight. Through me, my master knew as much of the organization we called the "Section" as I did; it knew that I was one human known to the Old Man who had been recruited - and my master knew, I am sure, that the Old Man would not cease to search for me.
+
+Я знал - и мой хозяин, конечно, знал - что мне лучше не попадаться на глаза. Через меня мой хозяин узнал об организации, которую мы называли "Секцией", столько же, сколько и я сам; он знал, что я был единственным человеком, известным Старику, которого завербовали - и мой хозяин знал, я уверен, что Старик не перестанет искать меня.
+
+After a time the city was "secured" and my master started taking me out on the streets. Not every inhabitant of the city wore a hump; the humans were very <span class='tip-wrap' data-text='numerous [нУмэрэс] {прилагательное} многочисленный'>**numerous**<span class='tip-text'> </span></span> and the masters still very few - but the key positions in the city were all held by our own recruits. The <span class='tip-wrap' data-text='vast [вЭст] {прилагательное} обширный'>**vast**<span class='tip-text'> </span></span> majority continued with their usual affairs, not only undisturbed by the masquerade but unaware that anything had happened.
+
+Через некоторое время город был "защищен", и мой хозяин начал выводить меня на улицы. Не все жители города носили горб; людей было очень много, а хозяев все еще очень мало - но ключевые позиции в городе занимали наши собственные рекруты. Подавляющее большинство продолжало заниматься своими обычными делами, не только не тревожимые маскарадом, но и не подозревая, что что-то произошло.
+
+One of the disadvantages our masters worked under was the difficulty of long-distance communication. It was limited to what human hosts could say in human speech over <span class='tip-wrap' data-text='ordinary [ОрдэнЕри] {прилагательное} обычный'>**ordinary**<span class='tip-text'> </span></span> communication channels. Such communication through servants was almost certainly not <span class='tip-wrap' data-text='adequate [Эдэкуэт] {прилагательное} достаточный (адекватный)'>**adequate**<span class='tip-text'> </span></span> to the purposes of the masters; they seemed to need <span class='tip-wrap' data-text='frequent [фрИкуэнт] {прилагательное} частый'>**frequent**<span class='tip-text'> </span></span> direct body-to-body conference to coordinate their actions.
+
+Одним из недостатков, с которыми сталкивались наши хозяева, была сложность общения на расстоянии. Оно ограничивалось тем, что хозяева-люди могли сказать человеческой речью по обычным каналам связи. Такое общение через слуг почти наверняка не соответствовало целям хозяев; им, по-видимому, требовались частые прямые телесные конференции для координации своих действий.
+
+I was sent to New Orleans for such a conference.
+
+Меня отправили в Новый Орлеан на такую конференцию.
+
+I did not know I was going. I went out on the street as usual one morning, then went to the uptown launching platform and ordered a cab. I started to get in - I say "started to" as an old gentleman hustled up and climbed into it ahead of me.
+
+Я не знал, что еду. Однажды утром я вышел на улицу, как обычно, затем пошел на стартовую площадку в верхней части города и заказал такси. Я начал садиться — я говорю «начал», когда пожилой джентльмен подбежал и забрался в него раньше меня.
+
+I received an order to dispose of him, which order was immediately followed by one telling me to go slow and be careful, as if even the masters were not always sure of themselves. I said, "<span class='tip-wrap' data-text='excuse [ыкскйУс] {глагол} прощать'>**Excuse**<span class='tip-text'> </span></span> me, sir, but this cab is taken."
+
+Я получил приказ избавиться от него, за которым немедленно последовал приказ ехать медленно и быть осторожным, как будто даже хозяева не всегда уверены в себе. Я сказал: «Извините, сэр, но этот кэб занят».
+
+"Quite," the <span class='tip-wrap' data-text='elderly [Елдэрли] {прилагательное} пожилой'>**elderly**<span class='tip-text'> </span></span> man replied. "I've taken it." He was a picture of self-importance, from briefcase to dictatorial <span class='tip-wrap' data-text='manner [мЭнэр] {существительное} способ (также манера)'>**manner**<span class='tip-text'> </span></span>. He could easily have been a member of the Constitution Club, but he was not one of our own, as my master knew and told me.
+
+«Вполне», — ответил пожилой мужчина. «Я принял его». Он был образцом собственной важности, от портфеля до диктаторских манер. Он легко мог быть членом клуба «Конституция», но он не был одним из наших, как знал и говорил мне мой хозяин.
+
+"You will have to find another," I said reasonably. "Let's see your queue ticket." I had taken my ticket as soon as I reached the platform; the cab carried the launching number shown by my ticket.
+
+«Вам придется найти другой», — резонно сказал я. «Давайте посмотрим ваш талон в очередь». Я взял свой билет, как только добрался до платформы; в такси был указан номер отправления, указанный в моем билете.
+
+He did not hesitate. "Where are you going?" he demanded.
+
+Он не колебался. «Куда ты идешь?» — потребовал он.
+
+"New Orleans," I answered and learned for the first time my <span class='tip-wrap' data-text='destination [дЕстэнЕйшэн] {существительное} назначение (пункт)'>**destination**<span class='tip-text'> </span></span>.
+
+«Новый Орлеан», — ответил я и впервые узнал пункт назначения.
+
+"Then you can drop me off in Memphis."
+
+«Тогда можешь высадить меня в Мемфисе».
+
+I shook my head. "It's out of my way."
+
+Я покачал головой. «Это не по моей дороге».
+
+"All of fifteen minutes!" He seemed to have difficulty controlling his temper. "You, sir, must know the rules about sharing cabs." He turned from me. "Driver! Explain to this person the rules."
+
+«Всего пятнадцать минут!» Казалось, ему было трудно контролировать свой гнев. «Вы, сэр, должны знать правила совместного пользования такси». Он отвернулся от меня. «Водитель! Объясните этому человеку правила».
+
+The driver said, "It's nothing to me. I pick them up, I take them, I drop them. Settle it between yourselves or I'll ask the dispatcher for another passenger."
+
+Водитель сказал: «Мне все равно. Я их забираю, отвожу, высаживаю. Решайте сами, или я попрошу диспетчера подбросить другого пассажира».
+
+I hesitated, because I didn't have further instructions. Then I found myself climbing inside. "New Orleans," I said, "with stop at Memphis." The driver shrugged and signaled the control tower. The other passenger snorted and paid me no further attention.
+
+Я колебался, потому что у меня не было дальнейших инструкций. Затем я обнаружил, что забираюсь внутрь. «Новый Орлеан», — сказал я, — «с остановкой в Мемфисе». Водитель пожал плечами и подал сигнал диспетчерской. Другой пассажир фыркнул и больше не обращал на меня внимания.
+
+He opened his briefcase and spread papers across his knees. I watched him with disinterest. Presently I found myself shifting my position to let me get at my gun easily. The <span class='tip-wrap' data-text='elderly [Елдэрли] {прилагательное} пожилой'>**elderly**<span class='tip-text'> </span></span> man shot out a hand and grabbed my wrist. "Not so fast, son," he said, and his features broke into the Satanic grin of the Old Man himself.
+
+Он открыл свой портфель и разложил бумаги на коленях. Я наблюдал за ним без всякого интереса. Вскоре я обнаружил, что меняю позу, чтобы легко достать пистолет. Пожилой мужчина вытянул руку и схватил меня за запястье. «Не так быстро, сынок», — сказал он, и его черты лица исказились в сатанинской ухмылке самого Старика.
+
+My reflexes are fast, but I was at the disadvantage because I had everything routed from me to my master, and action routed back to me. How much delay is that? A millisecond? I don't know. As I was drawing, I felt the gun against my ribs. "Take it easy."
+
+У меня быстрая реакция, но я был в невыгодном положении, потому что все направлялось от меня к моему хозяину, а действие направлялось обратно ко мне. Какая это задержка? Миллисекунда? Я не знаю. Когда я вытаскивал оружие, я почувствовал пистолет у своих ребер. «Успокойся».
+
+With his other hand he thrust something against my side; I felt a prick, and then through me spread the warm wave of "morpheus". I've been knocked out by that drug twice before and I've given it more times than that; I knew what it was.
+
+Другой рукой он что-то мне в бок вставил; я почувствовал укол, а затем по мне разлилась теплая волна «морфеуса». Я уже дважды отключался от этого препарата, и я принимал его больше раз; я знал, что это такое.
+
+I made one more attempt to pull my gun free and fell forward.
+
+Я сделал еще одну попытку вытащить пистолет и упал вперед.
+
+I was vaguely aware of some voices. Someone was handling me <span class='tip-wrap' data-text='roughly [рАфли] {наречие} грубо (приблизительно)'>**roughly**<span class='tip-text'> </span></span> and someone was saying, "Watch out for that ape!" Another voice replied, "It's all right; his tendons are cut," to which the first voice retorted, "He's still got teeth, hasn't he?"
+
+Я смутно слышал какие-то голоса. Кто-то грубо обращался со мной, и кто-то говорил: «Осторожно, эта обезьяна!» Другой голос ответил: «Все в порядке; у него перерезаны сухожилия», на что первый голос парировал: «У него ведь еще есть зубы, не так ли?»
+
+The <span class='tip-wrap' data-text='remark [рымАрк] {существительное} за/при/мечание'>**remark**<span class='tip-text'> </span></span> about cut tendons seemed to be true; none of my limbs moved, but that did not worry me as much as being called an ape. It was a shame, I thought, to call a man names when he can't protect himself.
+
+Замечание о перерезанных сухожилиях, похоже, было правдой; ни одна из моих конечностей не двигалась, но это не волновало меня так сильно, как то, что меня называли обезьяной. Стыдно, подумал я, обзывать человека, когда он не может себя защитить.
+
+I wept a little and then fell into a stupor.
+
+Я немного поплакала, а потом впала в ступор.
+
+"Feeling better, son?"
+
+«Чувствуешь себя лучше, сынок?»
+
+The Old Man was leaning over the end of my bed, staring at me thoughtfully.
+
+Старик наклонился над краем моей кровати и задумчиво смотрел на меня.
+
+"Unh," I said, "pretty good, I guess." I started to sit up and found I could not move.
+
+«Угу», — сказал я, — «довольно неплохо, я думаю». Я начал садиться и обнаружил, что не могу пошевелиться.
+
+The Old Man came around to the side of the bed. "We can take those restraints off now," he said, fiddling with clasps. "Didn't want you to hurt yourself. There!"
+
+Старик обошел кровать и подошел к краю. «Теперь мы можем снять эти ремни», — сказал он, возясь с застежками. «Не хотел, чтобы ты поранился. Вот!»
+
+I sat up, rubbing myself. I was quite stiff. "Now," said the Old Man, "how much do you remember? Report."
+
+Я сел, потирая себя. Я был довольно напряжен. «Ну, — сказал Старик, — сколько ты помнишь? Докладывай».
+
+"Remember?"
+
+"Помнить?"
+
+"You were with them - remember? They caught you. Do you remember anything after the parasite got to you?"
+
+«Ты был с ними — помнишь? Они поймали тебя. Ты помнишь что-нибудь после того, как паразит добрался до тебя?»
+
+I felt a sudden wild fear and clutched at the sides of the bed. "Boss! Boss - they know where this place is! I told them."
+
+Я ощутил внезапный дикий страх и схватился за края кровати. «Босс! Босс — они знают, где это место! Я им сказал».
+
+"No, they don't," he answered quietly, "because these aren't the Section offices you remember. Once I was convinced that you had made a clean getaway, I had the old offices evacuated. They don't know about this place. So you remember?"
+
+«Нет, не знают», — тихо ответил он, — «потому что это не те офисы Секции, которые вы помните. Как только я убедился, что вы благополучно сбежали, я приказал эвакуировать старые офисы. Они не знают об этом месте. Так вы помните?»
+
+"Of course I remember. I got out of here - I mean out of the old offices and went up -" My thoughts raced ahead of my words. The Old Man said gently, "Go ahead."
+
+«Конечно, я помню. Я вышел отсюда — я имею в виду, из старых офисов и поднялся наверх —» Мои мысли опережали мои слова. Старик мягко сказал: «Продолжайте».
+
+I swallowed and said, "Boss - they're all over the place! They've got the city."
+
+Я сглотнул и сказал: «Босс, они повсюду! Они захватили весь город».
+
+"I know. Same as Des Moines. And Minneapolis, and St. Paul, and New Orleans, and Kansas City. Maybe more." He looked sour and added, "We can't even clamp down on the cities we know about. It's very -"
+
+«Я знаю. То же, что и Де-Мойн. И Миннеаполис, и Сент-Пол, и Новый Орлеан, и Канзас-Сити. Может, и больше». Он помрачнел и добавил: «Мы даже не можем ограничить те города, о которых знаем. Это очень...»
+
+"Why not?"
+
+"Почему нет?"
+
+"You should know. Because 'older and wiser heads' than mine are still should be convinced that there is a war on. Because when they take over a city, everything goes on as before."
+
+«Ты должен знать. Потому что «более старые и мудрые головы», чем моя, все еще должны быть убеждены, что идет война. Потому что, когда они захватывают город, все идет по-старому».
+
+I stared at him.
+
+Я уставился на него.
+
+"Never <span class='tip-wrap' data-text='mind [мАйнд] {глагол} возражать; прислушиваться; присматривать'>**mind**<span class='tip-text'> </span></span>," he said gently. "You are the first break we've had. You're the first victim who was recaptured alive - and now we find that you remember what happened to you. That's important. And your parasite is the first <span class='tip-wrap' data-text='live [лАйв] {прилагательное} живой'>**live**<span class='tip-text'> </span></span> one we've managed to capture and keep alive. You can see it, if you wish; it's living off your <span class='tip-wrap' data-text='opposite [Апэзэт] {прилагательное} противоположный'>**opposite**<span class='tip-text'> </span></span> number, a red orangutan, name of Napoleon. It's safe."
+
+«Неважно», — мягко сказал он. «Ты — первый прорыв, который у нас был. Ты — первая жертва, которую поймали живой, — и теперь мы обнаруживаем, что ты помнишь, что с тобой случилось. Это важно. И твой паразит — первый живой, которого нам удалось поймать и сохранить живым. Можешь увидеть его, если хочешь; он живет за счет твоего напарника, красного орангутана по имени Наполеон. Он в безопасности».
+
+"Kill it!"
+
+«Убей его!»
+
+"We need it alive, for study."
+
+«Нам он нужен живым, для изучения».
+
+He looked at me kindly and continued, "I hate to <span class='tip-wrap' data-text='bother [бАðэр] {глагол} беспокоить'>**bother**<span class='tip-text'> </span></span> you when you are sick, but it's got to be done. We've got to record everything you remember."
+
+Он ласково посмотрел на меня и продолжил: «Мне не хочется беспокоить тебя, когда ты болеешь, но это нужно сделать. Мы должны записать все, что ты помнишь».
+
+I pulled myself together and started making a careful, detailed report of all that I could remember. I described renting the loft and recruiting my first victim, then how we moved on from there to the Constitution Club. The Old Man nodded. "Logical. You were a good agent, even for them."
+
+Я взял себя в руки и начал делать тщательный, подробный отчет обо всем, что мог вспомнить. Я описал аренду чердака и вербовку моей первой жертвы, затем то, как мы оттуда переместились в клуб «Конституция». Старик кивнул. «Логично. Ты был хорошим агентом, даже для них».
+
+"You don't understand," I objected. "I didn't do any thinking. I knew what was going on, but that was all. It was as if, uh, as if-" I paused.
+
+«Вы не понимаете», — возразил я. «Я не думал. Я знал, что происходит, но это все. Это было как будто, э-э, как будто...» Я замолчал.
+
+"Never <span class='tip-wrap' data-text='mind [мАйнд] {глагол} возражать; прислушиваться; присматривать'>**mind**<span class='tip-text'> </span></span>. Get on with it."
+
+«Неважно. Продолжай».
+
+"After we recruited the club manager the rest was easy. We took them as they came in -"
+
+«После того, как мы наняли менеджера клуба, все остальное было просто. Мы принимали их такими, какими они были...»
+
+"Names?"
+
+«Имена?»
+
+"Oh, certainly. Myself, Greenberg - M. C. Greenberg, Thor Hansen, J. Hardwick Potter, his chauffeur Jim Wakeley, a little guy called 'Jake' who was washroom attendant at the club. Then there was the manager; I never got his name." I paused, letting my mind run back over that busy afternoon and evening in the club, trying to make sure of each recruit. "Oh my God!"
+
+"О, конечно. Я, Гринберг - MC Гринберг, Тор Хансен, Дж. Хардвик Поттер, его шофер Джим Уэйкли, маленький парень по имени "Джейк", который был уборщиком в туалете в клубе. Потом был менеджер; я так и не узнал его имени". Я сделал паузу, позволив своим мыслям вернуться к тому напряженному дню и вечеру в клубе, пытаясь убедиться в каждом рекруте. "О Боже!"
+
+"What is it?"
+
+"Что это такое?"
+
+"The Secretary - The Assistant Secretary of the Treasury."
+
+«Секретарь — помощник министра финансов».
+
+"You mean you got him!"
+
+«Ты хочешь сказать, что ты его поймал!»
+
+"Yes. The first day. What day was that? How long has it been? God, chief, the Treasury Department protects the President."
+
+«Да. Первый день. Какой это был день? Как давно это было? Боже, шеф, Министерство финансов защищает президента».
+
+But I was not talking to anyone; there was just a hole in the air where the Old Man had been.
+
+Но я ни с кем не разговаривал; в воздухе была лишь дыра на месте Старика.
+
+I lay back exhausted. I started sobbing softly into my pillow. After a while I went to <span class='tip-wrap' data-text='sleep [слИп] {существительное} сон [3]'>**sleep**<span class='tip-text'> </span></span>.
+
+Я откинулся назад, измученный. Я начал тихо всхлипывать в подушку. Через некоторое время я уснул.
+
+CHAPTER 9.
+
+ГЛАВА ДЕВЯТАЯ
+
+I woke up with my head buzzing, and a vague sense of impending <span class='tip-wrap' data-text='disaster [дызЭстэр] {существительное} бедствие'>**disaster**<span class='tip-text'> </span></span>. <span class='tip-wrap' data-text='nevertheless [нЕвэрðэлЕс] {наречие} тем не менее'>**Nevertheless**<span class='tip-text'> </span></span> I felt fine, by comparison. A cheerful voice said, "Feeling better?"
+
+Я проснулся с гудящей головой и смутным ощущением надвигающейся катастрофы. Тем не менее, я чувствовал себя хорошо, по сравнению с этим. Веселый голос сказал: «Чувствуешь себя лучше?»
+
+A small brunet <span class='tip-wrap' data-text='creature [крИчэр] {существительное} существо'>**creature**<span class='tip-text'> </span></span> was bending over me. She was dressed in a very odd costume - white shorts, something practically transparent that restrained her breasts, but not much, and a sort of metal <span class='tip-wrap' data-text='shell [шЕл] {существительное} оболочка'>**shell**<span class='tip-text'> </span></span> that covered the back of her neck, her shoulders, and went on down her spine.
+
+Надо мной склонилось маленькое брюнетистое существо. Она была одета в очень странный костюм — белые шорты, что-то практически прозрачное, что стесняло ее грудь, но не сильно, и что-то вроде металлического панциря, который закрывал ее шею сзади, плечи и спускался вниз по позвоночнику.
+
+"Better," I admitted.
+
+«Лучше», — признал я.
+
+"I'm Doris Marsden," she went on, "your nurse."
+
+«Я Дорис Марсден, — продолжила она, — ваша медсестра».
+
+"Glad to know you, Doris," I answered and stared at her with increasing appreciation. "Say - why are you wearing this? Not that I don't like it, but you look like a <span class='tip-wrap' data-text='refugee [рЕфйуджи] {существительное} беженец'>**refugee**<span class='tip-text'> </span></span> from a comic book."
+
+«Рад познакомиться с тобой, Дорис», — ответил я и уставился на нее с возрастающим одобрением. «Скажи — почему ты это носишь? Не то чтобы мне это не нравится, но ты выглядишь как беженка из комикса».
+
+She looked down at herself and giggled. "The Old Man's orders."
+
+Она посмотрела на себя и хихикнула. «Приказ Старика».
+
+Then I knew why, and I started feeling worse again. I shut up. Doris went on, "Now for some supper." She got a tray and sat down on my bed.
+
+Потом я поняла, почему, и мне снова стало хуже. Я заткнулась. Дорис продолжила: «А теперь ужин». Она взяла поднос и села на мою кровать.
+
+"I don't believe I want anything to eat."
+
+«Я не думаю, что хочу есть».
+
+"Open up," she said <span class='tip-wrap' data-text='firmly [фЭрмли] {наречие} твердо'>**firmly**<span class='tip-text'> </span></span>, "or I'll <span class='tip-wrap' data-text='rub [рАб] {глагол} тереть'>**rub**<span class='tip-text'> </span></span> it in your hair. Special diet and lots of rest, with maybe a sleepy <span class='tip-wrap' data-text='pill [пЫл] {существительное} таблетка'>**pill**<span class='tip-text'> </span></span> later. That's what the doctor says."
+
+«Открой», — твердо сказала она, — «или я вотру это тебе в волосы. Специальная диета и много отдыха, а потом, может быть, снотворное. Так сказал доктор».
+
+"What's wrong with me?"
+
+«Что со мной не так?»
+
+"Extreme exhaustion, starvation, and the first case of scurvy I ever saw in all my born days. As well as scabies and lice - but we got those whipped. There, now you know - and if you tell the doctor I told you, I'll call you a liar to your face."
+
+«Чрезвычайное истощение, голод и первый случай цинги, который я когда-либо видел за все свои дни. А также чесотка и вши — но мы их выбили. Ну, теперь ты знаешь — и если ты скажешь врачу, что я тебе рассказал, я назову тебя лжецом в лицо».
+
+I managed to think it over calmly. As far as I could remember, I had not eaten during that period oftener than every second or third day. Bathing? Let me see - why, I hadn't bathed at all! I had shaved every day and put on a clean shirt; that was a necessary part of the masquerade and the master knew it.
+
+Мне удалось спокойно все обдумать. Насколько я помню, я ел в тот период не чаще, чем раз в два-три дня. Купание? Дай-ка подумать — почему, я вообще не мылся! Я брился каждый день и надевал чистую рубашку; это была необходимая часть маскарада, и хозяин это знал.
+
+On the other hand, I had never taken off my shoes from the time I had stolen them until the Old Man had recaptured me and they had been too <span class='tip-wrap' data-text='tight [тАйт] {прилагательное} плотный; тугой'>**tight**<span class='tip-text'> </span></span> to start with. "What sort of shape are my feet in?" I asked.
+
+С другой стороны, я никогда не снимал обувь с того момента, как украл ее, пока Старик не поймал меня обратно, и она была слишком мала с самого начала. «В какой форме мои ноги?» — спросил я.
+
+"Don't be nosy," Doris advised me.
+
+«Не будь любопытным», — посоветовала мне Дорис.
+
+Davidson came around to see me after breakfast. "Heard you were here," he said. He was wearing shorts and nothing else, except that his left arm was covered by a dressing.
+
+Дэвидсон зашел ко мне после завтрака. «Слышал, ты здесь», — сказал он. На нем были только шорты и ничего больше, за исключением того, что его левая рука была прикрыта повязкой.
+
+"More than I've heard," I complained. "What happened to you?"
+
+«Больше, чем я слышал», — пожаловался я. «Что с тобой случилось?»
+
+"Bee stung me."
+
+«Меня ужалила пчела».
+
+I dropped that subject; if he didn't want to tell how he had gotten burned, that was his business. I went on, "The Old Man was in here yesterday, getting my report, when he left very suddenly. Seen him since?"
+
+Я оставил эту тему; если он не хотел рассказывать, как он обжегся, это его дело. Я продолжил: «Старик был здесь вчера, получал мой отчет, а потом очень внезапно ушел. Видел его с тех пор?»
+
+"Yes."
+
+"Да."
+
+"Well?" I answered.
+
+«Ну?» — ответил я.
+
+"Well, how about you? Have the psych boys' cleared you for secret information, or not?"
+
+«Ну, а как насчет тебя? Психологи дали тебе допуск к секретной информации или нет?»
+
+"Is there any doubt about it?"
+
+«Есть ли в этом какие-либо сомнения?»
+
+"Of course there's doubt. Poor old Jarvis never recovered from it."
+
+«Конечно, есть сомнения. Бедный старый Джарвис так и не оправился от этого».
+
+"Huh?" I hadn't thought about Jarvis. "How is he now?"
+
+«А?» Я не подумал о Джарвисе. «Как он сейчас?»
+
+"He isn't. Never got right in his head. Dropped into a coma and died the next day - the day after you left. I mean the day after you were captured. No apparent reason - just died." Davidson looked me over. "You must be tough."
+
+"Он не такой. Он так и не пришел в себя. Впал в кому и умер на следующий день — на следующий день после того, как ты ушел. Я имею в виду на следующий день после того, как тебя схватили. Без видимых причин — просто умер". Дэвидсон оглядел меня. "Ты, должно быть, крутой".
+
+I did not feel tough. I felt tears of weakness. Davidson pretended not to see.
+
+Я не чувствовал себя сильным. Я чувствовал слезы слабости. Дэвидсон делал вид, что не видит.
+
+"What else has happened - lately?" I asked.
+
+«Что еще произошло в последнее время?» — спросил я.
+
+Davidson looked me over carefully, then said, "Wait a minute." He stepped out of the room and was gone a short time. When he came back, he said, "The Old Man says it's all right. What do you want to know?"
+
+Дэвидсон внимательно осмотрел меня, затем сказал: «Подожди минутку». Он вышел из комнаты и некоторое время отсутствовал. Когда он вернулся, он сказал: «Старик говорит, что все в порядке. Что ты хочешь знать?»
+
+"Everything! What happened yesterday?"
+
+«Всё! Что вчера случилось?»
+
+"I was at work," he answered, "That's how I got this." He waved his damaged wing at me, "I was lucky," he added, "three agents were killed."
+
+«Я был на работе», — ответил он. «Вот так я и получил это». Он помахал мне своим поврежденным крылом. «Мне повезло», — добавил он. «Три агента погибли».
+
+"But how did it come out? How about the President? Was he-"
+
+«Но как это вышло? А как насчет президента? Он был...»
+
+Doris hustled into the room. "Oh, there you are!" she said to Davidson. "I told you to stay in bed. You should be in prosthetic at Mercy Hospital right now. The ambulance has been waiting for ten minutes."
+
+Дорис вбежала в комнату. «О, вот ты где!» — сказала она Дэвидсону. «Я же сказала тебе оставаться в постели. Ты сейчас должен быть в отделении протезирования в больнице Mercy Hospital. Скорая ждет уже десять минут».
+
+He stood up and grinned at her. "The party can't start until I get there."
+
+Он встал и ухмыльнулся ей. «Вечеринка не начнется, пока я не приеду».
+
+"Well, <span class='tip-wrap' data-text='hurry [хЭри] {глагол} торопить(ся)'>**hurry**<span class='tip-text'> </span></span>!"
+
+«Ну, поторопись!»
+
+"Coming." He started out the door with her.
+
+«Иду», — он направился к двери вместе с ней.
+
+I called out, "Hey! How about the President?"
+
+Я крикнул: «Эй! А как насчет президента?»
+
+Davidson paused and looked back over his shoulder. "Oh, him? He's all right - not a scratch on him." He went on.
+
+Дэвидсон остановился и оглянулся через плечо. «О, он? С ним все в порядке — ни царапины». Он продолжил.
+
+Doris came back a few minutes later, fuming. "Patients!" she said, like a <span class='tip-wrap' data-text='swear [суЕр] {глагол} клясться; ругаться'>**swear**<span class='tip-text'> </span></span> word. "Do you know why they call them 'patients'? Because it's patience you have to have to put up with them. I gave injection to him when he got into the ambulance, it was already too late."
+
+Дорис вернулась через несколько минут, кипя от злости. «Пациенты!» — сказала она, словно ругательство. «Знаешь, почему их называют „пациентами“? Потому что нужно иметь терпение, чтобы терпеть их. Я сделала ему укол, когда он сел в машину скорой помощи, было уже слишком поздно».
+
+"Injection for what?"
+
+«Инъекция чего?»
+
+"Didn't he tell you?"
+
+«Разве он тебе не сказал?»
+
+"No."
+
+"Нет."
+
+"Well... no reason not to tell you. Amputation and graft, lower left arm."
+
+«Ну... нет причин не рассказать тебе. Ампутация и трансплантация нижней части левой руки».
+
+"Oh." Then I asked Doris again, "How about the Old Man? Is he on the sick list?"
+
+«О». Затем я снова спросил Дорис: «А как насчет Старика? Он в списке больных?»
+
+"The Old Man? You mean the Chief of Section?"
+
+«Старик? Ты имеешь в виду начальника отдела?»
+
+"Who else?"
+
+«Кто еще?»
+
+"He's not on the sick list, at least not here." She shivered and made a face. "I wouldn't want him as a patient."
+
+«Его нет в списке больных, по крайней мере, здесь». Она вздрогнула и скривилась. «Я бы не хотела иметь его в качестве пациента».
+
+I was inclined to agree with her.
+
+Я был склонен с ней согласиться.
+
+CHAPTER 10.
+
+ГЛАВА ДЕСЯТАЯ
+
+For two or three more days I was kept in bed and treated like a child. I noticed that I was always ready to sleep each time after they fed me. The sores got much better and presently I was encouraged by Doris to take light exercise around the room.
+
+Еще два или три дня меня держали в постели и обращались с ней как с ребенком. Я заметил, что я всегда был готов спать после того, как меня кормили. Язвы стали намного лучше, и вскоре Дорис посоветовала мне делать легкие упражнения по комнате.
+
+The Old Man called on me. He took my <span class='tip-wrap' data-text='chart [чАрт] {существительное} диаграмма; график'>**chart**<span class='tip-text'> </span></span> from the foot of my bed and looked it over. "Nurse," he said, "get this man a pair of shorts. I'm restoring him to duty."
+
+Старик зашел ко мне. Он взял мою карту с подножия кровати и просмотрел ее. «Сестра, — сказал он, — дайте этому человеку шорты. Я верну его в строй».
+
+Doris flushed, went out and came back <span class='tip-wrap' data-text='shortly [шОртли] {наречие} вскоре'>**shortly**<span class='tip-text'> </span></span>, not with clothes for me, but with the doctor. The Old Man looked around and said mildly, "Doc, I sent for <span class='tip-wrap' data-text='pants [пЭнтс] {существительное} брюки'>**pants**<span class='tip-text'> </span></span>, not for you."
+
+Дорис покраснела, вышла и вскоре вернулась, но не с одеждой для меня, а с доктором. Старик огляделся и кротко сказал: «Док, я послал за брюками, а не за вами».
+
+The doctor said stiffly, "I'll thank you not to interfere with my patients."
+
+Доктор сухо сказал: «Я буду вам благодарен, если вы не будете мешать моим пациентам».
+
+The Old Man is stubborn but not bull-headed. He answered, "I beg your pardon, sir. Sometimes I become too preoccupied with other problems to remember to follow correct procedure. Will you do me the <span class='tip-wrap' data-text='favor [фЕйвэр] {существительное} благосклонность; одолжение'>**favor**<span class='tip-text'> </span></span> of examining this patient? I need him; if he can possibly be restored to duty, it would help me to have his services at once."
+
+Старик упрям, но не упрям. Он ответил: "Прошу прощения, сэр. Иногда я слишком занят другими проблемами, чтобы помнить о правильной процедуре. Не окажете ли вы мне услугу, осмотрев этого пациента? Он мне нужен; если его можно восстановить в строю, мне было бы полезно иметь его услуги немедленно".
+
+The doctor's jaw muscles were jumping, but all he said was, "Certainly, sir!" He went through a show of studying my <span class='tip-wrap' data-text='chart [чАрт] {существительное} диаграмма; график'>**chart**<span class='tip-text'> </span></span>, then had me sit on the bed while he tested my reflexes. Finally, he said, "He needs more <span class='tip-wrap' data-text='recovery [рыкАври] {существительное} восстановление'>**recovery**<span class='tip-text'> </span></span> time - but you may have him. Nurse - fetch <span class='tip-wrap' data-text='clothing [клOуðыŋ] {существительное} одежда'>**clothing**<span class='tip-text'> </span></span> for this man."
+
+Челюстные мышцы доктора подпрыгивали, но все, что он сказал, было: «Конечно, сэр!» Он устроил представление, изучая мою карту, затем усадил меня на кровать, пока он проверял мои рефлексы. Наконец, он сказал: «Ему нужно больше времени на восстановление — но вы можете его взять. Медсестра, принесите одежду для этого человека».
+
+<span class='tip-wrap' data-text='clothing [клOуðыŋ] {существительное} одежда'>**Clothing**<span class='tip-text'> </span></span> consisted of shorts and shoes. Everybody else was dressed the same way, and it was comforting to see all those bare shoulders with no masters clinging to them. I told the Old Man so. "Best defense we've got," he said.
+
+Одежда состояла из шорт и обуви. Все остальные были одеты так же, и было приятно видеть все эти голые плечи без хозяев, цепляющихся за них. Я так и сказал Старику. «Лучшая защита, которая у нас есть», — сказал он.
+
+The Old Man stopped at a door with a freshly lettered sign: BIOLOGICAL LABORATORY - STAY OUT! He opened the door.
+
+Старик остановился у двери с только что написанной надписью: БИОЛОГИЧЕСКАЯ ЛАБОРАТОРИЯ — НЕ ВХОДИТЬ! Он открыл дверь.
+
+I stopped. "Where are we going?"
+
+Я остановился. «Куда мы идем?»
+
+"Going to take a look at your twin brother, the ape with your parasite."
+
+«Пойду взгляну на твоего брата-близнеца, обезьяну с твоим паразитом».
+
+"That's what I thought. No, thanks!" I could feel myself begin to tremble.
+
+«Я так и думал. Нет, спасибо!» Я почувствовал, что начинаю дрожать.
+
+The Old Man paused. "Now, look, son," he said patiently, "you've got to get over your panic. The best way is to face up to it."
+
+Старик помолчал. «Послушай, сынок», — терпеливо сказал он, — «тебе нужно преодолеть свою панику. Лучший способ — встретиться с ней лицом к лицу».
+
+"You may be right," I said, "I'm coming."
+
+«Возможно, ты прав, — сказал я, — я иду».
+
+He did not answer but, as I came alongside him, he grasped my upper arm, warmly and affectionately, and continued to hold it as we walked. We went on in, through another locked door and into a room that was conditioned warm and moist. The ape was there, in a cage.
+
+Он не ответил, но, когда я подошел к нему, он схватил меня за предплечье, тепло и ласково, и продолжал держать его, пока мы шли. Мы вошли, через другую запертую дверь и в комнату, которая была кондиционирована теплом и влажным. Обезьяна была там, в клетке.
+
+He sat facing us; his torso was supported and restrained by a strap-metal construction.
+
+Он сидел лицом к нам; его туловище поддерживалось и ограничивалось металлической конструкцией с ремнями.
+
+"Around to the side," the Old Man said softly. We moved around; the ape followed us with his eyes, but his body was held by the <span class='tip-wrap' data-text='frame [фрЕйм] {существительное} рамка'>**frame**<span class='tip-text'> </span></span>. From the new position I could see it.
+
+«Вокруг в сторону», — тихо сказал Старик. Мы двинулись в обход; обезьяна следила за нами глазами, но ее тело удерживала рама. Из нового положения я мог ее видеть.
+
+My master. The thing that had ridden my back for an <span class='tip-wrap' data-text='endless [Ендлэс] {прилагательное} бесконечный'>**endless**<span class='tip-text'> </span></span> time, spoken with my mouth, thought with my brain. My master.
+
+Мой хозяин. То, что ехало на моей спине бесконечно долго, говорило моим ртом, думало моим мозгом. Мой хозяин.
+
+"Steady," the Old Man said softly. "Steady. You'll get used to it." He shook my arm. "Look away for a bit. It helps."
+
+«Спокойно», — тихо сказал Старик. «Спокойно. Ты привыкнешь». Он потряс мою руку. «Отвернись немного. Это помогает».
+
+I did so and it helped. Not much, but some. I took a couple of deep breaths, then held it and managed to <span class='tip-wrap' data-text='slow [слOу] {глагол} замедлять'>**slow**<span class='tip-text'> </span></span> my heart down a little. I made myself stare at it.
+
+Я так и сделал, и это помогло. Не сильно, но немного. Я сделал пару глубоких вдохов, затем задержал дыхание и сумел немного замедлить сердцебиение. Я заставил себя смотреть на него.
+
+It is not the appearance of a parasite which arouses <span class='tip-wrap' data-text='horror [хОрэр] {существительное} ужас'>**horror**<span class='tip-text'> </span></span>. Nor was the <span class='tip-wrap' data-text='horror [хОрэр] {существительное} ужас'>**horror**<span class='tip-text'> </span></span> from knowing what they could do - for I felt the <span class='tip-wrap' data-text='horror [хОрэр] {существительное} ужас'>**horror**<span class='tip-text'> </span></span> the first time I saw one, before I really knew what one was. I tried to tell the Old Man about it, letting the talk steady me. He nodded, his eyes were still on the parasite. "It's the same with everybody," he said. "Unreasoned fear, like a bird with a snake. Probably its prime weapon." The Old Man looked at me.
+
+Ужас вызывает не появление паразита. И не ужас от знания того, что они могут сделать, — ведь я испытал ужас, когда впервые увидел их, еще до того, как узнал, что они собой представляют. Я попытался рассказать об этом Старику, позволяя разговору успокоить меня. Он кивнул, его глаза все еще были устремлены на паразита. «То же самое со всеми», — сказал он. «Бессмысленный страх, как у птицы перед змеей. Вероятно, его главное оружие». Старик посмотрел на меня.
+
+"All I want to do is to kill it!" I said. "I want to kill all of them - I could spend my whole life killing them and killing them." I began to shake again.
+
+«Все, что я хочу сделать, это убить его!» — сказал я. «Я хочу убить их всех — я мог бы провести всю свою жизнь, убивая их и убивая». Я снова начал дрожать.
+
+The Old Man continued to study me. "Here," he said, and handed me his gun.
+
+Старик продолжал меня изучать. «Вот», — сказал он и протянул мне свой пистолет.
+
+I took it but looked back at him questioningly. "Huh? What for?"
+
+Я взяла его, но вопросительно посмотрела на него. «А? Зачем?»
+
+"You want to kill it, don't you? If you feel that you have to, go ahead. Kill it. Right now."
+
+«Ты хочешь убить его, не так ли? Если ты чувствуешь, что должен это сделать, вперед. Убей его. Прямо сейчас».
+
+"Huh? But - Look here, boss, you told me you needed this one for study."
+
+«А? Но — послушайте, босс, вы же говорили, что вам это нужно для учебы».
+
+"I do. But if you need to kill it, if you feel that you have to kill it, do so. If you need to kill it, to make you a whole man again, go ahead."
+
+«Я так считаю. Но если вам нужно его убить, если вы чувствуете, что должны его убить, сделайте это. Если вам нужно его убить, чтобы снова стать полноценным человеком, вперед».
+
+"'To make me a whole man again -"' The thought rang through my head. My master...
+
+«Сделать меня снова полноценным человеком...» — пронеслась в моей голове мысль. Мой хозяин...
+
+If I killed this one I would be a free man again - but I would never be free as long as it lived. <span class='tip-wrap' data-text='surely [шУрли] {наречие} конечно'>**Surely**<span class='tip-text'> </span></span>, I wanted to kill them, every one of them - but this one above all.
+
+Если бы я убил этого, я бы снова стал свободным человеком, но я никогда не буду свободен, пока он жив. Конечно, я хотел убить их, каждого из них, но этого больше всех.
+
+My master... still my master unless I killed it. I had a dark and certain thought that if I were alone with it, I would be able to do nothing, that I would freeze and wait while it crawled up me and settled again between my shoulder blades, took possession of my brain and my very <span class='tip-wrap' data-text='inner [Ынэр] {прилагательное} внутренний'>**inner**<span class='tip-text'> </span></span> self.
+
+Мой хозяин... все еще мой хозяин, пока я его не убью. У меня была темная и определенная мысль, что если я останусь с ним один на один, то ничего не смогу сделать, что я замру и подожду, пока он заползет по мне и снова устроится между лопатками, овладеет моим мозгом и моим внутренним «я».
+
+But now I could kill it!
+
+Но теперь я могу его убить!
+
+No longer frightened, I raised the gun, ready to squeeze the trigger.
+
+Больше не испытывая страха, я поднял пистолет, готовый нажать на курок.
+
+The Old Man watched me.
+
+Старик наблюдал за мной.
+
+I lowered the gun a little and said uncertainly, "Boss, suppose I kill it. You've got others?"
+
+Я немного опустил пистолет и неуверенно сказал: «Босс, а что, если я его убью? У тебя есть другие?»
+
+"No."
+
+"Нет."
+
+"But you need it."
+
+«Но тебе это нужно».
+
+"Yes."
+
+"Да."
+
+"Well, but why did you give me the gun?"
+
+«Ну, а зачем ты мне пистолет дал?»
+
+"You know why. This one is yours; you've got first claim. If you have to kill it, go ahead. If you can pass it up, then the Section will use it."
+
+«Ты знаешь почему. Этот твой; у тебя первое право. Если тебе придется его убить, вперед. Если сможешь его передать, тогда Отдел им воспользуется».
+
+I had to kill it. Even if we killed all the others, while this one was still alive I would still crouch and tremble in the dark.
+
+Мне пришлось его убить. Даже если бы мы убили всех остальных, пока этот был жив, я бы все равно скорчился и дрожал в темноте.
+
+But then I turned and gave the gun to the Old Man; he put it away. "What happened?" he asked. "You were all set."
+
+Но потом я повернулся и отдал пистолет Старику; он убрал его. «Что случилось?» — спросил он. «Ты был готов».
+
+"Uh? I don't know. When it got right down to it, it was enough to know that I could."
+
+«Э? Я не знаю. Когда дошло до дела, было достаточно знать, что я могу».
+
+"I figured that it would be."
+
+«Я так и думал».
+
+I felt warm and relaxed, as if I had just killed it. I was able to turn my back on it and face the Old Man. I was not even angry with him for what he had done; instead I felt warm toward him, even affectionate. "So you figured that it would be. How does it feel to be a puppet master?"
+
+Я чувствовал тепло и расслабление, как будто я только что убил его. Я смог повернуться к нему спиной и лицом к Старику. Я даже не злился на него за то, что он сделал; вместо этого я чувствовал к нему теплоту, даже привязанность. «Так ты и думал, что так и будет. Каково это — быть кукловодом?»
+
+He answered, "Not me. The most I ever do is to lead a man on the path he wants to follow. There is the puppet master." He hooked a <span class='tip-wrap' data-text='thumb [θАм] {существительное} большой палец'>**thumb**<span class='tip-text'> </span></span> at the parasite.
+
+Он ответил: «Не я. Самое большее, что я делаю, это веду человека по пути, по которому он хочет идти. Вот он, кукловод». Он указал большим пальцем на паразита.
+
+I looked around at it. "Yes," I agreed softly, "'the puppet master'. You think you know what you mean by that - but you don't. And boss... I hope you never do."
+
+Я огляделся вокруг. «Да», — тихо согласился я, — «кукловод». Ты думаешь, что знаешь, что имеешь в виду, но это не так. И босс... Надеюсь, ты никогда этого не узнаешь».
+
+"I hope so, too," he answered seriously.
+
+«Я тоже на это надеюсь», — серьезно ответил он.
+
+I could look now without trembling. Still staring at it, I went on, "Boss, when you are through with it, if there is anything left, then I'll kill it."
+
+Теперь я мог смотреть без дрожи. Все еще глядя на него, я продолжал: «Босс, когда вы закончите с этим, если что-то останется, я это убью».
+
+"That's a promise."
+
+«Это обещание».
+
+We were interrupted by a man coming into the cage room.
+
+Нас прервал мужчина, вошедший в комнату с клетками.
+
+He said to the Old Man, "Chief, are you ready for that, uh, procedure?"
+
+Он обратился к Старику: «Шеф, вы готовы к этой, э-э, процедуре?»
+
+"<span class='tip-wrap' data-text='shortly [шОртли] {наречие} вскоре'>**Shortly**<span class='tip-text'> </span></span>. I'll let you know."
+
+«Скоро. Я дам вам знать».
+
+The man left.
+
+Мужчина ушел.
+
+I turned back to looking at my former master. It still revolted me, but there was a feeling of danger, too. "Boss," I asked, "what are you going to do with this thing?"
+
+Я повернулся и посмотрел на своего бывшего хозяина. Мне это все еще было противно, но было и чувство опасности. «Босс», — спросил я, — «что ты собираешься делать с этой штукой?»
+
+He looked at me. "I plan to <span class='tip-wrap' data-text='interview [ЫнтэрвйУ] {глагол} интервьюировать'>**interview**<span class='tip-text'> </span></span> it."
+
+Он посмотрел на меня. «Я планирую взять у него интервью».
+
+"To what? But how can you... What I want to say is: the ape, I mean -"
+
+«К чему? Но как ты можешь... Я хочу сказать: обезьяна, я имею в виду...»
+
+"No, the ape can't talk. That's the problem. We'll have to have a <span class='tip-wrap' data-text='volunteer [вАлэнтЫр] {существительное} волонтер'>**volunteer**<span class='tip-text'> </span></span> - a human <span class='tip-wrap' data-text='volunteer [вАлэнтЫр] {существительное} волонтер'>**volunteer**<span class='tip-text'> </span></span>."
+
+«Нет, обезьяна не умеет говорить. В этом-то и проблема. Нам понадобится доброволец — человек-доброволец».
+
+When his words sank in and I began to visualize what he meant by them the <span class='tip-wrap' data-text='horror [хОрэр] {существительное} ужас'>**horror**<span class='tip-text'> </span></span> struck me again almost full force. "You can't mean that. You wouldn't do that - not to anybody."
+
+Когда его слова дошли до меня и я начал представлять, что он имел в виду, ужас снова обрушился на меня почти со всей силой. «Ты не можешь этого иметь в виду. Ты бы так не поступил — ни с кем».
+
+"I could and I'm going to. What needs to be done will be done."
+
+«Я мог бы и собираюсь это сделать. То, что должно быть сделано, будет сделано».
+
+"You won't get any volunteers!"
+
+«У вас не будет добровольцев!»
+
+"I've already got one."
+
+«У меня уже есть один».
+
+"You have? Who?"
+
+«У тебя есть? Кто?»
+
+"But I don't want to use the <span class='tip-wrap' data-text='volunteer [вАлэнтЫр] {существительное} волонтер'>**volunteer**<span class='tip-text'> </span></span> I've got. I'm still looking for the right man."
+
+«Но я не хочу использовать добровольца, который у меня есть. Я все еще ищу подходящего человека».
+
+I was disgusted and showed it. "You ought not to be looking for anyone, <span class='tip-wrap' data-text='volunteer [вАлэнтЫр] {существительное} волонтер'>**volunteer**<span class='tip-text'> </span></span> or not. And if you've got one, I'll <span class='tip-wrap' data-text='bet [бЕт] {глагол} держать пари'>**bet**<span class='tip-text'> </span></span> you won't find another; there can't be two people that far out of their minds."
+
+Я был возмущен и показал это. «Тебе не следует искать никого, будь то волонтер или нет. А если у тебя есть один, я готов поспорить, что другого ты не найдешь; не может быть двух людей, которые настолько не в себе».
+
+"Possibly," he agreed. "But I still don't want the one I've got. The interview is a <span class='tip-wrap' data-text='necessity [нэсЕсэти] {существительное} необходимость'>**necessity**<span class='tip-text'> </span></span>, son; we are fighting a war with a total lack of military, intelligence. We don't know anything, really, about our enemy. We can't <span class='tip-wrap' data-text='negotiate [нэгOушиЕйт] {глагол} вести переговоры'>**negotiate**<span class='tip-text'> </span></span> with him, we don't know where he comes from, nor what he wants. We've got to find out; our <span class='tip-wrap' data-text='racial [рЕйшэл] {прилагательное} расовый'>**racial**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='existence [егзЫстэнс] {существительное} существование'>**existence**<span class='tip-text'> </span></span> depends on it. The only, the only way to talk to these creatures is through a human <span class='tip-wrap' data-text='volunteer [вАлэнтЫр] {существительное} волонтер'>**volunteer**<span class='tip-text'> </span></span>. So it will be done. But I'm still looking for a <span class='tip-wrap' data-text='volunteer [вАлэнтЫр] {существительное} волонтер'>**volunteer**<span class='tip-text'> </span></span>."
+
+«Возможно», — согласился он. «Но я все равно не хочу того, что у меня есть. Интервью — это необходимость, сынок; мы ведем войну при полном отсутствии военной разведки. Мы ничего не знаем, на самом деле, о нашем враге. Мы не можем вести с ним переговоры, мы не знаем, откуда он взялся и чего он хочет. Мы должны это выяснить; от этого зависит наше расовое существование. Единственный, единственный способ поговорить с этими существами — через человека-добровольца. Так что это будет сделано. Но я все еще ищу добровольца».
+
+"Well, don't look at me!"
+
+«Ну и не смотри на меня!»
+
+"I am looking at you."
+
+«Я смотрю на тебя».
+
+His answer made me speechless. I finally managed to say, "You're crazy! I won't do it."
+
+Его ответ лишил меня дара речи. Наконец мне удалось выдавить из себя: «Ты с ума сошел! Я этого делать не буду».
+
+He continued, "It can't be just any <span class='tip-wrap' data-text='volunteer [вАлэнтЫр] {существительное} волонтер'>**volunteer**<span class='tip-text'> </span></span>; it has to be a man who can take it. Jarvis wasn't stable and strong enough. We know you are."
+
+Он продолжил: «Это не может быть просто доброволец; это должен быть человек, который сможет это выдержать. Джарвис был недостаточно стабилен и силен. Мы знаем, что ты достаточно силен».
+
+"Me? You don't know anything of the sort. All you know is that I lived through it once. I... I couldn't stand it again."
+
+«Я? Ты ничего такого не знаешь. Все, что ты знаешь, это то, что я пережил это однажды. Я... Я не мог бы вынести этого снова».
+
+"Well, maybe it will kill you," he answered calmly, "but it is less likely to kill you than someone else. With anyone else I run more risk of losing an agent."
+
+«Ну, может быть, это убьет тебя», — спокойно ответил он, — «но это менее вероятно, что это убьет тебя, чем кого-то другого. С кем-то другим я больше рискую потерять агента».
+
+"Since when did you worry about risking an agent?" I said bitterly.
+
+«С каких это пор ты стал беспокоиться о том, что рискуешь агентом?» — с горечью спросил я.
+
+"Since always, believe me. I am giving you one more chance, son: are you going to do this, knowing that it has to be done and that you stand the best chance of anybody - and can be of most use to us, because you are used to it - or are you going to let some other agent risk his mind and probably his life in your place?"
+
+«Поверь мне, как всегда. Я даю тебе еще один шанс, сынок: сделаешь ли ты это, зная, что это необходимо сделать, и что у тебя больше шансов, чем у кого-либо, и что ты можешь быть нам наиболее полезен, потому что ты к этому привык, или ты позволишь какому-то другому агенту рисковать своим разумом и, возможно, жизнью вместо тебя?»
+
+I started to try to explain how I felt, that I was not afraid to die, no more than is normal, but that I could not stand the thought of dying while possessed by a parasite. But I could not say it; there were still no words to describe what the race had not experienced.
+
+Я начал пытаться объяснить, что я чувствую, что я не боюсь умереть, не больше, чем обычно, но что я не могу вынести мысли о смерти, будучи одержимым паразитом. Но я не мог этого сказать; все еще не было слов, чтобы описать то, что не испытала раса.
+
+I shrugged. "There is a limit to what one man can be expected to go through and I've reached it. I won't do it."
+
+Я пожал плечами. «Есть предел тому, что может пережить один человек, и я его достиг. Я этого делать не буду».
+
+He turned to the intercom phone on the wall. "Laboratory," he called out, "we'll start the experiment right now. <span class='tip-wrap' data-text='hurry [хЭри] {глагол} торопить(ся)'>**Hurry**<span class='tip-text'> </span></span> it up!"
+
+Он повернулся к телефону внутренней связи на стене. «Лаборатория», — крикнул он, — «мы начнем эксперимент прямо сейчас. Поторопись!»
+
+"Which subject?" the voice asked. "It affects the measurements."
+
+«Какой предмет?» — спросил голос. «Он влияет на измерения».
+
+"The original <span class='tip-wrap' data-text='volunteer [вАлэнтЫр] {существительное} волонтер'>**volunteer**<span class='tip-text'> </span></span>."
+
+«Первоначальный доброволец».
+
+"That's the smaller structure?" the voice asked doubtfully.
+
+«Это строение поменьше?» — с сомнением спросил голос.
+
+"Right. Get it in here."
+
+«Ладно. Давай сюда».
+
+I started for the door. The Old Man snapped, "Where do you think you are going?"
+
+Я направился к двери. Старик резко спросил: «Куда ты идешь?»
+
+"Out," I snapped back.
+
+«Вон», — резко ответил я.
+
+He grabbed me and spun me around as if he had been the bigger and younger. "No, you don't. You know more about these things than the rest of us; your advice could be of help."
+
+Он схватил меня и развернул, как будто он был старше и моложе. «Нет, не знаешь. Ты знаешь об этих вещах больше, чем все мы; твой совет мог бы помочь».
+
+"Let go of me."
+
+«Отпусти меня».
+
+"You'll stay and watch!" he said savagely.
+
+«Ты останешься и будешь смотреть!» — яростно сказал он.
+
+I was too weak to argue; I felt nervously exhausted, tired in my bones. "You're the boss."
+
+Я был слишком слаб, чтобы спорить; я чувствовал себя нервно истощенным, уставшим до костей. «Ты — босс».
+
+The lab people wheeled in a metal <span class='tip-wrap' data-text='framework [фрЕймуЭрк] {существительное} рамки; основа; каркас'>**framework**<span class='tip-text'> </span></span>, a sort of chair. There were metal clamps for ankles and knees, more of the same on the chair arms for the wrists and elbows. There was a corselet effect to restrain the waist and the lower part of the chest, but the back was cut away so that the shoulders of the person to sit in it would be free.
+
+Лаборанты вкатили металлический каркас, своего рода стул. На лодыжках и коленях были металлические зажимы, еще больше таких же на подлокотниках стула для запястий и локтей. Был эффект корсета, чтобы сдерживать талию и нижнюю часть груди, но спинка была срезана, чтобы плечи сидящего на ней человека были свободны.
+
+They brought it over and placed it beside the ape's cage, then removed the back panel of the cage and the panel on the side nearest the "chair".
+
+Они принесли его и поставили рядом с клеткой с обезьяной, затем сняли заднюю панель клетки и панель со стороны, ближайшей к «стулу».
+
+The technicians stood back and waited, apparently ready for the job. The <span class='tip-wrap' data-text='outer [Аутэр] {прилагательное} внешний'>**outer**<span class='tip-text'> </span></span> door opened and several people came in; among them was Mary.
+
+Техники стояли в стороне и ждали, по-видимому, готовые к работе. Внешняя дверь открылась, и вошли несколько человек; среди них была Мэри.
+
+I was caught off balance by her sudden appearance.
+
+Ее внезапное появление застало меня врасплох.
+
+Mary saw me, looked surprised, and nodded. She was looking good, as always, though very serious. She was dressed in the same sort of costume as the nurses had worn, shorts and a skimpy halter, but she did not have on the back plate.
+
+Мэри увидела меня, удивилась и кивнула. Она выглядела хорошо, как всегда, хотя и очень серьезно. Она была одета в тот же костюм, что и медсестры, шорты и узкий топ, но на ней не было пластины на спине.
+
+The others in the party were men. They wore shorts, like the Old Man and myself. They were loaded with <span class='tip-wrap' data-text='recording [рэкОрдыŋ] {существительное} запись'>**recording**<span class='tip-text'> </span></span> and stereo equipment as well as other apparatus.
+
+Остальные в группе были мужчинами. Они носили шорты, как Старик и я. Они были нагружены записывающим и стереооборудованием, а также другой аппаратурой.
+
+"Ready?" inquired the lab chief.
+
+«Готовы?» — спросил начальник лаборатории.
+
+"Start," answered the Old Man.
+
+«Начинай», — ответил Старик.
+
+Mary walked straight to the metal chair and sat down in it. I looked at this in a <span class='tip-wrap' data-text='frozen [фрOузэн] {прилагательное} замороженный'>**frozen**<span class='tip-text'> </span></span> daze, as if caught in a <span class='tip-wrap' data-text='nightmare [нАйтмЕр] {существительное} кошмар'>**nightmare**<span class='tip-text'> </span></span>. Then I had grabbed the Old Man by the shoulders and had <span class='tip-wrap' data-text='literally [лЫтэрэли] {наречие} буквально'>**literally**<span class='tip-text'> </span></span> thrown him <span class='tip-wrap' data-text='aside [эсАйд] {наречие} в сторону'>**aside**<span class='tip-text'> </span></span> and I was standing by the chair, kicking the technicians out of the way. "Mary!" I screamed, "get up out of there!"
+
+Мэри направилась прямо к металлическому стулу и села в него. Я смотрел на это в застывшем оцепенении, словно попал в кошмар. Затем я схватил Старика за плечи и буквально отбросил его в сторону, а сам встал у стула, отталкивая техников с дороги. «Мэри!» — закричал я, — «вставай оттуда!»
+
+Now the Old Man had his gun on me and was motioning me back with it. "Away from her," he ordered. "You three - grab him and tie him up."
+
+Теперь Старик направил на меня свой пистолет и махнул мне им назад. «Отойди от нее», — приказал он. «Вы трое — хватайте его и вяжите».
+
+I looked at the gun, then I looked down at Mary. She said nothing and did not move; in fact her feet were already bound. She simply looked at me with compassionate eyes. "Get up from there, Mary," I said, "I want to sit down."
+
+Я посмотрел на пистолет, затем на Мэри. Она ничего не сказала и не пошевелилась; на самом деле ее ноги уже были связаны. Она просто посмотрела на меня сострадательными глазами. «Вставай оттуда, Мэри», — сказал я, — «я хочу сесть».
+
+They removed the chair Mary had sat in and brought in another, larger one. When they finished clamping me in place, Mary was no longer in the room. The Old Man stepped up to me after I had been prepared, laid a hand on my arm, and said quietly, "Thanks, son."
+
+Они убрали стул, на котором сидела Мэри, и принесли другой, побольше. Когда они закончили зажимать меня на месте, Мэри уже не было в комнате. Старик подошел ко мне после того, как я подготовился, положил руку мне на плечо и тихо сказал: «Спасибо, сынок».
+
+I did not <span class='tip-wrap' data-text='bother [бАðэр] {глагол} беспокоить'>**bother**<span class='tip-text'> </span></span> to answer.
+
+Я не стал отвечать.
+
+I did not see them handle the parasite as it took place behind my back.
+
+Я не видел, как они обращались с паразитом, поскольку это происходило за моей спиной.
+
+There was a dead silence as if everyone was holding his breath - then something moist touched the back of my neck and I fainted.
+
+Наступила мертвая тишина, словно все затаили дыхание, а затем что-то влажное коснулось моего затылка, и я потерял сознание.
+
+I came out of it with the same tingling energy I had experienced once before. I knew I was in a <span class='tip-wrap' data-text='tight [тАйт] {прилагательное} плотный; тугой'>**tight**<span class='tip-text'> </span></span> spot, but I was carefully determined to think my way out of it. I was not afraid; I was contemptuous of those around me and sure that in the long run I could outwit them.
+
+Я вышел из этого состояния с той же покалывающей энергией, которую я испытал однажды. Я знал, что попал в затруднительное положение, но я был полон решимости найти выход из него. Я не боялся; я презирал окружающих и был уверен, что в конечном итоге смогу их перехитрить.
+
+The Old Man said <span class='tip-wrap' data-text='sharply [шАрпли] {наречие} резко'>**sharply**<span class='tip-text'> </span></span>, "Can you hear me?"
+
+Старик резко спросил: «Ты меня слышишь?»
+
+I answered, "Of course I can. Stop shouting."
+
+Я ответил: «Конечно, могу. Перестань кричать».
+
+"Do you remember what we are here for?"
+
+«Вы помните, для чего мы здесь?»
+
+I said, "Naturally I remember. You want to ask some questions. What are you waiting for?"
+
+Я сказал: «Естественно, я помню. Ты хочешь задать несколько вопросов. Чего ты ждешь?»
+
+"What are you?"
+
+"Что ты?"
+
+"Now that's a silly question. Take a look at me. I'm six feet one, more muscle than brain, and I <span class='tip-wrap' data-text='weigh [уЕй] {глагол} весить'>**weigh**<span class='tip-text'> </span></span> -"
+
+«Это глупый вопрос. Посмотрите на меня. Мой рост шесть футов один дюйм, больше мышц, чем мозгов, и я вешу...»
+
+"Not you. You know to whom I am talking - you."
+
+«Не ты. Ты знаешь, с кем я говорю — с тобой».
+
+"Guessing games?"
+
+«Игры в угадайку?»
+
+The Old Man waited a bit before replying, "It will do you no good to pretend that I don't know what you are -"
+
+Старик немного подождал, прежде чем ответить: «Тебе не поможет притворство, будто я не знаю, кто ты...»
+
+"Ah, but you don't."
+
+«А, но ты этого не сделаешь».
+
+"Or, rather, that I don't know that you are a parasite talking through the body of a man. You know that I have been studying you all the time you have been living on the body of that ape. I know things about you which give me an advantage over you. One - you can be killed. Two, you can be hurt. You don't like electric shock and you can't stand the amount of heat even a man can stand. Three, you are helpless without your <span class='tip-wrap' data-text='host [хOуст] {существительное} хозяин; ведущий'>**host**<span class='tip-text'> </span></span>. I could remove you from this man and you would die. Four, you have no powers except those you borrow from your <span class='tip-wrap' data-text='host [хOуст] {существительное} хозяин; ведущий'>**host**<span class='tip-text'> </span></span> - and your <span class='tip-wrap' data-text='host [хOуст] {существительное} хозяин; ведущий'>**host**<span class='tip-text'> </span></span> is helpless. Try your bonds; then be sensible. You must cooperate - or die."
+
+«Или, скорее, я не знаю, что ты паразит, говорящий через тело человека. Ты знаешь, что я изучал тебя все время, пока ты жил на теле этой обезьяны. Я знаю о тебе то, что дает мне преимущество перед тобой. Во-первых, тебя можно убить. Во-вторых, тебя можно ранить. Ты не любишь электрошок и не можешь выдержать жару, которую может выдержать даже человек. В-третьих, ты беспомощен без своего хозяина. Я могу удалить тебя из этого человека, и ты умрешь. В-четвертых, у тебя нет никаких сил, кроме тех, которые ты заимствуешь у своего хозяина, а твой хозяин беспомощен. Испытай свои связи; затем будь благоразумен. Ты должен сотрудничать — или умереть».
+
+I listened with half an ear; I had already been trying my bonds, finding them, as I expected, impossible to escape. This did not worry me; I had neither worries nor fears. I was oddly happy to be back with my master, to be free of troubles and tensions. My business was to serve and the future would take care of itself.
+
+Я слушал вполуха; я уже пробовал свои узы, обнаружив, как и ожидал, что их невозможно освободить. Это меня не беспокоило; у меня не было ни тревог, ни страхов. Я был странно счастлив вернуться к своему хозяину, освободиться от проблем и напряжений. Моим делом было служить, а будущее само о себе позаботится.
+
+In the meantime, I must be alert, ready to serve him.
+
+В то же время я должен быть начеку и готов служить ему.
+
+An instruction came at once - or, I made a decision, for the words mean the same; I tell you there was no conflict between my master and me; we were one - instruction or decision, I knew it was not time to risk an escape. I ran my eyes around the room, trying to figure who was <span class='tip-wrap' data-text='armed [Армд] {прилагательное} вооруженный'>**armed**<span class='tip-text'> </span></span> and who was not. It was my guess that only the Old Man was <span class='tip-wrap' data-text='armed [Армд] {прилагательное} вооруженный'>**armed**<span class='tip-text'> </span></span>; that bettered the chances.
+
+Инструкция пришла немедленно — или, я принял решение, ибо слова означают одно и то же; я говорю вам, что между мной и моим хозяином не было конфликта; мы были едины — инструкция или решение, я знал, что не время рисковать и бежать. Я обвел взглядом комнату, пытаясь понять, кто был вооружен, а кто нет. Я предполагал, что вооружен был только Старик; это увеличивало шансы.
+
+Somewhere, deep down, was that dull ache of <span class='tip-wrap' data-text='guilt [гЫлт] {существительное} вина'>**guilt**<span class='tip-text'> </span></span> and despair, never experienced by any but the servants of the masters - but I was too busy with the problem at hand to be troubled by it.
+
+Где-то в глубине души таилась тупая боль вины и отчаяния, которую никогда не испытывал никто, кроме слуг хозяев, но я был слишком занят насущной проблемой, чтобы беспокоиться об этом.
+
+"Well?" the Old Man went on. "Do you answer my questions, or do I <span class='tip-wrap' data-text='punish [пАныш] {глагол} наказать'>**punish**<span class='tip-text'> </span></span> you?"
+
+«Ну?» — продолжал Старик. «Ты отвечаешь на мои вопросы или мне тебя наказать?»
+
+"What questions?" I asked. "Up to now, you've been talking nonsense."
+
+«Какие вопросы?» — спросил я. «До сих пор ты нес чушь».
+
+The Old Man turned to one of the technicians. "Give me the tickler."
+
+Старик повернулся к одному из техников: «Дай мне щекотун».
+
+I did not understand what it was he had asked for. I was still busy checking my bonds.
+
+Я не понял, о чем он просил. Я все еще был занят проверкой своих облигаций.
+
+He reached past my shoulders with a <span class='tip-wrap' data-text='rod [рАд] {существительное} стержень; штанга; удочка'>**rod**<span class='tip-text'> </span></span>. I felt a shocking, unbearable pain. I was <span class='tip-wrap' data-text='split [сплЫт] {глагол} разделить'>**split**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='apart [эпАрт] {наречие} отдельно'>**apart**<span class='tip-text'> </span></span> by it; for the moment I was masterless.
+
+Он протянул мне за плечи прут. Я почувствовал шокирующую, невыносимую боль. Она расколола меня на части; на мгновение я был без хозяина.
+
+The pain left. Before I could speak, I was again safe in the arms of my master. But for the first and only time in my service to him I was not myself free of worry; some of his own wild fear and pain was passed on to me, the servant.
+
+Боль ушла. Прежде чем я успел заговорить, я снова оказался в безопасности в объятиях своего хозяина. Но в первый и единственный раз за время службы ему я сам не был свободен от беспокойства; часть его собственного дикого страха и боли передалась мне, слуге.
+
+"Well," asked the Old Man, "how did you like the taste of that?"
+
+«Ну что», — спросил Старик, — «как тебе это на вкус?»
+
+The panic that possessed me washed away. My wrists and ankles, which had begun to pain me, stopped hurting. "Why did you do that?" I asked. "Certainly, you can hurt me - but why?"
+
+Паника, которая овладела мной, смылась. Мои запястья и лодыжки, которые начали болеть, перестали болеть. «Зачем ты это сделал?» — спросил я. «Конечно, ты можешь причинить мне боль — но зачем?»
+
+"Answer my questions."
+
+«Ответьте на мои вопросы».
+
+"Ask them."
+
+«Спросите их».
+
+"What are you?"
+
+"Что ты?"
+
+The answer did not come at once. The Old Man reached for the <span class='tip-wrap' data-text='rod [рАд] {существительное} стержень; штанга; удочка'>**rod**<span class='tip-text'> </span></span>; I heard myself saying, "We are the people."
+
+Ответ пришел не сразу. Старик потянулся за прутом; я услышал, как говорю: «Мы — народ».
+
+"The people? What people?"
+
+«Люди? Какие люди?»
+
+"The only people. We have studied you and we know your ways. We -" I stopped suddenly.
+
+«Единственные люди. Мы изучили вас и знаем ваши обычаи. Мы...» Я внезапно остановился.
+
+"Keep talking," the Old Man said grimly, and gestured with the <span class='tip-wrap' data-text='rod [рАд] {существительное} стержень; штанга; удочка'>**rod**<span class='tip-text'> </span></span>.
+
+«Продолжай говорить», — мрачно сказал Старик и махнул жезлом.
+
+"We come," I went on, "to bring you -"
+
+«Мы пришли», — продолжил я, — «чтобы принести вам...»
+
+"To bring us what?"
+
+«Что нам принести?»
+
+I wanted to talk; the <span class='tip-wrap' data-text='rod [рАд] {существительное} стержень; штанга; удочка'>**rod**<span class='tip-text'> </span></span> was terrifyingly close. But there was some difficulty with words. "To bring you peace," I blurted out.
+
+Мне хотелось говорить; стержень был пугающе близко. Но со словами были трудности. «Чтобы принести тебе мир», — выпалил я.
+
+The Old Man snorted.
+
+Старик фыркнул.
+
+"'Peace'," I went on, "and contentment - and the joy of - of surrender." I hesitated again; "surrender" was not the right word. I struggled with it the way one struggles with a poorly grasped foreign language. "The joy," I repeated, " - the joy of... nirvana." That was it; the word fitted.
+
+««Мир», — продолжал я, — «и удовлетворенность — и радость — сдачи». Я снова заколебался; «сдача» — не то слово. Я боролся с этим, как борешься с плохо усвоенным иностранным языком. «Радость», — повторил я, — «радость... нирваны». Вот оно; слово подходило.
+
+"Let me get this," the Old Man said thoughtfully. "You are promising the human race that, if we will just surrender to your kind, you will take care of us and make us happy. Right?"
+
+«Позволь мне это», — задумчиво сказал Старик. «Ты обещаешь человечеству, что если мы просто сдадимся твоему виду, ты позаботишься о нас и сделаешь нас счастливыми. Так?»
+
+"Exactly!"
+
+"Точно!"
+
+The Old Man studied me for a long moment, looking, not at my face, but past my shoulders. He spat upon the floor. "You know," he said slowly, "me and my kind, we have often been offered that bargain. It never worked out."
+
+Старик долго изучал меня, глядя не мне в лицо, а куда-то мимо моих плеч. Он плюнул на пол. «Знаешь, — медленно сказал он, — мне и моим сородичам часто предлагали эту сделку. Она никогда не срабатывала».
+
+I leaned forward as much as I could. "Try it yourself," I suggested. "It can be done quickly - and then you will know."
+
+Я наклонился вперед, насколько мог. «Попробуй сам», — предложил я. «Это можно сделать быстро — и тогда ты узнаешь».
+
+He stared at me, this time in my face. "Maybe I should," he said thoughtfully. "And maybe I will, someday. But right now," he went on briskly, "you have more questions to answer. Answer them quick and <span class='tip-wrap' data-text='proper [прАпэр] {прилагательное} правильный'>**proper**<span class='tip-text'> </span></span> and stay healthy. Be slow about it and I'll increase the current." He waved the <span class='tip-wrap' data-text='rod [рАд] {существительное} стержень; штанга; удочка'>**rod**<span class='tip-text'> </span></span>.
+
+Он уставился на меня, на этот раз мне в лицо. «Может быть, мне стоит», — задумчиво сказал он. «И, может быть, я когда-нибудь так и сделаю. Но сейчас», — продолжал он оживленно, — «тебе нужно ответить на еще несколько вопросов. Отвечай на них быстро и правильно и будь здоров. Не торопись, и я увеличу ток». Он взмахнул удочкой.
+
+I felt dismay and defeat. "Now," he went on, "where do you come from?"
+
+Я почувствовал смятение и поражение. «Итак, — продолжал он, — откуда ты родом?»
+
+No answer... I felt no urge to answer.
+
+Никакого ответа... У меня не было желания отвечать.
+
+The <span class='tip-wrap' data-text='rod [рАд] {существительное} стержень; штанга; удочка'>**rod**<span class='tip-text'> </span></span> came closer. "Far away!" I burst out.
+
+Стержень приблизился. «Далеко!» — вырвалось у меня.
+
+"That's no news. Tell me where? Where's your own planet? Is your planet inside the solar system or outside it?"
+
+«Это не новость. Скажи мне, где? Где твоя планета? Твоя планета находится внутри солнечной системы или за ее пределами?»
+
+I hesitated, then answered, "All planets are ours."
+
+Я поколебался, а затем ответил: «Все планеты наши».
+
+"I wonder," the Old Man said, "just what you mean by that?" He went on, "Never <span class='tip-wrap' data-text='mind [мАйнд] {глагол} возражать; прислушиваться; присматривать'>**mind**<span class='tip-text'> </span></span>; you can claim the whole universe; I want to know where your nest is? Where is your home base? Where do your ships come from?"
+
+«Интересно», — сказал Старик, — «что ты имеешь в виду?» Он продолжил: «Неважно; ты можешь претендовать на всю вселенную; я хочу знать, где твое гнездо? Где твоя домашняя база? Откуда прилетают твои корабли?»
+
+I sat silent.
+
+Я сидел молча.
+
+Before I could <span class='tip-wrap' data-text='anticipate [энтЫсэпЕйт] {глагол} предвидеть; ожидать'>**anticipate**<span class='tip-text'> </span></span> it he reached behind me with the <span class='tip-wrap' data-text='rod [рАд] {существительное} стержень; штанга; удочка'>**rod**<span class='tip-text'> </span></span>; I felt one smashing <span class='tip-wrap' data-text='blow [блOу] {существительное} удар; дуновение'>**blow**<span class='tip-text'> </span></span> of pain, then it was gone. "Now, talk, damn you! What planet? Mars? Venus? Jupiter? Saturn? Uranus? Neptune? Pluto?" As he named them, I saw them - and I have never been as far off Earth as the space stations. When he came to the right one, I knew - and the thought was instantly snatched from me.
+
+Прежде чем я успел это предвидеть, он потянулся за мной со стержнем; я почувствовал один сокрушительный удар боли, затем он исчез. «Ну, говори, черт тебя побери! Какая планета? Марс? Венера? Юпитер? Сатурн? Уран? Нептун? Плутон?» Когда он назвал их, я увидел их — а я никогда не был так далеко от Земли, как космические станции. Когда он подошел к нужной, я понял — и эта мысль мгновенно ускользнула от меня.
+
+"Speak up," he went on, "or feel the whip."
+
+«Говори громче, — продолжал он, — или почувствуешь удар кнута».
+
+I heard myself saying, "None of them. Our home is much farther away. You could never find it."
+
+Я услышал свой голос: «Ни один из них. Наш дом гораздо дальше. Ты никогда не сможешь его найти».
+
+He looked past my shoulders and then into my eyes. "I think you are lying. I think you need some <span class='tip-wrap' data-text='juice [джУс] {существительное} сок'>**juice**<span class='tip-text'> </span></span> to keep you <span class='tip-wrap' data-text='honest [Анэст] {прилагательное} честный'>**honest**<span class='tip-text'> </span></span>."
+
+Он посмотрел мне за плечи, а затем в глаза. «Я думаю, ты лжешь. Я думаю, тебе нужно немного сока, чтобы оставаться честным».
+
+"No, no!"
+
+«Нет, нет!»
+
+Slowly he thrust the <span class='tip-wrap' data-text='rod [рАд] {существительное} стержень; штанга; удочка'>**rod**<span class='tip-text'> </span></span> past me, behind me. I knew the answer again and was about to give it, when something grabbed my <span class='tip-wrap' data-text='throat [θрOут] {существительное} горло'>**throat**<span class='tip-text'> </span></span>. Then the pain started.
+
+Он медленно просунул стержень мимо меня, за мою спину. Я снова знал ответ и собирался его дать, когда что-то схватило меня за горло. И тут началась боль.
+
+It did not stop. I tried to talk, to tell, anything to stop the pain - but the hand still clutched my <span class='tip-wrap' data-text='throat [θрOут] {существительное} горло'>**throat**<span class='tip-text'> </span></span> and I could not.
+
+Это не прекратилось. Я пытался говорить, рассказывать, что-то делать, чтобы остановить боль, но рука все еще сжимала мое горло, и я не мог.
+
+I burst into pieces and died.
+
+Я разлетелся на куски и умер.
+
+They were leaning over me. Someone said, "He's coming around. Watch him; he might be violent."
+
+Они наклонились надо мной. Кто-то сказал: «Он приближается. Следите за ним, он может быть агрессивным».
+
+The Old Man's face was over <span class='tip-wrap' data-text='mine [мАйн] {существительное} шахта'>**mine**<span class='tip-text'> </span></span>; his expression was <span class='tip-wrap' data-text='worried [уЭрид] {прилагательное} озабоченный'>**worried**<span class='tip-text'> </span></span>. "Are you all right, son?" he asked anxiously. I turned my face away.
+
+Лицо Старика было над моим; выражение его лица было обеспокоенным. «С тобой все в порядке, сынок?» — спросил он с тревогой. Я отвернулся.
+
+"One side, please," another voice said. "Let me give him the injection."
+
+«Одну сторону, пожалуйста», — сказал другой голос. «Давайте я сделаю ему укол».
+
+"Will his heart stand it?"
+
+«Выдержит ли его сердце?»
+
+"Certainly - or I wouldn't give it to him." The speaker knelt by me, took my arm, and gave me a shot. He stood up, looked at his hands, then wiped them on his shorts; they left bloody streaks.
+
+«Конечно — иначе я бы ему не дал». Оратор встал на колени рядом со мной, взял меня за руку и сделал мне укол. Он встал, посмотрел на свои руки, затем вытер их о шорты; они оставили кровавые полосы.
+
+I felt strength flowing back into me. Whatever it was, it was pulling me back together. <span class='tip-wrap' data-text='shortly [шОртли] {наречие} вскоре'>**Shortly**<span class='tip-text'> </span></span> I sat up, unassisted.
+
+Я чувствовал, как силы возвращаются ко мне. Что бы это ни было, оно собирало меня обратно. Вскоре я сел, без посторонней помощи.
+
+I was still in the cage room, directly in front of that damnable chair. The cage, I noticed without interest, was closed again. I started to get to my feet; the Old Man stepped forward and gave me a hand. I shook him off. "Don't touch me!"
+
+Я все еще был в комнате с клеткой, прямо перед этим проклятым стулом. Клетка, как я заметил без всякого интереса, снова была закрыта. Я начал подниматься на ноги; Старик шагнул вперед и подал мне руку. Я оттолкнул его. «Не трогай меня!»
+
+"Sorry," he answered, then snapped, "Jones! Take him back to the hospital. Doc, you go along."
+
+«Извините», — ответил он, а затем резко бросил: «Джонс! Отвезите его обратно в больницу. Док, вы пойдете вместе».
+
+"Certainly." The man who had given me the shot stepped forward and started to take my arm. I drew away from him.
+
+«Конечно». Человек, который сделал мне укол, шагнул вперед и начал брать меня за руку. Я отстранился от него.
+
+"Keep your hands off me!"
+
+«Руки прочь от меня!»
+
+He stopped. "Get away from me - all of you. Just leave me alone." The doctor looked at the Old Man, who shrugged, then motioned them all back. Alone, I went to the door, through it, and on out through the <span class='tip-wrap' data-text='outer [Аутэр] {прилагательное} внешний'>**outer**<span class='tip-text'> </span></span> door into the passageway.
+
+Он остановился. «Отойдите от меня — все вы. Просто оставьте меня в покое». Доктор посмотрел на Старика, который пожал плечами, затем жестом велел им всем отойти. Оставшись один, я пошел к двери, прошел через нее и вышел через наружную дверь в коридор.
+
+I paused there, looked at my wrists and ankles and decided that I might go back to the hospital. Doris would take care of me, I was sure, and then maybe I could sleep. I felt as if I had gone fifteen rounds and lost every one of them.
+
+Я остановился там, посмотрел на свои запястья и лодыжки и решил, что могу вернуться в больницу. Дорис обо мне позаботится, я был уверен, и тогда, возможно, я смогу поспать. Я чувствовал себя так, будто прошел пятнадцать раундов и проиграл каждый из них.
+
+"Sam, Sam!"
+
+«Сэм, Сэм!»
+
+I looked up; I knew that voice. Mary hurried up and was standing before me, looking at me with great sorrowful eyes. "I've been waiting," she said. "Oh, Sam! What have they done to you?"
+
+Я подняла глаза; я узнала этот голос. Мэри поспешила и встала передо мной, глядя на меня большими печальными глазами. «Я ждала», — сказала она. «О, Сэм! Что они с тобой сделали?»
+
+"You should know," I answered and slapped her. "Bitch," I added.
+
+«Тебе следует знать», — ответил я и ударил ее. «Сука», — добавил я.
+
+The room I had had was still empty, but I did not find Doris. I lay face down on the bed and tried to stop thinking or feeling anything.
+
+Комната, в которой я был, была все еще пуста, но я не нашел Дорис. Я лег лицом вниз на кровать и попытался перестать думать или чувствовать что-либо.
+
+Presently I heard a gasp, and opened one eye; there was Doris. She started to bathe my wounds. Then she said, "I want you to drink something, that's a good boy."
+
+Вдруг я услышал вздох и открыл один глаз; там была Дорис. Она начала промывать мои раны. Потом она сказала: «Я хочу, чтобы ты что-нибудь выпил, это хороший мальчик».
+
+I turned over, with her help, and drank what she gave me. Soon I fell <span class='tip-wrap' data-text='asleep [эслИп] {прилагательное} спящий'>**asleep**<span class='tip-text'> </span></span>.
+
+Я перевернулся с ее помощью и выпил то, что она мне дала. Вскоре я уснул.
+
+Doris woke me up and brought me breakfast; it was as if I had never been off the sick list. Doris wanted to feed me but I was well able to do it myself. Actually I was not in too bad shape. I was stiff and sore and felt as if I had gone over Niagara Falls in a <span class='tip-wrap' data-text='barrel [бЭрэл] {существительное} ствол (бочка)'>**barrel**<span class='tip-text'> </span></span>; there were dressings on both arms and both legs where I had cut myself on the clamps, but no bones were broken. Where I was sick was in my soul.
+
+Дорис разбудила меня и принесла мне завтрак; было такое ощущение, будто я никогда и не выходил из больничного. Дорис хотела меня покормить, но я вполне мог сделать это сам. На самом деле я был не в такой уж плохой форме. Я был скованным и болел и чувствовал себя так, будто переплыл Ниагарский водопад в бочке; на обеих руках и ногах, где я порезался зажимами, были повязки, но кости не были сломаны. Где я был болен, так это в душе.
+
+Don't misunderstand me. The Old Man could send me into a dangerous spot - and had done so, more than once - and I would not hold it against him. That I had signed up for. But I had not signed up for what he had done to me. He had used me unmercifully.
+
+Не поймите меня неправильно. Старик мог отправить меня в опасное место — и делал это не раз — и я не буду держать на него зла. На это я подписался. Но я не подписался на то, что он сделал со мной. Он использовал меня безжалостно.
+
+Mary? After all, what was she? Just another babe. True, I was disgusted with her because she had allowed the Old Man to use her as bait.
+
+Мэри? В конце концов, кем она была? Просто еще одной девчонкой. Правда, я был к ней противен, потому что она позволила Старику использовать ее как приманку.
+
+I was through, I was finished. They could go ahead with Operation Parasite without me. I owned a <span class='tip-wrap' data-text='cabin [кЭбэн] {существительное} хижина (кабина)'>**cabin**<span class='tip-text'> </span></span> up in the mountains; I had enough stuff there in deep freeze to carry me for a year. I would go up there - and the world could save itself, or go to hell, without me.
+
+Я закончил, я закончил. Они могли продолжить операцию «Паразит» без меня. У меня была хижина в горах; у меня там было достаточно вещей в глубокой заморозке, чтобы продержаться год. Я бы поднялся туда — и мир мог бы спасти себя или отправиться в ад без меня.
+
+If anyone came within a hundred yards of me, he would either show a bare back or be burned down.
+
+Если кто-то подходил ко мне на расстояние в сто ярдов, он либо показывал голую спину, либо сгорал.
+
+CHAPTER 11.
+
+ГЛАВА ОДИННАДЦАТАЯ
+
+Mary showed up. She came over to the bed. "Sam," she said. "Sam."
+
+Появилась Мэри. Она подошла к кровати. «Сэм», — сказала она. «Сэм».
+
+"My name isn't 'Sam'."
+
+«Меня зовут не «Сэм».
+
+"I've never known your right name."
+
+«Я никогда не знал твоего настоящего имени».
+
+I hesitated. It was no time to explain to her that my parents had been silly enough to call me 'Elihu'.
+
+Я колебался. Не время было объяснять ей, что мои родители были настолько глупы, что назвали меня «Элиу».
+
+"Sam," she repeated. "Oh Sam, my dear."
+
+«Сэм», — повторила она. «О, Сэм, мой дорогой».
+
+"I am not your 'dear'."
+
+«Я тебе не «дорогая».
+
+She inclined her head. "Yes, I know that. I don't know why. Sam, I came here to find out why you hate me. Perhaps I can't change it, but I must know why."
+
+Она наклонила голову. "Да, я знаю это. Я не знаю почему. Сэм, я пришла сюда, чтобы узнать, почему ты меня ненавидишь. Возможно, я не могу этого изменить, но я должна знать почему".
+
+I reared up on one <span class='tip-wrap' data-text='elbow [ЕлбOу] {существительное} локоть; колено'>**elbow**<span class='tip-text'> </span></span>. "You sat down in that trick chair knowing that I would never let you go through with it. You knew that. The Old Man could not have forced me into that chair, not with a gun, not even with drugs. But you could. You did. You were the one who forced me to go through with a thing that now leaves me dirty and spoiled. You did it."
+
+Я приподнялся на локте. «Ты сел на этот трюковый стул, зная, что я никогда не позволю тебе сделать это. Ты знал это. Старик не мог заставить меня сесть в этот стул, ни с помощью пистолета , ни даже с помощью наркотиков. Но ты мог. Ты сделал это. Ты был тем, кто заставил меня сделать то, что теперь делает меня грязным и испорченным. Ты сделал это».
+
+She had grown steadily whiter as I talked. She caught her breath and said, "You believe that, Sam?"
+
+Она постепенно становилась все бледнее, пока я говорил. Она перевела дух и сказала: «Ты веришь в это, Сэм?»
+
+"What else?"
+
+"Что еще?"
+
+"Sam, that is not the way it was. I did not know you were going to be in there. I was terribly shocked. But there was nothing to do but go through with it; I had promised."
+
+«Сэм, все было не так. Я не знал, что ты будешь там. Я был ужасно потрясен. Но ничего не оставалось, как сделать это; я обещал».
+
+"No matter. The point is: you were there and I was there - and you could figure what would happen if you did what you did."
+
+«Неважно. Суть в том, что ты был там, и я был там — и ты мог бы представить, что произойдет, если бы ты сделал то, что сделал».
+
+"Oh." She waited a bit, then went on, "That's the way it looks to you and I can't dispute the facts."
+
+«О, — она немного подождала, а затем продолжила: — Именно так это выглядит для тебя, и я не могу оспаривать факты».
+
+"Hardly."
+
+"Едва ли."
+
+She stood very still for a long time. I let her. Finally she said, "Sam - once you said something to me about wanting to marry me."
+
+Она долго стояла неподвижно. Я позволил ей. Наконец она сказала: «Сэм, однажды ты что-то сказал мне о том, что хочешь жениться на мне».
+
+"I remember something of the sort. That was another day."
+
+«Я помню что-то в этом роде. Это был другой день».
+
+"I didn't expect you to renew the offer. But... Sam, no matter what you think of me, I want to tell you that I am deeply grateful for what you did for me. Can I do anything for you?"
+
+«Я не ожидал, что ты повторишь предложение. Но... Сэм, что бы ты обо мне ни думал, я хочу сказать тебе, что я глубоко благодарен за то, что ты для меня сделал. Могу ли я что-нибудь сделать для тебя?»
+
+I lay down. "Sure, you can do something for me."
+
+Я лег. «Конечно, ты можешь что-нибудь для меня сделать».
+
+Her face lit up. "What?"
+
+Ее лицо озарилось. «Что?»
+
+"Go away and stop bothering me. I'm tired." I turned my face away. I did not hear her leave.
+
+«Уйди и не мешай мне. Я устала». Я отвернулась. Я не слышала, как она ушла.
+
+The Old Man put his head in late that afternoon. My <span class='tip-wrap' data-text='immediate [ЫмИдИэт] {прилагательное} немедленный'>**immediate**<span class='tip-text'> </span></span> response was pleasure; the Old Man's <span class='tip-wrap' data-text='personality [пЭрсэнЭлыти] {существительное} личность'>**personality**<span class='tip-text'> </span></span> is hard to shake off. Then I remembered and went cold.
+
+Старик просунул голову в конце того дня. Моей первой реакцией было удовольствие; от личности Старика трудно избавиться. Потом я вспомнил и похолодел.
+
+"I want to talk to you," he started in.
+
+«Я хочу поговорить с тобой», — начал он.
+
+"I don't want to talk to you. Get out."
+
+«Я не хочу с тобой разговаривать. Уходи».
+
+He ignored my remarks and came in, dragging his bad leg. He was not hearing anything that he did not choose to hear and sat down. "You're too hasty. You jump to conclusions. Now take this girl Mary -"
+
+Он проигнорировал мои замечания и вошел, волоча больную ногу. Он не слышал ничего, что не хотел слышать, и сел. «Ты слишком торопишься. Ты делаешь поспешные выводы. Теперь возьми эту девушку Мэри...»
+
+"Mary who?"
+
+«Мэри кто?»
+
+"You know who I mean; you know her as 'Mary Cavanaugh'. You've got her all upset. And maybe you ruined a good agent for me."
+
+«Ты знаешь, кого я имею в виду; ты знаешь ее как «Мэри Кавано». Ты ее совсем расстроила. И, возможно, ты испортила мне хорошего агента».
+
+"Hmmph! I'm in tears about it."
+
+«Хммм! Я в слезах».
+
+"Listen, you don't know the facts."
+
+«Послушай, ты не знаешь фактов».
+
+I did not answer; explanations are a poor defense.
+
+Я не ответил; объяснения — плохая защита.
+
+"Oh, I know that you think you do," he went on. "You think she let herself be used as bait to get you to take part in that job we did. Well, you've got it slightly wrong. She was used as bait, but I was using her. I planned it that way. She didn't know you were going to be in that room. She didn't know why you were in there. She didn't know that there was any question about who was going to sit in that chair. She didn't have the faintest suspicion that I didn't mean for her to go through with it, or that I had already decided that you were the only person who would suit me. She didn't even know you were off the sick list."
+
+«О, я знаю, что ты так думаешь», — продолжил он. «Ты думаешь, что она позволила использовать себя в качестве приманки, чтобы заставить тебя принять участие в той работе, которую мы делали. Ну, ты немного не прав. Ее использовали в качестве приманки, но я ее использовал. Я так и спланировал. Она не знала, что ты будешь в той комнате. Она не знала, почему ты там. Она не знала, что есть какие-то сомнения относительно того, кто будет сидеть в этом кресле. У нее не было ни малейшего подозрения, что я не хотел, чтобы она это делала, или что я уже решил, что ты единственный человек, который мне подойдет. Она даже не знала, что ты не в списке больных».
+
+I was so confused that I could not judge whether he was telling the truth, or manipulating me again. I said, "Maybe so. Maybe I lashed out at the wrong person. But if what you say is true -"
+
+Я был настолько сбит с толку, что не мог судить, говорит ли он правду или снова манипулирует мной. Я сказал: «Может быть, так. Может быть, я набросился не на того человека. Но если то, что ты говоришь, правда...»
+
+"It is."
+
+"Это."
+
+"- it doesn't make what you did any sweeter; it makes it worse."
+
+«- это не делает то, что ты сделал, приятнее; это делает его хуже».
+
+"Son, I'm sorry if I've lost your respect. But I'd do it again under the same circumstances. I can't be choosy about such things any more than can a commander in battle. Less, because I fight with different weapons. I've always been able to shoot my own dog. Maybe that's good; maybe that's bad - but that is what my job takes. If you are ever in my shoes, you'll have to do it, too."
+
+«Сынок, прости, если я потерял твое уважение. Но я бы сделал это снова при тех же обстоятельствах. Я не могу быть разборчивым в таких вещах больше, чем командир в бою. Меньше, потому что я сражаюсь разным оружием. Я всегда мог застрелить свою собственную собаку. Может, это хорошо, может, это плохо — но такова моя работа. Если ты когда-нибудь окажешься на моем месте, тебе тоже придется это сделать».
+
+"I'm not likely to be."
+
+«Вряд ли я буду».
+
+"Why don't you take leave, rest up, and think about it?"
+
+«Почему бы вам не взять отпуск, не отдохнуть и не подумать об этом?»
+
+"I'll take leave - terminal leave."
+
+«Я возьму отпуск — срочный отпуск».
+
+"Very well." He started to leave.
+
+«Очень хорошо», — он собрался уходить.
+
+I said, "Wait -"
+
+Я сказал: «Подожди...»
+
+"Yes?"
+
+"Да?"
+
+"You made me one promise. About that parasite - you said I could kill it, <span class='tip-wrap' data-text='personally [пЭрсэнэли] {наречие} лично'>**personally**<span class='tip-text'> </span></span>. Are you through with it?"
+
+«Ты дал мне одно обещание. По поводу этого паразита — ты сказал, что я могу убить его лично. Ты закончил с этим?»
+
+"Yes, I'm through with it, but -"
+
+«Да, я закончил, но...»
+
+I started to get out of bed. "No 'buts'. Give me your gun; I'm going to kill it now."
+
+Я начал вставать с кровати. «Никаких «но». Дай мне свой пистолет, я сейчас его убью».
+
+"But you can't. It's already dead."
+
+«Но вы не можете. Он уже мертв».
+
+"What! You promised me."
+
+«Что! Ты мне обещал».
+
+"I know I did. But it died while we were trying to force you - to force it - to talk."
+
+«Я знаю, что говорил. Но он умер, пока мы пытались заставить тебя — заставить его — говорить».
+
+I sat down and started to shake with <span class='tip-wrap' data-text='laughter [лЭфтэр] {существительное} смех'>**laughter**<span class='tip-text'> </span></span>. I was not enjoying it; I could not stop.
+
+Я сел и начал трястись от смеха. Мне это не нравилось; я не мог остановиться.
+
+The Old Man grasped my shoulders and shook me. "Stop it! You'll get yourself sick. I'm sorry about it, but there's nothing to laugh at."
+
+Старик схватил меня за плечи и встряхнул. «Перестань! Ты заболеешь. Мне жаль, но тут не над чем смеяться».
+
+"Ah, but there is," I answered, still sobbing and chuckling. "It's the funniest thing that ever happened to me. All that - and all for nothing. You dirtied yourself, me and Mary - and all for no use."
+
+"А, но есть, - ответил я, все еще всхлипывая и посмеиваясь. - Это самое смешное, что когда-либо случалось со мной. Все это - и все зря. Ты испачкал себя, меня и Мэри - и все зря".
+
+"Huh? Whatever gave you that idea?"
+
+«А? Что навело тебя на эту идею?»
+
+"Eh? I know - I know everything that went on. And you didn't learn anything you didn't know before."
+
+«А? Я знаю, я знаю все, что произошло. И ты не узнал ничего, чего бы не знал раньше».
+
+"The hell we didn't! It was a bigger success than you'd ever guess, son. True, we didn't squeeze anything out of it directly, before it died - but we got something out of you."
+
+«Чёрта с два мы этого сделали! Это был больший успех, чем ты можешь себе представить, сынок. Да, мы ничего не выжали из него напрямую, прежде чем он умер, — но мы кое-что выжали из тебя».
+
+"Me?"
+
+"Мне?"
+
+"Last night. You were doped, brain-waved and analyzed. The parasite spilled things to you and they were still there for the hypno-analysts to pick up after you were free of it."
+
+«Прошлой ночью. Тебя накачали наркотиками, подвергли мозговой волне и проанализировали. Паразит выдал тебе информацию, и она осталась там, чтобы гипноаналитики могли ее подобрать, когда ты освободишься от нее».
+
+"What?"
+
+"Что?"
+
+"Where they live. We know where they come from and can fight back - Titan, sixth satellite of Saturn."
+
+«Где они живут. Мы знаем, откуда они взялись, и можем дать им отпор — Титан, шестой спутник Сатурна».
+
+When he said it, I felt a sudden constriction of my <span class='tip-wrap' data-text='throat [θрOут] {существительное} горло'>**throat**<span class='tip-text'> </span></span> - and I knew that he was right.
+
+Когда он это сказал, я почувствовал, как у меня внезапно сжалось горло, и я понял, что он прав.
+
+Instead of leaving he struck a cigarette. He seemed anxious to be friendly. As for me, I did not want to fight with him further; my head was spinning and I had things to get <span class='tip-wrap' data-text='straight [стрЕйт] {прилагательное} прямой'>**straight**<span class='tip-text'> </span></span>. Titan - that was a long way out. Mars was the farthest men had ever been.
+
+Вместо того, чтобы уйти, он закурил. Казалось, он стремился быть дружелюбным. Что касается меня, я не хотел с ним больше ссориться; у меня кружилась голова, и мне нужно было кое-что прояснить. Титан — это было далеко. Марс был самым далеким местом, где когда-либо бывали люди.
+
+Still, we could get there. We would burn out their nest!
+
+Но мы все равно могли бы добраться туда. Мы бы выжгли их гнездо!
+
+Finally, he got up to go. He had limped almost to the door when I stopped him again. "Dad -"
+
+Наконец он встал, чтобы уйти. Он дохромал почти до двери, когда я снова его остановил. «Папа...»
+
+I had not called him that in years. He turned and his face held a surprised and defenseless expression. "Yes, son?"
+
+Я не называл его так уже много лет. Он повернулся, и на его лице отразилось удивленное и беззащитное выражение. «Да, сынок?»
+
+"Why did you and mother name me 'Elihu'?"
+
+«Почему вы с мамой назвали меня «Элиуй»?»
+
+"Eh? It was your maternal grandfather's name."
+
+«А? Это имя твоего деда по материнской линии».
+
+"Oh. Not enough reason, I'd say."
+
+«О, я бы сказал, недостаточно оснований».
+
+"Perhaps not." He turned again and again I stopped him.
+
+«Возможно, нет». Он снова повернулся, и я снова остановил его.
+
+"Dad - what sort of a person was my mother?"
+
+«Папа, каким человеком была моя мать?»
+
+"Your mother? I don't exactly know how to tell you. Well - she was a great deal like Mary. Yes, sir, a great deal like her." He turned and stumped out without giving me any further chance to talk.
+
+«Твоя мать? Я не знаю, как тебе сказать. Ну, она была очень похожа на Мэри. Да, сэр, очень похожа на нее». Он повернулся и поплелся прочь, не дав мне больше возможности поговорить.
+
+I turned my face to the wall. After a while I steadied down.
+
+Я повернулся лицом к стене. Через некоторое время я успокоился.
+
+CHAPTER 12.
+
+ГЛАВА ДВЕНАДЦАТАЯ
+
+When the doctor released me, I went looking for Mary.
+
+Когда врач отпустил меня, я пошёл искать Мэри.
+
+The <span class='tip-wrap' data-text='personnel [пЭрсэнЕл] {существительное} персонал'>**personnel**<span class='tip-text'> </span></span> office refused to answer where she was. I was not inquiring officially, I did not know the agent's name, and just who did I think I was, anyway? They referred me to Operations, meaning the Old Man. That did not suit me.
+
+В отделе кадров отказались отвечать, где она. Я не спрашивал официально, я не знал имени агента, и кем я себя возомнил, в конце концов? Меня направили в Оперативный отдел, имея в виду Старика. Это меня не устраивало.
+
+I left without saying thank you and went to the Old Man's office. There seemed to be no choice.
+
+Я ушел, не поблагодарив, и пошел в кабинет Старика. Казалось, выбора не было.
+
+The new secretary passed in my I.D. code and, for a <span class='tip-wrap' data-text='wonder [уАндэр] {существительное} чудо'>**wonder**<span class='tip-text'> </span></span>, the Old Man was in and would see me.
+
+Новый секретарь передал мне мой идентификационный код, и, как ни странно, Старик оказался на месте и принял меня.
+
+"As a matter of fact," he said, "I was just going to send for you." He barked something at his desk phone, stood up and said, "Come!"
+
+«Вообще-то», — сказал он, — «я как раз собирался послать за тобой». Он что-то рявкнул в телефон на рабочем столе, встал и сказал: «Приходи!»
+
+I felt suddenly at peace, and followed him. "Cosmetics?" I asked.
+
+Я вдруг почувствовала себя спокойно и пошла за ним. «Косметика?» — спросила я.
+
+"Your own ugly face will do. We're headed for Washington." <span class='tip-wrap' data-text='nevertheless [нЕвэрðэлЕс] {наречие} тем не менее'>**Nevertheless**<span class='tip-text'> </span></span> we stopped in Cosmetics, but only for street clothes. I took a gun and had my phone checked.
+
+«Сделай свое уродливое лицо. Мы направляемся в Вашингтон». Тем не менее, мы остановились в Cosmetics, но только за уличной одеждой. Я взял пистолет и проверил свой телефон.
+
+Soon we came out in the lower levels of New Philadelphia.
+
+Вскоре мы вышли на нижние уровни Новой Филадельфии.
+
+"I suppose this place is clean?" I said to the Old Man.
+
+«Полагаю, это место чистое?» — спросил я Старика.
+
+"If you do, you are rusty in the head," he answered. "Keep your eyes open."
+
+«Если ты это сделаешь, то у тебя голова ржавая», — ответил он. «Держи глаза открытыми».
+
+There was no opportunity for more questions. The presence of so many fully clothed humans bothered me; I drew away from people and watched for round shoulders. When we were in our car, I said, "What do the authorities think they are doing? I could <span class='tip-wrap' data-text='swear [суЕр] {глагол} клясться; ругаться'>**swear**<span class='tip-text'> </span></span> that at least one cop we passed was wearing a hump."
+
+Не было возможности задать еще несколько вопросов. Присутствие стольких полностью одетых людей беспокоило меня; я отстранился от людей и следил за сутулыми плечами. Когда мы сели в машину, я сказал: «Что власти думают делать? Я могу поклясться, что по крайней мере один полицейский, которого мы проезжали, носил горб».
+
+"Possibly. Even probably."
+
+«Возможно. Даже вероятно».
+
+"Well, what goes on? Does the President know the situation?"
+
+«Ну, что происходит? Президент знает ситуацию?»
+
+"He knows it."
+
+«Он это знает».
+
+"What's he waiting for? He should declare martial law and get action. You told him, a long time ago."
+
+«Чего он ждет? Он должен объявить военное положение и принять меры. Ты же ему сказал, причем давно».
+
+"Son, are you under the impression that the President runs the country?"
+
+«Сынок, у тебя сложилось впечатление, что страной управляет президент?»
+
+"Of course not. But he is the only man who can act."
+
+«Конечно, нет. Но он единственный человек, который может действовать».
+
+"Mmmm - the President is the <span class='tip-wrap' data-text='prisoner [прЫзэнэр] {существительное} узник'>**prisoner**<span class='tip-text'> </span></span> of Congress."
+
+«Мммм — президент — узник Конгресса».
+
+"You mean Congress hasn't acted?"
+
+«Вы хотите сказать, что Конгресс бездействовал?»
+
+"I have spent my time the past several days - ever since we stopped the attempt on the President - trying to help the President <span class='tip-wrap' data-text='convince [кэнвЫнс] {глагол} убеждать'>**convince**<span class='tip-text'> </span></span> them. Congresses have refused to act in the face of dangers more obvious than this one. This one isn't obvious. The evidence is hard to believe."
+
+«Последние несколько дней — с тех пор, как мы остановили покушение на президента — я потратил на то, чтобы помочь президенту убедить их. Конгрессы отказались действовать перед лицом опасностей, более очевидных, чем эта. Эта опасность не очевидна. В доказательства трудно поверить».
+
+I finally managed to ask him the question I had come into his office to ask: where was Mary?
+
+Мне наконец удалось задать ему вопрос, ради которого я пришел к нему в кабинет: где Мэри?
+
+"Odd question from you," he grunted. "Where she should be. Guarding the President."
+
+«Странный вопрос с твоей стороны», — проворчал он. «Там, где ей и положено быть. Охранять президента».
+
+We went to attend the <span class='tip-wrap' data-text='joint [джОйнт] {прилагательное} совместный'>**joint**<span class='tip-text'> </span></span> session. It was secret but the Old Man had passes - direct orders of the President, probably. We got there and slipped into seats.
+
+Мы пошли на совместное заседание. Оно было секретным, но у Старика были пропуска — прямой приказ Президента, наверное. Мы добрались туда и проскользнули на места.
+
+The Old Man had told me that the purpose of the meeting was to prepare a <span class='tip-wrap' data-text='joint [джОйнт] {прилагательное} совместный'>**joint**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='resolution [рЕзэлУшэн] {существительное} разрешение (также решение)'>**resolution**<span class='tip-text'> </span></span> declaring total emergency and vesting war powers in the President.
+
+Старик сказал мне, что целью встречи была подготовка совместной резолюции об объявлении чрезвычайного положения и наделении президента полномочиями по ведению войны.
+
+We were on a little balcony behind the Speaker's rostrum. The President came in, escorted by the delegation. His guards were with him - but they were all our men.
+
+Мы были на маленьком балконе за трибуной спикера. Президент вошел в сопровождении делегации. Его охрана была с ним — но все они были нашими людьми.
+
+Mary was with him, too. Somebody set up a folding chair for her, right by the President. She fiddled with a notebook and handed papers to him, pretending to be a secretary. I caught her eye - and she gave me a long, slow, sweet smile. I was happy.
+
+Мэри тоже была с ним. Кто-то поставил для нее складной стул, прямо рядом с президентом. Она возилась с блокнотом и передавала ему бумаги, притворяясь секретарем. Я поймал ее взгляд — и она одарила меня долгой, медленной, милой улыбкой. Я был счастлив.
+
+The President made a reasoned <span class='tip-wrap' data-text='explanation [ЕксплэнЕйшэн] {существительное} объяснение'>**explanation**<span class='tip-text'> </span></span> of the situation, why we knew it to be so and what had to be done. It was as straightforward and rational as an <span class='tip-wrap' data-text='engineering [ЕнджэнЫрыŋ] {существительное} инженерия'>**engineering**<span class='tip-text'> </span></span> report. He simply stated facts. He put <span class='tip-wrap' data-text='aside [эсАйд] {наречие} в сторону'>**aside**<span class='tip-text'> </span></span> his notes at the end. "This is such a strange and terrible emergency, so totally beyond any previous experience, that I must ask very broad powers to <span class='tip-wrap' data-text='cope [кOуп] {глагол} справиться'>**cope**<span class='tip-text'> </span></span> with it. In some areas, martial law must be declared. <span class='tip-wrap' data-text='grave [грЕйв] {существительное} могила'>**Grave**<span class='tip-text'> </span></span> invasions of civil guarantees will be necessary, for a time. The right of free movement must be abridged. The right to be secure from arbitrary search and seizure must give way to the right of safety for everyone. Because any citizen, no matter how respected or how loyal, may be the unwilling servant of these secret enemies, all citizens must face some loss of civil rights and personal dignities until this plague is killed.
+
+Президент дал обоснованное объяснение ситуации, почему мы знали, что это так, и что нужно было сделать. Это было так же просто и рационально, как инженерный отчет. Он просто изложил факты. В конце он отложил свои заметки. «Это такая странная и ужасная чрезвычайная ситуация, настолько выходящая за рамки любого предыдущего опыта, что я должен просить очень широкие полномочия, чтобы справиться с ней. В некоторых районах должно быть объявлено военное положение. На какое-то время потребуются серьезные нарушения гражданских гарантий. Право на свободное передвижение должно быть ограничено. Право на защиту от произвольных обысков и арестов должно уступить место праву на безопасность для всех. Поскольку любой гражданин, независимо от того, насколько он уважаем или насколько он предан, может быть невольным слугой этих тайных врагов, все граждане должны столкнуться с некоторой потерей гражданских прав и личного достоинства, пока эта чума не будет уничтожена.
+
+"With utmost reluctance, I ask that you take these necessary steps." With that he sat down.
+
+«С величайшей неохотой я прошу вас предпринять эти необходимые шаги». С этими словами он сел.
+
+There was a long pause. The delay was getting awkward and there were cries of, "Mister President!" and "Order!"
+
+Наступила долгая пауза. Задержка становилась неловкой, и раздались крики: «Господин президент!» и «Приказ!»
+
+The Senate president asked a member of his own party to speak. I recognized the man - it was Senator Gottlieb. He started out stating his respect for the Constitution, the Bill of Rights, and, probably, the Grand Canyon. He pointed modestly to his own long and faithful service and spoke well of America's place in history.
+
+Председатель Сената попросил выступить члена своей партии. Я узнал этого человека — это был сенатор Готтлиб. Он начал с выражения уважения к Конституции, Биллю о правах и, возможно, Большому каньону. Он скромно указал на свою долгую и верную службу и хорошо отозвался о месте Америки в истории.
+
+I suddenly realized that his words were adding up to meaning: he was proposing to <span class='tip-wrap' data-text='suspend [сэспЕнд] {глагол} приостанавливать'>**suspend**<span class='tip-text'> </span></span> the order of business and get on with the impeachment and trial of the President of the United States!
+
+Я внезапно понял, что его слова приобретают смысл: он предлагает приостановить рассмотрение дела и продолжить процедуру импичмента и суда над президентом Соединенных Штатов!
+
+I looked at the Old Man.
+
+Я посмотрел на Старика.
+
+The Old Man was looking at Mary.
+
+Старик смотрел на Мэри.
+
+She was looking back at him with an expression of extreme urgency.
+
+Она смотрела на него с выражением крайней настойчивости.
+
+The Old Man took a <span class='tip-wrap' data-text='pad [пЭд] {существительное} площадка; панель; накладка'>**pad**<span class='tip-text'> </span></span> out of his pocket, wrote something, and threw it down to Mary. She caught it, opened it, and read it - and passed it to the President.
+
+Старик вынул из кармана блокнот, что-то написал и бросил его Мэри. Она поймала его, открыла, прочитала — и передала Президенту.
+
+He read the note, glanced unhurriedly around at the Old Man and lifted his eyebrows. The Old Man nodded.
+
+Он прочитал записку, неторопливо оглянулся на Старика и поднял брови. Старик кивнул.
+
+The President nudged the Senate president, who, at the President's <span class='tip-wrap' data-text='gesture [джЕсчэр] {существительное} жест'>**gesture**<span class='tip-text'> </span></span>, bent over him. The President and he exchanged whispers.
+
+Президент подтолкнул президента Сената, который по его жесту наклонился над ним. Президент и он обменялись шепотом.
+
+Then the Senate president got up and said, "At the <span class='tip-wrap' data-text='request [рыкуЕст] {существительное} запрос'>**request**<span class='tip-text'> </span></span> of the President of the United States, because of the importance of what you are saying, the senator is asked to come to the rostrum to speak."
+
+Затем председатель Сената встал и сказал: «По просьбе президента Соединенных Штатов, ввиду важности того, что вы говорите, сенатору предлагается подняться на трибуну для выступления».
+
+Gottlieb looked puzzled but there was nothing else he could do. He walked slowly toward the front of the house.
+
+Готлиб выглядел озадаченным, но ничего другого он сделать не мог. Он медленно пошел к передней части дома.
+
+Mary's chair blocked the little stairway up to the rostrum. Instead of getting quietly out of the way, she turned and picked up the chair, so that she got even more in the way. Gottlieb stopped and she brushed against him. He caught her arm, as much to steady himself as her. She spoke to him and he to her, but no one else could hear the words. Finally they got around each other and he went on to the front of the rostrum.
+
+Кресло Мэри загораживало маленькую лестницу на трибуну. Вместо того чтобы тихонько убраться с дороги, она повернулась и подняла кресло, так что оно стало еще больше мешать. Готлиб остановился, и она задела его. Он схватил ее за руку, чтобы удержать равновесие как себе, так и ей. Она заговорила с ним, а он с ней, но никто больше не мог слышать слов. Наконец они обошли друг друга, и он прошел к передней части трибуны.
+
+The Old Man was watching Mary. She looked up at him and nodded. The Old Man said, "Take him!"
+
+Старик наблюдал за Мэри. Она подняла на него глаза и кивнула. Старик сказал: «Возьми его!»
+
+I was over that <span class='tip-wrap' data-text='rail [рЕйл] {существительное} рельс; перила'>**rail**<span class='tip-text'> </span></span> in a flying leap and landed on Gottlieb's shoulders.
+
+Я перемахнул через перила одним прыжком и приземлился на плечи Готлиба.
+
+I heard the Old Man shout, "Gloves, son! Gloves!" I did not stop for them. I <span class='tip-wrap' data-text='split [сплЫт] {глагол} разделить'>**split**<span class='tip-text'> </span></span> the senator's <span class='tip-wrap' data-text='jacket [джЭкэт] {существительное} куртка'>**jacket**<span class='tip-text'> </span></span> with my bare hands and I could see the slug pulsing under his shirt. I tore the shirt away and anybody could see it.
+
+Я слышал, как Старик кричал: «Перчатки, сынок! Перчатки!» Я не остановился из-за них. Я разорвал пиджак сенатора голыми руками и увидел, как пуля пульсирует под его рубашкой. Я сорвал рубашку, и ее мог увидеть любой.
+
+I hit Gottlieb to stop his fighting. Mary was sitting on his legs. The President was standing over me and pointing, while shouting, "There! There! Now you can all see." The Senate president was standing stupefied.
+
+Я ударил Готтлиба, чтобы остановить его драку. Мэри сидела на его ногах. Президент стоял надо мной и указывал, крича: «Вот! Вот! Теперь вы все можете видеть». Председатель Сената стоял в оцепенении.
+
+The Congress was just a mob, men were yelling and women were screaming. Above me the Old Man was shouting orders to the presidential guards.
+
+Конгресс был просто толпой, мужчины кричали, женщины визжали. Надо мной Старик выкрикивал приказы президентской охране.
+
+We had this in our <span class='tip-wrap' data-text='favor [фЕйвэр] {существительное} благосклонность; одолжение'>**favor**<span class='tip-text'> </span></span>; doors were locked and there were no <span class='tip-wrap' data-text='armed [Армд] {прилагательное} вооруженный'>**armed**<span class='tip-text'> </span></span> and disciplined men present except the Old Man's own boys.
+
+Это было в нашу пользу: двери были заперты, и не было ни одного вооруженного и дисциплинированного человека, за исключением собственных ребят Старика.
+
+The President started to talk. He told them that an amazing accident had given them a chance to see the true nature of the enemy and he suggested that they come up in turn and see for themselves one of the titans from Saturn's largest moon. Without waiting for their consent, he pointed to the front row and told them to come up.
+
+Президент начал говорить. Он рассказал им, что удивительный случай дал им возможность увидеть истинную природу врага, и предложил им по очереди подняться и увидеть своими глазами одного из титанов с крупнейшего спутника Сатурна. Не дожидаясь их согласия, он указал на первый ряд и велел им подняться.
+
+They came.
+
+Они пришли.
+
+Mary stayed on the platform. About twenty had passed by and a female Congressman had gotten hysterics when I saw Mary <span class='tip-wrap' data-text='signal [сЫгнэл] {глагол} сигналить'>**signal**<span class='tip-text'> </span></span> the Old Man again. This time I was a hair ahead of his order.
+
+Мэри осталась на платформе. Около двадцати человек прошли мимо, и женщина-конгрессмен впала в истерику, когда я увидел, как Мэри снова подала знак Старику. На этот раз я был на волосок впереди его приказа.
+
+This one was young and tough, an ex-marine. We laid him beside Gottlieb, and again the Old Man and the President and the Senate president, shouting, restored order.
+
+Этот был молодой и крепкий, бывший морской пехотинец. Мы положили его рядом с Готлибом, и снова Старик, и Президент, и Председатель Сената, крича, восстановили порядок.
+
+Then it was "<span class='tip-wrap' data-text='inspection [ЫнспЕкшэн] {существительное} осмотр (инспекция)'>**inspection**<span class='tip-text'> </span></span> and search" whether they liked it or not. I patted the women on the back as they came by and caught one.
+
+А потом был "осмотр и обыск", нравилось им это или нет. Я похлопал женщин по спине, когда они проходили мимо, и поймал одну.
+
+Mary spotted two more, then there were three hundred or more, with no jackpots.
+
+Мэри заметила еще двоих, а затем их стало триста или больше, и джекпотов не было.
+
+Totally, we caught thirteen, ten alive. Only one of the hosts was badly wounded.
+
+Всего мы поймали тринадцать, из них десять живых. Только один из хозяев был тяжело ранен.
+
+CHAPTER 13.
+
+ГЛАВА ТРИНАДЦАТАЯ
+
+So the President got the authority he needed and the Old Man was his chief of staff; at last we could move fast and effectively.
+
+Итак, президент получил необходимые полномочия, а Старик стал главой его аппарата; наконец-то мы могли действовать быстро и эффективно.
+
+The Old Man had a simple enough campaign in mind. <span class='tip-wrap' data-text='schedule [скЕджул] {существительное} расписание'>**Schedule**<span class='tip-text'> </span></span> Bare Back was to be the first phase of Operation Parasite. The idea was that everybody, everybody was to peel to the waist and stay peeled, until all titans were spotted and killed. Oh, women could have halter strings across their backs, but a parasite could not hide under a bra string.
+
+Старик задумал достаточно простую кампанию. Расписание Bare Back должно было стать первой фазой операции Parasite. Идея заключалась в том, что все, все должны были раздеться до пояса и оставаться раздетыми, пока все титаны не будут обнаружены и убиты. О, женщины могли носить уздечки на спине, но паразит не мог спрятаться под бретельками бюстгальтера.
+
+We prepared a visual presentation to go with the speech the President would make to the nation. Fast work had saved seven of the parasites we had flushed in the halls of Congress and now they were alive on animal hosts. We could show them and we could show the less <span class='tip-wrap' data-text='horrible [хОрэбэл] {прилагательное} ужасный'>**horrible**<span class='tip-text'> </span></span> parts of the film taken of me. The President himself would appear in shorts, and models would demonstrate what the Well Undressed Citizen Would Wear This Season, including the metal head-and-spine armor which was intended to protect a person even if a parasite got to him in his <span class='tip-wrap' data-text='sleep [слИп] {существительное} сон [3]'>**sleep**<span class='tip-text'> </span></span>.
+
+Мы подготовили визуальную презентацию для выступления президента перед нацией. Быстрая работа спасла семь паразитов, которых мы вывели из залов Конгресса, и теперь они были живы в животных-хозяевах. Мы могли бы показать их и показать менее ужасные части фильма, снятые со мной. Сам президент появится в шортах, а модели продемонстрируют, что Хорошо Одетый Гражданин Носил бы В Этом Сезоне, включая металлическую броню для головы и позвоночника, которая должна была защитить человека, даже если паразит добрался бы до него во сне.
+
+We got it ready in one black-coffee night and the President's writers had his lines ready for him. The smash <span class='tip-wrap' data-text='finish [фЫныш] {существительное} отделка (финиш)'>**finish**<span class='tip-text'> </span></span> was to show Congress in session, discussing the emergency, and every man and woman showing a bare back to the camera.
+
+Мы подготовили его за одну ночь с черным кофе, и писатели президента подготовили для него его реплики. Ударным завершением было показать Конгресс на заседании, обсуждающий чрезвычайную ситуацию, и каждого мужчину и каждую женщину, показывающих голую спину камере.
+
+With twenty-eight minutes left until <span class='tip-wrap' data-text='broadcast [брОдкЭст] {существительное} вещание'>**broadcast**<span class='tip-text'> </span></span> time the President got a call from up the street. I was present; the Old Man had been with the President all night, and had kept me around. Mary was there, of course; the President was her special charge. We were all in shorts; <span class='tip-wrap' data-text='schedule [скЕджул] {существительное} расписание'>**Schedule**<span class='tip-text'> </span></span> Bare Back had already started in the White House.
+
+За двадцать восемь минут до эфира президенту позвонили с улицы. Я присутствовал; Старик был с президентом всю ночь и держал меня рядом. Мэри, конечно, была там; президент был ее особым подопечным. Мы все были в шортах; расписание Bare Back уже началось в Белом доме.
+
+When the call came in the President did not <span class='tip-wrap' data-text='bother [бАðэр] {глагол} беспокоить'>**bother**<span class='tip-text'> </span></span> to cut us out of his end of the conversation. "Speaking," he said. Presently he added, "You feel certain? Very well, John, what do you advise?.. I see. No, I don't think that would work... I had better come up the street. Tell them to be ready." He pushed back the phone and turned to an assistant. "Tell them to hold up the <span class='tip-wrap' data-text='broadcast [брОдкЭст] {существительное} вещание'>**broadcast**<span class='tip-text'> </span></span>." He turned to the Old Man. "Come, Andrew, we must go to the Capitol."
+
+Когда раздался звонок, президент не потрудился прервать нас со своей стороны разговора. «Говорит», — сказал он. Вскоре он добавил: «Вы уверены? Очень хорошо, Джон, что вы посоветуете?.. Понятно. Нет, я не думаю, что это сработает... Я лучше поднимусь по улице. Скажите им, чтобы были готовы». Он отодвинул трубку и повернулся к помощнику. «Скажите им, чтобы приостановили трансляцию». Он повернулся к Старику. «Пойдем, Эндрю, нам нужно идти в Капитолий».
+
+He retired into a dressing room adjoining his office; when he came out, he was formally dressed for a state occasion. He offered no <span class='tip-wrap' data-text='explanation [ЕксплэнЕйшэн] {существительное} объяснение'>**explanation**<span class='tip-text'> </span></span>, the Old Man raised an eyebrow but said nothing and I did not <span class='tip-wrap' data-text='dare [дЕр] {глагол} дерзать; сметь'>**dare**<span class='tip-text'> </span></span> say anything. So we went to the Capitol.
+
+Он удалился в гардеробную, примыкающую к его кабинету; когда он вышел, он был официально одет для государственного случая. Он не дал никаких объяснений, Старик поднял бровь, но ничего не сказал, и я не осмелился ничего сказать. Поэтому мы отправились в Капитолий.
+
+It was a <span class='tip-wrap' data-text='joint [джОйнт] {прилагательное} совместный'>**joint**<span class='tip-text'> </span></span> session, the second in less than twenty-four hours. We came in, and I saw that the Congressmen and senators were dressed as usual. I still don't understand it. They had given the President all the authority he asked for; <span class='tip-wrap' data-text='schedule [скЕджул] {существительное} расписание'>**Schedule**<span class='tip-text'> </span></span> Bare Back itself had been discussed and approved - but they did not see where it applied to them.
+
+Это было совместное заседание, второе менее чем за двадцать четыре часа. Мы вошли, и я увидел, что конгрессмены и сенаторы были одеты как обычно. Я до сих пор этого не понимаю. Они предоставили президенту все полномочия, о которых он просил; само расписание Bare Back было обсуждено и одобрено — но они не увидели, где оно применимо к ним.
+
+When the President took the rostrum, he simply looked at them until he got dead silence. Then slowly, calmly, he started taking off clothes.
+
+Когда президент поднялся на трибуну, он просто смотрел на них, пока не наступила мертвая тишина. Затем медленно, спокойно он начал снимать одежду.
+
+He stopped when he was bare to the waist. He then turned slowly around, lifting his arms. At last he spoke.
+
+Он остановился, когда был голым по пояс. Затем он медленно повернулся, подняв руки. Наконец он заговорил.
+
+"I did that," he said, "so that you might see for yourself that your Chief Executive is not a <span class='tip-wrap' data-text='prisoner [прЫзэнэр] {существительное} узник'>**prisoner**<span class='tip-text'> </span></span> of the enemy." He paused.
+
+«Я сделал это», — сказал он, — «чтобы вы сами увидели, что ваш генеральный директор не является пленником врага». Он помолчал.
+
+"But how about you?" That last word was flung at them.
+
+«А как насчет вас?» Последнее слово было брошено им.
+
+"Mister President -" It was Charity Evans, from the State of Maine, looking like a pretty schoolteacher. She stood and I saw that she was in evening dress. Her gown reached to the floor, but was cut as deep as could be above. In back the dress ended at the base of her spine. "Is this satisfactory, Mr. President?"
+
+«Господин президент...» Это была Чарити Эванс из штата Мэн, похожая на симпатичную школьную учительницу. Она встала, и я увидел, что она в вечернем платье. Ее платье доходило до пола, но сверху было вырезано настолько глубоко, насколько это было возможно. Сзади платье заканчивалось у основания позвоночника. «Это вас устраивает, господин президент?»
+
+"Quite satisfactory, madam."
+
+«Вполне удовлетворительно, мадам».
+
+Senator Gottlieb stood up. His cheeks were gray and sunken. But he held himself erect and, with <span class='tip-wrap' data-text='incredible [ЫнкрЕдэбэл] {прилагательное} невероятный'>**incredible**<span class='tip-text'> </span></span> dignity, followed the President's example. Then he, too, turned all the way around; on his back, scarlet against his white flesh, was the mark of the parasite.
+
+Сенатор Готлиб встал. Его щеки были серыми и впалыми. Но он держался прямо и с невероятным достоинством последовал примеру президента. Затем он тоже повернулся на спину; на его спине, алой на фоне белой плоти, была отметина паразита.
+
+He spoke. "Last night I was not my own master. Today I am. Can you not see that Rome is burning?" Suddenly he had a gun in his hand. "Up on your feet, you courthouse loafers! Two minutes to get undressed and show a bare back - then I shoot!"
+
+Он заговорил. «Вчера вечером я не был сам себе хозяином. Сегодня я им являюсь. Разве вы не видите, что Рим горит?» Внезапно в его руке оказался пистолет. «Вставайте, бездельники из суда! Две минуты, чтобы раздеться и показать голую спину — и я стреляю!»
+
+There was a pause, then they started taking off clothes. One man rushed for a door; he was stopped. No, he was not wearing a parasite.
+
+Наступила пауза, затем они начали снимать одежду. Один мужчина бросился к двери; его остановили. Нет, на нем не было паразита.
+
+But we caught three. After that, the show went on the channels, ten minutes late, and Congress started the first of its "bare back" sessions.
+
+Но мы поймали три. После этого шоу пошло по каналам, с опозданием в десять минут, и Конгресс начал первую из своих «голых» сессий.
+
+CHAPTER 14.
+
+ГЛАВА ЧЕТЫРНАДЦАТАЯ
+
+"LOCK YOUR DOORS!"
+
+«ЗАКРОЙТЕ ДВЕРИ!»
+
+"NEVER ENTER A DARK PLACE!"
+
+«НИКОГДА НЕ ВХОДИТЕ В ТЕМНОЕ МЕСТО!»
+
+"A MAN WEARING A <span class='tip-wrap' data-text='coat [кOут] {существительное} слой; пальто'>**COAT**<span class='tip-text'> </span></span> IS AN ENEMY - SHOOT!"
+
+«МУЖЧИНА В ПАЛЬТО — ВРАГ. СТРЕЛЯЙ!»
+
+There was a steady bombardment of propaganda. Our radar screen was on full alert for unidentified blips. Military units were ready to smear any that landed.
+
+Была постоянная бомбардировка пропагандой. Наш радарный экран был в полной готовности к неопознанным точкам. Военные подразделения были готовы размазать любого, кто приземлится.
+
+Then nothing happened. There was no work for them to do. In the uncontaminated areas people took off their shirts, willingly or reluctantly, looked around them and found no parasites. They watched their newscasts and wondered and waited for the government to tell them that the danger was over. But nothing happened and citizens began to doubt the <span class='tip-wrap' data-text='necessity [нэсЕсэти] {существительное} необходимость'>**necessity**<span class='tip-text'> </span></span> of running around the streets in sunbathing costumes. We had shouted "Wolf!" and no wolf came.
+
+Потом ничего не произошло. Им нечем было заняться. В незараженных районах люди снимали рубашки, охотно или неохотно, оглядывались вокруг и не находили паразитов. Они смотрели выпуски новостей, удивлялись и ждали, когда правительство скажет им, что опасность миновала. Но ничего не произошло, и граждане начали сомневаться в необходимости бегать по улицам в костюмах для загара. Мы кричали «Волк!», но волк не пришел.
+
+In the infected areas the slugs controlled the local stations; the people never heard the warning.
+
+В зараженных районах слизни контролировали местные станции; люди так и не услышали предупреждения.
+
+But in Washington we had every reason to believe that they had heard the warning. Reports came back from - well, Iowa, for example, just like those from California. The governor of Iowa was one of the first to send a message to the President, promising full cooperation. The Iowa state police were already cruising the roads, he reported, stopping everybody and requiring them to <span class='tip-wrap' data-text='strip [стрЫп] {глагол} раздеваться'>**strip**<span class='tip-text'> </span></span> to the waist. Air travel above Iowa was stopped for the duration of the emergency, just as the President had urged.
+
+Но в Вашингтоне у нас были все основания полагать, что они услышали предупреждение. Сообщения приходили из... ну, из Айовы, например, так же, как и из Калифорнии. Губернатор Айовы был одним из первых, кто отправил сообщение президенту, обещая полное сотрудничество. Полиция штата Айова уже патрулировала дороги, сообщил он, останавливая всех и требуя раздеться до пояса. Воздушное сообщение над Айовой было остановлено на время чрезвычайной ситуации, как и призывал президент.
+
+There was even a <span class='tip-wrap' data-text='broadcast [брОдкЭст] {существительное} вещание'>**broadcast**<span class='tip-text'> </span></span> of the governor addressing his constituents, bare to the waist. He faced the camera and I wanted to tell him to turn around. But presently they cut to another camera and we had a close up of a bare back, while the governor's voice went cheerfully on, urging all citizens to work with the police.
+
+Была даже трансляция, где губернатор обращался к своим избирателям, голый по пояс. Он стоял перед камерой, и я хотел сказать ему, чтобы он повернулся. Но тут же они переключились на другую камеру, и мы увидели крупный план голой спины, в то время как голос губернатора бодро продолжал призывать всех граждан сотрудничать с полицией.
+
+Iowa was <span class='tip-wrap' data-text='definitely [дЕфэнэтли] {наречие} несомненно'>**definitely**<span class='tip-text'> </span></span> a pest house of slugs.
+
+Айова определенно была рассадником слизней.
+
+We were gathered in a conference room off the President's office. The President had kept the Old Man with him, and Mary was still on watch. Secretary of Security Martinez was there as well as the Supreme Chief of Staff, Air Marshal Rexton.
+
+Мы собрались в конференц-зале рядом с офисом президента. Президент оставил Старика при себе, а Мэри все еще была на страже. Там был министр безопасности Мартинес, а также Верховный начальник штаба маршал авиации Рекстон.
+
+The President watched the <span class='tip-wrap' data-text='broadcast [брОдкЭст] {существительное} вещание'>**broadcast**<span class='tip-text'> </span></span> from Iowa and turned to the Old Man. "Well, Andrew? I thought Iowa was a place we would have to fence off."
+
+Президент посмотрел трансляцию из Айовы и повернулся к Старику. «Ну что, Эндрю? Я думал, что Айова — это место, которое нам придется отгородить».
+
+The Old Man grunted. "Can't you see that the titans have won another round?"
+
+Старик хмыкнул. «Разве ты не видишь, что титаны выиграли еще один раунд?»
+
+"Eh?"
+
+«А?»
+
+"You just heard the governor; they let us look at his back - or somebody's back. Did you notice that he didn't turn around in front of the camera?"
+
+«Вы только что слышали губернатора; нам разрешили посмотреть на его спину — или на чью-то спину. Вы заметили, что он не повернулся перед камерой?»
+
+"I certainly had the impression that I saw him turn," said the President slowly. "You are suggesting that Governor Packer is himself possessed?"
+
+«У меня, конечно, было впечатление, что я видел, как он повернулся», — медленно сказал президент. «Вы предполагаете, что губернатор Пэкер сам одержим?»
+
+"Correct. You saw what you were meant to see. There was a camera cut just before he was fully turned. Mister President, every message out of Iowa is faked."
+
+«Верно. Вы увидели то, что должны были увидеть. Камера выключилась прямо перед тем, как он полностью повернулся. Господин президент, все сообщения из Айовы — подделка».
+
+The President looked thoughtful. Secretary Martinez shook his head emphatically and said, "Impossible! I stopped off in Des Moines two days ago, coming back from Alaska. Everything was normal. Mind you, I admit the <span class='tip-wrap' data-text='existence [егзЫстэнс] {существительное} существование'>**existence**<span class='tip-text'> </span></span> of your parasites, though I haven't seen one. But let's find them where they are and root them out."
+
+Президент задумался. Секретарь Мартинес решительно покачал головой и сказал: «Невозможно! Я останавливался в Де-Мойне два дня назад, возвращаясь с Аляски. Все было нормально. Заметьте, я признаю существование ваших паразитов, хотя я ни одного не видел. Но давайте найдем их там, где они есть, и искореним».
+
+The Old Man looked tired and I felt tired.
+
+Старик выглядел усталым, и я тоже чувствовал усталость.
+
+Finally the Old Man replied, "Control the communications of a country and you control the country; that's elementary. You had better take fast steps. Mister Secretary, or you won't have any communications left."
+
+Наконец Старик ответил: «Контролируйте коммуникации страны, и вы будете контролировать страну; это элементарно. Вам лучше действовать быстро. Господин секретарь, иначе у вас не останется никаких коммуникаций».
+
+"But I was merely -"
+
+«Но я просто...»
+
+"You root them out!" the Old Man said rudely. "I've told you they are in Iowa and in New Orleans, and a dozen other spots. My job is finished. You are Secretary of Security; you root them out." He stood up and said, "Mister President, when I lose <span class='tip-wrap' data-text='sleep [слИп] {существительное} сон [3]'>**sleep**<span class='tip-text'> </span></span> I lose my temper. Could I be excused?"
+
+«Выкорчуйте их!» — грубо сказал Старик. «Я же говорил вам, что они в Айове, Новом Орлеане и еще в дюжине других мест. Моя работа закончена. Вы — министр безопасности, выкорчуйте их». Он встал и сказал: «Господин президент, когда я теряю сон, я выхожу из себя. Можно мне простить?»
+
+"Certainly, Andrew." He had not lost his temper and I think the President knew it. He doesn't lose his temper; he makes other people lose theirs.
+
+"Конечно, Эндрю". Он не вышел из себя, и я думаю, президент это знал. Он не выходит из себя; он заставляет других людей выходить из себя.
+
+Before the Old Man could say goodnight. Secretary Martinez interrupted. "Wait a moment! Let's check up." He turned to the Chief of Staff. "Rexton!"
+
+Прежде чем Старик успел попрощаться, Секретарь Мартинес прервал его. «Подождите минутку! Давайте проверим». Он повернулся к Начальнику штаба. «Рекстон!»
+
+"Uh, yes, sir."
+
+«Да, сэр».
+
+"That new post near Des Moines, Fort Patton. Get them on the command <span class='tip-wrap' data-text='circuit [сЭркэт] {существительное} схема; цепь; контур'>**circuit**<span class='tip-text'> </span></span> -"
+
+«Этот новый пост возле Де-Мойна, Форт-Паттон. Подключи их к командному пункту...»
+
+"With visual," put in the Old Man.
+
+«С визуальным сопровождением», — вставил Старик.
+
+"With visual, of course, and we'll get the true situation in Iowa."
+
+«Конечно, с визуальными данными, и мы получим истинную картину ситуации в Айове».
+
+<span class='tip-wrap' data-text='shortly [шОртли] {наречие} вскоре'>**Shortly**<span class='tip-text'> </span></span> thereafter we saw the <span class='tip-wrap' data-text='inside [ЫнсАйд] {существительное} внутренность'>**inside**<span class='tip-text'> </span></span> of a military communications center. Filling the foreground was a young officer. His rank was showed on his <span class='tip-wrap' data-text='cap [кЭп] {существительное} крышка; шапка'>**cap**<span class='tip-text'> </span></span>, but his chest was bare. Martinez turned triumphantly to the Old Man. "You see?"
+
+Вскоре после этого мы увидели внутреннюю часть военного центра связи. На переднем плане был молодой офицер. Его звание было указано на фуражке, но грудь была обнажена. Мартинес торжествующе повернулся к Старику. «Видишь?»
+
+"I see."
+
+"Я понимаю."
+
+"Now to make certain. Lieutenant!"
+
+«Теперь, чтобы убедиться. Лейтенант!»
+
+"Yes, sir!" The young fellow kept glancing from one famous face to another.
+
+«Да, сэр!» Молодой человек переводил взгляд с одного известного лица на другое.
+
+"Stand up and turn around," Martinez continued.
+
+«Встаньте и повернитесь», — продолжил Мартинес.
+
+"Uh? Why, certainly, sir." He seemed puzzled, but he did so - and it took him almost out of scan. We could see his bare back, up to about the short ribs - no higher.
+
+"А? Ну конечно, сэр". Он, казалось, был озадачен, но сделал это — и это почти вывело его из поля зрения. Мы могли видеть его голую спину, примерно до коротких ребер — не выше.
+
+"Sit down and turn around," shouted Martinez.
+
+«Сядь и повернись», — крикнул Мартинес.
+
+"Yes, sir!" The youth seemed nervous. He leaned over the desk and added, "Just a moment while I widen the view angle, sir."
+
+«Да, сэр!» Юноша, казалось, нервничал. Он наклонился над столом и добавил: «Минуточку, пока я расширяю угол обзора, сэр».
+
+The picture suddenly melted. The young officer's voice was still coming over the audio channel. "There - is that better, sir?"
+
+Картинка внезапно растаяла. Голос молодого офицера все еще шел по аудиоканалу. «Вот так — лучше, сэр?»
+
+"Damn it, we can't see a thing!"
+
+«Чёрт, мы ничего не видим!»
+
+"You can't? Just a moment, sir."
+
+«Вы не можете? Одну минутку, сэр».
+
+We could hear him breathing <span class='tip-wrap' data-text='heavily [хЕвэли] {наречие} сильно; тяжело'>**heavily**<span class='tip-text'> </span></span>. Suddenly the screen came to life and I thought for a moment that we were back at Fort Patton. But it was a major on the screen this time and the place looked larger. "Supreme <span class='tip-wrap' data-text='headquarters [хЕдкуОртэрз] {существительное} штаб'>**Headquarters**<span class='tip-text'> </span></span>," the image announced, "Communications officer of the watch. <span class='tip-wrap' data-text='major [мЕйджэр] {существительное} майор'>**Major**<span class='tip-text'> </span></span> Donovan."
+
+Мы слышали, как он тяжело дышал. Внезапно экран ожил, и на мгновение мне показалось, что мы снова в Форт-Паттоне. Но на этот раз на экране был майор, и место выглядело больше. «Верховный штаб», — гласило изображение, — «Офицер связи дежурной части. Майор Донован».
+
+"<span class='tip-wrap' data-text='major [мЕйджэр] {существительное} майор'>**Major**<span class='tip-text'> </span></span>," Martinez said in controlled tones, "I was hooked in with Fort Patton. What happened?"
+
+«Майор», — сказал Мартинес сдержанным тоном, — «я был связан с Фортом Паттон. Что случилось?»
+
+"Yes, sir; I was monitoring it. We've had a <span class='tip-wrap' data-text='slight [слАйт] {прилагательное} легкий; небольшой'>**slight**<span class='tip-text'> </span></span> technical difficulty on that channel. We'll put your call through again in a moment."
+
+«Да, сэр, я следил за ним. У нас возникли небольшие технические неполадки на этом канале. Мы снова соединим вас через минуту».
+
+"Well, <span class='tip-wrap' data-text='hurry [хЭри] {глагол} торопить(ся)'>**hurry**<span class='tip-text'> </span></span>!"
+
+«Ну, поторопись!»
+
+"Yes, sir." The screen went empty.
+
+«Да, сэр». Экран погас.
+
+The Old Man stood up again. "Call me when you've cleared up that '<span class='tip-wrap' data-text='slight [слАйт] {прилагательное} легкий; небольшой'>**slight**<span class='tip-text'> </span></span> technical difficulty'. Meantime, I'm going to bed."
+
+Старик снова встал. «Позвони мне, когда устранишь эту «небольшую техническую неполадку». А я пока пойду спать».
+
+CHAPTER 15.
+
+ГЛАВА ПЯТНАДЦАТАЯ
+
+Air Marshal Rexton and Secretary Martinez worked all night to realize that "technical interruptions" do not occur so conveniently. They called the Old Man about four a.m. and he called me, using our special phones.
+
+Маршал авиации Рекстон и секретарь Мартинес работали всю ночь, чтобы понять, что «технические перерывы» не происходят так удобно. Они позвонили Старику около четырех утра, а он позвонил мне, используя наши специальные телефоны.
+
+They were in the same conference room, Martinez, Rexton, and the Old Man. The President came in.
+
+Они были в одном конференц-зале, Мартинес, Рекстон и Старик. Президент вошел.
+
+Martinez and Rexton had been shoving push pins into a map, red for bad, green for good, and a few amber ones. Reports were still coming and Rexton's assistants kept adding new pins.
+
+Мартинес и Рекстон втыкали кнопки в карту: красные для плохого, зеленые для хорошего и несколько янтарных. Отчеты все еще приходили, и помощники Рекстона продолжали добавлять новые кнопки.
+
+Iowa looked like measles; New Orleans and the Teche country were as bad. So was Kansas City. The upper end of the Missouri - Mississippi system, from Minneapolis and St. Paul down to St. Louis, was clearly enemy territory. There were fewer red pins from there down to New Orleans - but there were no green ones.
+
+Айова выглядела как корь; Новый Орлеан и страна техе были такими же плохими. Как и Канзас-Сити. Верхний конец системы Миссури - Миссисипи, от Миннеаполиса и Сент-Пола до Сент-Луиса, был явно вражеской территорией. Оттуда до Нового Орлеана красных булавок было меньше, но зеленых не было.
+
+There was another hot spot around El Paso and two on the East Coast.
+
+Еще одна горячая точка была обнаружена в районе Эль-Пасо и две на Восточном побережье.
+
+The President looked it over calmly. "We shall need the help of Canada and Mexico," he said. "Any reports?"
+
+Президент спокойно посмотрел на это. «Нам понадобится помощь Канады и Мексики», — сказал он. «Есть какие-нибудь отчеты?»
+
+"None that mean anything, sir."
+
+«Ничего не значащего, сэр».
+
+"Canada and Mexico," the Old Man said seriously, "will be just a start. You are going to need the whole world with you on this job."
+
+«Канада и Мексика, — серьезно сказал Старик, — это только начало. В этой работе вам понадобится поддержка всего мира».
+
+The President said, "We'll deal with that when we come to it." He drew a finger across the map. "Any trouble getting messages through to the Coast?"
+
+Президент сказал: «Мы займемся этим, когда до этого дойдет». Он провел пальцем по карте. «Есть ли проблемы с передачей сообщений на побережье?»
+
+"Apparently not, sir," Rexton told him. "But I have shifted all military communications to one-link relay through the space stations." He glanced at his watch finger. "Space Station Gamma, at the moment."
+
+«По-видимому, нет, сэр», — сказал ему Рекстон. «Но я перевел все военные коммуникации на одноканальную ретрансляцию через космические станции». Он взглянул на палец часов. «Космическая станция Гамма, в данный момент».
+
+"Hmmm -" said the President. "Andrew, could these things storm a space station?"
+
+«Хм-м-м, — сказал президент. — Эндрю, а могут ли эти штуки штурмовать космическую станцию?»
+
+"How would I know?" the Old Man answered.
+
+«Откуда мне знать?» — ответил Старик.
+
+"Don't worry about it," Rexton said suddenly.
+
+«Не беспокойся об этом», — внезапно сказал Рекстон.
+
+"Why not?" the President asked.
+
+«Почему бы и нет?» — спросил президент.
+
+"I am probably the only one here who has done duty in a space station. Gentlemen, the costume we are now wearing is customary in a station. A man fully dressed would stand out like an overcoat on the beach. But we'll see." He gave orders to one of his assistants.
+
+«Я, наверное, единственный здесь, кто служил на космической станции. Джентльмены, костюм, который мы сейчас носим, является обычным на станции. Полностью одетый человек будет выделяться, как пальто на пляже. Но посмотрим». Он отдал приказ одному из своих помощников.
+
+The President resumed studying the map. "So far as we know," he said, pointing to Grinnell, Iowa, "all this comes from a single landing, here."
+
+Президент продолжил изучать карту. «Насколько нам известно», — сказал он, указывая на Гриннелл, штат Айова, «все это происходит из одной-единственной посадки, здесь».
+
+The Old Man answered, "Yes - so far as we know."
+
+Старик ответил: «Да, насколько нам известно».
+
+I said, "Oh, no!"
+
+Я сказал: «О, нет!»
+
+They all looked at me and I was embarrassed. "Go ahead," said the President.
+
+Они все посмотрели на меня, и мне стало неловко. «Продолжайте», — сказал президент.
+
+"There were at least three more landings - I know there were - before I was rescued."
+
+«Было еще по меньшей мере три посадки — я знаю, что так было — прежде чем меня спасли».
+
+The Old Man looked astonished. "Are you sure, son? We thought we had learned everything from you."
+
+Старик выглядел удивленным. «Ты уверен, сынок? Мы думали, что узнали от тебя все».
+
+"Of course I'm sure."
+
+«Конечно, я уверен».
+
+"Why didn't you mention it?"
+
+«Почему вы об этом не упомянули?»
+
+"I never thought of it before." I tried to explain how it feels to be possessed, how you know what is going on, but everything seems dreamy, <span class='tip-wrap' data-text='equally [Икуэли] {наречие} одинаково'>**equally**<span class='tip-text'> </span></span> important and <span class='tip-wrap' data-text='equally [Икуэли] {наречие} одинаково'>**equally**<span class='tip-text'> </span></span> unimportant. I grew quite upset.
+
+«Я никогда не думал об этом раньше». Я пытался объяснить, каково это — быть одержимым, как ты знаешь, что происходит, но все кажется призрачным, одинаково важным и одинаково неважным. Я совсем расстроился.
+
+The Old Man put his hand on me and said, "Steady down, son." The President said something soothing and gave me a reassuring smile.
+
+Старик положил мне на руку и сказал: «Успокойся, сынок». Президент сказал что-то успокаивающее и ободряюще улыбнулся.
+
+Rexton said, "The important point is: where did they <span class='tip-wrap' data-text='land [лЭнд] {глагол} приземляться'>**land**<span class='tip-text'> </span></span>? We might still capture one."
+
+Рекстон сказал: «Важный момент: где они приземлились? Мы все еще можем захватить одного».
+
+I went to the map and tried to think. Sweating, I pointed to New Orleans. "I'm pretty sure one was about here." I stared at the map. "I don't know where the others landed. But I know they did."
+
+Я подошел к карте и попытался подумать. Вспотевший, я указал на Новый Орлеан. «Я почти уверен, что один был где-то здесь». Я уставился на карту. «Я не знаю, где приземлились остальные. Но я знаю, что они это сделали».
+
+"How about here?" Rexton asked, pointing to the East Coast.
+
+«А как насчет этого?» — спросил Рекстон, указывая на Восточное побережье.
+
+"I don't know. I don't know."
+
+«Я не знаю. Я не знаю».
+
+The Old Man pointed to the other East Coast danger spot. "We know this one is a <span class='tip-wrap' data-text='secondary [сЕкэндЕри] {прилагательное} вторичный'>**secondary**<span class='tip-text'> </span></span> infection."
+
+Старик указал на другую опасную точку Восточного побережья. «Мы знаем, что это вторичная инфекция».
+
+"Can't you remember anything else?" Martinez said impatiently. "Think, man!"
+
+«Ты больше ничего не помнишь?» — нетерпеливо сказал Мартинес. «Думай, мужик!»
+
+"I just don't know. We never knew what they were up to, not really." I thought until my skull ached, then pointed to Kansas City. "I sent several messages here, but I don't know whether they were delivery orders, or not."
+
+«Я просто не знаю. Мы никогда не знали, что они задумали, на самом деле». Я думал, пока у меня не заболел череп, затем указал на Канзас-Сити. «Я отправил сюда несколько сообщений, но не знаю, были ли это заказы на доставку или нет».
+
+Rexton looked at the map; around Kansas City was almost as pin-studded as Iowa. "We'll assume a landing near Kansas City, too. We might <span class='tip-wrap' data-text='derive [дэрАйв] {глагол} получать; извлекать'>**derive**<span class='tip-text'> </span></span> the other landing."
+
+Рекстон посмотрел на карту; вокруг Канзас-Сити было почти так же усеяно булавками, как и в Айове. «Мы также предположим посадку около Канзас-Сити. Мы можем вывести другую посадку».
+
+"Or landings," added the Old Man.
+
+«Или высадки», — добавил Старик.
+
+"Eh? 'Or landings'. Certainly. But we need more reports." He turned back to the map and stared at it thoughtfully.
+
+«А? «Или высадки». Конечно. Но нам нужно больше отчетов». Он снова повернулся к карте и задумчиво уставился на нее.
+
+CHAPTER 16.
+
+ГЛАВА ШЕСТНАДЦАТАЯ
+
+It was clear that <span class='tip-wrap' data-text='schedule [скЕджул] {существительное} расписание'>**Schedule**<span class='tip-text'> </span></span> Bare Back had failed as an <span class='tip-wrap' data-text='offensive [эфЕнсыв] {прилагательное} оскорбительный; наступательный'>**offensive**<span class='tip-text'> </span></span> measure. As a defense it was useful; the uncontaminated areas could be kept so, as long as the slugs could not conceal themselves. It had even had <span class='tip-wrap' data-text='mild [мАйлд] {прилагательное} мягкий; спокойный'>**mild**<span class='tip-text'> </span></span> success in offense; areas contaminated but not "secured" by the parasites were cleaned up at once... Washington itself, for example, and New Philadelphia. New Brooklyn, too - there I had been able to give specific advice. The entire East Coast turned from red to green.
+
+Было ясно, что Schedule Bare Back провалился как наступательная мера. Как защита он был полезен; незараженные области могли оставаться таковыми, пока слизни не могли спрятаться. Он даже имел умеренный успех в наступлении; области, зараженные, но не «защищенные» паразитами, были немедленно очищены... сам Вашингтон, например, и Новая Филадельфия. И Новый Бруклин тоже — там я смог дать конкретные советы. Все Восточное побережье превратилось из красного в зеленое.
+
+But as the area down the middle of the country filled in on the map, it filled in red, and stayed so. The infected areas stood out in ruby light now, for the simple wall map studded with push pins had been replaced by a huge electronic military map, ten miles to the inch, covering one wall of the conference room.
+
+Но по мере того, как область в центре страны заполнялась на карте, она заполнялась красным и оставалась такой. Зараженные области теперь выделялись рубиновым светом, поскольку простая настенная карта, усеянная кнопками, была заменена огромной электронной военной картой, десять миль на дюйм, покрывающей одну стену конференц-зала.
+
+The country was <span class='tip-wrap' data-text='split [сплЫт] {глагол} разделить'>**split**<span class='tip-text'> </span></span> in two, as if a giant had washed red pigment down the Central Valley. Two zigzag amber paths bordered the great band held by the slugs; these were overlap, the only areas of real activity, places where line-of-sight reception was possible from both stations held by the enemy and from stations still in the hands of free men.
+
+Страна была разделена надвое, как будто гигант смыл красный пигмент вниз по Центральной долине. Две зигзагообразные янтарные дорожки ограничивали большую полосу, удерживаемую слизняками; это были перекрытия, единственные области реальной активности, места, где был возможен прямой прием как со станций, удерживаемых врагом, так и со станций, все еще находящихся в руках свободных людей.
+
+I looked at the map and wondered what was going on in those border strips. I had the room to myself; the Cabinet was meeting and the President had taken the Old Man with him. Rexton and his men had left earlier. I stayed there because I had not been told where to go and I hesitated to <span class='tip-wrap' data-text='wander [уАндэр] {глагол} блуждать'>**wander**<span class='tip-text'> </span></span> around in the White House.
+
+Я посмотрел на карту и задался вопросом, что происходит в этих пограничных полосах. Комната была в моем распоряжении; Кабинет министров собирался, и Президент взял Старика с собой. Рекстон и его люди ушли раньше. Я остался там, потому что мне не сказали, куда идти, и я не решался бродить по Белому дому.
+
+I wondered how an overnight visitor with no status managed to get breakfast? I had been up since four and my total nourishment so far had been one cup of coffee, served by the President's valet. Even more urgently I wanted to find a washroom.
+
+Я задавался вопросом, как ночной гость без статуса умудрился получить завтрак? Я был на ногах с четырех, и все мое питание до сих пор состояло из одной чашки кофе, поданной камердинером президента. Еще более срочно мне хотелось найти туалет.
+
+There was not a guard in sight. At last I got desperate enough to start trying doors. The first two were locked; the third was what I was looking for.
+
+Охранника не было видно. Наконец я достаточно отчаялся, чтобы начать пробовать двери. Первые две были заперты; третья была тем, что я искал.
+
+When I came back into the conference room, Mary was there.
+
+Когда я вернулся в конференц-зал, Мэри была там.
+
+I looked at her stupidly for a moment. "I thought you were with the President?"
+
+Я тупо посмотрел на нее на мгновение. «Я думал, ты с президентом?»
+
+She smiled. "I was, but the Old Man took over for me."
+
+Она улыбнулась. «Я была, но Старик взял верх за меня».
+
+I said, "Say, Mary, I've been wanting to talk with you and this is the first chance I've had. I guess I - Well, anyway, I'm really sorry, I mean, according to the Old Man -" I stopped, my carefully rehearsed speech was in ruins. "Anyhow, I'm sorry for what I said," I concluded miserably.
+
+Я сказал: «Слушай, Мэри, я давно хотел поговорить с тобой, и это мой первый шанс. Думаю, я... Ну, в любом случае, мне очень жаль, я имею в виду, по словам Старика...» Я остановился, моя тщательно отрепетированная речь пошла прахом. «В любом случае, мне жаль, что я сказал», — закончил я с несчастным видом.
+
+She put a hand on my arm. "Sam. Sam, my very dear, do not be troubled. What you said and what you did was fair enough from what you knew. The important thing, to me, is what you did for me. The rest does not matter - except that I am happy again to know that you don't despise me."
+
+Она положила мне руку на плечо. "Сэм. Сэм, мой дорогой, не беспокойся. То, что ты сказал и сделал, было достаточно справедливо, исходя из того, что ты знал. Для меня важно то, что ты сделал для меня. Остальное не имеет значения, кроме того, что я снова счастлива знать, что ты не презираешь меня".
+
+"Well, but - damn it, don't be so noble! I can't stand it!"
+
+«Ну, но — черт возьми, не будьте таким благородным! Я этого не вынесу!»
+
+We looked at each other and burst out laughing. She put both her hands on my shoulders and let her head <span class='tip-wrap' data-text='collapse [кэлЭпс] {существительное} коллапс; обвал'>**collapse**<span class='tip-text'> </span></span> on my right one, still laughing.
+
+Мы посмотрели друг на друга и расхохотались. Она положила обе руки мне на плечи и уронила голову на мою правую, продолжая смеяться.
+
+Then she kissed me and it was like summer sun coming out from a cloud. I felt myself sinking into a warm golden haze and I did not ever want to come up.
+
+Потом она поцеловала меня, и это было похоже на летнее солнце, выходящее из облака. Я почувствовал, как погружаюсь в теплую золотистую дымку, и мне не хотелось выплывать.
+
+"Mary," I said presently, "Mary, my dear, there is something you possibly could do for me."
+
+«Мэри», - сказал я вскоре, - «Мэри, моя дорогая, ты могла бы кое-что сделать для меня».
+
+"Yes?" she said eagerly.
+
+«Да?» — с нетерпением спросила она.
+
+"Tell me how a person gets anything to eat around here? I'm starved. No breakfast."
+
+«Скажите, как здесь можно найти хоть что-то поесть? Я умираю с голоду. Завтрака нет».
+
+She looked startled; I suppose she had expected something else. But she answered, "Why, certainly!"
+
+Она выглядела пораженной; я полагаю, она ожидала чего-то другого. Но она ответила: «Ну конечно!»
+
+I don't know where she went nor how she did it. But she returned in a few minutes with a tray of sandwiches and two bottles of beer. I was cleaning up my third when I said, "Mary, how long do you figure that meeting will last?"
+
+Я не знаю, куда она пошла и как она это сделала. Но она вернулась через несколько минут с подносом сэндвичей и двумя бутылками пива. Я допивал третью, когда сказал: «Мэри, как долго, по-твоему, продлится эта встреча?»
+
+"Let me see," she answered, "fourteen people, including the Old Man. I give it a minimum of two hours. Why?"
+
+«Дай-ка подумать», — ответила она, — «четырнадцать человек, включая Старика. Я даю минимум два часа. Почему?»
+
+"In that case," I said, swallowing the last <span class='tip-wrap' data-text='bite [бАйт] {существительное} укус; кусок'>**bite**<span class='tip-text'> </span></span>, "we have time to leave, find a registry office, get married, and get back before the Old Man misses us."
+
+«В таком случае», — сказал я, дожевывая последний кусок, — «у нас есть время уехать, найти ЗАГС, пожениться и вернуться, пока Старик не хватился нас».
+
+She did not answer and she did not look at me. Instead she stared at the bubbles in her beer. "Well?" I insisted.
+
+Она не ответила и не посмотрела на меня. Вместо этого она уставилась на пузырьки в своем пиве. «Ну?» — настаивал я.
+
+She raised her eyes. "Sam, I don't think you are ready to get married."
+
+Она подняла глаза. «Сэм, я не думаю, что ты готов жениться».
+
+"Speak for yourself!"
+
+«Говори за себя!»
+
+"Don't be angry, my dear. You can have me with or without a contract, anywhere, anyway. But you don't know me yet. Get acquainted with me; you might change your mind."
+
+«Не сердись, дорогая. Ты можешь иметь меня с контрактом или без, где угодно, в любом случае. Но ты меня еще не знаешь. Познакомься со мной, может, ты изменишь свое мнение».
+
+"I'm not in the <span class='tip-wrap' data-text='habit [хЭбэт] {существительное} привычка'>**habit**<span class='tip-text'> </span></span> of changing my mind." She glanced up without answering, then looked away sadly. I felt my face get hot. "That was a very special circumstance," I protested. "It could not happen to us again in a hundred years. That wasn't really me talking; it was -"
+
+«Я не привык менять свое мнение». Она подняла взгляд, не отвечая, затем грустно отвернулась. Я почувствовал, как мое лицо заливается краской. «Это было очень особенное обстоятельство», — запротестовал я. «Это не могло случиться с нами снова за сто лет. Это не я говорила; это было...»
+
+She stopped me. "I know, Sam. And now you want to prove to me that it didn't really happen or at least that you are sure of your own mind now. But you don't have to prove anything. I don't mistrust you. Take me away on a weekend; better yet, move into my apartment. If you find that I wear well, there's always time to make me what great grandmother called an '<span class='tip-wrap' data-text='honest [Анэст] {прилагательное} честный'>**honest**<span class='tip-text'> </span></span> woman', <span class='tip-wrap' data-text='heaven [хЕвэн] {существительное} небо'>**heaven**<span class='tip-text'> </span></span> knows why."
+
+Она остановила меня. «Я знаю, Сэм. А теперь ты хочешь доказать мне, что этого на самом деле не было или, по крайней мере, что ты теперь уверен в своих мыслях. Но тебе не нужно ничего доказывать. Я не сомневаюсь в тебе. Забери меня на выходные; еще лучше, переедь в мою квартиру. Если ты найдешь, что я хорошо одеваюсь, всегда найдется время сделать из меня то, что прабабушка называла «честной женщиной», бог знает почему».
+
+I felt I looked upset. She put a hand on <span class='tip-wrap' data-text='mine [мАйн] {существительное} шахта'>**mine**<span class='tip-text'> </span></span> and said seriously, "Take a look at the map, Sam."
+
+Я почувствовал, что выгляжу расстроенным. Она положила руку на мою и серьезно сказала: «Посмотри на карту, Сэм».
+
+I turned my head and looked. Red as ever, or more so - it seemed to me that the danger zone around El Paso had increased. She went on, "Let's get this mess cleaned up first, dear. Then, if you still want to, ask me again. In the meantime, you can have the privileges without the responsibilities."
+
+Я повернул голову и посмотрел. Красный, как всегда, или даже больше — мне показалось, что опасная зона вокруг Эль-Пасо увеличилась. Она продолжила: «Давай сначала уберем этот беспорядок, дорогая. Потом, если ты все еще хочешь, спроси меня снова. А пока ты можешь иметь привилегии без обязанностей».
+
+What could be fairer than that? The only trouble was that it was not the way I wanted it. Why will a man who has been avoiding marriage like the plague suddenly decide that nothing less will suit him? I had seen it happen a hundred times and never understood it; now I was doing it myself.
+
+Что может быть справедливее этого? Единственная проблема была в том, что это было не так, как я хотела. Почему мужчина, который избегал брака как чумы, вдруг решил, что ничто меньшее его не устроит? Я видела это сто раз и никогда не понимала; теперь я делала это сама.
+
+Mary had to go back on duty as soon as the meeting was over. The Old Man took me for a <span class='tip-wrap' data-text='walk [уОк] {существительное} прогулка'>**walk**<span class='tip-text'> </span></span>. The park was almost deserted. People were not yet used to <span class='tip-wrap' data-text='schedule [скЕджул] {глагол} планировать'>**Schedule**<span class='tip-text'> </span></span> Bare Back.
+
+Мэри пришлось вернуться на дежурство, как только встреча закончилась. Старик повел меня на прогулку. Парк был почти безлюден. Люди еще не привыкли к Schedule Bare Back.
+
+He said, "<span class='tip-wrap' data-text='schedule [скЕджул] {существительное} расписание'>**Schedule**<span class='tip-text'> </span></span> Counter Blast starts at midnight."
+
+Он сказал: «Расписание контратаки начинается в полночь».
+
+I said nothing; questioning him was useless.
+
+Я ничего не сказал; задавать ему вопросы было бесполезно.
+
+Presently he added, "We swoop down on every relay station, <span class='tip-wrap' data-text='broadcast [брОдкЭст] {существительное} вещание'>**broadcast**<span class='tip-text'> </span></span> station, newspaper office, and Western Union office in 'Zone Red'."
+
+Вскоре он добавил: «Мы атакуем каждую ретрансляционную станцию, вещательную станцию, редакцию газеты и офис Western Union в «красной зоне»».
+
+"Sounds good," I answered. "How many men does it take?"
+
+«Звучит хорошо», — ответил я. «Сколько человек для этого нужно?»
+
+He did not answer; instead he said, "I don't like it. I don't like it a little bit."
+
+Он не ответил; вместо этого он сказал: «Мне это не нравится. Мне это немного не нравится».
+
+"Huh?"
+
+"Хм?"
+
+"See here, the President went on the channels and told everybody to peel off their shirts. We find that the message did not get through into infected territory. What's the next logical development?"
+
+«Видите ли, президент вышел на каналы и сказал всем снять рубашки. Мы обнаружили, что сообщение не дошло до зараженной территории. Каково следующее логическое развитие событий?»
+
+I shrugged. "<span class='tip-wrap' data-text='schedule [скЕджул] {существительное} расписание'>**Schedule**<span class='tip-text'> </span></span> Counter Blast, I suppose."
+
+Я пожал плечами. «Запланировать контрвзрыв, я полагаю».
+
+"That hasn't happened yet. Think, it has been more than twenty-four hours: what should have happened and hasn't?"
+
+«Этого еще не произошло. Подумайте, прошло уже больше суток: что должно было произойти и чего не произошло?»
+
+"Should I know?"
+
+«А мне следует знать?»
+
+"You should, if you are ever going to amount to anything on your own. Here -" He handed me a combo key. "Go to Kansas City and take a looksee. Stay away from broadcasting stations, cops, and... you know their attack points better than I do. Stay away from them. Take a look at anything else. And don't get caught." Then he added, "Be back here a half hour before midnight, or <span class='tip-wrap' data-text='sooner [сУнэр] {наречие} скорее'>**sooner**<span class='tip-text'> </span></span>. Move."
+
+«Тебе стоит это сделать, если ты когда-нибудь собираешься чего-то добиться самостоятельно. Вот...» Он протянул мне комбинированный ключ. «Отправляйся в Канзас-Сити и осмотрись. Держись подальше от вещательных станций, копов и... ты знаешь их точки атаки лучше меня. Держись от них подальше. Смотри на все остальное. И не попадись». Затем он добавил: «Возвращайся сюда за полчаса до полуночи или раньше. Двигайся».
+
+So I moved.
+
+Поэтому я переехал.
+
+Once launched, I set the controls for Kansas City at legal maximum speed and tried to think. The transponder beeped as radar beams hit it each time I slid from one control block into the next, but no faces appeared on the screen. Apparently the Old Man's combo was good for the <span class='tip-wrap' data-text='route [рУт] {существительное} путь'>**route**<span class='tip-text'> </span></span>, emergency or not.
+
+После запуска я установил управление для Канзас-Сити на максимально допустимую скорость и попытался думать. Транспондер пищал, когда лучи радара попадали на него каждый раз, когда я скользил из одного блока управления в другой, но на экране не появлялось никаких лиц. Видимо, комбинация Старика была хороша для маршрута, экстренного или нет.
+
+I began to wonder what would happen when I slipped over into the red areas - and then realized what he had been driving at when he talked about "the next logical development". Would the control <span class='tip-wrap' data-text='net [нЕт] {прилагательное} чистый'>**net**<span class='tip-text'> </span></span> pass me on through into areas infested by titans?
+
+Я начал задаваться вопросом, что произойдет, когда я проскользну в красные области, и затем понял, к чему он клонил, когда говорил о «следующем логическом развитии». Пропустит ли меня контрольная сеть в области, кишащие титанами?
+
+One tends to think of communications as meaning the line-of-sight channels and nothing else. But "communications" means all traffic of every sort, even dear old Aunt Mamie, headed for California with her head stuffed with gossip. The slugs had seized the channels and the President's proclamation had not gotten through, or so we assumed - but news can't be stopped that easily; such measures merely <span class='tip-wrap' data-text='slow [слOу] {глагол} замедлять'>**slow**<span class='tip-text'> </span></span> it down. If the slugs expected to <span class='tip-wrap' data-text='retain [рытЕйн] {глагол} удерживать; сохранять'>**retain**<span class='tip-text'> </span></span> control where they were, seizing the channels would be just their first step.
+
+Обычно под коммуникациями подразумевают каналы прямой видимости и ничего больше. Но «коммуникации» означают весь трафик любого рода, даже дорогой старой тетушки Мейми, направляющейся в Калифорнию с головой, набитой сплетнями. Слизни захватили каналы, и прокламация президента не прошла, или так мы предполагали, — но новости нельзя остановить так легко; такие меры просто замедляют их. Если слизни рассчитывали сохранить контроль там, где они были, захват каналов был бы лишь их первым шагом.
+
+It stood to reason that they were not <span class='tip-wrap' data-text='numerous [нУмэрэс] {прилагательное} многочисленный'>**numerous**<span class='tip-text'> </span></span> enough to interfere with all traffic, but what would they do?
+
+Разумеется, их было недостаточно, чтобы помешать движению, но что они могли сделать?
+
+I reached only the unhelpful conclusion that they would do something and that I, a part of "communications" by definition, had better be prepared for action if I wanted to save my pretty pink skin.
+
+Я пришел лишь к бесполезному выводу, что они что-то предпримут, и что мне, как части «коммуникаций» по определению, лучше быть готовым к действию, если я хочу спасти свою красивую розовую кожу.
+
+In the meantime the Mississippi River and Zone Red were sliding <span class='tip-wrap' data-text='closer [клOусэр] {прилагательное} теснее'>**closer**<span class='tip-text'> </span></span> by the minute. I wondered what would happen the first time my <span class='tip-wrap' data-text='recognition [рЕкэгнЫшэн] {существительное} признание; распознавание'>**recognition**<span class='tip-text'> </span></span> signal was picked up by a station controlled by masters. I tried to think like a titan - impossible, I found, even though I had been a slave to one. The idea revolted me.
+
+Тем временем река Миссисипи и Зона Красная с каждой минутой приближались. Я задавался вопросом, что произойдет, когда мой опознавательный сигнал впервые поймает станция, контролируемая хозяевами. Я пытался думать как титан — невозможно, как я обнаружил, хотя я и был его рабом. Эта идея вызывала у меня отвращение.
+
+I had better not let them <span class='tip-wrap' data-text='spot [спАт] {глагол} страховать'>**spot**<span class='tip-text'> </span></span> me landing. Elementary.
+
+Лучше бы они не заметили мою посадку. Элементарно.
+
+"Elementary" in the face of a traffic control net which was described proudly as the No-Sparrow-Shall-Fall plan. They boasted that a butterfly could not make a forced landing anywhere in the United States without alerting the search rescue system. Not quite true - but I was no butterfly.
+
+"Элементарно" перед лицом сети управления движением, которая гордо описывалась как план "Ни один воробей не упадет". Они хвастались, что бабочка не может совершить вынужденную посадку где-либо в Соединенных Штатах, не вызвав тревогу поисково-спасательной системы. Не совсем так - но я не был бабочкой.
+
+What I wanted was to <span class='tip-wrap' data-text='land [лЭнд] {глагол} приземляться'>**land**<span class='tip-text'> </span></span> short of the infested area and go in on the ground. If I went in on foot the Old Man would get his report come next month; he wanted it before midnight.
+
+Я хотел приземлиться недалеко от зараженной зоны и войти по земле. Если я пойду пешком, Старик получит свой отчет в следующем месяце; он хотел, чтобы он пришел до полуночи.
+
+My course would take me in toward St. Louis, swing me in the city loop around St. Louis, and on to Kansas City. But St. Louis was in Zone Red. The military-situation map had showed Chicago as still green; as I remembered it the amber line had zigzagged west somewhere above Hannibal, Missouri - and I wanted very badly to cross the Mississippi while still in Zone <span class='tip-wrap' data-text='green [грИн] {существительное} зелень'>**Green**<span class='tip-text'> </span></span>.
+
+Мой курс должен был привести меня к Сент-Луису, развернуть меня по городской петле вокруг Сент-Луиса и дальше в Канзас-Сити. Но Сент-Луис был в Красной Зоне. Карта военной обстановки показывала Чикаго все еще зеленым; насколько я помнил, желтая линия зигзагом шла на запад где-то над Ганнибалом, штат Миссури, — и мне очень хотелось пересечь Миссисипи, все еще находясь в Зеленой Зоне.
+
+Short of the Springfield loop I headed west again, staying low. When I reached the river I crossed slowly, close to the water. I had hopes, if local traffic were being monitored while I crossed, that my blip would be mistaken for a boat on the river. I did not know certainly whether the next block station across the river was Zone Red or Zone <span class='tip-wrap' data-text='green [грИн] {существительное} зелень'>**Green**<span class='tip-text'> </span></span>, but, if my memory was correct, it should be green.
+
+Не доезжая до Спрингфилдского кольца, я снова направился на запад, держась низко. Добравшись до реки, я медленно пересек ее, близко к воде. Я надеялся, что если местное движение отслеживалось, пока я пересекал, то мою метку примут за лодку на реке. Я не знал наверняка, была ли следующая блок-станция через реку Красной или Зеленой зоной, но, если мне не изменяет память, она должна быть зеленой.
+
+Suddenly I noticed the shoreline opening up ahead of me. The map did not show a river arm there; I thought it was possibly a new channel cut in the spring floods and not yet mapped. I dropped almost to water level and headed into it. The stream was narrow, winding, and almost overhung by trees so that it afforded perfect radar "shadow"; I could get lost in it.
+
+Вдруг я заметил, что передо мной открывается береговая линия. На карте не было видно речного рукава; я подумал, что это, возможно, новый канал, прорезанный весенними паводками и еще не нанесенный на карту. Я спустился почти до уровня воды и направился в него. Ручей был узким, извилистым и почти нависал над деревьями, так что он давал идеальную «тень» для радара; я мог в нем затеряться.
+
+In a few minutes I was lost, not only from any monitoring technician, but lost myself, right off the map. The trees suddenly broke on the left bank; I saw a <span class='tip-wrap' data-text='stretch [стрЕч] {существительное} протяжение; растягивание'>**stretch**<span class='tip-text'> </span></span> of level land, kicked her over and stopped.
+
+Через несколько минут я потерялся не только от любого техника по мониторингу, но и потерял себя, прямо с карты. Деревья внезапно сломались на левом берегу; я увидел полосу ровной земли, пнул ее и остановился.
+
+I wondered what to do. I felt like the frog who jumped halfway to the end of the <span class='tip-wrap' data-text='log [лОг] {существительное} бревно (журнал)'>**log**<span class='tip-text'> </span></span> with each hop, but never got there. I must get back into the air.
+
+Я задавался вопросом, что делать. Я чувствовал себя как лягушка, которая с каждым прыжком допрыгивает до половины бревна, но так и не добирается. Я должен снова подняться в воздух.
+
+But I did not <span class='tip-wrap' data-text='dare [дЕр] {глагол} дерзать; сметь'>**dare**<span class='tip-text'> </span></span> do so until I knew positively whether traffic here was controlled by free men, or by slugs.
+
+Но я не осмелился сделать это, пока не узнал наверняка, контролируют ли здесь движение свободные люди или слизняки.
+
+It suddenly occurred to me that I had not turned on the stereo since leaving Washington. I started switching channels, trying to find a newscast - or any <span class='tip-wrap' data-text='live [лАйв] {прилагательное} живой'>**live**<span class='tip-text'> </span></span> program - when I found myself staring into the professional smile of an announcer. He was fully dressed.
+
+Мне вдруг пришло в голову, что я не включал стерео с тех пор, как уехал из Вашингтона. Я начал переключать каналы, пытаясь найти выпуск новостей — или любую прямую трансляцию — когда я обнаружил, что смотрю на профессиональную улыбку диктора. Он был полностью одет.
+
+<span class='tip-wrap' data-text='shortly [шОртли] {наречие} вскоре'>**Shortly**<span class='tip-text'> </span></span> I realized it was one of those silly shows. He was saying: " - and some lucky little woman sitting by her screen right this minute is about to receive, absolutely free, a General Atomics Six-in-One Automatic Home Butler. Who will it be? You? You? Or lucky you! He turned away from scan; I could see his shoulders. They were covered by shirt and <span class='tip-wrap' data-text='jacket [джЭкэт] {существительное} куртка'>**jacket**<span class='tip-text'> </span></span> and distinctly rounded, almost humped. I was inside Zone Red.
+
+Вскоре я понял, что это одно из тех глупых шоу. Он говорил: «... и какая-то счастливая маленькая женщина, сидящая у экрана прямо сейчас, собирается получить, абсолютно бесплатно, General Atomics Six-in-One Automatic Home Butler. Кто это будет? Вы? Вы? Или вам повезло! Он отвернулся от сканирования; я мог видеть его плечи. Они были прикрыты рубашкой и пиджаком и отчетливо округлены, почти горбаты. Я был внутри Зоны Красной.
+
+Finally, I found my way. I followed the road to the west.
+
+Наконец я нашел дорогу. Я пошел по дороге на запад.
+
+Macon, Missouri seemed normal - much too normal to be reassuring, as <span class='tip-wrap' data-text='schedule [скЕджул] {существительное} расписание'>**Schedule**<span class='tip-text'> </span></span> Bare Back obviously had not been heard of here. There were a number of bare backs, but it was a hot day. There were more backs that were covered and concealed a slug.
+
+Мейкон, штат Миссури, казался нормальным — слишком нормальным, чтобы быть обнадеживающим, поскольку о Schedule Bare Back здесь, очевидно, не слышали. Было несколько голых спин, но день был жаркий. Было больше спин, которые были закрыты и скрывали слизняка.
+
+I drove the <span class='tip-wrap' data-text='belt [бЕлт] {существительное} ремень'>**belt**<span class='tip-text'> </span></span> around Macon and pulled into a landing <span class='tip-wrap' data-text='flat [флЭт] {прилагательное} плоский'>**flat**<span class='tip-text'> </span></span> on the far side. There I queued up for local traffic launching and headed for Kansas City in a mess of farmers' helicopters and suchlike local <span class='tip-wrap' data-text='craft [крЭфт] {существительное} судно (ремесло)'>**craft**<span class='tip-text'> </span></span>.
+
+Я проехал по кольцу вокруг Мейкона и въехал на посадочную площадку на дальней стороне. Там я встал в очередь на местный запуск трафика и направился в Канзас-Сити в толпе фермерских вертолетов и тому подобных местных судов.
+
+The field was automatically serviced, no attendants, not even at the fuelling line. It seemed probable that I had managed to enter the Missouri traffic pattern without arousing suspicion.
+
+Поле обслуживалось автоматически, никаких дежурных, даже на заправочной линии. Казалось вероятным, что мне удалось войти в схему движения Миссури, не вызвав подозрений.
+
+CHAPTER 17.
+
+ГЛАВА СЕМНАДЦАТАЯ
+
+I drove into the Meyer Boulevard toll gate. The line waiting to pay toll for the doubtful <span class='tip-wrap' data-text='privilege [прЫвлэдж] {существительное} привилегия; честь'>**privilege**<span class='tip-text'> </span></span> of driving on a city street was quite long. But soon the gatekeeper took my toll without glancing at me. I glanced at him but could not tell whether or not he was being ridden.
+
+Я въехал в пункт взимания платы на бульваре Мейер. Очередь, ожидающая оплаты пошлины за сомнительную привилегию вождения по городской улице, была довольно длинной. Но вскоре сторож принял с меня плату, даже не взглянув на меня. Я взглянул на него, но не смог понять, ехал ли он или нет.
+
+I drove through the gate with a sigh of <span class='tip-wrap' data-text='relief [рылИф] {существительное} облегчение; рельеф'>**relief**<span class='tip-text'> </span></span> - only to be stopped just beyond the gate. A barrier dropped in front of me and I just managed to stop the car, when a cop stuck his head in the side I had open. "Safety check," he said. "Climb out."
+
+Я проехал через ворота со вздохом облегчения — и тут же остановился за воротами. Передо мной опустился шлагбаум, и я едва успел остановить машину, как в открытую сторону просунулся полицейский. «Проверка безопасности», — сказал он. «Вылезай».
+
+I protested that my car had just been inspected. "No matter," he said, "Here's your car check. Pick it up just beyond the barrier. Now get out and go in that door." He pointed to a low building a few steps from the curb.
+
+Я возразил, что мою машину только что осмотрели. «Неважно», — сказал он, «Вот ваш чек на машину. Заберите его сразу за барьером. Теперь выходите и заходите в эту дверь». Он указал на невысокое здание в нескольких шагах от обочины.
+
+"What for?"
+
+"Зачем?"
+
+"Eyesight and reflexes," he explained. "Come on. You're holding up the line."
+
+«Зрение и рефлексы, — объяснил он. — Давай. Ты задерживаешь очередь».
+
+In my mind's eye, I saw the map, with Kansas City glowing red. That the city was "secured" I was sure; therefore this policeman was almost <span class='tip-wrap' data-text='surely [шУрли] {наречие} конечно'>**surely**<span class='tip-text'> </span></span> slug-ridden. I did not need to look at his shoulders.
+
+В моем мысленном взоре я увидел карту, на которой Канзас-Сити светился красным. Я был уверен, что город был «безопасен»; поэтому этот полицейский почти наверняка был изрешечен слизняками. Мне не нужно было смотреть на его плечи.
+
+I got out, grumbling, and walked slowly toward the building. It was a temporary building with an old-style door. I pushed it open with a toe and glanced both sides and up before I entered. It seemed safe. <span class='tip-wrap' data-text='inside [ЫнсАйд] {существительное} внутренность'>**Inside**<span class='tip-text'> </span></span> was an empty anteroom with open door beyond.
+
+Я вышел, ворча, и медленно пошел к зданию. Это было временное здание с дверью в старом стиле. Я толкнул ее носком ноги и посмотрел по сторонам и вверх, прежде чем войти. Это казалось безопасным. Внутри была пустая прихожая с открытой дверью за ней.
+
+Someone inside called out, "Come in." Still as cautious as the situation permitted, I went in.
+
+Кто-то изнутри крикнул: «Войдите». Соблюдая осторожность, насколько позволяла ситуация, я вошел.
+
+There were two men, both in white coats, one with a doctor's speculum strapped to his head. He looked up and said briskly, "This won't take a minute. Step over here." He closed the door I had entered; I heard the latch click.
+
+Там было двое мужчин, оба в белых халатах, один с прикрепленным к голове медицинским зеркалом. Он поднял глаза и быстро сказал: «Это не займет и минуты. Подойдите сюда». Он закрыл дверь, в которую я вошел; я услышал, как щелкнул засов.
+
+Spread out on a long table were transit cells for masters, already opened and warmed. The second man had one ready - for me, I knew - and was holding it tilted toward him, so that I could not see the slug inside. The transit cells would not arouse alarm in the minds of victims; medical men always have things at hand which seem odd.
+
+На длинном столе были разложены транзитные камеры для хозяев, уже открытые и разогретые. У второго человека была одна наготове — для меня, я знал — и он держал ее наклоненной к себе, так что я не мог видеть пулю внутри. Транзитные камеры не вызвали бы тревоги в умах жертв; у медиков всегда есть под рукой вещи, которые кажутся странными.
+
+As for the rest, I was invited to place my eyes against the goggles of a quite <span class='tip-wrap' data-text='ordinary [ОрдэнЕри] {прилагательное} обычный'>**ordinary**<span class='tip-text'> </span></span> visual acuity tester. The "doctor" would keep me there, blindfolded without knowing it and reading test figures, while his "assistant" fitted me with a master. No violence, no slips, no protests.
+
+Что касается остального, мне было предложено приложить глаза к очкам вполне обычного тестера остроты зрения. «Доктор» держал меня там, с завязанными глазами, не зная об этом, и читал цифры теста, пока его «ассистент» надевал мне мастер. Никакого насилия, никаких промахов, никаких протестов.
+
+It was not even necessary, as I had learned during my own "service", to bare the victim's back. Just touch the master to the bare neck, then let the new recruit himself <span class='tip-wrap' data-text='adjust [эджАст] {глагол} регулировать'>**adjust**<span class='tip-text'> </span></span> his <span class='tip-wrap' data-text='clothing [клOуðыŋ] {существительное} одежда'>**clothing**<span class='tip-text'> </span></span> to cover his master before he left.
+
+Даже не было необходимости, как я узнал во время своей собственной "службы", обнажать спину жертвы. Просто прикоснитесь к голой шее хозяина, затем позвольте новому рекруту самому поправить одежду, чтобы прикрыть своего хозяина, прежде чем он уйдет.
+
+"Right over here," the "doctor" repeated. "Place your eyes against the eyepieces."
+
+«Вот здесь», — повторил «доктор». «Приложите глаза к окулярам».
+
+Moving very quickly I went to the <span class='tip-wrap' data-text='bench [бЕнч] {существительное} скамья'>**bench**<span class='tip-text'> </span></span> on which was mounted the acuity tester. Then I turned suddenly around.
+
+Двигаясь очень быстро, я подошел к скамейке, на которой был установлен тестер остроты зрения. Затем я резко обернулся.
+
+The assistant had moved in <span class='tip-wrap' data-text='closer [клOусэр] {прилагательное} теснее'>**closer**<span class='tip-text'> </span></span>: the cell was ready in his hands. As I turned he tilted it away from me. "Doctor," I said, "I wear contact lenses. Should I take them off?"
+
+Ассистент подошел ближе: ячейка была готова в его руках. Когда я повернулся, он наклонил ее от меня. «Доктор», — сказал я, — «я ношу контактные линзы. Мне их снять?»
+
+"No, no," he snapped. "Let's not waste time."
+
+«Нет, нет, — отрезал он. — Давайте не будем терять времени».
+
+"But, Doctor," I protested, "I want you to see how they fit. Now I've had a little trouble with this left one -" I lifted both hands and pulled back the upper and lower lids of my left eye. "See?"
+
+«Но, доктор», — запротестовал я, — «я хочу, чтобы вы посмотрели, как они сидят. У меня возникли небольшие проблемы с левым...» Я поднял обе руки и оттянул верхнее и нижнее веко левого глаза. «Видите?»
+
+He said angrily, "This is not a clinic. Now, if you please -" They were both within <span class='tip-wrap' data-text='reach [рИч] {существительное} охват'>**reach**<span class='tip-text'> </span></span>; lowering my arms in a mighty hug I got them both - and grabbed with clutched fingers at the spot between each set of shoulder blades. With each hand I struck something soft and mushy under the coats. So I crushed their masters.
+
+Он сердито сказал: «Это не клиника. Теперь, пожалуйста...» Они оба были в пределах досягаемости; опустив руки в могучем объятии, я схватил их обоих — и схватил сжатыми пальцами место между каждой парой лопаток. Каждой рукой я ударил по чему-то мягкому и кашеобразному под пальто. Так я раздавил их хозяев.
+
+I could not hold them; they flopped to the floor. But there was no need to hold them; after that first convulsion they went limp, unconscious, possibly dead.
+
+Я не мог их удержать; они шлепнулись на пол. Но не было нужды их удерживать; после первой судороги они обмякли, потеряли сознание, возможно, умерли.
+
+Someone was knocking at the door. I called out, "Just a moment. The doctor is busy." The knocking stopped. I made sure that the door was fastened, then went back, bent over the "doctor" and pulled up his <span class='tip-wrap' data-text='coat [кOут] {существительное} слой; пальто'>**coat**<span class='tip-text'> </span></span> to see what I had done to his master.
+
+Кто-то стучал в дверь. Я крикнул: «Минуточку. Доктор занят». Стук прекратился. Я убедился, что дверь заперта, затем вернулся, наклонился над «доктором» и задрал его пальто, чтобы посмотреть, что я сделал с его хозяином.
+
+The thing was a slimy mess, already beginning to stink. So was the one on the other man - which facts pleased me heartily as I was determined to bum the slugs if they were not already dead and I was not sure that I could do so without killing the hosts as well. I left the men, to live or die - or be seized again by titans, as might be. I had no way to help them.
+
+Эта штука была скользкой кашей, уже начинавшей вонять. То же самое было и с тем, что на другом человеке — факты, которые меня очень порадовали, поскольку я был полон решимости сжечь слизней, если они еще не мертвы, и я не был уверен, что смогу сделать это, не убив также и хозяев. Я оставил людей, жить или умереть — или быть снова схваченными титанами, как это могло быть. У меня не было возможности помочь им.
+
+The masters waiting in their cells were another matter. With a fan <span class='tip-wrap' data-text='beam [бИм] {существительное} луч; балка'>**beam**<span class='tip-text'> </span></span> and a maximum charge I burned them all in seconds only. There were two large crates against the wall. I did not know that they contained masters but I had no reason to believe otherwise; I beamed them through.
+
+Другое дело — мастера, ожидающие в своих камерах. С помощью веерного луча и максимального заряда я сжег их всех за считанные секунды. У стены стояли два больших ящика. Я не знал, что в них были мастера, но у меня не было причин думать иначе; я пропустил их через луч.
+
+The knocking at the door resumed. I looked around hastily for somewhere to hide the two men. There was <span class='tip-wrap' data-text='nowhere [нOууЕр] {наречие} нигде'>**nowhere**<span class='tip-text'> </span></span> at all, so I decided to execute the classic military maneuver. As I was about to go out the exit, I felt that something was missing. I hesitated and looked around again.
+
+Стук в дверь возобновился. Я торопливо огляделся в поисках места, где можно было бы спрятать двух мужчин. Там вообще негде было укрыться, поэтому я решил выполнить классический военный маневр. Когда я собирался выйти через выход, я почувствовал, что чего-то не хватает. Я замешкался и снова огляделся.
+
+I noticed the dust cover for the acuity tester lying on the <span class='tip-wrap' data-text='bench [бЕнч] {существительное} скамья'>**bench**<span class='tip-text'> </span></span>. I loosened my shirt, snatched up the dust cover, and stuffed it under my shirt between my shoulder blades. With my shirt collar fastened and my <span class='tip-wrap' data-text='jacket [джЭкэт] {существительное} куртка'>**jacket**<span class='tip-text'> </span></span> zipped tightly it made a hump of the <span class='tip-wrap' data-text='proper [прАпэр] {прилагательное} правильный'>**proper**<span class='tip-text'> </span></span> size.
+
+Я заметил чехол от тестера остроты зрения, лежащий на скамейке. Я расстегнул рубашку, схватил чехол и засунул его под рубашку между лопатками. С застегнутым воротником рубашки и плотно застегнутой курткой получился горб нужного размера.
+
+Then I went out.
+
+Потом я вышел.
+
+Another cop took my car check. He glanced <span class='tip-wrap' data-text='sharply [шАрпли] {наречие} резко'>**sharply**<span class='tip-text'> </span></span> at me, then motioned me to climb in. I did so and he said, "Go to police <span class='tip-wrap' data-text='headquarters [хЕдкуОртэрз] {существительное} штаб'>**headquarters**<span class='tip-text'> </span></span>, under the City Hall."
+
+Другой полицейский осмотрел мою машину. Он бросил на меня резкий взгляд, затем жестом пригласил меня сесть. Я так и сделал, и он сказал: «Иди в полицейское управление, под зданием мэрии».
+
+"'Police <span class='tip-wrap' data-text='headquarters [хЕдкуОртэрз] {существительное} штаб'>**headquarters**<span class='tip-text'> </span></span>, the City Hall'," I repeated. I started in that direction and turned onto Nichols Freeway. I came to a <span class='tip-wrap' data-text='stretch [стрЕч] {существительное} протяжение; растягивание'>**stretch**<span class='tip-text'> </span></span> where traffic thinned out and pressed the button to shift license plates, hoping that no one would notice. It seemed possible that there was already a call out for the plates I had been showing at the toll gate.
+
+«Полицейское управление, мэрия», — повторил я. Я двинулся в том направлении и свернул на шоссе Николс. Я доехал до участка, где движение стало редким, и нажал кнопку смены номерных знаков, надеясь, что никто не заметит. Казалось, что уже был вызов на номера, которые я показывал на пункте взимания платы.
+
+Before the freeway reached Magee Traffic Way, I turned into a down ramp and stuck thereafter to <span class='tip-wrap' data-text='residential [рЕзыдЕншэл] {прилагательное} жилой'>**residential**<span class='tip-text'> </span></span> side streets. It was eighteen hundred, and I was <span class='tip-wrap' data-text='due [дУ] {прилагательное} надлежащий'>**due**<span class='tip-text'> </span></span> in Washington in four and one-half hours.
+
+Прежде чем автострада достигла Magee Traffic Way, я свернул на съезд и застрял на жилых боковых улицах. Было восемнадцать ноль-ноль, и я должен был быть в Вашингтоне через четыре с половиной часа.
+
+CHAPTER 18.
+
+ГЛАВА ВОСЕМНАДЦАТАЯ
+
+The city did not look right. Superficially there was nothing wrong, but it did not have the right <span class='tip-wrap' data-text='flavor [флЕйвэр] {существительное} вкус; запах'>**flavor**<span class='tip-text'> </span></span>, as if it were a bad play.
+
+Город выглядел не так. Внешне все было в порядке, но в нем не было нужного колорита, как будто это была плохая пьеса.
+
+It was a hot day, hotter even than Washington had been; I began to look for bare shoulders, sun-suited women and men in shorts and sandals. I found people both fully-dressed and sun- suited but the proportions were wrong. Sure, there were plenty of kids dressed for the weather, but in several miles of driving I saw the bare backs of only five adult women and two adult men.
+
+День был жаркий, даже жарче, чем в Вашингтоне; я начал искать голые плечи, женщин в солнечных костюмах и мужчин в шортах и сандалиях. Я нашел людей как полностью одетых, так и в солнечных костюмах, но пропорции были неправильными. Конечно, было много детей, одетых по погоде, но за несколько миль езды я увидел голые спины только у пяти взрослых женщин и двух взрослых мужчин.
+
+The masters did not simply hold key points and key officials; the masters were the city.
+
+Хозяева не просто владели ключевыми пунктами и ключевыми должностными лицами; хозяевами был город.
+
+I felt sure, there must be a dozen or more saucers, to carry enough masters to saturate Kansas City. But how was that possible? Or could it be that they had no trajectories to <span class='tip-wrap' data-text='track [трЭк] {глагол} следить'>**track**<span class='tip-text'> </span></span>? That they simply appeared instead of swooping down like a rocket? We did not know what the masters were <span class='tip-wrap' data-text='capable [кЕйпэбэл] {прилагательное} способный'>**capable**<span class='tip-text'> </span></span> of in the way of <span class='tip-wrap' data-text='engineering [ЕнджэнЫрыŋ] {существительное} инженерия'>**engineering**<span class='tip-text'> </span></span> and it was not safe to judge their limitations by our own.
+
+Я был уверен, что там должно быть дюжина или больше тарелок, чтобы нести достаточно мастеров, чтобы заполнить Канзас-Сити. Но как это было возможно? Или, может быть, у них не было траекторий, которые можно было бы отслеживать? Они просто появлялись, а не пикировали, как ракета? Мы не знали, на что были способны мастера в плане инженерии, и было небезопасно судить об их ограничениях по нашим собственным.
+
+But the data I had led to a conclusion which contradicted common logic; therefore I must check before I reported back. One thing seemed sure: if I assumed that the masters had in fact almost saturated this city, then it was <span class='tip-wrap' data-text='evident [Евэдэнт] {прилагательное} очевидный'>**evident**<span class='tip-text'> </span></span> that they were still keeping up the masquerade. They were permitting the city to look like a city of free human beings.
+
+Но данные, которые у меня были, привели к выводу, который противоречил общепринятой логике; поэтому я должен был проверить, прежде чем отчитаться. Одно казалось несомненным: если я предполагал, что хозяева фактически почти заполонили этот город, то было очевидно, что они все еще поддерживали маскарад. Они позволяли городу выглядеть как город свободных людей.
+
+I had travelled along another mile or so, when I noticed a swimming pool. The gates were locked and it carried a sign - "CLOSED FOR THE SEASON".
+
+Я проехал еще около мили, когда заметил бассейн. Ворота были заперты, а на них висела табличка: «ЗАКРЫТО НА СЕЗОН».
+
+A swimming pool closed down during the hottest part of the summer? What did it mean? Nothing at all; swimming pools have gone out of business before and will again. On the other hand it was contrary to the logic of <span class='tip-wrap' data-text='economics [ЕкэнАмыкс] {существительное} экономика'>**economics**<span class='tip-text'> </span></span> to close such an <span class='tip-wrap' data-text='enterprise [ЕнтэрпрАйз] {существительное} предприятие'>**enterprise**<span class='tip-text'> </span></span> during the season of greatest profit. But a swimming pool was the one place where the masquerade could not possibly be maintained.
+
+Бассейн закрыли в самый жаркий период лета? Что это значило? Ничего; бассейны уже закрывались и снова закроются. С другой стороны, закрытие такого предприятия в сезон наибольшей прибыли противоречило логике экономики. Но бассейн был тем единственным местом, где маскарад не мог быть устроен.
+
+Item: a trap at the city's toll gates; item: too few sun suits; item: a <span class='tip-wrap' data-text='closed [клOузд] {прилагательное} замкнутый; закрытый'>**closed**<span class='tip-text'> </span></span> swimming pool.
+
+Предмет: ловушка у городских ворот; предмет: слишком мало солнцезащитных костюмов; предмет: закрытый бассейн.
+
+Conclusion: the slugs were incredibly more <span class='tip-wrap' data-text='numerous [нУмэрэс] {прилагательное} многочисленный'>**numerous**<span class='tip-text'> </span></span> than had been dreamed by anyone.
+
+Вывод: слизней оказалось гораздо больше, чем кто-либо мог себе представить.
+
+Corollary: <span class='tip-wrap' data-text='schedule [скЕджул] {существительное} расписание'>**Schedule**<span class='tip-text'> </span></span> Counter Blast was based on a mistaken <span class='tip-wrap' data-text='estimate [Естэмэт] {существительное} оценка'>**estimate**<span class='tip-text'> </span></span> of the enemy and would not work.
+
+Следствие: План «Контрвзрыв» был основан на ошибочной оценке противника и не сработал.
+
+Counter argument: what I thought I saw was physically impossible. I could hear Secretary Martinez's sarcasm tearing my report to shreds. My guesses referred only to Kansas City and were insufficiently grounded even there. Thank you kindly for your interest but what you need is a long rest and freedom from nervous <span class='tip-wrap' data-text='strain [стрЕйн] {существительное} напряжение; штамм'>**strain**<span class='tip-text'> </span></span>.
+
+Контраргумент: то, что я думал, что видел, было физически невозможно. Я слышал, как сарказм секретаря Мартинеса разрывал мой отчет в клочья. Мои догадки относились только к Канзас-Сити и даже там были недостаточно обоснованы. Спасибо вам за ваш интерес, но вам нужен длительный отдых и свобода от нервного напряжения.
+
+Pfui!
+
+Тьфу!
+
+I had to have something strong enough for the Old Man to <span class='tip-wrap' data-text='convince [кэнвЫнс] {глагол} убеждать'>**convince**<span class='tip-text'> </span></span> the President over the <span class='tip-wrap' data-text='reasonable [рИзэнэбэл] {прилагательное} разумный'>**reasonable**<span class='tip-text'> </span></span> objections of his official advisers. What could I dig up that would be convincing? Go farther downtown, mingle with crowds, and then tell Martinez that I was sure that almost every man I passed was possessed? How could I prove it?
+
+Мне нужно было что-то достаточно сильное, чтобы Старик убедил Президента, несмотря на разумные возражения его официальных советников. Что я мог нарыть, что было бы убедительно? Идите дальше в центр города, смешивайтесь с толпой, а затем скажите Мартинесу, что я уверен, что почти каждый человек, мимо которого я прохожу, одержим? Как я могу это доказать?
+
+I had some notion now of how the city had been saturated. I felt sure that I would <span class='tip-wrap' data-text='encounter [ынкАунтэр] {глагол} столкнуться; встретить'>**encounter**<span class='tip-text'> </span></span> another such trap on the way out and that there would be others like it on launching platforms and at every other entrance and exit to the city. Every person leaving would be a new agent for the masters; every person entering would be a new slave.
+
+Теперь у меня было некоторое представление о том, как был насыщен город. Я был уверен, что на пути наружу я столкнусь с еще одной такой ловушкой, и что будут и другие, подобные ей, на стартовых платформах и у каждого входа и выхода из города. Каждый уходящий человек будет новым агентом для хозяев; каждый входящий человек будет новым рабом.
+
+I had noticed a vendo-printer for the Kansas City Star on the last corner I had passed. I shoved a dime in the slot and waited for my paper to be printed.
+
+Я заметил вендо-принтер для Kansas City Star на последнем углу, который я проезжал. Я сунул десятицентовик в щель и подождал, пока моя газета будет напечатана.
+
+The Star's format had its usual dull respectability - no <span class='tip-wrap' data-text='excitement [ыксАйтмэнт] {существительное} волнение'>**excitement**<span class='tip-text'> </span></span>, no mention of an emergency, no reference to <span class='tip-wrap' data-text='schedule [скЕджул] {глагол} планировать'>**Schedule**<span class='tip-text'> </span></span> Bare Back. The lead news story was headed PHONE SERVICE DISRUPTED BY SUNSPOT STORM, with a subhead City Semi-Isolated by Solar Static.
+
+Формат Star имел свою обычную унылую респектабельность — никакого волнения, никаких упоминаний о чрезвычайной ситуации, никаких ссылок на Schedule Bare Back. Главный новостной сюжет был озаглавлен ТЕЛЕФОННАЯ СЛУЖБА НАРУШЕНА ИЗ-ЗА ШТОРМА СОЛНЕЧНЫХ ПЯТЕН с подзаголовком Город полуизолирован из-за солнечной статики.
+
+It was a convincing and unexciting <span class='tip-wrap' data-text='explanation [ЕксплэнЕйшэн] {существительное} объяснение'>**explanation**<span class='tip-text'> </span></span> of why Mamie Schultz, herself free of parasites, could not get her call through to Grandma in Pittsburgh.
+
+Это было убедительное и неинтересное объяснение того, почему Мэми Шульц, сама свободная от паразитов, не могла дозвониться до бабушки в Питтсбурге.
+
+The rest of the paper looked normal. I tucked it under my arm to study later and turned back to my car.
+
+Остальная часть бумаги выглядела нормально. Я сунул ее под мышку, чтобы изучить позже, и повернулся к своей машине.
+
+I decided what it was I needed as proof: a <span class='tip-wrap' data-text='prisoner [прЫзэнэр] {существительное} узник'>**prisoner**<span class='tip-text'> </span></span>, a man who had been possessed and could tell what had happened to the city. I had to rescue a <span class='tip-wrap' data-text='host [хOуст] {существительное} хозяин; ведущий'>**host**<span class='tip-text'> </span></span>.
+
+Я решил, что мне нужно доказательство: заключенный, человек, который был одержим и мог рассказать, что случилось с городом. Мне нужно было спасти хозяина.
+
+I had to capture a man who was possessed, capture him without hurting him, kill or remove his rider, and kidnap him back to Washington. I had not time to pick a victim, to make plans; I must act now.
+
+Мне нужно было поймать одержимого человека, поймать его, не причинив ему вреда, убить или убрать его всадника и похитить его обратно в Вашингтон. У меня не было времени выбирать жертву, строить планы; я должен был действовать сейчас.
+
+He was a middle-aged man watering his <span class='tip-wrap' data-text='lawn [лОн] {существительное} газон'>**lawn**<span class='tip-text'> </span></span>. The man wore a heavy sweater which bulged suspiciously. There was a woman not far from him. He looked up inquiringly as I stopped. "I've just come from City Hall," I said. "You and I need a direct conference right away. Get in."
+
+Это был мужчина средних лет, поливший свой газон. На мужчине был тяжелый свитер, который подозрительно топорщился. Неподалеку от него стояла женщина. Он вопросительно посмотрел на меня, когда я остановился. «Я только что из мэрии», — сказал я. «Нам с тобой нужна прямая конференция прямо сейчас. Заходи».
+
+He said quietly, "Come in the house for it. That car is too public."
+
+Он тихо сказал: «Зайди в дом. Эта машина слишком публичная».
+
+I wanted to refuse but he had already turned and was heading for the house. As I came up by him he whispered, "Careful. The woman is not of us."
+
+Я хотела отказаться, но он уже повернулся и направился к дому. Когда я подошла к нему, он прошептал: «Осторожно. Эта женщина не из нас».
+
+"Your wife?"
+
+«Ваша жена?»
+
+"Yes."
+
+"Да."
+
+We stopped on the porch and he said, "My dear, this is Mr. O'Keefe. We have some business to discuss. We'll be in the study."
+
+Мы остановились на крыльце, и он сказал: «Дорогая, это мистер О'Киф. Нам нужно обсудить кое-какие дела. Мы будем в кабинете».
+
+She smiled and answered, "Certainly, my love. Good evening, Mr. O'Keefe. Hot, isn't it?"
+
+Она улыбнулась и ответила: «Конечно, любовь моя. Добрый вечер, мистер О'Киф. Жарко, не правда ли?»
+
+I agreed that it was and she went back to her knitting. We went on <span class='tip-wrap' data-text='inside [ЫнсАйд] {существительное} внутренность'>**inside**<span class='tip-text'> </span></span> and the man ushered me into his study. Since we were both keeping the masquerade, as a visitor, I went in first. I did not like turning my back on him.
+
+Я согласился, что это так, и она вернулась к своему вязанию. Мы вошли внутрь, и мужчина провел меня в свой кабинет. Поскольку мы оба соблюдали маскарад, как гость, я вошел первым. Мне не понравилось поворачиваться к нему спиной.
+
+For that reason I was half expecting it. He hit me near the base of the neck. But I rolled with it and went down almost unhurt. In training school they used to slap us with sandbags for trying to get up, once down. I recall my instructor saying, "Brave men get up again - and die. Be a coward - fight from the floor."
+
+По этой причине я был наполовину готов к этому. Он ударил меня около основания шеи. Но я перекатился и упал почти невредимым. В школе подготовки нас били мешками с песком за попытку подняться, когда мы падали. Я помню, как мой инструктор говорил: «Храбрые люди снова встают — и умирают. Будьте трусом — сражайтесь на полу».
+
+So I was on my back and threatening him with my heels as soon as I hit. He danced back out of range. Apparently he did not have a gun and I could get at mine. But there was an open fireplace in the room, a real one, complete with poker and shovel. He moved toward it.
+
+Так что я оказался на спине и угрожал ему каблуками, как только ударил. Он отскочил назад, за пределы досягаемости. Судя по всему, у него не было пистолета, и я мог достать свой. Но в комнате был открытый камин, настоящий, с кочергой и лопатой. Он двинулся к нему.
+
+There was a small table just out of my <span class='tip-wrap' data-text='reach [рИч] {существительное} охват'>**reach**<span class='tip-text'> </span></span>. I rolled, grabbed a leg and threw it. It caught him in the face as he was grabbing the poker. Then I was on him.
+
+Там был маленький столик, до которого я не мог дотянуться. Я перекатился, схватил ногу и бросил ее. Она попала ему в лицо, когда он хватался за кочергу. И вот я на нем.
+
+His master was dying in my fingers and he himself was convulsing when I became aware of <span class='tip-wrap' data-text='nerve [нЭрв] {существительное} нерв; наглость'>**nerve**<span class='tip-text'> </span></span>-shattering screams. His wife was standing in the <span class='tip-wrap' data-text='doorway [дОруЕй] {существительное} портал; проем'>**doorway**<span class='tip-text'> </span></span>. I had to hit her. She fell down on the floor and I returned to her husband.
+
+Его хозяин умирал в моих пальцах, а сам он бился в конвульсиях, когда я услышал нервные крики. Его жена стояла в дверях. Мне пришлось ударить ее. Она упала на пол, и я вернулся к ее мужу.
+
+A limp man is amazingly hard to lift; it took me longer to get him up and across my shoulders than it had to silence him. He was heavy. The woman's screams had aroused neighbors. There were people popping out of doors on both sides of the street. So far, none of them was near, but I was glad to see that I had left the car door open. I hurried toward it.
+
+Безвольного человека невероятно трудно поднять; мне потребовалось больше времени, чтобы поднять его и положить на плечи, чем заставить его замолчать. Он был тяжелым. Крики женщины разбудили соседей. Из дверей по обе стороны улицы выскакивали люди. Пока никого из них не было поблизости, но я был рад увидеть, что оставил дверцу машины открытой. Я поспешил к ней.
+
+I found the wide boulevard I needed - the Paseo, I think - and took off. I kept the car on manual across Missouri and expended every launching unit to get more speed. That reckless and illegal action saved my neck; somewhere over Columbia, just as I fired the last one, I felt the car shake. Someone had launched an interceptor, and the thing had rushed where I had just been.
+
+Я нашел нужный мне широкий бульвар — Пасео, я думаю — и рванул с места. Я вел машину на ручном режиме по Миссури и израсходовал все пусковые установки, чтобы набрать больше скорости. Это безрассудное и незаконное действие спасло мою шею; где-то над Колумбией, как раз когда я выстрелил в последний раз, я почувствовал, как машина трясется. Кто-то запустил перехватчик, и эта штука рванула туда, где я только что был.
+
+There were no more shots. Then, I was out of Zone Red and back among free men.
+
+Больше выстрелов не было. Затем я вышел из Зоны Красной и вернулся к свободным людям.
+
+Up until then I had not had time to give my passenger more than a <span class='tip-wrap' data-text='glance [глЭнс] {существительное} взгляд'>**glance**<span class='tip-text'> </span></span>. He lay where I had slung him, on the floor pads, unconscious or dead. Now that I was back among men and no longer had the power for illegal speeds there was no reason not to go automatic. I flipped on the transponder, and put the controls on automatic. Then I swung around into the lounge and looked my man over.
+
+До этого момента у меня не было времени уделить своему пассажиру больше, чем взгляд. Он лежал там, где я его бросил, на подушках на полу, без сознания или мертвый. Теперь, когда я снова был среди людей и больше не имел власти для запрещенных скоростей, не было причин не перейти на автоматический режим. Я включил транспондер и перевел управление на автоматический режим. Затем я развернулся в салоне и осмотрел своего мужчину.
+
+He was breathing but still out. No bones seemed broken. The dead slug was beginning to stink but I had no way to dispose of it. I let him be and went back to the control seat.
+
+Он дышал, но все еще был вне. Кости, похоже, не были сломаны. Мертвый слизень начал вонять, но у меня не было возможности избавиться от него. Я оставил его в покое и вернулся к креслу управления.
+
+The chronometer read twenty-one thirty-seven Washington time - and I still had to go six hundred miles. At my best speed for tearing over to the White House and finding the Old Man, I would reach Washington a few minutes after midnight. So I had already failed to carry out the letter of my orders and the Old Man was going to get really angry.
+
+Хронометр показывал двадцать один тридцать семь по вашингтонскому времени — а мне еще предстояло проехать шестьсот миль. При моей лучшей скорости, чтобы рвануть в Белый дом и найти Старика, я бы добрался до Вашингтона через несколько минут после полуночи. Так что я уже не выполнил букву своих приказов, и Старик собирался очень рассердиться.
+
+I tried to raise the Old Man by phone.
+
+Я попытался дозвониться до Старика по телефону.
+
+The phone would not work. I put it back in my pocket, feeling that this was one of those days when it was just not worthwhile to get out of bed. I turned to the car's communicator and called the emergency service.
+
+Телефон не работал. Я положил его обратно в карман, чувствуя, что это один из тех дней, когда просто не стоит вставать с кровати. Я повернулся к коммуникатору автомобиля и позвонил в службу спасения.
+
+"Control," I called out. "Control! This is an emergency!"
+
+«Контроль», — крикнул я. «Контроль! Это чрезвычайная ситуация!»
+
+The screen lighted up and I was looking at a young man. He was, I saw with <span class='tip-wrap' data-text='relief [рылИф] {существительное} облегчение; рельеф'>**relief**<span class='tip-text'> </span></span>, bare-skinned so far as he appeared in the screen. "Control answering - Block Fox Eleven. What are you doing in the air? I've been trying to raise you ever since you entered my block."
+
+Экран загорелся, и я увидел молодого человека. Он был, я с облегчением увидел, голым, насколько он появился на экране. "Контроль отвечает - Блок Фокс Одиннадцать. Что ты делаешь в воздухе? Я пытаюсь поднять тебя с тех пор, как ты вошел в мой блок".
+
+"Never <span class='tip-wrap' data-text='mind [мАйнд] {глагол} возражать; прислушиваться; присматривать'>**mind**<span class='tip-text'> </span></span>!" I snapped. "Patch me into the nearest military <span class='tip-wrap' data-text='circuit [сЭркэт] {существительное} схема; цепь; контур'>**circuit**<span class='tip-text'> </span></span>. This is crash priority!"
+
+«Не обращай внимания!» — рявкнул я. «Соедини меня с ближайшим военным округом. Это аварийный приоритет!»
+
+He looked uncertain, but the screen flickered and went blank. <span class='tip-wrap' data-text='shortly [шОртли] {наречие} вскоре'>**Shortly**<span class='tip-text'> </span></span> another picture built up showing a military message center - and that did my heart good, as every person in sight was stripped to the waist. The foreground was occupied by a young watch officer. I said, "Military emergency - patch me through to the Pentagon and there to the White House."
+
+Он выглядел неуверенно, но экран замерцал и погас. Вскоре появилась еще одна картинка, показывающая военный центр сообщений — и это порадовало мое сердце, поскольку все люди в поле зрения были раздеты до пояса. На переднем плане был молодой дежурный офицер. Я сказал: «Военная чрезвычайная ситуация — соедините меня с Пентагоном, а оттуда с Белым домом».
+
+"Who are you?"
+
+"Кто ты?"
+
+"No time, no time! I'm a civil agent and you wouldn't recognize my I.D. if you saw it. <span class='tip-wrap' data-text='hurry [хЭри] {глагол} торопить(ся)'>**Hurry**<span class='tip-text'> </span></span>!"
+
+«Нет времени, нет времени! Я гражданский агент, и вы не узнаете мое удостоверение личности, даже если увидите его. Поторопитесь!»
+
+Suddenly he was shouldered out of scan by an older man, a wing commander by his <span class='tip-wrap' data-text='cap [кЭп] {существительное} крышка; шапка'>**cap**<span class='tip-text'> </span></span> sign. "Land at once!" was all that he said.
+
+Внезапно его вытолкнул из поля зрения пожилой мужчина, командир звена, судя по его фуражке. «Немедленно приземляйтесь!» — вот и все, что он сказал.
+
+"Look, skipper," I said. "This is a military emergency; you've got to put me through. I -"
+
+«Послушайте, шкипер», — сказал я. «Это военная чрезвычайная ситуация; вы должны меня соединить. Я...»
+
+"This is a military emergency," he interrupted, "and all civil <span class='tip-wrap' data-text='craft [крЭфт] {существительное} судно (ремесло)'>**craft**<span class='tip-text'> </span></span> have been grounded for the past three hours. Land at once."
+
+«Это чрезвычайная военная ситуация», — прервал он, — «и все гражданские суда были на земле в течение последних трех часов. Приземляйтесь немедленно».
+
+"But I've got to -"
+
+«Но я должен...»
+
+"Land or be shot down. We are tracking you; I am about to launch an interceptor to burst a half mile ahead of you. Hold your course, or make any maneuver but landing, and the next one will burst on."
+
+«Приземляйтесь или будете сбиты. Мы следим за вами; я собираюсь запустить перехватчик, который взорвется в полумиле от вас. Держите курс или сделайте любой маневр, кроме посадки, и следующий взорвется».
+
+"Will you listen, please? I'll <span class='tip-wrap' data-text='land [лЭнд] {глагол} приземляться'>**land**<span class='tip-text'> </span></span>, but I've got to get -" He switched off.
+
+«Послушайте, пожалуйста. Я приземлюсь, но мне нужно...» Он отключился.
+
+I landed.
+
+Я приземлился.
+
+I did not have long to wait. They took me in and I met the wing commander <span class='tip-wrap' data-text='personally [пЭрсэнэли] {наречие} лично'>**personally**<span class='tip-text'> </span></span>. He even put my message through. By then it was one-thirteen - and <span class='tip-wrap' data-text='schedule [скЕджул] {существительное} расписание'>**Schedule**<span class='tip-text'> </span></span> Counter Blast had been underway for exactly that hour and thirteen minutes.
+
+Мне не пришлось долго ждать. Меня приняли, и я лично встретился с командиром крыла. Он даже передал мое сообщение. К тому времени было 1:30 — и Schedule Counter Blast шел ровно этот час и 13 минут.
+
+The Old Man listened to a summary, grunted, then told me to shut up and see him in the morning.
+
+Старик выслушал краткое изложение, что-то проворчал, а затем велел мне заткнуться и прийти к нему утром.
+
+CHAPTER 19.
+
+ГЛАВА ДЕВЯТНАДЦАТАЯ
+
+The ten titans we had captured at the <span class='tip-wrap' data-text='joint [джОйнт] {прилагательное} совместный'>**joint**<span class='tip-text'> </span></span> session of Congress, plus two the next day, had been sent to the director of the zoo to be placed on the shoulders of unlucky anthropoids - chimps and orangutans.
+
+Десять титанов, пойманных нами на совместном заседании Конгресса, и еще два на следующий день были отправлены директору зоопарка, чтобы он поместил их на плечи несчастных человекообразных обезьян — шимпанзе и орангутанов.
+
+Two chimpanzees, Abelard and Heloise, were caged together; they had always been mates and there seemed to be no reason to <span class='tip-wrap' data-text='separate [сЕпэрЕйт] {глагол} отделять'>**separate**<span class='tip-text'> </span></span> them. Maybe that sums up our psychological difficulty in dealing with the titans; even the men who transplanted the slugs to the apes still thought of the result as apes, rather than as titans.
+
+Два шимпанзе, Абеляр и Элоиза, были посажены в одну клетку; они всегда были парами, и, казалось, не было причин их разлучать. Возможно, это подводит итог нашим психологическим трудностям в общении с титанами; даже люди, которые пересаживали слизней обезьянам, все еще думали о результате как об обезьянах, а не как о титанах.
+
+The treatment cage next to that of the two chimps was occupied by a family of tuberculous gibbons. They were not used as hosts, since they were sick, and there was no communication between cages. They were shut one from another by sliding panels.
+
+Клетка для лечения рядом с клеткой двух шимпанзе была занята семьей туберкулезных гиббонов. Они не использовались в качестве хозяев, поскольку были больны, и между клетками не было связи. Они были отделены друг от друга раздвижными панелями.
+
+Anyhow, the next morning the panel had been slid back and the gibbons and the chimps were all in together. Abelard, or possibly Heloise, had found some way to pick the lock. Two chimps plus two titans plus five gibbons - the next morning there were seven apes ridden by seven titans.
+
+Так или иначе, на следующее утро панель была отодвинута назад, и гиббоны и шимпанзе были все вместе. Абеляр, или, возможно, Элоиза, нашли способ взломать замок. Два шимпанзе плюс два титана плюс пять гиббонов — на следующее утро было семь обезьян, оседланных семью титанами.
+
+This was discovered two hours before I left for Kansas City, but the Old Man had not been notified.
+
+Это было обнаружено за два часа до моего отъезда в Канзас-Сити, но Старика об этом не уведомили.
+
+<span class='tip-wrap' data-text='schedule [скЕджул] {существительное} расписание'>**Schedule**<span class='tip-text'> </span></span> Counter Blast failed. The operation was beautifully worked out and the drops were made <span class='tip-wrap' data-text='simultaneously [сАймэлтЕйниэсли] {наречие} одновременно'>**simultaneously**<span class='tip-text'> </span></span> just at midnight, on over ninety-six hundred communication points - newspaper offices, block controls, relay stations, and so <span class='tip-wrap' data-text='forth [фОрθ] {наречие} вперед'>**forth**<span class='tip-text'> </span></span>. The raiding men were the <span class='tip-wrap' data-text='cream [крИм] {существительное} крем'>**cream**<span class='tip-text'> </span></span> of our sky-borne forces, and with them, technicians to put each communication point back into service.
+
+Плановый контрвзрыв провалился. Операция была прекрасно отработана, и сбросы были произведены одновременно ровно в полночь на более чем девяносто шесть сотен точек связи — редакции газет, контрольные пункты блоков, ретрансляционные станции и т. д. Рейдеры были сливками наших десантных войск, а вместе с ними и техники, которые должны были вернуть каждую точку связи в эксплуатацию.
+
+So the President's speech and the visual display would go out from each local station; <span class='tip-wrap' data-text='schedule [скЕджул] {существительное} расписание'>**Schedule**<span class='tip-text'> </span></span> Bare Back would take effect all through the infected territory; and the war would be over.
+
+Таким образом, речь президента и визуальная презентация будут транслироваться на каждой местной станции; график «Голая спина» вступит в силу на всей зараженной территории; и война будет окончена.
+
+Ever see a bird hurt itself by flying into a glass window? The bird is not stupid; he simply did not have all the data.
+
+Видели ли вы когда-нибудь, как птица поранилась, влетев в стеклянное окно? Птица не глупая; у нее просто не было всех данных.
+
+By twenty-five minutes after midnight reports started coming in that such-and-such points were secured. A little later there were calls for help from other points. By one in the morning there had been no more reserves but the operation was clearly going well.
+
+К двадцати пяти минутам после полуночи начали поступать сообщения о том, что такие-то пункты взяты. Чуть позже поступили призывы о помощи из других пунктов. К часу ночи резервов уже не было, но операция явно шла успешно.
+
+Zone Red swallowed up the task force as if it had never existed - over eleven thousand military <span class='tip-wrap' data-text='craft [крЭфт] {существительное} судно (ремесло)'>**craft**<span class='tip-text'> </span></span>, more than a hundred and sixty thousand fighting men and technicians, seventy-one group commanders and - why go on?
+
+Зона Красная поглотила оперативную группу, как будто ее никогда и не существовало — более одиннадцати тысяч военных кораблей, более ста шестидесяти тысяч бойцов и техников, семьдесят одного командира групп и — зачем продолжать?
+
+Let me make it clear that I am not criticizing Martinez, Rexton, the General Staff, or those poor devils who made the <span class='tip-wrap' data-text='drop [дрАп] {существительное} падение'>**drop**<span class='tip-text'> </span></span>. The program was <span class='tip-wrap' data-text='properly [прАпэрли] {наречие} правильно'>**properly**<span class='tip-text'> </span></span> planned, it was based on what appeared to be a true picture, and the situation called for fast action with the best we had.
+
+Позвольте мне прояснить, что я не критикую Мартинеса, Рекстона, Генеральный штаб или тех бедолаг, которые совершили десант. Программа была тщательно спланирована, она основывалась на том, что казалось правдивой картиной, и ситуация требовала быстрых действий с лучшими, что у нас были.
+
+But Rexton did not know about the seven apes.
+
+Но Рекстон не знал о семи обезьянах.
+
+It was nearly daylight, so I understand, before Martinez and Rexton realized that the messages they had gotten back about successes were actually faked, and fakes were sent by their own men - our own men - but slug-ridden, possessed, and brought into the masquerade. After my report, more than an hour too late to stop the raids, the Old Man had tried to get them not to send in any more men, but they were flushed with success and anxious to make a clean sweep.
+
+Насколько я понимаю, уже почти рассвело, когда Мартинес и Рекстон поняли, что полученные ими сообщения об успехах на самом деле были поддельными, а подделки были отправлены их собственными людьми — нашими собственными людьми — но одержимыми слизняками, одержимыми и введенными в маскарад. После моего отчета, более чем на час позже, чем нужно было остановить рейды, Старик пытался заставить их не посылать больше людей, но они были воодушевлены успехом и стремились сделать чистую зачистку.
+
+By early morning they had their visual evidence. There was not a station with the President's stereocast, not one that even reported that anything had happened. Rexton's desperate calls were not answered.
+
+К раннему утру у них были визуальные доказательства. Не было ни одной станции со стереопередачей президента, ни одной, которая бы даже сообщила, что что-то произошло. Отчаянные призывы Рекстона остались без ответа.
+
+I got this not from the Old Man but from Mary. As she was the President's little shadow who went in and out with him, she had a box seat. I saw the Old Man at eleven the next morning. He let me report without comment.
+
+Я узнал это не от Старика, а от Мэри. Поскольку она была маленькой тенью президента, которая входила и выходила вместе с ним, у нее было место в ложе. Я видел Старика в одиннадцать утра следующего дня. Он позволил мне доложить без комментариев.
+
+He was about to <span class='tip-wrap' data-text='dismiss [дысмЫс] {глагол} увольнять; отвергать'>**dismiss**<span class='tip-text'> </span></span> me when I put in, "How about my <span class='tip-wrap' data-text='prisoner [прЫзэнэр] {существительное} узник'>**prisoner**<span class='tip-text'> </span></span>? Didn't he <span class='tip-wrap' data-text='confirm [кэнфЭрм] {глагол} подтверждать'>**confirm**<span class='tip-text'> </span></span> my conclusions?"
+
+Он собирался отпустить меня, когда я вставил: «А как насчет моего заключенного? Разве он не подтвердил мои выводы?»
+
+"Oh, him? Still unconscious, by the last report. They don't expect him to live. The psychotechnicians can't get anything out of him."
+
+«О, он? По последним данным, он все еще без сознания. Они не ожидают, что он выживет. Психотехники ничего не могут из него вытянуть».
+
+"I'd like to see him."
+
+«Я хотел бы его увидеть».
+
+"You had better go down to the National Zoo. You'll see some things that may put a different light on what you picked up in Kansas City."
+
+«Вам лучше сходить в Национальный зоопарк. Вы увидите кое-что, что может по-другому взглянуть на то, что вы увидели в Канзас-Сити».
+
+"Huh?"
+
+"Хм?"
+
+"Find Doctor Horace, he's the Assistant Director. Tell him I sent you."
+
+«Найдите доктора Горация, он помощник директора. Скажите ему, что я вас послал».
+
+So I went down to see the animals.
+
+Поэтому я пошёл посмотреть на животных.
+
+Horace turned me over to a Doctor Vargas who was a specialist in exotic biologies. He told me what had happened and I looked at the gibbons.
+
+Гораций передал меня доктору Варгасу, который был специалистом по экзотической биологии. Он рассказал мне, что произошло, и я посмотрел на гиббонов.
+
+"I saw the President's <span class='tip-wrap' data-text='broadcast [брОдкЭст] {существительное} вещание'>**broadcast**<span class='tip-text'> </span></span>," he said, "weren't you the man who - I mean, weren't you the -"
+
+«Я видел выступление президента», - сказал он. «Разве вы не тот человек, который... Я имею в виду, разве вы не...»
+
+"Yes, I was 'the man who'," I agreed.
+
+«Да, я был «тем человеком, который»», — согласился я.
+
+"Then you can tell us a great deal about these phenomena. Your opportunities have been unique."
+
+«Тогда вы можете многое рассказать нам об этих явлениях. Ваши возможности были уникальны».
+
+"Perhaps I should be able to," I admitted slowly, "but I can't."
+
+«Возможно, я должен был бы это сделать, — медленно признался я, — но я не могу».
+
+"I thought that, uh, victims have full memory of their experiences?"
+
+«Я думал, что жертвы полностью помнят о своем опыте?»
+
+"Well, they do and they don't." I tried to explain the odd detached <span class='tip-wrap' data-text='frame [фрЕйм] {существительное} рамка'>**frame**<span class='tip-text'> </span></span> of mind of a servant of the masters.
+
+«Ну, и так, и не так», — попытался я объяснить странное отстраненное состояние ума слуги господ.
+
+"I suppose it could happen while you sleep."
+
+«Я полагаю, это может произойти, пока ты спишь».
+
+"Maybe. Besides <span class='tip-wrap' data-text='sleep [слИп] {существительное} сон [3]'>**sleep**<span class='tip-text'> </span></span>, there is another time, or rather times, which are difficult to remember. During conference."
+
+«Может быть. Помимо сна, есть еще одно время, или, скорее, времена, которые трудно вспомнить. Во время конференции».
+
+"Conference?"
+
+"Конференция?"
+
+So I explained. His eyes lit up, "Oh, you mean 'conjugation'."
+
+Я объяснил. Его глаза загорелись: «О, ты имеешь в виду «спряжение»».
+
+"No, I mean 'conference'."
+
+«Нет, я имею в виду «конференцию».
+
+"We mean the same thing. Don't you see? They reproduce at will, <span class='tip-wrap' data-text='whenever [уенЕвэр] {наречие} когда же'>**whenever**<span class='tip-text'> </span></span> the supply of hosts permits. Probably one contact for each fission; then, when the opportunity exists, fission - two fully adult daughter parasites in a matter of hours... or less, possibly."
+
+«Мы имеем в виду одно и то же. Разве вы не видите? Они размножаются по своему желанию, когда позволяет запас хозяев. Вероятно, один контакт на каждое деление; затем, когда появляется возможность, деление — два полностью взрослых дочерних паразита в течение нескольких часов... или меньше, возможно».
+
+I thought it over. If that were true - then why had we depended on shipments at the Constitution Club? Or had we? In fact I did not know; I did what my master wanted done and saw only what came under my eyes. But why had we not saturated New Brooklyn as Kansas City had been saturated. Lack of time?
+
+Я обдумал это. Если это правда — то почему мы зависели от поставок в клубе «Конституция»? Или зависели? На самом деле я не знал; я делал то, что хотел мой хозяин, и видел только то, что попадалось мне на глаза. Но почему мы не насытили Нью-Бруклин, как насытили Канзас-Сити. Нехватка времени?
+
+It was clear how Kansas City had been saturated. With plenty of "livestock" at hand and a spaceship loaded with transit cells to draw from the titans had reproduced to <span class='tip-wrap' data-text='match [мЭч] {глагол} соответствовать'>**match**<span class='tip-text'> </span></span> the human population.
+
+Было ясно, насколько Канзас-Сити был переполнен. Имея под рукой много «скота» и космический корабль, загруженный транзитными клетками, титаны размножились, чтобы соответствовать человеческой популяции.
+
+I am no biologist, exotic or otherwise, but I can do simple arithmetic. Assume a thousand slugs in that spaceship; suppose that they could reproduce when given the opportunity every twenty-four hours.
+
+Я не биолог, экзотический или какой-либо другой, но я могу сделать простую арифметику. Предположим, что в этом космическом корабле тысяча слизней; предположим, что они могли бы размножаться, если бы им дали возможность каждые двадцать четыре часа.
+
+First day, one thousand slugs.
+
+Первый день — тысяча слизней.
+
+Second day, two thousand.
+
+Второй день, две тысячи.
+
+Third day, four thousand.
+
+Третий день — четыре тысячи.
+
+After two weeks, more than sixteen million slugs.
+
+Через две недели — более шестнадцати миллионов слизней.
+
+Dr. Vargas introduced me to a Doctor Mcllvaine of the Smithsonian Institution; Mcllvaine was a comparative psychologist. They started talking; I continued to watch the gibbons. Presently Mcllvaine said, "I repeat, sir, there is no reason to judge that analogy exists. There is one and only one characteristic common to all life forms and that is the instinct to survive."
+
+Доктор Варгас познакомил меня с доктором Маклвейном из Смитсоновского института; Маклвейн был сравнительным психологом. Они начали разговаривать; я продолжал наблюдать за гиббонами. В этот момент Маклвейн сказал: «Повторяю, сэр, нет никаких оснований судить о существовании аналогии. Есть одна и только одна характеристика, общая для всех форм жизни, и это инстинкт выживания».
+
+"And to reproduce," insisted Vargas.
+
+«И для воспроизводства», — настаивал Варгас.
+
+"Suppose the organism is immortal and has no need to reproduce?"
+
+«А что, если организм бессмертен и не нуждается в размножении?»
+
+"But -" Vargas shrugged. "We know that they reproduce." He gestured at the apes.
+
+«Но...» Варгас пожал плечами. «Мы знаем, что они размножаются». Он указал на обезьян.
+
+"And I am suggesting," Mcllvaine came back, "that this is not reproduction, but a single organism availing itself of more space, as a man might add a wing to his house."
+
+«И я предполагаю, — возразил Маклвейн, — что это не размножение, а использование отдельным организмом большего пространства, подобно тому, как человек может пристроить крыло к своему дому».
+
+Then they did some direct experimentation. Vargas ordered to bring in a baboon who was wearing a slug and put him into the cage with the gibbons and the chimps. As soon as the newcomer was dumped in they gathered in a ring facing outwards and went into direct conference, slug to slug. Mcllvaine pointed his finger excitedly at them. "You see? You see? Conference is not for reproduction, but for exchange of memory. The organism, temporarily divided, has now re-identified itself."
+
+Затем они провели несколько прямых экспериментов. Варгас приказал привести бабуина, на котором был слизень, и поместить его в клетку с гиббонами и шимпанзе. Как только новичок был брошен, они собрались в кольцо, лицом наружу, и начали прямую конференцию, слизень к слизню. Маклвейн взволнованно указал на них пальцем. «Видите? Видите? Конференция не для воспроизводства, а для обмена памятью. Организм, временно разделенный, теперь заново идентифицировал себя».
+
+"<span class='tip-wrap' data-text='hypothesis [хайпАθэсэс] {существительное} гипотеза'>**Hypothesis**<span class='tip-text'> </span></span>!" Vargas snorted. "Pure <span class='tip-wrap' data-text='hypothesis [хайпАθэсэс] {существительное} гипотеза'>**hypothesis**<span class='tip-text'> </span></span> - they have no opportunity to reproduce just now. George!" He ordered to bring in another ape.
+
+«Гипотеза!» — фыркнул Варгас. «Чистая гипотеза — у них сейчас нет возможности размножаться. Джордж!» Он приказал привести еще одну обезьяну.
+
+So they brought in Satan, a <span class='tip-wrap' data-text='coal [кOул] {существительное} уголь'>**coal**<span class='tip-text'> </span></span> black chimp. They dumped him inside, he took one look around, shrank back against the door, and began to whine. It was like watching an execution; I could not stand to look but I couldn't look away. I wanted to run.
+
+Итак, они привели Сатану, угольно-черного шимпанзе. Они бросили его внутрь, он огляделся, отпрянул к двери и начал скулить. Это было похоже на наблюдение за казнью; я не мог смотреть, но и не мог отвести взгляд. Мне хотелось бежать.
+
+At first the slug-ridden apes did nothing; they simply stared at him like a jury. It went on that way for a long while. Satan's whines changed to low, sobbing moans and he covered his face with his hands. Presently Vargas said, "Doctor! Look!"
+
+Сначала обезьяны, охваченные слизняками, ничего не делали; они просто смотрели на него, как присяжные. Так продолжалось долгое время. Вопли Сатаны сменились тихими, всхлипывающими стонами, и он закрыл лицо руками. Вскоре Варгас сказал: «Доктор! Смотрите!»
+
+"Where?"
+
+"Где?"
+
+"Lucy - the old female. There." He pointed.
+
+«Люси — старая самка. Вон там», — указал он.
+
+It was the matriarch of the family of gibbons. Her back was - toward us; I could see that the slug had humped itself together. An rainbow-like line ran down the center of it.
+
+Это была матриарх семейства гиббонов. Она была спиной к нам; я видел, что слизняк сгорбился. По центру его проходила радужная линия.
+
+It began to <span class='tip-wrap' data-text='split [сплЫт] {глагол} разделить'>**split**<span class='tip-text'> </span></span> as an egg splits. In a few minutes only, the division was complete. One new slug centered itself over her spine; the other flowed down her back. She was squatting, her with her buttocks almost to the floor; it dropped gently on the concrete.
+
+Он начал разделяться, как разделяется яйцо. Всего за несколько минут разделение было завершено. Один новый слизень сосредоточился на ее позвоночнике; другой потек по ее спине. Она сидела на корточках, ее ягодицы почти касались пола; он мягко упал на бетон.
+
+It crept slowly toward Satan. The ape screamed and swarmed up into the top of the cage.
+
+Она медленно подкралась к Сатане. Обезьяна закричала и забралась на верх клетки.
+
+Four of the biggest apes - two gibbons, a chimp, and a baboon - caught him and held him face down on the floor.
+
+Четыре самых крупных обезьяны — два гиббона, шимпанзе и бабуин — схватили его и уложили лицом вниз на пол.
+
+The slug got closer.
+
+Слизняк приблизился.
+
+It was a good two feet away when it grew a pseudopod - slowly, at first - a slimy stalk that weaved around like a cobra. Then it struck the ape on the foot. The others promptly let go of him but Satan did not move.
+
+Он был в добрых двух футах от него, когда он отрастил ложноножку — сначала медленно — скользкий стебель, который извивался, как кобра. Затем он ударил обезьяну по ноге. Остальные тут же отпустили его, но Сатана не двинулся с места.
+
+The titan seemed to pull itself in by the extension it had formed and attached itself to Satan's foot. From there it crawled up; when it reached the base of his spine the ape stirred. Before it was settled at the top of his back Satan sat up. He shook himself and joined the others, stopping only to look us over.
+
+Титан, казалось, втянул себя в образовавшееся расширение и прикрепился к ноге Сатаны. Оттуда он пополз вверх; когда он достиг основания его позвоночника, обезьяна зашевелилась. Прежде чем он устроился на его спине, Сатана сел. Он встряхнулся и присоединился к остальным, остановившись только для того, чтобы осмотреть нас.
+
+Vargas and Mcllvaine started talking excitedly.
+
+Варгас и Маклвейн начали возбужденно разговаривать.
+
+Vargas was insisting that nothing had been proved, while Mcllvaine maintained that we were seeing something new to our concepts; an <span class='tip-wrap' data-text='intelligent [ЫнтЕлэджэнт] {прилагательное} умный'>**intelligent**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='creature [крИчэр] {существительное} существо'>**creature**<span class='tip-text'> </span></span> which was, by the fashion in which it was organized, immortal and <span class='tip-wrap' data-text='continuous [кэнтЫнйуэс] {прилагательное} непрерывный; постоянный'>**continuous**<span class='tip-text'> </span></span> in its personal identity - or its group identity. As for me, I did not know and did not care. All very interesting, no doubt, but the only way I cared about slugs was to kill them. I wanted to kill them, early and often and as many as possible.
+
+Варгас настаивал, что ничего не доказано, в то время как Маклвейн утверждал, что мы видим нечто новое для наших концепций; разумное существо, которое, судя по тому, как оно было организовано, бессмертно и непрерывно в своей личной идентичности - или своей групповой идентичности. Что касается меня, я не знал и мне было все равно. Все это очень интересно, без сомнения, но единственное, что меня волновало в отношении слизней, это их убийство. Я хотел убивать их как можно раньше, как можно чаще и как можно больше.
+
+CHAPTER 20
+
+ГЛАВА ДВАДЦАТАЯ
+
+When I got back the Old Man was available and wanted to talk. The President had left to address a secret session of the United Nations and the Old Man had not been included in the party.
+
+Когда я вернулся, Старик был доступен и хотел поговорить. Президент уехал выступать на секретной сессии Организации Объединенных Наций, а Старик не был включен в состав группы.
+
+He had me report fully on what I had seen at the zoo and questioned me <span class='tip-wrap' data-text='closely [клOусли] {наречие} тесно'>**closely**<span class='tip-text'> </span></span>; he had not been down there himself.
+
+Он заставил меня полностью рассказать о том, что я видел в зоопарке, и подробно расспросил меня; сам он там не был.
+
+"Didn't they tell you about the elephant?"
+
+«Разве они не рассказали вам о слоне?»
+
+"What elephant?"
+
+«Какой слон?»
+
+"An ape with a rider got out, somehow. Its body was found trampled to death in the elephant house. And one of the elephants was gone."
+
+«Обезьяна с наездником каким-то образом выбралась. Ее тело было найдено затоптанным насмерть в слоновнике. А один из слонов исчез».
+
+"You mean there is an elephant <span class='tip-wrap' data-text='loose [лУс] {прилагательное} свободный; рыхлый'>**loose**<span class='tip-text'> </span></span> with a slug on him!"
+
+«Вы хотите сказать, что на свободе слон, на котором сидит слизняк!»
+
+"Her," the Old Man corrected me, "it was a cow elephant. I didn't say so, anyhow. They found her over in Maryland, quietly pulling up cabbages. No parasite."
+
+«Она», поправил меня Старик, «это была корова-слониха. Я этого не говорил, в любом случае. Ее нашли в Мэриленде, тихонько выдергивающей капусту. Никаких паразитов».
+
+"Where did the slug get to?"
+
+«Куда делся слизняк?»
+
+"A flying car was stolen in the adjoining village. I'd say the slug is somewhere west of the Mississippi by now."
+
+«В соседней деревне угнали летающую машину. Я бы сказал, что слизняк сейчас где-то к западу от Миссисипи».
+
+"Anybody missing?"
+
+«Кого-нибудь не хватает?»
+
+He shrugged again. "How can you tell, in a free country? At least, the titan can't hide on a human <span class='tip-wrap' data-text='host [хOуст] {существительное} хозяин; ведущий'>**host**<span class='tip-text'> </span></span> anywhere out of Zone Red."
+
+Он снова пожал плечами. «Как вы можете это определить, в свободной стране? По крайней мере, титан не может спрятаться на человеческом хозяине нигде за пределами Красной Зоны».
+
+That seemed true; <span class='tip-wrap' data-text='schedule [скЕджул] {существительное} расписание'>**Schedule**<span class='tip-text'> </span></span> Bare Back appeared to be operating one hundred percent. That made me think of something else, something I had seen at the zoo.
+
+Это казалось правдой; Schedule Bare Back, похоже, работал на сто процентов. Это заставило меня вспомнить что-то еще, что-то, что я видел в зоопарке.
+
+"Do we know, as a certainty, that a slug can <span class='tip-wrap' data-text='attach [этЭч] {глагол} присоединять'>**attach**<span class='tip-text'> </span></span> itself to its <span class='tip-wrap' data-text='host [хOуст] {существительное} хозяин; ведущий'>**host**<span class='tip-text'> </span></span> only near the base of the brain?" I asked.
+
+«Знаем ли мы наверняка, что слизняк может прикрепиться к своему хозяину только около основания мозга?» — спросил я.
+
+"You should know, better than I do."
+
+«Ты должен знать это лучше меня».
+
+"I thought I did, but now I'm not sure. That's the way we always did it, when I was, uh, with them. But that ape moved as soon as the thing reached the base of his spine, clear down at his tail bone. Maybe they prefer to ride up near the brain - I'm sure they do. But maybe they don't have to. Maybe they could ride down inside a man's <span class='tip-wrap' data-text='pants [пЭнтс] {существительное} брюки'>**pants**<span class='tip-text'> </span></span> and just put out an extension to the end of his spinal cord."
+
+«Я думал, что знаю, но теперь я не уверен. Мы всегда так делали, когда я был, э-э, с ними. Но эта обезьяна двинулась, как только эта штука достигла основания ее позвоночника, прямо до копчика. Может быть, они предпочитают ехать рядом с мозгом — я уверен, что так и есть. Но, может быть, им это и не нужно. Может быть, они могли бы спуститься в штаны человека и просто выпустить расширение к концу его спинного мозга».
+
+"We'll run some experiments."
+
+«Мы проведем несколько экспериментов».
+
+"How?" I asked.
+
+«Как?» — спросил я.
+
+"You know that head-and-spine armor deal? It's not worth much, except to give a feeling of security to anybody who bothers to wear one. I'll tell Doctor Horace to take an ape, fit an armor to him so that a slug can't reach anything but his legs, say - and see what happens. Or use some other method to limit the area of attack, and <span class='tip-wrap' data-text='vary [вЕри] {глагол} из/менять/ся'>**vary**<span class='tip-text'> </span></span> the areas, too. We'll find out."
+
+«Знаете эту броню для головы и позвоночника? Она не стоит многого, разве что дает чувство защищенности любому, кто потрудится ее надеть. Я скажу доктору Горацию взять обезьяну, подогнать к ней броню так, чтобы слизняк не мог дотянуться ни до чего, кроме ног, например, и посмотреть, что получится. Или использовать какой-то другой метод, чтобы ограничить область атаки, и также варьировать области. Узнаем».
+
+CHAPTER 21.
+
+ГЛАВА ДВАДЦАТЬ ПЕРВАЯ
+
+The United Nations were no help. The President wanted a simple act of cooperation - <span class='tip-wrap' data-text='schedule [скЕджул] {существительное} расписание'>**Schedule**<span class='tip-text'> </span></span> Bare Back on a global scale. They sent the matter to committee for investigation. The plain truth was they did not believe us; that was always the enemy's great advantage - only the burned believed in the fire.
+
+Организация Объединенных Наций не помогла. Президент хотел простого акта сотрудничества — Schedule Bare Back в мировом масштабе. Они отправили дело в комитет для расследования. Простая правда была в том, что они нам не верили; это всегда было большим преимуществом врага — только обожженные верили в огонь.
+
+Except when the Old Man picked me to work with him I was not close to the center of things; I saw the war with the titans as a man sees hurricanes - his small piece only. I did not see the Old Man soon and I got my assignments from Oldfield, his <span class='tip-wrap' data-text='deputy [дЕпйэти] {существительное} заместитель (депутат)'>**deputy**<span class='tip-text'> </span></span>. Consequently I did not know of it when Mary was relieved from special duty with the President. I met her in the lounge of the Section offices. "Mary!" I cried and rushed to her.
+
+За исключением того случая, когда Старик выбрал меня для работы с ним, я не был близок к центру событий; я видел войну с титанами, как человек видит ураганы — только свою маленькую часть. Я не скоро увидел Старика, и я получил свои задания от Олдфилда, его заместителя. Соответственно, я не знал об этом, когда Мэри была освобождена от особых обязанностей при Президенте. Я встретил ее в гостиной офиса Секции. «Мэри!» — закричал я и бросился к ней.
+
+She gave me that long, slow, sweet smile and moved over to make room for me. "Hello, darling!" she whispered.
+
+Она одарила меня этой долгой, медленной, милой улыбкой и подвинулась, чтобы освободить мне место. «Привет, дорогой!» — прошептала она.
+
+"How long are you free? Say, couldn't you possibly get some leave? They can't expect you to be on duty twenty-four hours a day, week after week, with no time off. I think I'll go right straight to the Old Man and tell him just what -"
+
+«Как долго ты свободен? Скажи, ты не мог бы получить отпуск? Они не могут ожидать, что ты будешь дежурить двадцать четыре часа в сутки, неделю за неделей, без выходных. Думаю, я пойду прямо к Старику и скажу ему, что...»
+
+"I'm on leave, Sam."
+
+«Я в отпуске, Сэм».
+
+"You are? For how long?"
+
+«Вы? Как долго?»
+
+"Until I'm called."
+
+«Пока меня не позовут».
+
+"But - How long have you been on leave?"
+
+«Но как долго вы были в отпуске?»
+
+"Since yesterday. I've been sitting here, waiting for you to show up."
+
+«Со вчерашнего дня. Сижу здесь и жду, когда ты появишься».
+
+"Yesterday!" And I stood up. "Stay right where you are. Don't move. I'll be right back."
+
+«Вчера!» И я встал. «Оставайся там, где стоишь. Не двигайся. Я сейчас вернусь».
+
+I rushed over to the operations office. I got in to see the chief <span class='tip-wrap' data-text='deputy [дЕпйэти] {существительное} заместитель (депутат)'>**deputy**<span class='tip-text'> </span></span> by insisting that I had a very urgent matter that he had to attend to. Oldfield looked up when I came in and said in a surly <span class='tip-wrap' data-text='tone [тOун] {существительное} тон'>**tone**<span class='tip-text'> </span></span>, "What do you want?"
+
+Я помчался в операционный офис. Я попал к главному заместителю, настояв, что у меня очень срочное дело, которым он должен заняться. Олдфилд поднял глаза, когда я вошел, и угрюмо спросил: «Что вам нужно?»
+
+"I'm a sick man; I've been <span class='tip-wrap' data-text='due [дУ] {прилагательное} надлежащий'>**due**<span class='tip-text'> </span></span> for sick leave for a long time. Now I've just got to take it."
+
+«Я больной человек. Мне уже давно положен больничный. Теперь мне придется его взять».
+
+"You're sick in the head, if you ask me."
+
+«Если хочешь знать мое мнение, ты больной на голову».
+
+"That's right; I'm sick in the head. Sometimes I hear voices. People have been following me around. I keep dreaming I'm back with the titans." That last point was regrettably true. "Look - do I get leave or don't I?"
+
+"Верно; я болен на голову. Иногда я слышу голоса. Люди преследуют меня повсюду. Мне все время снится, что я снова с титанами". Последнее, к сожалению, было правдой. "Послушайте, мне дают отпуск или нет?"
+
+He fumbled through papers on his desk, found one and tore it up. "Okay. Keep your phone handy. Get out."
+
+Он порылся в бумагах на столе, нашел одну и разорвал ее. «Ладно. Держи телефон под рукой. Уходи».
+
+I got. Mary looked up when I came in. I said, "Grab your things; we're leaving."
+
+Я получил. Мэри подняла глаза, когда я вошел. Я сказал: «Бери свои вещи, мы уходим».
+
+She did not ask where; she simply stood up. We went up and were out on the pedestrian level of the city before <span class='tip-wrap' data-text='either [Иðэр] {определитель} любой'>**either**<span class='tip-text'> </span></span> one of us said anything. Then I asked, "Now - where do you want to get married?"
+
+Она не спросила, где; она просто встала. Мы поднялись и вышли на пешеходный уровень города, прежде чем кто-либо из нас что-либо сказал. Затем я спросил: «Теперь — где ты хочешь пожениться?»
+
+"Sam, we discussed that before."
+
+«Сэм, мы уже это обсуждали».
+
+"Sure we did and now we are going to do it. Where?"
+
+«Конечно, мы это сделали, и теперь мы это сделаем. Где?»
+
+"Sam, Sam my very dear - I will do what you say. But I am bound to tell you that I am still opposed to it."
+
+«Сэм, Сэм, мой дорогой, я сделаю то, что ты говоришь. Но я должен сказать тебе, что я по-прежнему против этого».
+
+"Why?"
+
+"Почему?"
+
+"Sam, let's go straight to my apartment. I'd like to cook dinner for you."
+
+«Сэм, пойдем прямо ко мне в квартиру. Я хотел бы приготовить тебе ужин».
+
+"Okay, you can cook dinner - but not in your apartment. And we get married first."
+
+«Хорошо, ты можешь приготовить ужин, но не у себя в квартире. И сначала мы поженимся».
+
+"Please, Sam!"
+
+«Пожалуйста, Сэм!»
+
+I grabbed Mary by the arm and hurried her away from there. I did not say another word until I had gotten her into a cab and closed off the driver's compartment from the lounge. "All right," I said gruffly, "why not get married? Let's have your reasons."
+
+Я схватил Мэри за руку и потащил ее оттуда. Я не сказал ни слова, пока не посадил ее в такси и не закрыл водительское отделение от гостиной. «Ладно», — ворчливо сказал я, — «почему бы вам не пожениться? Давайте выясним ваши причины».
+
+"Why get married, Sam? I'm yours; you don't need a contract."
+
+«Зачем жениться, Сэм? Я твоя, тебе не нужен контракт».
+
+"Why? Because I love you; that's one reason, damn it!"
+
+«Почему? Потому что я люблю тебя; это одна из причин, черт возьми!»
+
+She did not answer for quite a while; I thought I had offended her. When she did I could hardly hear her. "You hadn't mentioned that before, Sam."
+
+Она долго не отвечала; я подумал, что обидел ее. Когда она ответила, я едва мог ее расслышать. «Ты раньше этого не говорил, Сэм».
+
+"Hadn't I? Oh, I'm sure I have."
+
+«Разве нет? О, я уверен, что да».
+
+"No, I'm sure, quite sure, that you haven't. Why didn't you?"
+
+«Нет, я уверен, совершенно уверен, что вы этого не сделали. Почему вы этого не сделали?»
+
+"Unh, I don't know. I'm not sure what the word 'love' means."
+
+«Ну, я не знаю. Я не уверен, что означает слово «любовь».
+
+"Neither am I," she said softly, "but I love to hear you say it. Say it again, please."
+
+«Я тоже», — тихо сказала она, — «но мне нравится слышать, как ты это говоришь. Повтори это еще раз, пожалуйста».
+
+"Huh? Okay. I love you. I love you, Mary."
+
+«А? Ладно. Я люблю тебя. Я люблю тебя, Мэри».
+
+"Oh, Sam!"
+
+«О, Сэм!»
+
+I shook her a little. "How about you?"
+
+Я ее слегка встряхнул. «А как насчет тебя?»
+
+"Me? Oh, I love you, Sam."
+
+«Я? О, я люблю тебя, Сэм».
+
+The driver was cruising slowly east along the Connecticut coast; I had told him just to drive around. I had to wake him up before I could get him to <span class='tip-wrap' data-text='land [лЭнд] {глагол} приземляться'>**land**<span class='tip-text'> </span></span> us in Westport. We went straight to the City Hall.
+
+Водитель медленно ехал на восток вдоль побережья Коннектикута; я сказал ему просто объехать. Мне пришлось разбудить его, прежде чем я смог заставить его высадить нас в Вестпорте. Мы направились прямо в мэрию.
+
+I stepped up to a counter in the <span class='tip-wrap' data-text='bureau [бйУрoу] {существительное} бюро'>**Bureau**<span class='tip-text'> </span></span> of Sanctions and Licenses and said to a clerk there, "Is this where we get married?"
+
+Я подошел к стойке Бюро санкций и лицензий и спросил клерка: «Здесь мы поженимся?»
+
+"That's up to you," he answered. "Hunting licenses on the left, dog licenses on the right, this desk is the happy <span class='tip-wrap' data-text='medium [мИдиэм] {существительное} среда; носитель; средство'>**medium**<span class='tip-text'> </span></span> - I hope." He looked at me.
+
+«Это вам решать», — ответил он. «Лицензии на охоту слева, лицензии на собак справа, этот стол — золотая середина, я надеюсь». Он посмотрел на меня.
+
+"Very well," I said <span class='tip-wrap' data-text='firmly [фЭрмли] {наречие} твердо'>**firmly**<span class='tip-text'> </span></span>, "will you issue us a license?"
+
+«Хорошо», — твердо сказал я, — «вы выдадите нам лицензию?»
+
+"Sure thing. Everybody ought to get married at least once." He got out a large printed form. "Let's have your serial numbers."
+
+«Конечно. Каждый должен жениться хотя бы раз». Он достал большой печатный бланк. «Давайте ваши серийные номера».
+
+We gave them to him. He slid the form into a typer and recorded them. "Now - are <span class='tip-wrap' data-text='either [Иðэр] {определитель} любой'>**either**<span class='tip-text'> </span></span> of you married in any other state?" We said that we weren't.
+
+Мы отдали их ему. Он вставил бланк в печатную машинку и записал их. «Итак, кто-нибудь из вас женат в каком-либо другом штате?» Мы сказали, что нет.
+
+He went on, "Term, renewable, or <span class='tip-wrap' data-text='lifetime [лАйфтАйм] {существительное} продолжительность жизни'>**lifetime**<span class='tip-text'> </span></span>? If it's over ten years, the fee is the same as for <span class='tip-wrap' data-text='lifetime [лАйфтАйм] {существительное} продолжительность жизни'>**lifetime**<span class='tip-text'> </span></span>."
+
+Он продолжил: «Срочная, возобновляемая или пожизненная? Если срок более десяти лет, плата такая же, как и за пожизненную».
+
+I looked at Mary; she said, "<span class='tip-wrap' data-text='lifetime [лАйфтАйм] {существительное} продолжительность жизни'>**Lifetime**<span class='tip-text'> </span></span>."
+
+Я посмотрел на Мэри; она сказала: «Всю жизнь».
+
+The clerk looked surprised. "Lady, are you sure you know what you're doing? The renewable contract, with the automatic option clause, is just as <span class='tip-wrap' data-text='permanent [пЭрмэнэнт] {прилагательное} постоянный'>**permanent**<span class='tip-text'> </span></span> and you don't have to go through the courts if you change your mind."
+
+Клерк выглядел удивленным. «Леди, вы уверены, что знаете, что делаете? Возобновляемый контракт с автоматическим опционом так же постоянен, и вам не придется проходить через суд, если вы передумаете».
+
+I said, "You heard the lady! Put it down."
+
+Я сказал: «Вы слышали женщину! Положите его».
+
+"Okay, okay - either party, <span class='tip-wrap' data-text='mutual [мйУчуэл] {прилагательное} взаимный'>**mutual**<span class='tip-text'> </span></span> consent, or binding?"
+
+«Хорошо, хорошо — любая сторона, обоюдное согласие или обязательность?»
+
+"Binding," I answered and Mary nodded.
+
+«Обязательно», — ответил я, и Мэри кивнула.
+
+"Binding it is," he agreed, stroking the typer. "Now we come to the <span class='tip-wrap' data-text='meat [мИт] {существительное} мясо'>**meat**<span class='tip-text'> </span></span> of the matter: who pays and how much?"
+
+«Это обязательно», — согласился он, поглаживая машинку. «А теперь перейдем к сути вопроса: кто платит и сколько?»
+
+In a firm voice Mary said, "Neither."
+
+Твердым голосом Мэри ответила: «Ни то, ни другое».
+
+The clerk said, "Huh?"
+
+Клерк сказал: «А?»
+
+"Neither one," Mary repeated. "This is not a financial contract."
+
+«Ни то, ни другое», — повторила Мэри. «Это не финансовый контракт».
+
+The clerk stopped completely, looked at me, and then looked at Mary. "Now, look, lady," he said reasonably, "don't be foolish."
+
+Клерк остановился полностью, посмотрел на меня, а затем на Мэри. «Послушайте, леди», — сказал он рассудительно, «не будьте глупы».
+
+"No."
+
+"Нет."
+
+"Hadn't you better talk it over with your lawyer before you go ahead with this? There's a public communicator out in the hall."
+
+«Не лучше ли вам обсудить это со своим адвокатом, прежде чем продолжать? В зале есть коммуникатор».
+
+"No!"
+
+"Нет!"
+
+"Well - then, I don't understand what you need a license for."
+
+«Ну, тогда я не понимаю, зачем вам нужна лицензия».
+
+"Neither do I," Mary told him.
+
+«Я тоже», — сказала ему Мэри.
+
+"You mean you don't want this?"
+
+«Ты хочешь сказать, что ты этого не хочешь?»
+
+"No! Put it down the way I told you to. 'No salary'."
+
+«Нет! Запишите так, как я вам сказал. «Нет зарплаты».
+
+The clerk looked helpless but bent over the typer again. "I guess that's all we need," he said finally. "You've kept it simple, I'll say that for you. 'Do-you both-solemnly-<span class='tip-wrap' data-text='swear [суЕр] {глагол} клясться; ругаться'>**swear**<span class='tip-text'> </span></span>-that-the-above-facts-are-true-to-the-best-of-your-knowledge-and-belief-that-you-aren't-entering-into-this-agreement-uninfiuen-ced-by-drugs-or-other-illegal-inducements-and-that-there-exists-no-other-covenants-nor-other-legal-impediments-to-the-execution-and-registration-of-the-above-contract?'"
+
+Клерк выглядел беспомощным, но снова склонился над машинкой. «Полагаю, это все, что нам нужно», — наконец сказал он. «Вы все упростили, я скажу это за вас. «Вы оба-торжественно-клянетесь-что-вышеуказанные-факты-верны-насколько-ваши-знания-и-убеждения-что-вы-не-заключаете-это-соглашение-без-влияния-наркотиков-или-других-незаконных-побуждений-и-что-не-существует-никаких-других-обязательств-или-других-юридических-препятствий-к-исполнению-и-регистрации-вышеуказанного-контракта?»
+
+We both said that we did and we were and it was and there weren't. He pulled the form out of the typer. "Let's have your <span class='tip-wrap' data-text='thumb [θАм] {существительное} большой палец'>**thumb**<span class='tip-text'> </span></span> prints... okay; that'll be ten dollars, including the federal tax." I paid him and he shoved the form into the copier and threw the switch. "Copies will be mailed to each of you," he announced, "at your serial-number addresses. Now - what type of ceremony are you looking for? Maybe I can be of help."
+
+Мы оба сказали, что да, и мы были, и это было, и их не было. Он вытащил форму из печатной машины. «Давайте снимем отпечатки ваших больших пальцев... ладно; это будет стоить десять долларов, включая федеральный налог». Я заплатил ему, и он засунул форму в копировальный аппарат и повернул переключатель. «Копии будут отправлены каждому из вас», — объявил он, — «на адреса, указанные в ваших серийных номерах. Итак, какую церемонию вы ищете? Может быть, я смогу вам помочь».
+
+"We don't want a ceremony," Mary told him and I agreed.
+
+«Мы не хотим церемонии», — сказала ему Мэри, и я согласился.
+
+I said, "See here, you can marry us, can't you? Go ahead. Get it over with!"
+
+Я сказал: «Вот видишь, ты ведь можешь нас поженить, правда? Давай. Покончим с этим!»
+
+He looked surprised and said, "Didn't you know? In this state you marry yourself. You've been married, ever since you <span class='tip-wrap' data-text='thumb [θАм] {существительное} большой палец'>**thumb**<span class='tip-text'> </span></span>-printed the license."
+
+Он удивился и сказал: «Разве ты не знал? В этом штате ты женишься на себе. Ты был женат с тех пор, как поставил отпечаток большого пальца на водительских правах».
+
+I said, "Oh -" Mary didn't say anything. We left.
+
+Я сказал: «О...» Мэри ничего не сказала. Мы ушли.
+
+I hired a flying car; I looped around the city, cut across Manhattan Crater, and set the controls. We didn't talk much. I was happy but terribly nervous - and then Mary put her arms around me and after a bit I wasn't nervous any longer but happier than ever. After a long time that seemed short I heard the signal of the beacon at my shack in the mountains, so I took over manual, and landed. Mary said sleepily, "Where are we?"
+
+Я нанял летающую машину; я сделал петлю вокруг города, пересек Манхэттенский кратер и настроил управление. Мы не разговаривали много. Я был счастлив, но ужасно нервничал — а потом Мэри обняла меня, и через некоторое время я больше не нервничал, но был счастливее, чем когда-либо. После долгого времени, которое казалось коротким, я услышал сигнал маяка в моей хижине в горах, поэтому я взял на себя ручное управление и приземлился. Мэри сонно спросила: «Где мы?»
+
+"At my <span class='tip-wrap' data-text='cabin [кЭбэн] {существительное} хижина (кабина)'>**cabin**<span class='tip-text'> </span></span> in the mountains," I told her.
+
+«В моей хижине в горах», — сказал я ей.
+
+"I didn't know you had a <span class='tip-wrap' data-text='cabin [кЭбэн] {существительное} хижина (кабина)'>**cabin**<span class='tip-text'> </span></span> in the mountains. I thought you were headed for my apartment."
+
+«Я не знал, что у тебя есть домик в горах. Я думал, ты направляешься в мою квартиру».
+
+She kissed me again and slid out ahead of me.
+
+Она снова поцеловала меня и выскользнула вперед.
+
+"Let's go inside, right now," she said, looking at my shack.
+
+«Давайте зайдем внутрь, прямо сейчас», — сказала она, глядя на мою хижину.
+
+I agreed. When I came up here I didn't want to feel that I had brought the city with me. The <span class='tip-wrap' data-text='shell [шЕл] {существительное} оболочка'>**shell**<span class='tip-text'> </span></span> was <span class='tip-wrap' data-text='conventional [кэнвЕншэнэл] {прилагательное} обычный'>**conventional**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='steel [стИл] {существительное} сталь'>**steel**<span class='tip-text'> </span></span>-and-fiberglass construction but I had had it veneered in slabs which could not be told from real logs unless you took a knife to them. The <span class='tip-wrap' data-text='inside [ЫнсАйд] {существительное} внутренность'>**inside**<span class='tip-text'> </span></span> was just as simple - a big living room with a real, wood-burning fireplace, deep <span class='tip-wrap' data-text='plain [плЕйн] {существительное} равнина'>**plain**<span class='tip-text'> </span></span>-colored rugs, and plenty of low chairs. The services were all buried under the foundation - air-conditioner, power pack, cleansing system, sound equipment, plumbing, <span class='tip-wrap' data-text='radiation [рЕйдиЕйшэн] {существительное} излучение'>**radiation**<span class='tip-text'> </span></span> alarm - everything but the deep-freeze and the other kitchen equipment. Even the stereo screens were covered up and would not be noticed unless in use. It was about as near as a man could get to a real <span class='tip-wrap' data-text='log [лОг] {существительное} бревно (журнал)'>**log**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='cabin [кЭбэн] {существительное} хижина (кабина)'>**cabin**<span class='tip-text'> </span></span> and still have inside plumbing.
+
+Я согласился. Когда я приехал сюда, я не хотел чувствовать, что я привез город с собой. Корпус был обычной конструкцией из стали и стекловолокна, но я обшил его шпоном из плит, которые невозможно было отличить от настоящих бревен, пока не поднесешь к ним нож. Внутри все было так же просто — большая гостиная с настоящим дровяным камином, глубокими однотонными коврами и множеством низких стульев. Все удобства были спрятаны под фундаментом — кондиционер, блок питания, система очистки, звуковое оборудование, сантехника, радиационная сигнализация — все, кроме морозильника и другого кухонного оборудования. Даже стереоэкраны были скрыты и не были заметны, если ими не пользоваться. Это было примерно так близко, как человек мог подойти к настоящей бревенчатой хижине и все еще иметь внутреннюю сантехнику.
+
+"I think it's just lovely," Mary said seriously.
+
+«Я думаю, это просто чудесно», — серьезно сказала Мэри.
+
+The lights had come on as we entered the house. She looked around her, then turned and threw her arms around my neck. "Oh, darling, darling! I can't see - my eyes are all blurry."
+
+Когда мы вошли в дом, зажегся свет. Она огляделась вокруг, затем повернулась и обняла меня за шею. «О, милый, милый! Я ничего не вижу — у меня все расплывчато в глазах».
+
+<span class='tip-wrap' data-text='mine [мАйн] {существительное} шахта'>**Mine**<span class='tip-text'> </span></span> were blurry, too, so we took time out for <span class='tip-wrap' data-text='mutual [мйУчуэл] {прилагательное} взаимный'>**mutual**<span class='tip-text'> </span></span> treatment. Then she started wandering around, touching things.
+
+Мои тоже были размытыми, поэтому мы взяли тайм-аут для взаимного лечения. Потом она начала бродить вокруг, трогать вещи.
+
+"It has only one bathroom," I apologized.
+
+«Там только одна ванная комната», — извинился я.
+
+"I don't <span class='tip-wrap' data-text='mind [мАйнд] {глагол} возражать; прислушиваться; присматривать'>**mind**<span class='tip-text'> </span></span>," she said and wandered on out into the kitchen. I heard her laugh. "What's the matter?" I asked, following her out.
+
+«Я не против», — сказала она и побрела на кухню. Я услышал ее смех. «Что случилось?» — спросил я, выходя за ней.
+
+"I never expected to find a real kitchen in a bachelor's lodge."
+
+«Я никогда не ожидал найти настоящую кухню в холостяцком домике».
+
+"I'm not a bad cook myself. I wanted a kitchen so I bought one."
+
+«Я и сам неплохо готовлю. Мне нужна была кухня, поэтому я ее купил».
+
+"I'm so glad. Now I will cook you dinner."
+
+«Я так рада. Теперь я приготовлю тебе ужин».
+
+"It's your kitchen; suit yourself. But don't you want to wash up? You can take shower if you want it. And tomorrow we'll get a catalog and you can pick out a bathroom of your own."
+
+«Это твоя кухня, как хочешь. Но разве ты не хочешь помыться? Можешь принять душ, если хочешь. А завтра мы получим каталог, и ты сможешь выбрать себе ванную комнату».
+
+"No hurry," she said. "You take the first shower. I want to start dinner."
+
+«Не торопись», — сказала она. «Ты первый прими душ. Я хочу заняться ужином».
+
+So I did.
+
+Я так и сделал.
+
+I don't remember those days too clearly, yet I remember every second of them. I went around feeling gay and a bit confused. I was happy; I had forgotten what it was like to be happy, had not known that I was not happy.
+
+Я не помню те дни слишком ясно, но я помню каждую секунду из них. Я ходил, чувствуя себя веселым и немного смущенным. Я был счастлив; я забыл, каково это — быть счастливым, не знал, что я не счастлив.
+
+The second day we went down to the village; I wanted to show Mary off. Down there they think I am a writer and I encourage the notion, so I stopped to buy some things for my typer, though I certainly had no <span class='tip-wrap' data-text='intention [ЫнтЕнчэн] {существительное} намерение'>**intention**<span class='tip-text'> </span></span> of doing any writing.
+
+На второй день мы пошли в деревню; я хотел похвастаться Мэри. Там внизу думают, что я писатель, и я поощряю эту идею, поэтому я остановился, чтобы купить кое-что для своей машинки, хотя я, конечно, не собирался ничего писать.
+
+On the way home (we were on foot) we passed close to the shack of John the Goat, our local hermit. Some say that John used to keep goats; I know he smelled like one. Seeing him, I waved.
+
+По дороге домой (мы шли пешком) мы прошли недалеко от хижины Джона Козла, нашего местного отшельника. Некоторые говорят, что Джон держал коз; я знаю, что от него пахло как от коз. Увидев его, я помахал рукой.
+
+He waved back. He was dressed as usual, an old army blouse, shorts, and sandals. John was the perfect anarchist; he didn't like regulations. I cupped my hands and shouted, "Send up the Pirate!" He waved again and we went on without coming within two hundred feet of him, which was about right unless he was downwind.
+
+Он помахал в ответ. Он был одет как обычно: старая армейская блуза, шорты и сандалии. Джон был идеальным анархистом; он не любил правила. Я сложил ладони рупором и крикнул: «Вышлите Пирата!» Он снова помахал, и мы пошли дальше, не приближаясь к нему ближе, чем на двести футов, что было правильно, если только он не шел по ветру.
+
+"Who's the Pirate, darling?" Mary asked.
+
+«Кто такой Пират, дорогой?» — спросила Мэри.
+
+"You'll see."
+
+«Увидишь».
+
+Which she did; as soon as we got back the Pirate came in, for I had his little door keyed to his own meow so that he could let himself in and out - the Pirate was a large cat, half red Persian and half travelling salesman. He came in, told me what he thought of people who stayed away so long, then headbumped my <span class='tip-wrap' data-text='ankle [Эŋкэл] {существительное} щиколотка'>**ankle**<span class='tip-text'> </span></span> in forgiveness. I reached down and roughed him up, then he inspected Mary.
+
+Что она и сделала; как только мы вернулись, Пират вошел, потому что я закрыл его маленькую дверцу на его собственное мяуканье, чтобы он мог входить и выходить сам - Пират был большим котом, наполовину рыжим персом, наполовину коммивояжером. Он вошел, сказал мне, что он думает о людях, которые так долго отсутствовали, затем стукнул меня головой о лодыжку в знак прощения. Я наклонился и грубо отшлепал его, затем он осмотрел Мэри.
+
+I was watching Mary. She had dropped to her knees and was making the sounds used by people who understand cat protocol, but the Pirate was looking her over suspiciously. Suddenly he jumped into her arms and started bumping her under the chin.
+
+Я наблюдал за Мэри. Она упала на колени и издавала звуки, которые используют люди, понимающие кошачий протокол, но Пират подозрительно осматривал ее. Внезапно он прыгнул к ней на руки и начал толкать ее под подбородок.
+
+I sighed loudly. "That's a <span class='tip-wrap' data-text='relief [рылИф] {существительное} облегчение; рельеф'>**relief**<span class='tip-text'> </span></span>," I announced. "For a moment I didn't think I was going to be allowed to keep you."
+
+Я громко вздохнул. «Какое облегчение», — объявил я. «На мгновение я подумал, что мне не позволят тебя оставить».
+
+Mary looked up and smiled. "Don't worry, I get along with cats. I'm two-thirds cat myself."
+
+Мэри подняла глаза и улыбнулась. «Не волнуйся, я лажу с кошками. Я сама на две трети кошка».
+
+"What's the other third?"
+
+«А что такое оставшаяся треть?»
+
+She made a face at me. "You'll find out." She was scratching the Pirate under the chin; he was stretching his neck and accepting it, with an expression of pleasure. I noticed that her hair just matched his fur.
+
+Она скорчила мне рожицу. «Узнаешь». Она почесала Пирата под подбородком; он вытянул шею и принял ее с выражением удовольствия. Я заметил, что ее волосы как раз соответствовали его меху.
+
+"Old John takes care of him while I'm away," I explained, "but the Pirate belongs to me - or vice versa."
+
+«Старый Джон заботится о нем, пока меня нет, — объяснил я, — но Пират принадлежит мне — или наоборот».
+
+"I figured that out," Mary answered, "and now I belong to the Pirate, too; don't I, Pirate?"
+
+«Я это поняла, — ответила Мэри, — и теперь я тоже принадлежу Пирату. Не так ли, Пират?»
+
+The cat did not answer but it was clear that she was right.
+
+Кошка не ответила, но было ясно, что она права.
+
+From then on the cat was with us - or with Mary - almost all the time, except when I shut him out of our bedroom.
+
+С тех пор кот был с нами — или с Мэри — почти все время, за исключением тех случаев, когда я не пускала его в нашу спальню.
+
+Mary did not like digging into the past. I asked her once what her name was.
+
+Мэри не любила копаться в прошлом. Я как-то спросил ее, как ее зовут.
+
+"Mary," she said tranquilly.
+
+«Мэри», — спокойно сказала она.
+
+"Mary really is your name, then?" I had long since told her my right name, but we had agreed to go on using "Sam".
+
+«Тебя действительно зовут Мэри?» Я уже давно сказал ей свое настоящее имя, но мы договорились и дальше называть ее «Сэм».
+
+"Certainly it's my name, dear. I've been 'Mary' since you first called me that."
+
+«Конечно, это мое имя, дорогая. Я стала «Мэри» с тех пор, как ты впервые назвала меня так».
+
+"Oh. All right, your name is Mary. You are my beloved Mary. But what was your name before?"
+
+«О. Хорошо, тебя зовут Мэри. Ты моя любимая Мэри. Но как тебя звали раньше?»
+
+Her eyes held an odd, hurt look, but she answered steadily, "I was once known as 'Allucquere'."
+
+В ее глазах читалась странная боль, но она твердо ответила: «Когда-то меня звали «Аллюкере».
+
+"'Allucquere'," I repeated, savoring it. "Allucquere. What a strange and beautiful name. Allucquere. My darling Allucquere."
+
+«Аллюкере», — повторил я, смакуя его. «Аллюкере. Какое странное и красивое имя. Аллюкере. Мой дорогой Аллюкере».
+
+"My name is Mary, now." And that was that. Somewhere, somewhen, I was becoming <span class='tip-wrap' data-text='convinced [кэнвЫнст] {прилагательное} убежденный'>**convinced**<span class='tip-text'> </span></span>, Mary had been hurt, badly hurt. But it seemed <span class='tip-wrap' data-text='unlikely [энлАйкли] {прилагательное} маловероятный'>**unlikely**<span class='tip-text'> </span></span> that I was ever going to know about it. She had been married before, I was <span class='tip-wrap' data-text='fairly [фЕрли] {наречие} достаточно'>**fairly**<span class='tip-text'> </span></span> certain; perhaps that was it.
+
+«Меня зовут Мэри, теперь». И это было так. Где-то, когда-то, я был убежден, Мэри была ранена, сильно ранена. Но казалось маловероятным, что я когда-нибудь узнаю об этом. Она уже была замужем, я был в этом почти уверен; возможно, это было так.
+
+Presently I ceased to worry about it. She was what she was, now and forever.
+
+Вдруг я перестал об этом беспокоиться. Она была такой, какой была, сейчас и навсегда.
+
+I went on calling her "Mary" since she obviously preferred it and that was how I thought of her anyhow, but the name that she had once had kept running through my mind. Allucquere... Allucquere... I rolled it around my tongue and wondered how it was spelled.
+
+Я продолжал называть ее «Мэри», поскольку она, очевидно, предпочитала это, и я так о ней думал, но имя, которое она когда-то носила, все время крутилось у меня в голове. Allucquere... Allucquere... Я перекатывал его на языке и размышлял, как оно пишется.
+
+Then suddenly I knew how it was spelled. My memory had turned up the right tab. There had been a community, a <span class='tip-wrap' data-text='colony [кАлэни] {существительное} колония; поселение'>**colony**<span class='tip-text'> </span></span> that used an artificial language, even to given names.
+
+И вдруг я понял, как это пишется. Моя память вывела меня на нужную вкладку. Было сообщество, колония, которая использовала искусственный язык, даже для имен.
+
+The Whitmanites, that was it - the anarchist-pacifist cult that got kicked out of Canada. There was a book, written by their prophet. The Entropy of Joy - I had not read it but I had skimmed it once; it was full of pseudomathematical formulas for achieving happiness.
+
+Уитманиты, вот они - анархо-пацифистский культ, который выгнали из Канады. Была книга, написанная их пророком. Энтропия радости - я ее не читал, но пролистал один раз; она была полна псевдоматематических формул для достижения счастья.
+
+Everybody is for "happiness", just as they are against "<span class='tip-wrap' data-text='sin [сЫн] {существительное} грех'>**sin**<span class='tip-text'> </span></span>". They had a curious and yet very <span class='tip-wrap' data-text='ancient [Ейнчэнт] {прилагательное} древний'>**ancient**<span class='tip-text'> </span></span> solution to their sexual problems, a solution which appeared to suit them but which produced explosive results when the Whitmanite culture touched any other pattern of behavior. I had heard somewhere that they had emigrated to Venus - in which case they must all be dead by now.
+
+Все за «счастье», как и против «греха». У них было любопытное и в то же время очень древнее решение их сексуальных проблем, решение, которое, казалось, подходило им, но которое производило взрывные результаты, когда культура Уитманитов касалась любой другой модели поведения. Я где-то слышал, что они эмигрировали на Венеру — в таком случае они все должны были быть уже мертвы.
+
+I put it out of my mind. If Mary were a Whitmanite, that was her business. I certainly was not going to let the cult's philosophy cause us a crisis now or ever; marriage is not <span class='tip-wrap' data-text='ownership [OунэршЫп] {существительное} собственность'>**ownership**<span class='tip-text'> </span></span> and wives are not property.
+
+Я выбросил это из головы. Если Мэри была уитманиткой, это ее дело. Я определенно не собирался позволить философии культа стать причиной кризиса сейчас или когда-либо; брак — это не собственность, а жены — не собственность.
+
+CHAPTER 22.
+
+ГЛАВА ДВАДЦАТЬ ВТОРАЯ
+
+One of those nights I got really hungry; I mentioned it. "In a minute," Mary said. "I want to call Pirate. He has not been in all day."
+
+В один из таких вечеров я очень проголодалась; я упомянула об этом. «Через минуту», — сказала Мэри. «Я хочу позвонить Пирату. Его не было целый день».
+
+"He is probably down at Old John's. He'll be all right."
+
+«Он, вероятно, у Старого Джона. С ним все будет в порядке».
+
+"But it's late at night - I'm afraid a coyote might get him."
+
+«Но уже поздняя ночь — я боюсь, что его может схватить койот».
+
+"Don't be silly; there are no coyotes here."
+
+«Не глупи, здесь нет койотов».
+
+"A fox, then - or something. Do you mind, darling? I'll just step out and call him." She headed for the door.
+
+«Лиса, ну или что-то в этом роде. Ты не против, дорогая? Я просто выйду и позову его». Она направилась к двери.
+
+"Put on something, then," I ordered. "It will be cold out there."
+
+«Тогда надень что-нибудь», — приказал я. «Там будет холодно».
+
+She hesitated, then went back to the bedroom and got a negligee I had bought for her the day we had gone down to the village. She went out; I put more wood on the fire and went into the kitchen.
+
+Она помедлила, потом вернулась в спальню и взяла пеньюар, который я купила для нее в тот день, когда мы спустились в деревню. Она вышла; я подбросила дров в огонь и пошла на кухню.
+
+Soon I heard her saying, "Bad, bad cat! You worried mama," in the voice suitable for babies and cats.
+
+Вскоре я услышала, как она говорит: «Плохая, плохая кошка! Ты беспокоишься, мама», — голосом, подходящим для младенцев и кошек.
+
+I called out, "Fetch him in and close the door!" She did not answer and so I went back into the living room.
+
+Я крикнул: «Приведите его и закройте дверь!» Она не ответила, и я вернулся в гостиную.
+
+She was just coming in and did not have the cat with her. I started to speak and then caught sight of her eyes. They were staring, filled with unspeakable <span class='tip-wrap' data-text='horror [хОрэр] {существительное} ужас'>**horror**<span class='tip-text'> </span></span>. I said, "Mary!" and started toward her.
+
+Она только что вошла и не имела с собой кота. Я начал говорить и тут увидел ее глаза. Они смотрели, полные невыразимого ужаса. Я сказал: «Мэри!» и направился к ней.
+
+She seemed to see me and turned back toward the door; her movements were spasmodic. As she turned I saw her shoulders.
+
+Она, казалось, увидела меня и повернулась к двери; ее движения были судорожными. Когда она повернулась, я увидел ее плечи.
+
+Under the negligee was a hump.
+
+Под пеньюаром был горб.
+
+I jumped toward her and grabbed her by the arms. She looked at me and her eyes were no longer wells of <span class='tip-wrap' data-text='horror [хОрэр] {существительное} ужас'>**horror**<span class='tip-text'> </span></span> but merely dead.
+
+Я подскочил к ней и схватил ее за руки. Она посмотрела на меня, и ее глаза больше не были колодцами ужаса, а просто мертвыми.
+
+She hit me with her knee.
+
+Она ударила меня коленом.
+
+I squeezed and managed to avoid the worst of it. Look - I know you don't tackle a dangerous opponent by grabbing his upper arms, but this was my wife.
+
+Я сжал и сумел избежать худшего. Слушай, я знаю, что опасного противника не схватят за плечи, но это была моя жена.
+
+But the slug had no feelings about me. So I had to keep Mary from killing me - and I had to kill the slug - and I had to keep the slug from getting at me or I would not be able to save her.
+
+Но у слизняка не было никаких чувств ко мне. Поэтому мне пришлось не дать Мэри убить меня — и мне пришлось убить слизняка — и мне пришлось не дать слизняку добраться до меня, иначе я не смогу спасти ее.
+
+I let go with one hand and jabbed at her chin. The <span class='tip-wrap' data-text='blow [блOу] {существительное} удар; дуновение'>**blow**<span class='tip-text'> </span></span> did not even <span class='tip-wrap' data-text='slow [слOу] {глагол} замедлять'>**slow**<span class='tip-text'> </span></span> her down. I grabbed again, with both arms and legs, trying to immobilize her without injuring her. We went down together, Mary on top. I shoved the top of my head into her face to stop her biting me.
+
+Я отпустил одну руку и ударил ее в подбородок. Удар даже не замедлил ее. Я схватил ее снова, обеими руками и ногами, пытаясь обездвижить ее, не причинив ей вреда. Мы упали вместе, Мэри сверху. Я толкнул ее макушкой в лицо, чтобы она не кусала меня.
+
+Then I tried to paralyze her with <span class='tip-wrap' data-text='nerve [нЭрв] {существительное} нерв; наглость'>**nerve**<span class='tip-text'> </span></span> pressure, but she knew what I was up to, knew the key spots as well as I did - and I was lucky that I was not myself paralyzed.
+
+Затем я попытался парализовать ее сдавливанием нервов, но она знала, что я делаю, знала ключевые точки так же хорошо, как и я, — и мне повезло, что меня самого не парализовало.
+
+There was one thing left that I could do: clutch the slug itself - but I knew the shattering effect that had on the <span class='tip-wrap' data-text='host [хOуст] {существительное} хозяин; ведущий'>**host**<span class='tip-text'> </span></span>. It might not kill her; again it might. It was sure to hurt her horribly. I wanted to make her unconscious, then remove the slug gently before I killed it... drive it off with heat.
+
+Оставалось одно: схватить самого слизняка, но я знал, какой сокрушительный эффект это окажет на хозяина. Это может и не убить ее; может и убить. Это наверняка причинит ей ужасную боль. Я хотел лишить ее сознания, а затем аккуратно удалить слизняка, прежде чем убить его... отогнать его теплом.
+
+Drive it off with heat -
+
+Прогони его с помощью тепла -
+
+But I was given no time to develop the idea; she got her teeth in my ear. I shifted my right arm and grabbed at the slug. Nothing happened. Instead of sinking my fingers into a slimy mess I found that this slug had a horny, leathery covering; it was as if I had clutched a football. Mary jerked when I touched it and took away part of my ear, but there was no bone-crushing spasm; the slug was still alive and in control of her.
+
+Но мне не дали времени развить эту мысль; она вцепилась зубами мне в ухо. Я переместил правую руку и схватил слизняка. Ничего не произошло. Вместо того, чтобы погрузить пальцы в скользкую массу, я обнаружил, что у этого слизняка было роговое, кожистое покрытие; это было похоже на то, как если бы я схватил футбольный мяч. Мэри дернулась, когда я коснулся его, и оторвала часть моего уха, но не было никакого спазма, сокрушающего кости; слизняк был все еще жив и контролировал ее.
+
+I rolled over and got to my knees, still hugging her. I had to let her legs free and that was bad, but I bent her across a knee and then struggled to my feet. I dragged and carried her to the fireplace.
+
+Я перевернулся и встал на колени, все еще обнимая ее. Мне пришлось отпустить ее ноги, и это было плохо, но я согнул ее поперек колена и с трудом поднялся на ноги. Я подтащил и отнес ее к камину.
+
+She knew what I was doing and almost got away from me; it was like trying to wrestle a mountain lion. But I got her there, grabbed her by her mop of hair and slowly forced her shoulders over the fire.
+
+Она знала, что я делаю, и почти убежала от меня; это было похоже на попытку сразиться с горным львом. Но я поймал ее, схватил за копну волос и медленно перекинул ее плечи через огонь.
+
+I meant - I <span class='tip-wrap' data-text='swear [суЕр] {глагол} клясться; ругаться'>**swear**<span class='tip-text'> </span></span> that I meant only to force it to drop off to escape that heat. But she struggled so hard that I slipped, banging my own head against the arch of the opening and dropping her shoulders against the coals.
+
+Я имел в виду - клянусь, я имел в виду только заставить ее свалиться, чтобы спастись от этого жара. Но она так боролась, что я поскользнулся, ударившись головой о свод отверстия и уронив ее плечи на угли.
+
+She screamed and bounded out of the fire, carrying me with her. I struggled to my feet, and saw her collapsed on the floor. Her hair, her beautiful hair, was burning.
+
+Она закричала и выскочила из огня, увлекая меня за собой. Я с трудом поднялся на ноги и увидел, как она рухнула на пол. Ее волосы, ее прекрасные волосы горели.
+
+So was her negligee. I slapped at them both with my hands. The slug was no longer on her. Still crushing the flames with my hands I glanced around and saw it lying on the floor in front of the fireplace - and the Pirate was sniffing at it.
+
+Как и ее пеньюар. Я ударил их обоих руками. Слизняка больше не было на ней. Все еще сбивая пламя руками, я оглянулся и увидел его лежащим на полу перед камином — и Пират обнюхивал его.
+
+"Get away from there!" I yelled. "Pirate! Stop that!" The cat looked up inquiringly, as if this were some new and interesting game. I went on doing what I had to do, making absolutely certain that the fire was out, both hair and <span class='tip-wrap' data-text='clothing [клOуðыŋ] {существительное} одежда'>**clothing**<span class='tip-text'> </span></span>. When I was sure, I left her; there was not even time to make certain that she was still alive. There was something more urgent to do.
+
+«Убирайся оттуда!» — закричал я. «Пират! Прекрати это!» Кот вопросительно посмотрел на меня, как будто это была какая-то новая и интересная игра. Я продолжал делать то, что должен был делать, убедившись, что огонь потух, и волосы, и одежда. Когда я убедился, я оставил ее; не было даже времени убедиться, что она еще жива. Нужно было сделать что-то более срочное.
+
+What I wanted was the fireplace shovel; I did not <span class='tip-wrap' data-text='dare [дЕр] {глагол} дерзать; сметь'>**dare**<span class='tip-text'> </span></span> risk touching the thing with my hands. I turned to get the shovel.
+
+Мне нужна была лопатка для камина; я не рискнул прикоснуться к ней руками. Я повернулся, чтобы взять лопатку.
+
+But the slug was no longer on the floor; it had gotten Pirate. The cat was standing rigid, feet wide <span class='tip-wrap' data-text='apart [эпАрт] {наречие} отдельно'>**apart**<span class='tip-text'> </span></span>, and the slug was settling into place.
+
+Но слизняка больше не было на полу; он добрался до Пирата. Кот стоял неподвижно, широко расставив ноги, а слизняк устраивался на месте.
+
+I dived at Pirate and got him by his hind legs just as he made his first controlled movement.
+
+Я прыгнул на Пирата и схватил его за задние ноги как раз в тот момент, когда он сделал свое первое контролируемое движение.
+
+Handling a furious, full-grown cat with bare hands is reckless at best; controlling one which is already controlled by a titan is impossible. With my hands and arms slashed by claws and teeth at every step, I hurried again to the fireplace.
+
+Обращаться с разъяренной, взрослой кошкой голыми руками — это в лучшем случае безрассудство; контролировать ту, которая уже находится под контролем титана, невозможно. С руками и ладонями, изрезанными когтями и зубами на каждом шагу, я снова поспешил к камину.
+
+This time I made sure. Despite Pirate's wails and struggles I forced the slug against the coals and held it there, cat fur and my hands alike were burning, until the slug dropped off directly into the flames. Then I took Pirate out and laid him on the floor. He was no longer struggling. I did for him what I had done for Mary, made sure that he was no longer burning anywhere and went back to Mary.
+
+На этот раз я убедился. Несмотря на вопли и сопротивление Пирата, я прижал слизняка к углям и держал его там, кошачья шерсть и мои руки горели, пока слизняк не упал прямо в пламя. Затем я вытащил Пирата и положил его на пол. Он больше не сопротивлялся. Я сделал для него то же, что сделал для Мэри, убедился, что он больше нигде не горит, и вернулся к Мэри.
+
+She was still unconscious. I squatted down beside her and sobbed.
+
+Она все еще была без сознания. Я присела на корточки рядом с ней и зарыдала.
+
+An hour later I had done what I could for Mary. Her hair was almost gone from the left side of her head and there were burns on her shoulders and neck. But her pulse was strong, her respiration steady <span class='tip-wrap' data-text='though [ðOу] {наречие} однако'>**though**<span class='tip-text'> </span></span> fast and light. I dressed her burns and gave her an injection to make her <span class='tip-wrap' data-text='sleep [слИп] {существительное} сон [3]'>**sleep**<span class='tip-text'> </span></span>. Then I had time for Pirate.
+
+Час спустя я сделал для Мэри все, что мог. Ее волосы почти выпали с левой стороны головы, а на плечах и шее были ожоги. Но пульс был сильным, дыхание ровным, хотя быстрым и легким. Я перевязал ей ожоги и сделал укол, чтобы она заснула. Потом у меня было время для Пирата.
+
+He was still on the floor where I had left him and he did not look good. He had gotten it much worse than Mary and probably flame in his lungs as well. I thought he was dead, but he lifted his head when I touched him. "I'm sorry, old fellow," I whispered. I think I heard him mew.
+
+Он все еще лежал на полу, где я его оставил, и выглядел он неважно. Ему досталось гораздо больше, чем Мэри, и, вероятно, у него в легких тоже было пламя. Я думал, что он мертв, но он поднял голову, когда я до него дотронулся. «Прости, старина», — прошептал я. Кажется, я слышал, как он мяукнул.
+
+I did for him what I had done for Mary, except that I was afraid to give him an injection. After that I went into the bathroom and looked myself over.
+
+Я сделал для него то же, что и для Мэри, за исключением того, что я боялся делать ему укол. После этого я пошел в ванную и осмотрел себя.
+
+The ear had stopped bleeding and I decided to ignore it. Someday, when I had time, it would need to be rebuilt. My hands were what bothered me. I stuck them under hot water and cried, then dried them in the air blast and that hurt, too. I could not figure out how I could dress them, and, besides, I needed to use them.
+
+Ухо перестало кровоточить, и я решила не обращать на это внимания. Когда-нибудь, когда у меня будет время, его нужно будет восстановить. Меня беспокоили мои руки. Я сунула их под горячую воду и плакала, потом высушила их струей воздуха, и это тоже было больно. Я не могла понять, как их перевязать, и, кроме того, мне нужно было ими пользоваться.
+
+Finally I dumped about an ounce of the jelly for burns into each of a pair of plastic gloves and put them on. The stuff included a local anesthetic; I could get by. Then I went to the stereophone and called the village medical man. I explained to him carefully and correctly what had happened and what I had done about it and asked him to come at once.
+
+Наконец, я вылил около унции желе от ожогов в каждую из пары пластиковых перчаток и надел их. В состав входил местный анестетик; я мог обойтись. Затем я подошел к стереофону и позвонил деревенскому врачу. Я подробно и корректно объяснил ему, что произошло и что я с этим сделал, и попросил его немедленно приехать.
+
+"At night?" he said. "You must be joking."
+
+«Ночью?» — сказал он. «Вы, должно быть, шутите».
+
+I said that I decidedly was not joking.
+
+Я сказал, что я решительно не шучу.
+
+He answered, "Don't ask the impossible, man. Yours is the fourth alarm in this county; nobody goes out at night. You've done everything that can be done tonight; I'll stop in and see your wife first thing in the morning."
+
+Он ответил: «Не проси невозможного, мужик. У тебя четвертая тревога в округе; ночью никто не выходит. Ты сделал все, что можно было сделать сегодня вечером; я первым делом зайду к твоей жене утром».
+
+I told him to go straight to the devil first thing in the morning and switched off.
+
+Я послал его к черту с самого утра и выключил его.
+
+Pirate died a little after midnight. I buried him at once so that Mary would not see him. Digging hurt my hands but he did not take a very big hole. I said goodbye to him and came back in. Mary was resting quietly; I brought a chair to the bed and watched over her. Probably I dozed from time to time; I can't be sure.
+
+Пират умер немного после полуночи. Я похоронил его сразу, чтобы Мэри не увидела его. Копать было больно рукам, но яму он выкопал не очень большую. Я попрощался с ним и вернулся. Мэри спокойно отдыхала; я притащил к кровати стул и присматривал за ней. Наверное, я дремал время от времени; не уверен.
+
+CHAPTER 23.
+
+ГЛАВА ДВАДЦАТЬ ТРЕТЬЯ
+
+About dawn Mary began to moan. I stepped to the bed and put a hand on her. "There, baby, there - It's all right. Sam's here."
+
+На рассвете Мэри начала стонать. Я подошел к кровати и положил на нее руку. «Там, детка, там — Все в порядке. Сэм здесь».
+
+Her eyes opened and for a moment held the same <span class='tip-wrap' data-text='horror [хОрэр] {существительное} ужас'>**horror**<span class='tip-text'> </span></span> they had held when she was first possessed. Then she saw me and relaxed. "Sam! Oh, darling, I've had the most terrible dream."
+
+Ее глаза открылись, и на мгновение в них отразился тот же ужас, что и тогда, когда она впервые была одержима. Потом она увидела меня и расслабилась. «Сэм! О, дорогой, мне приснился самый ужасный сон».
+
+"It's all right," I repeated.
+
+«Все в порядке», — повторил я.
+
+"Why are you wearing gloves?" She became aware of her own dressings; she looked dismayed and said, "It wasn't a dream!"
+
+«Почему ты в перчатках?» Она осознала, что на ней надеты повязки; она выглядела растерянной и сказала: «Это был не сон!»
+
+"No, dearest, it wasn't a dream. But it's all right; I killed it."
+
+«Нет, дорогая, это был не сон. Но все в порядке; я убил его».
+
+"Oh. Come here, Sam. Hold me <span class='tip-wrap' data-text='tight [тАйт] {прилагательное} плотный; тугой'>**tight**<span class='tip-text'> </span></span>."
+
+«О. Иди сюда, Сэм. Держи меня крепче».
+
+"I'll hurt your shoulders."
+
+«Я повредю тебе плечи».
+
+"Hold me!" So I did, while trying to be careful of her burns, although she seemed indifferent to them. Presently her trembling slowed down and stopped almost completely.
+
+«Держи меня!» Я так и сделал, стараясь при этом быть осторожным с ее ожогами, хотя она, казалось, была к ним безразлична. Вскоре ее дрожь замедлилась и почти полностью прекратилась.
+
+"Now tell me what happened; I must know. The last I remember you were trying to force me into the fireplace."
+
+«Теперь расскажи мне, что случилось; я должен знать. Последнее, что я помню, ты пытался затащить меня в камин».
+
+"Look. Mary, I couldn't help it; I had to - I couldn't get it off!"
+
+«Послушай, Мэри, я ничего не мог с собой поделать; мне пришлось — я не смог его снять!»
+
+She shook my shoulders and now it was she comforting me. "I know, darling, I know - and thank you for doing it! Thank you from the bottom of my heart. Again I owe you everything."
+
+Она потрясла меня за плечи, и теперь она утешала меня. «Я знаю, дорогой, я знаю — и спасибо тебе за это! Спасибо тебе от всего сердца. Я снова всем тебе обязана».
+
+We both cried a bit and presently I blew my nose and went on, "You did not answer when I called you, so I went into the living room and there you were."
+
+Мы оба немного поплакали, а потом я высморкался и продолжил: «Ты не ответил, когда я тебя позвал, поэтому я пошел в гостиную, и ты был там».
+
+"I remember - oh darling, I tried so hard!"
+
+«Я помню — о, дорогая, я так старалась!»
+
+I stared at her. "I know you did - you tried to leave. But how did you? Once a slug gets you, that's it. There's no way to fight it."
+
+Я уставился на нее. «Я знаю, что ты это сделала — ты пыталась уйти. Но как ты это сделала? Как только слизняк тебя достанет, все кончено. С этим невозможно бороться».
+
+"Well, I lost - but I tried." There was no answer to the mystery. Somehow, Mary had forced her will against that of a parasite - and that can't be done. I know. I knew then that I was married to a human who was stronger than I was, despite her lovely curves and her complete femininity.
+
+«Ну, я проиграла — но я пыталась». Ответа на загадку не было. Каким-то образом Мэри заставила свою волю противостоять воле паразита — а это невозможно. Я знаю. Тогда я поняла, что вышла замуж за человека, который был сильнее меня, несмотря на ее прекрасные изгибы и ее полную женственность.
+
+She went on, "Pirate came to me at once. I didn't see the thing until I had reached down and touched him. Then it was too late." She sat up, supporting herself on one arm. "Where is he, Sam? Is he all right? Call him in."
+
+Она продолжила: «Пират тут же подбежал ко мне. Я не видела его, пока не наклонилась и не коснулась его. Потом было уже поздно». Она села, опираясь на одну руку. «Где он, Сэм? С ним все в порядке? Позови его».
+
+So I had to tell her about Pirate. She listened without expression, nodded and never referred to him again. I changed the subject by saying, "Now that you are awake I had better fix you some breakfast."
+
+Поэтому мне пришлось рассказать ей о Пирате. Она слушала без всякого выражения, кивала и больше никогда о нем не упоминала. Я сменил тему, сказав: «Теперь, когда ты проснулась, я лучше приготовлю тебе завтрак».
+
+"Don't go!" I stopped. "Don't go out of my sight at all," she went on, "Not for any reason. I'll get up in a moment and get breakfast."
+
+«Не уходи!» Я остановилась. «Не выходи из поля моего зрения вообще», — продолжила она. «Ни за что. Я сейчас встану и приготовлю завтрак».
+
+"No, you'll stay right in that bed, like a good little girl."
+
+«Нет, ты останешься в этой постели, как хорошая девочка».
+
+"Come here and take off those gloves. I want to see your hands." I did not take them off - could not bear to think about it; the anesthesia had worn off. She nodded and said grimly, "Just as I thought. You were burned worse than I was."
+
+«Иди сюда и сними перчатки. Я хочу увидеть твои руки». Я не снял их — не мог вынести мысли об этом; анестезия уже прошла. Она кивнула и мрачно сказала: «Как я и думала. Ты обгорел сильнее, чем я».
+
+So she got breakfast. <span class='tip-wrap' data-text='furthermore [фЭрðэрмОр] {наречие} более того'>**Furthermore**<span class='tip-text'> </span></span> she ate - I wanted nothing but a <span class='tip-wrap' data-text='pot [пАт] {существительное} горшок; банка'>**pot**<span class='tip-text'> </span></span> of coffee. I did insist that she drink a lot, too; large area burns are no joke. Presently she pushed <span class='tip-wrap' data-text='aside [эсАйд] {наречие} в сторону'>**aside**<span class='tip-text'> </span></span> her plate, looked at me and said, "Darling, I'm not sorry it happened. Now I know. Now we've both been there." I nodded humbly, knowing what she meant. Sharing happiness is not enough. She stood up and said, "Now we must go."
+
+Итак, она позавтракала. Более того, она поела — я не хотел ничего, кроме кофейника. Я настоял, чтобы она тоже много пила; большие ожоги — это не шутки. Вскоре она отодвинула тарелку, посмотрела на меня и сказала: «Дорогой, я не жалею, что это произошло. Теперь я знаю. Теперь мы оба через это прошли». Я смиренно кивнул, понимая, что она имела в виду. Недостаточно просто делиться счастьем. Она встала и сказала: «Теперь нам пора идти».
+
+"Yes," I agreed, "now we must go. I want to get you to a doctor as soon as possible."
+
+«Да», — согласился я, — «теперь нам пора идти. Я хочу как можно скорее отвезти тебя к врачу».
+
+"I did not mean that."
+
+"Я не хотел тебя обидеть."
+
+"I know you didn't." There was no need to discuss it further; we both knew that the music had stopped and that now was time to go back to work.
+
+«Я знаю, что ты этого не сделал». Не было нужды обсуждать это дальше; мы оба знали, что музыка прекратилась и что теперь пора возвращаться к работе.
+
+Mary drove, because of my hands. Once in the air she turned to me and said, "Let's go straight to the Section offices. We'll get treatment there and find out what has been going on."
+
+Мэри вела машину, из-за моих рук. Оказавшись в воздухе, она повернулась ко мне и сказала: «Давайте поедем прямо в офисы Секции. Там мы получим лечение и выясним, что происходит».
+
+"Suits," I agreed. I wanted to learn the situation as soon as possible - and I wanted to get back to work.
+
+«Костюмы», — согласился я. Мне хотелось узнать ситуацию как можно скорее — и вернуться к работе.
+
+A thought had been bothering me for some time; I mentioned it to Mary. "A slug would not <span class='tip-wrap' data-text='mount [мАунт] {глагол} монтировать'>**mount**<span class='tip-text'> </span></span> a cat just for fun, would it?"
+
+Меня уже давно беспокоила одна мысль; я поделился ею с Мэри. «Слизняк не станет взбираться на кошку просто ради забавы, не так ли?»
+
+"I suppose not."
+
+«Я полагаю, что нет».
+
+"But why? It doesn't make sense. But it has to make sense; everything they do makes sense, from their viewpoint."
+
+«Но почему? Это не имеет смысла. Но это должно иметь смысл; все, что они делают, имеет смысл, с их точки зрения».
+
+"But it made sense. They caught a human that way."
+
+«Но это имело смысл. Таким образом они поймали человека».
+
+"Yes, I know. But how could they plan it? <span class='tip-wrap' data-text='surely [шУрли] {наречие} конечно'>**Surely**<span class='tip-text'> </span></span> there aren't enough of them that they can afford to place themselves on cats on the off chance that the cat might catch a human. Or are there enough?" I remembered the speed with which a slug on an ape's back had turned itself into two, I remembered Kansas City, saturated, and shivered.
+
+«Да, я знаю. Но как они могли это спланировать? Наверняка их не так много, чтобы они могли позволить себе сесть на кошек в надежде, что кошка поймает человека. Или их достаточно?» Я вспомнил, с какой скоростью слизняк на спине обезьяны превратился в две части, я вспомнил Канзас-Сити, пресыщенный, и вздрогнул.
+
+"Why ask me, darling? I don't have an analytical brain." Which was true, in a way; there is nothing wrong with Mary's brain but she jumps logic and arrives at her answers by instinct.
+
+«Зачем спрашивать меня, дорогая? У меня нет аналитического ума». Что было правдой, в каком-то смысле; с мозгом Мэри все в порядке, но она перескакивает через логику и приходит к своим ответам инстинктивно.
+
+"Where did the slug come from? It didn't walk; it had to get to the Pirate on the back of another <span class='tip-wrap' data-text='host [хOуст] {существительное} хозяин; ведущий'>**host**<span class='tip-text'> </span></span>. What <span class='tip-wrap' data-text='host [хOуст] {существительное} хозяин; ведущий'>**host**<span class='tip-text'> </span></span>? I'd say it was Old John - John the Goat."
+
+«Откуда взялся слизняк? Он не ходил; ему пришлось добраться до Пирата на спине другого хозяина. Какого хозяина? Я бы сказал, что это был Старый Джон — Джон Козёл».
+
+"Old John?" Mary closed her eyes, then opened them. "I can't get any feeling about it. I was never close to him."
+
+«Старый Джон?» Мэри закрыла глаза, потом открыла их. «Я не могу ничего по этому поводу почувствовать. Я никогда не была с ним близка».
+
+"Old John wore a <span class='tip-wrap' data-text='coat [кOут] {существительное} слой; пальто'>**coat**<span class='tip-text'> </span></span> when everyone else was complying with the Bare Back order... getting away with it because he avoids people. But why would a slug single out a hermit way up in the mountains?"
+
+«Старый Джон носил пальто, когда все остальные соблюдали запрет на ношение голой спины... ему это сходило с рук, потому что он избегал людей. Но почему слизняк выбрал отшельника высоко в горах?»
+
+"To capture you."
+
+«Чтобы захватить тебя».
+
+"Me?"
+
+"Мне?"
+
+"To recapture you."
+
+«Чтобы вернуть тебя».
+
+It made some sense. Possibly any <span class='tip-wrap' data-text='host [хOуст] {существительное} хозяин; ведущий'>**host**<span class='tip-text'> </span></span> that ever escaped them was a marked man; in that case any people we had rescued - including Mary - were in special danger. I'd mark that down to report for analysis. No, not Mary - the only slug that knew she had been possessed was dead.
+
+Это имело смысл. Возможно, любой носитель, который когда-либо сбегал от них, был отмеченным человеком; в этом случае все люди, которых мы спасли, включая Мэри, были в особой опасности. Я бы отметил это, чтобы сообщить об этом для анализа. Нет, не Мэри — единственный слизняк, который знал, что был одержим, был мертв.
+
+On the other hand they might want me in particular. What was special about me? I was a secret agent. More important, the slug that had ridden me knew what I knew about the Old Man and knew that I had access to him. That would be reason enough to try to get me back. I held an emotional certainty that the Old Man was their <span class='tip-wrap' data-text='principal [прЫнсэпэл] {прилагательное} основной'>**principal**<span class='tip-text'> </span></span> antagonist; the slug knew that I thought so; he had full use of my mind.
+
+С другой стороны, они могли хотеть именно меня. Что во мне было особенного? Я был секретным агентом. Что еще важнее, слизняк, который ездил на мне, знал то, что я знал о Старике, и знал, что у меня был доступ к нему. Это было бы достаточной причиной, чтобы попытаться вернуть меня. Я был эмоционально уверен, что Старик был их главным противником; слизняк знал, что я так думаю; он полностью использовал мой разум.
+
+That slug had even met the Old Man, talked with him. Wait a minute, that slug was dead. And my theory broke down.
+
+Этот слизняк даже встречался со Стариком, разговаривал с ним. Погодите-ка, этот слизняк был мертв. И моя теория рухнула.
+
+And built up again at once. "Mary," I asked, "have you used your apartment since the morning you and I had breakfast there?"
+
+И тут же снова выстроилась. «Мэри», — спросил я, — «ты пользовалась своей квартирой с того утра, как мы с тобой там завтракали?»
+
+"No. Why?"
+
+«Нет. Почему?»
+
+"Don't. Don't go back there for any purpose. I recall thinking, while I was with them, that I would have to <span class='tip-wrap' data-text='trap [трЭп] {глагол} поймать в ловушку'>**trap**<span class='tip-text'> </span></span> it."
+
+«Не надо. Не возвращайтесь туда ни за какие деньги. Помню, пока я был с ними, я думал, что мне придется поймать его».
+
+"Well, you didn't, did you? Or did you?"
+
+«Ну, ты ведь этого не сделал, да? Или сделал?»
+
+"No, I did not. But maybe it had been trapped since then." I explained to her Mcllvaine's theory about the slugs, the "group memory" idea.
+
+«Нет, не видел. Но, может быть, с тех пор он был в ловушке». Я объяснил ей теорию Маклвейна о слизняках, идею «групповой памяти».
+
+"Just a moment, dear - by Dr. Mcllvaine's theory each slug is really every other slug; is that it? In other words that thing that caught me last night was just as much the one that rode you when you were with them."
+
+«Одну минутку, дорогая, по теории доктора Маклвейна каждый слизняк на самом деле является каждым вторым слизняком; так ведь? Другими словами, та штука, которая поймала меня вчера вечером, была точно такой же, что каталась на тебе, когда ты была с ними».
+
+"That's the general idea. <span class='tip-wrap' data-text='apart [эпАрт] {наречие} отдельно'>**Apart**<span class='tip-text'> </span></span>, they are individuals; in direct conference they merge their memories. Then, if that is true, this one last night remembers everything it learned from me provided it had direct conference with the slug that rode me, or any other slug that had had, or a slug that had been linked through any number of slugs by direct conference to the slug that had ridden me, after the time it did - which you can <span class='tip-wrap' data-text='bet [бЕт] {глагол} держать пари'>**bet**<span class='tip-text'> </span></span> it did, from what I know of their habits." I stopped for a moment and went on, "If Mcllvaine is right there are hundreds of thousands, maybe millions, of slugs who know exactly who you and I are, by name and by sight and everything, know where your apartment is, where my apartment is, and where our <span class='tip-wrap' data-text='cabin [кЭбэн] {существительное} хижина (кабина)'>**cabin**<span class='tip-text'> </span></span> is. They've got us on a list."
+
+"Это общая идея. По отдельности они являются личностями; в прямом общении они объединяют свои воспоминания. Тогда, если это правда, этот вчерашний помнит все, что узнал от меня, при условии, что у него была прямая конференция со слизнем, который ездил на мне, или с любым другим слизнем, который был, или со слизнем, который был связан через любое количество слизней прямой конференцией со слизнем, который ездил на мне, после того времени, как он это сделал - что, вы можете поспорить, так и было, исходя из того, что я знаю об их привычках". Я остановился на мгновение и продолжил: "Если Маклвейн прав, есть сотни тысяч, может быть, миллионы слизней, которые точно знают, кто вы и я, по имени, в лицо и все такое, знают, где ваша квартира, где моя квартира, и где наша хижина. Они внесли нас в список".
+
+"But -" Mary frowned. "That's a horrid thought, Sam. How would they know when to find us at the <span class='tip-wrap' data-text='cabin [кЭбэн] {существительное} хижина (кабина)'>**cabin**<span class='tip-text'> </span></span>? You didn't tell anybody we were going and I did not even know. Would they simply watch and wait? Yes, I suppose they would."
+
+«Но...» Мэри нахмурилась. «Это ужасная мысль, Сэм. Как они узнают, когда нас найти в хижине? Ты никому не сказал, что мы уезжаем, и я даже не знала. Они просто будут смотреть и ждать? Да, я полагаю, они будут».
+
+"I think so. We don't know that waiting matters to a slug; time may mean something entirely different to them. In any case," I went on, "I've got to report this, including our guesses as to what is behind it, for the boys in the analytical group to play with."
+
+«Я так думаю. Мы не знаем, что ожидание имеет значение для слизняка; время может означать для него что-то совершенно иное. В любом случае, — продолжал я, — я должен сообщить об этом, включая наши догадки о том, что за этим стоит, чтобы ребята из аналитической группы могли с этим поиграть».
+
+Suddenly my phone sounded. It happened for the first time since my leave had started. I answered and the Old Man's voice cut in: "Report in person."
+
+Вдруг зазвонил мой телефон. Это случилось впервые с начала моего отпуска. Я ответил, и вмешался голос Старика: «Докладывайте лично».
+
+"We're on our way," I acknowledged. "About thirty minutes."
+
+«Мы уже в пути», — подтвердил я. «Примерно тридцать минут».
+
+"Make it <span class='tip-wrap' data-text='sooner [сУнэр] {наречие} скорее'>**sooner**<span class='tip-text'> </span></span>. You use Kay Five; tell Mary to come in by Ell One. Move." He switched off before I could ask him how he had known that Mary was with me.
+
+«Сделай это раньше. Ты используешь Kay Five; скажи Мэри, чтобы она зашла через Ell One. Двигайся». Он отключился прежде, чем я успел спросить его, как он узнал, что Мэри со мной.
+
+"Did you get it?" I asked Mary.
+
+«Ты поняла?» — спросил я Мэри.
+
+"Yes, I was in the <span class='tip-wrap' data-text='circuit [сЭркэт] {существительное} схема; цепь; контур'>**circuit**<span class='tip-text'> </span></span>."
+
+«Да, я был в этом кругу».
+
+"Sounds as if the party was about to start."
+
+«Похоже, вечеринка вот-вот начнется».
+
+It was not until we had landed that I began to realize how radically the situation had changed. We were complying with <span class='tip-wrap' data-text='schedule [скЕджул] {существительное} расписание'>**Schedule**<span class='tip-text'> </span></span> Bare Back; we had not heard of <span class='tip-wrap' data-text='schedule [скЕджул] {существительное} расписание'>**Schedule**<span class='tip-text'> </span></span> Sun Tan. Two cops stopped us as we got out. "Stay where you are!" one of them ordered. "Don't make any sudden moves."
+
+Только когда мы приземлились, я начал понимать, насколько радикально изменилась ситуация. Мы соблюдали расписание Bare Back; о расписании Sun Tan мы не слышали. Двое полицейских остановили нас, когда мы выходили. «Оставайтесь на месте!» — приказал один из них. «Не делайте резких движений».
+
+They were dressed in gun belts, shoes, and very short trunks. A second <span class='tip-wrap' data-text='glance [глЭнс] {существительное} взгляд'>**glance**<span class='tip-text'> </span></span> showed their shields clipped to their belts. "Now," the same one went on, "Off with those <span class='tip-wrap' data-text='pants [пЭнтс] {существительное} брюки'>**pants**<span class='tip-text'> </span></span>, buddy."
+
+Они были одеты в ремни с пистолетами, обувь и очень короткие плавки. Второй взгляд показал, что их щиты прикреплены к поясам. «А теперь», — продолжал тот же, — «снимай эти штаны, приятель».
+
+I did not move quickly enough to suit him. He barked, "Make it snappy!" "Do it, Sam," Mary said quietly. I did it. My shorts were a one-piece garment, with the underwear part built in; without them, I stood dressed in my shoes and a pair of gloves, feeling like a fool.
+
+Я не двигалась достаточно быстро, чтобы ему подойти. Он рявкнул: «Сделай это быстро!» «Сделай это, Сэм», — тихо сказала Мэри. Я сделала это. Мои шорты были цельным предметом одежды, с вшитой частью нижнего белья; без них я стояла одетая в туфли и пару перчаток, чувствуя себя идиоткой.
+
+The cop made me turn around. His mate said, "He's clean. Now the other one." I started to put my shorts back on and the first cop stopped me.
+
+Коп заставил меня развернуться. Его приятель сказал: «Он чист. Теперь другой». Я начал надевать шорты, но первый коп остановил меня.
+
+"Hey! You are looking for trouble? Leave them off."
+
+«Эй! Ты ищешь неприятностей? Оставь их в покое».
+
+I said reasonably, "You've searched me. I don't want to get picked up for indecent <span class='tip-wrap' data-text='exposure [ыкспOужэр] {существительное} воздействие; экспозиция'>**exposure**<span class='tip-text'> </span></span>."
+
+Я резонно сказал: «Вы меня обыскали. Я не хочу, чтобы меня задержали за непристойное поведение».
+
+He looked surprised, then laughed and turned to his mate. "You hear that, Ski? He's afraid he'll be arrested for indecent <span class='tip-wrap' data-text='exposure [ыкспOужэр] {существительное} воздействие; экспозиция'>**exposure**<span class='tip-text'> </span></span>."
+
+Он выглядел удивленным, затем рассмеялся и повернулся к своему приятелю. «Слышишь, Ски? Он боится, что его арестуют за непристойное поведение».
+
+The second one said patiently, "Listen, you got to cooperate, see? You know the rules. You won't get picked up for indecent <span class='tip-wrap' data-text='exposure [ыкспOужэр] {существительное} воздействие; экспозиция'>**exposure**<span class='tip-text'> </span></span>; you'll get shot dead if you have clothes on. The Vigilantes are a lot quicker to shoot than we are." He turned to Mary. "Now, lady, if you please."
+
+Второй терпеливо сказал: «Слушай, ты должна сотрудничать, понимаешь? Ты знаешь правила. Тебя не поймают за непристойное поведение; тебя застрелят, если ты будешь в одежде. Виджиланте стреляют гораздо быстрее, чем мы». Он повернулся к Мэри. «А теперь, леди, пожалуйста».
+
+Without argument Mary started to remove her shorts. The second cop said kindly, "That isn't necessary lady, not the way those things are built. Just turn around slowly."
+
+Без возражений Мэри начала снимать шорты. Второй полицейский любезно сказал: «Это не обязательно, леди, эти штуки не так устроены. Просто медленно повернитесь».
+
+"Thank you," Mary said and complied. The policeman's point was well taken; Mary's briefies were just sprayed on, and her halter also quite evidently contained nothing but Mary.
+
+«Спасибо», — сказала Мэри и подчинилась. Полицейский понял, что это правильно; трусы Мэри были просто обрызганы, и в ее бретельках тоже, очевидно, не было ничего, кроме Мэри.
+
+"How about those bandages?" the first one commented.
+
+«А как насчет этих бинтов?» — прокомментировал первый.
+
+"She's been badly burned," I said. He looked doubtfully at Mary; the dressing across her shoulders where she had been burned the worst undoubtedly could have concealed a slug, if that had been the purpose.
+
+«Она сильно обгорела», — сказал я. Он с сомнением посмотрел на Мэри; повязка на ее плечах, где она обгорела сильнее всего, несомненно, могла скрыть пулю, если бы это было целью.
+
+"Mmmm..." he said, "If she was burned."
+
+«Ммм...» — сказал он. «Если бы она сгорела».
+
+"Of course she was burned!" I was the perfect heavy husband, unreasonable where my wife was concerned. I knew it - and I liked it that way. "Damn it, look at her hair! Would she ruin a head of hair like that just to fool you?"
+
+«Конечно, она обожглась!» Я был идеальным суровым мужем, неразумным в отношении своей жены. Я знал это — и мне это нравилось. «Чёрт возьми, посмотри на её волосы! Неужели она испортит такую шевелюру, чтобы просто обмануть тебя?»
+
+The first cop said darkly, "One of them would."
+
+Первый полицейский мрачно сказал: «Один из них так и сделает».
+
+The more <span class='tip-wrap' data-text='patient [пЕйшэнт] {прилагательное} терпеливый'>**patient**<span class='tip-text'> </span></span> one said, "Carl is right. I'm sorry, lady; we'll have to disturb those bandages."
+
+Более терпеливый сказал: «Карл прав. Извините, леди, нам придется потревожить эти бинты».
+
+I said excitedly, "You can't do that! We're on our way to a doctor. You'll just -"
+
+Я взволнованно сказала: «Вы не можете этого сделать! Мы едем к врачу. Вы просто...»
+
+Mary said, "Help me, Sam. I can't take them off myself."
+
+Мэри сказала: «Помоги мне, Сэм. Я не могу снять их сама».
+
+I shut up and started to peel up one corner of the big dressing, my hands trembling with <span class='tip-wrap' data-text='rage [рЕйдж] {существительное} ярость'>**rage**<span class='tip-text'> </span></span>. Presently the older, more kindly one whistled and said, "I'm satisfied. How about you, Carl?"
+
+Я заткнулся и начал отдирать один угол большой повязки, мои руки дрожали от ярости. Вдруг старший, более добрый, свистнул и сказал: «Я удовлетворен. А ты, Карл?»
+
+"Me, too, Ski. Oh, lady, it looks like somebody tried to barbecue you. What happened?"
+
+«Я тоже, Ски. О, леди, похоже, кто-то пытался вас поджарить. Что случилось?»
+
+"Tell them, Sam."
+
+«Скажи им, Сэм».
+
+So I did. The older cop finally commented, "I'd say you got off easy - no offense, madam. So it's cats, now, eh? Dogs I knew about. Horses, yes. But cats - you wouldn't think the <span class='tip-wrap' data-text='ordinary [ОрдэнЕри] {прилагательное} обычный'>**ordinary**<span class='tip-text'> </span></span> cats could carry one." His face clouded. "We got a cat and now we'll have to get rid of it. My kids won't like that."
+
+Я так и сделал. Полицейский постарше наконец прокомментировал: «Я бы сказал, что вы легко отделались — без обид, мадам. Так теперь это кошки, да? Собаки, о которых я знал. Лошади, да. Но кошки — вы бы не подумали, что обычные кошки могут их вынести». Его лицо помрачнело. «У нас есть кошка, и теперь нам придется от нее избавиться. Моим детям это не понравится».
+
+"I'm sorry," Mary told him and sounded as if she meant it.
+
+«Мне жаль», — сказала ему Мэри, и это прозвучало так, словно она была искренна.
+
+"It's a bad time for everybody. Okay, folks, you can go -"
+
+«Это плохое время для всех. Ладно, ребята, вы можете идти...»
+
+"Wait a minute," the first one said. "Ski, if she goes through the streets with that thing on her back somebody is likely to shoot her."
+
+«Подожди-ка минутку», — сказал первый. «Ски, если она пойдет по улицам с этой штукой на спине, кто-нибудь наверняка ее пристрелит».
+
+The older one scratched his chin. "That's true," he said to Mary. "We'll take you in our car."
+
+Тот, что постарше, почесал подбородок. «Это правда», — сказал он Мэри. «Мы отвезем тебя на нашей машине».
+
+I went along, as far as Mary's entrance. It was in a hotel, through a private elevator; I got in with her to avoid explanations, then went back up after she had gotten out. I was tempted to go on in with her, but the Old Man had ordered me to come in by Kay Five, so Kay Five it was.
+
+Я пошел вместе с ней, пока не дошел до входа Мэри. Это было в отеле, через частный лифт; я вошел с ней, чтобы избежать объяснений, затем вернулся, когда она вышла. Я был искушен пойти с ней, но Старик приказал мне войти через Кей Пять, так что это был Кей Пять.
+
+I was tempted, too, to put my shorts back on. In the patrol car and during a quick march through a side door of the hotel, with police around us to keep Mary safe, I had not minded so much - but it took <span class='tip-wrap' data-text='nerve [нЭрв] {существительное} нерв; наглость'>**nerve**<span class='tip-text'> </span></span> to step out of the elevator and face the world without <span class='tip-wrap' data-text='pants [пЭнтс] {существительное} брюки'>**pants**<span class='tip-text'> </span></span>.
+
+Мне тоже хотелось надеть шорты. В патрульной машине и во время быстрого марша через боковую дверь отеля, когда вокруг нас была полиция, чтобы защитить Мэри, я не так уж и возражал, но мне потребовалась смелость, чтобы выйти из лифта и столкнуться с миром без штанов.
+
+The short distance I had to go was enough to show me that a fundamental custom had gone with last year's frost. I was not the only man in New Brooklyn stark naked to his shoes.
+
+Короткого расстояния, которое мне пришлось пройти, было достаточно, чтобы показать мне, что фундаментальный обычай исчез вместе с прошлогодними морозами. Я был не единственным человеком в Нью-Бруклине, который был голым до самых ботинок.
+
+One thing I did not notice consciously until much later: after the first block I was unaware of my own nakedness. I noticed other people long after I had forgotten my own bare skin. Somehow, some way, the American community had been all wrong about the modesty taboo and had been wrong for centuries.
+
+Одно я осознал гораздо позже: после первого блока я перестал осознавать свою наготу. Я замечал других людей еще долго после того, как забыл о своей собственной голой коже. Каким-то образом, каким-то образом, американское сообщество было совершенно неправо относительно табу на скромность и было неправо на протяжении столетий.
+
+Skin was skin and what of it?
+
+Кожа есть кожа, и что с того?
+
+I was let in to see the Old Man at once. He looked up and growled, "You're late."
+
+Меня сразу же впустили к Старику. Он поднял глаза и прорычал: «Ты опоздал».
+
+I answered, "Where's Mary?"
+
+Я ответил: «Где Мэри?»
+
+"In hospital, getting treated and dictating her report. Let's see your hands."
+
+«В больнице, проходит лечение и диктует отчет. Давайте посмотрим на ваши руки».
+
+"I'll show them to the doctor, thanks," I replied, making no move to take off the gloves. "What's up?"
+
+«Я покажу их доктору, спасибо», — ответил я, не делая попытки снять перчатки. «Что случилось?»
+
+"If you would ever <span class='tip-wrap' data-text='bother [бАðэр] {глагол} беспокоить'>**bother**<span class='tip-text'> </span></span> to listen to a newscast," he grumbled, "you would know what was up."
+
+«Если бы вы когда-нибудь послушали выпуск новостей, — проворчал он, — вы бы знали, что происходит».
+
+CHAPTER 24.
+
+ГЛАВА ДВАДЦАТЬ ЧЕТВЕРТАЯ
+
+While Mary and I had each been telling the other how wonderful the other one was, the war had almost been lost - and I was not sure about that "almost". My suspicion that the slugs could, if necessary, hide themselves on any part of the body and still control hosts had proved to be right. It had been proved by experiments at the National Zoo before Mary and I had holed up on the mountain, although I had not seen the report. I suppose the Old Man knew it; certainly the President knew it and the other top VIPs.
+
+Пока мы с Мэри рассказывали друг другу, насколько друг другу замечателен другой, война была почти проиграна — и я не был уверен в этом «почти». Мои подозрения, что слизни могут, если необходимо, спрятаться в любой части тела и все равно контролировать хозяев, оказались верными. Это было доказано экспериментами в Национальном зоопарке до того, как мы с Мэри затаились на горе, хотя я не видел отчета. Полагаю, Старик знал это; конечно, Президент знал это и другие высокопоставленные лица.
+
+So <span class='tip-wrap' data-text='schedule [скЕджул] {глагол} планировать'>**Schedule**<span class='tip-text'> </span></span> Sun Tan replaced <span class='tip-wrap' data-text='schedule [скЕджул] {существительное} расписание'>**Schedule**<span class='tip-text'> </span></span> Bare Back and everybody skinned down to the buff.
+
+Поэтому расписание «Sun Tan» заменило расписание «Bare Back», и все разделись догола.
+
+No, they didn't do that. The matter was still "Top Secret" and the subject of cabinet debates at the time of the Scranton Riot. Don't ask me why it was top secret, or even restricted; our government has gotten the <span class='tip-wrap' data-text='habit [хЭбэт] {существительное} привычка'>**habit**<span class='tip-text'> </span></span> of classifying anything as secret which the all-wise statesmen and bureaucrats decide we are not big enough boys and girls to know. I've read that there used to be a time when a <span class='tip-wrap' data-text='taxpayer [тЭкспЕйэр] {существительное} налогоплательщик'>**taxpayer**<span class='tip-text'> </span></span> could demand the facts on anything and get them. I don't know; it sounds Utopian.
+
+Нет, они этого не сделали. Дело все еще было «совершенно секретным» и предметом дебатов кабинета министров во время бунта в Скрантоне. Не спрашивайте меня, почему это было совершенно секретно или даже ограничено; наше правительство привыкло классифицировать как секретное все, что мудрые государственные деятели и бюрократы решили, что мы недостаточно взрослые мальчики и девочки, чтобы знать. Я читал, что было время, когда налогоплательщик мог потребовать факты о чем угодно и получить их. Я не знаю; это звучит утопично.
+
+The Scranton Riot could show anybody that the slugs were <span class='tip-wrap' data-text='loose [лУс] {прилагательное} свободный; рыхлый'>**loose**<span class='tip-text'> </span></span> in Zone <span class='tip-wrap' data-text='green [грИн] {существительное} зелень'>**Green**<span class='tip-text'> </span></span> despite <span class='tip-wrap' data-text='schedule [скЕджул] {существительное} расписание'>**Schedule**<span class='tip-text'> </span></span> Bare Back, but even that did not bring on <span class='tip-wrap' data-text='schedule [скЕджул] {существительное} расписание'>**Schedule**<span class='tip-text'> </span></span> Sun Tan. The fake air-raid alarm on the east coast took place, as I figure it, the third day of our honeymoon; there had not been any special <span class='tip-wrap' data-text='excitement [ыксАйтмэнт] {существительное} волнение'>**excitement**<span class='tip-text'> </span></span> in the village when we visited it the day before that and certainly no vigilante activity. After the false air-raid alarm it took a while to figure out what had happened, even though it was obvious that lighting could not fail by accident in so many different shelters.
+
+Scranton Riot мог показать кому угодно, что слизни были на свободе в Зоне Грин, несмотря на Расписание Bare Back, но даже это не вызвало Расписание Sun Tan. Ложная воздушная тревога на восточном побережье произошла, как я полагаю, на третий день нашего медового месяца; в деревне не было никакого особого волнения, когда мы посетили ее за день до этого, и уж точно не было никакой активности мстителей. После ложной воздушной тревоги потребовалось некоторое время, чтобы выяснить, что произошло, хотя было очевидно, что освещение не могло выйти из строя случайно в стольких разных убежищах.
+
+It's <span class='tip-wrap' data-text='horrible [хОрэбэл] {прилагательное} ужасный'>**horrible**<span class='tip-text'> </span></span> to think about it even now - all those people crouching in the darkness, waiting for the all-clear, while zombies moved among them, slapping slugs on them. Apparently in some air raid bunkers the recruitment was one hundred percent. They did not have a chance.
+
+Даже сейчас страшно об этом думать — все эти люди, скорчившиеся в темноте, ожидающие отбоя, пока зомби двигались среди них, шлепая по ним слизняков. Видимо, в некоторых бомбоубежищах набор был стопроцентным. У них не было шансов.
+
+So there were more riots the next day and we were well into the Terror, though we did not know it.
+
+Поэтому на следующий день беспорядки усилились, и мы уже вовсю погружались в террор, хотя и не знали об этом.
+
+While doctors were treating my hands I was getting data concerning the period (it turned out to be two weeks) that Mary and I had spent at the <span class='tip-wrap' data-text='cabin [кЭбэн] {существительное} хижина (кабина)'>**cabin**<span class='tip-text'> </span></span>.
+
+Пока врачи лечили мои руки, я получал данные о периоде (оказалось, две недели), который мы с Мэри провели в домике.
+
+It was hard to believe that so much had happened in so short a time. Take dogs. A Vigilante would kill a dog on sight, even though it was not wearing a slug - because it would be wearing one before next sunrise, then it would attack a man and then the titan would change riders in the dark.
+
+Трудно поверить, что так много всего произошло за столь короткое время. Возьмем собак. Виджиланте убьет собаку на месте, даже если на ней не будет слизняка, потому что он будет на ней до следующего восхода солнца, затем она нападет на человека, а затем титан сменит наездников в темноте.
+
+Apparently cats were hardly ever used because of their smaller size. Poor old Pirate was an exceptional case.
+
+Видимо, кошек почти не использовали из-за их меньшего размера. Бедный старый Пират был исключением.
+
+In Zone <span class='tip-wrap' data-text='green [грИн] {существительное} зелень'>**Green**<span class='tip-text'> </span></span> dogs were almost never seen now, at least by day. They filtered out of Zone Red at night, traveled in the dark and hid out in the daytime.
+
+В Зоне Зелёной собак теперь почти не было видно, по крайней мере днём. Они выходили из Зоны Красной ночью, путешествовали в темноте и прятались днём.
+
+I scanned tapes which had been monitored from Zone Red; they fell into three time groups: the masquerade period, when the slugs had been continuing the "normal" broadcasts; a short period of counter-propaganda during which the slugs had tried to <span class='tip-wrap' data-text='convince [кэнвЫнс] {глагол} убеждать'>**convince**<span class='tip-text'> </span></span> citizens in Zone <span class='tip-wrap' data-text='green [грИн] {существительное} зелень'>**Green**<span class='tip-text'> </span></span> that the government had gone crazy - it had not worked as we had not relayed their casts, just as they had not relayed the President's proclamation - and, finally, the current period in which pretense had been dropped, the masquerade abandoned.
+
+Я просмотрел записи, которые прослушивались из Красной зоны; они делились на три временные группы: период маскарада, когда слизняки продолжали «нормальные» трансляции; короткий период контрпропаганды, в течение которого слизняки пытались убедить граждан в Зеленой зоне, что правительство сошло с ума — это не сработало, поскольку мы не транслировали их передачи, так же как они не транслировали прокламацию президента — и, наконец, текущий период, когда притворство было прекращено, а маскарад прекращен.
+
+According to Dr. Mcllvaine the titans have no true culture of their own; they are parasitic even in that and merely adapt the culture they find to their own needs. Maybe he assumes too much, but that is what they did in Zone Red. The slugs would have to maintain the basic economic activity of their victims since the slugs themselves would starve if the hosts starved. To be sure, they continued that economy with variations that we would not use - that business of processing damaged and excess people in fertilizer plants, for example - but in general farmers stayed farmers, and bankers were still bankers. That last seems silly, but the experts claim that any "division-of- labor" economy requires an accounting system, a "money" system.
+
+По словам доктора Маклвейна, титаны не имеют собственной истинной культуры; они паразитируют даже в этом и просто адаптируют найденную культуру к своим собственным нуждам. Возможно, он слишком много предполагает, но именно это они и делали в Зоне Красной. Слизнякам пришлось бы поддерживать базовую экономическую деятельность своих жертв, поскольку сами слизни голодали бы, если бы голодали хозяева. Конечно, они продолжили эту экономику с вариациями, которые мы бы не использовали — например, этот бизнес по переработке поврежденных и избыточных людей на заводах по производству удобрений — но в целом фермеры оставались фермерами, а банкиры оставались банкирами. Последнее кажется глупым, но эксперты утверждают, что любая экономика «разделения труда» требует системы учета, «денежной» системы.
+
+There was one more thing which I saw in this and other tapes, a thing so outrageous, so damnably disgusting that I hesitate even to mention it, though I feel I must - there were men and women here and there among the slaves, humans (if you could call them that) without slugs... renegades.
+
+Была еще одна вещь, которую я увидел в этой и других записях, вещь настолько возмутительная, настолько чертовски отвратительная, что я не решаюсь даже упоминать о ней, хотя чувствую, что должен — среди рабов тут и там были мужчины и женщины, люди (если их можно так назвать) без слизней... ренегаты.
+
+I hate slugs but I would turn from killing a slug to kill one such. Our ancestors believed that there were men who would willingly sign contracts with the Devil; our ancestors were <span class='tip-wrap' data-text='partly [пАртли] {наречие} частично'>**partly**<span class='tip-text'> </span></span> right: there are men who would, given the chance.
+
+Я ненавижу слизней, но я бы отказался от убийства слизняка, чтобы убить одного из них. Наши предки верили, что есть люди, которые охотно подпишут контракты с Дьяволом; наши предки были отчасти правы: есть люди, которые подпишут, если им представится такая возможность.
+
+We were losing ground everywhere; that I knew before they finished treating my hands. Our methods were effective only in stopping the spread of the infection and not fully effective in that. To fight them directly we would have to fight our own people, bomb our own cities, with no certainty of killing the humps. What we needed was a selective weapon, one that would kill slugs but not men, or something that would disable humans or <span class='tip-wrap' data-text='render [рЕндэр] {глагол} оказывать; предоставлять'>**render**<span class='tip-text'> </span></span> unconscious without killing and <span class='tip-wrap' data-text='thereby [ðЕрбАй] {наречие} таким образом'>**thereby**<span class='tip-text'> </span></span> <span class='tip-wrap' data-text='permit [пэрмЫт] {глагол} разрешать'>**permit**<span class='tip-text'> </span></span> us to rescue our compatriots. No such weapon was available, though the scientists were all busy on the problem. It must be remembered that the slugs then had as much, or more, of the military <span class='tip-wrap' data-text='potential [пэтЕншэл] {существительное} потенциал'>**potential**<span class='tip-text'> </span></span> of the United States at their disposal as had the free men.
+
+Мы теряли позиции повсюду; это я понял еще до того, как они закончили обрабатывать мои руки. Наши методы были эффективны только в остановке распространения инфекции, и то не полностью. Чтобы бороться с ними напрямую, нам пришлось бы сражаться с собственным народом, бомбить собственные города, не имея никакой уверенности в том, что мы убьём горбов. Нам было нужно избирательное оружие, которое убивало бы слизней, но не людей, или что-то, что могло бы парализовать людей или лишить сознания, не убивая их, и тем самым позволило бы нам спасти наших соотечественников. Такого оружия не было, хотя все учёные были заняты этой проблемой. Следует помнить, что тогда слизни имели в своём распоряжении столько же или даже больше военного потенциала Соединённых Штатов, сколько и свободные люди.
+
+North America was still the only known center of infection. The only action by the United Nations, other than placing the space stations at our disposal, was to remove temporarily to Geneva. No aggression by any other nation was involved and it was even argued that the slugs - if they existed - were technically an epidemic disease rather than a potential source of war and therefore of no interest to the Security Council.
+
+Северная Америка по-прежнему была единственным известным очагом инфекции. Единственным действием Организации Объединенных Наций, помимо предоставления космических станций в наше распоряжение, было временное перемещение в Женеву. Никакой агрессии со стороны какой-либо другой страны не было, и даже утверждалось, что слизни — если они существовали — были технически эпидемическим заболеванием, а не потенциальным источником войны и, следовательно, не представляли интереса для Совета Безопасности.
+
+It remained a silent war, with battles lost before we knew they were joined. After the fiasco of <span class='tip-wrap' data-text='schedule [скЕджул] {существительное} расписание'>**Schedule**<span class='tip-text'> </span></span> Counter Blast, <span class='tip-wrap' data-text='conventional [кэнвЕншэнэл] {прилагательное} обычный'>**conventional**<span class='tip-text'> </span></span> weapons were hardly used, except in police action in Zone Amber - which was now a double no-man's-land on each side of Zone Red, from the trackless Canadian forests to the Mexican deserts. It was almost deserted in the daytime. At night our scouts drew back and the dogs came through - and other things, perhaps.
+
+Это была тихая война, в которой сражения проигрывались до того, как мы узнавали, что они вступили в бой. После фиаско Schedule Counter Blast обычное оружие почти не использовалось, за исключением полицейских действий в Зоне Эмбер, которая теперь была двойной нейтральной зоной по обе стороны от Зоны Красной, от непроходимых канадских лесов до мексиканских пустынь. Днем она была почти безлюдной. Ночью наши разведчики отступали, и собаки проходили мимо — и, возможно, что-то еще.
+
+At the time Mary and I arrived back only one atom bomb had been used in the entire war and that against a flying saucer that landed near San Francisco.
+
+К тому времени, как мы с Мэри вернулись, за всю войну была использована только одна атомная бомба, и та была направлена против летающей тарелки, приземлившейся недалеко от Сан-Франциско.
+
+The country was undergoing a Terror. Friend might shoot friend, or wife denounce husband. To knock on a door at night was to invite a blast through the door rather than a friendly response. <span class='tip-wrap' data-text='honest [Анэст] {прилагательное} честный'>**Honest**<span class='tip-text'> </span></span> folk stayed home; at night the dogs were out - and others.
+
+Страна переживала Террор. Друг мог застрелить друга, а жена донести на мужа. Постучаться в дверь ночью означало вызвать взрыв через дверь, а не дружеский ответ. Честные люди оставались дома; ночью собаки выходили на улицу — и другие.
+
+I was back in reality. The nurse told me to flex the fingers of my right hand.
+
+Я вернулся в реальность. Медсестра сказала мне согнуть пальцы правой руки.
+
+I flexed them, while she helped the doctor spray on surrogate skin. I noticed that she was taking no chances; she wore no bra at all and her so-to-speak shorts were actually more of a G-string. The doctor was dressed about the same. "Wear gloves for rough work," the doctor cautioned, "and come back next week."
+
+Я сгибала их, пока она помогала врачу распылять суррогатную кожу. Я заметила, что она не рисковала; она вообще не носила бюстгальтер, а ее так называемые шорты на самом деле были скорее стрингами. Врач была одета примерно так же. «Надевайте перчатки для грубой работы», — предупредила врач, — «и приходите на следующей неделе».
+
+I thanked them and went to the operations office. I looked for Mary first, but found that she was busy in Cosmetics.
+
+Я поблагодарил их и пошел в операционный офис. Сначала я поискал Мэри, но обнаружил, что она занята в косметическом отделе.
+
+CHAPTER 25.
+
+ГЛАВА ДВАДЦАТЬ ПЯТАЯ
+
+"Hands all right?" the Old Man asked when they let me in.
+
+«С руками все в порядке?» — спросил Старик, когда меня впустили.
+
+"They'll do. False skin for a week. They are going to do an implant job on my ear tomorrow."
+
+«Они подойдут. Искусственная кожа на неделю. Завтра они собираются сделать мне имплант в ухо».
+
+He looked upset. "I forgot your ear. There's no time for an implant to heal; Cosmetics will have to fake one for you."
+
+Он выглядел расстроенным. «Я забыл про твое ухо. Имплантату некогда заживать; косметическим специалистам придется его подделать».
+
+"The ear doesn't matter," I told him, "but why <span class='tip-wrap' data-text='bother [бАðэр] {глагол} беспокоить'>**bother**<span class='tip-text'> </span></span> to fake it? Impersonation job?"
+
+«Ухо не имеет значения, — сказал я ему, — но зачем беспокоиться о его подделке? Работа по подражанию?»
+
+"Not exactly. Now that you've been briefed, what do you think of the situation?"
+
+«Не совсем. Теперь, когда вас проинформировали, что вы думаете о ситуации?»
+
+"Not good," I said. "Everybody watching everybody else," I added.
+
+«Нехорошо», — сказал я. «Все смотрят друг на друга», — добавил я.
+
+"We need to know if there is infection anywhere but in this continent. The titans in Zone Red must know about it. Why don't you go there to find out?"
+
+«Нам нужно знать, есть ли инфекция где-либо, кроме этого континента. Титаны в Зоне Красной должны знать об этом. Почему бы вам не отправиться туда и не выяснить это?»
+
+"How in the devil can Zone Red be penetrated now?" I asked. "Do I wear a plastic imitation slug on my shoulder blades? They'd catch me the first time I was called on for direct conference. Or before."
+
+«Как, черт возьми, теперь можно проникнуть в Зону Красную?» — спросил я. «Мне что, носить пластиковую имитацию пули на лопатках? Они поймают меня в первый же раз, когда меня вызовут на прямую конференцию. Или раньше».
+
+"Don't be pessimistic. The trick is to <span class='tip-wrap' data-text='convince [кэнвЫнс] {глагол} убеждать'>**convince**<span class='tip-text'> </span></span> them that you are a renegade. Got any ideas?"
+
+«Не будьте пессимистом. Главное — убедить их, что вы ренегат. Есть какие-нибудь идеи?»
+
+The idea was <span class='tip-wrap' data-text='overwhelming [OувэруЕлмыŋ] {прилагательное} подавляющий; ошеломляющий'>**overwhelming**<span class='tip-text'> </span></span>, so much so that I did not answer at once.
+
+Эта идея была настолько ошеломляющей, что я не сразу ответил.
+
+"You've had more experience with their ways than any agent I've got," he went on. "You had a good rest, <span class='tip-wrap' data-text='aside [эсАйд] {наречие} в сторону'>**aside**<span class='tip-text'> </span></span> from that little burn you got on your fingers. Or maybe we should drop you near Moscow and let you take a direct look. Think it over."
+
+"У тебя больше опыта в их методах, чем у любого агента, который у меня есть", - продолжил он. "Ты хорошо отдохнул, если не считать того маленького ожога на пальцах. Или, может быть, нам стоит высадить тебя недалеко от Москвы и дать тебе возможность взглянуть на них напрямую. Подумай об этом".
+
+"Thanks. Thank you too much." I changed the subject. "What have you got planned for Mary?"
+
+«Спасибо. Большое спасибо». Я сменил тему. «Что ты запланировал для Мэри?»
+
+"Why don't you stick to your own business?"
+
+«Почему бы вам не заняться своим делом?»
+
+"I'm married to her."
+
+«Я женат на ней».
+
+"Yes."
+
+"Да."
+
+"Is that all you've got to say? Don't you even want to wish me <span class='tip-wrap' data-text='luck [лАк] {существительное} удача'>**luck**<span class='tip-text'> </span></span>?"
+
+«И это все, что ты можешь сказать? Ты даже не хочешь пожелать мне удачи?»
+
+"It strikes me," he said slowly, "that you have had all the <span class='tip-wrap' data-text='luck [лАк] {существительное} удача'>**luck**<span class='tip-text'> </span></span> one man could ask for. You have my blessing, for whatever it's worth."
+
+«Мне кажется», — медленно произнес он, — «что вам досталась вся удача, о которой только может мечтать человек. Вы получили мое благословение, чего бы оно ни стоило».
+
+"Oh. Well, thanks." I am slow in some ways, but I <span class='tip-wrap' data-text='plead [плИд] {глагол} выступать в суде'>**plead**<span class='tip-text'> </span></span> the <span class='tip-wrap' data-text='excuse [ыкскйУс] {существительное} оправдание; извинение'>**excuse**<span class='tip-text'> </span></span> that I had had much on my mind - up to that moment it had not occurred to me that the Old Man had planned Mary's leave and <span class='tip-wrap' data-text='mine [мАйн] {существительное} шахта'>**mine**<span class='tip-text'> </span></span> falling together so conveniently. I said, "Look here. Dad -"
+
+"О. Ну, спасибо". Я медлителен в некоторых отношениях, но я оправдываюсь тем, что у меня было много мыслей - до этого момента мне не приходило в голову, что Старик спланировал, чтобы мой и Мэри-отпуск совпали так удачно. Я сказал: "Послушайте. Папа..."
+
+"Huh?" It was the second time I had called him that in a month.
+
+«А?» Это был второй раз за месяц, когда я его так назвал.
+
+"You meant for Mary and me to marry all along. You planned it that way."
+
+«Ты с самого начала хотел, чтобы мы с Мэри поженились. Ты так все и планировал».
+
+"Eh? Don't be ridiculous. I believe in free will, son - and free choices."
+
+«А? Не смеши меня. Я верю в свободу воли, сынок, и в свободный выбор».
+
+"Provided the choice suits you."
+
+«При условии, что выбор вас устроит».
+
+"I don't know what you are talking about. You both were entitled to leave; the rest was accidental."
+
+«Я не понимаю, о чем вы говорите. Вы оба имели право уйти; остальное было случайностью».
+
+"Hmm! Accidents don't happen; not around you. Never <span class='tip-wrap' data-text='mind [мАйнд] {глагол} возражать; прислушиваться; присматривать'>**mind**<span class='tip-text'> </span></span>; I'm a willing victim. Now about the job; give me a bit longer to size up the possibilities, if you really mean to let me pick my own method. Meantime, I'll see Cosmetics about a rubber ear."
+
+«Хм! Несчастных случаев не бывает, по крайней мере, рядом с тобой. Неважно, я добровольная жертва. Теперь о работе; дай мне немного времени, чтобы оценить возможности, если ты действительно хочешь позволить мне выбрать свой собственный метод. А пока я пойду в «Косметику» по поводу резинового уха».
+
+I did not see a man about an ear, not then, for, as I was heading into Cosmetics, I met Mary coming out. I was caught off guard. "Darling! They fixed you!"
+
+Я не видела мужчину поблизости, по крайней мере, тогда, потому что, когда я направлялась в Cosmetics, я встретила Мэри, выходящую оттуда. Я была застигнута врасплох. «Дорогая! Они тебя починили!»
+
+She turned slowly around and let me look. "Good job, isn't it?"
+
+Она медленно повернулась и позволила мне посмотреть. «Хорошая работа, не правда ли?»
+
+It was a good job. I could not tell that her hair had ever been burned. Besides that, they had done a make-up job on her shoulders over the temporary skin that was quite convincing, but I had expected that.
+
+Это была хорошая работа. Я не мог сказать, что ее волосы когда-либо были сожжены. Кроме того, они сделали макияж на ее плечах поверх временной кожи, который был довольно убедительным, но я этого и ожидал.
+
+We went to the staff lounge and found a quiet place to talk. We did not order drinks; we did not seem to need such. We talked over the situation and found that each had been informed. I did not tell Mary about my proposed <span class='tip-wrap' data-text='assignment [эсАйнмэнт] {существительное} назначение; задание'>**assignment**<span class='tip-text'> </span></span>, and, if she had one, she did not mention it.
+
+Мы пошли в комнату отдыха для персонала и нашли тихое место для разговора. Мы не заказывали напитки; похоже, они нам не нужны. Мы обсудили ситуацию и обнаружили, что каждый из нас был проинформирован. Я не рассказал Мэри о своем предложенном задании, и, если оно у нее и было, она о нем не упомянула.
+
+"Mary," I said suddenly, "are you pregnant?"
+
+«Мэри, — внезапно спросил я, — ты беременна?»
+
+"It's too early to tell, dear," she answered, searching my eyes.
+
+«Пока рано говорить, дорогой», — ответила она, глядя мне в глаза.
+
+"Do you want me to be?"
+
+«Ты хочешь, чтобы я был таким?»
+
+"Yes."
+
+"Да."
+
+"Then I'll try very hard to be."
+
+«Тогда я буду очень стараться».
+
+CHAPTER 26.
+
+ГЛАВА ДВАДЦАТЬ ШЕСТАЯ
+
+We finally decided to attempt to penetrate the <span class='tip-wrap' data-text='curtain [кЭртэн] {существительное} занавес; штора'>**Curtain**<span class='tip-text'> </span></span> rather than Zone Red. The <span class='tip-wrap' data-text='evaluation [ывЭлйуЕйшэн] {существительное} оценка'>**evaluation**<span class='tip-text'> </span></span> group had advised that there was no chance of imitating a renegade.
+
+Мы наконец решили попытаться проникнуть за занавес, а не в красную зону. Оценочная группа сообщила, что нет никаких шансов имитировать ренегата.
+
+So I got ready to go. I took under light hypnosis a refresher in the languages I would need. I was provided with a <span class='tip-wrap' data-text='personality [пЭрсэнЭлыти] {существительное} личность'>**personality**<span class='tip-text'> </span></span> and coached in a trade which would <span class='tip-wrap' data-text='permit [пэрмЫт] {глагол} разрешать'>**permit**<span class='tip-text'> </span></span> me to travel, repairman for irrigating pumps - and given much money. If I failed to report back, other agents would follow.
+
+Итак, я приготовился идти. Я прошел легкий гипноз, чтобы освежить в памяти языки, которые мне понадобятся. Мне дали личность и обучили профессии, которая позволит мне путешествовать, ремонтник ирригационных насосов, и дали много денег. Если я не смогу отчитаться, за мной последуют другие агенты.
+
+The only trouble was that I never had a chance to use these preparations; the <span class='tip-wrap' data-text='pass [пЭс] {существительное} пропуск; пас; проход'>**Pass**<span class='tip-text'> </span></span> Christian saucer landed.
+
+Единственная проблема заключалась в том, что мне так и не удалось воспользоваться этими препаратами: летающая тарелка Пасс Кристиан приземлилась.
+
+It was tracked by Space Station Alpha - and recorded as an extremely large meteorite because it was too fast to be identified as a saucer.
+
+Его отследила космическая станция «Альфа» и зарегистрировала как чрезвычайно большой метеорит, поскольку он летел слишком быстро, чтобы его можно было идентифицировать как тарелку.
+
+But the <span class='tip-wrap' data-text='pass [пЭс] {существительное} пропуск; пас; проход'>**Pass**<span class='tip-text'> </span></span> Christian saucer was seen to land. The submersible cruiser Robert Fulton on routine patrol of Zone Red out of Mobile was ten miles off Gulfport when the saucer decelerated and landed. The spaceship popped up on the screens of the cruiser as it dropped from <span class='tip-wrap' data-text='outer [Аутэр] {прилагательное} внешний'>**outer**<span class='tip-text'> </span></span>-space speed to a speed the cruiser's radars would accept.
+
+Но тарелка Pass Christian была замечена приземлившейся. Подводный крейсер Robert Fulton, совершавший обычное патрулирование Зоны Red из Мобила, находился в десяти милях от Галфпорта, когда тарелка замедлилась и приземлилась. Космический корабль появился на экранах крейсера, когда он снизился со скорости открытого космоса до скорости, которую могли принять радары крейсера.
+
+It came out of nothing, slowed to zero, and disappeared from the screen - but the operator had a fix on the last blip, less than twenty miles away on the Mississippi coast. The cruiser's skipper swung his ship over and took a look.
+
+Он появился из ничего, замедлился до нуля и исчез с экрана, но оператор зафиксировал последний сигнал, менее чем в двадцати милях от побережья Миссисипи. Капитан крейсера развернул свой корабль и взглянул.
+
+His first dispatch read: SPACESHIP LANDED BEACH WEST OF <span class='tip-wrap' data-text='pass [пЭс] {существительное} пропуск; пас; проход'>**PASS**<span class='tip-text'> </span></span> CHRISTIAN MISSISSIPPI. His second was: LANDING FORCE BEACHING TO CAPTURE.
+
+Его первая депеша гласила: КОСМИЧЕСКИЙ КОРАБЛЬ ПРИЗЕМЛИЛСЯ НА БЕРЕГ К ЗАПАДУ ОТ ПАСС-КРИСТИАН, МИССИСИПИ. Вторая депеша гласила: ДЕСАНТ ВЫСАДИТСЯ НА БЕРЕГ ДЛЯ ЗАХВАТА.
+
+My phone shrilled. The Old Man said, "Come at once. Move!"
+
+Мой телефон запищал. Старик сказал: «Иди скорее. Двигайся!»
+
+It was the same party we had started with so many weeks before, the Old Man, Mary, and myself. We were in the air and heading south, before the Old Man told us why.
+
+Это была та же самая вечеринка, с которой мы начинали так много недель назад, Старик, Мэри и я. Мы были в воздухе и направлялись на юг, прежде чем Старик сказал нам, почему.
+
+When he told us, I said, "Why the family group? You need a full-scale air task force."
+
+Когда он нам рассказал, я сказал: «Почему именно семейная группа? Вам нужна полномасштабная авиационная оперативная группа».
+
+"It will be there," he answered grimly. Then he grinned. "What do you care?" he said. "The 'Cavanaughs' are riding again. Eh, Mary?"
+
+«Там будет», — мрачно ответил он. Затем он ухмыльнулся. «Какое тебе дело?» — сказал он. ««Кавано» снова едут. А, Мэри?»
+
+I snorted. "If you want that sister-and-brother <span class='tip-wrap' data-text='routine [рутИн] {существительное} рутина'>**routine**<span class='tip-text'> </span></span>, you had better get another boy."
+
+Я фыркнул. «Если ты хочешь, чтобы у тебя были отношения сестры и брата, тебе лучше завести другого мальчика».
+
+"Just the part where you protect her from dogs and strange men," he answered seriously. "And I really mean dogs and I really mean strange men, very strange men."
+
+«Только та часть, где ты защищаешь ее от собак и незнакомых мужчин», — серьезно ответил он. «И я действительно имею в виду собак, и я действительно имею в виду незнакомых мужчин, очень незнакомых мужчин».
+
+I started to ask him more but he went into the operator's compartment, closed the panel, and got busy at the communicator.
+
+Я начал расспрашивать его подробнее, но он зашёл в кабину оператора, закрыл панель и занялся коммуникатором.
+
+CHAPTER 27.
+
+ГЛАВА ДВАДЦАТЬ СЕДЬМАЯ
+
+The car, as soon as I roaded it, was surrounded by a landing force group commanded by a pink-cheeked lad. He refused to let us approach the saucer until he had checked with his tactical commander - who in turn consulted the skipper of the Fulton. We got an answer back in a short time.
+
+Машину, как только я въехал, окружила группа десанта под командованием розовощекого парня. Он отказался позволить нам приблизиться к тарелке, пока не проконсультируется со своим тактическим командиром, который, в свою очередь, проконсультировался со шкипером «Фултона». Мы получили ответ в скором времени.
+
+While waiting I watched the battle and, from what I saw, was well pleased to have no part of it. Somebody was going to get hurt - a good many had already. There was a male body, stark naked, just behind the car - a boy not more than fourteen. Across his shoulders was the mark of the beast, though the slug was <span class='tip-wrap' data-text='nowhere [нOууЕр] {наречие} нигде'>**nowhere**<span class='tip-text'> </span></span> around. I wondered whether the slug had crawled away and was dying, or whether, perhaps, it had managed to <span class='tip-wrap' data-text='transfer [трэнсфЭр] {глагол} передавать'>**transfer**<span class='tip-text'> </span></span> to the person who had killed the boy.
+
+Ожидая, я наблюдал за битвой и, судя по тому, что я увидел, был очень рад, что не принимал в ней участия. Кто-то должен был пострадать — многие уже пострадали. Прямо за машиной лежало мужское тело, совершенно голое — мальчик не старше четырнадцати лет. На его плечах была отметина зверя, хотя слизняка поблизости не было. Я задавался вопросом, уполз ли слизень и умирал, или, возможно, ему удалось перейти на того, кто убил мальчика.
+
+Mary had walked west on the highway with the young naval officer while I was examining the corpse. The notion of a slug, possibly still alive, caused me to <span class='tip-wrap' data-text='hurry [хЭри] {глагол} торопить(ся)'>**hurry**<span class='tip-text'> </span></span> to her. "Get back into the car," I said.
+
+Мэри шла на запад по шоссе с молодым морским офицером, пока я осматривал труп. Мысль о слизне, возможно, еще живом, заставила меня поспешить к ней. «Возвращайся в машину», — сказал я.
+
+"Yes, Sam." She turned and did so.
+
+«Да, Сэм», — она повернулась и сделала это.
+
+The Old Man was missing; I did not like it.
+
+Старика не было; мне это не понравилось.
+
+Although the ground fighting had moved away from the site, the air fighting was all around and above us. I was trying to figure out who was what and how they could tell, when a big transport appeared, and spilled a platoon of sky boys. Again I wondered; it was too far away to tell whether they wore slugs or not.
+
+Хотя наземные бои отошли от места, воздушные бои были вокруг и над нами. Я пытался понять, кто есть что и как они могли это определить, когда появился большой транспорт и высыпал взвод небесных парней. Я снова задался вопросом; было слишком далеко, чтобы сказать, носили ли они слаги или нет.
+
+I spotted the Old Man, talking with the commander of the landing force. I went up and interrupted. "We ought to get out of here, boss. This place is <span class='tip-wrap' data-text='due [дУ] {прилагательное} надлежащий'>**due**<span class='tip-text'> </span></span> to be atom-bombed about ten minutes ago."
+
+Я заметил Старика, разговаривающего с командиром десанта. Я подошел и прервал его. «Нам пора убираться отсюда, босс. Это место должны были сбросить атомную бомбу минут десять назад».
+
+The commander answered me. "Relax," he said, "the concentration does not merit A-bombing, not even a pony bomb."
+
+Командир ответил мне. «Расслабьтесь, — сказал он, — эта концентрация не заслуживает атомной бомбардировки, даже пони-бомбы».
+
+I was just about to ask him <span class='tip-wrap' data-text='sharply [шАрпли] {наречие} резко'>**sharply**<span class='tip-text'> </span></span> how he knew that the slugs would figure it that way, when the Old Man interrupted. "He's right, son." He took me by the arm and walked me back toward the car. "He's perfectly right, but for the wrong reasons."
+
+Я как раз собирался резко спросить его, откуда он знал, что слизняки так поймут, когда Старик прервал меня. «Он прав, сынок». Он взял меня за руку и повел обратно к машине. «Он совершенно прав, но по неправильным причинам».
+
+"Huh?"
+
+"Хм?"
+
+"Why haven't we bombed the cities they hold? They won't bomb this area, not while that ship is intact. They don't want to <span class='tip-wrap' data-text='damage [дЭмэдж] {глагол} повредить'>**damage**<span class='tip-text'> </span></span> it; they want it back. Now go on back to Mary. Dogs and strange men - remember?"
+
+«Почему мы не бомбим города, которые они удерживают? Они не будут бомбить этот район, пока этот корабль цел. Они не хотят его повредить; они хотят вернуть его обратно. Теперь возвращайтесь к Мэри. Собаки и странные люди — помните?»
+
+We had just reached the car and spoken to Mary when the young naval officer came up. He halted, caught his breath, and saluted the Old Man. "The commander says that you are to have anything you want, sir - anything at all!"
+
+Мы только что добрались до машины и поговорили с Мэри, когда подошел молодой морской офицер. Он остановился, перевел дух и отдал честь Старику. «Командир говорит, что вы можете получить все, что захотите, сэр, — все, что угодно!»
+
+"Thank you, sir," the Old Man said mildly. "We merely want to inspect the captured ship."
+
+«Благодарю вас, сэр», — кротко сказал Старик. «Мы просто хотим осмотреть захваченный корабль».
+
+"Yes, sir. Come with me, sir." He came with us.
+
+«Да, сэр. Пойдемте со мной, сэр». Он пошел с нами.
+
+We got out of there fast and onto the titan ship - which did not make me less nervous, but more. Not that there was anything frightening in the ship itself, not in its appearance.
+
+Мы быстро выбрались оттуда и попали на титановый корабль - что не сделало меня менее нервным, а наоборот, более. Не то чтобы в самом корабле было что-то пугающее, не в его внешнем виде.
+
+But its appearance wasn't right. While it was obviously artificial, it was clear that it was not made by men. Why? I don't know. The surface of it was dull mirror, not a mark on it - not any sort of a mark; there was no way to tell how it had been put together.
+
+Но его внешний вид был не таким. Хотя он был явно искусственным, было ясно, что он не был сделан людьми. Почему? Я не знаю. Поверхность его была тусклым зеркалом, на нем не было ни отметины — ни какой-либо отметины; не было никакого способа сказать, как он был собран.
+
+I could not tell of what it was made. Metal? Of course, it had to be metal. But was it? You would expect it to be either bitterly cold - or possibly intensely hot from its landing. I touched it and it was not anything at all, neither cold nor hot.
+
+Я не мог сказать, из чего он сделан. Металл? Конечно, он должен был быть металлическим. Но был ли он металлическим? Можно было бы ожидать, что он будет либо очень холодным, либо, возможно, очень горячим после приземления. Я коснулся его, и он вообще не был ничем, ни холодным, ни горячим.
+
+We went up to the air lock, if that is what it was. The edge was damaged by the armor of the <span class='tip-wrap' data-text='tank [тЭŋк] {существительное} бак'>**tank**<span class='tip-text'> </span></span> sent from the Fulton. All the men who were in the <span class='tip-wrap' data-text='tank [тЭŋк] {существительное} бак'>**tank**<span class='tip-text'> </span></span> died.
+
+Мы поднялись к шлюзу, если это был шлюз. Край был поврежден броней танка, отправленного с Фултона. Все люди, которые были в танке, погибли.
+
+The Old Man turned to me. "Wait here with Mary."
+
+Старик повернулся ко мне. «Подожди здесь с Мэри».
+
+"You're not going in there by yourself?"
+
+«Ты не пойдешь туда один?»
+
+"Yes. There may be very little time."
+
+«Да. Времени может быть очень мало».
+
+The kid spoke up. "I'm to stay with you, sir. That's what the commander said."
+
+Парень заговорил. «Я останусь с вами, сэр. Так сказал командир».
+
+"Very well, sir," the Old Man agreed. "Come along." He peered over the edge, then knelt and lowered himself by his hands. The kid followed him. They disappeared into the hole.
+
+«Очень хорошо, сэр», — согласился Старик. «Пойдем». Он заглянул за край, затем опустился на колени и опустился на руки. Малыш последовал за ним. Они исчезли в яме.
+
+I don't know how long it was before they stuck their heads over the rim. "Come on," the Old Man said to us, "it's safe - I think."
+
+Я не знаю, сколько времени прошло, прежде чем они высунули головы за край. «Идемте», — сказал нам Старик, — «это безопасно — я думаю».
+
+"The hell it is," I told him, but I went because Mary was already starting. The Old Man helped her down.
+
+«Чёрт возьми», — сказал я ему, но пошёл, потому что Мэри уже собиралась. Старик помог ей спуститься.
+
+We found ourselves in a very small <span class='tip-wrap' data-text='chamber [чЕймбэр] {существительное} камера; палата'>**chamber**<span class='tip-text'> </span></span> and from there we crawled through a <span class='tip-wrap' data-text='tube [тУб] {существительное} труба'>**tube**<span class='tip-text'> </span></span> about four feet thick, a <span class='tip-wrap' data-text='tube [тУб] {существительное} труба'>**tube**<span class='tip-text'> </span></span> which seemed to <span class='tip-wrap' data-text='wind [уАйнд] {глагол} наматывать'>**wind**<span class='tip-text'> </span></span> down into the ship and which glowed from all its surface with a reddish light.
+
+Мы оказались в очень маленькой камере, а оттуда проползли по трубе толщиной около четырех футов, которая, казалось, спускалась вниз к кораблю и светилась по всей своей поверхности красноватым светом.
+
+The <span class='tip-wrap' data-text='tube [тУб] {существительное} труба'>**tube**<span class='tip-text'> </span></span> held an odd and <span class='tip-wrap' data-text='somewhat [сАмуАт] {наречие} немного'>**somewhat**<span class='tip-text'> </span></span> distressing odor, as if of marsh gas, and mixed with it faintly was the smell of dead slugs.
+
+В трубке стоял странный и несколько неприятный запах, словно от болотного газа, к которому примешивался слабый запах мертвых слизней.
+
+The <span class='tip-wrap' data-text='tube [тУб] {существительное} труба'>**tube**<span class='tip-text'> </span></span> branched like an artery and there we came across our first Titanian androgyne. He - let me call it "he" - was sprawled on his back, like a child sleeping, with his head pillowed on his slug. At first I did not realize that he was dead.
+
+Трубка разветвлялась, как артерия, и там мы наткнулись на нашего первого титанианского андрогинного существа. Он — позвольте мне называть его «он» — лежал на спине, как спящий ребенок, положив голову на слизняк. Сначала я не понял, что он мертв.
+
+At first sight the similarities between the Titanian people and ourselves are more noticeable than the differences. They have four limbs and a head-like protuberance. The general effect is pleasing, not frightening, and faintly human. Mentally I called him elf.
+
+На первый взгляд сходства между титанианцами и нами более заметны, чем различия. У них четыре конечности и выступ, похожий на голову. Общий эффект приятный, не пугающий и слегка человеческий. Мысленно я назвал его эльфом.
+
+When I saw the little fellow I managed to draw my gun. The Old Man, anticipating my reaction, turned and said, "Take it easy. It's dead - they are all dead, suffocated in <span class='tip-wrap' data-text='oxygen [Аксэджэн] {существительное} кислород'>**oxygen**<span class='tip-text'> </span></span> when the <span class='tip-wrap' data-text='tank [тЭŋк] {существительное} бак'>**tank**<span class='tip-text'> </span></span> ruined their air seal."
+
+Когда я увидел этого малыша, я успел вытащить пистолет. Старик, предвидя мою реакцию, повернулся и сказал: «Успокойся. Он мертв — они все мертвы, задохнулись кислородом, когда баллон разрушил их герметичность».
+
+I still had my gun out. "I want to burn the slug," I insisted. "It may still be alive."
+
+Я все еще держал пистолет наготове. «Я хочу сжечь пулю», — настаивал я. «Она может быть еще жива».
+
+He shrugged. "Suit yourself. It can't possibly hurt you."
+
+Он пожал плечами. «Как хочешь. Тебе это не повредит».
+
+"Why not?"
+
+"Почему нет?"
+
+"Wrong chemistry. That slug can't live on an <span class='tip-wrap' data-text='oxygen [Аксэджэн] {существительное} кислород'>**oxygen**<span class='tip-text'> </span></span> breather." He crawled across the little body. Mary was breathing in <span class='tip-wrap' data-text='sharp [шАрп] {прилагательное} резкий; острый'>**sharp**<span class='tip-text'> </span></span> little sobbing gasps. The Old Man stopped and said patiently, "Coming, Mary?"
+
+«Неправильная химия. Этот слизняк не может жить на кислородном дыхании». Он пополз по маленькому телу. Мэри дышала резкими короткими всхлипывающими вздохами. Старик остановился и терпеливо спросил: «Идешь, Мэри?»
+
+She choked and then gasped, "Let's go back! Let's get out of here!"
+
+Она задохнулась, а затем выдохнула: «Давайте вернемся! Давайте убираться отсюда!»
+
+I said, "She's right. This is no job for three people; this is something for a research team and <span class='tip-wrap' data-text='proper [прАпэр] {прилагательное} правильный'>**proper**<span class='tip-text'> </span></span> equipment."
+
+Я сказал: «Она права. Это не работа для троих; это дело для исследовательской группы и соответствующего оборудования».
+
+He paid no attention to me. "It has to be done, Mary. You know that. And you have to be the one to do it."
+
+Он не обратил на меня никакого внимания. «Это должно быть сделано, Мэри. Ты знаешь это. И ты должна быть той, кто это сделает».
+
+"Why does she have to do it?" I demanded angrily.
+
+«Зачем ей это делать?» — сердито потребовал я.
+
+Again he ignored me. "Well, Mary?"
+
+Он снова проигнорировал меня. «Ну что, Мэри?»
+
+From somewhere inside herself she called on reserves. Her breathing became normal, her features relaxed, and she crawled across the slug-ridden body. I followed them, trying not to touch the body.
+
+Откуда-то изнутри себя она призвала резервы. Дыхание ее стало нормальным, черты лица расслабились, и она поползла по изрешеченному слизняками телу. Я последовал за ними, стараясь не касаться тела.
+
+We came at last to a large <span class='tip-wrap' data-text='chamber [чЕймбэр] {существительное} камера; палата'>**chamber**<span class='tip-text'> </span></span>. Maybe it was the control room, for there were many of the dead little elfin creatures in it, though I saw nothing resembling instruments or machinery.
+
+Наконец мы пришли в большую комнату. Возможно, это была комната управления, потому что в ней было много мертвых маленьких эльфийских существ, хотя я не увидел ничего похожего на инструменты или машины.
+
+The Old Man paid no attention but crawled on through and into another ruddy-glowing <span class='tip-wrap' data-text='tube [тУб] {существительное} труба'>**tube**<span class='tip-text'> </span></span>. We followed him to a place where it widened out to ten feet or more with a "ceiling" overhead almost tall enough to let us stand erect. But that was not what caught our eyes; the walls were now transparent.
+
+Старик не обратил на это внимания, но прополз дальше и вошел в другую красновато-светящуюся трубу. Мы последовали за ним до места, где она расширялась до десяти футов или больше с "потолком" над головой, почти достаточно высоким, чтобы позволить нам стоять прямо. Но не это привлекло наше внимание; стены теперь были прозрачными.
+
+On each side of us, beyond transparent membranes, were thousands of slugs floating in some <span class='tip-wrap' data-text='fluid [флУэд] {существительное} жидкость'>**fluid**<span class='tip-text'> </span></span> which sustained them. Each <span class='tip-wrap' data-text='tank [тЭŋк] {существительное} бак'>**tank**<span class='tip-text'> </span></span> had an <span class='tip-wrap' data-text='inner [Ынэр] {прилагательное} внутренний'>**inner**<span class='tip-text'> </span></span> diffuse light of its own.
+
+По обе стороны от нас, за прозрачными мембранами, были тысячи слизней, плавающих в какой-то жидкости, которая их поддерживала. У каждого резервуара был свой внутренний рассеянный свет.
+
+I still had my gun out. "Don't yield to temptation," the Old Man warned me. "You don't want to let that <span class='tip-wrap' data-text='loose [лУс] {прилагательное} свободный; рыхлый'>**loose**<span class='tip-text'> </span></span> in here. Those are for us."
+
+Я все еще держал пистолет наготове. «Не поддавайся искушению», — предупредил меня Старик. «Тебе не стоит выпускать это здесь. Это для нас».
+
+Mary looked at them with a face too calm. Thinking back, I doubt that she was fully <span class='tip-wrap' data-text='conscious [кАншэс] {прилагательное} сознательный'>**conscious**<span class='tip-text'> </span></span> in the <span class='tip-wrap' data-text='ordinary [ОрдэнЕри] {прилагательное} обычный'>**ordinary**<span class='tip-text'> </span></span> sense. I looked at her, glanced back at the walls of that aquarium, and said, "Let's get out of here if we can - then just bomb it out of <span class='tip-wrap' data-text='existence [егзЫстэнс] {существительное} существование'>**existence**<span class='tip-text'> </span></span>."
+
+Мэри посмотрела на них с лицом, слишком спокойным. Оглядываясь назад, я сомневаюсь, что она была в полном сознании в обычном смысле. Я посмотрел на нее, оглянулся на стены этого аквариума и сказал: «Давайте выберемся отсюда, если сможем, а потом просто разбомбим его дотла».
+
+"No," he said quietly, "there is more. Come." The <span class='tip-wrap' data-text='tube [тУб] {существительное} труба'>**tube**<span class='tip-text'> </span></span> narrowed in again, then enlarged and we were again in a <span class='tip-wrap' data-text='somewhat [сАмуАт] {наречие} немного'>**somewhat**<span class='tip-text'> </span></span> smaller <span class='tip-wrap' data-text='chamber [чЕймбэр] {существительное} камера; палата'>**chamber**<span class='tip-text'> </span></span> like that of the slugs. Again there were transparent walls and again there were things floating beyond them.
+
+«Нет», — тихо сказал он, — «есть еще. Пойдем». Трубка снова сузилась, затем расширилась, и мы снова оказались в несколько меньшей камере, похожей на камеру слизней. Снова были прозрачные стены, и снова за ними плавали какие-то вещи.
+
+I had to look twice before I could fully see and believe what I saw.
+
+Мне пришлось посмотреть дважды, прежде чем я смог полностью увидеть и поверить в то, что я увидел.
+
+Floating just beyond the wall, face down, was the body of a man - a human. Earth-born man - about forty to fifty years old. He was almost bald. His arms were curved across his chest and his knees were drawn up, as if he were sleeping safe in bed - or in the womb.
+
+Прямо за стеной, лицом вниз, плыло тело мужчины — человека. Рожденного на Земле человека — лет сорока-пятидесяти. Он был почти лысым. Его руки были согнуты на груди, а колени подтянуты, как будто он спал в безопасности в постели — или в утробе матери.
+
+I watched him, thinking terrible thoughts. He was not alone; there were more beyond him, male and female, young and old - but he was the only one I could see <span class='tip-wrap' data-text='properly [прАпэрли] {наречие} правильно'>**properly**<span class='tip-text'> </span></span> and he got my attention. I was sure that he was dead; it did not occur to me to think otherwise - then I saw his mouth working - and then I wished he were dead.
+
+Я наблюдал за ним, думая о чем-то ужасном. Он был не один; за ним было еще больше, мужчины и женщины, молодые и старые, но он был единственным, кого я мог как следует разглядеть, и он привлек мое внимание. Я был уверен, что он мертв; мне и в голову не приходило думать иначе, а потом я увидел, как шевелится его рот, и тогда я пожелал, чтобы он умер.
+
+Mary was wandering around in that <span class='tip-wrap' data-text='chamber [чЕймбэр] {существительное} камера; палата'>**chamber**<span class='tip-text'> </span></span> as if she were <span class='tip-wrap' data-text='drunk [дрАŋк] {прилагательное} пьяный'>**drunk**<span class='tip-text'> </span></span> - no, not <span class='tip-wrap' data-text='drunk [дрАŋк] {прилагательное} пьяный'>**drunk**<span class='tip-text'> </span></span> but preoccupied and dazed. She went from one transparent wall to the other, peering intently into the crowded, half-seen depths. The Old Man looked only at her. "Well, Mary?" he said softly.
+
+Мэри бродила по этой комнате, словно пьяная, — нет, не пьяная, а озабоченная и ошеломленная. Она переходила от одной прозрачной стены к другой, пристально вглядываясь в переполненные, полупрозрачные глубины. Старик смотрел только на нее. «Ну, Мэри?» — тихо сказал он.
+
+"I can't find them!" she said in a voice like a little girl's. She ran back to the other side.
+
+«Я не могу их найти!» — сказала она голосом маленькой девочки. Она побежала обратно на другую сторону.
+
+The Old Man grasped her arm and stopped her. "You're not looking for them in the right place," he said <span class='tip-wrap' data-text='firmly [фЭрмли] {наречие} твердо'>**firmly**<span class='tip-text'> </span></span>. "Go back where they are. Remember?"
+
+Старик схватил ее за руку и остановил. «Ты ищешь их не там, где надо», — твердо сказал он. «Возвращайся туда, где они. Помнишь?»
+
+She stopped and her voice was a wail. "I can't remember!"
+
+Она остановилась, и ее голос превратился в вопль. «Я не могу вспомнить!»
+
+"You must remember... now. This is what you can do for them. You must return to where they are and look for them."
+
+«Ты должен вспомнить... сейчас. Вот что ты можешь сделать для них. Ты должен вернуться туда, где они находятся, и поискать их».
+
+Her eyes closed and tears started leaking from them. She gasped and choked. I pushed myself between them and said, "Stop this! What are you doing to her?"
+
+Ее глаза закрылись, и из них потекли слезы. Она задыхалась и задыхалась. Я втиснулся между ними и сказал: «Прекрати это! Что ты с ней делаешь?»
+
+He grabbed me with his free hand and pushed me away. "No, son," he whispered fiercely. "Keep out of this - you must keep out."
+
+Он схватил меня свободной рукой и оттолкнул. «Нет, сынок», — яростно прошептал он. «Не вмешивайся — ты должен вмешиваться».
+
+"But -"
+
+"Но -"
+
+"No!" He let go of Mary and led me away to the entrance. "Stay there. And, as you love your wife, as you hate the titans, do not interfere. I won't hurt her - that's a promise."
+
+«Нет!» Он отпустил Мэри и повел меня к выходу. «Оставайся там. И, как ты любишь свою жену, как ты ненавидишь титанов, не вмешивайся. Я не причиню ей вреда — это обещание».
+
+"What are you going to do?" But he had turned away. I stayed, unwilling to let it go on.
+
+«Что ты собираешься делать?» Но он отвернулся. Я осталась, не желая, чтобы это продолжалось.
+
+Mary had sunk down to the floor and now squatted on it like a child, her face was covered with her hands. The Old Man went back to her, knelt down and touched her arm. "Go back," I heard him say. "Go back to where it started."
+
+Мэри опустилась на пол и теперь сидела на нем на корточках, как ребенок, закрыв лицо руками. Старик вернулся к ней, опустился на колени и коснулся ее руки. «Возвращайся», — услышал я его голос. «Возвращайся туда, где все началось».
+
+I could barely hear her answer, "No... no."
+
+Я едва расслышал ее ответ: «Нет... нет».
+
+"How old were you? You seemed to be about seven or eight when you were found. It was before that?"
+
+«Сколько вам было лет? Когда вас нашли, вам было лет семь или восемь. Это было до этого?»
+
+"Yes-yes, it was before that." She sobbed and collapsed completely to the floor. "Mama! Mama!"
+
+«Да-да, это было до этого». Она всхлипнула и совсем рухнула на пол. «Мама! Мама!»
+
+"What is your mama saying?" he asked gently.
+
+«Что говорит твоя мама?» — мягко спросил он.
+
+"She doesn't say anything. She's looking at me so queerly. There's something on her back. I'm afraid, I'm afraid!"
+
+«Она ничего не говорит. Она так странно на меня смотрит. У нее на спине что-то есть. Я боюсь, я боюсь!»
+
+"Go back," the Old Man said. "Way back."
+
+«Возвращайся», — сказал Старик. «Возвращайся».
+
+"There was a ship," she muttered, "a big shiny ship -" He said something to her; if she answered I could not hear it. I made no attempt to interfere. I could see that he was doing her no physical hurt and, despite my vastly disturbed emotions, I realized that something important was going on, something big enough to <span class='tip-wrap' data-text='absorb [эбзОрб] {глагол} поглощать'>**absorb**<span class='tip-text'> </span></span> the Old Man's full attention in the very teeth of the enemy.
+
+«Там был корабль», — пробормотала она, — «большой блестящий корабль...» Он что-то сказал ей; если она и ответила, я не услышал. Я не пытался вмешаться. Я видел, что он не причиняет ей физического вреда, и, несмотря на мои крайне встревоженные эмоции, я понял, что происходит что-то важное, что-то достаточно большое, чтобы поглотить все внимание Старика прямо в зубах врага.
+
+He continued to talk to her, soothingly but insistently. Mary quieted down, seemed to <span class='tip-wrap' data-text='sink [сЫŋк] {глагол} тонуть; потопить'>**sink**<span class='tip-text'> </span></span> almost into a lethargy, but I could hear that she answered him. I heard something crawling along the passage behind me. I turned and drew my gun, with a wild feeling that we were trapped. I almost shot him before I realized that it was the young officer we had left outside. "Come on out!" he said. He pushed on past me out into the <span class='tip-wrap' data-text='chamber [чЕймбэр] {существительное} камера; палата'>**chamber**<span class='tip-text'> </span></span> and repeated the demand to the Old Man.
+
+Он продолжал говорить с ней, успокаивающе, но настойчиво. Мэри затихла, казалось, почти впала в летаргию, но я слышал, как она ему отвечала. Я услышал, как что-то ползет по коридору позади меня. Я повернулся и вытащил пистолет, с диким чувством, что мы в ловушке. Я чуть не застрелил его, прежде чем понял, что это был молодой офицер, которого мы оставили снаружи. «Выходи!» — сказал он. Он протиснулся мимо меня в комнату и повторил требование Старику.
+
+The Old Man looked really annoyed. "Shut up and don't <span class='tip-wrap' data-text='bother [бАðэр] {глагол} беспокоить'>**bother**<span class='tip-text'> </span></span> me," he said.
+
+Старик выглядел очень раздраженным. «Заткнись и не беспокой меня», — сказал он.
+
+"You've got to, sir," the youngster insisted. "The commander says that you must come out at once. We're falling back; the commander says he may have to use demolition at any moment."
+
+«Вы должны, сэр», — настаивал юноша. «Командир говорит, что вы должны немедленно выйти. Мы отступаем; командир говорит, что ему, возможно, придется применить подрывную технику в любой момент».
+
+"Very well," the Old Man agreed in unhurried tones. "We're coming. You go out and tell your commander that he must hold off until we get out; I have vitally important information. Son, help me with Mary."
+
+«Очень хорошо», — неторопливо согласился Старик. «Мы идем. Ты выйдешь и скажи своему командиру, чтобы он подождал, пока мы не выйдем; у меня есть жизненно важная информация. Сынок, помоги мне с Мэри».
+
+"Yes, sir!" the youngster acknowledged. "But <span class='tip-wrap' data-text='hurry [хЭри] {глагол} торопить(ся)'>**hurry**<span class='tip-text'> </span></span>!" He scrambled away. I picked up Mary and carried her to where the <span class='tip-wrap' data-text='chamber [чЕймбэр] {существительное} камера; палата'>**chamber**<span class='tip-text'> </span></span> narrowed into a <span class='tip-wrap' data-text='tube [тУб] {существительное} труба'>**tube**<span class='tip-text'> </span></span>; she seemed almost unconscious. I put her down.
+
+«Да, сэр!» — подтвердил юноша. «Но поторопись!» Он побежал прочь. Я поднял Мэри и отнес ее туда, где камера сужалась в трубу; она, казалось, была почти без сознания. Я опустил ее.
+
+"We'll have to <span class='tip-wrap' data-text='drag [дрЭг] {глагол} тащить'>**drag**<span class='tip-text'> </span></span> her," the Old Man said. "She may not come out of this soon. Here - let me get her up on your back, you can <span class='tip-wrap' data-text='crawl [крОл] {глагол} ползать'>**crawl**<span class='tip-text'> </span></span> with her."
+
+«Нам придется ее тащить», — сказал Старик. «Она может не скоро выбраться. Вот — дай я тебе ее на спину посажу, можешь ползти с ней».
+
+I paid no attention but shook her. "Mary," I shouted, "Mary! Can you hear me?"
+
+Я не обратил на нее внимания, но встряхнул ее. «Мэри», — крикнул я, — «Мэри! Ты меня слышишь?»
+
+Her eyes opened. "Yes, Sam?"
+
+Ее глаза открылись. «Да, Сэм?»
+
+"Darling - we've got to get out of here, fast! Can you <span class='tip-wrap' data-text='crawl [крОл] {глагол} ползать'>**crawl**<span class='tip-text'> </span></span>?"
+
+«Дорогая, нам нужно выбираться отсюда, и быстро! Ты умеешь ползать?»
+
+"Yes, Sam." She closed her eyes again. I shook her again. "Mary!"
+
+«Да, Сэм». Она снова закрыла глаза. Я снова встряхнул ее. «Мэри!»
+
+"Yes, darling? What is it? I'm so tired."
+
+«Да, дорогая? Что такое? Я так устала».
+
+"Listen, Mary - you've got to <span class='tip-wrap' data-text='crawl [крОл] {глагол} ползать'>**crawl**<span class='tip-text'> </span></span> out of here. If you don't the slugs will get us - do you understand?"
+
+«Слушай, Мэри, тебе надо отсюда выползти. Если ты этого не сделаешь, нас съедят слизни, ты поняла?»
+
+"All right, darling." Her eyes stayed open this time but were vacant. I lifted and dragged her through the <span class='tip-wrap' data-text='chamber [чЕймбэр] {существительное} камера; палата'>**chamber**<span class='tip-text'> </span></span> of the slugs and again through the control room. Then we came to the place where the <span class='tip-wrap' data-text='tube [тУб] {существительное} труба'>**tube**<span class='tip-text'> </span></span> was <span class='tip-wrap' data-text='partly [пАртли] {наречие} частично'>**partly**<span class='tip-text'> </span></span> blocked by the dead elfin <span class='tip-wrap' data-text='creature [крИчэр] {существительное} существо'>**creature**<span class='tip-text'> </span></span>. There was no doubt, this time, that its slug was dead.
+
+"Ладно, дорогая". На этот раз ее глаза оставались открытыми, но пустыми. Я поднял и протащил ее через камеру слизней и снова через комнату управления. Затем мы пришли к месту, где трубка была частично заблокирована мертвым эльфийским существом. На этот раз не было никаких сомнений, что ее слизень мертв.
+
+Finally, we reached the <span class='tip-wrap' data-text='outer [Аутэр] {прилагательное} внешний'>**outer**<span class='tip-text'> </span></span> door and the young officer was there to help us lift her out. It was quite dark.
+
+Наконец, мы добрались до внешней двери, и молодой офицер был там, чтобы помочь нам вытащить ее. Было довольно темно.
+
+We went back down to the beach road. Fifteen minutes later we were inside the Fulton.
+
+Мы вернулись на пляжную дорогу. Через пятнадцать минут мы были внутри Фултона.
+
+And an hour later we disembarked at the Mobile base. The Old Man and I had had coffee and sandwiches in the wardroom of the Fulton, some of the Wave officers had taken Mary and cared for her in the women's quarters. She joined us as we left and seemed entirely normal. I said, "Mary, are you all right?"
+
+А через час мы высадились на базе Мобайл. Мы со Стариком пили кофе и ели сэндвичи в кают-компании Фултона, некоторые офицеры Wave забрали Мэри и позаботились о ней в женской каюте. Она присоединилась к нам, когда мы уходили, и казалась совершенно нормальной. Я спросил: «Мэри, с тобой все в порядке?»
+
+She smiled at me. "Of course, darling. Why shouldn't I be?"
+
+Она улыбнулась мне. «Конечно, милый. Почему бы и нет?»
+
+A small command ship and an escort took us out of there. I had supposed that we were headed back to the Section offices, or more likely to Washington. I had not asked; the Old Man was in no mood to talk and I was satisfied simply to hold Mary's hand and feel relieved.
+
+Небольшой командный корабль и эскорт вывели нас оттуда. Я предполагал, что мы направляемся обратно в офисы Секции или, что более вероятно, в Вашингтон. Я не спрашивал; Старик был не в настроении разговаривать, и я был удовлетворен тем, что просто держал Мэри за руку и чувствовал облегчение.
+
+The pilot put us into a mountainside hangar. "Where are we?" I asked.
+
+Пилот посадил нас в ангар на склоне горы. «Где мы?» — спросил я.
+
+The Old Man did not answer but got out; Mary and I followed. The hangar was small. Guards met us and directed us on back to a door set in the living rock; we went through and found ourselves in an anteroom. An unseen metallic voice told us to <span class='tip-wrap' data-text='strip [стрЫп] {глагол} раздеваться'>**strip**<span class='tip-text'> </span></span> off what little we wore.
+
+Старик не ответил, но вышел; Мэри и я последовали за ним. Ангар был небольшим. Охранники встретили нас и направили обратно к двери, проделанной в скале; мы прошли через нее и оказались в прихожей. Невидимый металлический голос приказал нам снять то немногое, что мы носили.
+
+We went on <span class='tip-wrap' data-text='inside [ЫнсАйд] {существительное} внутренность'>**inside**<span class='tip-text'> </span></span> and were met by a young fellow whose total <span class='tip-wrap' data-text='clothing [клOуðыŋ] {существительное} одежда'>**clothing**<span class='tip-text'> </span></span> was an armband showing three chevrons and crossed retorts. He turned us over to a girl who was wearing even less, as her armband had only two chevrons. I think the corporal was glad to pass us on to the captain who received us.
+
+Мы прошли внутрь и были встречены молодым парнем, чья вся одежда состояла из повязки с тремя шевронами и скрещенными ретортами. Он передал нас девушке, которая была одета еще меньше, так как на ее повязке было всего два шеврона. Я думаю, капрал был рад передать нас капитану, который нас принял.
+
+"We got your message," the captain said. "Dr. Steelton is waiting."
+
+«Мы получили ваше сообщение», — сказал капитан. «Доктор Стилтон ждет».
+
+"Thank you, ma'am," the Old Man answered. "The <span class='tip-wrap' data-text='sooner [сУнэр] {наречие} скорее'>**sooner**<span class='tip-text'> </span></span>, the better. Where?"
+
+«Спасибо, мэм», — ответил Старик. «Чем скорее, тем лучше. Где?»
+
+"Just a moment," she said, went to Mary and felt through her hair. "We have to be sure, you know," she said apologetically. "All right," she decided, "let's go."
+
+«Одну минуточку», — сказала она, подошла к Мэри и потрогала ее волосы. «Мы должны убедиться, ты знаешь», — виновато сказала она. «Ладно», — решила она, «пойдем».
+
+"Right," agreed the Old Man. "No, son, this is as far as you go."
+
+«Правильно», — согласился Старик. «Нет, сынок, дальше идти некуда».
+
+"Why?" I asked.
+
+«Почему?» — спросил я.
+
+"Because you nearly loused up the first try," he explained <span class='tip-wrap' data-text='briefly [брИфли] {наречие} кратко'>**briefly**<span class='tip-text'> </span></span>. "Now pipe down."
+
+«Потому что ты чуть не запорол первую попытку», — кратко объяснил он. «А теперь заткнись».
+
+The captain said, "The officers' mess is straight down the first passageway to the left. Why don't you wait there?"
+
+Капитан сказал: «Офицерская столовая находится прямо в первом коридоре слева. Почему бы вам не подождать там?»
+
+So I did. On the way I passed a door decorated primly in large red skull-and-crossbones and stenciled with: WARNING: LIVE PARASITES BEYOND THIS DOOR; in smaller letters it added Qualified <span class='tip-wrap' data-text='personnel [пЭрсэнЕл] {существительное} персонал'>**Personnel**<span class='tip-text'> </span></span> Only - Use Procedure "A".
+
+Так я и сделал. По пути я прошел мимо двери, украшенной чопорным большим красным черепом и костями, на которой было написано по трафарету: ВНИМАНИЕ: ЗА ЭТОЙ ДВЕРЬЮ ЖИВЫЕ ПАРАЗИТЫ; а более мелкими буквами было написано: Только для квалифицированного персонала — используйте процедуру «А».
+
+The officers' mess was the usual clubroom and there were three or four men and two women in it. No one seemed interested in my presence, so I found an unoccupied chair and sat down. After a time I was joined by a large male extrovert wearing a <span class='tip-wrap' data-text='colonel [кЭрнэл] {существительное} полковник'>**colonel**<span class='tip-text'> </span></span>'s insignia on a chain around his neck.
+
+Офицерская столовая была обычным клубным залом, в нем было три или четыре мужчины и две женщины. Никто, казалось, не был заинтересован в моем присутствии, поэтому я нашел свободный стул и сел. Через некоторое время ко мне присоединился крупный мужчина-экстраверт с полковничьими знаками различия на цепочке на шее.
+
+"Newcomer?" he asked.
+
+«Новичок?» — спросил он.
+
+I admitted it. "<span class='tip-wrap' data-text='civilian [сэвЫлйэн] {прилагательное} гражданский'>**Civilian**<span class='tip-text'> </span></span> expert?" he went on.
+
+Я признал это. «Гражданский эксперт?» — продолжил он.
+
+"I don't know about 'expert'," I replied. "I'm a field operative."
+
+«Я не знаю насчет «эксперта», — ответил я. — «Я полевой оперативник».
+
+"Name? Sorry to be bureaucratic," he apologized, "but I'm the security officer around here. My name's Kelly."
+
+«Имя? Извините за бюрократизм», — извинился он, — «но я здесь сотрудник службы безопасности. Меня зовут Келли».
+
+I told him mine. He nodded. "Matter of fact I saw your party coming in. <span class='tip-wrap' data-text='mine [мАйн] {существительное} шахта'>**Mine**<span class='tip-text'> </span></span> was the voice of conscience, coming out of the wall. Now, Mr. Nivens, how about a drink?"
+
+Я сказал ему свое. Он кивнул. "На самом деле, я видел, как ваша группа входила. Мой был голосом совести, исходящим из стены. А теперь, мистер Нивенс, как насчет выпивки?"
+
+I stood up. "Whom do I have to kill to get it?"
+
+Я встал. «Кого мне нужно убить, чтобы получить это?»
+
+Presently Kelly was telling me about the work the laboratory did. "By now we know a lot about those foul creatures. But do we know how to kill them without killing their hosts? We do not".
+
+В это время Келли рассказывал мне о работе, проделанной в лаборатории. «К настоящему времени мы уже много знаем об этих мерзких созданиях. Но знаем ли мы, как убить их, не убивая их хозяев? Мы не знаем».
+
+He stopped for a moment and then went on, "Of course, if we could lure them one at a time into a small room and douse them with anesthetics, we could save the hosts - but that is just impossible. I've talked to the scientists here and I know what we need. This is a biological war and it will be won by biological competition. What we need is a bug, one that will bite the slug and not the <span class='tip-wrap' data-text='host [хOуст] {существительное} хозяин; ведущий'>**host**<span class='tip-text'> </span></span>. Doesn't sound too hard, does it? It is. We know a hundred things that will kill the slug - typhus, syphilis, encephalitis lethargica, plague, yellow fever, and so on. But they kill the <span class='tip-wrap' data-text='host [хOуст] {существительное} хозяин; ведущий'>**host**<span class='tip-text'> </span></span>, too."
+
+Он на мгновение остановился, а затем продолжил: «Конечно, если бы мы могли заманить их по одному в маленькую комнату и облить их анестетиками, мы могли бы спасти хозяев, но это просто невозможно. Я поговорил с здешними учеными и знаю, что нам нужно. Это биологическая война, и она будет выиграна биологической конкуренцией. Нам нужен микроб, который укусит слизняка, а не хозяина. Звучит не так уж сложно, не правда ли? Так и есть. Мы знаем сотню вещей, которые убьют слизняка — тиф, сифилис, летаргический энцефалит, чума, желтая лихорадка и так далее. Но они убивают и хозяина».
+
+"Couldn't they use something that everyone is immune to?" I asked. "Almost everybody is vaccinated for typhus."
+
+«Неужели они не могли использовать что-то, к чему у всех есть иммунитет?» — спросил я. «Почти все привиты от тифа».
+
+"No good - if the <span class='tip-wrap' data-text='host [хOуст] {существительное} хозяин; ведущий'>**host**<span class='tip-text'> </span></span> is immune, the parasite doesn't get exposed to it. No, we need something the <span class='tip-wrap' data-text='host [хOуст] {существительное} хозяин; ведущий'>**host**<span class='tip-text'> </span></span> will catch and that will kill the slug, but won't give the <span class='tip-wrap' data-text='host [хOуст] {существительное} хозяин; ведущий'>**host**<span class='tip-text'> </span></span> more than a <span class='tip-wrap' data-text='mild [мАйлд] {прилагательное} мягкий; спокойный'>**mild**<span class='tip-text'> </span></span> fever or a splitting headache."
+
+«Бесполезно — если у хозяина иммунитет, паразит не подвергается воздействию. Нет, нам нужно что-то, чем хозяин заразится и что убьет слизняка, но не вызовет у хозяина ничего, кроме легкой лихорадки или сильной головной боли».
+
+I started to answer with some no-doubt brilliant thought when I saw the Old Man standing in the <span class='tip-wrap' data-text='doorway [дОруЕй] {существительное} портал; проем'>**doorway**<span class='tip-text'> </span></span>. I excused myself and went to him. "What was Kelly interrogating you about?" he asked.
+
+Я начал отвечать с какой-то несомненно блестящей мыслью, когда увидел Старика, стоящего в дверях. Я извинился и подошел к нему. «О чем Келли тебя допрашивал?» — спросил он.
+
+"He wasn't interrogating me," I answered.
+
+«Он меня не допрашивал», — ответил я.
+
+"That's what you think. Don't you know what Kelly that is?"
+
+«Это ты так думаешь. Разве ты не знаешь, что это такое, Келли?»
+
+"Should I?"
+
+«А должен ли я это сделать?»
+
+"You should. Or perhaps you shouldn't; he never lets his picture be taken. That's B. J. Kelly, the greatest scientific criminologist of our generation."
+
+«Тебе стоит это сделать. Или, может быть, не стоит; он никогда не позволяет себя фотографировать. Это Б. Дж. Келли, величайший ученый-криминолог нашего поколения».
+
+"That Kelly! But he's not in the army."
+
+«Этот Келли! Но он не в армии».
+
+"<span class='tip-wrap' data-text='reserve [рызЭрв] {существительное} заповедник (резерв)'>**Reserve**<span class='tip-text'> </span></span>, probably. But you can guess how important this laboratory is. Come on."
+
+«Резерв, наверное. Но вы можете догадаться, насколько важна эта лаборатория. Пошли».
+
+"Where's Mary?"
+
+«Где Мэри?»
+
+"You can't see her now. She's recovering."
+
+«Сейчас вы ее не увидите. Она выздоравливает».
+
+"Is she - hurt?"
+
+«Она ранена?»
+
+"I promised you she would not be hurt. Steelton is the best in his line. But we had to go down deep, against a great deal of <span class='tip-wrap' data-text='resistance [рызЫстэнс] {существительное} сопротивление'>**resistance**<span class='tip-text'> </span></span>. That's always rough on the subject."
+
+«Я обещал тебе, что она не пострадает. Стилтон — лучший в своем роде. Но нам пришлось спуститься глубоко, столкнувшись с большим сопротивлением. Это всегда грубо в таких случаях».
+
+I thought about it. "Did you get what you were after?"
+
+Я задумался. «Ты получил то, что искал?»
+
+"Yes and no. We got a great deal, but we aren't through."
+
+«И да, и нет. Мы заключили выгодную сделку, но мы еще не закончили».
+
+"What were you after?"
+
+«Что вы искали?»
+
+We had been walking along one of the <span class='tip-wrap' data-text='endless [Ендлэс] {прилагательное} бесконечный'>**endless**<span class='tip-text'> </span></span> underground passageways of which the place was made. Now he turned us into a small, empty office and we sat down. The Old Man touched the communicator on the desk and said, "Private conference."
+
+Мы шли по одному из бесконечных подземных переходов, из которых состояло это место. Теперь он повернул нас в маленький пустой офис, и мы сели. Старик коснулся коммуникатора на столе и сказал: «Частная конференция».
+
+"Yes, sir," a voice answered. "We will not record." A green light came on in the ceiling.
+
+«Да, сэр», — ответил голос. «Мы не будем записывать». На потолке загорелся зеленый свет.
+
+"Not that I believe them," the Old Man complained, "but it may keep anyone but Kelly from playing it back. Now, son, about what you want to know; I'm not sure you are entitled to it. You are married to the girl, but that does not mean that you own her soul - and this stuff comes from down so deep that she did not know she had it herself."
+
+«Не то чтобы я им верил», — пожаловался Старик, — «но это может удержать кого-либо, кроме Келли, от повторения этого. Теперь, сынок, о том, что ты хочешь знать: я не уверен, что ты имеешь на это право. Ты женат на девушке, но это не значит, что ты владеешь ее душой — и эта штука идет из таких глубин, что она сама не знала, что она у нее есть».
+
+I said nothing; there was nothing to say. I took a deep breath. "You'll have to judge. I can't."
+
+Я ничего не сказал; нечего было сказать. Я глубоко вздохнул. «Тебе придется судить. Я не могу».
+
+"Yes, I suppose so. Well, I'll tell you a bit and answer your questions - some of them - in exchange for a solemn promise never to <span class='tip-wrap' data-text='bother [бАðэр] {глагол} беспокоить'>**bother**<span class='tip-text'> </span></span> your wife with it. You don't have the skill."
+
+«Да, я так полагаю. Ну, я расскажу тебе немного и отвечу на некоторые твои вопросы — в обмен на торжественное обещание никогда не беспокоить твою жену по этому поводу. У тебя нет для этого навыков».
+
+"Very well, sir. I promise."
+
+«Очень хорошо, сэр. Обещаю».
+
+"Well - there was a group of people, a cult you might call them, that got into disrespect."
+
+«Ну, была группа людей, можно сказать, культ, которые стали объектом неуважения».
+
+"I know - the Whitmanites."
+
+«Я знаю — уитманиты».
+
+"Eh? How did you know? From Mary? No, she didn't know herself."
+
+«А? Откуда ты знаешь? От Мэри? Нет, она сама не знала».
+
+"No, not from Mary. I just figured it out."
+
+«Нет, не от Мэри. Я только что догадался».
+
+He looked at me with odd respect. "Maybe I've been underestimating you, son. As you say, the Whitmanites. Mary was one of them, as a kid in Antarctica."
+
+Он посмотрел на меня со странным уважением. "Может быть, я недооценивал тебя, сынок. Как ты говоришь, Уитманиты. Мэри была одной из них, ребенком в Антарктиде".
+
+"Wait a minute!" I said. "They left Antarctica in 1974."
+
+«Подождите минутку!» — сказал я. «Они покинули Антарктиду в 1974 году».
+
+"<span class='tip-wrap' data-text='surely [шУрли] {наречие} конечно'>**Surely**<span class='tip-text'> </span></span>. What about it?"
+
+«Конечно. А что насчет этого?»
+
+"But that would make Mary around forty years old. She can't be."
+
+«Но тогда Мэри было бы около сорока лет. Этого не может быть».
+
+"Do you care?"
+
+«Тебе все равно?»
+
+"Huh? Why, no - but she can't be."
+
+«А? Да нет же, но она не может быть такой».
+
+"She is and she isn't. Just listen. Chronologically her age is about forty. Biologically she is in her middle twenties. Subjectively she is even younger, because she doesn't remember anything earlier than about 1990."
+
+«Она и есть, и нет. Просто послушайте. Хронологически ей около сорока. Биологически ей около двадцати пяти. Субъективно она даже моложе, потому что не помнит ничего ранее 1990 года».
+
+"What do you mean? That she doesn't remember I can understand - she never wants to remember. But what do you mean by the rest?"
+
+«Что ты имеешь в виду? То, что она не помнит, я понимаю — она никогда не хочет помнить. Но что ты имеешь в виду под остальным?»
+
+"Just what I said. She is no older than she is because - you know that room where she started to remember? She spent ten years and probably more floating in suspended animation in just such a <span class='tip-wrap' data-text='tank [тЭŋк] {существительное} бак'>**tank**<span class='tip-text'> </span></span> as that."
+
+«То, что я и сказал. Она не старше, чем есть на самом деле, потому что — вы знаете ту комнату, где она начала вспоминать? Она провела десять лет, а может и больше, плавая в анабиозе именно в таком резервуаре».
+
+CHAPTER 28.
+
+ГЛАВА ДВАДЦАТЬ ВОСЬМАЯ
+
+Mary's open history was simple, although mystifying. She had been found in the swamps near Kaiserville at the North Pole of Venus - a little girl who could give no account of herself and who knew only her name - Allucquere. Nobody spotted the <span class='tip-wrap' data-text='significance [сэгнЫфыкэнс] {существительное} значение; значимость'>**significance**<span class='tip-text'> </span></span> of the name and a child of her (apparent) age could not be associated with the Whitmanites <span class='tip-wrap' data-text='disaster [дызЭстэр] {существительное} бедствие'>**disaster**<span class='tip-text'> </span></span> in any case; the 1980 supply ship had not been able to find any <span class='tip-wrap' data-text='survivor [сэрвАйвэр] {существительное} уцелевший'>**survivor**<span class='tip-text'> </span></span> of their "New Zion" <span class='tip-wrap' data-text='colony [кАлэни] {существительное} колония; поселение'>**colony**<span class='tip-text'> </span></span>. Its plantations had returned to the swamp. More than ten years of time and more than two hundred miles of jungle separated the little orphan of Kaiserville from the colonists of New Zion.
+
+Открытая история Мэри была простой, хотя и загадочной. Ее нашли в болотах около Кайзервилля на Северном полюсе Венеры — маленькая девочка, которая не могла рассказать о себе и знала только свое имя — Аллукер. Никто не заметил значения этого имени, и ребенок ее (очевидного) возраста в любом случае не мог быть связан с катастрофой Уитманитов; судно снабжения 1980 года не смогло найти ни одного выжившего из их колонии «Новый Сион». Его плантации вернулись на болото. Более десяти лет и более двухсот миль джунглей отделяли маленькую сироту из Кайзервилля от колонистов Нового Сион.
+
+Kaiserville still does not have a sweet reputation; in those days it was made up of miners and company representatives of the Two Planets Corporation - and nothing else.
+
+У Кайзервилля до сих пор не самая лучшая репутация: в те времена он состоял из шахтеров и представителей компании Two Planets Corporation — и больше ничего.
+
+Apparently she grew up using poker chips for toys and calling every woman "mother" or "auntie". In turn they shortened her name to "Lucky". The Old Man did not go into detail about who paid her way back to Earth and why. The real question was where she had been from the time New Zion was eaten up by the Venerian jungle and just what had happened to the <span class='tip-wrap' data-text='colony [кАлэни] {существительное} колония; поселение'>**colony**<span class='tip-text'> </span></span>.
+
+Видимо, она выросла, используя фишки для покера вместо игрушек и называя каждую женщину «мамой» или «тетей». В свою очередь, они сократили ее имя до «Лаки». Старик не вдавался в подробности о том, кто оплатил ее дорогу обратно на Землю и почему. Настоящий вопрос был в том, где она была с того момента, как Новый Сион был съеден венерианскими джунглями, и что случилось с колонией.
+
+The only record of those things was buried in Mary's mind, locked <span class='tip-wrap' data-text='tight [тАйт] {прилагательное} плотный; тугой'>**tight**<span class='tip-text'> </span></span> with terror and despair.
+
+Единственная запись об этих событиях была похоронена в памяти Мэри, накрепко запертая ужасом и отчаянием.
+
+Sometime before 1980 the titans had discovered the New Zion <span class='tip-wrap' data-text='colony [кАлэни] {существительное} колония; поселение'>**colony**<span class='tip-text'> </span></span>. If you place it one Saturn year earlier than the <span class='tip-wrap' data-text='invasion [ЫнвЕйжэн] {существительное} вторжение'>**invasion**<span class='tip-text'> </span></span> of Earth, the times fit <span class='tip-wrap' data-text='fairly [фЕрли] {наречие} достаточно'>**fairly**<span class='tip-text'> </span></span> well. It does not seem likely that the titans were looking for Earthmen on Venus; more probably they were scouting Venus as they had long scouted Earth. We know that they kidnapped Earthmen at intervals over the course of two or more centuries; maybe they captured someone on Earth whose brain could tell them where to find the New Zion <span class='tip-wrap' data-text='colony [кАлэни] {существительное} колония; поселение'>**colony**<span class='tip-text'> </span></span>. Mary's dark memories could contain no clue to that.
+
+Где-то до 1980 года титаны обнаружили колонию Новый Сион. Если поместить ее на один год Сатурна раньше вторжения на Землю, то время совпадет довольно хорошо. Кажется маловероятным, что титаны искали землян на Венере; более вероятно, что они разведывали Венеру, как они давно разведывали Землю. Мы знаем, что они похищали землян с интервалами в течение двух или более столетий; возможно, они захватили кого-то на Земле, чей мозг мог подсказать им, где найти колонию Новый Сион. Темные воспоминания Мэри не могли содержать никаких подсказок об этом.
+
+Mary saw the <span class='tip-wrap' data-text='colony [кАлэни] {существительное} колония; поселение'>**colony**<span class='tip-text'> </span></span> captured, saw her parents turned into zombies who no longer cared for her. Apparently she herself was not possessed, maybe the titans found a weak and ignorant young girl an unsuitable slave. In any case, for what was to her baby <span class='tip-wrap' data-text='mind [мАйнд] {глагол} возражать; прислушиваться; присматривать'>**mind**<span class='tip-text'> </span></span> an endlessly long time, she hung around the slave <span class='tip-wrap' data-text='colony [кАлэни] {существительное} колония; поселение'>**colony**<span class='tip-text'> </span></span>, unwanted and uncared for, hunting like a mouse for her living. On Venus the slugs were moving in to stay; their <span class='tip-wrap' data-text='principal [прЫнсэпэл] {прилагательное} основной'>**principal**<span class='tip-text'> </span></span> slaves were Venerians and the New Zion colonists were only incidental. It is sure that Mary saw her parents placed in suspended animation - was it for <span class='tip-wrap' data-text='later [лЕйтэр] {прилагательное} поздний'>**later**<span class='tip-text'> </span></span> use in the <span class='tip-wrap' data-text='invasion [ЫнвЕйжэн] {существительное} вторжение'>**invasion**<span class='tip-text'> </span></span> of Earth? Probable, but not certain.
+
+Мэри видела, как колония была захвачена, видела, как ее родители превратились в зомби, которые больше не заботились о ней. Очевидно, она сама не была одержима, может быть, титаны сочли слабую и невежественную молодую девушку неподходящей рабыней. В любом случае, в течение того, что было для ее детского ума бесконечно долгим временем, она околачивалась вокруг колонии рабов, нежеланная и заброшенная, охотясь, как мышь, за свое пропитание. На Венере слизни переселялись, чтобы остаться; их основными рабами были венерианцы, а колонисты Нового Сиона были лишь случайными. Несомненно, что Мэри видела, как ее родители были помещены в анабиоз — было ли это для последующего использования при вторжении на Землю? Вероятно, но не наверняка.
+
+In <span class='tip-wrap' data-text='due [дУ] {прилагательное} надлежащий'>**due**<span class='tip-text'> </span></span> course she herself was grabbed and placed in the tanks. Inside a titan ship? At a titan base on Venus itself? More probably the latter, as when she awoke, she was still on Venus. There are many such gaps. Were the slugs that rode the Venerians <span class='tip-wrap' data-text='identical [айдЕнтыкэл] {прилагательное} идентичный'>**identical**<span class='tip-text'> </span></span> with the slugs which rode the colonists? Possible. The slugs <span class='tip-wrap' data-text='surely [шУрли] {наречие} конечно'>**surely**<span class='tip-text'> </span></span> have to adapt themselves to the biochemistry of their hosts. But the gist of the matter lay in the situation as it was when Mary was removed from the artificial incubator. The titan <span class='tip-wrap' data-text='invasion [ЫнвЕйжэн] {существительное} вторжение'>**invasion**<span class='tip-text'> </span></span> of Venus had failed, or was failing. Almost certainly she was possessed as soon as they removed her from the <span class='tip-wrap' data-text='tank [тЭŋк] {существительное} бак'>**tank**<span class='tip-text'> </span></span> - but Mary had outlived the slug that possessed her.
+
+В свое время ее саму схватили и поместили в резервуары. Внутри титанового корабля? На титановой базе на самой Венере? Последнее вероятнее, так как, когда она проснулась, она все еще была на Венере. Таких пробелов много. Были ли слизни, которые ездили на венерианцах, идентичны слизням, которые ездили на колонистах? Возможно. Слизняки, безусловно, должны были адаптироваться к биохимии своих хозяев. Но суть вопроса заключалась в ситуации, которая была, когда Мэри извлекли из искусственного инкубатора. Вторжение титанов на Венеру провалилось или проваливалось. Почти наверняка она была одержима, как только ее извлекли из резервуара, но Мэри пережила слизняка, который ею овладел.
+
+Why had the slugs died? Why had the <span class='tip-wrap' data-text='invasion [ЫнвЕйжэн] {существительное} вторжение'>**invasion**<span class='tip-text'> </span></span> of Venus failed? It was what the Old Man and Dr. Steelton wanted to find in Mary's brain.
+
+Почему слизни погибли? Почему вторжение на Венеру провалилось? Это то, что Старик и доктор Стилтон хотели найти в мозгу Мэри.
+
+The slugs had died from something they contracted on Venus. That much we knew, or thought we knew. While the Old Man and I were still talking, a message came in telling us that Rexton had finally ordered to bomb the <span class='tip-wrap' data-text='pass [пЭс] {существительное} пропуск; пас; проход'>**Pass**<span class='tip-text'> </span></span> Christian saucer to keep it from falling back in the hands of the titans.
+
+Слизни погибли от чего-то, что они подхватили на Венере. Это мы знали, или думали, что знаем. Пока мы со Стариком разговаривали, пришло сообщение, что Рекстон наконец приказал разбомбить тарелку Пасс Кристиан, чтобы она не попала обратно в руки титанов.
+
+So they had to go back where they hoped the answer was - into Mary's brain. I did not like it, but I could not stop it. She did not know why she was asked to <span class='tip-wrap' data-text='submit [сэбмЫт] {глагол} подавать'>**submit**<span class='tip-text'> </span></span> to hypnotics, over and over again. She seemed calm, but the <span class='tip-wrap' data-text='strain [стрЕйн] {существительное} напряжение; штамм'>**strain**<span class='tip-text'> </span></span> showed - circles under her eyes, things like that. Finally I went to the Old Man and told him that it had to stop. "You know we have no choice now, son," he said.
+
+Поэтому им пришлось вернуться туда, где, как они надеялись, был ответ — в мозг Мэри. Мне это не нравилось, но я не мог это остановить. Она не знала, почему ее просили подвергаться гипнозу, снова и снова. Она казалась спокойной, но напряжение было видно — круги под глазами и тому подобное. Наконец я пошел к Старику и сказал ему, что это нужно прекратить. «Ты знаешь, у нас теперь нет выбора, сынок», — сказал он.
+
+I made up my mind to do something I had considered before - force myself into the mind-searching sessions of Mary. If there were something in her hidden memories which could be used to kill slugs, possibly I might see it where others had failed.
+
+Я решил сделать то, что я обдумывал раньше - заставить себя участвовать в сеансах поиска мыслей Мэри. Если в ее скрытых воспоминаниях было что-то, что можно было бы использовать для уничтожения слизней, возможно, я смогу увидеть это там, где другие потерпели неудачу.
+
+CHAPTER 29.
+
+ГЛАВА ДВАДЦАТЬ ДЕВЯТАЯ
+
+Since our <span class='tip-wrap' data-text='arrival [эрАйвэл] {существительное} прибытие'>**arrival**<span class='tip-text'> </span></span> Mary and I had been living in a small room.
+
+С момента нашего приезда мы с Мэри жили в маленькой комнате.
+
+The next morning before we left I said, "Mary, you never talk about what they ask you."
+
+На следующее утро, перед отъездом, я сказал: «Мэри, ты никогда не рассказываешь о том, о чем тебя спрашивают».
+
+She looked surprised. "But I never know."
+
+Она выглядела удивленной. «Но я никогда не знаю».
+
+"That's what I thought. Deep trance with a 'forgetter' order, eh?"
+
+«Вот что я и подумал. Глубокий транс с приказом «забыть», да?»
+
+"I suppose so."
+
+«Я так полагаю».
+
+"Hmm... well, there will be some changes made. Today I am going in with you."
+
+«Хм... ну, будут внесены некоторые изменения. Сегодня я пойду с вами».
+
+All she said was, "Yes, dear."
+
+Она лишь сказала: «Да, дорогой».
+
+They were gathered as usual in Dr. Steelton's office, the Old Man, Steelton himself, a <span class='tip-wrap' data-text='colonel [кЭрнэл] {существительное} полковник'>**Colonel**<span class='tip-text'> </span></span> Gibsy who was chief of staff, a lieutenant <span class='tip-wrap' data-text='colonel [кЭрнэл] {существительное} полковник'>**colonel**<span class='tip-text'> </span></span> whom I knew only by sight, and a lot of technicians.
+
+Они собрались, как обычно, в кабинете доктора Стилтона: Старик, сам Стилтон, полковник Гибси, который был начальником штаба, подполковник, которого я знал только в лицо, и множество технических специалистов.
+
+The Old Man's eyebrows shot up when he saw me but he said nothing. A sergeant who seemed to be doorman tried to stop me.
+
+Брови Старика взлетели вверх, когда он увидел меня, но он ничего не сказал. Сержант, который, казалось, был швейцаром, попытался остановить меня.
+
+"Good morning, Mrs. Nivens," he said to Mary; then to me he added, "I don't have you on the list."
+
+«Доброе утро, миссис Нивенс», — сказал он Мэри, а затем, обращаясь ко мне, добавил: «Вас нет в списке».
+
+"I'm putting myself on the list," I announced to the entire room and pushed on past him.
+
+«Я вношу себя в список», — объявил я на всю комнату и протиснулся мимо него.
+
+<span class='tip-wrap' data-text='colonel [кЭрнэл] {существительное} полковник'>**Colonel**<span class='tip-text'> </span></span> Gibsy glared at me and turned to the Old Man.
+
+Полковник Гибси бросил на меня сердитый взгляд и повернулся к Старику.
+
+The Old Man said, "<span class='tip-wrap' data-text='colonel [кЭрнэл] {существительное} полковник'>**Colonel**<span class='tip-text'> </span></span>, will you step outside with me? I'd like a word in private."
+
+Старик сказал: «Полковник, вы выйдете со мной? Я хотел бы поговорить с вами наедине».
+
+<span class='tip-wrap' data-text='colonel [кЭрнэл] {существительное} полковник'>**Colonel**<span class='tip-text'> </span></span> Gibsy went. We all waited. Mary sat down but I did not.
+
+Полковник Гибси пошел. Мы все ждали. Мэри села, но я нет.
+
+Ten or fifteen minutes later a sergeant came in. "Dr. Steelton, the Commanding Officer says to go ahead."
+
+Через десять или пятнадцать минут вошел сержант. «Доктор Стилтон, командир говорит, что можно продолжать».
+
+"Very well, Sergeant," he acknowledged, then looked at me, and said, "Let's go into the <span class='tip-wrap' data-text='operating [АпэрЕйтыŋ] {существительное} операционный'>**operating**<span class='tip-text'> </span></span> room."
+
+«Очень хорошо, сержант», — подтвердил он, затем посмотрел на меня и сказал: «Пойдем в операционную».
+
+I said, "Not so fast. Who are these people? How about them?" I indicated the lieutenant <span class='tip-wrap' data-text='colonel [кЭрнэл] {существительное} полковник'>**colonel**<span class='tip-text'> </span></span>.
+
+Я сказал: «Не так быстро. Кто эти люди? Что с ними?» Я указал на подполковника.
+
+"Eh? He's Dr. Hazelhurst - two years on Venus."
+
+«А? Он доктор Хейзелхерст — два года на Венере».
+
+"Okay, he stays." Then I said, "Now, Doctor, choose the people you actually need for your work."
+
+«Хорошо, он остается». Затем я сказал: «А теперь, доктор, выберите людей, которые вам действительно нужны для вашей работы».
+
+"Certainly, sir." It turned out that he wanted no one but <span class='tip-wrap' data-text='colonel [кЭрнэл] {существительное} полковник'>**Colonel**<span class='tip-text'> </span></span> Hazelhurst. I gathered an impression that he was glad to get rid of the gallery. We went on inside - Mary, myself, and the two specialists.
+
+«Конечно, сэр». Оказалось, что ему нужен был только полковник Хейзелхерст. У меня сложилось впечатление, что он был рад избавиться от галереи. Мы пошли внутрь — Мэри, я и двое специалистов.
+
+The <span class='tip-wrap' data-text='operating [АпэрЕйтыŋ] {существительное} операционный'>**operating**<span class='tip-text'> </span></span> room contained a psychiatrist's couch surrounded by a semi-circle of chairs. There was a camera overhead. Mary went to the couch and sat down; Dr. Steelton got out an injector.
+
+В операционной стояла кушетка психиатра, окруженная полукругом стульев. Над головой висела камера. Мэри подошла к кушетке и села; доктор Стилтон достал инъектор.
+
+I said, "Just a moment. You have records of the earlier attempts?"
+
+Я сказал: «Одну минуточку. У вас есть записи более ранних попыток?»
+
+"Of course."
+
+"Конечно."
+
+"Let's play them over first. I want to come up to date."
+
+«Давайте сначала их проиграем. Я хочу быть в курсе событий».
+
+He hesitated, then answered, "If you wish. Mrs. Nivens, I suggest that you wait in my office. No, it will take quite a long time; suppose I send for you later?"
+
+Он помедлил, затем ответил: «Если хотите, миссис Нивенс, предлагаю вам подождать в моем кабинете. Нет, это займет довольно много времени; может, я пошлю за вами позже?»
+
+"Let's find out first if she wants to leave," I said.
+
+«Давайте сначала выясним, хочет ли она уйти», — сказал я.
+
+Steelton looked surprised. "You don't know what you are suggesting. These records would be emotionally disturbing to your wife, even harmful."
+
+Стилтон выглядел удивленным. «Вы не знаете, что предлагаете. Эти записи могут быть эмоционально тревожными для вашей жены, даже вредными».
+
+I exploded. "Damn it, those records were stolen right out of my wife's head and they belong to her. I'm sick of you people trying to play God. I don't like it in a slug and I don't like it any better in a human being. She'll make up her own mind whether or not she wants to see them and whether or not I or anybody else will see them. Now ask her!"
+
+Я взорвался. «Чёрт возьми, эти записи были украдены прямо из головы моей жены, и они принадлежат ей. Мне надоели вы, люди, пытающиеся играть в Бога. Мне это не нравится в слизняке, и мне это не нравится ещё больше в человеке. Она сама решит, хочет ли она их видеть и увижу ли я или кто-то ещё. А теперь спросите её!»
+
+Steelton said, "Mrs. Nivens, do you wish to see your records?"
+
+Стилтон сказал: «Миссис Нивенс, вы хотите увидеть свои записи?»
+
+Mary answered, "Yes, Doctor, I'd like very much to see them."
+
+Мэри ответила: «Да, доктор, я очень хотела бы их увидеть».
+
+He seemed surprised. "Do you wish to see them by yourself?" He glanced at me.
+
+Он, казалось, удивился. «Ты хочешь увидеть их сам?» Он взглянул на меня.
+
+"My husband and I will see them. You and Dr. Hazelhurst are <span class='tip-wrap' data-text='welcome [уЕлкэм] {прилагательное} желанный; приятный'>**welcome**<span class='tip-text'> </span></span> to remain, if you wish."
+
+«Мы с мужем увидимся. Вы и доктор Хейзелхерст можете остаться, если пожелаете».
+
+Which they did. Presently a whole stack of tape spools were brought in, each labeled with attributed dates and ages. I put away those which concerned Mary's life after about 1991. I could not see how they could affect the problem and Mary could see them later if she wished.
+
+Что они и сделали. Вскоре принесли целую стопку катушек с лентами, каждая из которых была помечена датой и возрастом. Я убрал те, которые касались жизни Мэри после 1991 года. Я не видел, как они могли повлиять на проблему, и Мэри могла бы посмотреть их позже, если бы захотела.
+
+We started out with her very early life.
+
+Мы начали с ее самого раннего детства.
+
+First her face became that of a little girl - oh, her features were the same grown-up features but she looked like very small girl. Then her expression changed when other actors out of her memory took over. It was like watching an incredibly able monologist playing many parts.
+
+Сначала ее лицо стало лицом маленькой девочки — о, ее черты были такими же взрослыми, но она выглядела как очень маленькая девочка. Затем ее выражение изменилось, когда другие актеры из ее памяти взяли верх. Это было похоже на наблюдение за невероятно способным монологом, играющим множество ролей.
+
+Mary controlled herself but her hand stole into <span class='tip-wrap' data-text='mine [мАйн] {существительное} шахта'>**mine**<span class='tip-text'> </span></span>.
+
+Мэри сдержалась, но ее рука скользнула в мою.
+
+I skipped over the spools marked "period of suspended animation" and proceeded to the group concerned with the time from her revival to the group concerned with her rescue from the swamps.
+
+Я пропустил катушки с надписью «период анабиоза» и перешел к группе, посвященной времени от ее оживления до группы, посвященной ее спасению из болот.
+
+One thing was certain from her expressions: she had been possessed by a slug as soon as she was revived. The dead quality of her face was that of a slug not bothering to keep up a masquerade; the stereocasts from Zone Red were full of that expression.
+
+Одно было ясно из ее выражений: она была одержима слизняком, как только ее оживили. Мертвое качество ее лица было как у слизняка, не беспокоящегося о поддержании маскарада; стереотрансляции из Зоны Красной были полны этого выражения.
+
+Then, rather suddenly, she was no longer slug-ridden but was again a little girl, a very sick and frightened little girl. Then a new voice came out loud and clear; "Look, Pete - it's a little girl!"
+
+Затем, довольно внезапно, она больше не была охвачена слизняками, а снова стала маленькой девочкой, очень больной и напуганной маленькой девочкой. Затем раздался новый голос громко и ясно: «Смотри, Пит, это маленькая девочка!»
+
+Another voice answered, "Alive?" and the first voice answered, "I don't know."
+
+Другой голос ответил: «Живой?», а первый голос ответил: «Я не знаю».
+
+The rest of that tape carried on into Kaiserville, her <span class='tip-wrap' data-text='recovery [рыкАври] {существительное} восстановление'>**recovery**<span class='tip-text'> </span></span>, and many new voices and memories; presently it ended.
+
+Остальная часть этой записи продолжилась в Кайзервилле, ее выздоровлении и множестве новых голосов и воспоминаний; вскоре она закончилась.
+
+"I suggest," Dr. Steelton said as he took the tape out of the projector, "that we play another one of the same period. They are all slightly different and this period is the key to the whole matter."
+
+«Я предлагаю», сказал доктор Стилтон, вынимая кассету из проектора, «проиграть еще одну из тех же времен. Они все немного отличаются, и этот период — ключ ко всему вопросу».
+
+"Why, Doctor?" Mary wanted to know.
+
+«Почему, доктор?» — хотела узнать Мэри.
+
+"Eh? Of course you need not see them if you don't want to - but this period is the one which we are actually investigating. From your memories we must build up a picture of what happened to the parasites on Venus, why they died. In particular, if we could tell just what killed the titan which, uh, possessed you before you were found - what killed it and left you alive - we might have the weapon we need."
+
+«А? Конечно, вам не обязательно их видеть, если вы не хотите, но именно этот период мы и расследуем. Из ваших воспоминаний мы должны составить картину того, что случилось с паразитами на Венере, почему они умерли. В частности, если бы мы могли сказать, что именно убило титана, который, э-э, овладел вами до того, как вас нашли, — что убило его и оставило вас в живых, — у нас могло бы быть необходимое нам оружие».
+
+"But don't you know?" Mary asked wonderingly.
+
+«Но разве ты не знаешь?» — удивленно спросила Мэри.
+
+"Eh? Not yet, not yet - but we'll get it. The human memory is an amazingly complete record."
+
+«А? Пока нет, пока нет — но мы получим. Человеческая память — это удивительно полная запись».
+
+"But I can tell you now - I thought you knew. It was 'nine-day fever'."
+
+«Но теперь я могу сказать тебе — я думал, ты знаешь. Это была «девятидневная лихорадка».
+
+"What?" Hazelhurst was shocked.
+
+«Что?» — Хейзелхерст был шокирован.
+
+"But of course. Couldn't you tell from my face? It was utterly characteristic - the mask, I mean. I saw it several times; I used to look after the sick back in Kaiserville, because I had had it once and was immune to it."
+
+«Ну конечно. Разве вы не заметили этого по моему лицу? Это было совершенно характерно — маска, я имею в виду. Я видел ее несколько раз; я ухаживал за больными в Кайзервилле, потому что я сам однажды переболел и у меня был иммунитет».
+
+Steelton said, "How about it Doctor? Have you ever seen a case of it?"
+
+Стилтон сказал: «Что вы об этом думаете, доктор? Вы когда-нибудь видели такой случай?»
+
+"Seen a case? No, I can't say that I have; by the time of the second expedition they had the vaccine for it. I'm thoroughly acquainted with its clinical characteristics, of course."
+
+«Видел случай? Нет, не могу сказать, что видел; ко времени второй экспедиции от него уже была вакцина. Я, конечно, хорошо знаком с его клиническими характеристиками».
+
+"But can't you tell from this record?"
+
+«Но разве вы не можете это определить по этой записи?»
+
+"Well," Hazelhurst answered carefully, "I would say that what we have seen is <span class='tip-wrap' data-text='consistent [кэнсЫстэнт] {прилагательное} последовательный'>**consistent**<span class='tip-text'> </span></span> with it - but not conclusive, not conclusive."
+
+«Ну», — осторожно ответил Хейзелхерст, — «я бы сказал, что то, что мы увидели, соответствует этому, но не окончательно, не окончательно».
+
+"What's not conclusive?" Mary said <span class='tip-wrap' data-text='sharply [шАрпли] {наречие} резко'>**sharply**<span class='tip-text'> </span></span>. "I told you it was 'nine-day fever'."
+
+«Что не окончательно?» — резко сказала Мэри. «Я же сказала, что это «девятидневная лихорадка».
+
+"We must be sure," Steelton said apologetically.
+
+«Мы должны быть уверены», — извиняющимся тоном сказал Стилтон.
+
+"How sure can you get? There is no question about it. I was told that I had had nine-day fever, that I had been sick with it when Pete and Frisco found me. I looked after the sick <span class='tip-wrap' data-text='later [лЕйтэр] {прилагательное} поздний'>**later**<span class='tip-text'> </span></span> and I never caught it again. I remember what their faces looked like when they were ready to die - just like my own face in the record. Anyone who has ever seen a case never forgets it and could not possibly mistake it for anything else. What more do you want?"
+
+«Насколько вы можете быть уверены? В этом нет никаких сомнений. Мне сказали, что у меня была девятидневная лихорадка, что я был болен ею, когда Пит и Фриско нашли меня. Я ухаживал за больными позже и никогда больше не заражался ею. Я помню, как выглядели их лица, когда они были готовы умереть, — точно так же, как мое собственное лицо в отчете. Тот, кто когда-либо видел случай, никогда его не забудет и не сможет спутать его ни с чем другим. Чего еще вам нужно?»
+
+Steelton said, "I think you have proved your point, dear lady - but tell me: you were believed to have no memory of this period and my own experience with you leads me to think so. Now you speak as if you had direct, <span class='tip-wrap' data-text='conscious [кАншэс] {прилагательное} сознательный'>**conscious**<span class='tip-text'> </span></span> memory - yes?"
+
+Стилтон сказал: «Я думаю, вы доказали свою точку зрения, дорогая леди, но скажите мне: считалось, что вы не помните этот период, и мой собственный опыт общения с вами заставляет меня так думать. Теперь вы говорите так, как будто у вас есть прямая, сознательная память, да?»
+
+Mary looked puzzled. "I remember it now - I remember it quite clearly. I haven't thought about it in many years."
+
+Мэри выглядела озадаченной. «Я помню это сейчас — я помню это совершенно ясно. Я не думала об этом много лет».
+
+"I think I understand." He turned to Hazelhurst. "Well, Doctor? Do we have a culture of it in the laboratory? Have your boys done any work on it?"
+
+«Думаю, я понял». Он повернулся к Хейзелхерсту. «Ну что, доктор? У нас есть его культура в лаборатории? Ваши ребята что-нибудь с ним сделали?»
+
+Hazelhurst seemed stunned. "Work on it? Of course not! It's out of the question - nine-day fever! We might as well use typhus!"
+
+Хейзелхерст казался ошеломленным. "Работать над этим? Конечно, нет! Об этом не может быть и речи — девятидневная лихорадка! С таким же успехом можно использовать тиф!"
+
+I touched Mary's arm and said, "Let's go, darling. I think we have done all the damage we can." As we left I saw that she was trembling and that her eyes were full of tears.
+
+Я коснулся руки Мэри и сказал: «Пойдем, дорогая. Я думаю, мы уже нанесли весь возможный ущерб». Когда мы уходили, я увидел, что она дрожит, а ее глаза полны слез.
+
+Later on I bedded Mary down for a nap and sat with her until I was sure she was <span class='tip-wrap' data-text='asleep [эслИп] {прилагательное} спящий'>**asleep**<span class='tip-text'> </span></span>. Then I looked up my father; he was in the office they had assigned to him. The green <span class='tip-wrap' data-text='privacy [прАйвэси] {существительное} уединение (приватность)'>**privacy**<span class='tip-text'> </span></span> light was already on.
+
+Позже я уложил Мэри спать и сидел с ней, пока не убедился, что она спит. Затем я поискал своего отца; он был в кабинете, который ему выделили. Зеленый свет конфиденциальности уже горел.
+
+He looked at me. "Well, Elihu, I hear that you hit the jackpot."
+
+Он посмотрел на меня. «Ну, Элиху, я слышал, что ты сорвал джекпот».
+
+"I prefer to be called 'Sam'," I answered.
+
+«Я предпочитаю, чтобы меня называли «Сэм»», — ответил я.
+
+"Very well, Sam. Success is its own <span class='tip-wrap' data-text='excuse [ыкскйУс] {существительное} оправдание; извинение'>**excuse**<span class='tip-text'> </span></span>; <span class='tip-wrap' data-text='nevertheless [нЕвэрðэлЕс] {наречие} тем не менее'>**nevertheless**<span class='tip-text'> </span></span> the jackpot appears to be disappointingly small. The situation seems to be almost as hopeless as before. Nine-day fever, no <span class='tip-wrap' data-text='wonder [уАндэр] {существительное} чудо'>**wonder**<span class='tip-text'> </span></span> the <span class='tip-wrap' data-text='colony [кАлэни] {существительное} колония; поселение'>**colony**<span class='tip-text'> </span></span> died out and the slugs as well. I don't see how we can use it. We can't expect everyone to have Mary's strong will to live."
+
+«Очень хорошо, Сэм. Успех сам по себе оправдание; тем не менее, джекпот, похоже, разочаровывающе мал. Ситуация кажется почти такой же безнадежной, как и прежде. Девятидневная лихорадка, неудивительно, что колония вымерла, и слизни тоже. Я не вижу, как мы можем это использовать. Мы не можем ожидать, что у всех будет такая же сильная воля к жизни, как у Мэри».
+
+I understood him; the fever carried a 98-percent death rate among unprotected Earthmen. With those who had been vaccinated the rate was an effective zero - but that did not matter. We needed a bug that would just make a man sick - but would kill his slug.
+
+Я его понял; лихорадка приводила к 98-процентной смертности среди незащищенных землян. У тех, кто был вакцинирован, этот показатель был фактически нулевым - но это не имело значения. Нам нужен был вирус, который просто заразит человека - но убьет его слизняка.
+
+"Sam, you'll have to devise a better plan than that," suddenly the Old Man said.
+
+«Сэм, тебе придется придумать план получше», — внезапно сказал Старик.
+
+"I'll have to? I just work here."
+
+«Мне придется? Я просто здесь работаю».
+
+"You did once - but now you've taken charge. I don't <span class='tip-wrap' data-text='mind [мАйнд] {глагол} возражать; прислушиваться; присматривать'>**mind**<span class='tip-text'> </span></span>; I was ready to <span class='tip-wrap' data-text='retire [рытАйр] {глагол} уходить'>**retire**<span class='tip-text'> </span></span> anyhow."
+
+«Однажды ты это сделал, но теперь ты взял на себя ответственность. Я не против; я был готов уйти на пенсию в любом случае».
+
+"Huh? What the devil are you talking about? I'm not in charge of anything - and don't want to be. You are head of the Section."
+
+«А? О чем, черт возьми, ты говоришь? Я ничем не командую и не хочу этим заниматься. Ты — глава Секции».
+
+He shook his head. "A boss is the man who does the bossing. Titles and insignia usually come after the fact, not before. Tell me - do you think Oldfield could take over my job?"
+
+Он покачал головой. "Босс — это человек, который командует. Титулы и знаки отличия обычно появляются после, а не до. Скажите, как вы думаете, Олдфилд мог бы занять мое место?"
+
+I considered it and shook my head; Dad's chief <span class='tip-wrap' data-text='deputy [дЕпйэти] {существительное} заместитель (депутат)'>**deputy**<span class='tip-text'> </span></span> was the executive officer type, a "carry-<span class='tip-wrap' data-text='outer [Аутэр] {прилагательное} внешний'>**outer**<span class='tip-text'> </span></span>", not a "think-upper". "I've known that you would take over, some day," he went on. "Now you've done it - by bucking my <span class='tip-wrap' data-text='judgment [джАджмэнт] {существительное} суждение (также суд)'>**judgment**<span class='tip-text'> </span></span> on an important matter, forcing your own on me, and by being justified in the <span class='tip-wrap' data-text='outcome [АуткАм] {существительное} результат'>**outcome**<span class='tip-text'> </span></span>."
+
+Я обдумал это и покачал головой; главный заместитель папы был типом исполнительного директора, «переносчиком», а не «придумщиком». «Я знал, что ты когда-нибудь примешь управление», — продолжал он. «Теперь ты это сделал — воспротивившись моему решению по важному вопросу, навязав мне свое собственное и оправдав результат».
+
+"Oh, rats! I got stubborn and forced one issue. But I didn't expect to find out anything; I had a lucky break."
+
+«Ох, крысы! Я проявил упрямство и навязал один вопрос. Но я не ожидал ничего узнать; мне повезло».
+
+He shook his head. "I don't believe in <span class='tip-wrap' data-text='luck [лАк] {существительное} удача'>**luck**<span class='tip-text'> </span></span>, Sam. <span class='tip-wrap' data-text='luck [лАк] {существительное} удача'>**Luck**<span class='tip-text'> </span></span> is a tag given by the mediocre to <span class='tip-wrap' data-text='account [экАунт] {глагол} учитывать'>**account**<span class='tip-text'> </span></span> for the accomplishments of genius."
+
+Он покачал головой. «Я не верю в удачу, Сэм. Удача — это ярлык, который дают посредственности, чтобы оправдать достижения гения».
+
+I placed my hands on the desk and leaned toward him. "Okay, so I'm a genius - just the same you are not going to get me to hold the sack. When this is over Mary and I are going up in the mountains and raise kittens and kids. We don't intend to spend our time bossing crazy agents."
+
+Я положил руки на стол и наклонился к нему. "Ладно, я гений, но все равно ты не заставишь меня держать мешок. Когда все это закончится, мы с Мэри отправимся в горы и будем растить котят и детей. Мы не собираемся тратить время на командование сумасшедшими агентами".
+
+He smiled gently as though he could see farther into the future than I could. I went on, "I don't want your job - understand me?"
+
+Он мягко улыбнулся, как будто мог видеть будущее дальше, чем я. Я продолжил: «Я не хочу твоей работы — понимаешь?»
+
+"Don't take it so hard, Sam. I'll keep the title for the present and give you all the help I can. In the meantime, what are your orders, sir?"
+
+«Не принимай это так близко к сердцу, Сэм. Я пока сохраню титул и окажу тебе всю возможную помощь. А пока, каковы будут ваши приказы, сэр?»
+
+CHAPTER 30.
+
+ГЛАВА ТРИДЦАТАЯ
+
+A top-level conference was called late that afternoon.
+
+Ближе к вечеру того же дня была созвана конференция на высшем уровне.
+
+The meeting was largely given over to moaning and groaning about the absolute impossibility of using nine-day fever against the slugs. It was sure death to any human - or almost any human. Seven to ten days after <span class='tip-wrap' data-text='exposure [ыкспOужэр] {существительное} воздействие; экспозиция'>**exposure**<span class='tip-text'> </span></span>, then curtains.
+
+Встреча в основном была посвящена стенаниям и стонам по поводу абсолютной невозможности использования девятидневной лихорадки против слизней. Это была верная смерть для любого человека — или почти для любого человека. Семь-десять дней после воздействия, а затем занавески.
+
+"Yes, Mr. Nivens?" It was the commanding general, addressing me. I hadn't said anything but Dad's eyes were on me, waiting.
+
+«Да, мистер Нивенс?» Это был командующий генерал, обращающийся ко мне. Я ничего не сказал, но глаза папы были устремлены на меня, ожидая.
+
+"I think there has been a lot of despair voiced at this session," I said, "and a lot of opinions given that were based on assumptions. The assumptions may not be correct."
+
+«Я думаю, что на этой сессии было высказано много отчаяния», — сказал я, — «и было высказано много мнений, основанных на предположениях. Предположения могут быть неверными».
+
+"Yes?"
+
+"Да?"
+
+"Yes. How do you know it lasts nine days - for a slug?"
+
+«Да. Откуда ты знаешь, что он продержится девять дней — для слизняка?»
+
+I was asked why I thought the fever might run a different time in slugs and, if so, why it mattered.
+
+Меня спросили, почему я считаю, что у слизней лихорадка может протекать по-другому, и если да, то почему это имеет значение.
+
+"As to the first point," I said, "according to the record I saw this morning in the only case we know about the slug died in less than nine days. Those of you who have seen the records on my wife are aware that her parasite left her, presumably dropped off and died, long before the eighth-day crisis. If it is true and experiments show it to be, then the problem is very different. A man infected with the fever might be rid of his slug in - oh, call it four days. That gives you five days to catch him and cure him."
+
+«Что касается первого пункта», - сказал я, - «согласно записи, которую я видел сегодня утром, в единственном известном нам случае слизняк умер менее чем за девять дней. Те из вас, кто видел записи о моей жене, знают, что ее паразит покинул ее, предположительно, отпал и умер задолго до восьмидневного кризиса. Если это правда и эксперименты это показывают, то проблема совсем в другом. Человек, зараженный лихорадкой, может избавиться от своего слизняка за - ну, скажем, за четыре дня. Это дает вам пять дней, чтобы поймать его и вылечить».
+
+The general whistled. "That's a pretty heroic solution, Mr. Nivens. How do you propose to cure him? And how do you propose to catch him? Suppose we <span class='tip-wrap' data-text='plant [плЭнт] {глагол} сажать'>**plant**<span class='tip-text'> </span></span> an epidemic of nine-day fever in Zone Red, it would take some incredibly fast footwork - in the face of stubborn <span class='tip-wrap' data-text='resistance [рызЫстэнс] {существительное} сопротивление'>**resistance**<span class='tip-text'> </span></span>, remember - to locate and treat more than fifty million people before they died of the fever."
+
+Генерал присвистнул. «Это довольно героическое решение, мистер Нивенс. Как вы предлагаете его вылечить? И как вы предлагаете его поймать? Предположим, мы устроим эпидемию девятидневной лихорадки в Красной Зоне, и потребуется невероятно быстрое маневрирование — несмотря на упорное сопротивление, помните — чтобы найти и вылечить более пятидесяти миллионов человек, прежде чем они умрут от лихорадки».
+
+"As to the second question, that is a logistical and tactical problem - your problem, not mine. As to the first, there is your expert." I pointed to Dr. Hazelhurst. "Ask him."
+
+«Что касается второго вопроса, то это логистическая и тактическая проблема — ваша проблема, а не моя. Что касается первого, то вот ваш эксперт». Я указал на доктора Хейзелхерста. «Спросите его».
+
+Hazelhurst said he seemed to recall that some work had been done toward an antitoxin treatment but the vaccine for immunizing had proven so successful that he was not sure the antitoxin had ever been perfected. Anyway, everyone who went to Venus nowadays was immunized before leaving. He concluded by saying that the study of the exotic diseases of Venus was <span class='tip-wrap' data-text='necessarily [нЕсэсЕрэли] {наречие} обязательно'>**necessarily**<span class='tip-text'> </span></span> still in its beginning.
+
+Хейзелхерст сказал, что, кажется, он помнит, что была проделана некоторая работа по антитоксиновой терапии, но вакцина для иммунизации оказалась настолько успешной, что он не уверен, что антитоксин когда-либо был усовершенствован. В любом случае, все, кто отправлялся на Венеру в настоящее время, были иммунизированы перед отъездом. Он заключил, что изучение экзотических болезней Венеры, безусловно, все еще находится в начале своего пути.
+
+The general interrupted him as he was finishing. "This antitoxin business - how soon can you find out about it?"
+
+Генерал прервал его, когда он заканчивал: «Эта история с антитоксином — как скоро вы сможете о ней узнать?»
+
+Hazelhurst said he would get after it at once, there was a man at the Sorbonne he wanted to phone.
+
+Хейзелхерст сказал, что немедленно этим займется, так как в Сорбонне есть человек, которому он хотел позвонить.
+
+"Do so," his commanding officer said. "As soon as possible."
+
+«Сделайте это», — сказал его командир. «Как можно скорее».
+
+Hazelhurst appeared at our door before breakfast the next morning. I was annoyed but tried not to show it when I stepped out into the passage to see him. "Sorry to wake you," he said, "but you were right about that antitoxin matter."
+
+На следующее утро перед завтраком у нас появился Хейзелхерст. Я был раздражен, но старался не показывать этого, когда вышел в коридор, чтобы увидеть его. «Извините, что разбудил вас», — сказал он, — «но вы были правы насчет антитоксина».
+
+"Huh?"
+
+"Хм?"
+
+"They are sending me some from Paris; it should arrive any minute now. I hope it's still potent."
+
+«Мне присылают немного из Парижа; оно должно прибыть с минуты на минуту. Надеюсь, оно все еще действенное».
+
+"And if it isn't?"
+
+«А если нет?»
+
+"Well, we have the means to make it. We'll have to make it, of course, if this wild <span class='tip-wrap' data-text='scheme [скИм] {существительное} схема; система'>**scheme**<span class='tip-text'> </span></span> is used - millions of units of it."
+
+«Ну, у нас есть средства, чтобы это сделать. Нам, конечно, придется это сделать, если будет использована эта дикая схема — миллионы единиц».
+
+"Thanks for telling me," I said. "I know the general will be pleased." I started to turn away; he stopped me.
+
+«Спасибо, что рассказали», — сказал я. «Я знаю, генерал будет доволен». Я начал отворачиваться; он остановил меня.
+
+"Uh, Mr. Nivens -"
+
+«Э-э, мистер Нивенс...»
+
+"Yes?"
+
+"Да?"
+
+"About the matter of vectors -"
+
+«По поводу векторов...»
+
+"Vectors?" At the moment all the word meant to me was little arrows pointing in various directions.
+
+«Векторы?» В тот момент для меня это слово означало лишь маленькие стрелочки, указывающие в разных направлениях.
+
+"Disease vectors. We can't use rats or mice or anything like that. Do you know how the fever is transmitted on Venus? By a little flying Venerian equivalent of an <span class='tip-wrap' data-text='insect [ЫнсЕкт] {существительное} насекомое'>**insect**<span class='tip-text'> </span></span> - but we don't have such here and that is the only way it can be carried."
+
+«Переносчики болезней. Мы не можем использовать крыс, мышей или что-то в этом роде. Знаете, как лихорадка передается на Венере? С помощью маленького летающего венерианского эквивалента насекомого, но у нас здесь такого нет, и это единственный способ ее переноса».
+
+"Do you mean to say you couldn't give it to me if you tried? Even with a jugful of <span class='tip-wrap' data-text='live [лАйв] {прилагательное} живой'>**live**<span class='tip-text'> </span></span> culture?"
+
+«Ты хочешь сказать, что не смог бы мне этого дать, если бы попытался? Даже с кувшином живой культуры?»
+
+"Oh, yes - I could inject you with it. But I can't picture a million paratroopers dropping into Zone Red and asking the parasite-ridden population to hold still while they gave them injections." He spread his hands helplessly.
+
+«О, да, я мог бы сделать вам инъекцию. Но я не могу представить себе миллион десантников, высаживающихся в Красной Зоне и просящих зараженное паразитами население сидеть смирно, пока они делают им инъекции». Он беспомощно развел руками.
+
+Something started turning slowly over in my brain... a million men, in a single <span class='tip-wrap' data-text='drop [дрАп] {существительное} падение'>**drop**<span class='tip-text'> </span></span>. "Why ask me?" I said. "It seems to be a medical problem."
+
+Что-то начало медленно переворачиваться в моем мозгу... миллион мужчин в одной капле. «Почему вы спрашиваете меня?» — сказал я. «Кажется, это медицинская проблема».
+
+"Uh, yes, it is of course." He paused.
+
+«Ну да, конечно», — он помолчал.
+
+My mind was struggling with two problems at once and beginning to have traffic problems. How many people were there in Zone Red? "Let me get this straight: suppose you had the fever and I didn't; I could not catch it from you?" The <span class='tip-wrap' data-text='drop [дрАп] {существительное} падение'>**drop**<span class='tip-text'> </span></span> could not be medical men; there weren't that many.
+
+Мой разум боролся с двумя проблемами одновременно и начал испытывать проблемы с движением. Сколько людей было в Зоне Красной? «Позвольте мне прояснить это: предположим, у вас была лихорадка, а у меня нет; я не мог заразиться ею от вас?» Этим дропом не могли быть медики; их было не так много.
+
+"Not very easily. If I took a <span class='tip-wrap' data-text='live [лАйв] {прилагательное} живой'>**live**<span class='tip-text'> </span></span> smear from my <span class='tip-wrap' data-text='throat [θрOут] {существительное} горло'>**throat**<span class='tip-text'> </span></span> and placed it in your <span class='tip-wrap' data-text='throat [θрOут] {существительное} горло'>**throat**<span class='tip-text'> </span></span>, you might contract it. If I opened a vein of <span class='tip-wrap' data-text='mine [мАйн] {существительное} шахта'>**mine**<span class='tip-text'> </span></span> and made a trace transfusion to your veins, you would be infected with it."
+
+«Не очень-то легко. Если я возьму живой мазок из своего горла и поместлю его в ваше горло, вы можете заразиться. Если я вскрою себе вену и сделаю следовое переливание в ваши вены, вы будете инфицированы».
+
+"Direct contact, eh?" How many people could one paratrooper service? Ten? Twenty? Thirty? Or more? "If that is what it takes, you don't have any problem."
+
+«Прямой контакт, а?» Сколько человек может обслужить один десантник? Десять? Двадцать? Тридцать? Или больше? «Если это то, что нужно, у вас нет никаких проблем».
+
+"Eh?"
+
+«А?»
+
+"What's the first thing one slug does when he runs across another slug he hasn't seen lately?"
+
+«Что первым делом делает слизняк, когда натыкается на другого слизняка, которого давно не видел?»
+
+"Conjugation!"
+
+«Спряжение!»
+
+"'Direct conference', I've always called it. Do you think that would pass on the disease?"
+
+«Я всегда называл это «прямой конференцией». Как вы думаете, это может передать болезнь?»
+
+"Think so? I'm sure of it! We have demonstrated, right here in this laboratory, that there is actual exchange of living protein during conjugation. They could not possibly escape direct <span class='tip-wrap' data-text='transmission [трэнсмЫшэн] {существительное} трансмиссия'>**transmission**<span class='tip-text'> </span></span>; we can infect the whole <span class='tip-wrap' data-text='colony [кАлэни] {существительное} колония; поселение'>**colony**<span class='tip-text'> </span></span> as if it were one body. Now why didn't I think of that?"
+
+«Думаете? Я в этом уверен! Мы продемонстрировали, прямо здесь, в этой лаборатории, что во время конъюгации происходит реальный обмен живым белком. Они не могли избежать прямой передачи; мы можем заразить всю колонию, как если бы это было одно тело. Почему же я об этом не подумал?»
+
+I said, "Better try it first. But I <span class='tip-wrap' data-text='suspect [сэспЕкт] {глагол} подозревать'>**suspect**<span class='tip-text'> </span></span> that it will work."
+
+Я сказал: «Лучше сначала попробовать. Но я подозреваю, что это сработает».
+
+"It will, it will!"
+
+«Будет, будет!»
+
+In his report Hazelhurst referred to the idea of <span class='tip-wrap' data-text='transmission [трэнсмЫшэн] {существительное} трансмиссия'>**transmission**<span class='tip-text'> </span></span> as the "Nivens vector". Then I started to talk.
+
+В своем докладе Хейзелхерст назвал идею передачи «вектором Нивенса». Затем я начал говорить.
+
+"Dr. Hazelhurst has <span class='tip-wrap' data-text='properly [прАпэрли] {наречие} правильно'>**properly**<span class='tip-text'> </span></span> left open for discussion certain aspects which are tactical rather than medical. While it is true that the entire body of titans might be infected from one contact, important considerations of <span class='tip-wrap' data-text='timing [тАймыŋ] {существительное} тайминг'>**timing**<span class='tip-text'> </span></span> require vectoring from many points. If we are to save a hundred percent of the population of Zone Red, it is necessary that all the parasites be infected at as nearly the same time as possible in order that rescue groups may enter Zone Red after the slugs are no longer dangerous and before any <span class='tip-wrap' data-text='host [хOуст] {существительное} хозяин; ведущий'>**host**<span class='tip-text'> </span></span> has passed the point where antitoxin can save him. The problem is subject to mathematical analysis and should be turned over to your analytical section."
+
+«Доктор Хейзелхерст справедливо оставил открытыми для обсуждения некоторые аспекты, которые являются тактическими, а не медицинскими. Хотя верно, что все тело титанов может быть инфицировано при одном контакте, важные соображения времени требуют направления из многих точек. Если мы хотим спасти сто процентов населения Зоны Красной, необходимо, чтобы все паразиты были инфицированы как можно ближе к одному времени, чтобы спасательные группы могли войти в Зону Красной после того, как слизни перестанут быть опасными, и до того, как какой-либо носитель пройдет точку, где антитоксин может его спасти. Проблема подлежит математическому анализу и должна быть передана в ваш аналитический отдел».
+
+The general said, "Mr. Nivens, I think we can assure you of any number of volunteers for vectoring."
+
+Генерал сказал: «Господин Нивенс, я думаю, мы можем гарантировать вам наличие любого количества добровольцев для векторизации».
+
+I shook my head. "You must not use human volunteers, sir. The slug will know everything that his <span class='tip-wrap' data-text='host [хOуст] {существительное} хозяин; ведущий'>**host**<span class='tip-text'> </span></span> knows - and he simply will not go into direct conference; he'll warn the others by word of mouth instead." I did not know that I was right but it sounded <span class='tip-wrap' data-text='reasonable [рИзэнэбэл] {прилагательное} разумный'>**reasonable**<span class='tip-text'> </span></span>. "No, sir, we will use animals - apes, dogs, anything large enough to carry a slug but incapable of human speech, and in sufficient quantities to infect the whole group before any slug knows that it is sick."
+
+Я покачал головой. «Вы не должны использовать людей-добровольцев, сэр. Слизняк будет знать все, что знает его хозяин, — и он просто не пойдет на прямую конференцию; он предупредит остальных устно». Я не знал, что я прав, но это звучало разумно. «Нет, сэр, мы будем использовать животных — обезьян, собак, все, что достаточно большое, чтобы переносить слизняка, но неспособное на человеческую речь, и в достаточном количестве, чтобы заразить всю группу, прежде чем какой-либо слизняк поймет, что он болен».
+
+I went on to give a fast sketch of the final <span class='tip-wrap' data-text='drop [дрАп] {существительное} падение'>**drop**<span class='tip-text'> </span></span>, <span class='tip-wrap' data-text='schedule [скЕджул] {существительное} расписание'>**Schedule**<span class='tip-text'> </span></span> Mercy, as visualized it. "We can assume that the first <span class='tip-wrap' data-text='drop [дрАп] {существительное} падение'>**drop**<span class='tip-text'> </span></span> - <span class='tip-wrap' data-text='schedule [скЕджул] {существительное} расписание'>**Schedule**<span class='tip-text'> </span></span> Fever - can start as soon as we are sure that we will have enough units of antitoxin for the second <span class='tip-wrap' data-text='drop [дрАп] {существительное} падение'>**drop**<span class='tip-text'> </span></span>. In less than a week later there should be no slug left alive on this continent."
+
+Я продолжил, чтобы дать быстрый набросок последнего сброса, Schedule Mercy, как он визуализировался. «Мы можем предположить, что первый сброс — Schedule Fever — может начаться, как только мы будем уверены, что у нас будет достаточно единиц антитоксина для второго сброса. Меньше чем через неделю на этом континенте не должно остаться ни одного живого слизняка».
+
+They did not applaud, but it felt that way. The general hurried away to call Air Marshal Rexton, then sent his <span class='tip-wrap' data-text='aide [Ейд] {существительное} помощник'>**aide**<span class='tip-text'> </span></span> back to invite me to lunch. I sent word that I would be pleased provided the invitation included my wife, otherwise I would be <span class='tip-wrap' data-text='unable [энЕйбэл] {прилагательное} неспособный'>**unable**<span class='tip-text'> </span></span> to accept.
+
+Они не аплодировали, но так оно и было. Генерал поспешил позвонить маршалу авиации Рекстону, а затем отправил своего помощника обратно, чтобы пригласить меня на обед. Я передал, что буду рад, если приглашение будет включать мою жену, иначе я не смогу принять приглашение.
+
+Dad waited for me outside the conference room. "Well, how did I do?" I asked him, more anxiously than I tried to sound.
+
+Папа ждал меня снаружи конференц-зала. «Ну, как у меня дела?» — спросил я его, более обеспокоенно, чем пытался показать.
+
+He shook his head. "Sam, you wowed them. I think I'll sign you up for twenty-six weeks of stereo instead."
+
+Он покачал головой. «Сэм, ты их поразил. Думаю, я лучше подпишу тебя на двадцать шесть недель стерео».
+
+I tried not to show how much I was pleased. I had gotten through the whole performance without once stammering; I felt like a new man.
+
+Я старался не показывать, насколько я был доволен. Я отыграл все представление, ни разу не запнувшись; я чувствовал себя новым человеком.
+
+CHAPTER 31.
+
+ГЛАВА ТРИДЦАТЬ ПЕРВАЯ
+
+So we used anthropoid apes for the experiments. We had on hand not only apes from the National Zoological Gardens but those from half a dozen zoos and a couple of circuses. I did not select Satan for the job; I let the poor beast be.
+
+Итак, для экспериментов мы использовали человекообразных обезьян. У нас были под рукой не только обезьяны из Национального зоологического сада, но и из полудюжины зоопарков и пары цирков. Я не выбирал Сатану для этой работы; я оставил бедное животное в покое.
+
+Satan was injected with nine-day fever on Wednesday the 13th. By Friday the fever had established; another chimp with a slug was introduced into his cage; the two slugs immediately went into direct conference, after which the second ape was removed.
+
+Сатане в среду 13-го числа сделали прививку от девятидневной лихорадки. К пятнице лихорадка установилась; в его клетку ввели еще одного шимпанзе со слизняком; два слизняка немедленно вступили в прямую перепалку, после чего вторую обезьяну убрали.
+
+On Sunday the 17th Satan's master fell off - dead. Satan was immediately injected with the antitoxin. Late Monday the other slug died and its <span class='tip-wrap' data-text='host [хOуст] {существительное} хозяин; ведущий'>**host**<span class='tip-text'> </span></span> was dosed.
+
+В воскресенье 17-го хозяин Сатаны упал - замертво. Сатане немедленно ввели антитоксин. Поздно вечером в понедельник умер другой слизняк, и его хозяину дали дозу.
+
+By Wednesday Satan was well though a bit thin and the second ape was on the road to <span class='tip-wrap' data-text='recovery [рыкАври] {существительное} восстановление'>**recovery**<span class='tip-text'> </span></span>.
+
+К среде Сатана был здоров, хотя и немного похудел, а вторая обезьяна была на пути к выздоровлению.
+
+Everyone in the labs was working <span class='tip-wrap' data-text='harder [хАрдэр] {прилагательное} жесткий'>**harder**<span class='tip-text'> </span></span> than ever, mounting <span class='tip-wrap' data-text='schedule [скЕджул] {существительное} расписание'>**Schedule**<span class='tip-text'> </span></span> Fever and <span class='tip-wrap' data-text='schedule [скЕджул] {существительное} расписание'>**Schedule**<span class='tip-text'> </span></span> Mercy. By order of the President all possible preparations were taking place in this one lab in the Smoky Mountains. The apes for vectoring, some two hundred of them, were here, and both the culture and the antitoxin were being "cooked" here; the horses needed for serum were stalled in what had been an underground handball court.
+
+Все в лабораториях работали усерднее, чем когда-либо, наращивая Schedule Fever и Schedule Mercy. По приказу президента все возможные приготовления проводились в этой одной лаборатории в Смоки-Маунтинс. Обезьяны для векторизации, около двухсот, были здесь, и культура, и антитоксин «готовились» здесь; лошади, необходимые для сыворотки, были поставлены в стойло, которое раньше было подземной гандбольной площадкой.
+
+More than million men necessary for the <span class='tip-wrap' data-text='schedule [скЕджул] {существительное} расписание'>**Schedule**<span class='tip-text'> </span></span> Mercy <span class='tip-wrap' data-text='drop [дрАп] {существительное} падение'>**drop**<span class='tip-text'> </span></span> could not be here, but they would know nothing about it until informed a few hours before the <span class='tip-wrap' data-text='drop [дрАп] {существительное} падение'>**drop**<span class='tip-text'> </span></span>, at which time each would be given a hand gun and two sets of individual <span class='tip-wrap' data-text='dose [дOус] {существительное} доза'>**dose**<span class='tip-text'> </span></span> antitoxin injectors. Those who had never parachuted before would not be given a chance to <span class='tip-wrap' data-text='practice [прЭктэс] {глагол} практиковать'>**practice**<span class='tip-text'> </span></span>; they would each be pushed, if necessary, by some sergeant with a large foot. Everything possible was being done to keep the secret close; the only way I could see that we could lose would be for the titans to find out our plans. Too many good plans have failed because some fool told his wife about it in bed.
+
+Более миллиона человек, необходимых для выброски по расписанию «Милосердие», не могли быть здесь, но они ничего не знали об этом, пока им не сообщили об этом за несколько часов до выброски, и в это время каждому выдали бы пистолет и два набора индивидуальных доз антитоксиновых инъекторов. Тем, кто никогда раньше не прыгал с парашютом, не дали бы возможности попрактиковаться; каждого из них, если бы это было необходимо, подтолкнул бы какой-нибудь сержант с большой ногой. Делалось все возможное, чтобы сохранить тайну в тайне; единственный способ, которым, как я видел, мы могли бы проиграть, — это если бы титаны узнали о наших планах. Слишком много хороших планов провалились, потому что какой-то дурак рассказал об этом своей жене в постели.
+
+If we failed to keep this secret, our ape disease vectors would never get into direct conference; they would be shot on sight <span class='tip-wrap' data-text='wherever [уерЕвэр] {наречие} где бы ни было'>**wherever**<span class='tip-text'> </span></span> they appeared in the titan nation. But I relaxed over my first drink, happy and reasonably sure that the secret could not leak. Traffic with the laboratory was "incoming only" until after <span class='tip-wrap' data-text='drop [дрАп] {существительное} падение'>**Drop**<span class='tip-text'> </span></span> Day and <span class='tip-wrap' data-text='colonel [кЭрнэл] {существительное} полковник'>**Colonel**<span class='tip-text'> </span></span> Kelly censored or monitored all communication outward - Kelly was no fool.
+
+Если бы мы не смогли сохранить этот секрет, наши переносчики болезней обезьян никогда бы не вышли на прямую конференцию; их бы расстреляли на месте, где бы они ни появились в стране титанов. Но я расслабился за первой рюмкой, счастливый и разумно уверенный, что секрет не может просочиться. Трафик с лабораторией был «только входящим» до Дня высадки, и полковник Келли цензурировал или контролировал все исходящие сообщения — Келли был не дурак.
+
+As for a leak from outside, the chances were <span class='tip-wrap' data-text='slight [слАйт] {прилагательное} легкий; небольшой'>**slight**<span class='tip-text'> </span></span>. The general, Dad, <span class='tip-wrap' data-text='colonel [кЭрнэл] {существительное} полковник'>**Colonel**<span class='tip-text'> </span></span> Gibsy, and myself had gone to the White House the week before, there to see the President and Marshal Rexton. I had already convinced Dad that the way to keep this secret was not to share it with anybody; in the end even Secretary Martinez was bypassed. If the President and Rexton could keep from talking in their <span class='tip-wrap' data-text='sleep [слИп] {существительное} сон [3]'>**sleep**<span class='tip-text'> </span></span> for another week, I did not see how we could miss.
+
+Что касается утечки информации извне, то шансы были невелики. Генерал, папа, полковник Гибси и я отправились в Белый дом на прошлой неделе, чтобы встретиться с президентом и маршалом Рекстоном. Я уже убедил папу, что единственный способ сохранить эту тайну — не делиться ею ни с кем; в конце концов даже секретарь Мартинес был обойден. Если президент и Рекстон смогли удержаться от разговоров во сне еще неделю, я не видел, как мы могли промахнуться.
+
+<span class='tip-wrap' data-text='colonel [кЭрнэл] {существительное} полковник'>**Colonel**<span class='tip-text'> </span></span> Kelly came in, looked around the room, came over and sat down beside me. "How about a drink?" I suggested. "I feel like celebrating."
+
+Вошел полковник Келли, оглядел комнату, подошел и сел рядом со мной. «Как насчет выпить?» — предложил я. «Мне хочется отпраздновать».
+
+He examined the hairy belly bulging out in front of him and said, "I suppose one more beer wouldn't put me in any worse shape."
+
+Он осмотрел волосатый живот, выпирающий перед ним, и сказал: «Думаю, еще одно пиво не ухудшит мое состояние».
+
+"Have two beers. Have four - a dozen." I ordered for him, and told him about the success of the experiments with the apes.
+
+«Возьмите два пива. Возьмите четыре — дюжину». Я сделал ему заказ и рассказал об успехе экспериментов с обезьянами.
+
+He nodded. "Yes, I had heard. Sounds good."
+
+Он кивнул. «Да, я слышал. Звучит хорошо».
+
+"'Good', the man says! <span class='tip-wrap' data-text='colonel [кЭрнэл] {существительное} полковник'>**Colonel**<span class='tip-text'> </span></span>, a week from now the game will be won."
+
+«Хорошо», — говорит мужчина! Полковник, через неделю игра будет выиграна».
+
+"So?"
+
+"Так?"
+
+"Oh, come now!" I answered, irritated by his <span class='tip-wrap' data-text='manner [мЭнэр] {существительное} способ (также манера)'>**manner**<span class='tip-text'> </span></span>. "In a short time you'll be able to put your clothes back on and lead a normal life. Or don't you think our plans will work?"
+
+«О, ну же!» — ответил я, раздраженный его манерой поведения. «Скоро ты сможешь снова надеть одежду и вести нормальную жизнь. Или ты думаешь, что наши планы не сработают?»
+
+"Yes, I think they will work."
+
+«Да, я думаю, они сработают».
+
+"Then why are you so depressed?"
+
+«Тогда почему ты такой подавленный?»
+
+"Mr. Nivens, as long as there exists a possibility that a slug is alive the polite man must be willing to bare his entire body on <span class='tip-wrap' data-text='request [рыкуЕст] {существительное} запрос'>**request**<span class='tip-text'> </span></span> - or risk getting shot. Not just this week and next week but twenty years from now, or a hundred. No, no!" he said, seeing that I was about to interrupt, "I believe in your fine plans - but pardon me if I say that you have been too busy with their details to notice that they are strictly local and temporary. For example - have you made any plans for combing the Amazonian jungles, tree by tree?"
+
+«Мистер Нивенс, пока существует вероятность того, что слизняк жив, вежливый человек должен быть готов обнажить все свое тело по требованию — или рисковать быть застреленным. Не только на этой неделе и на следующей, но и через двадцать лет, или через сто. Нет, нет!» — сказал он, видя, что я собираюсь его прервать. «Я верю в ваши прекрасные планы — но простите, если я скажу, что вы были слишком заняты их подробностями, чтобы заметить, что они строго локальны и временны. Например, вы строили какие-либо планы прочесывания амазонских джунглей, дерево за деревом?»
+
+He went on apologetically, "Just a rhetorical <span class='tip-wrap' data-text='inquiry [ЫнкуАйрИ] {существительное} за/до/прос; расследование'>**inquiry**<span class='tip-text'> </span></span>. This <span class='tip-wrap' data-text='globe [глOуб] {существительное} глобус'>**globe**<span class='tip-text'> </span></span> has nearly sixty million square miles of dry land; we can't begin to search it and clean out the slugs. We haven't won the rats. Titans are trickier and more prolific than rats."
+
+Он продолжил извиняющимся тоном: «Просто риторический вопрос. На этом земном шаре почти шестьдесят миллионов квадратных миль суши; мы не можем начать ее обыскивать и очищать от слизней. Мы не победили крыс. Титаны хитрее и плодовитее крыс».
+
+"Are you trying to tell me it's hopeless?" I demanded.
+
+«Ты пытаешься сказать мне, что это безнадежно?» — потребовал я.
+
+"Hopeless? Not at all. Have another drink. I'm trying to say that we are going to have to learn to live with this <span class='tip-wrap' data-text='horror [хОрэр] {существительное} ужас'>**horror**<span class='tip-text'> </span></span>, the way we had to learn to live with the atom bomb."
+
+«Безнадежно? Вовсе нет. Выпейте еще. Я пытаюсь сказать, что нам придется научиться жить с этим ужасом, так же, как нам пришлось научиться жить с атомной бомбой».
+
+CHAPTER 32.
+
+ГЛАВА ТРИДЦАТЬ ВТОРАЯ
+
+We were gathered in the same conference room in the White House. Dad was there; so were Mary and Rexton and Martinez. There also were our own lab general, Dr. Hazelhurst, and <span class='tip-wrap' data-text='colonel [кЭрнэл] {существительное} полковник'>**Colonel**<span class='tip-text'> </span></span> Gibsy. Our eyes were on the big map; it had been four and a half days since the vector <span class='tip-wrap' data-text='drop [дрАп] {существительное} падение'>**drop**<span class='tip-text'> </span></span> of <span class='tip-wrap' data-text='schedule [скЕджул] {существительное} расписание'>**Schedule**<span class='tip-text'> </span></span> Fever but the Mississippi Valley still glowed in ruby lights.
+
+Мы собрались в одном конференц-зале в Белом доме. Там был папа; там были Мэри, Рекстон и Мартинес. Там также были наш собственный генеральный лабораторный врач, доктор Хейзелхерст и полковник Гибси. Наши глаза были прикованы к большой карте; прошло четыре с половиной дня с момента падения векторной лихорадки, но долина Миссисипи все еще светилась рубиновыми огнями.
+
+I was getting nervous, although the <span class='tip-wrap' data-text='drop [дрАп] {существительное} падение'>**drop**<span class='tip-text'> </span></span> had been an apparent success. According to the calculations every slug within <span class='tip-wrap' data-text='reach [рИч] {существительное} охват'>**reach**<span class='tip-text'> </span></span> of direct conference was infected three days ago. The operation had been computed to contact about eighty percent of the slugs in the first twelve hours alone, mostly in the large cities.
+
+Я начинал нервничать, хотя сброс был очевидным успехом. Согласно расчетам, каждый слизняк в пределах прямой связи был инфицирован три дня назад. Операция была рассчитана на контакт примерно с восемьюдесятью процентами слизней только за первые двенадцать часов, в основном в крупных городах.
+
+Soon, slugs should start dying a lot faster than flies ever did - if we were right.
+
+Если мы правы, то вскоре слизни начнут умирать гораздо быстрее, чем когда-либо умирали мухи.
+
+I forced myself to sit still and wondered whether those ruby lights covered a few million very sick slugs - or merely two hundred dead apes. Had somebody blabbed? Or had there been an error in our reasoning so colossal that we could not see it?
+
+Я заставил себя сидеть спокойно и гадал, покрывают ли эти рубиновые огни несколько миллионов очень больных слизней - или всего лишь двести мертвых обезьян. Кто-то проболтался? Или в наших рассуждениях была ошибка, настолько колоссальная, что мы ее не заметили?
+
+Suddenly a light blinked green, right in the middle of the board; everybody sat up. Right on top of it a voice began to come out of the stereo <span class='tip-wrap' data-text='gear [гЫр] {существительное} снаряжение; шестерня'>**gear**<span class='tip-text'> </span></span> though no picture built up. "This is Station Dixie, Little Rock," a very tired southern voice said. "We need help very badly. Anyone who is listening, please be good enough to pass on this message: Little Rock, Arkansas, is in the <span class='tip-wrap' data-text='grip [грЫп] {существительное} рукоятка; сцепление; контроль'>**grip**<span class='tip-text'> </span></span> of a terrible epidemic. Notify the Red Cross. We have been in the hands of -" The voice got silent, whether from weakness or <span class='tip-wrap' data-text='transmission [трэнсмЫшэн] {существительное} трансмиссия'>**transmission**<span class='tip-text'> </span></span> failure I could not be sure.
+
+Внезапно в центре доски замигал зеленый свет; все сели. Прямо над ним из стереосистемы начал раздаваться голос, хотя изображение не воспроизводилось. «Это станция Дикси, Литл-Рок», — сказал очень усталый южный голос. «Нам очень нужна помощь. Все, кто слушает, будьте добры передать это сообщение: Литл-Рок, Арканзас, охвачен ужасной эпидемией. Сообщите в Красный Крест. Мы попали в руки...» Голос замолчал, я не мог сказать наверняка, от слабости или из-за сбоя передачи.
+
+I remembered to <span class='tip-wrap' data-text='breathe [брИð] {глагол} дышать'>**breathe**<span class='tip-text'> </span></span>. Mary patted my hand and I sat back, relaxing consciously. It was joy too great to be pleasure. I saw now that the green light had not been Little Rock, but farther west in Oklahoma. Two more lights blinked green, one in Nebraska and one north of the Canadian line.
+
+Я вспомнил, что нужно дышать. Мэри похлопала меня по руке, и я откинулся назад, осознанно расслабляясь. Это была радость, слишком большая, чтобы быть удовольствием. Теперь я увидел, что зеленый свет был не в Литл-Роке, а дальше на запад, в Оклахоме. Еще два огня мигнули зеленым, один в Небраске и один к северу от канадской границы.
+
+By late the next afternoon the board was more green than red. Rexton had caused to be set up two annunciators keyed into the command center in the New Pentagon; one showed percentage of completion of the complicated score deemed necessary before the big <span class='tip-wrap' data-text='drop [дрАп] {существительное} падение'>**drop**<span class='tip-text'> </span></span>; the other showed the projected time of <span class='tip-wrap' data-text='drop [дрАп] {существительное} падение'>**drop**<span class='tip-text'> </span></span>. The figures on it changed from time to time, sometimes up, sometimes down. For the past two hours they had been holding <span class='tip-wrap' data-text='fairly [фЕрли] {наречие} достаточно'>**fairly**<span class='tip-text'> </span></span> steady around 17.43, East Coast time.
+
+К концу следующего дня табло было больше зеленым, чем красным. Рекстон приказал установить два оповещателя, подключенных к командному центру в Новом Пентагоне; один показывал процент завершения сложной оценки, которая считалась необходимой перед большим падением; другой показывал предполагаемое время падения. Цифры на нем время от времени менялись, иногда вверх, иногда вниз. Последние два часа они держались довольно стабильно около 17.43 по времени Восточного побережья.
+
+Finally Rexton stood up. "I'm going to start it at seventeen forty-five," he announced. "Mr. President, if you will <span class='tip-wrap' data-text='excuse [ыкскйУс] {глагол} прощать'>**excuse**<span class='tip-text'> </span></span> me?"
+
+Наконец Рекстон встал. «Я начну в семнадцать сорок пять», — объявил он. «Господин президент, вы меня извините?»
+
+"Certainly, sir."
+
+«Конечно, сэр».
+
+Rexton turned to Dad and myself. "If you two Don Quixotes are still determined to go, now is the time."
+
+Рекстон повернулся к папе и мне. «Если вы, два Дон Кихота, все еще полны решимости уйти, сейчас самое время».
+
+I stood up. "Mary, you wait for me."
+
+Я встал. «Мэри, ты подожди меня».
+
+She asked, "Where?"
+
+Она спросила: «Где?»
+
+The President interrupted. "I suggest that Mrs. Nivens stay here. After all, she is a member of the family."
+
+Президент прервал его. «Я предлагаю, чтобы миссис Нивенс осталась здесь. В конце концов, она член семьи».
+
+With the invitation he gave us his best smile and I said, "Thank you, sir."
+
+Приглашая нас, он одарил нас своей лучшей улыбкой, и я сказал: «Спасибо, сэр».
+
+Two hours later we were coming in on our target and the jump door was open. Dad and I were last in line, after the kids who would do the real work. My hands were sweaty. I was scared as hell - I never like to jump.
+
+Два часа спустя мы приближались к цели, и дверь для прыжков была открыта. Папа и я были последними в очереди, после детей, которые выполняли настоящую работу. Мои руки были вспотевшими. Я был напуган до чертиков — я никогда не любил прыгать.
+
+CHAPTER 33.
+
+ГЛАВА ТРИДЦАТЬ ТРЕТЬЯ
+
+Gun in my left hand, antitoxin injector ready in my right, I went from door to door in my assigned block. It was an older section of Jefferson City, slums almost; it consisted of apartment houses built fifty years ago. I had given two dozen injections and had three dozen to go before it would be time for me to meet at the State House. I was getting sick of it.
+
+Пистолет в левой руке, антитоксиновый инъектор наготове в правой, я ходил от двери к двери в назначенном мне квартале. Это был старый район Джефферсон-Сити, почти трущобы; он состоял из многоквартирных домов, построенных пятьдесят лет назад. Я сделал две дюжины инъекций и должен был сделать еще три дюжины, прежде чем мне пора было встретиться в Государственном Доме. Мне это надоело.
+
+I knew why I had come - it was not just curiosity; I wanted to see them die! I wanted to watch them die, see them dead. But now I had seen them dead and I wanted no more of it; I wanted to go home, take a bath, and forget it.
+
+Я знал, зачем я пришел — это было не просто любопытство; я хотел увидеть, как они умирают! Я хотел увидеть, как они умирают, увидеть их мертвыми. Но теперь я увидел их мертвыми и больше не хотел этого; я хотел пойти домой, принять ванну и забыть об этом.
+
+Suddenly my phone shrilled. "Son! Can you hear me?"
+
+Вдруг мой телефон запищал. «Сынок! Ты меня слышишь?»
+
+I reached for my <span class='tip-wrap' data-text='belt [бЕлт] {существительное} ремень'>**belt**<span class='tip-text'> </span></span> and switched on my phone. "Yes. What's up?"
+
+Я потянулся к ремню и включил телефон. «Да. Что случилось?»
+
+"I'm in that little park just north of you. Can you come? I'm in trouble."
+
+«Я в том маленьком парке к северу от вас. Вы можете приехать? У меня проблемы».
+
+"On my way!"
+
+"На моем пути!"
+
+Dad's <span class='tip-wrap' data-text='assignment [эсАйнмэнт] {существительное} назначение; задание'>**assignment**<span class='tip-text'> </span></span> was directly north of <span class='tip-wrap' data-text='mine [мАйн] {существительное} шахта'>**mine**<span class='tip-text'> </span></span>, paralleling it and fronting on one of those small downtown parks. When I got around the block I did not see him at first and ran on past him.
+
+Папино задание было прямо к северу от моего, параллельно ему и выходя на один из тех маленьких парков в центре города. Когда я обогнул квартал, я сначала его не увидел и пробежал мимо.
+
+"Here, son, over here - at the car!" This time I could hear him both through the phone and my bare ear. I swung around and spotted the flying car, a big Cadillac like the Section often used. There was someone inside but it was too dark for me to see whether or not it was the Old Man. I approached cautiously until I heard him say, "Thank God! I thought you would never come," and knew that it was he.
+
+«Сюда, сынок, сюда — к машине!» На этот раз я мог слышать его и через телефон, и через ухо. Я развернулся и заметил летающую машину, большой Кадиллак, вроде тех, что часто использовала Секция. Внутри был кто-то, но было слишком темно, чтобы я мог разглядеть, Старик это или нет. Я осторожно приближался, пока не услышал, как он сказал: «Слава Богу! Я думал, ты никогда не придешь», и понял, что это был он.
+
+I had to duck to get in through the door. It was then that he hit me.
+
+Мне пришлось пригнуться, чтобы войти в дверь. Вот тогда он меня и ударил.
+
+I came to, to find my hands tied and my ankles as well. I was in the second driver's seat of the car and the Old Man was in the other, at the controls. The wheel on my side was latched up out of the way. The sudden realization that the car was in the air brought me fully awake.
+
+Я пришел в себя и обнаружил, что мои руки связаны, а также лодыжки. Я сидел на втором водительском сиденье машины, а Старик сидел на другом, у штурвала. Руль с моей стороны был защелкнут в сторону. Внезапное осознание того, что машина находится в воздухе, заставило меня полностью проснуться.
+
+He turned and said cheerfully, "Feeling better?" I could see his slug, riding high on his shoulders.
+
+Он повернулся и весело спросил: «Чувствуешь себя лучше?» Я видел его слизняка, висящего высоко на его плечах.
+
+"Some better," I admitted.
+
+«Немного лучше», — признал я.
+
+"Sorry I had to hit you," he went on, "but there was no other way."
+
+«Извините, что мне пришлось вас ударить, — продолжил он, — но другого выхода не было».
+
+"I suppose not."
+
+«Я полагаю, что нет».
+
+"I'll have to leave you tied up for the present; you know that. Later on we can make better arrangements." He grinned, his old wicked grin. Most amazingly his own <span class='tip-wrap' data-text='personality [пЭрсэнЭлыти] {существительное} личность'>**personality**<span class='tip-text'> </span></span> came through with every word the slug said.
+
+"Мне придется оставить тебя связанным на время; ты же знаешь. Позже мы сможем договориться получше". Он усмехнулся своей старой злой ухмылкой. Самое удивительное, что его собственная личность проступала с каждым словом, которое говорил слизняк.
+
+I did not ask what "better arrangements" were possible; I did not need nor want to know. I concentrated on checking my bonds; It was hopeless - the Old Man had given them his personal attention.
+
+Я не спрашивал, какие «лучшие договоренности» возможны; мне не нужно было и не хотелось знать. Я сосредоточился на проверке своих связей; Это было безнадежно — Старик уделил им свое личное внимание.
+
+"Where are we going?" I asked.
+
+«Куда мы идем?» — спросил я.
+
+"South." He fiddled with the controls. "Way south. Just give me a moment to program it and I will explain what's waiting for us." He was busy for a few seconds, then said, "There - that will hold her until she levels off at thirty thousand."
+
+«Юг». Он повозился с управлением. «На юг. Дай мне минутку, чтобы запрограммировать, и я объясню, что нас ждет». Он был занят несколько секунд, затем сказал: «Вот — это удержит ее, пока она не выровняется на тридцати тысячах».
+
+The mention of that much altitude caused me to take a quick look at the control board. The flying car did not merely look like one of the Section's cars; it actually was one. "Where did you get this car?" I asked.
+
+Упоминание о такой большой высоте заставило меня быстро взглянуть на панель управления. Летающая машина не просто выглядела как одна из машин Секции; она действительно была одной из них. «Где вы взяли эту машину?» — спросил я.
+
+"The Section had it reserved in Jefferson City. I looked, and, sure enough, nobody had found it. Fortunate, wasn't it?"
+
+«Секция зарезервировала его в Джефферсон-Сити. Я поискал, и, конечно же, никто его не нашел. Повезло, не правда ли?»
+
+There could be a second opinion on that point, I thought, but I did not argue. I was still checking the possibilities - and finding them somewhere between slim and hopeless. My own gun was gone, as I could tell by the pressure. He was probably carrying his on the side away from me; it was not in sight.
+
+По этому поводу может быть и второе мнение, подумал я, но спорить не стал. Я все еще проверял возможности — и находил их где-то между слабыми и безнадежными. Моего собственного пистолета не было, как я мог судить по давлению. Он, вероятно, нес свой сбоку от меня; его не было видно.
+
+"But that was not the best of it," he went on; "I had the good <span class='tip-wrap' data-text='luck [лАк] {существительное} удача'>**luck**<span class='tip-text'> </span></span> to be captured by what was almost certainly the only healthy master in the whole of Jefferson City - not that I believe in <span class='tip-wrap' data-text='luck [лАк] {существительное} удача'>**luck**<span class='tip-text'> </span></span>. So we win after all." He chuckled. "It's like playing both sides of a very difficult chess game."
+
+«Но это было не самое лучшее», — продолжил он. «Мне повезло, что меня поймал, наверное, единственный здоровый мастер во всем Джефферсон-Сити — не то чтобы я верил в удачу. Так что мы все-таки победили». Он усмехнулся. «Это как играть за обе стороны очень сложной шахматной партии».
+
+"You did not tell me where we are going," I persisted. I did not know that it would help, but I was getting <span class='tip-wrap' data-text='nowhere [нOууЕр] {наречие} нигде'>**nowhere**<span class='tip-text'> </span></span> fast and talking was the only action open to me.
+
+«Ты не сказал мне, куда мы направляемся», — настаивал я. Я не знал, поможет ли это, но я быстро никуда не двигался, и единственным доступным мне действием был разговор.
+
+He considered. "Out of the United States, certainly. My master may be the only one free of nine-day fever in the whole continent and I don't <span class='tip-wrap' data-text='dare [дЕр] {глагол} дерзать; сметь'>**dare**<span class='tip-text'> </span></span> take a chance. I think the Yucatan peninsula would suit us - that's where I've got her pointed. We can hole up there and increase our numbers and work on south. When we come back - and we will! - we won't make the same mistakes."
+
+Он задумался. "Из Соединенных Штатов, конечно. Мой хозяин, возможно, единственный на всем континенте, кто не страдает от девятидневной лихорадки, и я не смею рисковать. Я думаю, нам подойдет полуостров Юкатан — именно туда я ее направил. Мы можем запереться там, увеличить численность и работать на юге. Когда мы вернемся — а мы вернемся! — мы не повторим тех же ошибок".
+
+I said, "Dad, can't you take these ties off me? I'm losing circulation. You know you can trust me."
+
+Я сказал: «Папа, ты не можешь снять с меня эти галстуки? У меня нарушается кровообращение. Ты же знаешь, что можешь мне доверять».
+
+"Presently, presently - all in good time. Wait until we go full automatic." The car was still climbing.
+
+«Сейчас, сейчас — всему свое время. Подождите, пока мы не перейдем на полный автомат». Машина все еще поднималась.
+
+I said, "You seem to forget that I was with the masters a long time. I give you my word of <span class='tip-wrap' data-text='honor [Анэр] {существительное} честь'>**honor**<span class='tip-text'> </span></span>."
+
+Я сказал: «Вы, кажется, забыли, что я долгое время был с мастерами. Даю вам честное слово».
+
+He grinned. "Don't teach grandma how to steal sheep. If I let you <span class='tip-wrap' data-text='loose [лУс] {прилагательное} свободный; рыхлый'>**loose**<span class='tip-text'> </span></span> now, you'll kill me or I'll have to kill you. And I want you alive. We're going places, son - you and me. We're fast and we're smart."
+
+Он ухмыльнулся. "Не учи бабушку, как воровать овец. Если я сейчас тебя отпущу, ты убьешь меня или мне придется убить тебя. А ты мне нужен живым. Мы куда-нибудь пойдем, сынок, ты и я. Мы быстрые и умные".
+
+I did not have an answer. He went on, "You didn't tell me how it felt. Son, I had no idea that a man could feel such a sense of peace and contentment and well-being. This is the happiest I've been in years, the happiest since -" he suddenly looked puzzled, and then went on, "since your mother died. But never <span class='tip-wrap' data-text='mind [мАйнд] {глагол} возражать; прислушиваться; присматривать'>**mind**<span class='tip-text'> </span></span> that; this is better. It's a pity you didn't tell me."
+
+У меня не было ответа. Он продолжил: «Ты не сказал мне, что я чувствовал. Сынок, я понятия не имел, что человек может испытывать такое чувство покоя, довольства и благополучия. Это самое счастливое чувство за последние годы, самое счастливое с тех пор, как...» он внезапно озадачился, а затем продолжил: «с тех пор, как умерла твоя мать. Но не обращай внимания; это лучше. Жаль, что ты мне не сказал».
+
+Disgust suddenly poured over me and I forgot the cautious game I was playing. "Maybe I didn't see it that way. And neither would you, you crazy old fool, if you didn't have a filthy slug riding you, talking through your mouth, thinking with your brain!"
+
+Меня внезапно охватило отвращение, и я забыл об осторожной игре, в которую играл. «Может быть, я не так это видел. И ты бы тоже так не думал, старый сумасшедший дурак, если бы на тебе не сидел грязный слизняк, говорящий твоим ртом и думающий твоим мозгом!»
+
+"Take it easy, son," he said gently - and so helped me, his voice soothed me. "You'll know better in a little while. Believe me, this is what we were intended for, this is our destiny. Mankind has been divided, warring with himself. The masters will make him whole again."
+
+«Успокойся, сынок», — мягко сказал он — и это помогло мне, его голос успокоил меня. «Скоро ты поймешь лучше. Поверь мне, это то, для чего мы были предназначены, это наша судьба. Человечество было разделено, воюя само с собой. Хозяева сделают его снова целым».
+
+I thought to myself that there were probably fools to like such a line - surrender their souls willingly for a promise of security and peace.
+
+Я подумал, что, наверное, есть дураки, которым нравится такая фраза — добровольно отдать свои души за обещание безопасности и мира.
+
+"But you need not wait much longer," he said suddenly, glancing at the board. He set his controls. "That's a <span class='tip-wrap' data-text='relief [рылИф] {существительное} облегчение; рельеф'>**relief**<span class='tip-text'> </span></span>. Next stop: Yucatan. Now to work." He got out of his chair and knelt beside me. "Got to be safe," he said, as he strapped the safety <span class='tip-wrap' data-text='belt [бЕлт] {существительное} ремень'>**belt**<span class='tip-text'> </span></span> across my middle.
+
+«Но вам не придется долго ждать», — внезапно сказал он, взглянув на доску. Он настроил управление. «Какое облегчение. Следующая остановка: Юкатан. Теперь за работу». Он встал со своего кресла и опустился на колени рядом со мной. «Надо быть в безопасности», — сказал он, застегивая ремень безопасности на моем животе.
+
+I brought my knees up in his face.
+
+Я поднял колени ему в лицо.
+
+He reared up and looked at me without anger. "Naughty, naughty. Now be good." He went ahead, checking my wrists and feet. His nose was bleeding but he did not <span class='tip-wrap' data-text='bother [бАðэр] {глагол} беспокоить'>**bother**<span class='tip-text'> </span></span> to <span class='tip-wrap' data-text='wipe [уАйп] {глагол} протирать'>**wipe**<span class='tip-text'> </span></span> it. "You'll do," he said. "Now be <span class='tip-wrap' data-text='patient [пЕйшэнт] {прилагательное} терпеливый'>**patient**<span class='tip-text'> </span></span>; it won't be long."
+
+Он встал на дыбы и посмотрел на меня без злости. «Непослушный, непослушный. Теперь будь хорошим». Он пошел вперед, проверяя мои запястья и ступни. У него из носа текла кровь, но он не потрудился ее вытереть. «Ты справишься», — сказал он. «Теперь потерпи, это ненадолго».
+
+He went back to the other control seat, sat down and leaned forward, putting his elbows on his knees. It brought his master directly into my view.
+
+Он вернулся к другому креслу управления, сел и наклонился вперед, положив локти на колени. Это вывело его хозяина прямо в поле моего зрения.
+
+Nothing happened for some minutes, nor could I think of anything to do other than <span class='tip-wrap' data-text='strain [стрЕйн] {существительное} напряжение; штамм'>**strain**<span class='tip-text'> </span></span> at my bonds. By his appearance, the Old Man was <span class='tip-wrap' data-text='asleep [эслИп] {прилагательное} спящий'>**asleep**<span class='tip-text'> </span></span>, but I placed no <span class='tip-wrap' data-text='trust [трАст] {существительное} доверие'>**trust**<span class='tip-text'> </span></span> in that.
+
+Ничего не происходило в течение нескольких минут, и я не мог придумать ничего, кроме как натягивать свои путы. По его виду Старик спал, но я не верил этому.
+
+A line formed straight down the middle of the horny brown covering of the slug.
+
+По центру рогового коричневого покрова слизняка образовалась линия.
+
+As I watched it, the space between the two halves of the <span class='tip-wrap' data-text='shell [шЕл] {существительное} оболочка'>**shell**<span class='tip-text'> </span></span> widened - and I realized that the slug was sucking life and matter out of the body of my father to make two of itself.
+
+Пока я наблюдал, пространство между двумя половинками раковины расширялось, и я понял, что слизняк высасывает жизнь и материю из тела моего отца, чтобы создать из себя двоих.
+
+I realized, too, with rigid terror, that I had no more than five minutes of individual life left to me. My new master was being born and soon would be ready to <span class='tip-wrap' data-text='mount [мАунт] {глагол} монтировать'>**mount**<span class='tip-text'> </span></span> me.
+
+Я также понял, с жестким ужасом, что мне осталось не более пяти минут индивидуальной жизни. Мой новый хозяин рождался и скоро будет готов оседлать меня.
+
+I tried hard to break the ties on me. I did not <span class='tip-wrap' data-text='succeed [сэксИд] {глагол} преуспевать'>**succeed**<span class='tip-text'> </span></span>. The Old Man paid no attention to my struggles. He did not move.
+
+Я изо всех сил старался разорвать путы на себе. Мне это не удалось. Старик не обращал внимания на мои усилия. Он не двигался.
+
+By the time I had given up, worn out and sure that I could not break <span class='tip-wrap' data-text='loose [лУс] {прилагательное} свободный; рыхлый'>**loose**<span class='tip-text'> </span></span>, I could see the silvery line down the center of the slug <span class='tip-wrap' data-text='proper [прАпэр] {прилагательное} правильный'>**proper**<span class='tip-text'> </span></span> which means that process is about to be complete. It changed my line of reasoning, if there were reason left in my skull.
+
+К тому времени, как я сдался, измотанный и уверенный, что не смогу вырваться, я мог видеть серебристую линию по центру слизняка, что означало, что процесс вот-вот завершится. Это изменило ход моих рассуждений, если в моей голове еще оставался разум.
+
+My hands were tied behind me, my ankles were tied, and I was belted <span class='tip-wrap' data-text='tight [тАйт] {наречие} туго'>**tight**<span class='tip-text'> </span></span> across the middle to the chair. But my legs, even though fastened together, were free from my waist down; the seat had no knee belts.
+
+Мои руки были связаны за спиной, мои лодыжки были связаны, и я был туго пристегнут ремнем посередине к креслу. Но мои ноги, хотя и скрепленные вместе, были свободны от талии и ниже; у сиденья не было коленных ремней.
+
+I slumped down in the chair to get even more <span class='tip-wrap' data-text='reach [рИч] {существительное} охват'>**reach**<span class='tip-text'> </span></span> and swung my legs up high. I brought them down smashingly across the board.
+
+Я сполз на стул, чтобы дотянуться еще больше, и высоко поднял ноги. Я с размаху опустил их на доску.
+
+We were both slammed back against the seats. Dad much <span class='tip-wrap' data-text='harder [хАрдэр] {прилагательное} жесткий'>**harder**<span class='tip-text'> </span></span> than I was, since I was strapped down. He was thrown against the back of his seat, with his slug, open and helpless, crushed between the two masses.
+
+Нас обоих швырнуло обратно на сиденья. Папу было гораздо сильнее, чем меня, так как я был пристегнут. Его швырнуло на спинку сиденья, а его слизняк, открытый и беспомощный, оказался раздавленным между двумя массами.
+
+It splashed.
+
+Он брызнул.
+
+And Dad himself was caught in that terrible, total reflex, that spasm of every muscle that I had seen three times before. He bounced forward against the wheel.
+
+А сам папа был пойман в этом ужасном, тотальном рефлексе, в этом спазме каждой мышцы, который я видел трижды прежде. Он подпрыгнул вперед, ударившись о руль.
+
+The car dived.
+
+Машина нырнула.
+
+I sat there and watched it dive, if you call it sitting when you are held in place only by the <span class='tip-wrap' data-text='belt [бЕлт] {существительное} ремень'>**belt**<span class='tip-text'> </span></span>. The controls were probably blocked.
+
+Я сидел там и смотрел, как он ныряет, если это можно назвать сидением, когда тебя удерживает на месте только ремень. Возможно, управление было заблокировано.
+
+The altimeter was clicking away busily. We had dropped to eleven thousand feet before I found time to <span class='tip-wrap' data-text='glance [глЭнс] {существительное} взгляд'>**glance**<span class='tip-text'> </span></span> at it. Then it was nine... seven... six - and we entered our last mile.
+
+Высотомер деловито щелкал. Мы снизились до одиннадцати тысяч футов, прежде чем я успел взглянуть на него. Потом было девять... семь... шесть — и мы вступили в нашу последнюю милю.
+
+At fifteen hundred the radar connected with the altimeter and the brakes worked automatically. I was thinking that I was saved, that now the ship would level off. But Dad blocked the wheel with his body.
+
+На полутора тысячах метров радар соединился с высотомером, и тормоза сработали автоматически. Я думал, что я спасен, что сейчас корабль выровняется. Но папа заблокировал штурвал своим телом.
+
+We crashed.
+
+Мы потерпели крушение.
+
+I came to by becoming slowly aware of a gently rocking motion. I was annoyed by it, I wanted it to stop; even a <span class='tip-wrap' data-text='slight [слАйт] {прилагательное} легкий; небольшой'>**slight**<span class='tip-text'> </span></span> motion seemed to cause me more pain than I could bear. I managed to get one eye open - the other would not open at all - and looked dully around for the source of my annoyance.
+
+Я пришел в себя, постепенно осознавая легкое покачивающее движение. Оно меня раздражало, я хотел, чтобы оно прекратилось; даже легкое движение, казалось, причиняло мне больше боли, чем я мог вынести. Мне удалось открыть один глаз — другой не открывался вообще — и я тупо огляделся в поисках источника своего раздражения.
+
+Above me was the floor of the car. I remembered the dive and the crash - and realized that we did not <span class='tip-wrap' data-text='crash [крЭш] {глагол} крах'>**crash**<span class='tip-text'> </span></span> into the ground but into some body of water - the <span class='tip-wrap' data-text='gulf [гАлф] {существительное} пропасть'>**Gulf**<span class='tip-text'> </span></span> of Mexico - but I did not really care.
+
+Надо мной был пол машины. Я вспомнил нырок и столкновение — и понял, что мы врезались не в землю, а в какой-то водоем — Мексиканский залив — но мне было все равно.
+
+With a sudden burst of grief I mourned my father.
+
+Внезапно я оплакивал отца.
+
+The broken <span class='tip-wrap' data-text='belt [бЕлт] {существительное} ремень'>**belt**<span class='tip-text'> </span></span> of my seat was flapping uselessly just above me. My hands were still tied and so were my ankles, and one arm at least seemed to be broken. One eye was stuck shut and it hurt me to <span class='tip-wrap' data-text='breathe [брИð] {глагол} дышать'>**breathe**<span class='tip-text'> </span></span>. Dad was no longer plastered against the wheel and that puzzled me. With <span class='tip-wrap' data-text='painful [пЕйнфэл] {прилагательное} болезненный; болевой'>**painful**<span class='tip-text'> </span></span> effort I rolled my head over to see the rest of the car with my one good eye. He was lying not far from me, three feet or so, from my head to his. He was bloody and cold and I was sure that he was dead. I think it took me about a half hour to cross that three feet.
+
+Порванный ремень моего сиденья бесполезно болтался прямо надо мной. Мои руки все еще были связаны, как и мои лодыжки, и, по крайней мере, одна рука, похоже, была сломана. Один глаз был заклинен, и мне было больно дышать. Папа больше не был прижат к рулю, и это озадачило меня. С мучительным усилием я повернул голову, чтобы увидеть остальную часть машины моим единственным здоровым глазом. Он лежал недалеко от меня, примерно в трех футах от моей головы до его. Он был окровавлен и холоден, и я был уверен, что он мертв. Думаю, мне потребовалось около получаса, чтобы преодолеть эти три фута.
+
+I lay face to face with him, almost <span class='tip-wrap' data-text='cheek [чИк] {существительное} щека'>**cheek**<span class='tip-text'> </span></span> to <span class='tip-wrap' data-text='cheek [чИк] {существительное} щека'>**cheek**<span class='tip-text'> </span></span>. So far as I could tell there was no trace of life, nor, from the odd and twisted way in which he lay, did it seem possible.
+
+Я лежал с ним лицом к лицу, почти щека к щеке. Насколько я мог судить, не было никаких следов жизни, и, судя по странному и извращенному положению, в котором он лежал, это казалось невозможным.
+
+"Dad," I said hoarsely. Then I screamed it. "Dad!"
+
+«Папа», — хрипло сказала я. Потом я закричала. «Папа!»
+
+His eyes flickered but did not open. "Hello, son," he whispered. "Thanks, boy, thanks -" His voice died out.
+
+Глаза его моргнули, но он не открылся. «Привет, сынок», — прошептал он. «Спасибо, мальчик, спасибо...» Его голос замер.
+
+I wanted to shake him but all I could do was shout. "Dad! Wake up - are you all right?"
+
+Я хотел его встряхнуть, но смог только крикнуть: «Папа! Просыпайся — с тобой все в порядке?»
+
+He spoke again, as if every word were a <span class='tip-wrap' data-text='painful [пЕйнфэл] {прилагательное} болезненный; болевой'>**painful**<span class='tip-text'> </span></span> task. "Your mother - said to tell you... she was - <span class='tip-wrap' data-text='proud [прАуд] {прилагательное} гордый [3]'>**proud**<span class='tip-text'> </span></span> of you." His voice died out again and his breathing was labored in that threatening dry-<span class='tip-wrap' data-text='stick [стЫк] {существительное} палка'>**stick**<span class='tip-text'> </span></span> sound.
+
+Он снова заговорил, словно каждое слово было мучительной задачей. «Твоя мать — сказала передать тебе... она — гордилась тобой». Его голос снова замер, а дыхание стало тяжелым, в этом угрожающем звуке сухой палки.
+
+"Dad," I sobbed, "don't die - I can't get along without you."
+
+«Папа, — всхлипывала я, — не умирай, я не смогу без тебя».
+
+His eyes opened wide. "Yes, you can, son." He paused and labored, then added, "I'm hurt, boy." His eyes closed again.
+
+Его глаза широко раскрылись. «Да, ты можешь, сынок». Он помедлил и потрудился, затем добавил: «Мне больно, мальчик». Его глаза снова закрылись.
+
+I could not get any more out of him, though I shouted and screamed. Presently I lay my face against his and let my tears mix with the <span class='tip-wrap' data-text='dirt [дЭрт] {существительное} грязь'>**dirt**<span class='tip-text'> </span></span> and blood.
+
+Я не мог добиться от него большего, хотя я кричал и вопил. Вдруг я прижался лицом к его лицу и позволил своим слезам смешаться с грязью и кровью.
+
+CHAPTER 34.
+
+ГЛАВА ТРИДЦАТЬ ЧЕТВЕРТАЯ
+
+And now to clean up Titan!
+
+А теперь наведем порядок на Титане!
+
+Each of us who are going is writing one of these reports, for we know that we may not come back. If not, this is our <span class='tip-wrap' data-text='legacy [лЕгэси] {существительное} наследие; наследство'>**legacy**<span class='tip-text'> </span></span> to free human beings - all that we learned and all that we know of how the titan parasites operate and what must be guarded against. For Kelly was right; there is no getting Humpty-Dumpty back together. In spite of the almost complete success of <span class='tip-wrap' data-text='schedule [скЕджул] {существительное} расписание'>**Schedule**<span class='tip-text'> </span></span> Mercy there is no way to be sure that the slugs are all gone. No longer ago than last week it was reported that a bear was shot, up Yukon way, wearing a hump.
+
+Каждый из нас, кто отправляется, пишет один из таких отчетов, потому что мы знаем, что можем не вернуться. Если нет, то это наше наследие для освобождения человечества — все, что мы узнали и все, что мы знаем о том, как действуют паразиты-титаны и от чего нужно защищаться. Ибо Келли был прав: Хампти-Дампти уже не собрать. Несмотря на почти полный успех Schedule Mercy, нет способа быть уверенным, что все слизни исчезли. Не далее как на прошлой неделе сообщалось, что в Юконе был застрелен медведь с горбом.
+
+The race will have to be always on guard; most especially it will have to be on guard about twenty-five years from now if we don't come back - but the flying saucers do. We don't know why the titan monsters follow the twenty-nine year cycle of Saturn's "year", but they do. The human race has many cycles which <span class='tip-wrap' data-text='match [мЭч] {глагол} соответствовать'>**match**<span class='tip-text'> </span></span> the Earth year; the reasons may be <span class='tip-wrap' data-text='equally [Икуэли] {наречие} одинаково'>**equally**<span class='tip-text'> </span></span> simple for the titans. We hope that they are active only at one period of their "year"; if they are. Operation Vengeance may be easy. Not that we are counting on it. I am going out, <span class='tip-wrap' data-text='heaven [хЕвэн] {существительное} небо'>**heaven**<span class='tip-text'> </span></span> help us, as an "applied psychologist (exotic)", but I am also a combat trooper, as is every one of us. This is for keeps and we intend to show those slugs that they made the mistake of tangling with the toughest, meanest, deadliest, and ablest - form of life in this section of space, a critter that can be killed but can't be tamed.
+
+Раса должна будет быть всегда начеку; особенно ей придется быть начеку примерно через двадцать пять лет, если мы не вернемся, но летающие тарелки вернутся. Мы не знаем, почему титановые монстры следуют двадцатидевятилетнему циклу «года» Сатурна, но они это делают. У человеческой расы много циклов, которые совпадают с земным годом; причины могут быть столь же просты для титанов. Мы надеемся, что они активны только в один период своего «года»; если это так. Операция «Месть» может быть легкой. Не то чтобы мы на это рассчитывали. Я ухожу, да поможет нам Бог, как «прикладной психолог (экзотический)», но я также боевой солдат, как и каждый из нас. Это навсегда, и мы намерены показать этим слизнякам, что они совершили ошибку, связавшись с самой жесткой, подлой, смертоносной и способной формой жизни в этой части космоса, существом, которое можно убить, но нельзя приручить.
+
+(I have a private hope that we will find some way to save the little elf creatures, the androgynes. We weren't able to save any of those in the saucer we found near Kansas City when the fighting was over, but that doesn't prove anything. I think we could get along with the elves. They are probably the real natives of Titan, anyhow; certainly they aren't related to the slugs.)
+
+(У меня есть личная надежда, что мы найдем способ спасти маленьких эльфийских существ, андрогинов. Мы не смогли спасти ни одного из них в тарелке, которую нашли около Канзас-Сити, когда закончились бои, но это ничего не доказывает. Я думаю, мы могли бы поладить с эльфами. В любом случае, они, вероятно, настоящие уроженцы Титана; определенно они не родственники слизняков.)
+
+Whether we make it, or not, the human race has got to keep up its well-earned reputation for fierceness. If the slugs taught us anything, it was that the price of freedom is the willingness to do sudden battle, anywhere, any time, and with complete recklessness. If we did not learn that, well - "Dinosaurs, move over! We are ready to become extinct."
+
+Независимо от того, сделаем мы это или нет, человеческая раса должна поддерживать свою заслуженную репутацию свирепой. Если слизни чему-то нас и научили, так это тому, что цена свободы — это готовность к внезапному сражению, где угодно, в любое время и с полным безрассудством. Если мы этого не усвоили, ну что ж — «Динозавры, подвиньтесь! Мы готовы вымереть».
+
+For who knows what dirty tricks may be lurking around this universe? The slugs may be simple and open and friendly compared with, let us say, the natives of the planets of Sirius. If this is just the opener, we had better learn from it for the main event. We thought space was empty and that we were automatically the lords of <span class='tip-wrap' data-text='creation [криЕйшэн] {существительное} создание'>**creation**<span class='tip-text'> </span></span> - even after we "conquered" space we thought so; Mars was already dead and Venus had not really gotten started. Well, if Man wants to be top dog - or even a respected neighbor - he'll have to fight for it.
+
+Ибо кто знает, какие грязные трюки могут скрываться в этой вселенной? Слизни могут быть простыми, открытыми и дружелюбными по сравнению, скажем, с аборигенами планет Сириуса. Если это только начало, нам лучше извлечь из этого урок для главного события. Мы думали, что космос пуст и что мы автоматически являемся владыками творения — даже после того, как мы «завоевали» космос, мы так думали; Марс уже был мертв, а Венера еще толком не начала. Ну, если человек хочет быть главным псом — или даже уважаемым соседом — ему придется за это бороться.
+
+Every one of us who is going has been possessed at least once. Only those who have been slug-ridden can know how tricky the slugs are, how constantly one must be on guard - or how deeply one must hate. The trip, they tell me, will take about twelve years, which will give Mary and me time to finish our honeymoon. Oh, yes, Mary is going; most of us are married couples and the single men are balanced by an equal number of single women. Twelve years isn't a trip; it's a way of living.
+
+Каждый из нас, кто собирается, был одержим хотя бы раз. Только те, кто был одержим слизняками, могут знать, насколько коварны слизни, как постоянно нужно быть начеку - или как глубоко нужно ненавидеть. Путешествие, как мне говорят, займет около двенадцати лет, что даст нам с Мэри время закончить наш медовый месяц. О, да, Мэри едет; большинство из нас - супружеские пары, и холостые мужчины уравновешиваются равным количеством одиноких женщин. Двенадцать лет - это не путешествие; это образ жизни.
+
+When I told Mary that we were going to Saturn her single comment was, "Yes, dear."
+
+Когда я сказал Мэри, что мы летим на Сатурн, ее единственным комментарием было: «Да, дорогая».
+
+We'll have time for two or three kids, too. As Dad says, "The race must go on, even if it doesn't know where."
+
+У нас будет время и для двух-трех детей. Как говорит папа: «Гонка должна продолжаться, даже если неизвестно куда».
+
+This report is not perfect, and I can see that some must be cut and some must be censored before it is transcribed. But I have put everything into it, as I saw it and as I felt it, for war with another race is psychological war, not war of gadgets, and what I thought and what I felt may be more important than what I did.
+
+Этот отчет не идеален, и я вижу, что некоторые из них нужно вырезать, а некоторые подвергнуть цензуре перед тем, как его расшифровать. Но я вложил в него все, как я это видел и как я это чувствовал, потому что война с другой расой — это психологическая война, а не война гаджетов, и то, что я думал и что я чувствовал, может быть важнее того, что я делал.
+
+I am finishing this report in Space Station Beta, from which we will transship to our <span class='tip-wrap' data-text='vessel [вЕсэл] {существительное} судно; сосуд'>**vessel**<span class='tip-text'> </span></span> U.N.S. Avenger. I will not have time to make corrections; this will have to go as is, for the historians to have fun with. We said good-bye to Dad last night and left our little girl with him. She did not understand and that was hard. But it was better so - and Mary and I will look into the matter of having another, at once.
+
+Я заканчиваю этот отчет на космической станции Бета, с которой мы переместимся на наш корабль UNS Avenger. У меня не будет времени вносить исправления; это придется оставить как есть, чтобы историки могли повеселиться. Мы попрощались с папой вчера вечером и оставили нашу маленькую девочку с ним. Она не поняла, и это было тяжело. Но так было лучше — и мы с Мэри рассмотрим вопрос о том, чтобы завести еще одного, немедленно.
+
+When I said good-bye Dad corrected me. "So long, you mean. You'll be back and I intend to hang on, getting crankier and meaner every year, until you do." I said I hoped so. He nodded. "You'll make it. You're too tough and mean to die. I've got a lot of confidence in you and the likes of you, son."
+
+Когда я попрощался, папа поправил меня. «Пока, ты имеешь в виду. Ты вернешься, и я намерен держаться, становясь все более и более раздражительным и злым с каждым годом, пока ты не вернешься». Я сказал, что надеюсь на это. Он кивнул. «Ты справишься. Ты слишком крепкий и подлый, чтобы умереть. Я очень верю в тебя и таких, как ты, сынок».
+
+We are about to transship. I feel exhilarated. Puppet masters - the free men are coming to kill you!
+
+Мы собираемся перегрузиться. Я чувствую себя взволнованным. Хозяева марионеток — свободные люди идут, чтобы убить вас!
+
+Death and <span class='tip-wrap' data-text='destruction [дыстрАкшэн] {существительное} разрушение'>**Destruction**<span class='tip-text'> </span></span>!
+
+Смерть и разрушение!
