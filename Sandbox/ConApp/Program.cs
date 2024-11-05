@@ -643,6 +643,7 @@ namespace ConApp {
         }
 
         static Dictionary<string, string> learnDic = loadDic(@"d:\Projects\smalls\learn-dic-3000.txt");
+        static HashSet<string> learnSet = new HashSet<string>(learnDic.Keys.SelectMany(x => getLemmaForms(x.Split(new[] { " {" }, ssop)[0])));
 
         static string getLearn(string s, Dictionary<string, string> dic = null) {
             if (dic == null)
@@ -783,7 +784,7 @@ namespace ConApp {
         }
 
         
-        static IEnumerable<List<string>> handleSrt(string path) {
+        static IEnumerable<List<string>> srtHandle(string path) {
             var ss = File.ReadAllLines(path);
             var numRe = new Regex(@"^\d+$", RegexOptions.Compiled);
             var timeRe = new Regex(@"^\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d$", RegexOptions.Compiled);
@@ -811,8 +812,7 @@ namespace ConApp {
             }
         }
         
-
-        static void checkSrt(string path) {
+        static void srtCheck(string path) {
             var ss = File.ReadAllLines(path);
             var numRe = new Regex(@"^\d+$", RegexOptions.Compiled);
             var timeRe = new Regex(@"^\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d$", RegexOptions.Compiled);
@@ -836,68 +836,64 @@ namespace ConApp {
             }
         }
 
-        static void srtLine(string path) {
-            var ss = File.ReadAllLines(path);
+        static void srtCombine(string path) {
+            var fs = Directory.GetFiles(path, "*.srt").Where(x => !x.EndsWith("all.srt")).ToArray();
             var rs = new List<string>();
-            var numRe = new Regex(@"^\d+$", RegexOptions.Compiled);
-            var timeRe = new Regex(@"^\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d$", RegexOptions.Compiled);
-            var backRe = new Regex(@"-?\([^a-z)]*\)", RegexOptions.Compiled);
-            var i = 0;
-            foreach (var s in ss) {
-                i++;
-                if (i < 3) {
-                    if (i == 1 && !numRe.IsMatch(s) || i == 2 && !timeRe.IsMatch(s))
-                        throw new Exception();
+            foreach (var f in fs) {
+                var ss = File.ReadAllLines(f).ToList();
+                if (ss.Last() != "") ss.Add("");
+                if (ss.Any(x => x == "00:00:00,000 --> 00:00:00,000"))
+                    throw new Exception();
 
-                    rs.Add(s);
-                    if (i == 2)
-                        rs.Add("");
+                ss.Insert(0, "");
+                ss.Insert(0, Path.GetFileName(f));
+                ss.Insert(0, "00:00:00,000 --> 00:00:00,000");
+                ss.Insert(0, "0");
 
-                    continue;
-                }
-
-                if (s == "") {
-                    i = 0;
-
-                    if (rs.Last() == "") {
-                        rs.RemoveRange(rs.Count - 3, 3);
-                    }
-                    else {
-                        rs.Add(s);
-                    }
-                    
-                    continue;
-                }
-
-                var s2 = backRe.Replace(s, "").Trim();
-                if (s2 != "") {
-                    rs[rs.Count - 1] += (rs.Last() == "" ? "" : " ") + s2;
-                }
+                rs.AddRange(ss);
             }
-            File.WriteAllLines(path.Replace("-orig", ""), rs);
+            File.WriteAllLines(Path.Combine(path, "all.srt"), rs);
         }
 
-        static void srtCombile(string path, string pathOrig) {
-            var ss = File.ReadAllLines(path);
-            var os = File.ReadAllLines(pathOrig);
+        static void srtSplit(string path, string ext = null) {
+            srtCheck(path);
+            var dir = Path.GetDirectoryName(path);
+            var f = (string)null;
             var rs = new List<string>();
-            var k = 0;
-            var j = 0;
-            for (var i = 0; i < os.Length; i++) {
-                k++;
-                if (k < 3) {
-                    rs.Add(os[i]);
-                    continue;
+            var end = (new[] { "0", "00:00:00,000 --> 00:00:00,000", "END" }).ToList();
+            foreach (var ss in srtHandle(path).Concat(Enumerable.Repeat(end,1))) {
+                if (ss[1] == "00:00:00,000 --> 00:00:00,000") {
+                    if (f != null)
+                        File.WriteAllLines(Path.Combine(dir, ext == null ? f : f.Replace(".srt", $".{ext}.srt")), rs);
+
+                    f = ss[2];
+                    rs = new List<string>();
                 }
-                if (string.IsNullOrEmpty(os[i])) {
-                    k = 0;
-                    rs.Add(os[i]);
-                    continue;
+                else {
+                    rs.AddRange(ss);
+                    rs.Add("");
                 }
-                rs.Add(ss[j]);
-                j++;
             }
-            File.WriteAllLines(path.Replace("-clear", ""), rs);
+        }
+
+        static void srtLine(string path) {
+            var rs = new List<string>();
+            srtCheck(path);
+            foreach (var ss in srtHandle(path)) {
+                ss[2] = string.Join(" ", ss.Skip(2));
+                rs.AddRange(ss.Take(3).Concat(Enumerable.Repeat("", 1)));
+            }
+            File.WriteAllLines(pathEx(path, "-2"), rs);
+        }
+
+        static void srtLearn(string path) {
+            var s = File.ReadAllText(path);
+            var wRe = new Regex(@"[a-z]+", RegexOptions.IgnoreCase | RegexOptions.Compiled);
+            s = Regex.Replace(s, @"</?[Uu]>", "");
+            s = handleString(s, wRe, (x,m) => {
+                return !learnSet.Contains(x.ToLower()) ? x : $"<u>{x}</u>";
+            });
+            File.WriteAllText(path, s);
         }
 
         static Dictionary<string, string> openNlpTags = initOpenNlpTags();
@@ -1070,13 +1066,11 @@ namespace ConApp {
             var es = File.ReadAllLines(path + "en.txt");
             var rs = File.ReadAllLines(path + "ru.txt");
             var ss = new List<string>();
-            var lSet = new HashSet<string>(learnDic.Select(x => x.Key.Split(' ')[0])
-                .SelectMany(x => (lemmaForms.TryGetValue(x, out var xs) ? xs : Enumerable.Empty<string>()).Concat(Enumerable.Repeat(x, 1))));
             var wRe = new Regex(@"[a-zA-Z]+");
             for (var i = 0; i < es.Length; i++) {
                 es[i] = es[i].Replace("<", "&lt;");
                 rs[i] = rs[i].Replace("<", "&lt;");
-                es[i] = handleString(es[i], wRe, (x,m) => lSet.Contains(x.ToLower()) ? $"<u>{x}</u>" : x);
+                es[i] = handleString(es[i], wRe, (x,m) => !learnSet.Contains(x.ToLower()) ? x : $"<u>{x}</u>");
                 ss.Add(es[i]);
                 ss.Add(rs[i]);
             }
@@ -1130,11 +1124,11 @@ namespace ConApp {
             return task2.Result;
         }
 
-        static string[] edgeVocs = new[] { "en-US-AvaNeural", "en-US-AndrewNeural", "en-US-EmmaNeural", "en-US-BrianNeural", "en-US-AnaNeural", "en-US-AriaNeural", "en-US-ChristopherNeural", "en-US-EricNeural", "en-US-GuyNeural", "en-US-JennyNeural", "en-US-MichelleNeural", "en-US-RogerNeural", "en-US-SteffanNeural" };
+        static string[] edgeVocs = new[] { "Ava", "Andrew", "Emma", "Brian", "Ana", "Aria", "Christopher", "Eric", "Guy", "Jenny", "Michelle", "Roger", "Steffan" };
 
         static byte[] edgeTts(string s, string v) {
             var httpClient = new HttpClient();
-            var json = $"{{ \"input\": \"{s}\", \"voice\": \"{v}\", \"response_format\": \"mp3\", \"speed\": 1.0 }}";
+            var json = $"{{ \"input\": \"{s}\", \"voice\": \"en-US-{v}Neural\", \"response_format\": \"mp3\", \"speed\": 1.0 }}";
 
             var url = $"http://localhost:5050/v1/audio/speech";
             var request = WebRequest.Create(url);
@@ -1155,42 +1149,63 @@ namespace ConApp {
             }
         }
 
+        static void run(string exe, string ps) {
+            Process p = new Process();
+            p.StartInfo.FileName = exe;
+            p.StartInfo.RedirectStandardOutput = true;
+            p.StartInfo.RedirectStandardInput = true;
+            p.StartInfo.RedirectStandardError = true;
+            p.StartInfo.Arguments = ps;
+            p.StartInfo.UseShellExecute = false;
+            p.StartInfo.WindowStyle = ProcessWindowStyle.Hidden;
+            p.StartInfo.CreateNoWindow = true;
+            p.EnableRaisingEvents = true;
+            p.ErrorDataReceived += runReceived;
+            p.OutputDataReceived += runReceived;
+            p.Start();
+            p.BeginOutputReadLine();
+            p.BeginErrorReadLine();
+            p.WaitForExit();
+        }
+
+        static void runReceived(object sender, DataReceivedEventArgs e) {
+            if (!string.IsNullOrEmpty(e.Data)) {
+                Console.WriteLine(e.Data);
+            }
+        }
 
         static volatile bool ctrlC = false;
 
-        [STAThread]
+        
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
-            var rnd = new Random();
 
-            var path = @"d:\Projects\smalls\lisen.txt";
-            var path2 = @"d:/exs.txt";
-            var exs = new HashSet<string>(File.ReadAllLines(path2));
-            var ss = File.ReadAllLines(path);
-            var c = ss.Length - exs.Count;
-            foreach (var s in ss) {
-                if (ctrlC) break;
-                var id = s.Split('|')[0].Trim();
-                var val = s.Split('|')[2].Trim();
-                if (exs.Contains(id)) {
-                        continue;
-                    }
-                var r = new byte[0];
-                try {
-                    var voc = edgeVocs[rnd.Next(edgeVocs.Length)];
-                    r = edgeTts(val, voc);
-                }
-                catch {
-                    break;
-                }
-                var dir = $"d:/english/lisen/{id.Substring(0, 2)}";
-                if (!Directory.Exists(dir)) Directory.CreateDirectory(dir);
-                File.WriteAllBytes($"{dir}/{id}.mp3", r);
-                exs.Add(id);
-                c--;
-                Console.WriteLine($"{c} {id}");
+            var mPs = string.Join(" ", Enumerable.Range(1, 20).Select(i => $"-map -0:s:{i}"));
+            var fs = Directory.GetFiles(@"d:\.temp\123", "*.mp4");
+            foreach (var f in fs) {
+                var f2 = pathEx(f, "-2");
+                run(@"d:\Portables\ffmpeg\bin\ffmpeg.exe", $" -i {f} -map 0 {mPs} -c copy {f2}");
+                File.Delete(f);
+                File.Move(f2,f);
+                run(@"d:\Portables\SubtitleEdit\SubtitleEdit.exe", $" /convert {f} srt /RemoveFormatting");
             }
-            File.WriteAllLines(path2, exs);
+
+            /*
+             // |,[
+            foreach (var ss in srtHandle(@"d:\.temp\srt\all.srt")) {
+                foreach (var s in ss.Skip(2)) {
+                    if (s.Contains("1")) {
+                        Console.WriteLine(s);
+                    }
+                }
+            }
+            */
+
+            //srtCombine(@"d:\.temp\srt\");
+            //srtLine(@"d:\.temp\srt\all.srt");
+            //srtLearn(@"d:\.temp\srt\all.srt");
+            //srtSplit(@"d:\.temp\srt\all.srt", "eng");
+            //srtSplit(@"d:\.temp\srt\all-ru.srt", "rus");
 
             //prepareWords("d:/words.txt");
             //fixQuotes(@"d:\.temp\7.txt");
