@@ -36,6 +36,20 @@ var en;
 var ru;
 var eni;
 var enc;
+var ss;
+
+(function () {
+    if (!window.location.href.includes("192.168.0.4"))
+      return;
+
+    $.ajax({
+        url: "lisen.txt"
+    }).done(function(d) {
+        ss = d.split(/\r?\n/);
+        next();
+    });
+})();
+
 
 function render() {
     var rs = [];
@@ -70,20 +84,30 @@ function render() {
     }
 }
 
+function applyData(d) {
+    var sp = d.split(/ ?\| ?/);
+    var id = sp[0];
+    $(".ru").addClass("hidden");
+    $(".ru").text(sp[3]);
+    en = sp[2].match(/[a-z']+|[^a-z']+/gi);
+    eni = 0;
+    $(".audio").attr("src", `lisen/${id.substr(0,2)}/${id}.mp3`);
+    $(".audio")[0].play();
+    render();
+}
+
 function next() {
+    if (ss) {
+        var i = Math.floor(Math.random() * ss.length);
+        applyData(ss[i]);
+        return;
+    }
+
     $.ajax({
         url: `/sandbox/api/lisen/next`
       , method: "post"
     }).done(function(d) {
-        var sp = d.split(/ ?\| ?/);
-        var id = sp[0];
-        $(".ru").addClass("hidden");
-        $(".ru").text(sp[3]);
-        en = sp[2].match(/[a-z']+|[^a-z']+/gi);
-        eni = 0;
-        $(".audio").attr("src", `/lisen/${id.substr(0,2)}/${id}.mp3`);
-        $(".audio")[0].play();
-        render();
+        applyData(d);
     });
 }
 
