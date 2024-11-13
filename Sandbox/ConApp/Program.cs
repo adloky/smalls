@@ -1170,28 +1170,43 @@ namespace ConApp {
 
         static void runReceived(object sender, DataReceivedEventArgs e) {
             if (!string.IsNullOrEmpty(e.Data)) {
-                Console.WriteLine(e.Data);
+                Console.Write(e.Data);
+            }
+        }
+
+        static void srtOcr(string path) {
+            var mPs = string.Join(" ", Enumerable.Range(1, 20).Select(i => $"-map -0:s:{i}"));
+            path = path.Replace("\\", "/");
+            var ptn = path.Substring(path.LastIndexOf('/') + 1);
+            path = path.Substring(0, path.LastIndexOf('/'));
+            var fs = Directory.GetFiles(path, ptn);
+            foreach (var f in fs) {
+                var f2 = pathEx(f, "-2");
+                run(@"d:\Portables\ffmpeg\bin\ffmpeg.exe", $" -i {f} -map 0 {mPs} -c copy {f2}");
+                if (!File.Exists(f2))
+                    throw new Exception();
+                File.Delete(f);
+                File.Move(f2, f);
+            }
+            foreach (var f in fs) {
+                run(@"d:\Portables\SubtitleEdit\SubtitleEdit.exe", $" /convert {f} srt /RemoveFormatting");
             }
         }
 
         static volatile bool ctrlC = false;
-
         
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
-            var mPs = string.Join(" ", Enumerable.Range(1, 20).Select(i => $"-map -0:s:{i}"));
-            var fs = Directory.GetFiles(@"d:\.temp\123", "*.mp4");
-            foreach (var f in fs) {
-                var f2 = pathEx(f, "-2");
-                run(@"d:\Portables\ffmpeg\bin\ffmpeg.exe", $" -i {f} -map 0 {mPs} -c copy {f2}");
-                File.Delete(f);
-                File.Move(f2,f);
-                run(@"d:\Portables\SubtitleEdit\SubtitleEdit.exe", $" /convert {f} srt /RemoveFormatting");
-            }
+            Directory.GetFiles(@"d:\english\lisen", "*.ogg", SearchOption.AllDirectories).ToList().ForEach(f => {
+                var dir = Path.GetDirectoryName(f).Replace("lisen", "lisen2");
+                if (!Directory.Exists(dir)) Directory.CreateDirectory(dir);
+                File.Move(f, f.Replace("lisen", "lisen2"));
+            });
+            
 
             /*
-             // |,[
+             // |,[,/
             foreach (var ss in srtHandle(@"d:\.temp\srt\all.srt")) {
                 foreach (var s in ss.Skip(2)) {
                     if (s.Contains("1")) {
@@ -1200,6 +1215,7 @@ namespace ConApp {
                 }
             }
             */
+            //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
 
             //srtCombine(@"d:\.temp\srt\");
             //srtLine(@"d:\.temp\srt\all.srt");
