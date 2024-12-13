@@ -30,6 +30,39 @@ using Newtonsoft.Json;
 using System.Drawing;
 
 namespace ConApp {
+    public class Tag {
+        public static Regex tagRe { get; } = new Regex(@"<(?<close>/)?(?<name>[^/> ]+)(""[^""]*""|[^/>])*/?>");
+        private static Regex attrRe = new Regex(@" +(?<attr>[^=]+)=""(?<value>[^""]*)""");
+
+        public string name { get; set; }
+
+        public bool isOpen { get; private set; }
+
+        public Dictionary<string, string> attr { get; } = new Dictionary<string, string>();
+
+        public static Tag[] Parse(string s) {
+            var r = new List<Tag>();
+            var m = tagRe.Match(s);
+            while (m.Success) {
+                var tag = new Tag();
+                tag.name = m.Groups["name"].Value;
+                tag.isOpen = m.Groups["close"].Value != "/";
+                var m2 = attrRe.Match(m.Value);
+                while (m2.Success) {
+                    tag.attr.Add(m2.Groups["attr"].Value, m2.Groups["value"].Value);
+                    m2 = m2.NextMatch();
+                }
+                r.Add(tag);
+                m = m.NextMatch();
+            }
+            return r.ToArray();
+        }
+
+        public static string Clear(string s, HashSet<string> names = null) {
+            return Program.handleString(s, tagRe, (x, m) => (names == null || names.Contains(m.Groups["name"].Value)) ? "" : x);
+        }
+    }
+
     static class Program {
 
         static Program() {
@@ -53,7 +86,7 @@ namespace ConApp {
 
         static Dictionary<string, string> config;
 
-        static string handleString(string s, Regex re, Func<string, Match, string> handler) {
+        public static string handleString(string s, Regex re, Func<string, Match, string> handler) {
             var m = re.Match(s);
             var i = 0;
             var sb = new StringBuilder();
@@ -876,14 +909,18 @@ namespace ConApp {
             }
         }
 
-        static void srtLine(string path) {
+        static void srtLine(string path, bool tagClear = true) {
             var rs = new List<string>();
             srtCheck(path);
             foreach (var ss in srtHandle(path)) {
                 ss[2] = string.Join(" ", ss.Skip(2));
+                if (tagClear) {
+                    ss[2] = Tag.Clear(ss[2]);
+                    ss[2] = ss[2].Replace("{\\an8}", "");
+                }
                 rs.AddRange(ss.Take(3).Concat(Enumerable.Repeat("", 1)));
             }
-            File.WriteAllLines(pathEx(path, "-2"), rs);
+            File.WriteAllLines(pathEx(path, "-line"), rs);
         }
 
         static void srtLearn(string path) {
@@ -1193,18 +1230,46 @@ namespace ConApp {
             }
         }
 
+        static void serRename(string dir) {
+            var re = new Regex(@".*?S(\d+).*?E(\d+).*");
+            Directory.GetFiles(dir).Select(x => Path.GetFileName(x)).ToList().ForEach(f => {
+                var ext = Path.GetExtension(f);
+                var nf = handleString(f, re, (x, m) => {
+                    var sn = int.Parse(m.Groups[1].Value);
+                    var en = int.Parse(m.Groups[2].Value);
+                    return $"S{sn.ToString("00")}E{en.ToString("00")}{ext}" ;
+                });
+                File.Move(Path.Combine(dir, f), Path.Combine(dir, nf));
+                //Console.WriteLine(Path.Combine(dir, nf));
+            });
+        }
+
+        static void fixOcr(string path) {
+            var os = @"УКЕНХВАРОСМТукехаросвтДЛÓẤÉÄÒÍÔÃÚÑÁІỆỚÊẺʼ»„";
+            var ns = @"YKEHXBAPOCMTykexapocBTAAOAEAOIOAUNAIEOEE'""""";
+            var dic = os.Select((c,i) => (os[i], ns[i])).ToDictionary(x => x.Item1, x => x.Item2);
+            var s = File.ReadAllText(path);
+            s = new string(s.Select(c => dic.ContainsKey(c) ? dic[c] : c).ToArray());
+            File.WriteAllText(path, s);
+        }
+
         static volatile bool ctrlC = false;
         
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
+            var nRe = new Regex(@"^\d+ ", RegexOptions.Compiled);
+            var dic = File.ReadAllLines(@"d:\freq-20k.txt").ToDictionary(x => nRe.Replace(x, ""), x => int.Parse(nRe.Match(x).Value.Trim()));
+            var rs = new List<string>();
+            foreach (var kv in dic) {
+                var w = kv.Key.Split('{')[0].Trim();
+                rs.Add($"{kv.Value} {kv.Key}");
+                if (Regex.IsMatch(kv.Key, @"\{(существительное|прилагательное)\}") && Regex.IsMatch(w, @"(ng|d)$") && lemmas.ContainsKey(w)) {
+                    rs.Add($"{kv.Value} {w} {{глагол}}");
+                }
+            }
 
-            Directory.GetFiles(@"d:\english\lisen", "*.ogg", SearchOption.AllDirectories).ToList().ForEach(f => {
-                var dir = Path.GetDirectoryName(f).Replace("lisen", "lisen2");
-                if (!Directory.Exists(dir)) Directory.CreateDirectory(dir);
-                File.Move(f, f.Replace("lisen", "lisen2"));
-            });
-            
-
+            File.WriteAllLines(@"d:\freq-20k-2.txt", rs);
+            var foo = 0;
             /*
              // |,[,/
             foreach (var ss in srtHandle(@"d:\.temp\srt\all.srt")) {
@@ -1216,6 +1281,7 @@ namespace ConApp {
             }
             */
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
+            //serRename(@"e:\teen-titans");
 
             //srtCombine(@"d:\.temp\srt\");
             //srtLine(@"d:\.temp\srt\all.srt");
@@ -1242,7 +1308,8 @@ namespace ConApp {
             */
 
             //comicOcr(@"d:\.temp\comics-ocr\");
-            //comicOcrPost(@"d:\.temp\comics-ocr\", 20, 5);
+            //comicOcrPost(@"d:\.temp\comics-ocr\", 10, 3); // 20,5 archie
+            //fixOcr(@"d:\.temp\comics-ocr\en.txt");
             //deeplSplit(@"d:\.temp\comics-ocr\en.txt");
             //comicComplete(@"d:\.temp\comics-ocr\");
 
