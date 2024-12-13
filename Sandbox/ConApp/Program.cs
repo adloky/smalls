@@ -1253,23 +1253,73 @@ namespace ConApp {
             File.WriteAllText(path, s);
         }
 
+        static Regex nsPunctRe = new Regex(@"\s*(\.\.\.|[!?,\.:;])\s*", RegexOptions.Compiled);
+        static Regex nsDotsRe = new Regex(@"\.\.+", RegexOptions.Compiled);
+        static Regex nsAmpRe = new Regex(@"[´`]", RegexOptions.Compiled);
+        static Regex nsHypRe = new Regex(@"[–—]", RegexOptions.Compiled);
+        static Regex nsTuneRe = new Regex(@"[♫♬♪]", RegexOptions.Compiled);
+        static Regex nsSpaceRe = new Regex(@"\s+", RegexOptions.Compiled);
+
+        static string normSent(string s) {
+            s = nsAmpRe.Replace(s, "'");
+            s = nsHypRe.Replace(s, "-");
+            s = nsTuneRe.Replace(s, " ");
+
+            s = nsDotsRe.Replace(s, "...");
+            s = handleString(s, nsPunctRe, (x,m) => x.Trim() + " ").Trim();
+            s = nsSpaceRe.Replace(s, " ");
+            return s;
+        }
+
         static volatile bool ctrlC = false;
         
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
+
             var nRe = new Regex(@"^\d+ ", RegexOptions.Compiled);
-            var dic = File.ReadAllLines(@"d:\freq-20k.txt").ToDictionary(x => nRe.Replace(x, ""), x => int.Parse(nRe.Match(x).Value.Trim()));
+            var path = @"d:\Projects\smalls\dic-corpus-20k.txt";
+            var set = new HashSet<string>();
+            var dic = File.ReadAllLines(path).ToDictionary(x => x.Split('}')[0] + "}", x => int.Parse(x.Split('}')[1].Trim())); // .Select(x => { Console.WriteLine(x); return x; })
             var rs = new List<string>();
+
+            var capRe = new Regex(@"[A-Z]{2,}", RegexOptions.Compiled);
+            var litRe = new Regex(@"[a-zA-Z]", RegexOptions.Compiled);
+            var excepts = new HashSet<string>(new[] { "the {определитель}", "a {определитель}", "an {определитель}", "of {служебное}", "to {прочее}", "to {служебное}", "not {прочее}", "not {служебное}", "not {наречие}" });
+            var endRe = new Regex(@"(\.\.\.|[!?\.])$", RegexOptions.Compiled);
+            var hardPunctRe = new Regex(@"(\.\.\.|[!?\.])", RegexOptions.Compiled);
+            var bracRe = new Regex(@"\[\]\(\)\{\}", RegexOptions.Compiled);
+
+            var n0 = 0L;
+            var n1 = 0L;
+
+            var chDic = new Dictionary<char, long>();
+            using (var readStream = File.OpenRead(@"d:\english\.db\OpenSubtitles.en-ru.en"))
+            using (var reader = new StreamReader(readStream))
+                while (!reader.EndOfStream) {
+                    var s = normSent(reader.ReadLine());
+                    n0++;
+
+                    if (capRe.IsMatch(s) || !litRe.IsMatch(s) || !char.IsUpper(litRe.Match(s).Value[0]) || hardPunctRe.Matches(s).Count > 1 || !endRe.IsMatch(s) || bracRe.IsMatch(s))
+                        continue;
+
+                    //var ts = posTagging(handleAmp(s)).Where(x => !excepts.Contains(x)).ToList();
+                    n1++;
+                }
+
+            var rs2 = chDic.OrderByDescending(x => x.Value).Select(x => $"{x.Key} {x.Value}").ToList();
+            File.WriteAllLines(@"d:\ch-dic.txt", rs2);
+
+            Console.WriteLine(n1 * 100 / n0);
+
+            var foo = 0;
+            /*
             foreach (var kv in dic) {
                 var w = kv.Key.Split('{')[0].Trim();
-                rs.Add($"{kv.Value} {kv.Key}");
-                if (Regex.IsMatch(kv.Key, @"\{(существительное|прилагательное)\}") && Regex.IsMatch(w, @"(ng|d)$") && lemmas.ContainsKey(w)) {
-                    rs.Add($"{kv.Value} {w} {{глагол}}");
-                }
+                rs.Add($"{kv.Key} {kv.Value.ToString("00000")}");
             }
+            */
+            //File.WriteAllLines(pathEx(path, "-2"), rs);
 
-            File.WriteAllLines(@"d:\freq-20k-2.txt", rs);
-            var foo = 0;
             /*
              // |,[,/
             foreach (var ss in srtHandle(@"d:\.temp\srt\all.srt")) {
