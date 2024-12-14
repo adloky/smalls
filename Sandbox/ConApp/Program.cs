@@ -258,9 +258,9 @@ namespace ConApp {
                 });
         }
 
-        static IEnumerable<string> getLemmaForms(string s) {
+        static IEnumerable<string> getLemmaForms(string s, bool strick = false) {
             s = s.ToLower();
-            if (lemmas.ContainsKey(s)) {
+            if (lemmas.ContainsKey(s) && !strick) {
                 s = lemmas[s];
             }
 
@@ -269,6 +269,16 @@ namespace ConApp {
                 r = r.Concat(lemmaForms[s]);
             }
             return r;
+        }
+
+        static string getLemmaBase(string s) {
+            var part = "";
+            if (s.Contains(" {")) {
+                var sp = s.Split(new[] { " {" }, ssop);
+                s = sp[0];
+                part = $" {{{sp[1]}";
+            }
+            return (lemmas.ContainsKey(s.ToLower()) ? lemmas[s] : s) + part;
         }
 
         static Dictionary<string,string> _existingWords;
@@ -1272,42 +1282,74 @@ namespace ConApp {
         }
 
         static volatile bool ctrlC = false;
-        
+
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
             var nRe = new Regex(@"^\d+ ", RegexOptions.Compiled);
             var path = @"d:\Projects\smalls\dic-corpus-20k.txt";
-            var set = new HashSet<string>();
             var dic = File.ReadAllLines(path).ToDictionary(x => x.Split('}')[0] + "}", x => int.Parse(x.Split('}')[1].Trim())); // .Select(x => { Console.WriteLine(x); return x; })
+            var dicNone = new Dictionary<string, int>();
+            var dicYes = dic.ToDictionary(x => x.Key, x => 0);
+            var dicBase = dic.Select(x => getLemmaBase(x.Key.Split(' ')[0])).Distinct().ToDictionary(x => x, x => new List<string>());
+            var set = new HashSet<string>(dic.Keys.SelectMany(x => getLemmaForms(x.Split(' ')[0], true)).Distinct());
             var rs = new List<string>();
 
+            dic.Keys.ToList().ForEach(x => {
+                var w = getLemmaBase(x.Split(' ')[0]);
+                dicBase[w].Add(x);
+            });
+
             var capRe = new Regex(@"[A-Z]{2,}", RegexOptions.Compiled);
-            var litRe = new Regex(@"[a-zA-Z]", RegexOptions.Compiled);
+            var litRe = new Regex(@"[a-zA-Z]+", RegexOptions.Compiled);
             var excepts = new HashSet<string>(new[] { "the {определитель}", "a {определитель}", "an {определитель}", "of {служебное}", "to {прочее}", "to {служебное}", "not {прочее}", "not {служебное}", "not {наречие}" });
             var endRe = new Regex(@"(\.\.\.|[!?\.])$", RegexOptions.Compiled);
             var hardPunctRe = new Regex(@"(\.\.\.|[!?\.])", RegexOptions.Compiled);
-            var bracRe = new Regex(@"\[\]\(\)\{\}", RegexOptions.Compiled);
+            var bracRe = new Regex(@"\[\]\(\)\{\}""", RegexOptions.Compiled);
+            var hypRe = new Regex(@"^\s*-\s*", RegexOptions.Compiled);
+
+            Func<string, string> find = s => {
+                var sp = s.Split(' ');
+                if (dic.ContainsKey(s)) return s;
+                s = getLemmaBase(s);
+                if (dic.ContainsKey(s)) return s;
+                return null;
+            };
 
             var n0 = 0L;
             var n1 = 0L;
 
             var chDic = new Dictionary<char, long>();
-            using (var readStream = File.OpenRead(@"d:\english\.db\OpenSubtitles.en-ru.en"))
-            using (var reader = new StreamReader(readStream))
+            using (var readStream = File.OpenRead(@"d:\english\.db\OpenSubtitles.en-ru.clean.en"))
+            using (var reader = new StreamReader(readStream)) {
                 while (!reader.EndOfStream) {
-                    var s = normSent(reader.ReadLine());
+                    var s = reader.ReadLine();
                     n0++;
+                    if (n0 % 1000 == 0) { Console.WriteLine(n0 / 1000); }
+                    var ts = posTagging(handleAmp(s)).Where(x => !excepts.Contains(x) && !x.Contains("{междометие}")).ToList();
+                    
+                    ts = ts.Where(x => !x.Contains("{имя}")).Where(x => set.Contains(x.Split(' ')[0])).ToList();
+                    ts.Where(x => find(x) == null).ToList().ForEach(x => {
+                        if (!dicNone.ContainsKey(x))
+                            dicNone[x] = 0;
+                        dicNone[x]++;
+                    });
 
-                    if (capRe.IsMatch(s) || !litRe.IsMatch(s) || !char.IsUpper(litRe.Match(s).Value[0]) || hardPunctRe.Matches(s).Count > 1 || !endRe.IsMatch(s) || bracRe.IsMatch(s))
-                        continue;
+                    ts.Select(x => find(x)).Where(x => x != null).ToList().ForEach(x => {
+                        dicYes[x]++;
+                    });
 
-                    //var ts = posTagging(handleAmp(s)).Where(x => !excepts.Contains(x)).ToList();
                     n1++;
                 }
+            }
 
-            var rs2 = chDic.OrderByDescending(x => x.Value).Select(x => $"{x.Key} {x.Value}").ToList();
-            File.WriteAllLines(@"d:\ch-dic.txt", rs2);
+            Func<string, string> prob = x => {
+                x = getLemmaBase(x).Split(' ')[0];
+                if (!dicBase.ContainsKey(x)) return "";
+                return string.Join(" | ", dicBase[x].Select(y => $"{dic[y].ToString("00000")} {y} {dicYes[y]}"));
+            };
+
+            File.WriteAllLines(@"d:\ex.txt", dicNone.OrderByDescending(x => x.Value).Select(x => $"{x.Key} {x.Value} | {prob(x.Key)}"));
 
             Console.WriteLine(n1 * 100 / n0);
 
