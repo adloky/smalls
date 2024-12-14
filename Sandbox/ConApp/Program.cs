@@ -1289,16 +1289,9 @@ namespace ConApp {
             var nRe = new Regex(@"^\d+ ", RegexOptions.Compiled);
             var path = @"d:\Projects\smalls\dic-corpus-20k.txt";
             var dic = File.ReadAllLines(path).ToDictionary(x => x.Split('}')[0] + "}", x => int.Parse(x.Split('}')[1].Trim())); // .Select(x => { Console.WriteLine(x); return x; })
-            var dicNone = new Dictionary<string, int>();
-            var dicYes = dic.ToDictionary(x => x.Key, x => 0);
-            var dicBase = dic.Select(x => getLemmaBase(x.Key.Split(' ')[0])).Distinct().ToDictionary(x => x, x => new List<string>());
+            var dicExt = dic.ToDictionary(x => x.Key, x => new List<string>() { $"{x.Key} {x.Value.ToString("00000")}" });
             var set = new HashSet<string>(dic.Keys.SelectMany(x => getLemmaForms(x.Split(' ')[0], true)).Distinct());
             var rs = new List<string>();
-
-            dic.Keys.ToList().ForEach(x => {
-                var w = getLemmaBase(x.Split(' ')[0]);
-                dicBase[w].Add(x);
-            });
 
             var capRe = new Regex(@"[A-Z]{2,}", RegexOptions.Compiled);
             var litRe = new Regex(@"[a-zA-Z]+", RegexOptions.Compiled);
@@ -1319,6 +1312,17 @@ namespace ConApp {
             var n0 = 0L;
             var n1 = 0L;
 
+            File.ReadAllLines(@"d:\ex.txt").ToList().ForEach(x => {
+                var a = x.Split(new[] { " | " }, ssop);
+                var k = a[1];
+                dicExt[k].Add($"{a[0]} {dic[k].ToString("00000")}");
+            });
+
+            rs = dicExt.Values.SelectMany(x => x).ToList();
+            //File.WriteAllLines(pathEx(path, "-2"), rs);
+
+            return;
+
             var chDic = new Dictionary<char, long>();
             using (var readStream = File.OpenRead(@"d:\english\.db\OpenSubtitles.en-ru.clean.en"))
             using (var reader = new StreamReader(readStream)) {
@@ -1326,6 +1330,7 @@ namespace ConApp {
                     var s = reader.ReadLine();
                     n0++;
                     if (n0 % 1000 == 0) { Console.WriteLine(n0 / 1000); }
+                    /*
                     var ts = posTagging(handleAmp(s)).Where(x => !excepts.Contains(x) && !x.Contains("{междометие}")).ToList();
                     
                     ts = ts.Where(x => !x.Contains("{имя}")).Where(x => set.Contains(x.Split(' ')[0])).ToList();
@@ -1338,22 +1343,13 @@ namespace ConApp {
                     ts.Select(x => find(x)).Where(x => x != null).ToList().ForEach(x => {
                         dicYes[x]++;
                     });
-
+                    */
                     n1++;
                 }
             }
 
-            Func<string, string> prob = x => {
-                x = getLemmaBase(x).Split(' ')[0];
-                if (!dicBase.ContainsKey(x)) return "";
-                return string.Join(" | ", dicBase[x].Select(y => $"{dic[y].ToString("00000")} {y} {dicYes[y]}"));
-            };
-
-            File.WriteAllLines(@"d:\ex.txt", dicNone.OrderByDescending(x => x.Value).Select(x => $"{x.Key} {x.Value} | {prob(x.Key)}"));
-
             Console.WriteLine(n1 * 100 / n0);
 
-            var foo = 0;
             /*
             foreach (var kv in dic) {
                 var w = kv.Key.Split('{')[0].Trim();
