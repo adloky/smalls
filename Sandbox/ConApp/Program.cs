@@ -1287,6 +1287,28 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
             var nRe = new Regex(@"^\d+ ", RegexOptions.Compiled);
+            var ss = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt")
+                .Select(x => (i: int.Parse(nRe.Match(x).Value.Trim()), s: nRe.Replace(x, "")))
+                .Where(x => x.i >= 1000 && x.i <= 5000)
+                .Select(x =>  @"""" + x.i.ToString("00000") + " " + x.s + @""",");
+            File.WriteAllLines(@"d:\dic-2.js", ss);
+
+            /*
+            var en = File.ReadAllLines(@"d:\subs.txt");
+            var ru = File.ReadAllLines(@"d:\subs-ru.txt");
+            var rs = new List<string>();
+            for (var i = 0; i < en.Length; i++) {
+                if (en[i].Contains("{")) {
+                    rs.Add(en[i]);
+                    continue;
+                }
+                rs.Add($"{en[i]} | {ru[i]}");
+            }
+            File.WriteAllLines(@"d:\subs-last.txt", rs);
+            */
+
+            /*
+            var nRe = new Regex(@"^\d+ ", RegexOptions.Compiled);
             var path = @"d:\Projects\smalls\dic-corpus-20k.txt";
             var dic = File.ReadAllLines(path).ToDictionary(x => x.Split('}')[0] + "}", x => int.Parse(x.Split('}')[1].Trim())); // .Select(x => { Console.WriteLine(x); return x; })
 
@@ -1299,7 +1321,7 @@ namespace ConApp {
             var excepts = new HashSet<string>(new[] { "the {определитель}", "a {определитель}", "an {определитель}", "of {служебное}", "to {прочее}", "to {служебное}", "not {прочее}", "not {служебное}", "not {наречие}" });
             var endRe = new Regex(@"(\.\.\.|[!?\.])$", RegexOptions.Compiled);
             var hardPunctRe = new Regex(@"(\.\.\.|[!?\.])", RegexOptions.Compiled);
-            var bracRe = new Regex(@"\[\]\(\)\{\}""", RegexOptions.Compiled);
+            var bracRe = new Regex(@"[\[\]\(\)\{\}""]", RegexOptions.Compiled);
             var hypRe = new Regex(@"^\s*-\s*", RegexOptions.Compiled);
 
             Func<string, string> find = s => {
@@ -1312,7 +1334,27 @@ namespace ConApp {
 
             var n0 = 0L;
             var n1 = 0L;
+            
+            var dicO = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").ToDictionary(x => int.Parse(nRe.Match(x).Value.Trim()), x => nRe.Replace(x.Split('}')[0] + "}", ""));
+            var dicL = dicO.ToDictionary(x => x.Key, x => new List<string>() { $"{x.Key.ToString("00000")} {x.Value}" });
 
+            
+            var i = 0;
+            var path2 = @"d:\subs.txt";
+            foreach (var s in File.ReadAllLines(path2)) {
+                if (s.Contains("{")) {
+                    i = int.Parse(nRe.Match(s).Value.Trim());
+                    continue;
+                }
+                if (dicL[i].Count < 31)
+                    dicL[i].Add(s);
+            }
+
+            rs = dicL.Values.Where(x => x.Count > 1).SelectMany(x => x).ToList();
+            File.WriteAllLines(pathEx(path2, "-2"), rs);
+            */
+
+            /*
             using (var readStream = File.OpenRead(@"d:\english\.db\open-sub.txt"))
             using (var reader = new StreamReader(readStream)) {
                 while (!reader.EndOfStream) {
@@ -1346,11 +1388,11 @@ namespace ConApp {
                     }
                 }
             }
-
+            
             rs = dicS.Values.Where(x => x.Count > 1).SelectMany(x => x).ToList();
             File.WriteAllLines(@"d:\subs.txt", rs);
             Console.WriteLine(n1 * 100 / n0);
-
+            */
             /*
             foreach (var kv in dic) {
                 var w = kv.Key.Split('{')[0].Trim();
@@ -1434,23 +1476,22 @@ File.WriteAllLines(@"d:/conen.txt", subs);
 
 /*
             // conen/ 
-            var path = @"d:\Projects\smalls\subs.txt";
+            var path = @"d:\subs.txt";
             var ss = File.ReadAllLines(path).Select(x => x).ToList();
-            var rs = new string[51];
-            for (var i = 0; i < rs.Length; i++) rs[i] = "";
+            var rs = Enumerable.Range(0,202).Select(x => new StringBuilder()).ToArray();
+            //for (var i = 0; i < rs.Length; i++) rs[i] = "";
             var n = -1;
-            foreach (var s in ss.Select(x => x.Substring(5))) {
+            foreach (var s in ss) {
                 if (s.Contains("{")) {
-                    n = int.Parse(s.Substring(0, 2));
+                    n = int.Parse(s.Substring(0, 3));
                 }
-                rs[n] += "\r\n" + s;
+                rs[n].Append("\r\n" + s);
             }
 
-            for (var i = 5; i < 50; i++) {
-                File.WriteAllText($"d:/Projects/smalls/conen/{i.ToString("00")}.txt", rs[i].Substring(2));
+            for (var i = 0; i < 202; i++) {
+                File.WriteAllText($"d:/Projects/smalls/conen/{i.ToString("000")}.txt", rs[i].ToString().Substring(2));
             }
-
- */
+*/
 
 /*
 // словарь извесных слов для контекста
