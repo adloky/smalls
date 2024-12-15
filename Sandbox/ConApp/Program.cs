@@ -1289,7 +1289,8 @@ namespace ConApp {
             var nRe = new Regex(@"^\d+ ", RegexOptions.Compiled);
             var path = @"d:\Projects\smalls\dic-corpus-20k.txt";
             var dic = File.ReadAllLines(path).ToDictionary(x => x.Split('}')[0] + "}", x => int.Parse(x.Split('}')[1].Trim())); // .Select(x => { Console.WriteLine(x); return x; })
-            var dicExt = dic.ToDictionary(x => x.Key, x => new List<string>() { $"{x.Key} {x.Value.ToString("00000")}" });
+
+            var dicS = dic.ToDictionary(x => x.Key, x => new List<string>() { $"{x.Value.ToString("00000")} {x.Key}" });
             var set = new HashSet<string>(dic.Keys.SelectMany(x => getLemmaForms(x.Split(' ')[0], true)).Distinct());
             var rs = new List<string>();
 
@@ -1312,42 +1313,42 @@ namespace ConApp {
             var n0 = 0L;
             var n1 = 0L;
 
-            File.ReadAllLines(@"d:\ex.txt").ToList().ForEach(x => {
-                var a = x.Split(new[] { " | " }, ssop);
-                var k = a[1];
-                dicExt[k].Add($"{a[0]} {dic[k].ToString("00000")}");
-            });
-
-            rs = dicExt.Values.SelectMany(x => x).ToList();
-            //File.WriteAllLines(pathEx(path, "-2"), rs);
-
-            return;
-
-            var chDic = new Dictionary<char, long>();
-            using (var readStream = File.OpenRead(@"d:\english\.db\OpenSubtitles.en-ru.clean.en"))
+            using (var readStream = File.OpenRead(@"d:\english\.db\open-sub.txt"))
             using (var reader = new StreamReader(readStream)) {
                 while (!reader.EndOfStream) {
                     var s = reader.ReadLine();
-                    n0++;
-                    if (n0 % 1000 == 0) { Console.WriteLine(n0 / 1000); }
-                    /*
-                    var ts = posTagging(handleAmp(s)).Where(x => !excepts.Contains(x) && !x.Contains("{междометие}")).ToList();
-                    
-                    ts = ts.Where(x => !x.Contains("{имя}")).Where(x => set.Contains(x.Split(' ')[0])).ToList();
-                    ts.Where(x => find(x) == null).ToList().ForEach(x => {
-                        if (!dicNone.ContainsKey(x))
-                            dicNone[x] = 0;
-                        dicNone[x]++;
-                    });
 
-                    ts.Select(x => find(x)).Where(x => x != null).ToList().ForEach(x => {
-                        dicYes[x]++;
-                    });
-                    */
-                    n1++;
+                    if (n0 % 1000 == 0) { Console.WriteLine(n0 / 1000); }
+                    n0++;
+
+                    //if (n0 == 500000) break;
+
+                    var ts = posTagging(handleAmp(s)).Where(x => !excepts.Contains(x) && !x.Contains("{междометие}")).ToList();
+                    if (ts.Count < 6 || ts.Count > 9) continue;
+
+                    ts = ts.Select(x => find(x)).ToList();
+                    if (ts.Any(x => x == null)) continue;
+                    ts = ts.Where(x => !x.Contains("{имя}")).ToList();
+                    if (ts.Count < 4) continue;
+
+                    var xs = ts.Select(x => (k: x, r: dic[x])).OrderByDescending(x => x.r).ToList();
+                    var x0 = xs[0];
+                    var max = 31;
+                    if (x0.r >= 800) {
+                        if (Math.Pow(xs[0].r, 1.4) / Math.Pow(xs[1].r, 1.4) < 1.6) continue;
+                        n1++;
+                        if (dicS[x0.k].Count < max) dicS[x0.k].Add(s);
+                    }
+                    else {
+                        n1++;
+                        var min = xs.Select(x => dicS[x.k]).OrderBy(x => x.Count).First();
+                        if (min.Count < max) min.Add(s);
+                    }
                 }
             }
 
+            rs = dicS.Values.Where(x => x.Count > 1).SelectMany(x => x).ToList();
+            File.WriteAllLines(@"d:\subs.txt", rs);
             Console.WriteLine(n1 * 100 / n0);
 
             /*
