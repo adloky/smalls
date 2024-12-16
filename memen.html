@@ -3,7 +3,6 @@
 <meta charset="utf-8">
 <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
 <script src="freq-20k.js"></script>
-<script src="prons.js"></script>
 <style>
   table { border-collapse: collapse; }
   input, button, td, label, textarea, .word-retell, select, .dic-item, .ctx-item, .ctx-msg, .ctx-retell { padding: 5pt; font-size: 14pt; margin-top: 5pt; }
@@ -13,8 +12,10 @@
   .x-large { font-size: 20pt; }
   .ctx-item.sel { background-color: #DDF; }
   .ctx-retell { font-size: 16pt; }
+  .clear-btn { display: inline-block; width: 23pt; margin-left: -23pt; font-size: 16pt; }
 
     .wrapper-all .word-retell
+  , .wrapper-all .import
   , .wrapper-hot .word-retell
   , .wrapper-hot .search-wrapper
   , .wrapper-hot .dic
@@ -24,6 +25,7 @@
   , .wrapper-retell .word-form
   , .wrapper-retell .dic
   , .wrapper-retell .ctx-wrapper
+  , .wrapper-retell .import
   { display: none; }
 
   .word-item.sel { background-color: #DDF; }
@@ -44,7 +46,7 @@
   </div>
   
   <div class="search-wrapper">
-    <input class="search-box" name="search" type="text"/><div class="clear-btn" style=" display: inline-block; width: 23pt; margin-left: -23pt; font-size: 16pt; ">&nbsp;&nbsp;×</div>
+    <input class="search-box" name="search" type="text"/><div class="clear-btn">&nbsp;&nbsp;×</div>
     <button class="search-btn">Search</button>
     <button class="create-btn">Create</button>
   </div>
@@ -54,7 +56,7 @@
   <div class="word-form">
     <input name="key"  type="hidden"/>
     <input name="src" type="text"/><br/>
-    <input name="pron" type="text" placeholder="произношение"/><br/>
+    <input name="pron" type="text" placeholder="произношение"/><div class="clear-btn">&nbsp;&nbsp;×</div><br/>
     <select name="type">
       <option value="артикль">артикль</option>
       <option value="глагол">глагол</option>
@@ -76,9 +78,9 @@
     </select><br/>
     <input name="retell" type="hidden"/>
     <input name="ctxNum"  type="hidden"/>
-    <input name="retell-hours" readonly> <button class="retell-reset">reset</button></br>
-    <textarea name="context" rows="6"></textarea></br>
-    <button class="save-btn">Save</button> 
+    <input name="retell-hours" readonly> <button class="retell-reset">reset</button><br/>
+    <textarea name="context" rows="6"></textarea><br/>
+    <button class="save-btn">Save</button> <label class="save-status "></label>
   </div>
   <div class="dic"></div>
   <div class="ctx-wrapper hidden">
@@ -99,6 +101,11 @@
     <button class="retell-btn" data-hours="307">13d</button>
     <button class="retell-btn" data-hours="100000">INF</button>
   </div>
+  <div class="import">
+      <hr/>
+      <button class="import-btn">Import</button>&nbsp;&nbsp;&nbsp;<button class="to-retell-btn">To retell</button><br/>
+      <textarea name="import" rows="15"></textarea>
+  </div>
 </div>
   
 <script>
@@ -107,6 +114,11 @@ var words = [];
 var word;
 var wordRetell;
 var lastBackup = Date.now();
+var types = [];
+
+(function () {
+    types = $("[name=type] option").get().map(x => $(x).val());
+})();
 
 (function () {
     $.ajax({
@@ -153,39 +165,47 @@ function guid() {
   );
 }
 
-function index() {
-    var wrapper = $(".wrapper");
-    if (wrapper.hasClass("wrapper-all")) {
-        search();
-    }
-    else if (wrapper.hasClass("wrapper-hot")) {
-        hot();
-    }
-}
-
-function put(word, notExists) {
+function put(word) {
     var req = indexedDB.open("memen", ver);
-    
+    if (!Array.isArray(word)) word = [word];
+    for (var i = 0; i < word.length; i++) {
+        w = word[i];
+        if (typeof w === 'string' || w instanceof String) w = { src: w };
+        if (!w.key) w.key = guid();
+        if (!w.type) w.type = "прочее";
+        if (!w.pron) w.pron = getPron(w.src);
+        if (!w.val) w.val = "";
+        if (!w.status) w.status = "hot";
+        if (!w.ctxNum) w.ctxNum = 0;
+        if (!w.retell) w.retell = Date.now().valueOf();
+        
+        w.type = w.type.replaceAll(/[^а-яА-Я]+/g, "");
+        w.type = types.find(x => x.indexOf(w.type) === 0) ?? "прочее";
+        
+        word[i] = w;
+    }
+  
     req.onsuccess = function(event) {
         var db = event.target.result;
         var tx = db.transaction("words", "readwrite");
-        if (notExists) {
-            tx.objectStore("words").add(word).onsuccess = function() {
-                index();
-            }
+        word.filter(x => x.src).forEach(w => {
+            tx.objectStore("words").put(w);
+        });
+        word.filter(x => !x.src).forEach(w => {
+            tx.objectStore("words").delete(w.key);
+        });
+        
+        tx.oncomplete = function(event) {
+            search();
+            backup();
         }
-        else {
-            tx.objectStore("words").put(word).onsuccess = function() {
-                index();
-            }
-        }
-        backup();
     }
 }
 
 function search() {
+    var isAll = $(".wrapper").hasClass("wrapper-all");
     var s = $(".search-box").val();
-    if (freqDic && freqDic.length > 0 && freqDic[0].key) {
+    if (isAll && freqDic && freqDic.length > 0 && freqDic[0].key) {
         var dicS = s.toLowerCase().replaceAll(/[^a-z]/g, "");
         var dicHtml = !s ? "" : freqDic.filter(x => x.key.indexOf(dicS) === 0).slice(0,20).map(x => `<div class="dic-item">${x.value}</div>`).join("");
         $(".dic").html(dicHtml);
@@ -196,50 +216,23 @@ function search() {
     req.onsuccess = function(event) {
         var db = event.target.result;
         var tx = db.transaction("words", "readonly");
-        var range = IDBKeyRange.bound(s, s + "~", false, true);
-        var req = tx.objectStore("words").index("src").getAll(range, 10);
-        req.onsuccess = function() {
-            words = req.result;
-            var index = 0;
-            if (word)
-                words.forEach((x,i) => { if (x.key === word.key) index = i; });
-            word = words.length > 0 ? words[index] : null;
-            wordsHtml(index);
-            wordToForm();
-        };
-    }
-}
-
-function hot() {
-    var req = indexedDB.open("memen", ver);
-    
-    req.onsuccess = function(event) {
-        var db = event.target.result;
-        var tx = db.transaction("words", "readonly");
-        var req = tx.objectStore("words").index("status").getAll("hot");
-        req.onsuccess = function() {
-            words = req.result;
-            var index = 0;
-            if (word)
-                words.forEach((x,i) => { if (x.key === word.key) index = i; });
-            word = words.length > 0 ? words[index] : null;
-            wordsHtml(index);
-            wordToForm();
-        };
-    }
-}
-
-function del(key) {
-    var req = indexedDB.open("memen", ver);
-    
-    req.onsuccess = function(event) {
-        var db = event.target.result;
-        var tx = db.transaction("words", "readwrite");
-        tx.onerror = function (event) { console.log(event); }
-        req = tx.objectStore("words").delete(key);
-        req.onsuccess = function() {
-            index();
+        
+        var req;
+        if (isAll) {
+            var range = IDBKeyRange.bound(s, s + "~", false, true);
+            var req = tx.objectStore("words").index("src").getAll(range, 10);
         }
+        else {
+            var req = tx.objectStore("words").index("status").getAll("hot");
+        }
+        
+        req.onsuccess = function() {
+            words = req.result;
+            var index = Math.max(0, words.findIndex(w => word && w.key === word.key));
+            word = words.length > 0 ? words[index] : null;
+            wordsHtml(index);
+            wordToForm();
+        };
     }
 }
 
@@ -329,7 +322,7 @@ function wordFromForm() {
 }
 
 function getPron(s) {
-    return s.split(/[^\w]+/).map(x => prons.get(x)).filter(x => x).join(" ");
+    return s.split(/[^a-zA-Z]+/).map(x => prons.get(x.toLowerCase())).filter(x => x).join(" ");
 }
 
 function backup() {
@@ -372,7 +365,7 @@ $(".migrate-btn").click(function() {
                 w.src = w.key;
                 w.key = guid();
                 w.ctxNum = 0;
-                put(w, true);
+                put(w);
                 del(oldKey);
             });
         };
@@ -388,7 +381,7 @@ $('[name="view"]').on("change", function() {
         break;
         
         case "hot":
-        hot();
+        search();
         break;
 
         case "retell":
@@ -407,12 +400,9 @@ $(document).on("click", ".word-item", function() {
 
 $(".save-btn").click(function() {
     wordFromForm();
-    if (!word.src) {
-        del(word.key);
-    }
-    if (word.src) {
-        put(word);
-    }
+    put(word);
+    $(".save-status").html("saved");
+    setTimeout(() => { $(".save-status").html("") }, 1000)
 });
 
 $(".create-btn").click(function() {
@@ -421,16 +411,9 @@ $(".create-btn").click(function() {
         return;
     var src = $(".search-box").val();
     word = {
-        key: guid()
-      , src: src
-      , type: "прочее"
-      , pron: getPron(src)
-      , val: ""
-      , status: "hot"
-      , ctxNum: 0
-      , retell: Date.now().valueOf()
+        src: src
     };
-    put(word, true);
+    put(word);
 });
 
 $(".hint-btn").click(function() {
@@ -455,8 +438,9 @@ $(".retell-reset").click(function() {
 });
 
 $(".clear-btn").click(function() {
-    $("[name=search]").val("");
-    $("[name=search]").focus();
+    var input = $(this).prev();
+    input.val("");
+    input.focus();
 });
 
 $(document).on("click", ".dic-item", function() {
@@ -492,6 +476,31 @@ $(document).on("click", ".ctx-item", function() {
 $(".ctx-btn").click(function() {
     var s = $(".ctx-item.sel").get().map(x => $(x).text()).join("\r\n");
     $("[name=context]").val(s);
+});
+
+$(".import-btn").click(function() {
+    var elem = $("[name=import]");
+    var ss = elem.val().split(/\r?\n/g).filter(x => x.trim() !== "");
+    elem.val("");
+    var ws = [];
+    var w = {};
+    ss.forEach(s => {
+        if (!s.includes("{")) {
+            w.context += (w.context ? "\r\n" : "") + s;
+            return;
+        }
+        
+        var xs = s.split(/\s*[{}]\s*/g);
+        w = { src: xs[0], type: xs[1], val: xs[2], context: "" };
+        ws.push(w);
+    });
+    
+    put(ws);
+});
+
+$(".to-retell-btn").click(function() {
+    words.forEach(w => { w.status = "retell"; });
+    put(words);
 });
 
 search();

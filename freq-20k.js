@@ -1,5 +1,11 @@
 $(document).ready(function() {
-    freqDic = freqDic.map(x => ({ key: x.split(' ')[1], value: x}));
+    freqDic = freqDic.map(x => ({ key: x.split(' ')[1].toLowerCase(), value: x}));
+    prons = new Map();
+    freqDic.forEach(kv => {
+        var p = (kv.value.match(/\[[^\d\]]+\]/) ?? [""])[0];
+        p = p.replaceAll(/[\[\]]/g, "");
+        if (p) prons.set(kv.key, p);
+    });
 });
 
 var freqDic = [
