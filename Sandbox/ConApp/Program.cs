@@ -290,13 +290,17 @@ namespace ConApp {
         static Dictionary<string, int> loadFreqGroups(string path, int[] levels) {
             var r = new Dictionary<string, int>();
             levels = (new[] { 0 }).Concat(levels).Reverse().ToArray();
+            var exs = new HashSet<string>(File.ReadAllLines(@"d:\Projects\smalls\freq-20k-excepts.txt"));
             File.ReadAllLines(path).Reverse().ToList().ForEach(x => {
+                if (x.Contains("{междометие}")) return;
                 var xs = x.Split(' ');
                 var n = int.Parse(xs[0]);
-                var w = xs[1];
+                var w = xs[1].ToLower();
+                if (exs.Contains(w)) return;
+
                 var g = 0;
                 while (n < levels[g]) g++;
-                getLemmaForms(w).ToList().ForEach(f => {
+                getLemmaForms(w, true).ToList().ForEach(f => {
                     r[f] = g;
                 });
             });
@@ -956,7 +960,7 @@ namespace ConApp {
         }
 
         static void srtLearn(string path) {
-            var cs = new[] { "#ffaaaa", "#aaaaff", "#aaffaa", "#ffd4aa" };
+            var cs = new[] { "#ff9999", "#99cbff", "#99ff99", "#ffbc8c" };
             var ex = new HashSet<string>() { "re" };
             var s = File.ReadAllText(path);
             var wRe = new Regex(@"[a-z]+", RegexOptions.IgnoreCase | RegexOptions.Compiled);
@@ -1311,10 +1315,6 @@ namespace ConApp {
 
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
-            var path = @"d:\Projects\smalls\freq-20k.txt";
-            var pronDic = File.ReadAllLines(@"d:\pron-ru.txt").Select(x => x.Split(' ')).ToDictionary(x => x[0], x => x[1]);
-            var rs = File.ReadAllLines(path).Select(x => !pronDic.TryGetValue(x.Split(' ')[1].ToLower(), out var p) ? x : x.Replace("}", $"}} [{p}]")).ToArray();
-            File.WriteAllLines(pathEx(path, "-2"), rs);
             /*
             var dic = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(x => x.Split(' ')[1].ToLower()).Distinct().ToDictionary(x => x, x => (string)null);
             var cRe = new Regex(@" #.*", RegexOptions.Compiled);
@@ -1348,12 +1348,14 @@ namespace ConApp {
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
             //serRename(@"e:\teen-titans");
 
-            //srtCombine(@"d:\.temp\srt\");
-            //srtLine(@"d:\.temp\srt\all.srt");
+            if (!File.Exists(@"d:\.temp\srt\all.srt")) 
+                srtCombine(@"d:\.temp\srt\");
+            srtLine(@"d:\.temp\srt\all.srt");
 
-            //srtLearn(@"d:\.temp\srt\all.srt");
-            //srtSplit(@"d:\.temp\srt\all.srt", "eng");
-            //srtSplit(@"d:\.temp\srt\all-ru.srt", "rus");
+            srtLearn(@"d:\.temp\srt\all.srt");
+            srtSplit(@"d:\.temp\srt\all.srt", "eng");
+            if (File.Exists(@"d:\.temp\srt\all-ru.srt"))
+                srtSplit(@"d:\.temp\srt\all-ru.srt", "rus");
 
             //prepareWords("d:/words.txt");
             //fixQuotes(@"d:\.temp\7.txt");
