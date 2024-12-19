@@ -80,7 +80,7 @@ namespace ConApp {
             // config
             config = File.ReadAllLines("d:/.sandbox").Select(x => {
                 var i = x.IndexOf(":");
-                return new KeyValuePair<string,string>(x.Substring(0, i), x.Substring(i + 1).Trim());
+                return new KeyValuePair<string, string>(x.Substring(0, i), x.Substring(i + 1).Trim());
             }).ToDictionary(x => x.Key, x => x.Value);
         }
 
@@ -209,7 +209,7 @@ namespace ConApp {
                 var s2 = $"{num} **{key}** {{{part}}} {string.Join("; ", vals.Select(x => $"{x.val} [{x.freq}]"))}";
                 rs.Add(s2);
             }
-            
+
             File.WriteAllLines(pathEx(path, "-2"), rs);
         }
 
@@ -301,10 +301,22 @@ namespace ConApp {
                 var g = 0;
                 while (n < levels[g]) g++;
                 getLemmaForms(w, true).ToList().ForEach(f => {
+                    if (f.Length == 1) return;
                     r[f] = g;
                 });
             });
             return r;
+        }
+
+        static Regex freqGoupRe = new Regex(@"[a-z]+", RegexOptions.IgnoreCase | RegexOptions.Compiled);
+        static string[][] freqGroupColors = new[] { new [] { "#ff9999", "#99cbff", "#99ff99", "#ffbc8c" }, new[] { "#ff9999", "#0079ff", "#00b200", "#cc5400" } };
+        static string freqGrouping(string s, bool white = false) {
+            var cs = freqGroupColors[white ? 0 : 1];
+            s = handleString(s, freqGoupRe, (x, m) => {
+                freqGroups.TryGetValue(x.ToLower(), out var g);
+                return g == cs.Length || g == 0 ? x : $"<font color=\"{cs[g]}\">{x}</font>";
+            });
+            return s;
         }
 
         static Dictionary<string,string> _existingWords;
@@ -960,16 +972,9 @@ namespace ConApp {
         }
 
         static void srtLearn(string path) {
-            var cs = new[] { "#ff9999", "#99cbff", "#99ff99", "#ffbc8c" };
-            var ex = new HashSet<string>() { "re" };
             var s = File.ReadAllText(path);
-            var wRe = new Regex(@"[a-z]+", RegexOptions.IgnoreCase | RegexOptions.Compiled);
             s = Tag.Clear(s, new HashSet<string>() { "u", "font" });
-            s = handleString(s, wRe, (x,m) => {
-                if (x.Length == 1 || ex.Contains(x.ToLower())) return x;
-                freqGroups.TryGetValue(x.ToLower(), out var g);
-                return g == 4 || g == 0 ? x : $"<font color=\"{cs[g]}\">{x}</font>";
-            });
+            s = freqGrouping(s, true);
             File.WriteAllText(path, s);
         }
 
@@ -1147,7 +1152,7 @@ namespace ConApp {
             for (var i = 0; i < es.Length; i++) {
                 es[i] = es[i].Replace("<", "&lt;");
                 rs[i] = rs[i].Replace("<", "&lt;");
-                es[i] = handleString(es[i], wRe, (x,m) => !learnSet.Contains(x.ToLower()) ? x : $"<u>{x}</u>");
+                es[i] = freqGrouping(es[i]);
                 ss.Add(es[i]);
                 ss.Add(rs[i]);
             }
@@ -1348,6 +1353,7 @@ namespace ConApp {
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
             //serRename(@"e:\teen-titans");
 
+            /*
             if (!File.Exists(@"d:\.temp\srt\all.srt")) 
                 srtCombine(@"d:\.temp\srt\");
             srtLine(@"d:\.temp\srt\all.srt");
@@ -1356,7 +1362,7 @@ namespace ConApp {
             srtSplit(@"d:\.temp\srt\all.srt", "eng");
             if (File.Exists(@"d:\.temp\srt\all-ru.srt"))
                 srtSplit(@"d:\.temp\srt\all-ru.srt", "rus");
-
+            */
             //prepareWords("d:/words.txt");
             //fixQuotes(@"d:\.temp\7.txt");
             //deepl(@"d:\.temp\st\S01E01[eng]-clear.srt");
@@ -1379,7 +1385,7 @@ namespace ConApp {
             //comicOcrPost(@"d:\.temp\comics-ocr\", 10, 3); // 20,5 archie
             //fixOcr(@"d:\.temp\comics-ocr\en.txt");
             //deeplSplit(@"d:\.temp\comics-ocr\en.txt");
-            //comicComplete(@"d:\.temp\comics-ocr\");
+            comicComplete(@"d:\.temp\comics-ocr\");
 
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
