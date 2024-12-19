@@ -62,18 +62,18 @@
     <input name="src" type="text"/><br/>
     <input name="pron" type="text" placeholder="произношение"/><div class="clear-btn">&nbsp;&nbsp;×</div><br/>
     <select name="type">
-      <option value="артикль">артикль</option>
-      <option value="глагол">глагол</option>
-      <option value="местоимение">местоимение</option>
-      <option value="наречие">наречие</option>
-      <option value="предлог">предлог</option>
-      <option value="прилагательное">прилагательное</option>
-      <option value="союз">союз</option>
+      <option value="прочее">прочее</option>
       <option value="существительное">существительное</option>
+      <option value="глагол">глагол</option>
+      <option value="прилагательное">прилагательное</option>
+      <option value="наречие">наречие</option>      
+      <option value="определитель">определитель</option>
+      <option value="местоимение">местоимение</option>
+      <option value="предлог">предлог</option>
+      <option value="союз">союз</option>
       <option value="числительное">числительное</option>
       <option value="междометие">междометие</option>
-      <option value="определитель">определитель</option>
-      <option value="прочее">прочее</option>
+      <option value="артикль">артикль</option>      
     </select><br/>
     <input name="val" type="text"  placeholder="перевод"/><br/>
     <select name="status">
@@ -94,14 +94,14 @@
   <div class="word-retell">
     <button class="hint-btn" data-level="0">Hint</button>
     <div class="word-retell-body"></div>
-    <button class="retell-btn" data-hours="0">&nbsp;0h&nbsp;</button>
-    <button class="retell-btn" data-hours="2">&nbsp;2h&nbsp;</button>
-    <button class="retell-btn" data-hours="6">&nbsp;6h&nbsp;</button>
-    <button class="retell-btn" data-hours="21">&nbsp;1d&nbsp;</button>
-    <button class="retell-btn" data-hours="45">&nbsp;2d&nbsp;</button>
-    <button class="retell-btn" data-hours="69">&nbsp;3d&nbsp;</button>
-    <button class="retell-btn" data-hours="117">&nbsp;5d&nbsp;</button>
-    <button class="retell-btn" data-hours="189">&nbsp;8d&nbsp;</button>
+    <button class="retell-btn" data-hours="0"  >0h</button>
+    <button class="retell-btn" data-hours="2"  >2h</button>
+    <button class="retell-btn" data-hours="6"  >6h</button>
+    <button class="retell-btn" data-hours="21" >1d</button>
+    <button class="retell-btn" data-hours="45" >2d</button>
+    <button class="retell-btn" data-hours="69" >3d</button>
+    <button class="retell-btn" data-hours="117">5d</button>
+    <button class="retell-btn" data-hours="189">8d</button>
     <button class="retell-btn" data-hours="307">13d</button>
     <button class="retell-btn" data-hours="100000">INF</button>
   </div>
@@ -121,11 +121,12 @@ var words = [];
 var word;
 var wordRetell;
 var lastBackup = Date.now();
-var types = [];
 
-(function () {
-    types = $("[name=type] option").get().map(x => $(x).val());
+var types = (function () {
+    return $("[name=type] option").get().map(x => $(x).val());
 })();
+
+var partAbs = "гл мест нар прил сущ числ опред".split(" ");
 
 (function () {
     $.ajax({
@@ -165,6 +166,14 @@ var types = [];
         }
     };
 })();
+
+function getPartAb(s) {
+    return partAbs.find(x => s.indexOf(x) === 0) ?? s;
+}
+
+function getPartView(s) {
+    return (s === "прочее") ? "" : " {" + getPartAb(s) + "}";
+}
 
 function guid() {
   return "10000000-1000-4000-8000-100000000000".replace(/[018]/g, c =>
@@ -264,7 +273,7 @@ function retell() {
 function wordsHtml(index) {
     if (!Number.isInteger(index))
         index = 0;
-    $(".word-index").html(`<table>${words.map((x, i) => `<tr class="word-item${i === index ? " sel" : ""}" data-i="${i}"><td><b>${x.src}</b></td><td>${x.pron ? `[${x.pron}]` : ""}</td><td>${x.val}</td></tr>`).join("")}</table>`);
+    $(".word-index").html(`<table>${words.map((x, i) => `<tr class="word-item${i === index ? " sel" : ""}" data-i="${i}"><td><b>${x.src}</b></td><td>${getPartView(x.type)}</td><td>${x.pron ? `[${x.pron}]` : ""}</td><td>${x.val}</td></tr>`).join("")}</table>`);
 }
 
 function wordRetellHtml(level) {
@@ -283,7 +292,7 @@ function wordRetellHtml(level) {
         }
     }
     
-    rs.push(`<div class="x-large"><b>${wordRetell.src}</b>${wordRetell.pron ? ` [${wordRetell.pron}]` : ""}${ wordRetell.type === "прочее" ?  "" : " {" + wordRetell.type + "}" }</div>`);
+    rs.push(`<div class="x-large"><b>${wordRetell.src}</b>${ getPartView(wordRetell.type)}${wordRetell.pron ? ` [${wordRetell.pron}]` : ""}</div>`);
     if (level > 0) {
         rs.push(`<div class="x-large">${wordRetell.val}</div>`);
     }
