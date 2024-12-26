@@ -358,7 +358,7 @@ function backup(force) {
         var range = IDBKeyRange.upperBound(upperTime, true);
         var req = tx.objectStore("words").index("retell").getAll(range);
         req.onsuccess = function() {
-            var body = "=" + JSON.stringify(req.result);
+            var body = "=" + encodeURIComponent(JSON.stringify(req.result));
             $.ajax({
                 url: "http://192.168.0.2/sandbox/api/memen/backup"
               , method: "post"
