@@ -28,6 +28,7 @@ using OpenNLP.Tools.Trees;
 using System.Security.Cryptography;
 using Newtonsoft.Json;
 using System.Drawing;
+using Markdig;
 
 namespace ConApp {
     public class Tag {
@@ -213,7 +214,7 @@ namespace ConApp {
             File.WriteAllLines(pathEx(path, "-2"), rs);
         }
 
-        static StringSplitOptions ssop = StringSplitOptions.None;
+        static StringSplitOptions ssop = StringSplitOptions.RemoveEmptyEntries;
 
         #region stemmer
 
@@ -1316,10 +1317,167 @@ namespace ConApp {
             return s;
         }
 
+
+        #region md
+
+        static Regex enRe = new Regex("[A-Za-z]+", RegexOptions.Compiled);
+        static Regex ruRe = new Regex("[А-яа-я]+", RegexOptions.Compiled);
+
+        static int enru(string s) {
+            s = Tag.Clear(s);
+            
+            var en = enRe.Matches(s).Cast<Match>().Select(m => m.Value.Length).Sum();
+            var ru = ruRe.Matches(s).Cast<Match>().Select(m => m.Value.Length).Sum();
+
+            var sum = Math.Max(1, en + ru);
+            return (en * 100 / sum) - (ru * 100 / sum);
+        }
+
+        static Regex hRe = new Regex(@"h\d", RegexOptions.Compiled | RegexOptions.IgnoreCase);
+
+        static void mdHandle(string path) {
+            var rs2 = new List<string[]>();
+            var pSet = new HashSet<string> { "p" };
+            File.ReadAllLines(path).ToList().ForEach(s => {
+                if (s.Trim() == "") return;
+                var b = enru(s);
+                s = Tag.Clear(s);
+                var sm = Tag.Clear( Markdown.ToHtml(s), pSet);
+                if (b >= 0) rs2.Add(new[] { freqGrouping(sm), null });
+                if (b <= 0) rs2[rs2.Count - 1][1] = sm;
+            });
+
+            var contents = new List<string>();
+            for (var i = 0; i < rs2.Count; i++) {
+                var s = rs2[i][0];
+                var h = Tag.Parse(s).Where(t => hRe.IsMatch(t.name)).Select(t => t.name).FirstOrDefault();
+                if (h == null) continue;
+                contents.Add($"<p class=\"indent{h[1]}\"><a href=\"#ref{contents.Count}\"><b>{Tag.Clear(s)}</b></a></p>");
+                s = $"<a name=\"ref{contents.Count - 1}\"></a>{s}";
+                rs2[i][0] = s;
+            }
+
+
+            var rs = File.ReadAllLines(@"d:\Projects\smalls\book.html").TakeWhile(x => x != "<body>").ToList();
+            rs.AddRange(contents);
+            rs.AddRange(rs2.Select(x => $"<div class=\"colums2\"><div>{x[0]}</div><div>{x[1]}</div></div>"));
+            var name = Path.GetFileNameWithoutExtension(path);
+            File.WriteAllLines($"d:/{name}.html", rs);
+        }
+
+        private static Queue<CancellationTokenSource> delayCtsQue = new Queue<CancellationTokenSource>();
+        private static Task lastChangeTask = Task.Run(() => { });
+
+        private static void mdMonitor() {
+            using (var watcher = new FileSystemWatcher(@"d:/Projects/smalls")) {
+                watcher.Filter = "*.md";
+                watcher.EnableRaisingEvents = true;
+                watcher.Changed += (object sender, FileSystemEventArgs e) => {
+                    if (e.ChangeType != WatcherChangeTypes.Changed || e.Name[0] == '~') {
+                        return;
+                    }
+
+                    while (delayCtsQue.Count > 0) {
+                        var cts = delayCtsQue.Dequeue();
+                        cts.Cancel();
+                        cts.Dispose();
+                    }
+
+                    var delayCts = new CancellationTokenSource();
+                    delayCtsQue.Enqueue(delayCts);
+
+                    lastChangeTask = lastChangeTask.ContinueWith(async t => {
+                        await Task.Delay(1000, delayCts.Token);
+                        if (delayCts.IsCancellationRequested) return;
+
+                        mdHandle(e.FullPath);
+                        Console.WriteLine(e.FullPath);
+                    });
+                };
+                Console.WriteLine("Press enter to exit.");
+                Console.ReadLine();
+            }
+        }
+
+        #endregion
+
+        #region gemini adapt
+
+        static void geminiSplit(string path) {
+            var ss = File.ReadAllLines(path);
+            var sz = 0;
+            var rs = new List<string>();
+            var rs1 = new List<string>();
+            var rs2 = new List<string>();
+            foreach (var s in ss) {
+                if (s.ToLower().StartsWith("chapter ")) {
+                    rs.AddRange(rs1);
+                    rs.AddRange(rs2);
+                    if (rs1.Count > 0 || rs2.Count > 0) rs.Add("---");
+                    rs1.Clear();
+                    rs2.Clear();
+                }
+
+                if (rs1.Count > 0 && (rs1.Sum(x => x.Length) + rs2.Sum(x => x.Length) + s.Length > 4000)) {
+                    rs.AddRange(rs1);
+                    rs1.Clear();
+                    rs.Add("---");
+                }
+                if (rs1.Count == 0 && rs2.Count > 0 && (rs2.Sum(x => x.Length) + s.Length > 4000)) {
+                    rs.AddRange(rs2);
+                    rs2.Clear();
+                    rs.Add("---");
+                }
+                rs2.Add(s);
+                if (s.Length > 4000) {
+                    rs.AddRange(rs2);
+                    rs2.Clear();
+                    rs.Add("---");
+                } else if (s.Length > 200) {
+                    rs1.AddRange(rs2);
+                    rs2.Clear();
+                }
+            }
+            rs.AddRange(rs1);
+            rs.AddRange(rs2);
+            if (rs1.Count > 0 || rs2.Count > 0) rs.Add("---");
+
+            File.WriteAllLines(pathEx(path, "-split"), rs);
+        }
+
+        static void geminiAdapt(string path) {
+            var pathRu = pathEx(path, "-adapt");
+            if (!File.Exists(pathRu)) File.WriteAllText(pathRu, "");
+            var skip = File.ReadAllText(pathRu).Split(new[] { "\r\n---\r\n" }, ssop).Length;
+            var ss = File.ReadAllText(path).Split(new[] { "\r\n---\r\n" }, ssop).Skip(skip).ToArray();
+            var i = 0;
+            foreach (var s in ss) {
+                var r = "Адаптируй текст для B1-уровня знания английского и верни только результат:\r\n" + s;
+                var s2 = (string)null;
+                do {
+                    try {
+                        s2 = gemini(r);
+                    }
+                    catch {
+                        Console.WriteLine(".");
+                        Thread.Sleep(10000);
+                    }
+                 } while (s2 == null);
+                Console.WriteLine(i++);
+                File.AppendAllText(pathRu, s2 + "\r\n---\r\n");
+            }
+        }
+
+        #endregion
+
         static volatile bool ctrlC = false;
 
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
+            //geminiSplit(@"d:\.temp\reader-7-orig.txt");
+            //geminiAdapt(@"d:\.temp\reader-7.txt");
+            //mdMonitor(); return;
+
             /*
             var dic = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(x => x.Split(' ')[1].ToLower()).Distinct().ToDictionary(x => x, x => (string)null);
             var cRe = new Regex(@" #.*", RegexOptions.Compiled);
@@ -1351,7 +1509,7 @@ namespace ConApp {
             }
             */
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
-            //serRename(@"e:\teen-titans");
+            //serRename(@"e:\scooby");
 
             /*
             if (!File.Exists(@"d:\.temp\srt\all.srt")) 
@@ -1363,6 +1521,7 @@ namespace ConApp {
             if (File.Exists(@"d:\.temp\srt\all-ru.srt"))
                 srtSplit(@"d:\.temp\srt\all-ru.srt", "rus");
             */
+
             //prepareWords("d:/words.txt");
             //fixQuotes(@"d:\.temp\7.txt");
             //deepl(@"d:\.temp\st\S01E01[eng]-clear.srt");
@@ -1385,7 +1544,7 @@ namespace ConApp {
             //comicOcrPost(@"d:\.temp\comics-ocr\", 10, 3); // 20,5 archie
             //fixOcr(@"d:\.temp\comics-ocr\en.txt");
             //deeplSplit(@"d:\.temp\comics-ocr\en.txt");
-            comicComplete(@"d:\.temp\comics-ocr\");
+            //comicComplete(@"d:\.temp\comics-ocr\");
 
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
