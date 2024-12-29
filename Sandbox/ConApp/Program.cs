@@ -1479,8 +1479,8 @@ namespace ConApp {
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
-            //geminiSplit(@"d:\.temp\reader-8-orig.txt");
-            geminiAdapt(@"d:\.temp\reader-8.txt");
+            //geminiSplit(@"d:\.temp\reader-9-orig.txt");
+            geminiAdapt(@"d:\.temp\reader-9.txt");
 
             //mdMonitor(); return;
 
