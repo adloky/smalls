@@ -1409,8 +1409,15 @@ namespace ConApp {
             var rs = new List<string>();
             var rs1 = new List<string>();
             var rs2 = new List<string>();
+
+            var gt4k  = ss.Where(s => s.Length > 4000).ToList();
+            gt4k.ForEach(s => {
+                Console.WriteLine($"{s.Length} {s.Substring(0,30)}");
+            });
+            if (gt4k.Count > 0) return;
+
             foreach (var s in ss) {
-                if (s.ToLower().StartsWith("chapter ")) {
+                if (s.ToLower().StartsWith("chapter ") || s == "***") {
                     rs.AddRange(rs1);
                     rs.AddRange(rs2);
                     if (rs1.Count > 0 || rs2.Count > 0) rs.Add("---");
@@ -1423,17 +1430,14 @@ namespace ConApp {
                     rs1.Clear();
                     rs.Add("---");
                 }
-                if (rs1.Count == 0 && rs2.Count > 0 && (rs2.Sum(x => x.Length) + s.Length > 4000)) {
+                if (rs2.Count > 0 && (rs2.Sum(x => x.Length) + s.Length > 4000)) {
+                    if (rs1.Count != 0) throw new Exception(); 
                     rs.AddRange(rs2);
                     rs2.Clear();
                     rs.Add("---");
                 }
                 rs2.Add(s);
-                if (s.Length > 4000) {
-                    rs.AddRange(rs2);
-                    rs2.Clear();
-                    rs.Add("---");
-                } else if (s.Length > 200) {
+                if (s.Length > 200) {
                     rs1.AddRange(rs2);
                     rs2.Clear();
                 }
@@ -1452,14 +1456,14 @@ namespace ConApp {
             var ss = File.ReadAllText(path).Split(new[] { "\r\n---\r\n" }, ssop).Skip(skip).ToArray();
             var i = 0;
             foreach (var s in ss) {
-                var r = "Адаптируй текст для B1-уровня знания английского и верни только результат:\r\n" + s;
+                var r = "Адаптируй текст для понимания на B1-уровне знания английского и верни только результат:\r\n" + s;
                 var s2 = (string)null;
                 do {
                     try {
                         s2 = gemini(r);
                     }
-                    catch {
-                        Console.WriteLine(".");
+                    catch (Exception e) {
+                        Console.WriteLine(e.Message);
                         Thread.Sleep(10000);
                     }
                  } while (s2 == null);
@@ -1474,8 +1478,10 @@ namespace ConApp {
 
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
-            //geminiSplit(@"d:\.temp\reader-7-orig.txt");
-            //geminiAdapt(@"d:\.temp\reader-7.txt");
+
+            //geminiSplit(@"d:\.temp\reader-8-orig.txt");
+            geminiAdapt(@"d:\.temp\reader-8.txt");
+
             //mdMonitor(); return;
 
             /*
