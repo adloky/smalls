@@ -1456,7 +1456,8 @@ namespace ConApp {
             var ss = File.ReadAllText(path).Split(new[] { "\r\n---\r\n" }, ssop).Skip(skip).ToArray();
             var i = 0;
             foreach (var s in ss) {
-                var r = "Адаптируй текст для понимания на B1-уровне знания английского и верни только результат:\r\n" + s;
+                //var r = "Адаптируй текст для понимания на B1-уровне знания английского и верни только результат:\r\n" + s;
+                var r = "Замени низкочастотные слова на высокочастотные синонимы B2-уровня знания английского и верни только результат:\r\n" + s;
                 var s2 = (string)null;
                 do {
                     try {
@@ -1479,30 +1480,10 @@ namespace ConApp {
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
-            //geminiSplit(@"d:\.temp\reader-9-orig.txt");
-            geminiAdapt(@"d:\.temp\reader-9.txt");
+            //geminiSplit(@"d:\.temp\reader-9a.txt");
+            //geminiAdapt(@"d:\.temp\reader-9a.txt");
 
             //mdMonitor(); return;
-
-            /*
-            var dic = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(x => x.Split(' ')[1].ToLower()).Distinct().ToDictionary(x => x, x => (string)null);
-            var cRe = new Regex(@" #.*", RegexOptions.Compiled);
-            File.ReadAllLines("d:/pron.txt").ToList().ForEach(x => {
-                x = cRe.Replace(x, "");
-                if (x.Contains("("))
-                    return;
-
-                var xs = x.Split(' ');
-                var k = xs[0];
-                if (!dic.ContainsKey(k))
-                    return;
-
-                var sb = new StringBuilder();
-                xs.Skip(1).ToList().ForEach(y => sb.Append(cmu[y]));
-                dic[k] = sb.ToString();
-            });
-
-            File.WriteAllLines("d:/pron-ru.txt", dic.Where(kv => kv.Value != null).OrderBy(kv => kv.Key).Select(kv => $"{kv.Key} {kv.Value}"));
 
             /*
             // |,[,/
