@@ -78,8 +78,10 @@ namespace ConApp {
                 }
             });
 
+            var configPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, ".sandbox");
+            configPath = File.Exists(configPath) ? configPath : @"d:/.sandbox";
             // config
-            config = File.ReadAllLines("d:/.sandbox").Select(x => {
+            config = File.ReadAllLines(configPath).Where(x => !x.StartsWith("//")).Select(x => {
                 var i = x.IndexOf(":");
                 return new KeyValuePair<string, string>(x.Substring(0, i), x.Substring(i + 1).Trim());
             }).ToDictionary(x => x.Key, x => x.Value);
@@ -283,7 +285,7 @@ namespace ConApp {
         }
 
         static Dictionary<string, int> freqGroups {
-            get => _freqGroups ?? (_freqGroups = loadFreqGroups(@"d:\Projects\smalls\freq-20k.txt", new[] { 2000, 2800, 3900, 5500 }));
+            get => _freqGroups ?? (_freqGroups = loadFreqGroups(@"d:\Projects\smalls\freq-20k.txt", config["freqGroups"].Split(',').Select(x => int.Parse(x)).ToArray()));
         }
 
         static Dictionary<string, int> _freqGroups;
@@ -1456,8 +1458,11 @@ namespace ConApp {
             var ss = File.ReadAllText(path).Split(new[] { "\r\n---\r\n" }, ssop).Skip(skip).ToArray();
             var i = 0;
             foreach (var s in ss) {
-                //var r = "Адаптируй текст для понимания на B1-уровне знания английского и верни только результат:\r\n" + s;
-                var r = "Замени низкочастотные слова на высокочастотные синонимы B2-уровня знания английского и верни только результат:\r\n" + s;
+                //var r = "Адаптируй текст для понимания на B1-уровне знания английского, верни только результат:\r\n" + s;
+                //var r = "Замени низкочастотные слова на высокочастотные синонимы B2-уровня знания английского и верни только результат:\r\n" + s;
+                //var r = "Замени редкоупотребляемые слова на частоупотребляемые синонимы B2-уровня знания английского, а также адаптируй текст для B1-уровня и верни только результат:\r\n" + s;
+                var _r = "Адаптируй текст для понимания на B1-уровне знания английского, а также ";
+                var r = _r + "замени, по возможности, слова за пределами B2-уровня знания английского на частоупотребляемые синонимы, верни только результат:\r\n" + s;
                 var s2 = (string)null;
                 do {
                     try {
@@ -1469,7 +1474,7 @@ namespace ConApp {
                     }
                  } while (s2 == null);
                 Console.WriteLine(i++);
-                File.AppendAllText(pathRu, s2 + "\r\n---\r\n");
+                File.AppendAllText(pathRu, Regex.Replace(s2 + "\r\n---", @"(\r?\n)+", "\r\n") + "\r\n");
             }
         }
 
@@ -1480,8 +1485,8 @@ namespace ConApp {
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
-            //geminiSplit(@"d:\.temp\reader-9a.txt");
-            //geminiAdapt(@"d:\.temp\reader-9a.txt");
+            //geminiSplit(@"d:\.temp\reader-7.txt");
+            //geminiAdapt(@"d:\.temp\reader-7.txt");
 
             //mdMonitor(); return;
 
@@ -1558,22 +1563,22 @@ namespace ConApp {
 
 
 /*
-            // conen/ 
-            var path = @"d:\subs.txt";
-            var ss = File.ReadAllLines(path).Select(x => x).ToList();
-            var rs = Enumerable.Range(0,202).Select(x => new StringBuilder()).ToArray();
-            //for (var i = 0; i < rs.Length; i++) rs[i] = "";
-            var n = -1;
-            foreach (var s in ss) {
-                if (s.Contains("{")) {
-                    n = int.Parse(s.Substring(0, 3));
-                }
-                rs[n].Append("\r\n" + s);
-            }
+// conen/
+var path = @"d:\subs.txt";
+var ss = File.ReadAllLines(path).Select(x => x).ToList();
+var rs = Enumerable.Range(0, 202).Select(x => new StringBuilder()).ToArray();
+//for (var i = 0; i < rs.Length; i++) rs[i] = "";
+var n = -1;
+foreach (var s in ss) {
+    if (s.Contains("{")) {
+        n = int.Parse(s.Substring(0, 3));
+    }
+    rs[n].Append("\r\n" + s);
+}
 
-            for (var i = 0; i < 202; i++) {
-                File.WriteAllText($"d:/Projects/smalls/conen/{i.ToString("000")}.txt", rs[i].ToString().Substring(2));
-            }
+for (var i = 0; i < 202; i++) {
+    File.WriteAllText($"d:/Projects/smalls/conen/{i.ToString("000")}.txt", rs[i].ToString().Substring(2));
+}
 */
 
 /*
