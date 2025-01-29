@@ -1360,9 +1360,9 @@ namespace ConApp {
             }
 
 
-            var rs = File.ReadAllLines(@"d:\Projects\smalls\book.html").TakeWhile(x => x != "<body>").ToList();
+            var rs = File.ReadAllLines(@"d:\Projects\smalls\book-en.html").ToList();
             rs.AddRange(contents);
-            rs.AddRange(rs2.Select(x => $"<div class=\"colums2\"><div>{x[0]}</div><div>{x[1]}</div></div>"));
+            rs.AddRange(rs2.Select(x => $"<div class=\"columns2\"><div>{x[0]}</div><div>{x[1]}</div></div>"));
             var name = Path.GetFileNameWithoutExtension(path);
             File.WriteAllLines($"d:/{name}.html", rs);
         }
@@ -1461,8 +1461,11 @@ namespace ConApp {
                 //var r = "Адаптируй текст для понимания на B1-уровне знания английского, верни только результат:\r\n" + s;
                 //var r = "Замени низкочастотные слова на высокочастотные синонимы B2-уровня знания английского и верни только результат:\r\n" + s;
                 //var r = "Замени редкоупотребляемые слова на частоупотребляемые синонимы B2-уровня знания английского, а также адаптируй текст для B1-уровня и верни только результат:\r\n" + s;
-                var _r = "Адаптируй текст для понимания на B1-уровне знания английского, а также ";
-                var r = _r + "замени, по возможности, слова за пределами B2-уровня знания английского на частоупотребляемые синонимы, верни только результат:\r\n" + s;
+
+                var r = "";
+                r = "Адаптируй текст для понимания на B1-уровне знания английского, а также ";
+                r += "замени, по возможности, слова за пределами B2-уровня знания английского на частоупотребляемые синонимы, верни только результат:\r\n" + s;
+
                 var s2 = (string)null;
                 do {
                     try {
@@ -1485,8 +1488,94 @@ namespace ConApp {
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
-            //geminiSplit(@"d:\.temp\reader-7.txt");
-            //geminiAdapt(@"d:\.temp\reader-7.txt");
+            //var stmr = new EnglishPorter2Stemmer();
+            //stmr.Stem("writing");
+            //return;
+
+            var n = 0;
+            var n2 = 0;
+
+            var baseSet = new HashSet<string>(File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(x => x.Split(' ')[1].ToLower())
+                .Select(x => getLemmaBase(x)).Where(x => lemmaForms.ContainsKey(x)).Distinct());
+
+            var esRe = new Regex(@"(ss|zz|x|sh|ch|o|i)es$");
+            var sRe = new Regex(@"([^yuoaies]|[^yuoaie]e)s$");
+            var ingEdRe = new Regex(@"(ing|ed)$");
+            var vRe = new Regex(@"[eyuioa]");
+
+            /*
+            baseSet.Where(x => {
+                if (!ingRe.IsMatch(x)) return false;
+                x = ingRe.Replace(x, "");
+                return vRe.IsMatch(x);
+            }).ToList().ForEach(x => Console.WriteLine($"{x} -> {string.Join(",",lemmaForms[x])}"));
+            */
+
+            Func<string,bool> endsInShortSyllable = x => {
+                /*
+                if (x.Length < 2) return false;
+                if (x.Length == 2) {
+                    return || 
+                }
+                */
+                return Regex.IsMatch(x, @"^[yuoaie][^yuoaie]$")
+                    || Regex.IsMatch(x, @"[^yuoaie][yuoaie][^yuoaiewx]$");
+            };
+
+
+            foreach (var p in lemmaForms.Where(x => baseSet.Contains(x.Key)).SelectMany(x => x.Value.Select(x2 => (k: x.Key, v: x2)))) {
+                var k = p.k;
+                var v = p.v;
+                var v2 = v;
+                if (v.EndsWith("s")) {
+                    continue;
+                    n2++;
+                    if (esRe.IsMatch(v)) {
+                        v = esRe.Replace(v, "$1");
+                        v = Regex.Replace(v, @"i$", "y");
+                    }
+                    else if (sRe.IsMatch(v)) {
+                        v = sRe.Replace(v, "$1");
+                    }
+                }
+                else if (ingEdRe.IsMatch(v)) {
+                    //continue;
+                    n2++;
+                    v = ingEdRe.Replace(v, "");
+
+                    if (vRe.IsMatch(v)) {
+                        if (Regex.IsMatch(v, @"(at|bl|iz)$")) {
+                            v += "e";
+                        }
+                        else if (Regex.IsMatch(v, @"(bb|dd|ff|gg|mm|nn|pp|rr|tt)$")) {
+                            v = v.Substring(0, v.Length - 1);
+                        }
+                        else {
+                            var m = Regex.Match(v, @"[yuoaie][^yuoaie]");
+                            var reg = m.Success ? m.Index + 2 : v.Length;
+
+                            var ends = Regex.IsMatch(v, @"^[yuoaie][^yuoaie]$")
+                                    || Regex.IsMatch(v, @"[^yuoaie][yuoaie][^yuoaiewx]$");
+
+                            if (ends && reg == v.Length) {
+                                v += "e";
+                            }
+                        }
+                    }
+                }
+                else {
+                    continue;
+                }
+
+                if (k == v) continue;
+                n++;
+                Console.WriteLine($"{k} {v2}");
+            }
+
+            Console.WriteLine($"{n}/{n2}");
+
+            //geminiSplit(@"d:\.temp\reader-9-orig.txt");
+            //geminiAdapt(@"d:\.temp\reader-9.txt");
 
             //mdMonitor(); return;
 
