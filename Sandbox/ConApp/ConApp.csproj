@@ -103,6 +103,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ClipboardAsync.cs" />
+    <Compile Include="EnglishPorter2Stemmer.cs" />
     <Compile Include="LancasterStemmer.cs" />
     <Compile Include="OcrResults.cs" />
     <Compile Include="Program.cs" />

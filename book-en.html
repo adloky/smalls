@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+<style>
+  * { box-sizing: border-box; }
+  .hidden { visibility: collapse; display: none; }
+  .indent2 { padding-left: 30pt; }
+  .indent3 { padding-left: 60pt; }
+  .indent4 { padding-left: 90pt; }  
+  .indent5 { padding-left: 90pt; }
+  .columns2 { width: 100%; }
+  .columns2 div { width: 50%; vertical-align: top; display: inline-block; font-size: 16pt; padding: 5pt; }
+</style>
+
+<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+</head>
+
+<body>
+
+<script>
+    $(document).on("click", ".columns2 div", function() {
+        var s = window.getSelection();
+        var r = s.getRangeAt(0);
+        var node = s.anchorNode;
+        var max = node.textContent.length;
+        
+        while((/^[a-z]*$/i).test(r.toString()) && r.startOffset > 0) {
+            r.setStart(node, (r.startOffset - 1));
+        }
+        
+        while ((/^[^a-z]/i).test(r.toString())) {
+            r.setStart(node, (r.startOffset + 1));
+        }
+        
+        while((/^[a-z]*$/i).test(r.toString()) && r.endOffset < max) {
+            r.setEnd(node, (r.endOffset + 1));
+        }
+        
+        while ((/[^a-z]$/i).test(r.toString())) {
+            r.setEnd(node, (r.endOffset - 1));
+        }
+        
+        var w = r.toString().toLowerCase();
+    });
+</script>

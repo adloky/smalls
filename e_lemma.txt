@@ -256,7 +256,7 @@ agenda -> agendas
 agent -> agents
 agglomeration -> agglomerations
 aggravate -> aggravates,aggravating,aggravated
-aggregate -> aggregates,aggregating,aggregated.
+aggregate -> aggregates,aggregating,aggregated
 aggressor -> aggressors
 agitate -> agitates,agitating,agitated
 agitator -> agitators
@@ -325,7 +325,7 @@ alight -> alights,alighting,alighted,alit
 align -> aligns,aligning,aligned
 alignment -> alignments
 alkali -> alkalis
-all-rounder -> all-rounders.
+all-rounder -> all-rounders
 allay -> allays,allaying,allayed
 allegation -> allegations
 allege -> alleges,alleging,alleged
@@ -1065,9 +1065,9 @@ beguile -> beguiles,beguiling,beguiled
 behave -> behaves,behaving,behaved
 behead -> beheads,beheading,beheaded
 behest -> behests
-behind -> behinds.
+behind -> behinds
 behold -> beholds,beholding,beheld
-beholder -> beholders.
+beholder -> beholders
 behove -> behoves,behoving,behoved
 being -> beings
 belabour -> belabours,belabouring,belaboured
@@ -2407,7 +2407,6 @@ co-star -> co-stars,co-starring,co-starred
 coach -> coaches,coaching,coached
 coach-and-four -> coach-and-fours
 coachload -> coachloads
-coachman -> coachmen.
 coagulate -> coagulates,coagulating,coagulated
 coal -> coals
 coalesce -> coalesces,coalescing,coalesced
@@ -2435,7 +2434,7 @@ cobweb -> cobwebs
 coccyx -> coccyxes
 cock -> cocks,cocking,cocked
 cock-up -> cock-ups
-cockatoo -> cockatoos.
+cockatoo -> cockatoos
 cockerel -> cockerels
 cockfight -> cockfights
 cockle -> cockles
