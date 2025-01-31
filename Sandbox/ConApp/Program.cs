@@ -1522,56 +1522,41 @@ namespace ConApp {
                     || Regex.IsMatch(x, @"[^yuoaie][yuoaie][^yuoaiewx]$");
             };
 
-
-            foreach (var p in lemmaForms.Where(x => baseSet.Contains(x.Key)).SelectMany(x => x.Value.Select(x2 => (k: x.Key, v: x2)))) {
+            var rs = new List<string>();
+            //var sel = lemmaForms.Where(x => baseSet.Contains(x.Key)).SelectMany(x => x.Value.Select(x2 => (k: x.Key, v: x2)));
+            var sel = lemmaForms.Select(x => (k: x.Key, v: x.Key));
+            foreach (var p in sel) {
                 var k = p.k;
                 var v = p.v;
                 var v2 = v;
+                var ls = new HashSet<string>();
+                n2++;
                 if (v.EndsWith("s")) {
-                    continue;
-                    n2++;
                     if (esRe.IsMatch(v)) {
                         v = esRe.Replace(v, "$1");
                         v = Regex.Replace(v, @"i$", "y");
+                        ls.Add(v);
                     }
                     else if (sRe.IsMatch(v)) {
                         v = sRe.Replace(v, "$1");
+                        ls.Add(v);
                     }
                 }
                 else if (ingEdRe.IsMatch(v)) {
-                    //continue;
-                    n2++;
                     v = ingEdRe.Replace(v, "");
-
-                    if (vRe.IsMatch(v)) {
-                        if (Regex.IsMatch(v, @"(at|bl|iz)$")) {
-                            v += "e";
-                        }
-                        else if (Regex.IsMatch(v, @"(bb|dd|ff|gg|mm|nn|pp|rr|tt)$")) {
-                            v = v.Substring(0, v.Length - 1);
-                        }
-                        else {
-                            var m = Regex.Match(v, @"[yuoaie][^yuoaie]");
-                            var reg = m.Success ? m.Index + 2 : v.Length;
-
-                            var ends = Regex.IsMatch(v, @"^[yuoaie][^yuoaie]$")
-                                    || Regex.IsMatch(v, @"[^yuoaie][yuoaie][^yuoaiewx]$");
-
-                            if (ends && reg == v.Length) {
-                                v += "e";
-                            }
-                        }
+                    if (vRe.IsMatch(v) && Regex.IsMatch(v, @"(bb|dd|ff|gg|mm|nn|pp|rr|tt)$")) {
+                        v = v.Substring(0, v.Length - 1);
                     }
-                }
-                else {
-                    continue;
+                    ls.Add(v);
+                    ls.Add(v + "e");
                 }
 
-                if (k == v) continue;
+                if (ls.Count == 0 || k.EndsWith("ing")) continue;
                 n++;
-                Console.WriteLine($"{k} {v2}");
+                // Console.WriteLine($"[\"{k}\", \"{v2}\"],");
+                rs.Add($"\"{k}\",");
             }
-
+            File.WriteAllLines("d:/exs2.txt", rs);
             Console.WriteLine($"{n}/{n2}");
 
             //geminiSplit(@"d:\.temp\reader-9-orig.txt");
