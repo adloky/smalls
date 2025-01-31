@@ -9,15 +9,26 @@
   .indent4 { padding-left: 90pt; }  
   .indent5 { padding-left: 90pt; }
   .columns2 { width: 100%; }
-  .columns2 div { width: 50%; vertical-align: top; display: inline-block; font-size: 16pt; padding: 5pt; }
+  body { margin: 0pt; }
+  .columns2 div { width: 50%; vertical-align: top; display: inline-block; font-size: 16pt; padding: 10pt; }
+  .voc { width: 100%; padding: 5pt; top: 0pt; position: fixed; background-color: #ffd; border-bottom: 1pt solid gray; font-size: 16pt; }
 </style>
 
 <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+<script src="freq-20k.js"></script>
+<script src="lemmas.js"></script>
 </head>
 
 <body>
 
+<div class="voc hidden"></div>
+
 <script>
+    function boldDic(s) {
+        var w = s.match(/^\d+ ([^ ]+)/)[1];
+        return s.replace(w, `<b>${w}</b>`);
+    }
+
     $(document).on("click", ".columns2 div", function() {
         var s = window.getSelection();
         var r = s.getRangeAt(0);
@@ -41,5 +52,21 @@
         }
         
         var w = r.toString().toLowerCase();
+        if (!w) {
+            $(".voc").addClass("hidden");
+            return;
+        }
+        
+        var ls = new Set(getLems(w));
+        
+        var r = freqDic.filter(x => ls.has(x.key)).map(x => "<p>" + boldDic(x.value) + "</p>").join("");
+        
+        if (!r) {
+            $(".voc").addClass("hidden");
+            return;
+        }
+        
+        $(".voc").html(r);
+        $(".voc").removeClass("hidden");
     });
 </script>
