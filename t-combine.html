@@ -2,6 +2,7 @@
   textarea { width: 600pt; height: 100pt; }
 </style>
 <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+<script src="lemmas.js"></script>
 <textarea class="in-box"></textarea><br/>
 <textarea class="out-box"></textarea><br/>
 <button class="in-btn">input</button><br/>
@@ -11,45 +12,44 @@
 <button class="com-btn">combine</button>
 <button class="back-btn">back</button>
 <br/>
+<div class="log"></div>
 <script>
     var hs = [];
     var req;
-    var tpl = "Придумай небольшую историю на английском языке для начального уровня в ВИДЕ с сюжетом основанном на СЮЖЕТЕ, с использованием несколько раз слов из списка (выделив их жирным в тексе): СЛОВА. Затем дай перевод и также выдели в нем слова из списка."
-    var styles = ["стиле фантастики", "стиле космической фантастики", "стиле киберпанка", "стиле научной фантастики", "стиле фэнтези", "стиле городского фэнтези", "стиле ужасов", "стиле комедии", "виде сказки", "виде рассказа", "виде трагедии"];
-    var plots = ["спасении", "мести", "преследовании", "бедствии", "жертве", "мятеже", "похищении", "загадке", "достижении", "ненависти", "соперничестве", "адюльтере", "безумии", "убийстве", "самопожетвовании", "честолюбии", "зависти"];
+    var tpl = "Придумай небольшую историю на английском языке для самого начального уровня знания английского в ВИДЕ с сюжетом основанном на СЮЖЕТЕ, с использованием слов из списка, выделив их жирным в итоговом тексте: СЛОВА. Затем дай перевод и также выдели жирным переведенные слова из списка."
+    var styles = ["стиле космической фантастики", "стиле научной фантастики", "стиле фэнтези", "стиле ужасов", "виде рассказа", "виде трагедии", "виде драмы"];
+    var plots = ["спасении", "мести", "преследовании", "бедствии", "исчезновении", "жертве", "мятеже", "похищении", "загадке", "достижении", "ненависти", "соперничестве", "адюльтере", "безумии", "убийстве", "самопожертвовании", "честолюбии", "открытии", "выживании", "испытании", "дружбе"];
+    var posAbrs = "арт гл мест нар предл прил сущ числ межд опред".split(" ");
+    var words = [];
 
     function rnd(max) {
-      return Math.floor(Math.random() * max);
-    }    
+        return Math.floor(Math.random() * max);
+    }
+    
+    function getPosAbr(s) {
+        var rs = posAbrs.filter(x => s.startsWith(x));
+        return rs.length > 0 ? rs[0] + "." : s;
+    }
     
     $(".in-btn").click(function() {
         hs = [];
-        var ss = $(".in-box").val().split(/\r?\n/).filter(x => x !== "");
-        ss.forEach(s => {
-            if (s.indexOf("#") === 0) {
-                var sp = s.split(" ");
-                if (sp[0] === "##") {
-                    hs.push(`## ${sp[1]} ${sp[2]}`);
-                    hs.push(`## ${sp[3]} ${sp[4]}`);
-                }
-                else {
-                    hs.push(`**${sp[1]} ${sp[2]}**`);
-                    hs.push(`**${sp[3]} ${sp[4]}**`);
-                }
-            }
-            else if (s.indexOf("WORDS") === 0) {
-                hs.push(s.replace("WORDS ", "") + "<tcommon/>")
-            }
-            else if (s.indexOf("BODY") === 0) {
-                var rt = tpl.replace("ВИДЕ", styles[rnd(styles.length)]);
-                rt = rt.replace("СЮЖЕТЕ", plots[rnd(plots.length)]);
-                rt = rt.replace("СЛОВА", s.replace("BODY ", ""));
-                $(".out-box").val(rt);
-                $(".out-box").select();
-                document.execCommand("copy");
-            }
-            $(".r-box").val(hs.join("\r\n\r\n"));
+        var s = $(".in-box").val().split(/\r?\n/).filter(x => x !== "")[0];
+        hs.push("## " + s.match(/#\d+/)[0] + "<common/>");
+        s = s.replace(/#\d+ */, "");
+        words = s.split(/ *; */).filter(x => x.trim() !== "").map(x => {
+            var sp = x.split(/[\{\}\[\]]/).map(y => y.trim()).filter(y => y !== "");
+            return { key: sp[0], pos: sp[1], pron: sp[2], val: sp[3] };
         });
+        
+        var wsStr = words.map(x => `${x.key} (как ${x.pos}: ${x.val})`).join("; ");
+        hs.push(words.map(x => `**${x.key}** [${x.pron}] *${getPosAbr(x.pos)}* ${x.val}`).join("; ") + "<common/>");
+        
+        var rt = tpl.replace("ВИДЕ", styles[rnd(styles.length)]);
+        rt = rt.replace("СЮЖЕТЕ", plots[rnd(plots.length)]);
+        rt = rt.replace("СЛОВА", wsStr);
+        $(".out-box").val(rt);
+        $(".out-box").select();
+        document.execCommand("copy");
     });
     
     function enru(s) {
@@ -79,6 +79,23 @@
             rs.push(ru[i]);
         }
 
+        var log = "";
+        var enWs = [...en.join(" ").matchAll(/\*\*[^\*]+\*\*/g)].map(x => String(x).toLowerCase().replaceAll("*", ""));
+        var wcs = words.map(x => { return { word: x.key, count: 0 }; });
+        enWs.forEach(x => {
+            var ls = new Set(getLems(x));
+            wcs.filter(wc => ls.has(wc.word)).forEach(wc => { wc.count++; });
+        });
+        
+        wcs.filter(wc => wc.count !== 1).forEach(wc => { log += `${wc.word} ${wc.count}<br/>`; });
+        
+        var ruCount = [...ru.join(" ").matchAll(/\*\*[^\*]+\*\*/g)].length;
+        if (enWs.length !== ruCount) {
+            log += `RU: ${ruCount - enWs.length}`;
+        }
+        
+        $(".log").html(log);
+        
         $(".r-box").val(hs.concat(rs).join("\r\n\r\n"));
         $(".r-box").select();
         document.execCommand("copy");
