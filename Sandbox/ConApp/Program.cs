@@ -311,11 +311,12 @@ namespace ConApp {
             return r;
         }
 
-        static Regex freqGoupRe = new Regex(@"[a-z]+", RegexOptions.IgnoreCase | RegexOptions.Compiled);
+        static Regex freqGoupRe = new Regex(@"</?[^/> ]+(""[^""]*""|[^/>])*/?>|[a-z]+", RegexOptions.IgnoreCase | RegexOptions.Compiled);
         static string[][] freqGroupColors = new[] { new [] { "#ff9999", "#99cbff", "#99ff99", "#ffbc8c" }, new[] { "#ff9999", "#0079ff", "#00b200", "#cc5400" } };
         static string freqGrouping(string s, bool white = false) {
             var cs = freqGroupColors[white ? 0 : 1];
             s = handleString(s, freqGoupRe, (x, m) => {
+                if (x[0] == '<') return x;
                 freqGroups.TryGetValue(x.ToLower(), out var g);
                 return g == cs.Length || g == 0 ? x : $"<font color=\"{cs[g]}\">{x}</font>";
             });
@@ -1339,14 +1340,14 @@ namespace ConApp {
 
         static void mdHandle(string path) {
             var rs2 = new List<string[]>();
-            var pSet = new HashSet<string> { "p" };
+            var pSet = new HashSet<string> { "p", "common" };
             File.ReadAllLines(path).ToList().ForEach(s => {
                 if (s.Trim() == "") return;
                 var b = enru(s);
-                s = Tag.Clear(s);
-                var sm = Tag.Clear( Markdown.ToHtml(s), pSet);
-                if (b >= 0) rs2.Add(new[] { freqGrouping(sm), null });
-                if (b <= 0) rs2[rs2.Count - 1][1] = sm;
+                var cmn = s.Contains("<common/>");
+                var sm = Tag.Clear(Markdown.ToHtml(s), pSet);
+                if (b >= 0 || cmn) rs2.Add(new[] { sm, null });
+                if (b <= 0 || cmn) rs2[rs2.Count - 1][1] = sm;
             });
 
             var contents = new List<string>();
@@ -1355,14 +1356,13 @@ namespace ConApp {
                 var h = Tag.Parse(s).Where(t => hRe.IsMatch(t.name)).Select(t => t.name).FirstOrDefault();
                 if (h == null) continue;
                 contents.Add($"<p class=\"indent{h[1]}\"><a href=\"#ref{contents.Count}\"><b>{Tag.Clear(s)}</b></a></p>");
-                s = $"<a name=\"ref{contents.Count - 1}\"></a>{s}";
+                s = $"{s}<a name=\"ref{contents.Count - 1}\"></a>";
                 rs2[i][0] = s;
             }
 
-
             var rs = File.ReadAllLines(@"d:\Projects\smalls\book-en.html").ToList();
             rs.AddRange(contents);
-            rs.AddRange(rs2.Select(x => $"<div class=\"columns2\"><div>{x[0]}</div><div>{x[1]}</div></div>"));
+            rs.AddRange(rs2.Select(x => Tag.Clear(x[0]) == Tag.Clear(x[1]) ? $"<div class=\"columns1\"><div>{freqGrouping(x[0])}</div></div>" : $"<div class=\"columns2\"><div>{freqGrouping(x[0])}</div><div>{x[1]}</div></div>"));
             var name = Path.GetFileNameWithoutExtension(path);
             File.WriteAllLines($"d:/{name}.html", rs);
         }
@@ -1371,10 +1371,11 @@ namespace ConApp {
         private static Task lastChangeTask = Task.Run(() => { });
 
         private static void mdMonitor() {
-            using (var watcher = new FileSystemWatcher(@"d:/Projects/smalls")) {
-                watcher.Filter = "*.md";
-                watcher.EnableRaisingEvents = true;
-                watcher.Changed += (object sender, FileSystemEventArgs e) => {
+            using (var watcher = new FileSystemWatcher(@"d:/Projects/smalls", "*.md"))
+            using (var watcher2 = new FileSystemWatcher(@"d:/Projects/private", "*.md"))
+            {
+                watcher.EnableRaisingEvents = watcher2.EnableRaisingEvents = true;
+                FileSystemEventHandler cb = (object sender, FileSystemEventArgs e) => {
                     if (e.ChangeType != WatcherChangeTypes.Changed || e.Name[0] == '~') {
                         return;
                     }
@@ -1396,6 +1397,10 @@ namespace ConApp {
                         Console.WriteLine(e.FullPath);
                     });
                 };
+
+                watcher.Changed += cb;
+                watcher2.Changed += cb;
+
                 Console.WriteLine("Press enter to exit.");
                 Console.ReadLine();
             }
@@ -1488,81 +1493,25 @@ namespace ConApp {
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
-            //var stmr = new EnglishPorter2Stemmer();
-            //stmr.Stem("writing");
-            //return;
-
-            var n = 0;
-            var n2 = 0;
-
-            var baseSet = new HashSet<string>(File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(x => x.Split(' ')[1].ToLower())
-                .Select(x => getLemmaBase(x)).Where(x => lemmaForms.ContainsKey(x)).Distinct());
-
-            var esRe = new Regex(@"(ss|zz|x|sh|ch|o|i)es$");
-            var sRe = new Regex(@"([^yuoaies]|[^yuoaie]e)s$");
-            var ingEdRe = new Regex(@"(ing|ed)$");
-            var vRe = new Regex(@"[eyuioa]");
-
-            /*
-            baseSet.Where(x => {
-                if (!ingRe.IsMatch(x)) return false;
-                x = ingRe.Replace(x, "");
-                return vRe.IsMatch(x);
-            }).ToList().ForEach(x => Console.WriteLine($"{x} -> {string.Join(",",lemmaForms[x])}"));
-            */
-
-            Func<string,bool> endsInShortSyllable = x => {
-                /*
-                if (x.Length < 2) return false;
-                if (x.Length == 2) {
-                    return || 
-                }
-                */
-                return Regex.IsMatch(x, @"^[yuoaie][^yuoaie]$")
-                    || Regex.IsMatch(x, @"[^yuoaie][yuoaie][^yuoaiewx]$");
-            };
-
-            var rs = new List<string>();
-            //var sel = lemmaForms.Where(x => baseSet.Contains(x.Key)).SelectMany(x => x.Value.Select(x2 => (k: x.Key, v: x2)));
-            var sel = lemmaForms.Select(x => (k: x.Key, v: x.Key));
-            foreach (var p in sel) {
-                var k = p.k;
-                var v = p.v;
-                var v2 = v;
-                var ls = new HashSet<string>();
-                n2++;
-                if (v.EndsWith("s")) {
-                    if (esRe.IsMatch(v)) {
-                        v = esRe.Replace(v, "$1");
-                        v = Regex.Replace(v, @"i$", "y");
-                        ls.Add(v);
-                    }
-                    else if (sRe.IsMatch(v)) {
-                        v = sRe.Replace(v, "$1");
-                        ls.Add(v);
-                    }
-                }
-                else if (ingEdRe.IsMatch(v)) {
-                    v = ingEdRe.Replace(v, "");
-                    if (vRe.IsMatch(v) && Regex.IsMatch(v, @"(bb|dd|ff|gg|mm|nn|pp|rr|tt)$")) {
-                        v = v.Substring(0, v.Length - 1);
-                    }
-                    ls.Add(v);
-                    ls.Add(v + "e");
-                }
-
-                if (ls.Count == 0 || k.EndsWith("ing")) continue;
-                n++;
-                // Console.WriteLine($"[\"{k}\", \"{v2}\"],");
-                rs.Add($"\"{k}\",");
-            }
-            File.WriteAllLines("d:/exs2.txt", rs);
-            Console.WriteLine($"{n}/{n2}");
-
             //geminiSplit(@"d:\.temp\reader-9-orig.txt");
             //geminiAdapt(@"d:\.temp\reader-9.txt");
 
-            //mdMonitor(); return;
+            mdMonitor(); return;
+
+            /*
+            var path = @"d:/Projects/private/dic.txt";
+            var ss = File.ReadAllLines(path);
+            var pn = ss.Count(s => s.StartsWith("+"));
+            ss = ss.Select(s => Regex.Replace(s, @"\+?#\d+ ", "")).SelectMany(s => Regex.Split(s, "; ?")).ToArray();
+
+            var rs = new List<string>();
+            for (var i = 0; i < (ss.Length / 10) + 1; i++) {
+                var r = $"{(i < pn ? "+" : "")}#{i+1} " + string.Join("; ",  ss.Skip(i * 10).Take(10).Where(x => x != ""));
+                rs.Add(r);
+            }
+
+            File.WriteAllLines(path, rs);
+            */
 
             /*
             // |,[,/
