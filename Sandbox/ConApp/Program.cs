@@ -29,6 +29,7 @@ using System.Security.Cryptography;
 using Newtonsoft.Json;
 using System.Drawing;
 using Markdig;
+using Microsoft.VisualBasic.FileIO;
 
 namespace ConApp {
     public class Tag {
@@ -61,6 +62,24 @@ namespace ConApp {
 
         public static string Clear(string s, HashSet<string> names = null) {
             return Program.handleString(s, tagRe, (x, m) => (names == null || names.Contains(m.Groups["name"].Value.ToLower())) ? "" : x);
+        }
+    }
+
+    public static class EnumHelper {
+        static Random rnd = new Random();
+
+        public static IEnumerable<T> Random<T>(this IEnumerable<T> _this) { // where T : class
+            var xs = _this.ToList();
+            var rs = new T[xs.Count * 4];
+            xs.ForEach(x => {
+                var i = -1;
+                do {
+                    i = rnd.Next(rs.Length);
+                } while (rs[i] != null);
+                rs[i] = x;
+            });
+            
+            return rs.Where(x => x != null);
         }
     }
 
@@ -1341,12 +1360,29 @@ namespace ConApp {
         static void mdHandle(string path) {
             var rs2 = new List<string[]>();
             var pSet = new HashSet<string> { "p", "common" };
+
+            if (path.Contains("stories.md")) {
+                var poses = posTags.Values.Distinct().ToArray();
+
+                var ss = File.ReadAllLines(path).Where(x => x.Contains("<common/>") && x.Contains(";")).ToArray();
+                var ex = string.Join("; ", ss.Take(ss.Length - 1));
+                var exs = Regex.Split(ex, @" *; *").Select(x => Regex.Matches(x, @"\*\*([^\*]+)\*\*").Cast<Match>().Select(m => m.Groups[1].Value).FirstOrDefault()).ToList();
+                exs.ForEach(x => {
+                    getLemmaForms(x, true).ToList().ForEach(k => {
+                        if (!freqGroups.ContainsKey(k))
+                            return;
+
+                        freqGroups[k] = 4;
+                    });
+                });
+            }
+
             File.ReadAllLines(path).ToList().ForEach(s => {
                 if (s.Trim() == "") return;
                 var b = enru(s);
                 var cmn = s.Contains("<common/>");
                 var sm = Tag.Clear(Markdown.ToHtml(s), pSet);
-                if (b >= 0 || cmn) rs2.Add(new[] { sm, null });
+                if (b >= 0 || cmn) rs2.Add(new[] { sm, "" });
                 if (b <= 0 || cmn) rs2[rs2.Count - 1][1] = sm;
             });
 
@@ -1360,9 +1396,11 @@ namespace ConApp {
                 rs2[i][0] = s;
             }
 
+            var isOne = !rs2.Any(x => enru(x[1]) < 0);
+
             var rs = File.ReadAllLines(@"d:\Projects\smalls\book-en.html").ToList();
             rs.AddRange(contents);
-            rs.AddRange(rs2.Select(x => Tag.Clear(x[0]) == Tag.Clear(x[1]) ? $"<div class=\"columns1\"><div>{freqGrouping(x[0])}</div></div>" : $"<div class=\"columns2\"><div>{freqGrouping(x[0])}</div><div>{x[1]}</div></div>"));
+            rs.AddRange(rs2.Select(x => isOne || Tag.Clear(x[0]) == Tag.Clear(x[1]) ? $"<div class=\"columns1\"><div>{freqGrouping(x[0])}</div></div>" : $"<div class=\"columns2\"><div>{freqGrouping(x[0])}</div><div>{x[1]}</div></div>"));
             var name = Path.GetFileNameWithoutExtension(path);
             File.WriteAllLines($"d:/{name}.html", rs);
         }
@@ -1488,30 +1526,94 @@ namespace ConApp {
 
         #endregion
 
+
+        static void genStories(string path, int n) {
+            var tpl = "Придумай небольшую историю на английском языке для самого базового уровня знания английского в ВИДЕ с сюжетом основанном на СЮЖЕТЕ, с использованием слов из списка, выделив их жирным в итоговом тексте: СЛОВА. Затем дай перевод истории и также выдели жирным переведенные слова из списка. И никакой служебной информации, отделив текст от перевода только '---'.";
+            var styles = new string[] { "стиле космической фантастики", "стиле научной фантастики", "стиле фэнтези", "виде трагедии", "виде деловой драмы", "виде деловой драмы" };
+            var plots = new string[] { "спасении", "мести", "преследовании", "бедствии", "исчезновении", "жертве", "мятеже", "похищении", "загадке", "достижении", "ненависти", "соперничестве", "адюльтере", "безумии", "убийстве", "самопожертвовании", "честолюбии", "открытии", "выживании", "испытании", "дружбе", "находке" };
+
+            var posAbrs = "арт гл мест нар предл прил сущ числ межд опред".Split(' ');
+            var xs = File.ReadAllLines(path);
+            var ws = xs.Select(x => Regex.Split(x, @" *[\[\]\{\}] *").ToList()).ToList();
+            var dic = loadDic(@"d:\Projects\smalls\freq-20k.txt");
+            ws.ForEach(w => {
+                var k = $"{w[0]} {{{w[1]}}}";
+                if (w.Count == 3) {
+                    w.Add(w[2]);
+                    w[2] = "-";
+                }
+                if (w[2] == "-" && dic.ContainsKey(k)) {
+                    var v = dic[k];
+                    var m = Regex.Match(v, @"\[([^\]]*)\]");
+                    if (m.Success) {
+                        w[2] = m.Groups[1].Value;
+                    }
+                }
+                var posAbr = posAbrs.FirstOrDefault(x => w[1].StartsWith(x));
+                posAbr = posAbr == null ? posAbr = w[1] : posAbr + ".";
+
+                w.Add(posAbr);
+            });
+
+            var rs = new List<string>();
+            var rnd = new Random();
+            var si = 1;
+            for (var i = 0; i < n; i++) {
+                ws = ws.Random().ToList();
+                var gws = ws.Select((x, j) => (x: x, i: j)).GroupBy(x => x.i / 10).Select(x => x.Select(y => y.x).ToList()).ToList();
+                var gwsL = gws.Last();
+                if (gwsL.Count < 10) {
+                    for (var j = 0; j < gwsL.Count; j++) {
+                        gws[j].Add(gwsL[j]);
+                    }
+                    gws.Remove(gwsL);
+                }
+
+                foreach (var gs in gws) {
+                    rs.Add($"## #{si}<common/>");
+                    rs.Add(string.Join("; ", gs.Select(g => $"**{g[0]}** [{g[2]}] *{g[4]}* {g[3]}")) + "<common/>");
+                    var wStr = string.Join("; ", gs.Select(g => $"{g[0]} как {g[1]}: {g[3]}"));
+                    var q = tpl.Replace("ВИДЕ", styles[rnd.Next(styles.Length)])
+                        .Replace("СЮЖЕТЕ", plots[rnd.Next(plots.Length)])
+                        .Replace("СЛОВА", wStr);
+
+                    var qr = (string)null;
+                    do {
+                        try {
+                            qr = gemini(q);
+                        }
+                        catch { Thread.Sleep(5000); }
+                    } while (qr == null);
+
+                    var qrs = Regex.Split(qr, @"\r?\n").Where(x => !x.StartsWith("#") && !Regex.IsMatch(x, @"^\*\*[^\*]*\*\*$")).ToArray();
+                    var en = qrs.Where(x => enru(x) > 0).ToArray();
+                    var ru = qrs.Where(x => enru(x) < 0).ToArray();
+                    if (en.Length != ru.Length) throw new Exception();
+                    for (var k = 0; k < en.Length; k++) {
+                        rs.Add(en[k]);
+                        rs.Add(ru[k]);
+                    }
+                    Console.WriteLine(si);
+                    si++;
+                }
+            }
+
+            File.WriteAllLines(pathEx(path, "-ss"), rs.Select(x => x + "\r\n"));
+        }
+
         static volatile bool ctrlC = false;
 
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
+            //genStories(@"d:/stories-2.txt", 5);
+
+
             //geminiSplit(@"d:\.temp\reader-9-orig.txt");
             //geminiAdapt(@"d:\.temp\reader-9.txt");
 
-            mdMonitor(); return;
+            //mdMonitor(); return;
 
-            /*
-            var path = @"d:/Projects/private/dic.txt";
-            var ss = File.ReadAllLines(path);
-            var pn = ss.Count(s => s.StartsWith("+"));
-            ss = ss.Select(s => Regex.Replace(s, @"\+?#\d+ ", "")).SelectMany(s => Regex.Split(s, "; ?")).ToArray();
-
-            var rs = new List<string>();
-            for (var i = 0; i < (ss.Length / 10) + 1; i++) {
-                var r = $"{(i < pn ? "+" : "")}#{i+1} " + string.Join("; ",  ss.Skip(i * 10).Take(10).Where(x => x != ""));
-                rs.Add(r);
-            }
-
-            File.WriteAllLines(path, rs);
-            */
 
             /*
             // |,[,/
@@ -1566,6 +1668,134 @@ namespace ConApp {
         }
     }
 }
+
+/*
+            var rs = new List<string>();
+            var path = @"d:\.temp\123\poetry.csv";
+            using (TextFieldParser csvParser = new TextFieldParser(path)) {
+                csvParser.CommentTokens = new string[] { "#" };
+                csvParser.SetDelimiters(new string[] { "," });
+                csvParser.HasFieldsEnclosedInQuotes = true;
+
+                csvParser.ReadLine();
+                var prevN = -1;
+                var ss = new List<string>();
+                while (!csvParser.EndOfData) {
+                    string[] fields = csvParser.ReadFields();
+                    var s = fields[0];
+                    var n = int.Parse(fields[1]);
+                    if (n == prevN) {
+                        ss.Add(s);
+                        continue;
+                    }
+
+                    prevN = n;
+
+                    if (ss.Count == 0) continue;
+
+                    var shC = ss.Count(x => x.Length <= 40) * 100 / ss.Count;
+                    var capC = ss.Count(x => x.Length > 0 && char.IsUpper(x[0])) * 100 / ss.Count;
+                    if (capC > 70 && shC > 70) {
+                        rs.AddRange(ss);
+                        rs.Add("");
+                    }
+                    ss.Clear();
+                }
+            }
+
+            File.WriteAllLines(@"d:\poems.txt", rs);
+ */
+
+/*
+            var rs = Enumerable.Range(1, 150).Select(x => $"<b>{x}-й день:</b> ").ToList();
+            var its = new int[] { 0, 1, 3, 6, 11, 19 };
+
+            for (var i = 0; i < 100; i++) {
+                foreach (var it in its) {
+                    rs[i + it] += $", {i + 1}";
+                }
+            }
+            rs = rs.Where(x => x != "").ToList();
+            rs.ForEach(x => { Console.WriteLine(x.Replace("b> , ", "b> ")); });
+ */
+
+/*
+            var css =
+@"<style>
+  p, td { font-size: 16pt; }
+  td { vertical-align: top; }
+  table.main { width: 27.2cm; }
+  td.num { width: 2cm; font-size: 28pt; }
+  td.txt { width: 13.6cm; text-indent: 0.6cm; padding: 0pt 4pt; font-size: 16pt; }
+  p { margin: 0pt; }
+</style>";
+
+            var ss = File.ReadAllLines(@"d:\Projects\private\stories.md").Where(x => x != "").ToList();
+            var h = (string)null;
+            var isPrevH = false;
+            var isH = false;
+            var rs = new List<string>();
+            rs.Add(css);
+            var clTags = new HashSet<string>() { "p" };
+            ss.ForEach(s => {
+                isPrevH = isH;
+                isH = s.StartsWith("##");
+
+                if (isH) {
+                    h = s.Substring(4) + ". ";
+                    return;
+                }
+
+                s = Tag.Clear(Markdown.ToHtml(s), clTags);
+
+                if (isPrevH) {
+                    rs.Add($"</table><p>---</p><table class='main'><tr><td class='num'>{h}</td><td>{s}</td></tr></table><p>&nbsp;</p>");
+                    rs.Add($"<table class='main'>");
+                    return;
+                }
+
+                if (enru(s) > 0) {
+                    rs.Add($"<tr><td class='txt'>{s}</td>");
+                }
+                else {
+                    rs.Add($"<td class='txt'>{s}</td></tr>");
+                }
+            });
+
+            File.WriteAllLines(@"d:\2.html", rs);
+*/
+
+
+/*
+        // schedule
+        var rs = Enumerable.Repeat("", 50).ToList();
+        var its = new int[] { 0, 2, 4, 8 };
+
+        for (var i = 0; i < 30; i++) {
+            foreach (var it in its) {
+                rs[i + it] += $", {i+1}";
+            }
+        }
+        rs = rs.Where(x => x != "").ToList();
+        rs.ForEach(x => { Console.WriteLine(x.Substring(2));  });
+*/
+
+/*
+            // words combine
+            var path = @"d:/Projects/private/dic.txt";
+            var ss = File.ReadAllLines(path);
+            var pn = ss.Count(s => s.StartsWith("+"));
+            ss = ss.Select(s => Regex.Replace(s, @"\+?#\d+ ", "")).SelectMany(s => Regex.Split(s, "; ?")).ToArray();
+
+            var rs = new List<string>();
+            for (var i = 0; i < (ss.Length / 10) + 1; i++) {
+                var r = $"{(i < pn ? "+" : "")}#{i+1} " + string.Join("; ",  ss.Skip(i * 10).Take(10).Where(x => x != ""));
+                rs.Add(r);
+            }
+
+            File.WriteAllLines(path, rs);
+*/
+
 
 /*
             // all words forms

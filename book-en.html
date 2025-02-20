@@ -30,7 +30,7 @@
         return s.replace(w, `<b>${w}</b>`);
     }
 
-    $(document).on("click", ".columns2 div", function() {
+    $(document).on("click", ".columns2 div, .columns1 div", function() {
         var s = window.getSelection();
         var r = s.getRangeAt(0);
         
