@@ -1093,3 +1093,71 @@ We **endorse** the truth, for all to see,
 And work for peace, in unity.
 
 И работаем над миром в единстве.
+
+## #7.c<common/>
+
+**finance** [-] *гл.* финансировать; **regulate** [-] *гл.* регулировать; **rent** [-] *гл.* арендовать; **civilian** [-] *прил.* гражданский; **estimated** [-] *прил.* примерный; **highlight** [-] *гл.* выделять; **compound** [-] *сущ.* соединение; **integrate** [-] *гл.* объединять; **medium** [-] *сущ.* средство; **excuse** [-] *гл.* прощать; **net** [-] *прил.* чистый; **swing** [-] *сущ.* размах; **curve** [-] *сущ.* изгиб; **mill** [-] *сущ.* мельница; **closet** [-] *сущ.* шкаф; **interior** [-] *сущ.* интерьер; **reverse** [-] *гл.* откатывать; **salmon** [-] *сущ.* лосось; **log** [-] *сущ.* бревно; **surgeon** [-] *сущ.* хирург<common/>
+
+Lena wanted to **rent** a small house near the river. She had an **estimated** budget and needed to **finance** the repairs herself. The house had an old **mill** in the yard and a wooden **log** near the door.
+
+Лена хотела **арендовать** маленький дом возле реки. У нее был **примерный** бюджет, и ей нужно было **финансировать** ремонт самой. Во дворе дома была старая **мельница**, а возле двери лежало деревянное **бревно**.
+
+Inside, the **interior** was simple. She found an old **closet** in one room and a large mirror with a beautiful **curve** on its frame. The floor was dirty, but the air felt fresh.
+
+Внутри **интерьер** был простым. В одной комнате она нашла старый **шкаф** и большое зеркало с красивым **изгибом** на раме. Пол был грязным, но воздух казался свежим.
+
+One day, a **civilian** engineer came to help. He said the house needed better electricity. Lena asked him to **regulate** the system and **integrate** new cables.
+
+Однажды пришел **гражданский** инженер, чтобы помочь. Он сказал, что в доме нужно улучшить электрику. Лена попросила его **регулировать** систему и **объединять** новые кабели.
+
+Later, she cooked **salmon** for dinner. While eating, she read about a famous **surgeon** who helped people in need.
+
+Позже она приготовила **лосося** на ужин. Во время еды она читала о знаменитом **хирурге**, который помогал людям в беде.
+
+Outside, she sat on a **swing** and watched the sunset. She wanted to **highlight** the beauty of the place by planting flowers.
+
+Снаружи она села на **размах** и смотрела на закат. Она хотела **выделять** красоту этого места, сажая цветы.
+
+Suddenly, she saw a strange light from the **compound** next door. She decided to check it later.
+
+Вдруг она увидела странный свет из соседнего **соединения**. Она решила проверить это позже.
+
+The next morning, she tried to clean the house. She used a **medium** to remove the dust and smiled. It was hard work, but she loved it.
+
+На следующее утро она попыталась убрать дом. Она использовала **средство** для удаления пыли и улыбнулась. Это была тяжелая работа, но ей нравилось.
+
+When her friend visited, she spilled juice on the floor. "Oh no!" she said. "Please **excuse** me!"
+
+Когда в гости пришла ее подруга, она пролила сок на пол. "О нет!" – сказала она. "Пожалуйста, **прости** меня!"
+
+"It's okay," Lena laughed. "I’ll clean it."
+
+"Все нормально", – засмеялась Лена. "Я уберу."
+
+After some time, she found an old book about history. It talked about how people **reverse** bad decisions and build a better future.
+
+Через некоторое время она нашла старую книгу по истории. В ней говорилось о том, как люди **откатывают** плохие решения и строят лучшее будущее.
+
+By the end of the day, Lena looked at her work. The house was almost ready. She felt happy and proud of her **net** progress.
+
+К концу дня Лена посмотрела на свою работу. Дом был почти готов. Она чувствовала радость и гордость за свой **чистый** прогресс.
+
+## #7.d<common/>
+
+**finance** [-] *гл.* финансировать; **regulate** [-] *гл.* регулировать; **rent** [-] *гл.* арендовать; **civilian** [-] *прил.* гражданский; **estimated** [-] *прил.* примерный; **highlight** [-] *гл.* выделять; **compound** [-] *сущ.* соединение; **integrate** [-] *гл.* объединять; **medium** [-] *сущ.* средство; **excuse** [-] *гл.* прощать; **net** [-] *прил.* чистый; **swing** [-] *сущ.* размах; **curve** [-] *сущ.* изгиб; **mill** [-] *сущ.* мельница; **closet** [-] *сущ.* шкаф; **interior** [-] *сущ.* интерьер; **reverse** [-] *гл.* откатывать; **salmon** [-] *сущ.* лосось; **log** [-] *сущ.* бревно; **surgeon** [-] *сущ.* хирург<common/>
+
+Once upon a time, in a small **civilian** town, there was an old **mill** by the river. The town council decided to **finance** its restoration to attract tourists. They hired a **surgeon** named Dr. Green, who loved architecture, to **regulate** the project. He **estimated** the cost and **highlighted** the importance of preserving the **interior** design.
+
+Жил-был в маленьком **гражданском** городке старый **мельница** у реки. Городской совет решил **финансировать** её восстановление, чтобы привлечь туристов. Они наняли **хирурга** по имени доктор Грин, который любил архитектуру, чтобы **регулировать** проект. Он **примерно** оценил стоимость и **выделил** важность сохранения **интерьера**.
+
+The mill had a unique **compound** of wood and stone, and Dr. Green wanted to **integrate** modern elements without losing its charm. He suggested using a **medium** like glass to add light. The council agreed, and they began to **rent** tools and materials.
+
+Мельница имела уникальное **соединение** дерева и камня, и доктор Грин хотел **объединить** современные элементы, не потеряв её очарования. Он предложил использовать **средство** вроде стекла, чтобы добавить света. Совет согласился, и они начали **арендовать** инструменты и материалы.
+
+One day, while cleaning, they found an old **closet** filled with **logs** and a painting of a **salmon**. Dr. Green decided to **reverse** the decision to remove the closet, as it added character. The project faced a **curve** when the budget ran low, but the council decided to **excuse** the delay and focus on the **net** benefits for the town.
+
+Однажды, во время уборки, они нашли старый **шкаф**, наполненный **бревнами** и картиной с изображением **лосося**. Доктор Грин решил **откатить** решение убрать шкаф, так как он добавлял характера. Проект столкнулся с **изгибом**, когда бюджет иссяк, но совет решил **простить** задержку и сосредоточиться на **чистых** выгодах для города.
+
+Finally, the mill was restored, and its **swing** door became a symbol of the town’s history. Everyone celebrated the success of the project.
+
+Наконец, мельница была восстановлена, и её **размах** двери стал символом истории города. Все праздновали успех проекта.
