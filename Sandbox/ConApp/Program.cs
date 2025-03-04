@@ -1606,6 +1606,28 @@ namespace ConApp {
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
+            var pDic = @"prep. предлог
+adv. наречие
+n. существительное
+v. глагол
+adj. прилагательное
+det. определитель
+pron. местоимение
+conj. союз
+exclam. прочее
+num. числительное
+other. прочее".Split(new[] { "\r\n" }, ssop).Select(x => x.Split(' ')).ToDictionary(x => x[0], x => x[1]);
+
+            var rs = new List<string>();
+            File.ReadAllLines(@"d:\.temp\Spotlight-3\words.txt").ToList().ForEach(s => {
+                var ss = Regex.Matches(s, @"[a-z]+\.|[a-z-']+").Cast<Match>().Select(m => m.Value).ToList();
+                var ps = ss.Where(x => x.EndsWith(".")).Select(x => pDic[x]).Distinct().ToList();
+                var w = string.Join(" ",  ss.Where(x => !x.EndsWith(".")));
+                ps.ForEach(p => {
+                    rs.Add($"{w} {{{p}}}");
+                });
+            });
+            File.WriteAllLines(@"d:\.temp\Spotlight-3\words-2.txt", rs);
             //genStories(@"d:/stories-2.txt", 5);
 
 
