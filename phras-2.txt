@@ -1,0 +1,171 @@
+**ask for** [B1] просить
+**back up** [B2] поддерживать
+**base on** [B1] класть в основу
+**break down** [B1] ломаться
+**break in** [B1] вламываться
+**break into** [B1] вламываться
+**break out** [B2] вспыхивать
+**bring back** [A2] приносить 
+**bring out** [B2] выпускать
+**bring up** [B1] воспитывать
+**call back** [B2] возвращаться
+**call for** [B1] заходить
+**call off** [B2] отменять
+**call on** [B1] называть
+**calm down** [B2] успокаивать(ся)
+**care for** [B1] заботиться
+**carry on** [B1] продолжать
+**carry out** [B1] выполнять
+**catch up** [B2] наверстывать
+**check in** [B1] регистрироваться
+**check out** [B1] выехать из гостиницы
+**cheer up** [B2] бодрить(ся)
+**come after** [B1] следовать за
+**come along** [B1] идти вместе
+**come back** [A2] возвращаться
+**come down** [B2] валиться
+**come from** [A1] происходить
+**come in** [A2] входить
+**come out** [B1] выходить
+**come up** [B2] возникать
+**come up with** [B2] придумывать 
+**count on** [B2] рассчитывать
+**cut down** [B2] рубить
+**deal with** [B1] заниматься
+**depend on** [B1] зависеть от
+**do up** [B2] ремонтировать
+**drop off** [B1] падать
+**drop off** [B2] понижаться
+**eat out** [B1] обедать в ресторане
+**end up** [B1] заканчивать
+**face up to** [B2] смотреть правде в глаза
+**fall apart** [B2] разваливаться
+**fall for** [B2] влюбляться
+**fall out** [B2] ссориться
+**figure out** [B2] понимать
+**fill in** [A2] заполнять
+**find out** [A2] выяснять
+**get away** [B2] сбегать
+**get away with** [B2] делать безнаказанно
+**get back** [AB] возвращаться
+**get in** [B1] проникать
+**get out** [B1] выходить
+**get out of** [B2] избегать чего-либо
+**get over** [B2] пережить
+**get together** [B1] встречаться
+**give away** [B1] раздавать
+**give in** [B1] уступать
+**go ahead** [B2] начинать
+**go away** [B1] уходить
+**go back** [B1] возвращаться
+**go by** [B2] проходить
+**go down** [B1] снижаться
+**go in** [A2] входить
+**go off** [B1] отправляться
+**go off** [B1] выключаться
+**go off** [B2] взорваться
+**go out** [A1] выходить
+**go out** [B1] гаснуть
+**go out** [B1] встречаться
+**go up** [B1] подниматься
+**go with** [B2] заболеть
+**grow up** [A2] вырастать
+**hand in** [B1] подавать
+**hand out** [B1] раздавать
+**hand over** [B2] передавать
+**hang on** [B1] подаждать
+**hang out** [B1] постоянно бывать
+**help out** [B2] помагать
+**hold on** [B1] ждать
+**join in** [B1] присоединяться
+**keep down** [B2] контролировать
+**keep out** [B1] не входить
+**keep up** [B2] не отставать
+**knock out** [B2] оглушать
+**leave behind** [A2] оставлять
+**leave out** [B2] пропускать
+**let down** [B2] разочаровывать
+**let out** [B2] выпускать
+**live up to** [B2] оправдывать 
+**lock in** [B2] запирать
+**look after** [A2] присматривать
+**look at** [B2] рассматривать
+**look back** [B2] вспоминать
+**look down** [B2] смотреть свысока
+**look for** [B2] высматривать
+**look forward to** [B1] ожидать
+**look into** [B2] расследовать
+**look out** [B1] осторожно!
+**look up to** [B2] уважать
+**make up for** [B2] возмещать ущерб
+**mess up** [B2] портить
+**miss out** [B2] пропускать
+**move in** [B1] въезжать
+**pay off** [B2] расплачиваться
+**pick on** [B2] придираться
+**point out** [B2] указывать
+**pull out** [B2] выезжать
+**pull over** [B2] остановиться на обочине
+**push for** [B2] добиваться
+**put back** [B1] класть на место
+**put down** [B1] записывать
+**put off** [B1] откладывать
+**put on** [A2] надевать
+**put on** [B1] включать
+**put out** [B1] гасить
+**put together** [B2] собирать
+**put up** [B2] приютить
+**put up with** [B2] терпеть
+**rely on** [B2] полагаться
+**remind of** [B1] напоминать
+**result in** [B2] приводить к
+**run away** [B2] сбежать
+**run into** [B2] случайно встретить
+**run out** [B1] иссякать
+**run over** [B2] задавить
+**sell out** [B2] распродать
+**settle down** [B2] осваиваться с
+**set off** [B1] отправляться
+**set out** [B1] отправляться
+**show off** [B2] похваляться
+**show up** [B1] появляться
+**shut down** [B2] закрывать(ся)
+**sign up** [B1] записываться
+**slow down** [B2] замедляться
+**sort out** [B2] разбираться с
+**stand for** [B2] означать
+**stand for** [B2] поддерживать
+**start off** [B1] начинать
+**stay in** [B1] оставаться дома
+**stick in** [B2] втыкать(ся)
+**stick out** [B2] торчать
+**stick to** [B2] придерживаться
+**stick with** [B2] придерживаться
+**sum up** [B2] резюмировать
+**take away** [B1] вычитать
+**take away** [B2] забирать
+**take back** [B1] возвращать
+**take off** [A2] взлетать
+**take on** [B2] брать на себя
+**take over** [B2] принимать
+**take up** [B1] начать заниматься
+**talk into** [B2] уговаривать
+**talk out of** [B2] уговаривать
+**think of** [A2] подумывать
+**think of** [B1] мысленно быть
+**throw away** [B1] выбрасывать
+**throw out** [AB] выбрасывать
+**try on** [A2] примерять
+**try out** [B2] испытывать
+**turn back** [B2] повернуть назад
+**turn down** [B1] убавлять
+**turn into** [B1] превращать(ся)
+**turn on** [A2] включать
+**turn out** [B2] оказываться
+**turn out** [B2] прибывать
+**turn to** [B2] обращаться
+**watch out** [B2] остерегаться
+**wear out** [B2] изнурять
+**work out** [B2] решаться
+**work out** [B1] заниматься спортом
+**wrap up** [B1] обертывать
