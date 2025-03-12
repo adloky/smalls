@@ -83,6 +83,21 @@ namespace ConApp {
         }
     }
 
+    public class PosToken {
+        public int characterOffsetBegin { get; set; }
+        public int characterOffsetEnd { get; set; }
+        public string pos { get; set; }
+    }
+
+    public class Pos {
+        public string s { get; set; }
+        public string pos { get; set; }
+
+        public override string ToString() {
+            return pos == null ? s : $"{s} {{{pos}}}";
+        }
+    }
+
     static class Program {
 
         static Program() {
@@ -330,12 +345,12 @@ namespace ConApp {
             return r;
         }
 
-        static Regex freqGoupRe = new Regex(@"</?[^/> ]+(""[^""]*""|[^/>])*/?>|[a-z]+", RegexOptions.IgnoreCase | RegexOptions.Compiled);
+        static Regex freqGoupRe = new Regex(@"[a-z]+", RegexOptions.IgnoreCase | RegexOptions.Compiled);
         static string[][] freqGroupColors = new[] { new [] { "#ff9999", "#99cbff", "#99ff99", "#ffbc8c" }, new[] { "#ff9999", "#0079ff", "#00b200", "#cc5400" } };
         static string freqGrouping(string s, bool white = false) {
+            if (Tag.Parse(s).Length > 0) return s;
             var cs = freqGroupColors[white ? 0 : 1];
             s = handleString(s, freqGoupRe, (x, m) => {
-                if (x[0] == '<') return x;
                 freqGroups.TryGetValue(x.ToLower(), out var g);
                 return g == cs.Length || g == 0 ? x : $"<font color=\"{cs[g]}\">{x}</font>";
             });
@@ -642,8 +657,8 @@ namespace ConApp {
 
         static Dictionary<string, string> posTags = new Dictionary<string, string> {
             { "RB", "наречие" }, { "RBR", "наречие" }, { "RBS", "наречие" }, { "WRB", "наречие" },
-            { "NN", "существительное" }, { "NNS", "существительное" }, { "NNP", "существительное" },
-            { "NNPS", "существительное" }, { "JJ", "прилагательное" }, { "JJR", "прилагательное" },
+            { "NN", "существительное" }, { "NNS", "существительное" }, { "NNP", "имя" },
+            { "NNPS", "имя" }, { "JJ", "прилагательное" }, { "JJR", "прилагательное" },
             { "JJS", "прилагательное" }, { "CC", "союз" }, { "DT", "определитель" },
             { "PDT", "определитель" }, { "WDT", "определитель" }, { "UH", "междометие" },
             { "MD", "глагол" }, { "VB", "глагол" }, { "VBD", "глагол" }, { "VBG", "глагол" },
@@ -1361,6 +1376,7 @@ namespace ConApp {
             var rs2 = new List<string[]>();
             var pSet = new HashSet<string> { "p", "common" };
 
+            /*
             if (path.Contains("stories.md")) {
                 var poses = posTags.Values.Distinct().ToArray();
 
@@ -1376,6 +1392,7 @@ namespace ConApp {
                     });
                 });
             }
+            */
 
             File.ReadAllLines(path).ToList().ForEach(s => {
                 if (s.Trim() == "") return;
@@ -1392,7 +1409,7 @@ namespace ConApp {
                 var h = Tag.Parse(s).Where(t => hRe.IsMatch(t.name)).Select(t => t.name).FirstOrDefault();
                 if (h == null) continue;
                 contents.Add($"<p class=\"indent{h[1]}\"><a href=\"#ref{contents.Count}\"><b>{Tag.Clear(s)}</b></a></p>");
-                s = $"{s}<a name=\"ref{contents.Count - 1}\"></a>";
+                s = $"<a name=\"ref{contents.Count - 1}\"></a>{s}";
                 rs2[i][0] = s;
             }
 
@@ -1528,7 +1545,8 @@ namespace ConApp {
 
 
         static void genStories(string path, int n) {
-            var tpl = "Придумай небольшую историю на английском языке для самого базового уровня знания английского в ВИДЕ с сюжетом основанном на СЮЖЕТЕ, с использованием слов из списка, выделив их жирным в итоговом тексте: СЛОВА. Затем дай перевод истории и также выдели жирным переведенные слова из списка. И никакой служебной информации, отделив текст от перевода только '---'.";
+            //var tpl = "Придумай небольшую историю на английском языке для самого базового уровня знания английского в ВИДЕ с сюжетом основанном на СЮЖЕТЕ, с использованием слов из списка, выделив их жирным в итоговом тексте: СЛОВА. Затем дай перевод истории и также выдели жирным переведенные слова из списка. И никакой служебной информации, отделив текст от перевода только '---'.";
+            var tpl = "Придумай небольшой диалог на английском языке для самого базового уровня знания английского (A2), с использованием слов из списка, выделив их жирным в итоговом тексте: СЛОВА. Затем дай перевод и также выдели жирным переведенные слова из списка. И никакой служебной информации, отделив текст от перевода только '---'.";
             var styles = new string[] { "стиле космической фантастики", "стиле научной фантастики", "стиле фэнтези", "виде трагедии", "виде деловой драмы", "виде деловой драмы" };
             var plots = new string[] { "спасении", "мести", "преследовании", "бедствии", "исчезновении", "жертве", "мятеже", "похищении", "загадке", "достижении", "ненависти", "соперничестве", "адюльтере", "безумии", "убийстве", "самопожертвовании", "честолюбии", "открытии", "выживании", "испытании", "дружбе", "находке" };
 
@@ -1601,35 +1619,102 @@ namespace ConApp {
             File.WriteAllLines(pathEx(path, "-ss"), rs.Select(x => x + "\r\n"));
         }
 
+        static IEnumerable<Pos> getPos(string str) {
+            // "annotators":"tokenize,ssplit,pos","outputFormat":"json"
+            var url = $"http://localhost:9000/?properties={{{WebUtility.UrlEncode(@"""annotators"":""tokenize,ssplit,pos"",""outputFormat"":""json""")}}}";
+
+            var i = 0;
+            foreach (var s in nSplit(str, 16 * 1024)) {
+                if (i > 0) {
+                    yield return new Pos() { s = "\r\n" };
+                }
+                i++;
+
+                var request = WebRequest.Create(url);
+                request.Method = "POST";
+                using (var dataStream = request.GetRequestStream()) {
+                    var d = Encoding.UTF8.GetBytes(s);
+                    dataStream.Write(d, 0, d.Length);
+                }
+
+                var r = (string)null;
+                using (var response = request.GetResponse())
+                using (Stream dataStream = response.GetResponseStream()) {
+                    var reader = new StreamReader(dataStream);
+                    r = reader.ReadToEnd();
+                }
+
+                var b = 0;
+                foreach (var t in JObject.Parse(r).SelectTokens("$..tokens").SelectMany(x => x).Select(x => x.ToObject<PosToken>())) {
+                    if (!posTags.ContainsKey(t.pos)) continue;
+                    var p = posTags[t.pos];
+                    if (t.characterOffsetBegin != b) {
+                        yield return new Pos() { s = s.Substring(b, t.characterOffsetBegin - b) };
+                    }
+
+                    yield return new Pos() { s = s.Substring(t.characterOffsetBegin, t.characterOffsetEnd - t.characterOffsetBegin), pos = p };
+                    b = t.characterOffsetEnd;
+                }
+
+                if (b != s.Length) {
+                    yield return new Pos() { s = s.Substring(b, s.Length - b) };
+                }
+            }
+        }
+
+        static IEnumerable<string> nSplit(string str, int max) {
+            var re = new Regex(@"\r?\n", RegexOptions.Compiled);
+            var ss = re.Split(str);
+            var sb = new StringBuilder();
+            foreach (var s in ss) {
+                var l = sb.Length + s.Length + (sb.Length == 0 ? 0 : 2);
+                if (l > max) {
+                    if (sb.Length > 0) {
+                        yield return sb.ToString();
+                        sb.Clear();
+                    }
+                    if (s.Length > max) {
+                        yield return s;
+                        continue;
+                    }
+                }
+                if (sb.Length > 0) {
+                    sb.Append("\r\n");
+                }
+                sb.Append(s);
+            }
+
+            if (sb.Length > 0) {
+                yield return sb.ToString();
+            }
+        }
+
         static volatile bool ctrlC = false;
 
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
-            var pDic = @"prep. предлог
-adv. наречие
-n. существительное
-v. глагол
-adj. прилагательное
-det. определитель
-pron. местоимение
-conj. союз
-exclam. прочее
-num. числительное
-other. прочее".Split(new[] { "\r\n" }, ssop).Select(x => x.Split(' ')).ToDictionary(x => x[0], x => x[1]);
+            var a1 = loadDic(@"d:\.temp\Spotlight-3\words-cross.txt");
+            var r = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(s => {
+                var m = Regex.Match(s, @"(\d+) ([^\}]+\})");
+                return (int.Parse(m.Groups[1].Value), m.Groups[2].Value);
+            }).ToDictionary(x => x.Value, x => x.Item1);
+            var r2 = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(s => {
+                var m = Regex.Match(s, @"(\d+) ([^\}]+\}) (.+)");
+                return (m.Groups[2].Value, m.Groups[3].Value);
+            }).ToDictionary(x => x.Item1, x => x.Item2);
 
-            var rs = new List<string>();
-            File.ReadAllLines(@"d:\.temp\Spotlight-3\words.txt").ToList().ForEach(s => {
-                var ss = Regex.Matches(s, @"[a-z]+\.|[a-z-']+").Cast<Match>().Select(m => m.Value).ToList();
-                var ps = ss.Where(x => x.EndsWith(".")).Select(x => pDic[x]).Distinct().ToList();
-                var w = string.Join(" ",  ss.Where(x => !x.EndsWith(".")));
-                ps.ForEach(p => {
-                    rs.Add($"{w} {{{p}}}");
-                });
+            r.Where(x => x.Value > 200 || a1.ContainsKey(x.Key)).ToList().ForEach(x => { r.Remove(x.Key); });
+            r.ToList().ForEach(x => {
+                Console.WriteLine($"{x.Value.ToString("00000")} {x.Key} {r2[x.Key]}");
             });
-            File.WriteAllLines(@"d:\.temp\Spotlight-3\words-2.txt", rs);
-            //genStories(@"d:/stories-2.txt", 5);
 
+            //r.OrderBy(x => x.Value).ToList().ForEach(x => Console.WriteLine($"{x.Value.ToString("00000")} {x.Key} {Regex.Replace(r2[x.Key], @"\[[^\d]+\] ", "")}"));
+            //a1.Keys.Where(x => !r.ContainsKey(x)).ToList().ForEach(Console.WriteLine);
+
+            return;
+
+            //genStories(@"d:/dialogs.txt", 5);
 
             //geminiSplit(@"d:\.temp\reader-9-orig.txt");
             //geminiAdapt(@"d:\.temp\reader-9.txt");
@@ -1690,6 +1775,22 @@ other. прочее".Split(new[] { "\r\n" }, ssop).Select(x => x.Split(' ')).ToD
         }
     }
 }
+
+/*
+            // Spotlight
+            Func<string, string> getKey = x => x.Split(new[] { " {" }, ssop)[0];
+            var s = File.ReadAllText(@"d:\.temp\Spotlight-3\1.txt");
+            var exs = new HashSet<string>(File.ReadAllLines(@"d:\.temp\Spotlight-3\words-a1.txt").Select(x => getKey(x)));
+            var ss = Regex.Matches(s, @"[a-z]+").Cast<Match>().Select(x => getLemmaBase(x.Value)).Where(x => exs.Contains(x)).ToList();
+
+            var r = ss.GroupBy(x => x).Select(g => (k: g.Key, n: g.Count())).ToList();
+
+            var sl = new HashSet<string>(
+                ss.GroupBy(x => x).Select(g => (k: g.Key, n: g.Count())).Where(x => x.n > 1).Select(x => x.k));
+
+            File.ReadAllLines(@"d:\.temp\Spotlight-3\words.txt").Where(x => sl.Contains(getKey(x))).Random().ToList().ForEach(Console.WriteLine);
+
+ */
 
 /*
             var rs = new List<string>();
