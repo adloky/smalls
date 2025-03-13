@@ -1694,25 +1694,58 @@ namespace ConApp {
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
-            var a1 = loadDic(@"d:\.temp\Spotlight-3\words-cross.txt");
-            var r = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(s => {
-                var m = Regex.Match(s, @"(\d+) ([^\}]+\})");
-                return (int.Parse(m.Groups[1].Value), m.Groups[2].Value);
-            }).ToDictionary(x => x.Value, x => x.Item1);
-            var r2 = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(s => {
-                var m = Regex.Match(s, @"(\d+) ([^\}]+\}) (.+)");
-                return (m.Groups[2].Value, m.Groups[3].Value);
-            }).ToDictionary(x => x.Item1, x => x.Item2);
+            
+            var w300 = File.ReadAllLines(@"d:\Projects\smalls\words-cross.txt").Take(320).Select(s => {
+                var m = Regex.Match(s, @"\d+ ([^\}]+\})");
+                return (m.Groups[1].Value, m.Groups[2].Value);
+            }).ToDictionary(x => x.Item1, x => 0);
+            var all = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(s => {
+                var m = Regex.Match(s, @"\d+ ([^\}]+\})");
+                return (m.Groups[1].Value, m.Groups[2].Value);
+            }).ToDictionary(x => x.Item1, x => 0);
 
-            r.Where(x => x.Value > 200 || a1.ContainsKey(x.Key)).ToList().ForEach(x => { r.Remove(x.Key); });
-            r.ToList().ForEach(x => {
-                Console.WriteLine($"{x.Value.ToString("00000")} {x.Key} {r2[x.Key]}");
-            });
 
-            //r.OrderBy(x => x.Value).ToList().ForEach(x => Console.WriteLine($"{x.Value.ToString("00000")} {x.Key} {Regex.Replace(r2[x.Key], @"\[[^\d]+\] ", "")}"));
-            //a1.Keys.Where(x => !r.ContainsKey(x)).ToList().ForEach(Console.WriteLine);
+            Func<string, string> find = s => {
+                s = s.ToLower();
+                if (w300.ContainsKey(s)) return s;
+                s = getLemmaBase(s);
+                if (!w300.ContainsKey(s)) return null;
+                return s;
+            };
 
-            return;
+            var txt = File.ReadAllText(@"d:\ws.txt");
+            foreach (var k in getPos(txt).Where(x => x.pos != null)) {
+                var s = find(k.ToString());
+                if (s == null) continue;
+                w300[s]++;
+            }
+
+            w300.Where(x => x.Value >= 8).OrderByDescending(x => x.Value).ToList().ForEach(x => { Console.WriteLine($"{x.Key} {x.Value}"); });
+
+
+            /*
+            var chs = new[] { "матерью", "отцом", "подругой" };
+            var q = "Придумай отрывок диалога мальчика с КЕМ на английском для начального уровня A1 с использованием слов: СЛОВА. Дай 2 варианта. Выдели слова жирным в тексте. Без приветствий и прощаний.";
+
+            var rs = new List<string>();
+            for (var i = 0; i < 320; i += 7) {
+                var w = string.Join("; ", w300.Skip(i * 7).Take(7).Select(x => Regex.Replace($"{x.Key} - {x.Value}", @" \{[^\}]+\}", "")));
+                foreach (var ch in chs) {
+                    var q2 = q.Replace("СЛОВА", w).Replace("КЕМ", ch);
+                    var s = (string)null;
+                    do {
+                        try { s = gemini(q2); } catch { }
+                    } while (s == null);
+
+                    var ss = Regex.Split(s, @"\r?\n");
+                    rs.AddRange(ss);
+                    rs.Add("---");
+                }
+                Console.WriteLine(i);
+            }
+
+            File.WriteAllLines(@"d:/ws.txt", rs);
+            */
 
             //genStories(@"d:/dialogs.txt", 5);
 
@@ -1775,6 +1808,27 @@ namespace ConApp {
         }
     }
 }
+
+/*
+ // 300 words
+            var a1 = loadDic(@"d:\.temp\Spotlight-3\words-cross.txt");
+            var r = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(s => {
+                var m = Regex.Match(s, @"(\d+) ([^\}]+\})");
+                return (int.Parse(m.Groups[1].Value), m.Groups[2].Value);
+            }).ToDictionary(x => x.Value, x => x.Item1);
+            var r2 = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(s => {
+                var m = Regex.Match(s, @"(\d+) ([^\}]+\}) (.+)");
+                return (m.Groups[2].Value, m.Groups[3].Value);
+            }).ToDictionary(x => x.Item1, x => x.Item2);
+
+            r.Where(x => x.Value > 200 || a1.ContainsKey(x.Key)).ToList().ForEach(x => { r.Remove(x.Key); });
+            r.ToList().ForEach(x => {
+                Console.WriteLine($"{x.Value.ToString("00000")} {x.Key} {r2[x.Key]}");
+            });
+
+            //r.OrderBy(x => x.Value).ToList().ForEach(x => Console.WriteLine($"{x.Value.ToString("00000")} {x.Key} {Regex.Replace(r2[x.Key], @"\[[^\d]+\] ", "")}"));
+            //a1.Keys.Where(x => !r.ContainsKey(x)).ToList().ForEach(Console.WriteLine);
+ */
 
 /*
             // Spotlight
