@@ -885,6 +885,34 @@ namespace ConApp {
             return r;
         }
 
+        static string deepseek(string s) {
+            s = s.Replace(@"\", @"\\").Replace(@"""", @"\""").Replace("\r", @"\r").Replace("\n", @"\n");
+            var url = $"https://api.deepseek.com/chat/completions";
+            var request = WebRequest.Create(url);
+            request.Method = "POST";
+            request.ContentType = "application/json";
+            s = $"{{\"model\":\"deepseek-chat\",\"messages\":[{{\"role\":\"user\",\"content\":\"{s}\"}}],\"stream\":false}}";
+            var data = Encoding.UTF8.GetBytes(s);
+            request.ContentLength = data.Length;
+            request.ContentType = "application/json";
+            request.Headers.Add("Authorization", $"Bearer {config["deepseekKey"]}");
+            using (var stream = request.GetRequestStream()) {
+                stream.Write(data, 0, data.Length);
+            }
+            var r = (string)null;
+
+            using (var response = request.GetResponse())
+            using (Stream dataStream = response.GetResponseStream()) {
+                var reader = new StreamReader(dataStream);
+                r = reader.ReadToEnd();
+            }
+
+            var obj = JObject.Parse(r);
+            r = string.Join("\n", obj.SelectToken("$.candidates[0].content.parts").Select(x => x.SelectToken(".text")));
+
+            return r;
+        }
+
         static void srtClear(string path) {
             var ss = File.ReadAllLines(path);
             var rs = new List<string>();
@@ -1694,35 +1722,39 @@ namespace ConApp {
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
-            
-            var w300 = File.ReadAllLines(@"d:\Projects\smalls\words-cross.txt").Take(320).Select(s => {
-                var m = Regex.Match(s, @"\d+ ([^\}]+\})");
-                return (m.Groups[1].Value, m.Groups[2].Value);
-            }).ToDictionary(x => x.Item1, x => 0);
-            var all = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(s => {
-                var m = Regex.Match(s, @"\d+ ([^\}]+\})");
-                return (m.Groups[1].Value, m.Groups[2].Value);
-            }).ToDictionary(x => x.Item1, x => 0);
+            /*
+            var p = "Придумай короткий отрывок диалога мальчика с матерью (2 варианта) и с подружкой (1 вариант) на английском для начального уровня A1 с использованием слов: СЛОВА. Выдели слова жирным в тексте. Без приветствий и прощаний.";
+            var ss = File.ReadAllLines(@"d:\Projects\smalls\words-cross.txt").Select(x => Regex.Replace(x, @"^\d+ ", ""))
+                .Take(140).Select((x, i) => (x, i / 7)).GroupBy(x => x.Item2)
+                .Select(g => string.Join( ", ", g.Select(x => $"{Regex.Replace(x.x, @"\{[^\}]+\}", " - ")}"))).ToList();
+
+            ss = ss.Select(s => p.Replace("СЛОВА", s)).ToList();
+            File.WriteAllLines(@"d:/ps.txt", ss);
+            */
+            var path = @"d:\Projects\smalls\words-cross.txt";
+            var ss = File.ReadAllLines(path).ToList();
+            var ts = ss.Skip(320).ToList();
+            ss = ss.Take(ss.Count - ts.Count).ToList();
+
+            var dic = ss.Select((s, i) => {
+                var v = Regex.Match(s, @"[^\}]+\}").Value;
+                return (v, $"{i.ToString("000000")} {s}");
+            }).ToDictionary(x => x.Item1, x => x.Item2);
+
+            File.ReadAllLines(@"d:/words-300-freq.txt").Select((s, i) => {
+                var m = Regex.Match(s, @"(\d+) ([^\}]+\})");
+                return ($"{m.Groups[2].Value}", int.Parse(m.Groups[1].Value));
+            }).ToList().ForEach(x => {
+                dic[x.Item1] = Regex.Replace(dic[x.Item1], @"^000", x.Item2.ToString("000"));
+            });
+
+            ss = dic.Select(x => x.Value).OrderByDescending(x => x).ToList();
+
+            ss = ss.Select(s => Regex.Replace(s, @"^\d+ ", "")).ToList();
+            File.WriteAllLines(pathEx(path, "-2"), ss.Concat(ts));
 
 
-            Func<string, string> find = s => {
-                s = s.ToLower();
-                if (w300.ContainsKey(s)) return s;
-                s = getLemmaBase(s);
-                if (!w300.ContainsKey(s)) return null;
-                return s;
-            };
-
-            var txt = File.ReadAllText(@"d:\ws.txt");
-            foreach (var k in getPos(txt).Where(x => x.pos != null)) {
-                var s = find(k.ToString());
-                if (s == null) continue;
-                w300[s]++;
-            }
-
-            w300.Where(x => x.Value >= 8).OrderByDescending(x => x.Value).ToList().ForEach(x => { Console.WriteLine($"{x.Key} {x.Value}"); });
-
-
+            return;
             /*
             var chs = new[] { "матерью", "отцом", "подругой" };
             var q = "Придумай отрывок диалога мальчика с КЕМ на английском для начального уровня A1 с использованием слов: СЛОВА. Дай 2 варианта. Выдели слова жирным в тексте. Без приветствий и прощаний.";
