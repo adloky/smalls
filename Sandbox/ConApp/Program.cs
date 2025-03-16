@@ -1404,31 +1404,19 @@ namespace ConApp {
             var rs2 = new List<string[]>();
             var pSet = new HashSet<string> { "p", "common" };
 
-            /*
-            if (path.Contains("stories.md")) {
-                var poses = posTags.Values.Distinct().ToArray();
-
-                var ss = File.ReadAllLines(path).Where(x => x.Contains("<common/>") && x.Contains(";")).ToArray();
-                var ex = string.Join("; ", ss.Take(ss.Length - 1));
-                var exs = Regex.Split(ex, @" *; *").Select(x => Regex.Matches(x, @"\*\*([^\*]+)\*\*").Cast<Match>().Select(m => m.Groups[1].Value).FirstOrDefault()).ToList();
-                exs.ForEach(x => {
-                    getLemmaForms(x, true).ToList().ForEach(k => {
-                        if (!freqGroups.ContainsKey(k))
-                            return;
-
-                        freqGroups[k] = 4;
-                    });
-                });
-            }
-            */
-
             File.ReadAllLines(path).ToList().ForEach(s => {
                 if (s.Trim() == "") return;
                 var b = enru(s);
                 var cmn = s.Contains("<common/>");
-                var sm = Tag.Clear(Markdown.ToHtml(s), pSet);
+                var sm = Tag.Clear(s, pSet);
                 if (b >= 0 || cmn) rs2.Add(new[] { sm, "" });
                 if (b <= 0 || cmn) rs2[rs2.Count - 1][1] = sm;
+            });
+
+            rs2.ForEach(x => {
+                x[0] = freqGrouping(x[0]);
+                x[0] = Tag.Clear(Markdown.ToHtml(x[0]), pSet);
+                x[1] = Tag.Clear(Markdown.ToHtml(x[1]), pSet);
             });
 
             var contents = new List<string>();
@@ -1445,7 +1433,7 @@ namespace ConApp {
 
             var rs = File.ReadAllLines(@"d:\Projects\smalls\book-en.html").ToList();
             rs.AddRange(contents);
-            rs.AddRange(rs2.Select(x => isOne || Tag.Clear(x[0]) == Tag.Clear(x[1]) ? $"<div class=\"columns1\"><div>{freqGrouping(x[0])}</div></div>" : $"<div class=\"columns2\"><div>{freqGrouping(x[0])}</div><div>{x[1]}</div></div>"));
+            rs.AddRange(rs2.Select(x => isOne || Tag.Clear(x[0]) == Tag.Clear(x[1]) ? $"<div class=\"columns1\"><div>{x[0]}</div></div>" : $"<div class=\"columns2\"><div>{x[0]}</div><div>{x[1]}</div></div>"));
             var name = Path.GetFileNameWithoutExtension(path);
             File.WriteAllLines($"d:/{name}.html", rs);
         }
@@ -1572,6 +1560,50 @@ namespace ConApp {
         #endregion
 
 
+        static string[] posAbrs = "арт гл мест нар предл прил сущ числ межд опред".Split(' ');
+        static string[] posFulls = partAbbr.Keys.ToArray();
+        static Regex posRe = new Regex(@"\{[^}]+\}", RegexOptions.Compiled);
+
+        static string getPosAbr(string s, bool needPoint = false) {
+            var s2 = handleString(s, posRe, (x,m) => {
+                x = x.Substring(1, x.Length - 2);
+                var abr = posAbrs.FirstOrDefault(p => x.StartsWith(p));
+                if (abr == null) return x;
+                if (needPoint) abr += ".";
+                return $"{{{abr}}}";
+            });
+            if (s2 != s) return s2;
+            var abr2 = posAbrs.FirstOrDefault(p => s.StartsWith(p));
+            if (abr2 == null) return s;
+            if (needPoint) abr2 += ".";
+            return abr2;
+        }
+
+        static string getPosAbrBack(string s, bool needPoint = false) {
+            var s2 = handleString(s, posRe, (x, m) => {
+                x = x.Substring(1, x.Length - 2);
+                if (x.EndsWith(".")) {
+                    x = x.Substring(0, x.Length - 1);
+                }
+
+                var abr = posFulls.FirstOrDefault(p => p.StartsWith(x));
+                if (abr == null) return x;
+                if (needPoint) abr += ".";
+                return $"{{{abr}}}";
+            });
+
+            if (s2 != s) return s2;
+
+            if (s.EndsWith(".")) {
+                s = s.Substring(0, s.Length - 1);
+            }
+
+            var abr2 = posFulls.FirstOrDefault(p => p.StartsWith(s));
+            if (abr2 == null) return s;
+            return abr2;
+        }
+
+
         static void genStories(string path, int n) {
             //var tpl = "Придумай небольшую историю на английском языке для самого базового уровня знания английского в ВИДЕ с сюжетом основанном на СЮЖЕТЕ, с использованием слов из списка, выделив их жирным в итоговом тексте: СЛОВА. Затем дай перевод истории и также выдели жирным переведенные слова из списка. И никакой служебной информации, отделив текст от перевода только '---'.";
             var tpl = "Придумай небольшой диалог на английском языке для самого базового уровня знания английского (A2), с использованием слов из списка, выделив их жирным в итоговом тексте: СЛОВА. Затем дай перевод и также выдели жирным переведенные слова из списка. И никакой служебной информации, отделив текст от перевода только '---'.";
@@ -1595,8 +1627,7 @@ namespace ConApp {
                         w[2] = m.Groups[1].Value;
                     }
                 }
-                var posAbr = posAbrs.FirstOrDefault(x => w[1].StartsWith(x));
-                posAbr = posAbr == null ? posAbr = w[1] : posAbr + ".";
+                var posAbr = getPosAbr(w[1], true);
 
                 w.Add(posAbr);
             });
@@ -1769,8 +1800,7 @@ namespace ConApp {
                 .GroupBy(x => x).Select(g => (k: g.Key, n: g.Count()))
                 .OrderByDescending(x => x.n).ToList().ForEach(x => Console.WriteLine($"{x.k} {x.n}"));
             */
-
-            return;
+            //Console.WriteLine(getPosAbrBack("{сущ}"));
 
             /*
             // 18*6
@@ -1821,7 +1851,7 @@ namespace ConApp {
             //geminiSplit(@"d:\.temp\reader-9-orig.txt");
             //geminiAdapt(@"d:\.temp\reader-9.txt");
 
-            //mdMonitor(); return;
+            mdMonitor(); return;
 
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
             //serRename(@"e:\scooby");
