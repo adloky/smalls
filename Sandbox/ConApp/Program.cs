@@ -1746,27 +1746,47 @@ namespace ConApp {
                 yield return a[i];
         }
 
+        static string dicFind(Dictionary<string, string> d, string s) {
+            s = s.ToLower();
+            if (d.ContainsKey(s)) return s;
+            s = getLemmaBase(s);
+            if (d.ContainsKey(s)) return s;
+            return null;
+        }
+
         static volatile bool ctrlC = false;
 
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
+            /*
+            var d20k = loadDic(@"d:\Projects\smalls\freq-20k.txt");
+            var d100 = loadDic(@"d:\Projects\smalls\words-100.txt");
+            var s = File.ReadAllText(@"d:\rs.txt");
+
+            getPos(s).Where(x => x.pos != null).Select(x => dicFind(d20k, x.ToString()))
+                .Where(x => x != null && !d100.ContainsKey(x))
+                .GroupBy(x => x).Select(g => (k: g.Key, n: g.Count()))
+                .OrderByDescending(x => x.n).ToList().ForEach(x => Console.WriteLine($"{x.k} {x.n}"));
+            */
+
+            return;
 
             /*
-            var p = "Придумай короткий отрывок диалога мальчика с матерью (2 варианта) и с подружкой (1 вариант) на английском для начального уровня A1 с использованием слов: СЛОВА. Выдели слова жирным в тексте. Без приветствий и прощаний.";
-            var ss = File.ReadAllLines(@"d:\Projects\smalls\words-cross.txt").Select(x => Regex.Replace(x, @"^\d+ ", ""))
-                .Take(140).Select((x, i) => (x, i / 7)).GroupBy(x => x.Item2)
-                .Select(g => string.Join( ", ", g.Select(x => $"{Regex.Replace(x.x, @"\{[^\}]+\}", " - ")}"))).ToList();
-
-            ss = ss.Select(s => p.Replace("СЛОВА", s)).ToList();
-            File.WriteAllLines(@"d:/ps.txt", ss);
-            */
             // 18*6
-
-            var path = @"d:\Projects\smalls\words-cross.txt";
+            var p = "Придумай на английском маленький отрывок из диалога для детей с начальным уровнем знания английского (A1) мальчика с мамой (2 варианта), с папой (1 вариант) и с подружкой (2 варианта), все слова должны быть в диалоге. Слова: СЛОВА.";
+            var path = @"d:\Projects\smalls\words-100.txt";
             var ss = File.ReadAllLines(path).ToList();
-            var ts = ss.Skip(110).ToList();
-            ss = ss.Take(ss.Count - ts.Count).ToList();
+            var gs = ss.Select((x, i) => (x, i / 7)).GroupBy(x => x.Item2).Select(g => g.Select(x => x.Item1).ToList()).ToList();
+            foreach (var g in gs) {
+                var q = string.Join(", ", g.Select(x => Regex.Replace(x, @"\{.*?\}", "-")));
+                q = p.Replace("СЛОВА", q);
+                Console.WriteLine(q);
+            }
+            */
+
+            //var ts = ss.Skip(108).ToList();
+            //ss = ss.Take(ss.Count - ts.Count).ToList();
 
             /*
             var dic = ss.Select((s, i) => {
@@ -1784,41 +1804,17 @@ namespace ConApp {
             ss = dic.Select(x => x.Value).OrderByDescending(x => x).ToList();
             */
 
+
+            /*
             var a = ss.Where(s => !s.Contains("#3")).ToList();
             var b = ss.Where(s => s.Contains("#3")).ToList();
 
             var at = a.Skip(50).ToList();
             a = a.Take(a.Count - at.Count).ToList();
             ss = mergeEven(a, b).Concat(at).ToList();
-
-            //ss = ss.Select(s => Regex.Replace(s, @"^\d+ ", "")).ToList();
-            File.WriteAllLines(pathEx(path, "-2"), ss.Concat(ts));
-
-
-            return;
-            /*
-            var chs = new[] { "матерью", "отцом", "подругой" };
-            var q = "Придумай отрывок диалога мальчика с КЕМ на английском для начального уровня A1 с использованием слов: СЛОВА. Дай 2 варианта. Выдели слова жирным в тексте. Без приветствий и прощаний.";
-
-            var rs = new List<string>();
-            for (var i = 0; i < 320; i += 7) {
-                var w = string.Join("; ", w300.Skip(i * 7).Take(7).Select(x => Regex.Replace($"{x.Key} - {x.Value}", @" \{[^\}]+\}", "")));
-                foreach (var ch in chs) {
-                    var q2 = q.Replace("СЛОВА", w).Replace("КЕМ", ch);
-                    var s = (string)null;
-                    do {
-                        try { s = gemini(q2); } catch { }
-                    } while (s == null);
-
-                    var ss = Regex.Split(s, @"\r?\n");
-                    rs.AddRange(ss);
-                    rs.Add("---");
-                }
-                Console.WriteLine(i);
-            }
-
-            File.WriteAllLines(@"d:/ws.txt", rs);
             */
+            //ss = ss.Select(s => Regex.Replace(s, @"^\d+ ", "")).ToList();
+            //File.WriteAllLines(pathEx(path, "-2"), ss.Concat(ts));
 
             //genStories(@"d:/dialogs.txt", 5);
 
@@ -1827,17 +1823,6 @@ namespace ConApp {
 
             //mdMonitor(); return;
 
-
-            /*
-            // |,[,/
-            foreach (var ss in srtHandle(@"d:\.temp\srt\all.srt")) {
-                foreach (var s in ss.Skip(2)) {
-                    if (s.Contains("1")) {
-                        Console.WriteLine(s);
-                    }
-                }
-            }
-            */
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
             //serRename(@"e:\scooby");
 
@@ -1881,6 +1866,44 @@ namespace ConApp {
         }
     }
 }
+
+
+/*
+            // repeat words
+            var ss = File.ReadAllLines(@"d:\Projects\smalls\words-cross.txt").Take(108).ToList();
+            List<List<string>> bs = Enumerable.Repeat(0, 20).Select(x => new List<string>()).ToList();
+            var gs = ss.Select((x, i) => (x, i / 18)).GroupBy(x => x.Item2).Select(g => g.Select(x => x.Item1).ToList()).ToList();
+
+            for (var i = 0; i < gs.Count; i++) {
+                var g = gs[i];
+                foreach (var s in g) {
+                    var n = s.Contains("#3") ? 3 : 2;
+                    for (var j = 0; j < n; j++) {
+                        bs[i + j].Add(s);
+                    }
+                }
+            }
+
+            bs = bs.Select(x => x.Random().ToList()).ToList();
+            ss = bs.SelectMany(x => x).ToList();
+            var a = ss.Where(s => !s.Contains("#s")).ToList();
+            var b = ss.Where(s => s.Contains("#s")).ToList();
+            ss = mergeEven(a, b).ToList();
+
+            File.WriteAllLines(@"d:/words-100-list.txt", ss);
+
+            // check nears
+            ss = File.ReadAllLines(@"d:/words-100-list.txt").ToList();
+            var q = new Queue<string>();
+            for (var i = 0; i < ss.Count; i++) {
+                var s = ss[i];
+                if (q.Contains(s)) {
+                    throw new Exception();
+                }
+                q.Enqueue(s);
+                if (q.Count > 7) q.Dequeue();
+            }
+*/
 
 /*
  // 300 words
