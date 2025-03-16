@@ -1765,7 +1765,7 @@ namespace ConApp {
 
             var path = @"d:\Projects\smalls\words-cross.txt";
             var ss = File.ReadAllLines(path).ToList();
-            var ts = ss.Skip(350).ToList();
+            var ts = ss.Skip(110).ToList();
             ss = ss.Take(ss.Count - ts.Count).ToList();
 
             /*
@@ -1784,12 +1784,12 @@ namespace ConApp {
             ss = dic.Select(x => x.Value).OrderByDescending(x => x).ToList();
             */
 
-            var a = ss.Where(s => !s.Contains("#s")).ToList();
-            var b = ss.Where(s => s.Contains("#s")).ToList();
+            var a = ss.Where(s => !s.Contains("#3")).ToList();
+            var b = ss.Where(s => s.Contains("#3")).ToList();
 
-            //var at = a.Skip(170).ToList();
-            //a = a.Take(a.Count - at.Count).ToList();
-            ss = mergeEven(a, b).ToList();
+            var at = a.Skip(50).ToList();
+            a = a.Take(a.Count - at.Count).ToList();
+            ss = mergeEven(a, b).Concat(at).ToList();
 
             //ss = ss.Select(s => Regex.Replace(s, @"^\d+ ", "")).ToList();
             File.WriteAllLines(pathEx(path, "-2"), ss.Concat(ts));
