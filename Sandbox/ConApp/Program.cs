@@ -1717,10 +1717,40 @@ namespace ConApp {
             }
         }
 
+        static IEnumerable<T> mergeEven<T>(IEnumerable<T> ae, IEnumerable<T> be) {
+            var a = ae.ToList();
+            var b = be.ToList();
+
+            if (a.Count < b.Count) {
+                var t = a; a = b; b = t;
+            }
+
+            if (b.Count == 0) {
+                foreach (var x in a) yield return x;
+            }
+
+            var s = (float)a.Count / b.Count;
+            var i = 0;
+            var av = 0.5;
+            var bv = s / 2;
+            foreach (var bx in b) {
+                while (av < bv) {
+                    yield return a[i++];
+                    av += 1;
+                }
+                bv += s;
+                yield return bx;
+            }
+
+            for (; i < a.Count; i++)
+                yield return a[i];
+        }
+
         static volatile bool ctrlC = false;
 
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
+
 
             /*
             var p = "Придумай короткий отрывок диалога мальчика с матерью (2 варианта) и с подружкой (1 вариант) на английском для начального уровня A1 с использованием слов: СЛОВА. Выдели слова жирным в тексте. Без приветствий и прощаний.";
@@ -1731,11 +1761,14 @@ namespace ConApp {
             ss = ss.Select(s => p.Replace("СЛОВА", s)).ToList();
             File.WriteAllLines(@"d:/ps.txt", ss);
             */
+            // 18*6
+
             var path = @"d:\Projects\smalls\words-cross.txt";
             var ss = File.ReadAllLines(path).ToList();
-            var ts = ss.Skip(320).ToList();
+            var ts = ss.Skip(350).ToList();
             ss = ss.Take(ss.Count - ts.Count).ToList();
 
+            /*
             var dic = ss.Select((s, i) => {
                 var v = Regex.Match(s, @"[^\}]+\}").Value;
                 return (v, $"{i.ToString("000000")} {s}");
@@ -1747,10 +1780,18 @@ namespace ConApp {
             }).ToList().ForEach(x => {
                 dic[x.Item1] = Regex.Replace(dic[x.Item1], @"^000", x.Item2.ToString("000"));
             });
-
+            
             ss = dic.Select(x => x.Value).OrderByDescending(x => x).ToList();
+            */
 
-            ss = ss.Select(s => Regex.Replace(s, @"^\d+ ", "")).ToList();
+            var a = ss.Where(s => !s.Contains("#s")).ToList();
+            var b = ss.Where(s => s.Contains("#s")).ToList();
+
+            //var at = a.Skip(170).ToList();
+            //a = a.Take(a.Count - at.Count).ToList();
+            ss = mergeEven(a, b).ToList();
+
+            //ss = ss.Select(s => Regex.Replace(s, @"^\d+ ", "")).ToList();
             File.WriteAllLines(pathEx(path, "-2"), ss.Concat(ts));
 
 
