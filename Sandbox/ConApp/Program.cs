@@ -319,24 +319,36 @@ namespace ConApp {
         }
 
         static Dictionary<string, int> freqGroups {
-            get => _freqGroups ?? (_freqGroups = loadFreqGroups(@"d:\Projects\smalls\freq-20k.txt", config["freqGroups"].Split(',').Select(x => int.Parse(x)).ToArray()));
+            get => _freqGroups ?? (_freqGroups = loadFreqGroups(!config.ContainsKey("freqGroupsPath") ? @"d:\Projects\smalls\freq-20k.txt" : config["freqGroupsPath"], config["freqGroups"].Split(',').Select(x => int.Parse(x)).ToArray()));
         }
 
         static Dictionary<string, int> _freqGroups;
 
+
+        static Regex dicRankRe = new Regex(@"^\d+ ", RegexOptions.Compiled);
+
         static Dictionary<string, int> loadFreqGroups(string path, int[] levels) {
             var r = new Dictionary<string, int>();
-            levels = (new[] { 0 }).Concat(levels).Reverse().ToArray();
-            var exs = new HashSet<string>(File.ReadAllLines(@"d:\Projects\smalls\freq-20k-excepts.txt"));
-            File.ReadAllLines(path).Reverse().ToList().ForEach(x => {
+            levels = (new[] { 0 }).Concat(levels).ToArray();
+            var exsPath = pathEx(path, "-excepts");
+            var exs = new HashSet<string>(File.ReadAllLines(exsPath));
+            File.ReadAllLines(path).Where(x => x.Contains(" {")).Select((x,i) => (x: x, i: i+1)).Reverse().ToList().ForEach(xi => {
+                var x = xi.x;
+                var i = xi.i;
+                var rm = dicRankRe.Match(x);
+                if (rm.Success) {
+                    x = x.Substring(rm.Value.Length);
+                    i = int.Parse(rm.Value.Trim());
+                }
+                if (i > levels.Last()) return;
                 if (x.Contains("{междометие}")) return;
-                var xs = x.Split(' ');
-                var n = int.Parse(xs[0]);
-                var w = xs[1].ToLower();
+
+
+                var w = x.Split(new[] { " {" }, ssop)[0].ToLower();
                 if (exs.Contains(w)) return;
 
-                var g = 0;
-                while (n < levels[g]) g++;
+                var g = levels.Length-1;
+                while (i <= levels[g]) g--;
                 getLemmaForms(w, true).ToList().ForEach(f => {
                     if (f.Length == 1) return;
                     r[f] = g;
@@ -346,13 +358,13 @@ namespace ConApp {
         }
 
         static Regex freqGoupRe = new Regex(@"[a-z]+", RegexOptions.IgnoreCase | RegexOptions.Compiled);
-        static string[][] freqGroupColors = new[] { new [] { "#ff9999", "#99cbff", "#99ff99", "#ffbc8c" }, new[] { "#ff9999", "#0079ff", "#00b200", "#cc5400" } };
+        static string[][] freqGroupColors = new[] { new [] { "#ffbc8c", "#99ff99", "#99cbff", "#b399ff" }, new[] { "#cc5400", "#00b200", "#0079ff", "#8000ff" } };
         static string freqGrouping(string s, bool white = false) {
             if (Tag.Parse(s).Length > 0) return s;
             var cs = freqGroupColors[white ? 0 : 1];
             s = handleString(s, freqGoupRe, (x, m) => {
                 freqGroups.TryGetValue(x.ToLower(), out var g);
-                return g == cs.Length || g == 0 ? x : $"<font color=\"{cs[g]}\">{x}</font>";
+                return g == cs.Length || g == 0 ? x : $"<font color=\"{cs[g-1]}\">{x}</font>";
             });
             return s;
         }
@@ -741,7 +753,7 @@ namespace ConApp {
         static Dictionary<string, string> loadDic(string path) {
             var dic = new Dictionary<string, string>();
             var nRe = new Regex(@"^\d+ ", RegexOptions.Compiled);
-            File.ReadAllLines(path).Select(x => {
+            File.ReadAllLines(path).Where(x => x.Contains(" {")).Select(x => {
                 x = nRe.Replace(x, "");
                 var xsp = x.Split('}');
                 var k = xsp[0] + "}";
@@ -1400,7 +1412,11 @@ namespace ConApp {
 
         static Regex hRe = new Regex(@"h\d", RegexOptions.Compiled | RegexOptions.IgnoreCase);
 
-        static void mdHandle(string path) {
+        static void mdHandle(string path, Func<IEnumerable<string>,IEnumerable<string>> post = null) {
+            if (post == null) {
+                post = mdPost;
+            }
+
             var rs2 = new List<string[]>();
             var pSet = new HashSet<string> { "p", "common" };
 
@@ -1413,8 +1429,12 @@ namespace ConApp {
                 if (b <= 0 || cmn) rs2[rs2.Count - 1][1] = sm;
             });
 
+            var ps = post(rs2.Select(x => x[0])).ToList();
+            for (var i = 0; i < ps.Count; i++) {
+                rs2[i][0] = ps[i];
+            }
+
             rs2.ForEach(x => {
-                x[0] = freqGrouping(x[0]);
                 x[0] = Tag.Clear(Markdown.ToHtml(x[0]), pSet);
                 x[1] = Tag.Clear(Markdown.ToHtml(x[1]), pSet);
             });
@@ -1433,7 +1453,8 @@ namespace ConApp {
 
             var rs = File.ReadAllLines(@"d:\Projects\smalls\book-en.html").ToList();
             rs.AddRange(contents);
-            rs.AddRange(rs2.Select(x => isOne || Tag.Clear(x[0]) == Tag.Clear(x[1]) ? $"<div class=\"columns1\"><div>{x[0]}</div></div>" : $"<div class=\"columns2\"><div>{x[0]}</div><div>{x[1]}</div></div>"));
+            rs.AddRange(rs2.Select(x => isOne || Tag.Clear(x[0]) == Tag.Clear(x[1]) ? new [] { x[0] } : x)
+                .Select(x => $"<div class=\"columns{x.Length}\">{string.Join("", x.Select(y => $"<div>{y}</div>"))}</div>"));
             var name = Path.GetFileNameWithoutExtension(path);
             File.WriteAllLines($"d:/{name}.html", rs);
         }
@@ -1441,7 +1462,41 @@ namespace ConApp {
         private static Queue<CancellationTokenSource> delayCtsQue = new Queue<CancellationTokenSource>();
         private static Task lastChangeTask = Task.Run(() => { });
 
-        private static void mdMonitor() {
+        static IEnumerable<string> mdPost(IEnumerable<string> ss) {
+            foreach (var s in ss) {
+                yield return freqGrouping(s);
+            }
+        }
+
+        static IEnumerable<string> mdPostCom(IEnumerable<string> xs) {
+            var wRe = new Regex(@"[a-zA-Z<]+", RegexOptions.Compiled);
+            var ss = xs.ToList();
+            var wi = -1;
+            for (var i = 0; i < ss.Count; i++) {
+                var s = ss[i];
+                if (s.StartsWith("WORDS: ")) {
+                    s = handleString(s, wRe, (x,m) => {
+                        if (x == "WORDS" || x.StartsWith("<")) return x;
+                        return $"**{x}**";
+                    });
+                    wi = i;
+                }
+                else if (wi >= 0) {
+                    wRe.Matches(s).Cast<Match>().Select(m => m.Value).ToList().ForEach(x => {
+                        x = x.ToLower();
+                        var xfs = new[] { x, getLemmaBase(x) };
+                        foreach (var xf in xfs) {
+                            ss[wi] = ss[wi].Replace($"**{xf}**", xf);
+                        }
+                    });
+                }
+                ss[i] = s;
+            }
+            return ss.Select(x => freqGrouping(x));
+        }
+        
+
+        private static void mdMonitor(Func<IEnumerable<string>,IEnumerable<string>> post = null) {
             using (var watcher = new FileSystemWatcher(@"d:/Projects/smalls", "*.md"))
             using (var watcher2 = new FileSystemWatcher(@"d:/Projects/private", "*.md"))
             {
@@ -1464,7 +1519,7 @@ namespace ConApp {
                         await Task.Delay(1000, delayCts.Token);
                         if (delayCts.IsCancellationRequested) return;
 
-                        mdHandle(e.FullPath);
+                        mdHandle(e.FullPath, post);
                         Console.WriteLine(e.FullPath);
                     });
                 };
@@ -1481,12 +1536,15 @@ namespace ConApp {
 
         #region gemini adapt
 
+        static Regex adaptKeepRe = new Regex(@"^((Chapter|#+) [^\r\n]+|_)\r?\n", RegexOptions.IgnoreCase | RegexOptions.Compiled);
+
         static void geminiSplit(string path) {
             var ss = File.ReadAllLines(path);
             var sz = 0;
             var rs = new List<string>();
             var rs1 = new List<string>();
             var rs2 = new List<string>();
+            var hRe = new Regex(@"^#+ ");
 
             var gt4k  = ss.Where(s => s.Length > 4000).ToList();
             gt4k.ForEach(s => {
@@ -1495,7 +1553,7 @@ namespace ConApp {
             if (gt4k.Count > 0) return;
 
             foreach (var s in ss) {
-                if (s.ToLower().StartsWith("chapter ") || s == "***") {
+                if (adaptKeepRe.IsMatch($"{s}\n")) {
                     rs.AddRange(rs1);
                     rs.AddRange(rs2);
                     if (rs1.Count > 0 || rs2.Count > 0) rs.Add("---");
@@ -1538,9 +1596,10 @@ namespace ConApp {
                 //var r = "Замени низкочастотные слова на высокочастотные синонимы B2-уровня знания английского и верни только результат:\r\n" + s;
                 //var r = "Замени редкоупотребляемые слова на частоупотребляемые синонимы B2-уровня знания английского, а также адаптируй текст для B1-уровня и верни только результат:\r\n" + s;
 
+                var pre = adaptKeepRe.Matches(s).Cast<Match>().Select(m => m.Value).FirstOrDefault() ?? "";
                 var r = "";
                 r = "Адаптируй текст для понимания на B1-уровне знания английского, а также ";
-                r += "замени, по возможности, слова за пределами B2-уровня знания английского на частоупотребляемые синонимы, верни только результат:\r\n" + s;
+                r += "замени, по возможности, слова за пределами B2-уровня знания английского на частоупотребляемые синонимы, верни только результат:\r\n" + s.Substring(pre.Length);
 
                 var s2 = (string)null;
                 do {
@@ -1553,26 +1612,28 @@ namespace ConApp {
                     }
                  } while (s2 == null);
                 Console.WriteLine(i++);
-                File.AppendAllText(pathRu, Regex.Replace(s2 + "\r\n---", @"(\r?\n)+", "\r\n") + "\r\n");
+                File.AppendAllText(pathRu, Regex.Replace(pre + s2 + "\r\n---", @"(\r?\n)+", "\r\n") + "\r\n");
             }
         }
 
         #endregion
 
 
-        static string[] posAbrs = "арт гл мест нар предл прил сущ числ межд опред".Split(' ');
+        static string[] posAbrs = "арт гл мест нар пред прил сущ числ межд опр".Split(' ');
         static string[] posFulls = partAbbr.Keys.ToArray();
         static Regex posRe = new Regex(@"\{[^}]+\}", RegexOptions.Compiled);
 
         static string getPosAbr(string s, bool needPoint = false) {
-            var s2 = handleString(s, posRe, (x,m) => {
+            var isWorked = false;
+            s = handleString(s, posRe, (x,m) => {
                 x = x.Substring(1, x.Length - 2);
                 var abr = posAbrs.FirstOrDefault(p => x.StartsWith(p));
                 if (abr == null) return x;
                 if (needPoint) abr += ".";
+                isWorked = true;
                 return $"{{{abr}}}";
             });
-            if (s2 != s) return s2;
+            if (isWorked) return s;
             var abr2 = posAbrs.FirstOrDefault(p => s.StartsWith(p));
             if (abr2 == null) return s;
             if (needPoint) abr2 += ".";
@@ -1848,10 +1909,10 @@ namespace ConApp {
 
             //genStories(@"d:/dialogs.txt", 5);
 
-            //geminiSplit(@"d:\.temp\reader-9-orig.txt");
-            //geminiAdapt(@"d:\.temp\reader-9.txt");
+            //geminiSplit(@"d:\.temp\reader-16-orig.txt");
+            //geminiAdapt(@"d:\.temp\reader-17.txt");
 
-            mdMonitor(); return;
+            mdMonitor(); return; // mdPostCom
 
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
             //serRename(@"e:\scooby");
