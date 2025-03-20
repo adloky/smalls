@@ -1,5 +1,7 @@
 <style>
   textarea { width: 600pt; height: 100pt; }
+  textarea.half { width: 300pt; }
+  div.col2 { width: 50%; display: inline-block; }
 </style>
 <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
 <script src="lemmas.js"></script>
@@ -7,7 +9,8 @@
 <textarea class="out-box"></textarea><br/>
 <button class="in-btn">input</button><br/>
 
-<textarea class="body-box" style="height: 200pt;"></textarea><br/>
+<textarea class="body-box half" style="height: 200pt;"></textarea>
+<textarea class="body-box-ru half" style="height: 200pt;"></textarea><br/>
 <textarea class="r-box"></textarea><br/>
 <button class="com-btn">combine</button>
 <button class="back-btn">back</button>
@@ -65,23 +68,17 @@
     }
     
     $(".com-btn").click(function() {
-        var ss = $(".body-box").val().split(/\r?\n/).filter(x => x !== "");
-        var en = [];
-        var ru = [];
-        ss.forEach((s,i) => {
-            s = s.trim();
-            if (enru(s) >= 0) {
-                en.push(s);
-            };
-            if (enru(s) <= 0) {
-                ru.push(s);
-            };
-        });
-        
-        rs = [];
+        var en = $(".body-box").val().split(/\r?\n/).filter(x => x.trim() !== "");
+        var ru = $(".body-box-ru").val().split(/\r?\n/).filter(x => x.trim() !== "");
+        while (en.length > ru.length) {
+            ru.push("");
+        }
+        var rs =[];
         for (var i = 0; i < en.length; i++) {
             rs.push(en[i]);
-            rs.push(ru[i]);
+            if (enru(en[i]) != 0) {
+                rs.push(ru[i]);
+            }
         }
 
         var log = "";
