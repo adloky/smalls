@@ -329,7 +329,6 @@ namespace ConApp {
 
         static Dictionary<string, int> loadFreqGroups(string path, int[] levels) {
             var r = new Dictionary<string, int>();
-            levels = (new[] { 0 }).Concat(levels).ToArray();
             var exsPath = pathEx(path, "-excepts");
             var exs = new HashSet<string>(File.ReadAllLines(exsPath));
             File.ReadAllLines(path).Where(x => x.Contains(" {")).Select((x,i) => (x: x, i: i+1)).Reverse().ToList().ForEach(xi => {
@@ -343,15 +342,21 @@ namespace ConApp {
                 if (i > levels.Last()) return;
                 if (x.Contains("{междометие}")) return;
 
-
                 var w = x.Split(new[] { " {" }, ssop)[0].ToLower();
                 if (exs.Contains(w)) return;
 
-                var g = levels.Length-1;
-                while (i <= levels[g]) g--;
+                var g = 0;
+                while (i > levels[g]) {
+                    g++;
+                }
                 getLemmaForms(w, true).ToList().ForEach(f => {
                     if (f.Length == 1) return;
-                    r[f] = g;
+                    if (g == 0) {
+                        r.Remove(f);
+                    }
+                    else {
+                        r[f] = g - 1;
+                    }
                 });
             });
             return r;
@@ -363,8 +368,10 @@ namespace ConApp {
             if (Tag.Parse(s).Length > 0) return s;
             var cs = freqGroupColors[white ? 0 : 1];
             s = handleString(s, freqGoupRe, (x, m) => {
-                freqGroups.TryGetValue(x.ToLower(), out var g);
-                return g == cs.Length || g == 0 ? x : $"<font color=\"{cs[g-1]}\">{x}</font>";
+                if (freqGroups.TryGetValue(x.ToLower(), out var g)) {
+                    return $"<font color=\"{cs[g]}\">{x}</font>";
+                }
+                return x;
             });
             return s;
         }
