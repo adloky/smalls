@@ -878,13 +878,14 @@ namespace ConApp {
             }
         }
 
-        static string gemini(string s) {
+        static string gemini(string s, byte[] img = null) {
             s = s.Replace(@"\", @"\\").Replace(@"""", @"\""").Replace("\r", @"\r").Replace("\n", @"\n");
-            var url = $"https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key={config["geminiKey"]}";
+            var url = $"https://generativelanguage.googleapis.com/v1/models/gemini-2.0-flash:generateContent?key={config["geminiKey"]}";
             var request = WebRequest.Create(url);
             request.Method = "POST";
             request.ContentType = "application/json";
-            s = $"{{\"contents\":[{{\"parts\":[{{\"text\":\"{s}\"}}]}}]}}";
+            var base64 = img == null ? "" : $",{{\"inline_data\":{{\"mime_type\":\"image/jpeg\",\"data\":\"{Convert.ToBase64String(img)}\"}}}}";
+            s = $"{{\"contents\":[{{\"parts\":[{{\"text\":\"{s}\"}}{base64}]}}]}}";
             var data = Encoding.UTF8.GetBytes(s);
             request.ContentLength = data.Length;
             using (var stream = request.GetRequestStream()) {
@@ -1203,14 +1204,26 @@ namespace ConApp {
         public static void comicOcrPost(string path, int fsize, int indent) {
             if (path.Last() != '/' && path.Last() != '\\') path += "/";
             var rs = new List<string>();
-            var n = 0;
-            foreach (var p in Directory.GetFiles(path, "*.json").OrderBy(p => p)) {
-                n++;
-                rs.Add("* * * * " + Path.GetFileNameWithoutExtension(p) + " (" + n + ")");
-                var or = JsonConvert.DeserializeObject<OcrRootObject>(File.ReadAllText(p));
-                var rects = or.GetRects().ToArray();
-                var r = OcrRect.Group(rects, or.Width, fsize, indent);
-                rs.AddRange(r.Select(x => string.Join(" ", x.Select(y => y.Text))));
+            var i = 0;
+            var ns = Directory.GetFiles(path, "*.*").Where(x => x.EndsWith(".jpg") || x.EndsWith(".jpeg")).Select(x => Path.GetFileNameWithoutExtension(x)).OrderBy(p => p).ToArray();
+            var brRe = new Regex(@"[\.!?]+[""']|[\.!?]+");
+            foreach (var n in ns) {
+                i++;
+                rs.Add("* * * * " + n + " (" + i + ")");
+                var ps = (new[] { $"{path}{n}.txt", $"{path}{n}.json" }).Where(x => File.Exists(x)).ToArray();
+                foreach (var p in ps) {
+                    if (p.EndsWith(".txt")) {
+                        var s = string.Join(" ", File.ReadAllLines(p));
+                        var ss = handleString(s, brRe, (x,m) => $"{x}\n").Split('\n').Select(x => x.Trim()).Where(x => x != "").ToArray();
+                        rs.AddRange(ss);
+                    }
+                    else if (p.EndsWith(".json")) {
+                        var or = JsonConvert.DeserializeObject<OcrRootObject>(File.ReadAllText(p));
+                        var rects = or.GetRects().ToArray();
+                        var r = OcrRect.Group(rects, or.Width, fsize, indent);
+                        rs.AddRange(r.Select(x => string.Join(" ", x.Select(y => y.Text))));
+                    }
+                }
             }
             File.WriteAllLines(path + "en.txt", rs);
         }
@@ -1674,11 +1687,11 @@ namespace ConApp {
 
         static void genStories(string path, int n) {
             //var tpl = "Придумай небольшую историю на английском языке для самого базового уровня знания английского в ВИДЕ с сюжетом основанном на СЮЖЕТЕ, с использованием слов из списка, выделив их жирным в итоговом тексте: СЛОВА. Затем дай перевод истории и также выдели жирным переведенные слова из списка. И никакой служебной информации, отделив текст от перевода только '---'.";
-            var tpl = "Придумай небольшой диалог на английском языке для самого базового уровня знания английского (A2), с использованием слов из списка, выделив их жирным в итоговом тексте: СЛОВА. Затем дай перевод и также выдели жирным переведенные слова из списка. И никакой служебной информации, отделив текст от перевода только '---'.";
+            // var tpl = "Придумай небольшой диалог на английском языке для самого элементарного уровня знания английского (A2), с использованием слов из списка, выделив их жирным в итоговом тексте: СЛОВА. Затем дай перевод и также выдели жирным переведенные слова из списка. И никакой служебной информации, отделив текст от перевода только '---'.";
+            var tpl = "Придумай максимально короткую историю на английском языке для самого элементарного уровня знания английского (A2), с использованием слов из списка, выделив их жирным в итоговом тексте: СЛОВА. Затем дай перевод и также выдели жирным переведенные слова из списка. Верни только результат, отделив текст от перевода '---'.";
             var styles = new string[] { "стиле космической фантастики", "стиле научной фантастики", "стиле фэнтези", "виде трагедии", "виде деловой драмы", "виде деловой драмы" };
             var plots = new string[] { "спасении", "мести", "преследовании", "бедствии", "исчезновении", "жертве", "мятеже", "похищении", "загадке", "достижении", "ненависти", "соперничестве", "адюльтере", "безумии", "убийстве", "самопожертвовании", "честолюбии", "открытии", "выживании", "испытании", "дружбе", "находке" };
 
-            var posAbrs = "арт гл мест нар предл прил сущ числ межд опред".Split(' ');
             var xs = File.ReadAllLines(path);
             var ws = xs.Select(x => Regex.Split(x, @" *[\[\]\{\}] *").ToList()).ToList();
             var dic = loadDic(@"d:\Projects\smalls\freq-20k.txt");
@@ -1853,11 +1866,36 @@ namespace ConApp {
             return null;
         }
 
+        static void geminiComicOcr(string path) {
+            if (path.Last() != '/' && path.Last() != '\\') path += "/";
+            var rs = new List<string>();
+            var ps = Directory.GetFiles(path, "*.*").Where(x => x.EndsWith(".jpg") || x.EndsWith(".jpeg")).OrderBy(p => p).ToArray();
+            foreach (var p in ps) {
+                var name = Path.GetFileNameWithoutExtension(p);
+                var txtPath = $"{path}{name}.txt";
+                if (File.Exists(txtPath)) {
+                    continue;
+                }
+                var data = File.ReadAllBytes(p);
+                var r = (string)null;
+                while (r == null) {
+                    try {
+                        r = gemini("Recognize text from image. Return only result text.", data); // 
+                    }
+                    catch (Exception e) {
+                        Console.WriteLine(e.Message);
+                        Thread.Sleep(5000);
+                    }
+                }
+                File.WriteAllText(txtPath, Regex.Replace(r, @"(\r?\n)+", "\r\n"));
+                Console.WriteLine(name);
+            }
+        }
+
         static volatile bool ctrlC = false;
 
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
-
             /*
             var d20k = loadDic(@"d:\Projects\smalls\freq-20k.txt");
             var d100 = loadDic(@"d:\Projects\smalls\words-100.txt");
@@ -1914,12 +1952,12 @@ namespace ConApp {
             //ss = ss.Select(s => Regex.Replace(s, @"^\d+ ", "")).ToList();
             //File.WriteAllLines(pathEx(path, "-2"), ss.Concat(ts));
 
-            //genStories(@"d:/dialogs.txt", 5);
+            genStories(@"d:/stories.txt", 5);
 
             //geminiSplit(@"d:\.temp\reader-16-orig.txt");
             //geminiAdapt(@"d:\.temp\reader-17.txt");
 
-            mdMonitor(); return; // mdPostCom
+            //mdMonitor(); return; // mdPostCom
 
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
             //serRename(@"e:\scooby");
@@ -1953,10 +1991,12 @@ namespace ConApp {
             srtCombile($"d:/.temp/srt/{name}[eng]-clear-tip.srt", $"d:/.temp/srt/{name}[eng].srt");
             */
 
+            //geminiComicOcr(@"d:\.temp\comics-ocr\");
             //comicOcr(@"d:\.temp\comics-ocr\");
             //comicOcrPost(@"d:\.temp\comics-ocr\", 10, 3); // 20,5 archie
             //fixOcr(@"d:\.temp\comics-ocr\en.txt");
             //deeplSplit(@"d:\.temp\comics-ocr\en.txt");
+
             //comicComplete(@"d:\.temp\comics-ocr\");
 
             Console.WriteLine("Press ENTER");
