@@ -2,1255 +2,495 @@
 
 ## #1<common/>
 
-**companion** [кэмпЭнйэн] *сущ.* компаньон; **glance** [глЭнс] *сущ.* взгляд; **popularity** [пАпйэлЕрэти] *сущ.* популярность; **humanity** [хйумЭныти] *сущ.* человечество; **commonly** [кАмэнли] *нар.* обычно; **pop** [пАп] *сущ.* хлопок; **addition** [эдЫшэн] *сущ.* дополнение; **nail** [нЕйл] *сущ.* ноготь; **wider** [-] *прил.* широкий; **herb** [Эрб] *сущ.* трава; **continuous** [кэнтЫнйуэс] *прил.* непрерывный<common/>
+**leap** [лИп] *гл.* скакать; **advocate** [Эдвэкэт] *гл.* поддерживать; **peaceful** [пИсфэл] *прил.* спокойный; **commonly** [кАмэнли] *нар.* обычно; **pad** [пЭд] *сущ.* панель; **currency** [кЭрэнси] *сущ.* валюта; **domain** [дoумЕйн] *сущ.* область; **driving** [дрАйвын] *прил.* приводной; **sidewalk** [сАйдуОк] *сущ.* тротуар; **particle** [пАртэкэл] *сущ.* частица; **administer** [эдмЫнэстэр] *гл.* управлять<common/>
 
-A:  Wow, this is a **wider** chair! My new **companion**, Bob, likes it.
+A small dog **leaps** on the **sidewalk**. It is **peaceful** here. People **commonly** walk. My friend **advocates** for clean streets. He wants to **administer** this **domain** well. He uses a special **pad** to collect every **particle** of trash. He says cleaning is a **driving** force. He does not need special **currency** for it.
 
-A: Вау, это **более широкий** стул! Моему новому **компаньону**, Бобу, он нравится.
-
-B:  He's very **popular**, isn't he?  I just saw him fixing his **nail**.  There was a little **pop**.
-
-B: Он очень **популярен**, не так ли? Я только что видел, как он чинил себе **ноготь**. Раздался небольшой **хлопок**.
-
-A:  Yes!  He's great **addition** to our group. He **commonly** helps with the garden. He grows many **herbs**.
-
-A: Да! Он прекрасное **дополнение** к нашей группе. Он **обычно** помогает с садом. Он выращивает много **трав**.
-
-B:  The **continuous** work is quite tiring, but the garden looks beautiful. One **glance** is enough to see that.  It's great for all of **humanity**.
-
-B: **Непрерывная** работа довольно утомительна, но сад выглядит красиво. Одного **взгляда** достаточно, чтобы это увидеть. Это здорово для всего **человечества**.
+Маленькая собака **скачет** по **тротуару**. Здесь **спокойно**. Люди **обычно** ходят. Мой друг **поддерживает** чистоту улиц. Он хочет хорошо **управлять** этой **областью**. Он использует специальную **панель**, чтобы собрать каждую **частицу** мусора. Он говорит, что уборка - это **приводная** сила. Ему не нужна специальная **валюта** для этого.
 
 ## #2<common/>
 
-**hallway** [хОлуЕй] *сущ.* прихожая; **diminish** [дымЫныш] *гл.* уменьшать; **departure** [дыпАрчэр] *сущ.* отъезд; **drift** [дрЫфт] *гл.* дрейфовать; **endorse** [ендОрс] *гл.* одобрять; **colony** [кАлэни] *сущ.* колония; **intent** [ЫнтЕнт] *сущ.* намерение; **leap** [лИп] *гл.* скакать; **convey** [кэнвЕй] *гл.* передавать; **shuttle** [шАтэл] *сущ.* перевозки; **peaceful** [пИсфэл] *прил.* спокойный<common/>
+**acquisition** [ЭкуэзЫшэн] *сущ.* приобретение; **horrible** [хОрэбэл] *прил.* ужасный; **adoption** [эдАпшэн] *сущ.* принятие; **nail** [нЕйл] *сущ.* ноготь; **continuing** [кэнтЫнйуын] *прил.* постоянный; **aim** [Ейм] *сущ.* цель; **bite** [бАйт] *сущ.* укус; **supervisor** [сУпэрвАйзэр] *сущ.* руководитель; **drunk** [дрАнк] *прил.* пьяный; **diminish** [дымЫныш] *гл.* уменьшать; **envelope** [ЕнвэлOуп] *сущ.* конверт<common/>
 
-A:  It's a **peaceful** evening. My **departure** is tomorrow. I'll miss this **colony**.
+The **acquisition** of a dog was her **aim**. But the dog was **horrible**! His **bite** was bad. He liked to **bite** the **supervisor**'s **nail**. The **continuing** problem made her sad. Her boss was **drunk** one day. He said, "This **adoption** is a mistake! Your happiness will **diminish**." He put a note in an **envelope**. It said: "Give the dog away!"
 
-А: Это **спокойный** вечер. Мой **отъезд** завтра. Я буду скучать по этой **колонии**.
-
-B:  I **endorse** that!  Your **intent** to leave is sad.  Don't let the sadness **diminish** your memories.
-
-B: Я **одобряю** это! Твоё **намерение** уехать печалит. Не позволяй грусти **уменьшать** твои воспоминания.
-
-A:  I'll take the **shuttle** from the airport.  I don't want to **leap** into a taxi in the city.
-
-A: Я поеду на **перевозках** из аэропорта. Я не хочу **прыгать** в такси в городе.
-
-B:  Good idea. See you in the **hallway** before you leave! I will **convey** my best wishes to you. I also hope your ship won't **drift** off course during your journey.
-
-B: Хорошая идея. Увидимся в **прихожей**, прежде чем ты уедешь! Я **передам** тебе свои наилучшие пожелания. Я также надеюсь, что твой корабль не будет **дрейфовать** с курса во время вашего путешествия.
+**Приобретение** собаки было её **целью**. Но собака была **ужасной**! Его **укус** был плохим. Он любил **кусать** **ноготь** **руководителя**. **Постоянная** проблема делала её грустной. Её босс был **пьян** однажды. Он сказал: "Это **принятие** - ошибка! Твоё счастье будет **уменьшаться**." Он положил записку в **конверт**. Там было написано: "Отдай собаку!"
 
 ## #3<common/>
 
-**facilitate** [фэсЫлэтЕйт] *гл.* способствовать; **govern** [гАвэрн] *гл.* править; **administer** [эдмЫнэстэр] *гл.* управлять; **skirt** [скЭрт] *сущ.* юбка; **sidewalk** [сАйдуОк] *сущ.* тротуар; **supervisor** [сУпэрвАйзэр] *сущ.* руководитель; **transaction** [трэнзЭкшэн] *сущ.* сделка; **aim** [Ейм] *сущ.* цель; **currency** [кЭрэнси] *сущ.* валюта; **structural** [стрАкчэрэл] *прил.* структурный<common/>
+**diagnosis** [дАйэгнOусэс] *сущ.* диагноз; **ownership** [OунэршЫп] *сущ.* собственность; **continuous** [кэнтЫнйуэс] *прил.* непрерывный; **excuse** [ыкскйУс] *сущ.* оправдание; **adolescent** [ЭдэлЕсэнт] *сущ.* подросток; **warm** [уОрм] *гл.* нагревать; **addition** [эдЫшэн] *сущ.* дополнение; **residence** [рЕзыдэнс] *сущ.* проживание; **counterpart** [кАунтэрпАрт] *сущ.* коллега; **pension** [пЕншэн] *сущ.* пенсия<common/>
 
-A:  I want to buy this **skirt**.  The **transaction** will be easy, right?
+The doctor gave a bad **diagnosis**. The **adolescent** felt sad. His only **excuse** was: "I'm young!" He lived in his parent's **residence**. He did not think about his future **pension**. His **counterpart** at school worked hard. Work was a **continuous** worry for him. His only **addition** to happiness was his dog. He loved to **warm** the dog on cold days. He knew one day, he must take **ownership** of his life.
 
-А: Я хочу купить эту **юбку**.  **Сделка** будет простой, правда?
-
-B: Yes, we **administer** all payments quickly.  Our **aim** is to **facilitate** a smooth process for our customers.
-
-Б: Да, мы быстро **управляем** всеми платежами. Наша **цель** — **способствовать** плавному процессу для наших клиентов.
-
-A:  Good. What **currency** do you accept?
-
-А: Хорошо. Какую **валюту** вы принимаете?
-
-B:  We accept dollars.  Our **supervisor** will **govern** the whole procedure. We are on the **sidewalk**, right next to the **structural** pillar.
-
-Б: Мы принимаем доллары. Наш **руководитель** будет **править** всей процедурой. Мы находимся на **тротуаре**, прямо рядом со **структурной** колонной.
+Доктор поставил плохой **диагноз**. **Подросток** почувствовал себя грустно. Его единственным **оправданием** было: "Я молод!". Он жил в **проживании** у своих родителей. Он не думал о своей будущей **пенсии**. Его **коллега** в школе усердно работал. Работа была **непрерывным** беспокойством для него. Его единственным **дополнением** к счастью была его собака. Он любил **нагревать** собаку в холодные дни. Он знал, что однажды должен взять **собственность** над своей жизнью.
 
 ## #4<common/>
 
-**envelope** [ЕнвэлOуп] *сущ.* конверт; **unity** [йУнэти] *сущ.* единство; **forehead** [фОрхед] *сущ.* лоб; **lobby** [лАби] *сущ.* вестибюль; **diagnosis** [дАйэгнOусэс] *сущ.* диагноз; **colonel** [кЭрнэл] *сущ.* полковник; **spectrum** [спЕктрэм] *сущ.* спектр; **suite** [суИт] *сущ.* номер-люкс; **pope** [пOуп] *сущ.* папа римский; **readily** [рЕдэли] *нар.* охотно<common/>
+**accommodate** [экАмэдЕйт] *гл.* вмещать; **cholesterol** [кэлЕстэрОл] *сущ.* холестерин; **counseling** [кАунсэлын] *сущ.* консультация; **serving** [сЭрвын] *сущ.* служение; **virtual** [вЭрчуэл] *прил.* действительный; **readily** [рЕдэли] *нар.* охотно; **wider** [-] *прил.* широкий; **separation** [сЕпэрЕйшэн] *сущ.* отделение; **fitness** [фЫтнэс] *сущ.* хорошее здоровье; **herb** [Эрб] *сущ.* трава<common/>
 
-A:  I put the **diagnosis** in the **envelope** and left it in the hotel **lobby**.
+My family is **wider** now! We need a bigger house to **accommodate** us. My grandpa eats a lot, but he has high **cholesterol**. He goes to **counseling**. He wants good **fitness**, so he eats less meat. He uses a special **herb** in his salad. It is his **serving** of healthy food. He watches **virtual** tours of parks **readily**. He likes the **separation** from the city.
 
-А: Я положил **диагноз** в **конверт** и оставил его в гостиничном **вестибюле**.
-
-B:  Oh, the **pope**'s  **suite** is in the lobby? Wow!
-
-Б: О, а **люкс** **папы римского** в вестибюле? Ничего себе!
-
-A:  No, no! I mean the hotel **lobby**.  The doctor gave the **diagnosis**  **readily**.
-
-А: Нет, нет! Я имею в виду гостиничный **вестибюль**. Врач дал **диагноз** **охотно**.
-
-B:  I see.  And he put it in an **envelope**?  We need **unity** to fight this, for sure.  He hit his **forehead** when he heard it. What a **spectrum** of emotions, poor **colonel**!
-
-Б: Понятно. И он положил его в **конверт**? Нам нужно **единство**, чтобы бороться с этим, конечно. Он ударился **лбом**, когда услышал это. Какой **спектр** эмоций, бедный **полковник**!
+Моя семья теперь **шире**! Нам нужен дом побольше, чтобы нас **вместить**. Мой дедушка много ест, но у него высокий **холестерин**. Он ходит на **консультации**. Он хочет хорошее **здоровье** (быть в хорошей форме), поэтому он ест меньше мяса. Он использует особую **траву** в своем салате. Это его **порция** (служение) здоровой пищи. Он смотрит **виртуальные** туры по паркам **охотно**. Ему нравится **отделение** от города.
 
 ## #5<common/>
 
-**hence** [хЕнс] *нар.* отсюда; **fiscal** [фЫскэл] *прил.* фискальный; **counseling** [кАунсэлын] *сущ.* консультация; **donor** [дOунэр] *сущ.* даритель; **particle** [пАртэкэл] *сущ.* частица; **warm** [уОрм] *гл.* нагревать; **await** [эуЕйт] *гл.* ждать; **needle** [нИдэл] *сущ.* игла; **advocate** [Эдвэкэт] *гл.* поддерживать; **profound** [прoуфАунд] *прил.* глубокий<common/>
+**notice** [нOутэс] *сущ.* уведомление; **patient** [пЕйшэнт] *прил.* терпеливый; **bias** [бАйэс] *сущ.* предвзятость; **colonel** [кЭрнэл] *сущ.* полковник; **gentle** [джЕнтэл] *прил.* нежный; **frame** [фрЕйм] *гл.* обрамлять; **facilitate** [фэсЫлэтЕйт] *гл.* способствовать; **stuff** [стАф] *гл.* набивать; **await** [эуЕйт] *гл.* ждать; **fiscal** [фЫскэл] *прил.* фискальный<common/>
 
-A: I need some **counseling**. My **fiscal** year is ending, and I’m short of money.  I'm a small **donor** to a charity, but I can't give more this year.
+The **colonel** is a **patient** man. He sees a **notice**. It says: "No **bias** allowed!". He wants to **facilitate** good work. He has a **gentle** dog. He likes to **frame** photos of his dog. He doesn't like to **stuff** his pockets with **fiscal** documents. He will **await** the news.
 
-А: Мне нужна **консультация**. Мой **фискальный** год заканчивается, и у меня не хватает денег. Я — мелкий **даритель** благотворительной организации, но я не могу дать больше в этом году.
-
-B: I understand.  It can be a **profound** problem.  We should **warm** up the **particle** accelerator. **Hence**, we will **await** the results of the experiment.  Then perhaps we can find a way. I **advocate** careful planning in these situations. Be sure you have a sterile **needle** when you give yourself an injection.
-
-В: Я понимаю. Это может быть **глубокая** проблема.  Мы должны **нагреть** ускоритель **частиц**.  **Отсюда**, мы будем **ждать** результатов эксперимента. Тогда, возможно, мы сможем найти выход. Я **поддерживаю** тщательное планирование в подобных ситуациях. Убедитесь, что у вас есть стерильная **игла**, когда вы делаете себе укол.
+**Полковник** – **терпеливый** человек. Он видит **уведомление**. Там написано: "Никакой **предвзятости** не допускается!". Он хочет **способствовать** хорошей работе. У него **нежная** собака. Ему нравится **обрамлять** фотографии своей собаки. Он не любит **набивать** свои карманы **фискальными** документами. Он будет **ждать** новостей.
 
 ## #6<common/>
 
-**volunteer** [вАлэнтЫр] *гл.* предлагать; **harm** [хАрм] *сущ.* вред; **guidance** [гАйдэнс] *сущ.* руководство; **uncertainty** [энсЭртэнти] *сущ.* неопределенность; **acquisition** [ЭкуэзЫшэн] *сущ.* приобретение; **recession** [рысЕшэн] *сущ.* спад; **adolescent** [ЭдэлЕсэнт] *сущ.* подросток; **consistently** [кэнсЫстэнтли] *нар.* постоянно; **injure** [Ынджэр] *гл.* ранить; **outer** [Аутэр] *прил.* внешний<common/>
+**hallway** [хОлуЕй] *сущ.* прихожая; **hook** [хУк] *сущ.* крюк; **complexity** [кэмплЕксэти] *сущ.* сложность; **recession** [рысЕшэн] *сущ.* спад; **compromise** [кАмпрэмАйз] *сущ.* компромисс; **delicate** [дЕлэкэт] *прил.* нежный; **uncertainty** [энсЭртэнти] *сущ.* неопределенность; **guidance** [гАйдэнс] *сущ.* руководство; **transaction** [трэнзЭкшэн] *сущ.* сделка; **harm** [хАрм] *сущ.* вред<common/>
 
-A: I **volunteer** to help with the project.  It's important, and I don't want to see any **harm** come from the **uncertainty**.
+The **hallway** is small. A coat is on a **hook**. There is no **complexity** here. It is not the time of **recession**. We need a **compromise**. The flower is **delicate**. There is **uncertainty** about the day. We need **guidance**. This is a good **transaction**. Do not cause **harm**.
 
-А: Я **предлагаю** помочь с проектом. Это важно, и я не хочу, чтобы от **неопределенности** произошел какой-либо **вред**.
-
-B: That's great! We need all the help we can get.  The economic **recession** is causing a lot of problems, especially for **adolescents**. We could use your **guidance** in the **acquisition** of new resources.
-
-В: Отлично! Нам нужна вся помощь, которую мы можем получить. **Спад** в экономике создает множество проблем, особенно для **подростков**. Нам может пригодиться твое **руководство** в **приобретении** новых ресурсов.
-
-A: Will I **injure** myself doing any of the **outer** work?  I want to help **consistently**, but I don't want to get hurt.
-
-А: Я **рани́ться** во время какой-нибудь работы на **внешней** территории? Я хочу помогать **постоянно**, но не хочу получить травму.
-
-B: No, the work is safe.  We'll make sure you have all the necessary tools and **guidance**.
-
-В: Нет, работа безопасна. Мы позаботимся о том, чтобы у тебя были все необходимые инструменты и **руководство**.
+**Прихожая** маленькая. Пальто висит на **крюке**. Здесь нет **сложности**. Это не время **спада**. Нам нужен **компромисс**. Цветок **нежный**. Есть **неопределенность** насчет дня. Нам нужно **руководство**. Это хорошая **сделка**. Не причиняй **вред**.
 
 ## #7<common/>
 
-**parliament** [пАрлэмэнт] *сущ.* парламент; **driving** [дрАйвын] *прил.* приводной; **mandate** [мЭндЕйт] *сущ.* наказ; **bite** [бАйт] *сущ.* укус; **tune** [тУн] *гл.* настраивать; **intelligent** [ЫнтЕлэджэнт] *прил.* умный; **continuing** [кэнтЫнйуын] *прил.* постоянный; **consult** [кэнсАлт] *гл.* консультировать; **engagement** [енгЕйджмэнт] *сущ.* договоренность; **average** [Эвэрыдж] *гл.* усреднять<common/>
+**blow** [блOу] *сущ.* удар; **radiation** [рЕйдиЕйшэн] *сущ.* излучение; **companion** [кэмпЭнйэн] *сущ.* компаньон; **strip** [стрЫп] *гл.* раздеваться; **guilt** [гЫлт] *сущ.* вина; **drift** [дрЫфт] *гл.* дрейфовать; **colony** [кАлэни] *сущ.* колония; **outer** [Аутэр] *прил.* внешний; **array** [эрЕй] *сущ.* множество; **popularity** [пАпйэлЕрэти] *сущ.* популярность<common/>
 
-A:  The **parliament** needs to act!  This **continuing** problem with the **driving** wheels is affecting everyone.
+The **outer** space **colony** was quiet. Suddenly, a **blow** shook the ship. Everyone felt a strange **radiation**. Mark felt **guilt**; he knew something was wrong. He and his **companion**, Alex, saw a ship **drift**. They decided to **strip** off their heavy suits. An **array** of stars was beautiful, but Alex said, "This isn't about **popularity**!" They had to help.
 
-А:  **Парламент** должен действовать! Эта **постоянная** проблема с **приводными** колесами влияет на всех.
-
-B: I agree. We need to **consult** with experts.  They have a clear **mandate** to help us.
-
-Б: Согласен. Нам нужно **проконсультироваться** со специалистами. У них есть четкий **наказ** помочь нам.
-
-A:  And did you get that dog **bite** looked at?
-
-А: А ты посмотрел на тот собачий **укус**?
-
-B: Yes, I did.  I’ll need to **tune** my guitar later; it's out of tune. We should also **average** the results before presenting them to the **parliament**.  An **intelligent** approach is key to finding a successful **engagement**.
-
-Б: Да, посмотрел. Мне нужно будет позже **настроить** свою гитару; она расстроена. Нам также следует **усреднить** результаты, прежде чем представлять их **парламенту**.  **Умный** подход – ключ к успешной **договоренности**.
+В **внешней** космической **колонии** было тихо. Вдруг, **удар** потряс корабль. Все почувствовали странное **излучение**. Марк почувствовал **вину**; он знал, что что-то не так. Он и его **компаньон**, Алекс, увидели, как корабль **дрейфует**. Они решили **раздеться**, сняв свои тяжелые скафандры. **Множество** звезд было красивым, но Алекс сказал: "Дело не в **популярности**!" Они должны были помочь.
 
 ## #8<common/>
 
-**pad** [пЭд] *сущ.* панель; **pleasant** [плЕзэнт] *прил.* приятный; **hostage** [хАстыдж] *сущ.* заложник; **serving** [сЭрвын] *сущ.* служение; **dose** [дOус] *сущ.* доза; **domain** [дoумЕйн] *сущ.* область; **chronic** [крАнык] *прил.* хронический; **excuse** [ыкскйУс] *сущ.* оправдание; **project** [прАджект] *гл.* проецировать; **strip** [стрЫп] *гл.* раздеваться<common/>
+**suite** [суИт] *сущ.* номер-люкс; **dose** [дOус] *сущ.* доза; **tune** [тУн] *гл.* настраивать; **structural** [стрАкчэрэл] *прил.* структурный; **injure** [Ынджэр] *гл.* ранить; **pop** [пАп] *сущ.* хлопок; **shuttle** [шАтэл] *сущ.* перевозки; **consistently** [кэнсЫстэнтли] *нар.* постоянно; **needle** [нИдэл] *сущ.* игла; **chronic** [крАнык] *прил.* хронический<common/>
 
-A:  The **pad** is very **pleasant** to write on.  I'm working on a **project** for my history class. It's about the **domain** of ancient Rome.
+The cat has a **chronic** problem. The vet wants to help. He checks the cat's **structural** health. He uses a **needle**, but tries not to **injure** the cat. He gives a small **dose** of medicine. The cat doesn't like it. Then, the vet tries to **tune** the radio. There's a loud **pop**! The cat jumps. The vet says, "We need to improve **shuttle** service to the vet!" The vet needs to work **consistently** to help animals. He dreams of a big **suite** for all the animals.
 
-А: **Панель** очень **приятная** для письма. Я работаю над **проектом** для моего урока истории. Он посвящен **области** Древнего Рима.
-
-B: Oh, that sounds interesting. I hope you don't become a **hostage** to your work!  Taking a break is a good **dose** of self-care.
-
-В: О, это звучит интересно. Надеюсь, ты не станешь **заложником** своей работы!  Перерыв – это хорошая **доза** заботы о себе.
-
-A:  You're right.  Sometimes, I need a better **excuse** for my **chronic** procrastination.  Perhaps I should just **strip** down and relax!  My **serving** the people is hard work!
-
-А: Ты права. Иногда мне нужно лучшее **оправдание** моей **хронической** прокрастинации. Возможно, мне просто нужно **раздеться** и расслабиться! Мое **служение** людям – тяжелая работа!
+У кота **хроническая** проблема. Ветеринар хочет помочь. Он проверяет **структурное** здоровье кота. Он использует **иглу**, но старается не **ранить** кота. Он дает маленькую **дозу** лекарства. Коту это не нравится. Потом, ветеринар пытается **настроить** радио. Раздается громкий **хлопок**! Кот подпрыгивает. Ветеринар говорит: "Нам нужно улучшить **перевозки** в ветеринарную клинику!". Ветеринару нужно работать **постоянно**, чтобы помогать животным. Он мечтает о большом **номере-люкс** для всех животных.
 
 ## #9<common/>
 
-**hook** [хУк] *сущ.* крюк; **fitness** [фЫтнэс] *сущ.* хорошее здоровье; **encounter** [ынкАунтэр] *сущ.* встреча; **adoption** [эдАпшэн] *сущ.* принятие; **stuff** [стАф] *гл.* набивать; **separation** [сЕпэрЕйшэн] *сущ.* отделение; **delicate** [дЕлэкэт] *прил.* нежный; **meaningful** [мИнынфэл] *прил.* значительный; **drunk** [дрАнк] *прил.* пьяный; **ownership** [OунэршЫп] *сущ.* собственность<common/>
+**meaningful** [мИнынфэл] *прил.* значительный; **skirt** [скЭрт] *сущ.* юбка; **trigger** [трЫгэр] *гл.* запускать; **endorse** [ендОрс] *гл.* одобрять; **questionnaire** [куЕсчэнЕр] *сущ.* вопросник; **pleasant** [плЕзэнт] *прил.* приятный; **convey** [кэнвЕй] *гл.* передавать; **globe** [глOуб] *сущ.* глобус; **survey** [сэрвЕй] *гл.* обследовать; **humanity** [хйумЭныти] *сущ.* человечество<common/>
 
-A: I had a **meaningful** **encounter** today.  I saw a **delicate** little kitten.
+The day was **pleasant**. I saw a girl in a blue **skirt**. Her smile was **meaningful**. She had a **globe**. I want to **convey** a message to **humanity**. I need people to **endorse** my idea. Let's **survey** the **globe** and ask everyone. We can use a **questionnaire**. This will **trigger** change!
 
-А: У меня сегодня была **значительная** **встреча**. Я увидел маленького **нежного** котёнка.
-
-B: Really?  Where?
-
-B: Правда? Где?
-
-A: At the animal shelter. They're looking for **adoption**.
-
-A: В приюте для животных. Они ищут ему **принятие**.
-
-A:  I almost took it home, but my apartment is so small; I couldn't **stuff** all my **stuff** in there.
-
-A: Я чуть не забрал его домой, но моя квартира такая маленькая; я не смог бы **набить** туда все свои вещи.
-
-B:  Ah, yes,  **ownership** is a big responsibility. And sometimes **separation** is sadly necessary for the **fitness** of the animal and the owner.  Did you see the big rusty fishing **hook** in the garage?
-
-B: А, да, **собственность** – это большая ответственность. И иногда **отделение**, к сожалению, необходимо для **здоровья** животного и владельца. Ты видел большой ржавый рыболовный **крюк** в гараже?
-
-B: Oh, I remember that old **hook**!  It was my grandfather’s.
-
-B: О, я помню этот старый **крюк**! Он принадлежал моему дедушке.
-
-A: He must have been a **drunk** old man.
-
-A: Он, должно быть, был **пьяным** стариком.
+День был **приятный**. Я увидел девочку в синей **юбке**. Её улыбка была **значительной**. У неё был **глобус**. Я хочу **передать** сообщение **человечеству**. Мне нужно, чтобы люди **одобряли** мою идею. Давайте **обследуем** **глобус** и спросим каждого. Мы можем использовать **вопросник**. Это **запустит** перемены!
 
 ## #10<common/>
 
-**array** [эрЕй] *сущ.* множество; **survey** [сэрвЕй] *гл.* обследовать; **notice** [нOутэс] *сущ.* уведомление; **questionnaire** [куЕсчэнЕр] *сущ.* вопросник; **virtual** [вЭрчуэл] *прил.* действительный; **residence** [рЕзыдэнс] *сущ.* проживание; **globe** [глOуб] *сущ.* глобус; **debate** [дэбЕйт] *гл.* обсуждать; **accommodate** [экАмэдЕйт] *гл.* вмещать; **gentle** [джЕнтэл] *прил.* нежный<common/>
+**govern** [гАвэрн] *гл.* править; **departure** [дыпАрчэр] *сущ.* отъезд; **spectrum** [спЕктрэм] *сущ.* спектр; **scout** [скАут] *сущ.* разведчик; **unity** [йУнэти] *сущ.* единство; **intent** [ЫнтЕнт] *сущ.* намерение; **encounter** [ынкАунтэр] *сущ.* встреча; **average** [Эвэрыдж] *гл.* усреднять; **profound** [прoуфАунд] *прил.* глубокий; **engagement** [енгЕйджмэнт] *сущ.* договоренность<common/>
 
-A:  Look at this **globe**! It shows the whole world.  We **surveyed** a large **array** of people for our project.
+The king **governs**. A **scout** sees a problem. His **intent** is good. He wants **unity**. The **departure** of people is near. He has an **encounter**. It shows the full **spectrum** of colors. We **average** the data. This is a **profound** idea! We have an **engagement**.
 
-А: Посмотри на этот **глобус**! Он показывает весь мир. Мы **обследовали** большое **множество** людей для нашего проекта.
-
-B:  Wow!  Did you use a **questionnaire**?
-
-Б: Вау! Вы использовали **вопросник**?
-
-A: Yes, a long one!  We needed to **accommodate** all our questions.  Everyone received a **notice** about the **virtual** **residence** halls.
-
-А: Да, длинный! Нам нужно было **вместить** все наши вопросы. Каждый получил **уведомление** о **действительных** общежитиях.
-
-B: That's a lot of work! We **debated** about the best way to design the survey. It should have **gentle** questions.
-
-Б: Это много работы! Мы **обсуждали**, как лучше всего разработать опрос. В нем должны быть **нежные** вопросы.
+Король **правит** (governs). **Разведчик** (scout) видит проблему. Его **намерение** (intent) хорошее. Он хочет **единства** (unity). **Отъезд** (departure) людей близок. У него **встреча** (encounter). Она показывает полный **спектр** (spectrum) цветов. Мы **усредняем** (average) данные. Это **глубокая** (profound) идея! У нас **договоренность** (engagement).
 
 ## #11<common/>
 
-**frame** [фрЕйм] *гл.* обрамлять; **blow** [блOу] *сущ.* удар; **trigger** [трЫгэр] *гл.* запускать; **patient** [пЕйшэнт] *прил.* терпеливый; **guilt** [гЫлт] *сущ.* вина; **counterpart** [кАунтэрпАрт] *сущ.* коллега; **pension** [пЕншэн] *сущ.* пенсия; **compromise** [кАмпрэмАйз] *сущ.* компромисс; **rip** [рЫп] *гл.* рвать; **exhibit** [ыгзЫбыт] *сущ.* экспонат<common/>
+**civilian** [сэвЫлйэн] *сущ.* штатский; **intelligent** [ЫнтЕлэджэнт] *прил.* умный; **exhibit** [ыгзЫбыт] *сущ.* экспонат; **hostage** [хАстыдж] *сущ.* заложник; **glance** [глЭнс] *сущ.* взгляд; **mandate** [мЭндЕйт] *сущ.* наказ; **consult** [кэнсАлт] *гл.* консультировать; **pope** [пOуп] *сущ.* папа римский; **rip** [рЫп] *гл.* рвать; **debate** [дэбЕйт] *гл.* обсуждать<common/>
 
-A:  My **counterpart** is so **patient**. He helped me **frame** the picture for the **exhibit**.
+A **civilian** saw a strange **exhibit**. He gave it a quick **glance**. An **intelligent** man, he knew something was wrong. A **hostage** was inside! He had a **mandate** to help. He needed to **consult** the **Pope**! But a bad guy tried to **rip** the exhibit apart. They had to **debate** what to do.
 
-А: Мой **коллега** такой **терпеливый**. Он помог мне **обрамить** картину для **экспоната**.
-
-B: That's good!  I had a bad day. I accidentally **ripped** my favorite shirt.  It was a real **blow**!
-
-В: Это хорошо! У меня был плохой день. Я случайно **разорвал** свою любимую рубашку. Это был настоящий **удар**!
-
-A: Oh no!  Maybe a small **compromise** – a new shirt? It could **trigger** a good feeling. 
-
-А: О нет! Может быть, небольшой **компромисс** – новая рубашка? Это могло бы **запустить** хорошее чувство.
-
-B: Maybe.  But I feel so much **guilt** for being so clumsy. I need my **pension** more than a new shirt.
-
-В: Может быть. Но я чувствую такую **вину** за свою неуклюжесть. Мне моя **пенсия** нужнее, чем новая рубашка.
+**Штатский** увидел странный **экспонат**. Он бросил на него быстрый **взгляд**. **Умный** мужчина, он знал, что что-то не так. Внутри был **заложник**! У него был **наказ** помочь. Ему нужно было **консультировать** **Папу Римского**! Но плохой парень попытался **рвать** экспонат на части. Они должны были **обсуждать**, что делать.
 
 ## #12<common/>
 
-**rhetoric** [рЕтэрык] *сущ.* риторика; **scout** [скАут] *сущ.* разведчик; **horrible** [хОрэбэл] *прил.* ужасный; **cholesterol** [кэлЕстэрОл] *сущ.* холестерин; **recipient** [рэсЫпиэнт] *сущ.* получатель; **bias** [бАйэс] *сущ.* предвзятость; **civilian** [сэвЫлйэн] *сущ.* штатский; **radiation** [рЕйдиЕйшэн] *сущ.* излучение; **juror** [джУрэр] *сущ.* член жюри; **complexity** [кэмплЕксэти] *сущ.* сложность<common/>
+**forehead** [фОрхед] *сущ.* лоб; **volunteer** [вАлэнтЫр] *гл.* предлагать; **juror** [джУрэр] *сущ.* член жюри; **lobby** [лАби] *сущ.* вестибюль; **parliament** [пАрлэмэнт] *сущ.* парламент; **rhetoric** [рЕтэрык] *сущ.* риторика; **donor** [дOунэр] *сущ.* даритель; **hence** [хЕнс] *нар.* отсюда; **recipient** [рэсЫпиэнт] *сущ.* получатель; **project** [прАджект] *гл.* проецировать<common/>
 
-A:  The **complexity** of this case is **horrible**!  I'm a **juror**, and I don't understand it.
+The **donor** gave money. The **recipient** was happy. He wanted to **volunteer** for a big **project**. He walked in the **lobby** of the **parliament**. A **juror** looked at his big **forehead**. He started his speech, but his **rhetoric** was bad. **Hence**, nobody liked it. The projector did not **project** the images.
 
-А: **Сложность** этого дела **ужасна**! Я **член жюри**, и я ничего не понимаю.
-
-B: I know.  The lawyer's **rhetoric** was confusing.  There was so much **bias** in his speech.
-
-Б: Знаю. **Риторика** адвоката была запутанной. В его речи было так много **предвзятости**.
-
-A:  And the **recipient** of all that bad information? The poor **civilian**!  The report mentioned harmful **radiation**.
-
-А: И **получатель** всей этой плохой информации? Бедный **гражданский**! В отчете упоминалось вредное **излучение**.
-
-B: It’s scary.  Even the **scout** who investigated said it was dangerous, and he is concerned about his **cholesterol** levels because of the stress.
-
-Б: Это страшно. Даже **разведчик**, который проводил расследование, сказал, что это опасно, и он обеспокоен уровнем своего **холестерина** из-за стресса.
+**Даритель** дал деньги. **Получатель** был счастлив. Он хотел **предлагать** свою помощь для большого **проекта**. Он вошел в **вестибюль** **парламента**. **Член жюри** посмотрел на его большой **лоб**. Он начал свою речь, но его **риторика** была плохой. **Отсюда**, никому она не понравилась. Проектор не **проецировать** изображения.
 
 ## #13<common/>
 
-**currency** [кЭрэнси] *сущ.* валюта; **harm** [хАрм] *сущ.* вред; **meaningful** [мИнынфэл] *прил.* значительный; **guilt** [гЫлт] *сущ.* вина; **encounter** [ынкАунтэр] *сущ.* встреча; **recession** [рысЕшэн] *сущ.* спад; **endorse** [ендОрс] *гл.* одобрять; **aim** [Ейм] *сущ.* цель; **notice** [нOутэс] *сущ.* уведомление; **counterpart** [кАунтэрпАрт] *сущ.* коллега; **survey** [сэрвЕй] *гл.* обследовать<common/>
+**trigger** [трЫгэр] *гл.* запускать; **globe** [глOуб] *сущ.* глобус; **diagnosis** [дАйэгнOусэс] *сущ.* диагноз; **virtual** [вЭрчуэл] *прил.* действительный; **colonel** [кЭрнэл] *сущ.* полковник; **tune** [тУн] *гл.* настраивать; **delicate** [дЕлэкэт] *прил.* нежный; **complexity** [кэмплЕксэти] *сущ.* сложность; **engagement** [енгЕйджмэнт] *сущ.* договоренность; **warm** [уОрм] *гл.* нагревать; **diminish** [дымЫныш] *гл.* уменьшать<common/>
 
-A: I received a **notice** about the **recession**.  It's **meaningful** news.
+The **colonel** had a **delicate** problem. His **virtual** world didn't work! He tried to **tune** the **globe**, but it didn't **trigger** anything. The **diagnosis** was bad: too much **complexity**! His **engagement** was tomorrow. He needed to **warm** the system. He hoped the problem would **diminish** soon.
 
-А: Я получил **уведомление** о **спаде**. Это **значительная** новость.
-
-B: Yes, the change in **currency** could **harm** many businesses.  Did you **survey** the situation?
-
-Б: Да, изменение **валюты** может **нанести вред** многим предприятиям. Ты **обследовал** ситуацию?
-
-A:  I did.  I met my **counterpart** from another company. It was an interesting **encounter**. We didn't **endorse** each other's plans, but we had a shared **aim**: to limit the damage. I feel some **guilt** about not being more prepared.
-
-А: Да. Я встретился со своим **коллегой** из другой компании. Это была интересная **встреча**. Мы не **одобряли** планы друг друга, но у нас была общая **цель**: ограничить ущерб. Я испытываю некоторую **вину** за то, что не был лучше подготовлен.
+У **полковника** была **нежная** проблема. Его **виртуальный** мир не работал! Он попытался **настроить** **глобус**, но это ничего не **запускало**. **Диагноз** был плохим: слишком много **сложности**! Его **договоренность** была завтра. Ему нужно было **нагреть** систему. Он надеялся, что проблема скоро **уменьшится**.
 
 ## #14<common/>
 
-**pleasant** [плЕзэнт] *прил.* приятный; **leap** [лИп] *гл.* скакать; **project** [прАджект] *гл.* проецировать; **peaceful** [пИсфэл] *прил.* спокойный; **colonel** [кЭрнэл] *сущ.* полковник; **debate** [дэбЕйт] *гл.* обсуждать; **forehead** [фОрхед] *сущ.* лоб; **sidewalk** [сАйдуОк] *сущ.* тротуар; **serving** [сЭрвын] *сущ.* служение; **addition** [эдЫшэн] *сущ.* дополнение; **fitness** [фЫтнэс] *сущ.* хорошее здоровье<common/>
+**donor** [дOунэр] *сущ.* даритель; **juror** [джУрэр] *сущ.* член жюри; **recession** [рысЕшэн] *сущ.* спад; **pop** [пАп] *сущ.* хлопок; **particle** [пАртэкэл] *сущ.* частица; **harm** [хАрм] *сущ.* вред; **exhibit** [ыгзЫбыт] *сущ.* экспонат; **mandate** [мЭндЕйт] *сущ.* наказ; **continuing** [кэнтЫнйуын] *прил.* постоянный; **supervisor** [сУпэрвАйзэр] *сущ.* руководитель; **popularity** [пАпйэлЕрэти] *сущ.* популярность<common/>
 
-A:  It's a **pleasant** day, isn't it?  I’m going for a walk.
+The **recession** was bad. A rich **donor** gave money. It helped. The **supervisor** was happy. He said, "No **harm**!"
 
-А: Это **приятный** день, не правда ли? Я иду на прогулку.
+**Спад** был плохим. Богатый **даритель** дал деньги. Это помогло. **Руководитель** был рад. Он сказал: "Никакого **вреда**!"
 
-B: Yes, it is! The weather is so **peaceful**.  I saw a frog **leap** across the **sidewalk** this morning.
+The art **exhibit** opened. The **juror** looked closely. A small **particle** fell. **Pop!** It was exciting! The artist had a **mandate**: make art **continuing**. His **popularity** grew.
 
-В: Да, это так! Погода такая **спокойная**. Сегодня утром я видел, как лягушка **прыгнула** через **тротуар**.
-
-A:  Really? That's cute! I'm going to **project** a movie on the wall tonight. It's an **addition** to my **fitness** plan, relaxing after a long day.
-
-А: Правда? Это мило! Сегодня вечером я буду **проецировать** фильм на стену. Это **дополнение** к моему плану поддержания **хорошего здоровья**, расслабляющий вечер после долгого дня.
-
-B:  Oh, interesting!  My uncle is a **colonel**.  We often **debate** politics; it’s a good way to spend time with him.  I have a huge headache; I can feel it on my **forehead**.
-
-В: О, интересно! Мой дядя – **полковник**. Мы часто **обсуждаем** политику; это хороший способ провести время с ним. У меня сильная головная боль; я чувствую её на **лбу**.
-
-A: Maybe the walk will help you feel better! That helps my **serving** of daily happiness.
-
-А: Возможно, прогулка поможет тебе почувствовать себя лучше! Это помогает моей **доле** ежедневного счастья.
+Открылась художественная **экспозиция**. **Член жюри** смотрел внимательно. Маленькая **частица** упала. **Хлопок!** Это было волнующе! У художника был **наказ**: делать искусство **постоянным**. Его **популярность** росла.
 
 ## #15<common/>
 
-**horrible** [хОрэбэл] *прил.* ужасный; **pension** [пЕншэн] *сущ.* пенсия; **profound** [прoуфАунд] *прил.* глубокий; **questionnaire** [куЕсчэнЕр] *сущ.* вопросник; **tune** [тУн] *гл.* настраивать; **juror** [джУрэр] *сущ.* член жюри; **rhetoric** [рЕтэрык] *сущ.* риторика; **continuing** [кэнтЫнйуын] *прил.* постоянный; **pope** [пOуп] *сущ.* папа римский; **guidance** [гАйдэнс] *сущ.* руководство<common/>
+**hallway** [хОлуЕй] *сущ.* прихожая; **drift** [дрЫфт] *гл.* дрейфовать; **meaningful** [мИнынфэл] *прил.* значительный; **rip** [рЫп] *гл.* рвать; **counterpart** [кАунтэрпАрт] *сущ.* коллега; **glance** [глЭнс] *сущ.* взгляд; **rhetoric** [рЕтэрык] *сущ.* риторика; **chronic** [крАнык] *прил.* хронический; **facilitate** [фэсЫлэтЕйт] *гл.* способствовать; **convey** [кэнвЕй] *гл.* передавать<common/>
 
-A:  This **questionnaire** is **horrible**!  It's so long!
+A cat is in the **hallway**. It likes to **drift** to sleep. The cat's life is not **meaningful**, but it's okay. A child wants to **rip** the cat's tail. The cat's **counterpart**, a dog, barks. The child gives a quick **glance**. No **rhetoric**, just a stare. The dog has a **chronic** cough. We need to **facilitate** a meeting with the vet. Actions **convey** more than words.
 
-A: Этот **вопросник** **ужасный**! Он такой длинный!
-
-B: I know. And the questions are so **profound**! I need some **guidance**.
-
-B: Я знаю. И вопросы такие **глубокие**! Мне нужно какое-то **руководство**.
-
-A:  My **pension** isn't enough to pay for this **continuing** education.
-
-A: Моей **пенсии** не хватает, чтобы оплатить это **постоянное** образование.
-
-B:  Maybe we can **tune** out the noise and focus.  I heard the **Pope** gave some amazing speeches. His **rhetoric** was powerful.
-
-B: Может, мы сможем **настроить**  (отвлечься от) шума и сосредоточиться. Я слышал, что **Папа Римский** произнес замечательные речи. Его **риторика** была сильной.
-
-A: I hope I don't have to be a **juror** and read another one of these!
-
-A: Надеюсь, мне не придется быть **членом жюри** и читать еще один из таких!
+Кошка в **прихожей**. Ей нравится **дрейфовать** в сон. Жизнь кошки не **значительная**, но это нормально. Ребенок хочет **рвать** кошачий хвост. **Коллега** кошки, собака, лает. Ребенок бросает быстрый **взгляд**. Никакой **риторики**, только пристальный взгляд. У собаки **хронический** кашель. Нам нужно **способствовать** встрече с ветеринаром. Действия **передают** больше, чем слова.
 
 ## #16<common/>
 
-**structural** [стрАкчэрэл] *прил.* структурный; **chronic** [крАнык] *прил.* хронический; **suite** [суИт] *сущ.* номер-люкс; **envelope** [ЕнвэлOуп] *сущ.* конверт; **drunk** [дрАнк] *прил.* пьяный; **globe** [глOуб] *сущ.* глобус; **facilitate** [фэсЫлэтЕйт] *гл.* способствовать; **virtual** [вЭрчуэл] *прил.* действительный; **strip** [стрЫп] *гл.* раздеваться; **spectrum** [спЕктрэм] *сущ.* спектр<common/>
+**radiation** [рЕйдиЕйшэн] *сущ.* излучение; **recipient** [рэсЫпиэнт] *сущ.* получатель; **uncertainty** [энсЭртэнти] *сущ.* неопределенность; **residence** [рЕзыдэнс] *сущ.* проживание; **intelligent** [ЫнтЕлэджэнт] *прил.* умный; **excuse** [ыкскйУс] *сущ.* оправдание; **peaceful** [пИсфэл] *прил.* спокойный; **nail** [нЕйл] *сущ.* ноготь; **skirt** [скЭрт] *сущ.* юбка; **forehead** [фОрхед] *сущ.* лоб<common/>
 
-A:  I saw a **drunk** man near the hotel. He had a big **envelope** in his hand.
+Tom is **intelligent**. He lives in a small **residence**. He has a **peaceful** life. But today, there is **uncertainty**. There is news about **radiation**. Tom is a **recipient** of a letter. The letter is his **excuse** to leave. He looks at his **nail**. He touches his **forehead**. He sees a girl in a blue **skirt**. He says goodbye.
 
-A: Я видел **пьяного** мужчину около отеля. У него был большой **конверт** в руке.
-
-B:  Really? What was in the **envelope**?  Maybe a map of the **globe**?
-
-B: Правда? Что было в **конверте**? Может, карта **глобуса**?
-
-A: No, I think it was just a brochure. The hotel has a fantastic **suite**. A **virtual** paradise!
-
-A: Нет, я думаю, это был просто буклет. В отеле есть фантастический **номер-люкс**. **Действительный** рай!
-
-B: A **suite**? Wow!  They **facilitate** all sorts of activities there, I heard.
-
-B: **Номер-люкс**? Вау! Я слышал, что там **способствуют** проведению всевозможных мероприятий.
-
-A: Yes, it's amazing. But I heard the building has some **structural** problems.  There's a whole **spectrum** of issues.  Some **chronic** ones, too.
-
-A: Да, это потрясающе. Но я слышал, что у здания есть некоторые **структурные** проблемы. Существует целый **спектр** проблем. Некоторые **хронические**, тоже.
-
-B:  Oh dear!  I hope they'll fix the **structural** problems quickly.  One wouldn't want to find themselves in a collapsing luxury **suite**!  Did you see him **strip** down to his underwear near the hotel?
-
-B: О, ужас! Надеюсь, они быстро исправят **структурные** проблемы. Никто не хотел бы оказаться в рушащемся роскошном **номере-люксе**! Ты видел, как он **разделся** до нижнего белья около отеля?
-
-A: No!  He just walked away.
-
-A: Нет! Он просто ушел.
+Том **умный**. Он живет в небольшом **месте проживания**. У него **спокойная** жизнь. Но сегодня, есть **неопределенность**. Есть новости об **излучении**. Том - **получатель** письма. Письмо - это его **оправдание** уехать. Он смотрит на свой **ноготь**. Он трогает свой **лоб**. Он видит девочку в синей **юбке**. Он говорит до свидания.
 
 ## #17<common/>
 
-**hence** [хЕнс] *нар.* отсюда; **herb** [Эрб] *сущ.* трава; **trigger** [трЫгэр] *гл.* запускать; **fiscal** [фЫскэл] *прил.* фискальный; **bias** [бАйэс] *сущ.* предвзятость; **consult** [кэнсАлт] *гл.* консультировать; **uncertainty** [энсЭртэнти] *сущ.* неопределенность; **particle** [пАртэкэл] *сущ.* частица; **intelligent** [ЫнтЕлэджэнт] *прил.* умный; **departure** [дыпАрчэр] *сущ.* отъезд<common/>
+**fiscal** [фЫскэл] *прил.* фискальный; **cholesterol** [кэлЕстэрОл] *сущ.* холестерин; **addition** [эдЫшэн] *сущ.* дополнение; **suite** [суИт] *сущ.* номер-люкс; **shuttle** [шАтэл] *сущ.* перевозки; **currency** [кЭрэнси] *сущ.* валюта; **blow** [блOу] *сущ.* удар; **hook** [хУк] *сущ.* крюк; **questionnaire** [куЕсчэнЕр] *сущ.* вопросник; **gentle** [джЕнтэл] *прил.* нежный<common/>
 
-A:  I need to **consult** a doctor because of the **uncertainty** about my health.  The new **fiscal** year is starting, **hence** I'm busy.
+A man, Tom, had a bad day. First, the **fiscal** report was wrong! Big **blow**! Second, doctor said: "Too much **cholesterol**!" Tom needs a new diet. He travels. He takes a **shuttle** to a fancy hotel. He gets a **suite**. "Nice!" he thinks. Then, he sees a long **questionnaire** about his health. Another **blow**! He wants to pay, but his **currency** is not accepted. Big **blow** again! He looks sad. A **gentle** woman gives him a **hook** to hang his coat. Small **addition**, but nice.
 
-A: Мне нужно **проконсультироваться** с врачом из-за **неопределенности** в отношении моего здоровья. Начинается новый **фискальный** год, **отсюда** моя занятость.
-
-B: I understand.  Did you **trigger** an allergy with that **herb** tea?  Even a small **particle** can do that.
-
-B: Я понимаю. Ты **запустил** аллергию этим чаем из **трав**? Даже маленькая **частица** может это сделать.
-
-A: Maybe. I'm quite **intelligent**, but even I can have a reaction.  My **departure** is next week, so I need to be well soon.  I have a **bias** towards natural remedies, but maybe I should see a doctor.
-
-A: Возможно. Я довольно **умный**, но даже у меня может быть реакция. Мой **отъезд** на следующей неделе, поэтому мне нужно поскорее выздороветь. У меня **предвзятость** к натуральным средствам, но, возможно, мне следует обратиться к врачу.
+У мужчины, Тома, был плохой день. Сначала, **фискальный** (**fiscal**) отчет был неверным! Большой **удар** (**blow**)! Во-вторых, доктор сказал: "Слишком много **холестерина** (**cholesterol**)!". Тому нужна новая диета. Он путешествует. Он берет **перевозки** (**shuttle**) до модного отеля. Он получает **номер-люкс** (**suite**). "Хорошо!" - думает он. Затем он видит длинный **вопросник** (**questionnaire**) о его здоровье. Еще один **удар** (**blow**)! Он хочет заплатить, но его **валюта** (**currency**) не принимается. Опять большой **удар** (**blow**)! Он выглядит грустным. **Нежная** (**gentle**) женщина дает ему **крюк** (**hook**), чтобы повесить его пальто. Маленькое **дополнение** (**addition**), но приятно.
 
 ## #18<common/>
 
-**gentle** [джЕнтэл] *прил.* нежный; **transaction** [трэнзЭкшэн] *сущ.* сделка; **volunteer** [вАлэнтЫр] *гл.* предлагать; **patient** [пЕйшэнт] *прил.* терпеливый; **colony** [кАлэни] *сущ.* колония; **skirt** [скЭрт] *сущ.* юбка; **adolescent** [ЭдэлЕсэнт] *сущ.* подросток; **parliament** [пАрлэмэнт] *сущ.* парламент; **glance** [глЭнс] *сущ.* взгляд; **residence** [рЕзыдэнс] *сущ.* проживание<common/>
+**needle** [нИдэл] *сущ.* игла; **profound** [прoуфАунд] *прил.* глубокий; **continuous** [кэнтЫнйуэс] *прил.* непрерывный; **notice** [нOутэс] *сущ.* уведомление; **counseling** [кАунсэлын] *сущ.* консультация; **outer** [Аутэр] *прил.* внешний; **advocate** [Эдвэкэт] *гл.* поддерживать; **encounter** [ынкАунтэр] *сущ.* встреча; **ownership** [OунэршЫп] *сущ.* собственность; **humanity** [хйумЭныти] *сущ.* человечество<common/>
 
-A:  Look at that **gentle** kitten!  It's so cute!
+A small town had a big problem. People did not **advocate** for others. There was no **humanity**. One day, a doctor found a **needle** on the street. It was a **profound** moment. He put up a **notice**: “Help each other!”. He offered free **counseling**. He knew it was the **outer** layer of the problem, not its root. This **continuous** kindness changed things. People started to care. One chance **encounter** helped them understand that real wealth is not about **ownership**, but about love.
 
-A: Посмотри на этого **нежного** котенка! Он такой милый!
-
-B: Yes, it is.  I want to **volunteer** to help at the animal shelter.
-
-B: Да, он. Я хочу **предложить** свою помощь в приюте для животных.
-
-A:  That's great! I heard they have a new **colony** of cats.  
-
-A: Это здорово! Я слышала, у них новая **колония** кошек.
-
-B:  Really? I hope the **transaction** to get them was easy.  We need to be **patient** with them.
-
-B: Правда? Надеюсь, **сделка** по их приобретению прошла легко. Нам нужно быть **терпеливыми** с ними.
-
-A:  This **adolescent** bought a pretty **skirt** today.
-
-A: Эта **подросток** купила сегодня симпатичную **юбку**.
-
-B:  Oh, I just had a quick **glance** at it. What about her **residence**?  Will she be moving?
-
-B: О, я только мельком на неё **взглянула**. А как насчет её **проживания**? Она переедет?
-
-A: I think she’s still living with her parents. It’s all been decided by **parliament**.
-
-A: Думаю, она всё ещё живёт с родителями. Всё это было решено **парламентом**.
+В маленьком городе была большая проблема. Люди не **поддерживали** других. Не было **человечности**. Однажды доктор нашёл **иглу** на улице. Это был **глубокий** момент. Он повесил **уведомление**: "Помогайте друг другу!". Он предложил бесплатные **консультации**. Он знал, что это **внешняя** оболочка проблемы, а не ее корень. Эта **непрерывная** доброта изменила ситуацию. Люди начали заботиться. Одна случайная **встреча** помогла им понять, что настоящее богатство – это не **собственность**, а любовь.
 
 ## #19<common/>
 
-**warm** [уОрм] *гл.* нагревать; **humanity** [хйумЭныти] *сущ.* человечество; **driving** [дрАйвын] *прил.* приводной; **civilian** [сэвЫлйэн] *сущ.* штатский; **frame** [фрЕйм] *гл.* обрамлять; **govern** [гАвэрн] *гл.* править; **adoption** [эдАпшэн] *сущ.* принятие; **administer** [эдмЫнэстэр] *гл.* управлять; **commonly** [кАмэнли] *нар.* обычно; **average** [Эвэрыдж] *гл.* усреднять<common/>
+**transaction** [трэнзЭкшэн] *сущ.* сделка; **guidance** [гАйдэнс] *сущ.* руководство; **administer** [эдмЫнэстэр] *гл.* управлять; **herb** [Эрб] *сущ.* трава; **compromise** [кАмпрэмАйз] *сущ.* компромисс; **scout** [скАут] *сущ.* разведчик; **pension** [пЕншэн] *сущ.* пенсия; **average** [Эвэрыдж] *гл.* усреднять; **pad** [пЭд] *сущ.* панель; **frame** [фрЕйм] *гл.* обрамлять<common/>
 
-A:  The **driving** force behind this project is **humanity**'s need for cleaner energy. We need to **warm** the water **commonly** used in the factory.
+Tom is a **scout**. He likes **herbs**. Tom is old. He gets a **pension**. He needs **guidance**. His friend, Ann, helps. Ann can **administer** Tom's money. They make a **transaction** at the bank. They **average** the costs. They find a **compromise**. Ann uses a **pad** to write. She likes to **frame** pictures. Tom is happy.
 
-А: Движущей **силой** этого проекта является потребность **человечества** в более чистой энергии. Нам нужно **нагревать** воду, **обычно** используемую на заводе.
-
-B:  Yes, and the government must **govern** wisely. They should **administer** the funds carefully.  The whole project needs a strong **frame**.  The **adoption** of this technology will also **average** out the cost for **civilian** use.
-
-B: Да, и правительство должно **править** мудро. Они должны **управлять** средствами осторожно. Весь проект нуждается в прочной **оправе**. **Принятие** этой технологии также **усреднит** стоимость для использования **гражданскими** лицами.
+Том - **разведчик**. Он любит **травы**. Том старый. Он получает **пенсию**. Ему нужно **руководство**. Его друг, Анна, помогает. Анна может **управлять** деньгами Тома. Они совершают **сделку** в банке. Они **усредняют** расходы. Они находят **компромисс**. Анна использует **панель** для письма. Она любит **обрамлять** картины. Том счастлив.
 
 ## #20<common/>
 
-**supervisor** [сУпэрвАйзэр] *сущ.* руководитель; **injure** [Ынджэр] *гл.* ранить; **wider** [-] *прил.* широкий; **popularity** [пАпйэлЕрэти] *сущ.* популярность; **intent** [ЫнтЕнт] *сущ.* намерение; **consistently** [кэнсЫстэнтли] *нар.* постоянно; **needle** [нИдэл] *сущ.* игла; **exhibit** [ыгзЫбыт] *сущ.* экспонат; **companion** [кэмпЭнйэн] *сущ.* компаньон; **readily** [рЕдэли] *нар.* охотно<common/>
+**serving** [сЭрвын] *сущ.* служение; **civilian** [сэвЫлйэн] *сущ.* штатский; **driving** [дрАйвын] *прил.* приводной; **hence** [хЕнс] *нар.* отсюда; **pope** [пOуп] *сущ.* папа римский; **envelope** [ЕнвэлOуп] *сущ.* конверт; **intent** [ЫнтЕнт] *сущ.* намерение; **parliament** [пАрлэмэнт] *сущ.* парламент; **domain** [дoумЕйн] *сущ.* область; **hostage** [хАстыдж] *сущ.* заложник<common/>
 
-A: My **companion** **injured** himself. He fell and hit his leg with a **needle**.
+The **civilian** had a simple **intent**: **serving** tea. He found an **envelope** with a letter. **Hence**, he thought, it's not for me! The letter spoke of a **hostage** and the **Pope**. This was not his **domain**. The **parliament** needed to know! A **driving** force told him to act.
 
-А: Мой **компаньон** **ранил** себя. Он упал и ударился ногой об **иглу**.
-
-B: Oh no! Is he okay?  Did you tell the **supervisor**?
-
-В: О нет! С ним все в порядке? Ты сказал(а) **руководителю**?
-
-A: Yes, I did.  The wound is quite **wider** than I thought.
-
-А: Да, сказала(а). Рана довольно **шире**, чем я думала.
-
-B: I hope he gets better soon. This new exhibit is gaining **popularity** - it’s **consistently** busy.  Did he do it with **intent** to **injure** himself?
-
-В: Надеюсь, он скоро поправится. Эта новая **экспозиция** набирает **популярность** - там **постоянно** много людей. Он сделал это **намерено**, чтобы **ранить** себя?
-
-A: No, absolutely not! It was an accident, he **readily** admits.
-
-А: Нет, совершенно нет! Это был несчастный случай, он **охотно** признает это.
+У **штатского** было простое **намерение**: **служение** чая. Он нашел **конверт** с письмом. **Отсюда**, он подумал, это не для меня! Письмо говорило о **заложнике** и **Папе Римском**. Это была не его **область**. **Парламент** должен был знать! **Приводная** сила сказала ему действовать.
 
 ## #21<common/>
 
-**donor** [дOунэр] *сущ.* даритель; **diminish** [дымЫныш] *гл.* уменьшать; **continuous** [кэнтЫнйуэс] *прил.* непрерывный; **shuttle** [шАтэл] *сущ.* перевозки; **excuse** [ыкскйУс] *сущ.* оправдание; **hook** [хУк] *сущ.* крюк; **cholesterol** [кэлЕстэрОл] *сущ.* холестерин; **stuff** [стАф] *гл.* набивать; **outer** [Аутэр] *прил.* внешний; **domain** [дoумЕйн] *сущ.* область<common/>
+**lobby** [лАби] *сущ.* вестибюль; **injure** [Ынджэр] *гл.* ранить; **departure** [дыпАрчэр] *сущ.* отъезд; **volunteer** [вАлэнтЫр] *гл.* предлагать; **strip** [стрЫп] *гл.* раздеваться; **adolescent** [ЭдэлЕсэнт] *сущ.* подросток; **sidewalk** [сАйдуОк] *сущ.* тротуар; **aim** [Ейм] *сущ.* цель; **adoption** [эдАпшэн] *сущ.* принятие; **companion** [кэмпЭнйэн] *сущ.* компаньон<common/>
 
-A: I need to **diminish** my **cholesterol**.  The doctor said I need to change my diet.
+A **adolescent** walks on the **sidewalk**. His **aim** is the **lobby** of the hotel. He wants to **volunteer** to help. He sees a dog. The dog is a good **companion**. But a car hits the dog. The car **injure** the dog. The boy wants to help. He helps with the dog's **adoption**. His **departure** is late. He does not need to **strip** off his clothes.
 
-А: Мне нужно **уменьшить** свой **холестерин**. Доктор сказал, что мне нужно изменить диету.
-
-B:  That's a good idea.  I heard **continuous** exercise helps.  Are you going to use the **shuttle** service to the gym?
-
-В: Это хорошая идея. Я слышал, что **непрерывные** упражнения помогают. Ты будешь пользоваться услугами **перевозок** (шаттлом) в спортзал?
-
-A:  No, my car is broken.  I need to find a new **excuse** for being late.  The **outer** door **hook** is broken, too! I tried to **stuff** my gym bag on it this morning.
-
-А: Нет, моя машина сломана. Мне нужно придумать новое **оправдание** для опоздания. **Внешний** дверной **крюк** тоже сломан! Я пытался **набить** в него свой спортивный мешок сегодня утром.
-
-B: Oh, that's bad. Maybe you should focus on your diet first. A healthy diet is important in many **domains** of your life.  Maybe you can find a **donor** to help fix your car?
-
-В: О, это плохо. Может быть, тебе сначала стоит сосредоточиться на диете. Здоровая диета важна во многих **областях** твоей жизни. Может, ты найдешь **дарителя**, который поможет починить твою машину?
+**Подросток** идет по **тротуару**. Его **цель** - **вестибюль** отеля. Он хочет **предложить** помощь. Он видит собаку. Собака - хороший **компаньон**. Но машина сбивает собаку. Машина **ранит** собаку. Мальчик хочет помочь. Он помогает с **принятием** собаки. Его **отъезд** задерживается. Ему не нужно **раздеваться**.
 
 ## #22<common/>
 
-**nail** [нЕйл] *сущ.* ноготь; **hostage** [хАстыдж] *сущ.* заложник; **blow** [блOу] *сущ.* удар; **scout** [скАут] *сущ.* разведчик; **drift** [дрЫфт] *гл.* дрейфовать; **ownership** [OунэршЫп] *сущ.* собственность; **pop** [пАп] *сущ.* хлопок; **dose** [дOус] *сущ.* доза; **lobby** [лАби] *сущ.* вестибюль; **mandate** [мЭндЕйт] *сущ.* наказ<common/>
+**consistently** [кэнсЫстэнтли] *нар.* постоянно; **govern** [гАвэрн] *гл.* править; **consult** [кэнсАлт] *гл.* консультировать; **dose** [дOус] *сущ.* доза; **stuff** [стАф] *гл.* набивать; **commonly** [кАмэнли] *нар.* обычно; **unity** [йУнэти] *сущ.* единство; **await** [эуЕйт] *гл.* ждать; **horrible** [хОрэбэл] *прил.* ужасный; **survey** [сэрвЕй] *гл.* обследовать<common/>
 
-A:  The **scout** saw a ship **drifting** near the island.  He heard a loud **pop**.
+The King **governs** the land. He **consistently** asks the wise man for help. The wise man tells him, "Small **dose** of kindness **commonly** works." The King must **await** news. He must **survey** the town to find problems. People have **horrible** lives! The King wants **unity**. Someone **stuff** the box with gold. It's not good. He needs ideas, not gold!
 
-А: **Разведчик** увидел корабль, **дрейфующий** около острова. Он услышал громкий **хлопок**.
-
-B: What was that **pop**?  Did someone get a **blow** to the head?
-
-В: Что это был за **хлопок**? Кого-то ударили?  Получил кто-то **удар** по голове?
-
-A: No, I think it was just a gunshot.  Someone is being held **hostage** in the hotel **lobby**.  The police have a **mandate** to rescue them.  They need a big **dose** of courage. I need to check my **nails**. I don't want them to break. The **ownership** of the ship is still unknown.
-
-А: Нет, думаю, это был просто выстрел. Кого-то держат в **заложниках** в гостиничном **вестибюле**. У полиции есть **наказ** спасти их. Им нужна большая **доза** мужества. Мне нужно проверить свои **ногти**. Я не хочу, чтобы они сломались. **Собственность** на корабль пока неизвестна.
+Король **правит** землей. Он **постоянно** **консультируется** с мудрецом. Мудрец говорит ему: "Маленькая **доза** доброты **обычно** помогает". Король должен **ждать** новостей. Он должен **обследовать** город, чтобы найти проблемы. У людей **ужасная** жизнь! Король хочет **единства**. Кто-то **набивает** коробку золотом. Это не хорошо. Ему нужны идеи, а не золото!
 
 ## #23<common/>
 
-**complexity** [кэмплЕксэти] *сущ.* сложность; **await** [эуЕйт] *гл.* ждать; **separation** [сЕпэрЕйшэн] *сущ.* отделение; **rip** [рЫп] *гл.* рвать; **compromise** [кАмпрэмАйз] *сущ.* компромисс; **accommodate** [экАмэдЕйт] *гл.* вмещать; **convey** [кэнвЕй] *гл.* передавать; **acquisition** [ЭкуэзЫшэн] *сущ.* приобретение; **engagement** [енгЕйджмэнт] *сущ.* договоренность; **advocate** [Эдвэкэт] *гл.* поддерживать<common/>
+**drunk** [дрАнк] *прил.* пьяный; **accommodate** [экАмэдЕйт] *гл.* вмещать; **project** [прАджект] *гл.* проецировать; **debate** [дэбЕйт] *гл.* обсуждать; **fitness** [фЫтнэс] *сущ.* хорошее здоровье; **colony** [кАлэни] *сущ.* колония; **spectrum** [спЕктрэм] *сущ.* спектр; **patient** [пЕйшэнт] *прил.* терпеливый; **acquisition** [ЭкуэзЫшэн] *сущ.* приобретение; **pleasant** [плЕзэнт] *прил.* приятный<common/>
 
-A:  I **await** the results of the test. The **complexity** is quite high.
+A **patient** alien from a space **colony** visited Earth. He wanted a **pleasant** place. His ship could **accommodate** many things. He had a **project**: to **project** his favorite movies onto the sky. People saw a strange **spectrum** of colors! Some people were **drunk** and didn't care. Others started to **debate**: "Is this good for our **fitness**?" The alien smiled. This **acquisition** of Earth was going well.
 
-А: Я **жду** результатов теста.  **Сложность** довольно высокая.
-
-B: Yes, it was difficult.  I had to **rip** my paper to get a better **compromise** between the drawing and the writing. My bag doesn't **accommodate** it all.
-
-Б: Да, это было сложно. Мне пришлось **разорвать** свою бумагу, чтобы получить лучший **компромисс** между рисунком и письмом. Моя сумка не **вмещает** все это.
-
-A:  I hope we can reach an **engagement** soon. I need to **convey** my concerns to them. This whole **separation** process is so difficult!
-
-А: Я надеюсь, мы скоро сможем достичь **договоренности**. Мне нужно **передать** им свои опасения. Весь этот процесс **отделения** такой сложный!
-
-B: I **advocate** for a quick resolution. The cost of this whole **acquisition** is too high.
-
-Б: Я **поддерживаю** быстрое разрешение. Стоимость всего этого **приобретения** слишком высока.
+Один **терпеливый** (**patient**) инопланетянин из космической **колонии** (**colony**) посетил Землю. Он хотел **приятное** (**pleasant**) место. Его корабль мог **вмещать** (**accommodate**) много вещей. У него был **проект** (**project**): **проецировать** (**project**) свои любимые фильмы на небо. Люди увидели странный **спектр** (**spectrum**) цветов! Некоторые люди были **пьяны** (**drunk**) и не обращали внимания. Другие начали **обсуждать** (**debate**): "Это хорошо для нашего **здоровья** (**fitness**)?". Инопланетянин улыбнулся. Это **приобретение** (**acquisition**) Земли шло хорошо.
 
 ## #24<common/>
 
-**pad** [пЭд] *сущ.* панель; **recipient** [рэсЫпиэнт] *сущ.* получатель; **bite** [бАйт] *сущ.* укус; **radiation** [рЕйдиЕйшэн] *сущ.* излучение; **unity** [йУнэти] *сущ.* единство; **hallway** [хОлуЕй] *сущ.* прихожая; **array** [эрЕй] *сущ.* множество; **diagnosis** [дАйэгнOусэс] *сущ.* диагноз; **delicate** [дЕлэкэт] *прил.* нежный; **counseling** [кАунсэлын] *сущ.* консультация<common/>
+**endorse** [ендОрс] *гл.* одобрять; **bias** [бАйэс] *сущ.* предвзятость; **leap** [лИп] *гл.* скакать; **separation** [сЕпэрЕйшэн] *сущ.* отделение; **structural** [стрАкчэрэл] *прил.* структурный; **wider** [-] *прил.* широкий; **bite** [бАйт] *сущ.* укус; **array** [эрЕй] *сущ.* множество; **guilt** [гЫлт] *сущ.* вина; **readily** [рЕдэли] *нар.* охотно<common/>
 
-A:  Look at this **pad**! It’s so **delicate**.
+A dog. A big **bite**! The dog **leap**s. **Separation** is bad. I feel **guilt**. I **readily** help. There is a **wider** problem. A **structural** problem. The **array** of ideas is big. I don’t **endorse** this solution. It has **bias**.
 
-A: Посмотри на эту **панель**! Она такая **нежная**.
-
-B: Wow!  What is it?
-
-B: Вау! Что это?
-
-A:  It’s a writing **pad** for the **recipient** of the letter.  The **diagnosis** is serious, so we need **unity** to help them.
-
-A: Это пишущая **панель** для **получателя** письма.  **Диагноз** серьезный, поэтому нам нужно **единство**, чтобы помочь им.
-
-B:  I understand.  Did you see the doctor’s notes about the **radiation**?
-
-B: Я понимаю. Ты видел заметки врача об **излучении**?
-
-A:  Yes. The doctor said they need  **counseling**.  He also mentioned that the dog got a nasty **bite**.
-
-A: Да. Врач сказал, что им нужна **консультация**. Он также упомянул, что собака получила неприятный **укус**.
-
-B:  Oh dear.  Let's all meet in the **hallway** to discuss an **array** of support options.
-
-B: О боже. Давайте все встретимся в **прихожей**, чтобы обсудить **множество** вариантов поддержки.
+Собака. Большой **укус**! Собака **скачет**. **Отделение** - это плохо. Я чувствую **вину**. Я **охотно** помогаю. Есть **более широкий** проблема. **Структурная** проблема. **Множество** идей большое. Я не **одобряю** это решение. В нем есть **предвзятость**.
 
 ## #25<common/>
 
-**accommodate** [экАмэдЕйт] *гл.* вмещать; **counterpart** [кАунтэрпАрт] *сущ.* коллега; **compromise** [кАмпрэмАйз] *сущ.* компромисс; **forehead** [фОрхед] *сущ.* лоб; **donor** [дOунэр] *сущ.* даритель; **trigger** [трЫгэр] *гл.* запускать; **adoption** [эдАпшэн] *сущ.* принятие; **counseling** [кАунсэлын] *сущ.* консультация; **sidewalk** [сАйдуОк] *сущ.* тротуар; **transaction** [трэнзЭкшэн] *сущ.* сделка; **bite** [бАйт] *сущ.* укус<common/>
+**humanity** [хйумЭныти] *сущ.* человечество; **facilitate** [фэсЫлэтЕйт] *гл.* способствовать; **nail** [нЕйл] *сущ.* ноготь; **juror** [джУрэр] *сущ.* член жюри; **suite** [суИт] *сущ.* номер-люкс; **adolescent** [ЭдэлЕсэнт] *сущ.* подросток; **trigger** [трЫгэр] *гл.* запускать; **sidewalk** [сАйдуОк] *сущ.* тротуар; **leap** [лИп] *гл.* скакать; **cholesterol** [кэлЕстэрОл] *сущ.* холестерин; **lobby** [лАби] *сущ.* вестибюль<common/>
 
-A:  Did the van **accommodate** all the **donors**?
+One day, in a big hotel **lobby**, a young **adolescent** saw a cat. The cat was on the **sidewalk**. The boy wanted to **leap** and play with it. But his mom said, "No! Bad for your **cholesterol**!" A **juror** from a nearby court watched. He was staying in a big **suite**. He thought about how to **facilitate** kindness in **humanity**. He saw the boy bite his **nail** and cry. This **triggered** a memory of his own childhood. He smiled.
 
-А:  Вместил ли фургон всех **дарителей**?
-
-B:  Almost!  We had to make a **compromise**.  One person had to sit on the **sidewalk** for a bit.  My **counterpart** in the other van had the same problem.
-
-В: Почти! Нам пришлось пойти на **компромисс**.  Один человек немного посидел на **тротуаре**. У моего **коллеги** в другом фургоне была та же проблема.
-
-A: I hope the bumpy ride didn't **trigger** a headache!  Did anyone get a **bite** from the mosquitos?
-
-А: Надеюсь, тряская дорога не **запустила** головную боль!  Кого-нибудь укусили комары?
-
-B: No bites. Just a lot of stress.  We're meeting for **counseling** about next year's **adoption** process. This whole **transaction** was very difficult!  Even my **forehead** hurts from all the worrying!
-
-В: Нет **укусов**. Только много стресса. Мы встречаемся на **консультацию** по поводу процесса **принятия** на следующий год. Вся эта **сделка** была очень сложной! Даже у меня **лоб** болит от переживаний!
+Однажды, в большом гостиничном **вестибюле**, юный **подросток** увидел кошку. Кошка была на **тротуаре**. Мальчик хотел **скакать** и играть с ней. Но его мама сказала: "Нет! Плохо для твоего **холестерина**!" **Член жюри** из соседнего суда наблюдал. Он жил в большом **номере-люкс**. Он думал о том, как **способствовать** доброте в **человечестве**. Он увидел, как мальчик грызет свой **ноготь** и плачет. Это **запустило** воспоминание о его собственном детстве. Он улыбнулся.
 
 ## #26<common/>
 
-**diagnosis** [дАйэгнOусэс] *сущ.* диагноз; **acquisition** [ЭкуэзЫшэн] *сущ.* приобретение; **blow** [блOу] *сущ.* удар; **rip** [рЫп] *гл.* рвать; **notice** [нOутэс] *сущ.* уведомление; **serving** [сЭрвын] *сущ.* служение; **debate** [дэбЕйт] *гл.* обсуждать; **govern** [гАвэрн] *гл.* править; **commonly** [кАмэнли] *нар.* обычно; **harm** [хАрм] *сущ.* вред; **injure** [Ынджэр] *гл.* ранить<common/>
+**hence** [хЕнс] *нар.* отсюда; **mandate** [мЭндЕйт] *сущ.* наказ; **hook** [хУк] *сущ.* крюк; **needle** [нИдэл] *сущ.* игла; **stuff** [стАф] *гл.* набивать; **driving** [дрАйвын] *прил.* приводной; **pop** [пАп] *сущ.* хлопок; **particle** [пАртэкэл] *сущ.* частица; **serving** [сЭрвын] *сущ.* служение; **counseling** [кАунсэлын] *сущ.* консультация; **aim** [Ейм] *сущ.* цель<common/>
 
-A:  I **injured** my leg yesterday.  It's a bad **blow**.
+Ann has a **mandate** to help people. Her **aim** is **serving** others. She offers **counseling**. She uses a big **hook** to move heavy **stuff**. One day, she saw a small toy. It was broken. A **driving** gear was missing. Then she saw a tiny **particle** near the toy. She tried to **stuff** the **particle** back. But it was too small. She used a **needle**. Suddenly, a loud **pop**! **Hence**, the toy broke more.
 
-А: Я **повредила** себе ногу вчера. Это сильный **удар**.
-
-B: Oh no! How did you do that?
-
-В: О нет! Как это случилось?
-
-A: I **ripped** my pants on a fence.  I didn't **notice** the sharp wire.  The doctor gave me a **diagnosis**.
-
-А: Я **разорвала** свои брюки об забор. Я не **заметила** острую проволоку. Врач поставил мне **диагноз**.
-
-B: What did the doctor say?
-
-В: Что сказал врач?
-
-A: He says it's serious and I will need treatment.  This is a big **harm**. It is **commonly**  a slow **acquisition** of the strength.
-
-А: Он говорит, что это серьезно, и мне понадобится лечение. Это большой **вред**.  **Обычно** это медленное **приобретение** силы.
-
-B:  I'm sorry to hear that.  We should **debate** the best course of action. The laws that **govern** this type of injury are very complicated.  My uncle is a doctor and he was helping people with this kind of **serving** for twenty years.
-
-В: Мне очень жаль это слышать. Мы должны **обсудить** наилучший план действий. Законы, которые **управляют** этим типом травмы, очень сложны. Мой дядя - врач, и он помогал людям с этим типом **служения** двадцать лет.
+У Анны есть **наказ** помогать людям. Её **цель** - **служение** другим. Она предлагает **консультации**. Она использует большой **крюк**, чтобы двигать тяжелые **вещи (набивать)**. Однажды она увидела маленькую игрушку. Она была сломана. **Приводной** механизм отсутствовал. Затем она увидела крошечную **частицу** рядом с игрушкой. Она попыталась **набить** **частицу** обратно. Но она была слишком маленькой. Она использовала **иглу**. Вдруг, громкий **хлопок**! **Отсюда**, игрушка сломалась еще больше.
 
 ## #27<common/>
 
-**civilian** [сэвЫлйэн] *сущ.* штатский; **bias** [бАйэс] *сущ.* предвзятость; **complexity** [кэмплЕксэти] *сущ.* сложность; **diminish** [дымЫныш] *гл.* уменьшать; **juror** [джУрэр] *сущ.* член жюри; **intent** [ЫнтЕнт] *сущ.* намерение; **engagement** [енгЕйджмэнт] *сущ.* договоренность; **hostage** [хАстыдж] *сущ.* заложник; **facilitate** [фэсЫлэтЕйт] *гл.* способствовать; **outer** [Аутэр] *прил.* внешний<common/>
+**pension** [пЕншэн] *сущ.* пенсия; **patient** [пЕйшэнт] *прил.* терпеливый; **convey** [кэнвЕй] *гл.* передавать; **diagnosis** [дАйэгнOусэс] *сущ.* диагноз; **frame** [фрЕйм] *гл.* обрамлять; **skirt** [скЭрт] *сущ.* юбка; **project** [прАджект] *гл.* проецировать; **tune** [тУн] *гл.* настраивать; **rip** [рЫп] *гл.* рвать; **outer** [Аутэр] *прил.* внешний<common/>
 
-A:  The **complexity** of this case is amazing.  There's so much to understand.  And the **bias** against the defendant is clear.
+Old Mr. Smith got his **pension**. He was a **patient** man. He wanted to **convey** his thanks. The doctor gave him a **diagnosis**: he needed rest. He decided to **frame** a picture. His granddaughter wore a blue **skirt**. He liked to **project** movies. He tried to **tune** his radio. Suddenly, he heard a **rip**. His **outer** coat was torn!
 
-А: **Сложность** этого дела поражает. Столько всего нужно понять. И **предвзятость** против подсудимого очевидна.
-
-B:  Yes, it's difficult.  We need to make sure the **juror**s don't let their personal feelings **diminish** their judgment.  The **intent** of the defendant must be considered.
-
-Б: Да, это сложно. Мы должны убедиться, что **члены жюри** не позволяют своим личным чувствам **уменьшать** их суждение. Необходимо учитывать **намерение** подсудимого.
-
-A:  The police negotiation to secure the release of the **hostage**  is a crucial **engagement**.  They need to **facilitate** a peaceful solution.  We must protect **civilians** in the **outer** areas.
-
-А: Переговоры полиции по обеспечению освобождения **заложника** - это важная **договоренность**. Они должны **способствовать** мирному решению. Мы должны защитить **штатских** в **внешних** районах.
+Старый мистер Смит получил свою **пенсию** (**pension**). Он был **терпеливым** (**patient**) человеком. Он хотел **передать** (**convey**) свою благодарность. Доктор поставил ему **диагноз** (**diagnosis**): ему нужен отдых. Он решил **обрамить** (**frame**) картину. Его внучка носила синюю **юбку** (**skirt**). Он любил **проецировать** (**project**) фильмы. Он пытался **настраивать** (**tune**) свое радио. Вдруг, он услышал **треск** (**rip**). Его **внешнее** (**outer**) пальто было порвано!
 
 ## #28<common/>
 
-**hook** [хУк] *сущ.* крюк; **consult** [кэнсАлт] *гл.* консультировать; **continuous** [кэнтЫнйуэс] *прил.* непрерывный; **consistently** [кэнсЫстэнтли] *нар.* постоянно; **pad** [пЭд] *сущ.* панель; **continuing** [кэнтЫнйуын] *прил.* постоянный; **glance** [глЭнс] *сущ.* взгляд; **drunk** [дрАнк] *прил.* пьяный; **drift** [дрЫфт] *гл.* дрейфовать; **unity** [йУнэти] *сущ.* единство<common/>
+**harm** [хАрм] *сущ.* вред; **counterpart** [кАунтэрпАрт] *сущ.* коллега; **blow** [блOу] *сущ.* удар; **structural** [стрАкчэрэл] *прил.* структурный; **debate** [дэбЕйт] *гл.* обсуждать; **consistently** [кэнсЫстэнтли] *нар.* постоянно; **transaction** [трэнзЭкшэн] *сущ.* сделка; **horrible** [хОрэбэл] *прил.* ужасный; **fitness** [фЫтнэс] *сущ.* хорошее здоровье; **profound** [прoуфАунд] *прил.* глубокий<common/>
 
-A:  I saw a **drunk** man. He was **drifting** in a small boat. He had a fishing **hook** on his **pad**.
+Tom and Ann **debate** in the office. Tom says: "This **transaction** is **horrible**! It does **harm** to our company!" Ann, Tom's **counterpart**, answers: "No, Tom! It's good for **fitness**, for our **structural** projects! You are **consistently** wrong!" Tom gets angry. He wants to give her a **blow**! He thinks: "This is a **profound** problem."
 
-А: Я видел **пьяного** мужчину. Он **дрейфовал** на маленькой лодке. У него был рыболовный **крючок** на своей **панели**.
-
-B:  That's dangerous! Did you **glance** at the boat?  He needs to **consult** someone.  He’s been **consistently** in trouble.  It's a matter of public safety.  The situation is **continuous**, a **continuing** problem.  There is no **unity** in helping him.
-
-B: Это опасно! Ты бросил **взгляд** на лодку? Ему нужно **проконсультироваться** с кем-нибудь. Он **постоянно** попадает в неприятности. Это вопрос общественной безопасности. Ситуация **непрерывная**,  **постоянная** проблема. Нет **единства** в оказании ему помощи.
+Том и Энн **обсуждают** в офисе. Том говорит: "Эта **сделка** **ужасна**! Она наносит **вред** нашей компании!" Энн, **коллега** Тома, отвечает: "Нет, Том! Это хорошо для **хорошего здоровья**, для наших **структурных** проектов! Ты **постоянно** не прав!" Том злится. Он хочет дать ей **удар**! Он думает: "Это **глубокая** проблема."
 
 ## #29<common/>
 
-**horrible** [хОрэбэл] *прил.* ужасный; **herb** [Эрб] *сущ.* трава; **recession** [рысЕшэн] *сущ.* спад; **addition** [эдЫшэн] *сущ.* дополнение; **ownership** [OунэршЫп] *сущ.* собственность; **questionnaire** [куЕсчэнЕр] *сущ.* вопросник; **departure** [дыпАрчэр] *сущ.* отъезд; **patient** [пЕйшэнт] *прил.* терпеливый; **scout** [скАут] *сущ.* разведчик; **envelope** [ЕнвэлOуп] *сущ.* конверт<common/>
+**consult** [кэнсАлт] *гл.* консультировать; **compromise** [кАмпрэмАйз] *сущ.* компромисс; **delicate** [дЕлэкэт] *прил.* нежный; **currency** [кЭрэнси] *сущ.* валюта; **advocate** [Эдвэкэт] *гл.* поддерживать; **separation** [сЕпэрЕйшэн] *сущ.* отделение; **forehead** [фОрхед] *сущ.* лоб; **injure** [Ынджэр] *гл.* ранить; **bias** [бАйэс] *сущ.* предвзятость; **civilian** [сэвЫлйэн] *сущ.* штатский<common/>
 
-A:  This **questionnaire** is so long!  It's **horrible**!
+A **civilian** has a problem. He needs to **consult** a lawyer. He wants a **separation** from his wife, but it's **delicate**. He doesn't want to **injure** her. The lawyer says: "We need a **compromise**. I **advocate** for fair treatment. Money is a problem; the **currency** is different now." The man touches his **forehead**. He feels stress. He hopes there is no **bias** in the court.
 
-А: Этот **вопросник** такой длинный! Он **ужасный**!
-
-B: I know. But the **addition** of more questions means better results. Be **patient**.
-
-Б: Я знаю. Но **дополнение** в виде большего количества вопросов означает лучшие результаты. Будь **терпеливым**.
-
-A:  My **departure** is tomorrow. I need to finish this.  I found a **herb** in this **envelope** - it's from my friend, the **scout**.  He says this **recession** is affecting his **ownership** of his small business.
-
-А: Мой **отъезд** завтра. Мне нужно закончить это. Я нашла **траву** в этом **конверте** - она от моего друга, **разведчика**. Он говорит, что этот **спад** влияет на его **собственность**, на его небольшой бизнес.
+У **штатского** проблема. Ему нужно **консультироваться** с юристом. Он хочет **отделения** от своей жены, но это **нежный** вопрос. Он не хочет **ранить** её. Юрист говорит: "Нам нужен **компромисс**. Я **поддерживаю** справедливое отношение. Деньги - это проблема; **валюта** сейчас другая". Мужчина трогает свой **лоб**. Он чувствует стресс. Он надеется, что в суде нет **предвзятости**.
 
 ## #30<common/>
 
-**recipient** [рэсЫпиэнт] *сущ.* получатель; **excuse** [ыкскйУс] *сущ.* оправдание; **uncertainty** [энсЭртэнти] *сущ.* неопределенность; **fitness** [фЫтнэс] *сущ.* хорошее здоровье; **survey** [сэрвЕй] *гл.* обследовать; **structural** [стрАкчэрэл] *прил.* структурный; **dose** [дOус] *сущ.* доза; **delicate** [дЕлэкэт] *прил.* нежный; **leap** [лИп] *гл.* скакать; **profound** [прoуфАунд] *прил.* глубокий<common/>
+**guidance** [гАйдэнс] *сущ.* руководство; **uncertainty** [энсЭртэнти] *сущ.* неопределенность; **average** [Эвэрыдж] *гл.* усреднять; **popularity** [пАпйэлЕрэти] *сущ.* популярность; **drunk** [дрАнк] *прил.* пьяный; **glance** [глЭнс] *сущ.* взгляд; **administer** [эдмЫнэстэр] *гл.* управлять; **continuing** [кэнтЫнйуын] *прил.* постоянный; **guilt** [гЫлт] *сущ.* вина; **herb** [Эрб] *сущ.* трава<common/>
 
-A:  Hi! I'm **survey**ing people about their **fitness**.  Do you have a minute?
+The little cat felt **uncertainty**. It needed **guidance**. The cat saw a man. The man was **drunk**. He didn't **administer** his farm well. He just liked to **average** the day with beer. He gave the cat a quick **glance**. There was no **popularity** for cats here. It was a place of **continuing** work and little food. The cat felt no **guilt** when it stole a bit of **herb** from the garden.
 
-А: Привет! Я **опрашиваю** людей об их **здоровье**.  У тебя есть минута?
-
-B:  I'm sorry, I can't right now. I have some **uncertainty** about my schedule.
-
-B: Извини, сейчас не могу. У меня есть некоторая **неопределенность** в расписании.
-
-A:  Oh, that's okay.  Do you have an **excuse**? Maybe I can help.
-
-A: О, ладно. У тебя есть **оправдание**? Может, я смогу помочь.
-
-B: I have a very **delicate** issue with my doctor. I need a specific **dose** of medication.  My health is quite important, you see.  It involves some **profound** **structural** damage. I even had to **leap** over a small fence to get home quickly today.  It was a bit of a rush,  I'm afraid.
-
-B: У меня довольно **деликатный** вопрос с моим врачом. Мне нужна специфическая **доза** лекарств. Моё здоровье очень важно, понимаешь. Это связано с некоторыми **глубокими** **структурными** повреждениями. Я даже должен был **перепрыгнуть** через небольшой забор, чтобы быстро добраться домой сегодня.  Я немного торопился, боюсь.
-
-A:  I understand. Thank you for your time.  The **recipient** of this information will understand.
-
-A: Я понимаю. Спасибо за твоё время.  **Получатель** этой информации поймёт.
+Маленький кот чувствовал **неопределенность**. Ему нужно было **руководство**. Кот увидел человека. Человек был **пьяный**. Он не мог хорошо **управлять** своей фермой. Он просто любил **усреднять** день пивом. Он бросил на кота быстрый **взгляд**. Здесь не было **популярности** для котов. Это было место **постоянной** работы и малого количества еды. Кот не чувствовал **вины**, когда украл немного **травы** из огорода.
 
 ## #31<common/>
 
-**project** [прАджект] *гл.* проецировать; **tune** [тУн] *гл.* настраивать; **array** [эрЕй] *сущ.* множество; **supervisor** [сУпэрвАйзэр] *сущ.* руководитель; **aim** [Ейм] *сущ.* цель; **spectrum** [спЕктрэм] *сущ.* спектр; **frame** [фрЕйм] *гл.* обрамлять; **average** [Эвэрыдж] *гл.* усреднять; **pop** [пАп] *сущ.* хлопок; **parliament** [пАрлэмэнт] *сущ.* парламент<common/>
+**await** [эуЕйт] *гл.* ждать; **govern** [гАвэрн] *гл.* править; **notice** [нOутэс] *сущ.* уведомление; **pad** [пЭд] *сущ.* панель; **domain** [дoумЕйн] *сущ.* область; **hostage** [хАстыдж] *сущ.* заложник; **parliament** [пАрлэмэнт] *сущ.* парламент; **acquisition** [ЭкуэзЫшэн] *сущ.* приобретение; **meaningful** [мИнынфэл] *прил.* значительный; **pope** [пOуп] *сущ.* папа римский<common/>
 
-A:  My **supervisor** wants me to **project** the data onto the screen.  It's a huge **array** of numbers.
+**Await**.
 
-А: Мой **руководитель** хочет, чтобы я **проецировал** данные на экран. Это огромное **множество** чисел.
+**Ждать**.
 
-B:  What's the **aim** of this **project**?
+The **Pope** needs help! Bad people hold a **hostage** in their **domain**. They want to **govern** the land. They sent a **notice** to the **parliament**. The **parliament** will **await** news. The big company made a **meaningful** **acquisition** of land. They use a special **pad** to plan everything.
 
-B: Какова **цель** этого **проекта**?
-
-A: To show the full **spectrum** of results. We need to **average** the data first and then **frame** it nicely.  There was a loud **pop** when the computer started.
-
-A: Показать весь **спектр** результатов. Сначала нам нужно **усреднить** данные, а затем красиво их **оформить**.  Раздался громкий **хлопок**, когда компьютер запустился.
-
-B:  Hopefully the **Parliament** won't notice any errors after we **tune** the settings.
-
-B: Надеюсь, **парламент** не заметит никаких ошибок после того, как мы **настроим** параметры.
+**Папе Римскому** нужна помощь! Плохие люди держат **заложника** в своей **области**. Они хотят **править** землей. Они отправили **уведомление** в **парламент**. **Парламент** будет **ждать** новостей. Большая компания совершила **значительное** **приобретение** земли. Они используют специальную **панель**, чтобы планировать всё.
 
 ## #32<common/>
 
-**humanity** [хйумЭныти] *сущ.* человечество; **rhetoric** [рЕтэрык] *сущ.* риторика; **readily** [рЕдэли] *нар.* охотно; **driving** [дрАйвын] *прил.* приводной; **advocate** [Эдвэкэт] *гл.* поддерживать; **shuttle** [шАтэл] *сущ.* перевозки; **intelligent** [ЫнтЕлэджэнт] *прил.* умный; **suite** [суИт] *сущ.* номер-люкс; **companion** [кэмпЭнйэн] *сущ.* компаньон; **adolescent** [ЭдэлЕсэнт] *сущ.* подросток<common/>
+**array** [эрЕй] *сущ.* множество; **encounter** [ынкАунтэр] *сущ.* встреча; **diminish** [дымЫныш] *гл.* уменьшать; **companion** [кэмпЭнйэн] *сущ.* компаньон; **complexity** [кэмплЕксэти] *сущ.* сложность; **commonly** [кАмэнли] *нар.* обычно; **endorse** [ендОрс] *гл.* одобрять; **residence** [рЕзыдэнс] *сущ.* проживание; **intelligent** [ЫнтЕлэджэнт] *прил.* умный; **departure** [дыпАрчэр] *сущ.* отъезд<common/>
 
-A:  I **readily** agree.  The future of **humanity** depends on **intelligent** choices.  We need to **advocate** for better education.
+**Array** of stars. A dog, **intelligent**, is my **companion**. I **commonly** walk with him. One day, an **encounter**! A small bird. The dog wants to play. I do not **endorse** this. The bird's power **diminish**. We bring it to my **residence**. No **complexity**. After some days, its time for **departure**.
 
-A: Я **охотно** согласен. Будущее **человечества** зависит от **умных** решений. Нам нужно **поддерживать** лучшее образование.
-
-B: Yes, and improved public **shuttle** services too.  It’s important for everyone, especially **adolescents**.
-
-B: Да, и улучшенные общественные **перевозки** тоже. Это важно для всех, особенно для **подростков**.
-
-A: I have a friend who’s working on that.  He's staying in a lovely hotel **suite**. He's a great **companion**, very **driving** in his ambitions.  His work involves a lot of political **rhetoric**, though.
-
-A: У меня есть друг, который работает над этим. Он остановился в прекрасном гостиничном **номере-люкс**. Он замечательный **компаньон**, очень **стремящийся** в своих амбициях. Его работа связана со множеством политической **риторики**, хотя.
+**Множество** звезд. Собака, **умный**, мой **компаньон**. Я **обычно** гуляю с ним. Однажды, **встреча**! Маленькая птичка. Собака хочет играть. Я не **одобряю** это. Силы птицы **уменьшаются**. Мы приносим ее в мое **проживание**. Нет **сложности**. После нескольких дней, время для **отъезда**.
 
 ## #33<common/>
 
-**peaceful** [пИсфэл] *прил.* спокойный; **cholesterol** [кэлЕстэрОл] *сущ.* холестерин; **domain** [дoумЕйн] *сущ.* область; **particle** [пАртэкэл] *сущ.* частица; **currency** [кЭрэнси] *сущ.* валюта; **warm** [уОрм] *гл.* нагревать; **popularity** [пАпйэлЕрэти] *сущ.* популярность; **volunteer** [вАлэнтЫр] *гл.* предлагать; **radiation** [рЕйдиЕйшэн] *сущ.* излучение; **needle** [нИдэл] *сущ.* игла<common/>
+**recipient** [рэсЫпиэнт] *сущ.* получатель; **ownership** [OунэршЫп] *сущ.* собственность; **questionnaire** [куЕсчэнЕр] *сущ.* вопросник; **colonel** [кЭрнэл] *сущ.* полковник; **intent** [ЫнтЕнт] *сущ.* намерение; **hallway** [хОлуЕй] *сущ.* прихожая; **pleasant** [плЕзэнт] *прил.* приятный; **bite** [бАйт] *сущ.* укус; **fiscal** [фЫскэл] *прил.* фискальный; **donor** [дOунэр] *сущ.* даритель<common/>
 
-A:  The weather is so **peaceful** today.  I like to **warm** my tea in the sun.
+The **recipient** got a letter. It was from a **donor**. The letter talked about **fiscal** year reports. Also, it had a **questionnaire**. The **intent** of the **questionnaire** was about **ownership** of a small dog.
 
-A: Погода сегодня такая **спокойная**. Я люблю **греть** свой чай на солнце.
+**Получатель** получил письмо. Оно было от **дарителя**. Письмо было о **фискальных** отчетах за год. Также, в нем был **вопросник**. **Намерение** **вопросника** было о **собственности** на маленькую собаку.
 
-B:  Yes, it's lovely.  Did you know that high **cholesterol** is a problem in many areas, a whole **domain** of medicine?
+A **colonel** lived in a big house. He found a strange **bite** on his arm. He went to the **hallway**. The **colonel** thought, "Not **pleasant**!"
 
-B: Да, чудесно. Ты знаешь, что высокий **холестерин** – это проблема во многих областях, целая **область** медицины?
-
-A: I read about it. It’s  a tiny **particle** of fat.
-
-A: Я читала об этом. Это крошечная **частица** жира.
-
-B:  Exactly! And  the  **popularity** of fast food doesn’t help.
-
-B: Точно! И **популярность** фастфуда не помогает.
-
-A:  I should **volunteer** to help at the hospital. They need people.
-
-A: Мне следует **предложить** помощь в больнице. Им нужны люди.
-
-B:  Good idea! Just be careful with the medical **radiation**.
-
-B: Отличная идея! Только будь осторожна с медицинским **излучением**.
-
-A:  Don't worry, I know. I’ll avoid the X-ray machine!  Also, I won't use the **needle** without proper training.
-
-A: Не волнуйся, я знаю. Я буду избегать рентгеновского аппарата! Также, я не буду использовать **иглу** без надлежащей подготовки.
-
-B: Great!  What’s the **currency** in that country we’re planning to visit?
-
-B: Отлично! Какая **валюта** в той стране, которую мы планируем посетить?
+**Полковник** жил в большом доме. Он обнаружил странный **укус** на своей руке. Он пошел в **прихожую**. **Полковник** подумал: "Не **приятно**!"
 
 ## #34<common/>
 
-**residence** [рЕзыдэнс] *сущ.* проживание; **fiscal** [фЫскэл] *прил.* фискальный; **wider** [-] *прил.* широкий; **colony** [кАлэни] *сущ.* колония; **separation** [сЕпэрЕйшэн] *сущ.* отделение; **guilt** [гЫлт] *сущ.* вина; **lobby** [лАби] *сущ.* вестибюль; **hence** [хЕнс] *нар.* отсюда; **stuff** [стАф] *гл.* набивать; **pension** [пЕншэн] *сущ.* пенсия<common/>
+**accommodate** [экАмэдЕйт] *гл.* вмещать; **survey** [сэрвЕй] *гл.* обследовать; **readily** [рЕдэли] *нар.* охотно; **wider** [-] *прил.* широкий; **adoption** [эдАпшэн] *сущ.* принятие; **radiation** [рЕйдиЕйшэн] *сущ.* излучение; **supervisor** [сУпэрвАйзэр] *сущ.* руководитель; **warm** [уОрм] *гл.* нагревать; **strip** [стрЫп] *гл.* раздеваться; **dose** [дOус] *сущ.* доза<common/>
 
-A:  My **pension** is small.  I need a **wider** apartment, but my current **residence** is cheap.
+The sun is **warm**. I **strip** my coat. My **supervisor** likes **adoption** of new ideas. He wants to **survey** the park. The bus can **accommodate** many people. He **readily** agrees. The park has **wider** paths now. We need to check **radiation**. A small **dose** is ok.
 
-A: Моя **пенсия** маленькая. Мне нужна квартира **шире**, но мое текущее **проживание** дешевое.
-
-B:  The **fiscal** year is almost over.  Maybe you can find something better after the **separation** of the tax years.
-
-B: **Фискальный** год почти закончился. Может быть, после **отделения** налоговых лет ты сможешь найти что-нибудь получше.
-
-A:  I feel a lot of **guilt** leaving this place. I've lived here a long time. It's like a small **colony** of friends.
-
-A: Я чувствую большую **вину**, уезжая из этого места. Я жила здесь долго. Это как небольшая **колония** друзей.
-
-B:  Well, you can always visit!  There's a nice **lobby** in my new building.  I'll **stuff** it with pictures of the old place, **hence** you'll always feel at home here.
-
-B: Ну, ты всегда можешь навещать! В моем новом здании есть приятный **вестибюль**. Я **набью** его фотографиями старого места, **отсюда** ты всегда будешь чувствовать себя здесь как дома.
+Солнце **нагревает**. Я **раздеваюсь** от пальто. Мой **руководитель** любит **принятие** новых идей. Он хочет **обследовать** парк. Автобус может **вмещать** много людей. Он **охотно** соглашается. В парке теперь **более широкие** дорожки. Нам нужно проверить **излучение**. Маленькая **доза** это нормально.
 
 ## #35<common/>
 
-**await** [эуЕйт] *гл.* ждать; **exhibit** [ыгзЫбыт] *сущ.* экспонат; **endorse** [ендОрс] *гл.* одобрять; **convey** [кэнвЕй] *гл.* передавать; **hallway** [хОлуЕй] *сущ.* прихожая; **skirt** [скЭрт] *сущ.* юбка; **globe** [глOуб] *сущ.* глобус; **gentle** [джЕнтэл] *прил.* нежный; **nail** [нЕйл] *сущ.* ноготь; **administer** [эдмЫнэстэр] *гл.* управлять<common/>
+**virtual** [вЭрчуэл] *прил.* действительный; **shuttle** [шАтэл] *сущ.* перевозки; **volunteer** [вАлэнтЫр] *гл.* предлагать; **peaceful** [пИсфэл] *прил.* спокойный; **addition** [эдЫшэн] *сущ.* дополнение; **envelope** [ЕнвэлOуп] *сущ.* конверт; **recession** [рысЕшэн] *сущ.* спад; **colony** [кАлэни] *сущ.* колония; **gentle** [джЕнтэл] *прил.* нежный; **exhibit** [ыгзЫбыт] *сущ.* экспонат<common/>
 
-A:  Look! This **globe** is a beautiful **exhibit**! I **await** my turn to see it.
+The **virtual** world is new. People **volunteer** for **shuttle** services there. The **colony** is **peaceful**. It is a **gentle** place. This year, the **recession** is over. A new **addition** to the museum! Look at the **exhibit**! It is in a big **envelope**!
 
-А: Смотри! Этот **глобус** - прекрасный **экспонат**! Я **жду** своей очереди, чтобы его увидеть.
-
-B:  Yes, it's amazing! I **endorse** your enthusiasm.  Did you see the **skirt** on the mannequin in the **hallway**?
-
-B: Да, он потрясающий! Я **одобряю** твой энтузиазм. Ты видела **юбку** на манекене в **прихожей**?
-
-A:  No, I didn't. I’m too focused on the **globe**. Do you think they **administer** this museum well?
-
-A: Нет, не видела. Я слишком сосредоточена на **глобусе**. Ты думаешь, они хорошо **управляют** этим музеем?
-
-B: They try to. The lighting is very **gentle** on the **exhibits**.  And I didn't break a **nail** while admiring the **globe**, so that's a plus!
-
-B: Они стараются. Освещение очень **нежное** для **экспонатов**. И я не сломала **ноготь**, любуясь **глобусом**, так что это плюс!
-
-B:  I hope they **convey** the importance of these historical artifacts to future generations.
-
-B: Я надеюсь, они **передают** важность этих исторических артефактов будущим поколениям.
+**Виртуальный** мир - новый. Люди **предлагают** свои услуги для **перевозок** туда. **Колония** **спокойная**. Это **нежное** место. В этом году **спад** закончился. Новое **дополнение** к музею! Посмотри на **экспонат**! Он в большом **конверте**!
 
 ## #36<common/>
 
-**chronic** [крАнык] *прил.* хронический; **strip** [стрЫп] *гл.* раздеваться; **mandate** [мЭндЕйт] *сущ.* наказ; **meaningful** [мИнынфэл] *прил.* значительный; **encounter** [ынкАунтэр] *сущ.* встреча; **guidance** [гАйдэнс] *сущ.* руководство; **pope** [пOуп] *сущ.* папа римский; **colonel** [кЭрнэл] *сущ.* полковник; **virtual** [вЭрчуэл] *прил.* действительный; **pleasant** [плЕзэнт] *прил.* приятный<common/>
+**engagement** [енгЕйджмэнт] *сущ.* договоренность; **continuous** [кэнтЫнйуэс] *прил.* непрерывный; **unity** [йУнэти] *сущ.* единство; **globe** [глOуб] *сущ.* глобус; **scout** [скАут] *сущ.* разведчик; **drift** [дрЫфт] *гл.* дрейфовать; **spectrum** [спЕктрэм] *сущ.* спектр; **excuse** [ыкскйУс] *сущ.* оправдание; **chronic** [крАнык] *прил.* хронический; **rhetoric** [рЕтэрык] *сущ.* риторика<common/>
 
-A:  I had a **pleasant** **encounter** today. I met the **pope**!
+The **scout** has a **chronic** problem. He always looks at the **globe** and lets his mind **drift**. His **excuse** is always the same: "I'm thinking about **unity**." He thinks about the wide **spectrum** of people. His leader doesn't like this. He says, "This is not time for **rhetoric**! We need action, not **continuous** dreaming! Our **engagement** is important!"
 
-А: У меня сегодня была **приятная** **встреча**. Я встретил **папу римского**!
-
-B:  Wow! That's **meaningful**! Did he give you any **guidance**?
-
-Б: Вау! Это **значительно**! Он дал тебе какое-нибудь **руководство**?
-
-A:  He gave me a **mandate** to spread **virtual** kindness.  He didn't **strip** off his clothes, though.
-
-А: Он дал мне **наказ** распространять **действительную** доброту. Хотя он не **раздевался**.
-
-B: I'm glad to hear that.  My uncle is a **colonel**. He suffers from a **chronic** illness.
-
-Б: Рада это слышать. Мой дядя - **полковник**. Он страдает от **хронического** заболевания.
+У **разведчика** **хроническая** проблема. Он всегда смотрит на **глобус** и позволяет своему разуму **дрейфовать**. Его **оправдание** всегда одно и то же: "Я думаю о **единстве**." Он думает о широком **спектре** людей. Его лидеру это не нравится. Он говорит: "Сейчас не время для **риторики**! Нам нужны действия, а не **непрерывные** мечты! Наша **договоренность** важна!"
 
 ## #37<common/>
 
-**colonel** [кЭрнэл] *сущ.* полковник; **diagnosis** [дАйэгнOусэс] *сущ.* диагноз; **drunk** [дрАнк] *прил.* пьяный; **pleasant** [плЕзэнт] *прил.* приятный; **mandate** [мЭндЕйт] *сущ.* наказ; **suite** [суИт] *сущ.* номер-люкс; **domain** [дoумЕйн] *сущ.* область; **needle** [нИдэл] *сущ.* игла; **hallway** [хОлуЕй] *сущ.* прихожая; **survey** [сэрвЕй] *гл.* обследовать; **dose** [дOус] *сущ.* доза<common/>
+**compromise** [кАмпрэмАйз] *сущ.* компромисс; **rip** [рЫп] *гл.* рвать; **volunteer** [вАлэнтЫр] *гл.* предлагать; **parliament** [пАрлэмэнт] *сущ.* парламент; **juror** [джУрэр] *сущ.* член жюри; **pension** [пЕншэн] *сущ.* пенсия; **civilian** [сэвЫлйэн] *сущ.* штатский; **drunk** [дрАнк] *прил.* пьяный; **hallway** [хОлуЕй] *сущ.* прихожая; **uncertainty** [энсЭртэнти] *сущ.* неопределенность; **continuous** [кэнтЫнйуэс] *прил.* непрерывный<common/>
 
-A:  The **hallway** is very **pleasant**.  I like the **suite**.
+The **drunk** man walked into the **hallway**. He felt **uncertainty**. He wanted his **pension**. A **civilian** saw him **rip** a poster. It was about the **parliament**. No one wanted a **compromise**. A **juror** was there. He didn't **volunteer** to help. The rain was **continuous**.
 
-А: **Прихожая** очень **приятная**. Мне нравится **номер-люкс**.
-
-B: Yes, it’s a nice hotel. The doctor gave me a **diagnosis** today. I need a **dose** of medicine.
-
-B: Да, это хороший отель. Сегодня доктор поставил мне **диагноз**. Мне нужна **доза** лекарства.
-
-A: Oh no! What’s wrong?
-
-А: О нет! Что случилось?
-
-B: The **colonel** said I need to **survey** the **domain** in the morning. But I’m a little **drunk**. I think I'll just stay here and use this **needle** for my sewing kit. I have a **mandate** to rest, you see!
-
-B: **Полковник** сказал, что мне нужно **обследовать** **область** утром. Но я немного **пьян**. Думаю, я просто останусь здесь и использую эту **иглу** для своего швейного набора. У меня есть **наказ** отдохнуть, понимаешь!
+**Пьяный** мужчина вошел в **прихожую**. Он чувствовал **неопределенность**. Он хотел свою **пенсию**. **Штатский** увидел, как он **рвет** плакат. Это было о **парламенте**. Никто не хотел **компромисс**. Там был **член жюри**. Он не **предлагал** помощь. Дождь был **непрерывный**.
 
 ## #38<common/>
 
-**pension** [пЕншэн] *сущ.* пенсия; **addition** [эдЫшэн] *сущ.* дополнение; **encounter** [ынкАунтэр] *сущ.* встреча; **frame** [фрЕйм] *гл.* обрамлять; **rhetoric** [рЕтэрык] *сущ.* риторика; **departure** [дыпАрчэр] *сущ.* отъезд; **scout** [скАут] *сущ.* разведчик; **intent** [ЫнтЕнт] *сущ.* намерение; **guilt** [гЫлт] *сущ.* вина; **trigger** [трЫгэр] *гл.* запускать; **herb** [Эрб] *сущ.* трава<common/>
+**encounter** [ынкАунтэр] *сущ.* встреча; **acquisition** [ЭкуэзЫшэн] *сущ.* приобретение; **exhibit** [ыгзЫбыт] *сущ.* экспонат; **humanity** [хйумЭныти] *сущ.* человечество; **debate** [дэбЕйт] *гл.* обсуждать; **addition** [эдЫшэн] *сущ.* дополнение; **diminish** [дымЫныш] *гл.* уменьшать; **counseling** [кАунсэлын] *сущ.* консультация; **profound** [прoуфАунд] *прил.* глубокий; **stuff** [стАф] *гл.* набивать; **patient** [пЕйшэнт] *прил.* терпеливый<common/>
 
-A: I'm so **happy** about my new **pension**!  It's a welcome **addition** to my savings.
+A little alien came to Earth. His **encounter** with a dog was funny. He liked it! His **acquisition** of a new toy made him happy. He saw an **exhibit** about **humanity**. It made him **debate** good and bad. An **addition** of love can make fear **diminish**. He needed **counseling**. The wise owl gave **profound** advice. "Don't **stuff** your heart with sadness. Be **patient**."
 
-А: Я так **счастлив** насчет моей новой **пенсии**! Это желанное **дополнение** к моим сбережениям.
-
-B: That's great! Did you have an interesting **encounter** with anyone at the **pension** office?
-
-Б: Это здорово! У тебя была интересная **встреча** с кем-нибудь в отделе **пенсий**?
-
-A:  Yes! I met a former **scout**. He was quite a character. He **framed** a photo of his **departure** from the army.  His **rhetoric** was something else!
-
-А: Да! Я встретил бывшего **разведчика**. Он был довольно колоритным персонажем. Он **оформил** фотографию своего **отъезда** из армии. Его **риторика** была чем-то особенным!
-
-B:  Oh really? What was his **intent**?
-
-Б: О, правда? Каким было его **намерение**?
-
-A: I think he felt some **guilt** about something.  A single word **triggered** a whole story about a stolen **herb**.
-
-А: Я думаю, он чувствовал некоторую **вину** из-за чего-то. Одно слово **запустило** целую историю о украденной **траве**.
+Маленький инопланетянин прилетел на Землю. Его **встреча** с собакой была забавной. Ему понравилось! Его **приобретение** новой игрушки сделало его счастливым. Он увидел **экспонат** о **человечестве**. Это заставило его **обсуждать** хорошее и плохое. **Дополнение** любви может **уменьшать** страх. Ему была нужна **консультация**. Мудрая сова дала **глубокий** совет. "Не **набивай** свое сердце грустью. Будь **терпеливым**."
 
 ## #39<common/>
 
-**shuttle** [шАтэл] *сущ.* перевозки; **virtual** [вЭрчуэл] *прил.* действительный; **parliament** [пАрлэмэнт] *сущ.* парламент; **consistently** [кэнсЫстэнтли] *нар.* постоянно; **debate** [дэбЕйт] *гл.* обсуждать; **residence** [рЕзыдэнс] *сущ.* проживание; **wider** [-] *прил.* широкий; **fiscal** [фЫскэл] *прил.* фискальный; **acquisition** [ЭкуэзЫшэн] *сущ.* приобретение; **supervisor** [сУпэрвАйзэр] *сущ.* руководитель<common/>
+**hostage** [хАстыдж] *сущ.* заложник; **hook** [хУк] *сущ.* крюк; **endorse** [ендОрс] *гл.* одобрять; **unity** [йУнэти] *сущ.* единство; **diagnosis** [дАйэгнOусэс] *сущ.* диагноз; **await** [эуЕйт] *гл.* ждать; **pop** [пАп] *сущ.* хлопок; **accommodate** [экАмэдЕйт] *гл.* вмещать; **companion** [кэмпЭнйэн] *сущ.* компаньон; **fiscal** [фЫскэл] *прил.* фискальный<common/>
 
-A:  I need a **shuttle** to the airport for my **virtual** meeting.  The **parliament** will **consistently** **debate** the new **fiscal** policies.
+A small town had a big problem. A bad man took a **hostage**. He used a **hook** to hold the door. Nobody could **endorse** his actions. The town needed **unity**. The doctor's **diagnosis** was that the man was very ill. Everyone had to **await** the police. Suddenly, a **pop** was heard! The police came. The jail could **accommodate** the man. The **companion** of the **hostage** was very happy. This was a **fiscal** relief for the town.
 
-А: Мне нужна **перевозка** в аэропорт для моей **действительной** встречи.  **Парламент** будет **постоянно** **обсуждать** новую **фискальную** политику.
-
-B:  The **residence** permit is part of the **wider** discussion.  What about the **acquisition** of the new building? Did you talk to your **supervisor**?
-
-B: Разрешение на **проживание** является частью более **широкого** обсуждения. А как насчет **приобретения** нового здания? Вы поговорили со своим **руководителем**?
+В маленьком городке была большая проблема. Плохой человек взял **заложника** (hostage). Он использовал **крюк** (hook), чтобы удержать дверь. Никто не мог **одобрять** (endorse) его действия. Городу было нужно **единство** (unity). **Диагноз** (diagnosis) доктора был в том, что человек очень болен. Все должны были **ждать** (await) полицию. Вдруг, был слышен **хлопок** (pop)! Пришла полиция. Тюрьма могла **вместить** (accommodate) этого человека. **Компаньон** (companion) **заложника** (hostage) был очень счастлив. Это было **фискальное** (fiscal) облегчение для города.
 
 ## #40<common/>
 
-**complexity** [кэмплЕксэти] *сущ.* сложность; **adolescent** [ЭдэлЕсэнт] *сущ.* подросток; **pop** [пАп] *сущ.* хлопок; **forehead** [фОрхед] *сущ.* лоб; **particle** [пАртэкэл] *сущ.* частица; **counterpart** [кАунтэрпАрт] *сущ.* коллега; **juror** [джУрэр] *сущ.* член жюри; **counseling** [кАунсэлын] *сущ.* консультация; **warm** [уОрм] *гл.* нагревать; **currency** [кЭрэнси] *сущ.* валюта<common/>
+**blow** [блOу] *сущ.* удар; **warm** [уОрм] *гл.* нагревать; **colonel** [кЭрнэл] *сущ.* полковник; **aim** [Ейм] *сущ.* цель; **recession** [рысЕшэн] *сущ.* спад; **skirt** [скЭрт] *сущ.* юбка; **donor** [дOунэр] *сущ.* даритель; **globe** [глOуб] *сущ.* глобус; **complexity** [кэмплЕксэти] *сущ.* сложность; **glance** [глЭнс] *сущ.* взгляд<common/>
 
-A:  My **counseling** session was difficult.  The **complexity** of my problems is overwhelming.
+The **colonel** had a **blow**. The **recession** was bad. He needed a new **aim**. A rich **donor** came. He saw the colonel's old **skirt**. He gave money to **warm** the room. The colonel gave a quick **glance** at the **globe**. He understood the **complexity**. The **globe** was his new aim, not only money.
 
-A: Моя **консультация** была сложной.  **Сложность** моих проблем подавляет.
-
-B: I understand.  Being an **adolescent** is hard.  Even a small **particle** of dust can annoy you, right?
-
-B: Я понимаю. Быть **подростком** тяжело. Даже маленькая **частица** пыли может раздражать, правда?
-
-A: Exactly! And my **counterpart** at work, he makes everything more difficult.
-
-A: Именно! И мой **коллега** на работе, он делает всё ещё сложнее.
-
-B:  Maybe you need to **warm** up to him. Try a nice cotton **pop** on his **forehead**.
-
-B: Может быть, тебе нужно сблизиться с ним. Попробуй приятно хлопнуть его по **лбу** ватным **хлопком**.
-
-A: Haha, no! What about the **juror** who didn't listen to my arguments?
-
-A: Ха-ха, нет! А как насчёт **члена жюри**, который не слушал мои доводы?
-
-B:  That's frustrating.  Dealing with legal **currency** can be stressful too.
-
-B: Это расстраивает. Работа с законными **денежными средствами** тоже может быть стрессовой.
+У **полковника** был **удар**. **Спад** был плохим. Ему нужна была новая **цель**. Пришел богатый **даритель**. Он увидел старую **юбку** полковника. Он дал деньги, чтобы **нагреть** комнату. Полковник бросил быстрый **взгляд** на **глобус**. Он понял **сложность**. **Глобус** был его новой целью, не только деньги.
 
 ## #41<common/>
 
-**endorse** [ендОрс] *гл.* одобрять; **compromise** [кАмпрэмАйз] *сущ.* компромисс; **fitness** [фЫтнэс] *сущ.* хорошее здоровье; **aim** [Ейм] *сущ.* цель; **nail** [нЕйл] *сущ.* ноготь; **popularity** [пАпйэлЕрэти] *сущ.* популярность; **hostage** [хАстыдж] *сущ.* заложник; **notice** [нOутэс] *сущ.* уведомление; **diminish** [дымЫныш] *гл.* уменьшать; **stuff** [стАф] *гл.* набивать<common/>
+**meaningful** [мИнынфэл] *прил.* значительный; **adolescent** [ЭдэлЕсэнт] *сущ.* подросток; **bite** [бАйт] *сущ.* укус; **advocate** [Эдвэкэт] *гл.* поддерживать; **needle** [нИдэл] *сущ.* игла; **consult** [кэнсАлт] *гл.* консультировать; **scout** [скАут] *сущ.* разведчик; **suite** [суИт] *сущ.* номер-люкс; **bias** [бАйэс] *сущ.* предвзятость; **dose** [дOус] *сущ.* доза<common/>
 
-A: I want to **diminish** my stress. My **aim** is better **fitness**.
+A young **adolescent** is sad. A dog gives him a little **bite**! It is a small **bite**. The **adolescent** wants to be a **scout**. He wants to **advocate** for animals. He needs to **consult** a doctor. The doctor uses a **needle** for a small **dose** of medicine. The hotel has a nice **suite**. But there is **bias** against the **adolescent**. This is not **meaningful**.
 
-А: Я хочу **уменьшить** свой стресс. Моя **цель** - улучшить **здоровье**.
-
-B: That's a great **aim**!  I **endorse** that.  Did you see the **notice** about the gym's new classes?
-
-В: Это отличная **цель**! Я это **одобряю**. Ты видела **уведомление** о новых классах в спортзале?
-
-A: No, I didn't.  I hope they have something to help me. This constant worry is holding me **hostage**.
-
-А: Нет, не видела. Надеюсь, там найдется что-нибудь, что мне поможет. Это постоянное беспокойство держит меня в **заложниках**.
-
-B:  Maybe yoga? It's gaining **popularity**.  It's a good **compromise** between relaxation and exercise.  You don't need special equipment, just a mat and maybe some **stuff** to help you relax.  Don't forget to cut your **nails** before you start.
-
-В: Может быть, йога? Она набирает **популярность**. Это хороший **компромисс** между отдыхом и физическими упражнениями. Тебе не понадобится специальное оборудование, только коврик и, может быть, какие-нибудь вещи, чтобы помочь тебе расслабиться. Не забудь подстричь **ногтей**, прежде чем начать.
+Молодой **подросток** грустит. Собака делает ему маленький **укус**! Это маленький **укус**. **Подросток** хочет быть **разведчиком**. Он хочет **поддерживать** животных. Ему нужно **консультироваться** с врачом. Врач использует **иглу** для маленькой **дозы** лекарства. В отеле есть хороший **номер-люкс**. Но есть **предубеждение** против **подростка**. Это не **значимо**.
 
 ## #42<common/>
 
-**govern** [гАвэрн] *гл.* править; **harm** [хАрм] *сущ.* вред; **project** [прАджект] *гл.* проецировать; **excuse** [ыкскйУс] *сущ.* оправдание; **bias** [бАйэс] *сущ.* предвзятость; **glance** [глЭнс] *сущ.* взгляд; **pope** [пOуп] *сущ.* папа римский; **lobby** [лАби] *сущ.* вестибюль; **globe** [глOуб] *сущ.* глобус; **ownership** [OунэршЫп] *сущ.* собственность<common/>
+**hence** [хЕнс] *нар.* отсюда; **supervisor** [сУпэрвАйзэр] *сущ.* руководитель; **intelligent** [ЫнтЕлэджэнт] *прил.* умный; **pleasant** [плЕзэнт] *прил.* приятный; **leap** [лИп] *гл.* скакать; **govern** [гАвэрн] *гл.* править; **pope** [пOуп] *сущ.* папа римский; **chronic** [крАнык] *прил.* хронический; **counterpart** [кАунтэрпАрт] *сущ.* коллега; **delicate** [дЕлэкэт] *прил.* нежный<common/>
 
-A:  Look! The **globe** in the **lobby** is so big!  I can **project** a map of the world onto it.
+Tom is **intelligent**. He has a **pleasant** job. His **supervisor** is nice. Tom's job is not **chronic**; it is new! He does not **govern** the world. He cannot **leap** over buildings. He is not the **Pope**. He has a **counterpart** in Italy. Her job is **delicate**. **Hence**, Tom is happy.
 
-A: Смотри! **Глобус** в **вестибюле** такой большой! Я могу **проецировать** на него карту мира.
-
-B: Wow! Does the **Pope** **govern** the whole world?
-
-B: Вау! А **Папа Римский** **правит** всем миром?
-
-A: No! That's a silly idea.  It would **harm** many people.  That’s just a **bias**.  My **excuse** is that I was just joking!
-
-A: Нет! Это глупая идея. Это могло бы **навредить** многим людям. Это просто **предвзятость**. Моё **оправдание** в том, что я просто шутил!
-
-B:  I see your point. I just took a quick **glance**.  And what about **ownership** of the globe?
-
-B: Я понимаю твою точку зрения. Я просто бросил **взгляд**. А что насчёт **собственности** на глобус?
-
-A: It belongs to the hotel.
-
-A: Он принадлежит отелю.
+Том **умный**. У него **приятная** работа. Его **руководитель** хороший. Работа Тома не **хроническая**; она новая! Он не **правит** миром. Он не может **скакать** через здания. Он не **Папа Римский**. У него есть **коллега** в Италии. Ее работа **нежная**. **Отсюда** Том счастлив.
 
 ## #43<common/>
 
-**injure** [Ынджэр] *гл.* ранить; **engagement** [енгЕйджмэнт] *сущ.* договоренность; **peaceful** [пИсфэл] *прил.* спокойный; **delicate** [дЕлэкэт] *прил.* нежный; **skirt** [скЭрт] *сущ.* юбка; **civilian** [сэвЫлйэн] *сущ.* штатский; **colony** [кАлэни] *сущ.* колония; **driving** [дрАйвын] *прил.* приводной; **radiation** [рЕйдиЕйшэн] *сущ.* излучение; **uncertainty** [энсЭртэнти] *сущ.* неопределенность<common/>
+**convey** [кэнвЕй] *гл.* передавать; **gentle** [джЕнтэл] *прил.* нежный; **engagement** [енгЕйджмэнт] *сущ.* договоренность; **popularity** [пАпйэлЕрэти] *сущ.* популярность; **survey** [сэрвЕй] *гл.* обследовать; **lobby** [лАби] *сущ.* вестибюль; **rhetoric** [рЕтэрык] *сущ.* риторика; **driving** [дрАйвын] *прил.* приводной; **project** [прАджект] *гл.* проецировать; **nail** [нЕйл] *сущ.* ноготь<common/>
 
-A:  I saw a **peaceful** bird today.  It was so **delicate**. It wore a little **skirt** of feathers.
+The **gentle** dog likes to stay in the **lobby**. He is very **popular**. We have an **engagement** to **survey** the park today. The owner wants to **convey** that the dog's **nail** is broken. It is a **driving** force behind a new **project**. The owner does not use much **rhetoric**, he just shows the hurt paw. We need to **project** kindness.
 
-А: Сегодня я видела **спокойную** птицу. Она была такая **нежная**. У неё был маленький перьевой «**юбочка**».
-
-B: That's lovely!  Did you hear about the **driving** test? I have an **engagement** to take it next week.
-
-Б: Это чудесно! А ты слышала про экзамен на вождение? У меня есть **договоренность** сдать его на следующей неделе.
-
-A: Yes, I did!  There's a lot of **uncertainty** about the new **colony** on Mars. They worry about the **radiation**.
-
-А: Да, слышала! Есть много **неопределённости** по поводу новой **колонии** на Марсе. Они беспокоятся о **излучении**.
-
-B:  And I heard someone got **injured** there. A **civilian** worker. It's very sad.
-
-Б: И я слышала, что там кто-то **ранелся**. Рабочий-**штатский**. Очень печально.
+**Нежный** пес любит находиться в **вестибюле**. Он очень **популярен**. У нас есть **договоренность** сегодня **обследовать** парк. Хозяин хочет **передать**, что у собаки сломан **ноготь**. Это **приводная** сила для нового **проекта**. Хозяин не использует много **риторики**, он просто показывает больную лапу. Нам нужно **проецировать** доброту.
 
 ## #44<common/>
 
-**recession** [рысЕшэн] *сущ.* спад; **profound** [прoуфАунд] *прил.* глубокий; **bite** [бАйт] *сущ.* укус; **spectrum** [спЕктрэм] *сущ.* спектр; **hence** [хЕнс] *нар.* отсюда; **volunteer** [вАлэнтЫр] *гл.* предлагать; **leap** [лИп] *гл.* скакать; **readily** [рЕдэли] *нар.* охотно; **donor** [дOунэр] *сущ.* даритель; **continuing** [кэнтЫнйуын] *прил.* постоянный<common/>
+**envelope** [ЕнвэлOуп] *сущ.* конверт; **transaction** [трэнзЭкшэн] *сущ.* сделка; **tune** [тУн] *гл.* настраивать; **residence** [рЕзыдэнс] *сущ.* проживание; **currency** [кЭрэнси] *сущ.* валюта; **commonly** [кАмэнли] *нар.* обычно; **serving** [сЭрвын] *сущ.* служение; **readily** [рЕдэли] *нар.* охотно; **ownership** [OунэршЫп] *сущ.* собственность; **shuttle** [шАтэл] *сущ.* перевозки<common/>
 
-A:  The **recession** is **profound**.  I got a **bite** from a mosquito!
+Tom has a small **envelope**. He wants to **tune** his radio. He needs money. The **currency** is Euros. He lives at a small **residence**. He works for a **shuttle** service. This is his **ownership**, a small van. He does this **commonly**. His job is **serving** people. Every **transaction** is important. He does it **readily**. It is good.
 
-А: Этот **спад** **глубокий**. Меня укусил комар!
-
-B:  Yes, it affects the whole **spectrum** of society. **Hence**, many people are struggling.
-
-B: Да, он затрагивает весь **спектр** общества. **Отсюда**  многие люди борются с трудностями.
-
-A: I **volunteer** to help.  I will **leap** at the chance to help those in need.
-
-А: Я **предлагаю** помощь. Я с радостью воспользуюсь возможностью помочь нуждающимся.
-
-B: That's wonderful! We **readily** accept donations from **donor**s like you.  This is a **continuing** crisis.
-
-B: Это замечательно! Мы **охотно** принимаем пожертвования от таких **дарителей**, как вы. Это **постоянный** кризис.
+У Тома есть маленький **конверт**. Он хочет **настроить** свое радио. Ему нужны деньги. **Валюта** - евро. Он живет в небольшом **месте проживания**. Он работает в службе **перевозок**. Это его **собственность**, маленький фургон. Он делает это **обычно**. Его работа - **служение** людям. Каждая **сделка** важна. Он делает это **охотно**. Это хорошо.
 
 ## #45<common/>
 
-**pad** [пЭд] *сущ.* панель; **guidance** [гАйдэнс] *сущ.* руководство; **humanity** [хйумЭныти] *сущ.* человечество; **patient** [пЕйшэнт] *прил.* терпеливый; **average** [Эвэрыдж] *гл.* усреднять; **sidewalk** [сАйдуОк] *сущ.* тротуар; **drift** [дрЫфт] *гл.* дрейфовать; **meaningful** [мИнынфэл] *прил.* значительный; **serving** [сЭрвын] *сущ.* служение; **separation** [сЕпэрЕйшэн] *сущ.* отделение<common/>
+**sidewalk** [сАйдуОк] *сущ.* тротуар; **structural** [стрАкчэрэл] *прил.* структурный; **array** [эрЕй] *сущ.* множество; **virtual** [вЭрчуэл] *прил.* действительный; **mandate** [мЭндЕйт] *сущ.* наказ; **strip** [стрЫп] *гл.* раздеваться; **notice** [нOутэс] *сущ.* уведомление; **guilt** [гЫлт] *сущ.* вина; **adoption** [эдАпшэн] *сущ.* принятие; **spectrum** [спЕктрэм] *сущ.* спектр<common/>
 
-A: Look at that **pad**!  It's so smooth.  We need **guidance** to install it properly.
+The man walks on the **sidewalk**. It has **structural** problems. He sees an **array** of colors. It is like a **virtual** rainbow. His **mandate** is simple: He must **strip** the old paint. He reads a **notice**: "Work in progress". He feels no **guilt**. He supports the **adoption** of new methods. He likes the full **spectrum** of light.
 
-А: Посмотри на эту **панель**! Она такая гладкая. Нам нужно **руководство**, чтобы правильно её установить.
-
-B: I know,  this is a **meaningful** project for all of **humanity**. Be **patient**. We can **average** the measurements to find the best fit.  Let's walk on the **sidewalk** and think.
-
-Б: Я знаю, это **значимый** проект для всего **человечества**. Будь **терпелив**. Мы можем **усреднить** измерения, чтобы найти лучшее соответствие. Давай пройдёмся по **тротуару** и подумаем.
-
-A: Okay.  I don't want to **drift** too far from the topic.  Our **serving** of this project is to improve this whole building.
-
-А: Ладно. Я не хочу **дрейфовать** слишком далеко от темы. Наше **служение** в этом проекте — улучшить всё это здание.
-
-B: And the **separation** between the panels is important, correct?
-
-Б: И **отделение** между панелями важно, верно?
+Человек идет по **тротуару** (sidewalk). У него **структурные** (structural) проблемы. Он видит **множество** (array) цветов. Это как **действительная** (virtual) радуга. Его **наказ** (mandate) прост: Он должен **раздеваться** (strip) от старой краски (удалить старую краску). Он читает **уведомление** (notice): "Работа в процессе". Он не чувствует **вины** (guilt). Он поддерживает **принятие** (adoption) новых методов. Ему нравится полный **спектр** (spectrum) света.
 
 ## #46<common/>
 
-**await** [эуЕйт] *гл.* ждать; **consult** [кэнсАлт] *гл.* консультировать; **rip** [рЫп] *гл.* рвать; **blow** [блOу] *сущ.* удар; **horrible** [хОрэбэл] *прил.* ужасный; **gentle** [джЕнтэл] *прил.* нежный; **transaction** [трэнзЭкшэн] *сущ.* сделка; **recipient** [рэсЫпиэнт] *сущ.* получатель; **tune** [тУн] *гл.* настраивать; **accommodate** [экАмэдЕйт] *гл.* вмещать<common/>
+**cholesterol** [кэлЕстэрОл] *сущ.* холестерин; **separation** [сЕпэрЕйшэн] *сущ.* отделение; **drift** [дрЫфт] *гл.* дрейфовать; **injure** [Ынджэр] *гл.* ранить; **wider** [-] *прил.* широкий; **questionnaire** [куЕсчэнЕр] *сущ.* вопросник; **forehead** [фОрхед] *сущ.* лоб; **departure** [дыпАрчэр] *сущ.* отъезд; **recipient** [рэсЫпиэнт] *сущ.* получатель; **herb** [Эрб] *сущ.* трава<common/>
 
-A: I **await** the delivery. The **transaction** was a bit **horrible**.  I hope the **recipient** likes it.
+Tom is sad. His friend, Ben, has a **departure**. Ben will go far. Tom has a **questionnaire** about Ben. "Ben likes **herb**s?" it asks. Tom thinks about Ben. Ben eats healthy food. He knows about **cholesterol**. Tom hopes Ben will not **injure** himself. The sea is **wider** now. A boat can **drift**. Tom touches his **forehead**. He feels the sun. Ben is the **recipient** of Tom's letter. Tom feels the **separation**.
 
-А: Я **жду** доставку. **Сделка** была немного **ужасной**. Надеюсь, **получатель**  ей понравится.
-
-B: Oh dear! What happened? Did you **rip** the package?
-
-Б: Ой, ужас! Что случилось? Ты **порвала** посылку?
-
-A: No, but the delivery guy gave it a **blow**. It's a **gentle**  **blow**, but still... I need to **tune** my expectations. I hope they can **accommodate** a refund. I should **consult** someone about this.
-
-А: Нет, но курьер ударил её. Это был **нежный** **удар**, но всё же... Мне нужно **настроить** свои ожидания. Надеюсь, они смогут **учесть** возврат денег. Мне следует **проконсультироваться** с кем-нибудь по этому поводу.
+Том грустит. У его друга, Бена, **отъезд** (departure). Бен уедет далеко. У Тома есть **вопросник** (questionnaire) о Бене. "Бен любит **траву** (herb)?" - спрашивается в нём. Том думает о Бене. Бен ест здоровую пищу. Он знает о **холестерине** (cholesterol). Том надеется, что Бен не **поранит** (injure) себя. Море сейчас **шире** (wider). Лодка может **дрейфовать** (drift). Том трогает свой **лоб** (forehead). Он чувствует солнце. Бен - **получатель** (recipient) письма Тома. Том чувствует **отделение** (separation).
 
 ## #47<common/>
 
-**companion** [кэмпЭнйэн] *сущ.* компаньон; **unity** [йУнэти] *сущ.* единство; **hook** [хУк] *сущ.* крюк; **facilitate** [фэсЫлэтЕйт] *гл.* способствовать; **questionnaire** [куЕсчэнЕр] *сущ.* вопросник; **intelligent** [ЫнтЕлэджэнт] *прил.* умный; **outer** [Аутэр] *прил.* внешний; **continuous** [кэнтЫнйуэс] *прил.* непрерывный; **convey** [кэнвЕй] *гл.* передавать; **chronic** [крАнык] *прил.* хронический<common/>
+**horrible** [хОрэбэл] *прил.* ужасный; **trigger** [трЫгэр] *гл.* запускать; **consistently** [кэнсЫстэнтли] *нар.* постоянно; **colony** [кАлэни] *сущ.* колония; **particle** [пАртэкэл] *сущ.* частица; **intent** [ЫнтЕнт] *сущ.* намерение; **excuse** [ыкскйУс] *сущ.* оправдание; **average** [Эвэрыдж] *гл.* усреднять; **domain** [дoумЕйн] *сущ.* область; **pad** [пЭд] *сущ.* панель<common/>
 
-A: I have a new **companion**, a dog! He's very **intelligent**.
+The day was **horrible**. A tiny **particle** of dust fell on the **pad**. This **trigger**ed a big problem. The robots in the ant **colony** stopped working **consistently**. Their **intent** was good, but the **average** speed went to zero. The human scientist had no **excuse**. This was his **domain**, and he needed to fix it. He touched the **pad** again, hoping to stop the problem. He had no bad **intent**.
 
-А: У меня новый **компаньон**, собака! Он очень **умный**.
-
-B: That's great!  Does he **facilitate** your **continuous** walks?
-
-В: Это здорово! Он **способствует** твоим **непрерывным** прогулкам?
-
-A: Yes, and he helps me feel a sense of **unity** with nature.
-
-А: Да, и он помогает мне чувствовать единство с природой.
-
-B: Wonderful! I need to fill out this **questionnaire** about my **chronic** back pain.  Use this **hook** to hang it on the **outer** wall.  I need to **convey** my feelings clearly.
-
-В: Замечательно! Мне нужно заполнить этот **вопросник** о моей **хронической** боли в спине. Используй этот **крюк**, чтобы повесить его на **внешнюю** стену. Мне нужно ясно **передать** свои чувства.
+День был **ужасным**. Крошечная **частица** пыли упала на **панель**. Это **запустило** большую проблему. Роботы в муравьиной **колонии** перестали работать **постоянно**. Их **намерение** было хорошим, но **усредненная** скорость упала до нуля. У ученого-человека не было **оправдания**. Это была его **область**, и ему нужно было это исправить. Он снова коснулся **панели**, надеясь остановить проблему. У него не было плохого **намерения**.
 
 ## #48<common/>
 
-**administer** [эдмЫнэстэр] *гл.* управлять; **advocate** [Эдвэкэт] *гл.* поддерживать; **exhibit** [ыгзЫбыт] *сущ.* экспонат; **structural** [стрАкчэрэл] *прил.* структурный; **envelope** [ЕнвэлOуп] *сущ.* конверт; **commonly** [кАмэнли] *нар.* обычно; **array** [эрЕй] *сущ.* множество; **strip** [стрЫп] *гл.* раздеваться; **cholesterol** [кэлЕстэрОл] *сущ.* холестерин; **adoption** [эдАпшэн] *сущ.* принятие<common/>
+**continuing** [кэнтЫнйуын] *прил.* постоянный; **facilitate** [фэсЫлэтЕйт] *гл.* способствовать; **outer** [Аутэр] *прил.* внешний; **guidance** [гАйдэнс] *сущ.* руководство; **frame** [фрЕйм] *гл.* обрамлять; **peaceful** [пИсфэл] *прил.* спокойный; **fitness** [фЫтнэс] *сущ.* хорошее здоровье; **radiation** [рЕйдиЕйшэн] *сущ.* излучение; **harm** [хАрм] *сущ.* вред; **administer** [эдмЫнэстэр] *гл.* управлять<common/>
 
-A: I **commonly** see doctors **administer** medicine.  Did you see the **exhibit** on **structural** engineering?
+The sun is big. It has **outer** light. This light is **radiation**. Too much sun can **harm** you. We need **guidance** to stay safe. A **peaceful** day outside is good. It can **facilitate** good **fitness**. Good food and sun **frame** a healthy life. The doctor will **administer** advice. He gives **continuing** support for health.
 
-А: Я **обычно** вижу, как врачи **управляют** лечением. Ты видел **экспонат** о **структурной** инженерии?
-
-B: Yes! There was an amazing **array** of models. I also found a strange **envelope** in my mailbox. It contained information on the **adoption** of a child. Do you **advocate** for this?
-
-Б: Да! Там было удивительное **множество** моделей. Я также нашел странный **конверт** в своем почтовом ящике. В нем была информация о **принятии** ребенка. Ты **поддерживаешь** это?
-
-A:  It's a big decision.  High **cholesterol** runs in my family, so I have to be careful. I wouldn't want to **strip** myself of energy by taking on too much!
-
-А: Это большое решение. Высокий **холестерин** передается в моей семье, поэтому я должен быть осторожен. Я не хотел бы **раздеться** (лишиться сил) , взяв на себя слишком много!
+Солнце большое. У него **внешний** свет. Этот свет - **излучение**. Слишком много солнца может причинить **вред** тебе. Нам нужно **руководство**, чтобы оставаться в безопасности. **Спокойный** день на улице хороший. Это может **способствовать** хорошему **здоровью**. Хорошая еда и солнце **обрамляют** здоровую жизнь. Доктор будет **управлять** советами. Он дает **постоянную** поддержку для здоровья.
 
 ## #49<common/>
 
-**juror** [джУрэр] *сущ.* член жюри; **guidance** [гАйдэнс] *сущ.* руководство; **administer** [эдмЫнэстэр] *гл.* управлять; **recession** [рысЕшэн] *сущ.* спад; **engagement** [енгЕйджмэнт] *сущ.* договоренность; **bite** [бАйт] *сущ.* укус; **driving** [дрАйвын] *прил.* приводной; **counseling** [кАунсэлын] *сущ.* консультация; **cholesterol** [кэлЕстэрОл] *сущ.* холестерин; **excuse** [ыкскйУс] *сущ.* оправдание; **adolescent** [ЭдэлЕсэнт] *сущ.* подросток<common/>
+**parliament** [пАрлэмэнт] *сущ.* парламент; **continuing** [кэнтЫнйуын] *прил.* постоянный; **civilian** [сэвЫлйэн] *сущ.* штатский; **exhibit** [ыгзЫбыт] *сущ.* экспонат; **spectrum** [спЕктрэм] *сущ.* спектр; **pope** [пOуп] *сущ.* папа римский; **colony** [кАлэни] *сущ.* колония; **driving** [дрАйвын] *прил.* приводной; **notice** [нOутэс] *сущ.* уведомление; **envelope** [ЕнвэлOуп] *сущ.* конверт; **aim** [Ейм] *сущ.* цель<common/>
 
-A:  I need some **guidance**.  The **driving** system is broken.
+In the old **colony**, there was a **driving** school. A **civilian** saw a **notice** about a new **exhibit** in the **parliament**. The **aim** was to show the full **spectrum** of art. He got an **envelope** with an invitation from the **pope**. He understood the invitation was a **continuing** tradition of peace.
 
-А: Мне нужно **руководство**. **Приводная** система сломана.
-
-B:  I understand.  This **recession** is affecting everything.  Even the **juror** selection is taking longer.
-
-Б: Я понимаю. Этот **спад** влияет на всё. Даже отбор **членов жюри** занимает больше времени.
-
-A:  And my doctor wants me to get **counseling**. My **cholesterol** is high.
-
-А: И мой врач хочет, чтобы я прошла **консультацию**. У меня высокий **холестерин**.
-
-B:  Oh dear.  Did you get a **bite** from that dog?  That's no **excuse** for missing work.
-
-Б: О боже. Тебя укусила собака? Это не **оправдание** для пропуска работы.
-
-A:  Yes, I did!  And my **adolescent** child broke my laptop. I need help to **administer** things. There is some **engagement** with repairing it tomorrow.
-
-А: Да, укусила! И мой **подросток** сломал мой ноутбук. Мне нужна помощь, чтобы **управлять** делами. Завтра запланировано **соглашение** по его ремонту.
+В старой **колонии**, была **приводная** школа. **Штатский** увидел **уведомление** о новой **экспонате** в **парламенте**. **Целью** было показать полный **спектр** искусства. Он получил **конверт** с приглашением от **папы римского**. Он понял, что приглашение – это **постоянная** традиция мира.
 
 ## #50<common/>
 
-**leap** [лИп] *гл.* скакать; **commonly** [кАмэнли] *нар.* обычно; **serving** [сЭрвын] *сущ.* служение; **gentle** [джЕнтэл] *прил.* нежный; **consult** [кэнсАлт] *гл.* консультировать; **separation** [сЕпэрЕйшэн] *сущ.* отделение; **patient** [пЕйшэнт] *прил.* терпеливый; **horrible** [хОрэбэл] *прил.* ужасный; **skirt** [скЭрт] *сущ.* юбка; **compromise** [кАмпрэмАйз] *сущ.* компромисс; **needle** [нИдэл] *сущ.* игла<common/>
+**debate** [дэбЕйт] *гл.* обсуждать; **pleasant** [плЕзэнт] *прил.* приятный; **project** [прАджект] *гл.* проецировать; **commonly** [кАмэнли] *нар.* обычно; **fitness** [фЫтнэс] *сущ.* хорошее здоровье; **herb** [Эрб] *сущ.* трава; **compromise** [кАмпрэмАйз] *сущ.* компромисс; **warm** [уОрм] *гл.* нагревать; **guilt** [гЫлт] *сущ.* вина; **administer** [эдмЫнэстэр] *гл.* управлять; **endorse** [ендОрс] *гл.* одобрять<common/>
 
-A:  My cat **commonly** **leaps** onto the table! It's **horrible**!  He needs a new **skirt** for his scratching post.
+The class **debate** about a school **project**. It is **pleasant** to work together. **Commonly**, they **warm** milk for tea. They need **fitness** because they walk a lot. They find a special **herb** for the tea. They try to find a **compromise** about the herb. The teacher must **administer** the class. She doesn't **endorse** fighting. She feels **guilt** when students are sad. She wants to **project** happiness.
 
-А: Мой кот **обычно** **скачет** на стол! Это **ужасно**! Ему нужна новая **юбка** для его когтеточки.
-
-B: Oh, that’s a problem.  Perhaps you should **consult** a vet?  **Patient** **serving** of catnip might help.  We need a **compromise**.  Are you afraid of a **needle**?  Maybe **separation** will calm him down? It's important to be **gentle**.
-
-B: О, это проблема. Возможно, тебе следует **проконсультироваться** с ветеринаром?  **Терпеливое** **обслуживание** кошачьей мяты может помочь. Нам нужен **компромисс**. Ты боишься **иглы**? Может быть, **отделение** его успокоит? Важно быть **нежным**.
+Класс **обсуждает** школьный **проект**. Приятно работать вместе. **Обычно**, они **нагревают** молоко для чая. Им нужно **хорошее здоровье**, потому что они много ходят. Они находят особую **траву** для чая. Они пытаются найти **компромисс** насчет травы. Учитель должен **управлять** классом. Она не **одобряет** драки. Она чувствует **вину**, когда ученики грустят. Она хочет **проецировать** счастье.
 
 ## #51<common/>
 
-**pleasant** [плЕзэнт] *прил.* приятный; **delicate** [дЕлэкэт] *прил.* нежный; **pad** [пЭд] *сущ.* панель; **blow** [блOу] *сущ.* удар; **uncertainty** [энсЭртэнти] *сущ.* неопределенность; **readily** [рЕдэли] *нар.* охотно; **guilt** [гЫлт] *сущ.* вина; **colonel** [кЭрнэл] *сущ.* полковник; **departure** [дыпАрчэр] *сущ.* отъезд; **fiscal** [фЫскэл] *прил.* фискальный<common/>
+**fiscal** [фЫскэл] *прил.* фискальный; **lobby** [лАби] *сущ.* вестибюль; **stuff** [стАф] *гл.* набивать; **departure** [дыпАрчэр] *сущ.* отъезд; **encounter** [ынкАунтэр] *сущ.* встреча; **nail** [нЕйл] *сущ.* ноготь; **currency** [кЭрэнси] *сущ.* валюта; **companion** [кэмпЭнйэн] *сущ.* компаньон; **consistently** [кэнсЫстэнтли] *нар.* постоянно; **serving** [сЭрвын] *сущ.* служение<common/>
 
-A:  The **departure** was **pleasant**.  I felt no **guilt**.
+Tom has a small problem. He is at the airport. His **departure** is soon. He is in the **lobby**. He needs **currency** for his trip. He wants to buy **stuff** for his **companion**. He had a strange **encounter** with a man. The man talked about a **fiscal** year. Tom looked at his **nail** and smiled. He thought, "This is not my **serving**." He hopes the plane leaves **consistently** on time. He is not going to **stuff** his bag with more things.
 
-А: **Отъезд** был **приятным**. Я не чувствовал **вины**.
-
-B:  Really? I felt such **uncertainty**! The **blow** to the **fiscal** year was unexpected.
-
-Б:  Правда? Я чувствовал такую **неопределенность**! **Удар** по **фискальному** году был неожиданным.
-
-A:  The **delicate** flower **pad** on the dashboard made it a bit better. I **readily** agree it was a shock, though.  The **colonel** seemed upset too.
-
-А: **Нежная** цветочная **панель** на приборной доске немного улучшила ситуацию. Я **охотно** согласен, что это был шок.  **Полковник** тоже казался расстроенным.
+У Тома небольшая проблема. Он в аэропорту. Его **отъезд** скоро. Он в **вестибюле**. Ему нужна **валюта** для поездки. Он хочет купить **вещи** для своего **компаньона**. У него была странная **встреча** с мужчиной. Мужчина говорил про **фискальный** год. Том посмотрел на свой **ноготь** и улыбнулся. Он подумал: "Это не моё **служение**". Он надеется, что самолет улетит **постоянно** вовремя. Он не собирается **набивать** свою сумку большим количеством вещей.
 
 ## #52<common/>
 
-**diminish** [дымЫныш] *гл.* уменьшать; **adoption** [эдАпшэн] *сущ.* принятие; **glance** [глЭнс] *сущ.* взгляд; **civilian** [сэвЫлйэн] *сущ.* штатский; **donor** [дOунэр] *сущ.* даритель; **array** [эрЕй] *сущ.* множество; **hostage** [хАстыдж] *сущ.* заложник; **warm** [уОрм] *гл.* нагревать; **govern** [гАвэрн] *гл.* править; **wider** [-] *прил.* широкий<common/>
+**ownership** [OунэршЫп] *сущ.* собственность; **intelligent** [ЫнтЕлэджэнт] *прил.* умный; **frame** [фрЕйм] *гл.* обрамлять; **advocate** [Эдвэкэт] *гл.* поддерживать; **virtual** [вЭрчуэл] *прил.* действительный; **transaction** [трэнзЭкшэн] *сущ.* сделка; **intent** [ЫнтЕнт] *сущ.* намерение; **convey** [кэнвЕй] *гл.* передавать; **pad** [пЭд] *сущ.* панель; **delicate** [дЕлэкэт] *прил.* нежный<common/>
 
-A:  Look! There's a **wider** range of toys for **adoption** at the orphanage.
+The **ownership** of the cat was clear. The cat, named Pixel, was very **intelligent**. She liked to **frame** her face with her paws. Pixel would **advocate** for more treats! Her owner used a **virtual** cat toy. They had a simple **transaction**: toy for purrs. The **intent** was to play. Pixel could **convey** her love. She sat on a warm **pad**. Her owner's hands were **delicate**. Pixel was happy.
 
-A: Смотри! В приюте **широкий** выбор игрушек для **принятия**.
-
-B: Yes, the **donor**'s **array** of gifts will really **diminish** the children's sadness.
-
-B: Да, **множество** подарков от **дарителя** действительно **уменьшит** грусть детей.
-
-A:  I only had a quick **glance**, but I saw a stuffed bear.  A cute one!
-
-A: Я только мельком **взглянула**, но увидела плюшевого медведя. Милого!
-
-B: I hope they are all safe. We need to **govern** the situation to protect those **civilian** **hostages**.
-
-B: Надеюсь, все в безопасности. Нам нужно **управлять** ситуацией, чтобы защитить этих **штатских** **заложников**.
-
-A: Let's **warm** up some milk for the children.
-
-A: Давай **нагреем** детям молока.
+**Собственность** на кошку была очевидна. Кошка, по имени Пиксель, была очень **умная**. Она любила **обрамлять** свою мордочку лапками. Пиксель всегда **поддерживала** идею получить больше лакомств! Ее владелец использовал **виртуальную** игрушку для кошки. У них была простая **сделка**: игрушка в обмен на мурлыканье. **Намерение** состояло в том, чтобы поиграть. Пиксель могла **передавать** свою любовь. Она сидела на теплой **панели**. Руки ее владельца были **нежные**. Пиксель была счастлива.
 
 ## #53<common/>
 
-**companion** [кэмпЭнйэн] *сущ.* компаньон; **questionnaire** [куЕсчэнЕр] *сущ.* вопросник; **shuttle** [шАтэл] *сущ.* перевозки; **scout** [скАут] *сущ.* разведчик; **exhibit** [ыгзЫбыт] *сущ.* экспонат; **endorse** [ендОрс] *гл.* одобрять; **popularity** [пАпйэлЕрэти] *сущ.* популярность; **harm** [хАрм] *сущ.* вред; **stuff** [стАф] *гл.* набивать; **humanity** [хйумЭныти] *сущ.* человечество<common/>
+**scout** [скАут] *сущ.* разведчик; **consult** [кэнсАлт] *гл.* консультировать; **structural** [стрАкчэрэл] *прил.* структурный; **bias** [бАйэс] *сущ.* предвзятость; **gentle** [джЕнтэл] *прил.* нежный; **volunteer** [вАлэнтЫр] *гл.* предлагать; **pension** [пЕншэн] *сущ.* пенсия; **tune** [тУн] *гл.* настраивать; **humanity** [хйумЭныти] *сущ.* человечество; **adolescent** [ЭдэлЕсэнт] *сущ.* подросток<common/>
 
-A: I found a **questionnaire** about the new museum **exhibit**!  It asks about its **popularity**.
+A **scout** is a good job. He can **consult** a map. The map shows **structural** details. He must not have **bias**. He is **gentle** with animals. He will **volunteer** to help. He wants a good **pension** after work. He can **tune** his radio. He believes in **humanity**. Even an **adolescent** can learn to be a scout.
 
-А: Я нашла **вопросник** о новой музейной **экспозиции**! Там спрашивают о её **популярности**.
-
-B: Oh, really? What does it ask?
-
-В: О, правда? Что там спрашивают?
-
-A:  It asks if we **endorse** the museum's **shuttle** service. And if we think it will do any **harm** to the environment.
-
-А: Там спрашивают, **одобряем** ли мы работу службы **перевозок** музея. И думаем ли мы, что это нанесёт какой-либо **вред** окружающей среде.
-
-B:  I hope not! I heard they are going to **stuff** the new dinosaur **exhibit** with extra padding.
-
-В: Надеюсь, нет! Я слышала, что они собираются **набить** новую динозавровую **экспозицию** дополнительной подкладкой.
-
-A: Yes, to keep it safe.  My dad is a **scout**, you know, and he says this is good to protect it for **humanity**. He's my best **companion** on these trips.
-
-А: Да, чтобы обезопасить её. Мой папа – **разведчик**, знаешь, и он говорит, что это хорошо, чтобы защитить её для **человечества**. Он мой лучший **компаньон** в этих поездках.
+**Разведчик** - это хорошая работа. Он может **консультироваться** с картой. Карта показывает **структурные** детали. Он не должен иметь **предвзятости**. Он **нежный** с животными. Он будет **предлагать** помощь. Он хочет хорошую **пенсию** после работы. Он может **настраивать** свое радио. Он верит в **человечество**. Даже **подросток** может научиться быть разведчиком.
 
 ## #54<common/>
 
-**pope** [пOуп] *сущ.* папа римский; **domain** [дoумЕйн] *сущ.* область; **virtual** [вЭрчуэл] *прил.* действительный; **accommodate** [экАмэдЕйт] *гл.* вмещать; **encounter** [ынкАунтэр] *сущ.* встреча; **herb** [Эрб] *сущ.* трава; **particle** [пАртэкэл] *сущ.* частица; **strip** [стрЫп] *гл.* раздеваться; **drunk** [дрАнк] *прил.* пьяный; **supervisor** [сУпэрвАйзэр] *сущ.* руководитель<common/>
+**leap** [лИп] *гл.* скакать; **peaceful** [пИсфэл] *прил.* спокойный; **needle** [нИдэл] *сущ.* игла; **counterpart** [кАунтэрпАрт] *сущ.* коллега; **colonel** [кЭрнэл] *сущ.* полковник; **survey** [сэрвЕй] *гл.* обследовать; **chronic** [крАнык] *прил.* хронический; **glance** [глЭнс] *сущ.* взгляд; **continuous** [кэнтЫнйуэс] *прил.* непрерывный; **injure** [Ынджэр] *гл.* ранить<common/>
 
-A: I had a strange **encounter** yesterday.  I saw the **pope**!
+The **colonel** wants to **survey** the forest. It is very **peaceful**. He sees a rabbit. The rabbit can **leap**! But, oh no! The rabbit has a **needle** in its leg! It is a **chronic** problem. The colonel feels bad. He gives the rabbit a quick **glance**. His **counterpart**, another soldier, helps him. The soldier does not want the rabbit to **injure** itself more. The **continuous** pain is bad.
 
-A: У меня вчера была странная **встреча**. Я увидел **папу римского**!
-
-B: Really? Where?
-
-B: Правда? Где?
-
-A: In a **virtual** reality game! It was amazing.  The game could **accommodate** thousands of players.
-
-A: В игре **виртуальной** реальности! Это было потрясающе. Игра могла **вместить** тысячи игроков.
-
-A:  The game's **domain** was a fantasy world with giant **herbs**.
-
-A: **Областью** игры был фэнтезийный мир с гигантскими **травами**.
-
-B: Wow! Did anything funny happen?
-
-B: Вау! А что-нибудь смешное случилось?
-
-A: Yes! One player got completely **drunk** and started to **strip**!  My **supervisor** saw it too! It was a small **particle** of chaos in an otherwise great game.
-
-A: Да! Один игрок совершенно **опьянел** и начал **раздеваться**! Мой **руководитель** тоже это увидел! Это была маленькая **частица** хаоса в целом отличной игре.
+**Полковник** хочет **обследовать** лес. Он очень **спокойный**. Он видит кролика. Кролик может **скакать**! Но, о нет! У кролика **игла** в ноге! Это **хроническая** проблема. Полковнику грустно. Он бросает на кролика быстрый **взгляд**. Его **коллега**, другой солдат, помогает ему. Солдат не хочет, чтобы кролик больше **ранил** себя. **Непрерывная** боль - это плохо.
 
 ## #55<common/>
 
-**residence** [рЕзыдэнс] *сущ.* проживание; **tune** [тУн] *гл.* настраивать; **project** [прАджект] *гл.* проецировать; **forehead** [фОрхед] *сущ.* лоб; **pension** [пЕншэн] *сущ.* пенсия; **debate** [дэбЕйт] *гл.* обсуждать; **intent** [ЫнтЕнт] *сущ.* намерение; **facilitate** [фэсЫлэтЕйт] *гл.* способствовать; **unity** [йУнэти] *сущ.* единство; **bias** [бАйэс] *сущ.* предвзятость<common/>
+**patient** [пЕйшэнт] *прил.* терпеливый; **mandate** [мЭндЕйт] *сущ.* наказ; **addition** [эдЫшэн] *сущ.* дополнение; **bite** [бАйт] *сущ.* укус; **questionnaire** [куЕсчэнЕр] *сущ.* вопросник; **globe** [глOуб] *сущ.* глобус; **diagnosis** [дАйэгнOусэс] *сущ.* диагноз; **horrible** [хОрэбэл] *прил.* ужасный; **profound** [прoуфАунд] *прил.* глубокий; **blow** [блOу] *сущ.* удар<common/>
 
-A:  I'm looking for a new **residence**.  My **pension** isn't enough to cover my old apartment.
+Tom is a **patient** doctor. He has a **mandate**: help people. One day, a girl comes. She has a dog. The dog has a **bite**. The doctor asks questions, a **questionnaire**. He looks at a **globe** in his office. He makes a **diagnosis**: "Bad dog!" The girl cries. This is a **horrible** day for her. The doctor says, "This is not a **profound** problem. Just an **addition**: more love for the dog." He gives the dog a small **blow** on the nose. The dog wags his tail.
 
-A: Я ищу новое **проживание**. Моей **пенсии** не хватает на мою старую квартиру.
-
-B:  That's a tough situation. We should **debate** your options.  My **intent** is to **facilitate** finding you a suitable place.
-
-B: Это сложная ситуация. Мы должны **обсудить** твои варианты. Моё **намерение** - **способствовать** поиску подходящего места для тебя.
-
-A:  Thank you. I don't want any **bias** in the search. I want **unity** in my new community.
-
-A: Спасибо. Я не хочу никакой **предвзятости** в поиске. Я хочу **единства** в моём новом сообществе.
-
-B:  I understand. Let's **project** a map of available places onto the screen.  Just a moment while I **tune** my computer.  Did you feel a slight bump on your **forehead**?
-
-B: Я понимаю. Давай **проецировать** карту доступных мест на экран.  Одну минуту, пока я **настрою** свой компьютер. Ты почувствовал лёгкий удар в свой **лоб**?
+Том - **терпеливый** doctor. У него есть **наказ**: помогать людям. Однажды приходит девочка. У нее есть собака. У собаки **укус**. Доктор задает вопросы, **вопросник**. Он смотрит на **глобус** в своем офисе. Он ставит **диагноз**: "Плохая собака!" Девочка плачет. Это **ужасный** день для нее. Доктор говорит: "Это не **глубокая** проблема. Просто **дополнение**: больше любви для собаки." Он дает собаке небольшой **удар** по носу. Собака виляет хвостом.
 
 ## #56<common/>
 
-**chronic** [крАнык] *прил.* хронический; **transaction** [трэнзЭкшэн] *сущ.* сделка; **nail** [нЕйл] *сущ.* ноготь; **pop** [пАп] *сущ.* хлопок; **rip** [рЫп] *гл.* рвать; **envelope** [ЕнвэлOуп] *сущ.* конверт; **fitness** [фЫтнэс] *сущ.* хорошее здоровье; **meaningful** [мИнынфэл] *прил.* значительный; **consistently** [кэнсЫстэнтли] *нар.* постоянно; **parliament** [пАрлэмэнт] *сущ.* парламент<common/>
+**array** [эрЕй] *сущ.* множество; **hallway** [хОлуЕй] *сущ.* прихожая; **rip** [рЫп] *гл.* рвать; **dose** [дOус] *сущ.* доза; **adoption** [эдАпшэн] *сущ.* принятие; **accommodate** [экАмэдЕйт] *гл.* вмещать; **suite** [суИт] *сущ.* номер-люкс; **rhetoric** [рЕтэрык] *сущ.* риторика; **counseling** [кАунсэлын] *сущ.* консультация; **cholesterol** [кэлЕстэрОл] *сущ.* холестерин<common/>
 
-A:  I **consistently** try to improve my **fitness**.  I want to be healthy.
+The cat has a problem with **cholesterol**. Doctor gives a **dose** of medicine. It's hard! The cat doesn't like it. The cat lives in a big **suite**. There is an **array** of toys in the **hallway**. He likes to **rip** paper. His **adoption** was good. The family can **accommodate** him. They don't need **rhetoric** or **counseling**. The cat is happy!
 
-А: Я **постоянно** стараюсь улучшить своё **здоровье**. Хочу быть здоровым.
-
-B: That's **meaningful**.  Good for you!  Did you hear about that **transaction**?
-
-В: Это **значимо**. Молодец! Ты слышал о той **сделке**?
-
-A: The one with the broken **envelope**?  Yes!  I heard a **pop**, then I saw someone **rip** their **nail**!  It was so strange. They have a **chronic** back problem you know.
-
-А: Той, с порванным **конвертом**? Да! Я услышал **хлопок**, потом увидел, как кто-то **порвал** себе **ноготь**! Это было так странно. У них **хроническая** проблема со спиной, знаешь.
-
-B:  Oh, wow!  I hope **parliament** does something about **chronic** pain treatment.
-
-В: О, вау! Надеюсь, **парламент** что-нибудь сделает с лечением **хронических** болей.
+У кота проблема с **холестерином**. Доктор дает **дозу** лекарства. Это тяжело! Кот не любит его. Кот живет в большом **номере-люкс**. В **прихожей** есть **множество** игрушек. Он любит **рвать** бумагу. Его **принятие** было хорошим. Семья может **вместить** его. Им не нужна **риторика** или **консультация**. Кот счастлив!
 
 ## #57<common/>
 
-**rhetoric** [рЕтэрык] *сущ.* риторика; **advocate** [Эдвэкэт] *гл.* поддерживать; **complexity** [кэмплЕксэти] *сущ.* сложность; **sidewalk** [сАйдуОк] *сущ.* тротуар; **globe** [глOуб] *сущ.* глобус; **addition** [эдЫшэн] *сущ.* дополнение; **continuing** [кэнтЫнйуын] *прил.* постоянный; **dose** [дOус] *сущ.* доза; **ownership** [OунэршЫп] *сущ.* собственность; **counterpart** [кАунтэрпАрт] *сущ.* коллега<common/>
+**supervisor** [сУпэрвАйзэр] *сущ.* руководитель; **readily** [рЕдэли] *нар.* охотно; **engagement** [енгЕйджмэнт] *сущ.* договоренность; **uncertainty** [энсЭртэнти] *сущ.* неопределенность; **separation** [сЕпэрЕйшэн] *сущ.* отделение; **guidance** [гАйдэнс] *сущ.* руководство; **govern** [гАвэрн] *гл.* править; **complexity** [кэмплЕксэти] *сущ.* сложность; **pop** [пАп] *сущ.* хлопок; **hostage** [хАстыдж] *сущ.* заложник<common/>
 
-A: Look at this **globe**!  It's a great **addition** to my office.
+The **supervisor** was not happy. There was **uncertainty** about the project. He wanted his team to work **readily**. The **engagement** with the client had problems. There was a **separation** of tasks. He needed to **govern** the team well. He gave clear **guidance**. The **complexity** of the task was high. Suddenly, a loud **pop**! A **hostage** situation!
 
-А: Посмотри на этот **глобус**! Это отличное **дополнение** к моему офису.
-
-B:  It is!  The **complexity** of the world map is fascinating. I **advocate** for more visual learning tools like this.  
-
-B: Это правда! **Сложность** карты мира завораживает. Я **поддерживаю** больше наглядных пособий, подобных этому.
-
-A:  Me too. I'm a teacher, and sometimes empty **rhetoric** just doesn't cut it.  This makes things so much clearer.
-
-А: Я тоже. Я учитель, и иногда пустая **риторика** просто не работает. Это делает вещи намного понятнее.
-
-B:  Definitely.  Do you see that crack in the **sidewalk** across the street? It's a **continuing** problem. 
-
-B: Точно. Видишь эту трещину на **тротуаре** через улицу? Это **постоянная** проблема.
-
-A: Yes.  My **counterpart** at the other school has the same problem. It's a matter of **ownership** and budgeting, I guess.  We need a healthy **dose** of patience.
-
-А: Да. У моего **коллеги** в другой школе та же проблема. Это вопрос **собственности** и бюджета, я полагаю. Нам нужна здоровая **доза** терпения.
+**Руководитель** был недоволен. Была **неопределенность** по поводу проекта. Он хотел, чтобы его команда работала **охотно**. **Договоренность** с клиентом имела проблемы. Произошло **отделение** задач. Ему нужно было хорошо **править** командой. Он дал четкое **руководство**. **Сложность** задачи была высокой. Вдруг громкий **хлопок**! Ситуация с **заложником**!
 
 ## #58<common/>
 
-**survey** [сэрвЕй] *гл.* обследовать; **intelligent** [ЫнтЕлэджэнт] *прил.* умный; **average** [Эвэрыдж] *гл.* усреднять; **outer** [Аутэр] *прил.* внешний; **drift** [дрЫфт] *гл.* дрейфовать; **continuous** [кэнтЫнйуэс] *прил.* непрерывный; **await** [эуЕйт] *гл.* ждать; **notice** [нOутэс] *сущ.* уведомление; **currency** [кЭрэнси] *сущ.* валюта; **profound** [прoуфАунд] *прил.* глубокий<common/>
+**residence** [рЕзыдэнс] *сущ.* проживание; **particle** [пАртэкэл] *сущ.* частица; **drift** [дрЫфт] *гл.* дрейфовать; **harm** [хАрм] *сущ.* вред; **excuse** [ыкскйУс] *сущ.* оправдание; **wider** [-] *прил.* широкий; **popularity** [пАпйэлЕрэти] *сущ.* популярность; **strip** [стрЫп] *гл.* раздеваться; **forehead** [фОрхед] *сущ.* лоб; **trigger** [трЫгэр] *гл.* запускать<common/>
 
-A: I **surveyed** the **outer** space last night. I saw a star **drifting**.
+The sun is **wider** today. A small **particle** of dust made it bright. I feel the dust **drift**. I live in my small **residence**. It's hot. I want to **strip**. I sweat on my **forehead**. Heat can **trigger** anger. There is no **excuse** for being angry. Anger causes **harm**. I don't want **popularity** if I am angry.
 
-А: Я **обследовал** внешнее пространство прошлой ночью. Я видел звезду, которая **дрейфовала**.
-
-B: Wow! Did you **average** its speed?  It must be an **intelligent** observation!
-
-В: Вау! Ты **усреднял** её скорость? Это должно быть **умное** наблюдение!
-
-A:  I tried, but the data was incomplete. I **await** the final **notice** on my calculations.  It was a **continuous** process of observation, you know.  And the **profound** darkness made it difficult to read my instruments accurately.  Did you know they use a different **currency** on Mars?
-
-А: Я пытался, но данные были неполными. Я **жду** окончательное **уведомление** о моих расчетах. Это был **непрерывный** процесс наблюдения, понимаешь. И **глубокая** темнота затрудняла точное чтение моих приборов.  Знаешь ли ты, что на Марсе используют другую **валюту**?
+Сегодня солнце **шире** (wider). Маленькая **частица** (particle) пыли сделала его ярким. Я чувствую, как пыль **дрейфует** (drift). Я живу в моей маленькой **резиденции** (residence) / месте **проживания** (residence). Жарко. Я хочу **раздеться** (strip). Я потею на **лбу** (forehead). Жара может **запускать** (trigger) злость. Нет **оправдания** (excuse) быть злым. Злость причиняет **вред** (harm). Мне не нужна **популярность** (popularity), если я злой.
 
 ## #59<common/>
 
-**aim** [Ейм] *сущ.* цель; **structural** [стрАкчэрэл] *прил.* структурный; **diagnosis** [дАйэгнOусэс] *сущ.* диагноз; **convey** [кэнвЕй] *гл.* передавать; **injure** [Ынджэр] *гл.* ранить; **peaceful** [пИсфэл] *прил.* спокойный; **trigger** [трЫгэр] *гл.* запускать; **frame** [фрЕйм] *гл.* обрамлять; **hook** [хУк] *сущ.* крюк; **acquisition** [ЭкуэзЫшэн] *сущ.* приобретение<common/>
+**donor** [дOунэр] *сущ.* даритель; **recipient** [рэсЫпиэнт] *сущ.* получатель; **radiation** [рЕйдиЕйшэн] *сущ.* излучение; **sidewalk** [сАйдуОк] *сущ.* тротуар; **acquisition** [ЭкуэзЫшэн] *сущ.* приобретение; **diminish** [дымЫныш] *гл.* уменьшать; **domain** [дoумЕйн] *сущ.* область; **hook** [хУк] *сущ.* крюк; **hence** [хЕнс] *нар.* отсюда; **average** [Эвэрыдж] *гл.* усреднять<common/>
 
-A:  My **aim** is to build a **peaceful** life.
+The **donor** gave a strange gift. The **recipient** was scared. The gift had **radiation**! He found it on the **sidewalk**. This **acquisition** was not good. The **radiation** will **diminish**, he hoped. His **domain** was safety. He used a long **hook** to move the gift. **Hence**, he was careful. Experts will **average** the radiation level.
 
-А: Моя **цель** - построить **спокойную** жизнь.
-
-B: That's a good **aim**!  What's your plan?
-
-В: Это хорошая **цель**!  Какой у тебя план?
-
-A: I want to avoid anything that might **injure** me.  A recent **diagnosis** showed some **structural** problems.
-
-А: Я хочу избегать всего, что может меня **ранить**. Недавний **диагноз** показал некоторые **структурные** проблемы.
-
-B: Oh dear. I hope you can **convey** this information to your doctor.
-
-В: О, ужас. Надеюсь, ты сможешь **передать** эту информацию своему врачу.
-
-A: I will.  The doctor will then **frame** the best treatment plan. I need to avoid things that might **trigger** my problems.
-
-А: Я передам. Врач затем **обрамит** лучший план лечения. Мне нужно избегать вещей, которые могут **запускать** мои проблемы.
-
-B: A new **hook** for your fishing rod is a good **acquisition**!  Let’s go fishing! That will be **peaceful**!
-
-В: Новый **крючок** для твоей удочки - хорошее **приобретение**! Пойдем порыбачим! Это будет **спокойно**!
+**Даритель** gave a strange gift. **Получатель** испугался. В подарке было **излучение**! Он нашел его на **тротуаре**. Это **приобретение** было нехорошим. **Излучение** будет **уменьшаться**, он надеялся. Его **область** была безопасность. Он использовал длинный **крюк**, чтобы передвинуть подарок. **Отсюда**, он был осторожен. Эксперты будут **усреднять** уровень радиации.
 
 ## #60<common/>
 
-**lobby** [лАби] *сущ.* вестибюль; **suite** [суИт] *сущ.* номер-люкс; **mandate** [мЭндЕйт] *сущ.* наказ; **colony** [кАлэни] *сущ.* колония; **spectrum** [спЕктрэм] *сущ.* спектр; **hallway** [хОлуЕй] *сущ.* прихожая; **volunteer** [вАлэнтЫр] *гл.* предлагать; **hence** [хЕнс] *нар.* отсюда; **recipient** [рэсЫпиэнт] *сущ.* получатель; **radiation** [рЕйдиЕйшэн] *сущ.* излучение<common/>
+**meaningful** [мИнынфэл] *прил.* значительный; **skirt** [скЭрт] *сущ.* юбка; **drunk** [дрАнк] *прил.* пьяный; **shuttle** [шАтэл] *сущ.* перевозки; **facilitate** [фэсЫлэтЕйт] *гл.* способствовать; **recession** [рысЕшэн] *сущ.* спад; **await** [эуЕйт] *гл.* ждать; **unity** [йУнэти] *сущ.* единство; **juror** [джУрэр] *сущ.* член жюри; **outer** [Аутэр] *прил.* внешний<common/>
 
-A:  Excuse me, is the **suite** 302 in this **hallway**?
+Ann had a **meaningful** dream. In her dream, she wore a red **skirt**. A **drunk** man offered her a ride on a **shuttle**. He wanted to **facilitate** her journey. But there was a big problem: a **recession**! Everyone had to **await** the end. Only **unity** could help. One **juror** looked at the **outer** space and smiled.
 
-А: Извините, **номер-люкс** 302 находится в этом **прихожей**?
-
-B: No, it's down the **hallway** and to the right. You'll see the number on the door.  We have a **mandate** to keep the **lobby** clean.
-
-В: Нет, он в конце **прихожей**, справа. Вы увидите номер на двери. У нас есть **наказ** содержать **вестибюль** в чистоте.
-
-A: Oh, thank you.  I'm a **recipient** of a grant to study the effects of **radiation** on insect **colonies**.
-
-А: О, спасибо. Я **получатель** гранта на изучение воздействия **излучения** на насекомых **колонии**.
-
-B: That sounds interesting!  I **volunteer** to help you if you need a hand with your research.  The study of insects is fascinating. **Hence**, the **spectrum** of potential discoveries is vast.
-
-В: Звучит интересно! Я **предлагаю** помощь, если вам понадобится поддержка в ваших исследованиях. Изучение насекомых увлекательно. **Отсюда**, **спектр** потенциальных открытий огромен.
+У Анны был **значительный** сон. Во сне она носила красную **юбку**. **Пьяный** мужчина предложил ей поездку на **перевозке**. Он хотел **способствовать** ее путешествию. Но была большая проблема: **спад**! Все должны были **ждать** конца. Только **единство** могло помочь. Один **член жюри** посмотрел на **внешнее** пространство и улыбнулся.
 
 # 20
 
