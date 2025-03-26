@@ -1896,6 +1896,22 @@ namespace ConApp {
 
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
+            var path = @"d:\Projects\smalls\camb.txt";
+            var ss = File.ReadAllLines(path)
+                .Select(x => x.Split(new[] { "} " }, ssop))
+                .Select(x => new[] { $"{x[0]}}}", x[1] }).ToList();
+
+            var lRe = new Regex(@"\[[ABC][123]\]");
+            for (var i = 0; i < ss.Count; i++) {
+                var s = ss[i][1];
+                var sp = s.Split(new[] { "; " }, ssop).OrderBy(x => lRe.Match(x).Value);
+                s = string.Join("; ", sp);
+                ss[i][1] = s;
+            }
+
+            var rs = ss.Select(x => $"{x[0]} {x[1]}").ToList();
+            File.WriteAllLines(pathEx(path, "-2"), rs);
+
             /*
             var d20k = loadDic(@"d:\Projects\smalls\freq-20k.txt");
             var d100 = loadDic(@"d:\Projects\smalls\words-100.txt");
@@ -1949,102 +1965,6 @@ namespace ConApp {
             a = a.Take(a.Count - at.Count).ToList();
             ss = mergeEven(a, b).Concat(at).ToList();
             */
-            //ss = ss.Select(s => Regex.Replace(s, @"^\d+ ", "")).ToList();
-            //File.WriteAllLines(pathEx(path, "-2"), ss.Concat(ts));
-
-            var pDic = "verb-глагол;phrasal verb-глагол;modal verb-глагол;pronoun-местоимение;adverb-наречие;preposition-предлог;adjective-прилагательное;conjunction-союз;noun-существительное;determiner-определитель;exclamation-прочее;quantifier-определитель"
-                .Split(';').Select(x => x.Split('-')).ToDictionary(x => x[0], x => x[1]);
-            var lRe = new Regex(@"\b[AB][12]\b", RegexOptions.Compiled); // 
-            var l2Re = new Regex(@"\[s\]([AB][12]).png\[/s\]", RegexOptions.Compiled);
-            var l3Re = new Regex(@"\[([AB][12])\]", RegexOptions.Compiled);
-            var posRe = new Regex(@"\{[^}]+\}", RegexOptions.Compiled);
-            var pRe = new Regex(@"\[p\](.+?)\[/p\]", RegexOptions.Compiled);
-            var trnRe = new Regex(@"\[trn\](.+?)\[/trn\]", RegexOptions.Compiled);
-            var tRe = new Regex(@"\\\[|\[/?[^\]]+\]", RegexOptions.Compiled);
-            var tabRe = new Regex(@"^\t*", RegexOptions.Compiled);
-            var clRe = new Regex(@"^(\t[^\t]|\t+(\d+|[a-z])\. )", RegexOptions.Compiled);
-            var mRe = new Regex(@"\[m([012])\]", RegexOptions.Compiled);
-            //Console.WriteLine(Regex.Escape(@"[b hidden][c crimson]UK[/c][/b][s uk.png]ukabrea007.wav[/s]"));
-            var sRe = new Regex(@"\[c (blue|crimson)\](US|UK)\[/c\]", RegexOptions.Compiled); // \[b\ hidden]\[c\ crimson](UK|US)\[/c]\[/b]
-            var path = @"d:/.temp/cld/dic.dsl";
-            var dic = new Dictionary<string, string>();
-            var ss = File.ReadAllLines(path).ToList();
-            Func<string, int> nt = s => {
-                return tabRe.Match(s).Value.Length;
-            };
-
-            var ts = new List<string>();
-            var ps = "";
-            ss.ForEach(s => {
-                if (ps.StartsWith("\t") && !s.StartsWith("\t")) {
-                    ts.Clear();
-                }
-                if (clRe.IsMatch(s)) {
-                    var sNt = nt(s);
-                    ts = ts.Where(t => nt(t) < sNt).ToList();
-                }
-                ts.Add(s);
-                if (s.Contains("[trn]")) {
-                    var s2 = string.Join(" ", ts);
-                    var trn = string.Join(", ", trnRe.Matches(s).Cast<Match>().Select(m => m.Groups[1].Value)).Replace(";", ",");
-                    var poss = posRe.Matches(s2).Cast<Match>().Select(m => m.Value).ToList();
-                    var ls = string.Join("", l3Re.Matches(s2).Cast<Match>().Select(m => m.Value));
-                    if (ls == "") {
-                        ls = "[C3]";
-                    }
-                    if (poss.Count == 0) {
-                        poss.Add("{прочее}");
-                    }
-                    var ws = ts.Where(x => nt(x) == 0).ToList();
-                    poss.SelectMany(pos => ws.Select(w => $"{w} {pos}")).ToList().ForEach(x => {
-                        if (!dic.ContainsKey(x)) {
-                            dic[x] = $"{trn} {ls}";
-                        }
-                        else {
-                            dic[x] += $"; {trn} {ls}";
-                        }
-                    });
-                }
-
-                ps = s;
-            });
-
-
-            ss = ss
-                /*
-                .Select(s => handleString(s, pRe, (x, m) => {
-                    var p = m.Groups[1].Value;
-                    if (pDic.TryGetValue(p, out var pr)) {
-                        return $"{{{pr}}}";
-                    }
-                    return "";
-                }))
-                */
-                /*
-                .Select(s => handleString(s, tRe, (x, m) => {
-                    if (x.StartsWith("\\"))
-                        return x;
-                    var x2 = x.Replace("/", "");
-                    if (x2 != "[p]" && x2 != "[trn]")
-                        return "";
-
-                    return x;
-                }))
-                */
-                //.Select(s => l2Re.Replace(s, "{$1}"))
-                //.Where(s => )
-                //.Select(s => sRe.Replace(s, ""))
-                .ToList();
-
-            File.WriteAllLines(pathEx(path, "-2"), dic.Select(kv => $"{kv.Key} {kv.Value}"));
-            //File.WriteAllLines(pathEx(path, "-2"), dic.Keys);
-            return;
-
-            ss
-                //.Where(s => s.StartsWith("\t[b][c blueviolet]") && !s.Contains("<<"))
-                .Where(s => s.StartsWith("\t[*]"))
-                .ToList().ForEach(Console.WriteLine);
-            
 
             //genStories(@"d:/stories.txt", 5);
 
