@@ -324,13 +324,15 @@ namespace ConApp {
 
         static Dictionary<string, int> _freqGroups;
 
-
         static Regex dicRankRe = new Regex(@"^\d+ ", RegexOptions.Compiled);
 
         static Dictionary<string, int> loadFreqGroups(string path, int[] levels) {
             var r = new Dictionary<string, int>();
             var exsPath = pathEx(path, "-excepts");
-            var exs = new HashSet<string>(File.ReadAllLines(exsPath));
+            var exs = new HashSet<string>();
+            if (File.Exists(exsPath)) {
+                File.ReadAllLines(exsPath).ToList().ForEach(x => exs.Add(x));
+            }
             File.ReadAllLines(path).Where(x => x.Contains(" {")).Select((x,i) => (x: x, i: i+1)).Reverse().ToList().ForEach(xi => {
                 var x = xi.x;
                 var i = xi.i;
@@ -364,11 +366,12 @@ namespace ConApp {
 
         static Regex freqGoupRe = new Regex(@"[a-z]+", RegexOptions.IgnoreCase | RegexOptions.Compiled);
         static string[][] freqGroupColors = new[] { new [] { "#ffbc8c", "#99ff99", "#99cbff", "#b399ff" }, new[] { "#cc5400", "#00b200", "#0079ff", "#8000ff" } };
-        static string freqGrouping(string s, bool white = false) {
+        static string freqGrouping(string s, bool white = false, Dictionary<string,int> dic = null) {
+            dic = dic ?? freqGroups;
             if (Tag.Parse(s).Length > 0) return s;
             var cs = freqGroupColors[white ? 0 : 1];
             s = handleString(s, freqGoupRe, (x, m) => {
-                if (freqGroups.TryGetValue(x.ToLower(), out var g)) {
+                if (dic.TryGetValue(x.ToLower(), out var g)) {
                     return $"<font color=\"{cs[g]}\">{x}</font>";
                 }
                 return x;
@@ -1432,16 +1435,44 @@ namespace ConApp {
 
         static Regex hRe = new Regex(@"h\d", RegexOptions.Compiled | RegexOptions.IgnoreCase);
 
-        static void mdHandle(string path, Func<IEnumerable<string>,IEnumerable<string>> post = null) {
-            if (post == null) {
-                post = mdPost;
-            }
+        static Queue<(string k, Dictionary<string, int> d)> mdCache = new Queue<(string k, Dictionary<string, int> d)>();
 
+        static T getDicVal<T>(string key, T def, params Dictionary<string, T>[] ds) {
+            foreach (var d in ds) {
+                if (d.TryGetValue(key, out var r)) return r;
+            }
+            return def;
+        }
+
+        static void mdHandle(string path) {
             var rs2 = new List<string[]>();
             var pSet = new HashSet<string> { "p", "common" };
+            var ss = File.ReadAllLines(path).ToList();
 
-            File.ReadAllLines(path).ToList().ForEach(s => {
-                if (s.Trim() == "") return;
+            #region config
+
+            var confTag = ss.Take(10).SelectMany(x => Tag.Parse(x)).Where(t => t.name.ToLower() == "config").FirstOrDefault() ?? new Tag() { name = "config" };
+            var freqGroupsPath = getDicVal("freqGroupsPath", "d:/Projects/smalls/freq-20k.txt", confTag.attr, config);
+            var freqGroups = getDicVal("freqGroups", "1500,2500,3800,5500,11000", confTag.attr, config).Split(',').Select(x => int.Parse(x)).ToArray();
+            var mdPostStr = getDicVal("mdPost", null, confTag.attr, config);
+
+            var post = mdPostStr == null ? x => x : (Func<IEnumerable<string>,IEnumerable<string>>)Delegate.CreateDelegate(
+                typeof(Func<IEnumerable<string>, IEnumerable<string>>), null,
+                typeof(Program).GetMethod(mdPostStr, System.Reflection.BindingFlags.Static | System.Reflection.BindingFlags.Public));
+
+            var cacheKey = $"{freqGroupsPath}|{string.Join(",", freqGroups)}|{File.GetLastWriteTime(freqGroupsPath).ToString("s")}";
+            var freqDic = mdCache.Where(x => x.k == cacheKey).FirstOrDefault().d;
+            if (freqDic == null) {
+                freqDic = loadFreqGroups(freqGroupsPath, freqGroups);
+                mdCache.Enqueue((cacheKey, freqDic));
+                while (mdCache.Count > 5) mdCache.Dequeue();
+            }
+
+            #endregion
+
+            ss.ForEach(s => {
+                if (Tag.Clear(s).Trim() == "") return;
+
                 var b = enru(s);
                 var cmn = s.Contains("<common/>");
                 var sm = Tag.Clear(s, pSet);
@@ -1450,6 +1481,7 @@ namespace ConApp {
             });
 
             var ps = post(rs2.Select(x => x[0])).ToList();
+            ps = ps.Select(p => freqGrouping(p, dic: freqDic)).ToList(); 
             for (var i = 0; i < ps.Count; i++) {
                 rs2[i][0] = ps[i];
             }
@@ -1482,13 +1514,7 @@ namespace ConApp {
         private static Queue<CancellationTokenSource> delayCtsQue = new Queue<CancellationTokenSource>();
         private static Task lastChangeTask = Task.Run(() => { });
 
-        static IEnumerable<string> mdPost(IEnumerable<string> ss) {
-            foreach (var s in ss) {
-                yield return freqGrouping(s);
-            }
-        }
-
-        static IEnumerable<string> mdPostCom(IEnumerable<string> xs) {
+        public static IEnumerable<string> mdPostCom(IEnumerable<string> xs) {
             var wRe = new Regex(@"[a-zA-Z<]+", RegexOptions.Compiled);
             var ss = xs.ToList();
             var wi = -1;
@@ -1512,7 +1538,7 @@ namespace ConApp {
                 }
                 ss[i] = s;
             }
-            return ss.Select(x => freqGrouping(x));
+            return ss;
         }
         
 
@@ -1539,7 +1565,7 @@ namespace ConApp {
                         await Task.Delay(1000, delayCts.Token);
                         if (delayCts.IsCancellationRequested) return;
 
-                        mdHandle(e.FullPath, post);
+                        mdHandle(e.FullPath);
                         Console.WriteLine(e.FullPath);
                     });
                 };
@@ -1896,23 +1922,6 @@ namespace ConApp {
 
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
-            var path = @"d:\Projects\smalls\camb.txt";
-            var ss = File.ReadAllLines(path)
-                .Select(x => x.Split(new[] { "} " }, ssop))
-                .Select(x => new[] { $"{x[0]}}}", x[1] }).ToList();
-
-            var lRe = new Regex(@"\[[ABC][123]\]");
-            for (var i = 0; i < ss.Count; i++) {
-                var s = ss[i][1];
-                var sp = s.Split(new[] { "; " }, ssop).OrderBy(x => lRe.Match(x).Value);
-                s = string.Join("; ", sp);
-                ss[i][1] = s;
-            }
-
-            var rs = ss.Select(x => $"{x[0]} {x[1]}").ToList();
-            rs = rs.Where(x => lRe.Matches(x).Cast<Match>().Select(m => m.Value).Any(y => y.CompareTo("[B1]") <= 0 && x.Contains("{глагол}"))).Where(x => x.Split('{')[0].Count(y => y == ' ') > 1).ToList(); // 
-            //Console.WriteLine(c);
-            File.WriteAllLines(pathEx(path, "-2"), rs);
 
             /*
             var d20k = loadDic(@"d:\Projects\smalls\freq-20k.txt");
@@ -1973,7 +1982,7 @@ namespace ConApp {
             //geminiSplit(@"d:\.temp\reader-16-orig.txt");
             //geminiAdapt(@"d:\.temp\reader-17.txt");
 
-            //mdMonitor(); return; // mdPostCom
+            mdMonitor(); return; // mdPostCom
 
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
             //serRename(@"e:\scooby");
