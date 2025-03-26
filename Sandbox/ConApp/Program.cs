@@ -1910,6 +1910,8 @@ namespace ConApp {
             }
 
             var rs = ss.Select(x => $"{x[0]} {x[1]}").ToList();
+            rs = rs.Where(x => lRe.Matches(x).Cast<Match>().Select(m => m.Value).Any(y => y.CompareTo("[B1]") <= 0 && x.Contains("{глагол}"))).Where(x => x.Split('{')[0].Count(y => y == ' ') > 1).ToList(); // 
+            //Console.WriteLine(c);
             File.WriteAllLines(pathEx(path, "-2"), rs);
 
             /*
