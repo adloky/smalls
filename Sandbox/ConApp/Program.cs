@@ -1451,7 +1451,7 @@ namespace ConApp {
 
             #region config
 
-            var confTag = ss.Take(10).SelectMany(x => Tag.Parse(x)).Where(t => t.name.ToLower() == "config").FirstOrDefault() ?? new Tag() { name = "config" };
+            var confTag = ss.Take(10).SelectMany(x => Tag.Parse(x)).Where(t => t.name == "config").FirstOrDefault() ?? new Tag() { name = "config" };
             var freqGroupsPath = getDicVal("freqGroupsPath", "d:/Projects/smalls/freq-20k.txt", confTag.attr, config);
             var freqGroups = getDicVal("freqGroups", "1500,2500,3800,5500,11000", confTag.attr, config).Split(',').Select(x => int.Parse(x)).ToArray();
             var mdPostStr = getDicVal("mdPost", null, confTag.attr, config);
@@ -1582,7 +1582,7 @@ namespace ConApp {
 
         #region gemini adapt
 
-        static Regex adaptKeepRe = new Regex(@"^((Chapter|#+) [^\r\n]+|_)\r?\n", RegexOptions.IgnoreCase | RegexOptions.Compiled);
+        static Regex adaptKeepRe = new Regex(@"^((Chapter|#+) [^\r\n]+|_)(\r?\n|$)", RegexOptions.IgnoreCase | RegexOptions.Compiled);
 
         static void geminiSplit(string path) {
             var ss = File.ReadAllLines(path);
@@ -1714,7 +1714,7 @@ namespace ConApp {
         static void genStories(string path, int n) {
             //var tpl = "Придумай небольшую историю на английском языке для самого базового уровня знания английского в ВИДЕ с сюжетом основанном на СЮЖЕТЕ, с использованием слов из списка, выделив их жирным в итоговом тексте: СЛОВА. Затем дай перевод истории и также выдели жирным переведенные слова из списка. И никакой служебной информации, отделив текст от перевода только '---'.";
             // var tpl = "Придумай небольшой диалог на английском языке для самого элементарного уровня знания английского (A2), с использованием слов из списка, выделив их жирным в итоговом тексте: СЛОВА. Затем дай перевод и также выдели жирным переведенные слова из списка. И никакой служебной информации, отделив текст от перевода только '---'.";
-            var tpl = "Придумай максимально короткую историю на английском языке для самого элементарного уровня знания английского (A2), с использованием слов из списка, выделив их жирным в итоговом тексте: СЛОВА. Затем дай перевод и также выдели жирным переведенные слова из списка. Верни только результат, отделив текст от перевода '---'.";
+            var tpl = "Придумай максимально короткий связанный текст на английском языке для самого элементарного уровня знания английского (A2), с использованием слов из списка, выделив их жирным в итоговом тексте: СЛОВА. Затем дай перевод и также выдели жирным переведенные слова из списка. Верни только результат, отделив текст от перевода '---'.";
             var styles = new string[] { "стиле космической фантастики", "стиле научной фантастики", "стиле фэнтези", "виде трагедии", "виде деловой драмы", "виде деловой драмы" };
             var plots = new string[] { "спасении", "мести", "преследовании", "бедствии", "исчезновении", "жертве", "мятеже", "похищении", "загадке", "достижении", "ненависти", "соперничестве", "адюльтере", "безумии", "убийстве", "самопожертвовании", "честолюбии", "открытии", "выживании", "испытании", "дружбе", "находке" };
 
@@ -1761,18 +1761,20 @@ namespace ConApp {
                         .Replace("СЮЖЕТЕ", plots[rnd.Next(plots.Length)])
                         .Replace("СЛОВА", wStr);
 
+                    var en = new string[0];
+                    var ru = new string[0];
                     var qr = (string)null;
                     do {
                         try {
                             qr = gemini(q);
+                            var qrs = Regex.Split(qr, @"\r?\n").Where(x => !x.StartsWith("#") && !Regex.IsMatch(x, @"^\*\*[^\*]*\*\*$")).ToArray();
+                            en = qrs.Where(x => enru(x) > 0).ToArray();
+                            ru = qrs.Where(x => enru(x) < 0).ToArray();
+                            if (en.Length != ru.Length) throw new Exception();
                         }
                         catch { Thread.Sleep(5000); }
-                    } while (qr == null);
+                    } while (qr == null || en.Length != ru.Length);
 
-                    var qrs = Regex.Split(qr, @"\r?\n").Where(x => !x.StartsWith("#") && !Regex.IsMatch(x, @"^\*\*[^\*]*\*\*$")).ToArray();
-                    var en = qrs.Where(x => enru(x) > 0).ToArray();
-                    var ru = qrs.Where(x => enru(x) < 0).ToArray();
-                    if (en.Length != ru.Length) throw new Exception();
                     for (var k = 0; k < en.Length; k++) {
                         rs.Add(en[k]);
                         rs.Add(ru[k]);
@@ -1977,12 +1979,13 @@ namespace ConApp {
             ss = mergeEven(a, b).Concat(at).ToList();
             */
 
-            //genStories(@"d:/stories.txt", 5);
+            //genStories(@"d:/stories-0.txt", 3);
 
-            //geminiSplit(@"d:\.temp\reader-16-orig.txt");
-            //geminiAdapt(@"d:\.temp\reader-17.txt");
 
-            mdMonitor(); return; // mdPostCom
+            //geminiSplit(@"d:\.temp\reader-19-orig.txt");
+            geminiAdapt(@"d:\.temp\reader-19.txt");
+
+            //mdMonitor(); return; // mdPostCom
 
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
             //serRename(@"e:\scooby");
