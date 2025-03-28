@@ -1,4 +1,406 @@
-﻿# many
+﻿# 4000
+
+## #1<common/>
+
+**legislature** [лЕджэслЕйчэр] *сущ.* законодатели; **assert** [эсЭрт] *гл.* утверждать; **preference** [прЕфэрэнс] *сущ.* предпочтение; **pitch** [пЫч] *сущ.* поле; **retail** [рИтЕйл] *прил.* розничный; **contend** [кэнтЕнд] *гл.* бороться; **dependent** [дыпЕндэнт] *прил.* зависимый; **fit** [фЫт] *прил.* подходящий; **estimated** [ЕстэмЕйтэд] *прил.* примерный; **pine** [пАйн] *сущ.* сосна<common/>
+
+**Legislature** **assert** their **preference** to play on the **pitch** near the **retail** store. They **contend** that the **estimated** time is **fit** for everyone. Children are **dependent** and like to play under the big **pine** tree.
+
+**Законодатели** **утверждают** свое **предпочтение** играть на **поле** возле **розничного** магазина. Они **борются** за то, чтобы **примерное** время было **подходящим** для всех. Дети **зависимы** и любят играть под большой **сосной**.
+
+## #2<common/>
+
+**elderly** [Елдэрли] *прил.* пожилой; **meter** [мИтэр] *сущ.* измеритель; **plain** [плЕйн] *сущ.* равнина; **oven** [Авэн] *сущ.* печь; **tent** [тЕнт] *сущ.* палатка; **framework** [фрЕймуЭрк] *сущ.* каркас; **strengthen** [стрЕнθэн] *гл.* укреплять; **earnings** [Эрнынз] *сущ.* заработок; **flash** [флЭш] *гл.* сверкать; **march** [мАрч] *гл.* маршировать<common/>
+
+**Elderly** Mr. Smith lives near a **plain**. He has a small **tent** in his garden. Inside, there is an old **oven**. He uses it to cook. He wants to **strengthen** the **framework** of the tent. Sometimes, a light will **flash** from his tent. He checks the **meter** outside. He uses his **earnings** to buy food. He does not **march** anymore.
+
+**Пожилой** мистер Смит живет рядом с **равниной**. У него есть маленькая **палатка** в его саду. Внутри, есть старая **печь**. Он использует ее для готовки. Он хочет **укрепить** **каркас** палатки. Иногда, свет будет **сверкать** из его палатки. Он проверяет **измеритель** снаружи. Он использует свой **заработок**, чтобы купить еду. Он больше не **марширует**.
+
+## #3<common/>
+
+**collapse** [кэлЭпс] *гл.* рухнуть; **decrease** [дыкрИс] *гл.* уменьшать; **receiver** [рэсИвэр] *сущ.* приемник; **delay** [дылЕй] *гл.* откладывать; **economics** [ЕкэнАмыкс] *сущ.* экономика; **rank** [рЭнк] *гл.* оценивать; **confusion** [кэнфйУжэн] *сущ.* путаница; **medication** [мЕдэкЕйшэн] *сущ.* лекарство; **document** [дАкйэмент] *гл.* документировать; **suspect** [сэспЕкт] *сущ.* подозреваемый<common/>
+
+The old building might **collapse**. We need to **decrease** the noise. The **receiver** is broken. Please don't **delay** the meeting! **Economics** is difficult. We must **rank** the students. There is **confusion** about the date. I need **medication** for my cold. We should **document** everything. The police have a **suspect**.
+
+Старое здание может **рухнуть**. Нам нужно **уменьшать** шум. **Приемник** сломан. Пожалуйста, не **откладывайте** встречу! **Экономика** - это сложно. Мы должны **оценивать** студентов. Возникла **путаница** по поводу даты. Мне нужно **лекарство** от простуды. Мы должны все **документировать**. У полиции есть **подозреваемый**.
+
+## #4<common/>
+
+**conviction** [кэнвЫкшэн] *сущ.* убеждение; **exhibit** [ыгзЫбыт] *гл.* выставлять; **essence** [Есэнс] *сущ.* сущность; **lecture** [лЕкчэр] *сущ.* лекция; **dominant** [дАмэнэнт] *прил.* доминирующий; **musician** [мйузЫшэн] *сущ.* музыкант; **cope** [кOуп] *гл.* справиться; **subsequent** [сАбсэкуэнт] *прил.* последующий; **headline** [хЕдлАйн] *сущ.* заголовок; **impressive** [ЫмпрЕсыв] *прил.* впечатляющий<common/>
+
+The **musician** has a strong **conviction**. He wants to **exhibit** his music. The **essence** of his music is love. He gives a **lecture** about it. His music is **dominant** now. He can **cope** with problems. The **subsequent** concerts are good. The **headline** says: "**Impressive** musician!".
+
+У **музыканта** сильное **убеждение**. Он хочет **выставлять** свою музыку. **Сущность** его музыки - любовь. Он читает **лекцию** об этом. Его музыка сейчас **доминирующая**. Он может **справиться** с проблемами. **Последующие** концерты хорошие. В **заголовке** написано: "**Впечатляющий** музыкант!".
+
+## #5<common/>
+
+**crack** [крЭк] *гл.* трескаться; **acid** [Эсэд] *сущ.* кислота; **ease** [Из] *гл.* облегчать; **distinguish** [дыстЫнгуыш] *гл.* различать; **collapse** [кэлЭпс] *сущ.* крах; **major** [мЕйджэр] *сущ.* крупный; **highlight** [хАйлАйт] *гл.* выделять; **artistic** [артЫстык] *прил.* художественный; **reverse** [рывЭрс] *гл.* откатывать; **adequate** [Эдэкуэт] *прил.* достаточный<common/>
+
+The **artistic** vase is old. Be careful! Don't **crack** it! If you put **acid** on it, it will **collapse**. It is a **major** problem. We need something **adequate** to fix it. We can **highlight** the beautiful parts to **ease** the damage. It is hard to **distinguish** the original color. We cannot **reverse** the damage completely, but we can try.
+
+**Художественная** ваза старая. Будьте осторожны! Не дайте ей **треснуть**! Если вы положите на нее **кислоту**, она потерпит **крах**. Это **крупная** проблема. Нам нужно что-то **достаточное**, чтобы починить это. Мы можем **выделить** красивые части, чтобы **облегчить** повреждение. Трудно **различить** оригинальный цвет. Мы не можем **откатить** повреждение полностью, но мы можем попытаться.
+
+## #6<common/>
+
+**evident** [Евэдэнт] *прил.* очевидный; **occasional** [экЕйжэнэл] *прил.* случайный; **allegation** [ЭлэгЕйшэн] *сущ.* обвинение; **recording** [рэкОрдын] *сущ.* запись; **pitch** [пЫч] *гл.* подавать; **hypothesis** [хайпАθэсэс] *сущ.* гипотеза; **exact** [ыгзЭкт] *прил.* точный; **acceptance** [эксЕптэнс] *сущ.* принятие; **narrative** [нЭрэтыв] *сущ.* повествование; **principal** [прЫнсэпэл] *сущ.* директор<common/>
+
+The **principal** is not happy. There is an **allegation** against a student. The **evident** problem is a bad **recording**. The student **pitch**ed an idea. His **hypothesis** is simple. He wants **acceptance**. This is the **exact** time for change. He hopes for more than just an **occasional** smile. The **narrative** is about a good boy.
+
+**Директор** не доволен. Есть **обвинение** против ученика. **Очевидная** проблема - плохая **запись**. Ученик **подал** идею. Его **гипотеза** проста. Он хочет **принятия**. Это **точное** время для перемен. Он надеется на большее, чем просто **случайная** улыбка. **Повествование** о хорошем мальчике.
+
+## #7<common/>
+
+**offensive** [эфЕнсыв] *прил.* оскорбительный; **differ** [дЫфэр] *гл.* отличаться; **distinct** [дыстЫнкт] *прил.* различный; **adjustment** [эджАстмэнт] *сущ.* регулировка; **ethics** [Еθыкс] *сущ.* мораль; **broadcast** [брОдкЭст] *сущ.* вещание; **tendency** [тЕндэнси] *сущ.* тенденция; **enforce** [енфОрс] *гл.* принуждать; **overlook** [OувэрлУк] *гл.* игнорировать; **changing** [чЕйнджын] *прил.* меняющийся<common/>
+
+Here is a simple story:
+
+Вот простая история:
+
+My job is about **changing** news. News **broadcast** can **differ**. Sometimes, news is **offensive**. We must have good **ethics**. It's important. There is a **tendency** to **overlook** small mistakes, but we can't. Every story needs **adjustment**. Things are **distinct**, not the same. We can't **enforce** opinions, just report facts. This is a **changing** world.
+
+Моя работа о **меняющихся** новостях. Новостные **вещания** могут **отличаться**. Иногда, новости **оскорбительные**. Мы должны иметь хорошую **мораль**. Это важно. Есть **тенденция** **игнорировать** маленькие ошибки, но мы не можем. Каждая история нуждается в **регулировке**. Вещи **различные**, не одинаковые. Мы не можем **принуждать** мнения, только сообщать факты. Это **меняющийся** мир.
+
+## #8<common/>
+
+**discourse** [дЫскорс] *сущ.* обсуждение; **prescription** [прэскрЫпшэн] *сущ.* рецепт; **rent** [рЕнт] *гл.* арендовать; **moderate** [мАдэрэт] *прил.* умеренный; **sacred** [сЕйкрэд] *прил.* священный; **craft** [крЭфт] *сущ.* ремесло; **concerning** [кэнсЭрнын] *пред.* относительно; **principal** [прЫнсэпэл] *прил.* основной; **prosecution** [прАсэкйУшэн] *сущ.* обвинение; **closet** [клАзэт] *сущ.* шкаф<common/>
+
+Here is a short text:
+
+Вот короткий текст:
+
+The **principal** problem is the **discourse** **concerning** the **rent**. We need a **moderate** solution. This is a **sacred** matter. My mom has a **prescription**. The **prosecution** is wrong. **Craft** is a good hobby. My clothes are in the **closet**. We will **rent** a car.
+
+**Основная** проблема - это **обсуждение** **относительно** **аренды**. Нам нужно **умеренное** решение. Это **священный** вопрос. У моей мамы есть **рецепт**. **Обвинение** неправо. **Ремесло** - хорошее хобби. Моя одежда в **шкафу**. Мы **арендуем** машину.
+
+## #9<common/>
+
+**educate** [ЕджэкЕйт] *гл.* воспитывать; **measurement** [мЕжэрмэнт] *сущ.* измерение; **net** [нЕт] *прил.* чистый; **assemble** [эсЕмбэл] *гл.* собирать; **efficiency** [ыфЫшэнси] *сущ.* эффективность; **tight** [тАйт] *нар.* туго; **regulate** [рЕгйэлЕйт] *гл.* регулировать; **sponsor** [спАнсэр] *гл.* спонсировать; **compound** [кАмпаунд] *сущ.* соединение; **store** [] *хранить* стОр<common/>
+
+We **educate** children. It is important. We take a **measurement** of their height. We want **net** profit. We **assemble** toys. We want **efficiency**! Screws are **tight**. We must **regulate** the temperature. The company will **sponsor** the team. Water is a simple **compound**. We **store** food in the fridge.
+
+Мы **воспитываем** детей. Это важно. Мы делаем **измерение** их роста. Мы хотим **чистую** прибыль. Мы **собираем** игрушки. Мы хотим **эффективности**! Винты закручены **туго**. Мы должны **регулировать** температуру. Компания будет **спонсировать** команду. Вода - это простое **соединение**. Мы **стОрим** еду в холодильнике.
+
+## #10<common/>
+
+**excuse** [ыкскйУс] *гл.* прощать; **swing** [суЫн] *сущ.* размах; **acceptable** [эксЕптэбэл] *прил.* приемлемый; **prevention** [привЕншэн] *сущ.* предотвращение; **formation** [формЕйшэн] *сущ.* формирование; **salmon** [сЭмэн] *сущ.* лосось; **legacy** [лЕгэси] *сущ.* наследие; **commissioner** [кэмЫшэнэр] *сущ.* комиссар; **curve** [кЭрв] *сущ.* изгиб; **seemingly** [сИмынли] *нар.* по-видимому<common/>
+
+**Excuse** me, I like **salmon**. The **commissioner** has a big house. It has a **curve** in the garden. His **legacy** is important. He thinks **prevention** of problems is good. The **formation** of a team is **acceptable**. The **swing** of the door is big. **Seemingly**, he is happy.
+
+**Простите**, я люблю **лосося**. У **комиссара** большой дом. В саду есть **изгиб**. Его **наследие** важно. Он считает, что **предотвращение** проблем - это хорошо. **Формирование** команды **приемлемо**. **Размах** двери большой. **По-видимому**, он счастлив.
+
+## #11<common/>
+
+**painful** [пЕйнфэл] *прил.* болезненный; **architect** [АркэтЕкт] *сущ.* архитектор; **carrier** [кЭриэр] *сущ.* перевозчик; **modest** [мАдэст] *прил.* скромный; **suburban** [сэбЭрбэн] *прил.* загородный; **favor** [фЕйвэр] *сущ.* одолжение; **recruit** [рэкрУт] *гл.* вербовать; **legend** [лЕджэнд] *сущ.* надпись; **brush** [брАш] *гл.* чистить; **finance** [фэнЭнс] *гл.* финансировать<common/>
+
+It was a **painful** morning. I had to **brush** my teeth. My uncle is an **architect**. He lives in a **suburban** house. He is a **modest** man. He asked me a **favor**: "**Recruit** people to **finance** my new project!" I hope the **carrier** will deliver the money soon. I also need to add a **legend** to my photo album.
+
+Это было **болезненное** утро. Мне нужно было **чистить** зубы. Мой дядя - **архитектор**. Он живет в **загородном** доме. Он **скромный** человек. Он попросил меня об **одолжении**: "**Вербуй** людей, чтобы **финансировать** мой новый проект!" Я надеюсь, что **перевозчик** доставит деньги скоро. Мне также нужно добавить **надпись** к моему фотоальбому.
+
+## #12<common/>
+
+**intensity** [ынтЕнсэти] *сущ.* интенсивность; **cognitive** [кАгнытыв] *прил.* познавательный; **margin** [мАрджэн] *сущ.* запас; **reservation** [рЕзэрвЕйшэн] *сущ.* резервирование; **pregnancy** [прЕгнэнси] *сущ.* беременность; **exceed** [ыксИд] *гл.* превышать; **competitor** [кэмпЕтэтэр] *сущ.* конкурент; **surgeon** [сЭрджэн] *сущ.* хирург; **counsel** [кАунсэл] *сущ.* адвокат; **rate** [рЕйт] *гл.* оценивать<common/>
+
+The job is hard. The **intensity** is high. You need good **cognitive** skills. We have a small **margin** for error. No **reservation** needed. It's before **pregnancy**. Don't **exceed** your limit. He is a strong **competitor**. The **surgeon** is ready. Get **counsel** from the lawyer. People **rate** it good.
+
+Работа сложная. **Интенсивность** высока. Вам нужны хорошие **познавательные** навыки. У нас небольшой **запас** для ошибки. **Резервирование** не требуется. Это до **беременности**. Не **превышайте** свой предел. Он сильный **конкурент**. **Хирург** готов. Получите **совет** у **адвоката**. Люди **оценивают** это хорошо.
+
+## #13<common/>
+
+**scope** [скOуп] *сущ.* рамки; **submit** [сэбмЫт] *гл.* подавать; **admission** [эдмЫшэн] *сущ.* допуск; **ratio** [рЕйшиOу] *сущ.* соотношение; **concrete** [кэнкрИт] *прил.* конкретный; **pill** [пЫл] *сущ.* таблетка; **presidency** [прЕзэдэнси] *сущ.* президентство; **load** [лOуд] *сущ.* груз; **ballot** [бЭлэт] *сущ.* тайное голосование; **reinforce** [рИынфОрс] *гл.* укреплять<common/>
+
+The **scope** of this work is small. We must **submit** it today. **Admission** is free. The **ratio** of men to women is one to one. We need **concrete** plans. Take this **pill** for your head. The **presidency** is a big job. This **load** is heavy. Use a **ballot** to vote. We must **reinforce** the wall.
+
+**Рамки** этой работы небольшие. Мы должны **подать** ее сегодня. **Допуск** бесплатный. **Соотношение** мужчин к женщинам один к одному. Нам нужны **конкретные** планы. Прими эту **таблетку** от головы. **Президентство** - это большая работа. Этот **груз** тяжелый. Используй **тайное голосование**, чтобы проголосовать. Мы должны **укреплять** стену.
+
+## #14<common/>
+
+**integration** [ЫнтэгрЕйшэн] *сущ.* интеграция; **label** [лЕйбэл] *гл.* помечать; **fund** [фАнд] *гл.* финансировать; **infant** [Ынфэнт] *сущ.* ребенок; **sin** [сЫн] *сущ.* грех; **remark** [рымАрк] *сущ.* замечание; **mill** [мЫл] *сущ.* мельница; **absorb** [эбзОрб] *гл.* поглощать; **standing** [стЭндын] *сущ.* положение; **controversial** [кАнтрэвЭршэл] *прил.* спорный<common/>
+
+The **infant** is small. The **mill** is big. People **fund** the mill. There is a **controversial** plan for **integration** near the mill. Some people don't like the plan. They **label** it bad. A short **remark** about the plan changed my **standing**. I **absorb** the information. Is this a **sin**?
+
+**Ребенок** маленький. **Мельница** большая. Люди **финансируют** мельницу. Есть **спорный** план по **интеграции** рядом с мельницей. Некоторым людям не нравится план. Они **помечают** его как плохой. Короткое **замечание** о плане изменило мое **положение**. Я **поглощаю** информацию. Это **грех**?
+
+## #15<common/>
+
+**composition** [кАмпэзЫшэн] *сущ.* состав; **associate** [эсOусиэт] *сущ.* коллега; **integrate** [ЫнтэгрЕйт] *гл.* объединять; **soccer** [сАкэр] *сущ.* футбол; **civilian** [сэвЫлйэн] *прил.* гражданский; **storage** [стОрэдж] *сущ.* хранилище; **laughter** [лЭфтэр] *сущ.* смех; **carbon** [кАрбэн] *сущ.* углерод; **log** [лОг] *сущ.* бревно; **narrator** [нЕрейтэр] *сущ.* рассказчик<common/>
+
+My **associate** likes **soccer**. He writes a **composition** about it. He wants to **integrate** the **civilian** life and sport. He has a big **storage** for his books. We hear **laughter** when he talks. The **narrator** tells us about **carbon** in the **log**. It is very important!
+
+Мой **коллега** любит **футбол**. Он пишет **сочинение** об этом. Он хочет **объединить** **гражданскую** жизнь и спорт. У него большое **хранилище** для его книг. Мы слышим **смех**, когда он говорит. **Рассказчик** рассказывает нам об **углероде** в **бревне**. Это очень важно!
+
+## #16<common/>
+
+**corps** [кОр] *сущ.* корпус; **cluster** [клАстэр] *сущ.* скопление; **medium** [мИдиэм] *сущ.* средство; **scholarship** [скАлэршЫп] *сущ.* ученость; **interior** [ЫнтЫриэр] *сущ.* интерьер; **confuse** [кэнфйУз] *гл.* запутывать; **nerve** [нЭрв] *сущ.* нерв; **greatly** [грЕйтли] *нар.* значительно; **anniversary** [ЭнэвЭрсэри] *сущ.* годовщина; **dining** [дАйнын] *сущ.* трапеза<common/>
+
+The **corps** is here! Look at the **cluster** of people! This **medium** helps to learn. His **scholarship** is great. The **interior** is nice. Don't **confuse** me! It makes me lose my **nerve**. I like this **greatly**. It is our **anniversary**. Let's have **dining** together!
+
+**Корпус** здесь! Посмотри на **скопление** людей! Это **средство** помогает учиться. Его **ученость** велика. **Интерьер** хороший. Не **запутывай** меня! Это заставляет меня нервничать (терять **нерв**). Мне это **значительно** нравится. Это наша **годовщина**. Давайте устроим **трапезу** вместе!
+
+## #17<common/>
+
+**nerve** [нЭрв] *сущ.* нерв; **distinct** [дыстЫнкт] *прил.* различный; **overlook** [OувэрлУк] *гл.* игнорировать; **cluster** [клАстэр] *сущ.* скопление; **net** [нЕт] *прил.* чистый; **decrease** [дыкрИс] *гл.* уменьшать; **controversial** [кАнтрэвЭршэл] *прил.* спорный; **rent** [рЕнт] *гл.* арендовать; **oven** [Авэн] *сущ.* печь; **margin** [мАрджэн] *сущ.* запас<common/>
+
+**The** old house **rent** is cheap. But it has problems. There is a **cluster** of spiders! I try to **overlook** them. My **nerve** is bad. The **oven** doesn't work well, so I must **decrease** the time. The kitchen is not **net**, it is dirty! The **margin** for error is small. This is a **controversial** house because it's very old. It is **distinct** from others.
+
+**Аренда** старого дома дешевая. Но у него есть проблемы. Там **скопление** пауков! Я пытаюсь их **игнорировать**. Мои **нервы** плохи. **Печь** плохо работает, поэтому я должен **уменьшать** время. Кухня не **чистая**, она грязная! **Запас** на ошибку маленький. Это **спорный** дом, потому что он очень старый. Он **различный** от других.
+
+## #18<common/>
+
+**dining** [дАйнын] *сущ.* трапеза; **scope** [скOуп] *сущ.* рамки; **infant** [Ынфэнт] *сущ.* ребенок; **acceptable** [эксЕптэбэл] *прил.* приемлемый; **commissioner** [кэмЫшэнэр] *сущ.* комиссар; **regulate** [рЕгйэлЕйт] *гл.* регулировать; **rate** [рЕйт] *гл.* оценивать; **principal** [прЫнсэпэл] *прил.* основной; **concerning** [кэнсЭрнын] *пред.* относительно; **exceed** [ыксИд] *гл.* превышать<common/>
+
+**The Principal** idea **concerning** this is simple. The **commissioner** wants to **regulate** the **scope** of children's meals. If the **infant** eats too much, it can **exceed** what is **acceptable**. We need to **rate** the **dining** so it's not too big.
+
+**Основная** идея **относительно** этого проста. **Комиссар** хочет **регулировать** **рамки** детского питания. Если **ребенок** ест слишком много, это может **превышать** то, что **приемлемо**. Нам нужно **оценивать** **трапезу**, чтобы она не была слишком большой.
+
+## #19<common/>
+
+**carbon** [кАрбэн] *сущ.* углерод; **prescription** [прэскрЫпшэн] *сущ.* рецепт; **submit** [сэбмЫт] *гл.* подавать; **dominant** [дАмэнэнт] *прил.* доминирующий; **differ** [дЫфэр] *гл.* отличаться; **essence** [Есэнс] *сущ.* сущность; **intensity** [ынтЕнсэти] *сущ.* интенсивность; **adjustment** [эджАстмэнт] *сущ.* регулировка; **subsequent** [сАбсэкуэнт] *прил.* последующий; **tight** [тАйт] *нар.* туго<common/>
+
+The **essence** of life is to **differ** from day to day. My doctor gave me a **prescription**. I need to **submit** it to the pharmacy. The **dominant** feeling is tiredness. The **intensity** of pain is high. I need an **adjustment** in my routine. The **subsequent** days were better. My shirt is too **tight**. The amount of **carbon** in the air is important.
+
+**Сущность** жизни - **отличаться** изо дня в день. Мой врач дал мне **рецепт**. Мне нужно **подать** его в аптеку. **Доминирующее** чувство - усталость. **Интенсивность** боли высокая. Мне нужна **регулировка** в моем режиме. **Последующие** дни были лучше. Моя рубашка слишком **туго** сидит. Количество **углерода** в воздухе важно.
+
+## #20<common/>
+
+**retail** [рИтЕйл] *прил.* розничный; **cope** [кOуп] *гл.* справиться; **strengthen** [стрЕнθэн] *гл.* укреплять; **medium** [мИдиэм] *сущ.* средство; **ethics** [Еθыкс] *сущ.* мораль; **excuse** [ыкскйУс] *гл.* прощать; **march** [мАрч] *гл.* маршировать; **lecture** [лЕкчэр] *сущ.* лекция; **earnings** [Эрнынз] *сущ.* заработок; **reinforce** [рИынфОрс] *гл.* укреплять<common/>
+
+**Retail** shops need to **cope**. We must **strengthen** our team. Radio is a good **medium**. Business needs **ethics**. I can’t **excuse** this. Soldiers **march**. The **lecture** is long. My **earnings** are small. We must **reinforce** the wall.
+
+**Розничным** магазинам нужно **справиться**. Мы должны **укреплять** нашу команду. Радио – хорошее **средство**. Бизнесу нужна **мораль**. Я не могу это **прощать**. Солдаты **маршируют**. **Лекция** длинная. Мой **заработок** маленький. Мы должны **укреплять** стену.
+
+## #21<common/>
+
+**brush** [брАш] *гл.* чистить; **hypothesis** [хайпАθэсэс] *сущ.* гипотеза; **exact** [ыгзЭкт] *прил.* точный; **ease** [Из] *гл.* облегчать; **medication** [мЕдэкЕйшэн] *сущ.* лекарство; **flash** [флЭш] *гл.* сверкать; **major** [мЕйджэр] *сущ.* крупный; **moderate** [мАдэрэт] *прил.* умеренный; **recruit** [рэкрУт] *гл.* вербовать; **civilian** [сэвЫлйэн] *прил.* гражданский<common/>
+
+I **brush** my teeth. I have a **hypothesis**. It is not **exact**. I want to **ease** my pain. I need **medication**. Light can **flash**. This is a **major** problem. The pain is **moderate**. They **recruit** people. They are **civilian** people.
+
+Я **чищу** зубы. У меня есть **гипотеза**. Она не **точная**. Я хочу **облегчить** мою боль. Мне нужно **лекарство**. Свет может **сверкать**. Это **крупная** проблема. Боль **умеренная**. Они **вербуют** людей. Они **гражданские** люди.
+
+## #22<common/>
+
+**sacred** [сЕйкрэд] *прил.* священный; **mill** [мЫл] *сущ.* мельница; **soccer** [сАкэр] *сущ.* футбол; **suspect** [сэспЕкт] *сущ.* подозреваемый; **distinguish** [дыстЫнгуыш] *гл.* различать; **meter** [мИтэр] *сущ.* измеритель; **highlight** [хАйлАйт] *гл.* выделять; **fit** [фЫт] *прил.* подходящий; **integrate** [ЫнтэгрЕйт] *гл.* объединять; **laughter** [лЭфтэр] *сущ.* смех<common/>
+
+The old **mill** is near the **sacred** river. We can hear **laughter** there. The police have a **suspect** in the **soccer** game incident. It is hard to **distinguish** him. This **meter** shows the water level. We need to **highlight** the important information. This shirt is not **fit**. We must **integrate** the new data.
+
+Старая **мельница** находится рядом со **священной** рекой. Мы можем слышать там **смех**. У полиции есть **подозреваемый** в инциденте на **футбольном** матче. Трудно его **различить**. Этот **измеритель** показывает уровень воды. Нам нужно **выделить** важную информацию. Эта рубашка не **подходящая**. Мы должны **объединить** новые данные.
+
+## #23<common/>
+
+**admission** [эдмЫшэн] *сущ.* допуск; **suburban** [сэбЭрбэн] *прил.* загородный; **narrative** [нЭрэтыв] *сущ.* повествование; **rank** [рЭнк] *гл.* оценивать; **assert** [эсЭрт] *гл.* утверждать; **architect** [АркэтЕкт] *сущ.* архитектор; **curve** [кЭрв] *сущ.* изгиб; **adequate** [Эдэкуэт] *прил.* достаточный; **confusion** [кэнфйУжэн] *сущ.* путаница; **anniversary** [ЭнэвЭрсэри] *сущ.* годовщина<common/>
+
+The school **admission** is today. My friend lives in a **suburban** area. He writes a short **narrative** about his day. The teacher will **rank** the stories. He wants to **assert** that his story is good. His father is an **architect**. He likes the **curve** of the new building. Is my English **adequate**? There is much **confusion** about the date of the school's **anniversary**.
+
+Сегодня **допуск** в школу. Мой друг живет в **загородном** районе. Он пишет короткое **повествование** о своем дне. Учитель будет **оценивать** рассказы. Он хочет **утверждать**, что его рассказ хороший. Его отец - **архитектор**. Ему нравится **изгиб** нового здания. Мой английский **достаточный**? Много **путаницы** насчет даты **годовщины** школы.
+
+## #24<common/>
+
+**narrator** [нЕрейтэр] *сущ.* рассказчик; **presidency** [прЕзэдэнси] *сущ.* президентство; **surgeon** [сЭрджэн] *сущ.* хирург; **ratio** [рЕйшиOу] *сущ.* соотношение; **measurement** [мЕжэрмэнт] *сущ.* измерение; **formation** [формЕйшэн] *сущ.* формирование; **fund** [фАнд] *гл.* финансировать; **impressive** [ЫмпрЕсыв] *прил.* впечатляющий; **estimated** [ЕстэмЕйтэд] *прил.* примерный; **storage** [стОрэдж] *сущ.* хранилище<common/>
+
+**Narrator** is a job. A **surgeon** is also a job. The **ratio** of doctors to patients is important. We need good **measurement** of this. The **formation** of new doctors takes time. We **fund** this education. The **presidency** can help. It is **impressive** to see new doctors. The **estimated** cost is high. Good hospital **storage** is necessary.
+
+**Рассказчик** это работа. **Хирург** это тоже работа. **Соотношение** врачей к пациентам важно. Нам нужны хорошие **измерения** этого. **Формирование** новых врачей занимает время. Мы **финансируем** это образование. **Президентство** может помочь. Это **впечатляюще** видеть новых врачей. **Примерная** стоимость высока. Хорошее больничное **хранилище** необходимо.
+
+## #25<common/>
+
+**finance** [фэнЭнс] *гл.* финансировать; **evident** [Евэдэнт] *прил.* очевидный; **confuse** [кэнфйУз] *гл.* запутывать; **exhibit** [ыгзЫбыт] *гл.* выставлять; **assemble** [эсЕмбэл] *гл.* собирать; **allegation** [ЭлэгЕйшэн] *сущ.* обвинение; **economics** [ЕкэнАмыкс] *сущ.* экономика; **tent** [тЕнт] *сущ.* палатка; **integration** [ЫнтэгрЕйшэн] *сущ.* интеграция; **principal** [прЫнсэпэл] *сущ.* директор<common/>
+
+The **principal** likes **economics**. It's **evident**! He wants to **finance** a school trip. But some **allegations** **confuse** him. He doesn't want to **exhibit** his anger. Students need a **tent** to **assemble** at the park. School **integration** is important.
+
+**Директору** нравится **экономика**. Это **очевидно**! Он хочет **финансировать** школьную поездку. Но некоторые **обвинения** **запутывают** его. Он не хочет **выставлять** свой гнев. Студентам нужна **палатка**, чтобы **собираться** в парке. Школьная **интеграция** важна.
+
+## #26<common/>
+
+**receiver** [рэсИвэр] *сущ.* приемник; **absorb** [эбзОрб] *гл.* поглощать; **concrete** [кэнкрИт] *прил.* конкретный; **pregnancy** [прЕгнэнси] *сущ.* беременность; **headline** [хЕдлАйн] *сущ.* заголовок; **occasional** [экЕйжэнэл] *прил.* случайный; **salmon** [сЭмэн] *сущ.* лосось; **enforce** [енфОрс] *гл.* принуждать; **ballot** [бЭлэт] *сущ.* тайное голосование; **prosecution** [прАсэкйУшэн] *сущ.* обвинение<common/>
+
+The **receiver** is old. It cannot **absorb** much sound. We need **concrete** plans, not just dreams. **Pregnancy** is a happy time. The **headline** says "Vote Today!" There are **occasional** showers. I like **salmon** for dinner. You cannot **enforce** love. The **ballot** is secret. He fears **prosecution**.
+
+**Приемник** старый. Он не может **поглощать** много звука. Нам нужны **конкретные** планы, а не просто мечты. **Беременность** – счастливое время. **Заголовок** говорит: "Голосуйте сегодня!" Бывают **случайные** ливни. Я люблю **лосось** на ужин. Нельзя **принуждать** к любви. **Тайное голосование** секретно. Он боится **обвинения**.
+
+## #27<common/>
+
+**artistic** [артЫстык] *прил.* художественный; **cognitive** [кАгнытыв] *прил.* познавательный; **efficiency** [ыфЫшэнси] *сущ.* эффективность; **favor** [фЕйвэр] *сущ.* одолжение; **pill** [пЫл] *сущ.* таблетка; **document** [дАкйэмент] *гл.* документировать; **tendency** [тЕндэнси] *сущ.* тенденция; **delay** [дылЕй] *гл.* откладывать; **collapse** [кэлЭпс] *сущ.* крах; **offensive** [эфЕнсыв] *прил.* оскорбительный<common/>
+
+I have a **tendency** to **delay** things. I need a **pill** for my headache. My friend asked a **favor**. I will **document** my trip. Bad words are **offensive**. The project's **collapse** surprised many. We need more **efficiency**. **Artistic** skills help in **cognitive** tasks.
+
+У меня есть **тенденция** **откладывать** вещи. Мне нужна **таблетка** от головной боли. Мой друг попросил **одолжение**. Я буду **документировать** мою поездку. Плохие слова **оскорбительные**. **Крах** проекта удивил многих. Нам нужна большая **эффективность**. **Художественные** навыки помогают в **познавательных** задачах.
+
+## #28<common/>
+
+**reservation** [рЕзэрвЕйшэн] *сущ.* резервирование; **discourse** [дЫскорс] *сущ.* обсуждение; **reverse** [рывЭрс] *гл.* откатывать; **conviction** [кэнвЫкшэн] *сущ.* убеждение; **pine** [пАйн] *сущ.* сосна; **elderly** [Елдэрли] *прил.* пожилой; **scholarship** [скАлэршЫп] *сущ.* ученость; **changing** [чЕйнджын] *прил.* меняющийся; **legend** [лЕджэнд] *сущ.* надпись; **store** [] *хранить* стОр<common/>
+
+The **elderly** man likes to **store** food. He has a strong **conviction** about food. He doesn't like the **changing** weather. He made a **reservation** for a nice room. They had a long **discourse** about the weather. He sees a tall **pine** tree. There is a **legend** on the tree. He cannot **reverse** time. He is a man of great **scholarship**.
+
+**Пожилой** мужчина любит **хранИть** еду. У него сильное **убеждение** по поводу еды. Ему не нравится **меняющаяся** погода. Он сделал **резервирование** хорошего номера. У них было долгое **обсуждение** о погоде. Он видит высокую **сосну**. На дереве есть **надпись**. Он не может **откатывать** время. Он человек большой **учености**.
+
+## #29<common/>
+
+**crack** [крЭк] *гл.* трескаться; **standing** [стЭндын] *сущ.* положение; **log** [лОг] *сущ.* бревно; **acceptance** [эксЕптэнс] *сущ.* принятие; **greatly** [грЕйтли] *нар.* значительно; **counsel** [кАунсэл] *сущ.* адвокат; **corps** [кОр] *сущ.* корпус; **associate** [эсOусиэт] *сущ.* коллега; **pitch** [пЫч] *гл.* подавать; **framework** [фрЕймуЭрк] *сущ.* каркас<common/>
+
+The old **log** began to **crack**. My **standing** was bad. I needed **acceptance**. It helped **greatly** to speak to my **counsel**. The army **corps** was strong. My **associate** can **pitch** the ball well. We need a new **framework**.
+
+Старое **бревно** начало **трескаться**. Мое **положение** было плохим. Мне нужно было **принятие**. Это **значительно** помогло поговорить с моим **адвокатом**. Армейский **корпус** был сильным. Мой **коллега** может хорошо **подавать** мяч. Нам нужен новый **каркас**.
+
+## #30<common/>
+
+**interior** [ЫнтЫриэр] *сущ.* интерьер; **composition** [кАмпэзЫшэн] *сущ.* состав; **prevention** [привЕншэн] *сущ.* предотвращение; **pitch** [пЫч] *сущ.* поле; **seemingly** [сИмынли] *нар.* по-видимому; **contend** [кэнтЕнд] *гл.* бороться; **broadcast** [брОдкЭст] *сущ.* вещание; **dependent** [дыпЕндэнт] *прил.* зависимый; **craft** [крЭфт] *сущ.* ремесло; **sin** [сЫн] *сущ.* грех<common/>
+
+**The** **interior** is simple. **The** **composition** of **the** team is important for **prevention** of losses. We go to **the** **pitch** to play. **Seemingly**, it will be fun. Teams **contend** for victory. **Broadcast** shows **the** game. My happiness is **dependent** on it. Art is a **craft**. Lying is a **sin**.
+
+**Интерьер** простой. **Состав** команды важен для **предотвращения** потерь. Мы идем на **поле**, чтобы играть. **По-видимому**, будет весело. Команды **борются** за победу. **Вещание** показывает игру. Мое счастье **зависимо** от этого. Искусство - это **ремесло**. Ложь - это **грех**.
+
+## #31<common/>
+
+**musician** [мйузЫшэн] *сущ.* музыкант; **collapse** [кэлЭпс] *гл.* рухнуть; **compound** [кАмпаунд] *сущ.* соединение; **plain** [плЕйн] *сущ.* равнина; **painful** [пЕйнфэл] *прил.* болезненный; **educate** [ЕджэкЕйт] *гл.* воспитывать; **sponsor** [спАнсэр] *гл.* спонсировать; **swing** [суЫн] *сущ.* размах; **modest** [мАдэст] *прил.* скромный; **carrier** [кЭриэр] *сущ.* перевозчик<common/>
+
+A **musician** lived on a **plain**. He was **modest**. One day, he saw a big **compound**. Suddenly, a building **collapsed**. It was **painful** to watch. A **carrier** was there. A big **swing** of metal hurt him. Someone said, "We need to **educate** people about safety!" A company will **sponsor** a new safety program.
+
+**Музыкант** жил на **равнине**. Он был **скромным**. Однажды он увидел большой **комплекс** (или **соединение**). Внезапно, здание **рухнуло**. Было **болезненно** смотреть. **Перевозчик** был там. Большой **размах** металла ранил его. Кто-то сказал: "Нам нужно **воспитывать** людей о безопасности!" Компания будет **спонсировать** новую программу безопасности.
+
+## #32<common/>
+
+**preference** [прЕфэрэнс] *сущ.* предпочтение; **closet** [клАзэт] *сущ.* шкаф; **label** [лЕйбэл] *гл.* помечать; **legacy** [лЕгэси] *сущ.* наследие; **recording** [рэкОрдын] *сущ.* запись; **remark** [рымАрк] *сущ.* замечание; **load** [лOуд] *сущ.* груз; **legislature** [лЕджэслЕйчэр] *сущ.* законодатели; **competitor** [кэмпЕтэтэр] *сущ.* конкурент; **acid** [Эсэд] *сущ.* кислота<common/>
+
+My **preference** is simple. I open my **closet**. I **label** boxes. This is my small **legacy**. I listen to a music **recording**. I ignore his silly **remark**. This box has a big **load**. The **legislature** makes new rules. He is my **competitor**. Be careful! This is **acid**!
+
+Моё **предпочтение** простое. Я открываю мой **шкаф**. Я **помечаю** коробки. Это моё небольшое **наследие**. Я слушаю музыкальную **запись**. Я игнорирую его глупое **замечание**. В этой коробке большой **груз**. **Законодатели** принимают новые правила. Он мой **конкурент**. Будь осторожен! Это **кислота**!
+
+## #33<common/>
+
+**anniversary** [ЭнэвЭрсэри] *сущ.* годовщина; **salmon** [сЭмэн] *сущ.* лосось; **soccer** [сАкэр] *сущ.* футбол; **allegation** [ЭлэгЕйшэн] *сущ.* обвинение; **tight** [тАйт] *нар.* туго; **greatly** [грЕйтли] *нар.* значительно; **formation** [формЕйшэн] *сущ.* формирование; **efficiency** [ыфЫшэнси] *сущ.* эффективность; **composition** [кАмпэзЫшэн] *сущ.* состав; **admission** [эдмЫшэн] *сущ.* допуск<common/>
+
+**Anniversary** today! We eat **salmon**. I like **soccer** greatly. The **allegation** is false. My shoes are **tight**. Good **formation**! This helps **efficiency**. The **composition** of the team is good. No **admission** here.
+
+Сегодня **годовщина**! Мы едим **лосось**. Я люблю **футбол** значительно. **Обвинение** ложное. Мои туфли **туго**. Хорошее **формирование**! Это помогает **эффективности**. **Состав** команды хороший. Нет **допуска** сюда.
+
+## #34<common/>
+
+**meter** [мИтэр] *сущ.* измеритель; **recruit** [рэкрУт] *гл.* вербовать; **favor** [фЕйвэр] *сущ.* одолжение; **broadcast** [брОдкЭст] *сущ.* вещание; **rank** [рЭнк] *гл.* оценивать; **pill** [пЫл] *сущ.* таблетка; **sponsor** [спАнсэр] *гл.* спонсировать; **carbon** [кАрбэн] *сущ.* углерод; **fit** [фЫт] *прил.* подходящий; **suburban** [сэбЭрбэн] *прил.* загородный<common/>
+
+The doctor has a **meter** to check my health. I need a **pill** because I feel bad. Can you do me a **favor** and turn off the radio? The **broadcast** is boring. We **rank** the new students. The company wants to **recruit** young people. They **sponsor** the local team. The air has too much **carbon**. A **suburban** house is often **fit** for a family.
+
+У доктора есть **измеритель** чтобы проверить мое здоровье. Мне нужна **таблетка**, потому что я чувствую себя плохо. Можешь сделать мне **одолжение** и выключить радио? **Вещание** скучное. Мы **оцениваем** новых студентов. Компания хочет **вербовать** молодых людей. Они **спонсируют** местную команду. В воздухе слишком много **углерода**. **Загородный** дом часто **подходящий** для семьи.
+
+## #35<common/>
+
+**distinguish** [дыстЫнгуыш] *гл.* различать; **modest** [мАдэст] *прил.* скромный; **oven** [Авэн] *сущ.* печь; **preference** [прЕфэрэнс] *сущ.* предпочтение; **discourse** [дЫскорс] *сущ.* обсуждение; **reverse** [рывЭрс] *гл.* откатывать; **commissioner** [кэмЫшэнэр] *сущ.* комиссар; **finance** [фэнЭнс] *гл.* финансировать; **concrete** [кэнкрИт] *прил.* конкретный; **legislature** [лЕджэслЕйчэр] *сущ.* законодатели<common/>
+
+The **commissioner** has a **preference** for food from the **oven**. We can **distinguish** this easily. The **legislature** needs **concrete** plans. They want to **finance** a new project. No long **discourse**, please! Be **modest** and don't **reverse** the decision.
+
+У **комиссара** есть **предпочтение** к еде из **печи**. Мы можем это легко **различать**. **Законодателям** нужны **конкретные** планы. Они хотят **финансировать** новый проект. Никакого долгого **обсуждения**, пожалуйста! Будьте **скромными** и не **откатывайте** решение.
+
+## #36<common/>
+
+**differ** [дЫфэр] *гл.* отличаться; **prescription** [прэскрЫпшэн] *сущ.* рецепт; **ballot** [бЭлэт] *сущ.* тайное голосование; **reinforce** [рИынфОрс] *гл.* укреплять; **brush** [брАш] *гл.* чистить; **principal** [прЫнсэпэл] *сущ.* директор; **narrator** [нЕрейтэр] *сущ.* рассказчик; **prosecution** [прАсэкйУшэн] *сущ.* обвинение; **civilian** [сэвЫлйэн] *прил.* гражданский; **storage** [стОрэдж] *сущ.* хранилище<common/>
+
+The **principal** says things **differ** here. You **brush** your teeth. We have a **ballot** today. It can **reinforce** our trust. The **narrator** tells a story about a **civilian**. He needed a **prescription**. The food is in **storage**. There is no **prosecution**.
+
+**Директор** говорит, что вещи здесь **отличаются**. Ты **чистишь** зубы. У нас сегодня **тайное голосование**. Это может **укрепить** наше доверие. **Рассказчик** рассказывает историю о **гражданском**. Ему нужен был **рецепт**. Еда в **хранилище**. Нет **обвинения**.
+
+## #37<common/>
+
+**subsequent** [сАбсэкуэнт] *прил.* последующий; **integrate** [ЫнтэгрЕйт] *гл.* объединять; **impressive** [ЫмпрЕсыв] *прил.* впечатляющий; **rent** [рЕнт] *гл.* арендовать; **surgeon** [сЭрджэн] *сущ.* хирург; **compound** [кАмпаунд] *сущ.* соединение; **artistic** [артЫстык] *прил.* художественный; **contend** [кэнтЕнд] *гл.* бороться; **major** [мЕйджэр] *сущ.* крупный; **dependent** [дыпЕндэнт] *прил.* зависимый<common/>
+
+My friend is a **surgeon**. He wants to **rent** a house. He likes houses with **artistic** gardens. His son is **dependent** on him. My friend has a **major** problem: to **integrate** work and family. He must **contend** with this. The **subsequent** years will be hard. He makes an **impressive** salary. He doesn't want his life to be a **compound** of work and stress.
+
+Мой друг - **хирург**. Он хочет **арендовать** дом. Ему нравятся дома с **художественными** садами. Его сын **зависимый** от него. У моего друга **крупная** проблема: **объединять** работу и семью. Он должен **бороться** с этим. **Последующие** годы будут тяжелыми. У него **впечатляющая** зарплата. Он не хочет, чтобы его жизнь была **соединением** работы и стресса.
+
+## #38<common/>
+
+**ease** [Из] *гл.* облегчать; **educate** [ЕджэкЕйт] *гл.* воспитывать; **infant** [Ынфэнт] *сущ.* ребенок; **presidency** [прЕзэдэнси] *сущ.* президентство; **offensive** [эфЕнсыв] *прил.* оскорбительный; **lecture** [лЕкчэр] *сущ.* лекция; **recording** [рэкОрдын] *сущ.* запись; **exhibit** [ыгзЫбыт] *гл.* выставлять; **cope** [кOуп] *гл.* справиться; **enforce** [енфОрс] *гл.* принуждать<common/>
+
+The **infant** is small. We **educate** him. It **eases** his learning. The teacher gives a **lecture**. We listen to the **recording** later. Do not be **offensive**! It is not good. The museum will **exhibit** old things. It is hard to **cope** with change. The police **enforce** the law. The **presidency** is a big job.
+
+Ребенок (**infant**) маленький. Мы **воспитываем** (educate) его. Это **облегчает** (eases) его обучение. Учитель дает **лекцию** (lecture). Мы слушаем **запись** (recording) позже. Не будь **оскорбительным** (offensive)! Это не хорошо. Музей будет **выставлять** (exhibit) старые вещи. Тяжело **справиться** (cope) с переменами. Полиция **принуждает** (enforce) к соблюдению закона. **Президентство** (presidency) - большая работа.
+
+## #39<common/>
+
+**strengthen** [стрЕнθэн] *гл.* укреплять; **pitch** [пЫч] *сущ.* поле; **carrier** [кЭриэр] *сущ.* перевозчик; **standing** [стЭндын] *сущ.* положение; **acid** [Эсэд] *сущ.* кислота; **receiver** [рэсИвэр] *сущ.* приемник; **corps** [кОр] *сущ.* корпус; **elderly** [Елдэрли] *прил.* пожилой; **tendency** [тЕндэнси] *сущ.* тенденция; **integration** [ЫнтэгрЕйшэн] *сущ.* интеграция<common/>
+
+**The** **elderly** man wants to **strengthen** his **standing** in the community. He helps on the **pitch**, organizing games. He works as a volunteer **carrier**, delivering food. He understands the **tendency** for separation and promotes **integration**. He believes the army **corps** needs a radio **receiver**. He knows some cleaning products contain **acid**.
+
+**Пожилой** мужчина хочет **укрепить** свое **положение** в обществе. Он помогает на **поле**, организовывая игры. Он работает волонтером-**перевозчиком**, доставляя еду. Он понимает **тенденцию** к разделению и продвигает **интеграцию**. Он считает, что армейскому **корпусу** нужен радио**приемник**. Он знает, что некоторые чистящие средства содержат **кислоту**.
+
+## #40<common/>
+
+**reservation** [рЕзэрвЕйшэн] *сущ.* резервирование; **pitch** [пЫч] *гл.* подавать; **sin** [сЫн] *сущ.* грех; **assemble** [эсЕмбэл] *гл.* собирать; **highlight** [хАйлАйт] *гл.* выделять; **absorb** [эбзОрб] *гл.* поглощать; **adequate** [Эдэкуэт] *прил.* достаточный; **occasional** [экЕйжэнэл] *прил.* случайный; **craft** [крЭфт] *сущ.* ремесло; **exceed** [ыксИд] *гл.* превышать<common/>
+
+I have a **reservation** for one night. I can **pitch** a tent. **Sin** is bad. We **assemble** things. We **highlight** important words. Plants **absorb** water. Is this food **adequate**? I have **occasional** dreams. I like **craft**. Do not **exceed** the limit!
+
+У меня есть **резервирование** на одну ночь. Я могу **подавать** палатку. **Грех** - это плохо. Мы **собирать** вещи. Мы **выделять** важные слова. Растения **поглощать** воду. Эта еда **достаточная**? У меня **случайные** сны. Мне нравится **ремесло**. Нельзя **превышать** лимит!
+
+## #41<common/>
+
+**exact** [ыгзЭкт] *прил.* точный; **regulate** [рЕгйэлЕйт] *гл.* регулировать; **assert** [эсЭрт] *гл.* утверждать; **document** [дАкйэмент] *гл.* документировать; **submit** [сэбмЫт] *гл.* подавать; **sacred** [сЕйкрэд] *прил.* священный; **interior** [ЫнтЫриэр] *сущ.* интерьер; **intensity** [ынтЕнсэти] *сущ.* интенсивность; **measurement** [мЕжэрмэнт] *сущ.* измерение; **principal** [прЫнсэпэл] *прил.* основной<common/>
+
+The **principal** rule is this: **regulate** the **intensity**! We must **document** each **measurement**. It's **exact**. We **assert** it. It's a **sacred** duty. We **submit** the data. The **interior** design needs this.
+
+**Основное** правило такое: **регулируйте** **интенсивность**! Мы должны **документировать** каждое **измерение**. Это **точно**. Мы это **утверждаем**. Это **священный** долг. Мы **подаем** данные. **Интерьер** нуждается в этом.
+
+## #42<common/>
+
+**tent** [тЕнт] *сущ.* палатка; **closet** [клАзэт] *сущ.* шкаф; **acceptable** [эксЕптэбэл] *прил.* приемлемый; **pregnancy** [прЕгнэнси] *сущ.* беременность; **margin** [мАрджэн] *сущ.* запас; **delay** [дылЕй] *гл.* откладывать; **load** [лOуд] *сущ.* груз; **cognitive** [кАгнытыв] *прил.* познавательный; **fund** [фАнд] *гл.* финансировать; **collapse** [кэлЭпс] *гл.* рухнуть<common/>
+
+Here is the text:
+
+Вот перевод:
+
+I have a problem. My **tent** is small. My clothes are in the **closet**. It is not **acceptable**. I can't **delay** this. I need a bigger space! The **load** is too much. I don't have a **margin** for error. This is not about **pregnancy** or a **cognitive** test. We need to **fund** a new one, or it will **collapse**! It's a big **load**.
+
+У меня проблема. Моя **палатка** маленькая. Мои вещи в **шкафу**. Это не **приемлемо**. Я не могу это **откладывать**. Мне нужно больше места! **Груз** слишком большой. У меня нет **запаса** для ошибок. Это не о **беременности** или **познавательном** тесте. Нам нужно **финансировать** новую, или она **рухнет**! Это большой **груз**.
+
+## #43<common/>
+
+**excuse** [ыкскйУс] *гл.* прощать; **associate** [эсOусиэт] *сущ.* коллега; **controversial** [кАнтрэвЭршэл] *прил.* спорный; **cluster** [клАстэр] *сущ.* скопление; **economics** [ЕкэнАмыкс] *сущ.* экономика; **medium** [мИдиэм] *сущ.* средство; **earnings** [Эрнынз] *сущ.* заработок; **distinct** [дыстЫнкт] *прил.* различный; **moderate** [мАдэрэт] *прил.* умеренный; **plain** [плЕйн] *сущ.* равнина<common/>
+
+**Excuse** me, but my **associate** said our new project is **controversial**. A **cluster** of people argue about **economics**. The best **medium** for discussion is a report about **earnings**. The results are **distinct**: some like it, some do not. We need a **moderate** approach. This project is on a **plain**.
+
+**Простите**, но мой **коллега** сказал, что наш новый проект **спорный**. **Скопление** людей спорит об **экономике**. Лучшее **средство** для обсуждения - это отчет о **заработках**. Результаты **различные**: кому-то нравится, кому-то нет. Нам нужен **умеренный** подход. Этот проект на **равнине**.
+
+## #44<common/>
+
+**scholarship** [скАлэршЫп] *сущ.* ученость; **hypothesis** [хайпАθэсэс] *сущ.* гипотеза; **essence** [Есэнс] *сущ.* сущность; **ethics** [Еθыкс] *сущ.* мораль; **legacy** [лЕгэси] *сущ.* наследие; **narrative** [нЭрэтыв] *сущ.* повествование; **store** [] *хранить* стОр; **log** [лОг] *сущ.* бревно; **estimated** [ЕстэмЕйтэд] *прил.* примерный; **decrease** [дыкрИс] *гл.* уменьшать<common/>
+
+The old **log** **store** wood. This is his **legacy**. He had a **scholarship** once. His **estimated** time to cut all wood will **decrease**. The **essence** of hard work is important. **Ethics** tell him to work fair. He has a **narrative** about life. Maybe his **hypothesis** is right.
+
+Старое **бревно** **содержит/хранит** древесину. Это его **наследие**. Однажды у него была **ученость/стипендия**. Его **примерное** время для рубки всей древесины **уменьшится**. **Сущность** тяжелой работы важна. **Мораль** говорит ему работать честно. У него есть **повествование** о жизни. Возможно, его **гипотеза** верна.
+
+## #45<common/>
+
+**headline** [хЕдлАйн] *сущ.* заголовок; **nerve** [нЭрв] *сущ.* нерв; **laughter** [лЭфтэр] *сущ.* смех; **remark** [рымАрк] *сущ.* замечание; **march** [мАрч] *гл.* маршировать; **rate** [рЕйт] *гл.* оценивать; **scope** [скOуп] *сущ.* рамки; **evident** [Евэдэнт] *прил.* очевидный; **net** [нЕт] *прил.* чистый; **musician** [мйузЫшэн] *сущ.* музыкант<common/>
+
+**Headline**: Funny **Musician**!
+
+**Заголовок**: Смешной **Музыкант**!
+
+The **evident** thing is he is good. People **rate** him well. He makes jokes! One **remark** makes everyone **laughter**. He plays music in the park. His **scope** is small, just the park. He does not **march** in parades. He plays for fun. It's a **net** gain for everyone. He has a strong **nerve** to play in public.
+
+**Очевидная** вещь - он хорош. Люди хорошо его **оценивают**. Он шутит! Одно **замечание** вызывает у всех **смех**. Он играет музыку в парке. Его **рамки** невелики, только парк. Он не **марширует** на парадах. Он играет для удовольствия. Это **чистый** выигрыш для всех. У него крепкий **нерв**, чтобы играть на публике.
+
+## #46<common/>
+
+**swing** [суЫн] *сущ.* размах; **adjustment** [эджАстмэнт] *сущ.* регулировка; **retail** [рИтЕйл] *прил.* розничный; **prevention** [привЕншэн] *сущ.* предотвращение; **legend** [лЕджэнд] *сущ.* надпись; **pine** [пАйн] *сущ.* сосна; **seemingly** [сИмынли] *нар.* по-видимому; **dominant** [дАмэнэнт] *прил.* доминирующий; **mill** [мЫл] *сущ.* мельница; **collapse** [кэлЭпс] *сущ.* крах<common/>
+
+The park has a big **swing**. There is a small **adjustment** for it. The **retail** price of wood is high. **Prevention** of fire is important. Read the **legend** on the old **pine** tree. **Seemingly**, the **dominant** color here is green. The old **mill** is near **collapse**.
+
+В парке есть большие **качели (swing)**. Для них есть небольшая **регулировка (adjustment)**. **Розничная (retail)** цена на дерево высока. **Предотвращение (prevention)** пожара важно. Прочитайте **надпись (legend)** на старой **сосне (pine)**. **По-видимому (seemingly)**, **доминирующий (dominant)** цвет здесь - зеленый. Старая **мельница (mill)** близка к **краху (collapse)**.
+
+## #47<common/>
+
+**acceptance** [эксЕптэнс] *сущ.* принятие; **confusion** [кэнфйУжэн] *сущ.* путаница; **dining** [дАйнын] *сущ.* трапеза; **painful** [пЕйнфэл] *прил.* болезненный; **ratio** [рЕйшиOу] *сущ.* соотношение; **label** [лЕйбэл] *гл.* помечать; **concerning** [кэнсЭрнын] *пред.* относительно; **medication** [мЕдэкЕйшэн] *сущ.* лекарство; **suspect** [сэспЕкт] *сущ.* подозреваемый; **overlook** [OувэрлУк] *гл.* игнорировать<common/>
+
+There is **confusion**. The **ratio** of sugar to salt is wrong. **Dining** here is **painful**. The doctor gave him **medication**. Don't **overlook** this! The police have a **suspect**. **Concerning** his health, there is **acceptance**. Do not **label** him too soon.
+
+Существует **путаница**. **Соотношение** сахара к соли неправильное. **Трапеза** здесь **болезненная**. Доктор дал ему **лекарство**. Не **игнорируй** это! У полиции есть **подозреваемый**. **Относительно** его здоровья, есть **принятие**. Не **помечай** его слишком рано.
+
+## #48<common/>
+
+**confuse** [кэнфйУз] *гл.* запутывать; **conviction** [кэнвЫкшэн] *сущ.* убеждение; **framework** [фрЕймуЭрк] *сущ.* каркас; **changing** [чЕйнджын] *прил.* меняющийся; **curve** [кЭрв] *сущ.* изгиб; **architect** [АркэтЕкт] *сущ.* архитектор; **flash** [флЭш] *гл.* сверкать; **crack** [крЭк] *гл.* трескаться; **counsel** [кАунсэл] *сущ.* адвокат; **competitor** [кэмпЕтэтэр] *сущ.* конкурент<common/>
+
+The **architect** has a strong **conviction**. He uses a simple **framework**. The world is **changing**. The road has a sharp **curve**. Don't **confuse** him. A light can **flash**. The glass can **crack**. He needs **counsel**. He has a **competitor**.
+
+У **архитектора** сильное **убеждение**. Он использует простой **каркас**. Мир **меняющийся**. На дороге крутой **изгиб**. Не **запутывай** его. Свет может **сверкать**. Стекло может **трескаться**. Ему нужен **адвокат**. У него есть **конкурент**.
+
+# 4500
 
 ## #1<common/>
 

@@ -70,6 +70,11 @@
     $(".com-btn").click(function() {
         var en = $(".body-box").val().split(/\r?\n/).filter(x => x.trim() !== "");
         var ru = $(".body-box-ru").val().split(/\r?\n/).filter(x => x.trim() !== "");
+        var notRu = ru.filter(x => enru(x) > 0);
+        if (notRu.length > 0) {
+            notRu.forEach(x => console.log(x));
+            return;
+        }
         while (en.length > ru.length) {
             ru.push("");
         }
