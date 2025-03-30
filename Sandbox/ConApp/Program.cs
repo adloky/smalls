@@ -1429,8 +1429,9 @@ namespace ConApp {
             var en = enRe.Matches(s).Cast<Match>().Select(m => m.Value.Length).Sum();
             var ru = ruRe.Matches(s).Cast<Match>().Select(m => m.Value.Length).Sum();
 
-            var sum = Math.Max(1, en + ru);
-            return (en * 100 / sum) - (ru * 100 / sum);
+            return ru > 0 ? -1
+                : en > 0 ? 1
+                : 0;
         }
 
         static Regex hRe = new Regex(@"h\d", RegexOptions.Compiled | RegexOptions.IgnoreCase);
@@ -1648,15 +1649,21 @@ namespace ConApp {
                 r += "замени, по возможности, слова за пределами B2-уровня знания английского на частоупотребляемые синонимы, верни только результат:\r\n" + s.Substring(pre.Length);
 
                 var s2 = (string)null;
-                do {
-                    try {
-                        s2 = gemini(r);
-                    }
-                    catch (Exception e) {
-                        Console.WriteLine(e.Message);
-                        Thread.Sleep(10000);
-                    }
-                 } while (s2 == null);
+                if (s == pre) {
+                    s2 = "";
+                }
+                else {
+                    do {
+                        try {
+                            s2 = gemini(r);
+                        }
+                        catch (Exception e) {
+                            Console.WriteLine(e.Message);
+                            Thread.Sleep(10000);
+                        }
+                    } while (s2 == null);
+                }
+
                 Console.WriteLine(i++);
                 File.AppendAllText(pathRu, Regex.Replace(pre + s2 + "\r\n---", @"(\r?\n)+", "\r\n") + "\r\n");
             }
@@ -1979,13 +1986,13 @@ namespace ConApp {
             ss = mergeEven(a, b).Concat(at).ToList();
             */
 
+
             //genStories(@"d:/stories-0.txt", 3);
 
+            //geminiSplit(@"d:\.temp\reader-22-orig.txt");
+            //geminiAdapt(@"d:\.temp\reader-22.txt");
 
-            //geminiSplit(@"d:\.temp\reader-19-orig.txt");
-            geminiAdapt(@"d:\.temp\reader-19.txt");
-
-            //mdMonitor(); return; // mdPostCom
+            mdMonitor(); return; // mdPostCom
 
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
             //serRename(@"e:\scooby");
