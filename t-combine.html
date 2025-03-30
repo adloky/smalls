@@ -63,8 +63,9 @@
         s = s.replaceAll(/<\/?\w[^>]*>/g, "");
         var en = s.replaceAll(/[^a-zA-Z]+/g, "").length;
         var ru = s.replaceAll(/[^а-яА-Я]+/g, "").length;
-        var sum = Math.max(1, en + ru);
-        return (en * 100 / sum) - (ru * 100 / sum);
+        return ru > 0 ? -1
+            : en > 0 ? 1
+            : 0;
     }
     
     $(".com-btn").click(function() {
