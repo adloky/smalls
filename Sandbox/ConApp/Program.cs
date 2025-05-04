@@ -1585,7 +1585,7 @@ namespace ConApp {
 
         static Regex adaptKeepRe = new Regex(@"^((Chapter|#+) [^\r\n]+|_)(\r?\n|$)", RegexOptions.IgnoreCase | RegexOptions.Compiled);
 
-        static void geminiSplit(string path) {
+        static void geminiSplit(string path, int size = 4000) {
             var ss = File.ReadAllLines(path);
             var sz = 0;
             var rs = new List<string>();
@@ -1593,7 +1593,7 @@ namespace ConApp {
             var rs2 = new List<string>();
             var hRe = new Regex(@"^#+ ");
 
-            var gt4k  = ss.Where(s => s.Length > 4000).ToList();
+            var gt4k  = ss.Where(s => s.Length > size).ToList();
             gt4k.ForEach(s => {
                 Console.WriteLine($"{s.Length} {s.Substring(0,30)}");
             });
@@ -1608,12 +1608,12 @@ namespace ConApp {
                     rs2.Clear();
                 }
 
-                if (rs1.Count > 0 && (rs1.Sum(x => x.Length) + rs2.Sum(x => x.Length) + s.Length > 4000)) {
+                if (rs1.Count > 0 && (rs1.Sum(x => x.Length) + rs2.Sum(x => x.Length) + s.Length > size)) {
                     rs.AddRange(rs1);
                     rs1.Clear();
                     rs.Add("---");
                 }
-                if (rs2.Count > 0 && (rs2.Sum(x => x.Length) + s.Length > 4000)) {
+                if (rs2.Count > 0 && (rs2.Sum(x => x.Length) + s.Length > size)) {
                     if (rs1.Count != 0) throw new Exception(); 
                     rs.AddRange(rs2);
                     rs2.Clear();
@@ -1645,8 +1645,11 @@ namespace ConApp {
 
                 var pre = adaptKeepRe.Matches(s).Cast<Match>().Select(m => m.Value).FirstOrDefault() ?? "";
                 var r = "";
-                r = "Адаптируй текст для понимания на B1-уровне знания английского, а также ";
-                r += "замени, по возможности, слова за пределами B2-уровня знания английского на частоупотребляемые синонимы, верни только результат:\r\n" + s.Substring(pre.Length);
+                r = "Адаптируй текст для понимания на B2-уровне знания английского, а также ";
+                r += "замени, по возможности, слова за пределами C1-уровня знания английского на частоупотребляемые синонимы, верни только результат:\r\n" + s.Substring(pre.Length);
+
+                //                r = "Адаптируй текст для понимания на B1-уровне знания английского, а также ";
+                //                r += "замени, по возможности, слова за пределами B2-уровня знания английского на частоупотребляемые синонимы, верни только результат:\r\n" + s.Substring(pre.Length);
 
                 var s2 = (string)null;
                 if (s == pre) {
@@ -1932,6 +1935,24 @@ namespace ConApp {
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
+            var path = @"d:\Projects\smalls\freq-20k.txt";
+            var pathCamb = @"d:\Projects\smalls\camb.txt";
+            var dicCamb = loadDic(pathCamb);
+            
+            var ss = File.ReadAllLines(path).Select(x => {
+                var sp = x.Split(new[] { "}" } , ssop);
+                sp[0] += "}";
+                var key = Regex.Replace(sp[0], @"\d+ ", "");
+                if (!dicCamb.ContainsKey(key)) return x;
+                var pre = Regex.Matches(sp[1], @"^ \[.+?\]").Cast<Match>().Select(m => m.Value).FirstOrDefault() ?? "";
+                sp[0] += pre;
+                sp[1] = sp[1].Substring(pre.Length);
+
+                return $"{sp[0]} {dicCamb[key]};{sp[1]}";
+            }).ToList();
+
+            
+            File.WriteAllLines(pathEx(path, "-2"), ss);
             /*
             var d20k = loadDic(@"d:\Projects\smalls\freq-20k.txt");
             var d100 = loadDic(@"d:\Projects\smalls\words-100.txt");
@@ -1941,20 +1962,6 @@ namespace ConApp {
                 .Where(x => x != null && !d100.ContainsKey(x))
                 .GroupBy(x => x).Select(g => (k: g.Key, n: g.Count()))
                 .OrderByDescending(x => x.n).ToList().ForEach(x => Console.WriteLine($"{x.k} {x.n}"));
-            */
-            //Console.WriteLine(getPosAbrBack("{сущ}"));
-
-            /*
-            // 18*6
-            var p = "Придумай на английском маленький отрывок из диалога для детей с начальным уровнем знания английского (A1) мальчика с мамой (2 варианта), с папой (1 вариант) и с подружкой (2 варианта), все слова должны быть в диалоге. Слова: СЛОВА.";
-            var path = @"d:\Projects\smalls\words-100.txt";
-            var ss = File.ReadAllLines(path).ToList();
-            var gs = ss.Select((x, i) => (x, i / 7)).GroupBy(x => x.Item2).Select(g => g.Select(x => x.Item1).ToList()).ToList();
-            foreach (var g in gs) {
-                var q = string.Join(", ", g.Select(x => Regex.Replace(x, @"\{.*?\}", "-")));
-                q = p.Replace("СЛОВА", q);
-                Console.WriteLine(q);
-            }
             */
 
             //var ts = ss.Skip(108).ToList();
@@ -1976,7 +1983,6 @@ namespace ConApp {
             ss = dic.Select(x => x.Value).OrderByDescending(x => x).ToList();
             */
 
-
             /*
             var a = ss.Where(s => !s.Contains("#3")).ToList();
             var b = ss.Where(s => s.Contains("#3")).ToList();
@@ -1986,16 +1992,17 @@ namespace ConApp {
             ss = mergeEven(a, b).Concat(at).ToList();
             */
 
-
             //genStories(@"d:/stories-0.txt", 3);
 
-            //geminiSplit(@"d:\.temp\reader-22-orig.txt");
-            //geminiAdapt(@"d:\.temp\reader-22.txt");
+            //geminiSplit(@"d:\.temp\reader-28-orig.txt");
+            //geminiAdapt(@"d:\.temp\reader-28.txt");
 
-            mdMonitor(); return; // mdPostCom
+            //mdMonitor(); return; // mdPostCom
 
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
             //serRename(@"e:\scooby");
+
+            
 
             /*
             if (!File.Exists(@"d:\.temp\srt\all.srt")) 
