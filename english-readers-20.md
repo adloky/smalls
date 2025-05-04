@@ -154,10 +154,6 @@ Mr. Meggs kept smiling. Smiles can mean different things. Mr. Meggs thought he w
 
 Мистер Меггс продолжал улыбаться. Улыбки могут означать разные вещи. Мистер Меггс подумал, что он грустно улыбается, как человек, прощающийся с хорошим работником, потому что тот вот-вот умрет. Мисс Пилленджер подумала, что он улыбается, как грязный старик, которому должно быть стыдно.
 
-Okay, here's the adapted text, aiming for B1 level and using more common vocabulary:
-
-Хорошо, вот адаптированный текст, рассчитанный на уровень B1 и использующий более распространенную лексику:
-
 'No, Miss Pillenger,' said Mr Meggs, 'I will not work this morning. I would like you to be so kind as to mail these six letters for me.'
 
 «Нет, мисс Пилленджер», — сказал мистер Меггс, — «я не буду работать сегодня утром. Я бы хотел, чтобы вы были так любезны отправить эти шесть писем за меня».
@@ -1760,10 +1756,6 @@ Chapter IV
 
 Глава IV
 
-Here's the adapted text:
-
-Вот адаптированный текст:
-
 Part of a letter from Richard Venables to his father, Major-General Sir Everard Venables:
 
 Фрагмент письма Ричарда Венейблса его отцу, генерал-майору сэру Эверарду Венейблсу:
@@ -1935,10 +1927,6 @@ Venables, St Austin's. Doing great. --Venables
 Chapter X
 
 Глава X
-
-Okay, here's the adapted text, using simpler language and focusing on B1/B2 vocabulary:
-
-Хорошо, вот адаптированный текст, написанный более простым языком и ориентированный на лексику уровней B1/B2:
 
 From a Letter from Richard Venables to his father:
 
@@ -3220,10 +3208,6 @@ The cup went to Merevale's team that year. The Babe played a very good game for 
 
 В тот год кубок достался команде Меревале. Малыш сыграл за них очень хорошую игру.
 
-Okay, here's the text adapted for B1 level, using simpler words:
-
-Хорошо, вот текст, адаптированный для уровня B1, с использованием более простых слов:
-
 The Plans of Charteris
 
 Планы Чартерис
@@ -3431,10 +3415,6 @@ Welch focused on the point.
 'My friend, it doesn't matter. The worst that can happen for going out of bounds is writing lines, and I have done a lot of them already. Besides, things would be boring if you always stayed in bounds. I feel like a criminal when I go to Stapleton. It's a great feeling. It's worth the lines.'
 
 «Друг мой, это не имеет значения. Худшее, что может случиться из-за выхода за рамки, — это написание реплик, а я уже много их написал. К тому же, было бы скучно, если бы ты всегда оставался в рамках. Я чувствую себя преступником, когда иду в Стэплтон. Это великолепное чувство. Оно стоит этих реплик».
-
-Okay, here's the simplified version of the text, aimed at a B1 level, with vocabulary adjustments:
-
-Хорошо, вот упрощенная версия текста, рассчитанная на уровень B1, с корректировкой словарного запаса:
 
 'You're a big fool,' said Welch, in a rude but correct way.
 
@@ -5172,10 +5152,6 @@ Chapter II
 
 Глава 2
 
-Okay, here's the adapted text, using simpler vocabulary and grammar suitable for a B1 level, while keeping the original meaning:
-
-Хорошо, вот адаптированный текст, использующий более простую лексику и грамматику, подходящую для уровня B1, но сохраняющий исходный смысл:
-
 He did.
 
 Он так и сделал.
@@ -5676,10 +5652,6 @@ She said she would be happy to and asked what it was.
 
 «Здесь он делает это только потому, что Пратеры его не останавливают. С вами он этого не сделает. Если он это сделает, пусть кто-нибудь ударит его чем-нибудь. Он быстро прекратит. Вы должны это сделать. Все в Палате будут очень благодарны».
 
-Okay, here's the adapted text with vocabulary suitable for a B1 level and simpler sentence structures, focusing on common words and phrases:
-
-Хорошо, вот адаптированный текст с лексикой, подходящей для уровня B1, и более простыми структурами предложений, с упором на общие слова и фразы:
-
 "But will Mr. Prater let me have the cat?"
 
 «Но позволит ли мне мистер Пратер забрать кошку?»
@@ -5867,10 +5839,6 @@ The red walls have seen many sunny days."
 'Great! Can you add something about the cricket game? You could rhyme cricket with wicket.' Smith was happy with his idea, but Reynolds didn't like it.
 
 «Отлично! Можете что-нибудь добавить об игре в крикет? Можно срифмовать «крикет» с «калиткой». Смит был доволен своей идеей, но Рейнольдсу она не понравилась.
-
-Okay, here's the adapted text with B1 vocabulary and grammar, and simpler synonyms where possible:
-
-Хорошо, вот адаптированный текст с лексикой и грамматикой уровня B1, а также более простыми синонимами, где это возможно:
 
 'Well,' said Smith, 'I have to go now. We have a sports game at school. Thanks a lot for the poem.'
 
@@ -6283,10 +6251,6 @@ Enter CONSCIENCE from above (right), MEPHISTOPHELES from below (left).
 CONSCIENCE (with a friendly smile): That's exactly what I was going to say, my dear friend. Studying Thucydides would be good. Thucydides, as you probably know, was a very famous writer from Athens. When did he live?
 
 СОВЕСТЬ (с дружеской улыбкой): Именно это я и собирался сказать, мой дорогой друг. Было бы неплохо изучить Фукидида. Фукидид, как вы, вероятно, знаете, был очень известным писателем из Афин. Когда он жил?
-
-Okay, here's the adapted version:
-
-Хорошо, вот адаптированная версия:
 
 SMITH: Um, let me see.
 
@@ -6891,10 +6855,6 @@ Maybe I was.
 # THE MAN UPSTAIRS
 
 # МУЖЧИНА НАВЕРХУ
-
-Here's the adapted text for B1 level, with simpler vocabulary:
-
-Вот адаптированный текст для уровня B1 с более простой лексикой:
 
 Annette Brougham's feelings about the knocking in the room above changed in three clear steps. At first, it was just a small annoyance. She was busy writing her waltz, so she almost didn't hear it. The second step came when it became a real pain, like something hot hurting her and taking her mind away from her music. Finally, feeling angry, she knew what it was – an insult. The person above didn't like her playing and was showing it by hitting the floor with their heel.
 
@@ -8313,10 +8273,6 @@ If this story shows anything (besides the good thing about being fit when you fi
 # DEEP WATERS
 
 # ГЛУБОКИЕ ВОДЫ
-
-Here's the adapted text, simplified for B1 level and using more common vocabulary:
-
-Вот адаптированный текст, упрощенный для уровня B1 и использующий более распространенную лексику:
 
 Historians talking about life in the later Roman Empire tell a story about a young man from Ariminum. He liked to jump into rivers and swim. When his friends said, "You swim like a fish!", he would answer, "Oh, nonsense! Fish can't swim like me, they don't have my energy."
 
@@ -11253,10 +11209,6 @@ I lifted my shoulders.
 «Я так и думал, сэр. Но что я могу сделать? Чтобы сделать омлет, нужно разбить яйца. В любви и на войне все дозволено, говорите вы, а это было и то, и другое. И еще, вам нужно знать, я не говорю попугаю, что делать. Он может выбирать. Я просто открываю дверцу клетки. Если он выпрыгнет и пойдет на пол, где находится кошка, это его выбор. Мне продолжать говорить?»
 
 _
-
-Okay, here's the adapted text, using simpler language and mostly B2 vocabulary:
-
-Хорошо, вот адаптированный текст, использующий более простой язык и в основном лексику уровня B2:
 
 Okay! I open the cage door and leave quietly. It's not smart for me to stay and watch what will happen. I need to create an excuse for where I was. I go to the living room, and I stay there.
 
@@ -19782,10 +19734,6 @@ He smoked his pipe and looked at her in a dreamy way.
 
 «Спасибо, Джордж. Я знала, что у меня большой рот, но я думала, что выгляжу лучше, чем Билликен. Ты говоришь ей такие вещи?» Она указала на фотографию на камине. Это был первый раз, когда она заговорила об этом с тех пор, как они встретились. Они не говорили об этом раньше. «Кстати, ты так и не сказал мне ее имени».
 
-Okay, here's the adapted text with simpler vocabulary and grammar, aimed at a B1 level:
-
-Хорошо, вот адаптированный текст с более простой лексикой и грамматикой, рассчитанный на уровень B1:
-
 'Halliday,' said Rutherford quickly.
 
 «Холлидей», — быстро сказал Резерфорд.
@@ -21452,10 +21400,6 @@ I'll always remember the morning he arrived. I had been to a fun dinner the nigh
 
 Я всегда буду помнить утро, когда он приехал. Накануне вечером я была на веселом ужине и плохо себя чувствовала. Кроме того, я пыталась читать книгу, которую мне дала Флоренс Крей. Она гостила у нас в Изби, и мы обручились за несколько дней до моего отъезда. Я собиралась вернуться в конце недели и знала, что она будет ждать, что я дочитаю книгу. Она действительно хотела сделать меня умнее. Она была девушкой с красивым лицом, но она была очень серьезной. Книга, которую она мне дала, называлась «Типы этической теории», и когда я ее открыла, я увидела страницу, которая начиналась так:
 
-[Original text, as the B1 level would allow to understand general meaning]
-
-[Оригинальный текст, поскольку уровень B1 позволяет понимать общий смысл]
-
 It was true, I'm sure, but not what you want to read when you have a headache.
 
 Я уверен, что это правда, но это не то, что хочется читать, когда у тебя болит голова.
@@ -22769,10 +22713,6 @@ I don't remember the exact dates, but about three weeks later, I got a telegram:
 She didn't need to sign her name. I knew who it was from the way it was written. Ever since I was a child, Duggie's sister Florence has made me feel very uncomfortable. And I'm not the only one. Her brothers are afraid of her, I know. Especially Edwin. He has never been able to leave her and it has made him weak. He's a quiet, sad person who stays at home - they live near Philadelphia - and has never been to New York. He's writing a history of the family, I think.
 
 Ей не нужно было подписывать свое имя. Я понял, кто это, по тому, как оно было написано. С самого детства сестра Дагги, Флоренс, заставляла меня чувствовать себя очень неуютно. И я не один такой. Ее братья боятся ее, я знаю. Особенно Эдвин. Он никогда не мог оставить ее, и это сделало его слабым. Он тихий, грустный человек, который остается дома — они живут недалеко от Филадельфии — и никогда не был в Нью-Йорке. Он пишет историю семьи, я думаю.
-
-Okay, here's the adapted text, using simpler vocabulary and sentence structures suitable for a B1 English level:
-
-Хорошо, вот адаптированный текст, использующий более простую лексику и структуры предложений, подходящие для уровня английского языка B1:
 
 You see, things happened in a way that let Florence do almost anything she wanted. First, there was old Mr. Craye, Duggie's father, who got rich from the Soup Business. There was also Duggie's older brother Edwin, Florence, and Duggie. Mrs. Craye had died a few years ago. Then, something bad happened. It was because of the old man. Most people think he should be in a mental hospital. One morning, he came to breakfast, looked at the food, and said sadly, "Eggs! Eggs! Eggs! I hate eggs!" Then he left the room. Nobody thought much about it until an hour later, when they found he had packed a bag, left the house, and taken the train to New York. The next day, they got a letter from him saying he was going to Europe and would never come back. He said to send all letters to his lawyers. Since then, no one had seen him. He wrote sometimes, usually from Paris, and that was all.
 
@@ -24576,10 +24516,6 @@ The interruption had a good effect. People stopped frowning. They started to see
 
 Прерывание имело хороший эффект. Люди перестали хмуриться. Они начали понимать, что позволили чувствам взять над собой верх. Принц Отто с дружеской улыбкой наполнил бокал великого герцога и сказал:
 
-Here's the adapted text:
-
-Вот адаптированный текст:
-
 "Maybe Trumper's bat looks nicer, but I like Fry's strong hits more."
 
 «Возможно, бита Трампера выглядит лучше, но мне больше нравятся сильные удары Фрая».
@@ -26127,10 +26063,6 @@ The Prince left.
 Chapter 11
 
 Глава 11
-
-Okay, here's the adapted text, using simpler language and avoiding words above B2 level:
-
-Хорошо, вот адаптированный текст, использующий более простой язык и избегающий слов выше уровня B2:
 
 CLARENCE – THE LAST PART
 

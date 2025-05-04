@@ -470,10 +470,6 @@ Four pairs of eyes watched it silently and with great interest.
 
 # ЭПИЗОД ФИНАНСОВОГО НАПОЛЕОНА
 
-Here's the adapted text:
-
-Вот адаптированный текст:
-
 Part Two of Six Stories [First published in Pictorial Review, June 1916]
 
 Часть вторая из шести рассказов [Впервые опубликовано в Pictorial Review, июнь 1916 г.]
@@ -5120,10 +5116,6 @@ He seemed to have arrived one morning at 7:45, which is when they let you off th
 
 Он, кажется, прибыл однажды утром в 7:45, когда в Нью-Йорке спускают с корабля. Дживс был с ним невежлив и сказал ему вернуться через несколько часов, когда я, возможно, проснусь и буду готов кого-то поприветствовать. Это было мило со стороны Дживса, потому что в то время у нас был небольшой спор из-за каких-то моих ярких носков, которые ему не понравились. Кто-то другой мог бы воспользоваться шансом отомстить мне, впустив Сирила в мою комнату, когда я не смог выдержать двухминутного разговора. Пока я не выпью чаю и не подумаю о жизни, я не умею разговаривать.
 
-Okay, here's the adapted text with simpler vocabulary and grammar:
-
-Хорошо, вот адаптированный текст с более простой лексикой и грамматикой:
-
 Jeeves kindly helped Cyril leave into the fresh morning air. He didn't tell me Cyril was there until he brought his card with the tea.
 
 Дживс любезно помог Сирилу выйти на свежий утренний воздух. Он не сказал мне, что Сирил был там, пока не принес свою карточку вместе с чаем.
@@ -5607,10 +5599,6 @@ He went away.
 Он ушел.
 
 _
-
-Okay, here's the adapted version of the text, using simpler language (mostly B1-B2 level) and replacing words outside that range:
-
-Хорошо, вот адаптированная версия текста, использующая более простой язык (в основном уровня B1-B2) и заменяющая слова за пределами этого диапазона:
 
 The part that old George had written for the silly Cyril was about two pages of typed writing. But Cyril acted like it was Hamlet, the way he worked very hard on it. I think I helped him learn his lines maybe twelve times in the first few days. He seemed to think that I only felt very impressed with the whole thing, and that he could count on my help and understanding.
 
@@ -7795,10 +7783,6 @@ She quickly ran to him and hugged him, like someone really wanting soup at a tra
 # THE TEST CASE
 
 # ТЕСТОВЫЙ СЛУЧАЙ
-
-Okay, here's the adapted text, aiming for B1 level and replacing higher-level vocabulary where possible:
-
-Хорошо, вот адаптированный текст, нацеленный на уровень B1 и заменяющий лексику более высокого уровня, где это возможно:
 
 Some friendly guys at the club sometimes come up to me and say, "Reggie, old friend," (my name is Reggie Pepper) "you should get married." Well, it's easy to say, and I understand what they mean, but it needs two people to get married. Up to now, I haven't met a girl who didn't think it was too big a decision to make.
 
@@ -13344,10 +13328,6 @@ I was happy to hear this because it meant that Aunt Agatha was becoming nicer. T
 
 Я был рад это слышать, потому что это означало, что тетя Агата становится добрее. Год назад были некоторые неприятности, когда она отправила меня в Нью-Йорк, чтобы помочь моему кузену Гасси уйти от девушки, которая была певицей. Когда я скажу вам, что Гасси не только женился на девушке, но и сам стал певцом, вы поймете, что тетя Агата очень рассердилась. Я не осмелился вернуться и увидеть ее, поэтому было приятно узнать, что она больше не сердится и сказала своим друзьям, чтобы они увидели меня. Я имею в виду, мне нравилась Америка, но я не хотел, чтобы меня держали подальше от Англии. Англия маленькая, и вы не захотите жить там с тетей Агатой, если она сердится. Поэтому я был рад услышать эти добрые слова и улыбнулся.
 
-Here's the adapted text:
-
-Вот адаптированный текст:
-
 "Your aunt said you would do anything you could to help us."
 
 «Твоя тетя сказала, что ты сделаешь все возможное, чтобы нам помочь».
@@ -16321,10 +16301,6 @@ It took him a long time to explain, because he kept stopping to shout at me, but
 «И помните, это ваша проблема», — сказал он. «Я не имею к этому никакого отношения. Если вы не хотите попасть в тюрьму, вам нужно найти родителей ребенка и забрать его обратно до приезда полиции».
 
 _
-
-Okay, here's the adapted version, aiming for B1 level and substituting words above B2 where possible:
-
-Хорошо, вот адаптированная версия, нацеленная на уровень B1 и заменяющая слова выше B2 там, где это возможно:
 
 "Wow! You know, until I started walking around with this kid, I didn't think it would be so hard to give a child back to his worried parents. I don't understand how people who steal children ever get caught. I looked everywhere in Marvis Bay like a detective, but nobody said the baby was theirs. You would think, because nobody seemed to care about him, that he was living there alone in his own house. Then, I had an idea and asked the man selling sweets. He told me the boy's name was Medwin, and his parents lived at a place called Ocean Rest, on Beach Road.
 
@@ -20558,10 +20534,6 @@ The trap that Henry fell into was a raised piece of wood. It wasn't very high. I
 
 Ловушка, в которую угодил Генри, представляла собой возвышающийся кусок дерева. Он был не очень высоким. Он был не таким глубоким, как колодец, и не таким широким, как дверь, но этого было достаточно. Он сильно ударил его ногой, и Генри упал вперед, его руки и ноги разлетелись во все стороны.
 
-Here's the adapted version of the text for B1 English level, with simpler vocabulary:
-
-Вот адаптированная версия текста для уровня английского языка B1, с более простой лексикой:
-
 It's natural for people to try to hold onto something for support in a difficult situation. Henry tried to grab the Hotel Superba, the best thing on the Esplanade. It was a weak wooden building, and it helped him for a very short time. Then he walked unsteadily into the light, fell over a Bulgarian officer who was taking a deep breath to sing a low note, and finally fell in a messy pile right in the middle of the stage, as if he was a very famous performer.
 
 Для людей естественно пытаться ухватиться за что-то для поддержки в сложной ситуации. Генри попытался схватиться за Hotel Superba, лучшее, что было на Эспланаде. Это было слабое деревянное здание, и оно помогло ему на очень короткое время. Затем он неуверенно вышел на свет, споткнулся о болгарского офицера, который делал глубокий вдох, чтобы спеть низкую ноту, и, наконец, рухнул беспорядочной кучей прямо посреди сцены, как будто он был очень известным исполнителем.
@@ -21015,10 +20987,6 @@ Gussie explained.
 'Oh, I just need to see Abe about something. If you see a fat man with lots of chins coming out of that door, grab him. That will be Abe. He's one of those people who show how successful they are by growing another chin. I heard that a long time ago he only had two. If you do grab Abe, remember that he knows me as George Wilson.'
 
 «О, мне просто нужно поговорить с Эйбом по одному вопросу. Если вы увидите толстого мужчину с кучей подбородков, выходящего из этой двери, хватайте его. Это будет Эйб. Он один из тех людей, которые показывают, насколько они успешны, отращивая еще один подбородок. Я слышал, что давным-давно у него было только два подбородка. Если вы все же схватите Эйба, помните, что он знает меня как Джорджа Уилсона».
-
-Okay, here's the adapted text for a B1 level, with simpler vocabulary and grammar:
-
-Хорошо, вот адаптированный текст для уровня B1, с более простой лексикой и грамматикой:
 
 'You said you would tell me about George Wilson, Gussie, old friend.'
 
@@ -24498,10 +24466,6 @@ And then suddenly I had a great idea. It came to me quickly. I looked at her, cr
 
 «Может, ты не заметила, — сказала я, — но твой Чарли — не единственный мужчина в Нью-Йорке, и даже в этом ресторане. Я сама потанцую с Чарли, и я найду того, кто потанцует с тобой. Слушай!»
 
-Okay, here's the adapted text, using simpler vocabulary and grammar suitable for a B1 level, while attempting to preserve the story and tone:
-
-Хорошо, вот адаптированный текст, в котором используется более простая лексика и грамматика, подходящие для уровня B1, но при этом предпринята попытка сохранить сюжет и тон:
-
 'Each woman from each couple' - Izzy was saying, trying to get the words out clearly - 'will get a ticket with a number on it. Then the dance will start, and the numbers will be taken away one by one. The judge will call out the numbers, and those people whose numbers are called should please go back to their seats. The number that is left at the end is the winning number. This is a real competition, decided only by how good the people with the numbers are.' (Izzy didn't blush anymore after he was six.) 'Now, please, ladies, come forward and get your numbers. The winner, the person with the number left when all the other numbers are gone' - I could see Izzy was getting worried, wondering where I was - 'will get this Lovely Silver Cup, given by the people in charge. Ladies, please come and get your numbers now.'
 
 «Каждая женщина из каждой пары», — говорила Иззи, пытаясь четко выговорить слова, — «получит билет с номером. Затем начнется танец, и номера будут убираться один за другим. Судья будет называть номера, и те люди, чьи номера будут названы, должны вернуться на свои места. Номер, который останется в конце, и будет выигрышным номером. Это настоящее соревнование, которое определяется только тем, насколько хороши люди с номерами». (Иззи больше не краснел после того, как ему исполнилось шесть.) «А теперь, пожалуйста, дамы, выходите вперед и берите свои номера. Победитель, человек с номером, оставшимся после того, как все остальные номера закончились», — я видел, что Иззи начинает волноваться, гадая, где я, — «получит этот Прекрасный Серебряный Кубок, который вручают ответственные лица. Дамы, пожалуйста, выходите и берите свои номера сейчас».
@@ -24577,10 +24541,6 @@ I think you've seen these competitions at Geisenheimer's. Or, if you haven't see
 When we started, the floor was so full there was hardly any space. Everyone looked like they were thinking about where to put the Lovely Cup, in the living room or the bedroom. You never saw so many people hoping to win.
 
 Когда мы начинали, пол был настолько заполнен, что места почти не было. Все выглядели так, будто думали, куда поставить Lovely Cup, в гостиную или в спальню. Вы никогда не видели столько людей, надеющихся на победу.
-
-Okay, here's the adapted text, using simpler language and avoiding words beyond the B2 level where possible:
-
-Хорошо, вот адаптированный текст, в котором используется более простой язык и по возможности избегаются слова, выходящие за рамки уровня B2:
 
 Izzy started to speak. The people in charge wanted him to be funny at these times, so he tried his best.
 
@@ -25441,10 +25401,6 @@ That ended the party.
 You never know with restaurants. What destroys one place helps another. I think if we had thrown out a good customer from the Guelph, it would have been the end of the place. But it seemed to help MacFarland's. I think it gave the place something special that made silly people think it was a real bohemian place. When you think about it, it does give a place a kind of excitement if you feel that at any moment the person at the next table might be grabbed and thrown into the street.
 
 С ресторанами никогда не знаешь наверняка. То, что разрушает одно место, помогает другому. Думаю, если бы мы выгнали хорошего клиента из Guelph, это был бы конец заведения. Но MacFarland's это, похоже, помогло. Думаю, это придало месту что-то особенное, что заставило глупых людей думать, что это настоящее богемное место. Если подумать, это действительно придает месту своего рода волнение, если вы чувствуете, что в любой момент человека за соседним столиком могут схватить и выбросить на улицу.
-
-Okay, here's the adapted text, aiming for B1 level and replacing more complex words where possible:
-
-Хорошо, вот адаптированный текст, рассчитанный на уровень B1 и заменяющий более сложные слова там, где это возможно:
 
 Anyway, that's how our dinner customers saw it; and after that, you had to book a table ahead of time if you wanted to eat with us. People really came to the place.
 
