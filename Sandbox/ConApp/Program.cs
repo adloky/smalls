@@ -1935,24 +1935,6 @@ namespace ConApp {
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
-            var path = @"d:\Projects\smalls\freq-20k.txt";
-            var pathCamb = @"d:\Projects\smalls\camb.txt";
-            var dicCamb = loadDic(pathCamb);
-            
-            var ss = File.ReadAllLines(path).Select(x => {
-                var sp = x.Split(new[] { "}" } , ssop);
-                sp[0] += "}";
-                var key = Regex.Replace(sp[0], @"\d+ ", "");
-                if (!dicCamb.ContainsKey(key)) return x;
-                var pre = Regex.Matches(sp[1], @"^ \[.+?\]").Cast<Match>().Select(m => m.Value).FirstOrDefault() ?? "";
-                sp[0] += pre;
-                sp[1] = sp[1].Substring(pre.Length);
-
-                return $"{sp[0]} {dicCamb[key]};{sp[1]}";
-            }).ToList();
-
-            
-            File.WriteAllLines(pathEx(path, "-2"), ss);
             /*
             var d20k = loadDic(@"d:\Projects\smalls\freq-20k.txt");
             var d100 = loadDic(@"d:\Projects\smalls\words-100.txt");
@@ -1994,8 +1976,8 @@ namespace ConApp {
 
             //genStories(@"d:/stories-0.txt", 3);
 
-            //geminiSplit(@"d:\.temp\reader-28-orig.txt");
-            //geminiAdapt(@"d:\.temp\reader-28.txt");
+            //geminiSplit(@"d:\.temp\reader-31-orig.txt");
+            geminiAdapt(@"d:\.temp\reader-31.txt");
 
             //mdMonitor(); return; // mdPostCom
 
