@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+    .srt-line { background-color: black; padding: 3pt; font-size: 14pt; font-family: sans-serif; }
+    .srt-line div { width: 50%; display: inline-block; color: white; vertical-align: top; }
+    .srt-line.sel { background-color: #222; }
+</style>
+
+<script src="jquery-2.2.4.min.js"></script>
+</head>
+
+<body>
+  <video width="854" height="480" controls>
+    <source id="v-src" src="/videos/Friends-c/S01/S01E01-o.mkv">
+  </video>
+  <div class="srt-box" style=" width: 854px; height: 300pt; overflow-y: scroll; ">
+  </div>
+<script>
+    var path = "/videos/" + $(location).attr("href").match(/[?&]path=([^&]+)/)[1];
+    var pathExt = path.match(/\..+$/)[0];
+    var v = $("video")[0];
+    $("#v-src").attr("src", path);
+    var ens;
+    var rus;
+    var ss = [{id: "srt-0", t: 0}];
+    var srtId = "srt-x";
+    fetch(path.replace(pathExt, ".eng.srt"))
+        .then((res) => res.text())
+        .then((text) => {
+            ens = text;
+            fetch(path.replace(pathExt, ".rus.srt"))
+                .then((res) => res.text())
+                .then((text) => {
+                    rus = text;
+                    handleSrt();
+                });
+        });
+    
+    function handleSrt() {
+        ens = ens.split(/\r?\n\r?\n/).map(x => x.split(/\r?\n/)).filter(x => x.length > 2);
+        rus = rus.split(/\r?\n\r?\n/).map(x => x.split(/\r?\n/)).filter(x => x.length > 2);
+        var hs = [];
+        for (var i = 0; i < ens.length; i++) {
+            var en = ens[i];
+            var ru = rus[i];
+            var t = en[1].split(/ --> /)[0];
+            t = t.replace(",", ".").split(/:/).map(x => Number(x));
+            t = t[0] * 3600 + t[1] * 60 + t[2] - 0.2;
+            var o = { id: "srt-" + (i+1), t: t };
+            ss.push(o);
+            en = en.slice(2).join("<br/>");
+            ru = ru.slice(2).join("<br/>");
+            hs.push(`<div id="${o.id}" class="srt-line"><div>${en}</div><div>${ru}</div></div>`);
+        }
+        $(".srt-box").html(hs.join(""));
+    };
+    
+    function findSrt(v) {
+        var lo = -1, hi = ss.length;
+        while (1 + lo < hi) {
+            var mi = lo + ((hi - lo) >> 1);
+            if (v < ss[mi].t) {
+                hi = mi;
+            }
+            else {
+                lo = mi;
+            }
+        }
+        return ss[hi - 1].id;
+    }
+    
+    function scroll2Srt() {
+        var win = $(".srt-box")[0];
+        var elem = $("#" + srtId)[0];
+        if (!elem) {
+            return;
+        }
+        var top = $(elem).offset().top - $(win).offset().top + win.scrollTop;
+        var winHeight = $(win).height();
+        if (top - win.scrollTop < 40) {
+            win.scroll({ top: top - winHeight + 70 });
+        }
+        else if (top - win.scrollTop > winHeight - 70) {
+            win.scroll({ top: top - 40 });
+        }
+    }
+    
+    setInterval(() => {
+        newSrtId = findSrt(v.currentTime);
+        if (srtId === newSrtId) {
+            return;
+        }
+        $("#" + srtId).removeClass("sel");
+        srtId = newSrtId;
+        $("#" + srtId).addClass("sel");
+        scroll2Srt();
+    }, 100);
+    
+    $(window).keydown(function(e) {
+        switch (e.keyCode) {
+            case 32:
+                if (v.paused) {
+                    v.play(); 
+                }
+                else {
+                    v.pause();
+                }
+                event.preventDefault();
+                break;
+            case 37:
+                v.currentTime -= 5;
+                event.preventDefault();
+                break;
+            case 39:
+                v.currentTime += 5;
+                event.preventDefault();
+                break;
+        };
+    });
+    
+    $(v).on("focus", function(e) {
+        //e.target.blur();
+    });
+</script>
+</body>
+</html>

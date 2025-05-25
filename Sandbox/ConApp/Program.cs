@@ -297,13 +297,16 @@ namespace ConApp {
 
         static IEnumerable<string> getLemmaForms(string s, bool strick = false) {
             s = s.ToLower();
+            var posIndex = s.IndexOf(" {");
+            var pos = posIndex > -1 ? s.Substring(posIndex) : "";
+            s = s.Substring(0, s.Length - pos.Length);
             if (lemmas.ContainsKey(s) && !strick) {
                 s = lemmas[s];
             }
 
-            var r = Enumerable.Repeat(s, 1);
+            var r = Enumerable.Repeat($"{s}{pos}", 1);
             if (lemmaForms.ContainsKey(s)) {
-                r = r.Concat(lemmaForms[s]);
+                r = r.Concat(lemmaForms[s].Select(x => $"{x}{pos}"));
             }
             return r;
         }
@@ -319,21 +322,27 @@ namespace ConApp {
         }
 
         static Dictionary<string, int> freqGroups {
-            get => _freqGroups ?? (_freqGroups = loadFreqGroups(!config.ContainsKey("freqGroupsPath") ? @"d:\Projects\smalls\freq-20k.txt" : config["freqGroupsPath"], config["freqGroups"].Split(',').Select(x => int.Parse(x)).ToArray()));
+            get => _freqGroups ?? (_freqGroups = loadFreqGroups(getDicVal("freqGroupsPath", @"d:\Projects\smalls\freq-20k.txt", config), config["freqGroups"].Split(',').Select(x => int.Parse(x)).ToArray()));
         }
 
         static Dictionary<string, int> _freqGroups;
 
         static Regex dicRankRe = new Regex(@"^\d+ ", RegexOptions.Compiled);
 
-        static Dictionary<string, int> loadFreqGroups(string path, int[] levels) {
+        static Dictionary<string, int> loadFreqGroups(string path, int[] levels, bool wPos = false) {
             var r = new Dictionary<string, int>();
             var exsPath = pathEx(path, "-excepts");
             var exs = new HashSet<string>();
             if (File.Exists(exsPath)) {
                 File.ReadAllLines(exsPath).ToList().ForEach(x => exs.Add(x));
             }
-            File.ReadAllLines(path).Where(x => x.Contains(" {")).Select((x,i) => (x: x, i: i+1)).Reverse().ToList().ForEach(xi => {
+            var ss = File.ReadAllLines(path);
+            var addPath = pathEx(path, "-add");
+            if (File.Exists(addPath)) {
+                ss = ss.Concat(File.ReadAllLines(addPath)).OrderBy(x => int.Parse(x.Split(' ')[0])).ToArray();
+            }
+
+            ss.Where(x => x.Contains(" {")).Select((x,i) => (x: x, i: i+1)).Reverse().ToList().ForEach(xi => {
                 var x = xi.x;
                 var i = xi.i;
                 var rm = dicRankRe.Match(x);
@@ -344,7 +353,7 @@ namespace ConApp {
                 if (i > levels.Last()) return;
                 if (x.Contains("{междометие}")) return;
 
-                var w = x.Split(new[] { " {" }, ssop)[0].ToLower();
+                var w = (wPos ? $"{x.Split('}')[0]}}}" : x.Split(new[] { " {" }, ssop)[0]).ToLower();
                 if (exs.Contains(w)) return;
 
                 var g = 0;
@@ -353,12 +362,7 @@ namespace ConApp {
                 }
                 getLemmaForms(w, true).ToList().ForEach(f => {
                     if (f.Length == 1) return;
-                    if (g == 0) {
-                        r.Remove(f);
-                    }
-                    else {
-                        r[f] = g - 1;
-                    }
+                    r[f] = g - 1;
                 });
             });
             return r;
@@ -366,13 +370,34 @@ namespace ConApp {
 
         static Regex freqGoupRe = new Regex(@"[a-z]+", RegexOptions.IgnoreCase | RegexOptions.Compiled);
         static string[][] freqGroupColors = new[] { new [] { "#ffbc8c", "#99ff99", "#99cbff", "#b399ff" }, new[] { "#cc5400", "#00b200", "#0079ff", "#8000ff" } };
-        static string freqGrouping(string s, bool white = false, Dictionary<string,int> dic = null) {
+
+        static string handleWPos(string s, bool wPos, Func<string,string,string> f) {
+            return !wPos ? handleString(s, freqGoupRe, (x,m) => f(x,x.ToLower()))
+                : string.Join("", getPos(s).Select(p => {
+                    if (p.pos == null || p.pos == "имя" || p.pos == "междометие")
+                        return p.s;
+                    return f(p.s, $"{p.s.ToLower()} {{{p.pos}}}");
+                }));
+        }
+
+        static Dictionary<string, int> sDic = new Dictionary<string, int>();
+
+        static Regex fgAmpRe = new Regex("['’]");
+        static Regex fgPosRe = new Regex(@"\{(.*?)\}");
+        static string freqGrouping(string s, bool white = false, Dictionary<string,int> dic = null, bool wPos = false) {
             dic = dic ?? freqGroups;
             if (Tag.Parse(s).Length > 0) return s;
             var cs = freqGroupColors[white ? 0 : 1];
-            s = handleString(s, freqGoupRe, (x, m) => {
-                if (dic.TryGetValue(x.ToLower(), out var g)) {
-                    return $"<font color=\"{cs[g]}\">{x}</font>";
+            s = handleWPos(s, wPos, (x, x2) => {
+                var pos = fgPosRe.Matches(x2).Cast<Match>().Select(m => m.Groups[1].Value).FirstOrDefault();
+                if (pos != null) pos = $" pos=\"{pos}\"";
+                if (dic.TryGetValue(x2, out var g)) {
+                    return g < 0 ? x : $"<font color=\"{cs[g]}\"{pos}>{x}</font>";
+                }
+                if (wPos && x.Length > 1 && !fgAmpRe.IsMatch(x)) {
+                    // if (!sDic.ContainsKey(x2)) sDic[x2] = 0;
+                    // sDic[x2]++;
+                    return $"<font color=\"{cs.Last()}\"{pos}>{x}</font>";
                 }
                 return x;
             });
@@ -781,70 +806,6 @@ namespace ConApp {
                 }
             });
             return dic;
-        }
-
-        static Dictionary<string, string> learnDic = loadDic(@"d:\Projects\smalls\learn-dic-3000.txt");
-        static HashSet<string> learnSet = new HashSet<string>(learnDic.Keys.SelectMany(x => getLemmaForms(x.Split(new[] { " {" }, ssop)[0])));
-
-        static string getLearn(string s, Dictionary<string, string> dic = null) {
-            if (dic == null)
-                dic = learnDic;
-            s = s.ToLower();
-            var ssp = s.Split(' ');
-            if (!dic.TryGetValue(s, out var v) && lemmas.TryGetValue(ssp[0], out var lemma)) {
-                s = $"{lemma} {{{ssp[1]}}}";
-                dic.TryGetValue(s, out v);
-            }
-
-            if (v == null)
-                return null;
-
-            return $"{s} {v}";
-        }
-
-        static void learnStat(string path) {
-            var rDic = new Dictionary<string, int>();
-            foreach (var pos in posReduce(path)) {
-                var r = getLearn(pos);
-                if (r == null)
-                    continue;
-
-                if (!rDic.ContainsKey(r)) {
-                    rDic[r] = 0;
-                }
-
-                rDic[r] += 1;
-            }
-
-            var rs = rDic.OrderByDescending(x => x.Value)
-                .Select(x => $"{x.Value} {x.Key}").ToArray();
-
-            File.WriteAllLines(pathEx(path, "-dic"), rs);
-        }
-
-        static void makeTip(string path, bool srt = false) {
-            var dic = loadDic(pathEx(path, "-dic"));
-            var sb = new StringBuilder();
-            foreach (var wp in posReduce(path)) {
-                var w = wp.Split(new[] { " {" }, ssop)[0];
-                var r = getLearn(wp, dic);
-                if (r == null) {
-                    sb.Append(w);
-                    continue;
-                }
-                
-                var pron = getPron(w.ToLower());
-                if (pron != null) {
-                    r = r.Replace("{", $"[{pron}] {{");
-                }
-                if (srt) {
-                    sb.Append($"<u>{w}</u>");
-                }
-                else {
-                    sb.Append($"<span class='tip-wrap' data-text='{r}'>**{w}**<span class='tip-text'> </span></span>");
-                }
-            }
-            File.WriteAllText(pathEx(path, "-tip"), sb.ToString());
         }
 
         static Regex twSpRe = new Regex(" +", RegexOptions.Compiled);
@@ -1454,6 +1415,7 @@ namespace ConApp {
 
             var confTag = ss.Take(10).SelectMany(x => Tag.Parse(x)).Where(t => t.name == "config").FirstOrDefault() ?? new Tag() { name = "config" };
             var freqGroupsPath = getDicVal("freqGroupsPath", "d:/Projects/smalls/freq-20k.txt", confTag.attr, config);
+            var freqGroupsPos = getDicVal("freqGroupsPos", "0", confTag.attr, config) == "1";
             var freqGroups = getDicVal("freqGroups", "1500,2500,3800,5500,11000", confTag.attr, config).Split(',').Select(x => int.Parse(x)).ToArray();
             var mdPostStr = getDicVal("mdPost", null, confTag.attr, config);
 
@@ -1461,10 +1423,10 @@ namespace ConApp {
                 typeof(Func<IEnumerable<string>, IEnumerable<string>>), null,
                 typeof(Program).GetMethod(mdPostStr, System.Reflection.BindingFlags.Static | System.Reflection.BindingFlags.Public));
 
-            var cacheKey = $"{freqGroupsPath}|{string.Join(",", freqGroups)}|{File.GetLastWriteTime(freqGroupsPath).ToString("s")}";
+            var cacheKey = $"{freqGroupsPath}|{string.Join(",", freqGroups)}|{File.GetLastWriteTime(freqGroupsPath).ToString("s")}|{freqGroupsPos}";
             var freqDic = mdCache.Where(x => x.k == cacheKey).FirstOrDefault().d;
             if (freqDic == null) {
-                freqDic = loadFreqGroups(freqGroupsPath, freqGroups);
+                freqDic = loadFreqGroups(freqGroupsPath, freqGroups, freqGroupsPos);
                 mdCache.Enqueue((cacheKey, freqDic));
                 while (mdCache.Count > 5) mdCache.Dequeue();
             }
@@ -1482,7 +1444,7 @@ namespace ConApp {
             });
 
             var ps = post(rs2.Select(x => x[0])).ToList();
-            ps = ps.Select(p => freqGrouping(p, dic: freqDic)).ToList(); 
+            ps = ps.Select(p => freqGrouping(p, dic: freqDic, wPos: freqGroupsPos)).ToList(); 
             for (var i = 0; i < ps.Count; i++) {
                 rs2[i][0] = ps[i];
             }
@@ -1930,10 +1892,96 @@ namespace ConApp {
             }
         }
 
+        static void genSamples(string path) {
+            var ss = File.ReadAllLines(path);
+            var rs = new List<string>();
+
+            var k = ss.Length;
+            foreach (var s in ss) {
+                var r = (string)null;
+                while (r == null) {
+                    try {
+                        r = gemini($"Придумай 5 предложений на английском уровня A2 для максимального выражения значения слова: {s.Replace("{", "(").Replace("}", ")")}. Выдели слово жирным в предложениях. Верни только результат.");
+                    }
+                    catch (Exception e) {
+                        Console.WriteLine(e.Message);
+                        Thread.Sleep(5000);
+                    }
+                }
+                Thread.Sleep(1000);
+                rs.Add($"WORD: {s}");
+                rs.AddRange(Regex.Split(r, @"\r?\n").Where(x => x != ""));
+                Console.WriteLine(k--);
+            }
+
+            File.WriteAllLines(pathEx(path, "-2"), rs);
+        }
+
+        static void rndSamples(string path) {
+            var ns = (new [] { 0, 1, 3, 6, 11, 19, 32 }).Take(5).ToArray();
+            var ss = new List<List<string>>();
+            foreach (var s in File.ReadAllLines(path)) {
+                if (s.StartsWith("WORD: ")) {
+                    if (ss.Count != 0 && ss.Last().Count != ns.Length + 1) {
+                        throw new Exception(ss.Last()[0]);
+                    }
+                    ss.Add(new List<string>());
+                }
+                ss.Last().Add(s);
+            }
+
+            var gs = ss.Select((x, j) => (x: x, i: j)).GroupBy(x => x.i / 20).Select(x => x.Select(y => y.x).ToList()).ToList();
+            var ds = Enumerable.Repeat((object)null, gs.Count + ns.Last() + 10).Select(x => new List<string>()).ToList();
+            for (var i = 0; i < gs.Count; i++) {
+                for (var j = 0; j < ns.Length; j++) {
+                    ds[i + ns[j]].AddRange(gs[i].Select(x => x[j+1]));
+                }
+            }
+
+            File.WriteAllLines(pathEx(path, "-rnd"), ds.SelectMany(x => x.Random()));
+        }
+
+        static void genSents(string path) {
+            var ns = new List<int> { 0, 1, 3, 6, 11 };
+            var ws = File.ReadAllLines(path).Select((x, j) => (x: x, i: j)).GroupBy(x => x.i / 20).Select(x => x.Select(y => y.x).ToList()).ToList();
+            var ds = Enumerable.Repeat((object)null, 100).Select(x => new List<string>()).ToList();
+            for (var i = 0; i < ws.Count; i++) {
+                ns.ForEach(n => ds[i + n].AddRange(ws[i]));
+            }
+            var _s = ds.SelectMany(d => d.Random()).ToList();
+            var fs = _s.Select((x, j) => (x: x, i: j)).GroupBy(x => x.i / 3).Select(x => string.Join("; ", x.Select(y => y.x))).ToList();
+            var sent = "";
+
+            var rs = new List<string>();
+            var k = fs.Count();
+            foreach (var f in fs) {
+                var r = (string)null;
+                while (r == null) {
+                    try {
+                        r = gemini($"Придумай предложение для уровня A2 на английском, на основе контекста: \"{sent}\", с использованием слов: {f}. Все слова должны быть в предложении, выдели их жирным, верни только результат.");
+                    }
+                    catch (Exception e) {
+                        Console.WriteLine(e.Message);
+                        Thread.Sleep(5000);
+                    }
+                }
+                Thread.Sleep(2000);
+                sent = r.Replace("*", "");
+                rs.Add(r);
+                Console.WriteLine(k--);
+            }
+
+            File.WriteAllLines(pathEx(path, "-r"), rs);
+        }
+
         static volatile bool ctrlC = false;
 
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
+
+            //genSamples(@"d:\top-3-4k.txt");
+            //rndSamples(@"d:\top-3-4k-2.txt");
+
 
             /*
             var d20k = loadDic(@"d:\Projects\smalls\freq-20k.txt");
@@ -1976,17 +2024,15 @@ namespace ConApp {
 
             //genStories(@"d:/stories-0.txt", 3);
 
-            //geminiSplit(@"d:\.temp\reader-31-orig.txt");
-            geminiAdapt(@"d:\.temp\reader-31.txt");
+            //geminiSplit(@"d:\.temp\reader-33-orig.txt");
+            //geminiAdapt(@"d:\.temp\reader-33.txt");
 
             //mdMonitor(); return; // mdPostCom
 
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
-            //serRename(@"e:\scooby");
+            //serRename(@"e:\videos\Friends\S02");
 
             
-
-            /*
             if (!File.Exists(@"d:\.temp\srt\all.srt")) 
                 srtCombine(@"d:\.temp\srt\");
             srtLine(@"d:\.temp\srt\all.srt");
@@ -1995,7 +2041,7 @@ namespace ConApp {
             srtSplit(@"d:\.temp\srt\all.srt", "eng");
             if (File.Exists(@"d:\.temp\srt\all-ru.srt"))
                 srtSplit(@"d:\.temp\srt\all-ru.srt", "rus");
-            */
+            
 
             //prepareWords("d:/words.txt");
             //fixQuotes(@"d:\.temp\7.txt");
