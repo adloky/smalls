@@ -1,6 +1,6 @@
-P.G. Wodehouse
+# P.G. Wodehouse vol.2 (B1)
 
-П.Г. Вудхаус
+# П.Г. Вудхаус
 
 # A SEA OF TROUBLES
 

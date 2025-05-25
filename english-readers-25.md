@@ -1,6 +1,8 @@
-﻿Megapack by Sheckley
+﻿<config freqGroupsPos="1">
 
-Мегапак Шекли
+# Megapack by Sheckley (B1)
+
+# Мегапак Шекли
 
 # WATCHBIRD
 

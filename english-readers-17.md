@@ -1,6 +1,8 @@
-﻿Asimov
+﻿<config freqGroupsPos="1">
 
-Азимов
+# Asimov (B1)
+
+# Азимов
 
 # The Dead Past
 

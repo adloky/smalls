@@ -1,6 +1,8 @@
-﻿Shards of Space by Robert Sheckley
+﻿<config freqGroupsPos="1">
 
-Шарады космоса, Роберт Шекли
+# Shards of Space by Robert Sheckley (B1)
+
+# Шарады космоса, Роберт Шекли
 
 # PROSPECTOR’S SPECIAL
 

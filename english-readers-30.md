@@ -1,4 +1,6 @@
-﻿# Short Stories by George Saunders
+﻿<config freqGroupsPos="1">
+
+# Short Stories by George Saunders (B2)
 
 # Рассказы, Джордж Сондерс
 

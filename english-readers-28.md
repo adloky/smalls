@@ -1,4 +1,6 @@
-# Lamb: The Gospel According to Biff, Christ's Childhood Pal by Christopher Moore
+<config freqGroupsPos="1">
+
+# Lamb: The Gospel According to Biff, Christ's Childhood Pal by Christopher Moore (B2)
 
 # Агнец: Евангелие от Биффа, друга детства Христа, Кристофер Мур
 

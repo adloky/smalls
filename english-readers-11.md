@@ -1,4 +1,4 @@
-# CABBAGES AND KINGS by O. HENRY
+# CABBAGES AND KINGS by O. HENRY (B1)
 
 # КАПУСТA И КОРОЛИ О. ГЕНРИ
 

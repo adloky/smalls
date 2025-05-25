@@ -1,4 +1,4 @@
-# Wheels by Arthur Hailey
+# Wheels by Arthur Hailey (B1)
 
 # Колеса Артура Хейли
 

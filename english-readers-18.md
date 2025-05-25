@@ -1,4 +1,10 @@
-﻿# CHRYSALIS   1946–1947
+﻿<config freqGroupsPos="1">
+
+# Ray Bradbury (B1)
+
+# Рэй Бредбери
+
+# CHRYSALIS   1946–1947
 
 # КРИЗАЛИС 1946–1947
 

@@ -1,6 +1,8 @@
-Neil Gaiman
+<config freqGroupsPos="1">
 
-Нил Гейман
+# Neil Gaiman (B1)
+
+# Нил Гейман
 
 For Ellen Datlow and Steve Jones
 

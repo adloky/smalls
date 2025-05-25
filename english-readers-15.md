@@ -1,4 +1,4 @@
-﻿# Guards! Guards! by Terry Pratchett
+﻿# Guards! Guards! by Terry Pratchett (B1)
 
 # Стражи! Стражи! Терри Пратчетт
 

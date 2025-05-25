@@ -1,4 +1,4 @@
-# The Road by Cormac McCarthy
+# The Road by Cormac McCarthy (B2)
 
 # Дорога Кормака Маккарти
 

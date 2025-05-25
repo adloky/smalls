@@ -1,1457 +1,2801 @@
-﻿# 4000
+﻿<config freqGroupsPos="1">
 
-## #1<common/>
+He has **ownership** of this car.
 
-**legislature** [лЕджэслЕйчэр] *сущ.* законодатели; **assert** [эсЭрт] *гл.* утверждать; **preference** [прЕфэрэнс] *сущ.* предпочтение; **pitch** [пЫч] *сущ.* поле; **retail** [рИтЕйл] *прил.* розничный; **contend** [кэнтЕнд] *гл.* бороться; **dependent** [дыпЕндэнт] *прил.* зависимый; **fit** [фЫт] *прил.* подходящий; **estimated** [ЕстэмЕйтэд] *прил.* примерный; **pine** [пАйн] *сущ.* сосна<common/>
+Он является владельцем этой машины.
 
-**Legislature** **assert** their **preference** to play on the **pitch** near the **retail** store. They **contend** that the **estimated** time is **fit** for everyone. Children are **dependent** and like to play under the big **pine** tree.
+This is a **globe** of the world.
 
-**Законодатели** **утверждают** свое **предпочтение** играть на **поле** возле **розничного** магазина. Они **борются** за то, чтобы **примерное** время было **подходящим** для всех. Дети **зависимы** и любят играть под большой **сосной**.
+Это глобус мира.
 
-## #2<common/>
+My dog is a good **companion** for walks.
 
-**elderly** [Елдэрли] *прил.* пожилой; **meter** [мИтэр] *сущ.* измеритель; **plain** [плЕйн] *сущ.* равнина; **oven** [Авэн] *сущ.* печь; **tent** [тЕнт] *сущ.* палатка; **framework** [фрЕймуЭрк] *сущ.* каркас; **strengthen** [стрЕнθэн] *гл.* укреплять; **earnings** [Эрнынз] *сущ.* заработок; **flash** [флЭш] *гл.* сверкать; **march** [мАрч] *гл.* маршировать<common/>
+Моя собака — хороший компаньон для прогулок.
 
-**Elderly** Mr. Smith lives near a **plain**. He has a small **tent** in his garden. Inside, there is an old **oven**. He uses it to cook. He wants to **strengthen** the **framework** of the tent. Sometimes, a light will **flash** from his tent. He checks the **meter** outside. He uses his **earnings** to buy food. He does not **march** anymore.
+The bank robber took a **hostage**.
 
-**Пожилой** мистер Смит живет рядом с **равниной**. У него есть маленькая **палатка** в его саду. Внутри, есть старая **печь**. Он использует ее для готовки. Он хочет **укрепить** **каркас** палатки. Иногда, свет будет **сверкать** из его палатки. Он проверяет **измеритель** снаружи. Он использует свой **заработок**, чтобы купить еду. Он больше не **марширует**.
+Грабитель банка взял заложника.
 
-## #3<common/>
+The **continuing** noise from the street is annoying.
 
-**collapse** [кэлЭпс] *гл.* рухнуть; **decrease** [дыкрИс] *гл.* уменьшать; **receiver** [рэсИвэр] *сущ.* приемник; **delay** [дылЕй] *гл.* откладывать; **economics** [ЕкэнАмыкс] *сущ.* экономика; **rank** [рЭнк] *гл.* оценивать; **confusion** [кэнфйУжэн] *сущ.* путаница; **medication** [мЕдэкЕйшэн] *сущ.* лекарство; **document** [дАкйэмент] *гл.* документировать; **suspect** [сэспЕкт] *сущ.* подозреваемый<common/>
+Постоянный шум с улицы раздражает.
 
-The old building might **collapse**. We need to **decrease** the noise. The **receiver** is broken. Please don't **delay** the meeting! **Economics** is difficult. We must **rank** the students. There is **confusion** about the date. I need **medication** for my cold. We should **document** everything. The police have a **suspect**.
+Be careful not to **rip** your new jeans.
 
-Старое здание может **рухнуть**. Нам нужно **уменьшать** шум. **Приемник** сломан. Пожалуйста, не **откладывайте** встречу! **Экономика** - это сложно. Мы должны **оценивать** студентов. Возникла **путаница** по поводу даты. Мне нужно **лекарство** от простуды. Мы должны все **документировать**. У полиции есть **подозреваемый**.
+Будьте осторожны, чтобы не порвать новые джинсы.
 
-## #4<common/>
+I heard a **pop** when the balloon burst.
 
-**conviction** [кэнвЫкшэн] *сущ.* убеждение; **exhibit** [ыгзЫбыт] *гл.* выставлять; **essence** [Есэнс] *сущ.* сущность; **lecture** [лЕкчэр] *сущ.* лекция; **dominant** [дАмэнэнт] *прил.* доминирующий; **musician** [мйузЫшэн] *сущ.* музыкант; **cope** [кOуп] *гл.* справиться; **subsequent** [сАбсэкуэнт] *прил.* последующий; **headline** [хЕдлАйн] *сущ.* заголовок; **impressive** [ЫмпрЕсыв] *прил.* впечатляющий<common/>
+Я услышал хлопок, когда шарик лопнул.
 
-The **musician** has a strong **conviction**. He wants to **exhibit** his music. The **essence** of his music is love. He gives a **lecture** about it. His music is **dominant** now. He can **cope** with problems. The **subsequent** concerts are good. The **headline** says: "**Impressive** musician!".
+We can **project** the movie onto the wall.
 
-У **музыканта** сильное **убеждение**. Он хочет **выставлять** свою музыку. **Сущность** его музыки - любовь. Он читает **лекцию** об этом. Его музыка сейчас **доминирующая**. Он может **справиться** с проблемами. **Последующие** концерты хорошие. В **заголовке** написано: "**Впечатляющий** музыкант!".
+Мы можем спроецировать фильм на стену.
 
-## #5<common/>
+We **await** the bus every morning.
 
-**crack** [крЭк] *гл.* трескаться; **acid** [Эсэд] *сущ.* кислота; **ease** [Из] *гл.* облегчать; **distinguish** [дыстЫнгуыш] *гл.* различать; **collapse** [кэлЭпс] *сущ.* крах; **major** [мЕйджэр] *сущ.* крупный; **highlight** [хАйлАйт] *гл.* выделять; **artistic** [артЫстык] *прил.* художественный; **reverse** [рывЭрс] *гл.* откатывать; **adequate** [Эдэкуэт] *прил.* достаточный<common/>
+Мы ждем автобус каждое утро.
 
-The **artistic** vase is old. Be careful! Don't **crack** it! If you put **acid** on it, it will **collapse**. It is a **major** problem. We need something **adequate** to fix it. We can **highlight** the beautiful parts to **ease** the damage. It is hard to **distinguish** the original color. We cannot **reverse** the damage completely, but we can try.
+The teacher will **facilitate** the group discussion.
 
-**Художественная** ваза старая. Будьте осторожны! Не дайте ей **треснуть**! Если вы положите на нее **кислоту**, она потерпит **крах**. Это **крупная** проблема. Нам нужно что-то **достаточное**, чтобы починить это. Мы можем **выделить** красивые части, чтобы **облегчить** повреждение. Трудно **различить** оригинальный цвет. Мы не можем **откатить** повреждение полностью, но мы можем попытаться.
+Преподаватель будет проводить групповое обсуждение.
 
-## #6<common/>
+The cat can **leap** over the box.
 
-**evident** [Евэдэнт] *прил.* очевидный; **occasional** [экЕйжэнэл] *прил.* случайный; **allegation** [ЭлэгЕйшэн] *сущ.* обвинение; **recording** [рэкОрдын] *сущ.* запись; **pitch** [пЫч] *гл.* подавать; **hypothesis** [хайпАθэсэс] *сущ.* гипотеза; **exact** [ыгзЭкт] *прил.* точный; **acceptance** [эксЕптэнс] *сущ.* принятие; **narrative** [нЭрэтыв] *сущ.* повествование; **principal** [прЫнсэпэл] *сущ.* директор<common/>
+Кошка может перепрыгнуть через коробку.
 
-The **principal** is not happy. There is an **allegation** against a student. The **evident** problem is a bad **recording**. The student **pitch**ed an idea. His **hypothesis** is simple. He wants **acceptance**. This is the **exact** time for change. He hopes for more than just an **occasional** smile. The **narrative** is about a good boy.
+This hotel can **accommodate** many guests.
 
-**Директор** не доволен. Есть **обвинение** против ученика. **Очевидная** проблема - плохая **запись**. Ученик **подал** идею. Его **гипотеза** проста. Он хочет **принятия**. Это **точное** время для перемен. Он надеется на большее, чем просто **случайная** улыбка. **Повествование** о хорошем мальчике.
+Этот отель может разместить большое количество гостей.
 
-## #7<common/>
+The doctor gave me a small **dose** of medicine.
 
-**offensive** [эфЕнсыв] *прил.* оскорбительный; **differ** [дЫфэр] *гл.* отличаться; **distinct** [дыстЫнкт] *прил.* различный; **adjustment** [эджАстмэнт] *сущ.* регулировка; **ethics** [Еθыкс] *сущ.* мораль; **broadcast** [брОдкЭст] *сущ.* вещание; **tendency** [тЕндэнси] *сущ.* тенденция; **enforce** [енфОрс] *гл.* принуждать; **overlook** [OувэрлУк] *гл.* игнорировать; **changing** [чЕйнджын] *прил.* меняющийся<common/>
+Врач дал мне небольшую дозу лекарства.
 
-Here is a simple story:
+I had a strange **encounter** in the park today.
 
-Вот простая история:
+Сегодня в парке у меня произошла странная встреча.
 
-My job is about **changing** news. News **broadcast** can **differ**. Sometimes, news is **offensive**. We must have good **ethics**. It's important. There is a **tendency** to **overlook** small mistakes, but we can't. Every story needs **adjustment**. Things are **distinct**, not the same. We can't **enforce** opinions, just report facts. This is a **changing** world.
+I take off my shoes in the **hallway**.
 
-Моя работа о **меняющихся** новостях. Новостные **вещания** могут **отличаться**. Иногда, новости **оскорбительные**. Мы должны иметь хорошую **мораль**. Это важно. Есть **тенденция** **игнорировать** маленькие ошибки, но мы не можем. Каждая история нуждается в **регулировке**. Вещи **различные**, не одинаковые. Мы не можем **принуждать** мнения, только сообщать факты. Это **меняющийся** мир.
+Я снимаю обувь в коридоре.
 
-## #8<common/>
+The small boat will **drift** away if you don't tie it.
 
-**discourse** [дЫскорс] *сущ.* обсуждение; **prescription** [прэскрЫпшэн] *сущ.* рецепт; **rent** [рЕнт] *гл.* арендовать; **moderate** [мАдэрэт] *прил.* умеренный; **sacred** [сЕйкрэд] *прил.* священный; **craft** [крЭфт] *сущ.* ремесло; **concerning** [кэнсЭрнын] *пред.* относительно; **principal** [прЫнсэпэл] *прил.* основной; **prosecution** [прАсэкйУшэн] *сущ.* обвинение; **closet** [клАзэт] *сущ.* шкаф<common/>
+Маленькая лодка уплывет, если ее не привязать.
 
-Here is a short text:
+I need **counseling** because I am sad.
 
-Вот короткий текст:
+Мне нужна консультация, потому что мне грустно.
 
-The **principal** problem is the **discourse** **concerning** the **rent**. We need a **moderate** solution. This is a **sacred** matter. My mom has a **prescription**. The **prosecution** is wrong. **Craft** is a good hobby. My clothes are in the **closet**. We will **rent** a car.
+She **consistently** does her homework every day.
 
-**Основная** проблема - это **обсуждение** **относительно** **аренды**. Нам нужно **умеренное** решение. Это **священный** вопрос. У моей мамы есть **рецепт**. **Обвинение** неправо. **Ремесло** - хорошее хобби. Моя одежда в **шкафу**. Мы **арендуем** машину.
+Она каждый день стабильно выполняет домашнее задание.
 
-## #9<common/>
+I saw a **notice** on the door.
 
-**educate** [ЕджэкЕйт] *гл.* воспитывать; **measurement** [мЕжэрмэнт] *сущ.* измерение; **net** [нЕт] *прил.* чистый; **assemble** [эсЕмбэл] *гл.* собирать; **efficiency** [ыфЫшэнси] *сущ.* эффективность; **tight** [тАйт] *нар.* туго; **regulate** [рЕгйэлЕйт] *гл.* регулировать; **sponsor** [спАнсэр] *гл.* спонсировать; **compound** [кАмпаунд] *сущ.* соединение; **store** [] *хранить* стОр<common/>
+Я увидел объявление на двери.
 
-We **educate** children. It is important. We take a **measurement** of their height. We want **net** profit. We **assemble** toys. We want **efficiency**! Screws are **tight**. We must **regulate** the temperature. The company will **sponsor** the team. Water is a simple **compound**. We **store** food in the fridge.
+**Humanity** needs to help each other.
 
-Мы **воспитываем** детей. Это важно. Мы делаем **измерение** их роста. Мы хотим **чистую** прибыль. Мы **собираем** игрушки. Мы хотим **эффективности**! Винты закручены **туго**. Мы должны **регулировать** температуру. Компания будет **спонсировать** команду. Вода - это простое **соединение**. Мы **стОрим** еду в холодильнике.
+Человечество должно помогать друг другу.
 
-## #10<common/>
+We must show kindness to all of **humanity**.
 
-**excuse** [ыкскйУс] *гл.* прощать; **swing** [суЫн] *сущ.* размах; **acceptable** [эксЕптэбэл] *прил.* приемлемый; **prevention** [привЕншэн] *сущ.* предотвращение; **formation** [формЕйшэн] *сущ.* формирование; **salmon** [сЭмэн] *сущ.* лосось; **legacy** [лЕгэси] *сущ.* наследие; **commissioner** [кэмЫшэнэр] *сущ.* комиссар; **curve** [кЭрв] *сущ.* изгиб; **seemingly** [сИмынли] *нар.* по-видимому<common/>
+Мы должны проявлять доброту ко всему человечеству.
 
-**Excuse** me, I like **salmon**. The **commissioner** has a big house. It has a **curve** in the garden. His **legacy** is important. He thinks **prevention** of problems is good. The **formation** of a team is **acceptable**. The **swing** of the door is big. **Seemingly**, he is happy.
+She has a **continuing** interest in learning new languages.
 
-**Простите**, я люблю **лосося**. У **комиссара** большой дом. В саду есть **изгиб**. Его **наследие** важно. Он считает, что **предотвращение** проблем - это хорошо. **Формирование** команды **приемлемо**. **Размах** двери большой. **По-видимому**, он счастлив.
+Она постоянно проявляет интерес к изучению новых языков.
 
-## #11<common/>
+I **await** your answer with excitement.
 
-**painful** [пЕйнфэл] *прил.* болезненный; **architect** [АркэтЕкт] *сущ.* архитектор; **carrier** [кЭриэр] *сущ.* перевозчик; **modest** [мАдэст] *прил.* скромный; **suburban** [сэбЭрбэн] *прил.* загородный; **favor** [фЕйвэр] *сущ.* одолжение; **recruit** [рэкрУт] *гл.* вербовать; **legend** [лЕджэнд] *сущ.* надпись; **brush** [брАш] *гл.* чистить; **finance** [фэнЭнс] *гл.* финансировать<common/>
+Я с нетерпением жду вашего ответа.
 
-It was a **painful** morning. I had to **brush** my teeth. My uncle is an **architect**. He lives in a **suburban** house. He is a **modest** man. He asked me a **favor**: "**Recruit** people to **finance** my new project!" I hope the **carrier** will deliver the money soon. I also need to add a **legend** to my photo album.
+**Govern** means to control a country.
 
-Это было **болезненное** утро. Мне нужно было **чистить** зубы. Мой дядя - **архитектор**. Он живет в **загородном** доме. Он **скромный** человек. Он попросил меня об **одолжении**: "**Вербуй** людей, чтобы **финансировать** мой новый проект!" Я надеюсь, что **перевозчик** доставит деньги скоро. Мне также нужно добавить **надпись** к моему фотоальбому.
+Управлять — значит контролировать страну.
 
-## #12<common/>
+The water was running in a **continuous** stream.
 
-**intensity** [ынтЕнсэти] *сущ.* интенсивность; **cognitive** [кАгнытыв] *прил.* познавательный; **margin** [мАрджэн] *сущ.* запас; **reservation** [рЕзэрвЕйшэн] *сущ.* резервирование; **pregnancy** [прЕгнэнси] *сущ.* беременность; **exceed** [ыксИд] *гл.* превышать; **competitor** [кэмпЕтэтэр] *сущ.* конкурент; **surgeon** [сЭрджэн] *сущ.* хирург; **counsel** [кАунсэл] *сущ.* адвокат; **rate** [рЕйт] *гл.* оценивать<common/>
+Вода текла непрерывным потоком.
 
-The job is hard. The **intensity** is high. You need good **cognitive** skills. We have a small **margin** for error. No **reservation** needed. It's before **pregnancy**. Don't **exceed** your limit. He is a strong **competitor**. The **surgeon** is ready. Get **counsel** from the lawyer. People **rate** it good.
+She wants **ownership** of her own house.
 
-Работа сложная. **Интенсивность** высока. Вам нужны хорошие **познавательные** навыки. У нас небольшой **запас** для ошибки. **Резервирование** не требуется. Это до **беременности**. Не **превышайте** свой предел. Он сильный **конкурент**. **Хирург** готов. Получите **совет** у **адвоката**. Люди **оценивают** это хорошо.
+Она хочет иметь собственный дом.
 
-## #13<common/>
+The police want to free the **hostages**.
 
-**scope** [скOуп] *сущ.* рамки; **submit** [сэбмЫт] *гл.* подавать; **admission** [эдмЫшэн] *сущ.* допуск; **ratio** [рЕйшиOу] *сущ.* соотношение; **concrete** [кэнкрИт] *прил.* конкретный; **pill** [пЫл] *сущ.* таблетка; **presidency** [прЕзэдэнси] *сущ.* президентство; **load** [лOуд] *сущ.* груз; **ballot** [бЭлэт] *сущ.* тайное голосование; **reinforce** [рИынфОрс] *гл.* укреплять<common/>
+Полиция хочет освободить заложников.
 
-The **scope** of this work is small. We must **submit** it today. **Admission** is free. The **ratio** of men to women is one to one. We need **concrete** plans. Take this **pill** for your head. The **presidency** is a big job. This **load** is heavy. Use a **ballot** to vote. We must **reinforce** the wall.
+She is a friendly **companion** on the trip.
 
-**Рамки** этой работы небольшие. Мы должны **подать** ее сегодня. **Допуск** бесплатный. **Соотношение** мужчин к женщинам один к одному. Нам нужны **конкретные** планы. Прими эту **таблетку** от головы. **Президентство** - это большая работа. Этот **груз** тяжелый. Используй **тайное голосование**, чтобы проголосовать. Мы должны **укреплять** стену.
+Она — дружелюбный спутник в путешествии.
 
-## #14<common/>
+There is a lot of **uncertainty** about the weather tomorrow.
 
-**integration** [ЫнтэгрЕйшэн] *сущ.* интеграция; **label** [лЕйбэл] *гл.* помечать; **fund** [фАнд] *гл.* финансировать; **infant** [Ынфэнт] *сущ.* ребенок; **sin** [сЫн] *сущ.* грех; **remark** [рымАрк] *сущ.* замечание; **mill** [мЫл] *сущ.* мельница; **absorb** [эбзОрб] *гл.* поглощать; **standing** [стЭндын] *сущ.* положение; **controversial** [кАнтрэвЭршэл] *прил.* спорный<common/>
+Завтра ожидается большая неопределенность относительно погоды.
 
-The **infant** is small. The **mill** is big. People **fund** the mill. There is a **controversial** plan for **integration** near the mill. Some people don't like the plan. They **label** it bad. A short **remark** about the plan changed my **standing**. I **absorb** the information. Is this a **sin**?
+The **supervisor** helps us with our work.
 
-**Ребенок** маленький. **Мельница** большая. Люди **финансируют** мельницу. Есть **спорный** план по **интеграции** рядом с мельницей. Некоторым людям не нравится план. Они **помечают** его как плохой. Короткое **замечание** о плане изменило мое **положение**. Я **поглощаю** информацию. Это **грех**?
+Руководитель помогает нам в работе.
 
-## #15<common/>
+The **shuttle** goes between the airport and the city center.
 
-**composition** [кАмпэзЫшэн] *сущ.* состав; **associate** [эсOусиэт] *сущ.* коллега; **integrate** [ЫнтэгрЕйт] *гл.* объединять; **soccer** [сАкэр] *сущ.* футбол; **civilian** [сэвЫлйэн] *прил.* гражданский; **storage** [стОрэдж] *сущ.* хранилище; **laughter** [лЭфтэр] *сущ.* смех; **carbon** [кАрбэн] *сущ.* углерод; **log** [лОг] *сущ.* бревно; **narrator** [нЕрейтэр] *сущ.* рассказчик<common/>
+Автобус курсирует между аэропортом и центром города.
 
-My **associate** likes **soccer**. He writes a **composition** about it. He wants to **integrate** the **civilian** life and sport. He has a big **storage** for his books. We hear **laughter** when he talks. The **narrator** tells us about **carbon** in the **log**. It is very important!
+I walk on the **sidewalk** to go to school.
 
-Мой **коллега** любит **футбол**. Он пишет **сочинение** об этом. Он хочет **объединить** **гражданскую** жизнь и спорт. У него большое **хранилище** для его книг. Мы слышим **смех**, когда он говорит. **Рассказчик** рассказывает нам об **углероде** в **бревне**. Это очень важно!
+Я иду в школу по тротуару.
 
-## #16<common/>
+We need to **survey** the park to see what improvements are needed.
 
-**corps** [кОр] *сущ.* корпус; **cluster** [клАстэр] *сущ.* скопление; **medium** [мИдиэм] *сущ.* средство; **scholarship** [скАлэршЫп] *сущ.* ученость; **interior** [ЫнтЫриэр] *сущ.* интерьер; **confuse** [кэнфйУз] *гл.* запутывать; **nerve** [нЭрв] *сущ.* нерв; **greatly** [грЕйтли] *нар.* значительно; **anniversary** [ЭнэвЭрсэри] *сущ.* годовщина; **dining** [дАйнын] *сущ.* трапеза<common/>
+Нам необходимо обследовать парк, чтобы увидеть, какие улучшения необходимы.
 
-The **corps** is here! Look at the **cluster** of people! This **medium** helps to learn. His **scholarship** is great. The **interior** is nice. Don't **confuse** me! It makes me lose my **nerve**. I like this **greatly**. It is our **anniversary**. Let's have **dining** together!
+The loud noise can **trigger** her fear.
 
-**Корпус** здесь! Посмотри на **скопление** людей! Это **средство** помогает учиться. Его **ученость** велика. **Интерьер** хороший. Не **запутывай** меня! Это заставляет меня нервничать (терять **нерв**). Мне это **значительно** нравится. Это наша **годовщина**. Давайте устроим **трапезу** вместе!
+Громкий шум может вызвать у нее страх.
 
-## #17<common/>
+The **hallway** connects the rooms.
 
-**nerve** [нЭрв] *сущ.* нерв; **distinct** [дыстЫнкт] *прил.* различный; **overlook** [OувэрлУк] *гл.* игнорировать; **cluster** [клАстэр] *сущ.* скопление; **net** [нЕт] *прил.* чистый; **decrease** [дыкрИс] *гл.* уменьшать; **controversial** [кАнтрэвЭршэл] *прил.* спорный; **rent** [рЕнт] *гл.* арендовать; **oven** [Авэн] *сущ.* печь; **margin** [мАрджэн] *сущ.* запас<common/>
+Комнаты соединены коридором.
 
-**The** old house **rent** is cheap. But it has problems. There is a **cluster** of spiders! I try to **overlook** them. My **nerve** is bad. The **oven** doesn't work well, so I must **decrease** the time. The kitchen is not **net**, it is dirty! The **margin** for error is small. This is a **controversial** house because it's very old. It is **distinct** from others.
+The artist will **project** images onto the building.
 
-**Аренда** старого дома дешевая. Но у него есть проблемы. Там **скопление** пауков! Я пытаюсь их **игнорировать**. Мои **нервы** плохи. **Печь** плохо работает, поэтому я должен **уменьшать** время. Кухня не **чистая**, она грязная! **Запас** на ошибку маленький. Это **спорный** дом, потому что он очень старый. Он **различный** от других.
+Художник будет проецировать изображения на здание.
 
-## #18<common/>
+The **notice** says "No Parking."
 
-**dining** [дАйнын] *сущ.* трапеза; **scope** [скOуп] *сущ.* рамки; **infant** [Ынфэнт] *сущ.* ребенок; **acceptable** [эксЕптэбэл] *прил.* приемлемый; **commissioner** [кэмЫшэнэр] *сущ.* комиссар; **regulate** [рЕгйэлЕйт] *гл.* регулировать; **rate** [рЕйт] *гл.* оценивать; **principal** [прЫнсэпэл] *прил.* основной; **concerning** [кэнсЭрнын] *пред.* относительно; **exceed** [ыксИд] *гл.* превышать<common/>
+На табличке написано: «Парковка запрещена».
 
-**The Principal** idea **concerning** this is simple. The **commissioner** wants to **regulate** the **scope** of children's meals. If the **infant** eats too much, it can **exceed** what is **acceptable**. We need to **rate** the **dining** so it's not too big.
+I accidentally **ripped** the paper when I opened the package.
 
-**Основная** идея **относительно** этого проста. **Комиссар** хочет **регулировать** **рамки** детского питания. Если **ребенок** ест слишком много, это может **превышать** то, что **приемлемо**. Нам нужно **оценивать** **трапезу**, чтобы она не была слишком большой.
+Я случайно порвал бумагу, когда открывал посылку.
 
-## #19<common/>
+The teacher will **administer** the test.
 
-**carbon** [кАрбэн] *сущ.* углерод; **prescription** [прэскрЫпшэн] *сущ.* рецепт; **submit** [сэбмЫт] *гл.* подавать; **dominant** [дАмэнэнт] *прил.* доминирующий; **differ** [дЫфэр] *гл.* отличаться; **essence** [Есэнс] *сущ.* сущность; **intensity** [ынтЕнсэти] *сущ.* интенсивность; **adjustment** [эджАстмэнт] *сущ.* регулировка; **subsequent** [сАбсэкуэнт] *прил.* последующий; **tight** [тАйт] *нар.* туго<common/>
+Тест будет проводить преподаватель.
 
-The **essence** of life is to **differ** from day to day. My doctor gave me a **prescription**. I need to **submit** it to the pharmacy. The **dominant** feeling is tiredness. The **intensity** of pain is high. I need an **adjustment** in my routine. The **subsequent** days were better. My shirt is too **tight**. The amount of **carbon** in the air is important.
+I can see the countries on the **globe**.
 
-**Сущность** жизни - **отличаться** изо дня в день. Мой врач дал мне **рецепт**. Мне нужно **подать** его в аптеку. **Доминирующее** чувство - усталость. **Интенсивность** боли высокая. Мне нужна **регулировка** в моем режиме. **Последующие** дни были лучше. Моя рубашка слишком **туго** сидит. Количество **углерода** в воздухе важно.
+Я вижу страны на глобусе.
 
-## #20<common/>
+The teacher asked us a **profound** question about life.
 
-**retail** [рИтЕйл] *прил.* розничный; **cope** [кOуп] *гл.* справиться; **strengthen** [стрЕнθэн] *гл.* укреплять; **medium** [мИдиэм] *сущ.* средство; **ethics** [Еθыкс] *сущ.* мораль; **excuse** [ыкскйУс] *гл.* прощать; **march** [мАрч] *гл.* маршировать; **lecture** [лЕкчэр] *сущ.* лекция; **earnings** [Эрнынз] *сущ.* заработок; **reinforce** [рИынфОрс] *гл.* укреплять<common/>
+Учитель задал нам глубокий вопрос о жизни.
 
-**Retail** shops need to **cope**. We must **strengthen** our team. Radio is a good **medium**. Business needs **ethics**. I can’t **excuse** this. Soldiers **march**. The **lecture** is long. My **earnings** are small. We must **reinforce** the wall.
+**Unity** makes us strong.
 
-**Розничным** магазинам нужно **справиться**. Мы должны **укреплять** нашу команду. Радио – хорошее **средство**. Бизнесу нужна **мораль**. Я не могу это **прощать**. Солдаты **маршируют**. **Лекция** длинная. Мой **заработок** маленький. Мы должны **укреплять** стену.
+Единство делает нас сильными.
 
-## #21<common/>
+The **encounter** with the dog was scary.
 
-**brush** [брАш] *гл.* чистить; **hypothesis** [хайпАθэсэс] *сущ.* гипотеза; **exact** [ыгзЭкт] *прил.* точный; **ease** [Из] *гл.* облегчать; **medication** [мЕдэкЕйшэн] *сущ.* лекарство; **flash** [флЭш] *гл.* сверкать; **major** [мЕйджэр] *сущ.* крупный; **moderate** [мАдэрэт] *прил.* умеренный; **recruit** [рэкрУт] *гл.* вербовать; **civilian** [сэвЫлйэн] *прил.* гражданский<common/>
+Встреча с собакой была страшной.
 
-I **brush** my teeth. I have a **hypothesis**. It is not **exact**. I want to **ease** my pain. I need **medication**. Light can **flash**. This is a **major** problem. The pain is **moderate**. They **recruit** people. They are **civilian** people.
+Using a map can **facilitate** your travel.
 
-Я **чищу** зубы. У меня есть **гипотеза**. Она не **точная**. Я хочу **облегчить** мою боль. Мне нужно **лекарство**. Свет может **сверкать**. Это **крупная** проблема. Боль **умеренная**. Они **вербуют** людей. Они **гражданские** люди.
+Использование карты может облегчить ваше путешествие.
 
-## #22<common/>
+The president has a **mandate** from the people to make changes.
 
-**sacred** [сЕйкрэд] *прил.* священный; **mill** [мЫл] *сущ.* мельница; **soccer** [сАкэр] *сущ.* футбол; **suspect** [сэспЕкт] *сущ.* подозреваемый; **distinguish** [дыстЫнгуыш] *гл.* различать; **meter** [мИтэр] *сущ.* измеритель; **highlight** [хАйлАйт] *гл.* выделять; **fit** [фЫт] *прил.* подходящий; **integrate** [ЫнтэгрЕйт] *гл.* объединять; **laughter** [лЭфтэр] *сущ.* смех<common/>
+Президент имеет мандат от народа на проведение изменений.
 
-The old **mill** is near the **sacred** river. We can hear **laughter** there. The police have a **suspect** in the **soccer** game incident. It is hard to **distinguish** him. This **meter** shows the water level. We need to **highlight** the important information. This shirt is not **fit**. We must **integrate** the new data.
+He wants to **leap** across the puddle.
 
-Старая **мельница** находится рядом со **священной** рекой. Мы можем слышать там **смех**. У полиции есть **подозреваемый** в инциденте на **футбольном** матче. Трудно его **различить**. Этот **измеритель** показывает уровень воды. Нам нужно **выделить** важную информацию. Эта рубашка не **подходящая**. Мы должны **объединить** новые данные.
+Он хочет перепрыгнуть через лужу.
 
-## #23<common/>
+Take one **dose** after breakfast.
 
-**admission** [эдмЫшэн] *сущ.* допуск; **suburban** [сэбЭрбэн] *прил.* загородный; **narrative** [нЭрэтыв] *сущ.* повествование; **rank** [рЭнк] *гл.* оценивать; **assert** [эсЭрт] *гл.* утверждать; **architect** [АркэтЕкт] *сущ.* архитектор; **curve** [кЭрв] *сущ.* изгиб; **adequate** [Эдэкуэт] *прил.* достаточный; **confusion** [кэнфйУжэн] *сущ.* путаница; **anniversary** [ЭнэвЭрсэри] *сущ.* годовщина<common/>
+Принимать одну дозу после завтрака.
 
-The school **admission** is today. My friend lives in a **suburban** area. He writes a short **narrative** about his day. The teacher will **rank** the stories. He wants to **assert** that his story is good. His father is an **architect**. He likes the **curve** of the new building. Is my English **adequate**? There is much **confusion** about the date of the school's **anniversary**.
+My grandfather gets a **pension** every month.
 
-Сегодня **допуск** в школу. Мой друг живет в **загородном** районе. Он пишет короткое **повествование** о своем дне. Учитель будет **оценивать** рассказы. Он хочет **утверждать**, что его рассказ хороший. Его отец - **архитектор**. Ему нравится **изгиб** нового здания. Мой английский **достаточный**? Много **путаницы** насчет даты **годовщины** школы.
+Мой дедушка получает пенсию каждый месяц.
 
-## #24<common/>
+They reached a **compromise** about the movie they would watch.
 
-**narrator** [нЕрейтэр] *сущ.* рассказчик; **presidency** [прЕзэдэнси] *сущ.* президентство; **surgeon** [сЭрджэн] *сущ.* хирург; **ratio** [рЕйшиOу] *сущ.* соотношение; **measurement** [мЕжэрмэнт] *сущ.* измерение; **formation** [формЕйшэн] *сущ.* формирование; **fund** [фАнд] *гл.* финансировать; **impressive** [ЫмпрЕсыв] *прил.* впечатляющий; **estimated** [ЕстэмЕйтэд] *прил.* примерный; **storage** [стОрэдж] *сущ.* хранилище<common/>
+Они достигли компромисса относительно фильма, который будут смотреть.
 
-**Narrator** is a job. A **surgeon** is also a job. The **ratio** of doctors to patients is important. We need good **measurement** of this. The **formation** of new doctors takes time. We **fund** this education. The **presidency** can help. It is **impressive** to see new doctors. The **estimated** cost is high. Good hospital **storage** is necessary.
+Don't let your thoughts **drift** during the exam.
 
-**Рассказчик** это работа. **Хирург** это тоже работа. **Соотношение** врачей к пациентам важно. Нам нужны хорошие **измерения** этого. **Формирование** новых врачей занимает время. Мы **финансируем** это образование. **Президентство** может помочь. Это **впечатляюще** видеть новых врачей. **Примерная** стоимость высока. Хорошее больничное **хранилище** необходимо.
+Не позволяйте мыслям блуждать во время экзамена.
 
-## #25<common/>
+This machine has a **driving** wheel.
 
-**finance** [фэнЭнс] *гл.* финансировать; **evident** [Евэдэнт] *прил.* очевидный; **confuse** [кэнфйУз] *гл.* запутывать; **exhibit** [ыгзЫбыт] *гл.* выставлять; **assemble** [эсЕмбэл] *гл.* собирать; **allegation** [ЭлэгЕйшэн] *сущ.* обвинение; **economics** [ЕкэнАмыкс] *сущ.* экономика; **tent** [тЕнт] *сущ.* палатка; **integration** [ЫнтэгрЕйшэн] *сущ.* интеграция; **principal** [прЫнсэпэл] *сущ.* директор<common/>
+У этой машины есть ведущее колесо.
 
-The **principal** likes **economics**. It's **evident**! He wants to **finance** a school trip. But some **allegations** **confuse** him. He doesn't want to **exhibit** his anger. Students need a **tent** to **assemble** at the park. School **integration** is important.
+He **consistently** arrives late to class.
 
-**Директору** нравится **экономика**. Это **очевидно**! Он хочет **финансировать** школьную поездку. Но некоторые **обвинения** **запутывают** его. Он не хочет **выставлять** свой гнев. Студентам нужна **палатка**, чтобы **собираться** в парке. Школьная **интеграция** важна.
+Он постоянно опаздывает на занятия.
 
-## #26<common/>
+Can you **tune** the radio?
 
-**receiver** [рэсИвэр] *сущ.* приемник; **absorb** [эбзОрб] *гл.* поглощать; **concrete** [кэнкрИт] *прил.* конкретный; **pregnancy** [прЕгнэнси] *сущ.* беременность; **headline** [хЕдлАйн] *сущ.* заголовок; **occasional** [экЕйжэнэл] *прил.* случайный; **salmon** [сЭмэн] *сущ.* лосось; **enforce** [енфОрс] *гл.* принуждать; **ballot** [бЭлэт] *сущ.* тайное голосование; **prosecution** [прАсэкйУшэн] *сущ.* обвинение<common/>
+Вы можете настроить радио?
 
-The **receiver** is old. It cannot **absorb** much sound. We need **concrete** plans, not just dreams. **Pregnancy** is a happy time. The **headline** says "Vote Today!" There are **occasional** showers. I like **salmon** for dinner. You cannot **enforce** love. The **ballot** is secret. He fears **prosecution**.
+**Adoption** is when you become the legal parent of a child.
 
-**Приемник** старый. Он не может **поглощать** много звука. Нам нужны **конкретные** планы, а не просто мечты. **Беременность** – счастливое время. **Заголовок** говорит: "Голосуйте сегодня!" Бывают **случайные** ливни. Я люблю **лосось** на ужин. Нельзя **принуждать** к любви. **Тайное голосование** секретно. Он боится **обвинения**.
+Усыновление — это когда вы становитесь законным родителем ребенка.
 
-## #27<common/>
+The **complexity** of the game makes it hard to learn.
 
-**artistic** [артЫстык] *прил.* художественный; **cognitive** [кАгнытыв] *прил.* познавательный; **efficiency** [ыфЫшэнси] *сущ.* эффективность; **favor** [фЕйвэр] *сущ.* одолжение; **pill** [пЫл] *сущ.* таблетка; **document** [дАкйэмент] *гл.* документировать; **tendency** [тЕндэнси] *сущ.* тенденция; **delay** [дылЕй] *гл.* откладывать; **collapse** [кэлЭпс] *сущ.* крах; **offensive** [эфЕнсыв] *прил.* оскорбительный<common/>
+Сложность игры затрудняет ее освоение.
 
-I have a **tendency** to **delay** things. I need a **pill** for my headache. My friend asked a **favor**. I will **document** my trip. Bad words are **offensive**. The project's **collapse** surprised many. We need more **efficiency**. **Artistic** skills help in **cognitive** tasks.
+**Counseling** can help you with your problems.
 
-У меня есть **тенденция** **откладывать** вещи. Мне нужна **таблетка** от головной боли. Мой друг попросил **одолжение**. Я буду **документировать** мою поездку. Плохие слова **оскорбительные**. **Крах** проекта удивил многих. Нам нужна большая **эффективность**. **Художественные** навыки помогают в **познавательных** задачах.
+Консультации могут помочь вам решить ваши проблемы.
 
-## #28<common/>
+The bus can **accommodate** 50 people.
 
-**reservation** [рЕзэрвЕйшэн] *сущ.* резервирование; **discourse** [дЫскорс] *сущ.* обсуждение; **reverse** [рывЭрс] *гл.* откатывать; **conviction** [кэнвЫкшэн] *сущ.* убеждение; **pine** [пАйн] *сущ.* сосна; **elderly** [Елдэрли] *прил.* пожилой; **scholarship** [скАлэршЫп] *сущ.* ученость; **changing** [чЕйнджын] *прил.* меняющийся; **legend** [лЕджэнд] *сущ.* надпись; **store** [] *хранить* стОр<common/>
+Автобус вмещает 50 человек.
 
-The **elderly** man likes to **store** food. He has a strong **conviction** about food. He doesn't like the **changing** weather. He made a **reservation** for a nice room. They had a long **discourse** about the weather. He sees a tall **pine** tree. There is a **legend** on the tree. He cannot **reverse** time. He is a man of great **scholarship**.
+She likes the sweet **pop** of corn in the field.
 
-**Пожилой** мужчина любит **хранИть** еду. У него сильное **убеждение** по поводу еды. Ему не нравится **меняющаяся** погода. Он сделал **резервирование** хорошего номера. У них было долгое **обсуждение** о погоде. Он видит высокую **сосну**. На дереве есть **надпись**. Он не может **откатывать** время. Он человек большой **учености**.
+Ей нравится сладкая попкорновая кукуруза, растущая на поле.
 
-## #29<common/>
+The **outer** door is painted red.
 
-**crack** [крЭк] *гл.* трескаться; **standing** [стЭндын] *сущ.* положение; **log** [лОг] *сущ.* бревно; **acceptance** [эксЕптэнс] *сущ.* принятие; **greatly** [грЕйтли] *нар.* значительно; **counsel** [кАунсэл] *сущ.* адвокат; **corps** [кОр] *сущ.* корпус; **associate** [эсOусиэт] *сущ.* коллега; **pitch** [пЫч] *гл.* подавать; **framework** [фрЕймуЭрк] *сущ.* каркас<common/>
+Наружная дверь окрашена в красный цвет.
 
-The old **log** began to **crack**. My **standing** was bad. I needed **acceptance**. It helped **greatly** to speak to my **counsel**. The army **corps** was strong. My **associate** can **pitch** the ball well. We need a new **framework**.
+I have a **virtual** meeting with my boss tomorrow.
 
-Старое **бревно** начало **трескаться**. Мое **положение** было плохим. Мне нужно было **принятие**. Это **значительно** помогло поговорить с моим **адвокатом**. Армейский **корпус** был сильным. Мой **коллега** может хорошо **подавать** мяч. Нам нужен новый **каркас**.
+Завтра у меня виртуальная встреча с начальником.
 
-## #30<common/>
+I don't understand the **complexity** of this problem.
 
-**interior** [ЫнтЫриэр] *сущ.* интерьер; **composition** [кАмпэзЫшэн] *сущ.* состав; **prevention** [привЕншэн] *сущ.* предотвращение; **pitch** [пЫч] *сущ.* поле; **seemingly** [сИмынли] *нар.* по-видимому; **contend** [кэнтЕнд] *гл.* бороться; **broadcast** [брОдкЭст] *сущ.* вещание; **dependent** [дыпЕндэнт] *прил.* зависимый; **craft** [крЭфт] *сущ.* ремесло; **sin** [сЫн] *сущ.* грех<common/>
+Я не понимаю сложности этой проблемы.
 
-**The** **interior** is simple. **The** **composition** of **the** team is important for **prevention** of losses. We go to **the** **pitch** to play. **Seemingly**, it will be fun. Teams **contend** for victory. **Broadcast** shows **the** game. My happiness is **dependent** on it. Art is a **craft**. Lying is a **sin**.
+The manager received a **mandate** to improve the team's performance.
 
-**Интерьер** простой. **Состав** команды важен для **предотвращения** потерь. Мы идем на **поле**, чтобы играть. **По-видимому**, будет весело. Команды **борются** за победу. **Вещание** показывает игру. Мое счастье **зависимо** от этого. Искусство - это **ремесло**. Ложь - это **грех**.
+Менеджеру было поручено улучшить результаты команды.
 
-## #31<common/>
+The **sidewalk** is for people, not cars.
 
-**musician** [мйузЫшэн] *сущ.* музыкант; **collapse** [кэлЭпс] *гл.* рухнуть; **compound** [кАмпаунд] *сущ.* соединение; **plain** [плЕйн] *сущ.* равнина; **painful** [пЕйнфэл] *прил.* болезненный; **educate** [ЕджэкЕйт] *гл.* воспитывать; **sponsor** [спАнсэр] *гл.* спонсировать; **swing** [суЫн] *сущ.* размах; **modest** [мАдэст] *прил.* скромный; **carrier** [кЭриэр] *сущ.* перевозчик<common/>
+Тротуар предназначен для людей, а не для машин.
 
-A **musician** lived on a **plain**. He was **modest**. One day, he saw a big **compound**. Suddenly, a building **collapsed**. It was **painful** to watch. A **carrier** was there. A big **swing** of metal hurt him. Someone said, "We need to **educate** people about safety!" A company will **sponsor** a new safety program.
+We sat on the **outer** edge of the circle.
 
-**Музыкант** жил на **равнине**. Он был **скромным**. Однажды он увидел большой **комплекс** (или **соединение**). Внезапно, здание **рухнуло**. Было **болезненно** смотреть. **Перевозчик** был там. Большой **размах** металла ранил его. Кто-то сказал: "Нам нужно **воспитывать** людей о безопасности!" Компания будет **спонсировать** новую программу безопасности.
+Мы сели на внешнем краю круга.
 
-## #32<common/>
+A small mistake can **trigger** a big problem.
 
-**preference** [прЕфэрэнс] *сущ.* предпочтение; **closet** [клАзэт] *сущ.* шкаф; **label** [лЕйбэл] *гл.* помечать; **legacy** [лЕгэси] *сущ.* наследие; **recording** [рэкОрдын] *сущ.* запись; **remark** [рымАрк] *сущ.* замечание; **load** [лOуд] *сущ.* груз; **legislature** [лЕджэслЕйчэр] *сущ.* законодатели; **competitor** [кэмпЕтэтэр] *сущ.* конкурент; **acid** [Эсэд] *сущ.* кислота<common/>
+Маленькая ошибка может стать причиной большой проблемы.
 
-My **preference** is simple. I open my **closet**. I **label** boxes. This is my small **legacy**. I listen to a music **recording**. I ignore his silly **remark**. This box has a big **load**. The **legislature** makes new rules. He is my **competitor**. Be careful! This is **acid**!
+The **departure** time is 10:00 AM.
 
-Моё **предпочтение** простое. Я открываю мой **шкаф**. Я **помечаю** коробки. Это моё небольшое **наследие**. Я слушаю музыкальную **запись**. Я игнорирую его глупое **замечание**. В этой коробке большой **груз**. **Законодатели** принимают новые правила. Он мой **конкурент**. Будь осторожен! Это **кислота**!
+Время отправления — 10:00 утра.
 
-## #33<common/>
+I want to **convey** my thanks to you.
 
-**anniversary** [ЭнэвЭрсэри] *сущ.* годовщина; **salmon** [сЭмэн] *сущ.* лосось; **soccer** [сАкэр] *сущ.* футбол; **allegation** [ЭлэгЕйшэн] *сущ.* обвинение; **tight** [тАйт] *нар.* туго; **greatly** [грЕйтли] *нар.* значительно; **formation** [формЕйшэн] *сущ.* формирование; **efficiency** [ыфЫшэнси] *сущ.* эффективность; **composition** [кАмпэзЫшэн] *сущ.* состав; **admission** [эдмЫшэн] *сущ.* допуск<common/>
+Я хочу выразить вам свою благодарность.
 
-**Anniversary** today! We eat **salmon**. I like **soccer** greatly. The **allegation** is false. My shoes are **tight**. Good **formation**! This helps **efficiency**. The **composition** of the team is good. No **admission** here.
+I need **guidance** with my homework.
 
-Сегодня **годовщина**! Мы едим **лосось**. Я люблю **футбол** значительно. **Обвинение** ложное. Мои туфли **туго**. Хорошее **формирование**! Это помогает **эффективности**. **Состав** команды хороший. Нет **допуска** сюда.
+Мне нужна помощь с домашним заданием.
 
-## #34<common/>
+The sun gives off **radiation**.
 
-**meter** [мИтэр] *сущ.* измеритель; **recruit** [рэкрУт] *гл.* вербовать; **favor** [фЕйвэр] *сущ.* одолжение; **broadcast** [брОдкЭст] *сущ.* вещание; **rank** [рЭнк] *гл.* оценивать; **pill** [пЫл] *сущ.* таблетка; **sponsor** [спАнсэр] *гл.* спонсировать; **carbon** [кАрбэн] *сущ.* углерод; **fit** [фЫт] *прил.* подходящий; **suburban** [сэбЭрбэн] *прил.* загородный<common/>
+Солнце испускает радиацию.
 
-The doctor has a **meter** to check my health. I need a **pill** because I feel bad. Can you do me a **favor** and turn off the radio? The **broadcast** is boring. We **rank** the new students. The company wants to **recruit** young people. They **sponsor** the local team. The air has too much **carbon**. A **suburban** house is often **fit** for a family.
+My **residence** is near the park.
 
-У доктора есть **измеритель** чтобы проверить мое здоровье. Мне нужна **таблетка**, потому что я чувствую себя плохо. Можешь сделать мне **одолжение** и выключить радио? **Вещание** скучное. Мы **оцениваем** новых студентов. Компания хочет **вербовать** молодых людей. Они **спонсируют** местную команду. В воздухе слишком много **углерода**. **Загородный** дом часто **подходящий** для семьи.
+Мой дом находится недалеко от парка.
 
-## #35<common/>
+This gift is very **meaningful** to me.
 
-**distinguish** [дыстЫнгуыш] *гл.* различать; **modest** [мАдэст] *прил.* скромный; **oven** [Авэн] *сущ.* печь; **preference** [прЕфэрэнс] *сущ.* предпочтение; **discourse** [дЫскорс] *сущ.* обсуждение; **reverse** [рывЭрс] *гл.* откатывать; **commissioner** [кэмЫшэнэр] *сущ.* комиссар; **finance** [фэнЭнс] *гл.* финансировать; **concrete** [кэнкрИт] *прил.* конкретный; **legislature** [лЕджэслЕйчэр] *сущ.* законодатели<common/>
+Этот подарок очень значим для меня.
 
-The **commissioner** has a **preference** for food from the **oven**. We can **distinguish** this easily. The **legislature** needs **concrete** plans. They want to **finance** a new project. No long **discourse**, please! Be **modest** and don't **reverse** the decision.
+The **blow** to the head made him dizzy.
 
-У **комиссара** есть **предпочтение** к еде из **печи**. Мы можем это легко **различать**. **Законодателям** нужны **конкретные** планы. Они хотят **финансировать** новый проект. Никакого долгого **обсуждения**, пожалуйста! Будьте **скромными** и не **откатывайте** решение.
+От удара по голове у него закружилась голова.
 
-## #36<common/>
+He uses his **pension** to buy food.
 
-**differ** [дЫфэр] *гл.* отличаться; **prescription** [прэскрЫпшэн] *сущ.* рецепт; **ballot** [бЭлэт] *сущ.* тайное голосование; **reinforce** [рИынфОрс] *гл.* укреплять; **brush** [брАш] *гл.* чистить; **principal** [прЫнсэпэл] *сущ.* директор; **narrator** [нЕрейтэр] *сущ.* рассказчик; **prosecution** [прАсэкйУшэн] *сущ.* обвинение; **civilian** [сэвЫлйэн] *прил.* гражданский; **storage** [стОрэдж] *сущ.* хранилище<common/>
+Он использует свою пенсию, чтобы купить еду.
 
-The **principal** says things **differ** here. You **brush** your teeth. We have a **ballot** today. It can **reinforce** our trust. The **narrator** tells a story about a **civilian**. He needed a **prescription**. The food is in **storage**. There is no **prosecution**.
+The museum celebrated the **acquisition** of a new painting.
 
-**Директор** говорит, что вещи здесь **отличаются**. Ты **чистишь** зубы. У нас сегодня **тайное голосование**. Это может **укрепить** наше доверие. **Рассказчик** рассказывает историю о **гражданском**. Ему нужен был **рецепт**. Еда в **хранилище**. Нет **обвинения**.
+Музей отпраздновал приобретение новой картины.
 
-## #37<common/>
+The nurse **administers** medicine to the patients.
 
-**subsequent** [сАбсэкуэнт] *прил.* последующий; **integrate** [ЫнтэгрЕйт] *гл.* объединять; **impressive** [ЫмпрЕсыв] *прил.* впечатляющий; **rent** [рЕнт] *гл.* арендовать; **surgeon** [сЭрджэн] *сущ.* хирург; **compound** [кАмпаунд] *сущ.* соединение; **artistic** [артЫстык] *прил.* художественный; **contend** [кэнтЕнд] *гл.* бороться; **major** [мЕйджэр] *сущ.* крупный; **dependent** [дыпЕндэнт] *прил.* зависимый<common/>
+Медсестра выписывает пациентам лекарства.
 
-My friend is a **surgeon**. He wants to **rent** a house. He likes houses with **artistic** gardens. His son is **dependent** on him. My friend has a **major** problem: to **integrate** work and family. He must **contend** with this. The **subsequent** years will be hard. He makes an **impressive** salary. He doesn't want his life to be a **compound** of work and stress.
+She had a **profound** understanding of the subject.
 
-Мой друг - **хирург**. Он хочет **арендовать** дом. Ему нравятся дома с **художественными** садами. Его сын **зависимый** от него. У моего друга **крупная** проблема: **объединять** работу и семью. Он должен **бороться** с этим. **Последующие** годы будут тяжелыми. У него **впечатляющая** зарплата. Он не хочет, чтобы его жизнь была **соединением** работы и стресса.
+У нее было глубокое понимание предмета.
 
-## #38<common/>
+The doctor gave me a **diagnosis** after the tests.
 
-**ease** [Из] *гл.* облегчать; **educate** [ЕджэкЕйт] *гл.* воспитывать; **infant** [Ынфэнт] *сущ.* ребенок; **presidency** [прЕзэдэнси] *сущ.* президентство; **offensive** [эфЕнсыв] *прил.* оскорбительный; **lecture** [лЕкчэр] *сущ.* лекция; **recording** [рэкОрдын] *сущ.* запись; **exhibit** [ыгзЫбыт] *гл.* выставлять; **cope** [кOуп] *гл.* справиться; **enforce** [енфОрс] *гл.* принуждать<common/>
+После обследований врач поставил мне диагноз.
 
-The **infant** is small. We **educate** him. It **eases** his learning. The teacher gives a **lecture**. We listen to the **recording** later. Do not be **offensive**! It is not good. The museum will **exhibit** old things. It is hard to **cope** with change. The police **enforce** the law. The **presidency** is a big job.
+The **juror** listened carefully to the lawyer.
 
-Ребенок (**infant**) маленький. Мы **воспитываем** (educate) его. Это **облегчает** (eases) его обучение. Учитель дает **лекцию** (lecture). Мы слушаем **запись** (recording) позже. Не будь **оскорбительным** (offensive)! Это не хорошо. Музей будет **выставлять** (exhibit) старые вещи. Тяжело **справиться** (cope) с переменами. Полиция **принуждает** (enforce) к соблюдению закона. **Президентство** (presidency) - большая работа.
+Присяжный внимательно выслушал адвоката.
 
-## #39<common/>
+The **driving** force behind the project is enthusiasm.
 
-**strengthen** [стрЕнθэн] *гл.* укреплять; **pitch** [пЫч] *сущ.* поле; **carrier** [кЭриэр] *сущ.* перевозчик; **standing** [стЭндын] *сущ.* положение; **acid** [Эсэд] *сущ.* кислота; **receiver** [рэсИвэр] *сущ.* приемник; **corps** [кОр] *сущ.* корпус; **elderly** [Елдэрли] *прил.* пожилой; **tendency** [тЕндэнси] *сущ.* тенденция; **integration** [ЫнтэгрЕйшэн] *сущ.* интеграция<common/>
+Движущей силой проекта является энтузиазм.
 
-**The** **elderly** man wants to **strengthen** his **standing** in the community. He helps on the **pitch**, organizing games. He works as a volunteer **carrier**, delivering food. He understands the **tendency** for separation and promotes **integration**. He believes the army **corps** needs a radio **receiver**. He knows some cleaning products contain **acid**.
+**Adoption** can make a family very happy.
 
-**Пожилой** мужчина хочет **укрепить** свое **положение** в обществе. Он помогает на **поле**, организовывая игры. Он работает волонтером-**перевозчиком**, доставляя еду. Он понимает **тенденцию** к разделению и продвигает **интеграцию**. Он считает, что армейскому **корпусу** нужен радио**приемник**. Он знает, что некоторые чистящие средства содержат **кислоту**.
+Усыновление может сделать семью очень счастливой.
 
-## #40<common/>
+This flower has a **delicate** scent.
 
-**reservation** [рЕзэрвЕйшэн] *сущ.* резервирование; **pitch** [пЫч] *гл.* подавать; **sin** [сЫн] *сущ.* грех; **assemble** [эсЕмбэл] *гл.* собирать; **highlight** [хАйлАйт] *гл.* выделять; **absorb** [эбзОрб] *гл.* поглощать; **adequate** [Эдэкуэт] *прил.* достаточный; **occasional** [экЕйжэнэл] *прил.* случайный; **craft** [крЭфт] *сущ.* ремесло; **exceed** [ыксИд] *гл.* превышать<common/>
+Этот цветок имеет тонкий аромат.
 
-I have a **reservation** for one night. I can **pitch** a tent. **Sin** is bad. We **assemble** things. We **highlight** important words. Plants **absorb** water. Is this food **adequate**? I have **occasional** dreams. I like **craft**. Do not **exceed** the limit!
+I need to **tune** my guitar before the concert.
 
-У меня есть **резервирование** на одну ночь. Я могу **подавать** палатку. **Грех** - это плохо. Мы **собирать** вещи. Мы **выделять** важные слова. Растения **поглощать** воду. Эта еда **достаточная**? У меня **случайные** сны. Мне нравится **ремесло**. Нельзя **превышать** лимит!
+Мне нужно настроить гитару перед концертом.
 
-## #41<common/>
+The **needle** is very sharp.
 
-**exact** [ыгзЭкт] *прил.* точный; **regulate** [рЕгйэлЕйт] *гл.* регулировать; **assert** [эсЭрт] *гл.* утверждать; **document** [дАкйэмент] *гл.* документировать; **submit** [сэбмЫт] *гл.* подавать; **sacred** [сЕйкрэд] *прил.* священный; **interior** [ЫнтЫриэр] *сущ.* интерьер; **intensity** [ынтЕнсэти] *сущ.* интенсивность; **measurement** [мЕжэрмэнт] *сущ.* измерение; **principal** [прЫнсэпэл] *прил.* основной<common/>
+Игла очень острая.
 
-The **principal** rule is this: **regulate** the **intensity**! We must **document** each **measurement**. It's **exact**. We **assert** it. It's a **sacred** duty. We **submit** the data. The **interior** design needs this.
+The team showed great **unity**.
 
-**Основное** правило такое: **регулируйте** **интенсивность**! Мы должны **документировать** каждое **измерение**. Это **точно**. Мы это **утверждаем**. Это **священный** долг. Мы **подаем** данные. **Интерьер** нуждается в этом.
+Команда продемонстрировала большую сплоченность.
 
-## #42<common/>
+We took a **shuttle** bus to the hotel.
 
-**tent** [тЕнт] *сущ.* палатка; **closet** [клАзэт] *сущ.* шкаф; **acceptable** [эксЕптэбэл] *прил.* приемлемый; **pregnancy** [прЕгнэнси] *сущ.* беременность; **margin** [мАрджэн] *сущ.* запас; **delay** [дылЕй] *гл.* откладывать; **load** [лOуд] *сущ.* груз; **cognitive** [кАгнытыв] *прил.* познавательный; **fund** [фАнд] *гл.* финансировать; **collapse** [кэлЭпс] *гл.* рухнуть<common/>
+Мы доехали до отеля на автобусе-шаттле.
 
-Here is the text:
+The **scout** looks for the enemy.
 
-Вот перевод:
+Разведчик ищет врага.
 
-I have a problem. My **tent** is small. My clothes are in the **closet**. It is not **acceptable**. I can't **delay** this. I need a bigger space! The **load** is too much. I don't have a **margin** for error. This is not about **pregnancy** or a **cognitive** test. We need to **fund** a new one, or it will **collapse**! It's a big **load**.
+The teacher has a **bias** towards students who do their homework.
 
-У меня проблема. Моя **палатка** маленькая. Мои вещи в **шкафу**. Это не **приемлемо**. Я не могу это **откладывать**. Мне нужно больше места! **Груз** слишком большой. У меня нет **запаса** для ошибок. Это не о **беременности** или **познавательном** тесте. Нам нужно **финансировать** новую, или она **рухнет**! Это большой **груз**.
+Учитель предвзято относится к ученикам, которые выполняют домашнюю работу.
 
-## #43<common/>
+We took a **virtual** tour of the museum online.
 
-**excuse** [ыкскйУс] *гл.* прощать; **associate** [эсOусиэт] *сущ.* коллега; **controversial** [кАнтрэвЭршэл] *прил.* спорный; **cluster** [клАстэр] *сущ.* скопление; **economics** [ЕкэнАмыкс] *сущ.* экономика; **medium** [мИдиэм] *сущ.* средство; **earnings** [Эрнынз] *сущ.* заработок; **distinct** [дыстЫнкт] *прил.* различный; **moderate** [мАдэрэт] *прил.* умеренный; **plain** [плЕйн] *сущ.* равнина<common/>
+Мы совершили виртуальную экскурсию по музею онлайн.
 
-**Excuse** me, but my **associate** said our new project is **controversial**. A **cluster** of people argue about **economics**. The best **medium** for discussion is a report about **earnings**. The results are **distinct**: some like it, some do not. We need a **moderate** approach. This project is on a **plain**.
+We had **continuous** rain all day yesterday.
 
-**Простите**, но мой **коллега** сказал, что наш новый проект **спорный**. **Скопление** людей спорит об **экономике**. Лучшее **средство** для обсуждения - это отчет о **заработках**. Результаты **различные**: кому-то нравится, кому-то нет. Нам нужен **умеренный** подход. Этот проект на **равнине**.
+Вчера весь день шел непрерывный дождь.
 
-## #44<common/>
+**Fitness** is important for a healthy life.
 
-**scholarship** [скАлэршЫп] *сущ.* ученость; **hypothesis** [хайпАθэсэс] *сущ.* гипотеза; **essence** [Есэнс] *сущ.* сущность; **ethics** [Еθыкс] *сущ.* мораль; **legacy** [лЕгэси] *сущ.* наследие; **narrative** [нЭрэтыв] *сущ.* повествование; **store** [] *хранить* стОр; **log** [лОг] *сущ.* бревно; **estimated** [ЕстэмЕйтэд] *прил.* примерный; **decrease** [дыкрИс] *гл.* уменьшать<common/>
+Фитнес важен для здоровой жизни.
 
-The old **log** **store** wood. This is his **legacy**. He had a **scholarship** once. His **estimated** time to cut all wood will **decrease**. The **essence** of hard work is important. **Ethics** tell him to work fair. He has a **narrative** about life. Maybe his **hypothesis** is right.
+I feel **uncertainty** about my future job.
 
-Старое **бревно** **содержит/хранит** древесину. Это его **наследие**. Однажды у него была **ученость/стипендия**. Его **примерное** время для рубки всей древесины **уменьшится**. **Сущность** тяжелой работы важна. **Мораль** говорит ему работать честно. У него есть **повествование** о жизни. Возможно, его **гипотеза** верна.
+Я чувствую неуверенность относительно своей будущей работы.
 
-## #45<common/>
+Ants live in a big **colony** in the garden.
 
-**headline** [хЕдлАйн] *сущ.* заголовок; **nerve** [нЭрв] *сущ.* нерв; **laughter** [лЭфтэр] *сущ.* смех; **remark** [рымАрк] *сущ.* замечание; **march** [мАрч] *гл.* маршировать; **rate** [рЕйт] *гл.* оценивать; **scope** [скOуп] *сущ.* рамки; **evident** [Евэдэнт] *прил.* очевидный; **net** [нЕт] *прил.* чистый; **musician** [мйузЫшэн] *сущ.* музыкант<common/>
+Муравьи живут в саду большой колонией.
 
-**Headline**: Funny **Musician**!
+My **counterpart** in France does the same job as me.
 
-**Заголовок**: Смешной **Музыкант**!
+Мой коллега во Франции выполняет ту же работу, что и я.
 
-The **evident** thing is he is good. People **rate** him well. He makes jokes! One **remark** makes everyone **laughter**. He plays music in the park. His **scope** is small, just the park. He does not **march** in parades. He plays for fun. It's a **net** gain for everyone. He has a strong **nerve** to play in public.
+The president helps to **govern** the country.
 
-**Очевидная** вещь - он хорош. Люди хорошо его **оценивают**. Он шутит! Одно **замечание** вызывает у всех **смех**. Он играет музыку в парке. Его **рамки** невелики, только парк. Он не **марширует** на парадах. Он играет для удовольствия. Это **чистый** выигрыш для всех. У него крепкий **нерв**, чтобы играть на публике.
+Президент помогает управлять страной.
 
-## #46<common/>
+A **compromise** is sometimes necessary to solve a problem.
 
-**swing** [суЫн] *сущ.* размах; **adjustment** [эджАстмэнт] *сущ.* регулировка; **retail** [рИтЕйл] *прил.* розничный; **prevention** [привЕншэн] *сущ.* предотвращение; **legend** [лЕджэнд] *сущ.* надпись; **pine** [пАйн] *сущ.* сосна; **seemingly** [сИмынли] *нар.* по-видимому; **dominant** [дАмэнэнт] *прил.* доминирующий; **mill** [мЫл] *сущ.* мельница; **collapse** [кэлЭпс] *сущ.* крах<common/>
+Иногда для решения проблемы необходим компромисс.
 
-The park has a big **swing**. There is a small **adjustment** for it. The **retail** price of wood is high. **Prevention** of fire is important. Read the **legend** on the old **pine** tree. **Seemingly**, the **dominant** color here is green. The old **mill** is near **collapse**.
+This road is **wider** than that road.
 
-В парке есть большие **качели (swing)**. Для них есть небольшая **регулировка (adjustment)**. **Розничная (retail)** цена на дерево высока. **Предотвращение (prevention)** пожара важно. Прочитайте **надпись (legend)** на старой **сосне (pine)**. **По-видимому (seemingly)**, **доминирующий (dominant)** цвет здесь - зеленый. Старая **мельница (mill)** близка к **краху (collapse)**.
+Эта дорога шире той дороги.
 
-## #47<common/>
+She was the **recipient** of a large prize.
 
-**acceptance** [эксЕптэнс] *сущ.* принятие; **confusion** [кэнфйУжэн] *сущ.* путаница; **dining** [дАйнын] *сущ.* трапеза; **painful** [пЕйнфэл] *прил.* болезненный; **ratio** [рЕйшиOу] *сущ.* соотношение; **label** [лЕйбэл] *гл.* помечать; **concerning** [кэнсЭрнын] *пред.* относительно; **medication** [мЕдэкЕйшэн] *сущ.* лекарство; **suspect** [сэспЕкт] *сущ.* подозреваемый; **overlook** [OувэрлУк] *гл.* игнорировать<common/>
+Она получила большую премию.
 
-There is **confusion**. The **ratio** of sugar to salt is wrong. **Dining** here is **painful**. The doctor gave him **medication**. Don't **overlook** this! The police have a **suspect**. **Concerning** his health, there is **acceptance**. Do not **label** him too soon.
+My **supervisor** is a very nice person.
 
-Существует **путаница**. **Соотношение** сахара к соли неправильное. **Трапеза** здесь **болезненная**. Доктор дал ему **лекарство**. Не **игнорируй** это! У полиции есть **подозреваемый**. **Относительно** его здоровья, есть **принятие**. Не **помечай** его слишком рано.
+Мой руководитель — очень приятный человек.
 
-## #48<common/>
+The teacher will **survey** the students about their favorite books.
 
-**confuse** [кэнфйУз] *гл.* запутывать; **conviction** [кэнвЫкшэн] *сущ.* убеждение; **framework** [фрЕймуЭрк] *сущ.* каркас; **changing** [чЕйнджын] *прил.* меняющийся; **curve** [кЭрв] *сущ.* изгиб; **architect** [АркэтЕкт] *сущ.* архитектор; **flash** [флЭш] *гл.* сверкать; **crack** [крЭк] *гл.* трескаться; **counsel** [кАунсэл] *сущ.* адвокат; **competitor** [кэмпЕтэтэр] *сущ.* конкурент<common/>
+Учитель проведет опрос учеников об их любимых книгах.
 
-The **architect** has a strong **conviction**. He uses a simple **framework**. The world is **changing**. The road has a sharp **curve**. Don't **confuse** him. A light can **flash**. The glass can **crack**. He needs **counsel**. He has a **competitor**.
+I **advocate** for more trees in our city.
 
-У **архитектора** сильное **убеждение**. Он использует простой **каркас**. Мир **меняющийся**. На дороге крутой **изгиб**. Не **запутывай** его. Свет может **сверкать**. Стекло может **трескаться**. Ему нужен **адвокат**. У него есть **конкурент**.
+Я выступаю за большее количество деревьев в нашем городе.
 
-# 4500
+I saw the dog **leap** into the air.
 
-## #1<common/>
+Я увидел, как собака подпрыгнула в воздух.
 
-**leap** [лИп] *гл.* скакать; **advocate** [Эдвэкэт] *гл.* поддерживать; **peaceful** [пИсфэл] *прил.* спокойный; **commonly** [кАмэнли] *нар.* обычно; **pad** [пЭд] *сущ.* панель; **currency** [кЭрэнси] *сущ.* валюта; **domain** [дoумЕйн] *сущ.* область; **driving** [дрАйвын] *прил.* приводной; **sidewalk** [сАйдуОк] *сущ.* тротуар; **particle** [пАртэкэл] *сущ.* частица; **administer** [эдмЫнэстэр] *гл.* управлять<common/>
+This house is a nice **residence**.
 
-A small dog **leaps** on the **sidewalk**. It is **peaceful** here. People **commonly** walk. My friend **advocates** for clean streets. He wants to **administer** this **domain** well. He uses a special **pad** to collect every **particle** of trash. He says cleaning is a **driving** force. He does not need special **currency** for it.
+Этот дом — прекрасное жилое помещение.
 
-Маленькая собака **скачет** по **тротуару**. Здесь **спокойно**. Люди **обычно** ходят. Мой друг **поддерживает** чистоту улиц. Он хочет хорошо **управлять** этой **областью**. Он использует специальную **панель**, чтобы собрать каждую **частицу** мусора. Он говорит, что уборка - это **приводная** сила. Ему не нужна специальная **валюта** для этого.
+My **earnings** from my job help me buy food.
 
-## #2<common/>
+Мои доходы от работы помогают мне покупать еду.
 
-**acquisition** [ЭкуэзЫшэн] *сущ.* приобретение; **horrible** [хОрэбэл] *прил.* ужасный; **adoption** [эдАпшэн] *сущ.* принятие; **nail** [нЕйл] *сущ.* ноготь; **continuing** [кэнтЫнйуын] *прил.* постоянный; **aim** [Ейм] *сущ.* цель; **bite** [бАйт] *сущ.* укус; **supervisor** [сУпэрвАйзэр] *сущ.* руководитель; **drunk** [дрАнк] *прил.* пьяный; **diminish** [дымЫныш] *гл.* уменьшать; **envelope** [ЕнвэлOуп] *сущ.* конверт<common/>
+The sponge can **absorb** a lot of water.
 
-The **acquisition** of a dog was her **aim**. But the dog was **horrible**! His **bite** was bad. He liked to **bite** the **supervisor**'s **nail**. The **continuing** problem made her sad. Her boss was **drunk** one day. He said, "This **adoption** is a mistake! Your happiness will **diminish**." He put a note in an **envelope**. It said: "Give the dog away!"
+Губка может впитать много воды.
 
-**Приобретение** собаки было её **целью**. Но собака была **ужасной**! Его **укус** был плохим. Он любил **кусать** **ноготь** **руководителя**. **Постоянная** проблема делала её грустной. Её босс был **пьян** однажды. Он сказал: "Это **принятие** - ошибка! Твоё счастье будет **уменьшаться**." Он положил записку в **конверт**. Там было написано: "Отдай собаку!"
+My grandma uses a **needle** to sew.
 
-## #3<common/>
+Моя бабушка шьет иголкой.
 
-**diagnosis** [дАйэгнOусэс] *сущ.* диагноз; **ownership** [OунэршЫп] *сущ.* собственность; **continuous** [кэнтЫнйуэс] *прил.* непрерывный; **excuse** [ыкскйУс] *сущ.* оправдание; **adolescent** [ЭдэлЕсэнт] *сущ.* подросток; **warm** [уОрм] *гл.* нагревать; **addition** [эдЫшэн] *сущ.* дополнение; **residence** [рЕзыдэнс] *сущ.* проживание; **counterpart** [кАунтэрпАрт] *сущ.* коллега; **pension** [пЕншэн] *сущ.* пенсия<common/>
+The teacher gave us good **guidance** for the test.
 
-The doctor gave a bad **diagnosis**. The **adolescent** felt sad. His only **excuse** was: "I'm young!" He lived in his parent's **residence**. He did not think about his future **pension**. His **counterpart** at school worked hard. Work was a **continuous** worry for him. His only **addition** to happiness was his dog. He loved to **warm** the dog on cold days. He knew one day, he must take **ownership** of his life.
+Учитель дал нам хорошие указания по подготовке к тесту.
 
-Доктор поставил плохой **диагноз**. **Подросток** почувствовал себя грустно. Его единственным **оправданием** было: "Я молод!". Он жил в **проживании** у своих родителей. Он не думал о своей будущей **пенсии**. Его **коллега** в школе усердно работал. Работа была **непрерывным** беспокойством для него. Его единственным **дополнением** к счастью была его собака. Он любил **нагревать** собаку в холодные дни. Он знал, что однажды должен взять **собственность** над своей жизнью.
+She had a **meaningful** conversation with her friend.
 
-## #4<common/>
+У нее состоялся содержательный разговор с подругой.
 
-**accommodate** [экАмэдЕйт] *гл.* вмещать; **cholesterol** [кэлЕстэрОл] *сущ.* холестерин; **counseling** [кАунсэлын] *сущ.* консультация; **serving** [сЭрвын] *сущ.* служение; **virtual** [вЭрчуэл] *прил.* действительный; **readily** [рЕдэли] *нар.* охотно; **wider** [-] *прил.* широкий; **separation** [сЕпэрЕйшэн] *сущ.* отделение; **fitness** [фЫтнэс] *сущ.* хорошее здоровье; **herb** [Эрб] *сущ.* трава<common/>
+They **consistently** play well as a team.
 
-My family is **wider** now! We need a bigger house to **accommodate** us. My grandpa eats a lot, but he has high **cholesterol**. He goes to **counseling**. He wants good **fitness**, so he eats less meat. He uses a special **herb** in his salad. It is his **serving** of healthy food. He watches **virtual** tours of parks **readily**. He likes the **separation** from the city.
+Они всегда хорошо играют как команда.
 
-Моя семья теперь **шире**! Нам нужен дом побольше, чтобы нас **вместить**. Мой дедушка много ест, но у него высокий **холестерин**. Он ходит на **консультации**. Он хочет хорошее **здоровье** (быть в хорошей форме), поэтому он ест меньше мяса. Он использует особую **траву** в своем салате. Это его **порция** (служение) здоровой пищи. Он смотрит **виртуальные** туры по паркам **охотно**. Ему нравится **отделение** от города.
+More chairs will **facilitate** the meeting.
 
-## #5<common/>
+Больше стульев облегчит проведение встречи.
 
-**notice** [нOутэс] *сущ.* уведомление; **patient** [пЕйшэнт] *прил.* терпеливый; **bias** [бАйэс] *сущ.* предвзятость; **colonel** [кЭрнэл] *сущ.* полковник; **gentle** [джЕнтэл] *прил.* нежный; **frame** [фрЕйм] *гл.* обрамлять; **facilitate** [фэсЫлэтЕйт] *гл.* способствовать; **stuff** [стАф] *гл.* набивать; **await** [эуЕйт] *гл.* ждать; **fiscal** [фЫскэл] *прил.* фискальный<common/>
+My parents want to **educate** me well.
 
-The **colonel** is a **patient** man. He sees a **notice**. It says: "No **bias** allowed!". He wants to **facilitate** good work. He has a **gentle** dog. He likes to **frame** photos of his dog. He doesn't like to **stuff** his pockets with **fiscal** documents. He will **await** the news.
+Мои родители хотят дать мне хорошее образование.
 
-**Полковник** – **терпеливый** человек. Он видит **уведомление**. Там написано: "Никакой **предвзятости** не допускается!". Он хочет **способствовать** хорошей работе. У него **нежная** собака. Ему нравится **обрамлять** фотографии своей собаки. Он не любит **набивать** свои карманы **фискальными** документами. Он будет **ждать** новостей.
+The new law is **controversial** because many people disagree with it.
 
-## #6<common/>
+Новый закон является спорным, поскольку многие люди с ним не согласны.
 
-**hallway** [хОлуЕй] *сущ.* прихожая; **hook** [хУк] *сущ.* крюк; **complexity** [кэмплЕксэти] *сущ.* сложность; **recession** [рысЕшэн] *сущ.* спад; **compromise** [кАмпрэмАйз] *сущ.* компромисс; **delicate** [дЕлэкэт] *прил.* нежный; **uncertainty** [энсЭртэнти] *сущ.* неопределенность; **guidance** [гАйдэнс] *сущ.* руководство; **transaction** [трэнзЭкшэн] *сущ.* сделка; **harm** [хАрм] *сущ.* вред<common/>
+Pollution is a big problem for **humanity**.
 
-The **hallway** is small. A coat is on a **hook**. There is no **complexity** here. It is not the time of **recession**. We need a **compromise**. The flower is **delicate**. There is **uncertainty** about the day. We need **guidance**. This is a good **transaction**. Do not cause **harm**.
+Загрязнение — большая проблема для человечества.
 
-**Прихожая** маленькая. Пальто висит на **крюке**. Здесь нет **сложности**. Это не время **спада**. Нам нужен **компромисс**. Цветок **нежный**. Есть **неопределенность** насчет дня. Нам нужно **руководство**. Это хорошая **сделка**. Не причиняй **вред**.
+The company has **ownership** of the patent.
 
-## #7<common/>
+Компания является владельцем патента.
 
-**blow** [блOу] *сущ.* удар; **radiation** [рЕйдиЕйшэн] *сущ.* излучение; **companion** [кэмпЭнйэн] *сущ.* компаньон; **strip** [стрЫп] *гл.* раздеваться; **guilt** [гЫлт] *сущ.* вина; **drift** [дрЫфт] *гл.* дрейфовать; **colony** [кАлэни] *сущ.* колония; **outer** [Аутэр] *прил.* внешний; **array** [эрЕй] *сущ.* множество; **popularity** [пАпйэлЕрэти] *сущ.* популярность<common/>
+Her **departure** made me sad.
 
-The **outer** space **colony** was quiet. Suddenly, a **blow** shook the ship. Everyone felt a strange **radiation**. Mark felt **guilt**; he knew something was wrong. He and his **companion**, Alex, saw a ship **drift**. They decided to **strip** off their heavy suits. An **array** of stars was beautiful, but Alex said, "This isn't about **popularity**!" They had to help.
+Ее отъезд меня огорчил.
 
-В **внешней** космической **колонии** было тихо. Вдруг, **удар** потряс корабль. Все почувствовали странное **излучение**. Марк почувствовал **вину**; он знал, что что-то не так. Он и его **компаньон**, Алекс, увидели, как корабль **дрейфует**. Они решили **раздеться**, сняв свои тяжелые скафандры. **Множество** звезд было красивым, но Алекс сказал: "Дело не в **популярности**!" Они должны были помочь.
+My **intent** is to learn English well.
 
-## #8<common/>
+Моя цель — хорошо выучить английский язык.
 
-**suite** [суИт] *сущ.* номер-люкс; **dose** [дOус] *сущ.* доза; **tune** [тУн] *гл.* настраивать; **structural** [стрАкчэрэл] *прил.* структурный; **injure** [Ынджэр] *гл.* ранить; **pop** [пАп] *сущ.* хлопок; **shuttle** [шАтэл] *сущ.* перевозки; **consistently** [кэнсЫстэнтли] *нар.* постоянно; **needle** [нИдэл] *сущ.* игла; **chronic** [крАнык] *прил.* хронический<common/>
+The **framework** of the building is made of steel.
 
-The cat has a **chronic** problem. The vet wants to help. He checks the cat's **structural** health. He uses a **needle**, but tries not to **injure** the cat. He gives a small **dose** of medicine. The cat doesn't like it. Then, the vet tries to **tune** the radio. There's a loud **pop**! The cat jumps. The vet says, "We need to improve **shuttle** service to the vet!" The vet needs to work **consistently** to help animals. He dreams of a big **suite** for all the animals.
+Каркас здания выполнен из стали.
 
-У кота **хроническая** проблема. Ветеринар хочет помочь. Он проверяет **структурное** здоровье кота. Он использует **иглу**, но старается не **ранить** кота. Он дает маленькую **дозу** лекарства. Коту это не нравится. Потом, ветеринар пытается **настроить** радио. Раздается громкий **хлопок**! Кот подпрыгивает. Ветеринар говорит: "Нам нужно улучшить **перевозки** в ветеринарную клинику!". Ветеринару нужно работать **постоянно**, чтобы помогать животным. Он мечтает о большом **номере-люкс** для всех животных.
+She is meeting her **counterpart** from the other office.
 
-## #9<common/>
+Она встречается со своим коллегой из другого офиса.
 
-**meaningful** [мИнынфэл] *прил.* значительный; **skirt** [скЭрт] *сущ.* юбка; **trigger** [трЫгэр] *гл.* запускать; **endorse** [ендОрс] *гл.* одобрять; **questionnaire** [куЕсчэнЕр] *сущ.* вопросник; **pleasant** [плЕзэнт] *прил.* приятный; **convey** [кэнвЕй] *гл.* передавать; **globe** [глOуб] *сущ.* глобус; **survey** [сэрвЕй] *гл.* обследовать; **humanity** [хйумЭныти] *сущ.* человечество<common/>
+The **recipient** opened the gift with a smile.
 
-The day was **pleasant**. I saw a girl in a blue **skirt**. Her smile was **meaningful**. She had a **globe**. I want to **convey** a message to **humanity**. I need people to **endorse** my idea. Let's **survey** the **globe** and ask everyone. We can use a **questionnaire**. This will **trigger** change!
+Получатель открыл подарок с улыбкой.
 
-День был **приятный**. Я увидел девочку в синей **юбке**. Её улыбка была **значительной**. У неё был **глобус**. Я хочу **передать** сообщение **человечеству**. Мне нужно, чтобы люди **одобряли** мою идею. Давайте **обследуем** **глобус** и спросим каждого. Мы можем использовать **вопросник**. Это **запустит** перемены!
+The **formation** of clouds is fascinating.
 
-## #10<common/>
+Образование облаков завораживает.
 
-**govern** [гАвэрн] *гл.* править; **departure** [дыпАрчэр] *сущ.* отъезд; **spectrum** [спЕктрэм] *сущ.* спектр; **scout** [скАут] *сущ.* разведчик; **unity** [йУнэти] *сущ.* единство; **intent** [ЫнтЕнт] *сущ.* намерение; **encounter** [ынкАунтэр] *сущ.* встреча; **average** [Эвэрыдж] *гл.* усреднять; **profound** [прoуфАунд] *прил.* глубокий; **engagement** [енгЕйджмэнт] *сущ.* договоренность<common/>
+My house can **accommodate** my family.
 
-The king **governs**. A **scout** sees a problem. His **intent** is good. He wants **unity**. The **departure** of people is near. He has an **encounter**. It shows the full **spectrum** of colors. We **average** the data. This is a **profound** idea! We have an **engagement**.
+Мой дом может вместить мою семью.
 
-Король **правит** (governs). **Разведчик** (scout) видит проблему. Его **намерение** (intent) хорошее. Он хочет **единства** (unity). **Отъезд** (departure) людей близок. У него **встреча** (encounter). Она показывает полный **спектр** (spectrum) цветов. Мы **усредняем** (average) данные. Это **глубокая** (profound) идея! У нас **договоренность** (engagement).
+These two apples **differ** in color.
 
-## #11<common/>
+Эти два яблока различаются по цвету.
 
-**civilian** [сэвЫлйэн] *сущ.* штатский; **intelligent** [ЫнтЕлэджэнт] *прил.* умный; **exhibit** [ыгзЫбыт] *сущ.* экспонат; **hostage** [хАстыдж] *сущ.* заложник; **glance** [глЭнс] *сущ.* взгляд; **mandate** [мЭндЕйт] *сущ.* наказ; **consult** [кэнсАлт] *гл.* консультировать; **pope** [пOуп] *сущ.* папа римский; **rip** [рЫп] *гл.* рвать; **debate** [дэбЕйт] *гл.* обсуждать<common/>
+My **preference** is tea, not coffee.
 
-A **civilian** saw a strange **exhibit**. He gave it a quick **glance**. An **intelligent** man, he knew something was wrong. A **hostage** was inside! He had a **mandate** to help. He needed to **consult** the **Pope**! But a bad guy tried to **rip** the exhibit apart. They had to **debate** what to do.
+Я предпочитаю чай, а не кофе.
 
-**Штатский** увидел странный **экспонат**. Он бросил на него быстрый **взгляд**. **Умный** мужчина, он знал, что что-то не так. Внутри был **заложник**! У него был **наказ** помочь. Ему нужно было **консультировать** **Папу Римского**! Но плохой парень попытался **рвать** экспонат на части. Они должны были **обсуждать**, что делать.
+The **hostage** was very scared.
 
-## #12<common/>
+Заложник был очень напуган.
 
-**forehead** [фОрхед] *сущ.* лоб; **volunteer** [вАлэнтЫр] *гл.* предлагать; **juror** [джУрэр] *сущ.* член жюри; **lobby** [лАби] *сущ.* вестибюль; **parliament** [пАрлэмэнт] *сущ.* парламент; **rhetoric** [рЕтэрык] *сущ.* риторика; **donor** [дOунэр] *сущ.* даритель; **hence** [хЕнс] *нар.* отсюда; **recipient** [рэсЫпиэнт] *сущ.* получатель; **project** [прАджект] *гл.* проецировать<common/>
+This picture **conveys** a feeling of sadness.
 
-The **donor** gave money. The **recipient** was happy. He wanted to **volunteer** for a big **project**. He walked in the **lobby** of the **parliament**. A **juror** looked at his big **forehead**. He started his speech, but his **rhetoric** was bad. **Hence**, nobody liked it. The projector did not **project** the images.
+Эта картина передает чувство грусти.
 
-**Даритель** дал деньги. **Получатель** был счастлив. Он хотел **предлагать** свою помощь для большого **проекта**. Он вошел в **вестибюль** **парламента**. **Член жюри** посмотрел на его большой **лоб**. Он начал свою речь, но его **риторика** была плохой. **Отсюда**, никому она не понравилась. Проектор не **проецировать** изображения.
+The **elderly** woman needs help crossing the street.
 
-## #13<common/>
+Пожилой женщине нужна помощь при переходе улицы.
 
-**trigger** [трЫгэр] *гл.* запускать; **globe** [глOуб] *сущ.* глобус; **diagnosis** [дАйэгнOусэс] *сущ.* диагноз; **virtual** [вЭрчуэл] *прил.* действительный; **colonel** [кЭрнэл] *сущ.* полковник; **tune** [тУн] *гл.* настраивать; **delicate** [дЕлэкэт] *прил.* нежный; **complexity** [кэмплЕксэти] *сущ.* сложность; **engagement** [енгЕйджмэнт] *сущ.* договоренность; **warm** [уОрм] *гл.* нагревать; **diminish** [дымЫныш] *гл.* уменьшать<common/>
+Be careful, this glass is very **delicate**.
 
-The **colonel** had a **delicate** problem. His **virtual** world didn't work! He tried to **tune** the **globe**, but it didn't **trigger** anything. The **diagnosis** was bad: too much **complexity**! His **engagement** was tomorrow. He needed to **warm** the system. He hoped the problem would **diminish** soon.
+Будьте осторожны, это стекло очень хрупкое.
 
-У **полковника** была **нежная** проблема. Его **виртуальный** мир не работал! Он попытался **настроить** **глобус**, но это ничего не **запускало**. **Диагноз** был плохим: слишком много **сложности**! Его **договоренность** была завтра. Ему нужно было **нагреть** систему. Он надеялся, что проблема скоро **уменьшится**.
+Too much **radiation** can be dangerous.
 
-## #14<common/>
+Слишком большое количество радиации может быть опасным.
 
-**donor** [дOунэр] *сущ.* даритель; **juror** [джУрэр] *сущ.* член жюри; **recession** [рысЕшэн] *сущ.* спад; **pop** [пАп] *сущ.* хлопок; **particle** [пАртэкэл] *сущ.* частица; **harm** [хАрм] *сущ.* вред; **exhibit** [ыгзЫбыт] *сущ.* экспонат; **mandate** [мЭндЕйт] *сущ.* наказ; **continuing** [кэнтЫнйуын] *прил.* постоянный; **supervisor** [сУпэрвАйзэр] *сущ.* руководитель; **popularity** [пАпйэлЕрэти] *сущ.* популярность<common/>
+This **dose** will help you feel better.
 
-The **recession** was bad. A rich **donor** gave money. It helped. The **supervisor** was happy. He said, "No **harm**!"
+Эта доза поможет вам почувствовать себя лучше.
 
-**Спад** был плохим. Богатый **даритель** дал деньги. Это помогло. **Руководитель** был рад. Он сказал: "Никакого **вреда**!"
+Each **juror** has a number.
 
-The art **exhibit** opened. The **juror** looked closely. A small **particle** fell. **Pop!** It was exciting! The artist had a **mandate**: make art **continuing**. His **popularity** grew.
+У каждого присяжного есть номер.
 
-Открылась художественная **экспозиция**. **Член жюри** смотрел внимательно. Маленькая **частица** упала. **Хлопок!** Это было волнующе! У художника был **наказ**: делать искусство **постоянным**. Его **популярность** росла.
+Her **diagnosis** was a common cold.
 
-## #15<common/>
+Ее диагноз — обычная простуда.
 
-**hallway** [хОлуЕй] *сущ.* прихожая; **drift** [дрЫфт] *гл.* дрейфовать; **meaningful** [мИнынфэл] *прил.* значительный; **rip** [рЫп] *гл.* рвать; **counterpart** [кАунтэрпАрт] *сущ.* коллега; **glance** [глЭнс] *сущ.* взгляд; **rhetoric** [рЕтэрык] *сущ.* риторика; **chronic** [крАнык] *прил.* хронический; **facilitate** [фэсЫлэтЕйт] *гл.* способствовать; **convey** [кэнвЕй] *гл.* передавать<common/>
+The **globe** shows where we live.
 
-A cat is in the **hallway**. It likes to **drift** to sleep. The cat's life is not **meaningful**, but it's okay. A child wants to **rip** the cat's tail. The cat's **counterpart**, a dog, barks. The child gives a quick **glance**. No **rhetoric**, just a stare. The dog has a **chronic** cough. We need to **facilitate** a meeting with the vet. Actions **convey** more than words.
+Глобус показывает, где мы живем.
 
-Кошка в **прихожей**. Ей нравится **дрейфовать** в сон. Жизнь кошки не **значительная**, но это нормально. Ребенок хочет **рвать** кошачий хвост. **Коллега** кошки, собака, лает. Ребенок бросает быстрый **взгляд**. Никакой **риторики**, только пристальный взгляд. У собаки **хронический** кашель. Нам нужно **способствовать** встрече с ветеринаром. Действия **передают** больше, чем слова.
+We can **frame** your picture with wood.
 
-## #16<common/>
+Мы можем оформить Вашу картину в деревянную раму.
 
-**radiation** [рЕйдиЕйшэн] *сущ.* излучение; **recipient** [рэсЫпиэнт] *сущ.* получатель; **uncertainty** [энсЭртэнти] *сущ.* неопределенность; **residence** [рЕзыдэнс] *сущ.* проживание; **intelligent** [ЫнтЕлэджэнт] *прил.* умный; **excuse** [ыкскйУс] *сущ.* оправдание; **peaceful** [пИсфэл] *прил.* спокойный; **nail** [нЕйл] *сущ.* ноготь; **skirt** [скЭрт] *сущ.* юбка; **forehead** [фОрхед] *сущ.* лоб<common/>
+The company faced a **continuing** problem with low sales.
 
-Tom is **intelligent**. He lives in a small **residence**. He has a **peaceful** life. But today, there is **uncertainty**. There is news about **radiation**. Tom is a **recipient** of a letter. The letter is his **excuse** to leave. He looks at his **nail**. He touches his **forehead**. He sees a girl in a blue **skirt**. He says goodbye.
+Компания столкнулась с постоянной проблемой низкого уровня продаж.
 
-Том **умный**. Он живет в небольшом **месте проживания**. У него **спокойная** жизнь. Но сегодня, есть **неопределенность**. Есть новости об **излучении**. Том - **получатель** письма. Письмо - это его **оправдание** уехать. Он смотрит на свой **ноготь**. Он трогает свой **лоб**. Он видит девочку в синей **юбке**. Он говорит до свидания.
+My brother is a **musician**.
 
-## #17<common/>
+Мой брат музыкант.
 
-**fiscal** [фЫскэл] *прил.* фискальный; **cholesterol** [кэлЕстэрОл] *сущ.* холестерин; **addition** [эдЫшэн] *сущ.* дополнение; **suite** [суИт] *сущ.* номер-люкс; **shuttle** [шАтэл] *сущ.* перевозки; **currency** [кЭрэнси] *сущ.* валюта; **blow** [блOу] *сущ.* удар; **hook** [хУк] *сущ.* крюк; **questionnaire** [куЕсчэнЕр] *сущ.* вопросник; **gentle** [джЕнтэл] *прил.* нежный<common/>
+I need a **wider** shelf for my books.
 
-A man, Tom, had a bad day. First, the **fiscal** report was wrong! Big **blow**! Second, doctor said: "Too much **cholesterol**!" Tom needs a new diet. He travels. He takes a **shuttle** to a fancy hotel. He gets a **suite**. "Nice!" he thinks. Then, he sees a long **questionnaire** about his health. Another **blow**! He wants to pay, but his **currency** is not accepted. Big **blow** again! He looks sad. A **gentle** woman gives him a **hook** to hang his coat. Small **addition**, but nice.
+Мне нужна более широкая полка для книг.
 
-У мужчины, Тома, был плохой день. Сначала, **фискальный** (**fiscal**) отчет был неверным! Большой **удар** (**blow**)! Во-вторых, доктор сказал: "Слишком много **холестерина** (**cholesterol**)!". Тому нужна новая диета. Он путешествует. Он берет **перевозки** (**shuttle**) до модного отеля. Он получает **номер-люкс** (**suite**). "Хорошо!" - думает он. Затем он видит длинный **вопросник** (**questionnaire**) о его здоровье. Еще один **удар** (**blow**)! Он хочет заплатить, но его **валюта** (**currency**) не принимается. Опять большой **удар** (**blow**)! Он выглядит грустным. **Нежная** (**gentle**) женщина дает ему **крюк** (**hook**), чтобы повесить его пальто. Маленькое **дополнение** (**addition**), но приятно.
+The **commissioner** works for the government.
 
-## #18<common/>
+Комиссар работает в правительстве.
 
-**needle** [нИдэл] *сущ.* игла; **profound** [прoуфАунд] *прил.* глубокий; **continuous** [кэнтЫнйуэс] *прил.* непрерывный; **notice** [нOутэс] *сущ.* уведомление; **counseling** [кАунсэлын] *сущ.* консультация; **outer** [Аутэр] *прил.* внешний; **advocate** [Эдвэкэт] *гл.* поддерживать; **encounter** [ынкАунтэр] *сущ.* встреча; **ownership** [OунэршЫп] *сущ.* собственность; **humanity** [хйумЭныти] *сущ.* человечество<common/>
+They **await** the doctor's news.
 
-A small town had a big problem. People did not **advocate** for others. There was no **humanity**. One day, a doctor found a **needle** on the street. It was a **profound** moment. He put up a **notice**: “Help each other!”. He offered free **counseling**. He knew it was the **outer** layer of the problem, not its root. This **continuous** kindness changed things. People started to care. One chance **encounter** helped them understand that real wealth is not about **ownership**, but about love.
+Они ждут новостей от врача.
 
-В маленьком городе была большая проблема. Люди не **поддерживали** других. Не было **человечности**. Однажды доктор нашёл **иглу** на улице. Это был **глубокий** момент. Он повесил **уведомление**: "Помогайте друг другу!". Он предложил бесплатные **консультации**. Он знал, что это **внешняя** оболочка проблемы, а не ее корень. Эта **непрерывная** доброта изменила ситуацию. Люди начали заботиться. Одна случайная **встреча** помогла им понять, что настоящее богатство – это не **собственность**, а любовь.
+He found a new **companion** after moving.
 
-## #19<common/>
+После переезда он нашел нового компаньона.
 
-**transaction** [трэнзЭкшэн] *сущ.* сделка; **guidance** [гАйдэнс] *сущ.* руководство; **administer** [эдмЫнэстэр] *гл.* управлять; **herb** [Эрб] *сущ.* трава; **compromise** [кАмпрэмАйз] *сущ.* компромисс; **scout** [скАут] *сущ.* разведчик; **pension** [пЕншэн] *сущ.* пенсия; **average** [Эвэрыдж] *гл.* усреднять; **pad** [пЭд] *сущ.* панель; **frame** [фрЕйм] *гл.* обрамлять<common/>
+He is a **scout** in the army.
 
-Tom is a **scout**. He likes **herbs**. Tom is old. He gets a **pension**. He needs **guidance**. His friend, Ann, helps. Ann can **administer** Tom's money. They make a **transaction** at the bank. They **average** the costs. They find a **compromise**. Ann uses a **pad** to write. She likes to **frame** pictures. Tom is happy.
+Он разведчик в армии.
 
-Том - **разведчик**. Он любит **травы**. Том старый. Он получает **пенсию**. Ему нужно **руководство**. Его друг, Анна, помогает. Анна может **управлять** деньгами Тома. Они совершают **сделку** в банке. Они **усредняют** расходы. Они находят **компромисс**. Анна использует **панель** для письма. Она любит **обрамлять** картины. Том счастлив.
+After the storm, the debris started to **drift** ashore.
 
-## #20<common/>
+После шторма обломки начали дрейфовать к берегу.
 
-**serving** [сЭрвын] *сущ.* служение; **civilian** [сэвЫлйэн] *сущ.* штатский; **driving** [дрАйвын] *прил.* приводной; **hence** [хЕнс] *нар.* отсюда; **pope** [пOуп] *сущ.* папа римский; **envelope** [ЕнвэлOуп] *сущ.* конверт; **intent** [ЫнтЕнт] *сущ.* намерение; **parliament** [пАрлэмэнт] *сущ.* парламент; **domain** [дoумЕйн] *сущ.* область; **hostage** [хАстыдж] *сущ.* заложник<common/>
+The famous actor **endorses** this new drink.
 
-The **civilian** had a simple **intent**: **serving** tea. He found an **envelope** with a letter. **Hence**, he thought, it's not for me! The letter spoke of a **hostage** and the **Pope**. This was not his **domain**. The **parliament** needed to know! A **driving** force told him to act.
+Знаменитый актер рекламирует этот новый напиток.
 
-У **штатского** было простое **намерение**: **служение** чая. Он нашел **конверт** с письмом. **Отсюда**, он подумал, это не для меня! Письмо говорило о **заложнике** и **Папе Римском**. Это была не его **область**. **Парламент** должен был знать! **Приводная** сила сказала ему действовать.
+She is a **modest** girl; she doesn't like to talk about her achievements.
 
-## #21<common/>
+Она скромная девушка, не любит говорить о своих достижениях.
 
-**lobby** [лАби] *сущ.* вестибюль; **injure** [Ынджэр] *гл.* ранить; **departure** [дыпАрчэр] *сущ.* отъезд; **volunteer** [вАлэнтЫр] *гл.* предлагать; **strip** [стрЫп] *гл.* раздеваться; **adolescent** [ЭдэлЕсэнт] *сущ.* подросток; **sidewalk** [сАйдуОк] *сущ.* тротуар; **aim** [Ейм] *сущ.* цель; **adoption** [эдАпшэн] *сущ.* принятие; **companion** [кэмпЭнйэн] *сущ.* компаньон<common/>
+The school offers free **counseling** for students.
 
-A **adolescent** walks on the **sidewalk**. His **aim** is the **lobby** of the hotel. He wants to **volunteer** to help. He sees a dog. The dog is a good **companion**. But a car hits the dog. The car **injure** the dog. The boy wants to help. He helps with the dog's **adoption**. His **departure** is late. He does not need to **strip** off his clothes.
+Школа предлагает бесплатные консультации для студентов.
 
-**Подросток** идет по **тротуару**. Его **цель** - **вестибюль** отеля. Он хочет **предложить** помощь. Он видит собаку. Собака - хороший **компаньон**. Но машина сбивает собаку. Машина **ранит** собаку. Мальчик хочет помочь. Он помогает с **принятием** собаки. Его **отъезд** задерживается. Ему не нужно **раздеваться**.
+The lamp **projects** light into the room.
 
-## #22<common/>
+Лампа освещает комнату.
 
-**consistently** [кэнсЫстэнтли] *нар.* постоянно; **govern** [гАвэрн] *гл.* править; **consult** [кэнсАлт] *гл.* консультировать; **dose** [дOус] *сущ.* доза; **stuff** [стАф] *гл.* набивать; **commonly** [кАмэнли] *нар.* обычно; **unity** [йУнэти] *сущ.* единство; **await** [эуЕйт] *гл.* ждать; **horrible** [хОрэбэл] *прил.* ужасный; **survey** [сэрвЕй] *гл.* обследовать<common/>
+The champagne made a loud **pop** when he opened it.
 
-The King **governs** the land. He **consistently** asks the wise man for help. The wise man tells him, "Small **dose** of kindness **commonly** works." The King must **await** news. He must **survey** the town to find problems. People have **horrible** lives! The King wants **unity**. Someone **stuff** the box with gold. It's not good. He needs ideas, not gold!
+Когда он открыл бутылку шампанского, раздался громкий хлопок.
 
-Король **правит** землей. Он **постоянно** **консультируется** с мудрецом. Мудрец говорит ему: "Маленькая **доза** доброты **обычно** помогает". Король должен **ждать** новостей. Он должен **обследовать** город, чтобы найти проблемы. У людей **ужасная** жизнь! Король хочет **единства**. Кто-то **набивает** коробку золотом. Это не хорошо. Ему нужны идеи, а не золото!
+Did you read the **notice** about the meeting?
 
-## #23<common/>
+Вы читали уведомление о собрании?
 
-**drunk** [дрАнк] *прил.* пьяный; **accommodate** [экАмэдЕйт] *гл.* вмещать; **project** [прАджект] *гл.* проецировать; **debate** [дэбЕйт] *гл.* обсуждать; **fitness** [фЫтнэс] *сущ.* хорошее здоровье; **colony** [кАлэни] *сущ.* колония; **spectrum** [спЕктрэм] *сущ.* спектр; **patient** [пЕйшэнт] *прил.* терпеливый; **acquisition** [ЭкуэзЫшэн] *сущ.* приобретение; **pleasant** [плЕзэнт] *прил.* приятный<common/>
+We want to **fund** the school project.
 
-A **patient** alien from a space **colony** visited Earth. He wanted a **pleasant** place. His ship could **accommodate** many things. He had a **project**: to **project** his favorite movies onto the sky. People saw a strange **spectrum** of colors! Some people were **drunk** and didn't care. Others started to **debate**: "Is this good for our **fitness**?" The alien smiled. This **acquisition** of Earth was going well.
+Мы хотим профинансировать школьный проект.
 
-Один **терпеливый** (**patient**) инопланетянин из космической **колонии** (**colony**) посетил Землю. Он хотел **приятное** (**pleasant**) место. Его корабль мог **вмещать** (**accommodate**) много вещей. У него был **проект** (**project**): **проецировать** (**project**) свои любимые фильмы на небо. Люди увидели странный **спектр** (**spectrum**) цветов! Некоторые люди были **пьяны** (**drunk**) и не обращали внимания. Другие начали **обсуждать** (**debate**): "Это хорошо для нашего **здоровья** (**fitness**)?". Инопланетянин улыбнулся. Это **приобретение** (**acquisition**) Земли шло хорошо.
+She felt a sharp **blow** to her arm.
 
-## #24<common/>
+Она почувствовала резкий удар по руке.
 
-**endorse** [ендОрс] *гл.* одобрять; **bias** [бАйэс] *сущ.* предвзятость; **leap** [лИп] *гл.* скакать; **separation** [сЕпэрЕйшэн] *сущ.* отделение; **structural** [стрАкчэрэл] *прил.* структурный; **wider** [-] *прил.* широкий; **bite** [бАйт] *сущ.* укус; **array** [эрЕй] *сущ.* множество; **guilt** [гЫлт] *сущ.* вина; **readily** [рЕдэли] *нар.* охотно<common/>
+The British had a **colony** in America a long time ago.
 
-A dog. A big **bite**! The dog **leap**s. **Separation** is bad. I feel **guilt**. I **readily** help. There is a **wider** problem. A **structural** problem. The **array** of ideas is big. I don’t **endorse** this solution. It has **bias**.
+Давным-давно у британцев была колония в Америке.
 
-Собака. Большой **укус**! Собака **скачет**. **Отделение** - это плохо. Я чувствую **вину**. Я **охотно** помогаю. Есть **более широкий** проблема. **Структурная** проблема. **Множество** идей большое. Я не **одобряю** это решение. В нем есть **предвзятость**.
+The **admission** fee to the museum is five dollars.
 
-## #25<common/>
+Входная плата в музей составляет пять долларов.
 
-**humanity** [хйумЭныти] *сущ.* человечество; **facilitate** [фэсЫлэтЕйт] *гл.* способствовать; **nail** [нЕйл] *сущ.* ноготь; **juror** [джУрэр] *сущ.* член жюри; **suite** [суИт] *сущ.* номер-люкс; **adolescent** [ЭдэлЕсэнт] *сущ.* подросток; **trigger** [трЫгэр] *гл.* запускать; **sidewalk** [сАйдуОк] *сущ.* тротуар; **leap** [лИп] *гл.* скакать; **cholesterol** [кэлЕстэрОл] *сущ.* холестерин; **lobby** [лАби] *сущ.* вестибюль<common/>
+The dog tried to **rip** the toy apart.
 
-One day, in a big hotel **lobby**, a young **adolescent** saw a cat. The cat was on the **sidewalk**. The boy wanted to **leap** and play with it. But his mom said, "No! Bad for your **cholesterol**!" A **juror** from a nearby court watched. He was staying in a big **suite**. He thought about how to **facilitate** kindness in **humanity**. He saw the boy bite his **nail** and cry. This **triggered** a memory of his own childhood. He smiled.
+Собака попыталась разорвать игрушку.
 
-Однажды, в большом гостиничном **вестибюле**, юный **подросток** увидел кошку. Кошка была на **тротуаре**. Мальчик хотел **скакать** и играть с ней. Но его мама сказала: "Нет! Плохо для твоего **холестерина**!" **Член жюри** из соседнего суда наблюдал. Он жил в большом **номере-люкс**. Он думал о том, как **способствовать** доброте в **человечестве**. Он увидел, как мальчик грызет свой **ноготь** и плачет. Это **запустило** воспоминание о его собственном детстве. Он улыбнулся.
+She has a strong **conviction** that animals should be treated well.
 
-## #26<common/>
+Она твердо убеждена, что с животными следует обращаться хорошо.
 
-**hence** [хЕнс] *нар.* отсюда; **mandate** [мЭндЕйт] *сущ.* наказ; **hook** [хУк] *сущ.* крюк; **needle** [нИдэл] *сущ.* игла; **stuff** [стАф] *гл.* набивать; **driving** [дрАйвын] *прил.* приводной; **pop** [пАп] *сущ.* хлопок; **particle** [пАртэкэл] *сущ.* частица; **serving** [сЭрвын] *сущ.* служение; **counseling** [кАунсэлын] *сущ.* консультация; **aim** [Ейм] *сущ.* цель<common/>
+Learning a language is the **acquisition** of new skills.
 
-Ann has a **mandate** to help people. Her **aim** is **serving** others. She offers **counseling**. She uses a big **hook** to move heavy **stuff**. One day, she saw a small toy. It was broken. A **driving** gear was missing. Then she saw a tiny **particle** near the toy. She tried to **stuff** the **particle** back. But it was too small. She used a **needle**. Suddenly, a loud **pop**! **Hence**, the toy broke more.
+Изучение языка — это приобретение новых навыков.
 
-У Анны есть **наказ** помогать людям. Её **цель** - **служение** другим. Она предлагает **консультации**. Она использует большой **крюк**, чтобы двигать тяжелые **вещи (набивать)**. Однажды она увидела маленькую игрушку. Она была сломана. **Приводной** механизм отсутствовал. Затем она увидела крошечную **частицу** рядом с игрушкой. Она попыталась **набить** **частицу** обратно. Но она была слишком маленькой. Она использовала **иглу**. Вдруг, громкий **хлопок**! **Отсюда**, игрушка сломалась еще больше.
+She **advocates** for the rights of animals.
 
-## #27<common/>
+Она выступает за права животных.
 
-**pension** [пЕншэн] *сущ.* пенсия; **patient** [пЕйшэнт] *прил.* терпеливый; **convey** [кэнвЕй] *гл.* передавать; **diagnosis** [дАйэгнOусэс] *сущ.* диагноз; **frame** [фрЕйм] *гл.* обрамлять; **skirt** [скЭрт] *сущ.* юбка; **project** [прАджект] *гл.* проецировать; **tune** [тУн] *гл.* настраивать; **rip** [рЫп] *гл.* рвать; **outer** [Аутэр] *прил.* внешний<common/>
+We have an **engagement** to meet tomorrow.
 
-Old Mr. Smith got his **pension**. He was a **patient** man. He wanted to **convey** his thanks. The doctor gave him a **diagnosis**: he needed rest. He decided to **frame** a picture. His granddaughter wore a blue **skirt**. He liked to **project** movies. He tried to **tune** his radio. Suddenly, he heard a **rip**. His **outer** coat was torn!
+Завтра у нас назначена встреча.
 
-Старый мистер Смит получил свою **пенсию** (**pension**). Он был **терпеливым** (**patient**) человеком. Он хотел **передать** (**convey**) свою благодарность. Доктор поставил ему **диагноз** (**diagnosis**): ему нужен отдых. Он решил **обрамить** (**frame**) картину. Его внучка носила синюю **юбку** (**skirt**). Он любил **проецировать** (**project**) фильмы. Он пытался **настраивать** (**tune**) свое радио. Вдруг, он услышал **треск** (**rip**). Его **внешнее** (**outer**) пальто было порвано!
+It's important to avoid **bias** when you make a decision.
 
-## #28<common/>
+При принятии решения важно избегать предвзятости.
 
-**harm** [хАрм] *сущ.* вред; **counterpart** [кАунтэрпАрт] *сущ.* коллега; **blow** [блOу] *сущ.* удар; **structural** [стрАкчэрэл] *прил.* структурный; **debate** [дэбЕйт] *гл.* обсуждать; **consistently** [кэнсЫстэнтли] *нар.* постоянно; **transaction** [трэнзЭкшэн] *сущ.* сделка; **horrible** [хОрэбэл] *прил.* ужасный; **fitness** [фЫтнэс] *сущ.* хорошее здоровье; **profound** [прoуфАунд] *прил.* глубокий<common/>
+There is a light in the **hallway**.
 
-Tom and Ann **debate** in the office. Tom says: "This **transaction** is **horrible**! It does **harm** to our company!" Ann, Tom's **counterpart**, answers: "No, Tom! It's good for **fitness**, for our **structural** projects! You are **consistently** wrong!" Tom gets angry. He wants to give her a **blow**! He thinks: "This is a **profound** problem."
+В коридоре горит свет.
 
-Том и Энн **обсуждают** в офисе. Том говорит: "Эта **сделка** **ужасна**! Она наносит **вред** нашей компании!" Энн, **коллега** Тома, отвечает: "Нет, Том! Это хорошо для **хорошего здоровья**, для наших **структурных** проектов! Ты **постоянно** не прав!" Том злится. Он хочет дать ей **удар**! Он думает: "Это **глубокая** проблема."
+The pain will **diminish** after you take the medicine.
 
-## #29<common/>
+Боль уменьшится после приема лекарства.
 
-**consult** [кэнсАлт] *гл.* консультировать; **compromise** [кАмпрэмАйз] *сущ.* компромисс; **delicate** [дЕлэкэт] *прил.* нежный; **currency** [кЭрэнси] *сущ.* валюта; **advocate** [Эдвэкэт] *гл.* поддерживать; **separation** [сЕпэрЕйшэн] *сущ.* отделение; **forehead** [фОрхед] *сущ.* лоб; **injure** [Ынджэр] *гл.* ранить; **bias** [бАйэс] *сущ.* предвзятость; **civilian** [сэвЫлйэн] *сущ.* штатский<common/>
+Good **fitness** helps you feel energetic.
 
-A **civilian** has a problem. He needs to **consult** a lawyer. He wants a **separation** from his wife, but it's **delicate**. He doesn't want to **injure** her. The lawyer says: "We need a **compromise**. I **advocate** for fair treatment. Money is a problem; the **currency** is different now." The man touches his **forehead**. He feels stress. He hopes there is no **bias** in the court.
+Хорошая физическая форма помогает вам чувствовать себя энергичным.
 
-У **штатского** проблема. Ему нужно **консультироваться** с юристом. Он хочет **отделения** от своей жены, но это **нежный** вопрос. Он не хочет **ранить** её. Юрист говорит: "Нам нужен **компромисс**. Я **поддерживаю** справедливое отношение. Деньги - это проблема; **валюта** сейчас другая". Мужчина трогает свой **лоб**. Он чувствует стресс. Он надеется, что в суде нет **предвзятости**.
+She described her **encounter** with the famous actor.
 
-## #30<common/>
+Она описала свою встречу со знаменитым актером.
 
-**guidance** [гАйдэнс] *сущ.* руководство; **uncertainty** [энсЭртэнти] *сущ.* неопределенность; **average** [Эвэрыдж] *гл.* усреднять; **popularity** [пАпйэлЕрэти] *сущ.* популярность; **drunk** [дрАнк] *прил.* пьяный; **glance** [глЭнс] *сущ.* взгляд; **administer** [эдмЫнэстэр] *гл.* управлять; **continuing** [кэнтЫнйуын] *прил.* постоянный; **guilt** [гЫлт] *сущ.* вина; **herb** [Эрб] *сущ.* трава<common/>
+We need a **margin** of time to check everything.
 
-The little cat felt **uncertainty**. It needed **guidance**. The cat saw a man. The man was **drunk**. He didn't **administer** his farm well. He just liked to **average** the day with beer. He gave the cat a quick **glance**. There was no **popularity** for cats here. It was a place of **continuing** work and little food. The cat felt no **guilt** when it stole a bit of **herb** from the garden.
+Нам нужен запас времени, чтобы все проверить.
 
-Маленький кот чувствовал **неопределенность**. Ему нужно было **руководство**. Кот увидел человека. Человек был **пьяный**. Он не мог хорошо **управлять** своей фермой. Он просто любил **усреднять** день пивом. Он бросил на кота быстрый **взгляд**. Здесь не было **популярности** для котов. Это было место **постоянной** работы и малого количества еды. Кот не чувствовал **вины**, когда украл немного **травы** из огорода.
+This machine has a lot of **complexity**.
 
-## #31<common/>
+Эта машина очень сложна.
 
-**await** [эуЕйт] *гл.* ждать; **govern** [гАвэрн] *гл.* править; **notice** [нOутэс] *сущ.* уведомление; **pad** [пЭд] *сущ.* панель; **domain** [дoумЕйн] *сущ.* область; **hostage** [хАстыдж] *сущ.* заложник; **parliament** [пАрлэмэнт] *сущ.* парламент; **acquisition** [ЭкуэзЫшэн] *сущ.* приобретение; **meaningful** [мИнынфэл] *прил.* значительный; **pope** [пOуп] *сущ.* папа римский<common/>
+The government will **fund** new hospitals.
 
-**Await**.
+Правительство будет финансировать новые больницы.
 
-**Ждать**.
+My opinion **differs** from yours.
 
-The **Pope** needs help! Bad people hold a **hostage** in their **domain**. They want to **govern** the land. They sent a **notice** to the **parliament**. The **parliament** will **await** news. The big company made a **meaningful** **acquisition** of land. They use a special **pad** to plan everything.
+Мое мнение отличается от вашего.
 
-**Папе Римскому** нужна помощь! Плохие люди держат **заложника** в своей **области**. Они хотят **править** землей. Они отправили **уведомление** в **парламент**. **Парламент** будет **ждать** новостей. Большая компания совершила **значительное** **приобретение** земли. Они используют специальную **панель**, чтобы планировать всё.
+The museum will **exhibit** old toys next month.
 
-## #32<common/>
+В следующем месяце в музее будет экспонироваться старая игрушка.
 
-**array** [эрЕй] *сущ.* множество; **encounter** [ынкАунтэр] *сущ.* встреча; **diminish** [дымЫныш] *гл.* уменьшать; **companion** [кэмпЭнйэн] *сущ.* компаньон; **complexity** [кэмплЕксэти] *сущ.* сложность; **commonly** [кАмэнли] *нар.* обычно; **endorse** [ендОрс] *гл.* одобрять; **residence** [рЕзыдэнс] *сущ.* проживание; **intelligent** [ЫнтЕлэджэнт] *прил.* умный; **departure** [дыпАрчэр] *сущ.* отъезд<common/>
+The **uncertainty** makes me feel nervous.
 
-**Array** of stars. A dog, **intelligent**, is my **companion**. I **commonly** walk with him. One day, an **encounter**! A small bird. The dog wants to play. I do not **endorse** this. The bird's power **diminish**. We bring it to my **residence**. No **complexity**. After some days, its time for **departure**.
+Неопределенность заставляет меня нервничать.
 
-**Множество** звезд. Собака, **умный**, мой **компаньон**. Я **обычно** гуляю с ним. Однажды, **встреча**! Маленькая птичка. Собака хочет играть. Я не **одобряю** это. Силы птицы **уменьшаются**. Мы приносим ее в мое **проживание**. Нет **сложности**. После нескольких дней, время для **отъезда**.
+The number of students in the class will **diminish** if more people drop out.
 
-## #33<common/>
+Число учеников в классе уменьшится, если больше людей бросят учебу.
 
-**recipient** [рэсЫпиэнт] *сущ.* получатель; **ownership** [OунэршЫп] *сущ.* собственность; **questionnaire** [куЕсчэнЕр] *сущ.* вопросник; **colonel** [кЭрнэл] *сущ.* полковник; **intent** [ЫнтЕнт] *сущ.* намерение; **hallway** [хОлуЕй] *сущ.* прихожая; **pleasant** [плЕзэнт] *прил.* приятный; **bite** [бАйт] *сущ.* укус; **fiscal** [фЫскэл] *прил.* фискальный; **donor** [дOунэр] *сущ.* даритель<common/>
+We need to ask the **supervisor** about the problem.
 
-The **recipient** got a letter. It was from a **donor**. The letter talked about **fiscal** year reports. Also, it had a **questionnaire**. The **intent** of the **questionnaire** was about **ownership** of a small dog.
+Нам нужно обратиться к руководителю с вопросом о проблеме.
 
-**Получатель** получил письмо. Оно было от **дарителя**. Письмо было о **фискальных** отчетах за год. Также, в нем был **вопросник**. **Намерение** **вопросника** было о **собственности** на маленькую собаку.
+The organization has a **mandate** to protect the environment.
 
-A **colonel** lived in a big house. He found a strange **bite** on his arm. He went to the **hallway**. The **colonel** thought, "Not **pleasant**!"
+Организация имеет мандат на защиту окружающей среды.
 
-**Полковник** жил в большом доме. Он обнаружил странный **укус** на своей руке. Он пошел в **прихожую**. **Полковник** подумал: "Не **приятно**!"
+Math is my **major** at university.
 
-## #34<common/>
+Математика — моя специализация в университете.
 
-**accommodate** [экАмэдЕйт] *гл.* вмещать; **survey** [сэрвЕй] *гл.* обследовать; **readily** [рЕдэли] *нар.* охотно; **wider** [-] *прил.* широкий; **adoption** [эдАпшэн] *сущ.* принятие; **radiation** [рЕйдиЕйшэн] *сущ.* излучение; **supervisor** [сУпэрвАйзэр] *сущ.* руководитель; **warm** [уОрм] *гл.* нагревать; **strip** [стрЫп] *гл.* раздеваться; **dose** [дOус] *сущ.* доза<common/>
+This is the **formation** of a new team.
 
-The sun is **warm**. I **strip** my coat. My **supervisor** likes **adoption** of new ideas. He wants to **survey** the park. The bus can **accommodate** many people. He **readily** agrees. The park has **wider** paths now. We need to check **radiation**. A small **dose** is ok.
+Это формирование новой команды.
 
-Солнце **нагревает**. Я **раздеваюсь** от пальто. Мой **руководитель** любит **принятие** новых идей. Он хочет **обследовать** парк. Автобус может **вмещать** много людей. Он **охотно** соглашается. В парке теперь **более широкие** дорожки. Нам нужно проверить **излучение**. Маленькая **доза** это нормально.
+Laws **govern** how people behave.
 
-## #35<common/>
+Законы регулируют поведение людей.
 
-**virtual** [вЭрчуэл] *прил.* действительный; **shuttle** [шАтэл] *сущ.* перевозки; **volunteer** [вАлэнтЫр] *гл.* предлагать; **peaceful** [пИсфэл] *прил.* спокойный; **addition** [эдЫшэн] *сущ.* дополнение; **envelope** [ЕнвэлOуп] *сущ.* конверт; **recession** [рысЕшэн] *сущ.* спад; **colony** [кАлэни] *сущ.* колония; **gentle** [джЕнтэл] *прил.* нежный; **exhibit** [ыгзЫбыт] *сущ.* экспонат<common/>
+The **legislature** makes the laws for our country.
 
-The **virtual** world is new. People **volunteer** for **shuttle** services there. The **colony** is **peaceful**. It is a **gentle** place. This year, the **recession** is over. A new **addition** to the museum! Look at the **exhibit**! It is in a big **envelope**!
+Законодательный орган принимает законы для нашей страны.
 
-**Виртуальный** мир - новый. Люди **предлагают** свои услуги для **перевозок** туда. **Колония** **спокойная**. Это **нежное** место. В этом году **спад** закончился. Новое **дополнение** к музею! Посмотри на **экспонат**! Он в большом **конверте**!
+We made a **compromise**: I clean, and you cook.
 
-## #36<common/>
+Мы пришли к компромиссу: я убираюсь, а ты готовишь.
 
-**engagement** [енгЕйджмэнт] *сущ.* договоренность; **continuous** [кэнтЫнйуэс] *прил.* непрерывный; **unity** [йУнэти] *сущ.* единство; **globe** [глOуб] *сущ.* глобус; **scout** [скАут] *сущ.* разведчик; **drift** [дрЫфт] *гл.* дрейфовать; **spectrum** [спЕктрэм] *сущ.* спектр; **excuse** [ыкскйУс] *сущ.* оправдание; **chronic** [крАнык] *прил.* хронический; **rhetoric** [рЕтэрык] *сущ.* риторика<common/>
+Good **ethics** are important in business.
 
-The **scout** has a **chronic** problem. He always looks at the **globe** and lets his mind **drift**. His **excuse** is always the same: "I'm thinking about **unity**." He thinks about the wide **spectrum** of people. His leader doesn't like this. He says, "This is not time for **rhetoric**! We need action, not **continuous** dreaming! Our **engagement** is important!"
+Хорошая этика важна в бизнесе.
 
-У **разведчика** **хроническая** проблема. Он всегда смотрит на **глобус** и позволяет своему разуму **дрейфовать**. Его **оправдание** всегда одно и то же: "Я думаю о **единстве**." Он думает о широком **спектре** людей. Его лидеру это не нравится. Он говорит: "Сейчас не время для **риторики**! Нам нужны действия, а не **непрерывные** мечты! Наша **договоренность** важна!"
+My parents **endorse** my decision to study art.
 
-## #37<common/>
+Мои родители одобряют мое решение изучать искусство.
 
-**compromise** [кАмпрэмАйз] *сущ.* компромисс; **rip** [рЫп] *гл.* рвать; **volunteer** [вАлэнтЫр] *гл.* предлагать; **parliament** [пАрлэмэнт] *сущ.* парламент; **juror** [джУрэр] *сущ.* член жюри; **pension** [пЕншэн] *сущ.* пенсия; **civilian** [сэвЫлйэн] *сущ.* штатский; **drunk** [дрАнк] *прил.* пьяный; **hallway** [хОлуЕй] *сущ.* прихожая; **uncertainty** [энсЭртэнти] *сущ.* неопределенность; **continuous** [кэнтЫнйуэс] *прил.* непрерывный<common/>
+The flowers **frame** the door nicely.
 
-The **drunk** man walked into the **hallway**. He felt **uncertainty**. He wanted his **pension**. A **civilian** saw him **rip** a poster. It was about the **parliament**. No one wanted a **compromise**. A **juror** was there. He didn't **volunteer** to help. The rain was **continuous**.
+Цветы красиво обрамляют дверь.
 
-**Пьяный** мужчина вошел в **прихожую**. Он чувствовал **неопределенность**. Он хотел свою **пенсию**. **Штатский** увидел, как он **рвет** плакат. Это было о **парламенте**. Никто не хотел **компромисс**. Там был **член жюри**. Он не **предлагал** помощь. Дождь был **непрерывный**.
+The book had a **profound** effect on me.
 
-## #38<common/>
+Книга произвела на меня глубокое впечатление.
 
-**encounter** [ынкАунтэр] *сущ.* встреча; **acquisition** [ЭкуэзЫшэн] *сущ.* приобретение; **exhibit** [ыгзЫбыт] *сущ.* экспонат; **humanity** [хйумЭныти] *сущ.* человечество; **debate** [дэбЕйт] *гл.* обсуждать; **addition** [эдЫшэн] *сущ.* дополнение; **diminish** [дымЫныш] *гл.* уменьшать; **counseling** [кАунсэлын] *сущ.* консультация; **profound** [прoуфАунд] *прил.* глубокий; **stuff** [стАф] *гл.* набивать; **patient** [пЕйшэнт] *прил.* терпеливый<common/>
+The **principal** reason I study English is to travel.
 
-A little alien came to Earth. His **encounter** with a dog was funny. He liked it! His **acquisition** of a new toy made him happy. He saw an **exhibit** about **humanity**. It made him **debate** good and bad. An **addition** of love can make fear **diminish**. He needed **counseling**. The wise owl gave **profound** advice. "Don't **stuff** your heart with sadness. Be **patient**."
+Основная причина, по которой я изучаю английский язык, — это путешествия.
 
-Маленький инопланетянин прилетел на Землю. Его **встреча** с собакой была забавной. Ему понравилось! Его **приобретение** новой игрушки сделало его счастливым. Он увидел **экспонат** о **человечестве**. Это заставило его **обсуждать** хорошее и плохое. **Дополнение** любви может **уменьшать** страх. Ему была нужна **консультация**. Мудрая сова дала **глубокий** совет. "Не **набивай** свое сердце грустью. Будь **терпеливым**."
+The space **shuttle** is a very fast vehicle.
 
-## #39<common/>
+Космический челнок — очень быстрое транспортное средство.
 
-**hostage** [хАстыдж] *сущ.* заложник; **hook** [хУк] *сущ.* крюк; **endorse** [ендОрс] *гл.* одобрять; **unity** [йУнэти] *сущ.* единство; **diagnosis** [дАйэгнOусэс] *сущ.* диагноз; **await** [эуЕйт] *гл.* ждать; **pop** [пАп] *сущ.* хлопок; **accommodate** [экАмэдЕйт] *гл.* вмещать; **companion** [кэмпЭнйэн] *сущ.* компаньон; **fiscal** [фЫскэл] *прил.* фискальный<common/>
+My grandma is **elderly**, but she is still very active.
 
-A small town had a big problem. A bad man took a **hostage**. He used a **hook** to hold the door. Nobody could **endorse** his actions. The town needed **unity**. The doctor's **diagnosis** was that the man was very ill. Everyone had to **await** the police. Suddenly, a **pop** was heard! The police came. The jail could **accommodate** the man. The **companion** of the **hostage** was very happy. This was a **fiscal** relief for the town.
+Моя бабушка уже пожилая, но она все еще очень активна.
 
-В маленьком городке была большая проблема. Плохой человек взял **заложника** (hostage). Он использовал **крюк** (hook), чтобы удержать дверь. Никто не мог **одобрять** (endorse) его действия. Городу было нужно **единство** (unity). **Диагноз** (diagnosis) доктора был в том, что человек очень болен. Все должны были **ждать** (await) полицию. Вдруг, был слышен **хлопок** (pop)! Пришла полиция. Тюрьма могла **вместить** (accommodate) этого человека. **Компаньон** (companion) **заложника** (hostage) был очень счастлив. Это было **фискальное** (fiscal) облегчение для города.
+He has a lot of money, but he lives a **modest** life.
 
-## #40<common/>
+У него много денег, но он живет скромно.
 
-**blow** [блOу] *сущ.* удар; **warm** [уОрм] *гл.* нагревать; **colonel** [кЭрнэл] *сущ.* полковник; **aim** [Ейм] *сущ.* цель; **recession** [рысЕшэн] *сущ.* спад; **skirt** [скЭрт] *сущ.* юбка; **donor** [дOунэр] *сущ.* даритель; **globe** [глOуб] *сущ.* глобус; **complexity** [кэмплЕксэти] *сущ.* сложность; **glance** [глЭнс] *сущ.* взгляд<common/>
+The first game was exciting. The **subsequent** games were boring.
 
-The **colonel** had a **blow**. The **recession** was bad. He needed a new **aim**. A rich **donor** came. He saw the colonel's old **skirt**. He gave money to **warm** the room. The colonel gave a quick **glance** at the **globe**. He understood the **complexity**. The **globe** was his new aim, not only money.
+Первая игра была захватывающей. Последующие игры были скучными.
 
-У **полковника** был **удар**. **Спад** был плохим. Ему нужна была новая **цель**. Пришел богатый **даритель**. Он увидел старую **юбку** полковника. Он дал деньги, чтобы **нагреть** комнату. Полковник бросил быстрый **взгляд** на **глобус**. Он понял **сложность**. **Глобус** был его новой целью, не только деньги.
+My friend needs **counsel** to help with his problem.
 
-## #41<common/>
+Моему другу нужен совет, чтобы решить его проблему.
 
-**meaningful** [мИнынфэл] *прил.* значительный; **adolescent** [ЭдэлЕсэнт] *сущ.* подросток; **bite** [бАйт] *сущ.* укус; **advocate** [Эдвэкэт] *гл.* поддерживать; **needle** [нИдэл] *сущ.* игла; **consult** [кэнсАлт] *гл.* консультировать; **scout** [скАут] *сущ.* разведчик; **suite** [суИт] *сущ.* номер-люкс; **bias** [бАйэс] *сущ.* предвзятость; **dose** [дOус] *сущ.* доза<common/>
+Please **submit** your homework on Friday.
 
-A young **adolescent** is sad. A dog gives him a little **bite**! It is a small **bite**. The **adolescent** wants to be a **scout**. He wants to **advocate** for animals. He needs to **consult** a doctor. The doctor uses a **needle** for a small **dose** of medicine. The hotel has a nice **suite**. But there is **bias** against the **adolescent**. This is not **meaningful**.
+Пожалуйста, отправьте домашнее задание в пятницу.
 
-Молодой **подросток** грустит. Собака делает ему маленький **укус**! Это маленький **укус**. **Подросток** хочет быть **разведчиком**. Он хочет **поддерживать** животных. Ему нужно **консультироваться** с врачом. Врач использует **иглу** для маленькой **дозы** лекарства. В отеле есть хороший **номер-люкс**. Но есть **предубеждение** против **подростка**. Это не **значимо**.
+We need **unity** in our community.
 
-## #42<common/>
+Нам необходимо единство в нашем сообществе.
 
-**hence** [хЕнс] *нар.* отсюда; **supervisor** [сУпэрвАйзэр] *сущ.* руководитель; **intelligent** [ЫнтЕлэджэнт] *прил.* умный; **pleasant** [плЕзэнт] *прил.* приятный; **leap** [лИп] *гл.* скакать; **govern** [гАвэрн] *гл.* править; **pope** [пOуп] *сущ.* папа римский; **chronic** [крАнык] *прил.* хронический; **counterpart** [кАунтэрпАрт] *сущ.* коллега; **delicate** [дЕлэкэт] *прил.* нежный<common/>
+We need to check the **driving** belt on the car.
 
-Tom is **intelligent**. He has a **pleasant** job. His **supervisor** is nice. Tom's job is not **chronic**; it is new! He does not **govern** the world. He cannot **leap** over buildings. He is not the **Pope**. He has a **counterpart** in Italy. Her job is **delicate**. **Hence**, Tom is happy.
+Нам нужно проверить приводной ремень автомобиля.
 
-Том **умный**. У него **приятная** работа. Его **руководитель** хороший. Работа Тома не **хроническая**; она новая! Он не **правит** миром. Он не может **скакать** через здания. Он не **Папа Римский**. У него есть **коллега** в Италии. Ее работа **нежная**. **Отсюда** Том счастлив.
+Plants **absorb** water from the soil.
 
-## #43<common/>
+Растения поглощают воду из почвы.
 
-**convey** [кэнвЕй] *гл.* передавать; **gentle** [джЕнтэл] *прил.* нежный; **engagement** [енгЕйджмэнт] *сущ.* договоренность; **popularity** [пАпйэлЕрэти] *сущ.* популярность; **survey** [сэрвЕй] *гл.* обследовать; **lobby** [лАби] *сущ.* вестибюль; **rhetoric** [рЕтэрык] *сущ.* риторика; **driving** [дрАйвын] *прил.* приводной; **project** [прАджект] *гл.* проецировать; **nail** [нЕйл] *сущ.* ноготь<common/>
+They are talking about the **adoption** of a new puppy.
 
-The **gentle** dog likes to stay in the **lobby**. He is very **popular**. We have an **engagement** to **survey** the park today. The owner wants to **convey** that the dog's **nail** is broken. It is a **driving** force behind a new **project**. The owner does not use much **rhetoric**, he just shows the hurt paw. We need to **project** kindness.
+Они говорят о том, чтобы взять нового щенка.
 
-**Нежный** пес любит находиться в **вестибюле**. Он очень **популярен**. У нас есть **договоренность** сегодня **обследовать** парк. Хозяин хочет **передать**, что у собаки сломан **ноготь**. Это **приводная** сила для нового **проекта**. Хозяин не использует много **риторики**, он просто показывает больную лапу. Нам нужно **проецировать** доброту.
+The **musician** plays the guitar.
 
-## #44<common/>
+Музыкант играет на гитаре.
 
-**envelope** [ЕнвэлOуп] *сущ.* конверт; **transaction** [трэнзЭкшэн] *сущ.* сделка; **tune** [тУн] *гл.* настраивать; **residence** [рЕзыдэнс] *сущ.* проживание; **currency** [кЭрэнси] *сущ.* валюта; **commonly** [кАмэнли] *нар.* обычно; **serving** [сЭрвын] *сущ.* служение; **readily** [рЕдэли] *нар.* охотно; **ownership** [OунэршЫп] *сущ.* собственность; **shuttle** [шАтэл] *сущ.* перевозки<common/>
+This jacket is **adequate** for the mild weather.
 
-Tom has a small **envelope**. He wants to **tune** his radio. He needs money. The **currency** is Euros. He lives at a small **residence**. He works for a **shuttle** service. This is his **ownership**, a small van. He does this **commonly**. His job is **serving** people. Every **transaction** is important. He does it **readily**. It is good.
+Эта куртка подойдет для мягкой погоды.
 
-У Тома есть маленький **конверт**. Он хочет **настроить** свое радио. Ему нужны деньги. **Валюта** - евро. Он живет в небольшом **месте проживания**. Он работает в службе **перевозок**. Это его **собственность**, маленький фургон. Он делает это **обычно**. Его работа - **служение** людям. Каждая **сделка** важна. Он делает это **охотно**. Это хорошо.
+This button will **trigger** the alarm.
 
-## #45<common/>
+Эта кнопка активирует сигнализацию.
 
-**sidewalk** [сАйдуОк] *сущ.* тротуар; **structural** [стрАкчэрэл] *прил.* структурный; **array** [эрЕй] *сущ.* множество; **virtual** [вЭрчуэл] *прил.* действительный; **mandate** [мЭндЕйт] *сущ.* наказ; **strip** [стрЫп] *гл.* раздеваться; **notice** [нOутэс] *сущ.* уведомление; **guilt** [гЫлт] *сущ.* вина; **adoption** [эдАпшэн] *сущ.* принятие; **spectrum** [спЕктрэм] *сущ.* спектр<common/>
+Their **engagement** is for a party.
 
-The man walks on the **sidewalk**. It has **structural** problems. He sees an **array** of colors. It is like a **virtual** rainbow. His **mandate** is simple: He must **strip** the old paint. He reads a **notice**: "Work in progress". He feels no **guilt**. He supports the **adoption** of new methods. He likes the full **spectrum** of light.
+Их помолвка — ради вечеринки.
 
-Человек идет по **тротуару** (sidewalk). У него **структурные** (structural) проблемы. Он видит **множество** (array) цветов. Это как **действительная** (virtual) радуга. Его **наказ** (mandate) прост: Он должен **раздеваться** (strip) от старой краски (удалить старую краску). Он читает **уведомление** (notice): "Работа в процессе". Он не чувствует **вины** (guilt). Он поддерживает **принятие** (adoption) новых методов. Ему нравится полный **спектр** (spectrum) света.
+My **associate** helps me with my work.
 
-## #46<common/>
+Мой коллега помогает мне в работе.
 
-**cholesterol** [кэлЕстэрОл] *сущ.* холестерин; **separation** [сЕпэрЕйшэн] *сущ.* отделение; **drift** [дрЫфт] *гл.* дрейфовать; **injure** [Ынджэр] *гл.* ранить; **wider** [-] *прил.* широкий; **questionnaire** [куЕсчэнЕр] *сущ.* вопросник; **forehead** [фОрхед] *сущ.* лоб; **departure** [дыпАрчэр] *сущ.* отъезд; **recipient** [рэсЫпиэнт] *сущ.* получатель; **herb** [Эрб] *сущ.* трава<common/>
+There was a **continuous** noise from the construction site.
 
-Tom is sad. His friend, Ben, has a **departure**. Ben will go far. Tom has a **questionnaire** about Ben. "Ben likes **herb**s?" it asks. Tom thinks about Ben. Ben eats healthy food. He knows about **cholesterol**. Tom hopes Ben will not **injure** himself. The sea is **wider** now. A boat can **drift**. Tom touches his **forehead**. He feels the sun. Ben is the **recipient** of Tom's letter. Tom feels the **separation**.
+Со стороны строительной площадки доносился постоянный шум.
 
-Том грустит. У его друга, Бена, **отъезд** (departure). Бен уедет далеко. У Тома есть **вопросник** (questionnaire) о Бене. "Бен любит **траву** (herb)?" - спрашивается в нём. Том думает о Бене. Бен ест здоровую пищу. Он знает о **холестерине** (cholesterol). Том надеется, что Бен не **поранит** (injure) себя. Море сейчас **шире** (wider). Лодка может **дрейфовать** (drift). Том трогает свой **лоб** (forehead). Он чувствует солнце. Бен - **получатель** (recipient) письма Тома. Том чувствует **отделение** (separation).
+There is a tree next to the **sidewalk**.
 
-## #47<common/>
+Рядом с тротуаром растет дерево.
 
-**horrible** [хОрэбэл] *прил.* ужасный; **trigger** [трЫгэр] *гл.* запускать; **consistently** [кэнсЫстэнтли] *нар.* постоянно; **colony** [кАлэни] *сущ.* колония; **particle** [пАртэкэл] *сущ.* частица; **intent** [ЫнтЕнт] *сущ.* намерение; **excuse** [ыкскйУс] *сущ.* оправдание; **average** [Эвэрыдж] *гл.* усреднять; **domain** [дoумЕйн] *сущ.* область; **pad** [пЭд] *сущ.* панель<common/>
+You need a ticket for **admission** to the concert.
 
-The day was **horrible**. A tiny **particle** of dust fell on the **pad**. This **trigger**ed a big problem. The robots in the ant **colony** stopped working **consistently**. Their **intent** was good, but the **average** speed went to zero. The human scientist had no **excuse**. This was his **domain**, and he needed to fix it. He touched the **pad** again, hoping to stop the problem. He had no bad **intent**.
+Для входа на концерт вам понадобится билет.
 
-День был **ужасным**. Крошечная **частица** пыли упала на **панель**. Это **запустило** большую проблему. Роботы в муравьиной **колонии** перестали работать **постоянно**. Их **намерение** было хорошим, но **усредненная** скорость упала до нуля. У ученого-человека не было **оправдания**. Это была его **область**, и ему нужно было это исправить. Он снова коснулся **панели**, надеясь остановить проблему. У него не было плохого **намерения**.
+The company will **survey** customers about the new product.
 
-## #48<common/>
+Компания проведет опрос клиентов о новом продукте.
 
-**continuing** [кэнтЫнйуын] *прил.* постоянный; **facilitate** [фэсЫлэтЕйт] *гл.* способствовать; **outer** [Аутэр] *прил.* внешний; **guidance** [гАйдэнс] *сущ.* руководство; **frame** [фрЕйм] *гл.* обрамлять; **peaceful** [пИсфэл] *прил.* спокойный; **fitness** [фЫтнэс] *сущ.* хорошее здоровье; **radiation** [рЕйдиЕйшэн] *сущ.* излучение; **harm** [хАрм] *сущ.* вред; **administer** [эдмЫнэстэр] *гл.* управлять<common/>
+**Prevention** is better than cure.
 
-The sun is big. It has **outer** light. This light is **radiation**. Too much sun can **harm** you. We need **guidance** to stay safe. A **peaceful** day outside is good. It can **facilitate** good **fitness**. Good food and sun **frame** a healthy life. The doctor will **administer** advice. He gives **continuing** support for health.
+Профилактика лучше лечения.
 
-Солнце большое. У него **внешний** свет. Этот свет - **излучение**. Слишком много солнца может причинить **вред** тебе. Нам нужно **руководство**, чтобы оставаться в безопасности. **Спокойный** день на улице хороший. Это может **способствовать** хорошему **здоровью**. Хорошая еда и солнце **обрамляют** здоровую жизнь. Доктор будет **управлять** советами. Он дает **постоянную** поддержку для здоровья.
+Schools **educate** children about many subjects.
 
-## #49<common/>
+Школы обучают детей многим предметам.
 
-**parliament** [пАрлэмэнт] *сущ.* парламент; **continuing** [кэнтЫнйуын] *прил.* постоянный; **civilian** [сэвЫлйэн] *сущ.* штатский; **exhibit** [ыгзЫбыт] *сущ.* экспонат; **spectrum** [спЕктрэм] *сущ.* спектр; **pope** [пOуп] *сущ.* папа римский; **colony** [кАлэни] *сущ.* колония; **driving** [дрАйвын] *прил.* приводной; **notice** [нOутэс] *сущ.* уведомление; **envelope** [ЕнвэлOуп] *сущ.* конверт; **aim** [Ейм] *сущ.* цель<common/>
+He is trying to **tune** his old car.
 
-In the old **colony**, there was a **driving** school. A **civilian** saw a **notice** about a new **exhibit** in the **parliament**. The **aim** was to show the full **spectrum** of art. He got an **envelope** with an invitation from the **pope**. He understood the invitation was a **continuing** tradition of peace.
+Он пытается тюнинговать свою старую машину.
 
-В старой **колонии**, была **приводная** школа. **Штатский** увидел **уведомление** о новой **экспонате** в **парламенте**. **Целью** было показать полный **спектр** искусства. Он получил **конверт** с приглашением от **папы римского**. Он понял, что приглашение – это **постоянная** традиция мира.
+The company wants to **recruit** new workers.
 
-## #50<common/>
+Компания хочет набрать новых работников.
 
-**debate** [дэбЕйт] *гл.* обсуждать; **pleasant** [плЕзэнт] *прил.* приятный; **project** [прАджект] *гл.* проецировать; **commonly** [кАмэнли] *нар.* обычно; **fitness** [фЫтнэс] *сущ.* хорошее здоровье; **herb** [Эрб] *сущ.* трава; **compromise** [кАмпрэмАйз] *сущ.* компромисс; **warm** [уОрм] *гл.* нагревать; **guilt** [гЫлт] *сущ.* вина; **administer** [эдмЫнэстэр] *гл.* управлять; **endorse** [ендОрс] *гл.* одобрять<common/>
+I can **rate** this movie after I watch it.
 
-The class **debate** about a school **project**. It is **pleasant** to work together. **Commonly**, they **warm** milk for tea. They need **fitness** because they walk a lot. They find a special **herb** for the tea. They try to find a **compromise** about the herb. The teacher must **administer** the class. She doesn't **endorse** fighting. She feels **guilt** when students are sad. She wants to **project** happiness.
+Я смогу оценить этот фильм после того, как посмотрю его.
 
-Класс **обсуждает** школьный **проект**. Приятно работать вместе. **Обычно**, они **нагревают** молоко для чая. Им нужно **хорошее здоровье**, потому что они много ходят. Они находят особую **траву** для чая. Они пытаются найти **компромисс** насчет травы. Учитель должен **управлять** классом. Она не **одобряет** драки. Она чувствует **вину**, когда ученики грустят. Она хочет **проецировать** счастье.
+Please don't **overlook** the small details.
 
-## #51<common/>
+Пожалуйста, не упускайте из виду мелкие детали.
 
-**fiscal** [фЫскэл] *прил.* фискальный; **lobby** [лАби] *сущ.* вестибюль; **stuff** [стАф] *гл.* набивать; **departure** [дыпАрчэр] *сущ.* отъезд; **encounter** [ынкАунтэр] *сущ.* встреча; **nail** [нЕйл] *сущ.* ноготь; **currency** [кЭрэнси] *сущ.* валюта; **companion** [кэмпЭнйэн] *сущ.* компаньон; **consistently** [кэнсЫстэнтли] *нар.* постоянно; **serving** [сЭрвын] *сущ.* служение<common/>
+They **administer** the school's website.
 
-Tom has a small problem. He is at the airport. His **departure** is soon. He is in the **lobby**. He needs **currency** for his trip. He wants to buy **stuff** for his **companion**. He had a strange **encounter** with a man. The man talked about a **fiscal** year. Tom looked at his **nail** and smiled. He thought, "This is not my **serving**." He hopes the plane leaves **consistently** on time. He is not going to **stuff** his bag with more things.
+Они администрируют веб-сайт школы.
 
-У Тома небольшая проблема. Он в аэропорту. Его **отъезд** скоро. Он в **вестибюле**. Ему нужна **валюта** для поездки. Он хочет купить **вещи** для своего **компаньона**. У него была странная **встреча** с мужчиной. Мужчина говорил про **фискальный** год. Том посмотрел на свой **ноготь** и улыбнулся. Он подумал: "Это не моё **служение**". Он надеется, что самолет улетит **постоянно** вовремя. Он не собирается **набивать** свою сумку большим количеством вещей.
+His **conviction** about the importance of education is clear.
 
-## #52<common/>
+Его убежденность в важности образования очевидна.
 
-**ownership** [OунэршЫп] *сущ.* собственность; **intelligent** [ЫнтЕлэджэнт] *прил.* умный; **frame** [фрЕйм] *гл.* обрамлять; **advocate** [Эдвэкэт] *гл.* поддерживать; **virtual** [вЭрчуэл] *прил.* действительный; **transaction** [трэнзЭкшэн] *сущ.* сделка; **intent** [ЫнтЕнт] *сущ.* намерение; **convey** [кэнвЕй] *гл.* передавать; **pad** [пЭд] *сущ.* панель; **delicate** [дЕлэкэт] *прил.* нежный<common/>
+She is saving money for her **pension**.
 
-The **ownership** of the cat was clear. The cat, named Pixel, was very **intelligent**. She liked to **frame** her face with her paws. Pixel would **advocate** for more treats! Her owner used a **virtual** cat toy. They had a simple **transaction**: toy for purrs. The **intent** was to play. Pixel could **convey** her love. She sat on a warm **pad**. Her owner's hands were **delicate**. Pixel was happy.
+Она копит деньги на пенсию.
 
-**Собственность** на кошку была очевидна. Кошка, по имени Пиксель, была очень **умная**. Она любила **обрамлять** свою мордочку лапками. Пиксель всегда **поддерживала** идею получить больше лакомств! Ее владелец использовал **виртуальную** игрушку для кошки. У них была простая **сделка**: игрушка в обмен на мурлыканье. **Намерение** состояло в том, чтобы поиграть. Пиксель могла **передавать** свою любовь. Она сидела на теплой **панели**. Руки ее владельца были **нежные**. Пиксель была счастлива.
+She has a strong **preference** for Italian food.
 
-## #53<common/>
+Она отдает предпочтение итальянской кухне.
 
-**scout** [скАут] *сущ.* разведчик; **consult** [кэнсАлт] *гл.* консультировать; **structural** [стрАкчэрэл] *прил.* структурный; **bias** [бАйэс] *сущ.* предвзятость; **gentle** [джЕнтэл] *прил.* нежный; **volunteer** [вАлэнтЫр] *гл.* предлагать; **pension** [пЕншэн] *сущ.* пенсия; **tune** [тУн] *гл.* настраивать; **humanity** [хйумЭныти] *сущ.* человечество; **adolescent** [ЭдэлЕсэнт] *сущ.* подросток<common/>
+She has good **intent** when she helps people.
 
-A **scout** is a good job. He can **consult** a map. The map shows **structural** details. He must not have **bias**. He is **gentle** with animals. He will **volunteer** to help. He wants a good **pension** after work. He can **tune** his radio. He believes in **humanity**. Even an **adolescent** can learn to be a scout.
+Она помогает людям с добрыми намерениями.
 
-**Разведчик** - это хорошая работа. Он может **консультироваться** с картой. Карта показывает **структурные** детали. Он не должен иметь **предвзятости**. Он **нежный** с животными. Он будет **предлагать** помощь. Он хочет хорошую **пенсию** после работы. Он может **настраивать** свое радио. Он верит в **человечество**. Даже **подросток** может научиться быть разведчиком.
+The **commissioner** visited our town yesterday.
 
-## #54<common/>
+Вчера наш город посетил комиссар.
 
-**leap** [лИп] *гл.* скакать; **peaceful** [пИсфэл] *прил.* спокойный; **needle** [нИдэл] *сущ.* игла; **counterpart** [кАунтэрпАрт] *сущ.* коллега; **colonel** [кЭрнэл] *сущ.* полковник; **survey** [сэрвЕй] *гл.* обследовать; **chronic** [крАнык] *прил.* хронический; **glance** [глЭнс] *сущ.* взгляд; **continuous** [кэнтЫнйуэс] *прил.* непрерывный; **injure** [Ынджэр] *гл.* ранить<common/>
+I **assert** that the sky is blue.
 
-The **colonel** wants to **survey** the forest. It is very **peaceful**. He sees a rabbit. The rabbit can **leap**! But, oh no! The rabbit has a **needle** in its leg! It is a **chronic** problem. The colonel feels bad. He gives the rabbit a quick **glance**. His **counterpart**, another soldier, helps him. The soldier does not want the rabbit to **injure** itself more. The **continuous** pain is bad.
+Я утверждаю, что небо голубое.
 
-**Полковник** хочет **обследовать** лес. Он очень **спокойный**. Он видит кролика. Кролик может **скакать**! Но, о нет! У кролика **игла** в ноге! Это **хроническая** проблема. Полковнику грустно. Он бросает на кролика быстрый **взгляд**. Его **коллега**, другой солдат, помогает ему. Солдат не хочет, чтобы кролик больше **ранил** себя. **Непрерывная** боль - это плохо.
+We play football on the **pitch** every Saturday.
 
-## #55<common/>
+Каждую субботу мы играем в футбол на поле.
 
-**patient** [пЕйшэнт] *прил.* терпеливый; **mandate** [мЭндЕйт] *сущ.* наказ; **addition** [эдЫшэн] *сущ.* дополнение; **bite** [бАйт] *сущ.* укус; **questionnaire** [куЕсчэнЕр] *сущ.* вопросник; **globe** [глOуб] *сущ.* глобус; **diagnosis** [дАйэгнOусэс] *сущ.* диагноз; **horrible** [хОрэбэл] *прил.* ужасный; **profound** [прoуфАунд] *прил.* глубокий; **blow** [блOу] *сущ.* удар<common/>
+Her **earnings** are low, but she saves some money.
 
-Tom is a **patient** doctor. He has a **mandate**: help people. One day, a girl comes. She has a dog. The dog has a **bite**. The doctor asks questions, a **questionnaire**. He looks at a **globe** in his office. He makes a **diagnosis**: "Bad dog!" The girl cries. This is a **horrible** day for her. The doctor says, "This is not a **profound** problem. Just an **addition**: more love for the dog." He gives the dog a small **blow** on the nose. The dog wags his tail.
+Ее заработок невелик, но она откладывает немного денег.
 
-Том - **терпеливый** doctor. У него есть **наказ**: помогать людям. Однажды приходит девочка. У нее есть собака. У собаки **укус**. Доктор задает вопросы, **вопросник**. Он смотрит на **глобус** в своем офисе. Он ставит **диагноз**: "Плохая собака!" Девочка плачет. Это **ужасный** день для нее. Доктор говорит: "Это не **глубокая** проблема. Просто **дополнение**: больше любви для собаки." Он дает собаке небольшой **удар** по носу. Собака виляет хвостом.
+The **corps** of engineers built the bridge.
 
-## #56<common/>
+Мост построили инженерные войска.
 
-**array** [эрЕй] *сущ.* множество; **hallway** [хОлуЕй] *сущ.* прихожая; **rip** [рЫп] *гл.* рвать; **dose** [дOус] *сущ.* доза; **adoption** [эдАпшэн] *сущ.* принятие; **accommodate** [экАмэдЕйт] *гл.* вмещать; **suite** [суИт] *сущ.* номер-люкс; **rhetoric** [рЕтэрык] *сущ.* риторика; **counseling** [кАунсэлын] *сущ.* консультация; **cholesterol** [кэлЕстэрОл] *сущ.* холестерин<common/>
+His opinion is **controversial**, but he has a right to say it.
 
-The cat has a problem with **cholesterol**. Doctor gives a **dose** of medicine. It's hard! The cat doesn't like it. The cat lives in a big **suite**. There is an **array** of toys in the **hallway**. He likes to **rip** paper. His **adoption** was good. The family can **accommodate** him. They don't need **rhetoric** or **counseling**. The cat is happy!
+Его мнение спорно, но он имеет право его высказать.
 
-У кота проблема с **холестерином**. Доктор дает **дозу** лекарства. Это тяжело! Кот не любит его. Кот живет в большом **номере-люкс**. В **прихожей** есть **множество** игрушек. Он любит **рвать** бумагу. Его **принятие** было хорошим. Семья может **вместить** его. Им не нужна **риторика** или **консультация**. Кот счастлив!
+These gloves have an **outer** layer of leather.
 
-## #57<common/>
+Эти перчатки имеют внешний слой из кожи.
 
-**supervisor** [сУпэрвАйзэр] *сущ.* руководитель; **readily** [рЕдэли] *нар.* охотно; **engagement** [енгЕйджмэнт] *сущ.* договоренность; **uncertainty** [энсЭртэнти] *сущ.* неопределенность; **separation** [сЕпэрЕйшэн] *сущ.* отделение; **guidance** [гАйдэнс] *сущ.* руководство; **govern** [гАвэрн] *гл.* править; **complexity** [кэмплЕксэти] *сущ.* сложность; **pop** [пАп] *сущ.* хлопок; **hostage** [хАстыдж] *сущ.* заложник<common/>
+She is learning English in a **virtual** classroom.
 
-The **supervisor** was not happy. There was **uncertainty** about the project. He wanted his team to work **readily**. The **engagement** with the client had problems. There was a **separation** of tasks. He needed to **govern** the team well. He gave clear **guidance**. The **complexity** of the task was high. Suddenly, a loud **pop**! A **hostage** situation!
+Она изучает английский язык в виртуальном классе.
 
-**Руководитель** был недоволен. Была **неопределенность** по поводу проекта. Он хотел, чтобы его команда работала **охотно**. **Договоренность** с клиентом имела проблемы. Произошло **отделение** задач. Ему нужно было хорошо **править** командой. Он дал четкое **руководство**. **Сложность** задачи была высокой. Вдруг громкий **хлопок**! Ситуация с **заложником**!
+We need a **framework** to organize our project.
 
-## #58<common/>
+Нам нужна структура для организации нашего проекта.
 
-**residence** [рЕзыдэнс] *сущ.* проживание; **particle** [пАртэкэл] *сущ.* частица; **drift** [дрЫфт] *гл.* дрейфовать; **harm** [хАрм] *сущ.* вред; **excuse** [ыкскйУс] *сущ.* оправдание; **wider** [-] *прил.* широкий; **popularity** [пАпйэлЕрэти] *сущ.* популярность; **strip** [стрЫп] *гл.* раздеваться; **forehead** [фОрхед] *сущ.* лоб; **trigger** [трЫгэр] *гл.* запускать<common/>
+The doctor gave me a **medication** for my cough.
 
-The sun is **wider** today. A small **particle** of dust made it bright. I feel the dust **drift**. I live in my small **residence**. It's hot. I want to **strip**. I sweat on my **forehead**. Heat can **trigger** anger. There is no **excuse** for being angry. Anger causes **harm**. I don't want **popularity** if I am angry.
+Врач выписал мне лекарство от кашля.
 
-Сегодня солнце **шире** (wider). Маленькая **частица** (particle) пыли сделала его ярким. Я чувствую, как пыль **дрейфует** (drift). Я живу в моей маленькой **резиденции** (residence) / месте **проживания** (residence). Жарко. Я хочу **раздеться** (strip). Я потею на **лбу** (forehead). Жара может **запускать** (trigger) злость. Нет **оправдания** (excuse) быть злым. Злость причиняет **вред** (harm). Мне не нужна **популярность** (popularity), если я злой.
+The **composition** of the cake includes flour, sugar, and eggs.
 
-## #59<common/>
+В состав торта входят мука, сахар и яйца.
 
-**donor** [дOунэр] *сущ.* даритель; **recipient** [рэсЫпиэнт] *сущ.* получатель; **radiation** [рЕйдиЕйшэн] *сущ.* излучение; **sidewalk** [сАйдуОк] *сущ.* тротуар; **acquisition** [ЭкуэзЫшэн] *сущ.* приобретение; **diminish** [дымЫныш] *гл.* уменьшать; **domain** [дoумЕйн] *сущ.* область; **hook** [хУк] *сущ.* крюк; **hence** [хЕнс] *нар.* отсюда; **average** [Эвэрыдж] *гл.* усреднять<common/>
+He is the **recipient** of the "Employee of the Month" award.
 
-The **donor** gave a strange gift. The **recipient** was scared. The gift had **radiation**! He found it on the **sidewalk**. This **acquisition** was not good. The **radiation** will **diminish**, he hoped. His **domain** was safety. He used a long **hook** to move the gift. **Hence**, he was careful. Experts will **average** the radiation level.
+Он является обладателем награды «Сотрудник месяца».
 
-**Даритель** gave a strange gift. **Получатель** испугался. В подарке было **излучение**! Он нашел его на **тротуаре**. Это **приобретение** было нехорошим. **Излучение** будет **уменьшаться**, он надеялся. Его **область** была безопасность. Он использовал длинный **крюк**, чтобы передвинуть подарок. **Отсюда**, он был осторожен. Эксперты будут **усреднять** уровень радиации.
+He spoke to his **counterpart** on the phone yesterday.
 
-## #60<common/>
+Вчера он разговаривал со своим коллегой по телефону.
 
-**meaningful** [мИнынфэл] *прил.* значительный; **skirt** [скЭрт] *сущ.* юбка; **drunk** [дрАнк] *прил.* пьяный; **shuttle** [шАтэл] *сущ.* перевозки; **facilitate** [фэсЫлэтЕйт] *гл.* способствовать; **recession** [рысЕшэн] *сущ.* спад; **await** [эуЕйт] *гл.* ждать; **unity** [йУнэти] *сущ.* единство; **juror** [джУрэр] *сущ.* член жюри; **outer** [Аутэр] *прил.* внешний<common/>
+The **estimated** cost of the trip is about $500.
 
-Ann had a **meaningful** dream. In her dream, she wore a red **skirt**. A **drunk** man offered her a ride on a **shuttle**. He wanted to **facilitate** her journey. But there was a big problem: a **recession**! Everyone had to **await** the end. Only **unity** could help. One **juror** looked at the **outer** space and smiled.
+Предполагаемая стоимость поездки — около 500 долларов.
 
-У Анны был **значительный** сон. Во сне она носила красную **юбку**. **Пьяный** мужчина предложил ей поездку на **перевозке**. Он хотел **способствовать** ее путешествию. Но была большая проблема: **спад**! Все должны были **ждать** конца. Только **единство** могло помочь. Один **член жюри** посмотрел на **внешнее** пространство и улыбнулся.
+The **essence** of the flower is its sweet smell.
 
-# 20
+Суть цветка — его сладкий запах.
 
-## #1.c<common/>
+His company made an **acquisition** of a smaller business.
 
-**differ** [дЫфэр] *гл.* отличаться; **dining** [дАйнын] *сущ.* трапеза; **framework** [фрЕймуЭрк] *сущ.* каркас; **tendency** [тЕндэнси] *сущ.* тенденция; **load** [лOуд] *сущ.* груз; **elderly** [Елдэрли] *прил.* пожилой; **store** [стОр] *гл.* хранить; **oven** [Авэн] *сущ.* печь; **storage** [стОрэдж] *сущ.* хранилище; **preference** [прЕфэрэнс] *сущ.* предпочтение; **formation** [формЕйшэн] *сущ.* формирование; **scholarship** [скАлэршЫп] *сущ.* ученость; **educate** [ЕджэкЕйт] *гл.* воспитывать; **fund** [фАнд] *гл.* финансировать; **conviction** [кэнвЫкшэн] *сущ.* убеждение; **craft** [крЭфт] *сущ.* ремесло; **earnings** [Эрнынз] *сущ.* заработок; **controversial** [кАнтрэвЭршэл] *прил.* спорный; **painful** [пЕйнфэл] *прил.* болезненный; **infant** [Ынфэнт] *сущ.* ребенок<common/>
+Его компания осуществила поглощение более мелкого предприятия.
 
-store, earnings, infant<common/>
+The river is getting **wider** after the rain.
 
-James and his sister, Emily, always **differed** in their views on life. James believed in following tradition, while Emily had a **tendency** to challenge old ways. Their parents, both **elderly**, had worked hard to give them a good life.
+После дождя река становится шире.
 
-Джеймс и его сестра Эмили всегда **отличались** во взглядах на жизнь. Джеймс верил в следование традициям, а у Эмили была **тенденция** оспаривать старые устои. Их родители, оба уже **пожилые**, много работали, чтобы дать им хорошую жизнь.
+Rice is the **principal** food in many Asian countries.
 
-One evening, during **dining**, their father spoke seriously. “Our family bakery has been here for generations. But times are changing, and we need to decide its future.”
+Рис является основным продуктом питания во многих азиатских странах.
 
-Однажды вечером, во время **трапезы**, их отец серьезно заговорил: «Наша семейная пекарня существует уже несколько поколений. Но времена меняются, и нам нужно решить ее будущее».
+You need to **submit** the form to apply for the job.
 
-Emily, who had a strong **conviction** about modernizing the business, wanted to introduce new techniques and recipes. James, on the other hand, insisted on preserving the original **craft** their ancestors had perfected.
+Для подачи заявки на вакансию вам необходимо заполнить форму.
 
-Эмили, имея твердое **убеждение** в необходимости модернизации бизнеса, хотела внедрить новые технологии и рецепты. Джеймс, напротив, настаивал на сохранении оригинального **ремесла**, которое оттачивали их предки.
+Their **residence** is very big.
 
-Their argument became **controversial**, as each sibling had a different vision. Emily saw an opportunity to apply for a **scholarship** in business studies, hoping to gain the knowledge needed to expand their bakery. However, their father had already planned to **fund** James’s idea of restoring the bakery to its former style.
+Их резиденция очень большая.
 
-Их спор стал **спорным**, так как у каждого было свое видение. Эмили увидела возможность получить **ученость** в области бизнеса, чтобы приобрести знания для расширения пекарни. Однако их отец уже решил **финансировать** идею Джеймса по восстановлению пекарни в ее традиционном стиле.
+He had a bad cold. **Subsequent** to that, he had a fever.
 
-Emily found it **painful** to choose between her dream and family expectations. She began working in a small café, learning to operate a modern **oven** and managing the **storage** of ingredients efficiently. She even helped **educate** young apprentices who wanted to learn baking.
+У него была сильная простуда. После этого у него поднялась температура.
 
-Эмили было **болезненно** выбирать между своей мечтой и ожиданиями семьи. Она начала работать в небольшом кафе, научилась управлять современной **печью** и эффективно организовывать **хранилище** ингредиентов. Она даже помогала **воспитывать** молодых учеников, желающих освоить выпечку.
+He joined the medical **corps** after school.
 
-Meanwhile, James took on the heavy **load** of running the bakery, following their father’s strict **framework**. He insisted on keeping things as they were, despite the market’s changing **preference** for new flavors.
+После школы он поступил на службу в медицинский корпус.
 
-Тем временем Джеймс взял на себя тяжелый **груз** ведения пекарни, следуя строгому **каркасу**, заложенному их отцом. Он настаивал на сохранении традиций, несмотря на изменяющиеся **предпочтения** рынка.
+**Acceptance** is important for happiness.
 
-Years later, Emily opened her own café, combining tradition with innovation. James, still running the family bakery, struggled to attract new customers. Though they had chosen different paths, they both respected each other’s **formation** as professionals. Their journeys had **differed**, but in the end, they remained family.
+Принятие важно для счастья.
 
-Спустя годы Эмили открыла собственное кафе, сочетая традиции и инновации. Джеймс, все еще управлявший семейной пекарней, сталкивался с трудностями в привлечении новых клиентов. Хотя их пути **отличались**, они уважали **формирование** друг друга как профессионалов. Их дороги разошлись, но они остались семьей.
+She is a good **associate** and a hard worker.
 
-## #1.g<common/>
+Она хороший сотрудник и трудолюбивый работник.
 
-**differ** [дЫфэр] *гл.* отличаться; **dining** [дАйнын] *сущ.* трапеза; **framework** [фрЕймуЭрк] *сущ.* каркас; **tendency** [тЕндэнси] *сущ.* тенденция; **load** [лOуд] *сущ.* груз; **elderly** [Елдэрли] *прил.* пожилой; **store** [стОр] *гл.* хранить; **oven** [Авэн] *сущ.* печь; **storage** [стОрэдж] *сущ.* хранилище; **preference** [прЕфэрэнс] *сущ.* предпочтение; **formation** [формЕйшэн] *сущ.* формирование; **scholarship** [скАлэршЫп] *сущ.* ученость; **educate** [ЕджэкЕйт] *гл.* воспитывать; **fund** [фАнд] *гл.* финансировать; **conviction** [кэнвЫкшэн] *сущ.* убеждение; **craft** [крЭфт] *сущ.* ремесло; **earnings** [Эрнынз] *сущ.* заработок; **controversial** [кАнтрэвЭршэл] *прил.* спорный; **painful** [пЕйнфэл] *прил.* болезненный; **infant** [Ынфэнт] *сущ.* ребенок<common/>
+My parents offer me **guidance** when I have problems.
 
-Mr. Thompson was an **elderly** baker. He had a small bakery in the town center. He was known for his delicious bread and cakes. He had a **tendency** to **store** his flour in the **oven** **storage**. It was a **controversial** method, but it worked for him.
+Мои родители дают мне советы, когда у меня возникают проблемы.
 
-Мистер Томпсон был **пожилым** пекарем. У него была небольшая пекарня в центре города. Он был известен своим вкусным хлебом и тортами. У него была **тенденция** **хранить** муку в **хранилище** для **печи**. Это был **спорный** метод, но для него он работал.
+Her **remark** was very helpful.
 
-His son, Tom, was a **scholarship** student at a prestigious culinary school. He had a strong **conviction** that his father's methods were outdated. He wanted to **educate** his father about modern baking techniques.
+Ее замечание было очень полезным.
 
-Его сын, Том, был **стипендиатом** престижной кулинарной школы. У него было твердое **убеждение**, что методы его отца устарели. Он хотел **воспитать** своего отца в духе современных методов выпечки.
+She **asserts** she can swim very well.
 
-One day, Tom came home for the holidays. He was shocked to see his father still using the old **framework** for baking. He tried to explain to his father the **formation** of gluten and the importance of proper **storage**.
+Она утверждает, что умеет очень хорошо плавать.
 
-Однажды Том приехал домой на праздники. Он был шокирован, увидев, что его отец все еще использует старый **каркас** для выпечки. Он попытался объяснить отцу **формирование** глютена и важность надлежащего **хранения**.
+I heard a lot of **laughter** from the party next door.
 
-Mr. Thompson listened patiently, but he had his own **preference**. He believed in the **craft** of baking, the feel of the dough, and the taste that came from his unique methods. He argued that his **earnings** were proof of his success.
+Я слышал много смеха на соседней вечеринке.
 
-Мистер Томпсон терпеливо слушал, но у него было свое **предпочтение**. Он верил в **ремесло** выпечки, в чувство теста и вкус, который получался благодаря его уникальным методам. Он утверждал, что его **заработок** является доказательством его успеха.
+Please **reverse** the car slowly into the parking space.
 
-Tom felt a **painful** **load** of responsibility. He wanted to help his father, but he didn't want to **differ** too much from his father's **preference**. He decided to **fund** a new **storage** system for the flour, hoping it would improve the quality of the bread without changing his father's **craft**.
+Пожалуйста, медленно заезжайте задним ходом на парковочное место.
 
-Том почувствовал **болезненный** **груз** ответственности. Он хотел помочь своему отцу, но не хотел слишком сильно **отличаться** от **предпочтения** отца. Он решил **финансировать** новую систему **хранения** для муки, надеясь, что это улучшит качество хлеба, не меняя **ремесло** отца.
+The teacher tried to **convey** the meaning of the word.
 
-During their **dining**, they discussed the future of the bakery. Tom shared his vision of expanding the business and introducing new products. Mr. Thompson was hesitant, but he trusted his son's **scholarship** and **conviction**.
+Учитель пытался донести значение слова.
 
-Во время их **трапезы** они обсудили будущее пекарни. Том поделился своим видением расширения бизнеса и внедрения новых продуктов. Мистер Томпсон колебался, но он доверял **учености** и **убеждению** своего сына.
+Please don't **delay** your homework.
 
-In the end, they found a compromise. They agreed to keep the old **framework** for the traditional bread, but they would use the new **storage** system for new products. They also decided to **educate** the **infant** bakers in the town about both traditional and modern techniques.
+Пожалуйста, не откладывайте выполнение домашнего задания.
 
-В конце концов, они нашли компромисс. Они согласились сохранить старый **каркас** для традиционного хлеба, но они будут использовать новую систему **хранения** для новых продуктов. Они также решили **воспитать** **младенцев** пекарей в городе как традиционным, так и современным методам.
+It is **evident** that he is tired.
 
-Mr. Thompson realized that his son's **scholarship** wasn't just about **formation** and **storage**. It was also about **educate**ing the next generation and **fund**ing the future of their **craft**.
+Видно, что он устал.
 
-Мистер Томпсон понял, что **ученость** его сына - это не только **формирование** и **хранение**. Речь шла также о **воспитании** следующего поколения и **финансировании** будущего их **ремесла**.
+We use special machines to measure **radiation**.
 
-## #1.d<common/>
+Для измерения радиации мы используем специальные приборы.
 
-**differ** [дЫфэр] *гл.* отличаться; **dining** [дАйнын] *сущ.* трапеза; **framework** [фрЕймуЭрк] *сущ.* каркас; **tendency** [тЕндэнси] *сущ.* тенденция; **load** [лOуд] *сущ.* груз; **elderly** [Елдэрли] *прил.* пожилой; **store** [стОр] *гл.* хранить; **oven** [Авэн] *сущ.* печь; **storage** [стОрэдж] *сущ.* хранилище; **preference** [прЕфэрэнс] *сущ.* предпочтение; **formation** [формЕйшэн] *сущ.* формирование; **scholarship** [скАлэршЫп] *сущ.* ученость; **educate** [ЕджэкЕйт] *гл.* воспитывать; **fund** [фАнд] *гл.* финансировать; **conviction** [кэнвЫкшэн] *сущ.* убеждение; **craft** [крЭфт] *сущ.* ремесло; **earnings** [Эрнынз] *сущ.* заработок; **controversial** [кАнтрэвЭршэл] *прил.* спорный; **painful** [пЕйнфэл] *прил.* болезненный; **infant** [Ынфэнт] *сущ.* ребенок<common/>
+We need **prevention** programs for diseases.
 
-In a small village surrounded by mountains, there lived an **elderly** man named Thomas. He was known for his **craft** of building wooden furniture, a skill he had learned from his father. Thomas had a strong **conviction** that hard work and **scholarship** were the keys to a meaningful life. He spent his days in his workshop, where the **framework** of his creations took shape.
+Нам нужны программы профилактики заболеваний.
 
-В маленькой деревне, окруженной горами, жил **пожилой** мужчина по имени Томас. Он был известен своим **ремеслом** изготовления деревянной мебели, навыку, которому он научился у своего отца. У Томаса было твердое **убеждение**, что тяжелый труд и **ученость** — ключи к осмысленной жизни. Он проводил свои дни в мастерской, где **каркас** его творений обретал форму.
+We waited for their **departure** at the airport.
 
-Thomas had a **tendency** to **differ** from others in the village. While most people preferred modern designs, he stuck to traditional methods. His **preference** for simplicity often made his work **controversial**, but he believed in the beauty of his **craft**. His **earnings** were modest, but he used them to **fund** the education of his grandson, an **infant** named Leo. Thomas wanted to **educate** him well, hoping Leo would one day continue the family tradition.
+Мы ждали их вылета в аэропорту.
 
-Томас имел **тенденцию** **отличаться** от других в деревне. В то время как большинство предпочитало современные дизайны, он придерживался традиционных методов. Его **предпочтение** простоты часто делало его работу **спорной**, но он верил в красоту своего **ремесла**. Его **заработок** был скромным, но он использовал его, чтобы **финансировать** образование своего внука, **ребенка** по имени Лео. Томас хотел **воспитать** его хорошо, надеясь, что Лео однажды продолжит семейную традицию.
+The **intensity** of the sun was very high today.
 
-One day, while preparing for a **dining** event in the village, Thomas realized his **storage** room was overflowing with tools and materials. He decided to build a new **storage** space, but the **load** of work was too much for him alone. His hands, once steady, now felt **painful** after long hours of labor. Despite the challenges, he persisted, driven by his **formation** of values and love for his family.
+Сегодня интенсивность солнечного излучения была очень высокой.
 
-Однажды, готовясь к **трапезе** в деревне, Томас понял, что его **хранилище** переполнено инструментами и материалами. Он решил построить новое **хранилище**, но **груз** работы был слишком велик для него одного. Его руки, когда-то steady, теперь болели после долгих часов труда. Несмотря на трудности, он persevered, движимый своими **формированием** ценностей и любовью к семье.
+Please **rate** the food from 1 to 5 stars.
 
-As the sun set, Thomas lit the **oven** to warm the workshop. He sat by the fire, thinking about the future. He knew his time was limited, but he hoped his **craft** and **convictions** would live on through Leo. The **formation** of a new generation, he believed, was the greatest legacy he could leave behind.
+Пожалуйста, оцените еду от 1 до 5 звезд.
 
-Когда солнце село, Томас зажег **печь**, чтобы согреть мастерскую. Он сидел у огня, думая о будущем. Он знал, что его время ограничено, но надеялся, что его **ремесло** и **убеждения** будут жить через Лео. **Формирование** нового поколения, он верил, было величайшим наследием, которое он мог оставить.
+News reports should not show **bias**.
 
-## #2.c<common/>
+Новостные репортажи не должны быть предвзятыми.
 
-**admission** [-] *сущ.* допуск; **ratio** [-] *сущ.* соотношение; **musician** [-] *сущ.* музыкант; **modest** [-] *прил.* скромный; **efficiency** [-] *сущ.* эффективность; **strengthen** [-] *гл.* укреплять; **standing** [-] *сущ.* положение; **absorb** [-] *гл.* поглощать; **suspect** [-] *сущ.* подозреваемый; **commissioner** [-] *сущ.* комиссар; **reservation** [-] *сущ.* резервирование; **adjustment** [-] *сущ.* регулировка; **composition** [-] *сущ.* состав; **assert** [-] *гл.* утверждать; **overlook** [-] *гл.* игнорировать; **corps** [-] *сущ.* корпус; **dominant** [-] *прил.* доминирующий; **prevention** [-] *сущ.* предотвращение; **meter** [-] *сущ.* измеритель; **economics** [-] *сущ.* экономика<common/>
+She wants to **exhibit** her paintings in the gallery.
 
-Oliver had always dreamed of becoming a famous **musician**, but his reality was far from glamorous. He played in a **modest** bar every weekend, earning just enough to get by. His life changed when he applied for **admission** to the city’s most prestigious music academy.
+Она хочет выставить свои картины в галерее.
 
-Оливер всегда мечтал стать известным **музыкантом**, но его реальность была далека от гламура. Каждые выходные он играл в **скромном** баре, зарабатывая лишь на жизнь. Все изменилось, когда он подал заявку на **допуск** в самую престижную музыкальную академию города.
+She needs to take her **medication** every morning.
 
-However, the selection process was strict. The **ratio** of accepted students to applicants was low, and the judges prioritized **efficiency** over passion. Oliver needed to **strengthen** his skills to secure his place.
+Ей нужно принимать лекарства каждое утро.
 
-Однако отбор был строгим. **Соотношение** принятых студентов к кандидатам было низким, и судьи ставили **эффективность** выше страсти. Оливеру нужно было **укрепить** свои навыки, чтобы занять место.
+There is a small **margin** for error in this project.
 
-One day, while practicing in the park, he met an old man who had once been a respected **commissioner** of the arts. The man observed his **composition** and gave him advice: “To improve your **standing** as a musician, you must learn to **absorb** both criticism and inspiration.”
+В этом проекте есть небольшая вероятность ошибки.
 
-Однажды, репетируя в парке, он встретил пожилого мужчину, который когда-то был уважаемым **комиссаром** по культуре. Тот изучил его **состав** произведений и дал совет: «Чтобы улучшить свое **положение** как музыканта, ты должен научиться **поглощать** и критику, и вдохновение.»
+He has **adequate** skills for the job.
 
-Following his advice, Oliver made significant **adjustments** to his style. He started studying **economics** to understand the business side of music, ensuring he wouldn’t be exploited. He also worked on his stage presence, realizing that performance was just as important as skill.
+У него есть достаточные навыки для этой работы.
 
-Следуя совету, Оливер внес серьезные **регулировки** в свой стиль. Он начал изучать **экономику**, чтобы понимать бизнес-аспект музыки и избежать эксплуатации. Он также работал над сценическим образом, осознав, что выступление не менее важно, чем мастерство.
+We want to **rent** a car for our trip.
 
-When the audition day arrived, Oliver noticed a mistake in the judges’ system. They used a **meter** to measure sound quality, but it often failed to recognize emotional depth. He wanted to **assert** that true music wasn’t just about technical perfection.
+Мы хотим арендовать машину для нашей поездки.
 
-В день прослушивания Оливер заметил ошибку в системе судей. Они использовали **измеритель** звука, но он не мог учитывать эмоциональную глубину. Оливер хотел **утвердить**, что истинная музыка – это не только техническое совершенство.
+Can you **excuse** my mistake?
 
-Despite his efforts, he was rejected. The academy’s **dominant** view was that technique mattered more than soul. Disappointed but not defeated, Oliver rented a small hall with no **reservation**, inviting people to hear his music without restrictions.
+Можете ли вы извинить меня за мою ошибку?
 
-Несмотря на его усилия, его отклонили. **Доминирующее** мнение академии заключалось в том, что техника важнее души. Разочарованный, но не сломленный, Оливер арендовал небольшой зал без **резервирования** и пригласил людей услышать его музыку без ограничений.
+The army will **recruit** young people.
 
-To his surprise, a journalist attended the event. The next day, an article praised his talent, calling him “the **suspect** who challenged the rigid traditions of classical music.” His reputation grew, and soon, he didn’t need academy approval.
+Армия будет набирать молодежь.
 
-К его удивлению, на мероприятие пришел журналист. На следующий день в газете вышла статья, в которой его назвали «**подозреваемым**, бросившим вызов жестким традициям классической музыки». Его репутация росла, и вскоре ему уже не нужно было одобрение академии.
+Water has a simple **composition**: hydrogen and oxygen.
 
-Oliver realized that success wasn’t about gaining entry into elite groups but about creating opportunities for himself. His journey became an inspiration, proving that sometimes, **prevention** of failure isn’t as important as learning from it.
+Вода имеет простой состав: водород и кислород.
 
-Оливер понял, что успех – это не получение доступа в элитные круги, а создание возможностей самому. Его путь стал вдохновением, доказав, что иногда **предотвращение** неудач менее важно, чем умение извлекать из них уроки.
+My sister's **major** is history.
 
-## #2.g<common/>
+Специальность моей сестры — история.
 
-**admission** [-] *сущ.* допуск; **ratio** [-] *сущ.* соотношение; **musician** [-] *сущ.* музыкант; **modest** [-] *прил.* скромный; **efficiency** [-] *сущ.* эффективность; **strengthen** [-] *гл.* укреплять; **standing** [-] *сущ.* положение; **absorb** [-] *гл.* поглощать; **suspect** [-] *сущ.* подозреваемый; **commissioner** [-] *сущ.* комиссар; **reservation** [-] *сущ.* резервирование; **adjustment** [-] *сущ.* регулировка; **composition** [-] *сущ.* состав; **assert** [-] *гл.* утверждать; **overlook** [-] *гл.* игнорировать; **corps** [-] *сущ.* корпус; **dominant** [-] *прил.* доминирующий; **prevention** [-] *сущ.* предотвращение; **meter** [-] *сущ.* измеритель; **economics** [-] *сущ.* экономика<common/>
+The **diagnosis** helped us understand the problem.
 
-Alex was a **modest** **musician**. He played the saxophone in a small jazz club. He had a passion for music, but he struggled to make a living. The **economics** of the music industry were tough.
+Диагностика помогла нам понять проблему.
 
-Алекс был **скромным** **музыкантом**. Он играл на саксофоне в небольшом джаз-клубе. У него была страсть к музыке, но он изо всех сил пытался заработать на жизнь. **Экономика** музыкальной индустрии была тяжелой.
+The boxer suffered a hard **blow** in the fight.
 
-One day, he saw an advertisement for a competition. The winner would get **admission** to a prestigious music school and a chance to play with a famous **corps**. It was a great opportunity, but the **ratio** of applicants to winners was very high.
+Боксер получил сильный удар в бою.
 
-Однажды он увидел объявление о конкурсе. Победитель получит **допуск** в престижную музыкальную школу и возможность играть со знаменитым **корпусом**. Это была отличная возможность, но **соотношение** претендентов к победителям было очень высоким.
+Regular exercise improves your **fitness**.
 
-Alex decided to apply. He practiced day and night, trying to **strengthen** his skills and **absorb** as much musical knowledge as possible. He wanted to improve his **efficiency** and **standing** in the music community.
+Регулярные занятия спортом улучшают вашу физическую форму.
 
-Алекс решил подать заявку. Он практиковался днем и ночью, пытаясь **укрепить** свои навыки и **поглотить** как можно больше музыкальных знаний. Он хотел улучшить свою **эффективность** и **положение** в музыкальном сообществе.
+She has a **delicate** complexion.
 
-The **commissioner** of the competition was a strict and **dominant** figure. He had a reputation for being tough on the **suspect**s. Alex knew he had to impress him.
+У нее нежный цвет лица.
 
-**Комиссар** конкурса был строгим и **доминирующим** человеком. У него была репутация жесткого человека по отношению к **подозреваемым**. Алекс знал, что он должен произвести на него впечатление.
+My teacher talks about **ethics** in our class.
 
-During the audition, Alex played his heart out. He poured all his emotions into his music. He wanted to **assert** his talent and show his passion.
+Мой учитель рассказывает на нашем уроке об этике.
 
-Во время прослушивания Алекс играл от всего сердца. Он вложил все свои эмоции в свою музыку. Он хотел **утвердить** свой талант и показать свою страсть.
+We need to **rank** these students by their exam scores.
 
-After the audition, Alex had a **reservation** about his performance. He felt like he had **overlooked** some important details. He worried about the **composition** of his music and the **adjustment** of his saxophone.
+Нам необходимо ранжировать этих студентов по результатам их экзаменов.
 
-После прослушивания у Алекса было **резервирование** относительно своего выступления. Он чувствовал, что он **проигнорировал** некоторые важные детали. Он беспокоился о **составе** своей музыки и **регулировке** своего саксофона.
+The camera **flashed** when I took a picture.
 
-He waited anxiously for the results. He knew the competition was fierce, and the **prevention** of mistakes was crucial. He even checked the **meter** of his music to make sure it was perfect.
+Когда я делал снимок, сработала вспышка камеры.
 
-Он с тревогой ждал результатов. Он знал, что конкуренция была жесткой, и **предотвращение** ошибок было решающим. Он даже проверил **измеритель** своей музыки, чтобы убедиться, что она идеальна.
+My uncle is a **surgeon** at the local hospital.
 
-In the end, Alex didn't win the competition. He was disappointed, but he didn't give up. He continued to play in the jazz club, and he eventually found a way to make a living from his music.
+Мой дядя — хирург в местной больнице.
 
-В конце концов, Алекс не выиграл конкурс. Он был разочарован, но не сдался. Он продолжал играть в джаз-клубе, и в конце концов он нашел способ зарабатывать на жизнь своей музыкой.
+We **advocate** for healthy food in schools.
 
-He learned that success in the music industry wasn't just about talent. It was also about perseverance, hard work, and the ability to **absorb** new knowledge.
+Мы выступаем за здоровое питание в школах.
 
-Он понял, что успех в музыкальной индустрии - это не только талант. Речь шла также о настойчивости, тяжелой работе и способности **поглощать** новые знания.
+The **plain** is very flat and open.
 
-## #2.d<common/>
+Равнина очень плоская и открытая.
 
-**admission** [-] *сущ.* допуск; **ratio** [-] *сущ.* соотношение; **musician** [-] *сущ.* музыкант; **modest** [-] *прил.* скромный; **efficiency** [-] *сущ.* эффективность; **strengthen** [-] *гл.* укреплять; **standing** [-] *сущ.* положение; **absorb** [-] *гл.* поглощать; **suspect** [-] *сущ.* подозреваемый; **commissioner** [-] *сущ.* комиссар; **reservation** [-] *сущ.* резервирование; **adjustment** [-] *сущ.* регулировка; **composition** [-] *сущ.* состав; **assert** [-] *гл.* утверждать; **overlook** [-] *гл.* игнорировать; **corps** [-] *сущ.* корпус; **dominant** [-] *прил.* доминирующий; **prevention** [-] *сущ.* предотвращение; **meter** [-] *сущ.* измеритель; **economics** [-] *сущ.* экономика<common/>
+A bee **colony** makes honey in the hive.
 
-In a small town, there was a **modest** music school known for its high **efficiency** in training talented **musicians**. The school had a strict **admission** process, with a low student-to-teacher **ratio** to ensure quality education. One day, a new **commissioner** was appointed to oversee the school’s operations. He was a **dominant** figure who believed in **strengthening** the school’s **standing** in the community.
+Пчелиная колония производит мед в улье.
 
-В маленьком городке была **скромная** музыкальная школа, известная своей высокой **эффективностью** в обучении талантливых **музыкантов**. В школе был строгий процесс **допуска**, с низким **соотношением** учеников к учителям, чтобы обеспечить качественное образование. Однажды был назначен новый **комиссар**, чтобы контролировать работу школы. Он был **доминирующей** фигурой, который верил в **укрепление** **положения** школы в обществе.
+The **counsel** spoke to the judge in the courtroom.
 
-However, the commissioner’s methods were controversial. He insisted on making **adjustments** to the school’s **composition**, which many teachers felt would **overlook** the needs of the students. One teacher, a **suspect** in the eyes of the commissioner due to her outspoken nature, decided to **assert** her concerns. She argued that the changes would **absorb** too much of the school’s resources, leaving little for **prevention** of future issues.
+Адвокат поговорил с судьей в зале суда.
 
-Однако методы комиссара были спорными. Он настаивал на **регулировке** **состава** школы, что, по мнению многих учителей, **игнорировало** потребности учеников. Одна учительница, которая была **подозреваемой** в глазах комиссара из-за своей откровенности, решила **утверждать** свои опасения. Она argued, что изменения **поглотят** слишком много ресурсов школы, оставляя мало для **предотвращения** будущих проблем.
+The **swing** of the pendulum was very slow.
 
-The commissioner, however, dismissed her worries. He believed that his plans would improve the school’s **economics** and reputation. But as time passed, the teachers noticed that the new policies were causing more harm than good. The school’s **corps** of educators began to feel demoralized, and the students’ performance started to decline.
+Маятник качался очень медленно.
 
-Однако комиссар отклонил её опасения. Он верил, что его планы улучшат **экономику** и репутацию школы. Но со временем учителя заметили, что новые политики приносят больше вреда, чем пользы. **Корпус** преподавателей начал чувствовать себя деморализованным, а успеваемость учеников начала падать.
+The **legislature** is a group of elected people.
 
-In the end, the teacher who had raised her voice was proven right. The commissioner’s **reservation** about listening to others had led to a crisis. The school had to rethink its strategies, and the **meter** of success shifted from reputation to the well-being of its students and staff.
+Законодательный орган — это группа избранных лиц.
 
-В конце концов, учительница, которая подняла свой голос, оказалась права. **Резервирование** комиссара в отношении других привело к кризису. Школе пришлось пересмотреть свои стратегии, и **измеритель** успеха сместился с репутации на благополучие учеников и сотрудников.
+I need a **needle** and thread to fix my shirt.
 
-## #3.g<common/>
+Мне нужны иголка и нитка, чтобы починить рубашку.
 
-**pine** [-] *сущ.* сосна; **legacy** [-] *сущ.* наследие; **submit** [-] *гл.* подавать; **rate** [-] *гл.* оценивать; **dependent** [-] *прил.* зависимый; **carbon** [-] *сущ.* углерод; **counsel** [-] *сущ.* адвокат; **associate** [-] *сущ.* коллега; **major** [-] *сущ.* крупный; **distinguish** [-] *гл.* различать; **offensive** [-] *прил.* оскорбительный; **collapse** [-] *гл.* рухнуть; **ease** [-] *гл.* облегчать; **carrier** [-] *сущ.* перевозчик; **scope** [-] *сущ.* рамки; **distinct** [-] *прил.* различный; **narrator** [-] *сущ.* рассказчик; **brush** [-] *гл.* чистить; **subsequent** [-] *прил.* последующий; **exceed** [-] *гл.* превышать<common/>
+A **juror** must be fair.
 
-The old **pine** tree stood tall, a silent witness to generations. It was a **legacy** from my grandfather, a symbol of strength and resilience. I had to **submit** my proposal for its preservation to the city council. They would **rate** it based on its historical and environmental significance.
+Присяжный должен быть справедливым.
 
-Старая **сосна** стояла высоко, безмолвным свидетелем поколений. Это было **наследие** от моего деда, символ силы и стойкости. Я должен был **подать** своё предложение о её сохранении в городской совет. Они должны были **оценить** его на основе его исторической и экологической значимости.
+A good **scout** is quiet and careful.
 
-My **dependent** daughter, Lily, loved climbing its branches. She was **dependent** on its shade during the hot summers. I explained to her how trees like this one absorbed **carbon** dioxide, helping the environment.
+Хороший разведчик тих и осторожен.
 
-Моя **зависимая** дочь, Лили, любила лазить по её ветвям. Она **зависела** от её тени в жаркие летние дни. Я объяснил ей, как деревья, подобные этому, поглощают **углерод** диоксид, помогая окружающей среде.
+The road has a dangerous **curve**.
 
-I sought **counsel** from my **associate**, a lawyer specializing in environmental law. He advised me on the **major** points to emphasize in my proposal. "You must **distinguish** this tree from others," he said. "Highlight its unique features."
+Дорога имеет опасный поворот.
 
-Я обратился за **советом** к своему **коллеге**, юристу, специализирующемуся на экологическом праве. Он посоветовал мне, на какие **крупные** моменты следует обратить внимание в своём предложении. "Вы должны **различить** это дерево среди других", - сказал он. "Подчеркните его уникальные особенности".
+I think the teacher **overlooked** my homework.
 
-During the council meeting, a rival developer made an **offensive** remark about the tree, calling it a hindrance to progress. I felt my hopes **collapse**. But then, Lily stood up and spoke passionately about the tree's importance to the community. Her words helped **ease** the tension.
+Думаю, учитель не выполнил мое домашнее задание.
 
-Во время заседания совета, конкурирующий застройщик сделал **оскорбительное** замечание о дереве, назвав его препятствием на пути прогресса. Я почувствовал, что мои надежды **рухнули**. Но затем Лили встала и страстно рассказала о важности дерева для общества. Её слова помогли **облегчить** напряжение.
+Volunteering can be a **meaningful** experience.
 
-The council members, impressed by Lily's sincerity, decided to approve the preservation plan. The old pine would remain, a **carrier** of history and a symbol of hope. Its **scope** extended beyond its physical presence, touching the lives of everyone in the community.
+Волонтерство может стать значимым опытом.
 
-Члены совета, впечатлённые искренностью Лили, решили одобрить план сохранения. Старая сосна останется, **перевозчиком** истории и символом надежды. Её **рамки** выходили за рамки её физического присутствия, затрагивая жизни каждого в сообществе.
+He can **pitch** the ball very fast.
 
-The **narrator** of this story, an old friend of the family, often visited the pine tree with Lily. They would **brush** the fallen leaves and talk about the **subsequent** generations who would enjoy its shade. The tree's legacy would **exceed** our expectations, a testament to the power of nature and the importance of preserving our heritage.
+Он может подавать мяч очень быстро.
 
-**Рассказчик** этой истории, старый друг семьи, часто посещал сосну с Лили. Они **чистили** опавшие листья и говорили о **последующих** поколениях, которые будут наслаждаться её тенью. Наследие дерева **превзойдёт** наши ожидания, свидетельство силы природы и важности сохранения нашего наследия.
+The **pitch** is green and big.
 
-## #3.d<common/>
+Поле зеленое и большое.
 
-**pine** [-] *сущ.* сосна; **legacy** [-] *сущ.* наследие; **submit** [-] *гл.* подавать; **rate** [-] *гл.* оценивать; **dependent** [-] *прил.* зависимый; **carbon** [-] *сущ.* углерод; **counsel** [-] *сущ.* адвокат; **associate** [-] *сущ.* коллега; **major** [-] *сущ.* крупный; **distinguish** [-] *гл.* различать; **offensive** [-] *прил.* оскорбительный; **collapse** [-] *гл.* рухнуть; **ease** [-] *гл.* облегчать; **carrier** [-] *сущ.* перевозчик; **scope** [-] *сущ.* рамки; **distinct** [-] *прил.* различный; **narrator** [-] *сущ.* рассказчик; **brush** [-] *гл.* чистить; **subsequent** [-] *прил.* последующий; **exceed** [-] *гл.* превышать<common/>
+I **greatly** enjoyed the movie last night.
 
-The **narrator** of this story was a young lawyer named Clara. She worked as an **associate** at a **major** law firm, where her **counsel** often reminded her to **distinguish** between personal feelings and professional duties. Clara’s **legacy** was tied to her father, a respected environmentalist who had spent his life studying the impact of **carbon** emissions on forests. He often spoke of the **pine** trees near their home, which were **dependent** on clean air to survive.
+Мне очень понравился вчерашний фильм.
 
-**Рассказчиком** этой истории была молодая адвокат по имени Клара. Она работала **коллегой** в **крупной** юридической фирме, где ее **адвокат** часто напоминал ей **различать** личные чувства и профессиональные обязанности. **Наследие** Клары было связано с ее отцом, уважаемым экологом, который посвятил свою жизнь изучению влияния выбросов **углерода** на леса. Он часто говорил о **соснах** возле их дома, которые были **зависимы** от чистого воздуха.
+The **legend** on the old coin is hard to read.
 
-One day, Clara was asked to **submit** a report on a case involving a **carrier** company accused of **exceeding** pollution limits. The **scope** of the case was vast, and Clara felt overwhelmed. Her **subsequent** meetings with the company’s representatives were tense. One of them made an **offensive** remark about her father’s work, causing Clara to **collapse** emotionally. She **brushed** away her tears and tried to **ease** her mind by focusing on the facts.
+Надпись на старой монете трудно прочесть.
 
-Однажды Клару попросили **подать** отчет по делу, связанному с компанией-**перевозчиком**, обвиняемой в **превышении** лимитов загрязнения. **Рамки** дела были огромными, и Клара чувствовала себя перегруженной. Ее **последующие** встречи с представителями компании были напряженными. Один из них сделал **оскорбительное** замечание о работе ее отца, из-за чего Клара **рухнула** эмоционально. Она **смахнула** слезы и попыталась **облегчить** свои мысли, сосредоточившись на фактах.
+The government has **regulatory** rules for food safety.
 
-As the trial approached, Clara had to **rate** the evidence carefully. She noticed a **distinct** pattern in the company’s actions, which made her realize how important it was to fight for justice. In the end, Clara’s determination helped her win the case, proving that her father’s **legacy** was not in vain.
+Правительство установило нормативные правила в отношении безопасности пищевых продуктов.
 
-По мере приближения суда Кларе пришлось **оценить** доказательства тщательно. Она заметила **различный** паттерн в действиях компании, который помог ей понять, как важно бороться за справедливость. В конце концов, решимость Клары помогла ей выиграть дело, доказав, что **наследие** ее отца не было напрасным.
+She wants to be a famous **musician**.
 
-## #4.g<common/>
+Она хочет стать известным музыкантом.
 
-**crack** [-] *гл.* трескаться; **medication** [-] *сущ.* лечение; **tent** [-] *сущ.* палатка; **principal** [-] *прил.* основной; **adequate** [-] *прил.* достаточный; **headline** [-] *сущ.* заголовок; **impressive** [-] *прил.* впечатляющий; **measurement** [-] *сущ.* измерение; **moderate** [-] *прил.* умеренный; **competitor** [-] *сущ.* конкурент; **confusion** [-] *сущ.* путаница; **legislature** [-] *сущ.* законодатель; **changing** [-] *прил.* меняющийся; **ethics** [-] *сущ.* мораль; **exhibit** [-] *гл.* выставлять; **nerve** [-] *сущ.* нерв; **cope** [-] *гл.* справиться; **acid** [-] *сущ.* кислота; **principal** [-] *сущ.* директор; **pitch** [-] *сущ.* поле<common/>
+That **encounter** changed my life.
 
-The **principal** game of the year was today. Our team was ready. We had **adequate** practice. The **headline** in the newspaper was **impressive**: "The Tigers are Ready to Roar!"
+Эта встреча изменила мою жизнь.
 
-**Основная** игра года была сегодня. Наша команда была готова. У нас была **достаточная** практика. **Заголовок** в газете был **впечатляющим**: "Тигры готовы рычать!"
+The **notice** is very important.
 
-Before the game, my friend Tom felt nervous. "My **medication** makes me sleepy," he said. "I hope I can **cope** with it."
+Уведомление очень важное.
 
-Перед игрой мой друг Том нервничал. "Моё **лекарство** делает меня сонным", - сказал он. "Надеюсь, я смогу с этим **справиться**".
+We enjoyed the **pop** of bubbles in the soda.
 
-During the game, the other team's star player, Mike, tried to **crack** our defense. He was their **principal** **competitor**. He ran fast, but our team was faster. We made good **measurements** of the **pitch**.
+Мы наслаждались лопающимися пузырьками в газировке.
 
-Во время игры звезда другой команды, Майк, пытался **взломать** нашу защиту. Он был их **основным** **конкурентом**. Он бежал быстро, но наша команда была быстрее. Мы сделали хорошие **замеры** **поля**.
+They **rent** an apartment near the park.
 
-The score was **moderate**. It was a close game. Then, there was **confusion**. The referee made a wrong call. Our coach talked to the **principal** of the school. He also talked to the **legislature**. They were **changing** the rules!
+Они снимают квартиру недалеко от парка.
 
-Счет был **умеренным**. Это была близкая игра. Затем возникла **путаница**. Судья принял неверное решение. Наш тренер поговорил с **директором** школы. Он также поговорил с **законодателем**. Они **меняли** правила!
+The company's **earnings** this year were very good.
 
-"This is not **ethics**," our coach said. "We want a fair game."
+Доходы компании в этом году были очень хорошими.
 
-"Это не **этика**, - сказал наш тренер. "Мы хотим честной игры".
+Let's stay here for a **while**.
 
-After some time, the game continued. Tom felt better. He played very well. He even **exhibited** great **nerve** when he scored the winning goal.
+Давайте останемся здесь на некоторое время.
 
-Через некоторое время игра продолжилась. Том почувствовал себя лучше. Он играл очень хорошо. Он даже **проявил** большое **мужество**, когда забил победный гол.
+What is your **intent** for this project?
 
-We won the game! Everyone was happy. We celebrated in our **tent** after the game. Even Mike congratulated us. It was a day to remember.
+Каковы ваши намерения в этом проекте?
 
-Мы выиграли игру! Все были счастливы. Мы праздновали в нашей **палатке** после игры. Даже Майк поздравил нас. Это был день, который нужно запомнить.
+These plants are **indigenous** to this island.
 
-## #4.d<common/>
+Эти растения являются коренными для этого острова.
 
-**crack** [-] *гл.* трескаться; **medication** [-] *сущ.* лечение; **tent** [-] *сущ.* палатка; **principal** [-] *прил.* основной; **adequate** [-] *прил.* достаточный; **headline** [-] *сущ.* заголовок; **impressive** [-] *прил.* впечатляющий; **measurement** [-] *сущ.* измерение; **moderate** [-] *прил.* умеренный; **competitor** [-] *сущ.* конкурент; **confusion** [-] *сущ.* путаница; **legislature** [-] *сущ.* законодатель; **changing** [-] *прил.* меняющийся; **ethics** [-] *сущ.* мораль; **exhibit** [-] *гл.* выставлять; **nerve** [-] *сущ.* нерв; **cope** [-] *гл.* справиться; **acid** [-] *сущ.* кислота; **principal** [-] *сущ.* директор; **pitch** [-] *сущ.* поле<common/>
+**Overall**, I think the movie was good.
 
-One day, a group of students went on a camping trip. They set up their **tent** near a forest. The weather was **moderate**, not too hot or cold. The **principal** of the school joined them to ensure everything was safe.
+В целом, я считаю, что фильм хороший.
 
-Однажды группа студентов отправилась в поход. Они поставили свою **палатку** рядом с лесом. Погода была **умеренной**, не слишком жарко или холодно. **Директор** школы присоединился к ним, чтобы убедиться, что всё безопасно.
+The answer is **evident** in the book.
 
-As they were hiking, they noticed a strange **crack** in the ground. One student, a science **competitor**, decided to take a **measurement** of the crack. Suddenly, they heard a loud noise. It was an **impressive** sound, like thunder. Everyone felt **confusion** and fear.
+Ответ очевиден в книге.
 
-Во время прогулки они заметили странную **трещину** в земле. Один студент, участник научных **конкурсов**, решил сделать **измерение** трещины. Внезапно они услышали громкий звук. Это был **впечатляющий** звук, похожий на гром. Все почувствовали **путаницу** и страх.
+He is **aging** quickly.
 
-The **principal** quickly took charge. "We need to **cope** with this situation," he said. He reminded them of the importance of **ethics** and teamwork. They decided to return to the **tent** and wait for help.
+Он быстро стареет.
 
-**Директор** быстро взял ситуацию под контроль. «Нам нужно **справиться** с этой ситуацией», — сказал он. Он напомнил им о важности **морали** и командной работы. Они решили вернуться в **палатку** и ждать помощи.
+**Sodium** is a chemical element.
 
-Back at the camp, one student felt sick. They realized he had forgotten his **medication**. The group had to find an **adequate** solution. They used some natural remedies, like **acid** from a plant, to help him feel better.
+Натрий — химический элемент.
 
-Вернувшись в лагерь, один студент почувствовал себя плохо. Они поняли, что он забыл своё **лечение**. Группе пришлось найти **достаточное** решение. Они использовали натуральные средства, например **кислоту** из растения, чтобы помочь ему.
+The **lecture** is about animals.
 
-The next day, the local **legislature** sent a rescue team. The students were safe, but the experience left a **changing** impact on them. They learned to **exhibit** courage and stay calm under pressure. The local newspaper even wrote a **headline** about their adventure: "Students Show Strong **Nerve** in the Wild."
+Лекция о животных.
 
-На следующий день местный **законодатель** отправил спасательную команду. Студенты были в безопасности, но этот опыт оставил **меняющий** след на них. Они научились **выставлять** мужество и оставаться спокойными под давлением. Местная газета даже написала **заголовок** об их приключении: «Студенты проявили крепкие **нервы** в дикой природе».
+Lightning **flashed** in the sky during the storm.
 
-## #5.g<common/>
+Во время грозы в небе сверкнула молния.
 
-**pregnancy** [-] *сущ.* беременность; **margin** [-] *сущ.* запас; **reinforce** [-] *гл.* укреплять; **document** [-] *гл.* документировать; **concrete** [-] *прил.* конкретный; **recruit** [-] *гл.* вербовать; **exact** [-] *прил.* точный; **artistic** [-] *прил.* художественный; **intensity** [-] *сущ.* интенсивность; **concerning** [-] *предл.* относительно; **discourse** [-] *сущ.* обсуждение; **laughter** [-] *сущ.* смех; **anniversary** [-] *сущ.* годовщина; **narrative** [-] *сущ.* повествование; **hypothesis** [-] *сущ.* гипотеза; **acceptable** [-] *прил.* приемлемый; **favor** [-] *сущ.* одолжение; **ballot** [-] *сущ.* тайное голосование; **cluster** [-] *сущ.* скопление; **recording** [-] *сущ.* запись<common/>
+The children love to play on the **slide** in the park.
 
-My friend Sarah was excited. She was **pregnant** and had a baby soon. She needed some money. So, she decided to have an **artistic** show. She had a small **margin** of time to prepare.
+Дети любят кататься на горке в парке.
 
-Моя подруга Сара была взволнована. Она была **беременна**, и скоро у нее должен был родиться ребенок. Ей нужны были деньги. Поэтому она решила устроить **художественную** выставку. У нее был небольшой **запас** времени на подготовку.
+Farmers grow wheat on the wide **plain**.
 
-She wanted to **reinforce** her art skills. She would **document** her work with photos. She made **concrete** plans. She would **recruit** her friends to help.
+Фермеры выращивают пшеницу на широкой равнине.
 
-Она хотела **укрепить** свои художественные навыки. Она собиралась **документировать** свою работу фотографиями. Она строила **конкретные** планы. Она собиралась **вербовать** своих друзей на помощь.
+I have a lunch **engagement** with my boss.
 
-Sarah wanted to make **exact** copies of her best paintings. She worked with great **intensity**. She had many things **concerning** her show.
+У меня назначен обед с моим боссом.
 
-Сара хотела сделать **точные** копии своих лучших картин. Она работала с большой **интенсивностью**. У нее было много дел, **касающихся** ее выставки.
+A translator can **facilitate** communication.
 
-There was a big **discourse** about her art. Some people liked it. Some people didn't. But everyone talked about it. There was a lot of **laughter** at the show. It was also the **anniversary** of Sarah's first art show.
+Переводчик может облегчить общение.
 
-Шел большой **разговор** о ее искусстве. Кому-то нравилось. Кому-то нет. Но все говорили об этом. На выставке было много **смеха**. Это была также **годовщина** первой художественной выставки Сары.
+I want to **enroll** in the English class.
 
-The **narrative** of her life was changing. Her **hypothesis** was that people would like her art. Her art was **acceptable**. People did her a **favor** and voted for her in a **ballot**.
+Я хочу записаться на курс английского языка.
 
-**Повествование** ее жизни менялось. Ее **гипотеза** заключалась в том, что людям понравится ее искусство. Ее искусство было **приемлемым**. Люди оказали ей **одолжение** и проголосовали за нее на **тайном голосовании**.
+The **intensity** of the music increased during the song.
 
-A **cluster** of people gathered around her paintings. They looked at the **recording** of her art process. Sarah was happy. Her art show was a success.
+Интенсивность музыки нарастала по мере исполнения песни.
 
-**Скопление** людей собралось вокруг ее картин. Они смотрели **запись** ее художественного процесса. Сара была счастлива. Ее выставка прошла успешно.
+The story shows the best of **humanity**.
 
-## #5.d<common/>
+Эта история показывает лучшее, что есть в человечестве.
 
-**pregnancy** [-] *сущ.* беременность; **margin** [-] *сущ.* запас; **reinforce** [-] *гл.* укреплять; **document** [-] *гл.* документировать; **concrete** [-] *прил.* конкретный; **recruit** [-] *гл.* вербовать; **exact** [-] *прил.* точный; **artistic** [-] *прил.* художественный; **intensity** [-] *сущ.* интенсивность; **concerning** [-] *предл.* относительно; **discourse** [-] *сущ.* обсуждение; **laughter** [-] *сущ.* смех; **anniversary** [-] *сущ.* годовщина; **narrative** [-] *сущ.* повествование; **hypothesis** [-] *сущ.* гипотеза; **acceptable** [-] *прил.* приемлемый; **favor** [-] *сущ.* одолжение; **ballot** [-] *сущ.* тайное голосование; **cluster** [-] *сущ.* скопление; **recording** [-] *сущ.* запись<common/>
+The clouds **drift** slowly across the sky.
 
-It was the **anniversary** of their first meeting, and Sarah wanted to make it special. She had been feeling overwhelmed lately, especially after discovering her **pregnancy**. The news brought joy but also a sense of uncertainty. She decided to **document** her feelings in a journal, hoping it would help her process everything.
+Облака медленно плывут по небу.
 
-Это была **годовщина** их первой встречи, и Сара хотела сделать этот день особенным. В последнее время она чувствовала себя перегруженной, особенно после того, как узнала о своей **беременности**. Новость принесла радость, но также и чувство неуверенности. Она решила **документировать** свои чувства в дневнике, надеясь, что это поможет ей всё осмыслить.
+The **surgeon** will perform the operation tomorrow.
 
-Her husband, Mark, noticed the **intensity** of her emotions and tried to **reinforce** their bond by planning a quiet evening. He even **recruited** their close friends to help organize a small surprise. Mark was always the more **artistic** one, so he created a **concrete** plan to make the night memorable.
+Хирург проведет операцию завтра.
 
-Её муж, Марк, заметил **интенсивность** её эмоций и попытался **укрепить** их связь, планируя тихий вечер. Он даже **вербовал** их близких друзей, чтобы помочь организовать небольшой сюрприз. Марк всегда был более **художественным**, поэтому он создал **конкретный** план, чтобы сделать вечер запоминающимся.
+She likes to **frame** her face with her hair.
 
-As the evening began, Sarah noticed a **cluster** of candles and flowers on the table. Mark handed her a **recording** of their favorite song, which they had danced to on their first date. The **laughter** and warmth filled the room, and for a moment, all her worries faded.
+Ей нравится, чтобы волосы обрамляли ее лицо.
 
-Когда вечер начался, Сара заметила **скопление** свечей и цветов на столе. Марк передал ей **запись** их любимой песни, под которую они танцевали на первом свидании. **Смех** и тепло наполнили комнату, и на мгновение все её тревоги исчезли.
+They spoke with **conviction** about their beliefs.
 
-During dinner, Mark brought up a **discourse** about their future. He shared his **hypothesis** that they could handle anything together, as long as they communicated. Sarah agreed, feeling reassured. She asked him for a small **favor**: to help her prepare for the baby without losing their **margin** of personal time. Mark smiled and promised to support her every step of the way.
+Они убежденно говорили о своих убеждениях.
 
-За ужином Марк завёл **обсуждение** об их будущем. Он поделился своей **гипотезой**, что они смогут справиться с чем угодно, если будут общаться. Сара согласилась, чувствуя облегчение. Она попросила его об одном маленьком **одолжении**: помочь ей подготовиться к ребёнку, не теряя **запаса** личного времени. Марк улыбнулся и пообещал поддерживать её на каждом этапе.
+Can you **fund** my trip to London?
 
-The night ended with a **ballot** where they wrote down their hopes for the coming year. Sarah’s **narrative** was filled with hope and love, and Mark’s was no different. They both felt that their plans were **acceptable** and realistic.
+Можете ли вы профинансировать мою поездку в Лондон?
 
-Вечер закончился **тайным голосованием**, где они записали свои надежды на предстоящий год. **Повествование** Сары было наполнено надеждой и любовью, и Марк написал то же самое. Они оба чувствовали, что их планы были **приемлемыми** и реалистичными.
+The **mean** of the road is dangerous to walk on.
 
-As they sat together, Sarah realized that even though life was unpredictable, their love was **exact** and unwavering. She felt a deep sense of gratitude, especially **concerning** Mark’s efforts to make her feel cherished.
+По средней части дороги опасно ходить.
 
-Сидя вместе, Сара поняла, что, хотя жизнь непредсказуема, их любовь была **точной** и непоколебимой. Она почувствовала глубокую благодарность, особенно **относительно** усилий Марка сделать её счастливой.
+The price of the hotel is **modest** compared to other hotels in the city.
 
-## #6.g<common/>
+Цена отеля скромная по сравнению с другими отелями города.
 
-**decrease** [-] *гл.* уменьшать; **architect** [-] *сущ.* архитектор; **remark** [-] *сущ.* замечание; **prescription** [-] *сущ.* рецепт; **sacred** [-] *прил.* священный; **rank** [-] *гл.* оценивать; **greatly** [-] *нар.* значительно; **soccer** [-] *сущ.* футбол; **delay** [-] *гл.* откладывать; **allegation** [-] *сущ.* обвинение; **pill** [-] *сущ.* таблетка; **tight** [-] *нар.* туго; **plain** [-] *сущ.* равнина; **sin** [-] *сущ.* грех; **evident** [-] *прил.* очевидный; **sponsor** [-] *гл.* спонсировать; **acceptance** [-] *сущ.* принятие; **prosecution** [-] *сущ.* обвинение; **cognitive** [-] *прил.* познавательный; **presidency** [-] *сущ.* президентство<common/>
+The rain will **delay** our picnic.
 
-The **architect** of the new stadium was worried. The project was **greatly** behind schedule, and the team's **sponsor** was getting impatient. "We need to **decrease** the **delay**," the sponsor said in a **remark** to the architect. "This stadium is **sacred** to the fans. We can't let them down."
+Дождь задержит наш пикник.
 
-**Архитектор** нового стадиона был обеспокоен. Проект **значительно** отставал от графика, и **спонсор** команды терял терпение. "Нам нужно **уменьшить** **задержку**", - сказал спонсор в **замечании** архитектору. "Этот стадион **священен** для болельщиков. Мы не можем их подвести".
+We need to **educate** people about recycling.
 
-The architect nodded, but he had a secret. He had been taking **pills** to help him focus, but they were having strange side effects. He was experiencing **cognitive** problems, and he was worried that his **prescription** was not right.
+Нам необходимо информировать людей о переработке отходов.
 
-Архитектор кивнул, но у него был секрет. Он принимал **таблетки**, чтобы помочь ему сосредоточиться, но они имели странные побочные эффекты. Он испытывал **когнитивные** проблемы, и его беспокоило, что его **рецепт** был неправильным.
+Her **admission** to the university made her very happy.
 
-Meanwhile, the team's star player was involved in a scandal. He was accused of taking bribes to throw games, and the **allegation** was **evident** that he had been involved in some shady deals. The team's fans were furious. They felt betrayed by their hero.
+Поступление в университет сделало ее очень счастливой.
 
-Тем временем, звезда команды был вовлечен в скандал. Его обвинили в получении взяток за проигрыш в играх, и **обвинение** было **очевидным** в том, что он был вовлечен в какие-то темные сделки. Болельщики команды были в ярости. Они чувствовали себя преданными своим героем.
+A high **dose** can be dangerous.
 
-The team's **presidency** was in a **tight** spot. They had to find a way to deal with the scandal and keep the sponsors happy. They knew that the **prosecution** of the player would be difficult, but they also knew that it was the only way to restore the team's reputation.
+Высокая доза может быть опасной.
 
-**Президентство** команды было в **трудном** положении. Они должны были найти способ разобраться со скандалом и сохранить спонсоров довольными. Они знали, что **преследование** игрока будет трудным, но они также знали, что это единственный способ восстановить репутацию команды.
+I can **trail** the cat with its bell.
 
-In the end, the architect was able to finish the stadium on time, but the team's reputation was tarnished. The player was found guilty and sentenced to prison. The team's **acceptance** in the community was low. The president was able to keep his job, but he knew that his **presidency** would never be the same.
+Я могу выследить кошку с помощью колокольчика.
 
-В конце концов, архитектор смог вовремя закончить строительство стадиона, но репутация команды была запятнана. Игрок был признан виновным и приговорен к тюремному заключению. **Принятие** команды в обществе было низким. Президент смог сохранить свою работу, но он знал, что его **президентство** никогда не будет прежним.
+A **astronomer** studies stars and planets.
 
-## #6.d<common/>
+Астроном изучает звезды и планеты.
 
-**decrease** [-] *гл.* уменьшать; **architect** [-] *сущ.* архитектор; **remark** [-] *сущ.* замечание; **prescription** [-] *сущ.* рецепт; **sacred** [-] *прил.* священный; **rank** [-] *гл.* оценивать; **greatly** [-] *нар.* значительно; **soccer** [-] *сущ.* футбол; **delay** [-] *гл.* откладывать; **allegation** [-] *сущ.* обвинение; **pill** [-] *сущ.* таблетка; **tight** [-] *нар.* туго; **plain** [-] *сущ.* равнина; **sin** [-] *сущ.* грех; **evident** [-] *прил.* очевидный; **sponsor** [-] *гл.* спонсировать; **acceptance** [-] *сущ.* принятие; **prosecution** [-] *сущ.* обвинение; **cognitive** [-] *прил.* познавательный; **presidency** [-] *сущ.* президентство<common/>
+He **awaits** his birthday eagerly.
 
-Once upon a time, in a small town on a vast **plain**, there lived an **architect** named John. He was known for his **sacred** dedication to his work, but lately, his health had begun to **decrease**. His doctor gave him a **prescription** for some **pills**, but John kept **delaying** taking them. "I don’t have time for this," he would say, tying his scarf **tight** around his neck.
+Он с нетерпением ждет своего дня рождения.
 
-Жил-был в маленьком городке на обширной **равнине** **архитектор** по имени Джон. Он был известен своим **священным** посвящением работе, но в последнее время его здоровье начало **ухудшаться**. Врач выписал ему **рецепт** на **таблетки**, но Джон продолжал **откладывать** их прием. «У меня нет на это времени», — говорил он, завязывая шарф **туго** вокруг шеи.
+The **essence** of friendship is trust.
 
-One day, John received a **remark** from his boss about a project he was working on. The boss said, "Your work is **greatly** appreciated, but there’s an **evident** lack of creativity here." John felt hurt but decided to **rank** his priorities. He realized he needed to focus on his health.
+Суть дружбы — доверие.
 
-Однажды Джон получил **замечание** от начальника по поводу проекта, над которым он работал. Босс сказал: «Вашу работу **значительно** ценят, но здесь заметен **очевидный** недостаток творчества». Джону было обидно, но он решил **оценить** свои приоритеты. Он понял, что нужно сосредоточиться на своем здоровье.
+What is your **preference**: the red shirt or the blue shirt?
 
-Meanwhile, a local **soccer** team was looking for a **sponsor**. John, who had always loved the sport, decided to help. His **acceptance** of the role brought him joy, but it also led to an unexpected **allegation**. Someone accused him of using the team’s funds for personal gain. The **prosecution** was quick to investigate, but John proved his innocence.
+Какую рубашку вы предпочитаете: красную или синюю?
 
-Тем временем местная **футбольная** команда искала **спонсора**. Джон, который всегда любил спорт, решил помочь. Его **принятие** этой роли принесло ему радость, но также привело к неожиданному **обвинению**. Кто-то обвинил его в использовании средств команды в личных целях. **Обвинение** быстро начало расследование, но Джон доказал свою невиновность.
+You can **reverse** your decision if you want to.
 
-During this time, John also faced a **cognitive** challenge. He had to design a new building while dealing with the stress of the **presidency** of the soccer club. He often wondered if he was committing a **sin** by neglecting his health. Finally, he decided to take his **pills** and focus on balancing his life.
+При желании вы можете отменить свое решение.
 
-В это время Джон также столкнулся с **познавательным** вызовом. Ему нужно было спроектировать новое здание, одновременно справляясь со стрессом от **президентства** в футбольном клубе. Он часто задавался вопросом, совершает ли он **грех**, пренебрегая своим здоровьем. В конце концов, он решил принимать **таблетки** и сосредоточиться на балансе в жизни.
+He can **rip** the ticket to show he has been on the bus.
 
-In the end, John learned that life is about finding harmony. He continued his work as an **architect**, supported the **soccer** team, and took care of his health. The town admired him for his resilience and dedication.
+Он может порвать билет, чтобы показать, что он был в автобусе.
 
-В итоге Джон понял, что жизнь — это поиск гармонии. Он продолжил свою работу **архитектора**, поддерживал **футбольную** команду и заботился о своем здоровье. Город восхищался его стойкостью и преданностью.
+She is a **commissioner** for the police department.
 
-## #6.p<common/>
+Она является комиссаром полицейского департамента.
 
-**suite** [суИт] номер; **hence** [хЕнс] отсюда; **hostage** [хАстыдж] заложник; **facilitate** [фэсЫлэтЕйт] способствовать; **leap** [лИп] прыгать<common/>
+She likes the **swing** of the music when she dances.
 
-In my hotel **suite**, a sweet treat awaits,
+Ей нравится ритмичная музыка во время танца.
 
-В моем гостиничном **люксе** вас ждет сладкое угощение,
+We hang our coats in the **hallway**.
 
-I see the world from **hence**, beyond the old white gates.
+Мы вешаем пальто в коридоре.
 
-Я вижу мир из **отсюда**, за старыми белыми воротами.
+She was **greatly** surprised to see her friend.
 
-The fearless **hostage** found his courage to rise,
+Она была очень удивлена, увидев своего друга.
 
-Бесстрашный **заложник** нашел в себе мужество подняться,
+I can't understand the **legend** under the photo.
 
-Breaking free from the chains, he reached for the skies.
+Я не могу понять подпись под фотографией.
 
-Освободившись от цепей, он потянулся к небесам.
+After the race, he was out of breath and his **pant** was very loud.
 
-Great teachers **facilitate**, guiding minds that seek,
+После гонки он задыхался и его дыхание было очень громким.
 
-Великие учителя **помогают**, направляя ищущие умы,
+He made a funny **remark** about the weather.
 
-They inspire and educate, making the future less weak.
+Он сделал забавное замечание о погоде.
 
-Они вдохновляют и обучают, делая будущее менее слабым.
+I **part** agree with you, but I have a different opinion too.
 
-He will **leap** from the steep cliff, trusting his way,
+Я отчасти с вами согласен, но у меня есть и другое мнение.
 
-Он **прыгнет** с крутого обрыва, доверяя своему пути,
+The teacher doesn't **endorse** cheating in exams.
 
-With hope in his heart, he embraces the day.
+Учитель не одобряет списывание на экзаменах.
 
-С надеждой в сердце он встретит этот день.
+This course provides a **framework** for learning English.
 
-**herb** трава; **accommodate** вмещать; **harm** вред; **adolescent** подросток; **profound** глубокий; **counterpart** коллега; **convey**  передавать; **bite** укус; **bias** предвзятость; **endorse** одобрять<common/>
+Этот курс обеспечивает основу для изучения английского языка.
 
-In the field where **herb** grows green,
+Her joke caused loud **laughter** in the classroom.
 
-В поле, где зеленеет **трава**,
+Ее шутка вызвала громкий смех в классе.
 
-We find the peace we’ve always seen.
+The **judicial** system helps to solve problems fairly.
 
-Мы находим покой, который всегда видели.
+Судебная система помогает решать проблемы справедливо.
 
-We **accommodate** all who come near,
+She needs **acceptance** from her friends.
 
-Мы **вмещаем** всех, кто приближается,
+Ей нужно признание друзей.
 
-And offer kindness, loud and clear.
+There is a **continuing** need for clean water in the village.
 
-И предлагаем доброту, громко и ясно.
+В селе сохраняется острая потребность в чистой воде.
 
-A young **adolescent**, full of dreams,
+She will **pitch** in the baseball game tomorrow.
 
-Юный **подросток**, полный мечтаний,
+Завтра она будет играть в бейсбольном матче.
 
-Seeks wisdom that’s **profound**, it seems.
+The **estimated** time to finish the homework is one hour.
 
-Ищет мудрость, которая **глубока**, как кажется.
+Расчетное время выполнения домашнего задания — один час.
 
-But **harm** can come when hearts are cold,
+The cat is **seemingly** asleep, but its ears are twitching.
 
-Но **вред** может прийти, когда сердца холодны,
+Кот, похоже, спит, но его уши дергаются.
 
-So we stay warm, and we stay bold.
+They kept him as a **hostage** for money.
 
-Так что мы остаемся в тепле и дерзаем.
+Они держали его в заложниках за деньги.
 
-My **counterpart** and I, side by side,
+This park is a nice place for **elderly** people to relax.
 
-Я и мой **коллега**, бок о бок,
+Этот парк — прекрасное место для отдыха пожилых людей.
 
-We **convey** ideas with nothing to hide.
+I need a **ski** for the snow.
 
-Мы **передаем** идеи, ничего не скрывая.
+Мне нужны лыжи для снега.
 
-Though **bias** may cloud some minds today,
+The painting is **controversial**; some love it, others hate it.
 
-Хотя **предвзятость** может омрачить некоторые умы сегодня,
+Картина вызывает споры: одни ее любят, другие ненавидят.
 
-We choose to lead a brighter way.
+I like the **curve** of the vase.
 
-Мы выбираем светлый путь.
+Мне нравится изгиб вазы.
 
-A **bite** may painful, but it won't last long,
+The stadium can **accommodate** a lot of fans.
 
-**Укус** может быть болезненным, но это ненадолго,
+Стадион может вместить большое количество болельщиков.
 
-Together we stand, both weak and strong.
+The weather has been **consistently** cold this week.
 
-Мы вместе - и слабые, и сильные.
+На этой неделе погода была стабильно холодной.
 
-We **endorse** the truth, for all to see,
+My family has a **saving** account for emergencies.
 
-Мы **одобряем** правду, чтобы все видели,
+У моей семьи есть сберегательный счет на случай непредвиденных обстоятельств.
 
-And work for peace, in unity.
+The website will **rank** the movies from best to worst.
 
-И работаем над миром в единстве.
+Сайт отсортирует фильмы от лучшего к худшему.
 
-## #7.c<common/>
+This cream helps your skin **absorb** moisture.
 
-**finance** [-] *гл.* финансировать; **regulate** [-] *гл.* регулировать; **rent** [-] *гл.* арендовать; **civilian** [-] *прил.* гражданский; **estimated** [-] *прил.* примерный; **highlight** [-] *гл.* выделять; **compound** [-] *сущ.* соединение; **integrate** [-] *гл.* объединять; **medium** [-] *сущ.* средство; **excuse** [-] *гл.* прощать; **net** [-] *прил.* чистый; **swing** [-] *сущ.* размах; **curve** [-] *сущ.* изгиб; **mill** [-] *сущ.* мельница; **closet** [-] *сущ.* шкаф; **interior** [-] *сущ.* интерьер; **reverse** [-] *гл.* откатывать; **salmon** [-] *сущ.* лосось; **log** [-] *сущ.* бревно; **surgeon** [-] *сущ.* хирург<common/>
+Этот крем помогает вашей коже впитывать влагу.
 
-Lena wanted to **rent** a small house near the river. She had an **estimated** budget and needed to **finance** the repairs herself. The house had an old **mill** in the yard and a wooden **log** near the door.
+She goes to **counseling** every week.
 
-Лена хотела **арендовать** маленький дом возле реки. У нее был **примерный** бюджет, и ей нужно было **финансировать** ремонт самой. Во дворе дома была старая **мельница**, а возле двери лежало деревянное **бревно**.
+Она ходит на консультацию каждую неделю.
 
-Inside, the **interior** was simple. She found an old **closet** in one room and a large mirror with a beautiful **curve** on its frame. The floor was dirty, but the air felt fresh.
+Ice **formation** can be dangerous on roads.
 
-Внутри **интерьер** был простым. В одной комнате она нашла старый **шкаф** и большое зеркало с красивым **изгибом** на раме. Пол был грязным, но воздух казался свежим.
+Образование льда на дорогах может быть опасным.
 
-One day, a **civilian** engineer came to help. He said the house needed better electricity. Lena asked him to **regulate** the system and **integrate** new cables.
+The company wants to ensure **equity** in pay for all workers.
 
-Однажды пришел **гражданский** инженер, чтобы помочь. Он сказал, что в доме нужно улучшить электрику. Лена попросила его **регулировать** систему и **объединять** новые кабели.
+Компания хочет обеспечить всем работникам равную оплату труда.
 
-Later, she cooked **salmon** for dinner. While eating, she read about a famous **surgeon** who helped people in need.
+We turn the **globe** to find different places.
 
-Позже она приготовила **лосося** на ужин. Во время еды она читала о знаменитом **хирурге**, который помогал людям в беде.
+Мы вращаем земной шар, чтобы найти разные места.
 
-Outside, she sat on a **swing** and watched the sunset. She wanted to **highlight** the beauty of the place by planting flowers.
+Dogs and cats **differ** in many ways.
 
-Снаружи она села на **размах** и смотрела на закат. Она хотела **выделять** красоту этого места, сажая цветы.
+Собаки и кошки во многом отличаются.
 
-Suddenly, she saw a strange light from the **compound** next door. She decided to check it later.
+The book was my only **companion** that night.
 
-Вдруг она увидела странный свет из соседнего **соединения**. Она решила проверить это позже.
+В ту ночь моим единственным спутником была книга.
 
-The next morning, she tried to clean the house. She used a **medium** to remove the dust and smiled. It was hard work, but she loved it.
+She will **leap** for joy when she hears the news.
 
-На следующее утро она попыталась убрать дом. Она использовала **средство** для удаления пыли и улыбнулась. Это была тяжелая работа, но ей нравилось.
+Она будет прыгать от радости, когда услышит эту новость.
 
-When her friend visited, she spilled juice on the floor. "Oh no!" she said. "Please **excuse** me!"
+Please **excuse** me for being late.
 
-Когда в гости пришла ее подруга, она пролила сок на пол. "О нет!" – сказала она. "Пожалуйста, **прости** меня!"
+Извините, пожалуйста, за опоздание.
 
-"It's okay," Lena laughed. "I’ll clean it."
+The sun will **diminish** in brightness as it sets.
 
-"Все нормально", – засмеялась Лена. "Я уберу."
+По мере захода солнца его яркость будет уменьшаться.
 
-After some time, she found an old book about history. It talked about how people **reverse** bad decisions and build a better future.
+My brother is a **freshman** at university this year.
 
-Через некоторое время она нашла старую книгу по истории. В ней говорилось о том, как люди **откатывают** плохие решения и строят лучшее будущее.
+В этом году мой брат учится на первом курсе университета.
 
-By the end of the day, Lena looked at her work. The house was almost ready. She felt happy and proud of her **net** progress.
+The machine can **project** a 3D image.
 
-К концу дня Лена посмотрела на свою работу. Дом был почти готов. Она чувствовала радость и гордость за свой **чистый** прогресс.
+Машина может проецировать 3D-изображение.
 
-## #7.d<common/>
+**Ownership** is important for feeling secure.
 
-**finance** [-] *гл.* финансировать; **regulate** [-] *гл.* регулировать; **rent** [-] *гл.* арендовать; **civilian** [-] *прил.* гражданский; **estimated** [-] *прил.* примерный; **highlight** [-] *гл.* выделять; **compound** [-] *сущ.* соединение; **integrate** [-] *гл.* объединять; **medium** [-] *сущ.* средство; **excuse** [-] *гл.* прощать; **net** [-] *прил.* чистый; **swing** [-] *сущ.* размах; **curve** [-] *сущ.* изгиб; **mill** [-] *сущ.* мельница; **closet** [-] *сущ.* шкаф; **interior** [-] *сущ.* интерьер; **reverse** [-] *гл.* откатывать; **salmon** [-] *сущ.* лосось; **log** [-] *сущ.* бревно; **surgeon** [-] *сущ.* хирург<common/>
+Чувство собственности важно для ощущения безопасности.
 
-Once upon a time, in a small **civilian** town, there was an old **mill** by the river. The town council decided to **finance** its restoration to attract tourists. They hired a **surgeon** named Dr. Green, who loved architecture, to **regulate** the project. He **estimated** the cost and **highlighted** the importance of preserving the **interior** design.
+What is your friend's **major**?
 
-Жил-был в маленьком **гражданском** городке старый **мельница** у реки. Городской совет решил **финансировать** её восстановление, чтобы привлечь туристов. Они наняли **хирурга** по имени доктор Грин, который любил архитектуру, чтобы **регулировать** проект. Он **примерно** оценил стоимость и **выделил** важность сохранения **интерьера**.
+Какая специальность у вашего друга?
 
-The mill had a unique **compound** of wood and stone, and Dr. Green wanted to **integrate** modern elements without losing its charm. He suggested using a **medium** like glass to add light. The council agreed, and they began to **rent** tools and materials.
+The meeting was short. A **subsequent** email explained everything.
 
-Мельница имела уникальное **соединение** дерева и камня, и доктор Грин хотел **объединить** современные элементы, не потеряв её очарования. Он предложил использовать **средство** вроде стекла, чтобы добавить света. Совет согласился, и они начали **арендовать** инструменты и материалы.
+Встреча была короткой. Последующее электронное письмо все объяснило.
 
-One day, while cleaning, they found an old **closet** filled with **logs** and a painting of a **salmon**. Dr. Green decided to **reverse** the decision to remove the closet, as it added character. The project faced a **curve** when the budget ran low, but the council decided to **excuse** the delay and focus on the **net** benefits for the town.
+He has a **margin** of money in his bank account.
 
-Однажды, во время уборки, они нашли старый **шкаф**, наполненный **бревнами** и картиной с изображением **лосося**. Доктор Грин решил **откатить** решение убрать шкаф, так как он добавлял характера. Проект столкнулся с **изгибом**, когда бюджет иссяк, но совет решил **простить** задержку и сосредоточиться на **чистых** выгодах для города.
+На его банковском счете есть определенная сумма денег.
 
-Finally, the mill was restored, and its **swing** door became a symbol of the town’s history. Everyone celebrated the success of the project.
+The **supervisor** tells us what to do.
 
-Наконец, мельница была восстановлена, и её **размах** двери стал символом истории города. Все праздновали успех проекта.
+Руководитель говорит нам, что делать.
+
+The teacher will **rate** our projects next week.
+
+Учитель оценит наши проекты на следующей неделе.
+
+A **pension** helps old people live comfortably.
+
+Пенсия помогает пожилым людям жить комфортно.
+
+The children are running on the **pitch**.
+
+Дети бегают по полю.
+
+The **legislature** meets in the capital city.
+
+Законодательный орган заседает в столице.
+
+I go to the **lecture** every Tuesday.
+
+Я хожу на лекцию каждый вторник.
+
+My grandmother is **aging** gracefully.
+
+Моя бабушка стареет достойно.
+
+She hired a **counsel** to represent her in court.
+
+Она наняла адвоката, который представлял ее интересы в суде.
+
+This **medication** helps to reduce the pain.
+
+Это лекарство помогает уменьшить боль.
+
+He is good at **saving** money.
+
+Он умеет экономить деньги.
+
+**Overall**, the trip was a great experience.
+
+В целом поездка оставила прекрасные впечатления.
+
+The **regulatory** board makes sure the bank is safe.
+
+Регулирующий совет следит за безопасностью банка.
+
+The smell of cookies **triggers** happy memories.
+
+Запах печенья пробуждает приятные воспоминания.
+
+I will **submit** my essay before the deadline.
+
+Я отправлю свое эссе до истечения срока.
+
+Finding a **compromise** made everyone happy.
+
+Нахождение компромисса сделало всех счастливыми.
+
+The project is **part** finished; we still have a lot to do.
+
+Проект частично завершен, нам еще многое предстоит сделать.
+
+I like the **composition** of this song; it's very catchy.
+
+Мне нравится композиция этой песни, она очень запоминающаяся.
+
+We need a little **sodium** in our food.
+
+Нам необходимо немного натрия в пище.
+
+Let's **survey** the area before we build the house.
+
+Давайте осмотрим территорию, прежде чем строить дом.
+
+My friend's parents made the decision for the **adoption** many years ago.
+
+Родители моего друга приняли решение об усыновлении много лет назад.
+
+The wind is a **driving** force in this area.
+
+Ветер является движущей силой в этой области.
+
+Good **prevention** can stop accidents.
+
+Хорошая профилактика может предотвратить несчастные случаи.
+
+My **ski** is red and white.
+
+Мои лыжи красно-белые.
+
+We need to **recruit** more volunteers for the project.
+
+Нам необходимо привлечь больше волонтеров для этого проекта.
+
+He **administers** the small office.
+
+Он руководит малым офисом.
+
+You need to **enroll** before the course starts.
+
+Вам необходимо зарегистрироваться до начала курса.
+
+He has strong **ethics** about honesty.
+
+У него строгие этические принципы в отношении честности.
+
+I saw a cat on the **sidewalk** yesterday.
+
+Вчера я видел кошку на тротуаре.
+
+We will **exhibit** our best work at the school fair.
+
+Мы представим наши лучшие работы на школьной ярмарке.
+
+The **indigenous** people have lived here for centuries.
+
+Коренные жители жили здесь на протяжении столетий.
+
+The baby cried with a **continuous** whimper.
+
+Ребенок плакал и непрерывно хныкал.
+
+I like to have lunch with my **associate** every day.
+
+Мне нравится обедать со своим коллегой каждый день.
+
+This is the main **corps** of the army.
+
+Это основной корпус армии.
+
+We need to reduce the **complexity** of the system.
+
+Нам необходимо снизить сложность системы.
+
+They **assert** their right to speak freely.
+
+Они отстаивают свое право свободно говорить.
+
+The **principal** actor in the movie is very famous.
+
+Главный актер в фильме очень известен.
+
+My sister wants to be a **astronomer** when she grows up.
+
+Моя сестра хочет стать астрономом, когда вырастет.
+
+It's **seemingly** a good idea, but we need to check the details.
+
+Казалось бы, это хорошая идея, но нам нужно проверить детали.
+
+The new law gave the police a **mandate** to enforce the rules.
+
+Новый закон предоставил полиции полномочия по обеспечению соблюдения правил.
+
+The **outer** planets are very cold.
+
+Внешние планеты очень холодные.
+
+He stood in the **mean** of the circle of people.
+
+Он стоял в центре круга людей.
+
+The dog can **trail** the rabbit in the garden.
+
+Собака может выследить кролика в саду.
+
+A judge makes **judicial** decisions in court.
+
+Судья выносит судебные решения в суде.
+
+He shared some **profound** thoughts with us.
+
+Он поделился с нами некоторыми глубокими мыслями.
+
+It took a long **while** to finish.
+
+На это ушло много времени.
+
+He showed **uncertainty** when he answered the question.
+
+Отвечая на вопрос, он проявил неуверенность.
+
+She went down the **slide** very fast.
+
+Она очень быстро скатилась с горки.
+
+The **freshman** class is having a welcome party.
+
+Первокурсники устраивают приветственную вечеринку.
+
+**Equity** means everyone has a fair chance to succeed.
+
+Справедливость означает, что у каждого есть равные шансы на успех.
+
+There is a free **shuttle** from the parking lot.
+
+От парковки ходит бесплатный шаттл.
+
+The mechanic can **tune** the engine.
+
+Механик может настроить двигатель.
+
+Sometimes, we **overlook** important things when we are busy.
+
+Иногда, когда мы заняты, мы упускаем из виду важные вещи.
+
+The king used to **govern** this land.
+
+Раньше этой землей правил король.
+
+Is there **adequate** food for everyone?
+
+Достаточно ли еды для всех?
+
+**Unity** is important for peace.
+
+Единство важно для мира.
+
+He plays **virtual** games with his friends every evening.
+
+Каждый вечер он играет в виртуальные игры со своими друзьями.
+
+The dog's **pant** told me he was too hot.
+
+Судя по штанам собаки, ей слишком жарко.
+
+We need a **diagnosis** to start treatment.
+
+Чтобы начать лечение, нам нужен диагноз.
+
+This book provides **guidance** on how to cook.
+
+В этой книге вы найдете рекомендации по приготовлению пищи.
+
+We need your address of **residence**.
+
+Нам нужен ваш адрес проживания.
+
+They **advocate** for cleaner energy sources.
+
+Они выступают за более чистые источники энергии.
+
+We need to **reverse** the order of these books.
+
+Нам нужно изменить порядок этих книг.
+
+Did you hear her **remark**?
+
+Вы слышали ее замечание?
+
+Can we **rent** a boat at the lake?
+
+Можно ли арендовать лодку на озере?
+
+The penguins formed a **colony** on the ice.
+
+Пингвины образовали колонию на льду.
+
+I want to **rank** my favorite songs in a playlist.
+
+Я хочу составить плейлист из моих любимых песен.
+
+I hope she will **excuse** my bad behavior.
+
+Надеюсь, она простит мое плохое поведение.
+
+The rain **greatly** helped the plants grow.
+
+Дождь очень помог растениям расти.
+
+I want to **pitch** the tent here.
+
+Я хочу поставить палатку здесь.
+
+We could see for miles across the **plain**.
+
+Мы могли видеть равнину на многие мили вокруг.
+
+Please write the **recipient**'s address on the envelope.
+
+Пожалуйста, напишите адрес получателя на конверте.
+
+Can you **convey** this message to Tom?
+
+Можете ли вы передать это сообщение Тому?
+
+Draw a **curve** on the paper.
+
+Нарисуйте на бумаге кривую.
+
+Her happiness was **evident** to everyone.
+
+Ее счастье было очевидно всем.
+
+The red light **flashed** to warn us of danger.
+
+Красный свет мигал, предупреждая нас об опасности.
+
+The wind gave the door a strong **blow**.
+
+Ветер сильно ударил в дверь.
+
+The baby's skin is so **delicate**.
+
+Кожа ребенка такая нежная.
+
+Be careful with the **needle**!
+
+Будьте осторожны с иглой!
+
+The museum has a **legend** next to each painting.
+
+Рядом с каждой картиной в музее есть легенда.
+
+His family showed him **acceptance** after he told them.
+
+Его семья отнеслась к нему с пониманием после того, как он им рассказал.
+
+He gave her a **meaningful** look.
+
+Он бросил на нее многозначительный взгляд.
+
+A **surgeon** needs steady hands and good eyes.
+
+Хирургу нужны твердые руки и зоркие глаза.
+
+The **scout** found a hidden path.
+
+Разведчик нашел скрытую тропу.
+
+I think my **counterpart** is very friendly and helpful.
+
+Я считаю, что мой коллега очень дружелюбен и готов помочь.
+
+Eating well is also part of **fitness**.
+
+Правильное питание также является частью фитнеса.
+
+Love is the **essence** of a happy life.
+
+Любовь — это суть счастливой жизни.
+
+The **acquisition** of knowledge is important for everyone.
+
+Приобретение знаний важно для каждого.
+
+The baseball player has a powerful **swing**.
+
+У бейсболиста мощный замах.
+
+The **departure** gate is number 5.
+
+Выход на посадку — номер 5.
+
+We had to **delay** the meeting until next week.
+
+Нам пришлось отложить встречу до следующей недели.
+
+The baby's **laughter** is very cute and makes me happy.
+
+Смех ребенка очень милый и делает меня счастливой.
+
+His **bias** against cats is because he was once scratched.
+
+Его предубеждение против кошек возникло из-за того, что его однажды поцарапали.
+
+This material blocks **radiation**.
+
+Этот материал блокирует излучение.
+
+This **juror** thinks he is innocent.
+
+Этот присяжный считает, что он невиновен.
+
+My shoes are **wider** than yours.
+
+Мои туфли шире твоих.
+
+She trains with great **intensity**.
+
+Она тренируется с большой интенсивностью.
+
+What is the **estimated** population of this city?
+
+Какова предполагаемая численность населения этого города?
+
+I **endorse** your plan to help the animals.
+
+Я поддерживаю ваш план помощи животным.
+
+The **musician** is very talented.
+
+Музыкант очень талантлив.
+
+His shirt **differs** from mine.
+
+Его рубашка отличается от моей.
+
+My friend is very talented, but she is very **modest** about it.
+
+Моя подруга очень талантлива, но она очень скромна в этом плане.
+
+The **lecture** was very interesting.
+
+Лекция была очень интересной.
+
+The photo is **aging** well.
+
+Фотография хорошо стареет.
+
+The **mean** of the river is the deepest part.
+
+Самая глубокая часть реки — середина.
+
+The **formation** of the Earth took millions of years.
+
+Формирование Земли заняло миллионы лет.
+
+My parents have a deep **conviction** in the power of hard work.
+
+Мои родители глубоко убеждены в силе упорного труда.
+
+The **astronomer** used a telescope to see the moon.
+
+Астроном использовал телескоп, чтобы увидеть Луну.
+
+The judge made a decision based on **equity** and the law.
+
+Судья принял решение, основываясь на справедливости и законе.
+
+She's a **freshman**, so she's new to the school.
+
+Она первокурсница, то есть новенькая в школе.
+
+Be careful when you climb to the top of the **slide**.
+
+Будьте осторожны, поднимаясь на вершину горки.
+
+**Admission** to the swimming pool is only for members.
+
+Вход в бассейн разрешен только членам клуба.
+
+We need a **judicial** review of this case.
+
+Нам необходимо судебное рассмотрение этого дела.
+
+His **intent** was to make her happy.
+
+Его намерением было сделать ее счастливой.
+
+The **commissioner** is responsible for public safety.
+
+Комиссар несет ответственность за общественную безопасность.
+
+Dark colors **absorb** more light than white colors.
+
+Темные цвета поглощают больше света, чем белые цвета.
+
+That's a **controversial** topic, so be careful what you say.
+
+Это спорная тема, поэтому будьте осторожны в своих высказываниях.
+
+This is a **regulatory** document about the new law.
+
+Это нормативный документ о новом законе.
+
+The restaurant offers options to suit every **preference**.
+
+В ресторане предлагаются блюда на любой вкус.
+
+I could hear the **pant** of the runners as they climbed the hill.
+
+Я слышал тяжелое дыхание бегунов, поднимающихся на холм.
+
+He rested for a little **while**.
+
+Он немного отдохнул.
+
+He is **seemingly** happy, but I think he's hiding something.
+
+Он выглядит счастливым, но мне кажется, он что-то скрывает.
+
+**Overall**, she is a very happy person.
+
+В целом она очень счастливый человек.
+
+He broke his **ski** on the mountain.
+
+Он сломал лыжу на горе.
+
+She cancelled her **engagement** because she was sick.
+
+Она отменила помолвку из-за болезни.
+
+The **elderly** man walks with a cane.
+
+Пожилой мужчина ходит с тростью.
+
+The **framework** helps to keep everything in place.
+
+Каркас помогает держать все на своих местах.
+
+This is a traditional song of the **indigenous** community.
+
+Это традиционная песня коренного народа.
+
+This coupon is a great **saving**!
+
+Этот купон — отличная экономия!
+
+Eating too much sugar can **diminish** your health.
+
+Употребление слишком большого количества сахара может ухудшить ваше здоровье.
+
+She will **enroll** her child in the school next year.
+
+Она отдаст своего ребенка в эту школу в следующем году.
+
+She will **trail** her friend to the shop.
+
+Она последует за подругой до магазина.
+
+I use my **earnings** to pay for my school.
+
+Я использую свой заработок, чтобы оплачивать учебу.
+
+They need money to **fund** their research.
+
+Им нужны деньги для финансирования своих исследований.
+
+Books can **educate** you about history.
+
+Книги могут познакомить вас с историей.
+
+The food was **part** cold, so I asked them to heat it up.
+
+Еда была частично холодной, поэтому я попросил ее разогреть.
+
+Too much **sodium** is not good for you.
+
+Избыток натрия вреден для здоровья.
+
+Please **frame** the certificate and hang it up.
+
+Пожалуйста, поместите сертификат в рамку и повесьте его.
+
+He lives in the **principal** house on the street.
+
+Он живет в главном доме на улице.
+
+The artist carefully planned the **composition** of the painting.
+
+Художник тщательно продумал композицию картины.
+
+She failed the first test. Her **subsequent** attempt was successful.
+
+Она провалила первый тест. Ее последующая попытка оказалась успешной.
+
+The doctor follows strict **ethics** when helping people.
+
+Врач придерживается строгих этических принципов, помогая людям.
+
+English is a popular **major**.
+
+Английский язык — популярная специальность.
+
+Don't forget to buy the **medication** from the pharmacy.
+
+Не забудьте купить лекарства в аптеке.
+
+**Prevention** of crime is very important.
+
+Предупреждение преступности имеет большое значение.
+
+People can vote for members of the **legislature**.
+
+Люди могут голосовать за членов законодательного органа.
+
+The **counsel** gave him good legal advice.
+
+Адвокат дал ему хорошую юридическую консультацию.
+
+The room had **adequate** light for reading.
+
+В комнате было достаточно света для чтения.
+
+The **corps** helped people after the storm.
+
+Корпус оказал помощь людям после шторма.
+
+Let's go to the **pitch** and play.
+
+Давайте выйдем на поле и сыграем.
+
+The company **overlooked** his application, so he didn't get the job.
+
+Компания проигнорировала его заявление, поэтому он не получил работу.
+
+They **exhibit** their new products at the trade show.
+
+Они представляют свою новую продукцию на выставке.
+
+Can we **recruit** someone who speaks French?
+
+Можем ли мы нанять кого-то, кто говорит по-французски?
+
+The road has a **margin** of safety on the side.
+
+Дорога имеет запас прочности по обочине.
+
+He **asserted** his innocence to the police.
+
+Он заявил полиции о своей невиновности.
+
+Our company has many **associates** in different departments.
+
+В нашей компании много сотрудников в разных отделах.
+
+Can you **submit** your answers now?
+
+Можете ли вы отправить свои ответы сейчас?
+
+How would you **rate** your experience?
+
+Как бы вы оценили свой опыт?
+
+There was a small **pop** from the fire.
+
+Раздался тихий хлопок от огня.
+
+Read the **legend** on the map to find the river.
+
+Прочитайте легенду на карте, чтобы найти реку.
+
+The group offered **acceptance** to the new student.
+
+Группа предложила принять нового студента.
+
+The **globe** is round, like the Earth.
+
+Земной шар круглый, как и Земля.
+
+The teacher wrote a positive **remark** in my notebook.
+
+Учительница написала в моей тетради положительную оценку.
+
+The **hallway** is narrow and long.
+
+Коридор узкий и длинный.
+
+He **flashed** a smile and waved goodbye.
+
+Он улыбнулся и помахал рукой на прощание.
+
+We shared moments of **laughter** during our holiday.
+
+Во время нашего отпуска мы вместе смеялись.
+
+Many animals live on the **plain**.
+
+На равнине обитает множество животных.
+
+The teacher will **rank** our presentations next week.
+
+На следующей неделе преподаватель оценит наши презентации.
+
+He felt the **intensity** of her gaze.
+
+Он почувствовал пристальный взгляд ее.
+
+The river makes a wide **curve** here.
+
+Здесь река делает широкий изгиб.
+
+He was **greatly** appreciated for his hard work.
+
+Его очень ценили за упорный труд.
+
+The **estimated** arrival time is 6 PM.
+
+Расчетное время прибытия — 18:00.
+
+He is grateful for her **continuing** support.
+
+Он благодарен ей за постоянную поддержку.
+
+Please put the **notice** on the wall.
+
+Пожалуйста, повесьте объявление на стену.
+
+Don't **rip** the page out of the book!
+
+Не вырывайте страницу из книги!
+
+The **essence** of this game is simple: have fun!
+
+Суть этой игры проста: получайте удовольствие!
+
+**Humanity** has made many great inventions.
+
+Человечество создало множество великих изобретений.
+
+I **consistently** practice English for an hour.
+
+Я регулярно практикую английский в течение часа.
+
+She wants to be a **surgeon** when she grows up.
+
+Когда вырастет, она хочет стать хирургом.
+
+He practiced his golf **swing** in the backyard.
+
+Он практиковал удары по мячу на заднем дворе.
+
+The teacher will **project** the lesson on the screen.
+
+Учитель проецирует урок на экран.
+
+The website will **facilitate** finding information.
+
+Сайт облегчит поиск информации.
+
+The lost balloon began to **drift** higher and higher.
+
+Потерянный шар начал подниматься все выше и выше.
+
+It's **evident** that they are good friends.
+
+Очевидно, что они хорошие друзья.
+
+My friend recommends **counseling** to feel better.
+
+Мой друг рекомендует обратиться за консультацией, чтобы почувствовать себя лучше.
+
+It was a brief **encounter** but memorable.
+
+Это была короткая, но памятная встреча.
+
+Can you **pitch** me the keys, please?
+
+Можете ли вы передать мне ключи, пожалуйста?
+
+We **await** the start of the movie.
+
+Ждем начала фильма.
+
+The right **dose** is important.
+
+Правильная доза имеет важное значение.
+
+Traffic can **delay** your journey.
+
+Дорожное движение может задержать вашу поездку.
+
+He didn't **excuse** her lie.
+
+Он не оправдал ее ложь.
+
+Is the **hostage** safe?
+
+Заложник в безопасности?
+
+Can you **reverse** the video to see that moment again?
+
+Можете ли вы перемотать видео назад, чтобы увидеть этот момент еще раз?
+
+Can you **leap** over this small wall?
+
+Сможете ли вы перепрыгнуть через эту небольшую стену?
+
+We are discussing the **ownership** of the land.
+
+Мы обсуждаем право собственности на землю.
+
+This box can **accommodate** all my books.
+
+В эту коробку поместятся все мои книги.
+
+I need a **companion** to visit the museum.
+
+Мне нужен спутник для посещения музея.
+
+He needs to **rent** a truck to move his furniture.
+
+Ему нужно арендовать грузовик, чтобы перевезти мебель.
+
+She is giving a **lecture** on history.
+
+Она читает лекцию по истории.
+
+We can rent a **ski** at the resort.
+
+На курорте можно взять напрокат лыжи.
+
+They celebrated their **unity** with a party.
+
+Они отпраздновали свое единство вечеринкой.
+
+The election result gave the party a clear **mandate**.
+
+Результат выборов дал партии четкий мандат.
+
+She is **part** responsible for the mistake because she didn't check her work.
+
+Она частично ответственна за ошибку, так как не проверила свою работу.
+
+**Overall**, the food was delicious.
+
+В целом еда была вкусной.
+
+After a **while**, she understood.
+
+Через некоторое время она поняла.
+
+They **trail** the birds to take pictures.
+
+Они следуют за птицами, чтобы сделать фотографии.
+
+We need to reduce the **uncertainty** in the project.
+
+Нам необходимо снизить неопределенность в проекте.
+
+He works in the **regulatory** department of the company.
+
+Он работает в нормативном отделе компании.
+
+Her heavy **pant** showed how tired she was.
+
+Ее тяжелые брюки показывали, насколько она устала.
+
+She is the **supervisor** of the cleaning team.
+
+Она является руководителем бригады по уборке.
+
+We all **age** over time.
+
+Мы все со временем стареем.
+
+Rules **govern** the game we play.
+
+Правила управляют игрой, в которую мы играем.
+
+He lives in the **outer** suburbs of the city.
+
+Он живет на окраине города.
+
+We need to fight for **equity** and equal rights.
+
+Нам нужно бороться за справедливость и равные права.
+
+**Astronomers** can tell us about the universe.
+
+Астрономы могут рассказать нам о Вселенной.
+
+My friend and I talk on the **sidewalk**.
+
+Мы с другом разговариваем на тротуаре.
+
+The island has a boat **shuttle** service.
+
+На острове курсирует лодочный трансфер.
+
+He feels nervous because he is a **freshman**.
+
+Он нервничает, потому что он новичок.
+
+Working for a long time can give you a good **pension**.
+
+Длительная работа может обеспечить вам хорошую пенсию.
+
+The **complexity** of life can be overwhelming.
+
+Сложность жизни может быть ошеломляющей.
+
+The **slide** is made of colorful plastic.
+
+Горка изготовлена из цветного пластика.
+
+She will **administer** the project next month.
+
+Она будет руководить проектом в следующем месяце.
+
+Doctors **survey** your body to check if everything is okay.
+
+Врачи обследуют ваше тело, чтобы проверить, все ли в порядке.
+
+Let's find a **compromise** so we can agree.
+
+Давайте найдем компромисс, чтобы прийти к согласию.
+
+Seeing him again might **trigger** her sadness.
+
+Увидев его снова, она могла бы почувствовать грусть.
+
+The silence in the room was **profound**.
+
+В комнате повисла гробовая тишина.
+
+The government respects the **judicial** branch of power.
+
+Правительство уважает судебную ветвь власти.
+
+Can I **enroll** online, or do I need to come in person?
+
+Могу ли я зарегистрироваться онлайн или мне нужно прийти лично?
+
+She had a **continuous** headache for three days.
+
+У нее в течение трех дней была постоянная головная боль.
+
+The **adoption** process can take a long time.
+
+Процесс усыновления может занять много времени.
+
+Salt contains **sodium** chloride.
+
+Соль содержит хлорид натрия.
+
+The main **driving** motor is very old.
+
+Главный приводной двигатель очень старый.
+
+We can buy a new car with our **saving**.
+
+На наши сбережения мы можем купить новую машину.
+
+Please **tune** the TV to channel five.
+
+Пожалуйста, настройте телевизор на пятый канал.
+
+We should respect the **indigenous** culture.
+
+Мы должны уважать культуру коренных народов.
+
+The ball landed in the **mean** of the field.
+
+Мяч приземлился в середине поля.
+
+The company has a **virtual** office, so everyone works from home.
+
+У компании виртуальный офис, поэтому все работают из дома.
+
+The problem is **seemingly** simple, but it's actually quite complex.
+
+Проблема кажется простой, но на самом деле она довольно сложна.
+
+Doctors use **radiation** to treat some illnesses.
+
+Врачи используют радиацию для лечения некоторых заболеваний.
+
+I planned my **departure** carefully.
+
+Я тщательно спланировал свой отъезд.
+
+I am the **recipient** of your kind letter.
+
+Я получил Ваше любезное письмо.
+
+He **advocates** that everyone learns a new language.
+
+Он выступает за то, чтобы каждый изучал новый язык.
+
+The **juror** made a decision.
+
+Присяжные вынесли решение.
+
+Body language can **convey** your emotions.
+
+Язык тела может передать ваши эмоции.
+
+We can see a bird **colony** on that island.
+
+На этом острове мы видим колонию птиц.
+
+He followed the **guidance** and succeeded.
+
+Он последовал указаниям и добился успеха.
+
+The doctor used a **needle** for the injection.
+
+Врач использовал иглу для инъекции.
+
+That bad news was a real **blow** to him.
+
+Эта плохая новость стала для него настоящим ударом.
+
+Learning a new language is a **meaningful** goal.
+
+Изучение нового языка — это значимая цель.
+
+The artist painted a **delicate** picture.
+
+Художник нарисовал нежную картину.
+
+Our **counterpart** in London has more experience.
+
+У нашего коллеги в Лондоне больше опыта.
+
+She was happy with her recent **acquisition**: a new bicycle.
+
+Она была рада своему недавнему приобретению: новому велосипеду.
+
+We must be aware of our own **bias**.
+
+Мы должны осознавать нашу собственную предвзятость.
+
+He has a summer **residence** by the sea.
+
+У него есть летняя резиденция на берегу моря.
+
+He wants a **wider** screen for his computer.
+
+Ему нужен более широкий экран для компьютера.
+
+My goal is to improve my **fitness** this year.
+
+Моя цель — улучшить свою физическую форму в этом году.
+
+Our **scout** gave us important information.
+
+Наш разведчик дал нам важную информацию.
+
+It took a long time to get the correct **diagnosis**.
+
+Потребовалось много времени, чтобы поставить правильный диагноз.
+
+He holds the **conviction** that everyone deserves a second chance.
+
+Он убежден, что каждый заслуживает второго шанса.
+
+I think his **intent** is very clear.
+
+Я думаю, его намерения предельно ясны.
+
+We should be kind to **elderly** people.
+
+Мы должны быть добры к пожилым людям.
+
+I want to **fund** the animal shelter.
+
+Я хочу профинансировать приют для животных.
+
+She uses a simple **framework** for her daily tasks.
+
+Для своих повседневных задач она использует простую структуру.
+
+We are studying the **formation** of mountains.
+
+Мы изучаем образование гор.
+
+The **engagement** is at 7 pm.
+
+Помолвка состоится в 19:00.
+
+You can ask the **commissioner** about the new rules.
+
+Вы можете спросить комиссара о новых правилах.
+
+The singer made a **controversial** statement on TV.
+
+Певица сделала спорное заявление на телевидении.
+
+It was a **modest** little house, but it was perfect for them.
+
+Это был скромный маленький домик, но он идеально им подошел.
+
+He spent all his **earnings** on a new bike.
+
+Он потратил все свои заработки на новый велосипед.
+
+The doctor asked about my **admission** to the hospital last year.
+
+Врач спросил о моей госпитализации в прошлом году.
+
+My worries will **diminish** when I finish the exam.
+
+Мои тревоги уменьшатся, когда я сдам экзамен.
+
+I like listening to the **musician** at the cafe.
+
+Мне нравится слушать музыканта в кафе.
+
+I have no **preference**; anything is fine with me.
+
+У меня нет предпочтений, меня все устраивает.
+
+The mountains **frame** the small village.
+
+Горы обрамляют небольшую деревню.
+
+Many people **endorse** the idea of recycling.
+
+Многие люди поддерживают идею переработки отходов.
+
+It's important to **absorb** new information when you study.
+
+Во время учебы важно усваивать новую информацию.
+
+It is important to **educate** kids about being kind.
+
+Важно воспитывать в детях доброту.
+
+Our school **differs** from other schools.
+
+Наша школа отличается от других школ.
+
+My **principal** goal this year is to pass my exams.
+
+Моя главная цель в этом году — сдать экзамены.
+
+Her English is **adequate** to understand the lesson.
+
+Ее уровень английского достаточен для понимания урока.
+
+She is training to be in the **corps**.
+
+Она готовится к службе в корпусе.
+
+We **assert** our opinion about the movie.
+
+Мы высказываем свое мнение о фильме.
+
+The **composition** of the team is diverse, with different skills.
+
+Состав команды разнообразен, с разными навыками.
+
+Washing hands is a simple **prevention** method.
+
+Мытье рук — простой метод профилактики.
+
+We need to **rate** the importance of these tasks.
+
+Нам необходимо оценить важность этих задач.
+
+She wants to **submit** her photo to the contest.
+
+Она хочет отправить свою фотографию на конкурс.
+
+The football **pitch** is near my house.
+
+Футбольное поле находится недалеко от моего дома.
+
+He changed his **major** to art.
+
+Он сменил специальность на искусство.
+
+Keep a **margin** between you and the car in front.
+
+Сохраняйте дистанцию между вами и автомобилем впереди.
+
+The zoo will **exhibit** a rare bird from South America.
+
+В зоопарке будет представлена редкая птица из Южной Америки.
+
+Always read the label before taking any **medication**.
+
+Перед приемом любого лекарства всегда читайте этикетку.
+
+He is a new **associate** at the office.
+
+Он новый сотрудник в офисе.
+
+A new law must be approved by the **legislature**.
+
+Новый закон должен быть одобрен законодательным органом.
+
+It's easy to **overlook** mistakes when you are tired.
+
+Когда вы устали, легко не заметить ошибки.
+
+First, add the flour. **Subsequent** to that, add the eggs.
+
+Сначала добавляем муку, затем добавляем яйца.
+
+They are trying to **recruit** the best players for the team.
+
+Они пытаются набрать в команду лучших игроков.
+
+Having a good **counsel** is important in a legal case.
+
+В юридическом деле важно иметь хорошего адвоката.
+
+It's important to think about **ethics** when making choices.
+
+Принимая решения, важно учитывать этические аспекты.
+
+The **plain** is a good place to build a road.
+
+Равнина — хорошее место для строительства дороги.
+
+His **remark** made her angry.
+
+Его замечание ее разозлило.
+
+The **legend** on the statue tells a story.
+
+Легенда на статуе рассказывает историю.
+
+The **surgeon** saved his life.
+
+Хирург спас ему жизнь.
+
+People **rank** this restaurant highly for its good food.
+
+Люди высоко оценивают этот ресторан за его хорошую еду.
+
+He tried to **reverse** his mistake, but it was too late.
+
+Он попытался исправить свою ошибку, но было слишком поздно.
+
+**Acceptance** of differences makes the world better.
+
+Принятие различий делает мир лучше.
+
+Don't **delay**, call the doctor now!
+
+Не откладывайте, вызывайте врача прямо сейчас!
+
+That is the **estimated** number of people who will come.
+
+Это предполагаемое количество людей, которые придут.
+
+How much does it cost to **rent** a bicycle?
+
+Сколько стоит аренда велосипеда?
+
+Sometimes, **laughter** is the best medicine for sadness.
+
+Иногда смех — лучшее лекарство от грусти.
+
+We **greatly** miss you when you are away.
+
+Мы очень скучаем по тебе, когда тебя нет дома.
+
+Will you **excuse** him this time?
+
+Вы простите его на этот раз?
+
+With one **swing** of his axe, he cut the wood.
+
+Одним взмахом топора он разрубил дерево.
+
+Let's **pitch** our ideas to the boss.
+
+Давайте представим наши идеи боссу.
+
+The **essence** of the story is about hope.
+
+Суть истории — в надежде.
+
+The problem is **evident**, we need more help.
+
+Проблема очевидна, нам нужна дополнительная помощь.
+
+The sun **flashed** on the water.
+
+Солнце сверкало на воде.
+
+The **intensity** of the rain surprised us.
+
+Интенсивность дождя нас удивила.
+
+She has a nice **curve** in her handwriting.
+
+У нее красивый изогнутый почерк.
+
+The cheese **aged** for six months.
+
+Сыр выдерживается шесть месяцев.
+
+With each **pant**, he tried to catch his breath.
+
+С каждым вздохом он пытался отдышаться.
+
+The movie lasted quite a **while**.
+
+Фильм длился довольно долго.
+
+**Sodium** is a soft, silver-white metal.
+
+Натрий — мягкий металл серебристо-белого цвета.
+
+He is a famous **astronomer** from our country.
+
+Он известный астроном из нашей страны.
+
+He received a **judicial** order to stop.
+
+Он получил судебное предписание остановиться.
+
+We took notes during the **lecture**.
+
+Во время лекции мы делали заметки.
+
+Let's go to the playground and play on the **slide**!
+
+Давайте пойдем на детскую площадку и поиграем на горке!
+
+Energy **saving** is important for the environment.
+
+Экономия энергии важна для окружающей среды.
+
+The weather is **seemingly** getting better, so we can go outside.
+
+Погода, похоже, улучшается, и мы можем выйти на улицу.
+
+We can **trail** the map to find the treasure.
+
+Мы можем проследить карту, чтобы найти сокровище.
+
+**Overall**, the project was a success.
+
+В целом проект оказался успешным.
+
+Providing **equity** helps build a stronger community.
+
+Предоставление справедливости помогает построить более сильное сообщество.
+
+The house is in the **mean** of the town.
+
+Дом находится в центре города.
+
+This **ski** is too long for me.
+
+Эти лыжи слишком длинные для меня.
+
+The museum shows many artifacts from the **indigenous** population.
+
+В музее представлено множество артефактов, принадлежащих коренному населению.
+
+The **freshman** students are learning the rules.
+
+Первокурсники изучают правила.
+
+**Regulatory** inspections help protect people.
+
+Проверки со стороны регулирующих органов помогают защитить людей.
+
+I **part** understand the lesson, but I need more explanation.
+
+Я частично понял урок, но мне нужны дополнительные объяснения.
+
+He decided to **enroll** in a cooking course.
+
+Он решил записаться на кулинарные курсы.
