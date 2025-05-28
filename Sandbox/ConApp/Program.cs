@@ -98,13 +98,67 @@ namespace ConApp {
         }
     }
 
+    public class VocItem {
+        private static Regex rankRe = new Regex(@"^(\d+) ", RegexOptions.Compiled);
+        private static Regex pronRe = new Regex(@"^\[([^\]]+)\] ?", RegexOptions.Compiled);
+
+        public int? rank { get; set; }
+
+        public string key { get; set; }
+
+        public string pos { get; set; }
+
+        public string pron { get; set; }
+
+        public List<string> vals { get; set; } = new List<string>();
+
+        public static VocItem Parse(string s) {
+            var r = new VocItem();
+            var sp = s.Split(new[] { " {", "} " }, StringSplitOptions.RemoveEmptyEntries);
+            var m = rankRe.Match(sp[0]);
+            if (m.Success) {
+                r.rank = int.Parse(m.Groups[1].Value);
+                sp[0] = sp[0].Substring(m.Value.Length);
+            }
+
+            r.key = sp[0];
+            r.pos = sp[1];
+            m = pronRe.Match(sp[2]);
+            if (m.Success) {
+                r.pron = m.Groups[1].Value;
+                sp[2] = sp[2].Substring(m.Value.Length);
+            }
+
+            r.vals = sp[2].Split(new[] { "; " }, StringSplitOptions.RemoveEmptyEntries).ToList();
+
+            return r;
+        }
+
+        public override string ToString() {
+            var sb = new StringBuilder();
+            if (rank != null) {
+                sb.Append($"{rank} ");
+            }
+
+            sb.Append(key);
+            sb.Append($" {{{pos}}}");
+            if (pron != null) {
+                sb.Append($" [{pron}]");
+            }
+            if (vals.Count > 0) {
+                sb.Append($" {string.Join("; ", vals)}");
+            }
+            return sb.ToString();
+        }
+    }
+
     static class Program {
 
         static Program() {
             // extend cmu
             cmu.Where(kv => kv.Key.Length == 2 && "AEIOU".Contains(kv.Key.Substring(0, 1))).ToList().ForEach(kv => {
                 for (var i = 0; i < 3; i++) {
-                    var v = (i > 0 ? char.ToUpper(kv.Value[0]) : kv.Value[0]) + kv.Value.Substring(1);
+                    var v = (i == 1 ? char.ToUpper(kv.Value[0]) : kv.Value[0]) + kv.Value.Substring(1);
                     var k = $"{kv.Key}{i}";
                     if (cmu.ContainsKey(k))
                         continue;
@@ -1979,9 +2033,31 @@ namespace ConApp {
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
+            var path = @"d:\Projects\smalls\freq-20k.txt";
+            var ss = File.ReadAllLines(path).Select(x => VocItem.Parse(x)).ToList();
+
+            var prons = new Dictionary<string, string>();
+            var cmtRe = new Regex(@" #.*", RegexOptions.Compiled);
+            File.ReadAllLines(@"d:\english\pron.txt").ToList().ForEach(x => {
+                if (x.Contains("("))
+                    return;
+
+                x = cmtRe.Replace(x, "");
+                var sp = x.Split(' ');
+                var key = sp[0].ToLower();
+                var val = string.Join("", sp.Skip(1).Select(c => cmu[c]));
+                prons[key] = val;
+            });
+
+            ss.ForEach(x => {
+                x.pron = prons.TryGetValue(x.key.ToLower(), out var p) ? p : null;
+            });
+
+            File.WriteAllLines(pathEx(path, "-next"), ss.Select(x => x.ToString()));
+
+            return;
             //genSamples(@"d:\top-3-4k.txt");
             //rndSamples(@"d:\top-3-4k-2.txt");
-
 
             /*
             var d20k = loadDic(@"d:\Projects\smalls\freq-20k.txt");
@@ -2032,7 +2108,7 @@ namespace ConApp {
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
             //serRename(@"e:\videos\Friends\S02");
 
-            
+            /*
             if (!File.Exists(@"d:\.temp\srt\all.srt")) 
                 srtCombine(@"d:\.temp\srt\");
             srtLine(@"d:\.temp\srt\all.srt");
@@ -2041,7 +2117,7 @@ namespace ConApp {
             srtSplit(@"d:\.temp\srt\all.srt", "eng");
             if (File.Exists(@"d:\.temp\srt\all-ru.srt"))
                 srtSplit(@"d:\.temp\srt\all-ru.srt", "rus");
-            
+            */
 
             //prepareWords("d:/words.txt");
             //fixQuotes(@"d:\.temp\7.txt");
@@ -2336,25 +2412,18 @@ File.WriteAllLines(@"d:/conen.txt", subs);
 
 /*
             // PRONUNCES
-            var dic = allForms(existingWords.Keys).ToDictionary(x => x, x => (string)null);
-
-            File.ReadAllLines("d:/index.txt").ToList().ForEach(x => {
+            var prons = new Dictionary<string, string>();
+            var cmtRe = new Regex(@" #.*", RegexOptions.Compiled);
+            File.ReadAllLines(@"d:\english\pron.txt").ToList().ForEach(x => {
                 if (x.Contains("("))
                     return;
 
-                var i = x.IndexOf(' ');
-                var k = x.Substring(0, i);
-                var v = x.Substring(i + 1);
-                if (!dic.ContainsKey(k))
-                    return;
-
-                var sb = new StringBuilder();
-                v.Split(' ').ToList().ForEach(y => sb.Append(cmu[y]));
-                dic[k] = sb.ToString();
+                x = cmtRe.Replace(x, "");
+                var sp = x.Split(' ');
+                var key = sp[0];
+                var val = string.Join("", sp.Skip(1).Select(c => cmu[c]));
+                prons[key] = val;
             });
-
-            File.WriteAllLines("d:/pronun.txt", dic.Where(kv => kv.Value != null).OrderBy(kv => kv.Key).Select(kv => $"{kv.Key} {kv.Value}"));
-
  */
 
 /*
