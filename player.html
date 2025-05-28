@@ -79,11 +79,11 @@
         }
         var top = $(elem).offset().top - $(win).offset().top + win.scrollTop;
         var winHeight = $(win).height();
-        if (top - win.scrollTop < 40) {
+        if (top - win.scrollTop < 50) {
             win.scroll({ top: top - winHeight + 70 });
         }
         else if (top - win.scrollTop > winHeight - 70) {
-            win.scroll({ top: top - 40 });
+            win.scroll({ top: top - 50 });
         }
     }
     
@@ -102,6 +102,7 @@
         switch (e.keyCode) {
             case 32:
                 if (v.paused) {
+                    v.currentTime -= 1;
                     v.play(); 
                 }
                 else {
@@ -110,11 +111,11 @@
                 event.preventDefault();
                 break;
             case 37:
-                v.currentTime -= 5;
+                v.currentTime -= 3;
                 event.preventDefault();
                 break;
             case 39:
-                v.currentTime += 5;
+                v.currentTime += 3;
                 event.preventDefault();
                 break;
         };
