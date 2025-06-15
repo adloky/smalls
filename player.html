@@ -6,6 +6,9 @@
     .srt-line { background-color: black; padding: 3pt; font-size: 14pt; font-family: sans-serif; }
     .srt-line div { width: 50%; display: inline-block; color: white; vertical-align: top; }
     .srt-line.sel { background-color: #222; }
+    .hidden { display: none; }
+    button, input { padding: 3pt 10pt; font-size: 14pt; }
+    input { padding: 3pt 3pt; }
 </style>
 
 <script src="jquery-2.2.4.min.js"></script>
@@ -15,17 +18,20 @@
   <video width="854" height="480" controls>
     <source id="v-src" src="/videos/Friends-c/S01/S01E01-o.mkv">
   </video>
+  <div><button key="37"><</button><button key="39">></button><button key="32">PP</button><input id="speed-box" style="width: 30pt; " value="1"></input></div>
   <div class="srt-box" style=" width: 854px; height: 300pt; overflow-y: scroll; ">
   </div>
 <script>
     var path = "/videos/" + $(location).attr("href").match(/[?&]path=([^&]+)/)[1];
     var pathExt = path.match(/\..+$/)[0];
+    var keys = $(document).find("[key]").toArray().map(x => Number($(x).attr("key")));
     var v = $("video")[0];
     $("#v-src").attr("src", path);
     var ens;
     var rus;
     var ss = [{id: "srt-0", t: 0}];
     var srtId = "srt-x";
+    
     fetch(path.replace(pathExt, ".eng.srt"))
         .then((res) => res.text())
         .then((text) => {
@@ -99,7 +105,17 @@
     }, 100);
     
     $(window).keydown(function(e) {
-        switch (e.keyCode) {
+        var inKeys = keys.filter(x => x === e.keyCode).length > 0;
+        if (!inKeys) {
+            return;
+        }
+        var elem = $(document).find(`[key='${e.keyCode}']`);
+        elem.trigger("click");
+    });
+    
+    $("[key]").click(function() {
+        var c = Number($(this).attr("key"));
+        switch (c) {
             case 32:
                 if (v.paused) {
                     v.currentTime -= 1;
@@ -120,9 +136,13 @@
                 break;
         };
     });
-    
+
+    $("#speed-box").change(function() {
+        v.playbackRate = Number($(this).val());
+    });
+  
     $(v).on("focus", function(e) {
-        //e.target.blur();
+        e.target.blur();
     });
 </script>
 </body>
