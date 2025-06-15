@@ -98,7 +98,7 @@ namespace ConApp {
         }
     }
 
-    public class VocItem {
+    public class DicItem {
         private static Regex rankRe = new Regex(@"^(\d+) ", RegexOptions.Compiled);
         private static Regex pronRe = new Regex(@"^\[([^\]]+)\] ?", RegexOptions.Compiled);
 
@@ -112,8 +112,8 @@ namespace ConApp {
 
         public List<string> vals { get; set; } = new List<string>();
 
-        public static VocItem Parse(string s) {
-            var r = new VocItem();
+        public static DicItem Parse(string s) {
+            var r = new DicItem();
             var sp = s.Split(new[] { " {", "} " }, StringSplitOptions.RemoveEmptyEntries);
             var m = rankRe.Match(sp[0]);
             if (m.Success) {
@@ -440,7 +440,7 @@ namespace ConApp {
         static Regex fgPosRe = new Regex(@"\{(.*?)\}");
         static string freqGrouping(string s, bool white = false, Dictionary<string,int> dic = null, bool wPos = false) {
             dic = dic ?? freqGroups;
-            if (Tag.Parse(s).Length > 0) return s;
+            //if (Tag.Parse(s).Length > 0) return s;
             var cs = freqGroupColors[white ? 0 : 1];
             s = handleWPos(s, wPos, (x, x2) => {
                 var pos = fgPosRe.Matches(x2).Cast<Match>().Select(m => m.Groups[1].Value).FirstOrDefault();
@@ -2033,29 +2033,6 @@ namespace ConApp {
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
-            var path = @"d:\Projects\smalls\freq-20k.txt";
-            var ss = File.ReadAllLines(path).Select(x => VocItem.Parse(x)).ToList();
-
-            var prons = new Dictionary<string, string>();
-            var cmtRe = new Regex(@" #.*", RegexOptions.Compiled);
-            File.ReadAllLines(@"d:\english\pron.txt").ToList().ForEach(x => {
-                if (x.Contains("("))
-                    return;
-
-                x = cmtRe.Replace(x, "");
-                var sp = x.Split(' ');
-                var key = sp[0].ToLower();
-                var val = string.Join("", sp.Skip(1).Select(c => cmu[c]));
-                prons[key] = val;
-            });
-
-            ss.ForEach(x => {
-                x.pron = prons.TryGetValue(x.key.ToLower(), out var p) ? p : null;
-            });
-
-            File.WriteAllLines(pathEx(path, "-next"), ss.Select(x => x.ToString()));
-
-            return;
             //genSamples(@"d:\top-3-4k.txt");
             //rndSamples(@"d:\top-3-4k-2.txt");
 
@@ -2106,7 +2083,7 @@ namespace ConApp {
             //mdMonitor(); return; // mdPostCom
 
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
-            //serRename(@"e:\videos\Friends\S02");
+            //serRename(@"e:\videos\Arthur\S01");
 
             /*
             if (!File.Exists(@"d:\.temp\srt\all.srt")) 
