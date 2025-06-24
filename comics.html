@@ -14,29 +14,34 @@
   .page { width: 1500px; height: 3000px; }
   input, textarea { margin-bottom: 5pt; font-family: 'Courier New'; }
   input { width: 40pt; }
-  .text { width: 100%; height: 100pt; } 
+  .text { width: 100%; height: 100pt; }
+  .hidden { display: none; }
 </style>
 <head>
 <body>
   <div class="panel">
+    <input type="checkbox" name="orig" data-bind="checked: orig" style=" width:20pt; " />
     <!-- ko with: bub -->
-    <input data-bind="value: size "/>
-    <input data-bind="value: color "/>
-    <input data-bind="value: bg "/>
+    <input class="auto-save" data-bind="value: size "/>
+    <input class="auto-save" data-bind="value: color "/>
+    <input class="auto-save" data-bind="value: bg "/>
     <br/>
-    <input type="radio" name="align" value="left" data-bind="checked: align" style=" width:20pt; " />
-    <input type="radio" name="align" value="center" data-bind="checked: align" style=" width:20pt; " />
-    <input type="radio" name="align" value="right" data-bind="checked: align" style=" width:20pt; " />
-    <input type="checkbox" name="fill" data-bind="checked: fill" style=" width:20pt; " />
+    <input class="auto-save" type="radio" name="align" value="left" data-bind="checked: align" style=" width:20pt; " />
+    <input class="auto-save" type="radio" name="align" value="center" data-bind="checked: align" style=" width:20pt; " />
+    <input class="auto-save" type="radio" name="align" value="right" data-bind="checked: align" style=" width:20pt; " />
+    <label><input class="auto-save" type="checkbox" name="bold" data-bind="checked: bold" style=" width:20pt; " />B</label>
+    <label><input class="auto-save" type="checkbox" name="fill" data-bind="checked: fill" style=" width:20pt; " />BG</label>
     <!-- /ko -->
     <textarea class="text" data-bind="textInput: en, attr: { 'data-id': langBub('en').id }"></textarea>
     <textarea class="text" data-bind="textInput: ru, attr: { 'data-id': langBub('ru').id }"></textarea>
+    <button id="save-btn" data-bind=" click: save ">save</button>
   </div>
   <div style="padding: 10px;"><div class="page">
-      <img src="bins/tt/002-001.jpg"/>
+      <img data-bind="attr: { src: `bins/tt/${page()}.jpg` }" style=" position: absolute; "/>
+      <img data-bind="css: { hidden: orig }, attr: { src: `bins/tt/${page()}-zz.jpg` }" style=" position: absolute; "/>
       <!-- ko foreach: bubs -->
-      <!-- ko if: lang() === $root.lang() -->
-      <pre class="bub" draggable="true" data-bind="css: { sel: id() == $root.id() }, attr: { id: id }, text: !text() ? '&nbsp;' : text, style: { left: x() + 'px', top: y() + 'px', 'font-size': size() + 'px', color: color, 'text-shadow': sh, 'text-align': align, 'background-color': !fill() ? 'transparent' : bg() }"></pre>
+      <!-- ko if: lang() === $root.lang() && !$root.orig() -->
+      <pre class="bub" draggable="true" data-bind="css: { sel: id() == $root.id() && !$root.mode }, attr: { id: id }, text: !text() ? '&nbsp;' : text, style: { left: x() + 'px', top: y() + 'px', 'font-size': size() + 'px', color: color, 'text-shadow': sh, 'text-align': align, 'background-color': !fill() ? 'transparent' : bg(), 'font-weight': !bold() ? 'normal' : 'bold' }"></pre>
       <!-- /ko -->
       <!-- /ko -->
   </div></div>
@@ -50,7 +55,26 @@
     var vm = {};
     vm.bubs = ko.observableArray();
     vm.id = ko.observable();
-    //var zBub = createOneBub(0,0,"en");
+    vm.page = ko.observable("");
+    vm.orig = ko.observable(false);
+    vm.allowSave = true;
+    var urlPage = "002-001";
+    vm.mode = "";
+    (function() {
+        var url = $(location).attr("href");
+        var m = $(location).attr("href").match(/[?&]page=([0-9a-z-]*)/);
+        if (m) {
+            urlPage = m[1].substr(0,7);
+            var sp = m[1].split('-');
+            if (sp.length > 2) {
+                vm.mode = sp[2];
+            }
+        }
+        else {
+            location.replace(url + "?page=" + urlPage);
+        }
+        
+    })();
     
     vm.bub = ko.computed(function() {
         var id = vm.id();
@@ -90,6 +114,7 @@
             var bg = bub.bg();
             return `-1px -1px 0 ${bg}, 1px -1px 0 ${bg}, -1px 1px 0 ${bg}, 1px 1px 0 ${bg}, -2px 0px 0 ${bg}, 2px 0px 0 ${bg}`
         });
+        return bub;
     }
     
     function createOneBub(x, y, lang) {
@@ -104,6 +129,7 @@
         self.text = ko.observable("");
         self.align = ko.observable("center");
         self.fill = ko.observable(false);
+        self.bold = ko.observable(false);
         bubEx(self);
         return self;
     }
@@ -111,19 +137,44 @@
     function createBub(x, y) {
         var en = createOneBub(x, y, "en");
         var ru = createOneBub(x, y, "ru");
-        en.sib = ru.id;
-        ru.sib = en.id;
+        en.sib = ko.observable(ru.id());
+        ru.sib = ko.observable(en.id());
         vm.bubs.push(en);
         vm.bubs.push(ru);
         vm.id(vm.lang() === "en" ? en.id() : ru.id());
     }
-    
+
+    vm.page.subscribe(function(page) {
+        var bubs = vm.bubs().slice();
+        createBub(0,0);
+        bubs.forEach(x => vm.bubs.remove(x));
+        vm.allowSave = false;
+        $.ajax({
+            url: `http://192.168.0.2/smalls/data/tt/${page}.json`
+        }).done(function(d) {
+            d.forEach(x => {
+                var xo = ko.mapping.fromJS(x);
+                vm.bubs.push(bubEx(ko.mapping.fromJS(x)));
+            });
+            var diff = d.length > 0 ? 2 : 0;
+            vm.id(vm.bubs()[vm.mode === "ru" ? diff + 1 : diff].id());
+            if (d.length > 0) {
+                vm.bubs.shift();
+                vm.bubs.shift();
+            }
+        }).always(function() {
+            vm.allowSave = true;
+        });
+    });
+
     $(".text").on("focus", function() {
-        vm.id($(this).data("id"));
+        vm.id($(this).attr("data-id"));
     });    
 
     $(document).on("click", ".bub", function(e) {
-        vm.id($(this).attr("id"));
+        var id = $(this).attr("id");
+        vm.id(id);
+        $(`.text[data-id=${id}]`).focus();
         e.stopPropagation();
     });    
 
@@ -141,25 +192,59 @@
         bubs.forEach(b => {
             vm.bubs.remove(b);
         });
+        $(`.text[data-id=${vm.id()}]`).focus();
     });
+
+    (function () {
+        var t = null;
+        
+        vm.save = function() {
+            clearTimeout(t);
+            if (!vm.allowSave)
+                return;
+            var cfg = { 'ignore': ["sh"] }
+            var data = vm.bubs().map(x => ko.mapping.toJS(x, cfg));
+            data = "=" + encodeURIComponent(JSON.stringify(data));
+            $("#save-btn").text("saving");
+            $.ajax({
+                url: `http://192.168.0.2/sandbox/api/comics/save?path=tt/${vm.page()}.json`
+              , method: "post"
+              , data: data
+            }).done(function() {
+                $("#save-btn").text("save");
+            });
+        }
+        
+        $(document).on("change", ".auto-save", function() {
+            clearTimeout(t);
+            t = setTimeout(function() { vm.save(); }, 5000);
+        });
+        
+        $(document).on("input", ".text", function() {
+            clearTimeout(t);
+            t = setTimeout(function() { vm.save(); }, 5000);
+        });
+    })();
+
     
     (function () {
         var xy = {};
         $(document).on("dragstart", ".bub", function(e) {
             vm.id($(this).attr("id"));
             xy = { x: e.offsetX, y: e.offsetY, };
-            console.log(e);
         });
         
         $(document).on("dragend", ".bub", function(e) {
             var bub = vm.bub();
             bub.x(bub.x() + e.offsetX - xy.x);
             bub.y(bub.y() + e.offsetY - xy.y);
+            $(`.text[data-id=${bub.id()}]`).focus();
         });
     })();
     
-    createBub(0,0);
-    vm.id(vm.bubs()[0].id());
+    //createBub(0,0);
+    //vm.id(vm.bubs()[0].id());
+    vm.page(urlPage);
     //$("[data-lang=en]").focus();
     ko.applyBindings(vm);
 </script>

@@ -43,5 +43,12 @@ namespace MvcApp.Controllers
                 File.Move(p, p.Replace(num, newNum));
             }
         }
+
+        [HttpPost]
+        [Route("api/comics/save")]
+        public void Save(string path, [FromBody] string value) {
+            path = $"d:/Projects/smalls/data/{path}";
+            File.WriteAllText(path, value);
+        }
     }
 }
