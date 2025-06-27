@@ -7,6 +7,7 @@ using System.Web.Http;
 using System.IO;
 using System.Text;
 using System.Text.RegularExpressions;
+using Sandbox;
 
 namespace MvcApp.Controllers
 {
@@ -49,6 +50,16 @@ namespace MvcApp.Controllers
         public void Save(string path, [FromBody] string value) {
             path = $"d:/Projects/smalls/data/{path}";
             File.WriteAllText(path, value);
+        }
+
+        [HttpPost]
+        [Route("api/comics/gemini")]
+        public HttpResponseMessage Gemini([FromBody] string value) {
+            var s = Sandbox.Gemini.Get(value).Replace("*", "");
+            s = string.Join("\r\n", Regex.Split(s, @"\r?\n").Where(x => x.Trim() != "").Select(x => $"<p>{x}</p>"));
+            return new HttpResponseMessage() {
+                Content = new StringContent(s, Encoding.UTF8, "text/html")
+            };
         }
     }
 }

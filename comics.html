@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <head>
   <meta charset="utf-8">
   <script src="jquery-2.2.4.min.js"></script>
@@ -16,15 +16,17 @@
   input { width: 40pt; }
   .text { width: 100%; height: 100pt; }
   .hidden { display: none; }
+  .upper { text-transform: uppercase; }
 </style>
 <head>
 <body>
-  <div class="panel">
+  <div class="panel" style="z-index: 100;">
     <input type="checkbox" name="orig" data-bind="checked: orig" style=" width:20pt; " />
     <!-- ko with: bub -->
-    <input class="auto-save" data-bind="value: size "/>
+    <input class="auto-save" data-bind="value: size " style=" width: 30pt; "/>
     <input class="auto-save" data-bind="value: color "/>
     <input class="auto-save" data-bind="value: bg "/>
+    <button data-bind=" click: $root.copy ">copy</button>
     <br/>
     <input class="auto-save" type="radio" name="align" value="left" data-bind="checked: align" style=" width:20pt; " />
     <input class="auto-save" type="radio" name="align" value="center" data-bind="checked: align" style=" width:20pt; " />
@@ -32,16 +34,19 @@
     <label><input class="auto-save" type="checkbox" name="bold" data-bind="checked: bold" style=" width:20pt; " />B</label>
     <label><input class="auto-save" type="checkbox" name="fill" data-bind="checked: fill" style=" width:20pt; " />BG</label>
     <!-- /ko -->
-    <textarea class="text" data-bind="textInput: en, attr: { 'data-id': langBub('en').id }"></textarea>
-    <textarea class="text" data-bind="textInput: ru, attr: { 'data-id': langBub('ru').id }"></textarea>
+    <textarea class="text" data-bind="css: { upper: bub().upper }, textInput: en, attr: { 'data-id': langBub('en').id }"></textarea>
+    <textarea class="text" data-bind="css: { upper: bub().upper }, textInput: ru, attr: { 'data-id': langBub('ru').id }"></textarea>
     <button id="save-btn" data-bind=" click: save ">save</button>
+    <button data-bind=" click: getAdapt ">adapt</button>
+    <button data-bind=" click: getTranslate ">trans</button>
+    <div class="result-box"></div>
   </div>
   <div style="padding: 10px;"><div class="page">
       <img data-bind="attr: { src: `bins/tt/${page()}.jpg` }" style=" position: absolute; "/>
-      <img data-bind="css: { hidden: orig }, attr: { src: `bins/tt/${page()}-zz.jpg` }" style=" position: absolute; "/>
+      <img class="page-img" data-bind="css: { hidden: orig }, attr: { src: `bins/tt/${page()}-zz.jpg` }" style=" position: absolute; "/>
       <!-- ko foreach: bubs -->
       <!-- ko if: lang() === $root.lang() && !$root.orig() -->
-      <pre class="bub" draggable="true" data-bind="css: { sel: id() == $root.id() && !$root.mode }, attr: { id: id }, text: !text() ? '&nbsp;' : text, style: { left: x() + 'px', top: y() + 'px', 'font-size': size() + 'px', color: color, 'text-shadow': sh, 'text-align': align, 'background-color': !fill() ? 'transparent' : bg(), 'font-weight': !bold() ? 'normal' : 'bold' }"></pre>
+      <pre class="bub" draggable="true" data-bind="css: { upper: upper, sel: id() == $root.id() && !$root.mode }, attr: { id: id }, text: !text() ? '&nbsp;' : text, style: { left: x() + 'px', top: y() + 'px', 'font-size': size() + 'px', color: color, 'text-shadow': sh, 'text-align': align, 'background-color': !fill() ? 'transparent' : bg(), 'font-weight': !bold() ? 'normal' : 'bold' }"></pre>
       <!-- /ko -->
       <!-- /ko -->
   </div></div>
@@ -60,6 +65,7 @@
     vm.allowSave = true;
     var urlPage = "002-001";
     vm.mode = "";
+    
     (function() {
         var url = $(location).attr("href");
         var m = $(location).attr("href").match(/[?&]page=([0-9a-z-]*)/);
@@ -73,7 +79,6 @@
         else {
             location.replace(url + "?page=" + urlPage);
         }
-        
     })();
     
     vm.bub = ko.computed(function() {
@@ -114,6 +119,9 @@
             var bg = bub.bg();
             return `-1px -1px 0 ${bg}, 1px -1px 0 ${bg}, -1px 1px 0 ${bg}, 1px 1px 0 ${bg}, -2px 0px 0 ${bg}, 2px 0px 0 ${bg}`
         });
+        if (bub.upper === undefined) {
+            bub.upper = ko.observable(false);
+        }
         return bub;
     }
     
@@ -125,11 +133,12 @@
         self.y = ko.observable(y);
         self.color = ko.observable("#000");
         self.bg = ko.observable("#fff");
-        self.size = ko.observable(19);
+        self.size = ko.observable(16);
         self.text = ko.observable("");
-        self.align = ko.observable("center");
+        self.align = ko.observable("left");
         self.fill = ko.observable(false);
         self.bold = ko.observable(false);
+        self.upper = ko.observable(true);
         bubEx(self);
         return self;
     }
@@ -151,6 +160,7 @@
         vm.allowSave = false;
         $.ajax({
             url: `http://192.168.0.2/smalls/data/tt/${page}.json`
+          , cache: false
         }).done(function(d) {
             d.forEach(x => {
                 var xo = ko.mapping.fromJS(x);
@@ -167,6 +177,19 @@
         });
     });
 
+    vm.copy = function() {
+        var en = langBub("en");
+        var ru = langBub("ru");
+        ru.x(en.x());
+        ru.y(en.y());
+        ru.color(en.color());
+        ru.bg(en.bg());
+        ru.size(en.size());
+        ru.align(en.align());
+        ru.fill(en.fill());
+        ru.bold(en.bold());
+    }
+    
     $(".text").on("focus", function() {
         vm.id($(this).attr("data-id"));
     });    
@@ -178,6 +201,31 @@
         e.stopPropagation();
     });    
 
+    vm.getAdapt = function() {
+        var q = "=Адаптируй текст для элементарного уровня знания " +
+              "английского (A2) и дай 4 варианта с переводом. Верни только результать. Текст: " + langBub("en").text();
+        
+        $.ajax({
+            url: "http://192.168.0.2/sandbox/api/comics/gemini"
+          , method: "post"
+          , data: q
+        }).done(function(d) {
+            $(".result-box").html(d);
+        });
+    }
+
+    vm.getTranslate = function() {
+        var q = "=Дай 4 варианта перевод текста на русский: " + langBub("en").text();
+        
+        $.ajax({
+            url: "http://192.168.0.2/sandbox/api/comics/gemini"
+          , method: "post"
+          , data: q
+        }).done(function(d) {
+            $(".result-box").html(d);
+        });
+    }
+    
     $(document).on("click", ".page", function(e) {
         var sib = function (bub) {
             var id = bub.id();
