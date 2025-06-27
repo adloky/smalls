@@ -30,6 +30,8 @@ using Newtonsoft.Json;
 using System.Drawing;
 using Markdig;
 using Microsoft.VisualBasic.FileIO;
+using Sandbox;
+using System.Drawing.Imaging;
 
 namespace ConApp {
     public class Tag {
@@ -165,17 +167,7 @@ namespace ConApp {
                     cmu.Add(k, v);
                 }
             });
-
-            var configPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, ".sandbox");
-            configPath = File.Exists(configPath) ? configPath : @"d:/.sandbox";
-            // config
-            config = File.ReadAllLines(configPath).Where(x => !x.StartsWith("//")).Select(x => {
-                var i = x.IndexOf(":");
-                return new KeyValuePair<string, string>(x.Substring(0, i), x.Substring(i + 1).Trim());
-            }).ToDictionary(x => x.Key, x => x.Value);
         }
-
-        static Dictionary<string, string> config;
 
         public static string handleString(string s, Regex re, Func<string, Match, string> handler) {
             var m = re.Match(s);
@@ -376,7 +368,7 @@ namespace ConApp {
         }
 
         static Dictionary<string, int> freqGroups {
-            get => _freqGroups ?? (_freqGroups = loadFreqGroups(getDicVal("freqGroupsPath", @"d:\Projects\smalls\freq-20k.txt", config), config["freqGroups"].Split(',').Select(x => int.Parse(x)).ToArray()));
+            get => _freqGroups ?? (_freqGroups = loadFreqGroups(getDicVal("freqGroupsPath", @"d:\Projects\smalls\freq-20k.txt", SandboxConfig.Default), SandboxConfig.Default["freqGroups"].Split(',').Select(x => int.Parse(x)).ToArray()));
         }
 
         static Dictionary<string, int> _freqGroups;
@@ -896,33 +888,6 @@ namespace ConApp {
             }
         }
 
-        static string gemini(string s, byte[] img = null) {
-            s = s.Replace(@"\", @"\\").Replace(@"""", @"\""").Replace("\r", @"\r").Replace("\n", @"\n");
-            var url = $"https://generativelanguage.googleapis.com/v1/models/gemini-2.0-flash:generateContent?key={config["geminiKey"]}";
-            var request = WebRequest.Create(url);
-            request.Method = "POST";
-            request.ContentType = "application/json";
-            var base64 = img == null ? "" : $",{{\"inline_data\":{{\"mime_type\":\"image/jpeg\",\"data\":\"{Convert.ToBase64String(img)}\"}}}}";
-            s = $"{{\"contents\":[{{\"parts\":[{{\"text\":\"{s}\"}}{base64}]}}]}}";
-            var data = Encoding.UTF8.GetBytes(s);
-            request.ContentLength = data.Length;
-            using (var stream = request.GetRequestStream()) {
-                stream.Write(data, 0, data.Length);
-            }
-            var r = (string)null;
-
-            using (var response = request.GetResponse())
-            using (Stream dataStream = response.GetResponseStream()) {
-                var reader = new StreamReader(dataStream);
-                r = reader.ReadToEnd();
-            }
-
-            var obj = JObject.Parse(r);
-            r = string.Join("\n", obj.SelectToken("$.candidates[0].content.parts").Select(x => x.SelectToken(".text")));
-
-            return r;
-        }
-
         static string deepseek(string s) {
             s = s.Replace(@"\", @"\\").Replace(@"""", @"\""").Replace("\r", @"\r").Replace("\n", @"\n");
             var url = $"https://api.deepseek.com/chat/completions";
@@ -933,7 +898,7 @@ namespace ConApp {
             var data = Encoding.UTF8.GetBytes(s);
             request.ContentLength = data.Length;
             request.ContentType = "application/json";
-            request.Headers.Add("Authorization", $"Bearer {config["deepseekKey"]}");
+            request.Headers.Add("Authorization", $"Bearer {SandboxConfig.Default["deepseekKey"]}");
             using (var stream = request.GetRequestStream()) {
                 stream.Write(data, 0, data.Length);
             }
@@ -1186,7 +1151,7 @@ namespace ConApp {
 
                 var httpClient = new HttpClient();
                 var form = new MultipartFormDataContent();
-                form.Add(new StringContent(config["ocrKey"]), "apikey");
+                form.Add(new StringContent(SandboxConfig.Default["ocrKey"]), "apikey");
                 form.Add(new StringContent("eng"), "language");
                 form.Add(new StringContent("2"), "ocrengine");
                 form.Add(new StringContent("True"), "isOverlayRequired");
@@ -1300,7 +1265,7 @@ namespace ConApp {
         }
 
         static byte[] speechKit(string s) {
-            var iamToken = config["speechKitKey"];
+            var iamToken = SandboxConfig.Default["speechKitKey"];
             var folderId = "b1gc2cklho9c16s0h2pj";
 
             HttpClient client = new HttpClient();
@@ -1468,10 +1433,10 @@ namespace ConApp {
             #region config
 
             var confTag = ss.Take(10).SelectMany(x => Tag.Parse(x)).Where(t => t.name == "config").FirstOrDefault() ?? new Tag() { name = "config" };
-            var freqGroupsPath = getDicVal("freqGroupsPath", "d:/Projects/smalls/freq-20k.txt", confTag.attr, config);
-            var freqGroupsPos = getDicVal("freqGroupsPos", "0", confTag.attr, config) == "1";
-            var freqGroups = getDicVal("freqGroups", "1500,2500,3800,5500,11000", confTag.attr, config).Split(',').Select(x => int.Parse(x)).ToArray();
-            var mdPostStr = getDicVal("mdPost", null, confTag.attr, config);
+            var freqGroupsPath = getDicVal("freqGroupsPath", "d:/Projects/smalls/freq-20k.txt", confTag.attr, SandboxConfig.Default);
+            var freqGroupsPos = getDicVal("freqGroupsPos", "0", confTag.attr, SandboxConfig.Default) == "1";
+            var freqGroups = getDicVal("freqGroups", "1500,2500,3800,5500,11000", confTag.attr, SandboxConfig.Default).Split(',').Select(x => int.Parse(x)).ToArray();
+            var mdPostStr = getDicVal("mdPost", null, confTag.attr, SandboxConfig.Default);
 
             var post = mdPostStr == null ? x => x : (Func<IEnumerable<string>,IEnumerable<string>>)Delegate.CreateDelegate(
                 typeof(Func<IEnumerable<string>, IEnumerable<string>>), null,
@@ -1648,21 +1613,28 @@ namespace ConApp {
             File.WriteAllLines(pathEx(path, "-split"), rs);
         }
 
-        static void geminiAdapt(string path) {
+        static void geminiAdapt(string path, string level, bool onlyReplace = false) {
+            var levels = new[] { "A1", "A2", "B1", "B2", "C1", "C2", };
+            level = level.ToUpper();
+            var rLevel = levels.SkipWhile(x => x != level).Skip(1).First();
+            
             var pathRu = pathEx(path, "-adapt");
             if (!File.Exists(pathRu)) File.WriteAllText(pathRu, "");
             var skip = File.ReadAllText(pathRu).Split(new[] { "\r\n---\r\n" }, ssop).Length;
             var ss = File.ReadAllText(path).Split(new[] { "\r\n---\r\n" }, ssop).Skip(skip).ToArray();
             var i = 0;
             foreach (var s in ss) {
+                if (ctrlC) break;
                 //var r = "Адаптируй текст для понимания на B1-уровне знания английского, верни только результат:\r\n" + s;
                 //var r = "Замени низкочастотные слова на высокочастотные синонимы B2-уровня знания английского и верни только результат:\r\n" + s;
                 //var r = "Замени редкоупотребляемые слова на частоупотребляемые синонимы B2-уровня знания английского, а также адаптируй текст для B1-уровня и верни только результат:\r\n" + s;
 
                 var pre = adaptKeepRe.Matches(s).Cast<Match>().Select(m => m.Value).FirstOrDefault() ?? "";
                 var r = "";
-                r = "Адаптируй текст для понимания на B2-уровне знания английского, а также ";
-                r += "замени, по возможности, слова за пределами C1-уровня знания английского на частоупотребляемые синонимы, верни только результат:\r\n" + s.Substring(pre.Length);
+                if (!onlyReplace) {
+                    r = $"Адаптируй текст для понимания на {level}-уровне знания английского, а также ";
+                }
+                r += $"замени, по возможности, слова за пределами {rLevel}-уровня знания английского на частоупотребляемые синонимы, верни только результат:\r\n" + s.Substring(pre.Length);
 
                 //                r = "Адаптируй текст для понимания на B1-уровне знания английского, а также ";
                 //                r += "замени, по возможности, слова за пределами B2-уровня знания английского на частоупотребляемые синонимы, верни только результат:\r\n" + s.Substring(pre.Length);
@@ -1674,11 +1646,15 @@ namespace ConApp {
                 else {
                     do {
                         try {
-                            s2 = gemini(r);
+                            s2 = Gemini.Get(r);
                         }
                         catch (Exception e) {
                             Console.WriteLine(e.Message);
-                            Thread.Sleep(10000);
+                            for (var j = 0; j < 10; j++) {
+                                if (ctrlC) return;
+                                Thread.Sleep(1000);
+                            }
+                            
                         }
                     } while (s2 == null);
                 }
@@ -1792,7 +1768,7 @@ namespace ConApp {
                     var qr = (string)null;
                     do {
                         try {
-                            qr = gemini(q);
+                            qr = Gemini.Get(q);
                             var qrs = Regex.Split(qr, @"\r?\n").Where(x => !x.StartsWith("#") && !Regex.IsMatch(x, @"^\*\*[^\*]*\*\*$")).ToArray();
                             en = qrs.Where(x => enru(x) > 0).ToArray();
                             ru = qrs.Where(x => enru(x) < 0).ToArray();
@@ -1934,7 +1910,7 @@ namespace ConApp {
                 var r = (string)null;
                 while (r == null) {
                     try {
-                        r = gemini("Recognize text from image. Return only result text.", data); // 
+                        r = Gemini.Get("Recognize text from image. Return only result text.", data); // 
                     }
                     catch (Exception e) {
                         Console.WriteLine(e.Message);
@@ -1955,7 +1931,7 @@ namespace ConApp {
                 var r = (string)null;
                 while (r == null) {
                     try {
-                        r = gemini($"Придумай 5 предложений на английском уровня A2 для максимального выражения значения слова: {s.Replace("{", "(").Replace("}", ")")}. Выдели слово жирным в предложениях. Верни только результат.");
+                        r = Gemini.Get($"Придумай 5 предложений на английском уровня A2 для максимального выражения значения слова: {s.Replace("{", "(").Replace("}", ")")}. Выдели слово жирным в предложениях. Верни только результат.");
                     }
                     catch (Exception e) {
                         Console.WriteLine(e.Message);
@@ -2012,7 +1988,7 @@ namespace ConApp {
                 var r = (string)null;
                 while (r == null) {
                     try {
-                        r = gemini($"Придумай предложение для уровня A2 на английском, на основе контекста: \"{sent}\", с использованием слов: {f}. Все слова должны быть в предложении, выдели их жирным, верни только результат.");
+                        r = Gemini.Get($"Придумай предложение для уровня A2 на английском, на основе контекста: \"{sent}\", с использованием слов: {f}. Все слова должны быть в предложении, выдели их жирным, верни только результат.");
                     }
                     catch (Exception e) {
                         Console.WriteLine(e.Message);
@@ -2028,10 +2004,46 @@ namespace ConApp {
             File.WriteAllLines(pathEx(path, "-r"), rs);
         }
 
+        static void exportComics(string ep, int n = 1) {
+            ep += "-";
+            var driver = new ChromeDriver();
+            driver.Manage().Window.Maximize();
+            Enumerable.Range(1, n).Select(x => ep + x.ToString("000")).SelectMany(x => new[] { $"{x}-en", $"{x}-ru" }).ToList().ForEach(x => {
+                driver.Navigate().GoToUrl($"http://192.168.0.2/smalls/comics.html?page={x}");
+                driver.Manage().Window.Size = new Size(2000, 2000);
+                var ps = Enumerable.Range(1,3).Select(y => $"d:/.temp/tt/_{x}-{y}.png").ToList();
+
+                for (var i = 0; i < ps.Count; i++) {
+                    driver.ExecuteScript($"window.scroll(0,{i * 800});");
+                    driver.GetScreenshot().SaveAsFile(ps[i]);
+                }
+
+                var imgs = ps.Select(p => Image.FromFile(p)).ToList();
+                var bm = new Bitmap(2000, 2400);
+                using (Graphics g = Graphics.FromImage(bm)) {
+                    for (var i = 0; i < ps.Count; i++) {
+                        g.DrawImage(imgs[i], -10, (i * 800)-10);
+                    }
+                }
+                var jpgImg = Image.FromFile($"d:/Projects/smalls/bins/tt/{Regex.Replace(x, @"-en|-ru", "")}.jpg");
+                var bm2 = bm.Clone(new Rectangle(0, 0, jpgImg.Width, jpgImg.Height), bm.PixelFormat);
+
+                var encoder = ImageCodecInfo.GetImageEncoders().First(c => c.FormatID == ImageFormat.Jpeg.Guid);
+                var encParams = new EncoderParameters() { Param = new[] { new EncoderParameter(System.Drawing.Imaging.Encoder.Quality, 80L) } };
+
+                bm2.Save($"d:/.temp/tt/{x}.jpg", encoder, encParams);
+                imgs.ForEach(img => img.Dispose());
+                ps.ToList().ForEach(p => { File.Delete(p); });
+            });
+            driver.Dispose();
+        }
+
         static volatile bool ctrlC = false;
 
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
+
+            exportComics("002", 10);
 
             //genSamples(@"d:\top-3-4k.txt");
             //rndSamples(@"d:\top-3-4k-2.txt");
@@ -2077,8 +2089,8 @@ namespace ConApp {
 
             //genStories(@"d:/stories-0.txt", 3);
 
-            //geminiSplit(@"d:\.temp\reader-33-orig.txt");
-            //geminiAdapt(@"d:\.temp\reader-33.txt");
+            //geminiSplit(@"d:\.temp\reader-36-orig.txt");
+            //geminiAdapt(@"d:\.temp\reader-36.txt" ,"B2", true);
 
             //mdMonitor(); return; // mdPostCom
 

@@ -1,3 +1,5 @@
+<config freqGroupsPos="1"/>
+
 # The Road by Cormac McCarthy (B2)
 
 # Дорога Кормака Маккарти

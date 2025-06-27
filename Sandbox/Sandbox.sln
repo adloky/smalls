@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConApp", "ConApp\ConApp.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApp", "MvcApp\MvcApp.csproj", "{260D1E72-7FB2-4E2A-88F0-C91699B2C277}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SandboxLib", "SandboxLib\SandboxLib.csproj", "{24998491-A47A-46D0-B047-A14760895C0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{260D1E72-7FB2-4E2A-88F0-C91699B2C277}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{260D1E72-7FB2-4E2A-88F0-C91699B2C277}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{260D1E72-7FB2-4E2A-88F0-C91699B2C277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24998491-A47A-46D0-B047-A14760895C0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24998491-A47A-46D0-B047-A14760895C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24998491-A47A-46D0-B047-A14760895C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24998491-A47A-46D0-B047-A14760895C0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
