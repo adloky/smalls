@@ -2043,7 +2043,7 @@ namespace ConApp {
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
-            exportComics("002", 10);
+            //exportComics("002", 10);
 
             //genSamples(@"d:\top-3-4k.txt");
             //rndSamples(@"d:\top-3-4k-2.txt");
@@ -2090,7 +2090,7 @@ namespace ConApp {
             //genStories(@"d:/stories-0.txt", 3);
 
             //geminiSplit(@"d:\.temp\reader-36-orig.txt");
-            //geminiAdapt(@"d:\.temp\reader-36.txt" ,"B2", true);
+            geminiAdapt(@"d:\.temp\reader-36.txt" ,"B2", true);
 
             //mdMonitor(); return; // mdPostCom
 
