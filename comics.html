@@ -9,14 +9,20 @@
   body { margin: 0pt; margin-right: 220pt; }
   .panel { width: 220pt; margin-right: -220pt; position: fixed; right: 220pt; padding: 10pt; }
   .page { position: relative; }
-  .bub { position: absolute; border: 1px solid transparent; margin: 0px; font-family: 'Comic Sans MS'; line-height: 0.85; padding: 0.2em; }
+  .bub { position: absolute; border: 1px solid transparent; margin: 0px; font-family: 'Bubble Sans'; line-height: 0.85; padding: 0.2em; text-transform: uppercase; }
   .bub.sel { border-color: red; }
   .page { width: 1500px; height: 3000px; }
-  input, textarea { margin-bottom: 5pt; font-family: 'Courier New'; }
+  input, textarea { margin-bottom: 5pt; font-family: monospace; }
   input { width: 40pt; }
-  .text { width: 100%; height: 100pt; }
+  .text { width: 100%; height: 100pt; text-transform: uppercase; }
   .hidden { display: none; }
-  .upper { text-transform: uppercase; }
+  .bub.bold { font-weight: bold; }
+  @font-face {
+    font-family: 'Bubble Sans';
+    src: url("data/fonts/BubbleSans-Regular.otf")
+  }
+
+  
 </style>
 <head>
 <body>
@@ -34,8 +40,8 @@
     <label><input class="auto-save" type="checkbox" name="bold" data-bind="checked: bold" style=" width:20pt; " />B</label>
     <label><input class="auto-save" type="checkbox" name="fill" data-bind="checked: fill" style=" width:20pt; " />BG</label>
     <!-- /ko -->
-    <textarea class="text" data-bind="css: { upper: bub().upper }, textInput: en, attr: { 'data-id': langBub('en').id }"></textarea>
-    <textarea class="text" data-bind="css: { upper: bub().upper }, textInput: ru, attr: { 'data-id': langBub('ru').id }"></textarea>
+    <textarea class="text" data-bind="textInput: en, attr: { 'data-id': langBub('en').id }"></textarea>
+    <textarea class="text" data-bind="textInput: ru, attr: { 'data-id': langBub('ru').id }"></textarea>
     <button id="save-btn" data-bind=" click: save ">save</button>
     <button data-bind=" click: getAdapt ">adapt</button>
     <button data-bind=" click: getTranslate ">trans</button>
@@ -46,7 +52,7 @@
       <img class="page-img" data-bind="css: { hidden: orig }, attr: { src: `bins/tt/${page()}-zz.jpg` }" style=" position: absolute; "/>
       <!-- ko foreach: bubs -->
       <!-- ko if: lang() === $root.lang() && !$root.orig() -->
-      <pre class="bub" draggable="true" data-bind="css: { upper: upper, sel: id() == $root.id() && !$root.mode }, attr: { id: id }, text: !text() ? '&nbsp;' : text, style: { left: x() + 'px', top: y() + 'px', 'font-size': size() + 'px', color: color, 'text-shadow': sh, 'text-align': align, 'background-color': !fill() ? 'transparent' : bg(), 'font-weight': !bold() ? 'normal' : 'bold' }"></pre>
+      <pre class="bub" draggable="true" data-bind="css: { bold: bold, sel: id() == $root.id() && !$root.mode }, attr: { id: id }, text: !text() ? '&nbsp;' : text, style: { left: x() + 'px', top: y() + 'px', 'font-size': size() + 'px', color: color, 'text-shadow': sh, 'text-align': align, 'background-color': !fill() ? 'transparent' : bg() }"></pre>
       <!-- /ko -->
       <!-- /ko -->
   </div></div>
@@ -119,9 +125,6 @@
             var bg = bub.bg();
             return `-1px -1px 0 ${bg}, 1px -1px 0 ${bg}, -1px 1px 0 ${bg}, 1px 1px 0 ${bg}, -2px 0px 0 ${bg}, 2px 0px 0 ${bg}`
         });
-        if (bub.upper === undefined) {
-            bub.upper = ko.observable(false);
-        }
         return bub;
     }
     
@@ -133,12 +136,11 @@
         self.y = ko.observable(y);
         self.color = ko.observable("#000");
         self.bg = ko.observable("#fff");
-        self.size = ko.observable(16);
+        self.size = ko.observable(17);
         self.text = ko.observable("");
         self.align = ko.observable("left");
         self.fill = ko.observable(false);
         self.bold = ko.observable(false);
-        self.upper = ko.observable(true);
         bubEx(self);
         return self;
     }
