@@ -50,10 +50,14 @@ app.get('/users', async (req, res) => {
 
 async function diskReq(p, m, d) {
     try {
+        var params = { path: p };
+        if (m === 'post') {
+            params.overwrite = true;
+        }
         var r = await axios.get(
             apiBase + "resources/" + (m === 'get' ? 'download' : 'upload'), {
             //apiBase + "resources/" + 'download', {
-                params: { path: p, },
+                params: params,
                 headers: { 'Authorization': "OAuth " + token }
             }
         );
@@ -64,7 +68,7 @@ async function diskReq(p, m, d) {
             });
             return r.data;
         }
-        else if (m === 'put') {
+        else if (m === 'post') {
             await axios.put(r.data.href, d);
         }
     }
@@ -96,8 +100,8 @@ async function diskHandler(req, res, m) {
         return res.send(r);
     }
     else if (m === "write") {
-        if (req.body.data === undefined) throw new Error("Form param 'data' undefined!");;
-        var r = await diskReq(p, "put", req.body.data);
+        if (req.body.data === undefined) throw new Error("Form param 'data' undefined!");
+        var r = await diskReq(p, "post", req.body.data);
         //if (r === null) throw new Error("Can't write file!");;
         res.send('Form submitted!');
     }
@@ -109,12 +113,6 @@ app.get(routeRe, async (req, res) => {
 
 app.post(routeRe, async (req, res) => {
     return await diskHandler(req, res, "write");
-});
-
-
-app.get("/upload", async (req, res) => {
-    await diskReq("/rw/ttg/test.json", "put", "hello");
-    return res.send("good");
 });
 
 app.listen(3000, () => {
