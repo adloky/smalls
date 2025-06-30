@@ -8,20 +8,21 @@ const app = express();
 const apiBase = "https://cloud-api.yandex.net/v1/disk/";
 const yadiskRe = /^\/yadisk\/(acl\/)?/;
 const token = process.env.YADISK_TOKEN;
+const cache = new Map();
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use((req, res, next) => {
-  res.header('Access-Control-Allow-Origin', '*');
-  res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
-  res.header('Access-Control-Allow-Headers', true);
-  next();
+    res.header('Access-Control-Allow-Origin', '*');
+    res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
+    res.header('Access-Control-Allow-Headers', true);
+    next();
 });
 
 function asyncHandler(fn) {
-  return function(req, res, next) {
-    Promise.resolve(fn(req, res, next)).catch(next);
-  };
+    return function(req, res, next) {
+        Promise.resolve(fn(req, res, next)).catch(next);
+    };
 }
 
 function fileMaskRe(s) {
@@ -74,22 +75,31 @@ async function diskAcl(path, user) {
     if (!user || user === "*") throw httpError(401, "User undefined!");;
 
     path = pathJs.join(path, ".access").replaceAll("\\", "/");
+    if (cache.has(path)) {
+        return cache.get(path);
+    }
+    
     var access = ""; try { access = await diskReq(path, "get"); } catch {}
     
     var acl = access.split(/\r?\n/)
         .filter(x => x.startsWith(user + " ") || x.startsWith("* "))
         .map(x => x.replace(/^[^ ]+ +/, "").trim().split(/ +/))
         .reduce(function(a, b){ return a.concat(b); }, []);
-    return Array.from(new Set(acl));
+    
+    var r = Array.from(new Set(acl));
+    cache.set(path, r);
+    
+    return r;
 }
 
-async function diskHandler(req, res, m) {
+async function diskHandler(req, res, op) {
     var path = diskPath(req.path);
     var route = req.path.match(yadiskRe)[0];
+
     pathAcl = path.replace(/[^\/]+$/, "");
     var acl = await diskAcl(pathAcl, req.query.user);
     
-    if (route.endsWith("/acl/")) {
+    if (route.endsWith("/acl/") && op === "read") {
         res.json(acl);
         return;
     }
@@ -98,17 +108,21 @@ async function diskHandler(req, res, m) {
     var name = path.split("/").at(-1);
     if (!acl.some(r => r.test(name))) throw httpError(403, "Access denied!");
 
-    if (m === "write" && req.body.data === undefined) throw httpError(400, "Form param 'data' undefined!");
+    if (op === "write" && req.body.data === undefined) throw httpError(400, "Form param 'data' undefined!");
 
-    if (m === "read") {
+    if (op === "read") {
         var r = await diskReq(path, "get");
         res.send(r);
     }
-    else if (m === "write") {
+    else if (op === "write") {
         var r = await diskReq(path, "post", req.body.data);
         res.send('Form submitted!');
     }
 }
+
+app.post("/yadisk/cache", asyncHandler(async (req, res) => {
+    cache.clear();
+}));
 
 app.get(yadiskRe, asyncHandler(async (req, res) => {
     return await diskHandler(req, res, "read");
