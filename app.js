@@ -3,20 +3,13 @@ const fs = require('fs');
 const os = require('os');
 const axios = require('axios');
 const pathJs = require('path');
+const Router = require('express-promise-router');
+const router = new Router();
 
 const app = express();
 const apiBase = "https://cloud-api.yandex.net/v1/disk/";
 const yadiskRe = /^\/yadisk\/(acl\/)?/;
 const token = process.env.YADISK_TOKEN;
-
-app.use(express.json());
-app.use(express.urlencoded({ extended: true }));
-app.use((req, res, next) => {
-  res.header('Access-Control-Allow-Origin', '*');
-  res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
-  res.header('Access-Control-Allow-Headers', true);
-  next();
-});
 
 function fileMaskRe(s) {
     s = s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
@@ -69,7 +62,7 @@ async function diskAcl(path, user) {
 
     path = pathJs.join(path, ".access").replaceAll("\\", "/");
     var access = null;
-    for (var i = 0; i < 7 && access === null; i++) {
+    for (var i = 0; i < 1 && access === null; i++) {
         try {
             access = await diskReq(path, "get");
         } catch (e) {
@@ -105,7 +98,7 @@ async function diskHandler(req, res, m) {
     if (m === "write" && req.body.data === undefined) throw httpError(400, "Form param 'data' undefined!");    
 
     var error = null;
-    for (var i = 0; i < 7; i++) {
+    for (var i = 0; i < 1; i++) {
         try {
             if (m === "read") {
                 var r = await diskReq(path, "get");
@@ -128,12 +121,22 @@ async function diskHandler(req, res, m) {
     throw error;
 }
 
-app.get(yadiskRe, async (req, res) => {
+router.get(yadiskRe, async (req, res) => {
     return await diskHandler(req, res, "read");
 });
 
-app.post(yadiskRe, async (req, res) => {
+router.post(yadiskRe, async (req, res) => {
     return await diskHandler(req, res, "write");
+});
+
+app.use(router);
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+app.use((req, res, next) => {
+  res.header('Access-Control-Allow-Origin', '*');
+  res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
+  res.header('Access-Control-Allow-Headers', true);
+  next();
 });
 
 app.listen(3000, () => {
