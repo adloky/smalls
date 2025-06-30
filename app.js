@@ -12,7 +12,7 @@ const token = process.env.YADISK_TOKEN;
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use((req, res, next) => {
-  res.header('Access-Control-Allow-Origin', '*'); // Разрешить все домены
+  res.header('Access-Control-Allow-Origin', '*');
   res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
   res.header('Access-Control-Allow-Headers', true);
   next();
@@ -64,8 +64,7 @@ async function diskAcl(path, user) {
     if (!user || user === "*") throw httpError(401, "User undefined!");;
 
     path = pathJs.join(path, ".access").replaceAll("\\", "/");
-    console.log(path);
-    var access = ""; try { access = await diskReq(path, "get") } catch {}
+    var access = ""; try { access = await diskReq(path, "get"); } catch (e) { console.log(e); }
     var acl = access.split(/\r?\n/)
         .filter(x => x.startsWith(user + " ") || x.startsWith("* "))
         .map(x => x.replace(/^[^ ]+ +/, "").trim().split(/ +/))
