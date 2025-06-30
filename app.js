@@ -39,6 +39,7 @@ async function diskReq(path, method, data) {
     }
     var r = await axios.get(
         apiBase + "resources/" + (cmd[method] || 'error'), {
+            timeout: 60000,
             params: params,
             headers: { 'Authorization': "OAuth " + token }
         }
@@ -46,12 +47,15 @@ async function diskReq(path, method, data) {
     
     if (method === 'get') {
         r = await axios.get(r.data.href, {
+            timeout: 60000,
             responseType: (path.endsWith(".json") ? 'json' : 'text')
         });
         return r.data;
     }
     else if (method === 'post') {
-        await axios.put(r.data.href, data);
+        await axios.put(r.data.href, data, {
+            timeout: 60000
+        });
     }
 }
 
@@ -64,7 +68,7 @@ async function diskAcl(path, user) {
     if (!user || user === "*") throw httpError(401, "User undefined!");;
 
     path = pathJs.join(path, ".access").replaceAll("\\", "/");
-    var access = ""; try { access = await diskReq(path, "get"); } catch (e) { console.log(e); }
+    var access = ""; try { access = await diskReq(path, "get"); } catch { }
     var acl = access.split(/\r?\n/)
         .filter(x => x.startsWith(user + " ") || x.startsWith("* "))
         .map(x => x.replace(/^[^ ]+ +/, "").trim().split(/ +/))
