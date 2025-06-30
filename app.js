@@ -69,7 +69,7 @@ async function diskAcl(path, user) {
 
     path = pathJs.join(path, ".access").replaceAll("\\", "/");
     var access = null;
-    for (var i = 0; i < 10 && access === null; i++) {
+    for (var i = 0; i < 7 && access === null; i++) {
         try {
             access = await diskReq(path, "get");
         } catch (e) {
@@ -101,16 +101,31 @@ async function diskHandler(req, res, m) {
     acl = acl.map(x => fileMaskRe(x));
     var name = path.split("/").at(-1);
     if (!acl.some(r => r.test(name))) throw httpError(403, "Access denied!");
-    
-    if (m === "read") {
-        var r = await diskReq(path, "get");
-        return res.send(r);
+
+    if (m === "write" && req.body.data === undefined) throw httpError(400, "Form param 'data' undefined!");    
+
+    var error = null;
+    for (var i = 0; i < 7; i++) {
+        try {
+            if (m === "read") {
+                var r = await diskReq(path, "get");
+                res.send(r);
+                return;
+            }
+            else if (m === "write") {
+                var r = await diskReq(path, "post", req.body.data);
+                res.send('Form submitted!');
+                return;
+            }
+        }
+        catch (e) {
+            if (m === "read" && e.status && e.status === 404) {
+                throw e;
+            }
+            error = e;
+        }
     }
-    else if (m === "write") {
-        if (req.body.data === undefined) throw httpError(400, "Form param 'data' undefined!");
-        var r = await diskReq(path, "post", req.body.data);
-        res.send('Form submitted!');
-    }
+    throw error;
 }
 
 app.get(yadiskRe, async (req, res) => {
