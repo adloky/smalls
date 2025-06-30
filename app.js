@@ -68,7 +68,18 @@ async function diskAcl(path, user) {
     if (!user || user === "*") throw httpError(401, "User undefined!");;
 
     path = pathJs.join(path, ".access").replaceAll("\\", "/");
-    var access = ""; try { access = await diskReq(path, "get"); } catch { }
+    var access = null;
+    for (var i = 0; i < 10 && access === null; i++) {
+        try {
+            access = await diskReq(path, "get");
+        } catch (e) {
+            if (e.status && e.status === 404) {
+                break;
+            }
+        }
+    }
+    access = access === null ? "" : access;
+    
     var acl = access.split(/\r?\n/)
         .filter(x => x.startsWith(user + " ") || x.startsWith("* "))
         .map(x => x.replace(/^[^ ]+ +/, "").trim().split(/ +/))
@@ -93,7 +104,6 @@ async function diskHandler(req, res, m) {
     
     if (m === "read") {
         var r = await diskReq(path, "get");
-        if (r === null) throw httpError(404, "File not exists!");
         return res.send(r);
     }
     else if (m === "write") {
