@@ -2,11 +2,11 @@ const express = require('express');
 const fs = require('fs');
 const os = require('os');
 const axios = require('axios');
-const path = require('path');
+const pathJs = require('path');
 
 const app = express();
 const apiBase = "https://cloud-api.yandex.net/v1/disk/";
-const routeRe = /^\/yadisk\//;
+const yadiskRe = /^\/yadisk\/(acl\/)?/;
 const token = process.env.YADISK_TOKEN;
 
 app.use(express.json());
@@ -18,100 +18,93 @@ app.use((req, res, next) => {
   next();
 });
 
-/*
-app.get('/users', async (req, res) => {
-    // res.json(users);
-    // os.homedir();
-    // JSON.stringify(user, null, 2);
-    // fs.writeFile("d:/test.txt", "hello", e => { });
-    
-    const uploadResponse = await axios.get(
-      apiBase + "resources/download",
-      {
-        params: {
-          path: "/rw/test.txt",
-        },
-        headers: {
-          'Authorization': "OAuth y0__xD7gJDfARjR0jggh_Dh1hP-xrev19kTtxX1_XFScprPfBKD4Q",
-          'Accept': "application/json"
+function fileMaskRe(s) {
+    s = s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
+        .replaceAll("\\*", ".*");
+    s = "^" + s + "$";
+    return new RegExp(s);
+}
+
+function httpError(code, message) {
+    var e = new Error(message);
+    e.status = code;
+    return e;
+}
+
+async function diskReq(path, method, data) {
+    const cmd = { get: 'download', post: 'upload' };
+    var params = { path: path };
+    if (method === 'post') {
+        params.overwrite = true;
+    }
+    var r = await axios.get(
+        apiBase + "resources/" + (cmd[method] || 'error'), {
+            params: params,
+            headers: { 'Authorization': "OAuth " + token }
         }
-      }
     );
     
-    await axios.put(uploadResponse.data.href, "hello", {
-      headers: {
-        'Content-Type': 'text/plain'
-      }
-    });
-
-    res.json({});
-});
-*/
-
-async function diskReq(p, m, d) {
-    try {
-        var params = { path: p };
-        if (m === 'post') {
-            params.overwrite = true;
-        }
-        var r = await axios.get(
-            apiBase + "resources/" + (m === 'get' ? 'download' : 'upload'), {
-            //apiBase + "resources/" + 'download', {
-                params: params,
-                headers: { 'Authorization': "OAuth " + token }
-            }
-        );
-        
-        if (m === 'get') {
-            r = await axios.get(r.data.href, {
-                responseType: 'text'
-            });
-            return r.data;
-        }
-        else if (m === 'post') {
-            await axios.put(r.data.href, d);
-        }
+    if (method === 'get') {
+        r = await axios.get(r.data.href, {
+            responseType: (path.endsWith(".json") ? 'json' : 'text')
+        });
+        return r.data;
     }
-    catch {
-        return null;
+    else if (method === 'post') {
+        await axios.put(r.data.href, data);
     }
 }
 
-async function diskHandler(req, res, m) {
-    var user = req.query.user;
-    if (!user) throw new Error("User undefined!");;
-    
-    var p = req.path.replace(routeRe, "");
-    p = path.join("/rw/", p).replaceAll("\\", "/");
+function diskPath(path) {
+    path = path.replace(yadiskRe, "");
+    return pathJs.join("/rw/", path).replaceAll("\\", "/");
+}
 
-    var pa = p.split("/").slice(0,-1).join("/") + "/.access";
-    var acl = (await diskReq(pa, "get")).split(/\r?\n/)
-        .filter(x => x.startsWith(user + " ")).find(x => true);
-    if (!acl) throw new Error("Access denied!");;
+async function diskAcl(path, user) {
+    if (!user || user === "*") throw httpError(401, "User undefined!");;
+
+    path = pathJs.join(path, ".access").replaceAll("\\", "/");
+    console.log(path);
+    var access = ""; try { access = await diskReq(path, "get") } catch {}
+    var acl = access.split(/\r?\n/)
+        .filter(x => x.startsWith(user + " ") || x.startsWith("* "))
+        .map(x => x.replace(/^[^ ]+ +/, "").trim().split(/ +/))
+        .reduce(function(a, b){ return a.concat(b); }, []);
+    return Array.from(new Set(acl));
+}
+
+async function diskHandler(req, res, m) {
+    var path = diskPath(req.path);
+    var route = req.path.match(yadiskRe)[0];
+    pathAcl = path.replace(/[^\/]+$/, "");
+    var acl = await diskAcl(pathAcl, req.query.user);
     
-    var name = p.split("/").at(-1);
-    var allow = acl.split(" ").filter(x => x !== "").slice(1)
-        .map(x => x.replace("*", "")).find(x => name.startsWith(x)) !== null;
-    if (!allow) throw new Error("Access denied!");;
+    if (route.endsWith("/acl/")) {
+        res.json(acl);
+        return;
+    }
+    
+    acl = acl.map(x => fileMaskRe(x));
+    var name = path.split("/").at(-1);
+    if (!acl.some(r => r.test(name))) throw httpError(403, "Access denied!");
     
     if (m === "read") {
-        var r = await diskReq(p, "get");
-        if (r === null) throw new Error("File not exists!");;
+        var r = await diskReq(path, "get");
+        if (r === null) throw httpError(404, "File not exists!");
         return res.send(r);
     }
     else if (m === "write") {
-        if (req.body.data === undefined) throw new Error("Form param 'data' undefined!");
-        var r = await diskReq(p, "post", req.body.data);
-        //if (r === null) throw new Error("Can't write file!");;
+        if (req.body.data === undefined) throw httpError(400, "Form param 'data' undefined!");
+        var r = await diskReq(path, "post", req.body.data);
         res.send('Form submitted!');
     }
 }
 
-app.get(routeRe, async (req, res) => {
+app.get(yadiskRe, async (req, res) => {
     return await diskHandler(req, res, "read");
 });
 
-app.post(routeRe, async (req, res) => {
+app.post(yadiskRe, async (req, res) => {
     return await diskHandler(req, res, "write");
 });
 
