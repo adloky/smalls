@@ -1,13 +1,15 @@
 ﻿<!DOCTYPE html>
 <head>
   <meta charset="utf-8">
-  <script src="jquery-2.2.4.min.js"></script>
-  <script src="js/knockout-3.5.1.js"></script>
+  <script src="js/jquery-3.3.1.js"></script>
+  <script src="js/knockout-3.5.0.js"></script>
   <script src="js/knockout.mapping.js"></script>
 <style>
   * { box-sizing: border-box; }
-  body { margin: 0pt; margin-right: 220pt; }
-  .panel { width: 220pt; margin-right: -220pt; position: fixed; right: 220pt; padding: 10pt; }
+  * { font-family: sans-serif; }
+  table { border-spacing: 0px; }
+  body { margin: 0pt; margin-right: 280pt; }
+  .panel { width: 280pt; margin-right: -280pt; position: fixed; top: 0px; right: 280pt; padding: 10pt; }
   .page { position: relative; }
   .bub { position: absolute; border: 1px solid transparent; margin: 0px; font-family: 'Bubble Sans'; line-height: 0.85; padding: 0.2em; text-transform: uppercase; }
   .bub.sel { border-color: red; }
@@ -17,36 +19,22 @@
   .text { width: 100%; height: 100pt; text-transform: uppercase; }
   .hidden { display: none; }
   .bub.bold { font-weight: bold; }
-  @font-face {
-    font-family: 'Bubble Sans';
-    src: url("data/fonts/BubbleSans-Regular.otf")
-  }
-
+  .save-btn.saving { background-color: #FCC; }
+  .back { position: fixed; left: 0px; top: 0px; width: 100%; height: 100%; }
+  .togglable-wrapper { display: inline-block; }
+  .togglable-wrapper .togglable-back { display: none; }
+  .togglable-target.select-color { width: 15pt; border: 1px solid black; }
+  .togglable-popup.select-color { display: none; position: absolute; border: 1px solid black; margin-left: -50pt; }
+  .togglable-popup.select-color td { width: 13pt; height: 13pt; }
+  .togglable-wrapper.toggled .togglable-back, .togglable-wrapper.toggled .togglable-popup { display: initial; }
   
+  @font-face {
+      font-family: 'Bubble Sans';
+      src: url("data/fonts/BubbleSans-Regular.otf")
+  }
 </style>
 <head>
 <body>
-  <div class="panel" style="z-index: 100;">
-    <input type="checkbox" name="orig" data-bind="checked: orig" style=" width:20pt; " />
-    <!-- ko with: bub -->
-    <input class="auto-save" data-bind="value: size " style=" width: 30pt; "/>
-    <input class="auto-save" data-bind="value: color "/>
-    <input class="auto-save" data-bind="value: bg "/>
-    <button data-bind=" click: $root.copy ">copy</button>
-    <br/>
-    <input class="auto-save" type="radio" name="align" value="left" data-bind="checked: align" style=" width:20pt; " />
-    <input class="auto-save" type="radio" name="align" value="center" data-bind="checked: align" style=" width:20pt; " />
-    <input class="auto-save" type="radio" name="align" value="right" data-bind="checked: align" style=" width:20pt; " />
-    <label><input class="auto-save" type="checkbox" name="bold" data-bind="checked: bold" style=" width:20pt; " />B</label>
-    <label><input class="auto-save" type="checkbox" name="fill" data-bind="checked: fill" style=" width:20pt; " />BG</label>
-    <!-- /ko -->
-    <textarea class="text" data-bind="textInput: en, attr: { 'data-id': langBub('en').id }"></textarea>
-    <textarea class="text" data-bind="textInput: ru, attr: { 'data-id': langBub('ru').id }"></textarea>
-    <button id="save-btn" data-bind=" click: save ">save</button>
-    <button data-bind=" click: getAdapt ">adapt</button>
-    <button data-bind=" click: getTranslate ">trans</button>
-    <div class="result-box"></div>
-  </div>
   <div style="padding: 10px;"><div class="page">
       <img data-bind="attr: { src: `bins/tt/${page()}.jpg` }" style=" position: absolute; "/>
       <img class="page-img" data-bind="css: { hidden: orig }, attr: { src: `bins/tt/${page()}-zz.jpg` }" style=" position: absolute; "/>
@@ -56,11 +44,52 @@
       <!-- /ko -->
       <!-- /ko -->
   </div></div>
+  <div class="panel">
+    <input type="checkbox" name="orig" data-bind="checked: orig" style=" width:20pt; "/>
+    <!-- ko with: bub -->
+    <input class="auto-save" name="size" data-bind="value: size " style=" width: 30pt; "/>
+    <div id="bub-color" class="togglable-wrapper">
+      <div class="togglable-back back"></div>
+      <div class="togglable-target select-color" data-bind="style: { 'background-color': color }">&nbsp;</div>
+      <div class="togglable-popup select-color"></div>
+    </div>
+    <div id="bub-bg" class="togglable-wrapper">
+      <div class="togglable-back back"></div>
+      <div class="togglable-target select-color" data-bind="style: { 'background-color': bg }">&nbsp;</div>
+      <div class="togglable-popup select-color"></div>
+    </div>
+    <button class="copy-btn" data-bind="click: $root.copy ">copy</button>
+    <br/>
+    <input class="auto-save" type="radio" name="align" value="left" data-bind="checked: align" style=" width:20pt; " />
+    <input class="auto-save" type="radio" name="align" value="center" data-bind="checked: align" style=" width:20pt; " />
+    <input class="auto-save" type="radio" name="align" value="right" data-bind="checked: align" style=" width:20pt; " />
+    <label><input class="auto-save" type="checkbox" name="bold" data-bind="checked: bold" style=" width:20pt; " />B</label>
+    <label><input class="auto-save" type="checkbox" name="fill" data-bind="checked: fill" style=" width:20pt; " />BG</label>
+    <!-- /ko -->
+    <textarea class="text" name="en" data-bind="textInput: en, attr: { 'data-id': langBub('en').id }"></textarea>
+    <textarea class="text" name="ru" data-bind="textInput: ru, attr: { 'data-id': langBub('ru').id }"></textarea>
+    <button class="save-btn" data-bind=" click: save ">save</button>
+    <div class="result-box"></div>
+  </div>
+  <div class="loading-block hidden back" style=" background-color: #FFFFFF88; ">
+    <div style=" position: absolute; top: 50%; left: 50%; width: 100pt; height: 60pt; background-color: white; text-align: center; vertical-align: middle; line-height: 60pt; border: 4pt solid #CCC; box-sizing: content-box; ">Loading...</div>
+  </div>
+  <div class="hidden select-color-popup-body">
+    <table>
+      <tr><td data-val="#FFF"></td><td data-val="#EB9DA0"></td><td data-val="#EAC398"></td><td data-val="#EADD93"></td><td data-val="#97DDB5"></td><td data-val="#95DDDD"></td><td data-val="#9AB8D5"></td><td data-val="#CFA2CC"></td></tr>
+      <tr><td data-val="#808080"></td><td data-val="#D16F72"></td><td data-val="#CC9B65"></td><td data-val="#C8B95D"></td><td data-val="#5EB583"></td><td data-val="#56AFAF"></td><td data-val="#6990BD"></td><td data-val="#B171AE"></tr>
+      <tr><td data-val="#000"></td><td data-val="#92393C"></td><td data-val="#916534"></td><td data-val="#91822F"></td><td data-val="#348556"></td><td data-val="#318383"></td><td data-val="#446489"></td><td data-val="#804B7D"></td></tr>
+    </table>
+  </div>
 <script>
+    (function() {
+
+    var baseUrl = true ? "https://smalls.onrender.com" : "http://localhost:3000";
+    
     function guid() {
-        return "10000000100040008000100000000000".replace(/[018]/g, c =>
-            (+c ^ crypto.getRandomValues(new Uint8Array(1))[0] & 15 >> +c / 4).toString(16)
-        );
+        return "10000000100040008000100000000000".replace(/[018]/g, function(c) {
+            return (+c ^ crypto.getRandomValues(new Uint8Array(1))[0] & 15 >> +c / 4).toString(16);
+        });
     }
 
     var vm = {};
@@ -68,9 +97,26 @@
     vm.id = ko.observable();
     vm.page = ko.observable("");
     vm.orig = ko.observable(false);
-    vm.allowSave = true;
     var urlPage = "002-001";
     vm.mode = "";
+    
+    // select-color
+    $(".select-color-popup-body td").each(function() { $(this).css("background-color", $(this).data("val")); });
+    $(".togglable-popup.select-color").html($(".select-color-popup-body").html());
+    
+    function cookie(k, v) {
+        if (v !== undefined) {
+            var d = (new Date()).getTime() + (300 * 24 * 60 * 60 * 1000);
+            expires = "; expires=" + (new Date(d)).toGMTString();
+            document.cookie = encodeURIComponent(k) + "=" + encodeURIComponent(v) + expires + "; path=/";
+        }
+        else {
+            n = encodeURIComponent(k) + "=";
+            var r = document.cookie.split(/; ?/).find(function(x) { return x.startsWith(n); });
+            if (r === null || r === undefined) return null;
+            return decodeURIComponent(r.split("=")[1]);
+        }
+    }
     
     (function() {
         var url = $(location).attr("href");
@@ -89,15 +135,17 @@
     
     vm.bub = ko.computed(function() {
         var id = vm.id();
-        return vm.bubs().find(x => x.id() === id);
+        return vm.bubs().find(function(x) { return x.id() === id; });
     });
     
     function langBub(lang) {
         var bub = vm.bub();
         var sibId = bub.sib();
-        var sib = vm.bubs().find(x => x.id() === sibId);
+        var sib = vm.bubs().find(function(x) { return x.id() === sibId; });
         return bub.lang() === lang ? bub : sib;
-    }    
+    }
+    
+    vm.langBub = langBub;
     
     vm.en = ko.pureComputed({ read: function() {
         return langBub("en").text();
@@ -123,7 +171,7 @@
     function bubEx(bub) {
         bub.sh = ko.computed(function() {
             var bg = bub.bg();
-            return `-1px -1px 0 ${bg}, 1px -1px 0 ${bg}, -1px 1px 0 ${bg}, 1px 1px 0 ${bg}, -2px 0px 0 ${bg}, 2px 0px 0 ${bg}`
+            return "-1px -1px 0 bg, 1px -1px 0 bg, -1px 1px 0 bg, 1px 1px 0 bg, -2px 0px 0 bg, 2px 0px 0 bg".replaceAll("bg", bg);
         });
         return bub;
     }
@@ -155,30 +203,41 @@
         vm.id(vm.lang() === "en" ? en.id() : ru.id());
     }
 
+    function applyBubs(data) {
+        data.forEach(function(x) {
+            var xo = ko.mapping.fromJS(x);
+            vm.bubs.push(bubEx(ko.mapping.fromJS(x)));
+        });
+        var diff = data.length > 0 ? 2 : 0;
+        vm.id(vm.bubs()[vm.mode === "ru" ? diff + 1 : diff].id());
+        if (data.length > 0) {
+            vm.bubs.shift();
+            vm.bubs.shift();
+        }
+        $(".loading-block").addClass("hidden");
+    }
+    
     vm.page.subscribe(function(page) {
         var bubs = vm.bubs().slice();
         createBub(0,0);
-        bubs.forEach(x => vm.bubs.remove(x));
-        vm.allowSave = false;
+        bubs.forEach(function(x) { vm.bubs.remove(x); });
+        $(".loading-block").removeClass("hidden");
         $.ajax({
-            url: `http://192.168.0.2/smalls/data/tt/${page}.json`
-          , cache: false
-        }).done(function(d) {
-            d.forEach(x => {
-                var xo = ko.mapping.fromJS(x);
-                vm.bubs.push(bubEx(ko.mapping.fromJS(x)));
-            });
-            var diff = d.length > 0 ? 2 : 0;
-            vm.id(vm.bubs()[vm.mode === "ru" ? diff + 1 : diff].id());
-            if (d.length > 0) {
-                vm.bubs.shift();
-                vm.bubs.shift();
+            url: baseUrl + "/yadisk/ttg/" + page + ".json?user=" + cookie("yadisk_user"),
+            dataType: 'json',
+            cache: false
+        }).done(function(data) {
+            applyBubs(data);
+        }).fail(function(x) {
+            if (x.status !== 404) {
+                alert("Loading error!");
+                return;
             }
-        }).always(function() {
-            vm.allowSave = true;
+            
+            applyBubs([]);
         });
     });
-
+    
     vm.copy = function() {
         var en = langBub("en");
         var ru = langBub("ru");
@@ -190,93 +249,88 @@
         ru.align(en.align());
         ru.fill(en.fill());
         ru.bold(en.bold());
-    }
+    };
+
+    // saving
+    (function() {
+        var t = null;
+        
+        vm.save = function(obj, elem, onlyChanged) {
+            if (onlyChanged && !t) return;
+            
+            clearTimeout(t); t = null;
+            var cfg = { 'ignore': ["sh"] };
+            var data = vm.bubs().map(function(x) { return ko.mapping.toJS(x, cfg); });
+            data = "data=" + encodeURIComponent(JSON.stringify(data));
+            $(".save-btn").addClass("saving");
+            $.ajax({
+                url: baseUrl + "/yadisk/ttg/" + vm.page() + ".json?user=" + cookie("yadisk_user"),
+                method: "post",
+                data: data
+            }).always(function() {
+                $(".save-btn").removeClass("saving");
+            }).fail(function() {
+                alert("Save error!");
+            });
+        };
+        
+        vm.delayedSave = function() {
+            clearTimeout(t); t = null;
+            t = setTimeout(function() { vm.save(); }, 5000);
+        };
+        
+        $(document).on("change", ".auto-save", function() {
+            vm.delayedSave();
+        });
+        
+        $(document).on("input", ".text", function() {
+            vm.delayedSave();
+        });
+    })();
+
+    $(document).on("click", ".togglable-wrapper, .togglable-back", function(e) {
+        $(this).closest(".togglable-wrapper").toggleClass("toggled");
+        e.stopPropagation();
+    });
     
-    $(".text").on("focus", function() {
+    $(document).on("click", ".togglable-wrapper td", function(e) {
+        var color = $(this).data("val");
+        var prop = $(this).parents(".togglable-wrapper").attr("id").substr("bub-".length);
+        vm.bub()[prop](color);
+        vm.delayedSave();
+        $(".toggled").removeClass("toggled");
+        e.stopPropagation();
+    });
+    
+    $(document).on("focus", ".text", function() {
         vm.id($(this).attr("data-id"));
     });    
 
     $(document).on("click", ".bub", function(e) {
         var id = $(this).attr("id");
         vm.id(id);
-        $(`.text[data-id=${id}]`).focus();
+        $(".text[data-id=" + id + "]").focus();
         e.stopPropagation();
     });    
-
-    vm.getAdapt = function() {
-        var q = "=Адаптируй текст для элементарного уровня знания " +
-              "английского (A2) и дай 4 варианта с переводом. Верни только результать. Текст: " + langBub("en").text();
-        
-        $.ajax({
-            url: "http://192.168.0.2/sandbox/api/comics/gemini"
-          , method: "post"
-          , data: q
-        }).done(function(d) {
-            $(".result-box").html(d);
-        });
-    }
-
-    vm.getTranslate = function() {
-        var q = "=Дай 4 варианта перевод текста на русский: " + langBub("en").text();
-        
-        $.ajax({
-            url: "http://192.168.0.2/sandbox/api/comics/gemini"
-          , method: "post"
-          , data: q
-        }).done(function(d) {
-            $(".result-box").html(d);
-        });
-    }
     
     $(document).on("click", ".page", function(e) {
         var sib = function (bub) {
             var id = bub.id();
-            return vm.bubs().find(x => x.sib() === id);
-        }
+            return vm.bubs().find(function(x) { return x.sib() === id; });
+        };
 
         var p = $(".page").position();
         createBub(e.pageX - Math.floor(p.left), e.pageY - Math.floor(p.top));
         
-        var bubs = vm.bubs().filter(b => !b.text() && !sib(b).text());
+        var bubs = vm.bubs().filter(function(b) { return !b.text() && !sib(b).text(); });
         bubs.pop(); bubs.pop();
-        bubs.forEach(b => {
+        bubs.forEach(function(b) {
             vm.bubs.remove(b);
         });
-        $(`.text[data-id=${vm.id()}]`).focus();
+        $(".text[data-id=" + vm.id() + "]").focus();
     });
-
-    (function () {
-        var t = null;
-        
-        vm.save = function() {
-            clearTimeout(t);
-            if (!vm.allowSave)
-                return;
-            var cfg = { 'ignore': ["sh"] }
-            var data = vm.bubs().map(x => ko.mapping.toJS(x, cfg));
-            data = "=" + encodeURIComponent(JSON.stringify(data));
-            $("#save-btn").text("saving");
-            $.ajax({
-                url: `http://192.168.0.2/sandbox/api/comics/save?path=tt/${vm.page()}.json`
-              , method: "post"
-              , data: data
-            }).done(function() {
-                $("#save-btn").text("save");
-            });
-        }
-        
-        $(document).on("change", ".auto-save", function() {
-            clearTimeout(t);
-            t = setTimeout(function() { vm.save(); }, 5000);
-        });
-        
-        $(document).on("input", ".text", function() {
-            clearTimeout(t);
-            t = setTimeout(function() { vm.save(); }, 5000);
-        });
-    })();
-
     
+    // dragging
     (function () {
         var xy = {};
         $(document).on("dragstart", ".bub", function(e) {
@@ -288,14 +342,13 @@
             var bub = vm.bub();
             bub.x(bub.x() + e.offsetX - xy.x);
             bub.y(bub.y() + e.offsetY - xy.y);
-            $(`.text[data-id=${bub.id()}]`).focus();
+            $(".text[data-id=" + bub.id() + "]").focus();
         });
     })();
     
-    //createBub(0,0);
-    //vm.id(vm.bubs()[0].id());
     vm.page(urlPage);
-    //$("[data-lang=en]").focus();
     ko.applyBindings(vm);
+    
+    })();
 </script>
 </body>
