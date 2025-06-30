@@ -9,6 +9,15 @@ const apiBase = "https://cloud-api.yandex.net/v1/disk/";
 const yadiskRe = /^\/yadisk\/(acl\/)?/;
 const token = process.env.YADISK_TOKEN;
 
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+app.use((req, res, next) => {
+  res.header('Access-Control-Allow-Origin', '*');
+  res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
+  res.header('Access-Control-Allow-Headers', true);
+  next();
+});
+
 function asyncHandler(fn) {
   return function(req, res, next) {
     Promise.resolve(fn(req, res, next)).catch(next);
@@ -108,15 +117,6 @@ app.get(yadiskRe, asyncHandler(async (req, res) => {
 app.post(yadiskRe, asyncHandler(async (req, res) => {
     return await diskHandler(req, res, "write");
 }));
-
-app.use(express.json());
-app.use(express.urlencoded({ extended: true }));
-app.use((req, res, next) => {
-  res.header('Access-Control-Allow-Origin', '*');
-  res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
-  res.header('Access-Control-Allow-Headers', true);
-  next();
-});
 
 app.listen(3000, () => {
   console.log('Server running on http://localhost:3000');
