@@ -293,7 +293,7 @@
         e.stopPropagation();
     });
     
-    $(document).on("click", ".togglable-wrapper td", function(e) {
+    $(document).on("click", ".select-color td", function(e) {
         var color = $(this).data("val");
         var prop = $(this).parents(".togglable-wrapper").attr("id").substr("bub-".length);
         vm.bub()[prop](color);
