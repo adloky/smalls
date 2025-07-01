@@ -43,15 +43,14 @@ async function tryMany(n, fn, breakIf) {
     var err = new Error();
     for (var i = 0; i < n && err; i++) {
         try {
-            await fn();
-            err = null;
+            return await fn();
         }
         catch (e) {
             err = e;
             if (breakIf(e)) break;
         }
     }
-    return err;
+    throw err;
 }
 
 async function diskReq(path, method, data) {
@@ -96,8 +95,7 @@ async function diskAcl(path, user) {
         access = cache.get(path);
     }
     else {
-        var e = await tryMany(5, async () => { access = await diskReq(path, "get"); }, e => e.status === 404);
-        if (e && e.status !== 404) throw e;
+        try { access = await tryMany(5, async () => await diskReq(path, "get"), e => e.status === 404); } catch {}
         cache.set(path, access);
     }
     
@@ -128,11 +126,11 @@ async function diskHandler(req, res, op) {
     if (op === "write" && req.body.data === undefined) throw httpError(400, "Form param 'data' undefined!");
 
     if (op === "read") {
-        var r = await diskReq(path, "get");
+        var r = await tryMany(5, async () => await diskReq(path, "get"), e => e.status === 404);
         res.send(r);
     }
     else if (op === "write") {
-        await diskReq(path, "post", req.body.data);
+        await tryMany(5, async () => await diskReq(path, "post", req.body.data));
         res.send('Form submitted!');
     }
 }
