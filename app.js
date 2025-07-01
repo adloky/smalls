@@ -38,6 +38,22 @@ function httpError(code, message) {
     return e;
 }
 
+async function tryMany(n, fn, breakIf) {
+    if (!breakIf) breakIf = () => false;
+    var err = new Error();
+    for (var i = 0; i < n && err; i++) {
+        try {
+            await fn();
+            err = null;
+        }
+        catch (e) {
+            err = e;
+            if (breakIf(e)) break;
+        }
+    }
+    return err;
+}
+
 async function diskReq(path, method, data) {
     const cmd = { get: 'download', post: 'upload' };
     var params = { path: path };
@@ -75,21 +91,22 @@ async function diskAcl(path, user) {
     if (!user || user === "*") throw httpError(401, "User undefined!");;
 
     path = pathJs.join(path, ".access").replaceAll("\\", "/");
+    var access = "";
     if (cache.has(path)) {
-        return cache.get(path);
+        access = cache.get(path);
     }
-    
-    var access = ""; try { access = await diskReq(path, "get"); } catch {}
+    else {
+        var e = await tryMany(5, async () => { access = await diskReq(path, "get"); }, e => e.status === 404);
+        if (e && e.status !== 404) throw e;
+        cache.set(path, access);
+    }
     
     var acl = access.split(/\r?\n/)
         .filter(x => x.startsWith(user + " ") || x.startsWith("* "))
         .map(x => x.replace(/^[^ ]+ +/, "").trim().split(/ +/))
         .reduce(function(a, b){ return a.concat(b); }, []);
     
-    var r = Array.from(new Set(acl));
-    cache.set(path, r);
-    
-    return r;
+    return Array.from(new Set(acl));
 }
 
 async function diskHandler(req, res, op) {
@@ -115,7 +132,7 @@ async function diskHandler(req, res, op) {
         res.send(r);
     }
     else if (op === "write") {
-        var r = await diskReq(path, "post", req.body.data);
+        await diskReq(path, "post", req.body.data);
         res.send('Form submitted!');
     }
 }
