@@ -32,6 +32,7 @@ using Markdig;
 using Microsoft.VisualBasic.FileIO;
 using Sandbox;
 using System.Drawing.Imaging;
+using System.Runtime.InteropServices;
 
 namespace ConApp {
     public class Tag {
@@ -2038,11 +2039,28 @@ namespace ConApp {
             driver.Dispose();
         }
 
+        static void gitPush() {
+            var process = new Process();
+            process.StartInfo.WorkingDirectory = Directory.GetCurrentDirectory();
+            process.StartInfo.FileName = @"D:\Portables\git\bin\git.exe";
+            process.StartInfo.Arguments = @"push";
+            process.StartInfo.UseShellExecute = true;
+
+            process.Start();
+            while (process.MainWindowHandle == IntPtr.Zero) {
+                Thread.Sleep(100);
+            }
+            SendKeys.SendWait($"adloky\n{SandboxConfig.Default["gitPassword"]}\n");
+            process.WaitForExit();
+        }
+
         static volatile bool ctrlC = false;
 
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
+            gitPush();
+            return;
             //exportComics("002", 10);
 
             //genSamples(@"d:\top-3-4k.txt");
@@ -2090,7 +2108,7 @@ namespace ConApp {
             //genStories(@"d:/stories-0.txt", 3);
 
             //geminiSplit(@"d:\.temp\reader-36-orig.txt");
-            geminiAdapt(@"d:\.temp\reader-36.txt" ,"B2", true);
+            //geminiAdapt(@"d:\.temp\reader-36.txt" ,"B2", true);
 
             //mdMonitor(); return; // mdPostCom
 
