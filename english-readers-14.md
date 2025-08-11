@@ -1,4 +1,6 @@
-﻿# The Empty Grave by Jonathan Stroud (B1)
+﻿<config freqGroupsPos="1"/>
+
+# The Empty Grave by Jonathan Stroud (B1)
 
 # «Пустая могила» Джонатана Страуда
 

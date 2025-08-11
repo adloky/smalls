@@ -1,4 +1,6 @@
-﻿# Guards! Guards! by Terry Pratchett (B1)
+﻿<config freqGroupsPos="1"/>
+
+# Guards! Guards! by Terry Pratchett (B1)
 
 # Стражи! Стражи! Терри Пратчетт
 

@@ -4,6 +4,7 @@
   <script src="js/jquery-3.3.1.js"></script>
   <script src="js/knockout-3.5.0.js"></script>
   <script src="js/knockout.mapping.js"></script>
+  <script src="js/freq-groups.js"></script>
 <style>
   * { box-sizing: border-box; }
   * { font-family: sans-serif; }
@@ -11,12 +12,12 @@
   body { margin: 0pt; margin-right: 280pt; }
   .panel { width: 280pt; margin-right: -280pt; position: fixed; top: 0px; right: 280pt; padding: 10pt; }
   .page { position: relative; }
-  .bub { position: absolute; border: 1px solid transparent; margin: 0px; font-family: 'Bubble Sans'; line-height: 0.85; padding: 0.2em; text-transform: uppercase; }
+  .bub { position: absolute; border: 1px solid transparent; margin: 0px; font-family: 'Bubble Sans'; line-height: 1; padding: 0.2em; text-transform: uppercase; }
   .bub.sel { border-color: red; }
   .page { width: 1500px; height: 3000px; }
   input, textarea { margin-bottom: 5pt; font-family: monospace; }
   input { width: 40pt; }
-  .text { width: 100%; height: 100pt; text-transform: uppercase; }
+  .lang-text { width: 100%; height: 100pt; text-transform: uppercase; }
   .hidden { display: none; }
   .bub.bold { font-weight: bold; }
   .save-btn.saving { background-color: #FCC; }
@@ -27,6 +28,8 @@
   .togglable-popup.select-color { display: none; position: absolute; border: 1px solid black; margin-left: -50pt; }
   .togglable-popup.select-color td { width: 13pt; height: 13pt; }
   .togglable-wrapper.toggled .togglable-back, .togglable-wrapper.toggled .togglable-popup { display: initial; }
+  .check-box span { font-weight: bold; }
+  .fg1 { color: #c80; } .fg2 { color: #a44; } .fg3 { color: #64a; }
   
   @font-face {
       font-family: 'Bubble Sans';
@@ -66,13 +69,15 @@
     <label><input class="auto-save" type="checkbox" name="bold" data-bind="checked: bold" style=" width:20pt; " />B</label>
     <label><input class="auto-save" type="checkbox" name="fill" data-bind="checked: fill" style=" width:20pt; " />BG</label>
     <!-- /ko -->
-    <textarea class="text" name="en" data-bind="textInput: en, attr: { 'data-id': langBub('en').id }"></textarea>
-    <textarea class="text" name="ru" data-bind="textInput: ru, attr: { 'data-id': langBub('ru').id }"></textarea>
-    <button class="save-btn" data-bind=" click: save ">save</button>
-    <div class="result-box"></div>
+    <textarea class="lang-text" name="en" data-bind="textInput: en, attr: { 'data-id': langBub('en').id }"></textarea>
+    <textarea class="lang-text" name="ru" data-bind="textInput: ru, attr: { 'data-id': langBub('ru').id }"></textarea>
+    <button class="save-btn" data-bind=" click: save ">save</button> <button class="check-btn" data-bind=" click: check ">check</button> <button class="ds-btn">adapt</button>
+    <div class="ocr-box" style="height: 150pt; overflow-y: auto; margin-top: 10pt; border: 1px solid gray; font-size: 10pt; "></div>
+    <div class="check-box" style=" margin-top: 10pt; font-size: 10pt; "></div>
+    <div class="res-box" style="height: 200pt; overflow-y: auto; margin-top: 10pt; font-size: 10pt; "></div>
   </div>
   <div class="loading-block hidden back" style=" background-color: #FFFFFF88; ">
-    <div style=" position: absolute; top: 50%; left: 50%; width: 100pt; height: 60pt; background-color: white; text-align: center; vertical-align: middle; line-height: 60pt; border: 4pt solid #CCC; box-sizing: content-box; ">Loading...</div>
+    <div style=" position: absolute; top: 50%; left: 50%; width: 100pt; height: 60pt; margin-left: -50pt; margin-top: -30pt; background-color: white; text-align: center; vertical-align: middle; line-height: 60pt; border: 4pt solid #CCC; box-sizing: content-box; ">Loading...</div>
   </div>
   <div class="hidden select-color-popup-body">
     <table>
@@ -92,7 +97,7 @@
         });
     }
 
-    var vm = {};
+    var vm = window.vm = {};
     vm.bubs = ko.observableArray();
     vm.id = ko.observable();
     vm.page = ko.observable("");
@@ -117,6 +122,8 @@
             return decodeURIComponent(r.split("=")[1]);
         }
     }
+    
+    window.handleCookie = cookie;
     
     (function() {
         var url = $(location).attr("href");
@@ -146,19 +153,18 @@
     }
     
     vm.langBub = langBub;
+   
+    function computedLang(lang) {
+        return ko.pureComputed({ read: function() {
+            return langBub(lang).text();
+        }, write: function(value) {
+            langBub(lang).text(value);
+        }});
+    }
     
-    vm.en = ko.pureComputed({ read: function() {
-        return langBub("en").text();
-    }, write: function(value) {
-        langBub("en").text(value);
-    }});
-
-    vm.ru = ko.pureComputed({ read: function() {
-        return langBub("ru").text();
-    }, write: function(value) {
-        langBub("ru").text(value);
-    }});
-
+    vm.en = computedLang("en");
+    vm.ru = computedLang("ru");
+    
     vm.lang = ko.computed(function() {
         if (!vm.bub()) return "en";
         return vm.bub().lang();
@@ -236,20 +242,44 @@
             
             applyBubs([]);
         });
+        
+        $.ajax({
+            url: "bins/ttg-ocr/" + page + ".txt",
+            dataType: 'text'
+        }).done(function(data) {
+            var html = data.toUpperCase().split(/\r?\n/).join("<br/>");
+            $(".ocr-box").html(html);
+        });
     });
     
-    vm.copy = function() {
-        var en = langBub("en");
-        var ru = langBub("ru");
-        ru.x(en.x());
-        ru.y(en.y());
-        ru.color(en.color());
-        ru.bg(en.bg());
-        ru.size(en.size());
-        ru.align(en.align());
-        ru.fill(en.fill());
-        ru.bold(en.bold());
-    };
+    (function() {
+        vm.copy = function() {
+            var en = langBub("en");
+            var ru = langBub("ru");
+            ru.x(en.x());
+            ru.y(en.y());
+            ru.color(en.color());
+            ru.bg(en.bg());
+            ru.size(en.size());
+            ru.align(en.align());
+            ru.fill(en.fill());
+            ru.bold(en.bold());
+        };
+        
+        vm.check = function() {
+            var s = vm.en().toUpperCase().replaceAll("’", "'");
+            var html = s.match(/[A-Z][A-Z']*[A-Z]/g)
+                .map(function(x) {
+                    x = x.replace(/N'T$/, "").match(/^[A-Z]+/)[0];
+                    var g = freqGroups.has(x) ? freqGroups.get(x) : 3;
+                    return [x,g];
+                }).filter(function(x) { return x[1] !== 0; })
+                .sort(function(a, b) { return a[1] - b[1]; })
+                .map(function(x) { return "<span class='fg" + x[1] + "'>" + x[0] + "</span>"; })
+                .join(" ");
+            $(".check-box").html(html);
+        };
+    })();
 
     // saving
     (function() {
@@ -283,7 +313,7 @@
             vm.delayedSave();
         });
         
-        $(document).on("input", ".text", function() {
+        $(document).on("input", ".lang-text", function() {
             vm.delayedSave();
         });
     })();
@@ -302,14 +332,14 @@
         e.stopPropagation();
     });
     
-    $(document).on("focus", ".text", function() {
+    $(document).on("focus", ".lang-text", function() {
         vm.id($(this).attr("data-id"));
     });    
 
     $(document).on("click", ".bub", function(e) {
         var id = $(this).attr("id");
         vm.id(id);
-        $(".text[data-id=" + id + "]").focus();
+        $(".lang-text[data-id=" + id + "]").focus();
         e.stopPropagation();
     });    
     
@@ -320,14 +350,12 @@
         };
 
         var p = $(".page").position();
-        createBub(e.pageX - Math.floor(p.left), e.pageY - Math.floor(p.top));
-        
         var bubs = vm.bubs().filter(function(b) { return !b.text() && !sib(b).text(); });
-        bubs.pop(); bubs.pop();
+        createBub(e.pageX - Math.floor(p.left), e.pageY - Math.floor(p.top));
         bubs.forEach(function(b) {
             vm.bubs.remove(b);
         });
-        $(".text[data-id=" + vm.id() + "]").focus();
+        $(".lang-text[data-id=" + vm.id() + "]").focus();
     });
     
     // dragging
@@ -342,9 +370,31 @@
             var bub = vm.bub();
             bub.x(bub.x() + e.offsetX - xy.x);
             bub.y(bub.y() + e.offsetY - xy.y);
-            $(".text[data-id=" + bub.id() + "]").focus();
+            $(".lang-text[data-id=" + bub.id() + "]").focus();
         });
     })();
+    
+    $(document).on('input', ".lang-text", function() {
+        var start = this.selectionStart;
+        var end = this.selectionEnd;
+        $(this).val($(this).val().toUpperCase());
+        this.setSelectionRange(start, end);
+    });
+    
+    $(document).on('click', ".ds-btn", function() {
+        var q = "Сделай адаптацию на английском под B1-уровень, а также дай перевод адаптации. "
+            + "Верни только результаты без дополнительных комментариев:\n" + $("[name=en]").val();
+        $.ajax({
+            url: "http://192.168.0.2/sandbox/api/proxy-ds"
+          , method: "post"
+          , contentType: "application/json"
+          , data: JSON.stringify(q)
+          , success: d => {
+              var html = d.join("\n").split(/\r?\n/).join("<br/>");
+              $(".res-box").html(html);
+          }
+        });
+    });
     
     vm.page(urlPage);
     ko.applyBindings(vm);

@@ -1,3 +1,7 @@
+<config freqGroupsPos="1" cdn="1"/>
+
+<font color="#FFFFFF"><span style="background: #000">A1-A2</span> <span style="background: #c50">B1</span> <span style="background: #0c0">B2</span> <span style="background: #07f">C1</span> <span style="background: #80f">C2+</span></font>
+
 # P.G. Wodehouse vol.2 (B1)
 
 # П.Г. Вудхаус

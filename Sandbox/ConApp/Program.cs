@@ -415,13 +415,14 @@ namespace ConApp {
             return r;
         }
 
-        static Regex freqGoupRe = new Regex(@"[a-z]+", RegexOptions.IgnoreCase | RegexOptions.Compiled);
+        static Regex freqGoupSymRe = new Regex(@"[^a-z]", RegexOptions.IgnoreCase | RegexOptions.Compiled);
+        static Regex freqGroupRe = new Regex(@"</?[a-z]('[^']*'|""[^""]*""|[^/>'""]+)*/?>|[a-z0-9]+", RegexOptions.IgnoreCase | RegexOptions.Compiled);
         static string[][] freqGroupColors = new[] { new [] { "#ffbc8c", "#99ff99", "#99cbff", "#b399ff" }, new[] { "#cc5400", "#00b200", "#0079ff", "#8000ff" } };
 
         static string handleWPos(string s, bool wPos, Func<string,string,string> f) {
-            return !wPos ? handleString(s, freqGoupRe, (x,m) => f(x,x.ToLower()))
+            return !wPos ? handleString(s, freqGroupRe, (x,m) => f(x,x.ToLower()))
                 : string.Join("", getPos(s).Select(p => {
-                    if (p.pos == null || p.pos == "имя" || p.pos == "междометие")
+                    if (freqGoupSymRe.IsMatch(p.s) || p.pos == null || p.pos == "имя" || p.pos == "междометие")
                         return p.s;
                     return f(p.s, $"{p.s.ToLower()} {{{p.pos}}}");
                 }));
@@ -1438,6 +1439,7 @@ namespace ConApp {
             var freqGroupsPos = getDicVal("freqGroupsPos", "0", confTag.attr, SandboxConfig.Default) == "1";
             var freqGroups = getDicVal("freqGroups", "1500,2500,3800,5500,11000", confTag.attr, SandboxConfig.Default).Split(',').Select(x => int.Parse(x)).ToArray();
             var mdPostStr = getDicVal("mdPost", null, confTag.attr, SandboxConfig.Default);
+            var cdn = getDicVal("cdn", "0", confTag.attr, SandboxConfig.Default) == "1";
 
             var post = mdPostStr == null ? x => x : (Func<IEnumerable<string>,IEnumerable<string>>)Delegate.CreateDelegate(
                 typeof(Func<IEnumerable<string>, IEnumerable<string>>), null,
@@ -1487,6 +1489,9 @@ namespace ConApp {
             var isOne = !rs2.Any(x => enru(x[1]) < 0);
 
             var rs = File.ReadAllLines(@"d:\Projects\smalls\book-en.html").ToList();
+            if (cdn) {
+                rs = rs.Select(x => x.Replace("<script src=\"", "<script src=\"" + "https://adloky.github.io/smalls/")).ToList();
+            }
             rs.AddRange(contents);
             rs.AddRange(rs2.Select(x => isOne || Tag.Clear(x[0]) == Tag.Clear(x[1]) ? new [] { x[0] } : x)
                 .Select(x => $"<div class=\"columns{x.Length}\">{string.Join("", x.Select(y => $"<div>{y}</div>"))}</div>"));
@@ -2009,8 +2014,14 @@ namespace ConApp {
             ep += "-";
             var driver = new ChromeDriver();
             driver.Manage().Window.Maximize();
+            driver.Navigate().GoToUrl("http://192.168.0.2/smalls/comics.html?page=002-000");
+            driver.ExecuteScript($"handleCookie(\"yadisk_user\", \"{SandboxConfig.Default["yadiskUser"]}\");");
             Enumerable.Range(1, n).Select(x => ep + x.ToString("000")).SelectMany(x => new[] { $"{x}-en", $"{x}-ru" }).ToList().ForEach(x => {
                 driver.Navigate().GoToUrl($"http://192.168.0.2/smalls/comics.html?page={x}");
+                while (driver.FindElements(By.CssSelector(".loading-block.hidden")).Count == 0) {
+                    Thread.Sleep(500);
+                }
+                
                 driver.Manage().Window.Size = new Size(2000, 2000);
                 var ps = Enumerable.Range(1,3).Select(y => $"d:/.temp/tt/_{x}-{y}.png").ToList();
 
@@ -2039,6 +2050,34 @@ namespace ConApp {
             driver.Dispose();
         }
 
+        static string[] proxyDeepseek(string s) {
+            s = JsonConvert.ToString(s);
+            var url = $"https://api.proxyapi.ru/deepseek/chat/completions";
+            var request = WebRequest.Create(url);
+            request.Method = "POST";
+            request.ContentType = "application/json";
+            s = $"{{\"model\":\"deepseek-chat\",\"messages\":[{{\"role\":\"user\",\"content\":{s}}}]}}";
+            var data = Encoding.UTF8.GetBytes(s);
+            request.ContentLength = data.Length;
+            request.ContentType = "application/json";
+            request.Headers.Add("Authorization", $"Bearer {SandboxConfig.Default["proxyapiKey"]}");
+            using (var stream = request.GetRequestStream()) {
+                stream.Write(data, 0, data.Length);
+            }
+            var r = (string)null;
+
+            using (var response = request.GetResponse())
+            using (Stream dataStream = response.GetResponseStream()) {
+                var reader = new StreamReader(dataStream);
+                r = reader.ReadToEnd();
+            }
+
+            var obj = JObject.Parse(r);
+
+            return obj.SelectTokens("$.choices[*].message.content").Select(x => x.Value<string>()).ToArray(); ;
+        }
+
+
         static void gitPush() {
             var process = new Process();
             process.StartInfo.WorkingDirectory = Directory.GetCurrentDirectory();
@@ -2058,10 +2097,23 @@ namespace ConApp {
 
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
+            var lvRe = new Regex(@"\[[ABCL0123]{1,2}\]");
+            var nonRe = new Regex(@"[^a-я ,-]", RegexOptions.IgnoreCase);
 
-            gitPush();
-            return;
-            //exportComics("002", 10);
+            var xs = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").ToList();
+            var rs = new List<string>();
+            var i = 0;
+            xs.ForEach(x => {
+                var d = DicItem.Parse(x);
+                var vs = string.Join(" ", d.vals);
+                vs = lvRe.Replace(vs, "");
+                if (nonRe.IsMatch(vs)) {
+                    rs.Add(x);
+                }
+            });
+            File.WriteAllLines(@"d:\freq-edit.txt", rs);
+
+            //exportComics("003", 10);
 
             //genSamples(@"d:\top-3-4k.txt");
             //rndSamples(@"d:\top-3-4k-2.txt");
@@ -2107,13 +2159,13 @@ namespace ConApp {
 
             //genStories(@"d:/stories-0.txt", 3);
 
-            //geminiSplit(@"d:\.temp\reader-36-orig.txt");
-            //geminiAdapt(@"d:\.temp\reader-36.txt" ,"B2", true);
+            //geminiSplit(@"d:\.temp\reader-41-orig.txt");
+            //geminiAdapt(@"d:\.temp\reader-41.txt" ,"B2", false);
 
             //mdMonitor(); return; // mdPostCom
 
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
-            //serRename(@"e:\videos\Arthur\S01");
+            //serRename(@"e:\videos\Parks\S02");
 
             /*
             if (!File.Exists(@"d:\.temp\srt\all.srt")) 
