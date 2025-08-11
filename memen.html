@@ -285,9 +285,9 @@ function wordRetellHtml(level) {
     var rs = [];
     var c = wordRetell.context.split(/\r?\n/).filter(x => x !== "");
     if (c.length !== 0) {
-        var s = c[wordRetell.ctxNum].split(/ ?\| ?/);
+        var s = c[wordRetell.ctxNum % c.length].split(/ ?\| ?/);
         rs.push(`<div class="ctx-retell">${s[0]}</div>`);
-        if (level > 0) {
+        if (level > 0 && s[1]) {
             rs.push(`<div class="ctx-retell">${s[1]}</div>`);
         }
     }

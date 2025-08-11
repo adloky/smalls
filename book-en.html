@@ -15,7 +15,7 @@
   .voc { width: 100%; padding: 5pt; top: 0pt; position: fixed; background-color: #ffd; border-bottom: 1pt solid gray; font-size: 16pt; }
 </style>
 
-<script src="jquery-2.2.4.min.js"></script>
+<script src="jquery-3.3.1.js"></script>
 <script src="freq-20k.js"></script>
 <script src="lemmas.js"></script>
 </head>
@@ -30,7 +30,7 @@
         return s.replace(w, `<b>${w}</b>`);
     }
 
-    $(document).on("click", ".columns2 div, .columns1 div", function() {
+    $(document).on("click", ".columns2 div, .columns1 div", function(e) {
         var s = window.getSelection();
         var r = s.getRangeAt(0);
         
@@ -72,5 +72,10 @@
         
         $(".voc").html(r);
         $(".voc").removeClass("hidden");
+        e.stopPropagation();
+    });
+    
+    $(document).click(function() {
+        $(".voc").addClass("hidden");
     });
 </script>
