@@ -1190,7 +1190,7 @@ namespace ConApp {
             if (path.Last() != '/' && path.Last() != '\\') path += "/";
             var rs = new List<string>();
             var i = 0;
-            var ns = Directory.GetFiles(path, "*.*").Where(x => x.EndsWith(".jpg") || x.EndsWith(".jpeg")).Select(x => Path.GetFileNameWithoutExtension(x)).OrderBy(p => p).ToArray();
+            var ns = Directory.GetFiles(path, "*.*").Where(x => x.ToLower().EndsWith(".jpg") || x.ToLower().EndsWith(".jpeg")).Select(x => Path.GetFileNameWithoutExtension(x)).OrderBy(p => p).ToArray();
             var brRe = new Regex(@"[\.!?]+[""']|[\.!?]+");
             foreach (var n in ns) {
                 i++;
@@ -1905,7 +1905,7 @@ namespace ConApp {
         static void geminiComicOcr(string path) {
             if (path.Last() != '/' && path.Last() != '\\') path += "/";
             var rs = new List<string>();
-            var ps = Directory.GetFiles(path, "*.*").Where(x => x.EndsWith(".jpg") || x.EndsWith(".jpeg")).OrderBy(p => p).ToArray();
+            var ps = Directory.GetFiles(path, "*.*").Where(x => x.ToLower().EndsWith(".jpg") || x.ToLower().EndsWith(".jpeg")).OrderBy(p => p).ToArray();
             foreach (var p in ps) {
                 var name = Path.GetFileNameWithoutExtension(p);
                 var txtPath = $"{path}{name}.txt";
@@ -2201,7 +2201,6 @@ namespace ConApp {
             //comicOcrPost(@"d:\.temp\comics-ocr\", 10, 3); // 20,5 archie
             //fixOcr(@"d:\.temp\comics-ocr\en.txt");
             //deeplSplit(@"d:\.temp\comics-ocr\en.txt");
-
             //comicComplete(@"d:\.temp\comics-ocr\");
 
             Console.WriteLine("Press ENTER");
