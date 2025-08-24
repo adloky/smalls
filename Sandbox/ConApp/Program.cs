@@ -1186,21 +1186,32 @@ namespace ConApp {
             //File.WriteAllLines(path + "en.txt", rs);
         }
 
+        public static IEnumerable<string> bubbleLine(IEnumerable<string> ss) {
+            var endRe = new Regex(@"(--|[\.!?])[""']?$", RegexOptions.Compiled);
+            var r = "";
+            foreach (var s in ss.Select(x => x.Trim()).Where(x => x != "")) {
+                r += $" {s}";
+                if (endRe.IsMatch(s)) {
+                    yield return r.Trim();
+                    r = "";
+                }
+            }
+            if (r != "") yield return r.Trim();
+        }
+
         public static void comicOcrPost(string path, int fsize, int indent) {
             if (path.Last() != '/' && path.Last() != '\\') path += "/";
             var rs = new List<string>();
             var i = 0;
             var ns = Directory.GetFiles(path, "*.*").Where(x => x.ToLower().EndsWith(".jpg") || x.ToLower().EndsWith(".jpeg")).Select(x => Path.GetFileNameWithoutExtension(x)).OrderBy(p => p).ToArray();
-            var brRe = new Regex(@"[\.!?]+[""']|[\.!?]+");
+            
             foreach (var n in ns) {
                 i++;
                 rs.Add("* * * * " + n + " (" + i + ")");
                 var ps = (new[] { $"{path}{n}.txt", $"{path}{n}.json" }).Where(x => File.Exists(x)).ToArray();
                 foreach (var p in ps) {
                     if (p.EndsWith(".txt")) {
-                        var s = string.Join(" ", File.ReadAllLines(p));
-                        var ss = handleString(s, brRe, (x,m) => $"{x}\n").Split('\n').Select(x => x.Trim()).Where(x => x != "").ToArray();
-                        rs.AddRange(ss);
+                        rs.AddRange(bubbleLine(File.ReadAllLines(p)));
                     }
                     else if (p.EndsWith(".json")) {
                         var or = JsonConvert.DeserializeObject<OcrRootObject>(File.ReadAllText(p));
