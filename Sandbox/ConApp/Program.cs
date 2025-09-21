@@ -1633,7 +1633,9 @@ namespace ConApp {
         static void geminiAdapt(string path, string level, bool onlyReplace = false) {
             var levels = new[] { "A1", "A2", "B1", "B2", "C1", "C2", };
             level = level.ToUpper();
-            var rLevel = levels.SkipWhile(x => x != level).Skip(1).First();
+            var levelN = 0;
+            int.TryParse(level, out levelN);
+            var rLevel = levelN != 0 ? "C2" : levels.SkipWhile(x => x != level).Skip(1).First();
             
             var pathRu = pathEx(path, "-adapt");
             if (!File.Exists(pathRu)) File.WriteAllText(pathRu, "");
@@ -1651,7 +1653,10 @@ namespace ConApp {
                 if (!onlyReplace) {
                     r = $"Адаптируй текст для понимания на {level}-уровне знания английского, а также ";
                 }
-                r += $"замени, по возможности, слова за пределами {rLevel}-уровня знания английского на частоупотребляемые синонимы, верни только результат:\r\n" + s.Substring(pre.Length);
+
+                r += (levelN == 0)
+                    ? $"замени, по возможности, в тексте на английском слова за пределами {rLevel}-уровня знания английского на частоупотребляемые синонимы, верни только результирующий текст:\r\n" + s.Substring(pre.Length)
+                    : $"замени, по возможности, в тексте на английском слова за пределами {levelN} рейтинга частоты употребления слов на частоупотребляемые синонимы, верни только результирующий текст:\r\n" + s.Substring(pre.Length);
 
                 //                r = "Адаптируй текст для понимания на B1-уровне знания английского, а также ";
                 //                r += "замени, по возможности, слова за пределами B2-уровня знания английского на частоупотребляемые синонимы, верни только результат:\r\n" + s.Substring(pre.Length);
@@ -1940,11 +1945,13 @@ namespace ConApp {
         }
 
         static void genSamples(string path) {
-            var ss = File.ReadAllLines(path);
-            var rs = new List<string>();
+            var path2 = pathEx(path, "-2");
+            var rs = !File.Exists(path2) ? new List<string>() : File.ReadAllLines(path2).ToList();
+            var ss = File.ReadAllLines(path).Skip(rs.Count(x => x.StartsWith("WORD: "))).ToArray();
 
             var k = ss.Length;
             foreach (var s in ss) {
+                if (ctrlC) break;
                 var r = (string)null;
                 while (r == null) {
                     try {
@@ -1961,7 +1968,7 @@ namespace ConApp {
                 Console.WriteLine(k--);
             }
 
-            File.WriteAllLines(pathEx(path, "-2"), rs);
+            File.WriteAllLines(path2, rs);
         }
 
         static void rndSamples(string path) {
@@ -2108,27 +2115,24 @@ namespace ConApp {
 
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
-            var lvRe = new Regex(@"\[[ABCL0123]{1,2}\]");
-            var nonRe = new Regex(@"[^a-я ,-]", RegexOptions.IgnoreCase);
-
-            var xs = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").ToList();
-            var rs = new List<string>();
-            var i = 0;
-            xs.ForEach(x => {
-                var d = DicItem.Parse(x);
-                var vs = string.Join(" ", d.vals);
-                vs = lvRe.Replace(vs, "");
-                if (nonRe.IsMatch(vs)) {
-                    rs.Add(x);
-                }
-            });
-            File.WriteAllLines(@"d:\freq-edit.txt", rs);
 
             //exportComics("003", 10);
 
-            //genSamples(@"d:\top-3-4k.txt");
-            //rndSamples(@"d:\top-3-4k-2.txt");
+            //genSamples(@"d:\words-7k.txt");
+            rndSamples(@"d:\words-7k-2.txt");
+            /*
+            var path = "d:/words-7k-2.txt";
+            var ss = File.ReadAllLines(path);
+            var dic = File.ReadAllLines("d:/words-7k.txt").ToDictionary(x => DicItem.Parse(x).rank, x => x);
+            for (var i = 0; i < ss.Length; i++) {
+                var s = ss[i];
+                if (!s.StartsWith("WORD: ")) continue;
+                var n = DicItem.Parse(s.Replace("WORD: ", "")).rank;
+                ss[i] = "WORD: " + dic[n];
+            }
 
+            File.WriteAllLines("d:/words-7k-3.txt", ss);
+            */
             /*
             var d20k = loadDic(@"d:\Projects\smalls\freq-20k.txt");
             var d100 = loadDic(@"d:\Projects\smalls\words-100.txt");
@@ -2170,8 +2174,8 @@ namespace ConApp {
 
             //genStories(@"d:/stories-0.txt", 3);
 
-            //geminiSplit(@"d:\.temp\reader-41-orig.txt");
-            //geminiAdapt(@"d:\.temp\reader-41.txt" ,"B2", false);
+            //geminiSplit(@"d:\.temp\reader-28-orig.txt");
+            //geminiAdapt(@"d:\.temp\reader-28.txt", "8000", true);
 
             //mdMonitor(); return; // mdPostCom
 

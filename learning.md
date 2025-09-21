@@ -1,2801 +1,2341 @@
 ﻿<config freqGroupsPos="1">
 
-He has **ownership** of this car.
+Dark clouds **loom**, and it will probably rain soon.
 
-Он является владельцем этой машины.
+Нависают темные тучи, и, вероятно, скоро пойдет дождь.
 
-This is a **globe** of the world.
+The cat is very **lean** because it doesn't eat much.
 
-Это глобус мира.
+Кот очень худой, потому что он мало ест.
 
-My dog is a good **companion** for walks.
+The metal will **contract** when it gets cold.
 
-Моя собака — хороший компаньон для прогулок.
+При охлаждении металл сжимается.
 
-The bank robber took a **hostage**.
+The small dog **defies** his owner and runs away.
 
-Грабитель банка взял заложника.
+Маленькая собака бросает вызов своему хозяину и убегает.
 
-The **continuing** noise from the street is annoying.
+The sunset had **vivid** colors of orange and pink.
 
-Постоянный шум с улицы раздражает.
+Закат был окрашен в яркие цвета оранжевого и розового.
 
-Be careful not to **rip** your new jeans.
+The lion chased its **prey** across the field.
 
-Будьте осторожны, чтобы не порвать новые джинсы.
+Лев гнался за своей добычей по полю.
 
-I heard a **pop** when the balloon burst.
+This tea is a good **remedy** for a cough.
 
-Я услышал хлопок, когда шарик лопнул.
+Этот чай — хорошее средство от кашля.
 
-We can **project** the movie onto the wall.
+Please don't **omit** any important details from the story.
 
-Мы можем спроецировать фильм на стену.
+Пожалуйста, не упускайте ни одной важной детали из истории.
 
-We **await** the bus every morning.
+This statue **embodies** strength and courage.
 
-Мы ждем автобус каждое утро.
+Эта статуя олицетворяет силу и мужество.
 
-The teacher will **facilitate** the group discussion.
+I like to take a bath in the **tub**.
 
-Преподаватель будет проводить групповое обсуждение.
+Мне нравится принимать ванну.
 
-The cat can **leap** over the box.
+Please **plug** the sink because I want to wash dishes.
 
-Кошка может перепрыгнуть через коробку.
+Пожалуйста, заткните раковину, я хочу помыть посуду.
 
-This hotel can **accommodate** many guests.
+I **vow** to always be your friend.
 
-Этот отель может разместить большое количество гостей.
+Я клянусь всегда быть твоим другом.
 
-The doctor gave me a small **dose** of medicine.
+The old chair has a **rigid** back, so it's not very comfortable.
 
-Врач дал мне небольшую дозу лекарства.
+У старого стула жёсткая спинка, поэтому он не очень удобный.
 
-I had a strange **encounter** in the park today.
+Loud music can **disrupt** my sleep.
 
-Сегодня в парке у меня произошла странная встреча.
+Громкая музыка может нарушить мой сон.
 
-I take off my shoes in the **hallway**.
+I heard a **rap** at the door.
 
-Я снимаю обувь в коридоре.
+Я услышал стук в дверь.
 
-The small boat will **drift** away if you don't tie it.
+I found a **scrap** of paper on the floor.
 
-Маленькая лодка уплывет, если ее не привязать.
+Я нашел клочок бумаги на полу.
 
-I need **counseling** because I am sad.
+You can **attain** your goals with hard work.
 
-Мне нужна консультация, потому что мне грустно.
+Достичь своих целей можно, упорно трудясь.
 
-She **consistently** does her homework every day.
+The documents are under close **scrutiny**.
 
-Она каждый день стабильно выполняет домашнее задание.
+Документы находятся под пристальным вниманием.
 
-I saw a **notice** on the door.
+I like to eat **peas** with my dinner.
 
-Я увидел объявление на двери.
+Я люблю есть горох на ужин.
 
-**Humanity** needs to help each other.
+The **drought** made the land dry and brown.
 
-Человечество должно помогать друг другу.
+Засуха сделала землю сухой и коричневой.
 
-We must show kindness to all of **humanity**.
+The cake was good, **albeit** a little too sweet.
 
-Мы должны проявлять доброту ко всему человечеству.
+Торт был вкусным, хотя и немного слишком сладким.
 
-She has a **continuing** interest in learning new languages.
+He used a knife to **slash** the paper.
 
-Она постоянно проявляет интерес к изучению новых языков.
+Он использовал нож, чтобы разрезать бумагу.
 
-I **await** your answer with excitement.
+Don't **jerk** the fishing rod too hard, or you'll lose the fish!
 
-Я с нетерпением жду вашего ответа.
+Не дергайте удочку слишком сильно, иначе упустите рыбу!
 
-**Govern** means to control a country.
+Muscles **contract** to help you move.
 
-Управлять — значит контролировать страну.
+Мышцы сокращаются, помогая вам двигаться.
 
-The water was running in a **continuous** stream.
+I **hail** a taxi when it rains.
 
-Вода текла непрерывным потоком.
+Когда идет дождь, я ловлю такси.
 
-She wants **ownership** of her own house.
+What is the best **remedy** for a headache?
 
-Она хочет иметь собственный дом.
+Какое лучшее средство от головной боли?
 
-The police want to free the **hostages**.
+My grandmother made a beautiful **quilt** for me.
 
-Полиция хочет освободить заложников.
+Моя бабушка сшила мне красивое одеяло.
 
-She is a friendly **companion** on the trip.
+I like to cook eggs in my **skillet**.
 
-Она — дружелюбный спутник в путешествии.
+Мне нравится готовить яйца на сковороде.
 
-There is a lot of **uncertainty** about the weather tomorrow.
+The long walk in the sun can **wan** you.
 
-Завтра ожидается большая неопределенность относительно погоды.
+Длительная прогулка на солнце может вас истощить.
 
-The **supervisor** helps us with our work.
+They **vow** to protect the environment.
 
-Руководитель помогает нам в работе.
+Они клянутся защищать окружающую среду.
 
-The **shuttle** goes between the airport and the city center.
+He is **lean** and strong because he exercises every day.
 
-Автобус курсирует между аэропортом и центром города.
+Он стройный и сильный, потому что занимается спортом каждый день.
 
-I walk on the **sidewalk** to go to school.
+There was a **rap** on the window.
 
-Я иду в школу по тротуару.
+Раздался стук в окно.
 
-We need to **survey** the park to see what improvements are needed.
+The mouse was easy **prey** for the cat.
 
-Нам необходимо обследовать парк, чтобы увидеть, какие улучшения необходимы.
+Мышь оказалась легкой добычей для кошки.
 
-The loud noise can **trigger** her fear.
+He is a **con**, so don't trust him.
 
-Громкий шум может вызвать у нее страх.
+Он мошенник, так что не верьте ему.
 
-The **hallway** connects the rooms.
+Please don't **disrupt** the class.
 
-Комнаты соединены коридором.
+Пожалуйста, не мешайте уроку.
 
-The artist will **project** images onto the building.
+The chocolate cake on the table **tempts** me to eat it.
 
-Художник будет проецировать изображения на здание.
+Шоколадный торт на столе так и манит меня съесть его.
 
-The **notice** says "No Parking."
+You can **omit** this sentence if you think it's not necessary.
 
-На табличке написано: «Парковка запрещена».
+Вы можете опустить это предложение, если считаете, что это не нужно.
 
-I accidentally **ripped** the paper when I opened the package.
+She used a **scrap** of fabric to fix the hole.
 
-Я случайно порвал бумагу, когда открывал посылку.
+Чтобы заделать дыру, она использовала кусочек ткани.
 
-The teacher will **administer** the test.
+I can't **jam** any more clothes into my suitcase.
 
-Тест будет проводить преподаватель.
+Я не могу больше запихивать одежду в чемодан.
 
-I can see the countries on the **globe**.
+The rabbit can **hop** very fast.
 
-Я вижу страны на глобусе.
+Кролик может прыгать очень быстро.
 
-The teacher asked us a **profound** question about life.
+She told a **vivid** story about her trip to Italy.
 
-Учитель задал нам глубокий вопрос о жизни.
+Она рассказала яркую историю о своей поездке в Италию.
 
-**Unity** makes us strong.
+He had a **bout** of flu last week.
 
-Единство делает нас сильными.
+На прошлой неделе он переболел гриппом.
 
-The **encounter** with the dog was scary.
+The baby sometimes **weeps** when she is hungry.
 
-Встреча с собакой была страшной.
+Иногда ребенок плачет, когда голоден.
 
-Using a map can **facilitate** your travel.
+The company's logo **embodies** its values.
 
-Использование карты может облегчить ваше путешествие.
+Логотип компании олицетворяет ее ценности.
 
-The president has a **mandate** from the people to make changes.
+She planted **pea** seeds in the garden.
 
-Президент имеет мандат от народа на проведение изменений.
+Она посадила семена гороха в саду.
 
-He wants to **leap** across the puddle.
+The metal bar is very **rigid**; you cannot bend it.
 
-Он хочет перепрыгнуть через лужу.
+Металлический прут очень жёсткий, его невозможно согнуть.
 
-Take one **dose** after breakfast.
+This **excerpt** is from a famous book.
 
-Принимать одну дозу после завтрака.
+Это отрывок из известной книги.
 
-My grandfather gets a **pension** every month.
+There is a **mat** by the door.
 
-Мой дедушка получает пенсию каждый месяц.
+У двери лежит коврик.
 
-They reached a **compromise** about the movie they would watch.
+Sometimes, teenagers **defy** their parents to show they are independent.
 
-Они достигли компромисса относительно фильма, который будут смотреть.
+Иногда подростки бросают вызов своим родителям, чтобы показать, что они независимы.
 
-Don't let your thoughts **drift** during the exam.
+The farmers are worried about the **drought**.
 
-Не позволяйте мыслям блуждать во время экзамена.
+Фермеры обеспокоены засухой.
 
-This machine has a **driving** wheel.
+I put a **lump** of sugar in my tea.
 
-У этой машины есть ведущее колесо.
+Я положил кусочек сахара в чай.
 
-He **consistently** arrives late to class.
+He needs to **exert** more effort to finish the work.
 
-Он постоянно опаздывает на занятия.
+Ему нужно приложить больше усилий, чтобы закончить работу.
 
-Can you **tune** the radio?
+Be **wary** of strangers who offer you candy.
 
-Вы можете настроить радио?
+Будьте осторожны с незнакомцами, которые предлагают вам конфеты.
 
-**Adoption** is when you become the legal parent of a child.
+She wants to **attain** a high score on the test.
 
-Усыновление — это когда вы становитесь законным родителем ребенка.
+Она хочет получить высокий балл на тесте.
 
-The **complexity** of the game makes it hard to learn.
+The baby is playing in the **tub** with toys.
 
-Сложность игры затрудняет ее освоение.
+Малыш играет в ванне с игрушками.
 
-**Counseling** can help you with your problems.
+There was a **clash** between two cars in the street.
 
-Консультации могут помочь вам решить ваши проблемы.
+На улице произошло столкновение двух автомобилей.
 
-The bus can **accommodate** 50 people.
+Can you **plug** the hole in the boat?
 
-Автобус вмещает 50 человек.
+Можно ли заделать дыру в лодке?
 
-She likes the sweet **pop** of corn in the field.
+She has a small scar on her **brow**.
 
-Ей нравится сладкая попкорновая кукуруза, растущая на поле.
+У нее небольшой шрам на лбу.
 
-The **outer** door is painted red.
+Problems **loom** if we don't save money.
 
-Наружная дверь окрашена в красный цвет.
+Если мы не будем экономить деньги, возникнут проблемы.
 
-I have a **virtual** meeting with my boss tomorrow.
+Her work will be under **scrutiny** by the manager.
 
-Завтра у меня виртуальная встреча с начальником.
+Ее работа будет находиться под пристальным вниманием менеджера.
 
-I don't understand the **complexity** of this problem.
+I will **offset** my travel emissions by planting trees.
 
-Я не понимаю сложности этой проблемы.
+Я буду компенсировать выбросы от поездок посадкой деревьев.
 
-The manager received a **mandate** to improve the team's performance.
+The water in the sink will **swirl** down the drain.
 
-Менеджеру было поручено улучшить результаты команды.
+Вода из раковины будет уходить в канализацию.
 
-The **sidewalk** is for people, not cars.
+My grandfather is very **robust** and still walks every day.
 
-Тротуар предназначен для людей, а не для машин.
+Мой дедушка очень крепкий и до сих пор ходит каждый день.
 
-We sat on the **outer** edge of the circle.
+I read a short **excerpt** online.
 
-Мы сели на внешнем краю круга.
+Я прочитал короткий отрывок в Интернете.
 
-A small mistake can **trigger** a big problem.
+My dad uses a **tee** when he plays golf.
 
-Маленькая ошибка может стать причиной большой проблемы.
+Мой отец использует ти, когда играет в гольф.
 
-The **departure** time is 10:00 AM.
+Shops **tempt** you to buy things you don't need.
 
-Время отправления — 10:00 утра.
+Магазины соблазняют вас покупать вещи, которые вам не нужны.
 
-I want to **convey** my thanks to you.
+That offer sounds like a **con**.
 
-Я хочу выразить вам свою благодарность.
+Это предложение звучит как мошенничество.
 
-I need **guidance** with my homework.
+The police can **indict** him if they have enough proof.
 
-Мне нужна помощь с домашним заданием.
+Полиция может предъявить ему обвинение, если у нее будет достаточно доказательств.
 
-The sun gives off **radiation**.
+The country was in **turmoil** after the election.
 
-Солнце испускает радиацию.
+После выборов в стране царил хаос.
 
-My **residence** is near the park.
+She **hailed** her friend across the street.
 
-Мой дом находится недалеко от парка.
+Она окликнула подругу, которая пересекла улицу.
 
-This gift is very **meaningful** to me.
+Don't **inflict** pain on animals.
 
-Этот подарок очень значим для меня.
+Не причиняйте боль животным.
 
-The **blow** to the head made him dizzy.
+I want to buy a **pastry** for breakfast.
 
-От удара по голове у него закружилась голова.
+Я хочу купить выпечку на завтрак.
 
-He uses his **pension** to buy food.
+The cat is **wary** of the new dog in the house.
 
-Он использует свою пенсию, чтобы купить еду.
+Кот настороженно относится к новой собаке в доме.
 
-The museum celebrated the **acquisition** of a new painting.
+Don't **wan** yourself by working too much.
 
-Музей отпраздновал приобретение новой картины.
+Не утомляйте себя работой слишком много.
 
-The nurse **administers** medicine to the patients.
+The coach will **spur** the team to play harder.
 
-Медсестра выписывает пациентам лекарства.
+Тренер подстегнет команду играть более упорно.
 
-She had a **profound** understanding of the subject.
+The **clergy** helps people in the church.
 
-У нее было глубокое понимание предмета.
+Священнослужители помогают людям в церкви.
 
-The doctor gave me a **diagnosis** after the tests.
+We will **embark** on a journey tomorrow morning.
 
-После обследований врач поставил мне диагноз.
+Завтра утром мы отправимся в путешествие.
 
-The **juror** listened carefully to the lawyer.
+The priest gave a long **sermon** on Sunday.
 
-Присяжный внимательно выслушал адвоката.
+В воскресенье священник прочитал длинную проповедь.
 
-The **driving** force behind the project is enthusiasm.
+She made pancakes in a small **skillet**.
 
-Движущей силой проекта является энтузиазм.
+Она приготовила блины на маленькой сковороде.
 
-**Adoption** can make a family very happy.
+I like to sleep under a warm **quilt** in the winter.
 
-Усыновление может сделать семью очень счастливой.
+Зимой я люблю спать под теплым одеялом.
 
-This flower has a **delicate** scent.
+The room was **stark**, with only a bed and a chair.
 
-Этот цветок имеет тонкий аромат.
+Комната была пустынной, в ней были только кровать и стул.
 
-I need to **tune** my guitar before the concert.
+My cat is very **fond** of sleeping in sunny spots.
 
-Мне нужно настроить гитару перед концертом.
+Мой кот очень любит спать на солнечных местах.
 
-The **needle** is very sharp.
+I saw a big **elk** in the forest.
 
-Игла очень острая.
+Я увидел в лесу большого лося.
 
-The team showed great **unity**.
+Don't **slash** the tires on the car!
 
-Команда продемонстрировала большую сплоченность.
+Не прокалывайте шины автомобиля!
 
-We took a **shuttle** bus to the hotel.
+Did you **weep** during the sad movie?
 
-Мы доехали до отеля на автобусе-шаттле.
+Вы плакали во время просмотра грустного фильма?
 
-The **scout** looks for the enemy.
+He finished the race, **albeit** very slowly.
 
-Разведчик ищет врага.
+Он закончил гонку, хотя и очень медленно.
 
-The teacher has a **bias** towards students who do their homework.
+There is a **lump** of clay on the table.
 
-Учитель предвзято относится к ученикам, которые выполняют домашнюю работу.
+На столе лежит комок глины.
 
-We took a **virtual** tour of the museum online.
+The **clash** of cultures can sometimes cause problems.
 
-Мы совершили виртуальную экскурсию по музею онлайн.
+Столкновение культур иногда может стать причиной проблем.
 
-We had **continuous** rain all day yesterday.
+I wipe my shoes on the **mat**.
 
-Вчера весь день шел непрерывный дождь.
+Я вытираю обувь о коврик.
 
-**Fitness** is important for a healthy life.
+Please **whisk** the crumbs off the table.
 
-Фитнес важен для здоровой жизни.
+Пожалуйста, смести крошки со стола.
 
-I feel **uncertainty** about my future job.
+He wiped the sweat from his **brow**.
 
-Я чувствую неуверенность относительно своей будущей работы.
+Он вытер пот со лба.
 
-Ants live in a big **colony** in the garden.
+I like to **hop** on one leg.
 
-Муравьи живут в саду большой колонией.
+Мне нравится прыгать на одной ноге.
 
-My **counterpart** in France does the same job as me.
+She felt a lot of **sorrow** when her cat died.
 
-Мой коллега во Франции выполняет ту же работу, что и я.
+Она испытала много горя, когда умерла ее кошка.
 
-The president helps to **govern** the country.
+He accidentally **jerked** the dog's leash, and the dog barked.
 
-Президент помогает управлять страной.
+Он случайно дернул поводок собаки, и собака залаяла.
 
-A **compromise** is sometimes necessary to solve a problem.
+He is the **heir** to a big company.
 
-Иногда для решения проблемы необходим компромисс.
+Он наследник крупной компании.
 
-This road is **wider** than that road.
+Don't be so **petty**; it's just a small mistake.
 
-Эта дорога шире той дороги.
+Не будьте такими мелочными, это всего лишь маленькая ошибка.
 
-She was the **recipient** of a large prize.
+Please **tug** the door gently.
 
-Она получила большую премию.
+Пожалуйста, осторожно потяните дверь.
 
-My **supervisor** is a very nice person.
+The teacher **exerts** a positive influence on her students.
 
-Мой руководитель — очень приятный человек.
+Учитель оказывает положительное влияние на своих учеников.
 
-The teacher will **survey** the students about their favorite books.
+Please don't **jam** too many people into the elevator.
 
-Учитель проведет опрос учеников об их любимых книгах.
+Пожалуйста, не запихивайте в лифт слишком много людей.
 
-I **advocate** for more trees in our city.
+She often has a **bout** of coughing in the morning.
 
-Я выступаю за большее количество деревьев в нашем городе.
+По утрам у нее часто случаются приступы кашля.
 
-I saw the dog **leap** into the air.
+A big storm can **disrupt** travel plans.
 
-Я увидел, как собака подпрыгнула в воздух.
+Сильный шторм может нарушить планы путешествий.
 
-This house is a nice **residence**.
+The sad music made me feel **sorrow**.
 
-Этот дом — прекрасное жилое помещение.
+Грустная музыка вызвала у меня грусть.
 
-My **earnings** from my job help me buy food.
+Click on the **tab** to open the next page.
 
-Мои доходы от работы помогают мне покупать еду.
+Нажмите на вкладку, чтобы открыть следующую страницу.
 
-The sponge can **absorb** a lot of water.
+The funhouse mirror will **distort** your reflection.
 
-Губка может впитать много воды.
+Кривое зеркало исказит ваше отражение.
 
-My grandma uses a **needle** to sew.
+A **pea** is a small, green vegetable.
 
-Моя бабушка шьет иголкой.
+Горох — небольшой зеленый овощ.
 
-The teacher gave us good **guidance** for the test.
+The old king has no **heir**.
 
-Учитель дал нам хорошие указания по подготовке к тесту.
+У старого короля нет наследника.
 
-She had a **meaningful** conversation with her friend.
+The model is **lean** and tall.
 
-У нее состоялся содержательный разговор с подругой.
+Модель худощавая и высокая.
 
-They **consistently** play well as a team.
+There's an **implicit** rule not to talk about salaries.
 
-Они всегда хорошо играют как команда.
+Существует негласное правило не говорить о зарплатах.
 
-More chairs will **facilitate** the meeting.
+The **drought** is causing problems for the animals.
 
-Больше стульев облегчит проведение встречи.
+Засуха создает проблемы для животных.
 
-My parents want to **educate** me well.
+Some members of the **clergy** wear special clothes.
 
-Мои родители хотят дать мне хорошее образование.
+Некоторые представители духовенства носят особую одежду.
 
-The new law is **controversial** because many people disagree with it.
+Good music can **spur** me to dance.
 
-Новый закон является спорным, поскольку многие люди с ним не согласны.
+Хорошая музыка может побудить меня танцевать.
 
-Pollution is a big problem for **humanity**.
+My stomach can **contract** when I am nervous.
 
-Загрязнение — большая проблема для человечества.
+Мой желудок может сжиматься, когда я нервничаю.
 
-The company has **ownership** of the patent.
+The price of tomatoes can **slump** in the summer.
 
-Компания является владельцем патента.
+Летом цены на помидоры могут резко упасть.
 
-Her **departure** made me sad.
+I had a **vivid** dream last night about flying.
 
-Ее отъезд меня огорчил.
+Вчера ночью мне приснился яркий сон о полете.
 
-My **intent** is to learn English well.
+This bakery has many kinds of sweet **pastry**.
 
-Моя цель — хорошо выучить английский язык.
+В этой пекарне представлено множество видов сладкой выпечки.
 
-The **framework** of the building is made of steel.
+My boss has a **rigid** schedule, so we must be on time.
 
-Каркас здания выполнен из стали.
+У моего начальника плотный график, поэтому нам нужно приходить вовремя.
 
-She is meeting her **counterpart** from the other office.
+He will **tout** his new car to his friends.
 
-Она встречается со своим коллегой из другого офиса.
+Он будет рекламировать свою новую машину своим друзьям.
 
-The **recipient** opened the gift with a smile.
+The doctor said the tumor was **benign**, so we didn't worry.
 
-Получатель открыл подарок с улыбкой.
+Врач сказал, что опухоль доброкачественная, поэтому мы не волновались.
 
-The **formation** of clouds is fascinating.
+She **embodies** kindness and generosity.
 
-Образование облаков завораживает.
+Она олицетворяет доброту и щедрость.
 
-My house can **accommodate** my family.
+This chair is **sturdy**.
 
-Мой дом может вместить мою семью.
+Этот стул прочный.
 
-These two apples **differ** in color.
+The doctor gave me a **remedy** for my sore throat.
 
-Эти два яблока различаются по цвету.
+Врач выписал мне лекарство от боли в горле.
 
-My **preference** is tea, not coffee.
+Please **undo** your coat, it's warm inside.
 
-Я предпочитаю чай, а не кофе.
+Пожалуйста, расстегните пальто, внутри тепло.
 
-The **hostage** was very scared.
+The contract requires careful **scrutiny** before signing.
 
-Заложник был очень напуган.
+Перед подписанием контракт требует тщательного изучения.
 
-This picture **conveys** a feeling of sadness.
+The teacher tried to **elicit** answers from the students.
 
-Эта картина передает чувство грусти.
+Учитель пытался добиться ответов от учеников.
 
-The **elderly** woman needs help crossing the street.
+The garden is **lush** and green in the summer.
 
-Пожилой женщине нужна помощь при переходе улицы.
+Летом сад пышный и зеленый.
 
-Be careful, this glass is very **delicate**.
+The **interim** teacher is nice.
 
-Будьте осторожны, это стекло очень хрупкое.
+Временный учитель хороший.
 
-Too much **radiation** can be dangerous.
+Small fish are **prey** for bigger fish in the ocean.
 
-Слишком большое количество радиации может быть опасным.
+Мелкие рыбки являются добычей более крупных рыб в океане.
 
-This **dose** will help you feel better.
+The golf ball sits on the **tee**.
 
-Эта доза поможет вам почувствовать себя лучше.
+Мяч для гольфа находится на подставке.
 
-Each **juror** has a number.
+The **bark** of the tree is brown and rough.
 
-У каждого присяжного есть номер.
+Кора дерева коричневая и шершавая.
 
-Her **diagnosis** was a common cold.
+After a long day at work, I feel very **weary**.
 
-Ее диагноз — обычная простуда.
+После долгого рабочего дня я чувствую себя очень уставшим.
 
-The **globe** shows where we live.
+This toy is **robust**, so it won't break easily.
 
-Глобус показывает, где мы живем.
+Эта игрушка прочная, поэтому ее нелегко сломать.
 
-We can **frame** your picture with wood.
+I see a small **bud** on the rose bush.
 
-Мы можем оформить Вашу картину в деревянную раму.
+Я вижу маленький бутон на розовом кусте.
 
-The company faced a **continuing** problem with low sales.
+The **elk** has large antlers.
 
-Компания столкнулась с постоянной проблемой низкого уровня продаж.
+У лося большие рога.
 
-My brother is a **musician**.
+We need to **curb** our spending.
 
-Мой брат музыкант.
+Нам необходимо ограничить наши расходы.
 
-I need a **wider** shelf for my books.
+I need to **plug** my phone so it can charge.
 
-Мне нужна более широкая полка для книг.
+Мне нужно подключить телефон, чтобы он мог зарядиться.
 
-The **commissioner** works for the government.
+They will **embark** on the ship to cross the sea.
 
-Комиссар работает в правительстве.
+Они сядут на корабль, чтобы пересечь море.
 
-They **await** the doctor's news.
+The storm can **inflict** damage to houses.
 
-Они ждут новостей от врача.
+Шторм может нанести ущерб домам.
 
-He found a new **companion** after moving.
+She can **whisk** the dust from the shelf quickly.
 
-После переезда он нашел нового компаньона.
+Она может быстро смахнуть пыль с полки.
 
-He is a **scout** in the army.
+I can **scoop** the ice cream into your bowl.
 
-Он разведчик в армии.
+Я могу положить мороженое в твою миску.
 
-After the storm, the debris started to **drift** ashore.
+He is always arguing about **petty** details.
 
-После шторма обломки начали дрейфовать к берегу.
+Он всегда спорит из-за мелочей.
 
-The famous actor **endorses** this new drink.
+He wrote a note on a small **scrap** of cardboard.
 
-Знаменитый актер рекламирует этот новый напиток.
+Он написал записку на небольшом клочке картона.
 
-She is a **modest** girl; she doesn't like to talk about her achievements.
+The **stark** reality is that we have no more money.
 
-Она скромная девушка, не любит говорить о своих достижениях.
+Суровая реальность такова, что у нас больше нет денег.
 
-The school offers free **counseling** for students.
+They decided to **indict** the man for stealing.
 
-Школа предлагает бесплатные консультации для студентов.
+Они решили предъявить мужчине обвинение в краже.
 
-The lamp **projects** light into the room.
+The teacher said we could **omit** question number five.
 
-Лампа освещает комнату.
+Учитель сказал, что мы можем пропустить вопрос номер пять.
 
-The champagne made a loud **pop** when he opened it.
+We can **offset** the cost by sharing the expenses.
 
-Когда он открыл бутылку шампанского, раздался громкий хлопок.
+Мы можем компенсировать стоимость, разделив расходы.
 
-Did you read the **notice** about the meeting?
+Good music can **transcend** language barriers.
 
-Вы читали уведомление о собрании?
+Хорошая музыка способна преодолевать языковые барьеры.
 
-We want to **fund** the school project.
+It is difficult to **attain** perfection.
 
-Мы хотим профинансировать школьный проект.
+Трудно достичь совершенства.
 
-She felt a sharp **blow** to her arm.
+Her mind was in **turmoil** because of the difficult decision.
 
-Она почувствовала резкий удар по руке.
+Ее разум был в смятении из-за трудного решения.
 
-The British had a **colony** in America a long time ago.
+I **defy** you to eat this spicy pepper!
 
-Давным-давно у британцев была колония в Америке.
+Я бросаю вам вызов: не ешьте этот острый перец!
 
-The **admission** fee to the museum is five dollars.
+I wrap my sandwich in **foil** to keep it fresh.
 
-Входная плата в музей составляет пять долларов.
+Я заворачиваю свой сэндвич в фольгу, чтобы он оставался свежим.
 
-The dog tried to **rip** the toy apart.
+She is **fond** of reading books in the park.
 
-Собака попыталась разорвать игрушку.
+Она любит читать книги в парке.
 
-She has a strong **conviction** that animals should be treated well.
+He **vows** he will never lie again.
 
-Она твердо убеждена, что с животными следует обращаться хорошо.
+Он клянется, что больше никогда не будет лгать.
 
-Learning a language is the **acquisition** of new skills.
+This **tub** is very big and comfortable.
 
-Изучение языка — это приобретение новых навыков.
+Эта ванна очень большая и удобная.
 
-She **advocates** for the rights of animals.
+He gave the table a quick **rap**.
 
-Она выступает за права животных.
+Он быстро постучал по столу.
 
-We have an **engagement** to meet tomorrow.
+My grandma always listens to a **sermon** on the radio.
 
-Завтра у нас назначена встреча.
+Моя бабушка всегда слушает проповеди по радио.
 
-It's important to avoid **bias** when you make a decision.
+Watch the leaves **swirl** in the wind.
 
-При принятии решения важно избегать предвзятости.
+Наблюдайте, как листья кружатся на ветру.
 
-There is a light in the **hallway**.
+I like to put fresh **parsley** in my soup.
 
-В коридоре горит свет.
+Я люблю добавлять в суп свежую петрушку.
 
-The pain will **diminish** after you take the medicine.
+The deadline **looms**, so we need to work harder.
 
-Боль уменьшится после приема лекарства.
+Срок приближается, поэтому нам нужно работать усерднее.
 
-Good **fitness** helps you feel energetic.
+Don't **tug** my hair!
 
-Хорошая физическая форма помогает вам чувствовать себя энергичным.
+Не дергай меня за волосы!
 
-She described her **encounter** with the famous actor.
+I like to eat a **pear** for breakfast.
 
-Она описала свою встречу со знаменитым актером.
+Я люблю есть грушу на завтрак.
 
-We need a **margin** of time to check everything.
+The sickness will **wan** him if he doesn't rest.
 
-Нам нужен запас времени, чтобы все проверить.
+Если он не будет отдыхать, болезнь его ослабит.
 
-This machine has a lot of **complexity**.
+She **jerked** the door open because she was in a hurry.
 
-Эта машина очень сложна.
+Она рывком распахнула дверь, потому что торопилась.
 
-The government will **fund** new hospitals.
+We have an **interim** plan for now.
 
-Правительство будет финансировать новые больницы.
+На данный момент у нас есть временный план.
 
-My opinion **differs** from yours.
+I have many **tabs** open in my browser.
 
-Мое мнение отличается от вашего.
+У меня в браузере открыто много вкладок.
 
-The museum will **exhibit** old toys next month.
+She tried to **jam** the key into the lock, but it wouldn't fit.
 
-В следующем месяце в музее будет экспонироваться старая игрушка.
+Она попыталась вставить ключ в замок, но он не подошел.
 
-The **uncertainty** makes me feel nervous.
+My shoes are **sturdy** for walking.
 
-Неопределенность заставляет меня нервничать.
+Мои туфли прочные и удобны для ходьбы.
 
-The number of students in the class will **diminish** if more people drop out.
+I don't **weep** easily, but that story was very touching.
 
-Число учеников в классе уменьшится, если больше людей бросят учебу.
+Я не склонен к слезам, но эта история была очень трогательной.
 
-We need to ask the **supervisor** about the problem.
+There is a **crumb** on your shirt.
 
-Нам нужно обратиться к руководителю с вопросом о проблеме.
+У тебя на рубашке крошка.
 
-The organization has a **mandate** to protect the environment.
+Squirrels often hide food under the **bark**.
 
-Организация имеет мандат на защиту окружающей среды.
+Белки часто прячут еду под корой.
 
-Math is my **major** at university.
+Can you **elicit** more information about the accident?
 
-Математика — моя специализация в университете.
+Можете ли вы получить больше информации об аварии?
 
-This is the **formation** of a new team.
+This **pear** is very sweet and juicy.
 
-Это формирование новой команды.
+Эта груша очень сладкая и сочная.
 
-Laws **govern** how people behave.
+My bedroom is very **cozy** with a soft bed.
 
-Законы регулируют поведение людей.
+Моя спальня очень уютная с мягкой кроватью.
 
-The **legislature** makes the laws for our country.
+The doctor touched my **brow** to check for fever.
 
-Законодательный орган принимает законы для нашей страны.
+Врач дотронулся до моего лба, чтобы проверить, есть ли температура.
 
-We made a **compromise**: I clean, and you cook.
+The crowd was in a **frenzy** after the goal.
 
-Мы пришли к компромиссу: я убираюсь, а ты готовишь.
+После гола толпа была в неистовстве .
 
-Good **ethics** are important in business.
+The police arrested the **con** man.
 
-Хорошая этика важна в бизнесе.
+Полиция арестовала мошенника.
 
-My parents **endorse** my decision to study art.
+There is too much **slack** in the rope.
 
-Мои родители одобряют мое решение изучать искусство.
+Веревка слишком сильно провисает.
 
-The flowers **frame** the door nicely.
+I am **wary** of driving in the snow.
 
-Цветы красиво обрамляют дверь.
+Я с осторожностью отношусь к вождению в снегопад.
 
-The book had a **profound** effect on me.
+This **quilt** has many colorful squares.
 
-Книга произвела на меня глубокое впечатление.
+Это одеяло состоит из множества разноцветных квадратов.
 
-The **principal** reason I study English is to travel.
+Her silence had an **implicit** meaning.
 
-Основная причина, по которой я изучаю английский язык, — это путешествия.
+Ее молчание имело скрытый смысл.
 
-The space **shuttle** is a very fast vehicle.
+I want to **curb** my desire for sweets.
 
-Космический челнок — очень быстрое транспортное средство.
+Я хочу обуздать свою тягу к сладкому.
 
-My grandma is **elderly**, but she is still very active.
+The weather today is **bleak** and grey.
 
-Моя бабушка уже пожилая, но она все еще очень активна.
+Погода сегодня пасмурная и серая.
 
-He has a lot of money, but he lives a **modest** life.
+The car has a **sleek** design.
 
-У него много денег, но он живет скромно.
+Автомобиль имеет элегантный дизайн.
 
-The first game was exciting. The **subsequent** games were boring.
+The doctor thinks it's just a short **bout** of dizziness.
 
-Первая игра была захватывающей. Последующие игры были скучными.
+Врач считает, что это просто кратковременный приступ головокружения.
 
-My friend needs **counsel** to help with his problem.
+That's an **apt** description of the weather today!
 
-Моему другу нужен совет, чтобы решить его проблему.
+Это точное описание сегодняшней погоды!
 
-Please **submit** your homework on Friday.
+Don't **tempt** fate by walking under a ladder.
 
-Пожалуйста, отправьте домашнее задание в пятницу.
+Не испытывайте судьбу, проходя под лестницей.
 
-We need **unity** in our community.
+The cat can **dart** across the room very quickly.
 
-Нам необходимо единство в нашем сообществе.
+Кошка может очень быстро бегать по комнате.
 
-We need to check the **driving** belt on the car.
+We saw a **lush** forest during our hike.
 
-Нам нужно проверить приводной ремень автомобиля.
+Во время похода мы увидели пышный лес.
 
-Plants **absorb** water from the soil.
+Sales often **slump** after Christmas.
 
-Растения поглощают воду из почвы.
+Продажи часто падают после Рождества.
 
-They are talking about the **adoption** of a new puppy.
+There is a small **chapel** in the old village.
 
-Они говорят о том, чтобы взять нового щенка.
+В старой деревне есть небольшая часовня.
 
-The **musician** plays the guitar.
+You should **exert** your right to vote.
 
-Музыкант играет на гитаре.
+Вам следует реализовать свое право голоса.
 
-This jacket is **adequate** for the mild weather.
+The salesman likes to **tout** the product.
 
-Эта куртка подойдет для мягкой погоды.
+Продавец любит расхваливать товар.
 
-This button will **trigger** the alarm.
+He is a very **earnest** student, always doing his homework.
 
-Эта кнопка активирует сигнализацию.
+Он очень прилежный ученик, всегда выполняющий домашнее задание.
 
-Their **engagement** is for a party.
+The cat sleeps on the **mat**.
 
-Их помолвка — ради вечеринки.
+Кот спит на коврике.
 
-My **associate** helps me with my work.
+This chocolate is wrapped in shiny **foil**.
 
-Мой коллега помогает мне в работе.
+Этот шоколад упакован в блестящую фольгу.
 
-There was a **continuous** noise from the construction site.
+The river is full of tiny **fry**.
 
-Со стороны строительной площадки доносился постоянный шум.
+Река полна мелких мальков.
 
-There is a tree next to the **sidewalk**.
+I can't **undo** this button! It's stuck.
 
-Рядом с тротуаром растет дерево.
+Я не могу снять эту кнопку! Она застряла.
 
-You need a ticket for **admission** to the concert.
+He committed a **felony** and went to jail.
 
-Для входа на концерт вам понадобится билет.
+Он совершил тяжкое преступление и попал в тюрьму.
 
-The company will **survey** customers about the new product.
+She agreed to help, **albeit** reluctantly.
 
-Компания проведет опрос клиентов о новом продукте.
+Она согласилась помочь, хотя и неохотно.
 
-**Prevention** is better than cure.
+A cat can **lurk** behind the sofa.
 
-Профилактика лучше лечения.
+За диваном может прятаться кот.
 
-Schools **educate** children about many subjects.
+He found a **lump** of coal in the garden.
 
-Школы обучают детей многим предметам.
+Он нашел в саду кусок угля.
 
-He is trying to **tune** his old car.
+Her kindness helped her **transcend** difficult situations.
 
-Он пытается тюнинговать свою старую машину.
+Ее доброта помогла ей преодолеть трудные ситуации.
 
-The company wants to **recruit** new workers.
+She was **weary** of walking, so she sat down.
 
-Компания хочет набрать новых работников.
+Она устала идти и села.
 
-I can **rate** this movie after I watch it.
+The **skillet** is hot, be careful!
 
-Я смогу оценить этот фильм после того, как посмотрю его.
+Сковорода горячая, будьте осторожны!
 
-Please don't **overlook** the small details.
+The artist wants to **slash** the old painting.
 
-Пожалуйста, не упускайте из виду мелкие детали.
+Художник хочет разрезать старую картину.
 
-They **administer** the school's website.
+The police station is in this **precinct**.
 
-Они администрируют веб-сайт школы.
+Полицейский участок находится в этом районе.
 
-His **conviction** about the importance of education is clear.
+This old toy is **crap**; it broke after one day.
 
-Его убежденность в важности образования очевидна.
+Эта старая игрушка — дрянь; она сломалась через день.
 
-She is saving money for her **pension**.
+Loud music can **distort** the sound quality.
 
-Она копит деньги на пенсию.
+Громкая музыка может исказить качество звука.
 
-She has a strong **preference** for Italian food.
+My grandmother makes delicious **stew** with beef and vegetables.
 
-Она отдает предпочтение итальянской кухне.
+Моя бабушка готовит вкусное рагу из говядины и овощей.
 
-She has good **intent** when she helps people.
+The **bud** will open into a flower soon.
 
-Она помогает людям с добрыми намерениями.
+Бутон скоро раскроется и превратится в цветок.
 
-The **commissioner** visited our town yesterday.
+I heard a loud **clash** of metal in the kitchen.
 
-Вчера наш город посетил комиссар.
+Я услышал громкий лязг металла на кухне.
 
-I **assert** that the sky is blue.
+The **onset** of winter means cold weather.
 
-Я утверждаю, что небо голубое.
+Наступление зимы означает холодную погоду.
 
-We play football on the **pitch** every Saturday.
+Can you **hop** over the puddle?
 
-Каждую субботу мы играем в футбол на поле.
+Сможете ли вы перепрыгнуть лужу?
 
-Her **earnings** are low, but she saves some money.
+I see a small **shrub** in the garden.
 
-Ее заработок невелик, но она откладывает немного денег.
+Я вижу небольшой кустарник в саду.
 
-The **corps** of engineers built the bridge.
+The **excerpt** tells us about the main character.
 
-Мост построили инженерные войска.
+Отрывок рассказывает нам о главном герое.
 
-His opinion is **controversial**, but he has a right to say it.
+The bride wore a white **veil** on her wedding day.
 
-Его мнение спорно, но он имеет право его высказать.
+В день свадьбы невеста надела белую фату.
 
-These gloves have an **outer** layer of leather.
+They **hailed** the waiter to order food.
 
-Эти перчатки имеют внешний слой из кожи.
+Они окликнули официанта, чтобы заказать еду.
 
-She is learning English in a **virtual** classroom.
+Please **scoop** the sugar for your tea.
 
-Она изучает английский язык в виртуальном классе.
+Пожалуйста, насыпьте сахар в чай.
 
-We need a **framework** to organize our project.
+Please put the **plug** in the socket.
 
-Нам нужна структура для организации нашего проекта.
+Пожалуйста, вставьте вилку в розетку.
 
-The doctor gave me a **medication** for my cough.
+The old man had a **benign** smile on his face.
 
-Врач выписал мне лекарство от кашля.
+На лице старика играла добрая улыбка.
 
-The **composition** of the cake includes flour, sugar, and eggs.
+My mother grows **parsley** in her garden.
 
-В состав торта входят мука, сахар и яйца.
+Моя мама выращивает петрушку в своем саду.
 
-He is the **recipient** of the "Employee of the Month" award.
+The **onset** of the illness was very sudden.
 
-Он является обладателем награды «Сотрудник месяца».
+Начало болезни было очень внезапным.
 
-He spoke to his **counterpart** on the phone yesterday.
+We are **fond** of going to the beach in summer.
 
-Вчера он разговаривал со своим коллегой по телефону.
+Летом мы любим ходить на пляж.
 
-The **estimated** cost of the trip is about $500.
+The bird is hiding behind the **shrub**.
 
-Предполагаемая стоимость поездки — около 500 долларов.
+Птица прячется за кустом.
 
-The **essence** of the flower is its sweet smell.
+He will **hurl** the ball very far.
 
-Суть цветка — его сладкий запах.
+Он швырнет мяч очень далеко.
 
-His company made an **acquisition** of a smaller business.
+Farmers **reap** the wheat in the summer.
 
-Его компания осуществила поглощение более мелкого предприятия.
+Летом фермеры собирают урожай пшеницы.
 
-The river is getting **wider** after the rain.
+Stealing a car can be a **felony**.
 
-После дождя река становится шире.
+Угон автомобиля может быть тяжким преступлением.
 
-Rice is the **principal** food in many Asian countries.
+Let's **embark** on this new adventure together!
 
-Рис является основным продуктом питания во многих азиатских странах.
+Давайте отправимся в это новое приключение вместе!
 
-You need to **submit** the form to apply for the job.
+The brave knight fought his **foe** in the forest.
 
-Для подачи заявки на вакансию вам необходимо заполнить форму.
+Отважный рыцарь сражался со своим врагом в лесу.
 
-Their **residence** is very big.
+The company wants to **offset** its carbon footprint.
 
-Их резиденция очень большая.
+Компания хочет компенсировать свой углеродный след.
 
-He had a bad cold. **Subsequent** to that, he had a fever.
+We will **dispatch** your order today.
 
-У него была сильная простуда. После этого у него поднялась температура.
+Мы отправим ваш заказ сегодня.
 
-He joined the medical **corps** after school.
+The knight can **wield** a sword very well.
 
-После школы он поступил на службу в медицинский корпус.
+Рыцарь прекрасно владеет мечом.
 
-**Acceptance** is important for happiness.
+She gave an **earnest** apology for being late.
 
-Принятие важно для счастья.
+Она искренне извинилась за опоздание.
 
-She is a good **associate** and a hard worker.
+The **plight** of the refugees is very sad.
 
-Она хороший сотрудник и трудолюбивый работник.
+Положение беженцев весьма печально.
 
-My parents offer me **guidance** when I have problems.
+These small **fry** will grow into big fish.
 
-Мои родители дают мне советы, когда у меня возникают проблемы.
+Из этой мелкой рыбешки вырастут большие рыбы.
 
-Her **remark** was very helpful.
+The **hollow** tree trunk is home to many insects.
 
-Ее замечание было очень полезным.
+Полый ствол дерева служит домом для множества насекомых.
 
-She **asserts** she can swim very well.
+The storm caused great **turmoil** at the seaside.
 
-Она утверждает, что умеет очень хорошо плавать.
+Шторм вызвал большие волнения на побережье.
 
-I heard a lot of **laughter** from the party next door.
+The future looks **bleak** for many people without jobs.
 
-Я слышал много смеха на соседней вечеринке.
+Для многих людей, не имеющих работы, будущее выглядит безрадостным.
 
-Please **reverse** the car slowly into the parking space.
+Give the dog leash some **slack**.
 
-Пожалуйста, медленно заезжайте задним ходом на парковочное место.
+Дайте собаке немного ослабить поводок.
 
-The teacher tried to **convey** the meaning of the word.
+My grandma has a lot of **poultry** on her farm.
 
-Учитель пытался донести значение слова.
+У моей бабушки на ферме много домашней птицы.
 
-Please don't **delay** your homework.
+His face showed his **sorrow** after the bad news.
 
-Пожалуйста, не откладывайте выполнение домашнего задания.
+На его лице отразилась печаль после плохих новостей.
 
-It is **evident** that he is tired.
+His nickname is **apt** because he loves to sing.
 
-Видно, что он устал.
+Его прозвище вполне уместно, потому что он любит петь.
 
-We use special machines to measure **radiation**.
+Danger can **lurk** in the dark streets.
 
-Для измерения радиации мы используем специальные приборы.
+На темных улицах может таиться опасность.
 
-We need **prevention** programs for diseases.
+He wants to join the **clergy** and become a priest.
 
-Нам нужны программы профилактики заболеваний.
+Он хочет присоединиться к духовенству и стать священником.
 
-We waited for their **departure** at the airport.
+I want to eat some warm **stew** because it's cold outside.
 
-Мы ждали их вылета в аэропорту.
+Я хочу съесть теплое рагу, потому что на улице холодно.
 
-The **intensity** of the sun was very high today.
+I heard a loud **crunch** when I stepped on the dry leaves.
 
-Сегодня интенсивность солнечного излучения была очень высокой.
+Я услышал громкий хруст, когда наступил на сухие листья.
 
-Please **rate** the food from 1 to 5 stars.
+I need to **reel** the fishing line back in.
 
-Пожалуйста, оцените еду от 1 до 5 звезд.
+Мне нужно снова подмотать леску.
 
-News reports should not show **bias**.
+It's not nice to **mock** people who are different.
 
-Новостные репортажи не должны быть предвзятыми.
+Нехорошо издеваться над людьми, которые отличаются от других.
 
-She wants to **exhibit** her paintings in the gallery.
+My friend's success **spurs** me to work harder.
 
-Она хочет выставить свои картины в галерее.
+Успех моего друга побуждает меня работать усерднее.
 
-She needs to take her **medication** every morning.
+This cafe is **cozy**, let's have some tea.
 
-Ей нужно принимать лекарства каждое утро.
+В этом кафе уютно, давайте выпьем чаю.
 
-There is a small **margin** for error in this project.
+My house is in a quiet **precinct**.
 
-В этом проекте есть небольшая вероятность ошибки.
+Мой дом находится в тихом районе.
 
-He has **adequate** skills for the job.
+The plant is **robust** and can survive in the cold.
 
-У него есть достаточные навыки для этой работы.
+Растение выносливое и может выживать в холода.
 
-We want to **rent** a car for our trip.
+It's wrong to **indict** someone without evidence.
 
-Мы хотим арендовать машину для нашей поездки.
+Неправильно предъявлять обвинения кому-либо без доказательств.
 
-Can you **excuse** my mistake?
+I need to **whisk** the snow off my car.
 
-Можете ли вы извинить меня за мою ошибку?
+Мне нужно смахнуть снег с машины.
 
-The army will **recruit** young people.
+This **plug** is for my phone charger.
 
-Армия будет набирать молодежь.
+Этот штекер предназначен для зарядного устройства моего телефона.
 
-Water has a simple **composition**: hydrogen and oxygen.
+He did not want to **inflict** suffering on her.
 
-Вода имеет простой состав: водород и кислород.
+Он не хотел причинять ей страдания.
 
-My sister's **major** is history.
+I can't see her face because of the **veil**.
 
-Специальность моей сестры — история.
+Из-за вуали я не вижу ее лица.
 
-The **diagnosis** helped us understand the problem.
+There is a **peril** if you swim in this river because of strong currents.
 
-Диагностика помогла нам понять проблему.
+Купание в этой реке опасно из-за сильного течения.
 
-The boxer suffered a hard **blow** in the fight.
+She is the only **heir** to the family fortune.
 
-Боксер получил сильный удар в бою.
+Она — единственная наследница семейного состояния.
 
-Regular exercise improves your **fitness**.
+This is a **petty** problem, we can easily fix it.
 
-Регулярные занятия спортом улучшают вашу физическую форму.
+Это мелкая проблема, мы можем ее легко исправить.
 
-She has a **delicate** complexion.
+My mom makes delicious **pastry** with apples.
 
-У нее нежный цвет лица.
+Моя мама готовит вкусную выпечку с яблоками.
 
-My teacher talks about **ethics** in our class.
+We must **avert** a disaster by acting quickly.
 
-Мой учитель рассказывает на нашем уроке об этике.
+Мы должны предотвратить катастрофу, действуя быстро.
 
-We need to **rank** these students by their exam scores.
+The dog likes to **tug** on his rope.
 
-Нам необходимо ранжировать этих студентов по результатам их экзаменов.
+Собака любит тянуть поводок.
 
-The camera **flashed** when I took a picture.
+I like to **swirl** my spoon in the soup.
 
-Когда я делал снимок, сработала вспышка камеры.
+Мне нравится вращать ложку в супе.
 
-My uncle is a **surgeon** at the local hospital.
+I cleaned up the **crumbs** from the table.
 
-Мой дядя — хирург в местной больнице.
+Я убрал крошки со стола.
 
-We **advocate** for healthy food in schools.
+A small fish **darted** into the coral reef.
 
-Мы выступаем за здоровое питание в школах.
+Маленькая рыбка юркнула в коралловый риф.
 
-The **plain** is very flat and open.
+The winter landscape was **stark** and bare.
 
-Равнина очень плоская и открытая.
+Зимний пейзаж был суровым и голым.
 
-A bee **colony** makes honey in the hive.
+The wedding will be in the **chapel** next week.
 
-Пчелиная колония производит мед в улье.
+Свадьба состоится в часовне на следующей неделе.
 
-The **counsel** spoke to the judge in the courtroom.
+During the sale, there was a **frenzy** to buy everything.
 
-Адвокат поговорил с судьей в зале суда.
+Во время распродажи царил ажиотаж, все хотели скупить.
 
-The **swing** of the pendulum was very slow.
+Don't buy that phone; it's complete **crap**.
 
-Маятник качался очень медленно.
+Не покупайте этот телефон, это полное дерьмо.
 
-The **legislature** is a group of elected people.
+There is a **hatch** on the roof.
 
-Законодательный орган — это группа избранных лиц.
+На крыше имеется люк.
 
-I need a **needle** and thread to fix my shirt.
+You need a **tee** to hit the ball far.
 
-Мне нужны иголка и нитка, чтобы починить рубашку.
+Чтобы ударить по мячу далеко, нужна клюшка.
 
-A **juror** must be fair.
+She wore a **sleek**, black dress.
 
-Присяжный должен быть справедливым.
+На ней было элегантное черное платье.
 
-A good **scout** is quiet and careful.
+The **sermon** was about being kind to others.
 
-Хороший разведчик тих и осторожен.
+Проповедь была о том, как важно быть добрым к другим.
 
-The road has a dangerous **curve**.
+The police can **detain** you if they think you broke the law.
 
-Дорога имеет опасный поворот.
+Полиция может задержать вас, если посчитает, что вы нарушили закон.
 
-I think the teacher **overlooked** my homework.
+My **kin** live in different cities.
 
-Думаю, учитель не выполнил мое домашнее задание.
+Мои родственники живут в разных городах.
 
-Volunteering can be a **meaningful** experience.
+We watched the **elk** eat grass.
 
-Волонтерство может стать значимым опытом.
+Мы наблюдали, как лось ест траву.
 
-He can **pitch** the ball very fast.
+The picture on my old phone is very **fuzzy**.
 
-Он может подавать мяч очень быстро.
+Картинка на моем старом телефоне очень размытая.
 
-The **pitch** is green and big.
+There is no quick **remedy** for this problem.
 
-Поле зеленое и большое.
+Быстрого решения этой проблемы не существует.
 
-I **greatly** enjoyed the movie last night.
+This **tab** shows my favorite website.
 
-Мне очень понравился вчерашний фильм.
+На этой вкладке показан мой любимый веб-сайт.
 
-The **legend** on the old coin is hard to read.
+This is an **interim** solution to the problem.
 
-Надпись на старой монете трудно прочесть.
+Это временное решение проблемы.
 
-The government has **regulatory** rules for food safety.
+Can I have some more **peas**, please?
 
-Правительство установило нормативные правила в отношении безопасности пищевых продуктов.
+Можно мне еще горошка, пожалуйста?
 
-She wants to be a famous **musician**.
+My dog is quite **lean** now after our long walks.
 
-Она хочет стать известным музыкантом.
+После наших долгих прогулок моя собака уже довольно худая.
 
-That **encounter** changed my life.
+Danger **looms** in the forest at night.
 
-Эта встреча изменила мою жизнь.
+Ночью в лесу подстерегает опасность.
 
-The **notice** is very important.
+The new law faces public **scrutiny**.
 
-Уведомление очень важное.
+Новый закон будет подвергнут общественному контролю.
 
-We enjoyed the **pop** of bubbles in the soda.
+He helped her **undo** the zipper on her dress.
 
-Мы наслаждались лопающимися пузырьками в газировке.
+Он помог ей расстегнуть молнию на платье.
 
-They **rent** an apartment near the park.
+The table is **sturdy** and strong.
 
-Они снимают квартиру недалеко от парка.
+Стол прочный и надежный.
 
-The company's **earnings** this year were very good.
+We hope to **attain** success in this project.
 
-Доходы компании в этом году были очень хорошими.
+Мы надеемся достичь успеха в этом проекте.
 
-Let's stay here for a **while**.
+The flower will **contract** in the shade.
 
-Давайте останемся здесь на некоторое время.
+В тени цветок увянет.
 
-What is your **intent** for this project?
+This little **bud** is green and healthy.
 
-Каковы ваши намерения в этом проекте?
+Этот маленький бутон зеленый и здоровый.
 
-These plants are **indigenous** to this island.
+My **foe** is always trying to make me angry.
 
-Эти растения являются коренными для этого острова.
+Мой враг всегда пытается меня разозлить.
 
-**Overall**, I think the movie was good.
+She will **tout** her cooking skills to impress him.
 
-В целом, я считаю, что фильм хороший.
+Она будет расхваливать свои кулинарные способности, чтобы произвести на него впечатление.
 
-The answer is **evident** in the book.
+The plants look very **lush** after the rain.
 
-Ответ очевиден в книге.
+После дождя растения выглядят очень пышными.
 
-He is **aging** quickly.
+This salad needs some **parsley** for a better taste.
 
-Он быстро стареет.
+Для лучшего вкуса этому салату не хватает петрушки.
 
-**Sodium** is a chemical element.
+The old bridge is in **peril** of collapsing.
 
-Натрий — химический элемент.
+Старый мост находится под угрозой обрушения.
 
-The **lecture** is about animals.
+This chocolate bunny is **hollow** inside.
 
-Лекция о животных.
+Этот шоколадный кролик внутри полый.
 
-Lightning **flashed** in the sky during the storm.
+The teacher will **detain** students after class if they don't finish their work.
 
-Во время грозы в небе сверкнула молния.
+Учитель задержит учеников после урока, если они не закончат работу.
 
-The children love to play on the **slide** in the park.
+The children are **weary** after playing in the park.
 
-Дети любят кататься на горке в парке.
+Дети устали после игры в парке.
 
-Farmers grow wheat on the wide **plain**.
+He may **distort** the facts to win the argument.
 
-Фермеры выращивают пшеницу на широкой равнине.
+Он может исказить факты, чтобы выиграть спор.
 
-I have a lunch **engagement** with my boss.
+The **crunch** of the apple was very satisfying.
 
-У меня назначен обед с моим боссом.
+Хруст яблока был очень приятным.
 
-A translator can **facilitate** communication.
+I want to **elicit** her opinion on this topic.
 
-Переводчик может облегчить общение.
+Я хочу узнать ее мнение по этому вопросу.
 
-I want to **enroll** in the English class.
+The artist used **vivid** blues and greens in the painting.
 
-Я хочу записаться на курс английского языка.
+Художник использовал в картине яркие синие и зеленые цвета.
 
-The **intensity** of the music increased during the song.
+Please clean the **tub** after your bath.
 
-Интенсивность музыки нарастала по мере исполнения песни.
+Пожалуйста, почистите ванну после купания.
 
-The story shows the best of **humanity**.
+She knows how to **wield** a pen to write stories.
 
-Эта история показывает лучшее, что есть в человечестве.
+Она умеет владеть ручкой, чтобы писать истории.
 
-The clouds **drift** slowly across the sky.
+He will **slump** into his chair when he is tired.
 
-Облака медленно плывут по небу.
+Когда он устает, он падает в кресло.
 
-The **surgeon** will perform the operation tomorrow.
+Can you **dispatch** the email to everyone?
 
-Хирург проведет операцию завтра.
+Можете ли вы разослать письмо всем?
 
-She likes to **frame** her face with her hair.
+I accidentally **omitted** my name from the list.
 
-Ей нравится, чтобы волосы обрамляли ее лицо.
+Я случайно пропустил свое имя в списке.
 
-They spoke with **conviction** about their beliefs.
+The government wants to **curb** pollution.
 
-Они убежденно говорили о своих убеждениях.
+Правительство хочет ограничить загрязнение.
 
-Can you **fund** my trip to London?
+Don't **hurl** stones at the birds!
 
-Можете ли вы профинансировать мою поездку в Лондон?
+Не бросайте камни в птиц!
 
-The **mean** of the road is dangerous to walk on.
+We will **reap** the rewards of our hard work.
 
-По средней части дороги опасно ходить.
+Мы пожинаем плоды нашего упорного труда.
 
-The price of the hotel is **modest** compared to other hotels in the city.
+We used **foil** to cover the baking tray.
 
-Цена отеля скромная по сравнению с другими отелями города.
+Для запекания мы использовали фольгу.
 
-The rain will **delay** our picnic.
+We need rain to end the **drought**.
 
-Дождь задержит наш пикник.
+Нам нужен дождь, чтобы положить конец засухе.
 
-We need to **educate** people about recycling.
+The rules at school are very **rigid** and must be followed.
 
-Нам необходимо информировать людей о переработке отходов.
+Правила в школе очень строгие и их необходимо соблюдать.
 
-Her **admission** to the university made her very happy.
+We eat **poultry** like chicken and turkey for dinner.
 
-Поступление в университет сделало ее очень счастливой.
+На ужин мы едим птицу — курицу и индейку.
 
-A high **dose** can be dangerous.
+The hunter looked for **prey** in the forest.
 
-Высокая доза может быть опасной.
+Охотник искал добычу в лесу.
 
-I can **trail** the cat with its bell.
+She wants to **plug** the bottle with a cork.
 
-Я могу выследить кошку с помощью колокольчика.
+Она хочет закупорить бутылку пробкой.
 
-A **astronomer** studies stars and planets.
+The bird took a **scrap** of bread from the table.
 
-Астроном изучает звезды и планеты.
+Птица схватила кусочек хлеба со стола.
 
-He **awaits** his birthday eagerly.
+He gave me an **implicit** promise to help.
 
-Он с нетерпением ждет своего дня рождения.
+Он дал мне недвусмысленное обещание помочь.
 
-The **essence** of friendship is trust.
+The weather today is **benign** and sunny.
 
-Суть дружбы — доверие.
+Погода сегодня благоприятная и солнечная.
 
-What is your **preference**: the red shirt or the blue shirt?
+The bird made a soft **rap** against the glass.
 
-Какую рубашку вы предпочитаете: красную или синюю?
+Птица тихонько стукнулась о стекло.
 
-You can **reverse** your decision if you want to.
+The old building **defies** gravity and still stands strong.
 
-При желании вы можете отменить свое решение.
+Старое здание бросает вызов гравитации и стоит по-прежнему крепко.
 
-He can **rip** the ticket to show he has been on the bus.
+She will **scoop** some sand with her shovel.
 
-Он может порвать билет, чтобы показать, что он был в автобусе.
+Она зачерпнет лопатой немного песка.
 
-She is a **commissioner** for the police department.
+The noise **disrupted** the meeting.
 
-Она является комиссаром полицейского департамента.
+Шум прервал встречу.
 
-She likes the **swing** of the music when she dances.
+Open the **hatch** to see inside.
 
-Ей нравится ритмичная музыка во время танца.
+Откройте люк, чтобы заглянуть внутрь.
 
-We hang our coats in the **hallway**.
+We must help people in this terrible **plight**.
 
-Мы вешаем пальто в коридоре.
+Мы должны помочь людям, оказавшимся в этой ужасной ситуации.
 
-She was **greatly** surprised to see her friend.
+My memory of that day is a little **fuzzy**.
 
-Она была очень удивлена, увидев своего друга.
+Мои воспоминания о том дне немного смазаны.
 
-I can't understand the **legend** under the photo.
+I love spending time with my **kin**.
 
-Я не могу понять подпись под фотографией.
+Я люблю проводить время с моими близкими.
 
-After the race, he was out of breath and his **pant** was very loud.
+Love can **transcend** many differences between people.
 
-После гонки он задыхался и его дыхание было очень громким.
+Любовь способна преодолеть многие различия между людьми.
 
-He made a funny **remark** about the weather.
+The other children **mocked** him because of his glasses.
 
-Он сделал забавное замечание о погоде.
+Другие дети дразнили его из-за очков.
 
-I **part** agree with you, but I have a different opinion too.
+We have a **pear** tree in our garden.
 
-Я отчасти с вами согласен, но у меня есть и другое мнение.
+У нас в саду растет груша.
 
-The teacher doesn't **endorse** cheating in exams.
+We can use the **bark** to make medicine.
 
-Учитель не одобряет списывание на экзаменах.
+Из коры можно приготовить лекарство.
 
-This course provides a **framework** for learning English.
+Can you help me **reel** this wire onto the spool?
 
-Этот курс обеспечивает основу для изучения английского языка.
+Можете ли вы помочь мне намотать эту проволоку на катушку?
 
-Her joke caused loud **laughter** in the classroom.
+His actions **embody** what it means to be a good friend.
 
-Ее шутка вызвала громкий смех в классе.
+Его действия олицетворяют то, что значит быть хорошим другом.
 
-The **judicial** system helps to solve problems fairly.
+We **vow** to finish this project on time.
 
-Судебная система помогает решать проблемы справедливо.
+Мы обещаем завершить этот проект вовремя.
 
-She needs **acceptance** from her friends.
+To **avert** an accident, look both ways before crossing the street.
 
-Ей нужно признание друзей.
+Чтобы избежать аварии, посмотрите в обе стороны, прежде чем переходить улицу.
 
-There is a **continuing** need for clean water in the village.
+The small, empty room felt **bleak** and cold.
 
-В селе сохраняется острая потребность в чистой воде.
+В маленькой пустой комнате было уныло и холодно.
 
-She will **pitch** in the baseball game tomorrow.
+She is **wary** about investing her money in the stock market.
 
-Завтра она будет играть в бейсбольном матче.
+Она с осторожностью относится к инвестированию своих денег в фондовый рынок.
 
-The **estimated** time to finish the homework is one hour.
+I need a new **plug** for my lamp.
 
-Расчетное время выполнения домашнего задания — один час.
+Мне нужна новая вилка для лампы.
 
-The cat is **seemingly** asleep, but its ears are twitching.
+We must prepare for the **onset** of the storm.
 
-Кот, похоже, спит, но его уши дергаются.
+Мы должны подготовиться к наступлению бури.
 
-They kept him as a **hostage** for money.
+Snakes **lurk** in the grass.
 
-Они держали его в заложниках за деньги.
+В траве прячутся змеи.
 
-This park is a nice place for **elderly** people to relax.
+The car **jerked** forward when the driver pressed the gas pedal.
 
-Этот парк — прекрасное место для отдыха пожилых людей.
+Машина дернулась вперед, когда водитель нажал на педаль газа.
 
-I need a **ski** for the snow.
+My mother plants a **shrub** every spring.
 
-Мне нужны лыжи для снега.
+Моя мама каждую весну сажает кустарник.
 
-The painting is **controversial**; some love it, others hate it.
+They **exert** pressure on him to agree.
 
-Картина вызывает споры: одни ее любят, другие ненавидят.
+Они оказывают на него давление, чтобы он согласился.
 
-I like the **curve** of the vase.
+This **apt** tool is perfect for the job.
 
-Мне нравится изгиб вазы.
+Этот подходящий инструмент идеально подходит для этой работы.
 
-The stadium can **accommodate** a lot of fans.
+The dancer used a colorful **veil** in her performance.
 
-Стадион может вместить большое количество болельщиков.
+В своем выступлении танцовщица использовала цветную вуаль.
 
-The weather has been **consistently** cold this week.
+The factory had **slack** time during the summer.
 
-На этой неделе погода была стабильно холодной.
+Летом на фабрике был застой.
 
-My family has a **saving** account for emergencies.
+She began to **weep** after hearing the bad news.
 
-У моей семьи есть сберегательный счет на случай непредвиденных обстоятельств.
+Услышав плохие новости, она заплакала.
 
-The website will **rank** the movies from best to worst.
+We can sit on the **quilt** in the park.
 
-Сайт отсортирует фильмы от лучшего к худшему.
+Мы можем сидеть на одеяле в парке.
 
-This cream helps your skin **absorb** moisture.
+Her **brow** was furrowed as she concentrated.
 
-Этот крем помогает вашей коже впитывать влагу.
+Она нахмурилась, сосредоточившись.
 
-She goes to **counseling** every week.
+She ate a **lump** of cheese.
 
-Она ходит на консультацию каждую неделю.
+Она съела кусок сыра.
 
-Ice **formation** can be dangerous on roads.
+I think that movie was **crap**.
 
-Образование льда на дорогах может быть опасным.
+Я считаю, что этот фильм — отстой.
 
-The company wants to ensure **equity** in pay for all workers.
+After a **bout** of rain, the sun came out.
 
-Компания хочет обеспечить всем работникам равную оплату труда.
+После дождя выглянуло солнце.
 
-We turn the **globe** to find different places.
+Can you read this **excerpt** aloud?
 
-Мы вращаем земной шар, чтобы найти разные места.
+Можете ли вы прочитать этот отрывок вслух?
 
-Dogs and cats **differ** in many ways.
+A warm blanket makes me feel **cozy** in winter.
 
-Собаки и кошки во многом отличаются.
+Теплое одеяло создает ощущение уюта зимой.
 
-The book was my only **companion** that night.
+You can **hail** a bus from the bus stop.
 
-В ту ночь моим единственным спутником была книга.
+Вы можете поймать автобус на автобусной остановке.
 
-She will **leap** for joy when she hears the news.
+The fisherman saw many **fry** near the bank.
 
-Она будет прыгать от радости, когда услышит эту новость.
+Рыбак увидел возле берега много мальков.
 
-Please **excuse** me for being late.
+When he saw the dog, the squirrel **darted** up the tree.
 
-Извините, пожалуйста, за опоздание.
+Увидев собаку, белка кинулась на дерево.
 
-The sun will **diminish** in brightness as it sets.
+The police are investigating the **felony**.
 
-По мере захода солнца его яркость будет уменьшаться.
+Полиция расследует это преступление.
 
-My brother is a **freshman** at university this year.
+This **mat** is very colorful.
 
-В этом году мой брат учится на первом курсе университета.
+Этот коврик очень красочный.
 
-The machine can **project** a 3D image.
+The advertisement **tempted** me to order the new phone.
 
-Машина может проецировать 3D-изображение.
+Реклама соблазнила меня заказать новый телефон.
 
-**Ownership** is important for feeling secure.
+The cat's fur is **sleek** and shiny.
 
-Чувство собственности важно для ощущения безопасности.
+Шерсть у кошки гладкая и блестящая.
 
-What is your friend's **major**?
+She was a victim of a **con**.
 
-Какая специальность у вашего друга?
+Она стала жертвой мошенничества.
 
-The meeting was short. A **subsequent** email explained everything.
+The **clash** happened because they had different opinions.
 
-Встреча была короткой. Последующее электронное письмо все объяснило.
+Столкновение произошло из-за того, что у них были разные мнения.
 
-He has a **margin** of money in his bank account.
+The teacher listened to the student's **earnest** question.
 
-На его банковском счете есть определенная сумма денег.
+Учитель выслушал серьезный вопрос ученика.
 
-The **supervisor** tells us what to do.
+We need to wash the **skillet** after dinner.
 
-Руководитель говорит нам, что делать.
+После ужина нам нужно помыть сковороду.
 
-The teacher will **rate** our projects next week.
+The bird ate the **crumb** of bread.
 
-Учитель оценит наши проекты на следующей неделе.
+Птица съела крошку хлеба.
 
-A **pension** helps old people live comfortably.
+We like to visit the **chapel** to pray.
 
-Пенсия помогает пожилым людям жить комфортно.
+Нам нравится посещать часовню, чтобы помолиться.
 
-The children are running on the **pitch**.
+She feels **wan** after cleaning the whole house.
 
-Дети бегают по полю.
+Она чувствует себя бледной после уборки всего дома.
 
-The **legislature** meets in the capital city.
+The little bird can **hop** from branch to branch.
 
-Законодательный орган заседает в столице.
+Маленькая птичка умеет прыгать с ветки на ветку.
 
-I go to the **lecture** every Tuesday.
+He had to **jam** the box into the small space.
 
-Я хожу на лекцию каждый вторник.
+Ему пришлось втиснуть коробку в ограниченное пространство.
 
-My grandmother is **aging** gracefully.
+The dog ran around in a **frenzy** when he saw the cat.
 
-Моя бабушка стареет достойно.
+Увидев кошку, собака в ярости забегала вокруг.
 
-She hired a **counsel** to represent her in court.
+The restaurant sells **stew** for five dollars a bowl.
 
-Она наняла адвоката, который представлял ее интересы в суде.
+В ресторане продают рагу по пять долларов за миску.
 
-This **medication** helps to reduce the pain.
+The room was clean, **albeit** small.
 
-Это лекарство помогает уменьшить боль.
+Номер был чистым, хотя и небольшим.
 
-He is good at **saving** money.
+There are many shops in the shopping **precinct**.
 
-Он умеет экономить деньги.
+В торговом районе много магазинов.
 
-**Overall**, the trip was a great experience.
+She might **slash** her jeans to make them look cool.
 
-В целом поездка оставила прекрасные впечатления.
+Она может порезать джинсы, чтобы они выглядели круче.
 
-The **regulatory** board makes sure the bank is safe.
+The farmer sells **poultry** at the local market.
 
-Регулирующий совет следит за безопасностью банка.
+Фермер продает птицу на местном рынке.
 
-The smell of cookies **triggers** happy memories.
+The **clergy** offers advice to people who need it.
 
-Запах печенья пробуждает приятные воспоминания.
+Духовенство дает советы людям, которые в них нуждаются.
 
-I will **submit** my essay before the deadline.
+The cat is **fuzzy** and soft.
 
-Я отправлю свое эссе до истечения срока.
+Кошка пушистая и мягкая.
 
-Finding a **compromise** made everyone happy.
+Time can help to ease the **sorrow** in your heart.
 
-Нахождение компромисса сделало всех счастливыми.
+Время может помочь унять печаль в вашем сердце.
 
-The project is **part** finished; we still have a lot to do.
+Please don't **mock** my drawing, I tried my best.
 
-Проект частично завершен, нам еще многое предстоит сделать.
+Пожалуйста, не смейтесь над моим рисунком, я старалась как могла.
 
-I like the **composition** of this song; it's very catchy.
+She likes the **crunch** of the cereal in her milk.
 
-Мне нравится композиция этой песни, она очень запоминающаяся.
+Ей нравится хруст хлопьев в молоке.
 
-We need a little **sodium** in our food.
+The two countries were **foes** for many years.
 
-Нам необходимо немного натрия в пище.
+Эти две страны были врагами на протяжении многих лет.
 
-Let's **survey** the area before we build the house.
+If you plant good seeds, you will **reap** a good harvest.
 
-Давайте осмотрим территорию, прежде чем строить дом.
+Если вы посеете хорошие семена, вы пожнете хороший урожай.
 
-My friend's parents made the decision for the **adoption** many years ago.
+The animal shelter knows the **plight** of stray dogs.
 
-Родители моего друга приняли решение об усыновлении много лет назад.
+В приюте для животных знают о бедственном положении бродячих собак.
 
-The wind is a **driving** force in this area.
+He **reels** the garden hose after watering the plants.
 
-Ветер является движущей силой в этой области.
+После полива растений он сматывает садовый шланг.
 
-Good **prevention** can stop accidents.
+She used her savings to **offset** the unexpected bill.
 
-Хорошая профилактика может предотвратить несчастные случаи.
+Она использовала свои сбережения, чтобы компенсировать непредвиденный счет.
 
-My **ski** is red and white.
+She has a lot of **kin** in her family.
 
-Мои лыжи красно-белые.
+У нее много родственников в семье.
 
-We need to **recruit** more volunteers for the project.
+The cat jumped through the **hatch**.
 
-Нам необходимо привлечь больше волонтеров для этого проекта.
+Кот выпрыгнул через люк.
 
-He **administers** the small office.
+They might **detain** your luggage at the airport for a search.
 
-Он руководит малым офисом.
+В аэропорту ваш багаж могут задержать для досмотра.
 
-You need to **enroll** before the course starts.
+Do you like **pastry** with cream or fruit?
 
-Вам необходимо зарегистрироваться до начала курса.
+Вам нравится выпечка с кремом или фруктами?
 
-He has strong **ethics** about honesty.
+The **heir** will get the castle.
 
-У него строгие этические принципы в отношении честности.
+Замок достанется наследнику.
 
-I saw a cat on the **sidewalk** yesterday.
+She is a **robust** woman, full of energy.
 
-Вчера я видел кошку на тротуаре.
+Она крепкая женщина, полная энергии.
 
-We will **exhibit** our best work at the school fair.
+I will **tug** the rope to help you.
 
-Мы представим наши лучшие работы на школьной ярмарке.
+Я потяну за веревку, чтобы помочь тебе.
 
-The **indigenous** people have lived here for centuries.
+They **dispatch** the ambulance quickly.
 
-Коренные жители жили здесь на протяжении столетий.
+Они быстро отправляют скорую помощь.
 
-The baby cried with a **continuous** whimper.
+The bully likes to **inflict** harm.
 
-Ребенок плакал и непрерывно хныкал.
+Хулиган любит причинять вред.
 
-I like to have lunch with my **associate** every day.
+He will **whisk** the flour from his shirt.
 
-Мне нравится обедать со своим коллегой каждый день.
+Он отряхнет муку с рубашки.
 
-This is the main **corps** of the army.
+She is ready to **embark** on her career.
 
-Это основной корпус армии.
+Она готова начать свою карьеру.
 
-We need to reduce the **complexity** of the system.
+Will the court **indict** her for the crime?
 
-Нам необходимо снизить сложность системы.
+Предъявит ли ей суд обвинение в совершении преступления?
 
-They **assert** their right to speak freely.
+A reward will **spur** him to finish the job.
 
-Они отстаивают свое право свободно говорить.
+Награда подстегнет его закончить работу.
 
-The **principal** actor in the movie is very famous.
+I heard a **hollow** sound when I knocked on the door.
 
-Главный актер в фильме очень известен.
+Когда я постучал в дверь, я услышал глухой звук.
 
-My sister wants to be a **astronomer** when she grows up.
+He can **wield** power carefully and fairly.
 
-Моя сестра хочет стать астрономом, когда вырастет.
+Он умеет распоряжаться властью осмотрительно и справедливо.
 
-It's **seemingly** a good idea, but we need to check the details.
+After the accident, the family was in **turmoil**.
 
-Казалось бы, это хорошая идея, но нам нужно проверить детали.
+После аварии в семье царило смятение.
 
-The new law gave the police a **mandate** to enforce the rules.
+He is **fond** of his grandparents and visits them often.
 
-Новый закон предоставил полиции полномочия по обеспечению соблюдения правил.
+Он любит своих бабушку и дедушку и часто навещает их.
 
-The **outer** planets are very cold.
+She turned away to **avert** her eyes from the scary scene.
 
-Внешние планеты очень холодные.
+Она отвернулась, чтобы не видеть страшной сцены.
 
-He stood in the **mean** of the circle of people.
+I didn't understand the **sermon** very well.
 
-Он стоял в центре круга людей.
+Я не очень хорошо понял проповедь.
 
-The dog can **trail** the rabbit in the garden.
+The difference between the two choices was **stark**.
 
-Собака может выследить кролика в саду.
+Разница между этими двумя вариантами была разительной.
 
-A judge makes **judicial** decisions in court.
+She was angry and **hurled** the book across the room.
 
-Судья выносит судебные решения в суде.
+Она рассердилась и швырнула книгу через всю комнату.
 
-He shared some **profound** thoughts with us.
+I lost my favorite **tee** on the golf course.
 
-Он поделился с нами некоторыми глубокими мыслями.
+Я потерял свою любимую мишень на поле для гольфа.
 
-It took a long **while** to finish.
+The dancers **swirl** around the stage.
 
-На это ушло много времени.
+Танцоры кружатся по сцене.
 
-He showed **uncertainty** when he answered the question.
+The **elk** is a strong animal.
 
-Отвечая на вопрос, он проявил неуверенность.
+Лось — сильное животное.
 
-She went down the **slide** very fast.
+Firefighters face **peril** every day.
 
-Она очень быстро скатилась с горки.
+Пожарные ежедневно сталкиваются с опасностью.
 
-The **freshman** class is having a welcome party.
+She got angry over a **petty** issue.
 
-Первокурсники устраивают приветственную вечеринку.
+Она разозлилась из-за пустяка.
 
-**Equity** means everyone has a fair chance to succeed.
+Can you **curb** your dog when walking?
 
-Справедливость означает, что у каждого есть равные шансы на успех.
+Можно ли удерживать собаку во время прогулки?
 
-There is a free **shuttle** from the parking lot.
+He built a **sturdy** house.
 
-От парковки ходит бесплатный шаттл.
+Он построил крепкий дом.
 
-The mechanic can **tune** the engine.
+She has an **interim** job for the summer.
 
-Механик может настроить двигатель.
+У нее есть временная работа на лето.
 
-Sometimes, we **overlook** important things when we are busy.
+The **implicit** message was clear: we were not welcome.
 
-Иногда, когда мы заняты, мы упускаем из виду важные вещи.
+Скрытый посыл был ясен: нам здесь не рады.
 
-The king used to **govern** this land.
+Please close the unnecessary **tabs**.
 
-Раньше этой землей правил король.
+Пожалуйста, закройте ненужные вкладки.
 
-Is there **adequate** food for everyone?
+The old tree has thick **bark**.
 
-Достаточно ли еды для всех?
+У старого дерева толстая кора.
 
-**Unity** is important for peace.
+Don't **undo** your shoelaces, we are going for a walk.
 
-Единство важно для мира.
+Не развязывайте шнурки, мы идем гулять.
 
-He plays **virtual** games with his friends every evening.
+The heat made the image on the TV **distort**.
 
-Каждый вечер он играет в виртуальные игры со своими друзьями.
+Из-за жары изображение на телевизоре исказилось.
 
-The dog's **pant** told me he was too hot.
+Can you **scoop** the cat food, please?
 
-Судя по штанам собаки, ей слишком жарко.
+Не могли бы вы принести кошачий корм?
 
-We need a **diagnosis** to start treatment.
+She bought a **pear** at the market.
 
-Чтобы начать лечение, нам нужен диагноз.
+Она купила грушу на рынке.
 
-This book provides **guidance** on how to cook.
+**Parsley** is a green herb.
 
-В этой книге вы найдете рекомендации по приготовлению пищи.
+Петрушка — зеленая трава.
 
-We need your address of **residence**.
+This park has **lush** grass, perfect for a picnic.
 
-Нам нужен ваш адрес проживания.
+В этом парке густая трава, идеально подходящая для пикника.
 
-They **advocate** for cleaner energy sources.
+If you don't study, your grades may **slump**.
 
-Они выступают за более чистые источники энергии.
+Если вы не будете учиться, ваши оценки могут упасть.
 
-We need to **reverse** the order of these books.
+The police officer tried to **elicit** the truth.
 
-Нам нужно изменить порядок этих книг.
+Полицейский пытался выяснить правду.
 
-Did you hear her **remark**?
+We waited for the **bud** to bloom.
 
-Вы слышали ее замечание?
+Мы ждали, когда распустится бутон.
 
-Can we **rent** a boat at the lake?
+You can recycle aluminum **foil**.
 
-Можно ли арендовать лодку на озере?
+Алюминиевую фольгу можно сдать на переработку.
 
-The penguins formed a **colony** on the ice.
+She has a **benign** influence on her younger brother.
 
-Пингвины образовали колонию на льду.
+Она оказывает благотворное влияние на своего младшего брата.
 
-I want to **rank** my favorite songs in a playlist.
+They **tout** the benefits of their school.
 
-Я хочу составить плейлист из моих любимых песен.
+Они расхваливают преимущества своей школы.
 
-I hope she will **excuse** my bad behavior.
+He gave a **weary** sigh and closed his eyes.
 
-Надеюсь, она простит мое плохое поведение.
+Он устало вздохнул и закрыл глаза.
 
-The rain **greatly** helped the plants grow.
+Great art can **transcend** time and culture.
 
-Дождь очень помог растениям расти.
+Великое искусство может выходить за рамки времени и культуры.
 
-I want to **pitch** the tent here.
+Birds eat the **fry** in the lake.
 
-Я хочу поставить палатку здесь.
+Птицы поедают мальков в озере.
 
-We could see for miles across the **plain**.
+The **chapel** is near the big church.
 
-Мы могли видеть равнину на многие мили вокруг.
+Часовня находится недалеко от большой церкви.
 
-Please write the **recipient**'s address on the envelope.
+The **plug** is broken, so the TV doesn't work.
 
-Пожалуйста, напишите адрес получателя на конверте.
+Вилка сломана, поэтому телевизор не работает.
 
-Can you **convey** this message to Tom?
+She cleaned the house in a **frenzy** before her guests arrived.
 
-Можете ли вы передать это сообщение Тому?
+лихорадочно убиралась в доме перед приходом гостей.
 
-Draw a **curve** on the paper.
+She **darted** out of the house to catch the bus.
 
-Нарисуйте на бумаге кривую.
+Она выбежала из дома, чтобы успеть на автобус.
 
-Her happiness was **evident** to everyone.
+The small house looked very **cozy** and inviting.
 
-Ее счастье было очевидно всем.
+Небольшой дом выглядел очень уютным и привлекательным.
 
-The red light **flashed** to warn us of danger.
+My car is **crap**, it always breaks down.
 
-Красный свет мигал, предупреждая нас об опасности.
+Моя машина – отстой, она постоянно ломается.
 
-The wind gave the door a strong **blow**.
+She lifted the **veil** to show her smile.
 
-Ветер сильно ударил в дверь.
+Она приподняла вуаль, чтобы показать свою улыбку.
 
-The baby's skin is so **delicate**.
+She didn't know it was a **felony**.
 
-Кожа ребенка такая нежная.
+Она не знала, что это уголовное преступление.
 
-Be careful with the **needle**!
+The film's title is very **apt**, as it reflects the story well.
 
-Будьте осторожны с иглой!
+Название фильма очень удачное, так как оно хорошо отражает суть истории.
 
-The museum has a **legend** next to each painting.
+He bought a **sleek**, new laptop.
 
-Рядом с каждой картиной в музее есть легенда.
+Он купил новый, стильный ноутбук.
 
-His family showed him **acceptance** after he told them.
+I felt **slack** after the holidays and didn't want to work.
 
-Его семья отнеслась к нему с пониманием после того, как он им рассказал.
+После праздников я чувствовала себя вялой и не хотела работать.
 
-He gave her a **meaningful** look.
+The **onset** of the project was last week.
 
-Он бросил на нее многозначительный взгляд.
+Начало проекта пришлось на прошлую неделю.
 
-A **surgeon** needs steady hands and good eyes.
+They had an **earnest** conversation about the future.
 
-Хирургу нужны твердые руки и зоркие глаза.
+У них состоялся серьезный разговор о будущем.
 
-The **scout** found a hidden path.
+This **shrub** has many green leaves.
 
-Разведчик нашел скрытую тропу.
+У этого кустарника много зеленых листьев.
 
-I think my **counterpart** is very friendly and helpful.
+After the bad news, she had a **bleak** expression on her face.
 
-Я считаю, что мой коллега очень дружелюбен и готов помочь.
+После плохих новостей на ее лице появилось мрачное выражение.
 
-Eating well is also part of **fitness**.
+The **precinct** is very safe at night.
 
-Правильное питание также является частью фитнеса.
+Ночью в этом районе вполне безопасно.
 
-Love is the **essence** of a happy life.
+We put potatoes and carrots in the **stew**.
 
-Любовь — это суть счастливой жизни.
+В рагу добавляем картофель и морковь.
 
-The **acquisition** of knowledge is important for everyone.
+My baby made a mess of **crumbs** when eating a cookie.
 
-Приобретение знаний важно для каждого.
+Мой ребенок раскрошил печенье, пока ел его.
 
-The baseball player has a powerful **swing**.
+Bad feelings can **lurk** inside of you.
 
-У бейсболиста мощный замах.
+Плохие чувства могут таиться внутри вас.
 
-The **departure** gate is number 5.
+This soup is **lean** and healthy, with not much fat.
 
-Выход на посадку — номер 5.
+Этот суп нежирный и полезный, с небольшим количеством жира.
 
-We had to **delay** the meeting until next week.
+The manager needs to **dispatch** the workers.
 
-Нам пришлось отложить встречу до следующей недели.
+Менеджеру необходимо отправить рабочих.
 
-The baby's **laughter** is very cute and makes me happy.
+The sound from the radio was **fuzzy** and hard to hear.
 
-Смех ребенка очень милый и делает меня счастливой.
+Звук радио был нечетким и его было трудно расслышать.
 
-His **bias** against cats is because he was once scratched.
+Sleep is often the best **remedy** for tiredness.
 
-Его предубеждение против кошек возникло из-за того, что его однажды поцарапали.
+Сон часто является лучшим средством от усталости.
 
-This material blocks **radiation**.
+The artist can **wield** a brush to create beautiful paintings.
 
-Этот материал блокирует излучение.
+Художник умеет владеть кистью и создавать прекрасные картины.
 
-This **juror** thinks he is innocent.
+The old well is **hollow** and very deep.
 
-Этот присяжный считает, что он невиновен.
+Старый колодец полый и очень глубокий.
 
-My shoes are **wider** than yours.
+They **omit** the sugar to make the cake healthier.
 
-Мои туфли шире твоих.
+Они исключают сахар, чтобы сделать торт более полезным.
 
-She trains with great **intensity**.
+We must **plug** the leak to stop the water.
 
-Она тренируется с большой интенсивностью.
+Мы должны заткнуть течь, чтобы остановить воду.
 
-What is the **estimated** population of this city?
+She answered the door after the first **rap**.
 
-Какова предполагаемая численность населения этого города?
+Она открыла дверь после первого стука.
 
-I **endorse** your plan to help the animals.
+Some people raise **poultry** for their eggs.
 
-Я поддерживаю ваш план помощи животным.
+Некоторые разводят птицу ради яиц.
 
-The **musician** is very talented.
+They **mock** the idea, but I think it's good.
 
-Музыкант очень талантлив.
+Они высмеивают эту идею, но я думаю, что она хороша.
 
-His shirt **differs** from mine.
+We must protect animals that are in **peril**.
 
-Его рубашка отличается от моей.
+Мы должны защищать животных, находящихся в опасности.
 
-My friend is very talented, but she is very **modest** about it.
+The government is trying to **avert** an economic crisis.
 
-Моя подруга очень талантлива, но она очень скромна в этом плане.
+Правительство пытается предотвратить экономический кризис.
 
-The **lecture** was very interesting.
+The **hatch** is heavy and round.
 
-Лекция была очень интересной.
+Люк тяжелый и круглый.
 
-The photo is **aging** well.
+He avoided **scrutiny** by staying quiet.
 
-Фотография хорошо стареет.
+Он избегал пристального внимания, храня молчание.
 
-The **mean** of the river is the deepest part.
+That flower has a **vivid** red color.
 
-Самая глубокая часть реки — середина.
+Этот цветок имеет яркий красный цвет.
 
-The **formation** of the Earth took millions of years.
+My **kin** are very important to me.
 
-Формирование Земли заняло миллионы лет.
+Мои близкие очень важны для меня.
 
-My parents have a deep **conviction** in the power of hard work.
+Her financial **plight** made it difficult to pay rent.
 
-Мои родители глубоко убеждены в силе упорного труда.
+Из-за тяжелого финансового положения ей было трудно платить аренду.
 
-The **astronomer** used a telescope to see the moon.
+Please throw that **scrap** of metal in the bin.
 
-Астроном использовал телескоп, чтобы увидеть Луну.
+Пожалуйста, выбросьте этот кусок металла в мусорное ведро.
 
-The judge made a decision based on **equity** and the law.
+The bird of **prey** flew high above us.
 
-Судья принял решение, основываясь на справедливости и законе.
+Хищная птица летела высоко над нами.
 
-She's a **freshman**, so she's new to the school.
+She learns how to **reel** the film in old movie projector.
 
-Она первокурсница, то есть новенькая в школе.
+Она учится закручивать пленку в старый кинопроектор.
 
-Be careful when you climb to the top of the **slide**.
+He made a **crunch** sound while eating the crispy chips.
 
-Будьте осторожны, поднимаясь на вершину горки.
+Он издал хрустящий звук, поедая хрустящие чипсы.
 
-**Admission** to the swimming pool is only for members.
+A phone call can **disrupt** my work.
 
-Вход в бассейн разрешен только членам клуба.
+Телефонный звонок может прервать мою работу.
 
-We need a **judicial** review of this case.
+My favourite soup has **peas** in it.
 
-Нам необходимо судебное рассмотрение этого дела.
+Мой любимый суп — с горошком.
 
-His **intent** was to make her happy.
+The balloon will **contract** if we let air out.
 
-Его намерением было сделать ее счастливой.
+Шарик сожмется, если выпустить из него воздух.
 
-The **commissioner** is responsible for public safety.
+A long **drought** can be very dangerous.
 
-Комиссар несет ответственность за общественную безопасность.
+Длительная засуха может быть очень опасна.
 
-Dark colors **absorb** more light than white colors.
+The cardboard box is **rigid** enough to hold heavy books.
 
-Темные цвета поглощают больше света, чем белые цвета.
+Картонная коробка достаточно жесткая, чтобы выдерживать тяжелые книги.
 
-That's a **controversial** topic, so be careful what you say.
+Can you **hurl** this bag to me?
 
-Это спорная тема, поэтому будьте осторожны в своих высказываниях.
+Можешь кинуть мне эту сумку?
 
-This is a **regulatory** document about the new law.
+They **reap** vegetables from their garden.
 
-Это нормативный документ о новом законе.
+Они собирают овощи в своем саду.
 
-The restaurant offers options to suit every **preference**.
+The flag **embodies** the spirit of the nation.
 
-В ресторане предлагаются блюда на любой вкус.
+Флаг олицетворяет дух нации.
 
-I could hear the **pant** of the runners as they climbed the hill.
+He thought I was his **foe**, but I just wanted to help.
 
-Я слышал тяжелое дыхание бегунов, поднимающихся на холм.
+Он думал, что я его враг, но я просто хотел помочь.
 
-He rested for a little **while**.
+A big test **looms** next week.
 
-Он немного отдохнул.
+На следующей неделе нас ждет серьезное испытание.
 
-He is **seemingly** happy, but I think he's hiding something.
+She **vows** to learn English this year.
 
-Он выглядит счастливым, но мне кажется, он что-то скрывает.
+Она обещает выучить английский в этом году.
 
-**Overall**, she is a very happy person.
+She **defies** expectations and always does her best.
 
-В целом она очень счастливый человек.
+Она бросает вызов ожиданиям и всегда делает все возможное.
 
-He broke his **ski** on the mountain.
+They finally **attained** their dream home.
 
-Он сломал лыжу на горе.
+Они наконец обрели дом своей мечты.
 
-She cancelled her **engagement** because she was sick.
+Security can **detain** someone who is acting suspiciously.
 
-Она отменила помолвку из-за болезни.
+Служба безопасности может задержать человека, ведущего себя подозрительно.
 
-The **elderly** man walks with a cane.
+We have a new **tub** in our bathroom.
 
-Пожилой мужчина ходит с тростью.
+У нас в ванной комнате новая ванна.
 
-The **framework** helps to keep everything in place.
+Please don't **jerk** my arm, it hurts!
 
-Каркас помогает держать все на своих местах.
+Пожалуйста, не дергайте мою руку, мне больно!
 
-This is a traditional song of the **indigenous** community.
+Extreme heat can **wan** your energy quickly.
 
-Это традиционная песня коренного народа.
+Сильная жара может быстро лишить вас энергии.
 
-This coupon is a great **saving**!
+I **tempt** my dog with treats to make him do tricks.
 
-Этот купон — отличная экономия!
+Я угощаю свою собаку лакомствами, чтобы заставить ее выполнять трюки.
 
-Eating too much sugar can **diminish** your health.
+Don't **weep**! Everything will be okay.
 
-Употребление слишком большого количества сахара может ухудшить ваше здоровье.
+Не плачь! Всё будет хорошо.
 
-She will **enroll** her child in the school next year.
+The dog buried a **lump** of meat in the yard.
 
-Она отдаст своего ребенка в эту школу в следующем году.
+Собака закопала кусок мяса во дворе.
 
-She will **trail** her friend to the shop.
+Be careful; he is a known **con**.
 
-Она последует за подругой до магазина.
+Будьте осторожны: он известный мошенник.
 
-I use my **earnings** to pay for my school.
+The movie was interesting, **albeit** long.
 
-Я использую свой заработок, чтобы оплачивать учебу.
+Фильм интересный, хоть и длинный.
 
-They need money to **fund** their research.
+We need a new **mat** for the bathroom.
 
-Им нужны деньги для финансирования своих исследований.
+Нам нужен новый коврик для ванной.
 
-Books can **educate** you about history.
+This **excerpt** is easy to understand.
 
-Книги могут познакомить вас с историей.
+Этот отрывок легко понять.
 
-The food was **part** cold, so I asked them to heat it up.
+We **hop** when we play games outside.
 
-Еда была частично холодной, поэтому я попросил ее разогреть.
+Мы прыгаем, когда играем в игры на улице.
 
-Too much **sodium** is not good for you.
+The sun shone brightly on his **brow**.
 
-Избыток натрия вреден для здоровья.
+Солнце ярко светило ему на лоб.
 
-Please **frame** the certificate and hang it up.
+The movie showed a **clash** between good and evil.
 
-Пожалуйста, поместите сертификат в рамку и повесьте его.
+В фильме показано столкновение добра и зла.
 
-He lives in the **principal** house on the street.
+He **hailed** a passing car because he needed help.
 
-Он живет в главном доме на улице.
+Он остановил проезжающую машину, потому что ему нужна была помощь.
 
-The artist carefully planned the **composition** of the painting.
+The sun **exerts** its power during the summer.
 
-Художник тщательно продумал композицию картины.
+Солнце проявляет свою силу летом.
 
-She failed the first test. Her **subsequent** attempt was successful.
+The **quilt** keeps me cozy and comfortable.
 
-Она провалила первый тест. Ее последующая попытка оказалась успешной.
+Одеяло создает уют и комфорт.
 
-The doctor follows strict **ethics** when helping people.
+He is having a **bout** of sadness today.
 
-Врач придерживается строгих этических принципов, помогая людям.
+Сегодня у него приступ грусти.
 
-English is a popular **major**.
+You should be **wary** when walking alone at night.
 
-Английский язык — популярная специальность.
+Будьте осторожны, гуляя в одиночку ночью.
 
-Don't forget to buy the **medication** from the pharmacy.
+They **jam** themselves into the crowded bus every morning.
 
-Не забудьте купить лекарства в аптеке.
+Каждое утро они втискиваются в переполненный автобус.
 
-**Prevention** of crime is very important.
+I saw someone **slash** the poster with a pen.
 
-Предупреждение преступности имеет большое значение.
+Я видел, как кто-то разрезал плакат ручкой.
 
-People can vote for members of the **legislature**.
+My dad uses a big **skillet** to cook meat.
 
-Люди могут голосовать за членов законодательного органа.
+Мой папа готовит мясо на большой сковороде.
 
-The **counsel** gave him good legal advice.
+He bought a new box of **tees** at the store.
 
-Адвокат дал ему хорошую юридическую консультацию.
+Он купил в магазине новую коробку футболок.
 
-The room had **adequate** light for reading.
+Let's **whisk** away the leaves on the porch.
 
-В комнате было достаточно света для чтения.
+Давайте смахнем листья с крыльца.
 
-The **corps** helped people after the storm.
+The lawyer doesn't want to **indict** an innocent person.
 
-Корпус оказал помощь людям после шторма.
+Адвокат не хочет предъявлять обвинение невиновному человеку.
 
-Let's go to the **pitch** and play.
+Her encouragement **spurred** me to try again.
 
-Давайте выйдем на поле и сыграем.
+Ее поддержка побудила меня попробовать еще раз.
 
-The company **overlooked** his application, so he didn't get the job.
+Can you see the **elk** near the trees?
 
-Компания проигнорировала его заявление, поэтому он не получил работу.
+Видите ли вы лося возле деревьев?
 
-They **exhibit** their new products at the trade show.
+You can **offset** the negative effect with something positive.
 
-Они представляют свою новую продукцию на выставке.
+Вы можете компенсировать негативный эффект чем-то позитивным.
 
-Can we **recruit** someone who speaks French?
+Her face looked **stark** and tired after the long journey.
 
-Можем ли мы нанять кого-то, кто говорит по-французски?
+После долгого путешествия ее лицо выглядело осунувшимся и усталым.
 
-The road has a **margin** of safety on the side.
+The rules **inflict** a fine if you are late.
 
-Дорога имеет запас прочности по обочине.
+Правила предусматривают штраф за опоздание.
 
-He **asserted** his innocence to the police.
+I felt **sorrow** for the homeless man.
 
-Он заявил полиции о своей невиновности.
+Мне было жаль бездомного.
 
-Our company has many **associates** in different departments.
+The sudden change created **turmoil** in the company.
 
-В нашей компании много сотрудников в разных отделах.
+Внезапные перемены вызвали в компании хаос.
 
-Can you **submit** your answers now?
+Can you **tug** this box for me, please?
 
-Можете ли вы отправить свои ответы сейчас?
+Не могли бы вы подтянуть для меня этот ящик?
 
-How would you **rate** your experience?
+Dust can **swirl** in the air.
 
-Как бы вы оценили свой опыт?
+Пыль может кружиться в воздухе.
 
-There was a small **pop** from the fire.
+It's **petty** to worry about such little things.
 
-Раздался тихий хлопок от огня.
+Мелочь — беспокоиться о таких мелочах.
 
-Read the **legend** on the map to find the river.
+Who is the **heir** to the throne?
 
-Прочитайте легенду на карте, чтобы найти реку.
+Кто является наследником престола?
 
-The group offered **acceptance** to the new student.
+I am **fond** of drinking tea in the morning.
 
-Группа предложила принять нового студента.
+Я люблю пить чай по утрам.
 
-The **globe** is round, like the Earth.
+You need a **robust** computer for playing video games.
 
-Земной шар круглый, как и Земля.
+Для видеоигр вам понадобится мощный компьютер.
 
-The teacher wrote a positive **remark** in my notebook.
+We need flour to make the **pastry**.
 
-Учительница написала в моей тетради положительную оценку.
+Для приготовления теста нам понадобится мука.
 
-The **hallway** is narrow and long.
+After the **sermon**, we went for coffee.
 
-Коридор узкий и длинный.
+После проповеди мы пошли пить кофе.
 
-He **flashed** a smile and waved goodbye.
+Many people respect the **clergy** in our town.
 
-Он улыбнулся и помахал рукой на прощание.
+Многие люди в нашем городе с уважением относятся к духовенству.
 
-We shared moments of **laughter** during our holiday.
+We **embark** on the train at the station.
 
-Во время нашего отпуска мы вместе смеялись.
+Мы садимся в поезд на станции.
 
-Many animals live on the **plain**.
+Don't **tout** something you don't believe in.
 
-На равнине обитает множество животных.
+Не рекламируйте то, во что вы не верите.
 
-The teacher will **rank** our presentations next week.
+This box is **sturdy** enough to hold books.
 
-На следующей неделе преподаватель оценит наши презентации.
+Эта коробка достаточно прочная, чтобы вместить книги.
 
-He felt the **intensity** of her gaze.
+I am **weary** of doing the same chores every day.
 
-Он почувствовал пристальный взгляд ее.
+Мне надоело каждый день выполнять одни и те же обязанности.
 
-The river makes a wide **curve** here.
+He used jokes to **elicit** a smile from her.
 
-Здесь река делает широкий изгиб.
+Он использовал шутки, чтобы вызвать у нее улыбку.
 
-He was **greatly** appreciated for his hard work.
+My neighbor is a **benign** person, always ready to help.
 
-Его очень ценили за упорный труд.
+Мой сосед — добрый человек, всегда готовый помочь.
 
-The **estimated** arrival time is 6 PM.
+My mom uses **foil** when she cooks chicken.
 
-Расчетное время прибытия — 18:00.
+Моя мама использует фольгу, когда готовит курицу.
 
-He is grateful for her **continuing** support.
+Let me **undo** my seatbelt, we have arrived.
 
-Он благодарен ей за постоянную поддержку.
+Позвольте мне отстегнуть ремень безопасности, мы прибыли.
 
-Please put the **notice** on the wall.
+Can I have a **pear**, please?
 
-Пожалуйста, повесьте объявление на стену.
+Можно мне грушу, пожалуйста?
 
-Don't **rip** the page out of the book!
+Can you buy some **parsley** at the store?
 
-Не вырывайте страницу из книги!
+Можно ли купить петрушку в магазине?
 
-The **essence** of this game is simple: have fun!
+The **tab** at the top says "Home".
 
-Суть этой игры проста: получайте удовольствие!
+Вкладка вверху имеет название «Главная».
 
-**Humanity** has made many great inventions.
+Sometimes, you have to **transcend** your fears to succeed.
 
-Человечество создало множество великих изобретений.
+Иногда, чтобы добиться успеха, нужно преодолеть свои страхи.
 
-I **consistently** practice English for an hour.
+The flowers are **lush** and colorful.
 
-Я регулярно практикую английский в течение часа.
+Цветы пышные и красочные.
 
-She wants to be a **surgeon** when she grows up.
+Let's **curb** the noise.
 
-Когда вырастет, она хочет стать хирургом.
+Давайте усмирим шум.
 
-He practiced his golf **swing** in the backyard.
+I touched the **bark** of the tree in the forest.
 
-Он практиковал удары по мячу на заднем дворе.
+Я прикоснулся к коре дерева в лесу.
 
-The teacher will **project** the lesson on the screen.
+We had an **implicit** agreement to share the costs.
 
-Учитель проецирует урок на экран.
+У нас было негласное соглашение о разделении расходов.
 
-The website will **facilitate** finding information.
+The team might **slump** if they lose this game.
 
-Сайт облегчит поиск информации.
+Команда может потерпеть неудачу, если проиграет эту игру.
 
-The lost balloon began to **drift** higher and higher.
+He likes to **scoop** water from the river.
 
-Потерянный шар начал подниматься все выше и выше.
+Ему нравится черпать воду из реки.
 
-It's **evident** that they are good friends.
+Don't **distort** my words; I said something different.
 
-Очевидно, что они хорошие друзья.
+Не искажайте мои слова; я сказал нечто другое.
 
-My friend recommends **counseling** to feel better.
+A **bud** is a promise of a new flower.
 
-Мой друг рекомендует обратиться за консультацией, чтобы почувствовать себя лучше.
+Бутон — это обещание нового цветка.
 
-It was a brief **encounter** but memorable.
+The **interim** manager will help us.
 
-Это была короткая, но памятная встреча.
+Временный управляющий нам поможет.
 
-Can you **pitch** me the keys, please?
+The media was in a **frenzy** after the important news broke.
 
-Можете ли вы передать мне ключи, пожалуйста?
+После появления важной новости СМИ были в восторге .
 
-We **await** the start of the movie.
+The thief may **lurk** near the bank.
 
-Ждем начала фильма.
+Вор может скрываться возле банка.
 
-The right **dose** is important.
+Reading a book by the fire is **cozy**.
 
-Правильная доза имеет важное значение.
+Чтение книги у камина дарит уют.
 
-Traffic can **delay** your journey.
+This phone has a very **sleek** look.
 
-Дорожное движение может задержать вашу поездку.
+У этого телефона очень элегантный вид.
 
-He didn't **excuse** her lie.
+We must protect the **fry** so they can survive.
 
-Он не оправдал ее ложь.
+Мы должны защитить мальков, чтобы они выжили.
 
-Is the **hostage** safe?
+We need to tighten this, there is too much **slack**.
 
-Заложник в безопасности?
+Нам нужно это подтянуть, слишком много люфта.
 
-Can you **reverse** the video to see that moment again?
+The **onset** of the music made everyone happy.
 
-Можете ли вы перемотать видео назад, чтобы увидеть этот момент еще раз?
+Начало музыки всех развеселило.
 
-Can you **leap** over this small wall?
+He told me some **crap** about why he was late.
 
-Сможете ли вы перепрыгнуть через эту небольшую стену?
+Он мне какую-то чушь сказал о причине своего опоздания.
 
-We are discussing the **ownership** of the land.
+This **crumb** is so small, I almost can't see it.
 
-Мы обсуждаем право собственности на землю.
+Эта крошка такая маленькая, что я ее почти не вижу.
 
-This box can **accommodate** all my books.
+The landscape was **bleak** with no trees or animals.
 
-В эту коробку поместятся все мои книги.
+Пейзаж был унылым, без деревьев и животных.
 
-I need a **companion** to visit the museum.
+We should keep our **precinct** clean.
 
-Мне нужен спутник для посещения музея.
+Мы должны содержать наш участок в чистоте.
 
-He needs to **rent** a truck to move his furniture.
+He sings in the **chapel** choir.
 
-Ему нужно арендовать грузовик, чтобы перевезти мебель.
+Он поет в хоре часовни.
 
-She is giving a **lecture** on history.
+We need to cut the tall **shrub**.
 
-Она читает лекцию по истории.
+Нам нужно срезать высокий кустарник.
 
-We can rent a **ski** at the resort.
+A hummingbird **darted** from flower to flower.
 
-На курорте можно взять напрокат лыжи.
+Колибри перелетала с цветка на цветок.
 
-They celebrated their **unity** with a party.
+The **veil** protected her from the sun.
 
-Они отпраздновали свое единство вечеринкой.
+Вуаль защищала ее от солнца.
 
-The election result gave the party a clear **mandate**.
+This **stew** is very tasty, can I have more?
 
-Результат выборов дал партии четкий мандат.
+Это рагу очень вкусное, можно мне ещё?
 
-She is **part** responsible for the mistake because she didn't check her work.
+He is accused of a serious **felony**.
 
-Она частично ответственна за ошибку, так как не проверила свою работу.
+Его обвиняют в совершении тяжкого преступления.
 
-**Overall**, the food was delicious.
+He made an **earnest** promise to help his friend.
 
-В целом еда была вкусной.
+Он дал искреннее обещание помочь своему другу.
 
-After a **while**, she understood.
+Is there a **plug** near the bed?
 
-Через некоторое время она поняла.
+Есть ли розетка возле кровати?
 
-They **trail** the birds to take pictures.
+"Good job!" is an **apt** comment after you finish your homework.
 
-Они следуют за птицами, чтобы сделать фотографии.
+«Молодец!» — уместный комментарий после того, как вы закончили выполнение домашнего задания.
 
-We need to reduce the **uncertainty** in the project.
+I will **dispatch** a letter tomorrow.
 
-Нам необходимо снизить неопределенность в проекте.
+Я отправлю письмо завтра.
 
-He works in the **regulatory** department of the company.
+The conductor will **wield** a baton during the concert.
 
-Он работает в нормативном отделе компании.
+Во время концерта дирижер будет управлять дирижерской палочкой.
 
-Her heavy **pant** showed how tired she was.
+The snow made a **crunch** under my boots.
 
-Ее тяжелые брюки показывали, насколько она устала.
+Снег хрустел под моими ботинками.
 
-She is the **supervisor** of the cleaning team.
+The officer had to **detain** the driver due to a broken tail light.
 
-Она является руководителем бригады по уборке.
+Сотруднику полиции пришлось задержать водителя из-за разбитого заднего фонаря.
 
-We all **age** over time.
+The news showed the **plight** of the people after the flood.
 
-Мы все со временем стареем.
+В новостях рассказывалось о бедственном положении людей после наводнения.
 
-Rules **govern** the game we play.
+He hopes to **reap** success after studying hard.
 
-Правила управляют игрой, в которую мы играем.
+Он надеется добиться успеха после усердной учебы.
 
-He lives in the **outer** suburbs of the city.
+We have a big party for all our **kin**.
 
-Он живет на окраине города.
+У нас большая вечеринка для всех наших родственников.
 
-We need to fight for **equity** and equal rights.
+We **reel** the rope up after climbing the mountain.
 
-Нам нужно бороться за справедливость и равные права.
+Поднявшись на гору, мы сматываем веревку.
 
-**Astronomers** can tell us about the universe.
+She never expected her best friend to become her **foe**.
 
-Астрономы могут рассказать нам о Вселенной.
+Она никогда не ожидала, что ее лучшая подруга станет ее врагом.
 
-My friend and I talk on the **sidewalk**.
+She felt bad when they began to **mock** her accent.
 
-Мы с другом разговариваем на тротуаре.
+Ей стало не по себе, когда они начали насмехаться над ее акцентом.
 
-The island has a boat **shuttle** service.
+I have a **fuzzy** idea about what to do.
 
-На острове курсирует лодочный трансфер.
+У меня смутное представление о том, что делать.
 
-He feels nervous because he is a **freshman**.
+We need to close the **hatch** now.
 
-Он нервничает, потому что он новичок.
+Нам нужно закрыть люк сейчас же.
 
-Working for a long time can give you a good **pension**.
+The children like to **hurl** snowballs at each other.
 
-Длительная работа может обеспечить вам хорошую пенсию.
+Дети любят бросать друг в друга снежки.
 
-The **complexity** of life can be overwhelming.
+He found a **hollow** space under the stairs.
 
-Сложность жизни может быть ошеломляющей.
+Под лестницей он нашел пустое пространство.
 
-The **slide** is made of colorful plastic.
+The climber knew the **peril** of the high mountain.
 
-Горка изготовлена из цветного пластика.
+Альпинист знал всю опасность высокой горы.
 
-She will **administer** the project next month.
+**Poultry** needs a safe place to sleep at night.
 
-Она будет руководить проектом в следующем месяце.
+Птице необходимо безопасное место для сна ночью.
 
-Doctors **survey** your body to check if everything is okay.
+Good communication can **avert** misunderstandings.
 
-Врачи обследуют ваше тело, чтобы проверить, все ли в порядке.
-
-Let's find a **compromise** so we can agree.
-
-Давайте найдем компромисс, чтобы прийти к согласию.
-
-Seeing him again might **trigger** her sadness.
-
-Увидев его снова, она могла бы почувствовать грусть.
-
-The silence in the room was **profound**.
-
-В комнате повисла гробовая тишина.
-
-The government respects the **judicial** branch of power.
-
-Правительство уважает судебную ветвь власти.
-
-Can I **enroll** online, or do I need to come in person?
-
-Могу ли я зарегистрироваться онлайн или мне нужно прийти лично?
-
-She had a **continuous** headache for three days.
-
-У нее в течение трех дней была постоянная головная боль.
-
-The **adoption** process can take a long time.
-
-Процесс усыновления может занять много времени.
-
-Salt contains **sodium** chloride.
-
-Соль содержит хлорид натрия.
-
-The main **driving** motor is very old.
-
-Главный приводной двигатель очень старый.
-
-We can buy a new car with our **saving**.
-
-На наши сбережения мы можем купить новую машину.
-
-Please **tune** the TV to channel five.
-
-Пожалуйста, настройте телевизор на пятый канал.
-
-We should respect the **indigenous** culture.
-
-Мы должны уважать культуру коренных народов.
-
-The ball landed in the **mean** of the field.
-
-Мяч приземлился в середине поля.
-
-The company has a **virtual** office, so everyone works from home.
-
-У компании виртуальный офис, поэтому все работают из дома.
-
-The problem is **seemingly** simple, but it's actually quite complex.
-
-Проблема кажется простой, но на самом деле она довольно сложна.
-
-Doctors use **radiation** to treat some illnesses.
-
-Врачи используют радиацию для лечения некоторых заболеваний.
-
-I planned my **departure** carefully.
-
-Я тщательно спланировал свой отъезд.
-
-I am the **recipient** of your kind letter.
-
-Я получил Ваше любезное письмо.
-
-He **advocates** that everyone learns a new language.
-
-Он выступает за то, чтобы каждый изучал новый язык.
-
-The **juror** made a decision.
-
-Присяжные вынесли решение.
-
-Body language can **convey** your emotions.
-
-Язык тела может передать ваши эмоции.
-
-We can see a bird **colony** on that island.
-
-На этом острове мы видим колонию птиц.
-
-He followed the **guidance** and succeeded.
-
-Он последовал указаниям и добился успеха.
-
-The doctor used a **needle** for the injection.
-
-Врач использовал иглу для инъекции.
-
-That bad news was a real **blow** to him.
-
-Эта плохая новость стала для него настоящим ударом.
-
-Learning a new language is a **meaningful** goal.
-
-Изучение нового языка — это значимая цель.
-
-The artist painted a **delicate** picture.
-
-Художник нарисовал нежную картину.
-
-Our **counterpart** in London has more experience.
-
-У нашего коллеги в Лондоне больше опыта.
-
-She was happy with her recent **acquisition**: a new bicycle.
-
-Она была рада своему недавнему приобретению: новому велосипеду.
-
-We must be aware of our own **bias**.
-
-Мы должны осознавать нашу собственную предвзятость.
-
-He has a summer **residence** by the sea.
-
-У него есть летняя резиденция на берегу моря.
-
-He wants a **wider** screen for his computer.
-
-Ему нужен более широкий экран для компьютера.
-
-My goal is to improve my **fitness** this year.
-
-Моя цель — улучшить свою физическую форму в этом году.
-
-Our **scout** gave us important information.
-
-Наш разведчик дал нам важную информацию.
-
-It took a long time to get the correct **diagnosis**.
-
-Потребовалось много времени, чтобы поставить правильный диагноз.
-
-He holds the **conviction** that everyone deserves a second chance.
-
-Он убежден, что каждый заслуживает второго шанса.
-
-I think his **intent** is very clear.
-
-Я думаю, его намерения предельно ясны.
-
-We should be kind to **elderly** people.
-
-Мы должны быть добры к пожилым людям.
-
-I want to **fund** the animal shelter.
-
-Я хочу профинансировать приют для животных.
-
-She uses a simple **framework** for her daily tasks.
-
-Для своих повседневных задач она использует простую структуру.
-
-We are studying the **formation** of mountains.
-
-Мы изучаем образование гор.
-
-The **engagement** is at 7 pm.
-
-Помолвка состоится в 19:00.
-
-You can ask the **commissioner** about the new rules.
-
-Вы можете спросить комиссара о новых правилах.
-
-The singer made a **controversial** statement on TV.
-
-Певица сделала спорное заявление на телевидении.
-
-It was a **modest** little house, but it was perfect for them.
-
-Это был скромный маленький домик, но он идеально им подошел.
-
-He spent all his **earnings** on a new bike.
-
-Он потратил все свои заработки на новый велосипед.
-
-The doctor asked about my **admission** to the hospital last year.
-
-Врач спросил о моей госпитализации в прошлом году.
-
-My worries will **diminish** when I finish the exam.
-
-Мои тревоги уменьшатся, когда я сдам экзамен.
-
-I like listening to the **musician** at the cafe.
-
-Мне нравится слушать музыканта в кафе.
-
-I have no **preference**; anything is fine with me.
-
-У меня нет предпочтений, меня все устраивает.
-
-The mountains **frame** the small village.
-
-Горы обрамляют небольшую деревню.
-
-Many people **endorse** the idea of recycling.
-
-Многие люди поддерживают идею переработки отходов.
-
-It's important to **absorb** new information when you study.
-
-Во время учебы важно усваивать новую информацию.
-
-It is important to **educate** kids about being kind.
-
-Важно воспитывать в детях доброту.
-
-Our school **differs** from other schools.
-
-Наша школа отличается от других школ.
-
-My **principal** goal this year is to pass my exams.
-
-Моя главная цель в этом году — сдать экзамены.
-
-Her English is **adequate** to understand the lesson.
-
-Ее уровень английского достаточен для понимания урока.
-
-She is training to be in the **corps**.
-
-Она готовится к службе в корпусе.
-
-We **assert** our opinion about the movie.
-
-Мы высказываем свое мнение о фильме.
-
-The **composition** of the team is diverse, with different skills.
-
-Состав команды разнообразен, с разными навыками.
-
-Washing hands is a simple **prevention** method.
-
-Мытье рук — простой метод профилактики.
-
-We need to **rate** the importance of these tasks.
-
-Нам необходимо оценить важность этих задач.
-
-She wants to **submit** her photo to the contest.
-
-Она хочет отправить свою фотографию на конкурс.
-
-The football **pitch** is near my house.
-
-Футбольное поле находится недалеко от моего дома.
-
-He changed his **major** to art.
-
-Он сменил специальность на искусство.
-
-Keep a **margin** between you and the car in front.
-
-Сохраняйте дистанцию между вами и автомобилем впереди.
-
-The zoo will **exhibit** a rare bird from South America.
-
-В зоопарке будет представлена редкая птица из Южной Америки.
-
-Always read the label before taking any **medication**.
-
-Перед приемом любого лекарства всегда читайте этикетку.
-
-He is a new **associate** at the office.
-
-Он новый сотрудник в офисе.
-
-A new law must be approved by the **legislature**.
-
-Новый закон должен быть одобрен законодательным органом.
-
-It's easy to **overlook** mistakes when you are tired.
-
-Когда вы устали, легко не заметить ошибки.
-
-First, add the flour. **Subsequent** to that, add the eggs.
-
-Сначала добавляем муку, затем добавляем яйца.
-
-They are trying to **recruit** the best players for the team.
-
-Они пытаются набрать в команду лучших игроков.
-
-Having a good **counsel** is important in a legal case.
-
-В юридическом деле важно иметь хорошего адвоката.
-
-It's important to think about **ethics** when making choices.
-
-Принимая решения, важно учитывать этические аспекты.
-
-The **plain** is a good place to build a road.
-
-Равнина — хорошее место для строительства дороги.
-
-His **remark** made her angry.
-
-Его замечание ее разозлило.
-
-The **legend** on the statue tells a story.
-
-Легенда на статуе рассказывает историю.
-
-The **surgeon** saved his life.
-
-Хирург спас ему жизнь.
-
-People **rank** this restaurant highly for its good food.
-
-Люди высоко оценивают этот ресторан за его хорошую еду.
-
-He tried to **reverse** his mistake, but it was too late.
-
-Он попытался исправить свою ошибку, но было слишком поздно.
-
-**Acceptance** of differences makes the world better.
-
-Принятие различий делает мир лучше.
-
-Don't **delay**, call the doctor now!
-
-Не откладывайте, вызывайте врача прямо сейчас!
-
-That is the **estimated** number of people who will come.
-
-Это предполагаемое количество людей, которые придут.
-
-How much does it cost to **rent** a bicycle?
-
-Сколько стоит аренда велосипеда?
-
-Sometimes, **laughter** is the best medicine for sadness.
-
-Иногда смех — лучшее лекарство от грусти.
-
-We **greatly** miss you when you are away.
-
-Мы очень скучаем по тебе, когда тебя нет дома.
-
-Will you **excuse** him this time?
-
-Вы простите его на этот раз?
-
-With one **swing** of his axe, he cut the wood.
-
-Одним взмахом топора он разрубил дерево.
-
-Let's **pitch** our ideas to the boss.
-
-Давайте представим наши идеи боссу.
-
-The **essence** of the story is about hope.
-
-Суть истории — в надежде.
-
-The problem is **evident**, we need more help.
-
-Проблема очевидна, нам нужна дополнительная помощь.
-
-The sun **flashed** on the water.
-
-Солнце сверкало на воде.
-
-The **intensity** of the rain surprised us.
-
-Интенсивность дождя нас удивила.
-
-She has a nice **curve** in her handwriting.
-
-У нее красивый изогнутый почерк.
-
-The cheese **aged** for six months.
-
-Сыр выдерживается шесть месяцев.
-
-With each **pant**, he tried to catch his breath.
-
-С каждым вздохом он пытался отдышаться.
-
-The movie lasted quite a **while**.
-
-Фильм длился довольно долго.
-
-**Sodium** is a soft, silver-white metal.
-
-Натрий — мягкий металл серебристо-белого цвета.
-
-He is a famous **astronomer** from our country.
-
-Он известный астроном из нашей страны.
-
-He received a **judicial** order to stop.
-
-Он получил судебное предписание остановиться.
-
-We took notes during the **lecture**.
-
-Во время лекции мы делали заметки.
-
-Let's go to the playground and play on the **slide**!
-
-Давайте пойдем на детскую площадку и поиграем на горке!
-
-Energy **saving** is important for the environment.
-
-Экономия энергии важна для окружающей среды.
-
-The weather is **seemingly** getting better, so we can go outside.
-
-Погода, похоже, улучшается, и мы можем выйти на улицу.
-
-We can **trail** the map to find the treasure.
-
-Мы можем проследить карту, чтобы найти сокровище.
-
-**Overall**, the project was a success.
-
-В целом проект оказался успешным.
-
-Providing **equity** helps build a stronger community.
-
-Предоставление справедливости помогает построить более сильное сообщество.
-
-The house is in the **mean** of the town.
-
-Дом находится в центре города.
-
-This **ski** is too long for me.
-
-Эти лыжи слишком длинные для меня.
-
-The museum shows many artifacts from the **indigenous** population.
-
-В музее представлено множество артефактов, принадлежащих коренному населению.
-
-The **freshman** students are learning the rules.
-
-Первокурсники изучают правила.
-
-**Regulatory** inspections help protect people.
-
-Проверки со стороны регулирующих органов помогают защитить людей.
-
-I **part** understand the lesson, but I need more explanation.
-
-Я частично понял урок, но мне нужны дополнительные объяснения.
-
-He decided to **enroll** in a cooking course.
-
-Он решил записаться на кулинарные курсы.
+Хорошее общение может предотвратить недоразумения.

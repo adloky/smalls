@@ -1,10 +1,6 @@
 ﻿<config freqGroupsPos="1">
 
-# Short Stories by George Saunders (B2)
-
-# Рассказы, Джордж Сондерс
-
-# CIVILWARLAND  IN BAD DECLINE
+# CIVILWARLAND  IN BAD DECLINE by George Saunders
 
 # ГРАЖДАНСКАЯ ВОЙНА В ПЛОХОМ УПАДЕНИИ
 
