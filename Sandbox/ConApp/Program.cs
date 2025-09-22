@@ -2114,31 +2114,40 @@ namespace ConApp {
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
+            var ps = File.ReadAllLines(@"d:\Projects\smalls\bins\pron-ru.txt").Select(x => x.Split(' ')).ToDictionary(x => x[0], x => x[1]);
+            var ss = Enumerable.Range(10, 20).Select(x => File.ReadAllLines($"d:/Projects/smalls/conen/0{x}.txt")).SelectMany(x => x).Select(x => x.Split('|')[0].Trim()).ToArray();
+            var lrs = new List<string>();
+            var rs = new List<string>();
+            var wRe = new Regex("[a-z']+", RegexOptions.IgnoreCase | RegexOptions.Compiled);
+            var l = 0;
+            foreach (var s in ss) {
+                if (s.Contains("{")) {
+                    rs.AddRange(lrs);
+                    lrs.Clear();
+                    continue;
+                }
+                if (lrs.Count >= 5) continue;
+                var r = handleString(s, wRe, (x,m) => {
+                    x = x.ToLower();
+                    if (ps.TryGetValue(x, out var v)) {
+                        if (v.Length > 8) return x;
+                        return v;
+                    }
+
+                    return x;
+                });
+
+                if (wRe.IsMatch(r)) continue;
+
+                lrs.Add($"{s} | {r}");
+            }
+
+            File.WriteAllLines(@"d:\Projects\smalls\bins\con-ru.txt", rs.Random());
+
             //exportComics("003", 10);
 
             //genSamples(@"d:\words-7k.txt");
             //rndSamples(@"d:\words-7k-2.txt");
-            var rs = new List<string>();
-            var path = @"d:\Projects\smalls\pron.txt";
-            File.ReadAllLines(path).Select(x => x.Split(' ')).ToList().ForEach(ss => {
-                var k = ss[0];
-                var vs = ss.Skip(1).ToArray();
-                var st = -1;
-                for (var i = 0; i < vs.Length; i++) {
-                    var v = vs[i];
-                    if (v.Contains("2") && st == -1 || v.Contains("1")) {
-                        st = i;
-                        if (v.Contains("1")) break;
-                    }
-                }
-                var r = string.Join("", vs.Select((v, i) => i == st ? cmu[v] : cmu[v].ToLower()));
-                if (Regex.Matches(r, @"[аоуыиэяеёю]", RegexOptions.IgnoreCase).Count < 2) {
-                    r = r.ToLower();
-                }
-                
-                rs.Add($"{k} {r}");
-            });
-            File.WriteAllLines(pathEx(path, "-ru"), rs);
 
             /*
             var path = "d:/words-7k-2.txt";
