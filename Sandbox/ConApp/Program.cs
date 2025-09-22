@@ -159,13 +159,11 @@ namespace ConApp {
 
         static Program() {
             // extend cmu
-            cmu.Where(kv => kv.Key.Length == 2 && "AEIOU".Contains(kv.Key.Substring(0, 1))).ToList().ForEach(kv => {
+            cmu.Where(kv => kv.Key.Length == 2 && "AEIOU".Contains(kv.Key[0])).ToList().ForEach(kv => {
                 for (var i = 0; i < 3; i++) {
-                    var v = (i == 1 ? char.ToUpper(kv.Value[0]) : kv.Value[0]) + kv.Value.Substring(1);
                     var k = $"{kv.Key}{i}";
-                    if (cmu.ContainsKey(k))
-                        continue;
-                    cmu.Add(k, v);
+                    if (cmu.ContainsKey(k)) continue;
+                    cmu.Add(k, kv.Value);
                 }
             });
         }
@@ -500,14 +498,14 @@ namespace ConApp {
         #region RU PRON
 
         static Dictionary<string, string> cmu = new Dictionary<string, string>() {
-            { "AA", "а" }, { "AE", "э" }, { "AH0", "э" }, { "AH", "а" }, { "AO", "о" },
-            { "AW", "ау" }, { "AY", "ай" }, { "EH", "е" }, { "ER", "эр" }, { "EY", "ей" },
-            { "IH", "ы" }, { "IY", "и" }, { "OW", "oу" }, { "OY", "ой" }, { "UH", "у" },
-            { "UW", "у" }, { "B", "б" }, { "CH", "ч" }, { "D", "д" }, { "DH", "ð" },
-            { "F", "ф" }, { "G", "г" }, { "HH", "х" }, { "JH", "дж" }, { "K", "к" },
-            { "L", "л" }, { "M", "м" }, { "N", "н" }, { "NG", "н" }, { "P", "п" },
-            { "R", "р" }, { "S", "с" }, { "SH", "ш" }, { "T", "т" }, { "TH", "θ" },
-            { "V", "в" }, { "W", "у" }, { "Y", "й" }, { "Z", "з" }, { "ZH", "ж" },
+            { "AA", "А" }, { "AE", "Э" }, { "AH0", "Э" }, { "AH", "А" }, { "AO", "О" },
+            { "AW", "Ау" }, { "AY", "Ай" }, { "EH", "Е" }, { "ER", "Эр" }, { "EY", "Ей" },
+            { "IH", "Ы" }, { "IY", "И" }, { "OW", "Oу" }, { "OY", "Ой" }, { "UH", "У" }, { "UW", "У" },
+            { "B", "б" }, { "CH", "ч" }, { "D", "д" }, { "DH", "д" }, { "F", "ф" },
+            { "G", "г" }, { "HH", "х" }, { "JH", "дж" }, { "K", "к" }, { "L", "л" },
+            { "M", "м" }, { "N", "н" }, { "NG", "н" }, { "P", "п" }, { "R", "р" },
+            { "S", "с" }, { "SH", "ш" }, { "T", "т" }, { "TH", "т" }, { "V", "в" },
+            { "W", "у" }, { "Y", "й" }, { "Z", "з" }, { "ZH", "ж" },
         };
 
         static Dictionary<string, string> _prons;
@@ -2119,7 +2117,29 @@ namespace ConApp {
             //exportComics("003", 10);
 
             //genSamples(@"d:\words-7k.txt");
-            rndSamples(@"d:\words-7k-2.txt");
+            //rndSamples(@"d:\words-7k-2.txt");
+            var rs = new List<string>();
+            var path = @"d:\Projects\smalls\pron.txt";
+            File.ReadAllLines(path).Select(x => x.Split(' ')).ToList().ForEach(ss => {
+                var k = ss[0];
+                var vs = ss.Skip(1).ToArray();
+                var st = -1;
+                for (var i = 0; i < vs.Length; i++) {
+                    var v = vs[i];
+                    if (v.Contains("2") && st == -1 || v.Contains("1")) {
+                        st = i;
+                        if (v.Contains("1")) break;
+                    }
+                }
+                var r = string.Join("", vs.Select((v, i) => i == st ? cmu[v] : cmu[v].ToLower()));
+                if (Regex.Matches(r, @"[аоуыиэяеёю]", RegexOptions.IgnoreCase).Count < 2) {
+                    r = r.ToLower();
+                }
+                
+                rs.Add($"{k} {r}");
+            });
+            File.WriteAllLines(pathEx(path, "-ru"), rs);
+
             /*
             var path = "d:/words-7k-2.txt";
             var ss = File.ReadAllLines(path);
