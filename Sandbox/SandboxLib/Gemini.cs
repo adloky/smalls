@@ -11,7 +11,7 @@ namespace Sandbox {
     public class Gemini {
         public static string Get(string s, byte[] img = null) {
             s = s.Replace(@"\", @"\\").Replace(@"""", @"\""").Replace("\r", @"\r").Replace("\n", @"\n");
-            var url = $"https://generativelanguage.googleapis.com/v1/models/gemini-2.0-flash:generateContent?key={SandboxConfig.Default["geminiKey"]}";
+            var url = $"https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent?key={SandboxConfig.Default["geminiKey"]}";
             var request = WebRequest.Create(url);
             request.Method = "POST";
             request.ContentType = "application/json";
