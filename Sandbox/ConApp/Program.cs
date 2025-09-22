@@ -1653,8 +1653,8 @@ namespace ConApp {
                 }
 
                 r += (levelN == 0)
-                    ? $"замени, по возможности, в тексте на английском слова за пределами {rLevel}-уровня знания английского на частоупотребляемые синонимы, верни только результирующий текст:\r\n" + s.Substring(pre.Length)
-                    : $"замени, по возможности, в тексте на английском слова за пределами {levelN} рейтинга частоты употребления слов на частоупотребляемые синонимы, верни только результирующий текст:\r\n" + s.Substring(pre.Length);
+                    ? $"If possible, replace only words in the English text that are outside the {rLevel} level with frequently used synonyms; return only the resulting text:\r\n" + s.Substring(pre.Length)
+                    : $"If possible, replace only words in the English text that are outside the {levelN} word frequency rating with more frequent synonyms; return only the resulting text:\r\n" + s.Substring(pre.Length);
 
                 //                r = "Адаптируй текст для понимания на B1-уровне знания английского, а также ";
                 //                r += "замени, по возможности, слова за пределами B2-уровня знания английского на частоупотребляемые синонимы, верни только результат:\r\n" + s.Substring(pre.Length);
@@ -2114,36 +2114,6 @@ namespace ConApp {
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
-            var ps = File.ReadAllLines(@"d:\Projects\smalls\bins\pron-ru.txt").Select(x => x.Split(' ')).ToDictionary(x => x[0], x => x[1]);
-            var ss = Enumerable.Range(10, 20).Select(x => File.ReadAllLines($"d:/Projects/smalls/conen/0{x}.txt")).SelectMany(x => x).Select(x => x.Split('|')[0].Trim()).ToArray();
-            var lrs = new List<string>();
-            var rs = new List<string>();
-            var wRe = new Regex("[a-z']+", RegexOptions.IgnoreCase | RegexOptions.Compiled);
-            var l = 0;
-            foreach (var s in ss) {
-                if (s.Contains("{")) {
-                    rs.AddRange(lrs);
-                    lrs.Clear();
-                    continue;
-                }
-                if (lrs.Count >= 5) continue;
-                var r = handleString(s, wRe, (x,m) => {
-                    x = x.ToLower();
-                    if (ps.TryGetValue(x, out var v)) {
-                        if (v.Length > 8) return x;
-                        return v;
-                    }
-
-                    return x;
-                });
-
-                if (wRe.IsMatch(r)) continue;
-
-                lrs.Add($"{s} | {r}");
-            }
-
-            File.WriteAllLines(@"d:\Projects\smalls\bins\con-ru.txt", rs.Random());
-
             //exportComics("003", 10);
 
             //genSamples(@"d:\words-7k.txt");
@@ -2203,8 +2173,8 @@ namespace ConApp {
 
             //genStories(@"d:/stories-0.txt", 3);
 
-            //geminiSplit(@"d:\.temp\reader-28-orig.txt");
-            //geminiAdapt(@"d:\.temp\reader-28.txt", "8000", true);
+            //geminiSplit(@"d:\.temp\reader-43-orig.txt");
+            geminiAdapt(@"d:\.temp\reader-43.txt", "B2", true);
 
             //mdMonitor(); return; // mdPostCom
 
