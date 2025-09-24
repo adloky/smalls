@@ -470,7 +470,7 @@ namespace ConApp {
         static Regex fgAmpRe = new Regex("['’]");
 
         static IEnumerable<(string x, int g, string pos)> freqGrouping(string s, Dictionary<string, int> dic = null, bool wPos = false) {
-            var posEx = new[] { null, "имя", "междометие" };
+            var posEx = new[] { null, "имя", "междометие", "числительное" };
             dic = dic ?? getFreqGroups(wPos);
             var xs = wPos ? getPos(s) : getNullPos(s);
             foreach (var x in xs) {
@@ -1655,39 +1655,68 @@ namespace ConApp {
             File.WriteAllLines(pathEx(path, "-split"), rs);
         }
 
-        static void geminiAdapt(string path, string level, bool onlyReplace = false) {
-            var levels = new[] { "A1", "A2", "B1", "B2", "C1", "C2", };
-            level = level.ToUpper();
-            var levelN = 0;
-            int.TryParse(level, out levelN);
-            var rLevel = levelN != 0 ? "C2" : levels.SkipWhile(x => x != level).Skip(1).First();
+        static Dictionary<string, string> partEng = new Dictionary<string, string> {
+            { "артикль", "article" }, { "глагол", "verb" }, { "местоимение", "pronoun" }, { "наречие", "adverb" },
+            { "предлог", "preposition" }, { "прилагательное", "adjective" }, { "союз", "conjunction" },
+            { "существительное", "noun" }, { "числительное", "number" }, { "междометие", "interjection" }, { "определитель", "determiner" },
+        };
+
+
+        static string normForAdapt(string s) {
+            var di = DicItem.Parse(s);
+            di.key = di.key.ToLower();
+            if (di.pos == "глагол" || di.pos == "существительное" && !di.key.EndsWith("ing") || di.pos == "прилагательное" && !di.key.EndsWith("ing") && !di.key.EndsWith("ed")) {
+                di.key = getDicVal(di.key, di.key, lemmas);
+            }
+
+            di.pos = getDicVal(di.pos, "other", partEng);
+
+            return $"{di.key} ({di.pos})";
+        }
+
+        static void geminiAdapt(string path, params object[] p) {
+            var freq = p.OfType<int>().FirstOrDefault();
+            var level = p.OfType<string>().Select(x => x.ToUpper()).FirstOrDefault();
+            var bs = new HashSet<string>();
+            var dic = freq == 0 ? null : getFreqGroups(true, new[] { freq });
+            if (freq > 0) {
+                var _xs = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt")
+                    .Select(x => DicItem.Parse(x))
+                    .Where(x => x.rank < freq * 0.66)
+                    .Select(x => LancasterStemmer.Stem(x.key.ToLower()))
+                    .Distinct();
+                bs = new HashSet<string>(_xs);
+            }
             
             var pathRu = pathEx(path, "-adapt");
             if (!File.Exists(pathRu)) File.WriteAllText(pathRu, "");
             var skip = File.ReadAllText(pathRu).Split(new[] { "\r\n---\r\n" }, ssop).Length;
             var ss = File.ReadAllText(path).Split(new[] { "\r\n---\r\n" }, ssop).Skip(skip).ToArray();
             var i = 0;
-            foreach (var s in ss) {
+            foreach (var _s in ss) {
                 if (ctrlC) break;
-                //var r = "Адаптируй текст для понимания на B1-уровне знания английского, верни только результат:\r\n" + s;
-                //var r = "Замени низкочастотные слова на высокочастотные синонимы B2-уровня знания английского и верни только результат:\r\n" + s;
-                //var r = "Замени редкоупотребляемые слова на частоупотребляемые синонимы B2-уровня знания английского, а также адаптируй текст для B1-уровня и верни только результат:\r\n" + s;
 
-                var pre = adaptKeepRe.Matches(s).Cast<Match>().Select(m => m.Value).FirstOrDefault() ?? "";
+                var pre = adaptKeepRe.Matches(_s).Cast<Match>().Select(m => m.Value).FirstOrDefault() ?? "";
+                var s = _s.Substring(pre.Length);
+
                 var r = "";
-                if (!onlyReplace) {
-                    r = $"Адаптируй текст для понимания на {level}-уровне знания английского, а также ";
+                if (level != null) {
+                    r = $"Adapt the English text for understanding at the {level} level of English proficiency. ";
                 }
 
-                r += (levelN == 0)
-                    ? $"If possible, replace only words in the English text that are outside the {rLevel} level with frequently used synonyms; return only the resulting text:\r\n" + s.Substring(pre.Length)
-                    : $"If possible, replace only words in the English text that are outside the {levelN} word frequency rating with more frequent synonyms; return only the resulting text:\r\n" + s.Substring(pre.Length);
+                if (freq > 0) {
+                    var rws = freqGrouping(s, dic, true).Where(x => x.g > -1).Select(x => normForAdapt($"{x.x} {{{x.pos}}}")).Distinct()
+                        .Where(x => !bs.Contains(LancasterStemmer.Stem(x.Split(' ')[0]))).ToArray();
 
-                //                r = "Адаптируй текст для понимания на B1-уровне знания английского, а также ";
-                //                r += "замени, по возможности, слова за пределами B2-уровня знания английского на частоупотребляемые синонимы, верни только результат:\r\n" + s.Substring(pre.Length);
+                    if (rws.Length > 0) {
+                        r += $"If possible, in the text, replace the following words: {string.Join(", ", rws)}; with more frequent synonyms. ";
+                    }
+                }
+
+                r += $"Return only the resulting not markdown text. Next comes the text itself:\r\n{s}"; 
 
                 var s2 = (string)null;
-                if (s == pre) {
+                if (_s == pre) {
                     s2 = "";
                 }
                 else {
@@ -2201,10 +2230,10 @@ namespace ConApp {
             //genStories(@"d:/stories-0.txt", 3);
 
             //geminiSplit(@"d:\.temp\reader-43-orig.txt");
-            //geminiAdapt(@"d:\.temp\reader-43.txt", "C1", true);
+            geminiAdapt(@"d:\.temp\reader-43.txt", 9000);
 
             //mdHandle(@"d:\Projects\smalls\english-readers-43o.md");
-            mdMonitor(); return; // mdPostCom
+            //mdMonitor(); return; // mdPostCom
 
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
             //serRename(@"e:\videos\Parks\S02");
