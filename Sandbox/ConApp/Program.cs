@@ -340,14 +340,11 @@ namespace ConApp {
                 });
         }
 
-        static IEnumerable<string> getLemmaForms(string s, bool strick = false) {
+        static IEnumerable<string> getLemmaForms(string s) {
             s = s.ToLower();
             var posIndex = s.IndexOf(" {");
             var pos = posIndex > -1 ? s.Substring(posIndex) : "";
             s = s.Substring(0, s.Length - pos.Length);
-            if (lemmas.ContainsKey(s) && !strick) {
-                s = lemmas[s];
-            }
 
             var r = Enumerable.Repeat($"{s}{pos}", 1);
             if (lemmaForms.ContainsKey(s)) {
@@ -366,16 +363,35 @@ namespace ConApp {
             return (lemmas.ContainsKey(s.ToLower()) ? lemmas[s] : s) + part;
         }
 
-        static Dictionary<string, int> freqGroups {
-            get => _freqGroups ?? (_freqGroups = loadFreqGroups(getDicVal("freqGroupsPath", @"d:\Projects\smalls\freq-20k.txt", SandboxConfig.Default), SandboxConfig.Default["freqGroups"].Split(',').Select(x => int.Parse(x)).ToArray()));
-        }
-
-        static Dictionary<string, int> _freqGroups;
-
         static Regex dicRankRe = new Regex(@"^\d+ ", RegexOptions.Compiled);
 
-        static Dictionary<string, int> loadFreqGroups(string path, int[] levels, bool wPos = false) {
-            var r = new Dictionary<string, int>();
+        static Dictionary<string, int> getFreqGroups(bool wPos, string levels, string path = null, DateTime pathTime = default(DateTime)) {
+            var ls = levels.Split(',').Select(x => int.Parse(x)).ToArray();
+            return getFreqGroups(wPos, ls, path, pathTime);
+        }
+
+        static Dictionary<string, DateTime> freqGroupsPathTimes = new Dictionary<string, DateTime>();
+
+        static Dictionary<string, int> getFreqGroups(bool wPos, int[] levels = null, string path = null, DateTime pathTime = default(DateTime)) {
+            if (levels == null) {
+                levels = SandboxConfig.Default["freqGroups"].Split(',').Select(x => int.Parse(x)).ToArray();
+            }
+            if (path == null) {
+                path = "d:/projects/smalls/freq-20k.txt";
+            }
+            path = path.ToLower().Replace("\\", "/");
+            if (pathTime == default(DateTime)) {
+                if (!freqGroupsPathTimes.TryGetValue(path, out pathTime)) {
+                    pathTime = File.GetLastWriteTime(path);
+                    freqGroupsPathTimes.Add(path, pathTime);
+                }
+            }
+
+            var cacheKey = $"{wPos}|{string.Join(",", levels)}|{path}|{pathTime:s}";
+            var freqDic = freqGroupsCache.Where(x => x.k == cacheKey).FirstOrDefault().d;
+            if (freqDic != null) return freqDic;
+
+            freqDic = new Dictionary<string, int>();
             var exsPath = pathEx(path, "-excepts");
             var exs = new HashSet<string>();
             if (File.Exists(exsPath)) {
@@ -405,12 +421,16 @@ namespace ConApp {
                 while (i > levels[g]) {
                     g++;
                 }
-                getLemmaForms(w, true).ToList().ForEach(f => {
+                getLemmaForms(w).ToList().ForEach(f => {
                     if (f.Length == 1) return;
-                    r[f] = g - 1;
+                    freqDic[f] = g - 1;
                 });
             });
-            return r;
+
+            freqGroupsCache.Enqueue((cacheKey, freqDic));
+            while (freqGroupsCache.Count > 5) freqGroupsCache.Dequeue();
+
+            return freqDic;
         }
 
         static Regex freqGoupSymRe = new Regex(@"[^a-z]", RegexOptions.IgnoreCase | RegexOptions.Compiled);
@@ -431,7 +451,7 @@ namespace ConApp {
         static Regex fgAmpRe = new Regex("['’]");
         static Regex fgPosRe = new Regex(@"\{(.*?)\}");
         static string freqGrouping(string s, bool white = false, Dictionary<string,int> dic = null, bool wPos = false) {
-            dic = dic ?? freqGroups;
+            dic = dic ?? getFreqGroups(wPos);
             //if (Tag.Parse(s).Length > 0) return s;
             var cs = freqGroupColors[white ? 0 : 1];
             s = handleWPos(s, wPos, (x, x2) => {
@@ -1427,7 +1447,7 @@ namespace ConApp {
 
         static Regex hRe = new Regex(@"h\d", RegexOptions.Compiled | RegexOptions.IgnoreCase);
 
-        static Queue<(string k, Dictionary<string, int> d)> mdCache = new Queue<(string k, Dictionary<string, int> d)>();
+        static Queue<(string k, Dictionary<string, int> d)> freqGroupsCache = new Queue<(string k, Dictionary<string, int> d)>();
 
         static T getDicVal<T>(string key, T def, params Dictionary<string, T>[] ds) {
             foreach (var d in ds) {
@@ -1442,11 +1462,11 @@ namespace ConApp {
             var ss = File.ReadAllLines(path).ToList();
 
             #region config
-
+            SandboxConfig.Reread();
             var confTag = ss.Take(10).SelectMany(x => Tag.Parse(x)).Where(t => t.name == "config").FirstOrDefault() ?? new Tag() { name = "config" };
             var freqGroupsPath = getDicVal("freqGroupsPath", "d:/Projects/smalls/freq-20k.txt", confTag.attr, SandboxConfig.Default);
             var freqGroupsPos = getDicVal("freqGroupsPos", "0", confTag.attr, SandboxConfig.Default) == "1";
-            var freqGroups = getDicVal("freqGroups", "1500,2500,3800,5500,11000", confTag.attr, SandboxConfig.Default).Split(',').Select(x => int.Parse(x)).ToArray();
+            var freqGroups = getDicVal("freqGroups", "1500,2500,4000,6500,11000", confTag.attr, SandboxConfig.Default);
             var mdPostStr = getDicVal("mdPost", null, confTag.attr, SandboxConfig.Default);
             var cdn = getDicVal("cdn", "0", confTag.attr, SandboxConfig.Default) == "1";
 
@@ -1454,14 +1474,7 @@ namespace ConApp {
                 typeof(Func<IEnumerable<string>, IEnumerable<string>>), null,
                 typeof(Program).GetMethod(mdPostStr, System.Reflection.BindingFlags.Static | System.Reflection.BindingFlags.Public));
 
-            var cacheKey = $"{freqGroupsPath}|{string.Join(",", freqGroups)}|{File.GetLastWriteTime(freqGroupsPath).ToString("s")}|{freqGroupsPos}";
-            var freqDic = mdCache.Where(x => x.k == cacheKey).FirstOrDefault().d;
-            if (freqDic == null) {
-                freqDic = loadFreqGroups(freqGroupsPath, freqGroups, freqGroupsPos);
-                mdCache.Enqueue((cacheKey, freqDic));
-                while (mdCache.Count > 5) mdCache.Dequeue();
-            }
-
+            var freqDic = getFreqGroups(freqGroupsPos, freqGroups, freqGroupsPath, File.GetLastWriteTime(freqGroupsPath));
             #endregion
 
             ss.ForEach(s => {
@@ -1475,7 +1488,7 @@ namespace ConApp {
             });
 
             var ps = post(rs2.Select(x => x[0])).ToList();
-            ps = ps.Select(p => freqGrouping(p, dic: freqDic, wPos: freqGroupsPos)).ToList(); 
+            ps = freqGrouping(string.Join("\n", ps), dic: freqDic, wPos: freqGroupsPos).Split('\n').ToList(); 
             for (var i = 0; i < ps.Count; i++) {
                 rs2[i][0] = ps[i];
             }
@@ -2174,9 +2187,9 @@ namespace ConApp {
             //genStories(@"d:/stories-0.txt", 3);
 
             //geminiSplit(@"d:\.temp\reader-43-orig.txt");
-            geminiAdapt(@"d:\.temp\reader-43.txt", "B2", true);
+            //geminiAdapt(@"d:\.temp\reader-43.txt", "C1", true);
 
-            //mdMonitor(); return; // mdPostCom
+            mdMonitor(); return; // mdPostCom
 
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
             //serRename(@"e:\videos\Parks\S02");
