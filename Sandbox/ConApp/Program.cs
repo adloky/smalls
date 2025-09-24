@@ -117,7 +117,7 @@ namespace ConApp {
 
         public static DicItem Parse(string s) {
             var r = new DicItem();
-            var sp = s.Split(new[] { " {", "} " }, StringSplitOptions.RemoveEmptyEntries);
+            var sp = s.Split(new[] { " {", "}" }, StringSplitOptions.RemoveEmptyEntries);
             var m = rankRe.Match(sp[0]);
             if (m.Success) {
                 r.rank = int.Parse(m.Groups[1].Value);
@@ -126,6 +126,11 @@ namespace ConApp {
 
             r.key = sp[0];
             r.pos = sp[1];
+            if (sp.Length < 3) {
+                return r;
+            }
+
+            sp[2] = sp[2].Substring(1);
             m = pronRe.Match(sp[2]);
             if (m.Success) {
                 r.pron = m.Groups[1].Value;
@@ -168,6 +173,29 @@ namespace ConApp {
             });
         }
 
+        public static IEnumerable<(string x, Match m)> getMatches(string s, Regex re) {
+            var m = re.Match(s);
+            var i = 0;
+            while (m.Success) {
+                yield return (x: s.Substring(i, m.Index - i), m: null);
+                yield return (x: s.Substring(m.Index, m.Length), m: m);
+                i = m.Index + m.Length;
+                m = m.NextMatch();
+            }
+            yield return (x: s.Substring(i, s.Length - i), m: null);
+        }
+
+        public static string handleString(string s, Regex re, Func<string, Match, string> handler) {
+            var sb = new StringBuilder();
+
+            foreach (var t in getMatches(s, re)) {
+                sb.Append(t.m == null ? t.x : handler(t.x, t.m));
+            }
+
+            return sb.ToString();
+        }
+
+        /*
         public static string handleString(string s, Regex re, Func<string, Match, string> handler) {
             var m = re.Match(s);
             var i = 0;
@@ -187,6 +215,7 @@ namespace ConApp {
 
             return sb.ToString();
         }
+        */
 
         static string get(string url) {
             Console.WriteLine($"GET: {url}");
@@ -404,21 +433,18 @@ namespace ConApp {
             }
 
             ss.Where(x => x.Contains(" {")).Select((x,i) => (x: x, i: i+1)).Reverse().ToList().ForEach(xi => {
-                var x = xi.x;
-                var i = xi.i;
-                var rm = dicRankRe.Match(x);
-                if (rm.Success) {
-                    x = x.Substring(rm.Value.Length);
-                    i = int.Parse(rm.Value.Trim());
+                var di = DicItem.Parse(xi.x);
+                if (di.rank == null) {
+                    di.rank = xi.i;
                 }
-                if (i > levels.Last()) return;
-                if (x.Contains("{междометие}")) return;
+                if (di.rank > levels.Last()) return;
+                if (di.pos == "междометие") return;
 
-                var w = (wPos ? $"{x.Split('}')[0]}}}" : x.Split(new[] { " {" }, ssop)[0]).ToLower();
-                if (exs.Contains(w)) return;
+                if (exs.Contains(di.key.ToLower())) return;
+                var w = $"{di.key.ToLower()} {{{(wPos ? di.pos : "прочее")}}}";
 
                 var g = 0;
-                while (i > levels[g]) {
+                while (di.rank > levels[g]) {
                     g++;
                 }
                 getLemmaForms(w).ToList().ForEach(f => {
@@ -437,37 +463,25 @@ namespace ConApp {
         static Regex freqGroupRe = new Regex(@"</?[a-z]('[^']*'|""[^""]*""|[^/>'""]+)*/?>|[a-z0-9]+", RegexOptions.IgnoreCase | RegexOptions.Compiled);
         static string[][] freqGroupColors = new[] { new [] { "#ffbc8c", "#99ff99", "#99cbff", "#b399ff" }, new[] { "#cc5400", "#00b200", "#0079ff", "#8000ff" } };
 
-        static string handleWPos(string s, bool wPos, Func<string,string,string> f) {
-            return !wPos ? handleString(s, freqGroupRe, (x,m) => f(x,x.ToLower()))
-                : string.Join("", getPos(s).Select(p => {
-                    if (freqGoupSymRe.IsMatch(p.s) || p.pos == null || p.pos == "имя" || p.pos == "междометие")
-                        return p.s;
-                    return f(p.s, $"{p.s.ToLower()} {{{p.pos}}}");
-                }));
+        static IEnumerable<Pos> getNullPos(string str) {
+            return getMatches(str, freqGroupRe).Select(t => new Pos() { s = t.x, pos = (t.m == null || freqGoupSymRe.IsMatch(t.x) ? null : "прочее") });
         }
 
-        static Dictionary<string, int> sDic = new Dictionary<string, int>();
-
         static Regex fgAmpRe = new Regex("['’]");
-        static Regex fgPosRe = new Regex(@"\{(.*?)\}");
-        static string freqGrouping(string s, bool white = false, Dictionary<string,int> dic = null, bool wPos = false) {
+
+        static IEnumerable<(string x, int g, string pos)> freqGrouping(string s, Dictionary<string, int> dic = null, bool wPos = false) {
+            var posEx = new[] { null, "имя", "междометие" };
             dic = dic ?? getFreqGroups(wPos);
-            //if (Tag.Parse(s).Length > 0) return s;
+            var xs = wPos ? getPos(s) : getNullPos(s);
+            foreach (var x in xs) {
+                yield return posEx.Contains(x.pos) || freqGoupSymRe.IsMatch(x.s) || x.s.Length < 2 ? (x: x.s, g: -1, pos: null)
+                    : (x: x.s, g: getDicVal((new DicItem() { key = x.s.ToLower(), pos = x.pos }).ToString(), wPos ? freqGroupColors[0].Length-1 : -1, dic), pos: x.pos);
+            }
+        }
+
+        static string freqGroupingHtml(string s, bool white = false, Dictionary<string,int> dic = null, bool wPos = false) {
             var cs = freqGroupColors[white ? 0 : 1];
-            s = handleWPos(s, wPos, (x, x2) => {
-                var pos = fgPosRe.Matches(x2).Cast<Match>().Select(m => m.Groups[1].Value).FirstOrDefault();
-                if (pos != null) pos = $" pos=\"{pos}\"";
-                if (dic.TryGetValue(x2, out var g)) {
-                    return g < 0 ? x : $"<font color=\"{cs[g]}\"{pos}>{x}</font>";
-                }
-                if (wPos && x.Length > 1 && !fgAmpRe.IsMatch(x)) {
-                    // if (!sDic.ContainsKey(x2)) sDic[x2] = 0;
-                    // sDic[x2]++;
-                    return $"<font color=\"{cs.Last()}\"{pos}>{x}</font>";
-                }
-                return x;
-            });
-            return s;
+            return string.Join("", freqGrouping(s, dic, wPos).Select(x => x.g == -1 ? x.x : $"<font color=\"{cs[x.g]}\" pos=\"{x.pos}\">{x.x}</font>"));
         }
 
         static Dictionary<string,string> _existingWords;
@@ -1063,7 +1077,7 @@ namespace ConApp {
         static void srtLearn(string path) {
             var s = File.ReadAllText(path);
             s = Tag.Clear(s, new HashSet<string>() { "u", "font" });
-            s = freqGrouping(s, true);
+            s = freqGroupingHtml(s, true);
             File.WriteAllText(path, s);
         }
 
@@ -1264,7 +1278,7 @@ namespace ConApp {
             for (var i = 0; i < es.Length; i++) {
                 es[i] = es[i].Replace("<", "&lt;");
                 rs[i] = rs[i].Replace("<", "&lt;");
-                es[i] = freqGrouping(es[i]);
+                es[i] = freqGroupingHtml(es[i]);
                 ss.Add(es[i]);
                 ss.Add(rs[i]);
             }
@@ -1488,7 +1502,7 @@ namespace ConApp {
             });
 
             var ps = post(rs2.Select(x => x[0])).ToList();
-            ps = freqGrouping(string.Join("\n", ps), dic: freqDic, wPos: freqGroupsPos).Split('\n').ToList(); 
+            ps = freqGroupingHtml(string.Join("\n", ps), dic: freqDic, wPos: freqGroupsPos).Split('\n').ToList(); 
             for (var i = 0; i < ps.Count; i++) {
                 rs2[i][0] = ps[i];
             }
@@ -2189,6 +2203,7 @@ namespace ConApp {
             //geminiSplit(@"d:\.temp\reader-43-orig.txt");
             //geminiAdapt(@"d:\.temp\reader-43.txt", "C1", true);
 
+            //mdHandle(@"d:\Projects\smalls\english-readers-43o.md");
             mdMonitor(); return; // mdPostCom
 
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
