@@ -1502,14 +1502,14 @@ namespace ConApp {
             });
 
             var ps = post(rs2.Select(x => x[0])).ToList();
-            ps = freqGroupingHtml(string.Join("\n", ps), dic: freqDic, wPos: freqGroupsPos).Split('\n').ToList(); 
+            ps = freqGroupingHtml(string.Join("\r\n", ps), dic: freqDic, wPos: freqGroupsPos).Split(new[] { "\r\n" }, ssop).ToList();
             for (var i = 0; i < ps.Count; i++) {
                 rs2[i][0] = ps[i];
             }
 
             rs2.ForEach(x => {
-                x[0] = Tag.Clear(Markdown.ToHtml(x[0]), pSet);
-                x[1] = Tag.Clear(Markdown.ToHtml(x[1]), pSet);
+                x[0] = Tag.Clear(Markdown.ToHtml(x[0]).Replace("\n", ""), pSet);
+                x[1] = Tag.Clear(Markdown.ToHtml(x[1]).Replace("\n", ""), pSet);
             });
 
             var contents = new List<string>();
@@ -1661,11 +1661,16 @@ namespace ConApp {
             { "существительное", "noun" }, { "числительное", "number" }, { "междометие", "interjection" }, { "определитель", "determiner" },
         };
 
+        static Dictionary<string, string> partAbbrEng = new Dictionary<string, string> {
+            { "артикль", "a" }, { "глагол", "v" }, { "местоимение", "p" }, { "наречие", "r" },
+            { "предлог", "i" }, { "прилагательное", "j" }, { "союз", "c" },
+            { "существительное", "n" }, { "числительное", "m" }, { "междометие", "u" }, { "определитель", "d" },
+        };
 
         static string normForAdapt(string s) {
             var di = DicItem.Parse(s);
             di.key = di.key.ToLower();
-            if (di.pos == "глагол" || di.pos == "существительное" && !di.key.EndsWith("ing") || di.pos == "прилагательное" && !di.key.EndsWith("ing") && !di.key.EndsWith("ed")) {
+            if (di.pos == "глагол" || di.pos == "существительное" && !di.key.EndsWith("ing") || di.pos == "прилагательное" && (di.key.EndsWith("er") || di.key.EndsWith("est"))) {
                 di.key = getDicVal(di.key, di.key, lemmas);
             }
 
@@ -1674,15 +1679,18 @@ namespace ConApp {
             return $"{di.key} ({di.pos})";
         }
 
+        static int ai = 0;
         static void geminiAdapt(string path, params object[] p) {
             var freq = p.OfType<int>().FirstOrDefault();
             var level = p.OfType<string>().Select(x => x.ToUpper()).FirstOrDefault();
             var bs = new HashSet<string>();
             var dic = freq == 0 ? null : getFreqGroups(true, new[] { freq });
+            var freqMid = (int)Math.Round(freq * 0.66 / 500) * 500;
+
             if (freq > 0) {
                 var _xs = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt")
                     .Select(x => DicItem.Parse(x))
-                    .Where(x => x.rank < freq * 0.66)
+                    .Where(x => x.rank < freqMid)
                     .Select(x => LancasterStemmer.Stem(x.key.ToLower()))
                     .Distinct();
                 bs = new HashSet<string>(_xs);
@@ -1709,7 +1717,7 @@ namespace ConApp {
                         .Where(x => !bs.Contains(LancasterStemmer.Stem(x.Split(' ')[0]))).ToArray();
 
                     if (rws.Length > 0) {
-                        r += $"If possible, in the text, replace the following words: {string.Join(", ", rws)}; with more frequent synonyms. ";
+                        r += $"If possible, in the text, replace the following words with something from the top {freqMid} by frequency of use: {string.Join(", ", rws)}. ";
                     }
                 }
 
@@ -2170,6 +2178,29 @@ namespace ConApp {
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
+            var read = new StreamReader(File.OpenRead(@"d:\english\.db\open-sub.txt"));
+            while (!read.EndOfStream) {
+                var ss = new List<string>();
+                for (var i = 0; i < 1000 && !read.EndOfStream; i++) {
+                    ss.Add(read.ReadLine());
+                }
+
+                var sb = new StringBuilder();
+                foreach (var p in getPos(string.Join("\r\n", ss))) {
+                    if (p.pos == null) {
+                        sb.Append(p.s);
+                        continue;
+                    }
+
+                    var a = getDicVal(p.pos, "o", partAbbrEng);
+                    sb.Append($"{{{p.s},{a}}}");
+                }
+                sb.Append("\r\n");
+                File.AppendAllText(@"d:\english\.db\open-sub-pos.txt",  sb.ToString());
+            }
+
+
+
             //exportComics("003", 10);
 
             //genSamples(@"d:\words-7k.txt");
@@ -2229,11 +2260,11 @@ namespace ConApp {
 
             //genStories(@"d:/stories-0.txt", 3);
 
-            //geminiSplit(@"d:\.temp\reader-43-orig.txt");
-            geminiAdapt(@"d:\.temp\reader-43.txt", 9000);
+            //geminiSplit(@"d:\.temp\reader-50-orig.txt");
+            //geminiAdapt(@"d:\.temp\reader-50.txt", 9000);
 
-            //mdHandle(@"d:\Projects\smalls\english-readers-43o.md");
             //mdMonitor(); return; // mdPostCom
+            //mdHandle(@"d:\Projects\smalls\english-readers-44g.md");
 
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
             //serRename(@"e:\videos\Parks\S02");
