@@ -392,6 +392,25 @@ namespace ConApp {
             return (lemmas.ContainsKey(s.ToLower()) ? lemmas[s] : s) + part;
         }
 
+        static Dictionary<string, string> _families;
+
+        static Dictionary<string, string> families {
+            get {
+                if (_families != null) return _families;
+
+                _families = new Dictionary<string, string>();
+                File.ReadAllLines(@"d:\Projects\smalls\word-families.txt").ToList().ForEach(s => {
+                    var xs = s.Split(' ');
+                    foreach (var x in xs) {
+                        _families[x] = xs[0];
+                    }
+                });
+
+                return _families;
+            }
+        }
+
+
         static Regex dicRankRe = new Regex(@"^\d+ ", RegexOptions.Compiled);
 
         static Dictionary<string, int> getFreqGroups(bool wPos, string levels, string path = null, DateTime pathTime = default(DateTime)) {
@@ -1686,12 +1705,13 @@ namespace ConApp {
             var bs = new HashSet<string>();
             var dic = freq == 0 ? null : getFreqGroups(true, new[] { freq });
             var freqMid = (int)Math.Round(freq * 0.66 / 500) * 500;
+            Func<string,string> getFam = x => { x = x.ToLower(); return getDicVal(x, x, families); };
 
             if (freq > 0) {
                 var _xs = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt")
                     .Select(x => DicItem.Parse(x))
                     .Where(x => x.rank < freqMid)
-                    .Select(x => LancasterStemmer.Stem(x.key.ToLower()))
+                    .Select(x => getFam(x.key))
                     .Distinct();
                 bs = new HashSet<string>(_xs);
             }
@@ -1714,7 +1734,10 @@ namespace ConApp {
 
                 if (freq > 0) {
                     var rws = freqGrouping(s, dic, true).Where(x => x.g > -1).Select(x => normForAdapt($"{x.x} {{{x.pos}}}")).Distinct()
-                        .Where(x => !bs.Contains(LancasterStemmer.Stem(x.Split(' ')[0]))).ToArray();
+                        .Where(x => {
+                            x = x.Split(' ')[0];
+                            return families.ContainsKey(x) && !bs.Contains(getFam(x));
+                        }).ToArray();
 
                     if (rws.Length > 0) {
                         r += $"If possible, in the text, replace the following words with something from the top {freqMid} by frequency of use: {string.Join(", ", rws)}. ";
@@ -2178,29 +2201,6 @@ namespace ConApp {
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
 
-            var read = new StreamReader(File.OpenRead(@"d:\english\.db\open-sub.txt"));
-            while (!read.EndOfStream) {
-                var ss = new List<string>();
-                for (var i = 0; i < 1000 && !read.EndOfStream; i++) {
-                    ss.Add(read.ReadLine());
-                }
-
-                var sb = new StringBuilder();
-                foreach (var p in getPos(string.Join("\r\n", ss))) {
-                    if (p.pos == null) {
-                        sb.Append(p.s);
-                        continue;
-                    }
-
-                    var a = getDicVal(p.pos, "o", partAbbrEng);
-                    sb.Append($"{{{p.s},{a}}}");
-                }
-                sb.Append("\r\n");
-                File.AppendAllText(@"d:\english\.db\open-sub-pos.txt",  sb.ToString());
-            }
-
-
-
             //exportComics("003", 10);
 
             //genSamples(@"d:\words-7k.txt");
@@ -2260,8 +2260,9 @@ namespace ConApp {
 
             //genStories(@"d:/stories-0.txt", 3);
 
-            //geminiSplit(@"d:\.temp\reader-50-orig.txt");
-            //geminiAdapt(@"d:\.temp\reader-50.txt", 9000);
+            //geminiSplit(@"d:\.temp\reader-52-orig.txt");
+            //geminiAdapt(@"d:\.temp\reader-52.txt", 9000);
+            geminiAdapt(@"d:\.temp\reader-14.txt", 9000);
 
             //mdMonitor(); return; // mdPostCom
             //mdHandle(@"d:\Projects\smalls\english-readers-44g.md");
