@@ -2261,8 +2261,7 @@ namespace ConApp {
             //genStories(@"d:/stories-0.txt", 3);
 
             //geminiSplit(@"d:\.temp\reader-52-orig.txt");
-            //geminiAdapt(@"d:\.temp\reader-52.txt", 9000);
-            geminiAdapt(@"d:\.temp\reader-14.txt", 9000);
+            geminiAdapt(@"d:\.temp\reader-52.txt", 9000);
 
             //mdMonitor(); return; // mdPostCom
             //mdHandle(@"d:\Projects\smalls\english-readers-44g.md");
