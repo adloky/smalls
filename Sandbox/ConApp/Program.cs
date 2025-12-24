@@ -2278,24 +2278,6 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
-            // d:\Projects\smalls\bins\pron-ru.txt
-            // d:\Projects\smalls\lisen.txt
-
-            var ps = File.ReadAllLines(@"d:\Projects\smalls\bins\pron-ru.txt").ToDictionary(x => x.Split(' ')[0], x => x.Split(' ')[1]);
-            var xs = File.ReadAllLines(@"d:\Projects\smalls\lisen.txt").Select(x => { var sp = x.Split(new[] { " | " }, ssop); return new[] { sp[0], sp[2] }; }).ToArray();
-
-            var i = 0;
-            var rs = new List<string>();
-            foreach (var x in xs) {
-                var s = x[1];
-                if (!Regex.IsMatch(s, @"^[^\.\!\?]+[\.\!\?]$")) continue;
-                if (s.Count(c => c == ' ') > 8) continue;
-                if (Regex.Matches(s, @"[a-zA-Z']+").Cast<Match>().Any(m => getDicVal(m.Value.ToLower(), "1234567890", ps).Length >= 10)) continue;
-                rs.Add($"{x[0]} | {s}");
-            }
-
-            File.WriteAllLines(@"d:\lisen-pretty.txt", rs);
-            
             //exportComics("003", 10);
 
             //genSamples(@"d:\words-7k.txt");

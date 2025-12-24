@@ -7,6 +7,8 @@ using System.IO;
 
 namespace MvcApp.Controllers {
     public class HomeController : Controller {
+        static List<string[]> ls;
+
         public ActionResult Index() {
             ViewBag.Title = "Home Page";
 
@@ -14,11 +16,14 @@ namespace MvcApp.Controllers {
         }
 
         public ActionResult Text() {
-            var ss = System.IO.File.ReadAllLines(@"d:\Projects\smalls\bins\con-ru.txt");
+            if (ls == null) {
+                ls = System.IO.File.ReadAllLines(@"d:\Projects\smalls\lisen-pretty.txt").Select(x => x.Split('|')).ToList();
+            }
+            
             var rnd = new Random();
-            var rs = Enumerable.Range(0, 10).Select(x => ss[rnd.Next(ss.Length)]).Select(x => x.Split('|')).ToList();
+            var rs = Enumerable.Range(0, 10).Select(x => ls[rnd.Next(ls.Count)]).Select(x => new[] { $"/smalls/lisen/{x[0].Substring(0,2)}/{x[0]}.mp3", x[1] }).ToList();
 
-            return View(rs.Select(x => x[0]).Union(rs.Select(x => x[1])));
+            return View(rs);
         }
     }
 }

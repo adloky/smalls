@@ -1,5 +1,37 @@
-﻿@model IEnumerable<string>
+﻿@model IEnumerable<string[]>
+
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
 
 @foreach (var x in Model) {
-    @x<br/>
+    <audio src="@x[0]"></audio>@x[1]<br/>
 }
+
+<button class="play">play</button> <button class="stop">stop</button>
+
+<script>
+    var audios = $('audio');
+    var i = 0;
+
+    $(document).ready(function () {
+        function stop() {
+            audios.each(function () { this.pause(); this.currentTime = 0; });
+        }
+
+        $(".stop").click(function () {
+            stop();
+        });
+
+        $(".play").click(function () {
+            stop();
+            i = 0;
+            audios[i].play();
+        });
+
+        audios.each(function () {
+            $(this).on('ended', function () {
+                i++;
+                audios[i].play();
+            });
+        });
+    });
+</script>
