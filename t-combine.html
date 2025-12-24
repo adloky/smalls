@@ -114,15 +114,16 @@
         var en = [];
         var ru = [];
         ss.forEach((s,i) => {
-            if (enru(s) > 0) {
+            if (enru(s) >= 0) {
                 en.push(s);
             };
-            if (enru(s) < 0) {
+            if (enru(s) <= 0) {
                 ru.push(s);
             };
         });
         
-        $(".body-box").val(en.concat(ru).join("\r\n\r\n"));
+        $(".body-box").val(en.join("\r\n\r\n"));
+        $(".body-box-ru").val(ru.join("\r\n\r\n"));
         $(".body-box").select();
         document.execCommand("copy");
     });

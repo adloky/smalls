@@ -33,6 +33,12 @@ using Microsoft.VisualBasic.FileIO;
 using Sandbox;
 using System.Drawing.Imaging;
 using System.Runtime.InteropServices;
+using DiffPlex;
+using DiffPlex.DiffBuilder;
+using DiffPlex.DiffBuilder.Model;
+using NAudio.Wave;
+using Vosk;
+using System.Text.Json;
 
 namespace ConApp {
     public class Tag {
@@ -1118,20 +1124,6 @@ namespace ConApp {
             return dic;
         }
 
-        static EnglishRuleBasedTokenizer openNlpTokenizer = new EnglishRuleBasedTokenizer(false);
-        static EnglishMaximumEntropyPosTagger openNlpTagget = new EnglishMaximumEntropyPosTagger(@"d:\Projects\smalls\OpenNLP\EnglishPOS.nbin", @"d:\Projects\smalls\OpenNLP\tagdict");
-
-        static IEnumerable<string> posTagging(string s) {
-            var ts = openNlpTokenizer.Tokenize(s);
-            var pos = openNlpTagget.Tag(ts);
-            for (var i = 0; i < ts.Length; i++) {
-                if (openNlpTags.TryGetValue(pos[i], out var p2)) {
-                    yield return $"{ts[i].ToLower()} {p2}";
-                }
-            }
-        }
-
-
         static Regex ampRe = new Regex(@"[a-zA-Z']+", RegexOptions.Compiled);
 
         static string handleAmp(string s) {
@@ -1521,7 +1513,9 @@ namespace ConApp {
             });
 
             var ps = post(rs2.Select(x => x[0])).ToList();
-            ps = freqGroupingHtml(string.Join("\r\n", ps), dic: freqDic, wPos: freqGroupsPos).Split(new[] { "\r\n" }, ssop).ToList();
+            if (freqGroups != "0") {
+                ps = freqGroupingHtml(string.Join("\r\n", ps), dic: freqDic, wPos: freqGroupsPos).Split(new[] { "\r\n" }, ssop).ToList();
+            }
             for (var i = 0; i < ps.Count; i++) {
                 rs2[i][0] = ps[i];
             }
@@ -1586,7 +1580,7 @@ namespace ConApp {
         
 
         private static void mdMonitor(Func<IEnumerable<string>,IEnumerable<string>> post = null) {
-            using (var watcher = new FileSystemWatcher(@"d:/Projects/smalls", "*.md"))
+            using (var watcher = new FileSystemWatcher(@"d:/english-reader", "*.md"))
             using (var watcher2 = new FileSystemWatcher(@"d:/Projects/private", "*.md"))
             {
                 watcher.EnableRaisingEvents = watcher2.EnableRaisingEvents = true;
@@ -1700,8 +1694,12 @@ namespace ConApp {
 
         static int ai = 0;
         static void geminiAdapt(string path, params object[] p) {
+            var levRe = new Regex("^[ABC][12]$");
             var freq = p.OfType<int>().FirstOrDefault();
-            var level = p.OfType<string>().Select(x => x.ToUpper()).FirstOrDefault();
+            var level = p.OfType<string>().Where(x => levRe.IsMatch(x)).FirstOrDefault();
+            var alter = p.OfType<string>().Where(x => x != level).FirstOrDefault();
+            var q = p.OfType<string>().Where(x => x != level).FirstOrDefault();
+
             var bs = new HashSet<string>();
             var dic = freq == 0 ? null : getFreqGroups(true, new[] { freq });
             var freqMid = (int)Math.Round(freq * 0.66 / 500) * 500;
@@ -1728,8 +1726,13 @@ namespace ConApp {
                 var s = _s.Substring(pre.Length);
 
                 var r = "";
+
+                if (q != null) {
+                    r += $" {q} ";
+                }
+
                 if (level != null) {
-                    r = $"Adapt the English text for understanding at the {level} level of English proficiency. ";
+                    r += $" Adapt the English text for understanding at the {level} level of English proficiency. ";
                 }
 
                 if (freq > 0) {
@@ -1740,11 +1743,15 @@ namespace ConApp {
                         }).ToArray();
 
                     if (rws.Length > 0) {
-                        r += $"If possible, in the text, replace the following words with something from the top {freqMid} by frequency of use: {string.Join(", ", rws)}. ";
+                        r += $" If possible, in the text, replace the following words with something from the top {freqMid} by frequency of use: {string.Join(", ", rws)}. ";
                     }
                 }
 
-                r += $"Return only the resulting not markdown text. Next comes the text itself:\r\n{s}"; 
+                if (alter != null) {
+                    r += $" {alter} ";
+                }
+
+                r += $" Keep the paragraph structure. Output only the final text. Input Text:\r\n{s}"; 
 
                 var s2 = (string)null;
                 if (_s == pre) {
@@ -2196,78 +2203,114 @@ namespace ConApp {
             process.WaitForExit();
         }
 
+
+        static void diffText(string pathA, string pathB) {
+            var builder = new InlineDiffBuilder(new Differ());
+
+            var ssA = File.ReadAllLines(pathA);
+            var ssB = File.ReadAllLines(pathB);
+            var rs = new List<string>();
+            for (var i = 0; i < ssA.Length; i++) {
+                var a = ssA[i];
+                var b = ssB[i];
+
+                var ds = builder.BuildDiffModel(a, b, false, false, DiffPlex.Chunkers.WordChunker.Instance).Lines;
+                var sb = new StringBuilder();
+                foreach (var d in ds) {
+                    if (d.Text == "") continue;
+                    if (d.Type == ChangeType.Unchanged) {
+                        sb.Append(d.Text);
+                    }
+                    else if (d.Type == ChangeType.Deleted) {
+                        sb.Append($"<font color=red>{d.Text}</font>");
+                    }
+                    else if (d.Type == ChangeType.Inserted) {
+                        sb.Append($"<font color=00CC00>{d.Text}</font>");
+                    }
+                    else if (d.Type == ChangeType.Modified) {
+                        throw new Exception();
+                    }
+                }
+
+                rs.Add(sb.ToString().Replace("****", ""));
+            }
+            File.WriteAllLines(pathEx(pathA, "-diff"), rs);
+        }
+
+        static void recogVoice() {
+            Vosk.Vosk.SetLogLevel(-1);
+
+            var model = new Model("d:/Portables/vosk/vosk-model-small-en-us-0.15");
+            var recognizer = new VoskRecognizer(model, 16000.0f);
+            recognizer.SetWords(true);
+
+            var waveIn = new WaveInEvent {
+                DeviceNumber = 0,
+                WaveFormat = new WaveFormat(16000, 1)
+            };
+
+            waveIn.DataAvailable += (s, e) => {
+                if (recognizer.AcceptWaveform(e.Buffer, e.BytesRecorded)) {
+                    var jo = JObject.Parse(recognizer.Result());
+                    var text = jo.SelectToken("$.text").Value<string>();
+                    if (text != "") {
+                        Console.Write(text + " ");
+                    }
+                }
+                else {
+                    //Console.WriteLine(recognizer.PartialResult());
+                }
+            };
+
+            waveIn.RecordingStopped += (s, e) => {
+                waveIn.Dispose();
+            };
+
+            Console.WriteLine("Speak...");
+            waveIn.StartRecording();
+            Console.ReadLine();
+            waveIn.StopRecording();
+        }
+
         static volatile bool ctrlC = false;
 
         static void Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
+            Console.OutputEncoding = Encoding.UTF8;
 
+            // d:\Projects\smalls\bins\pron-ru.txt
+            // d:\Projects\smalls\lisen.txt
+
+            var ps = File.ReadAllLines(@"d:\Projects\smalls\bins\pron-ru.txt").ToDictionary(x => x.Split(' ')[0], x => x.Split(' ')[1]);
+            var xs = File.ReadAllLines(@"d:\Projects\smalls\lisen.txt").Select(x => { var sp = x.Split(new[] { " | " }, ssop); return new[] { sp[0], sp[2] }; }).ToArray();
+
+            var i = 0;
+            var rs = new List<string>();
+            foreach (var x in xs) {
+                var s = x[1];
+                if (!Regex.IsMatch(s, @"^[^\.\!\?]+[\.\!\?]$")) continue;
+                if (s.Count(c => c == ' ') > 8) continue;
+                if (Regex.Matches(s, @"[a-zA-Z']+").Cast<Match>().Any(m => getDicVal(m.Value.ToLower(), "1234567890", ps).Length >= 10)) continue;
+                rs.Add($"{x[0]} | {s}");
+            }
+
+            File.WriteAllLines(@"d:\lisen-pretty.txt", rs);
+            
             //exportComics("003", 10);
 
             //genSamples(@"d:\words-7k.txt");
             //rndSamples(@"d:\words-7k-2.txt");
 
-            /*
-            var path = "d:/words-7k-2.txt";
-            var ss = File.ReadAllLines(path);
-            var dic = File.ReadAllLines("d:/words-7k.txt").ToDictionary(x => DicItem.Parse(x).rank, x => x);
-            for (var i = 0; i < ss.Length; i++) {
-                var s = ss[i];
-                if (!s.StartsWith("WORD: ")) continue;
-                var n = DicItem.Parse(s.Replace("WORD: ", "")).rank;
-                ss[i] = "WORD: " + dic[n];
-            }
-
-            File.WriteAllLines("d:/words-7k-3.txt", ss);
-            */
-            /*
-            var d20k = loadDic(@"d:\Projects\smalls\freq-20k.txt");
-            var d100 = loadDic(@"d:\Projects\smalls\words-100.txt");
-            var s = File.ReadAllText(@"d:\rs.txt");
-
-            getPos(s).Where(x => x.pos != null).Select(x => dicFind(d20k, x.ToString()))
-                .Where(x => x != null && !d100.ContainsKey(x))
-                .GroupBy(x => x).Select(g => (k: g.Key, n: g.Count()))
-                .OrderByDescending(x => x.n).ToList().ForEach(x => Console.WriteLine($"{x.k} {x.n}"));
-            */
-
-            //var ts = ss.Skip(108).ToList();
-            //ss = ss.Take(ss.Count - ts.Count).ToList();
-
-            /*
-            var dic = ss.Select((s, i) => {
-                var v = Regex.Match(s, @"[^\}]+\}").Value;
-                return (v, $"{i.ToString("000000")} {s}");
-            }).ToDictionary(x => x.Item1, x => x.Item2);
-
-            File.ReadAllLines(@"d:/words-300-freq.txt").Select((s, i) => {
-                var m = Regex.Match(s, @"(\d+) ([^\}]+\})");
-                return ($"{m.Groups[2].Value}", int.Parse(m.Groups[1].Value));
-            }).ToList().ForEach(x => {
-                dic[x.Item1] = Regex.Replace(dic[x.Item1], @"^000", x.Item2.ToString("000"));
-            });
-            
-            ss = dic.Select(x => x.Value).OrderByDescending(x => x).ToList();
-            */
-
-            /*
-            var a = ss.Where(s => !s.Contains("#3")).ToList();
-            var b = ss.Where(s => s.Contains("#3")).ToList();
-
-            var at = a.Skip(50).ToList();
-            a = a.Take(a.Count - at.Count).ToList();
-            ss = mergeEven(a, b).Concat(at).ToList();
-            */
-
             //genStories(@"d:/stories-0.txt", 3);
 
-            //geminiSplit(@"d:\.temp\reader-52-orig.txt");
-            geminiAdapt(@"d:\.temp\reader-52.txt", 9000);
+            //geminiSplit(@"d:\english-reader\reader-69-orig.txt", 2000);
+            //geminiAdapt(@"d:\english-reader\reader-69.txt", 5000); // "Correct the errors in the text in English."
 
             //mdMonitor(); return; // mdPostCom
             //mdHandle(@"d:\Projects\smalls\english-readers-44g.md");
 
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
-            //serRename(@"e:\videos\Parks\S02");
+            //serRename(@"e:\videos\Arrested\S01");
 
             /*
             if (!File.Exists(@"d:\.temp\srt\all.srt")) 
@@ -2310,6 +2353,81 @@ namespace ConApp {
         }
     }
 }
+
+/*
+var d20k = loadDic(@"d:\Projects\smalls\freq-20k.txt");
+var d100 = loadDic(@"d:\Projects\smalls\words-100.txt");
+var s = File.ReadAllText(@"d:\rs.txt");
+
+getPos(s).Where(x => x.pos != null).Select(x => dicFind(d20k, x.ToString()))
+    .Where(x => x != null && !d100.ContainsKey(x))
+    .GroupBy(x => x).Select(g => (k: g.Key, n: g.Count()))
+    .OrderByDescending(x => x.n).ToList().ForEach(x => Console.WriteLine($"{x.k} {x.n}"));
+*/
+
+//var ts = ss.Skip(108).ToList();
+//ss = ss.Take(ss.Count - ts.Count).ToList();
+
+/*
+var dic = ss.Select((s, i) => {
+    var v = Regex.Match(s, @"[^\}]+\}").Value;
+    return (v, $"{i.ToString("000000")} {s}");
+}).ToDictionary(x => x.Item1, x => x.Item2);
+
+File.ReadAllLines(@"d:/words-300-freq.txt").Select((s, i) => {
+    var m = Regex.Match(s, @"(\d+) ([^\}]+\})");
+    return ($"{m.Groups[2].Value}", int.Parse(m.Groups[1].Value));
+}).ToList().ForEach(x => {
+    dic[x.Item1] = Regex.Replace(dic[x.Item1], @"^000", x.Item2.ToString("000"));
+});
+
+ss = dic.Select(x => x.Value).OrderByDescending(x => x).ToList();
+*/
+
+/*
+var a = ss.Where(s => !s.Contains("#3")).ToList();
+var b = ss.Where(s => s.Contains("#3")).ToList();
+
+var at = a.Skip(50).ToList();
+a = a.Take(a.Count - at.Count).ToList();
+ss = mergeEven(a, b).Concat(at).ToList();
+*/
+
+
+
+/*
+            Vosk.Vosk.SetLogLevel(0);
+
+            var model = new Model("d:/Portables/vosk/vosk-model-small-en-us-0.15");
+            var recognizer = new VoskRecognizer(model, 16000.0f);
+
+            var waveIn = new WaveInEvent {
+                DeviceNumber = 0,
+                WaveFormat = new WaveFormat(16000, 1)
+            };
+
+            waveIn.DataAvailable += (s, e) =>
+            {
+                if (recognizer.AcceptWaveform(e.Buffer, e.BytesRecorded)) {
+                    Console.WriteLine(recognizer.Result());
+                }
+                else {
+                    //Console.WriteLine(recognizer.PartialResult());
+                }
+            };
+
+            waveIn.RecordingStopped += (s, e) =>
+            {
+                Console.WriteLine(recognizer.FinalResult());
+                waveIn.Dispose();
+            };
+
+            Console.WriteLine("🎤 Speak (press ENTER to stop)...");
+            waveIn.StartRecording();
+            Console.ReadLine();
+            waveIn.StopRecording();
+
+ */
 
 
 /*
