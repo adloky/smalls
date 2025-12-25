@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<HEAD>
+
+<meta charset="utf-8">
+<style>
+  * { box-sizing: border-box; }
+  button { padding: 5pt; font-size: 16pt; }
+  .word { padding: 5pt; font-size: 16pt; width: 100pt; border: 1pt solid #CCC; display: inline-block; }
+  .word.red { background-color: #F88; }
+  .word.green { background-color: #8D8; }
+</style>
+
+<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+
+</HEAD>
+
+<BODY>
+
+<audio controls></audio><br/>
+
+<div class="word"></div>
+<div class="word"></div>
+
+<script>
+
+var pairs = [ [ "bad", "bed" ], [ "band", "bend" ], [ "dad", "dead" ], [ "gas", "guess" ], [ "latter", "letter" ],
+    [ "sand", "send" ], [ "shall", "shell" ], [ "than", "then" ], [ "beat", "bit" ], [ "cheap", "chip" ], 
+    [ "feel", "fill" ], [ "heat", "hit" ], [ "least", "list" ], [ "peak", "pick" ], [ "reach", "rich" ],
+    [ "seat", "sit" ], [ "seek", "sick" ], [ "sleep", "slip" ], [ "back", "buck" ], [ "cap", "cup" ], [ "cat", "cut" ],
+    [ "drag", "drug" ], [ "fan", "fun" ], [ "lack", "luck" ], [ "match", "much" ], [ "staff", "stuff" ], [ "track", "truck" ]
+];
+
+var word;
+
+function rnd(n) {
+    return Math.floor(Math.random() * n);
+}
+
+function audioApply(s) {
+    $("audio").attr("src", `pairs/${s}.mp3`);
+    $("audio")[0].play();
+}
+
+function next() {
+    $(".word").removeClass("red"); $(".word").removeClass("green");
+    
+    var p;
+    var newWord;
+    do {
+        p = pairs[rnd(pairs.length)];
+        newWord = p[rnd(2)];
+    } while (word === newWord);
+    word = newWord;
+    
+    $(".word").each(function (i) {
+        $(this).text(p[i]);
+    });
+    
+    audioApply(word);
+}
+
+$(document).ready(function () {
+    next();
+    
+    $(".word").click(function () {
+        var clickWord = $(this).text();
+        var c = word === clickWord ? "green" : "red";
+        $(this).addClass(c);
+        var tout = 1000;
+        if (c === "red") {
+            audioApply(clickWord);
+            tout = 3000;
+        }
+        setTimeout(function () {
+            next();
+        }, tout);
+    });
+});
+
+</script>
+
+</BODY>
