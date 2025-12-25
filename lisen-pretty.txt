@@ -4739,11 +4739,6 @@ dcdfaec9-4e6d-4de0-a8a4-38f79f3945af|He didn't tell you what kind of meat?
 20caef27-6e73-4a47-8273-46f995627d48|Why weren't you at the appeal yesterday?
 5a275f2b-2b57-4a96-9d8f-bfb832cecfe1|The court turns her final appeal down.
 6dd727b7-31ea-47ce-a381-75159bdf93a2|Nothing about that appeals to me.
-a152d147-5222-4311-8578-e985fab59439|Is he confirming or denying a long-term affair now?
-bfe7c94c-8ae8-4dd6-b325-cbb5958e6ea8|I mean, long-term, where are we?
-68f4dc52-9630-4567-97ed-0633a1742682|There is no long-term, not for Polly.
-5d570fb0-9d1f-461d-9088-b5c1819681ea|It puts at risk our entire long-term plan.
-7dd1c833-87c9-4d89-81f9-a0e31cbc0369|I never think long-term about my life.
 e7c9e6b4-0844-4716-93aa-03f476581bce|Let me do this with the official shirt on.
 ad21287a-1ad3-4390-968a-2be8edb6d6bd|On an official report, you lied.
 bf47fcc6-1ef5-4767-bd96-799afa369231|Well, why don't we give you the official test?
@@ -5258,10 +5253,6 @@ dbb0520d-a747-4c26-a876-806bb3c98659|Remember him visiting us once on October ho
 f46cdc7d-a89c-4cc6-aef3-ca26a5beb694|We were on holiday in Italy.
 e11bc389-b492-42fc-b125-e2a706742657|If you'll be at home on holiday.
 eb016bc0-47a8-4225-ae91-fcd76b228c3e|It's time he had a holiday.
-2b53f4f1-6552-4db6-82c4-f2da02d2c3c5|Writing a good e-mail is hard.
-21c9deb6-e7f0-4984-a1b9-cda806f86035|Probably because the e-mail is a code.
-e7309670-ef7d-47cd-8813-b851d3b54fa5|Oh, well, the name's here in the e-mail.
-c9ac4619-0dc1-4e79-a70d-ea3d9502e420|And I had an e-mail address.
 91c73b11-002a-4452-ac86-83aa74afbed0|That is the point that I wanted to emphasize.
 12c82622-7479-4428-b00d-5180cfafbd1f|I really want to emphasize this.
 2644167b-b4ac-4946-943a-fe8f899a2caa|So as to emphasize your point.
@@ -6606,8 +6597,6 @@ c4e75c3d-31eb-429f-98c6-b6d875c4461e|That's what's making me really nervous.
 64b4b05a-7ad7-46ee-8440-05a57b41d286|But I was so nervous.
 acef1c27-42a6-436b-991e-87c8df4f73a4|You mustn't be cross with me.
 6da073d9-c1f0-47ab-8ad2-1ef8c8a37277|Yeah, then hung up on crosses.
-3ede46a6-3e16-479d-9437-24e70e919e6e|Look at what this so-called queen does.
-912a6c7e-7078-4d21-b25d-39a0cdc14c6e|They have accused me of leading these so-called terrorists.
 5505e61c-6ed6-4d8e-9443-8f3e7e1eeb88|Well, there were a lot of Asian girls there.
 bf30bc9b-b5a1-4f77-a24a-6c9559d783df|On as in hot Asian group sex on.
 784a0f05-a2c2-404f-9467-72aa2cb56628|I see Nelson got the cell towers down.
@@ -7748,7 +7737,6 @@ c9ddc2b9-917e-4cdf-9ceb-8245a0fded85|What exactly are you implying?
 90bff9f0-daf2-490c-ba28-cb4317bae8a6|Then let us taste what you are made of.
 e04745fd-7f91-47a6-a92f-fa1edb55a095|I have not tasted wine for many years.
 9fc2a804-9c01-4b58-bf9e-54714e8e4a42|I promise you taste better.
-49f96a6f-153e-40d0-ad6a-99cf0aa9f5d6|Thank you Dong-ha This tastes really good.
 adf61b45-883f-4d30-9a70-07111c839693|All the stadiums have them now.
 eaf84296-2f88-4d68-aa60-5dc69d2e8668|What happened at the stadium, it was beautiful.
 c6cd50c5-7bad-43db-9408-2c16bdb94fcb|He's the only one fighting against the stadium.

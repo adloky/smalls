@@ -13,6 +13,8 @@
     var i = 0;
 
     $(document).ready(function () {
+        audios.each(function () { this.playbackRate = 0.85; });
+
         function stop() {
             audios.each(function () { this.pause(); this.currentTime = 0; });
         }

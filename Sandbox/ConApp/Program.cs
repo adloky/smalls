@@ -2278,6 +2278,28 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
+            var a = "AX"; var b = "AH";
+            var hs = new HashSet<string>(File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(x => DicItem.Parse(x)).Where(x => x.rank <= 3000).Select(x => x.key));
+            var xs = File.ReadAllLines(@"d:\Projects\smalls\pron.txt").Select(x => { var k = x.Split(' ')[0]; return (k, p: Regex.Replace(x.Substring(k.Length + 1), @"\d", "")); })
+                .Where(x => hs.Contains(x.k)).ToList();
+
+            var dic = new Dictionary<string, string>();
+            xs.ForEach(x => {
+                if (dic.ContainsKey(x.p)) {
+                    dic[x.p] += $",{x.k}";
+                    return;
+                }
+
+                dic[x.p] = x.k;
+            });
+
+            xs.Where(x => x.p.Contains(a)).ToList().ForEach(x => {
+                var yp = x.p.Replace(a,b);
+                if (dic.TryGetValue(yp, out var yk)) {
+                    Console.WriteLine($"{x.k} {yk}");
+                }
+            });
+
             //exportComics("003", 10);
 
             //genSamples(@"d:\words-7k.txt");
