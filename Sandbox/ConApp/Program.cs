@@ -2278,23 +2278,41 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
+            var txt = "bad... bed... band... bend... shall... shell... beat... bit... cheap... chip... feel... fill... back... buck... cap... cup... cat... cut... ";
             var ss = "bad bed band bend dad dead gas guess latter letter sand send shall shell than then beat bit cheap chip feel fill heat hit least list peak pick reach rich seat sit seek sick sleep slip back buck cap cup cat cut drag drug fan fun lack luck match much staff stuff track truck".Split(' ');
 
-            ss.ToList().ForEach(s => {
+            /*
+            edgeVocs.Where(x => x == "Aria").ToList().ForEach(s => {
                 var bs = (byte[])null;
                 while (bs == null) {
                     try {
-                        bs = edgeTts(s, "Guy");
-                        File.WriteAllBytes($"d:/.temp/pairs/{s}.mp3", bs);
+                        bs = edgeTts(txt, s);
+                        File.WriteAllBytes($"d:/.temp/edge-voices/{s}.mp3", bs);
                     }
                     catch { }
                 }
                 Thread.Sleep(2000);
             });
+            */
 
+            var i = 0;
+            ss.ToList().ForEach(s => {
+                var bs = (byte[])null;
+                while (bs == null) {
+                    try {
+                        bs = edgeTts(s, "Christopher");
+                        File.WriteAllBytes($"d:/.temp/pairs/{i.ToString("00")}-{s}.mp3", bs);
+                    }
+                    catch { }
+                }
+                i++;
+                Thread.Sleep(2000);
+            });
+            
             return;
+            
 
-            var a = "AX"; var b = "AH";
+            var a = "AH"; var b = "UW";
             var hs = new HashSet<string>(File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(x => DicItem.Parse(x)).Where(x => x.rank <= 3000).Select(x => x.key));
             var xs = File.ReadAllLines(@"d:\Projects\smalls\pron.txt").Select(x => { var k = x.Split(' ')[0]; return (k, p: Regex.Replace(x.Substring(k.Length + 1), @"\d", "")); })
                 .Where(x => hs.Contains(x.k)).ToList();
