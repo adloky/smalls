@@ -39,6 +39,7 @@ using DiffPlex.DiffBuilder.Model;
 using NAudio.Wave;
 using Vosk;
 using System.Text.Json;
+using Xabe.FFmpeg;
 
 namespace ConApp {
     public class Tag {
@@ -2272,67 +2273,30 @@ namespace ConApp {
             waveIn.StopRecording();
         }
 
+        public static void Snapshots(string path) {
+            path = path.Replace("\\", "/");
+            var fullPath = Path.Combine("e:/videos", path);
+            var videoPath = Directory.GetFiles(Path.GetDirectoryName(fullPath), Path.GetFileName(fullPath) + ".*").Where(x => !x.ToLower().EndsWith(".srt")).First();
+            var tStrs = srtHandle($"{fullPath}.eng.srt").Select(x => x[1]).ToArray();
+            foreach (var tStr in tStrs) {
+                var ts = Regex.Split(tStr, @" ?--> ?").Select(x => TimeSpan.ParseExact(x, @"hh\:mm\:ss\,fff", CultureInfo.InvariantCulture)).ToArray();
+                var tm = new TimeSpan((int)ts.Select(x => x.Ticks).Average());
+                var outputPath = "d:/Projects/smalls/bins/snapshots/" + path + "/" + ts[0].ToString(@"hh\_mm\_ss\_ff", CultureInfo.InvariantCulture) + ".jpg";
+                Directory.CreateDirectory(Path.GetDirectoryName(outputPath));
+                do {
+                    FFmpeg.Conversions.FromSnippet.Snapshot(videoPath, outputPath, ts[0]).Result.Start().Wait();
+                    Console.WriteLine(outputPath);
+                } while (!File.Exists(outputPath));
+            }
+        }
+
         static volatile bool ctrlC = false;
 
-        static void Main(string[] args) {
+        static async Task Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
-            var txt = "bad... bed... band... bend... shall... shell... beat... bit... cheap... chip... feel... fill... back... buck... cap... cup... cat... cut... ";
-            var ss = "bad bed band bend dad dead gas guess latter letter sand send shall shell than then beat bit cheap chip feel fill heat hit least list peak pick reach rich seat sit seek sick sleep slip back buck cap cup cat cut drag drug fan fun lack luck match much staff stuff track truck".Split(' ');
-
-            /*
-            edgeVocs.Where(x => x == "Aria").ToList().ForEach(s => {
-                var bs = (byte[])null;
-                while (bs == null) {
-                    try {
-                        bs = edgeTts(txt, s);
-                        File.WriteAllBytes($"d:/.temp/edge-voices/{s}.mp3", bs);
-                    }
-                    catch { }
-                }
-                Thread.Sleep(2000);
-            });
-            */
-
-            var i = 0;
-            ss.ToList().ForEach(s => {
-                var bs = (byte[])null;
-                while (bs == null) {
-                    try {
-                        bs = edgeTts(s, "Christopher");
-                        File.WriteAllBytes($"d:/.temp/pairs/{i.ToString("00")}-{s}.mp3", bs);
-                    }
-                    catch { }
-                }
-                i++;
-                Thread.Sleep(2000);
-            });
-            
-            return;
-            
-
-            var a = "AH"; var b = "UW";
-            var hs = new HashSet<string>(File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(x => DicItem.Parse(x)).Where(x => x.rank <= 3000).Select(x => x.key));
-            var xs = File.ReadAllLines(@"d:\Projects\smalls\pron.txt").Select(x => { var k = x.Split(' ')[0]; return (k, p: Regex.Replace(x.Substring(k.Length + 1), @"\d", "")); })
-                .Where(x => hs.Contains(x.k)).ToList();
-
-            var dic = new Dictionary<string, string>();
-            xs.ForEach(x => {
-                if (dic.ContainsKey(x.p)) {
-                    dic[x.p] += $",{x.k}";
-                    return;
-                }
-
-                dic[x.p] = x.k;
-            });
-
-            xs.Where(x => x.p.Contains(a)).ToList().ForEach(x => {
-                var yp = x.p.Replace(a,b);
-                if (dic.TryGetValue(yp, out var yk)) {
-                    Console.WriteLine($"{x.k} {yk}");
-                }
-            });
+            for (var i = 5; i <= 22; i++) { Snapshots($"Arrested/S01/S01E{i:00}"); }
 
             //exportComics("003", 10);
 
