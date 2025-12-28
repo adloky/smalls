@@ -17,7 +17,8 @@ namespace MvcApp.Controllers {
 
         public ActionResult Text() {
             if (ls == null) {
-                ls = System.IO.File.ReadAllLines(@"d:\Projects\smalls\lisen-pretty.txt").Select(x => x.Split('|')).ToList();
+                ls = System.IO.File.ReadAllLines(@"d:\Projects\smalls\lisen.txt")
+                    .Select(x => { var xs = x.Split(new[] { " | " }, StringSplitOptions.None); return new[] { xs[0], xs[2] }; }).ToList();
             }
             
             var rnd = new Random();

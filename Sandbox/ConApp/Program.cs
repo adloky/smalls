@@ -2296,7 +2296,12 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
-            for (var i = 5; i <= 22; i++) { Snapshots($"Arrested/S01/S01E{i:00}"); }
+            var hs = new HashSet<string>(File.ReadAllLines(@"d:\Projects\smalls\lisen-pretty.txt").Select(x => x.Split('|')[0]));
+            var rs = File.ReadAllLines(@"d:\Projects\smalls\lisen.txt").Where(x => { x = x.Split(' ')[0].Trim(); return hs.Contains(x); }).ToArray();
+            File.WriteAllLines(@"d:\Projects\smalls\lisen-2.txt", rs);
+
+
+            // for (var i = 5; i <= 22; i++) { Snapshots($"Arrested/S01/S01E{i:00}"); }
 
             //exportComics("003", 10);
 
