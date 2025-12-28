@@ -12,6 +12,9 @@
 </style>
 
 <script src="jquery-2.2.4.min.js"></script>
+<script src="freq-20k.js"></script>
+<script src="lemmas.js"></script>
+
 </head>
 
 <body>
@@ -20,6 +23,8 @@
   </div>
 <script>
     (function () {
+    
+    freqDicClick();
     
     var path = $(location).attr("href").match(/[?&]path=([^&]+)/)[1];
     var videosPath = "/videos/" + path;

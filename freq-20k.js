@@ -6,7 +6,64 @@ $(document).ready(function() {
         p = p.replaceAll(/[\[\]]/g, "");
         if (p) prons.set(kv.key, p);
     });
+    
+    $("body").prepend(`
+        <style>
+            .hidden { display: none; }
+            .freq-dic-item { z-index: 1000; width: 100%; padding: 5pt; top: 0pt; position: fixed; background-color: #ffd; border-bottom: 1pt solid gray; font-size: 16pt; }
+        </style>
+        
+        <div class="freq-dic-item hidden"></div>
+    `);
 });
+
+function freqDicClick() {
+    $(document).on("click", function(e) {
+        var boldDic = function (s) {
+            var w = s.match(/^\d+ ([^ ]+)/)[1];
+            return s.replace(w, `<b>${w}</b>`);
+        };
+
+        $(".freq-dic-item").addClass("hidden");
+        var s = window.getSelection();
+        var r = s.getRangeAt(0);
+        
+        if (r.toString() !== "") return;
+        
+        var node = s.anchorNode;
+        var max = node.textContent.length;
+        
+        while((/^[a-z]*$/i).test(r.toString()) && r.startOffset > 0) {
+            r.setStart(node, (r.startOffset - 1));
+        }
+        
+        while ((/^[^a-z]/i).test(r.toString())) {
+            r.setStart(node, (r.startOffset + 1));
+        }
+        
+        while((/^[a-z]*$/i).test(r.toString()) && r.endOffset < max) {
+            r.setEnd(node, (r.endOffset + 1));
+        }
+        
+        while ((/[^a-z]$/i).test(r.toString())) {
+            r.setEnd(node, (r.endOffset - 1));
+        }
+        
+        var w = r.toString().toLowerCase();
+        if (!w) return;
+        
+        
+        var ls = new Set(getLems(w));
+        
+        var r = freqDic.filter(x => ls.has(x.key)).map(x => "<p>" + boldDic(x.value) + "</p>").join("");
+        
+        if (!r) return;
+        
+        $(".freq-dic-item").html(r);
+        $(".freq-dic-item").removeClass("hidden");
+        // e.stopPropagation();
+    });
+}
 
 var freqDic = [
 "1 the {артикль} [ðэ] тот [3]",

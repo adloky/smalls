@@ -12,7 +12,6 @@
   body { margin: 0pt; }
   .columns2 div, .columns1 div { width: 50%; vertical-align: top; display: inline-block; font-size: 16pt; padding: 10pt; }
   .columns1 div { width: 100%; }
-  .voc { width: 100%; padding: 5pt; top: 0pt; position: fixed; background-color: #ffd; border-bottom: 1pt solid gray; font-size: 16pt; }
 </style>
 
 <script src="jquery-3.3.1.js"></script>
@@ -22,60 +21,4 @@
 
 <body>
 
-<div class="voc hidden"></div>
-
-<script>
-    function boldDic(s) {
-        var w = s.match(/^\d+ ([^ ]+)/)[1];
-        return s.replace(w, `<b>${w}</b>`);
-    }
-
-    $(document).on("click", ".columns2 div, .columns1 div", function(e) {
-        var s = window.getSelection();
-        var r = s.getRangeAt(0);
-        
-        if (r.toString() !== "") return;
-        
-        var node = s.anchorNode;
-        var max = node.textContent.length;
-        
-        while((/^[a-z]*$/i).test(r.toString()) && r.startOffset > 0) {
-            r.setStart(node, (r.startOffset - 1));
-        }
-        
-        while ((/^[^a-z]/i).test(r.toString())) {
-            r.setStart(node, (r.startOffset + 1));
-        }
-        
-        while((/^[a-z]*$/i).test(r.toString()) && r.endOffset < max) {
-            r.setEnd(node, (r.endOffset + 1));
-        }
-        
-        while ((/[^a-z]$/i).test(r.toString())) {
-            r.setEnd(node, (r.endOffset - 1));
-        }
-        
-        var w = r.toString().toLowerCase();
-        if (!w) {
-            $(".voc").addClass("hidden");
-            return;
-        }
-        
-        var ls = new Set(getLems(w));
-        
-        var r = freqDic.filter(x => ls.has(x.key)).map(x => "<p>" + boldDic(x.value) + "</p>").join("");
-        
-        if (!r) {
-            $(".voc").addClass("hidden");
-            return;
-        }
-        
-        $(".voc").html(r);
-        $(".voc").removeClass("hidden");
-        e.stopPropagation();
-    });
-    
-    $(document).click(function() {
-        $(".voc").addClass("hidden");
-    });
-</script>
+<script> freqDicClick(); </script>

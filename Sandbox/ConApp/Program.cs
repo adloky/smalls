@@ -976,81 +976,48 @@ namespace ConApp {
             return r;
         }
 
-        static void srtClear(string path) {
-            var ss = File.ReadAllLines(path);
-            var rs = new List<string>();
-            var i = 0;
-            foreach (var s in ss) {
-                i++;
-                if (i < 3)
-                    continue;
-                if (string.IsNullOrEmpty(s)) {
-                    i = 0;
-                    continue;
-                }
-                rs.Add(s);
-            }
-            File.WriteAllLines(pathEx(path, "-clear"), rs);
-        }
-
-        
         static IEnumerable<List<string>> srtHandle(string path) {
-            var ss = File.ReadAllLines(path);
-            var numRe = new Regex(@"^\d+$", RegexOptions.Compiled);
-            var timeRe = new Regex(@"^\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d$", RegexOptions.Compiled);
-            var i = 0;
-            var rs = new List<string>();
-            for (var j = 0; j < ss.Length; j++) {
-                i++;
-                var s = ss[j];
-                if (i < 3) {
-                    if (i == 1 && !numRe.IsMatch(s) || i == 2 && !timeRe.IsMatch(s)) {
-                        throw new Exception();
+            var ss = new List<string>();
+            var lastN = 0;
+            var n = 0;
+            using (StreamReader reader = new StreamReader(path)) {
+                while (!reader.EndOfStream) {
+                    var s = reader.ReadLine();
+                    var interval = (string)null;
+                    interval = srtIntervalPretty(s);
+
+                    if (interval != null) {
+                        if (int.TryParse(ss.LastOrDefault(), out n)) {
+                            ss.RemoveAt(ss.Count - 1);
+                        }
+                        else {
+                            n = lastN + 1;
+                        }
+
+                        if (ss.Count > 2) {
+                            yield return ss;
+                        }
+                        ss.Clear();
+                        ss.Add(n.ToString());
+                        ss.Add(interval);
+                        lastN = n;
                     }
-                    rs.Add(s);
-                    continue;
-                }
-
-                if (s == "") {
-                    i = 0;
-                    yield return rs;
-                    rs = new List<string>();
-                    continue;
-                }
-
-                rs.Add(s);
-            }
-        }
-        
-        static void srtCheck(string path) {
-            var ss = File.ReadAllLines(path);
-            var numRe = new Regex(@"^\d+$", RegexOptions.Compiled);
-            var timeRe = new Regex(@"^\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d$", RegexOptions.Compiled);
-            var backRe = new Regex(@"-?\([^a-z)]*\)", RegexOptions.Compiled);
-            var i = 0;
-            for (var j = 0; j < ss.Length; j++) {
-                i++;
-                var s = ss[j];
-                if (i < 3) {
-                    if (i == 1 && !numRe.IsMatch(s) || i == 2 && !timeRe.IsMatch(s)) {
-                        Console.WriteLine($"[{j+1}] {path}");
-                        throw new Exception();
+                    else if (s != "") {
+                        ss.Add(s);
                     }
-                    continue;
                 }
 
-                if (s == "") {
-                    i = 0;
-                    continue;
+                if (ss.Count > 2) {
+                    yield return ss;
                 }
             }
         }
 
         static void srtCombine(string path) {
-            var fs = Directory.GetFiles(path, "*.srt").Where(x => !x.EndsWith("all.srt")).ToArray();
+            var fs = Directory.GetFiles(path, "*.srt").Where(x => !x.Contains("all")).ToArray();
             var rs = new List<string>();
             foreach (var f in fs) {
-                var ss = File.ReadAllLines(f).ToList();
+                var ss = srtHandle(f).SelectMany(x => x.Concat(new[] { "" })).ToList();
                 if (ss.Last() != "") ss.Add("");
                 if (ss.Any(x => x == "00:00:00,000 --> 00:00:00,000"))
                     throw new Exception();
@@ -1066,7 +1033,6 @@ namespace ConApp {
         }
 
         static void srtSplit(string path, string ext = null) {
-            srtCheck(path);
             var dir = Path.GetDirectoryName(path);
             var f = (string)null;
             var rs = new List<string>();
@@ -1088,7 +1054,6 @@ namespace ConApp {
 
         static void srtLine(string path, bool tagClear = true) {
             var rs = new List<string>();
-            srtCheck(path);
             foreach (var ss in srtHandle(path)) {
                 ss[2] = string.Join(" ", ss.Skip(2));
                 if (tagClear) {
@@ -2273,20 +2238,41 @@ namespace ConApp {
             waveIn.StopRecording();
         }
 
+        static Regex srtIntervalPrettySpaceRe = new Regex(@"\s", RegexOptions.Compiled);
+        static Regex srtIntervalPrettyNormRe = new Regex(@"^\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d$", RegexOptions.Compiled);
+        static Regex srtIntervalPrettyPrenormRe = new Regex(@"^\d+:\d+:\d+(,\d+)?-->\d+:\d+:\d+(,\d+)?$", RegexOptions.Compiled);
+
+        public static string srtIntervalPretty(string ts) {
+            if (srtIntervalPrettyNormRe.IsMatch(ts)) return ts;
+            ts = srtIntervalPrettySpaceRe.Replace(ts, "");
+            if (!ts.Contains("-->") || !srtIntervalPrettyPrenormRe.IsMatch(ts)) return null;
+            var sp = ts.Split(new[] { "-->" }, ssop).ToArray();
+            if (sp.Length < 2) return null;
+            var rs = sp.Select(s => {
+                var ss = (s + ",000").Split(':', ',').Take(4).ToArray();
+                ss = ss.Select((x, i) => i < 3 ? (x.Length == 2 ? x : x.PadLeft(2, '0')) : (x.Length == 3 ? x : x.PadRight(3, '0')))
+                    .Select((x, i) => i < 3 ? (x.Length == 2 ? x : x.Substring(x.Length - 2, 2)) : (x.Length == 3 ? x : x.Substring(0, 3)))
+                    .ToArray();
+                return $"{ss[0]}:{ss[1]}:{ss[2]},{ss[3]}";
+            }).ToArray();
+
+            return $"{rs[0]} --> {rs[1]}";
+        }
+
         public static void Snapshots(string path) {
             path = path.Replace("\\", "/");
             var fullPath = Path.Combine("e:/videos", path);
             var videoPath = Directory.GetFiles(Path.GetDirectoryName(fullPath), Path.GetFileName(fullPath) + ".*").Where(x => !x.ToLower().EndsWith(".srt")).First();
             var tStrs = srtHandle($"{fullPath}.eng.srt").Select(x => x[1]).ToArray();
             foreach (var tStr in tStrs) {
-                var ts = Regex.Split(tStr, @" ?--> ?").Select(x => TimeSpan.ParseExact(x, @"hh\:mm\:ss\,fff", CultureInfo.InvariantCulture)).ToArray();
+                var ts = srtIntervalPretty(tStr).Split(new[] { " --> " }, ssop).Select(x => TimeSpan.ParseExact(x, @"hh\:mm\:ss\,fff", CultureInfo.InvariantCulture)).ToArray();
                 var tm = new TimeSpan((int)ts.Select(x => x.Ticks).Average());
                 var outputPath = "d:/Projects/smalls/bins/snapshots/" + path + "/" + ts[0].ToString(@"hh\_mm\_ss\_ff", CultureInfo.InvariantCulture) + ".jpg";
                 Directory.CreateDirectory(Path.GetDirectoryName(outputPath));
-                do {
+                while (!File.Exists(outputPath)) {
                     FFmpeg.Conversions.FromSnippet.Snapshot(videoPath, outputPath, ts[0]).Result.Start().Wait();
                     Console.WriteLine(outputPath);
-                } while (!File.Exists(outputPath));
+                };
             }
         }
 
@@ -2296,12 +2282,7 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
-            var hs = new HashSet<string>(File.ReadAllLines(@"d:\Projects\smalls\lisen-pretty.txt").Select(x => x.Split('|')[0]));
-            var rs = File.ReadAllLines(@"d:\Projects\smalls\lisen.txt").Where(x => { x = x.Split(' ')[0].Trim(); return hs.Contains(x); }).ToArray();
-            File.WriteAllLines(@"d:\Projects\smalls\lisen-2.txt", rs);
-
-
-            // for (var i = 5; i <= 22; i++) { Snapshots($"Arrested/S01/S01E{i:00}"); }
+            //for (var i = 22; i <= 22; i++) { Snapshots($"Arrested/S01/S01E{i:00}"); }
 
             //exportComics("003", 10);
 
@@ -2314,12 +2295,11 @@ namespace ConApp {
             //geminiAdapt(@"d:\english-reader\reader-69.txt", 5000); // "Correct the errors in the text in English."
 
             //mdMonitor(); return; // mdPostCom
-            //mdHandle(@"d:\Projects\smalls\english-readers-44g.md");
 
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
             //serRename(@"e:\videos\Arrested\S01");
 
-            /*
+            
             if (!File.Exists(@"d:\.temp\srt\all.srt")) 
                 srtCombine(@"d:\.temp\srt\");
             srtLine(@"d:\.temp\srt\all.srt");
@@ -2328,25 +2308,6 @@ namespace ConApp {
             srtSplit(@"d:\.temp\srt\all.srt", "eng");
             if (File.Exists(@"d:\.temp\srt\all-ru.srt"))
                 srtSplit(@"d:\.temp\srt\all-ru.srt", "rus");
-            */
-
-            //prepareWords("d:/words.txt");
-            //fixQuotes(@"d:\.temp\7.txt");
-            //deepl(@"d:\.temp\st\S01E01[eng]-clear.srt");
-            //File.WriteAllLines("d:/3.txt", posReduce("d:/.temp/3.txt ").Where(x => x.p != "пробел" && x.p != "прочее").Select(x => $"{x.w} {x.p}"));
-            //var s = gemini(File.ReadAllText("d:/1.txt"));
-            //toAscii(@"d:\.temp\3.txt");
-            //learnStat($"d:/.temp/4.txt");
-            //makeTip($"d:/.temp/4.txt");
-
-            /*
-            var name = "S01E05";
-            srtLine($"d:/.temp/srt/{name}[eng]-orig.srt");
-            srtClear($"d:/.temp/srt/{name}[eng].srt");
-            learnStat($"d:/.temp/srt/{name}[eng]-clear.srt");
-            makeTip($"d:/.temp/srt/{name}[eng]-clear.srt", true);
-            srtCombile($"d:/.temp/srt/{name}[eng]-clear-tip.srt", $"d:/.temp/srt/{name}[eng].srt");
-            */
 
             //geminiComicOcr(@"d:\.temp\comics-ocr\");
             //comicOcr(@"d:\.temp\comics-ocr\");
