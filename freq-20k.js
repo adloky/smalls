@@ -9,10 +9,12 @@ $(document).ready(function() {
     
     $("body").prepend(`
         <style>
+            * { box-sizing: border-box; }
             .hidden { display: none; }
-            .freq-dic-box { z-index: 1000; position: fixed; width: 100%; padding: 5pt; top: 0pt; position: fixed; background-color: #ffd; border-bottom: 1pt solid gray; font-size: 16pt; }
-            .freq-dic-box-back { position: fixed; left: 0pt; top: 0pt; width: 100%; height: 100%; }
-            .freq-dic-box-items { position: relative; }
+            .freq-dic-box { z-index: 1000; position: fixed; width: 100%; top: 0pt; background-color: #ffd; border-bottom: 1pt solid gray; font-size: 16pt; }
+            .freq-dic-box p { margin: 8pt; }
+            .freq-dic-box-items { width: 100%; }
+            .freq-dic-box-close { width: 1pt; padding: 5pt 15pt; cursor: pointer; vertical-align: top; }
         </style>
         
         <div class="freq-dic-box hidden"></div>
@@ -61,17 +63,12 @@ function freqDicClick(q) {
         
         if (!r) return;
         
-        $(".freq-dic-box").html(`<div class="freq-dic-box-back"></div><div class="freq-dic-box-items">${r}</div>`);
+        $(".freq-dic-box").html(`<table><tr><td class="freq-dic-box-items">${r}</td><td class="freq-dic-box-close">&#10006;</td></tr></table>`);
         $(".freq-dic-box").removeClass("hidden");
     };
 
-    $(document).on("click", ".freq-dic-box-items", function (e) {
-        e.stopPropagation();
-    });
-    
-    $(document).on("click", ".freq-dic-box-back", function (e) {
+    $(document).on("click", ".freq-dic-box-close", function () {
         $(".freq-dic-box").addClass("hidden");
-        e.stopPropagation();
     });
     
     if (q) {
