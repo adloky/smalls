@@ -21,7 +21,7 @@ $(document).ready(function() {
     `);
 });
 
-function freqDicClick(q) {
+function freqDicClick(q, cq) {
     var fn = function (e) {
         var boldDic = function (s) {
             var w = s.match(/^\d+ ([^ ]+)/)[1];
@@ -65,8 +65,15 @@ function freqDicClick(q) {
         
         $(".freq-dic-box").html(`<table><tr><td class="freq-dic-box-items">${r}</td><td class="freq-dic-box-close">&#10006;</td></tr></table>`);
         $(".freq-dic-box").removeClass("hidden");
+        e.stopPropagation();
     };
 
+    if (cq) {
+        $(document).on("click", cq, function () {
+            $(".freq-dic-box").addClass("hidden");
+        });
+    }
+    
     $(document).on("click", ".freq-dic-box-close", function () {
         $(".freq-dic-box").addClass("hidden");
     });

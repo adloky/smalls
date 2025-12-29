@@ -18,13 +18,15 @@
 </head>
 
 <body>
-  <div style=" margin-top: -200pt; position: fixed; background-color: white; width: 100%; "><img class="snapshot" style=" max-height: 200pt; "/></div>
-  <div class="srt-box" style=" width: 850pt; margin-top: 200pt; ">
+  <div class="wrapper">
+    <div style=" margin-top: -200pt; position: fixed; background-color: white; width: 100%; "><img class="snapshot" style=" max-height: 200pt; "/></div>
+    <div class="srt-box" style=" width: 850pt; margin-top: 200pt; ">
+  </div>
   </div>
 <script>
     (function () {
     
-    freqDicClick(".srt-line.sel");
+    freqDicClick(".srt-line.sel", ".wrapper");
     
     var path = $(location).attr("href").match(/[?&]path=([^&]+)/)[1];
     var videosPath = "/videos/" + path;
