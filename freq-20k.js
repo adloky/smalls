@@ -27,7 +27,7 @@ function freqDicClick(q) {
             var w = s.match(/^\d+ ([^ ]+)/)[1];
             return s.replace(w, `<b>${w}</b>`);
         };
-
+        
         $(".freq-dic-box").addClass("hidden");
         var s = window.getSelection();
         var r = s.getRangeAt(0);
