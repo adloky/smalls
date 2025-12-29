@@ -268,6 +268,7 @@ agoraphobic -> agoraphobics
 agree -> agrees,agreeing,agreed
 agreement -> agreements
 agriculturalist -> agriculturalists
+ah -> aaaah,aaagh,aaah,aagh,aah,aahs,aargh,ahem,ahh,ahhh,ahhhh,argh,arr,arrgh,bom,brr,brrr,brrrr,choo,dhi,diddy,dum,ee,eee,eh,ehm,ei,er,erm,ey,gee,har,heck,hm,hmm,hmmm,huh,humph,hup,mhm,mm,mmm,mmmm,mmmmm,neh,och,pah,psst,rrrm,tt,uh,uhh,uhhh,uhuh,uhum,um,umm,urgh,vroom,wah
 aid -> aids,aiding,aided
 aide -> aides
 aide-de-camp -> aides-de-camp
@@ -788,6 +789,7 @@ avocet -> avocets
 avoid -> avoids,avoiding,avoided
 avow -> avows,avowing,avowed
 avowal -> avowals
+aw -> aaww,aawww,aawwww,aww,awww,bah,hmph,ho,oo,ooo,oooo,oy,sha,ugh,whee,yay,yee,yow
 await -> awaits,awaiting,awaited
 awake -> awakes,awaking,awoke,awoken
 awaken -> awakens,awakening,awakened
@@ -6235,7 +6237,7 @@ heiress -> heiresses
 heirloom -> heirlooms
 helicopter -> helicopters
 heliport -> heliports
-hello -> hellos
+hello -> hellos,allo,hallo,hey,hi,hullo
 helm -> helms
 helmet -> helmets
 helmsman -> helmsmen
@@ -8624,7 +8626,7 @@ nirvana -> nirvanas
 nit -> nits
 nitrate -> nitrates
 nitwit -> nitwits
-no -> noes,no's
+no -> noes,no's,nope
 no -> nos
 nob -> nobs
 nobble -> nobbles,nobbling,nobbled
@@ -8809,6 +8811,7 @@ offset -> offsets,offsetting,offset
 offshoot -> offshoots
 ogle -> ogles,ogling,ogled
 ogre -> ogres
+oh -> aha,cor,dah,duh,gosh,hah,ohh,ohhh,oho,oi,oof,ooh,oooh,oop,oops,ow,rah,sh,shh,shhh,ssh,sshh,tsk,ummm,whew,whoo,woops,woopsy,wow,zz,zzz,zzzz,zzzzz,zzzzzz,zzzzzzz
 ohm -> ohms
 oil -> oils,oiling,oiled
 oilcan -> oilcans
@@ -14744,7 +14747,7 @@ yellow -> yellower,yellowest,yellows,yellowing,yellowed
 yelp -> yelps,yelping,yelped
 yemeni -> yemenis
 yeoman -> yeomen
-yes -> yeses
+yes -> yeses,ya,yah,yea,yeah,yeh,yep,yeses,yup
 yes-man -> yes-men
 yeti -> yetis
 yew -> yews

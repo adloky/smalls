@@ -301,36 +301,6 @@ namespace ConApp {
             return $"{path.Substring(0, path.Length - ext.Length)}{ex}{ext}";
         }
 
-        static void freqAddGVals(string path, string gPath) {
-            var ss = File.ReadAllLines(path);
-            var rs = new List<string>();
-            var dic = File.ReadAllLines(gPath).ToDictionary(x => x.Split('{')[0].Trim());
-
-            foreach (var s in ss) {
-                if (!s.Contains("**")) {
-                    rs.Add(s);
-                    continue;
-                }
-
-                var sp = s.Split(new[] { " **", "** " }, StringSplitOptions.None);
-                var num = sp[0];
-                var key = sp[1];
-                var part = sp[2].Replace("{", "").Split('}')[0];
-                var vals = getGVals(dic[key], part);
-                var min = vals.Length == 0 ? 10 : vals.Select(x => x.freq).Max() - 1;
-                vals = vals.Where(x => x.freq >= min).ToArray();
-                if (vals.Length == 0) {
-                    rs.Add(s);
-                    continue;
-                }
-
-                var s2 = $"{num} **{key}** {{{part}}} {string.Join("; ", vals.Select(x => $"{x.val} [{x.freq}]"))}";
-                rs.Add(s2);
-            }
-
-            File.WriteAllLines(pathEx(path, "-2"), rs);
-        }
-
         static StringSplitOptions ssop = StringSplitOptions.RemoveEmptyEntries;
 
         #region stemmer
@@ -447,26 +417,27 @@ namespace ConApp {
             if (freqDic != null) return freqDic;
 
             freqDic = new Dictionary<string, int>();
-            var exsPath = pathEx(path, "-excepts");
-            var exs = new HashSet<string>();
-            if (File.Exists(exsPath)) {
-                File.ReadAllLines(exsPath).ToList().ForEach(x => exs.Add(x));
-            }
             var ss = File.ReadAllLines(path);
             var addPath = pathEx(path, "-add");
             if (File.Exists(addPath)) {
                 ss = ss.Concat(File.ReadAllLines(addPath)).OrderBy(x => int.Parse(x.Split(' ')[0])).ToArray();
             }
-
+            
+            if (!wPos) {
+                foreach (var x in families.Keys) {
+                    if (x.Length == 1) continue;
+                    freqDic[x + " {прочее}"] = 3;
+                }
+            }
+            
             ss.Where(x => x.Contains(" {")).Select((x,i) => (x: x, i: i+1)).Reverse().ToList().ForEach(xi => {
                 var di = DicItem.Parse(xi.x);
                 if (di.rank == null) {
                     di.rank = xi.i;
                 }
                 if (di.rank > levels.Last()) return;
-                if (di.pos == "междометие") return;
+                if (wPos && di.pos == "междометие") return;
 
-                if (exs.Contains(di.key.ToLower())) return;
                 var w = $"{di.key.ToLower()} {{{(wPos ? di.pos : "прочее")}}}";
 
                 var g = 0;
@@ -486,7 +457,7 @@ namespace ConApp {
         }
 
         static Regex freqGoupSymRe = new Regex(@"[^a-z]", RegexOptions.IgnoreCase | RegexOptions.Compiled);
-        static Regex freqGroupRe = new Regex(@"</?[a-z]('[^']*'|""[^""]*""|[^/>'""]+)*/?>|[a-z0-9]+", RegexOptions.IgnoreCase | RegexOptions.Compiled);
+        static Regex freqGroupRe = new Regex(@"</?[a-z]('[^']*'|""[^""]*""|[^/>'""]+)*/?>|[a-z0-9][a-z0-9'’]*[a-z0-9]|[a-z0-9]+", RegexOptions.IgnoreCase | RegexOptions.Compiled);
         static string[][] freqGroupColors = new[] { new [] { "#ffbc8c", "#99ff99", "#99cbff", "#b399ff" }, new[] { "#cc5400", "#00b200", "#0079ff", "#8000ff" } };
 
         static IEnumerable<Pos> getNullPos(string str) {
@@ -2299,7 +2270,6 @@ namespace ConApp {
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
             //serRename(@"e:\videos\Arrested\S01");
 
-            
             if (!File.Exists(@"d:\.temp\srt\all.srt")) 
                 srtCombine(@"d:\.temp\srt\");
             srtLine(@"d:\.temp\srt\all.srt");
@@ -2308,6 +2278,7 @@ namespace ConApp {
             srtSplit(@"d:\.temp\srt\all.srt", "eng");
             if (File.Exists(@"d:\.temp\srt\all-ru.srt"))
                 srtSplit(@"d:\.temp\srt\all-ru.srt", "rus");
+            
 
             //geminiComicOcr(@"d:\.temp\comics-ocr\");
             //comicOcr(@"d:\.temp\comics-ocr\");
