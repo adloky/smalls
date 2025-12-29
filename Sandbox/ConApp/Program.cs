@@ -456,15 +456,19 @@ namespace ConApp {
             return freqDic;
         }
 
+        static string fgAmp = "'’";
+        static Regex freqGoupSRe = new Regex($"[{fgAmp}]s$", RegexOptions.IgnoreCase | RegexOptions.Compiled);
         static Regex freqGoupSymRe = new Regex(@"[^a-z]", RegexOptions.IgnoreCase | RegexOptions.Compiled);
-        static Regex freqGroupRe = new Regex(@"</?[a-z]('[^']*'|""[^""]*""|[^/>'""]+)*/?>|[a-z0-9][a-z0-9'’]*[a-z0-9]|[a-z0-9]+", RegexOptions.IgnoreCase | RegexOptions.Compiled);
+        static Regex freqGroupRe = new Regex(@"\t|[\w][\w'']+[\w]|[\w]+".Replace(@"\t", @"</?[a-z]('[^']*'|""[^""]*""|[^/>'""]+)*/?>").Replace(@"\w", "a-z0-9").Replace("''", fgAmp), RegexOptions.IgnoreCase | RegexOptions.Compiled);
         static string[][] freqGroupColors = new[] { new [] { "#ffbc8c", "#99ff99", "#99cbff", "#b399ff" }, new[] { "#cc5400", "#00b200", "#0079ff", "#8000ff" } };
 
         static IEnumerable<Pos> getNullPos(string str) {
-            return getMatches(str, freqGroupRe).Select(t => new Pos() { s = t.x, pos = (t.m == null || freqGoupSymRe.IsMatch(t.x) ? null : "прочее") });
+            return getMatches(str, freqGroupRe).SelectMany(t => {
+                if (t.m == null) return Enumerable.Repeat(new Pos() { s = t.x }, 1);
+                var xs = !freqGoupSRe.IsMatch(t.x) ? Enumerable.Repeat(t.x, 1) : new[] { t.x.Substring(0, t.x.Length-2), t.x.Substring(t.x.Length-2, 2) };
+                return xs.Select(x => new Pos() { s = x, pos = freqGoupSymRe.IsMatch(x) ? null : "прочее" });
+            });
         }
-
-        static Regex fgAmpRe = new Regex("['’]");
 
         static IEnumerable<(string x, int g, string pos)> freqGrouping(string s, Dictionary<string, int> dic = null, bool wPos = false) {
             var posEx = new[] { null, "имя", "междометие", "числительное" };
@@ -2234,6 +2238,9 @@ namespace ConApp {
             path = path.Replace("\\", "/");
             var fullPath = Path.Combine("e:/videos", path);
             var videoPath = Directory.GetFiles(Path.GetDirectoryName(fullPath), Path.GetFileName(fullPath) + ".*").Where(x => !x.ToLower().EndsWith(".srt")).First();
+            var strm = FFmpeg.GetMediaInfo(videoPath).Result.VideoStreams.First();
+            var ratio =  48000 / strm.Width;
+            var height = strm.Height * ratio / 100;
             var tStrs = srtHandle($"{fullPath}.eng.srt").Select(x => x[1]).ToArray();
             foreach (var tStr in tStrs) {
                 var ts = srtIntervalPretty(tStr).Split(new[] { " --> " }, ssop).Select(x => TimeSpan.ParseExact(x, @"hh\:mm\:ss\,fff", CultureInfo.InvariantCulture)).ToArray();
@@ -2241,7 +2248,9 @@ namespace ConApp {
                 var outputPath = "d:/Projects/smalls/bins/snapshots/" + path + "/" + ts[0].ToString(@"hh\_mm\_ss\_ff", CultureInfo.InvariantCulture) + ".jpg";
                 Directory.CreateDirectory(Path.GetDirectoryName(outputPath));
                 while (!File.Exists(outputPath)) {
-                    FFmpeg.Conversions.FromSnippet.Snapshot(videoPath, outputPath, ts[0]).Result.Start().Wait();
+                    var conv = FFmpeg.Conversions.FromSnippet.Snapshot(videoPath, outputPath, ts[0]).Result;
+                    conv.AddParameter($"-s 480x{height} -q:v 10");
+                    conv.Start().Wait();
                     Console.WriteLine(outputPath);
                 };
             }
@@ -2253,7 +2262,7 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
-            //for (var i = 22; i <= 22; i++) { Snapshots($"Arrested/S01/S01E{i:00}"); }
+            // var ssn = "Arrested/S01"; for (var i = 1; i <= 22; i++) { Snapshots($"{ssn}/{ssn.Split('/')[1]}E{i:00}"); }
 
             //exportComics("003", 10);
 
@@ -2270,6 +2279,7 @@ namespace ConApp {
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
             //serRename(@"e:\videos\Arrested\S01");
 
+            
             if (!File.Exists(@"d:\.temp\srt\all.srt")) 
                 srtCombine(@"d:\.temp\srt\");
             srtLine(@"d:\.temp\srt\all.srt");
