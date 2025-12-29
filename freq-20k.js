@@ -10,21 +10,23 @@ $(document).ready(function() {
     $("body").prepend(`
         <style>
             .hidden { display: none; }
-            .freq-dic-item { z-index: 1000; width: 100%; padding: 5pt; top: 0pt; position: fixed; background-color: #ffd; border-bottom: 1pt solid gray; font-size: 16pt; }
+            .freq-dic-box { z-index: 1000; position: fixed; width: 100%; padding: 5pt; top: 0pt; position: fixed; background-color: #ffd; border-bottom: 1pt solid gray; font-size: 16pt; }
+            .freq-dic-box-back { position: fixed; left: 0pt; top: 0pt; width: 100%; height: 100%; }
+            .freq-dic-box-items { position: relative; }
         </style>
         
-        <div class="freq-dic-item hidden"></div>
+        <div class="freq-dic-box hidden"></div>
     `);
 });
 
-function freqDicClick() {
-    $(document).on("click", function(e) {
+function freqDicClick(q) {
+    var fn = function (e) {
         var boldDic = function (s) {
             var w = s.match(/^\d+ ([^ ]+)/)[1];
             return s.replace(w, `<b>${w}</b>`);
         };
 
-        $(".freq-dic-item").addClass("hidden");
+        $(".freq-dic-box").addClass("hidden");
         var s = window.getSelection();
         var r = s.getRangeAt(0);
         
@@ -59,10 +61,25 @@ function freqDicClick() {
         
         if (!r) return;
         
-        $(".freq-dic-item").html(r);
-        $(".freq-dic-item").removeClass("hidden");
-        // e.stopPropagation();
+        $(".freq-dic-box").html(`<div class="freq-dic-box-back"></div><div class="freq-dic-box-items">${r}</div>`);
+        $(".freq-dic-box").removeClass("hidden");
+    };
+
+    $(document).on("click", ".freq-dic-box-items", function (e) {
+        e.stopPropagation();
     });
+    
+    $(document).on("click", ".freq-dic-box-back", function (e) {
+        $(".freq-dic-box").addClass("hidden");
+        e.stopPropagation();
+    });
+    
+    if (q) {
+        $(document).on("click", q, fn);
+    }
+    else {
+        $(document).on("click", fn);
+    }
 }
 
 var freqDic = [
