@@ -31,13 +31,12 @@ function getLems(x) {
     else if (ingEdRe.test(x) && /[yuoaie]/.test(woutIngEd)) {
         x = woutIngEd;
         if (/(bb|dd|ff|gg|mm|nn|pp|rr|tt)$/.test(x)) {
-            x = x.substr(0, x.length - 1);
-            rs.push(x);
+            x = x.replace(/.$/, "");
         }
         else {
-            rs.push(x);
             rs.push(x + "e");
         }
+        rs.push(x);
     }
     else if (x.endsWith("est")) {
         x = x.replace(/est$/, "");
