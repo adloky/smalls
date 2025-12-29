@@ -2279,7 +2279,7 @@ namespace ConApp {
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
             //serRename(@"e:\videos\Arrested\S01");
 
-            
+            /*
             if (!File.Exists(@"d:\.temp\srt\all.srt")) 
                 srtCombine(@"d:\.temp\srt\");
             srtLine(@"d:\.temp\srt\all.srt");
@@ -2288,7 +2288,27 @@ namespace ConApp {
             srtSplit(@"d:\.temp\srt\all.srt", "eng");
             if (File.Exists(@"d:\.temp\srt\all-ru.srt"))
                 srtSplit(@"d:\.temp\srt\all-ru.srt", "rus");
-            
+            */
+
+            var hs = new HashSet<string>(File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(x => DicItem.Parse(x).key.ToLower()));
+            hs.Where(x => x.EndsWith("ing") && !x.Contains("-") && getDicVal(x, x, families) == x)
+                .Select(x => {
+                    var ox = x;
+                    x = Regex.Replace(x, "ing$", "");
+                    var fs = new string[] { };
+                    if (Regex.IsMatch(x, "(bb|dd|ff|gg|mm|nn|pp|rr|tt)$")) {
+                        fs = new[] { x.Substring(0, x.Length - 1) };
+                    }
+                    else if (!Regex.IsMatch(x, "[yuoaie]")) {
+                        fs = new[] { x };
+                    }
+                    else {
+                        fs = new[] { x, x + "e" };
+                    }
+
+                    return (fs.Any(f => hs.Contains(f)) ? "+" : "") + ox;
+                })
+                .ToList().ForEach(Console.WriteLine);
 
             //geminiComicOcr(@"d:\.temp\comics-ocr\");
             //comicOcr(@"d:\.temp\comics-ocr\");

@@ -35,6 +35,7 @@ function getLems(x) {
             rs.push(x);
         }
         else {
+            rs.push(x);
             rs.push(x + "e");
         }
     }
@@ -2351,5 +2352,46 @@ var lemExs2 = new Set([
 "watershed",
 "wed",
 "weed",
-"woodshed"
+"woodshed",
+"thing", // ing
+"something",
+"anything",
+"everything",
+"during",
+"bring",
+"nothing",
+"morning",
+"spring",
+"evening",
+"sing",
+"ring",
+"wing",
+"king",
+"swing",
+"ceiling",
+"string",
+"ongoing",
+"sibling",
+"cling",
+"fling",
+"viking",
+"darling",
+"offspring",
+"pending",
+"earring",
+"outing",
+"sting",
+"impending",
+"pudding",
+"sling",
+"herring",
+"wring",
+"hamstring",
+"casing",
+"sterling",
+"awning",
+"inkling",
+"scathing",
+"sapling",
+"hulking"
 ]);
