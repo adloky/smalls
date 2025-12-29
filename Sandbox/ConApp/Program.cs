@@ -2290,7 +2290,35 @@ namespace ConApp {
                 srtSplit(@"d:\.temp\srt\all-ru.srt", "rus");
             */
 
+            //var ss = File.ReadAllLines(@"d:\woutEst.txt").Where(x => !x.Split(',')[0].Contains("est\"")).ToList();
+            //File.WriteAllLines(@"d:\woutEst-2.txt", ss);
+
             var hs = new HashSet<string>(File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(x => DicItem.Parse(x).key.ToLower()));
+
+            TempLemmas.vals.ForEach(x => {
+                var x0 = x[0];
+                x0 = Regex.Replace(x0, @"est$", "");
+                x0 = Regex.Replace(x0, @"i$", "y");
+                var xs = new [] { x0 };
+                if (Regex.IsMatch(x0, @"(bb|dd|ff|gg|mm|nn|pp|rr|tt)$")) {
+                    x0 = x0.Substring(0, x0.Length - 1);
+                    xs = new[] { x0 };
+                }
+                else if (Regex.IsMatch(x0, @"[^yuoaie]$")) {
+                    xs = new[] { x0, x0 + "e" };
+                    if (hs.Contains(xs[0]) && hs.Contains(xs[1])) Console.WriteLine($"{x[0]} {x[1]}");
+                }
+                if (!xs.Any(y => y == x[1])) {
+                    //Console.WriteLine($"{x[0]} {x[1]}");
+                }
+            });
+            /*
+            
+
+            var re = new Regex(@"(est)$", RegexOptions.Compiled);
+            hs.Where(x => re.IsMatch(x) && getDicVal(x, x, families) == x).ToList().ForEach(Console.WriteLine);
+            */
+            /*
             hs.Where(x => x.EndsWith("ing") && !x.Contains("-") && getDicVal(x, x, families) == x)
                 .Select(x => {
                     var ox = x;
@@ -2309,7 +2337,7 @@ namespace ConApp {
                     return (fs.Any(f => hs.Contains(f)) ? "+" : "") + ox;
                 })
                 .ToList().ForEach(Console.WriteLine);
-
+            */
             //geminiComicOcr(@"d:\.temp\comics-ocr\");
             //comicOcr(@"d:\.temp\comics-ocr\");
             //comicOcrPost(@"d:\.temp\comics-ocr\", 10, 3); // 20,5 archie
