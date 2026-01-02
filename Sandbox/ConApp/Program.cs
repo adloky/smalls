@@ -2262,27 +2262,10 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
-            var path = @"d:\Projects\smalls\cefr-c2-ru.txt";
-            var c2 = new Dictionary<string, List<DicItem>>();
-            File.ReadAllLines(path).Select(x => DicItem.Parse("30000 " + x)).ToList().ForEach(x => {
-                var k = $"{x.key} {{{x.pos}}}";
-                if (c2.ContainsKey(k)) {
-                    c2[k].Add(x);
-                }
-                else {
-                    c2[k] = new List<DicItem>() { x };
-                }
-            });
-            File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(x => DicItem.Parse(x)).ToList().ForEach(x => {
-                var k = $"{x.key} {{{x.pos}}}";
-                if (c2.ContainsKey(k)) {
-                    c2[k].ForEach(y => { y.rank = x.rank; });
-                }
-            });
-
-            var rs = c2.Values.SelectMany(x => x).OrderBy(x => x.rank).Take(1700).Select(x => x.ToString()).ToList();
+            var path = @"d:\Projects\smalls\cefr-ru.txt";
+            var ss = File.ReadAllLines(path).Distinct().ToList();
             //rs.ForEach(Console.WriteLine);
-            File.WriteAllLines(@"d:/1.txt", rs);
+            File.WriteAllLines(pathEx(path, "-2"), ss);
 
             /*
             var path = @"d:\Projects\smalls\cefr-c2-cor.txt";
