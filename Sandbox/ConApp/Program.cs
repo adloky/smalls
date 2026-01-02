@@ -2269,6 +2269,15 @@ namespace ConApp {
             var rs = new List<string>();
             ss.ForEach(s => {
                 var d = DicItem.Parse(s);
+                var v = string.Join("; ", d.vals).Replace(";", ",");
+                d.vals.Clear();
+                d.vals.Add(v);
+                rs.Add(d.ToString());
+            });
+            File.WriteAllLines(pathEx(path, "-2"), rs);
+            /*
+            ss.ForEach(s => {
+                var d = DicItem.Parse(s);
                 if (!hs.Contains(d.key)) {
                     rs.Add(s);
                 }
@@ -2283,6 +2292,7 @@ namespace ConApp {
             });
 
             File.WriteAllLines(pathEx(path, "-2"), rs);
+            */
 
             /*
             var path = @"d:\Projects\smalls\cefr-c2-cor.txt";
