@@ -2263,34 +2263,26 @@ namespace ConApp {
             Console.OutputEncoding = Encoding.UTF8;
 
             var path = @"d:\Projects\smalls\cefr-c2-ru.txt";
-            var ss = File.ReadAllLines(path).ToList();
-            var hs = new HashSet<string>();
-            /*
-            for (var i = 0; i < ss.Count; i++) {
-                ss[i] = ss[i]
-                    .Replace("{determiner}", "{определитель}")
-                    .Replace("{preposition}", "{предлог}")
-                    .Replace("{adverb}", "{наречие}")
-                    .Replace("{noun}", "{существительное}")
-                    .Replace("{adjective}", "{прилагательное}")
-                    .Replace("{other}", "{прочее}")
-                    .Replace("{conjunction}", "{союз}")
-                    .Replace("{verb}", "{глагол}")
-                    .Replace("{pronoun}", "{местоимение}")
-                    .Replace("{phrase}", "{фраза}")
-                    .Replace("{number}", "{числительное}");
-
-            }
-            File.WriteAllLines(pathEx(path, "-2"), ss);
-            */
-
-            
-            ss.ForEach(s => {
-                hs.Add(Regex.Match(s, @"\{[^}]*\}").Value);
+            var c2 = new Dictionary<string, List<DicItem>>();
+            File.ReadAllLines(path).Select(x => DicItem.Parse("30000 " + x)).ToList().ForEach(x => {
+                var k = $"{x.key} {{{x.pos}}}";
+                if (c2.ContainsKey(k)) {
+                    c2[k].Add(x);
+                }
+                else {
+                    c2[k] = new List<DicItem>() { x };
+                }
             });
-            
+            File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(x => DicItem.Parse(x)).ToList().ForEach(x => {
+                var k = $"{x.key} {{{x.pos}}}";
+                if (c2.ContainsKey(k)) {
+                    c2[k].ForEach(y => { y.rank = x.rank; });
+                }
+            });
 
-            hs.ToList().ForEach(Console.WriteLine);
+            var rs = c2.Values.SelectMany(x => x).OrderBy(x => x.rank).Take(1700).Select(x => x.ToString()).ToList();
+            //rs.ForEach(Console.WriteLine);
+            File.WriteAllLines(@"d:/1.txt", rs);
 
             /*
             var path = @"d:\Projects\smalls\cefr-c2-cor.txt";
