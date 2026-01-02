@@ -2279,7 +2279,7 @@ namespace ConApp {
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
             //serRename(@"e:\videos\Arrested\S01");
 
-            
+            /*
             if (!File.Exists(@"d:\.temp\srt\all.srt")) 
                 srtCombine(@"d:\.temp\srt\");
             srtLine(@"d:\.temp\srt\all.srt");
@@ -2288,8 +2288,10 @@ namespace ConApp {
             srtSplit(@"d:\.temp\srt\all.srt", "eng");
             if (File.Exists(@"d:\.temp\srt\all-ru.srt"))
                 srtSplit(@"d:\.temp\srt\all-ru.srt", "rus");
-            
+            */
 
+            File.ReadAllLines(@"d:/1.txt").Where(x => x.Count(y => y == '|') != 5).ToList().ForEach(Console.WriteLine);
+            
             //geminiComicOcr(@"d:\.temp\comics-ocr\");
             //comicOcr(@"d:\.temp\comics-ocr\");
             //comicOcrPost(@"d:\.temp\comics-ocr\", 10, 3); // 20,5 archie
