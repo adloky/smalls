@@ -2262,6 +2262,46 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
+            var path = @"d:\Projects\smalls\cefr-ru.txt";
+            var ss = File.ReadAllLines(path).ToList();
+            var hs = new HashSet<string>();
+            for (var i = 0; i < ss.Count; i++) {
+                ss[i] = ss[i]
+                    .Replace("{determiner}", "{определитель}")
+                    .Replace("{preposition}", "{предлог}")
+                    .Replace("{adverb}", "{наречие}")
+                    .Replace("{noun}", "{существительное}")
+                    .Replace("{adjective}", "{прилагательное}")
+                    .Replace("{other}", "{прочее}")
+                    .Replace("{conjunction}", "{союз}")
+                    .Replace("{verb}", "{глагол}")
+                    .Replace("{pronoun}", "{местоимение}")
+                    .Replace("{phrase}", "{фраза}")
+                    .Replace("{number}", "{числительное}");
+
+            }
+            File.WriteAllLines(pathEx(path, "-2"), ss);
+            /*
+             * ss.ForEach(s => {
+{determiner}
+{preposition}
+{adverb}
+{noun}
+{adjective}
+{other}
+{conjunction}
+{verb}
+{pronoun}
+{phrase}
+{number}
+            hs.Add(Regex.Match(s, @"\{[^}]*\}").Value);
+            });
+
+             */
+
+            hs.ToList().ForEach(Console.WriteLine);
+
+            /*
             var path = @"d:\Projects\smalls\cefr-c2-cor.txt";
             var path2 = pathEx(path, "-2");
             if (!File.Exists(path2)) File.WriteAllText(path2, "");
@@ -2298,8 +2338,8 @@ namespace ConApp {
                     File.AppendAllLines(path2, rs0);
                 } while (false);
             }
+            */
 
-            
 
             // var ssn = "Arrested/S01"; for (var i = 1; i <= 22; i++) { Snapshots($"{ssn}/{ssn.Split('/')[1]}E{i:00}"); }
 
