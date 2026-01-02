@@ -2262,9 +2262,10 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
-            var path = @"d:\Projects\smalls\cefr-ru.txt";
+            var path = @"d:\Projects\smalls\cefr-c2-ru.txt";
             var ss = File.ReadAllLines(path).ToList();
             var hs = new HashSet<string>();
+            /*
             for (var i = 0; i < ss.Count; i++) {
                 ss[i] = ss[i]
                     .Replace("{determiner}", "{определитель}")
@@ -2281,23 +2282,13 @@ namespace ConApp {
 
             }
             File.WriteAllLines(pathEx(path, "-2"), ss);
-            /*
-             * ss.ForEach(s => {
-{determiner}
-{preposition}
-{adverb}
-{noun}
-{adjective}
-{other}
-{conjunction}
-{verb}
-{pronoun}
-{phrase}
-{number}
-            hs.Add(Regex.Match(s, @"\{[^}]*\}").Value);
-            });
+            */
 
-             */
+            
+            ss.ForEach(s => {
+                hs.Add(Regex.Match(s, @"\{[^}]*\}").Value);
+            });
+            
 
             hs.ToList().ForEach(Console.WriteLine);
 
