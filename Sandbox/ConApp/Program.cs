@@ -2262,6 +2262,45 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
+            var path = @"d:\Projects\smalls\cefr-cor.txt";
+            var path2 = pathEx(path, "-2");
+            if (!File.Exists(path2)) File.WriteAllText(path2, "");
+            var rs = File.ReadAllLines(path2).ToList();
+
+            var cs = File.ReadAllLines(path).Skip(rs.Count)
+                .Select((x, i) => new { x, i }).GroupBy(e => e.i / 60).Select(g => g.Select(e => e.x).ToArray());
+
+            foreach (var ss in cs) {
+                do {
+                    if (ctrlC) break;
+                    Console.WriteLine("TRY");
+                    var ss2 = ss.Select(s => {
+                        var sp = s.Split('|');
+                        var cx = string.Join(",", (new[] { sp[1], sp[4] }).Where(x => x != ""));
+                        if (cx != "") cx = " {context: " + cx + "}";
+                        return $"{sp[0]} [POS:{sp[3]}]{cx}";
+                    }).ToList();
+                    var qs = "Дан список словосочетаний на английском в формате 'словосочетание [POS] {context}', context может быть опущен. Нужны одно, в крайнем случае два значения этих словосочетаний на русском.\nВыведи только итоговый список значений в формате: 'словосочетание {POS} значения'. Сохраняй порядок слов и их колличество. Не добавляй объяснений, вводных фраз и заключений.\nДалее список словосочетаний:\n";
+                    var q = string.Join("\n", (new [] { qs }).Concat(ss2));
+                    var r = (string)null;
+                    while (r == null && !ctrlC) {
+                        try { r = DeepSeek.Get(q); } catch (Exception e) { Console.WriteLine(e.Message); }
+                        Thread.Sleep(2000);
+                    }
+                    Thread.Sleep(2000);
+                    if (ctrlC) break;
+                    var rs0 = Regex.Split(r.Replace("*", "").Replace("[", "{").Replace("]", "}"), $"\r?\n").ToArray();
+                    if (ss.Length != rs0.Length || rs0.Any(x => !Regex.IsMatch(x, @"^[^{]+\{[^}]+\}"))) continue;
+                    var ssl = ss.Select(s => s.Split('|')[2]).ToArray();
+                    rs0 = rs0.Select((s, i) => $"{s} [{ssl[i]}]").ToArray();
+
+                    Console.WriteLine(string.Join("\n", rs0));
+                    File.AppendAllLines(path2, rs0);
+                } while (false);
+            }
+
+            
+
             // var ssn = "Arrested/S01"; for (var i = 1; i <= 22; i++) { Snapshots($"{ssn}/{ssn.Split('/')[1]}E{i:00}"); }
 
             //exportComics("003", 10);
@@ -2290,8 +2329,6 @@ namespace ConApp {
                 srtSplit(@"d:\.temp\srt\all-ru.srt", "rus");
             */
 
-            File.ReadAllLines(@"d:/1.txt").Where(x => x.Count(y => y == '|') != 5).ToList().ForEach(Console.WriteLine);
-            
             //geminiComicOcr(@"d:\.temp\comics-ocr\");
             //comicOcr(@"d:\.temp\comics-ocr\");
             //comicOcrPost(@"d:\.temp\comics-ocr\", 10, 3); // 20,5 archie
