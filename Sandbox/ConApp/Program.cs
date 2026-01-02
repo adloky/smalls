@@ -2262,10 +2262,27 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
+            var hs = new HashSet<string>(File.ReadAllLines(@"d:/1.txt").Distinct());
+
             var path = @"d:\Projects\smalls\cefr-ru.txt";
             var ss = File.ReadAllLines(path).Distinct().ToList();
-            //rs.ForEach(Console.WriteLine);
-            File.WriteAllLines(pathEx(path, "-2"), ss);
+            var rs = new List<string>();
+            ss.ForEach(s => {
+                var d = DicItem.Parse(s);
+                if (!hs.Contains(d.key)) {
+                    rs.Add(s);
+                }
+                else {
+                    var d2 = DicItem.Parse(s);
+                    var ks = d.key.Split(new[] { " or " }, ssop);
+                    if (ks.Length < 2) new Exception();
+                    d.key = ks[0];
+                    d2.key = ks[1];
+                    rs.AddRange(new[] { d.ToString(), d2.ToString() });
+                }
+            });
+
+            File.WriteAllLines(pathEx(path, "-2"), rs);
 
             /*
             var path = @"d:\Projects\smalls\cefr-c2-cor.txt";
