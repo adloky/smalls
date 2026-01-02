@@ -2262,7 +2262,7 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
-            var path = @"d:\Projects\smalls\cefr-cor.txt";
+            var path = @"d:\Projects\smalls\cefr-c2-cor.txt";
             var path2 = pathEx(path, "-2");
             if (!File.Exists(path2)) File.WriteAllText(path2, "");
             var rs = File.ReadAllLines(path2).ToList();
