@@ -2265,15 +2265,21 @@ namespace ConApp {
             var hs = new HashSet<string>(File.ReadAllLines(@"d:/1.txt").Distinct());
 
             var path = @"d:\Projects\smalls\cefr-ru.txt";
-            var ss = File.ReadAllLines(path).Distinct().ToList();
-            var rs = new List<string>();
-            ss.ForEach(s => {
-                var d = DicItem.Parse(s);
-                var v = string.Join("; ", d.vals).Replace(";", ",");
-                d.vals.Clear();
-                d.vals.Add(v);
-                rs.Add(d.ToString());
+            var ds = File.ReadAllLines(path).Select((x,i) => { var d = DicItem.Parse(x); d.rank = i; return d; }).ToList();
+            //var rs = new List<string>();
+            var dic = new Dictionary<string, DicItem>();
+            
+            ds.ForEach(d => {
+                var k = $"{d.key} {{{d.pos}}}";
+                if (dic.ContainsKey(k)) {
+                    dic[k].vals.AddRange(d.vals);
+                }
+                else {
+                    dic[k] = d;
+                }
             });
+
+            var rs = dic.Values.OrderBy(d => d.rank).Select(d => d.ToString()).ToList();
             File.WriteAllLines(pathEx(path, "-2"), rs);
             /*
             ss.ForEach(s => {
