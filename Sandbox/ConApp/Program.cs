@@ -2262,18 +2262,63 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
-            var hs = new HashSet<string>(File.ReadAllLines(@"d:/1.txt").Distinct());
+            var cDic = (new List<string[]> {
+                new [] { "determiner", "определитель" },
+                new [] { "preposition", "предлог" },
+                new [] { "adverb", "наречие" },
+                new [] { "noun", "существительное" },
+                new [] { "adjective", "прилагательное" },
+                new [] { "exclamation", "междометие" },
+                new [] { "conjunction", "союз" },
+                new [] { "verb", "глагол" },
+                new [] { "pronoun", "местоимение" },
+                new [] { "phrase", "фраза" },
+                new [] { "modal verb", "глагол" },
+                new [] { "phrasal verb", "глагол" },
+                new [] { "auxiliary verb", "глагол" },
+                new [] { "number", "числительное" },
+            }).ToDictionary(x => x[0], x => x[1]);
 
-            var path = @"d:\Projects\smalls\cefr-ru.txt";
-            var ds = File.ReadAllLines(path).Select((x,i) => { var d = DicItem.Parse(x); return d; }).ToList();
-            var rs = new List<string>();
+
+            var path = @"d:\Projects\smalls\cefr.txt";
+            var ds = File.ReadAllLines(path).Select((s, i) => {
+                var sp = s.Split('|');
+                var d = new DicItem();
+                d.key = sp[0];
+                d.pos = cDic[sp[3]];
+                d.rank = i;
+                sp[4] = sp[4] == "" ? "" : $"({sp[4]})";
+                var ctx = string.Join(" ", (new[] { sp[1], sp[4] }).Where(x => x != ""));
+                d.vals.Add((ctx == "" ? "-" : ctx) + $" [{sp[2]}]");
+                return d;
+            }).ToList();
+
             var dic = new Dictionary<string, DicItem>();
-            
+            ds.ForEach(d => {
+                var k = $"{d.key} {{{d.pos}}}";
+                if (dic.ContainsKey(k)) {
+                    dic[k].vals.AddRange(d.vals);
+                }
+                else {
+                    dic[k] = d;
+                }
+            });
+
+            var rs = dic.Values.OrderBy(d => d.rank).Select(d => d.ToString()).ToList();
+            File.WriteAllLines(pathEx(path, "-NEXT"), rs);
+            //var ds = File.ReadAllLines(path).Select((x,i) => DicItem.Parse(x)).ToList();
+            //var ks = ds.Select(d => $"{d.key} {{{d.pos}}}").ToList();
+            //var hs = new HashSet<string>(ks);
+            //var rs = new List<string>();
+
+
+            /*
             ds.ForEach(d => {
                 if (getMatches(d.key, new Regex(@"[a-zA-Z'\-]+")).Count(x => x.m != null) > 1 && d.pos == "глагол") {
                     Console.WriteLine(d.ToString());
                 }
             });
+            */
             //File.WriteAllLines(pathEx(path, "-2"), rs);
             /*
             ss.ForEach(s => {
