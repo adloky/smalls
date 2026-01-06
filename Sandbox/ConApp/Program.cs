@@ -122,6 +122,8 @@ namespace ConApp {
 
         public List<string> vals { get; set; } = new List<string>();
 
+        public string getKeyPos() { return $"{key} {{{pos}}}"; }
+
         public static DicItem Parse(string s) {
             var r = new DicItem();
             var sp = s.Split(new[] { " {", "}" }, StringSplitOptions.RemoveEmptyEntries);
@@ -2261,52 +2263,35 @@ namespace ConApp {
         static async Task Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
+            var ls = (new[] { ("A1", 100000), ("A2", 200000), ("B1", 300000), ("B2", 400000), ("C1", 500000) }).ToDictionary(x => x.Item1, x => x.Item2);
 
-            var cDic = (new List<string[]> {
-                new [] { "determiner", "определитель" },
-                new [] { "preposition", "предлог" },
-                new [] { "adverb", "наречие" },
-                new [] { "noun", "существительное" },
-                new [] { "adjective", "прилагательное" },
-                new [] { "exclamation", "междометие" },
-                new [] { "conjunction", "союз" },
-                new [] { "verb", "глагол" },
-                new [] { "pronoun", "местоимение" },
-                new [] { "phrase", "фраза" },
-                new [] { "modal verb", "глагол" },
-                new [] { "phrasal verb", "глагол" },
-                new [] { "auxiliary verb", "глагол" },
-                new [] { "number", "числительное" },
-            }).ToDictionary(x => x[0], x => x[1]);
-
-
+            var fDic = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(s => DicItem.Parse(s)).ToDictionary(d => d.getKeyPos(), d => d);
             var path = @"d:\Projects\smalls\cefr.txt";
-            var ds = File.ReadAllLines(path).Select((s, i) => {
-                var sp = s.Split('|');
-                var d = new DicItem();
-                d.key = sp[0];
-                d.pos = cDic[sp[3]];
-                d.rank = i;
-                sp[4] = sp[4] == "" ? "" : $"({sp[4]})";
-                var ctx = string.Join(" ", (new[] { sp[1], sp[4] }).Where(x => x != ""));
-                d.vals.Add((ctx == "" ? "-" : ctx) + $" [{sp[2]}]");
-                return d;
-            }).ToList();
-
-            var dic = new Dictionary<string, DicItem>();
-            ds.ForEach(d => {
-                var k = $"{d.key} {{{d.pos}}}";
-                if (dic.ContainsKey(k)) {
-                    dic[k].vals.AddRange(d.vals);
+            var ss = File.ReadAllLines(path).ToList();
+            var wordRe = new Regex(@"^([a-z][a-z\-]*[a-z]|[a-z])+$", RegexOptions.IgnoreCase | RegexOptions.Compiled);
+            var levRe = new Regex(@"\[[ABC][12]\]", RegexOptions.IgnoreCase | RegexOptions.Compiled);
+            var rs = new List<string>();
+            var rs2 = new List<string>();
+            var def = new DicItem() { rank = 30000 };
+            ss.ForEach(s => {
+                var d = DicItem.Parse(s);
+                var l = getMatches(d.vals[0], levRe).Where(x => x.m != null).Select(x => x.x).FirstOrDefault().Substring(1,2);
+                var k = d.getKeyPos();
+                d.rank = ls[l] + getDicVal(k, def, fDic).rank;
+                rs.Add(d.ToString());
+                /*
+                if (!wordRe.IsMatch(d.key) && d.pos != "глагол" && d.pos != "фраза") {
+                    rs.Add(s);
                 }
                 else {
-                    dic[k] = d;
+                    rs2.Add(s);
                 }
+                */
             });
+            //rs.Add("===");
+            //rs.AddRange(rs2);
+            File.WriteAllLines(pathEx(path, "-2"), rs);
 
-            var rs = dic.Values.OrderBy(d => d.rank).Select(d => d.ToString()).ToList();
-            File.WriteAllLines(pathEx(path, "-NEXT"), rs);
-            //var ds = File.ReadAllLines(path).Select((x,i) => DicItem.Parse(x)).ToList();
             //var ks = ds.Select(d => $"{d.key} {{{d.pos}}}").ToList();
             //var hs = new HashSet<string>(ks);
             //var rs = new List<string>();
