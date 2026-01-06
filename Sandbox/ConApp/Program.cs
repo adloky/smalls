@@ -2275,21 +2275,21 @@ namespace ConApp {
             var def = new DicItem() { rank = 30000 };
             ss.ForEach(s => {
                 var d = DicItem.Parse(s);
-                var l = getMatches(d.vals[0], levRe).Where(x => x.m != null).Select(x => x.x).FirstOrDefault().Substring(1,2);
-                var k = d.getKeyPos();
-                d.rank = ls[l] + getDicVal(k, def, fDic).rank;
-                rs.Add(d.ToString());
-                /*
-                if (!wordRe.IsMatch(d.key) && d.pos != "глагол" && d.pos != "фраза") {
+            //if (!wordRe.IsMatch(d.key) && d.pos != "глагол" && d.pos != "фраза") {
+                if (d.pos == "фраза") {
                     rs.Add(s);
                 }
                 else {
                     rs2.Add(s);
                 }
-                */
             });
-            //rs.Add("===");
-            //rs.AddRange(rs2);
+            rs.Sort();
+
+            if (rs2.Count > 0) {
+                rs2.Sort();
+                rs.Add("===");
+                rs.AddRange(rs2);
+            }
             File.WriteAllLines(pathEx(path, "-2"), rs);
 
             //var ks = ds.Select(d => $"{d.key} {{{d.pos}}}").ToList();
