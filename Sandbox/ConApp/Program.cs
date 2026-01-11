@@ -2236,15 +2236,15 @@ namespace ConApp {
             return $"{rs[0]} --> {rs[1]}";
         }
 
-        public static void Snapshots(string path) {
+        public static void Snapshots(string path, int height = 0) {
             path = path.Replace("\\", "/");
             var fullPath = Path.Combine("e:/videos", path);
             var videoPath = Directory.GetFiles(Path.GetDirectoryName(fullPath), Path.GetFileName(fullPath) + ".*").Where(x => !x.ToLower().EndsWith(".srt")).First();
             var strm = FFmpeg.GetMediaInfo(videoPath).Result.VideoStreams.First();
-            var ratio =  48000 / strm.Width;
-            var height = strm.Height * ratio / 100;
+            if (height == 0) { height = strm.Height * (48000 / strm.Width) / 100; }
             var tStrs = srtHandle($"{fullPath}.eng.srt").Select(x => x[1]).ToArray();
             foreach (var tStr in tStrs) {
+                if (ctrlC) break;
                 var ts = srtIntervalPretty(tStr).Split(new[] { " --> " }, ssop).Select(x => TimeSpan.ParseExact(x, @"hh\:mm\:ss\,fff", CultureInfo.InvariantCulture)).ToArray();
                 var tm = new TimeSpan((int)ts.Select(x => x.Ticks).Average());
                 var outputPath = "d:/Projects/smalls/bins/snapshots/" + path + "/" + ts[0].ToString(@"hh\_mm\_ss\_ff", CultureInfo.InvariantCulture) + ".jpg";
@@ -2263,8 +2263,8 @@ namespace ConApp {
         static async Task Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
-            var ls = (new[] { ("A1", 100000), ("A2", 200000), ("B1", 300000), ("B2", 400000), ("C1", 500000) }).ToDictionary(x => x.Item1, x => x.Item2);
-
+            
+            /*
             var fDic = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(s => DicItem.Parse(s)).ToDictionary(d => d.getKeyPos(), d => d);
             var path = @"d:\Projects\smalls\cefr.txt";
             var ss = File.ReadAllLines(path).ToList();
@@ -2291,11 +2291,7 @@ namespace ConApp {
                 rs.AddRange(rs2);
             }
             File.WriteAllLines(pathEx(path, "-2"), rs);
-
-            //var ks = ds.Select(d => $"{d.key} {{{d.pos}}}").ToList();
-            //var hs = new HashSet<string>(ks);
-            //var rs = new List<string>();
-
+            */
 
             /*
             ds.ForEach(d => {
@@ -2303,25 +2299,6 @@ namespace ConApp {
                     Console.WriteLine(d.ToString());
                 }
             });
-            */
-            //File.WriteAllLines(pathEx(path, "-2"), rs);
-            /*
-            ss.ForEach(s => {
-                var d = DicItem.Parse(s);
-                if (!hs.Contains(d.key)) {
-                    rs.Add(s);
-                }
-                else {
-                    var d2 = DicItem.Parse(s);
-                    var ks = d.key.Split(new[] { " or " }, ssop);
-                    if (ks.Length < 2) new Exception();
-                    d.key = ks[0];
-                    d2.key = ks[1];
-                    rs.AddRange(new[] { d.ToString(), d2.ToString() });
-                }
-            });
-
-            File.WriteAllLines(pathEx(path, "-2"), rs);
             */
 
             /*
@@ -2363,8 +2340,7 @@ namespace ConApp {
             }
             */
 
-
-            // var ssn = "Arrested/S01"; for (var i = 1; i <= 22; i++) { Snapshots($"{ssn}/{ssn.Split('/')[1]}E{i:00}"); }
+            // var ssn = "Friends/S01"; for (var i = 1; i <= 12; i++) { Snapshots($"{ssn}/{ssn.Split('/')[1]}E{i:00}", 270); }
 
             //exportComics("003", 10);
 
