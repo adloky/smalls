@@ -2263,7 +2263,17 @@ namespace ConApp {
         static async Task Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
-            
+
+            var levRe = new Regex(@" \[([ABC][123]|[0-3L])\]$", RegexOptions.IgnoreCase | RegexOptions.Compiled);
+            var path = @"d:\Projects\smalls\freq-edit.txt";
+            File.ReadAllLines(path).Where(s => s != "").ToList().ForEach(s => {
+                var d = DicItem.Parse(s);
+                if (d.vals.Any(v => !levRe.IsMatch(v))) {
+                    Console.WriteLine(s);
+                }
+            });
+
+
             /*
             var fDic = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(s => DicItem.Parse(s)).ToDictionary(d => d.getKeyPos(), d => d);
             var path = @"d:\Projects\smalls\cefr.txt";
