@@ -2264,16 +2264,13 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
-            var levRe = new Regex(@" \[([ABC][123]|[0-3L])\]$", RegexOptions.IgnoreCase | RegexOptions.Compiled);
-            var path = @"d:\Projects\smalls\freq-edit.txt";
-            File.ReadAllLines(path).Where(s => s != "").ToList().ForEach(s => {
-                var d = DicItem.Parse(s);
-                if (d.vals.Any(v => !levRe.IsMatch(v))) {
-                    Console.WriteLine(s);
-                }
+            var rs = new List<string>();
+            var dic = File.ReadAllLines(@"d:\Projects\smalls\freq-edit.txt").Select(s => (DicItem.Parse(s).rank, s)).ToDictionary(d => d.rank.ToString(), d => d.s);
+            File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").ToList().ForEach(s => {
+                var r = DicItem.Parse(s).rank.ToString();
+                rs.Add(getDicVal(r, s, dic));
             });
-
-
+            File.WriteAllLines(@"d:\Projects\smalls\freq-edit-2.txt", rs);
             /*
             var fDic = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(s => DicItem.Parse(s)).ToDictionary(d => d.getKeyPos(), d => d);
             var path = @"d:\Projects\smalls\cefr.txt";
@@ -2390,6 +2387,17 @@ namespace ConApp {
         }
     }
 }
+
+/*
+            var levRe = new Regex(@" \[([ABC][123]|[0-3L])\]$", RegexOptions.IgnoreCase | RegexOptions.Compiled);
+            var path = @"d:\Projects\smalls\freq-edit.txt";
+            File.ReadAllLines(path).Where(s => s != "").ToList().ForEach(s => {
+                var d = DicItem.Parse(s);
+                if (d.vals.Any(v => !levRe.IsMatch(v))) {
+                    Console.WriteLine(s);
+                }
+            });
+ */
 
 /*
 var d20k = loadDic(@"d:\Projects\smalls\freq-20k.txt");
