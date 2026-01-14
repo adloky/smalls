@@ -2264,13 +2264,6 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
-            var rs = new List<string>();
-            var dic = File.ReadAllLines(@"d:\Projects\smalls\freq-edit.txt").Select(s => (DicItem.Parse(s).rank, s)).ToDictionary(d => d.rank.ToString(), d => d.s);
-            File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").ToList().ForEach(s => {
-                var r = DicItem.Parse(s).rank.ToString();
-                rs.Add(getDicVal(r, s, dic));
-            });
-            File.WriteAllLines(@"d:\Projects\smalls\freq-edit-2.txt", rs);
             /*
             var fDic = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(s => DicItem.Parse(s)).ToDictionary(d => d.getKeyPos(), d => d);
             var path = @"d:\Projects\smalls\cefr.txt";
@@ -2347,7 +2340,7 @@ namespace ConApp {
             }
             */
 
-            // var ssn = "Friends/S01"; for (var i = 1; i <= 12; i++) { Snapshots($"{ssn}/{ssn.Split('/')[1]}E{i:00}", 270); }
+            var ssn = "Friends/S02"; for (var i = 1; i <= 24; i++) { Snapshots($"{ssn}/{ssn.Split('/')[1]}E{i:00}"); }
 
             //exportComics("003", 10);
 
