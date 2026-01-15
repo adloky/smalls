@@ -238,15 +238,45 @@ namespace ConApp {
 
         static ChromeDriver chromeDriver;
 
-        static int navI = 0;
-
         static string gtranslate(string s) {
-            if (chromeDriver == null)
-                chromeDriver = new ChromeDriver();
+            if (chromeDriver == null) {
+                var options = new ChromeOptions();
+                options.AddArgument("start-maximized");
+                options.AddArgument("--disable-extensions");
+                options.AddArgument("--disable-blink-features");
+                options.AddArgument("--disable-blink-features=AutomationControlled");
+                options.AddArgument("--disable-gpu");
+                options.AddArgument("--no-sandbox");
+                options.AddArgument("--allow-running-insecure-content");
+                options.AddArgument("--ignore-certificate-errors");
+                options.AddArgument("--disable-background-networking");
+                chromeDriver = new ChromeDriver(options);
+            }
 
-            chromeDriver.Navigate().GoToUrl("https://translate.google.com/details?sl=en&tl=ru&text=" + s + "&op=translate");
-            Thread.Sleep(navI % 20 == 0 ? 5000 : 1500);
-            navI++;
+            var url = "https://translate.google.com/details?sl=en&tl=ru&text=" + s + "&op=translate";
+            chromeDriver.Navigate().GoToUrl(url);
+            Thread.Sleep(5000);
+            // class=d59UEf
+            var isLoaded = false;
+            var time = 0;
+            var tryN = 0;
+            while (!isLoaded) {
+                isLoaded = chromeDriver.FindElements(By.CssSelector(".bhvHjb")).Count > 0;
+                if (ctrlC) throw new Exception();
+                Thread.Sleep(500);
+                time += 500;
+                if (time > 10000) {
+                    chromeDriver.Navigate().GoToUrl(url);
+                    Thread.Sleep(5000);
+                    time = 0;
+                    tryN++;
+                    if (tryN > 3) {
+                        s = $"{s} {{прочее}} NotFound";
+                        Console.WriteLine(s);
+                        return s;
+                    }
+                }
+            }
             var html = chromeDriver.FindElement(By.CssSelector("[jsname=kepomc]")).GetAttribute("innerHTML");
 
             var dom = CQ.Create(html);
@@ -2264,6 +2294,32 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
+            var fs = new[] { @"d:\Projects\smalls\freq-20k.txt", @"d:\Projects\smalls\freq-g.txt", @"d:\Projects\smalls\cefr.txt" };
+            var ds = fs.Select(f => File.ReadAllLines(f).Select(s => DicItem.Parse(s)).ToList()).ToList();
+            /*
+            var gs = new HashSet<string>(ds[1].Select(d => d.key));
+            var rs = ds[0].Where(d => d.rank <= 10000).Select(d => d.key).Concat(ds[2].Select(d => d.key)).Where(k => !gs.Contains(k)).Distinct().ToList();
+            File.WriteAllLines(@"d:/rs-0.txt", rs);
+            */
+            
+            var path = @"d:/rs.txt";
+            var pathR = pathEx(path, "-r");
+            if (!File.Exists(pathR)) File.WriteAllText(pathR, "");
+            var rs = File.ReadAllLines(pathR).ToList();
+            var ss = File.ReadAllLines(path).Skip(rs.Count).ToList();
+            foreach (var s in ss) {
+                if (ctrlC) break;
+                try {
+                    var r = gtranslate(s);
+                    rs.Add(r);
+                }
+                catch {
+                    break;
+                }
+            }
+            File.WriteAllLines(pathR, rs);
+            chromeDriver.Dispose();
+            
             /*
             var fDic = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(s => DicItem.Parse(s)).ToDictionary(d => d.getKeyPos(), d => d);
             var path = @"d:\Projects\smalls\cefr.txt";
@@ -2340,7 +2396,7 @@ namespace ConApp {
             }
             */
 
-            var ssn = "Friends/S02"; for (var i = 1; i <= 24; i++) { Snapshots($"{ssn}/{ssn.Split('/')[1]}E{i:00}"); }
+            //var ssn = "Friends/S02"; for (var i = 1; i <= 24; i++) { Snapshots($"{ssn}/{ssn.Split('/')[1]}E{i:00}"); }
 
             //exportComics("003", 10);
 
