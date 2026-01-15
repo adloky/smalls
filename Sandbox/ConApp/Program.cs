@@ -194,6 +194,10 @@ namespace ConApp {
             yield return (x: s.Substring(i, s.Length - i), m: null);
         }
 
+        public static string handleString(string s, Regex re, Func<string, string> handler) {
+            return handleString(s, re, (x, m) => handler(x));
+        }
+
         public static string handleString(string s, Regex re, Func<string, Match, string> handler) {
             var sb = new StringBuilder();
 
@@ -2295,31 +2299,19 @@ namespace ConApp {
             Console.OutputEncoding = Encoding.UTF8;
 
             var fs = new[] { @"d:\Projects\smalls\freq-20k.txt", @"d:\Projects\smalls\freq-g.txt", @"d:\Projects\smalls\cefr.txt" };
-            var ds = fs.Select(f => File.ReadAllLines(f).Select(s => DicItem.Parse(s)).ToList()).ToList();
+            //var ds = fs.Select(f => File.ReadAllLines(f).Select(s => DicItem.Parse(s)).ToList()).ToList();
             /*
             var gs = new HashSet<string>(ds[1].Select(d => d.key));
             var rs = ds[0].Where(d => d.rank <= 10000).Select(d => d.key).Concat(ds[2].Select(d => d.key)).Where(k => !gs.Contains(k)).Distinct().ToList();
             File.WriteAllLines(@"d:/rs-0.txt", rs);
             */
-            
+            var posRe = new Regex(@"\{[^}]+\}", RegexOptions.Compiled);
             var path = @"d:/rs.txt";
-            var pathR = pathEx(path, "-r");
-            if (!File.Exists(pathR)) File.WriteAllText(pathR, "");
-            var rs = File.ReadAllLines(pathR).ToList();
-            var ss = File.ReadAllLines(path).Skip(rs.Count).ToList();
-            foreach (var s in ss) {
-                if (ctrlC) break;
-                try {
-                    var r = gtranslate(s);
-                    rs.Add(r);
-                }
-                catch {
-                    break;
-                }
-            }
-            File.WriteAllLines(pathR, rs);
-            chromeDriver.Dispose();
-            
+            var rs = File.ReadAllLines(path).SelectMany(s => {
+                var sp = s.Split('{');
+                return sp.Skip(1).Select(x => sp[0] + "{" + x);
+            }).ToList();
+            File.WriteAllLines(pathEx(path, "-2"), rs);
             /*
             var fDic = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(s => DicItem.Parse(s)).ToDictionary(d => d.getKeyPos(), d => d);
             var path = @"d:\Projects\smalls\cefr.txt";
