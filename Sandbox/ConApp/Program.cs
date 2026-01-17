@@ -2298,20 +2298,13 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
-            var fs = new[] { @"d:\Projects\smalls\freq-20k.txt", @"d:\Projects\smalls\freq-g.txt", @"d:\Projects\smalls\cefr.txt" };
-            //var ds = fs.Select(f => File.ReadAllLines(f).Select(s => DicItem.Parse(s)).ToList()).ToList();
-            /*
-            var gs = new HashSet<string>(ds[1].Select(d => d.key));
-            var rs = ds[0].Where(d => d.rank <= 10000).Select(d => d.key).Concat(ds[2].Select(d => d.key)).Where(k => !gs.Contains(k)).Distinct().ToList();
-            File.WriteAllLines(@"d:/rs-0.txt", rs);
-            */
-            var posRe = new Regex(@"\{[^}]+\}", RegexOptions.Compiled);
-            var path = @"d:/rs.txt";
-            var rs = File.ReadAllLines(path).SelectMany(s => {
-                var sp = s.Split('{');
-                return sp.Skip(1).Select(x => sp[0] + "{" + x);
-            }).ToList();
-            File.WriteAllLines(pathEx(path, "-2"), rs);
+            var fs = new[] { @"d:\Projects\smalls\freq-20k.txt", @"d:\Projects\smalls\cefr-orig.txt", @"d:\Projects\smalls\freq-g.txt", };
+            var ds = fs.Select(f => File.ReadAllLines(f).Select(s => DicItem.Parse(s)).ToDictionary(x => x.getKeyPos(), x => x)).ToList();
+            var ks = ds[0].Where(x => x.Value.rank <= 10000).Select(x => x.Key).Concat(ds[1].Keys).Distinct().ToList();
+            var vs = ds.Select(d => d.ToDictionary(x => x.Key, x => string.Join("; ", x.Value.vals))).ToList();
+            var rs = ks.Select(k => $"[ \"{k}\", [ \"" + string.Join("\", \"", Enumerable.Range(0, 3).Select(i => getDicVal(k, "-", vs[i]))) + "\" ] ],").ToList();
+            File.WriteAllLines(@"d:/rs-js.txt", rs);
+
             /*
             var fDic = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(s => DicItem.Parse(s)).ToDictionary(d => d.getKeyPos(), d => d);
             var path = @"d:\Projects\smalls\cefr.txt";
