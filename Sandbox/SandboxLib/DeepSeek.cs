@@ -14,6 +14,7 @@ namespace Sandbox {
             s = JsonConvert.ToString(s);
             var url = $"https://api.proxyapi.ru/openrouter/v1/chat/completions";
             var request = WebRequest.Create(url);
+            request.Timeout = 200000;
             request.Method = "POST";
             request.ContentType = "application/json";
             s = $"{{\"model\":\"deepseek/deepseek-v3.2\",\"messages\":[{{\"role\":\"user\",\"content\":{s}}}]}}";

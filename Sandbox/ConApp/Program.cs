@@ -1598,7 +1598,7 @@ namespace ConApp {
 
         static Regex adaptKeepRe = new Regex(@"^((Chapter|#+) [^\r\n]+|_)(\r?\n|$)", RegexOptions.IgnoreCase | RegexOptions.Compiled);
 
-        static void geminiSplit(string path, int size = 4000) {
+        static void splitText(string path, int size = 4000) {
             var ss = File.ReadAllLines(path);
             var sz = 0;
             var rs = new List<string>();
@@ -1683,7 +1683,7 @@ namespace ConApp {
 
         enum AdaptPoints { Gemini, DeepSeek, OpenRouter, OpenRouter2 }
 
-        static void geminiAdapt(AdaptPoints ap, string path, params object[] p) {
+        static void adaptEnglish(AdaptPoints ap, string path, params object[] p) {
             var levRe = new Regex("^[ABC][12]$");
             var freq = p.OfType<int>().FirstOrDefault();
             var level = p.OfType<string>().Where(x => levRe.IsMatch(x)).FirstOrDefault();
@@ -1741,8 +1741,7 @@ namespace ConApp {
                     r += $" {alter} ";
                 }
 
-                //r += $" Keep the paragraph structure. Output only the final text. Input text:\r\n{s}";
-                r += $"\r\n{s}";
+                r += $" Keep the paragraph structure. Output only the final text. Input text:\r\n{s}";
 
                 var pause = 4000;
 
@@ -1769,18 +1768,18 @@ namespace ConApp {
                                     break;
                             }
 
-                            var set = new HashSet<string>(s.Split(new[] { "\r\n" }, ssop));
-                            var ex = s2.Split(new[] { "\r\n", "\n" }, ssop).Where(x => !set.Contains(x.Trim())).ToList();
-                            if (ex.Count > 0) {
-                                s2 = null;
-                                throw new Exception("Bad format");
-                            }
                             pause = 4000;
+
+                            var s2r = string.Join("\r\n", Regex.Split(s2, @"\r?\n").Select(x => x.Split('}')[0] + "}"));
+                            if (s != s2r) {
+                                s2 = null;
+                                throw new Exception("Bad match.");
+                            }
                         }
                         catch (Exception e) {
                             Console.WriteLine(e.Message);
-                            //pause = takePause(pause, new [] { 4000, 15000, 60000, 300000 });
                             pause = takePause(pause, new[] { 4000 });
+                            //pause = takePause(pause, new [] { 4000, 15000, 60000, 300000 });
                             if (ctrlC) return;
                         }
                     } while (s2 == null);
@@ -1792,7 +1791,6 @@ namespace ConApp {
         }
 
         #endregion
-
 
         static string[] posAbrs = "арт гл мест нар пред прил сущ числ межд опр".Split(' ');
         static string[] posFulls = partAbbr.Keys.ToArray();
@@ -2429,35 +2427,10 @@ namespace ConApp {
 
             //genStories(@"d:/stories-0.txt", 3);
 
-            //geminiSplit(@"d:\english-reader\reader-71-orig.txt");
-
-            /*
-            var ss = File.ReadAllLines("d:/1.txt").Select(x => {
-                var d = DicItem.Parse(x);
-                d.pos = partEng[d.pos];
-                return d.ToString().Replace("{", "(").Replace("}", ")");
-            }).ToList();
-
-            File.WriteAllLines("d:/1-c.txt", ss);
-            */
-            
-            geminiAdapt(AdaptPoints.DeepSeek, @"d:\1.txt", @"Проанализируй список английских слов и отберите **только те**, которые являются **прямыми лексическими заимствованиями или общеязыковыми интернационализмами** в современном нормативном русском языке.
-
-**Обязательные условия (все должны выполняться одновременно):**
-
-1. **Прямая фонетическая корреляция:** английская форма должна легко и однозначно соотноситься с русской формой по звучанию и графике (*analysis → анализ*, *motor → мотор*).
-2. **Совпадение базового значения:** основное, словарное значение в английском и русском языках совпадает или почти полностью совпадает.
-3. **Лексическая самостоятельность в русском:** русское слово употребляется как полноценная единица, а не только как часть устойчивых выражений или профессионального жаргона.
-4. **Исключение кальки и исконных слов:** не включать слова, являющиеся переводными кальками, общегерманскими/исконно английскими словами или совпадениями по случайному сходству.
-5. **Исключение ложных друзей переводчика:** любые семантические расхождения — основание для исключения.
-6. **Принцип сомнения:** если есть хотя бы малейшее сомнение — слово не включать.
-
-**Формат вывода:**
-Верни **только список отобранных английских слов** в исходном виде.
-Не добавляй переводов, объяснений, комментариев, примеров или пояснительных пометок.
-
-**Теперь список для анализа:**
-"); // "Correct the errors in the text in English."
+            //splitText(@"d:\english-reader\reader-71-orig.txt");
+            //splitText(@"d:\Projects\smalls\consonants-split.txt", 1000);
+            //adaptEnglish(AdaptPoints.OpenRouter, @"d:\english-reader\reader-71.txt", 9000); // "Correct the errors in the text in English."
+            adaptEnglish(AdaptPoints.DeepSeek, @"d:\Projects\smalls\consonants-split.txt", @"Верни список с одним, максимум двумя, основными русскими значениями для соответсвующего английского слова в формате: слово {часть речи} значения. ");
 
             //mdMonitor(); return; // mdPostCom
 
@@ -2487,6 +2460,26 @@ namespace ConApp {
         }
     }
 }
+
+/*
+Проанализируй список английских слов и отберите **только те**, которые являются **прямыми лексическими заимствованиями или общеязыковыми интернационализмами** в современном нормативном русском языке.
+
+**Обязательные условия (все должны выполняться одновременно):**
+
+1. **Прямая фонетическая корреляция:** английская форма должна легко и однозначно соотноситься с русской формой по звучанию и графике (*analysis → анализ*, *motor → мотор*).
+2. **Совпадение базового значения:** основное, словарное значение в английском и русском языках совпадает или почти полностью совпадает.
+3. **Лексическая самостоятельность в русском:** русское слово употребляется как полноценная единица, а не только как часть устойчивых выражений или профессионального жаргона.
+4. **Исключение кальки и исконных слов:** не включать слова, являющиеся переводными кальками, общегерманскими/исконно английскими словами или совпадениями по случайному сходству.
+5. **Исключение ложных друзей переводчика:** любые семантические расхождения — основание для исключения.
+6. **Принцип сомнения:** если есть хотя бы малейшее сомнение — слово не включать.
+
+**Формат вывода:**
+Верни **только список отобранных английских слов** в исходном виде.
+Не добавляй переводов, объяснений, комментариев, примеров или пояснительных пометок.
+
+**Теперь список для анализа:**
+
+*/
 
 /*
             var levRe = new Regex(@" \[([ABC][123]|[0-3L])\]$", RegexOptions.IgnoreCase | RegexOptions.Compiled);
