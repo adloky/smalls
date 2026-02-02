@@ -25,6 +25,27 @@
     var posAbrs = "арт гл мест нар предл прил сущ числ межд опред".split(" ");
     var words = [];
 
+    function translit(s) {
+        const converter = {
+            'A': 'А', 'B': 'Б', 'V': 'В', 'G': 'Г', 'D': 'Д',
+            'E': 'Е', 'Z': 'З', 'И': 'I', 'Y': 'Й', 'K': 'К',
+            'L': 'Л', 'M': 'М', 'N': 'Н', 'O': 'О', 'P': 'П',
+            'R': 'Р', 'S': 'С', 'T': 'Т', 'U': 'У', 'F': 'Ф',
+            'H': 'Х', 'C': 'Ц', 'Y': 'Ы',
+            'a': 'а', 'b': 'б', 'v': 'в', 'g': 'г', 'd': 'д',
+            'e': 'е', 'z': 'з', 'и': 'i', 'y': 'й', 'k': 'к',
+            'l': 'л', 'm': 'м', 'n': 'н', 'o': 'о', 'p': 'п',
+            'r': 'р', 's': 'с', 't': 'т', 'u': 'у', 'f': 'ф',
+            'h': 'х', 'c': 'ц', 'y': 'ы',
+        };
+
+        for (const [key, value] of Object.entries(converter)) {
+            s = s.replaceAll(key, value);
+        }
+
+        return s;
+    }    
+    
     function rnd(max) {
         return Math.floor(Math.random() * max);
     }
@@ -71,11 +92,7 @@
     $(".com-btn").click(function() {
         var en = $(".body-box").val().split(/\r?\n/).filter(x => x.trim() !== "");
         var ru = $(".body-box-ru").val().split(/\r?\n/).filter(x => x.trim() !== "");
-        var notRu = ru.filter(x => enru(x) > 0);
-        if (notRu.length > 0) {
-            notRu.forEach(x => console.log(x));
-            return;
-        }
+        ru = ru.map(x => enru(x) <= 0 ? x : translit(x));
         while (en.length > ru.length) {
             ru.push("");
         }
@@ -87,23 +104,6 @@
             }
         }
 
-        var log = "";
-        var enWs = [...en.join(" ").matchAll(/\*\*[^\*]+\*\*/g)].map(x => String(x).toLowerCase().replaceAll("*", ""));
-        var wcs = words.map(x => { return { word: x.key, count: 0 }; });
-        enWs.forEach(x => {
-            var ls = new Set(getLems(x));
-            wcs.filter(wc => ls.has(wc.word)).forEach(wc => { wc.count++; });
-        });
-        
-        wcs.filter(wc => wc.count !== 1).forEach(wc => { log += `${wc.word} ${wc.count}<br/>`; });
-        
-        var ruCount = [...ru.join(" ").matchAll(/\*\*[^\*]+\*\*/g)].length;
-        if (enWs.length !== ruCount) {
-            log += `RU: ${ruCount - enWs.length}`;
-        }
-        
-        $(".log").html(log);
-        
         $(".r-box").val(hs.concat(rs).join("\r\n\r\n"));
         $(".r-box").select();
         document.execCommand("copy");

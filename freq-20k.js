@@ -59,12 +59,31 @@ function freqDicClick(q, cq) {
         
         var ls = new Set(getLems(w));
         
-        var r = freqDic.filter(x => ls.has(x.key)).map(x => "<p>" + boldDic(x.value) + "</p>").join("");
+        var rs = freqDic.filter(x => ls.has(x.key)).map(x => x.value);
         
-        if (!r) return;
+        var cb = function () {
+            var s = rs.map(x => "<p>" + boldDic(x) + "</p>").join("");
+            $(".freq-dic-box").html(`<table><tr><td class="freq-dic-box-items">${s}</td><td class="freq-dic-box-close">&#10006;</td></tr></table>`);
+            $(".freq-dic-box").removeClass("hidden");
+        };
         
-        $(".freq-dic-box").html(`<table><tr><td class="freq-dic-box-items">${r}</td><td class="freq-dic-box-close">&#10006;</td></tr></table>`);
-        $(".freq-dic-box").removeClass("hidden");
+        if (rs.length > 0) {
+            cb();
+        }
+        else {
+            var url = `https://dictionary.yandex.net/api/v1/dicservice.json/lookup?key=${config.yaDicKey}&lang=en-ru&ui=ru&flags=4&text=${encodeURIComponent(s)}`;
+            $.ajax({
+                url: url,
+                success: function(d) {
+                    rs = d.def.map(x => {
+                        var v = x.tr.map(y => y.text).join("; ");
+                        return `33000 ${x.text} {${x.pos}} ${v}`;
+                    });
+                    if (rs.length > 0) cb();
+                },
+            });
+        }
+        
         e.stopPropagation();
     };
 

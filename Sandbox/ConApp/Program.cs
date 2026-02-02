@@ -1648,7 +1648,8 @@ namespace ConApp {
         static Dictionary<string, string> partEng = new Dictionary<string, string> {
             { "артикль", "article" }, { "глагол", "verb" }, { "местоимение", "pronoun" }, { "наречие", "adverb" },
             { "предлог", "preposition" }, { "прилагательное", "adjective" }, { "союз", "conjunction" },
-            { "существительное", "noun" }, { "числительное", "number" }, { "междометие", "interjection" }, { "определитель", "determiner" },
+            { "существительное", "noun" }, { "числительное", "number" }, { "междометие", "interjection" },
+            { "определитель", "determiner" }, { "прочее", "other" },
         };
 
         static Dictionary<string, string> partAbbrEng = new Dictionary<string, string> {
@@ -1669,8 +1670,20 @@ namespace ConApp {
             return $"{di.key} ({di.pos})";
         }
 
+        static int takePause(int pause, int[] ps) {
+            for (var j = 0; j < pause; j += 500) {
+                if (ctrlC) return 0;
+                Thread.Sleep(500);
+            }
+            var ls = ps.SkipWhile(p => p <= pause).Take(1).ToArray();
+            return ls.Length > 0 ? ls[0] : ps.Last();
+        }
+
         static int ai = 0;
-        static void geminiAdapt(string path, params object[] p) {
+
+        enum AdaptPoints { Gemini, DeepSeek, OpenRouter, OpenRouter2 }
+
+        static void geminiAdapt(AdaptPoints ap, string path, params object[] p) {
             var levRe = new Regex("^[ABC][12]$");
             var freq = p.OfType<int>().FirstOrDefault();
             var level = p.OfType<string>().Where(x => levRe.IsMatch(x)).FirstOrDefault();
@@ -1728,7 +1741,10 @@ namespace ConApp {
                     r += $" {alter} ";
                 }
 
-                r += $" Keep the paragraph structure. Output only the final text. Input Text:\r\n{s}"; 
+                //r += $" Keep the paragraph structure. Output only the final text. Input text:\r\n{s}";
+                r += $"\r\n{s}";
+
+                var pause = 4000;
 
                 var s2 = (string)null;
                 if (_s == pre) {
@@ -1737,15 +1753,35 @@ namespace ConApp {
                 else {
                     do {
                         try {
-                            s2 = Gemini.Get(r);
+                            switch (ap) {
+                                case AdaptPoints.Gemini:
+                                    s2 = Gemini.Get(r);
+                                    break;
+                                case AdaptPoints.DeepSeek:
+                                    s2 = DeepSeek.Get(r);
+                                    break;
+                                case AdaptPoints.OpenRouter:
+                                    s2 = OpenRouter.Get(r);
+                                    break;
+                                case AdaptPoints.OpenRouter2:
+                                    SandboxConfig.Default["openrouterKey"] = SandboxConfig.Default["openrouterKey2"];
+                                    s2 = OpenRouter.Get(r);
+                                    break;
+                            }
+
+                            var set = new HashSet<string>(s.Split(new[] { "\r\n" }, ssop));
+                            var ex = s2.Split(new[] { "\r\n", "\n" }, ssop).Where(x => !set.Contains(x.Trim())).ToList();
+                            if (ex.Count > 0) {
+                                s2 = null;
+                                throw new Exception("Bad format");
+                            }
+                            pause = 4000;
                         }
                         catch (Exception e) {
                             Console.WriteLine(e.Message);
-                            for (var j = 0; j < 10; j++) {
-                                if (ctrlC) return;
-                                Thread.Sleep(1000);
-                            }
-                            
+                            //pause = takePause(pause, new [] { 4000, 15000, 60000, 300000 });
+                            pause = takePause(pause, new[] { 4000 });
+                            if (ctrlC) return;
                         }
                     } while (s2 == null);
                 }
@@ -2270,12 +2306,13 @@ namespace ConApp {
             return $"{rs[0]} --> {rs[1]}";
         }
 
-        public static void Snapshots(string path, int height = 0) {
+        public static void Snapshots(string path) {
             path = path.Replace("\\", "/");
             var fullPath = Path.Combine("e:/videos", path);
             var videoPath = Directory.GetFiles(Path.GetDirectoryName(fullPath), Path.GetFileName(fullPath) + ".*").Where(x => !x.ToLower().EndsWith(".srt")).First();
             var strm = FFmpeg.GetMediaInfo(videoPath).Result.VideoStreams.First();
-            if (height == 0) { height = strm.Height * (48000 / strm.Width) / 100; }
+
+            var width = strm.Width * (36000 / strm.Height) / 100;
             var tStrs = srtHandle($"{fullPath}.eng.srt").Select(x => x[1]).ToArray();
             foreach (var tStr in tStrs) {
                 if (ctrlC) break;
@@ -2285,7 +2322,7 @@ namespace ConApp {
                 Directory.CreateDirectory(Path.GetDirectoryName(outputPath));
                 while (!File.Exists(outputPath)) {
                     var conv = FFmpeg.Conversions.FromSnippet.Snapshot(videoPath, outputPath, ts[0]).Result;
-                    conv.AddParameter($"-s 480x{height} -q:v 10");
+                    conv.AddParameter($"-s {width}x360 -q:v 10");
                     conv.Start().Wait();
                     Console.WriteLine(outputPath);
                 };
@@ -2298,12 +2335,14 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
+            /*
             var fs = new[] { @"d:\Projects\smalls\freq-20k.txt", @"d:\Projects\smalls\cefr-orig.txt", @"d:\Projects\smalls\freq-g.txt", };
             var ds = fs.Select(f => File.ReadAllLines(f).Select(s => DicItem.Parse(s)).ToDictionary(x => x.getKeyPos(), x => x)).ToList();
             var ks = ds[0].Where(x => x.Value.rank <= 10000).Select(x => x.Key).Concat(ds[1].Keys).Distinct().ToList();
             var vs = ds.Select(d => d.ToDictionary(x => x.Key, x => string.Join("; ", x.Value.vals))).ToList();
             var rs = ks.Select(k => $"[ \"{k}\", [ \"" + string.Join("\", \"", Enumerable.Range(0, 3).Select(i => getDicVal(k, "-", vs[i]))) + "\" ] ],").ToList();
             File.WriteAllLines(@"d:/rs-js.txt", rs);
+            */
 
             /*
             var fDic = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(s => DicItem.Parse(s)).ToDictionary(d => d.getKeyPos(), d => d);
@@ -2381,7 +2420,7 @@ namespace ConApp {
             }
             */
 
-            //var ssn = "Friends/S02"; for (var i = 1; i <= 24; i++) { Snapshots($"{ssn}/{ssn.Split('/')[1]}E{i:00}"); }
+            //var ssn = "Hercules/S01"; for (var i = 1; i <= 52; i++) { Snapshots($"{ssn}/{ssn.Split('/')[1]}E{i:00}"); }
 
             //exportComics("003", 10);
 
@@ -2390,13 +2429,40 @@ namespace ConApp {
 
             //genStories(@"d:/stories-0.txt", 3);
 
-            //geminiSplit(@"d:\english-reader\reader-69-orig.txt", 2000);
-            //geminiAdapt(@"d:\english-reader\reader-69.txt", 5000); // "Correct the errors in the text in English."
+            //geminiSplit(@"d:\english-reader\reader-71-orig.txt");
+
+            /*
+            var ss = File.ReadAllLines("d:/1.txt").Select(x => {
+                var d = DicItem.Parse(x);
+                d.pos = partEng[d.pos];
+                return d.ToString().Replace("{", "(").Replace("}", ")");
+            }).ToList();
+
+            File.WriteAllLines("d:/1-c.txt", ss);
+            */
+            
+            geminiAdapt(AdaptPoints.DeepSeek, @"d:\1.txt", @"Проанализируй список английских слов и отберите **только те**, которые являются **прямыми лексическими заимствованиями или общеязыковыми интернационализмами** в современном нормативном русском языке.
+
+**Обязательные условия (все должны выполняться одновременно):**
+
+1. **Прямая фонетическая корреляция:** английская форма должна легко и однозначно соотноситься с русской формой по звучанию и графике (*analysis → анализ*, *motor → мотор*).
+2. **Совпадение базового значения:** основное, словарное значение в английском и русском языках совпадает или почти полностью совпадает.
+3. **Лексическая самостоятельность в русском:** русское слово употребляется как полноценная единица, а не только как часть устойчивых выражений или профессионального жаргона.
+4. **Исключение кальки и исконных слов:** не включать слова, являющиеся переводными кальками, общегерманскими/исконно английскими словами или совпадениями по случайному сходству.
+5. **Исключение ложных друзей переводчика:** любые семантические расхождения — основание для исключения.
+6. **Принцип сомнения:** если есть хотя бы малейшее сомнение — слово не включать.
+
+**Формат вывода:**
+Верни **только список отобранных английских слов** в исходном виде.
+Не добавляй переводов, объяснений, комментариев, примеров или пояснительных пометок.
+
+**Теперь список для анализа:**
+"); // "Correct the errors in the text in English."
 
             //mdMonitor(); return; // mdPostCom
 
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
-            //serRename(@"e:\videos\Arrested\S01");
+            //serRename(@"e:\videos\Hercules\S02");
 
             /*
             if (!File.Exists(@"d:\.temp\srt\all.srt")) 
