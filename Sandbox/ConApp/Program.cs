@@ -2428,9 +2428,7 @@ namespace ConApp {
             //genStories(@"d:/stories-0.txt", 3);
 
             //splitText(@"d:\english-reader\reader-71-orig.txt");
-            //splitText(@"d:\Projects\smalls\consonants-split.txt", 1000);
-            //adaptEnglish(AdaptPoints.OpenRouter, @"d:\english-reader\reader-71.txt", 9000); // "Correct the errors in the text in English."
-            adaptEnglish(AdaptPoints.DeepSeek, @"d:\Projects\smalls\consonants-split.txt", @"Верни список с одним, максимум двумя, основными русскими значениями для соответсвующего английского слова в формате: слово {часть речи} значения. ");
+            adaptEnglish(AdaptPoints.OpenRouter, @"d:\english-reader\reader-71.txt", 9000); // "Correct the errors in the text in English."
 
             //mdMonitor(); return; // mdPostCom
 
