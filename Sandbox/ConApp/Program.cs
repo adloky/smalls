@@ -828,7 +828,7 @@ namespace ConApp {
             { "MD", "глагол" }, { "VB", "глагол" }, { "VBD", "глагол" }, { "VBG", "глагол" },
             { "VBN", "глагол" }, { "VBP", "глагол" }, { "VBZ", "глагол" }, { "RP", "частица" },
             { "PRP", "местоимение" }, { "PRP$", "местоимение" }, { "WP", "местоимение" },
-            { "WP$", "местоимение" }, { "IN", "предлог" }
+            { "WP$", "местоимение" }, { "IN", "предлог" }, { "POS", "прочее" }, { "EX", "прочее" }
         };
 
         static IEnumerable<string> posReduce(string path) {
@@ -1681,14 +1681,19 @@ namespace ConApp {
 
         static int ai = 0;
 
-        enum AdaptPoints { Gemini, DeepSeek, OpenRouter, OpenRouter2 }
+        enum AdaptPoints { Gemini, DeepSeek, OpenRouter, OpenRouter2, Test }
+
+        public class AdaptEnglishOptions {
+            public Action<string, string> check = (o, r) => { };
+            public static AdaptEnglishOptions Default = new AdaptEnglishOptions();
+        }
 
         static void adaptEnglish(AdaptPoints ap, string path, params object[] p) {
             var levRe = new Regex("^[ABC][12]$");
             var freq = p.OfType<int>().FirstOrDefault();
             var level = p.OfType<string>().Where(x => levRe.IsMatch(x)).FirstOrDefault();
             var alter = p.OfType<string>().Where(x => x != level).FirstOrDefault();
-            var q = p.OfType<string>().Where(x => x != level).FirstOrDefault();
+            var opts = p.OfType<AdaptEnglishOptions>().FirstOrDefault() ?? AdaptEnglishOptions.Default;
 
             var bs = new HashSet<string>();
             var dic = freq == 0 ? null : getFreqGroups(true, new[] { freq });
@@ -1706,8 +1711,10 @@ namespace ConApp {
             
             var pathRu = pathEx(path, "-adapt");
             if (!File.Exists(pathRu)) File.WriteAllText(pathRu, "");
-            var skip = File.ReadAllText(pathRu).Split(new[] { "\r\n---\r\n" }, ssop).Length;
-            var ss = File.ReadAllText(path).Split(new[] { "\r\n---\r\n" }, ssop).Skip(skip).ToArray();
+            var skip = File.ReadAllText(pathRu).Split(new[] { "\r\n---\r\n" }, StringSplitOptions.None).Length-1;
+            var ss = File.ReadAllText(path).Split(new[] { "\r\n---\r\n" }, StringSplitOptions.None).Skip(skip).ToList();
+            ss.RemoveAt(ss.Count-1);
+            var withPos = false;
             var i = 0;
             foreach (var _s in ss) {
                 if (ctrlC) break;
@@ -1716,10 +1723,6 @@ namespace ConApp {
                 var s = _s.Substring(pre.Length);
 
                 var r = "";
-
-                if (q != null) {
-                    r += $" {q} ";
-                }
 
                 if (level != null) {
                     r += $" Adapt the English text for understanding at the {level} level of English proficiency. ";
@@ -1733,7 +1736,7 @@ namespace ConApp {
                         }).ToArray();
 
                     if (rws.Length > 0) {
-                        r += $" If possible, in the text, replace the following words with something from the top {freqMid} by frequency of use: {string.Join(", ", rws)}. ";
+                        r += $" If possible, in the text, replace the following words with something from the top {freqMid} by frequency of use: {string.Join(", ", rws)}. "; // (parts of speech may not match)
                     }
                 }
 
@@ -1766,27 +1769,26 @@ namespace ConApp {
                                     SandboxConfig.Default["openrouterKey"] = SandboxConfig.Default["openrouterKey2"];
                                     s2 = OpenRouter.Get(r);
                                     break;
+                                case AdaptPoints.Test:
+                                    s2 = s;
+                                    Thread.Sleep(1000);
+                                    break;
                             }
-
+                            s2 = string.Join("\r\n", Regex.Split(s2, @"\r?\n").Select(x => x.Trim()).Where(x => x != "").Select(x => x == "---" ? "_" : x)).Replace("*", "");
+                            opts.check(s, s2);
                             pause = 4000;
-
-                            var s2r = string.Join("\r\n", Regex.Split(s2, @"\r?\n").Select(x => x.Split('}')[0] + "}"));
-                            if (s != s2r) {
-                                s2 = null;
-                                throw new Exception("Bad match.");
-                            }
                         }
                         catch (Exception e) {
+                            s2 = null;
                             Console.WriteLine(e.Message);
-                            pause = takePause(pause, new[] { 4000 });
-                            //pause = takePause(pause, new [] { 4000, 15000, 60000, 300000 });
+                            pause = takePause(pause, new [] { 4000, 15000, 60000, 300000 });
                             if (ctrlC) return;
                         }
                     } while (s2 == null);
                 }
 
                 Console.WriteLine(i++);
-                File.AppendAllText(pathRu, Regex.Replace(pre + s2 + "\r\n---", @"(\r?\n)+", "\r\n") + "\r\n");
+                File.AppendAllText(pathRu, pre + s2 + "\r\n---\r\n");
             }
         }
 
@@ -1940,19 +1942,23 @@ namespace ConApp {
                 }
 
                 var b = 0;
+                var sub = (string)null;
                 foreach (var t in JObject.Parse(r).SelectTokens("$..tokens").SelectMany(x => x).Select(x => x.ToObject<PosToken>())) {
+                    sub = s.Substring(t.characterOffsetBegin, t.characterOffsetEnd - t.characterOffsetBegin);
                     if (!posTags.ContainsKey(t.pos)) continue;
                     var p = posTags[t.pos];
                     if (t.characterOffsetBegin != b) {
-                        yield return new Pos() { s = s.Substring(b, t.characterOffsetBegin - b) };
+                        sub = s.Substring(b, t.characterOffsetBegin - b);
+                        yield return new Pos() { s = sub };
                     }
-
-                    yield return new Pos() { s = s.Substring(t.characterOffsetBegin, t.characterOffsetEnd - t.characterOffsetBegin), pos = p };
+                    sub = s.Substring(t.characterOffsetBegin, t.characterOffsetEnd - t.characterOffsetBegin);
+                    yield return new Pos() { s = sub, pos = p };
                     b = t.characterOffsetEnd;
                 }
 
                 if (b != s.Length) {
-                    yield return new Pos() { s = s.Substring(b, s.Length - b) };
+                    sub = s.Substring(b, s.Length - b);
+                    yield return new Pos() { s = sub };
                 }
             }
         }
@@ -2327,6 +2333,47 @@ namespace ConApp {
             }
         }
 
+        public static void checkQuotes(string path) {
+            var ss = File.ReadAllLines(path).Where(x => enru(x) == 1).ToArray();
+            var pRe = new Regex("[p]+[^ p]".Replace("p", @"\.,!?:;"), RegexOptions.Compiled);
+            foreach (var _s in ss) {
+                var s20 = string.Join("", _s.Take(20));
+                if (_s.IndexOf("\"\"") > -1 || _s.IndexOf("''") > -1) {
+                    Console.WriteLine("[d] " + s20);
+                    continue;
+                }
+
+                var s = $" {_s.Replace("\"", "").Replace("'", "").Replace("(", "").Replace(")", "")} ";
+                if (pRe.IsMatch(s)) {
+                    Console.WriteLine("[p] " + s20);
+                    continue;
+                }
+
+                var aN = 0;
+                var qN = 0;
+                var cN = 0;
+                s = string.Join("", getPos($" {_s} ").Where(x => x.pos == null).Select(x => $"x{x.s}x"));
+                for (var i = 0; i < s.Length; i++) {
+                    if (i == s.Length - 1 && (aN != 0 || qN != 0)) {
+                        Console.WriteLine("[n] " + s20);
+                    }
+                    if (s[i] != '\'' && s[i] != '"') continue;
+                    if (s[i] == '\'') {
+                        aN = cN = (aN + 1) % 2;
+                    }
+                    else {
+                        qN = cN = (qN + 1) % 2;
+                    }
+
+                    var s3 = $"{s[i - 1]}{s[i]}{s[i + 1]}";
+                    if (cN == 1 && (!" \"'".Contains(s[i - 1]) || s[i + 1] == ' ') || cN == 0 && (s[i - 1] == ' ' || char.IsLetter(s[i + 1]))) {
+                        Console.WriteLine("[q] " + s20);
+                        break;
+                    }
+                }
+            }
+        }
+
         static volatile bool ctrlC = false;
 
         static async Task Main(string[] args) {
@@ -2418,7 +2465,7 @@ namespace ConApp {
             }
             */
 
-            //var ssn = "Hercules/S01"; for (var i = 1; i <= 52; i++) { Snapshots($"{ssn}/{ssn.Split('/')[1]}E{i:00}"); }
+            //var ssn = "BoJack/S01"; for (var i = 1; i <= 12; i++) { Snapshots($"{ssn}/{ssn.Split('/')[1]}E{i:00}"); }
 
             //exportComics("003", 10);
 
@@ -2427,13 +2474,16 @@ namespace ConApp {
 
             //genStories(@"d:/stories-0.txt", 3);
 
-            //splitText(@"d:\english-reader\reader-71-orig.txt");
-            adaptEnglish(AdaptPoints.OpenRouter, @"d:\english-reader\reader-71.txt", 9000); // "Correct the errors in the text in English."
+            //checkQuotes(@"d:\english-reader\reader-999-orig.txt");
+            var adOpts = new AdaptEnglishOptions();
+            //adOpts.check = (o, r) => { if (Math.Abs(o.Count(x => x == '\n') - r.Count(x => x == '\n')) > 1) { throw new Exception("Line counts not equal."); }; }; 
+            splitText(@"d:\english-reader\reader-999.txt");
+            //adaptEnglish(AdaptPoints.DeepSeek, @"d:\english-reader\reader-096.txt", adOpts, 11000); // "Correct the errors in the text in English."
 
             //mdMonitor(); return; // mdPostCom
 
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
-            //serRename(@"e:\videos\Hercules\S02");
+            //serRename(@"e:\videos\BoJack\S01");
 
             /*
             if (!File.Exists(@"d:\.temp\srt\all.srt")) 

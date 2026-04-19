@@ -16,7 +16,11 @@ namespace Sandbox {
             var request = WebRequest.Create(url);
             request.Method = "POST";
             request.ContentType = "application/json";
-            s = $"{{\"model\":\"tngtech/deepseek-r1t2-chimera:free\",\"messages\":[{{\"role\":\"user\",\"content\":{s}}}]}}";
+            //var model = "tngtech/deepseek-r1t2-chimera:free";
+            var model = "stepfun/step-3.5-flash:free";
+            //var model = "nvidia/nemotron-3-nano-30b-a3b:free";
+            //var model = "arcee-ai/trinity-large-preview:free";
+            s = $"{{\"model\":\"{model}\",\"messages\":[{{\"role\":\"user\",\"content\":{s}}}]}}";
             var data = Encoding.UTF8.GetBytes(s);
             request.ContentLength = data.Length;
             request.ContentType = "application/json";

@@ -394,7 +394,7 @@ amethyst -> amethysts
 amnesty -> amnesties
 amoeba -> amoebas,amoebae
 amount -> amounts,amounting,amounted
-amour -> amours
+amor -> amors,amour,amours
 amp -> amps
 ampere -> amperes
 amphetamine -> amphetamines
@@ -574,7 +574,7 @@ arabesque -> arabesques
 arbiter -> arbiters
 arbitrate -> arbitrates,arbitrating,arbitrated
 arbitrator -> arbitrators
-arbour -> arbours
+arbor -> arbors,arbour,arbours
 arc -> arcs,arcing,arced
 arcade -> arcades
 arch -> arches,arching,arched
@@ -2293,7 +2293,7 @@ clairvoyant -> clairvoyants
 clam -> clams,clamming,clammed
 clamber -> clambers,clambering,clambered
 clammy -> clammier,clammiest
-clamour -> clamours,clamouring,clamoured
+clamor -> clamors,clamoring,clamored,clamour,clamours,clamouring,clamoured
 clamp -> clamps,clamping,clamped
 clampdown -> clampdowns
 clan -> clans
@@ -2518,8 +2518,8 @@ colonnade -> colonnades
 colony -> colonies
 colorcast -> colorcasts,colorcasted,colorcasting
 colossus -> colossuses
-colour -> colours,colouring,coloured
-coloured -> coloureds
+color -> colors,coloring,colored,colour,colours,colouring,coloured
+colored -> coloreds,coloured,coloureds
 colt -> colts
 columbine -> columbines
 column -> columns
@@ -3840,7 +3840,7 @@ disguise -> disguises,disguising,disguised
 disgust -> disgusts,disgusting,disgusted
 dish -> dishes,dishing,dished
 dishcloth -> dishcloths
-dishonour -> dishonours,dishonouring,dishonoured
+dishonor -> dishonors,dishonoring,dishonored,dishonour,dishonours,dishonouring,dishonoured
 dishwasher -> dishwashers
 disillusion -> disillusions,disillusioning,disillusioned
 disincentive -> disincentives
@@ -4438,7 +4438,7 @@ end -> ends,ending,ended
 endanger -> endangers,endangering,endangered
 endear -> endears,endearing,endeared
 endearment -> endearments
-endeavour -> endeavours,endeavouring,endeavoured
+endeavor -> endeavors,endeavoring,endeavored,endeavour,endeavours,endeavouring,endeavoured
 ending -> endings
 endive -> endives
 endorse -> endorses,endorsing,endorsed
@@ -4903,7 +4903,7 @@ fatty -> fatties,fattier,fattiest
 faucet -> faucets
 fault -> faults,faulting,faulted
 faun -> fauns
-favour -> favours,favouring,favoured
+favor -> favors,favoring,favored,favour,favours,favouring,favoured
 favourite -> favourites
 fawn -> fawns,fawning,fawned
 faze -> fazes,fazing,fazed
@@ -5123,7 +5123,7 @@ flatter -> flatters,flattering,flattered
 flatterer -> flatterers
 flaunt -> flaunts,flaunting,flaunted
 flautist -> flautists
-flavour -> flavours,flavouring,flavoured
+flavor -> flavors,flavoring,flavored,flavour,flavours,flavouring,flavoured
 flavouring -> flavourings
 flaw -> flaws
 flay -> flays,flaying,flayed
@@ -6096,7 +6096,7 @@ happy -> happier,happiest
 harangue -> harangues,haranguing,harangued
 harass -> harasses,harassing,harassed
 harbinger -> harbingers
-harbour -> harbours,harbouring,harboured
+harbor -> harbors,harboring,harbored,harbour,harbours,harbouring,harboured
 hard -> harder,hardest
 hardback -> hardbacks
 harden -> hardens,hardening,hardened
@@ -6377,7 +6377,7 @@ honeycomb -> honeycombs
 honeymoon -> honeymoons,honeymooning,honeymooned
 honk -> honks,honking,honked
 honorific -> honorifics
-honour -> honours,honouring,honoured
+honor -> honors,honoring,honored,honour,honours,honouring,honoured
 hood -> hoods
 hoodlum -> hoodlums
 hoodwink -> hoodwinks,hoodwinking,hoodwinked
@@ -6493,7 +6493,7 @@ humiliate -> humiliates,humiliating,humiliated
 humiliation -> humiliations
 hummingbird -> hummingbirds
 humorist -> humorists
-humour -> humours,humouring,humoured
+humor -> humors,humoring,humored,humour,humours,humouring,humoured
 hump -> humps,humping,humped
 humpback -> humpbacks
 hunch -> hunches,hunching,hunched
@@ -7252,8 +7252,8 @@ l-plate -> l-plates
 lab -> labs
 label -> labels,labelling,labelled
 laboratory -> laboratories
-labour -> labours,labouring,laboured
-labourer -> labourers
+labor -> labors,laboring,labored,labour,labours,labouring,laboured
+laborer -> laborers,labourer,labourers
 laburnum -> laburnums
 labyrinth -> labyrinths
 lace -> laces,lacing,laced
@@ -8195,7 +8195,7 @@ misconstruction -> misconstructions
 misconstrue -> misconstrues,misconstruing,misconstrued
 misdeal -> misdeals,misdealt,misdealing
 misdeed -> misdeeds
-misdemeanour -> misdemeanours
+misdemeanor -> misdemeanors,misdemeanour,misdemeanours
 misdirect -> misdirects,misdirecting,misdirected
 misdo -> misdoes,misdid,misdone,misdoing
 miser -> misers
@@ -8553,8 +8553,8 @@ negotiator -> negotiators
 negress -> negresses
 negro -> negroes
 neigh -> neighs,neighing,neighed
-neighbour -> neighbours
-neighbourhood -> neighbourhoods
+neighbor -> neighbors,neighbour,neighbours
+neighborhood -> neighborhoods,neighbourhood,neighbourhoods
 neologism -> neologisms
 neophyte -> neophytes
 nephew -> nephews
@@ -8790,7 +8790,7 @@ oddball -> oddballs
 oddity -> oddities
 oddment -> oddments
 ode -> odes
-odour -> odours
+odor -> odors,odour,odours
 odyssey -> odysseys
 oesophagus -> oesophaguses
 off-day -> off-days
@@ -9200,7 +9200,7 @@ parkway -> parkways
 parley -> parleys,parleying,parleyed
 parliament -> parliaments
 parliamentarian -> parliamentarians
-parlour -> parlours
+parlor -> parlors,parlour,parlours
 parlourmaid -> parlourmaids
 parodist -> parodists
 parody -> parodies,parodying,parodied
@@ -11065,7 +11065,7 @@ right-winger -> right-wingers
 rightist -> rightists
 rigidity -> rigidities
 rigmarole -> rigmaroles
-rigour -> rigours
+rigor -> rigors,rigour,rigours
 rile -> riles,riling,riled
 rim -> rims
 rind -> rinds
@@ -11223,7 +11223,7 @@ rumbling -> rumblings
 ruminate -> ruminates,ruminating,ruminated
 rumination -> ruminations
 rummage -> rummages,rummaging,rummaged
-rumour -> rumours,rumoured
+rumor -> rumors,rumored,rumour,rumours,rumoured
 rump -> rumps
 rumple -> rumples,rumpling,rumpled
 run -> runs,running,ran
@@ -11363,8 +11363,8 @@ savannah -> savannahs
 save -> saves,saving,saved
 saver -> savers
 saving -> savings
-saviour -> saviours
-savour -> savours,savouring,savoured
+savior -> saviors,saviour,saviours
+savor -> savors,savoring,savored,savour,savours,savouring,savoured
 savoury -> savouries
 saw -> saws,sawing,sawed,sawn
 sawmill -> sawmills
@@ -12389,7 +12389,7 @@ splashdown -> splashdowns
 splatter -> splatters,splattering,splattered
 splay -> splays,splaying,splayed
 spleen -> spleens
-splendour -> splendours
+splendor -> splendors,splendour,splendours
 splice -> splices,splicing,spliced
 splint -> splints
 splinter -> splinters,splintering,splintered
@@ -13665,7 +13665,7 @@ trapper -> trappers
 trashcan -> trashcans
 trashy -> trashier,trashiest
 trauma -> traumas
-travel -> travels,travelling,travelled
+travel -> travels,travelling,travelled,traveling,traveled
 traveller -> travellers
 travelogue -> travelogues
 traverse -> traverses,traversing,traversed
@@ -13714,7 +13714,7 @@ trick -> tricks,tricking,tricked
 trickle -> trickles,trickling,trickled
 trickster -> tricksters
 tricky -> trickier,trickiest
-tricolour -> tricolours
+tricolor -> tricolors,tricolour,tricolours
 tricycle -> tricycles
 trier -> triers
 trifle -> trifles,trifling,trifled
@@ -13810,7 +13810,7 @@ tumble -> tumbles,tumbling,tumbled
 tumbler -> tumblers
 tumbrel -> tumbrels
 tummy -> tummies
-tumour -> tumours
+tumor -> tumors,tumour,tumours
 tumult -> tumults
 tun -> tuns
 tundra -> tundras
@@ -14110,7 +14110,7 @@ vanish -> vanishes,vanishing,vanished
 vanity -> vanities
 vanquish -> vanquishes,vanquishing,vanquished
 vaporize -> vaporizes,vaporizing,vaporized
-vapour -> vapours
+vapor -> vapors,vapour,vapours
 variable -> variables
 variant -> variants
 variation -> variations
@@ -14387,7 +14387,7 @@ water-ice -> water-ices
 water-meadow -> water-meadows
 water-ski -> water-skis,water-skiing,water-skied
 waterbed -> waterbeds
-watercolour -> watercolours
+watercolor -> watercolors,watercolour,watercolours
 watercourse -> watercourses
 waterfall -> waterfalls
 waterfront -> waterfronts
