@@ -2380,6 +2380,18 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
+            var path = "d:/2.txt";
+            var dic = File.ReadAllLines(path).Select(s => DicItem.Parse(s)).Select(d => { Console.WriteLine(d.ToString()); return d; }).ToDictionary(d => d.key, d => d.vals);
+            var rs = new List<string>();
+            File.ReadAllLines("d:/Projects/smalls/freq-20k.txt").ToList().ForEach(s => {
+                var d = DicItem.Parse(s);
+                var key = d.key.ToLower();
+                if (!dic.ContainsKey(key)) return;
+                d.vals = dic[key];
+                rs.Add(d.ToString());
+            });
+
+            File.WriteAllLines("d:/2-2.txt", rs);
             /*
             var fs = new[] { @"d:\Projects\smalls\freq-20k.txt", @"d:\Projects\smalls\cefr-orig.txt", @"d:\Projects\smalls\freq-g.txt", };
             var ds = fs.Select(f => File.ReadAllLines(f).Select(s => DicItem.Parse(s)).ToDictionary(x => x.getKeyPos(), x => x)).ToList();
@@ -2477,7 +2489,7 @@ namespace ConApp {
             //checkQuotes(@"d:\english-reader\reader-999-orig.txt");
             var adOpts = new AdaptEnglishOptions();
             //adOpts.check = (o, r) => { if (Math.Abs(o.Count(x => x == '\n') - r.Count(x => x == '\n')) > 1) { throw new Exception("Line counts not equal."); }; }; 
-            splitText(@"d:\english-reader\reader-999.txt");
+            //splitText(@"d:\english-reader\reader-999.txt");
             //adaptEnglish(AdaptPoints.DeepSeek, @"d:\english-reader\reader-096.txt", adOpts, 11000); // "Correct the errors in the text in English."
 
             //mdMonitor(); return; // mdPostCom
