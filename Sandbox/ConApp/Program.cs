@@ -93,6 +93,13 @@ namespace ConApp {
         }
     }
 
+    public enum PosNameTypes {
+        EnAbbr = 0,
+        EnFull,
+        RuFull,
+        RuAbbr
+    }
+
     public class PosToken {
         public int characterOffsetBegin { get; set; }
         public int characterOffsetEnd { get; set; }
@@ -603,22 +610,6 @@ namespace ConApp {
             }
         }
 
-        static Dictionary<string, string> partAbbr = new Dictionary<string, string> {
-            { "артикль", "арт." },
-            { "глагол", "гл." },
-            { "местоимение", "мест." },
-            { "наречие", "нар." },
-            { "предлог", "пред." },
-            { "прилагательное", "прил." },
-            { "союз", "союз" },
-            { "существительное", "сущ." },
-            { "числительное", "числ." },
-            { "междометие", "межд." },
-            { "определитель", "опред." },
-            { "прочее", "прочее" },
-            { "existential", "exist." },
-        };
-
         static Regex spRe = new Regex("[^a-z]+", RegexOptions.Compiled);
 
         static string getPron(string s) {
@@ -709,7 +700,7 @@ namespace ConApp {
                     sn++;
                     rs.Add($"### STORY {sn} ИСТОРИЯ {sn}");
                     var r = d.Skip(i).Take(10).ToList();
-                    var s = r.Select(x => (x.i == intMax ? "!" : "") + $"**{x.k}** [{x.t}] {{{partAbbr[x.p]}}}" + (x.i == 1 ? " " + x.v : "")).ToList();
+                    var s = r.Select(x => (x.i == intMax ? "!" : "") + $"**{x.k}** [{x.t}] {{{getPosName(x.p, PosNameTypes.RuAbbr)}}}" + (x.i == 1 ? " " + x.v : "")).ToList();
                     rs.Add("WORDS " + string.Join("; ", s));
                     var b = r.Select(x => $"{x.k} (как {x.p}: {x.v})").ToList();
                     rs.Add("BODY " + string.Join("; ", b));
@@ -1081,24 +1072,6 @@ namespace ConApp {
             s = Tag.Clear(s, new HashSet<string>() { "u", "font" });
             s = freqGroupingHtml(s, true);
             File.WriteAllText(path, s);
-        }
-
-        static Dictionary<string, string> openNlpTags = initOpenNlpTags();
-
-        static Dictionary<string, string> initOpenNlpTags() {
-            var dic = new Dictionary<string, string>();
-            "MD VB VBD VBG VBN VBP VBZ".Split(' ').ToList().ForEach(x => { dic.Add(x, "{глагол}"); });
-            "NNP NNPS".Split(' ').ToList().ForEach(x => { dic.Add(x, "{имя}"); });
-            "UH".Split(' ').ToList().ForEach(x => { dic.Add(x, "{междометие}"); });
-            "PRP PRP$ WP WP$".Split(' ').ToList().ForEach(x => { dic.Add(x, "{местоимение}"); });
-            "RB RBR RBS WRB".Split(' ').ToList().ForEach(x => { dic.Add(x, "{наречие}"); });
-            "DT WDT".Split(' ').ToList().ForEach(x => { dic.Add(x, "{определитель}"); });
-            "JJ JJR JJS".Split(' ').ToList().ForEach(x => { dic.Add(x, "{прилагательное}"); });
-            "EX FW LS POS SYM TO RP".Split(' ').ToList().ForEach(x => { dic.Add(x, "{прочее}"); });
-            "CC IN PDT".Split(' ').ToList().ForEach(x => { dic.Add(x, "{служебное}"); });
-            "NN NNS".Split(' ').ToList().ForEach(x => { dic.Add(x, "{существительное}"); });
-            "CD".Split(' ').ToList().ForEach(x => { dic.Add(x, "{числительное}"); });
-            return dic;
         }
 
         static Regex ampRe = new Regex(@"[a-zA-Z']+", RegexOptions.Compiled);
@@ -1645,18 +1618,49 @@ namespace ConApp {
             File.WriteAllLines(pathEx(path, "-split"), rs);
         }
 
-        static Dictionary<string, string> partEng = new Dictionary<string, string> {
-            { "артикль", "article" }, { "глагол", "verb" }, { "местоимение", "pronoun" }, { "наречие", "adverb" },
-            { "предлог", "preposition" }, { "прилагательное", "adjective" }, { "союз", "conjunction" },
-            { "существительное", "noun" }, { "числительное", "number" }, { "междометие", "interjection" },
-            { "определитель", "determiner" }, { "прочее", "other" },
+        static Dictionary<string, string[]> posNames = new Dictionary<string, string[]> {
+            { "a", new [] { "a", "article", "артикль", "арт." } },
+            { "v", new [] { "v", "verb", "глагол", "гл." } },
+            { "p", new [] { "p", "pronoun", "местоимение", "мест." } },
+            { "r", new [] { "r", "adverb", "наречие", "нар." } },
+            { "i", new [] { "i", "preposition", "предлог", "предлог" } },
+            { "j", new [] { "j", "adjective", "прилагательное", "прил." } },
+            { "c", new [] { "c", "conjunction", "союз", "союз" } },
+            { "n", new [] { "n", "noun", "существительное", "сущ." } },
+            { "m", new [] { "m", "number", "числительное", "числ." } },
+            { "u", new [] { "u", "interjection", "междометие", "межд." } },
+            { "d", new [] { "d", "determiner", "определитель", "опред." } },
+            { "o", new [] { "o", "other", "прочее", "прочее" } },
         };
 
-        static Dictionary<string, string> partAbbrEng = new Dictionary<string, string> {
-            { "артикль", "a" }, { "глагол", "v" }, { "местоимение", "p" }, { "наречие", "r" },
-            { "предлог", "i" }, { "прилагательное", "j" }, { "союз", "c" },
-            { "существительное", "n" }, { "числительное", "m" }, { "междометие", "u" }, { "определитель", "d" },
-        };
+        static Dictionary<string, List<(string, string)>> posNameSearch = getPosNameSearch();
+
+        static Dictionary<string, List<(string, string)>> getPosNameSearch() {
+            var r = new Dictionary<string, List<(string, string)>>();
+            for (var j = 1; j <= 2; j++) {
+                foreach (var n in posNames.Values) {
+                    var x = (n[0], n[j]);
+                    var k = x.Item2.Substring(0, 2);
+                    if (!r.ContainsKey(k)) {
+                        r[k] = new List<(string, string)>();
+                    }
+                    r[k].Add(x);
+                }
+            }
+            return r;
+        }
+
+        static string getPosName(string n, PosNameTypes t) {
+            n = n.ToLower().Replace(".", "");
+            if (!posNames.ContainsKey(n)) {
+                var n2 = n.Substring(0, 2);
+                var ns = posNameSearch[n2].Where(x => x.Item2.StartsWith(n)).ToArray();
+                if (ns.Length != 1) throw new Exception();
+                n = ns[0].Item1;
+            }
+
+            return posNames[n][(int)t];
+        }
 
         static string normForAdapt(string s) {
             var di = DicItem.Parse(s);
@@ -1665,7 +1669,7 @@ namespace ConApp {
                 di.key = getDicVal(di.key, di.key, lemmas);
             }
 
-            di.pos = getDicVal(di.pos, "other", partEng);
+            di.pos = getPosName(di.pos, PosNameTypes.EnFull);
 
             return $"{di.key} ({di.pos})";
         }
@@ -1794,51 +1798,7 @@ namespace ConApp {
 
         #endregion
 
-        static string[] posAbrs = "арт гл мест нар пред прил сущ числ межд опр".Split(' ');
-        static string[] posFulls = partAbbr.Keys.ToArray();
         static Regex posRe = new Regex(@"\{[^}]+\}", RegexOptions.Compiled);
-
-        static string getPosAbr(string s, bool needPoint = false) {
-            var isWorked = false;
-            s = handleString(s, posRe, (x,m) => {
-                x = x.Substring(1, x.Length - 2);
-                var abr = posAbrs.FirstOrDefault(p => x.StartsWith(p));
-                if (abr == null) return x;
-                if (needPoint) abr += ".";
-                isWorked = true;
-                return $"{{{abr}}}";
-            });
-            if (isWorked) return s;
-            var abr2 = posAbrs.FirstOrDefault(p => s.StartsWith(p));
-            if (abr2 == null) return s;
-            if (needPoint) abr2 += ".";
-            return abr2;
-        }
-
-        static string getPosAbrBack(string s, bool needPoint = false) {
-            var s2 = handleString(s, posRe, (x, m) => {
-                x = x.Substring(1, x.Length - 2);
-                if (x.EndsWith(".")) {
-                    x = x.Substring(0, x.Length - 1);
-                }
-
-                var abr = posFulls.FirstOrDefault(p => p.StartsWith(x));
-                if (abr == null) return x;
-                if (needPoint) abr += ".";
-                return $"{{{abr}}}";
-            });
-
-            if (s2 != s) return s2;
-
-            if (s.EndsWith(".")) {
-                s = s.Substring(0, s.Length - 1);
-            }
-
-            var abr2 = posFulls.FirstOrDefault(p => p.StartsWith(s));
-            if (abr2 == null) return s;
-            return abr2;
-        }
-
 
         static void genStories(string path, int n) {
             //var tpl = "Придумай небольшую историю на английском языке для самого базового уровня знания английского в ВИДЕ с сюжетом основанном на СЮЖЕТЕ, с использованием слов из списка, выделив их жирным в итоговом тексте: СЛОВА. Затем дай перевод истории и также выдели жирным переведенные слова из списка. И никакой служебной информации, отделив текст от перевода только '---'.";
@@ -1863,7 +1823,7 @@ namespace ConApp {
                         w[2] = m.Groups[1].Value;
                     }
                 }
-                var posAbr = getPosAbr(w[1], true);
+                var posAbr = getPosName(w[1], PosNameTypes.RuAbbr);
 
                 w.Add(posAbr);
             });
@@ -2380,18 +2340,38 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
-            var path = "d:/2.txt";
-            var dic = File.ReadAllLines(path).Select(s => DicItem.Parse(s)).Select(d => { Console.WriteLine(d.ToString()); return d; }).ToDictionary(d => d.key, d => d.vals);
-            var rs = new List<string>();
-            File.ReadAllLines("d:/Projects/smalls/freq-20k.txt").ToList().ForEach(s => {
-                var d = DicItem.Parse(s);
-                var key = d.key.ToLower();
-                if (!dic.ContainsKey(key)) return;
-                d.vals = dic[key];
-                rs.Add(d.ToString());
-            });
 
-            File.WriteAllLines("d:/2-2.txt", rs);
+            var dic = new Dictionary<string, int>();
+            var n = 0;
+            var re = new Regex(@"{([^,]+),(.)}", RegexOptions.Compiled);
+            using (var sr = new StreamReader("d:/english/.db/open-sub-pos.txt")) {
+                string s;
+                while ((s = sr.ReadLine()) != null) {
+                    var xs = re.Matches(s).Cast<Match>().Select(m => (w: m.Groups[1].Value, p: getPosName(m.Groups[2].Value, PosNameTypes.RuFull))).ToArray();
+                    foreach (var x in xs) {
+                        var w = x.w.ToLower();
+                        var p = x.p;
+                        if (p == "глагол" || p == "существительное" && !w.EndsWith("ing") || p == "прилагательное" && (w.EndsWith("er") || w.EndsWith("est"))) {
+                            w = getDicVal(w, w, lemmas);
+                        }
+                        if (p == "прочее") continue;
+                        n++;
+                        var k = $"{w} {{{p}}}";
+                        if (!dic.ContainsKey(k)) { dic[k] = 0; }
+                        dic[k]++;
+                    }
+
+                    if (n % 10000 == 0) {
+                        Console.WriteLine(n);
+                    }
+                }
+            }
+
+            Console.WriteLine(n);
+            var rs = dic.Where(kv => kv.Value >= 4).OrderByDescending(kv => kv.Value).Take(50000).Select(kv => $"{kv.Value * 1000000000L / n:000000000} {kv.Key}").ToList();
+            File.WriteAllLines(@"d:/dic.txt", rs);
+
+
             /*
             var fs = new[] { @"d:\Projects\smalls\freq-20k.txt", @"d:\Projects\smalls\cefr-orig.txt", @"d:\Projects\smalls\freq-g.txt", };
             var ds = fs.Select(f => File.ReadAllLines(f).Select(s => DicItem.Parse(s)).ToDictionary(x => x.getKeyPos(), x => x)).ToList();
