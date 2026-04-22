@@ -131,6 +131,12 @@ namespace ConApp {
 
         public string getKeyPos() { return $"{key} {{{pos}}}"; }
 
+        static Regex itemRe = new Regex(@" \{.+\}", RegexOptions.Compiled);
+
+        static public bool isValid(string s) {
+            return itemRe.IsMatch(s);
+        }
+
         public static DicItem Parse(string s) {
             var r = new DicItem();
             var sp = s.Split(new[] { " {", "}" }, StringSplitOptions.RemoveEmptyEntries);
@@ -463,7 +469,7 @@ namespace ConApp {
             var ss = File.ReadAllLines(path);
             var addPath = pathEx(path, "-add");
             if (File.Exists(addPath)) {
-                ss = ss.Concat(File.ReadAllLines(addPath)).OrderBy(x => int.Parse(x.Split(' ')[0])).ToArray();
+                ss = ss.Concat(File.ReadAllLines(addPath)).Where(s => DicItem.isValid(s)).OrderBy(x => int.Parse(x.Split(' ')[0])).ToArray();
             }
             
             if (!wPos) {
@@ -473,7 +479,7 @@ namespace ConApp {
                 }
             }
             
-            ss.Where(x => x.Contains(" {")).Select((x,i) => (x: x, i: i+1)).Reverse().ToList().ForEach(xi => {
+            ss.Where(x => DicItem.isValid(x)).Select((x,i) => (x: x, i: i+1)).Reverse().ToList().ForEach(xi => {
                 var di = DicItem.Parse(xi.x);
                 if (di.rank == null) {
                     di.rank = xi.i;
@@ -893,27 +899,12 @@ namespace ConApp {
             }
         }
 
-        static Dictionary<string, string> loadDic(string path) {
-            var dic = new Dictionary<string, string>();
-            var nRe = new Regex(@"^\d+ ", RegexOptions.Compiled);
-            File.ReadAllLines(path).Where(x => x.Contains(" {")).Select(x => {
-                x = nRe.Replace(x, "");
-                var xsp = x.Split('}');
-                var k = xsp[0] + "}";
-                var v = xsp[1].Trim();
-                return (k, v);
-            }).ToList().ForEach(kv => {
-                if (kv.k.Count(x => x == ' ') > 1)
-                    return;
-
-                if (dic.ContainsKey(kv.k)) {
-                    dic[kv.k] = $"{dic[kv.k]}; {kv.v}";
-                }
-                else {
-                    dic[kv.k] = kv.v;
-                }
-            });
-            return dic;
+        static Dictionary<string, DicItem> loadDic(string path = null) {
+            if (path == null) path = "d:/Projects/smalls/freq-20k.txt";
+            
+            return File.ReadAllLines(path).Where(x => DicItem.isValid(x))
+                .Select(x => { var di = DicItem.Parse(x); return (a: di.getKeyPos(), b: di); })
+                .ToDictionary(x => x.a, x => x.b);
         }
 
         static Regex twSpRe = new Regex(" +", RegexOptions.Compiled);
@@ -1800,6 +1791,7 @@ namespace ConApp {
 
         static Regex posRe = new Regex(@"\{[^}]+\}", RegexOptions.Compiled);
 
+        /*
         static void genStories(string path, int n) {
             //var tpl = "Придумай небольшую историю на английском языке для самого базового уровня знания английского в ВИДЕ с сюжетом основанном на СЮЖЕТЕ, с использованием слов из списка, выделив их жирным в итоговом тексте: СЛОВА. Затем дай перевод истории и также выдели жирным переведенные слова из списка. И никакой служебной информации, отделив текст от перевода только '---'.";
             // var tpl = "Придумай небольшой диалог на английском языке для самого элементарного уровня знания английского (A2), с использованием слов из списка, выделив их жирным в итоговом тексте: СЛОВА. Затем дай перевод и также выдели жирным переведенные слова из списка. И никакой служебной информации, отделив текст от перевода только '---'.";
@@ -1875,6 +1867,7 @@ namespace ConApp {
 
             File.WriteAllLines(pathEx(path, "-ss"), rs.Select(x => x + "\r\n"));
         }
+        */
 
         static IEnumerable<Pos> getPos(string str) {
             // "annotators":"tokenize,ssplit,pos","outputFormat":"json"
@@ -2339,39 +2332,13 @@ namespace ConApp {
         static async Task Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
-
-
-            var dic = new Dictionary<string, int>();
-            var n = 0;
-            var re = new Regex(@"{([^,]+),(.)}", RegexOptions.Compiled);
-            using (var sr = new StreamReader("d:/english/.db/open-sub-pos.txt")) {
-                string s;
-                while ((s = sr.ReadLine()) != null) {
-                    var xs = re.Matches(s).Cast<Match>().Select(m => (w: m.Groups[1].Value, p: getPosName(m.Groups[2].Value, PosNameTypes.RuFull))).ToArray();
-                    foreach (var x in xs) {
-                        var w = x.w.ToLower();
-                        var p = x.p;
-                        if (p == "глагол" || p == "существительное" && !w.EndsWith("ing") || p == "прилагательное" && (w.EndsWith("er") || w.EndsWith("est"))) {
-                            w = getDicVal(w, w, lemmas);
-                        }
-                        if (p == "прочее") continue;
-                        n++;
-                        var k = $"{w} {{{p}}}";
-                        if (!dic.ContainsKey(k)) { dic[k] = 0; }
-                        dic[k]++;
-                    }
-
-                    if (n % 10000 == 0) {
-                        Console.WriteLine(n);
-                    }
-                }
-            }
-
-            Console.WriteLine(n);
-            var rs = dic.Where(kv => kv.Value >= 4).OrderByDescending(kv => kv.Value).Take(50000).Select(kv => $"{kv.Value * 1000000000L / n:000000000} {kv.Key}").ToList();
-            File.WriteAllLines(@"d:/dic.txt", rs);
-
-
+            var dic = loadDic("d:/3.txt");
+            var freq20k = loadDic();
+            dic.Keys.ToList().ForEach(k => {
+                dic[k].vals = freq20k[k].vals;
+            });
+            File.WriteAllLines("d:/3-2.txt", dic.Values.Select(d => d.ToString()));
+            
             /*
             var fs = new[] { @"d:\Projects\smalls\freq-20k.txt", @"d:\Projects\smalls\cefr-orig.txt", @"d:\Projects\smalls\freq-g.txt", };
             var ds = fs.Select(f => File.ReadAllLines(f).Select(s => DicItem.Parse(s)).ToDictionary(x => x.getKeyPos(), x => x)).ToList();
@@ -2472,7 +2439,7 @@ namespace ConApp {
             //splitText(@"d:\english-reader\reader-999.txt");
             //adaptEnglish(AdaptPoints.DeepSeek, @"d:\english-reader\reader-096.txt", adOpts, 11000); // "Correct the errors in the text in English."
 
-            //mdMonitor(); return; // mdPostCom
+            mdMonitor(); return; // mdPostCom
 
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
             //serRename(@"e:\videos\BoJack\S01");
