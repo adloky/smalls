@@ -2333,14 +2333,17 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
-            
-            var path = "d:/consonants-addon-adapt.txt";
-            var cons = loadDic(path);
-            cons.Values.ToList().ForEach(x => {
-                x.pos = getPosName(x.pos, PosNameTypes.RuFull);
-            });
-            File.WriteAllLines(pathEx(path, "-2"), cons.Values.Select(x => x.ToString()));
-            
+            var path = @"d:\Projects\smalls\consonants.txt";
+            var book = loadDic(@"d:\Projects\smalls\consonants-book.txt").Values.ToDictionary(x => x.key, x => x.vals);
+            var rs = File.ReadAllLines(path).Select(s => {
+                if (!DicItem.isValid(s)) return s;
+                var di = DicItem.Parse(s);
+                if (di.vals.Count != 0) return s;
+                di.vals = book[di.key.ToLower()];
+                return di.ToString();
+            }).ToList();
+
+            File.WriteAllLines(pathEx(path, "-2"), rs);
 
             /*
             var fs = new[] { @"d:\Projects\smalls\freq-20k.txt", @"d:\Projects\smalls\cefr-orig.txt", @"d:\Projects\smalls\freq-g.txt", };
