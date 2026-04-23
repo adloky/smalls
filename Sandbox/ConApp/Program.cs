@@ -2332,13 +2332,16 @@ namespace ConApp {
         static async Task Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
-            var dic = loadDic("d:/3.txt");
-            var freq20k = loadDic();
-            dic.Keys.ToList().ForEach(k => {
-                dic[k].vals = freq20k[k].vals;
-            });
-            File.WriteAllLines("d:/3-2.txt", dic.Values.Select(d => d.ToString()));
+
             
+            var path = "d:/consonants-addon-adapt.txt";
+            var cons = loadDic(path);
+            cons.Values.ToList().ForEach(x => {
+                x.pos = getPosName(x.pos, PosNameTypes.RuFull);
+            });
+            File.WriteAllLines(pathEx(path, "-2"), cons.Values.Select(x => x.ToString()));
+            
+
             /*
             var fs = new[] { @"d:\Projects\smalls\freq-20k.txt", @"d:\Projects\smalls\cefr-orig.txt", @"d:\Projects\smalls\freq-g.txt", };
             var ds = fs.Select(f => File.ReadAllLines(f).Select(s => DicItem.Parse(s)).ToDictionary(x => x.getKeyPos(), x => x)).ToList();
@@ -2435,11 +2438,11 @@ namespace ConApp {
 
             //checkQuotes(@"d:\english-reader\reader-999-orig.txt");
             var adOpts = new AdaptEnglishOptions();
-            //adOpts.check = (o, r) => { if (Math.Abs(o.Count(x => x == '\n') - r.Count(x => x == '\n')) > 1) { throw new Exception("Line counts not equal."); }; }; 
-            //splitText(@"d:\english-reader\reader-999.txt");
+            //adOpts.check = (o, r) => { throw new Exception(); };
+            //splitText(@"d:/consonants-addon.txt", 666);
             //adaptEnglish(AdaptPoints.DeepSeek, @"d:\english-reader\reader-096.txt", adOpts, 11000); // "Correct the errors in the text in English."
 
-            mdMonitor(); return; // mdPostCom
+            //mdMonitor(); return; // mdPostCom
 
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
             //serRename(@"e:\videos\BoJack\S01");
