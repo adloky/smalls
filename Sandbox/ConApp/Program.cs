@@ -2374,10 +2374,21 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
-            var path = @"d:\Projects\smalls\e_lemma-fix.txt";
-            var fs = File.ReadAllLines(path).Select(x => x.Split(' ')).Where(x => !(x[0].EndsWith("ing") && x.Length == 2 && x[0] + "s" == x[1]));
-            var ss = new HashSet<string>(lemmaForms.Values.SelectMany(x => x.Skip(1)).Distinct());
-            fs.Where(x => ss.Contains(x[0])).ToList().ForEach(x => Console.WriteLine(string.Join(" ", x)));
+            var path = @"d:\Projects\smalls\e_lemma.txt";
+            var ls = File.ReadAllLines(path).Select(x => x.Split(' ')).ToDictionary(x => x[0], x => x);
+            var fs = File.ReadAllLines(@"d:\Projects\smalls\e_lemma-fix.txt").Select(x => x.Split(' ')).ToDictionary(x => x[0], x => x);
+            fs.Values.ToList().ForEach(x => {
+                var k = x[0];
+                if (ls.ContainsKey(k)) {
+                    ls[k] = (new[] { k }).Concat(ls[k].Skip(1).Concat(x.Skip(1)).Distinct()).ToArray();
+                }
+                else {
+                    ls[k] = x;
+                }
+            });
+
+            var rs = ls.Values.Select(x => string.Join(" ", x)).OrderBy(x => x);
+            File.WriteAllLines(pathEx(path, "-2"), rs);
 
             /*
             var path = @"d:\Projects\smalls\freq-subs.txt";
