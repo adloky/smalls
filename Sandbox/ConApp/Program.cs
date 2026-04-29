@@ -2374,52 +2374,15 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
-            var path = @"d:\Projects\smalls\e_lemma.txt";
-            var ls = File.ReadAllLines(path).Select(x => x.Split(' ')).ToDictionary(x => x[0], x => x);
-            var fs = File.ReadAllLines(@"d:\Projects\smalls\e_lemma-fix.txt").Select(x => x.Split(' ')).ToDictionary(x => x[0], x => x);
-            fs.Values.ToList().ForEach(x => {
-                var k = x[0];
-                if (ls.ContainsKey(k)) {
-                    ls[k] = (new[] { k }).Concat(ls[k].Skip(1).Concat(x.Skip(1)).Distinct()).ToArray();
-                }
-                else {
-                    ls[k] = x;
-                }
-            });
+            var reDC = new Regex(@"[^aeiouy][aeiouy][^aeiouywx]$", RegexOptions.Compiled);
+            var reCEnd = new Regex(@"[^aeiouy]$", RegexOptions.Compiled);
+            var reSyl = new Regex(@"[aeiouy]+", RegexOptions.Compiled);
+            var xs = new HashSet<string>(loadDic(@"d:\Projects\smalls\freq-subs.txt").Values.Where(x => x.pos == "глагол").Select(x => x.key));
+            // reSyl.Matches(x[0]).Count > 1 && reDC.IsMatch(x[0])
+            xs.Select(x => new [] { x, $"{x}e" }).Where(x => reCEnd.IsMatch(x[0]) && xs.Contains(x[1]) && x.Count(y => lemmaForms.ContainsKey(y)) == 2).ToList()
+                .ForEach(x => Console.WriteLine(string.Join(" ", x) + " | " + string.Join(" ", x.SelectMany(y => lemmaForms[y].Where(z => z.EndsWith("ing"))))));
+            //xs.Where(x => reT1.IsMatch(x)).ToList().ForEach(Console.WriteLine);
 
-            var rs = ls.Values.Select(x => string.Join(" ", x)).OrderBy(x => x);
-            File.WriteAllLines(pathEx(path, "-2"), rs);
-
-            /*
-            var path = @"d:\Projects\smalls\freq-subs.txt";
-            var dic = loadDic(path);
-            loadDic(@"d:\Projects\smalls\freq-subs-fix.txt").Values.ToList().ForEach(f => {
-                var ok = $"{f.vals[0]} {{{f.pos}}}";
-                if (dic.ContainsKey(ok))
-                    dic[ok].rank += f.rank;
-                dic.Remove(f.getKeyPos());
-            });
-
-            var rs = dic.Values.OrderByDescending(x => x.rank).Select(x => x.ToString()).ToArray();
-            File.WriteAllLines(pathEx(path, "-2"), rs);
-            */
-
-            /*
-            var path = @"d:\Projects\smalls\freq-subs.txt";
-            var dic = loadDic(path);
-            var rs = new List<string>();
-            dic.Values.Where(x => (x.pos == "прилагательное") && families.ContainsKey(x.key)).ToList().ForEach(d => {
-                var k = d.key;
-                var f = families[k];
-                var ff = familyForms[f];
-                var b = ff.Where(s => addEnding(s, 't').Any(x => x == k)).FirstOrDefault();
-                if (b != null) {
-                    d.vals.Add(b);
-                    rs.Add(d.ToString());
-                }
-            });
-            File.WriteAllLines(pathEx(path, "-2"), rs);
-            */
 
             /*
             var fs = new[] { @"d:\Projects\smalls\freq-20k.txt", @"d:\Projects\smalls\cefr-orig.txt", @"d:\Projects\smalls\freq-g.txt", };

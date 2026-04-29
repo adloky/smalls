@@ -30,13 +30,23 @@ function getLems(x) {
     }
     else if (ingEdRe.test(x) && /[yuoaie]/.test(woutIngEd)) {
         x = woutIngEd;
+        var addE = 1;
         if (/(bb|dd|ff|gg|mm|nn|pp|rr|tt)$/.test(x)) {
             x = x.replace(/.$/, "");
+            addE = -1;
         }
-        else {
+        
+        if (!/[^aeiouy][aeiouy][^aeiouywx]$/.test(x) || x.match(/[aeiouy]+/g).length !== 1) {
+            addE = 0;
+        }
+        
+        if (addE <= 0) {
+            rs.push(x);
+        }
+        
+        if (addE >= 0) {
             rs.push(x + "e");
         }
-        rs.push(x);
     }
     else if (x.endsWith("est")) {
         x = x.replace(/est$/, "");
