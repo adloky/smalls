@@ -3135,7 +3135,7 @@ crest -> crests
 cretin -> cretins
 crevasse -> crevasses
 crevice -> crevices
-crew -> crews
+crew -> crews,crewed,crewing
 crewman -> crewmen
 crib -> cribs,cribbing,cribbed
 crick -> cricks,cricking,cricked
@@ -4175,7 +4175,7 @@ drummer -> drummers
 drumstick -> drumsticks
 drunk -> drunks
 drunkard -> drunkards
-dry -> drier,dryer,driest,dries,drying
+dry -> drier,dryer,driest,dries,drying,dried
 dry-clean -> dry-cleans,dry-cleaning,dry-cleaned
 dryer -> dryers
 dub -> dubs,dubbing,dubbed
@@ -4452,7 +4452,7 @@ enclave -> enclaves
 enclose -> encloses,enclosing,enclosed
 enclosure -> enclosures
 encode -> encodes,encoding,encoded
-encompass -> encompasses,encompassing,encompass
+encompass -> encompasses,encompassing,encompassed
 encore -> encores,encoring,encored
 encounter -> encounters,encountering,encountered
 encourage -> encourages,encouraging,encouraged
@@ -6739,7 +6739,7 @@ incubator -> incubators
 inculcate -> inculcates,inculcating,inculcated
 incumbent -> incumbents
 incur -> incurs,incurring,incurred
-incursion -> incursion
+incursion -> incursions
 indemnity -> indemnities
 indent -> indents,indenting,indented
 indentation -> indentations
@@ -7459,6 +7459,7 @@ lee -> lees
 leech -> leeches
 leek -> leeks
 leer -> leers,leering,leered
+left -> lefts
 left-hander -> left-handers
 left-winger -> left-wingers
 leftie -> lefties
@@ -8062,7 +8063,7 @@ meditation -> meditations
 medium -> mediums,media
 medley -> medleys
 meek -> meeker,meekest
-meet -> meets,met
+meet -> meets,met,meeting
 meeting -> meetings
 megalith -> megaliths
 megalomaniac -> megalomaniacs
@@ -8085,6 +8086,7 @@ memorial -> memorials
 memorize -> memorizes,memorizing,memorized
 memory -> memories
 memsahib -> memsahibs
+men -> mens
 menace -> menaces,menacing,menaced
 menage -> menages
 menagerie -> menageries
@@ -8618,7 +8620,7 @@ negotiator -> negotiators
 negress -> negresses
 negro -> negroes
 neigh -> neighs,neighing,neighed
-neighbor -> neighbors,neighbour,neighbours
+neighbor -> neighbors,neighboring,neighbour,neighbours,neighbouring
 neighborhood -> neighborhoods,neighbourhood,neighbourhoods
 neologism -> neologisms
 neophyte -> neophytes
@@ -11266,6 +11268,7 @@ rough -> rougher,roughest,roughs,roughing,roughed
 roughcast -> roughcasts,roughcasting
 roughen -> roughens,roughening,roughened
 round -> rounder,roundest,rounds,rounding,rounded
+rounder -> rounders
 roundabout -> roundabouts
 roundup -> roundups
 rouse -> rouses,rousing,roused
@@ -13822,6 +13825,7 @@ trill -> trills,trilling,trilled
 trillion -> trillions
 trilogy -> trilogies
 trim -> trimmer,trimmest,trims,trimming,trimmed
+trimmer -> trimmers
 trimaran -> trimarans
 trimming -> trimmings
 trinket -> trinkets
@@ -14444,6 +14448,7 @@ ware -> wares
 warehouse -> warehouses
 warhead -> warheads
 warm -> warmer,warmest,warms,warming,warmed
+warmer -> warmers
 warm-up -> warm-ups
 warmonger -> warmongers
 warn -> warns,warning,warned
@@ -14730,6 +14735,7 @@ wolf -> wolves,wolfs,wolfing,wolfed
 wolf-whistle -> wolf-whistles,wolf-whistling,wolf-whistled
 wolfhound -> wolfhounds
 woman -> women
+women -> womens
 womanizer -> womanizers
 womb -> wombs
 wombat -> wombats

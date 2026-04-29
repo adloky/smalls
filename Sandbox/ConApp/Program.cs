@@ -392,7 +392,7 @@ namespace ConApp {
                     var key = x[0];
                     var fs = new List<string>();
                     _lemmaForms[key] = fs;
-                    foreach (var xx in x.Skip(1)) {
+                    foreach (var xx in x) {
                         _lemmas[xx] = key;
                         fs.Add(xx);
                     }
@@ -2374,15 +2374,10 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
-            var dic = loadDic(@"d:\Projects\smalls\freq-subs-fix.txt");
-            var path = @"d:\Projects\smalls\consonants-rest.txt";
-            var rs = loadDic(path).Values.ToList();
-            rs.ForEach(x => {
-                var k = x.getKeyPos();
-                if (!dic.ContainsKey(k)) return;
-                x.key = dic[k].vals[0];
-            });
-            File.WriteAllLines(pathEx(path, "-2"), rs.Select(x => x.ToString()));
+            var path = @"d:\Projects\smalls\e_lemma-fix.txt";
+            var fs = File.ReadAllLines(path).Select(x => x.Split(' ')).Where(x => !(x[0].EndsWith("ing") && x.Length == 2 && x[0] + "s" == x[1]));
+            var ss = new HashSet<string>(lemmaForms.Values.SelectMany(x => x.Skip(1)).Distinct());
+            fs.Where(x => ss.Contains(x[0])).ToList().ForEach(x => Console.WriteLine(string.Join(" ", x)));
 
             /*
             var path = @"d:\Projects\smalls\freq-subs.txt";
