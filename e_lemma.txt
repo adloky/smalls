@@ -415,7 +415,7 @@ anagram -> anagrams
 analgesic -> analgesics
 analogue -> analogues
 analogy -> analogies
-analyse -> analyses,analysing,analysed
+analyze -> analyzes,analyzing,analyzed,analyse,analyses,analysing,analysed
 analysis -> analyses
 analyst -> analysts
 analytic -> analytical
@@ -429,6 +429,7 @@ anchorage -> anchorages
 anchovy -> anchovies
 ancient -> ancients
 andante -> andantes
+android -> androids
 anecdote -> anecdotes
 anemone -> anemones
 anesthesiologist -> anesthesiologists
@@ -486,6 +487,7 @@ antibody -> antibodies
 anticipate -> anticipates,anticipating,anticipated
 anticlimax -> anticlimaxes
 anticyclone -> anticyclones
+antidepressant -> antidepressants
 antidote -> antidotes
 antigen -> antigens
 antihero -> antiheroes
@@ -578,6 +580,8 @@ arbor -> arbors,arbour,arbours
 arc -> arcs,arcing,arced
 arcade -> arcades
 arch -> arches,arching,arched
+archaeology -> archeology
+archaeologist -> archaeologists,archeologist,archeologists
 archangel -> archangels
 archbishop -> archbishops
 archdeacon -> archdeacons
@@ -586,7 +590,7 @@ archer -> archers
 archetype -> archetypes
 archipelago -> archipelagos
 architect -> architects
-archive -> archives
+archive -> archives,archived,archiving
 archivist -> archivists
 archway -> archways
 area -> areas
@@ -635,9 +639,10 @@ artichoke -> artichokes
 article -> articles
 articulate -> articulates,articulating,articulated
 articulation -> articulations
+artifact -> artifacts
 artifice -> artifices
 artisan -> artisans
-artist -> artists
+artist -> artists,artiste,artistes
 artiste -> artistes
 ascend -> ascends,ascending,ascended
 ascent -> ascents
@@ -716,6 +721,7 @@ attach -> attaches,attaching,attached
 attache -> attaches
 attachment -> attachments
 attack -> attacks,attacking,attacked
+attacker -> attackers
 attain -> attains,attaining,attained
 attainment -> attainments
 attempt -> attempts,attempting,attempted
@@ -776,6 +782,7 @@ autumn -> autumns
 auxiliary -> auxiliaries
 avail -> avails,availing,availed
 avalanche -> avalanches
+avatar -> avatars
 avenge -> avenges,avenging,avenged
 avenue -> avenues
 aver -> avers,averring,averred
@@ -1065,6 +1072,7 @@ beginning -> beginnings
 begrudge -> begrudges,begrudging,begrudged
 beguile -> beguiles,beguiling,beguiled
 behave -> behaves,behaving,behaved
+behavior -> behaviors,behaviour,behaviours
 behead -> beheads,beheading,beheaded
 behest -> behests
 behind -> behinds
@@ -1154,6 +1162,7 @@ bigamist -> bigamists
 bigot -> bigots
 bigwig -> bigwigs
 bike -> bikes
+biker -> bikers
 bikini -> bikinis
 bilberry -> bilberries
 bill -> bills,billing,billed
@@ -1173,6 +1182,7 @@ binge -> binges
 biochemist -> biochemists
 biographer -> biographers
 biography -> biographies
+biometric -> biometrics
 biped -> bipeds
 biplane -> biplanes
 birch -> birches
@@ -1230,6 +1240,7 @@ blare -> blares,blaring,blared
 blaspheme -> blasphemes,blaspheming,blasphemed
 blasphemy -> blasphemies
 blast -> blasts,blasting,blasted
+blaster -> blasters
 blaze -> blazes,blazing,blazed
 blazer -> blazers
 blazon -> blazons,blazoning,blazoned
@@ -1265,7 +1276,10 @@ block -> blocks,blocking,blocked
 blockade -> blockades,blockading,blockaded
 blockage -> blockages
 blockbuster -> blockbusters
+blocker -> blockers
 blockhead -> blockheads
+blog -> blogged,blogging,blogs
+blogger -> bloggers
 bloke -> blokes
 blonde -> blondes
 bloodbath -> bloodbaths
@@ -1355,6 +1369,7 @@ bomb -> bombs,bombing,bombed
 bombard -> bombards,bombarding,bombarded
 bombardment -> bombardments
 bomber -> bombers
+bombing -> bombings
 bombshell -> bombshells
 bombsite -> bombsites
 bonanza -> bonanzas
@@ -1570,7 +1585,7 @@ brolly -> brollies
 bromide -> bromides
 bronco -> broncos
 brontosaurus -> brontosauruses,brontosauri
-bronze -> bronzes
+bronze -> bronzes,bronzed
 brooch -> brooches
 brood -> broods,brooding,brooded
 brooding -> broodings
@@ -1677,6 +1692,7 @@ bureau -> bureaux,bureaus
 bureaucracy -> bureaucracies
 bureaucrat -> bureaucrats
 burgeon -> burgeons,burgeoning,burgeoned
+burger -> burgers
 burgher -> burghers
 burglar -> burglars
 burglarize -> burglarizes,burglarizing,burglarized
@@ -1692,6 +1708,7 @@ burnish -> burnishes,burnishing,burnished
 burnt-out -> burned-out
 burp -> burps,burping,burped
 burr -> burrs,burring,burred
+burrito -> burritos
 burrow -> burrows,burrowing,burrowed
 bursar -> bursars
 bursary -> bursaries
@@ -1865,6 +1882,7 @@ capitalist -> capitalists
 capitalize -> capitalizes,capitalizing,capitalized
 capitulate -> capitulates,capitulating,capitulated
 capon -> capons
+cappuccino -> cappuccinos
 caprice -> caprices
 capsicum -> capsicums
 capsize -> capsizes,capsizing,capsized
@@ -1965,7 +1983,7 @@ cat -> cats
 cat's-eye -> cat's-eyes
 cataclysm -> cataclysms
 catacomb -> catacombs
-catalogue -> catalogues,cataloguing,catalogued
+catalog -> catalogs,catalogue,catalogues,cataloguing,catalogued
 catalyst -> catalysts
 catamaran -> catamarans
 catapult -> catapults,catapulting,catapulted
@@ -2039,10 +2057,10 @@ centenarian -> centenarians
 centenary -> centenaries
 centennial -> centennials
 centilitre -> centilitres
-centimetre -> centimetres
+centimeter -> centimeters,centimetre,centimetres
 centipede -> centipedes
 centralize -> centralizes,centralizing,centralized
-centre -> centres,centring,centred
+center -> centre,centres,centring,centred,centers,centering,centered
 centrepiece -> centrepieces
 centrifuge -> centrifuges
 centrist -> centrists
@@ -2136,6 +2154,7 @@ chauffeur -> chauffeurs,chauffeuring,chauffeured
 cheap -> cheaper,cheapest
 cheapen -> cheapens,cheapening,cheapened
 cheat -> cheats,cheating,cheated
+cheater -> cheaters
 check -> checks,checking,checked
 check-in -> check-ins
 check-up -> check-ups
@@ -2152,6 +2171,7 @@ cheerleader -> cheerleaders
 cheery -> cheerier,cheeriest
 cheese -> cheeses
 cheeseboard -> cheeseboards
+cheeseburger -> cheeseburgers
 cheesecake -> cheesecakes
 cheetah -> cheetahs
 chef -> chefs
@@ -2284,8 +2304,8 @@ citizen -> citizens
 city -> cities
 civilian -> civilians
 civility -> civilities
-civilization -> civilizations
-civilize -> civilizes,civilizing,civilized
+civilization -> civilizations,civilisation,civilisations
+civilize -> civilizes,civilizing,civilized,civilise,civilises,civilising,civilised
 clack -> clacks,clacking,clacked
 claim -> claims,claiming,claimed
 claimant -> claimants
@@ -2519,7 +2539,7 @@ colony -> colonies
 colorcast -> colorcasts,colorcasted,colorcasting
 colossus -> colossuses
 color -> colors,coloring,colored,colour,colours,colouring,coloured
-colored -> coloreds,coloured,coloureds
+colored -> coloreds,coloureds
 colt -> colts
 columbine -> columbines
 column -> columns
@@ -2584,6 +2604,7 @@ commune -> communes,communing,communed
 communicant -> communicants
 communicate -> communicates,communicating,communicated
 communication -> communications
+communicator -> communicators
 communion -> communions
 communique -> communiques
 communist -> communists
@@ -2636,6 +2657,7 @@ comprehend -> comprehends,comprehending,comprehended
 comprehension -> comprehensions
 comprehensive -> comprehensives
 compress -> compresses,compressing,compressed
+compression -> compressions
 compressor -> compressors
 comprise -> comprises,comprising,comprised
 compromise -> compromises,compromising,compromised
@@ -2858,6 +2880,7 @@ convener -> conveners
 convenience -> conveniences,convenienced,conveniencing
 convenor -> convenors
 convent -> convents
+convention -> conventions
 converge -> converges,converging,converged
 convergence -> convergences
 conversation -> conversations
@@ -2888,6 +2911,8 @@ coolant -> coolants
 cooler -> coolers
 coolie -> coolies
 coop -> coops,cooping,cooped
+cooperate -> cooperates,cooperated,cooperating
+coordinate -> coordinates,coordinated,coordinating
 coot -> coots
 cop -> cops,copping,copped
 cop-out -> cop-outs
@@ -2977,7 +3002,7 @@ cough -> coughs,coughing,coughed
 council -> councils
 councillor -> councillors
 counsel -> counsels,counselling,counselled
-counsellor -> counsellors
+counselor -> counselors,counsellor,counsellors
 count -> counts,counting,counted
 countdown -> countdowns
 countenance -> countenances,countenancing,countenanced
@@ -3284,6 +3309,7 @@ cyclamen -> cyclamens
 cycle -> cycles,cycling,cycled
 cyclist -> cyclists
 cyclone -> cyclones
+cyclops -> cyclopes
 cygnet -> cygnets
 cylinder -> cylinders
 cymbal -> cymbals
@@ -3321,6 +3347,7 @@ dam -> dams,damming,dammed
 damage -> damages,damaging,damaged
 dame -> dames
 damn -> damned
+damned -> damnedest 
 damp -> damper,dampest,damps,damping,damped
 dampen -> dampens,dampening,dampened
 damper -> dampers
@@ -3596,6 +3623,7 @@ deprivation -> deprivations
 deprive -> deprives,depriving,deprived
 dept -> depts
 depth -> depths
+deputy -> deputies
 derby -> derbies
 derelict -> derelicts
 deride -> derides,deriding,derided
@@ -4203,7 +4231,7 @@ dutchman -> dutchmen
 dutchwoman -> dutchwomen
 duty -> duties
 duvet -> duvets
-dwarf -> dwarfs,dwarfing,dwarfed
+dwarf -> dwarfs,dwarfing,dwarfed,dwarves
 dwell -> dwells,dwelling,dwelled,dwelt
 dweller -> dwellers
 dwelling -> dwellings
@@ -4372,6 +4400,7 @@ embroider -> embroiders,embroidering,embroidered
 embroidery -> embroideries
 embroil -> embroils,embroiling,embroiled
 embryo -> embryos
+email -> emails,emailed,emailing
 emend -> emends,emending,emended
 emerald -> emeralds
 emerge -> emerges,emerging,emerged
@@ -4429,6 +4458,7 @@ encounter -> encounters,encountering,encountered
 encourage -> encourages,encouraging,encouraged
 encroach -> encroaches,encroaching,encroached
 encroachment -> encroachments
+encrust -> encrusted,encrusting,encrusts
 encrustation -> encrustations
 encumber -> encumbers,encumbering,encumbered
 encumbrance -> encumbrances
@@ -4614,11 +4644,13 @@ ethiopian -> ethiopians
 etymology -> etymologies
 eucalyptus -> eucalyptuses
 eucharist -> eucharists
+eugenic -> eugenics
 eulogize -> eulogizes,eulogizing,eulogized
 eulogy -> eulogies
 eunuch -> eunuchs
 euphemism -> euphemisms
 eurasian -> eurasians
+euro -> euros
 european -> europeans
 evacuate -> evacuates,evacuating,evacuated
 evacuee -> evacuees
@@ -4683,6 +4715,7 @@ exculpate -> exculpates,exculpating,exculpated
 excursion -> excursions
 excuse -> excuses,excusing,excused
 execute -> executes,executing,executed
+execution -> executions
 executioner -> executioners
 executive -> executives
 executor -> executors
@@ -4819,7 +4852,7 @@ facing -> facings
 facsimile -> facsimiles
 fact -> facts
 faction -> factions
-factor -> factors
+factor -> factors,factored,factoring
 factory -> factories
 factotum -> factotums
 faculty -> faculties
@@ -4904,8 +4937,9 @@ faucet -> faucets
 fault -> faults,faulting,faulted
 faun -> fauns
 favor -> favors,favoring,favored,favour,favours,favouring,favoured
-favourite -> favourites
+favorite -> favorites,favourite,favourites
 fawn -> fawns,fawning,fawned
+fax -> faxed,faxes,faxing
 faze -> fazes,fazing,fazed
 fealty -> fealties
 fear -> fears,fearing,feared
@@ -4968,7 +5002,7 @@ fiancee -> fiancees
 fiasco -> fiascos
 fiat -> fiats
 fib -> fibs,fibbing,fibbed
-fibber -> fibbers
+fiber -> fibers,fibber,fibbers
 fibre -> fibres
 fibula -> fibulae,fibulas
 fiction -> fictions
@@ -5002,6 +5036,7 @@ figurine -> figurines
 filament -> filaments
 filch -> filches,filching,filched
 file -> files,filing,filed
+filing -> filings
 filibuster -> filibusters,filibustering,filibustered
 filipino -> filipinos
 fill -> fills,filling,filled
@@ -5021,6 +5056,7 @@ finale -> finales
 finalist -> finalists
 finalize -> finalizes,finalizing,finalized
 finance -> finances,financing,financed
+financial -> financials
 financier -> financiers
 finch -> finches
 find -> finds,finding,found
@@ -5142,6 +5178,7 @@ flibbertigibbet -> flibbertigibbets
 flick -> flicks,flicking,flicked
 flick-knife -> flick-knives
 flicker -> flickers,flickering,flickered
+flier -> fliers
 flight -> flights
 flighty -> flightier,flightiest
 flimsy -> flimsier,flimsiest,flimsies
@@ -5179,6 +5216,7 @@ flowerbed -> flowerbeds
 flowering -> flowerings
 flowerpot -> flowerpots
 fluctuate -> fluctuates,fluctuating,fluctuated
+fluctuation -> fluctuations
 flue -> flues
 fluff -> fluffs,fluffing,fluffed
 fluffy -> fluffier,fluffiest
@@ -5444,6 +5482,7 @@ fruitcake -> fruitcakes
 fruity -> fruitier,fruitiest
 frump -> frumps
 frustrate -> frustrates,frustrating,frustrated
+frustration -> frustrations
 fry -> fries,frying,fried
 fry-up -> fry-ups
 fuchsia -> fuchsias
@@ -5520,6 +5559,7 @@ gallivant -> gallivants,gallivanting,gallivanted
 gallon -> gallons
 gallop -> gallops,galloping,galloped
 gallstone -> gallstones
+galosh -> galoshes
 galvanize -> galvanizes,galvanizing,galvanized
 gambit -> gambits
 gamble -> gambles,gambling,gambled
@@ -5589,6 +5629,7 @@ gear -> gears,gearing,geared
 gearbox -> gearboxes
 gearshift -> gearshifts
 geezer -> geezers
+geek -> geeks
 geisha -> geishas
 gel -> gels,gelling,gelled
 gelatine -> gelatines
@@ -5888,6 +5929,7 @@ grin -> grins,grinning,grinned
 grind -> grinds,grinding,ground
 grinder -> grinders
 grindstone -> grindstones
+gringo -> gringoes,gringos
 grip -> grips,gripping,gripped
 gripe -> gripes,griping,griped
 grit -> grits,gritting,gritted
@@ -5999,10 +6041,12 @@ habitation -> habitations
 habituate -> habituates,habituating,habituated
 habitue -> habitues
 hack -> hacks,hacking,hacked
+hacker -> hackers
 hacksaw -> hacksaws
 hadji -> hadjis
 haemophiliac -> haemophiliacs
 haemorrhage -> haemorrhages,haemorrhaging,haemorrhaged
+hemorrhoid -> hemorrhoids,haemorrhoid,haemorrhoids
 hag -> hags
 haggis -> haggises
 haggle -> haggles,haggling,haggled
@@ -6336,6 +6380,7 @@ hoarding -> hoardings
 hoarse -> hoarser,hoarsest
 hoax -> hoaxes,hoaxing,hoaxed
 hob -> hobs
+hobbit -> hobbits
 hobble -> hobbles,hobbling,hobbled
 hobby -> hobbies
 hobby-horse -> hobby-horses
@@ -6399,7 +6444,7 @@ hopper -> hoppers
 horde -> hordes
 horizon -> horizons
 hormone -> hormones
-horn -> horns
+horn -> horns,horned
 hornet -> hornets
 horny -> hornier,horniest
 horoscope -> horoscopes
@@ -6496,6 +6541,7 @@ humorist -> humorists
 humor -> humors,humoring,humored,humour,humours,humouring,humoured
 hump -> humps,humping,humped
 humpback -> humpbacks
+humus -> hummus,hummos,humous 
 hunch -> hunches,hunching,hunched
 hunchback -> hunchbacks
 hundred -> hundreds
@@ -6539,7 +6585,7 @@ hymnal -> hymnals
 hyperbola -> hyperbolas
 hypermarket -> hypermarkets
 hyphen -> hyphens
-hypnotize -> hypnotizes,hypnotizing,hypnotized
+hypnotize -> hypnotizes,hypnotizing,hypnotized,hypnotise,hypnotised,hypnotises,hypnotising
 hypochondriac -> hypochondriacs
 hypocrisy -> hypocrisies
 hypocrite -> hypocrites
@@ -6547,6 +6593,7 @@ hypodermic -> hypodermics
 hypotenuse -> hypotenuses
 hypothesis -> hypotheses
 hysterectomy -> hysterectomies
+hysteric -> hysterics
 ice -> ices,icing,iced
 ice-box -> ice-boxes
 ice-bucket -> ice-buckets
@@ -6773,6 +6820,7 @@ inheritance -> inheritances
 inheritor -> inheritors
 inhibit -> inhibits,inhibiting,inhibited
 inhibition -> inhibitions
+inhibitor -> inhibitors
 inhumanity -> inhumanities
 iniquity -> iniquities
 initial -> initials,initialling,initialled
@@ -6780,6 +6828,7 @@ initiate -> initiates,initiating,initiated
 initiative -> initiatives
 inject -> injects,injecting,injected
 injection -> injections
+injector -> injectors
 injunction -> injunctions
 injure -> injures,injuring,injured
 injury -> injuries
@@ -6819,10 +6868,12 @@ inside -> insides
 insider -> insiders
 insight -> insights
 insinuate -> insinuates,insinuating,insinuated
+insinuation -> insinuations
 insist -> insists,insisting,insisted
 insole -> insoles
 insomniac -> insomniacs
 inspect -> inspects,inspecting,inspected
+inspection -> inspections
 inspector -> inspectors
 inspectorate -> inspectorates
 inspiration -> inspirations
@@ -6929,6 +6980,7 @@ intimidate -> intimidates,intimidating,intimidated
 intonation -> intonations
 intone -> intones,intoning,intoned
 intoxicant -> intoxicants
+intoxicate -> intoxicated,intoxicating,intoxicates
 intricacy -> intricacies
 intrigue -> intrigues,intriguing,intrigued
 introduce -> introduces,introducing,introduced
@@ -7175,6 +7227,7 @@ kickback -> kickbacks
 kid -> kids,kidding,kidded
 kiddie -> kiddies
 kidnap -> kidnaps,kidnapping,kidnapped
+kidnapping -> kidnappings
 kidnapper -> kidnappers
 kidney -> kidneys
 kill -> kills,killing,killed
@@ -7184,7 +7237,7 @@ killjoy -> killjoys
 kiln -> kilns
 kilo -> kilos
 kilogram -> kilograms
-kilometre -> kilometres
+kilometer -> kilometers,kilometre,kilometres
 kilowatt -> kilowatts
 kilt -> kilts
 kimono -> kimonos
@@ -7288,6 +7341,7 @@ lambskin -> lambskins
 lame -> lamer,lamest
 lament -> laments,lamenting,lamented
 lamentation -> lamentations
+laminate -> laminated,laminates,laminating
 lamp -> lamps
 lamp-post -> lamp-posts
 lampoon -> lampoons,lampooning,lampooned
@@ -7318,6 +7372,7 @@ laotian -> laotians
 lap -> laps,lapping,lapped
 lapel -> lapels
 lapse -> lapses,lapsing,lapsed
+laptop -> laptops
 lapwing -> lapwings
 larch -> larches
 lard -> lards,larding,larded
@@ -7342,6 +7397,7 @@ lather -> lathers,lathering,lathered
 latin -> latins
 latitude -> latitudes
 latrine -> latrines
+latte -> lattes
 lattice -> lattices
 laud -> lauds,lauding,lauded
 laugh -> laughs,laughing,laughed
@@ -7414,6 +7470,7 @@ legalize -> legalizes,legalizing,legalized
 legate -> legates
 legation -> legations
 legend -> legends
+legging -> leggings
 leggy -> leggier,leggiest
 legion -> legions
 legislate -> legislates,legislating,legislated
@@ -7436,6 +7493,7 @@ leotard -> leotards
 leper -> lepers
 lesbian -> lesbians
 lesion -> lesions
+less -> lesser
 lessen -> lessens,lessening,lessened
 lesson -> lessons
 let -> lets,letting
@@ -7473,7 +7531,7 @@ library -> libraries
 librettist -> librettists
 libretto -> librettos,libretti
 libyan -> libyans
-licence -> licences
+license -> licenses,licence,licences
 license -> licenses,licensing,licensed
 licensee -> licensees
 lichen -> lichens
@@ -7567,9 +7625,10 @@ liter -> liters
 lithograph -> lithographs
 lithuanian -> lithuanians
 litigant -> litigants
-litre -> litres
+liter -> litre,liters,litres
 litter -> litters,littering,littered
 litterbug -> litterbugs
+little -> littlest
 liturgy -> liturgies
 live -> lives,living,lived
 livelihood -> livelihoods
@@ -7820,6 +7879,7 @@ mandolin -> mandolins
 mandrake -> mandrakes
 mandrill -> mandrills
 mane -> manes
+maneuver -> maneuvered,maneuvering,maneuvers,manoeuvre,manoeuvres,manoeuvring
 manger -> mangers
 mangle -> mangles,mangling,mangled
 mango -> mangoes,mangos
@@ -7842,7 +7902,6 @@ manly -> manlier,manliest
 mannequin -> mannequins
 manner -> manners
 mannerism -> mannerisms
-manoeuvre -> manoeuvres,manoeuvring,manoeuvred
 manoeuvring -> manoeuvrings
 manor -> manors
 manse -> manses
@@ -7869,6 +7928,7 @@ marchioness -> marchionesses
 mare -> mares
 margin -> margins
 marginal -> marginals
+marginalize -> marginalized,marginalizing,marginalizes
 marigold -> marigolds
 marina -> marinas
 marinade -> marinades,marinading,marinaded
@@ -7901,6 +7961,7 @@ mart -> marts
 marten -> martens
 martian -> martians
 martin -> martins
+martini -> martinis
 martinet -> martinets
 martyr -> martyrs,martyring,martyred
 marvel -> marvels,marvelling,marvelled
@@ -8032,7 +8093,7 @@ menial -> menials
 menstruate -> menstruates,menstruating,menstruated
 mentality -> mentalities
 mention -> mentions,mentioning,mentioned
-mentor -> mentors
+mentor -> mentors,mentored,mentoring
 menu -> menus
 mep -> meps
 mercenary -> mercenaries
@@ -8071,7 +8132,7 @@ method -> methods
 methodist -> methodists
 methodology -> methodologies
 metier -> metiers
-metre -> metres
+meter -> meters,metre,metres
 metro -> metros
 metronome -> metronomes
 metropolis -> metropolises
@@ -8130,7 +8191,7 @@ millennium -> millennia,millenniums
 miller -> millers
 milligram -> milligrams
 millilitre -> millilitres
-millimetre -> millimetres
+millimeter -> millimeters,millimetre,millimetres
 milliner -> milliners
 million -> millions
 millionaire -> millionaires
@@ -8140,6 +8201,7 @@ millstone -> millstones
 mime -> mimes,miming,mimed
 mimeograph -> mimeographs,mimeographing,mimeographed
 mimic -> mimics,mimicking,mimicked
+mimosa -> mimosas
 minaret -> minarets
 mince -> minces,mincing,minced
 mincer -> mincers
@@ -8265,7 +8327,7 @@ mock-up -> mock-ups
 mod -> mods
 modal -> modals
 mode -> modes
-model -> models,modelling,modelled
+model -> models,modelling,modelled,modeling,modeled
 moderate -> moderates,moderating,moderated
 modernist -> modernists
 modernize -> modernizes,modernizing,modernized
@@ -8379,6 +8441,7 @@ motherland -> motherlands
 motif -> motifs
 motion -> motions,motioning,motioned
 motivate -> motivates,motivating,motivated
+motivation -> motivations
 motive -> motives
 motor -> motors,motoring,motored
 motorbike -> motorbikes
@@ -8387,6 +8450,7 @@ motorcade -> motorcades
 motorcycle -> motorcycles
 motorcyclist -> motorcyclists
 motorist -> motorists
+motorize -> motorized,motorizes,motorizing
 motorway -> motorways
 motto -> mottoes,mottos
 mould -> moulds,moulding,moulded
@@ -8467,6 +8531,7 @@ mushroom -> mushrooms,mushrooming,mushroomed
 musical -> musicals
 musician -> musicians
 musket -> muskets
+musketeer -> musketeers
 muslim -> muslims
 mussel -> mussels
 muster -> musters,mustering,mustered
@@ -8571,7 +8636,7 @@ neurosis -> neuroses
 neurotic -> neurotics
 neuter -> neuters,neutering,neutered
 neutral -> neutrals
-neutralize -> neutralizes,neutralizing,neutralized
+neutralize -> neutralizes,neutralizing,neutralized,neutralise,neutralises,neutralising,neutralised
 neutron -> neutrons
 new -> newer,newest
 newcomer -> newcomers
@@ -8617,6 +8682,7 @@ nimbus -> nimbuses
 nincompoop -> nincompoops
 nine -> nines
 ninety -> nineties
+ninja -> ninjas
 ninny -> ninnies
 ninth -> ninths
 nip -> nips,nipping,nipped
@@ -8676,6 +8742,7 @@ nostrum -> nostrums
 nosy -> nosier,nosiest
 notability -> notabilities
 notable -> notables
+notarize -> notarizes,notarized,notarizing
 notary -> notaries
 notation -> notations
 notch -> notches,notching,notched
@@ -8749,6 +8816,7 @@ objective -> objectives
 objector -> objectors
 obligation -> obligations
 oblige -> obliges,obliging,obliged
+obligate -> obligates,obligated,obligating
 oblique -> obliques
 obliterate -> obliterates,obliterating,obliterated
 oblong -> oblongs
@@ -8829,7 +8897,7 @@ oligarchy -> oligarchies
 olive -> olives
 olympic -> olympics
 ombudsman -> ombudsmen
-omelette -> omelettes
+omelette -> omelettes,omelet,omelets
 omen -> omens
 omission -> omissions
 omit -> omits,omitting,omitted
@@ -8856,7 +8924,7 @@ operetta -> operettas
 opiate -> opiates
 opine -> opines,opined
 opinion -> opinions
-opossum -> opossums
+opossum -> opossums,possum,possums
 opponent -> opponents
 opportunist -> opportunists
 opportunity -> opportunities
@@ -8898,8 +8966,8 @@ organ -> organs
 organ-grinder -> organ-grinders
 organism -> organisms
 organist -> organists
-organization -> organizations
-organize -> organizes,organizing,organized
+organization -> organizations,organisation,organisations
+organize -> organizes,organizing,organized,organise,organises,organising,organised
 organizer -> organizers
 orgasm -> orgasms
 orgy -> orgies
@@ -8927,6 +8995,7 @@ other -> others
 otter -> otters
 ounce -> ounces
 oust -> ousts,ousting,ousted
+out -> outs
 out-patient -> out-patients
 outbid -> outbids,outbidding,outbidded,outbid
 outbreak -> outbreaks
@@ -9091,6 +9160,7 @@ pagan -> pagans
 page -> pages,paging,paged
 pageant -> pageants
 pageboy -> pageboys
+pager -> pagers
 pagoda -> pagodas
 pail -> pails
 pain -> pains,paining,pained
@@ -9168,7 +9238,7 @@ paragraph -> paragraphs
 parakeet -> parakeets
 parallel -> parallels,paralleling,paralleled
 parallelogram -> parallelograms
-paralyse -> paralyses,paralysing,paralysed
+paralyze -> paralyzes,paralyzing,paralyzed,paralyse,paralyses,paralysing,paralysed
 paralytic -> paralytics
 paramedic -> paramedics
 parameter -> parameters
@@ -9263,6 +9333,7 @@ paterfamilias -> paterfamiliases
 paternoster -> paternosters
 path -> paths
 pathfinder -> pathfinders
+pathogen -> pathogens
 pathologist -> pathologists
 pathway -> pathways
 patient -> patients
@@ -9329,6 +9400,7 @@ pecker -> peckers
 pectoral -> pectorals
 peculiarity -> peculiarities
 pedagogue -> pedagogues
+pedophile -> pedophiles,paedophile,paedophiles
 pedal -> pedals,pedalling,pedalled
 pedant -> pedants
 peddle -> peddles,peddling,peddled
@@ -9336,6 +9408,7 @@ peddler -> peddlers
 pedestal -> pedestals
 pedestrian -> pedestrians
 pedestrianize -> pedestrianizes,pedestrianizing,pedestrianized
+pediatric -> pediatrics
 pedicure -> pedicures
 pedigree -> pedigrees
 pediment -> pediments
@@ -9520,6 +9593,7 @@ photocopier -> photocopiers
 photocopy -> photocopies,photocopying,photocopied
 photograph -> photographs,photographing,photographed
 photographer -> photographers
+photon -> photons
 photostat -> photostats,photostating,photostated
 phrase -> phrases,phrasing,phrased
 physical -> physicals
@@ -9631,6 +9705,7 @@ pithy -> pithier,pithiest
 pituitary -> pituitaries
 pity -> pities,pitying,pitied
 pivot -> pivots,pivoting,pivoted
+pixel -> pixels
 pixie -> pixies
 pizza -> pizzas
 placard -> placards
@@ -9708,10 +9783,10 @@ plonk -> plonks,plonking,plonked
 plop -> plops,plopping,plopped
 plot -> plots,plotting,plotted
 plotter -> plotters
-plough -> ploughs,ploughing,ploughed
 ploughman -> ploughmen
 ploughshare -> ploughshares
 plover -> plovers
+plow -> plows,plowed,plowing,plough,ploughs,ploughing,ploughed
 ploy -> ploys
 pluck -> plucks,plucking,plucked
 plucky -> pluckier,pluckiest
@@ -9851,6 +9926,7 @@ poseur -> poseurs
 posh -> posher,poshest
 posit -> posits,positing,posited
 position -> positions,positioning,positioned
+positive -> positives
 posse -> posses
 possess -> possesses,possessing,possessed
 possession -> possessions
@@ -9906,8 +9982,7 @@ powerboat -> powerboats
 powerhouse -> powerhouses
 practical -> practicals
 practicality -> practicalities
-practice -> practices,practicing,practiced
-practise -> practises,practising,practised
+practice -> practices,practicing,practiced,practise,practises,practising,practised
 practitioner -> practitioners
 pragmatic -> pragmatics
 prairie -> prairies
@@ -10031,6 +10106,7 @@ primary -> primaries
 primate -> primates
 prime -> primes,priming,primed
 primer -> primers
+primitive -> primitives
 primrose -> primroses
 primula -> primulae,primulas
 primus -> primuses
@@ -10068,6 +10144,7 @@ proceed -> proceeds,proceeding,proceeded
 proceeding -> proceedings
 process -> processes,processing,processed
 procession -> processions
+processor -> processors
 proclaim -> proclaims,proclaiming,proclaimed
 proclamation -> proclamations
 proclivity -> proclivities
@@ -10093,15 +10170,14 @@ professional -> professionals
 professor -> professors
 professorship -> professorships
 proffer -> proffers,proffering,proffered
-profile -> profiles
+profile -> profiles,profiled,profiling
 profit -> profits,profiting,profited
 profiteer -> profiteers
 profundity -> profundities
 progenitor -> progenitors
 prognosis -> prognoses
 prognostication -> prognostications
-program -> programs,programming,programmed
-programme -> programmes,programming,programmed
+program -> programs,programming,programmed,programme,programmes,programming,programmed
 programmer -> programmers
 progress -> progresses,progressing,progressed
 progression -> progressions
@@ -10177,6 +10253,7 @@ prostrate -> prostrates,prostrating,prostrated
 prosy -> prosier,prosiest
 protagonist -> protagonists
 protect -> protects,protecting,protected
+protection -> protections
 protector -> protectors
 protectorate -> protectorates
 protege -> proteges
@@ -10184,7 +10261,8 @@ protein -> proteins
 protest -> protests,protesting,protested
 protestant -> protestants
 protestation -> protestations
-protester -> protesters
+protester -> protesters,protestor,protestors
+protocol -> protocols
 proton -> protons
 prototype -> prototypes
 protractor -> protractors
@@ -10340,6 +10418,7 @@ qc -> qcs
 quack -> quacks,quacking,quacked
 quad -> quads
 quadrangle -> quadrangles
+quadrant -> quadrants
 quadrilateral -> quadrilaterals
 quadrille -> quadrilles
 quadruped -> quadrupeds
@@ -10361,6 +10440,7 @@ quantify -> quantifies,quantifying,quantified
 quantity -> quantities
 quantum -> quanta
 quarantine -> quarantines,quarantining,quarantined
+quark -> quarks
 quarrel -> quarrels,quarrelling,quarrelled
 quarry -> quarries,quarrying,quarried
 quart -> quarts
@@ -10500,6 +10580,7 @@ rape -> rapes,raping,raped
 rapid -> rapids
 rapier -> rapiers
 rapist -> rapists
+rapper -> rappers
 rapture -> raptures
 rare -> rarer,rarest
 rarity -> rarities
@@ -10561,7 +10642,7 @@ ready -> readies,readying,readied
 reaffirm -> reaffirms,reaffirming,reaffirmed
 realist -> realists
 reality -> realities
-realize -> realizes,realizing,realized
+realize -> realizes,realizing,realized,realise,realises,realising,realised
 realm -> realms
 realtor -> realtors
 ream -> reams
@@ -10606,6 +10687,7 @@ receiver -> receivers
 receptacle -> receptacles
 reception -> receptions
 receptionist -> receptionists
+receptor -> receptors
 recess -> recesses
 recession -> recessions
 recharge -> recharges,recharging,recharged
@@ -10631,6 +10713,7 @@ recompense -> recompenses,recompensing,recompensed
 reconcile -> reconciles,reconciling,reconciled
 reconciliation -> reconciliations
 recondition -> reconditions,reconditioning,reconditioned
+reconnect -> reconnects,reconnected,reconnecting
 reconnoitre -> reconnoitres,reconnoitring,reconnoitred
 reconsider -> reconsiders,reconsidering,reconsidered
 reconstitute -> reconstitutes,reconstituting,reconstituted
@@ -10688,7 +10771,7 @@ ref -> refs
 refectory -> refectories
 refer -> refers,referring,referred
 referee -> referees,refereeing,refereed
-reference -> references
+reference -> references,referenced,referencing
 referendum -> referenda,referendums
 refill -> refills,refilling,refilled
 refine -> refines,refining,refined
@@ -10826,6 +10909,7 @@ renew -> renews,renewing,renewed
 renewal -> renewals
 renounce -> renounces,renouncing,renounced
 renovate -> renovates,renovating,renovated
+renovation -> renovations
 rent -> rents,renting,rented
 rental -> rentals
 reopen -> reopens,reopening,reopened
@@ -10935,6 +11019,7 @@ response -> responses
 responsibility -> responsibilities
 rest -> rests,resting,rested
 rest-home -> rest-homes
+restart -> restarted,restarting,restarts
 restate -> restates,restating,restated
 restatement -> restatements
 restaurant -> restaurants
@@ -11174,7 +11259,7 @@ rotation -> rotations
 rotor -> rotors
 rotter -> rotters
 rotunda -> rotundas
-rouble -> roubles
+ruble -> rubles,rouble,roubles,roble,robles
 roue -> roues
 rouge -> rouges,rougeing,rouged
 rough -> rougher,roughest,roughs,roughing,roughed
@@ -11201,6 +11286,7 @@ rubber -> rubbers
 rubber-stamp -> rubber-stamps,rubber-stamping,rubber-stamped
 rubbing -> rubbings
 rubbish -> rubbishes,rubbishing,rubbished
+ruble -> rubles
 rubric -> rubrics
 ruby -> rubies
 ruck -> rucks,rucking,rucked
@@ -11499,7 +11585,7 @@ scribble -> scribbles,scribbling,scribbled
 scribe -> scribes
 scrimmage -> scrimmages
 scrimp -> scrimps,scrimping,scrimped
-script -> scripts
+script -> scripts,scripted,scripting
 scripture -> scriptures
 scriptwriter -> scriptwriters
 scroll -> scrolls
@@ -11639,6 +11725,7 @@ sentimentalize -> sentimentalizes,sentimentalizing,sentimentalized
 sentinel -> sentinels
 sentry -> sentries
 separate -> separates,separating,separated
+separatist -> separatists
 separation -> separations
 septuagenarian -> septuagenarians
 sepulchre -> sepulchres
@@ -11776,6 +11863,7 @@ shirt -> shirts
 shirtfront -> shirtfronts
 shirttail -> shirttails
 shit -> shits,shitting,shat
+shitty -> shittiest
 shiver -> shivers,shivering,shivered
 shoal -> shoals
 shock -> shocks,shocking,shocked
@@ -11889,7 +11977,7 @@ sight-translation -> sight-translations
 sighting -> sightings
 sightseer -> sightseers
 sign -> signs,signing,signed
-signal -> signals,signalling,signalled
+signal -> signals,signalling,signaling,signalled,signalled
 signalman -> signalmen
 signatory -> signatories
 signature -> signatures
@@ -12049,6 +12137,7 @@ slew -> slews,slewing,slewed
 slice -> slices,slicing,sliced
 slick -> slicker,slickest,slicks,slicking,slicked
 slide -> slides,sliding,slid
+slider -> sliders
 slight -> slighter,slightest,slights,slighting,slighted
 slim -> slimmer,slimmest,slims,slimming,slimmed
 slimmer -> slimmers
@@ -12327,7 +12416,7 @@ special -> specials
 specialism -> specialisms
 specialist -> specialists
 speciality -> specialities
-specialize -> specializes,specializing,specialized
+specialize -> specializes,specializing,specialized,specialise,specialised,specialises,specialising
 specialty -> specialties
 specific -> specifics
 specification -> specifications
@@ -12399,6 +12488,7 @@ splotch -> splotches
 splurge -> splurges,splurging,splurged
 splutter -> splutters,spluttering,spluttered
 spoil -> spoils,spoiling,spoiled,spoilt
+spoiler -> spoilers
 spoilsport -> spoilsports
 spoke -> spokes
 spokesman -> spokesmen
@@ -12488,8 +12578,8 @@ srn -> srns
 st -> sts
 stab -> stabs,stabbing,stabbed
 stabbing -> stabbings
-stabilize -> stabilizes,stabilizing,stabilized
-stabilizer -> stabilizers
+stabilize -> stabilizes,stabilizing,stabilized,stabilise,stabilises,stabilising,stabilised
+stabilizer -> stabilizers,stabiliser,stabilisers
 stable -> stables,stabling,stabled
 stable-boy -> stable-boys
 stack -> stacks,stacking,stacked
@@ -12515,6 +12605,7 @@ stalagmite -> stalagmites
 stale -> staler,stalest
 stalemate -> stalemates
 stalk -> stalks,stalking,stalked
+stalker -> stalkers
 stall -> stalls,stalling,stalled
 stallholder -> stallholders
 stallion -> stallions
@@ -12833,6 +12924,7 @@ substructure -> substructures
 subsume -> subsumes,subsuming,subsumed
 subsystem -> subsystems
 subterfuge -> subterfuges
+subtitle -> subtitles
 subtle -> subtler,subtlest
 subtlety -> subtleties
 subtract -> subtracts,subtracting,subtracted
@@ -12906,6 +12998,7 @@ suntan -> suntans
 suntrap -> suntraps
 sup -> sups,supping,supped
 super-ego -> super-egos
+superhero -> superheroes
 superimpose -> superimposes,superimposing,superimposed
 superintend -> superintends,superintending,superintended
 superintendent -> superintendents
@@ -13281,6 +13374,7 @@ terrorize -> terrorizes,terrorizing,terrorized
 terse -> terser,tersest
 test -> tests,testing,tested
 testament -> testaments
+tester -> testers
 testicle -> testicles
 testify -> testifies,testifying,testified
 testimonial -> testimonials
@@ -13298,11 +13392,12 @@ that -> those
 thatch -> thatches,thatching,thatched
 thatcher -> thatchers
 thaw -> thaws,thawing,thawed
-theatre -> theatres
+theater -> theaters,theatre,theatres
 theatregoer -> theatregoers
+theatric -> theatrics
 theatrical -> theatricals
 theft -> thefts
-theme -> themes
+theme -> themes,themed
 theocracy -> theocracies
 theodolite -> theodolites
 theologian -> theologians
@@ -13313,6 +13408,7 @@ theorist -> theorists
 theorize -> theorizes,theorizing,theorized
 theory -> theories
 therapist -> therapists
+therapy -> therapies
 therm -> therms
 thermal -> thermals
 thermometer -> thermometers
@@ -13610,7 +13706,7 @@ traffic -> traffics,trafficking,trafficked
 trafficker -> traffickers
 tragedy -> tragedies
 tragicomedy -> tragicomedies
-trail -> trails
+trail -> trails,trailed,trailing
 trailer -> trailers
 train -> trains,training,trained
 trainee -> trainees
@@ -13627,8 +13723,8 @@ trample -> tramples,trampling,trampled
 trampoline -> trampolines
 tramway -> tramways
 trance -> trances
-tranquillize -> tranquillizes,tranquillizing,tranquillized
-tranquillizer -> tranquillizers
+tranquilizer -> tranquilizers,tranquillizer,tranquillizers
+tranquilize -> tranquilizes,tranquilizing,tranquilized,tranquillize,tranquillizes,tranquillizing,tranquillized
 transact -> transacts,transacting,transacted
 transaction -> transactions
 transcend -> transcends,transcending,transcended
@@ -13665,6 +13761,7 @@ trapper -> trappers
 trashcan -> trashcans
 trashy -> trashier,trashiest
 trauma -> traumas
+traumatize -> traumatized,traumatizes,traumatizing,traumatise,traumatised,traumatises,traumatising
 travel -> travels,travelling,travelled,traveling,traveled
 traveller -> travellers
 travelogue -> travelogues
@@ -13694,7 +13791,7 @@ tremble -> trembles,trembling,trembled
 tremolo -> tremolos
 tremor -> tremors
 trench -> trenches
-trend -> trends
+trend -> trends,trended,trending
 trend-setter -> trend-setters
 trendy -> trendier,trendiest,trendies
 trespass -> trespasses,trespassing,trespassed
@@ -14076,6 +14173,7 @@ vacancy -> vacancies
 vacate -> vacates,vacating,vacated
 vacation -> vacations,vacationing,vacationed
 vaccinate -> vaccinates,vaccinating,vaccinated
+vaccination -> vaccinations
 vaccine -> vaccines
 vacillate -> vacillates,vacillating,vacillated
 vacuum -> vacuums,vacuuming,vacuumed
@@ -14178,6 +14276,7 @@ vexation -> vexations
 viaduct -> viaducts
 vial -> vials
 vibraphone -> vibraphones
+vibration -> vibrations
 vibrate -> vibrates,vibrating,vibrated
 vibrato -> vibratos
 vibrator -> vibrators
@@ -14475,7 +14574,7 @@ western -> westerns
 westerner -> westerners
 westernize -> westernizes,westernizing,westernized
 westward -> westwards
-wet -> wets,wetted,wetting
+wet -> wets,wetted,wetting,wetter,wettest
 wet-nurse -> wet-nurses
 whack -> whacks,whacking,whacked
 whacking -> whackings
@@ -14544,7 +14643,7 @@ wicket -> wickets
 wicket-keeper -> wicket-keepers
 wide -> wider,widest,wides
 widen -> widens,widening,widened
-widow -> widows
+widow -> widowed,widows
 widower -> widowers
 width -> widths
 wield -> wields,wielding,wielded
@@ -14781,7 +14880,7 @@ zip -> zips,zipping,zipped
 zipper -> zippers
 zither -> zithers
 zombie -> zombies
-zone -> zones
+zone -> zones,zoned,zoning
 zoo -> zoos
 zoom -> zooms,zooming,zoomed
 zulu -> zul
