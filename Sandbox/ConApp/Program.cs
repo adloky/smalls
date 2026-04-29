@@ -387,7 +387,7 @@ namespace ConApp {
             _lemmaForms = new Dictionary<string, List<string>>();
             File.ReadAllLines("d:/Projects/smalls/e_lemma.txt")
                 .Where(x => !x.StartsWith("["))
-                .Select(x => x.ToLower().Split(new[] { " -> ", "," }, ssop)).ToList()
+                .Select(x => x.ToLower().Split(' ')).ToList()
                 .ForEach(x => {
                     var key = x[0];
                     var fs = new List<string>();
