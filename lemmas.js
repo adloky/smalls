@@ -37,7 +37,11 @@ function getLems(x) {
         }
         
         if (!/[^aeiouy][aeiouy][^aeiouywx]$/.test(x) || x.match(/[aeiouy]+/g).length !== 1) {
-            addE = 0;
+            if (addE === 1) {
+                addE = 0
+            } else {
+                rs.push(x + x.slice(-1));
+            }
         }
         
         if (addE <= 0) {
@@ -1184,8 +1188,7 @@ var lemExs = new Map([
 ["pricier", "pricey"],
 ["pros", "pro"],
 ["prognoses", "prognosis"],
-["programming", "programme"],
-["programmed", "programme"],
+["programmes", "program"],
 ["prologues", "prologue"],
 ["propelling", "propel"],
 ["propelled", "propel"],

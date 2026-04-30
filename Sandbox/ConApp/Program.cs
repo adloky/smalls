@@ -2374,15 +2374,23 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
-            var reDC = new Regex(@"[^aeiouy][aeiouy][^aeiouywx]$", RegexOptions.Compiled);
-            var reCEnd = new Regex(@"[^aeiouy]$", RegexOptions.Compiled);
-            var reSyl = new Regex(@"[aeiouy]+", RegexOptions.Compiled);
-            var xs = new HashSet<string>(loadDic(@"d:\Projects\smalls\freq-subs.txt").Values.Where(x => x.pos == "глагол").Select(x => x.key));
-            // reSyl.Matches(x[0]).Count > 1 && reDC.IsMatch(x[0])
-            xs.Select(x => new [] { x, $"{x}e" }).Where(x => reCEnd.IsMatch(x[0]) && xs.Contains(x[1]) && x.Count(y => lemmaForms.ContainsKey(y)) == 2).ToList()
-                .ForEach(x => Console.WriteLine(string.Join(" ", x) + " | " + string.Join(" ", x.SelectMany(y => lemmaForms[y].Where(z => z.EndsWith("ing"))))));
-            //xs.Where(x => reT1.IsMatch(x)).ToList().ForEach(Console.WriteLine);
+            var path = @"d:\Projects\smalls\consonants.txt";
+            var rs = new List<string>();
+            var hs = new HashSet<string>();
+            File.ReadAllLines(path).ToList().ForEach(s => {
+                if (!DicItem.isValid(s)) {
+                    rs.Add(s);
+                    return;
+                }
+                var di = DicItem.Parse(s);
+                var k = di.getKeyPos();
 
+                if (hs.Contains(k)) return;
+                rs.Add(s);
+                hs.Add(k);
+            });
+
+            File.WriteAllLines(pathEx(path, "-2"), rs);
 
             /*
             var fs = new[] { @"d:\Projects\smalls\freq-20k.txt", @"d:\Projects\smalls\cefr-orig.txt", @"d:\Projects\smalls\freq-g.txt", };

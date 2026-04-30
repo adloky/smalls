@@ -6247,6 +6247,7 @@ gce gces
 gear gears gearing geared
 gearbox gearboxes
 gearshift gearshifts
+gecko geckos
 geek geeks
 geezer geezers
 geisha geishas
@@ -9693,6 +9694,7 @@ neurotransmitter neurotransmitters
 neuter neuters neutering neutered
 neutral neutrals
 neutralize neutralizes neutralizing neutralized neutralise neutralises neutralising neutralised
+neutrino neutrinos
 neutron neutrons
 new newer newest
 newbie newbies
@@ -13474,6 +13476,7 @@ skater skaters
 skedaddle skedaddled
 skein skeins
 skeleton skeletons
+skeptic skeptic
 sketch sketches sketching sketched
 sketchbook sketchbooks
 sketchpad sketchpads
