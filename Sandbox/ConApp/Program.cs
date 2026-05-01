@@ -2367,32 +2367,57 @@ namespace ConApp {
             }
         }
 
-
         static volatile bool ctrlC = false;
 
         static async Task Main(string[] args) {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
-            Func<HashSet<string>> exs = () => {
-                return new HashSet<string>(File.ReadAllLines(@"d:\~excepts.txt").Concat(File.ReadAllLines(@"d:\~excepts-del.txt"))
-                    .GroupBy(x => x).Where(x => x.Count() == 1).Select(x => x.Key));
+            //var all = new HashSet<string>(File.ReadAllLines(@"d:/english/words.txt").Select(x => x.ToLower()).Where(x => x.Length >= 3));
+            var all = new HashSet<string>(File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(x => DicItem.Parse(x))
+                .Where(di => di.key.Length >= 3 && (new [] { "глагол", "наречие", "прилагательное", "существительное" }).Contains(di.pos)).Select(x => x.key));
+
+            Action sect = () => {
+                var _rs = File.ReadAllLines(@"d:\~excepts.txt").Concat(File.ReadAllLines(@"d:\~excepts-del.txt"))
+                    .GroupBy(x => x).Where(x => x.Count() == 1).Select(x => x.Key).ToList();
+                File.WriteAllLines(@"d:\~excepts-sect.txt", _rs);
             };
 
-            
+            Func<string,bool> com = _s => {
+                if (_s.Length < 7) return false;
+                for (var j = 3; j <= _s.Length - 3; j++) {
+                    var a = _s.Substring(0, j);
+                    var b = _s.Substring(j);
+                    if (all.Contains(a) && all.Contains(b)) 
+                        return true;
+                }
+                return false;
+            };
+
+            var ps = (new[] { "anti", "dis", "in", "im", "ir", "il", "mis", "non", "over", "pre", "re", "sub", "super", "un", "under", "de", "ex", "post" })
+                .SelectMany(x => new [] { x, $"{x}-" }).ToArray();
+
+            Func<string, bool> pre = _s => {
+                var ss = ps.Select(_p => _s.StartsWith(_p) ? _s.Substring(_p.Length) : null).Where(_x => _x != null).ToArray();
+                return ss.Any(_x => all.Contains(_x));
+            };
+
             var reV = new Regex(@"[aeiouy]");
             var reC = new Regex(@"[^aeiouy\-']");
 
+
+
             //var path = @"d:\~excepts.txt";
-            //var rs = File.ReadAllLines(path).Where(x => x.Contains("'")).ToList();
+            //var rs = File.ReadAllLines(path).Where(x => Regex.IsMatch(x, @"(ie|[^l]y)$")).ToList();
+
             
             var path = @"d:\Projects\smalls\freq-subs.txt";
-            var ds = File.ReadAllLines(@"d:\~excepts-del.txt");
+            var ds = File.ReadAllLines(@"d:\~excepts.txt");
             var rs = File.ReadAllLines(path).Where(x => {
                 var di = DicItem.Parse(x);
                 return !ds.Contains(di.key);
             }).ToList();
-
+            
 
             File.WriteAllLines(pathEx(path, "-2"), rs);
 
