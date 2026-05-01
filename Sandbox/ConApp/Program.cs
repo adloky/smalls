@@ -2330,7 +2330,7 @@ namespace ConApp {
             }
         }
 
-        static Regex endingShRe = new Regex(@"(sh|ch|[iosxz])$", RegexOptions.Compiled | RegexOptions.IgnoreCase);
+        static Regex endingShRe = new Regex(@"(sh|ch|[yosxz])$", RegexOptions.Compiled | RegexOptions.IgnoreCase);
         static Regex endingAYRe = new Regex(@"[aeiouy]y$", RegexOptions.Compiled | RegexOptions.IgnoreCase);
         static Regex endingCVCRe = new Regex(@"[^aeiouy][aeiouy][^xwaeiouy]$", RegexOptions.Compiled | RegexOptions.IgnoreCase);
         static Regex endingVowelRe = new Regex(@"[aeiouy]$", RegexOptions.Compiled | RegexOptions.IgnoreCase);
@@ -2341,9 +2341,10 @@ namespace ConApp {
             var end = (string)null;
             switch (e) {
                 case 's':
-                    if (s.Last() == 'y') s = $"{s.Remove(s.Length - 1, 1)}i";
+                    var _s = s;
+                    if (s.Last() == 'y') _s = $"{s.Remove(s.Length - 1, 1)}i";
                     end = endingShRe.IsMatch(s) ? "es" : "s";
-                    return new[] { $"{s}{end}" };
+                    return new[] { $"{_s}{end}" };
                 case 'd':
                     if (s.Last() == 'y' && !endingAYRe.IsMatch(s)) s = $"{s.Remove(s.Length - 1, 1)}i";
                     if (!endingVowelRe.IsMatch(s)) return new[] { $"{s}ed", $"{s}{s.Last()}ed" };
@@ -2373,50 +2374,31 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
-            //var all = new HashSet<string>(File.ReadAllLines(@"d:/english/words.txt").Select(x => x.ToLower()).Where(x => x.Length >= 3));
-            var all = new HashSet<string>(File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(x => DicItem.Parse(x))
-                .Where(di => di.key.Length >= 3 && (new [] { "глагол", "наречие", "прилагательное", "существительное" }).Contains(di.pos)).Select(x => x.key));
-
-            Action sect = () => {
-                var _rs = File.ReadAllLines(@"d:\~excepts.txt").Concat(File.ReadAllLines(@"d:\~excepts-del.txt"))
-                    .GroupBy(x => x).Where(x => x.Count() == 1).Select(x => x.Key).ToList();
-                File.WriteAllLines(@"d:\~excepts-sect.txt", _rs);
-            };
-
-            Func<string,bool> com = _s => {
-                if (_s.Length < 7) return false;
-                for (var j = 3; j <= _s.Length - 3; j++) {
-                    var a = _s.Substring(0, j);
-                    var b = _s.Substring(j);
-                    if (all.Contains(a) && all.Contains(b)) 
-                        return true;
-                }
-                return false;
-            };
-
-            var ps = (new[] { "anti", "dis", "in", "im", "ir", "il", "mis", "non", "over", "pre", "re", "sub", "super", "un", "under", "de", "ex", "post" })
-                .SelectMany(x => new [] { x, $"{x}-" }).ToArray();
-
-            Func<string, bool> pre = _s => {
-                var ss = ps.Select(_p => _s.StartsWith(_p) ? _s.Substring(_p.Length) : null).Where(_x => _x != null).ToArray();
-                return ss.Any(_x => all.Contains(_x));
-            };
-
-            var reV = new Regex(@"[aeiouy]");
-            var reC = new Regex(@"[^aeiouy\-']");
-
-
-
-            //var path = @"d:\~excepts.txt";
-            //var rs = File.ReadAllLines(path).Where(x => Regex.IsMatch(x, @"(ie|[^l]y)$")).ToList();
-
-            
             var path = @"d:\Projects\smalls\freq-subs.txt";
-            var ds = File.ReadAllLines(@"d:\~excepts.txt");
-            var rs = File.ReadAllLines(path).Where(x => {
-                var di = DicItem.Parse(x);
-                return !ds.Contains(di.key);
-            }).ToList();
+            //var rs = new[] { "" };
+
+            /*
+            var ds = File.ReadAllLines(path).Select(x => DicItem.Parse(x)).ToList();
+            var ks = new Dictionary<string,DicItem>();
+            ds.Where(d => d.pos == "глагол").SelectMany(d => addEnding(d.key, 'g')
+                .Select(s => { var _d = DicItem.Parse($"{s} {{{d.pos}}} {d.key}"); _d.rank = d.rank; return _d; }))
+                .ToList().ForEach(d => {
+                    if (!ks.ContainsKey(d.getKeyPos())) {
+                        ks[d.getKeyPos()] = d;
+                    }
+                });
+            var rs = ds.Where(d => ks.ContainsKey(d.getKeyPos())).Select(d => d.ToString() + $" {ks[d.getKeyPos()].vals[0]}").ToList();
+            */
+
+            var dic = loadDic(path);
+            loadDic(@"d:\Projects\smalls\freq-subs-fix.txt").Values.ToList().ForEach(f => {
+                var ok = $"{f.vals[0]} {{{f.pos}}}";
+                if (dic.ContainsKey(ok))
+                    dic[ok].rank += f.rank;
+                dic.Remove(f.getKeyPos());
+            });
+            
+            var rs = dic.Values.OrderByDescending(x => x.rank).Select(x => x.ToString()).ToArray();
             
 
             File.WriteAllLines(pathEx(path, "-2"), rs);
