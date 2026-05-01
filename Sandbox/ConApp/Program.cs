@@ -2374,21 +2374,25 @@ namespace ConApp {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
 
-            var path = @"d:\Projects\smalls\consonants.txt";
-            var rs = new List<string>();
-            var hs = new HashSet<string>();
-            File.ReadAllLines(path).ToList().ForEach(s => {
-                if (!DicItem.isValid(s)) {
-                    rs.Add(s);
-                    return;
-                }
-                var di = DicItem.Parse(s);
-                var k = di.getKeyPos();
+            Func<HashSet<string>> exs = () => {
+                return new HashSet<string>(File.ReadAllLines(@"d:\~excepts.txt").Concat(File.ReadAllLines(@"d:\~excepts-del.txt"))
+                    .GroupBy(x => x).Where(x => x.Count() == 1).Select(x => x.Key));
+            };
 
-                if (hs.Contains(k)) return;
-                rs.Add(s);
-                hs.Add(k);
-            });
+            
+            var reV = new Regex(@"[aeiouy]");
+            var reC = new Regex(@"[^aeiouy\-']");
+
+            //var path = @"d:\~excepts.txt";
+            //var rs = File.ReadAllLines(path).Where(x => x.Contains("'")).ToList();
+            
+            var path = @"d:\Projects\smalls\freq-subs.txt";
+            var ds = File.ReadAllLines(@"d:\~excepts-del.txt");
+            var rs = File.ReadAllLines(path).Where(x => {
+                var di = DicItem.Parse(x);
+                return !ds.Contains(di.key);
+            }).ToList();
+
 
             File.WriteAllLines(pathEx(path, "-2"), rs);
 
