@@ -2383,12 +2383,8 @@ namespace ConApp {
             
             var dic = loadDic(path);
             loadDic(@"d:\Projects\smalls\freq-subs-fix.txt").Values.ToList().ForEach(f => {
-                var sdi = DicItem.Parse($"{f.rank:000000000} {f.key.Remove(f.key.Length - 1, 1)} {{{f.pos}}}");
-                if (dic.ContainsKey(sdi.getKeyPos())) {
-                    dic[sdi.getKeyPos()].rank += f.rank;
-                    dic.Remove(f.getKeyPos());
-                }
-                else {
+                var sdi = DicItem.Parse($"{f.rank:000000000} {f.vals[0]} {{{f.pos}}}");
+                if (!dic.ContainsKey(sdi.getKeyPos())) {
                     dic[sdi.getKeyPos()] = sdi;
                 }
             });
