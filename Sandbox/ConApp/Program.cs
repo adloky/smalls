@@ -2375,27 +2375,27 @@ namespace ConApp {
             Console.OutputEncoding = Encoding.UTF8;
 
             var path = @"d:\Projects\smalls\freq-subs.txt";
-            var fixes = loadDic(@"d:\Projects\smalls\freq-subs-fix.txt").Values;
-            var big = loadDic(path);
+
+            //var dic = loadDic(path);
+            //var rs = dic.Values.Where(d => d.pos == "существительное" && d.key.EndsWith("os") && families.ContainsKey(d.key.Remove(d.key.Length - 1, 1))).Select(d => d.ToString()).ToList();
             
-            foreach (var f in fixes) {
-                big[f.getKeyPos()] = f;
-            }
 
-
-            /*
+            
             var dic = loadDic(path);
             loadDic(@"d:\Projects\smalls\freq-subs-fix.txt").Values.ToList().ForEach(f => {
-                var ok = $"{f.vals[0]} {{{f.pos}}}";
-                if (dic.ContainsKey(ok))
-                    dic[ok].rank += f.rank;
-                dic.Remove(f.getKeyPos());
+                var sdi = DicItem.Parse($"{f.rank:000000000} {f.key.Remove(f.key.Length - 1, 1)} {{{f.pos}}}");
+                if (dic.ContainsKey(sdi.getKeyPos())) {
+                    dic[sdi.getKeyPos()].rank += f.rank;
+                    dic.Remove(f.getKeyPos());
+                }
+                else {
+                    dic[sdi.getKeyPos()] = sdi;
+                }
             });
             
             var rs = dic.Values.OrderByDescending(x => x.rank).Select(x => x.ToString()).ToArray();
-            */
-
-            File.WriteAllLines(pathEx(path, "-2"), big.Values.OrderByDescending(x => x.rank).Select(x => x.ToString()));
+            
+            File.WriteAllLines(pathEx(path, "-2"), rs);
 
             /*
             var fs = new[] { @"d:\Projects\smalls\freq-20k.txt", @"d:\Projects\smalls\cefr-orig.txt", @"d:\Projects\smalls\freq-g.txt", };
