@@ -189,6 +189,9 @@ namespace ConApp {
     static class Program {
 
         static Program() {
+            Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
+            Console.OutputEncoding = Encoding.UTF8;
+
             // extend cmu
             cmu.Where(kv => kv.Key.Length == 2 && "AEIOU".Contains(kv.Key[0])).ToList().ForEach(kv => {
                 for (var i = 0; i < 3; i++) {
@@ -834,7 +837,7 @@ namespace ConApp {
             { "JJS", "прилагательное" }, { "CC", "союз" }, { "DT", "определитель" },
             { "PDT", "определитель" }, { "WDT", "определитель" }, { "UH", "междометие" },
             { "MD", "глагол" }, { "VB", "глагол" }, { "VBD", "глагол" }, { "VBG", "глагол" },
-            { "VBN", "глагол" }, { "VBP", "глагол" }, { "VBZ", "глагол" }, { "RP", "частица" },
+            { "VBN", "глагол" }, { "VBP", "глагол" }, { "VBZ", "глагол" }, { "RP", "прочее" },
             { "PRP", "местоимение" }, { "PRP$", "местоимение" }, { "WP", "местоимение" },
             { "WP$", "местоимение" }, { "IN", "предлог" }, { "POS", "прочее" }, { "EX", "прочее" }
         };
@@ -1631,6 +1634,7 @@ namespace ConApp {
             { "m", new [] { "m", "number", "числительное", "числ." } },
             { "u", new [] { "u", "interjection", "междометие", "межд." } },
             { "d", new [] { "d", "determiner", "определитель", "опред." } },
+            { "t", new [] { "t", "particle", "частица", "частица" } },
             { "o", new [] { "o", "other", "прочее", "прочее" } },
         };
 
@@ -1712,7 +1716,6 @@ namespace ConApp {
             var skip = File.ReadAllText(pathRu).Split(new[] { "\r\n---\r\n" }, StringSplitOptions.None).Length-1;
             var ss = File.ReadAllText(path).Split(new[] { "\r\n---\r\n" }, StringSplitOptions.None).Skip(skip).ToList();
             ss.RemoveAt(ss.Count-1);
-            var withPos = false;
             var i = 0;
             foreach (var _s in ss) {
                 if (ctrlC) break;
@@ -1720,12 +1723,13 @@ namespace ConApp {
                 var pre = adaptKeepRe.Matches(_s).Cast<Match>().Select(m => m.Value).FirstOrDefault() ?? "";
                 var s = _s.Substring(pre.Length);
 
-                var r = "";
+                var pr = "";
 
                 if (level != null) {
-                    r += $" Adapt the English text for understanding at the {level} level of English proficiency. ";
+                    pr += $" Adapt the English text for understanding at the {level} level of English proficiency. ";
                 }
 
+                var freqOnly = freq > 0 && level == null && alter == null;
                 if (freq > 0) {
                     var rws = freqGrouping(s, dic, true).Where(x => x.g > -1).Select(x => normForAdapt($"{x.x} {{{x.pos}}}")).Distinct()
                         .Where(x => {
@@ -1734,59 +1738,74 @@ namespace ConApp {
                         }).ToArray();
 
                     if (rws.Length > 0) {
-                        r += $" If possible, in the text, replace the following words with something from the top {freqMid} by frequency of use: {string.Join(", ", rws)}. "; // (parts of speech may not match)
+                        pr += $" If possible, in the text, replace the following words with something from the top {freqMid} by frequency of use: {string.Join(", ", rws)}. "; // (parts of speech may not match)
+                    }
+                    else {
+                        freqOnly = false;
                     }
                 }
 
                 if (alter != null) {
-                    r += $" {alter} ";
+                    pr += $" {alter} ";
                 }
 
-                r += $" Keep the paragraph structure. Output only the final text. Input text:\r\n{s}";
+                if (pr != "") {
+                    pr += $" Keep the paragraph structure. Output only the final text. Input text:";
+                }
 
                 var pause = 4000;
 
-                var s2 = (string)null;
+                var sr = (string)null;
                 if (_s == pre) {
-                    s2 = "";
+                    sr = "";
+                }
+                if (pr == "") {
+                    sr = s;
                 }
                 else {
                     do {
+                        var q = $"{pr}\r\n{s}";
                         try {
                             switch (ap) {
                                 case AdaptPoints.Gemini:
-                                    s2 = Gemini.Get(r);
+                                    sr = Gemini.Get(q);
                                     break;
                                 case AdaptPoints.DeepSeek:
-                                    s2 = DeepSeek.Get(r);
+                                    sr = DeepSeek.Get(q);
                                     break;
                                 case AdaptPoints.OpenRouter:
-                                    s2 = OpenRouter.Get(r);
+                                    sr = OpenRouter.Get(q);
                                     break;
                                 case AdaptPoints.OpenRouter2:
                                     SandboxConfig.Default["openrouterKey"] = SandboxConfig.Default["openrouterKey2"];
-                                    s2 = OpenRouter.Get(r);
+                                    sr = OpenRouter.Get(q);
                                     break;
                                 case AdaptPoints.Test:
-                                    s2 = s;
+                                    sr = s;
                                     Thread.Sleep(1000);
                                     break;
                             }
-                            s2 = string.Join("\r\n", Regex.Split(s2, @"\r?\n").Select(x => x.Trim()).Where(x => x != "").Select(x => x == "---" ? "_" : x)).Replace("*", "");
-                            opts.check(s, s2);
+                            sr = string.Join("\r\n", Regex.Split(sr, @"\r?\n").Select(x => x.Trim()).Where(x => x != "").Select(x => x == "---" ? "_" : x)).Replace("*", "");
+
+                            var diff = s.Length == 0 ? 0 : Math.Abs(sr.Length - s.Length) * 100 / s.Length;
+                            if (freqOnly && s.Length > 300 && pause <= 15000 && diff > 10) {
+                                throw new Exception("diff");
+                            }
+
+                            opts.check(s, sr);
                             pause = 4000;
                         }
                         catch (Exception e) {
-                            s2 = null;
+                            sr = null;
                             Console.WriteLine(e.Message);
-                            pause = takePause(pause, new [] { 4000, 15000, 60000, 300000 });
+                            pause = takePause(pause, new[] { 4000, 15000, 60000, 300000 });
                             if (ctrlC) return;
                         }
-                    } while (s2 == null);
+                    } while (sr == null);
                 }
 
                 Console.WriteLine(i++);
-                File.AppendAllText(pathRu, pre + s2 + "\r\n---\r\n");
+                File.AppendAllText(pathRu, (pr == "" ? "" : $"AI-PROMPT: {pr}\r\n") + pre + sr + "\r\n---\r\n");
             }
         }
 
@@ -2277,11 +2296,11 @@ namespace ConApp {
             foreach (var tStr in tStrs) {
                 if (ctrlC) break;
                 var ts = srtIntervalPretty(tStr).Split(new[] { " --> " }, ssop).Select(x => TimeSpan.ParseExact(x, @"hh\:mm\:ss\,fff", CultureInfo.InvariantCulture)).ToArray();
-                var tm = new TimeSpan((int)ts.Select(x => x.Ticks).Average());
+                var tm = new TimeSpan((ts[0].Ticks + ts[1].Ticks) / 2);
                 var outputPath = "d:/Projects/smalls/bins/snapshots/" + path + "/" + ts[0].ToString(@"hh\_mm\_ss\_ff", CultureInfo.InvariantCulture) + ".jpg";
                 Directory.CreateDirectory(Path.GetDirectoryName(outputPath));
                 while (!File.Exists(outputPath)) {
-                    var conv = FFmpeg.Conversions.FromSnippet.Snapshot(videoPath, outputPath, ts[0]).Result;
+                    var conv = FFmpeg.Conversions.FromSnippet.Snapshot(videoPath, outputPath, tm).Result;
                     conv.AddParameter($"-s {width}x360 -q:v 10");
                     conv.Start().Wait();
                     Console.WriteLine(outputPath);
@@ -2368,30 +2387,22 @@ namespace ConApp {
             }
         }
 
+        static IEnumerable<string> fileReadLines(string path) {
+            using (StreamReader reader = new StreamReader(path)) {
+                while (!reader.EndOfStream) {
+                    yield return reader.ReadLine();
+                }
+            }
+        }
+
         static volatile bool ctrlC = false;
 
         static async Task Main(string[] args) {
-            Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
-            Console.OutputEncoding = Encoding.UTF8;
+            var rs = File.ReadAllLines(@"d:\Projects\smalls\freq-subs.txt").Concat(File.ReadAllLines(@"d:\dic.txt")).OrderByDescending(x => DicItem.Parse(x).rank).ToList();
+            File.WriteAllLines(@"d:\Projects\smalls\freq-subs-2.txt", rs);
 
-            var path = @"d:\Projects\smalls\freq-subs.txt";
-
-            //var dic = loadDic(path);
-            //var rs = dic.Values.Where(d => d.pos == "существительное" && d.key.EndsWith("os") && families.ContainsKey(d.key.Remove(d.key.Length - 1, 1))).Select(d => d.ToString()).ToList();
-            
-
-            
-            var dic = loadDic(path);
-            loadDic(@"d:\Projects\smalls\freq-subs-fix.txt").Values.ToList().ForEach(f => {
-                var sdi = DicItem.Parse($"{f.rank:000000000} {f.vals[0]} {{{f.pos}}}");
-                if (!dic.ContainsKey(sdi.getKeyPos())) {
-                    dic[sdi.getKeyPos()] = sdi;
-                }
-            });
-            
-            var rs = dic.Values.OrderByDescending(x => x.rank).Select(x => x.ToString()).ToArray();
-            
-            File.WriteAllLines(pathEx(path, "-2"), rs);
+            // var ss = loadDic().Values.Select(x => x.key.ToLower()).Concat(loadDic(@"d:\Projects\smalls\freq-subs.txt").Values.Select(x => x.key)).Distinct().ToArray();
+            //Console.WriteLine(ss.Length);
 
             /*
             var fs = new[] { @"d:\Projects\smalls\freq-20k.txt", @"d:\Projects\smalls\cefr-orig.txt", @"d:\Projects\smalls\freq-g.txt", };
@@ -2478,7 +2489,7 @@ namespace ConApp {
             }
             */
 
-            //var ssn = "BoJack/S01"; for (var i = 1; i <= 12; i++) { Snapshots($"{ssn}/{ssn.Split('/')[1]}E{i:00}"); }
+            //var ssn = "Friends/S02"; for (var i = 16; i <= 24; i++) { Snapshots($"{ssn}/{ssn.Split('/')[1]}E{i:00}"); }
 
             //exportComics("003", 10);
 
@@ -2490,8 +2501,8 @@ namespace ConApp {
             //checkQuotes(@"d:\english-reader\reader-999-orig.txt");
             var adOpts = new AdaptEnglishOptions();
             //adOpts.check = (o, r) => { throw new Exception(); };
-            //splitText(@"d:/consonants-addon.txt", 666);
-            //adaptEnglish(AdaptPoints.DeepSeek, @"d:\english-reader\reader-096.txt", adOpts, 11000); // "Correct the errors in the text in English."
+            //splitText(@"d:\english-reader\reader-099-orig.txt");
+            //adaptEnglish(AdaptPoints.DeepSeek, @"d:\english-reader\reader-099.txt", adOpts, 11000); // "Correct the errors in the text in English."
 
             //mdMonitor(); return; // mdPostCom
 

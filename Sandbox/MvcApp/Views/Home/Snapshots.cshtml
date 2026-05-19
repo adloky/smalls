@@ -1,0 +1,52 @@
+﻿@using MvcApp.Models;
+@model IEnumerable<SnapshotsLine>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+    .srt-line { background-color: black; padding: 3pt; font-size: 17pt; font-family: sans-serif; }
+    .srt-line div { width: 50%; display: inline-block; color: white; vertical-align: top; }
+    .srt-line.sel { background-color: #222; }
+    .hidden { display: none; }
+    button, input { padding: 3pt 10pt; font-size: 14pt; }
+    input { padding: 3pt 3pt; }
+</style>
+
+<script src="/smalls/jquery-2.2.4.min.js"></script>
+<script src="/smalls/freq-20k.js"></script>
+<script src="/smalls/lemmas.js"></script>
+
+</head>
+
+<body>
+  <div class="wrapper">
+    <div style=" margin-top: -200pt; position: fixed; background-color: white; width: 100%; "><img class="snapshot" style=" max-height: 200pt; "/></div>
+    <div class="srt-box" style=" width: 850pt; margin-top: 200pt; ">
+        @foreach (var l in Model) {
+            <div class="srt-line" data-name="@l.Time"><div>@Html.Raw(l.En)</div><div>@Html.Raw(l.Ru)</div></div>
+        }
+    </div>
+  </div>
+  <script>
+      (function () {
+
+          freqDicClick(".srt-line.sel", ".wrapper");
+
+          var path = "@ViewBag.path";
+
+          function applySnapshot(name) {
+              $(".snapshot").attr("src", `/smalls/bins/snapshots/${path}/${name}.jpg`);
+          }
+
+          $(document).on("click", ".srt-line", function () {
+              $(".srt-line.sel").removeClass("sel");
+              $(this).addClass("sel");
+              applySnapshot($(this).data("name"));
+          });
+
+      })();
+  </script>
+</body>
+</html>
