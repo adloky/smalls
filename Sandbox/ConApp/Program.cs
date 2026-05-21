@@ -2395,21 +2395,78 @@ namespace ConApp {
             }
         }
 
+        
+
+        static List<string> getYaDic(string s) {
+            var url = $"https://dictionary.yandex.net/api/v1/dicservice.json/lookup?key={SandboxConfig.Default["yaDicKey"]}&lang=en-ru&ui=ru&flags=4&text=${Uri.EscapeUriString(s)}";
+            var request = WebRequest.Create(url);
+            request.ContentType = "application/json";
+            var r = (string)null;
+            using (var response = request.GetResponse())
+            using (Stream dataStream = response.GetResponseStream()) {
+                var reader = new StreamReader(dataStream);
+                r = reader.ReadToEnd();
+            }
+            var obj = JObject.Parse(r);
+            return obj["def"].Select(def => {
+                var vs = string.Join("; ", def["tr"].OrderByDescending(tr => tr["fr"]).Select(tr => $"{tr["text"]} [{tr["fr"]}]"));
+                return $"{def["text"]} {{{def["pos"]}}} [{def["ts"]}] {vs}";
+            }).ToList();
+        }
+
+
         static volatile bool ctrlC = false;
 
         static async Task Main(string[] args) {
-            var rs = File.ReadAllLines(@"d:\Projects\smalls\freq-subs.txt").Concat(File.ReadAllLines(@"d:\dic.txt")).OrderByDescending(x => DicItem.Parse(x).rank).ToList();
+            var ns = new HashSet<string> { "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety", "hundred", "thousand", "million", "billion", "dozen", "zero", "trillion" };
+            var dic = loadDic().Values.Where(di => di.pos == "числительное" && ns.Contains(di.key)).ToDictionary(di => di.rank, di => di.getKeyPos());
+            var ss = File.ReadAllLines(@"d:\Projects\smalls\freq-subs.txt");
+            var rs = ss.SelectMany((x,i) => {
+                if (!dic.ContainsKey(i)) return new[] { x };
+                var n = (DicItem.Parse(ss[i]).rank + DicItem.Parse(ss[i + 1]).rank) / 2;
+                return new[] { x, $"{n:000000000} {dic[i]}" };
+            }).ToArray();
             File.WriteAllLines(@"d:\Projects\smalls\freq-subs-2.txt", rs);
+            
 
-            // var ss = loadDic().Values.Select(x => x.key.ToLower()).Concat(loadDic(@"d:\Projects\smalls\freq-subs.txt").Values.Select(x => x.key)).Distinct().ToArray();
-            //Console.WriteLine(ss.Length);
 
             /*
-            var fs = new[] { @"d:\Projects\smalls\freq-20k.txt", @"d:\Projects\smalls\cefr-orig.txt", @"d:\Projects\smalls\freq-g.txt", };
+            var rPath = "d:/ya-words.txt";
+            var skip = File.ReadAllLines(rPath).Where(s => s.StartsWith("WORD: ")).Count();
+            var ss = File.ReadAllLines("d:/words.txt").Skip(skip).ToArray();
+            var rs = new List<string>();
+            var i = 9000;
+            foreach (var s in ss) {
+                if (ctrlC || i <= 0) break;
+                i--;
+                var vs = (List<string>)null;
+                try {
+                    vs = getYaDic(s);
+                }
+                catch (Exception e) {
+                    ctrlC = true;
+                    continue;
+                }
+                
+                Thread.Sleep(500);
+                vs.Insert(0, $"WORD: {s}");
+                vs.ForEach(Console.WriteLine);
+                rs.AddRange(vs);
+                if (rs.Count > 1000) {
+                    File.AppendAllLines(rPath, rs);
+                    rs.Clear();
+                }
+            }
+            File.AppendAllLines(rPath, rs);
+            Console.WriteLine(i);
+            */
+
+            /*
+            var fs = new[] { @"d:\Projects\smalls\freq-20k.txt", @"d:\Projects\smalls\cefr-orig.txt", @"d:\Projects\smalls\freq-g.txt", @"d:\ya-dic.txt", };
             var ds = fs.Select(f => File.ReadAllLines(f).Select(s => DicItem.Parse(s)).ToDictionary(x => x.getKeyPos(), x => x)).ToList();
             var ks = ds[0].Where(x => x.Value.rank <= 10000).Select(x => x.Key).Concat(ds[1].Keys).Distinct().ToList();
             var vs = ds.Select(d => d.ToDictionary(x => x.Key, x => string.Join("; ", x.Value.vals))).ToList();
-            var rs = ks.Select(k => $"[ \"{k}\", [ \"" + string.Join("\", \"", Enumerable.Range(0, 3).Select(i => getDicVal(k, "-", vs[i]))) + "\" ] ],").ToList();
+            var rs = ks.Select(k => $"[ \"{k}\", [ \"" + string.Join("\", \"", Enumerable.Range(0, 4).Select(i => getDicVal(k, "-", vs[i]))) + "\" ] ],").ToList();
             File.WriteAllLines(@"d:/rs-js.txt", rs);
             */
 
