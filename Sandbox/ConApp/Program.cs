@@ -2418,19 +2418,7 @@ namespace ConApp {
         static volatile bool ctrlC = false;
 
         static async Task Main(string[] args) {
-            var ns = new HashSet<string> { "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety", "hundred", "thousand", "million", "billion", "dozen", "zero", "trillion" };
-            var dic = loadDic().Values.Where(di => di.pos == "числительное" && ns.Contains(di.key)).ToDictionary(di => di.rank, di => di.getKeyPos());
-            var ss = File.ReadAllLines(@"d:\Projects\smalls\freq-subs.txt");
-            var rs = ss.SelectMany((x,i) => {
-                if (!dic.ContainsKey(i)) return new[] { x };
-                var n = (DicItem.Parse(ss[i]).rank + DicItem.Parse(ss[i + 1]).rank) / 2;
-                return new[] { x, $"{n:000000000} {dic[i]}" };
-            }).ToArray();
-            File.WriteAllLines(@"d:\Projects\smalls\freq-subs-2.txt", rs);
             
-
-
-            /*
             var rPath = "d:/ya-words.txt";
             var skip = File.ReadAllLines(rPath).Where(s => s.StartsWith("WORD: ")).Count();
             var ss = File.ReadAllLines("d:/words.txt").Skip(skip).ToArray();
@@ -2444,6 +2432,7 @@ namespace ConApp {
                     vs = getYaDic(s);
                 }
                 catch (Exception e) {
+                    Console.WriteLine(e.Message);
                     ctrlC = true;
                     continue;
                 }
@@ -2459,7 +2448,7 @@ namespace ConApp {
             }
             File.AppendAllLines(rPath, rs);
             Console.WriteLine(i);
-            */
+            
 
             /*
             var fs = new[] { @"d:\Projects\smalls\freq-20k.txt", @"d:\Projects\smalls\cefr-orig.txt", @"d:\Projects\smalls\freq-g.txt", @"d:\ya-dic.txt", };
