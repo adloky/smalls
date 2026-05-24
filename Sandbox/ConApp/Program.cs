@@ -2441,13 +2441,11 @@ namespace ConApp {
         static volatile bool ctrlC = false;
 
         static async Task Main(string[] args) {
-            var dic = File.ReadAllLines(@"d:/ups.txt").ToDictionary(x => x.ToLower(), x => x);
-            var subs = loadDic("freq-subs").Values.ToList();
-            subs.ForEach(x => {
-                if (!dic.ContainsKey(x.key) || x.pos != "существительное" && x.pos != "прилагательное") return;
-                x.key = dic[x.key];
-            });
-            File.WriteAllLines(@"d:/freq-subs.txt", subs.Select(x => x.ToString()));
+            var del = loadDic(@"d:/del.txt");
+            var path = @"d:\Projects\smalls\freq-subs.txt";
+            var rs = File.ReadAllLines(path).Where(x => !del.ContainsKey(DicItem.Parse(x).keyPos)).ToList();
+            
+            File.WriteAllLines(pathEx(path, "-2"), rs);
 
             /*
             var yaDic = loadDic("d:/ya-dic.txt");
