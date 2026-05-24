@@ -123,15 +123,37 @@ namespace ConApp {
 
         public int? rank { get; set; }
 
-        public string key { get; set; }
+        string _key;
 
-        public string pos { get; set; }
+        string _pos;
+
+        string _keyPos;
+
+        public string key { get => _key;
+            set {
+                if (_key == value) return;
+                _key = value;
+                _keyPos = null;
+            }
+        }
+
+        public string pos {
+            get => _pos;
+            set {
+                if (_pos == value) return;
+                _pos = value;
+                _keyPos = null;
+            }
+        }
+
+        public string keyPos {
+            get => _keyPos ?? (_keyPos = $"{key} {{{pos}}}");
+        }
 
         public string pron { get; set; }
 
         public List<string> vals { get; set; } = new List<string>();
 
-        public string getKeyPos() { return $"{key} {{{pos}}}"; }
 
         static Regex itemRe = new Regex(@" \{.+\}", RegexOptions.Compiled);
 
@@ -913,11 +935,12 @@ namespace ConApp {
             }
         }
 
-        static Dictionary<string, DicItem> loadDic(string path = null) {
-            if (path == null) path = "d:/Projects/smalls/freq-20k.txt";
+        static Dictionary<string, DicItem> loadDic(string path, bool low = false) {
+            if (!path.Contains(":")) path = Path.Combine("d:/Projects/smalls", path);
+            if (!path.Contains(".")) path += ".txt";
 
             return File.ReadAllLines(path).Where(x => DicItem.isValid(x))
-                .Select(x => { var di = DicItem.Parse(x); return (a: di.getKeyPos(), b: di); })
+                .Select(x => { var di = DicItem.Parse(x); if (low) di.key = di.key.ToLower(); return (a: di.keyPos, b: di); })
                 .ToDictionary(x => x.a, x => x.b);
         }
 
@@ -2418,41 +2441,27 @@ namespace ConApp {
         static volatile bool ctrlC = false;
 
         static async Task Main(string[] args) {
-            
-            var rPath = "d:/ya-words.txt";
-            var skip = File.ReadAllLines(rPath).Where(s => s.StartsWith("WORD: ")).Count();
-            var ss = File.ReadAllLines("d:/words.txt").Skip(skip).ToArray();
-            var rs = new List<string>();
-            var i = 9000;
-            foreach (var s in ss) {
-                if (ctrlC || i <= 0) break;
-                i--;
-                var vs = (List<string>)null;
-                try {
-                    vs = getYaDic(s);
-                }
-                catch (Exception e) {
-                    Console.WriteLine(e.Message);
-                    ctrlC = true;
-                    continue;
-                }
-                
-                Thread.Sleep(500);
-                vs.Insert(0, $"WORD: {s}");
-                vs.ForEach(Console.WriteLine);
-                rs.AddRange(vs);
-                if (rs.Count > 1000) {
-                    File.AppendAllLines(rPath, rs);
-                    rs.Clear();
-                }
-            }
-            File.AppendAllLines(rPath, rs);
-            Console.WriteLine(i);
-            
+            var dic = File.ReadAllLines(@"d:/ups.txt").ToDictionary(x => x.ToLower(), x => x);
+            var subs = loadDic("freq-subs").Values.ToList();
+            subs.ForEach(x => {
+                if (!dic.ContainsKey(x.key) || x.pos != "существительное" && x.pos != "прилагательное") return;
+                x.key = dic[x.key];
+            });
+            File.WriteAllLines(@"d:/freq-subs.txt", subs.Select(x => x.ToString()));
+
+            /*
+            var yaDic = loadDic("d:/ya-dic.txt");
+            var dic20k = loadDic("freq-20k");
+            var hs = new HashSet<string>(yaDic.Values.Concat(dic20k.Values).Select(x => x.key).Where(x => x == x.ToLower()));
+            var dic = dic20k.Values.Concat(yaDic.Values).Select(x => x.key).Where(x => x != x.ToLower() && !hs.Contains(x.ToLower())).Distinct().GroupBy(x => x.ToLower()).ToDictionary(g => g.Key, g => string.Join(", ", g));
+            var ups = loadDic("freq-subs").Values.Where(x => dic.ContainsKey(x.key)).Select(x => dic[x.key]).Distinct().ToList();
+            ups.ForEach(Console.WriteLine);
+            */
+            //Console.WriteLine(c);
 
             /*
             var fs = new[] { @"d:\Projects\smalls\freq-20k.txt", @"d:\Projects\smalls\cefr-orig.txt", @"d:\Projects\smalls\freq-g.txt", @"d:\ya-dic.txt", };
-            var ds = fs.Select(f => File.ReadAllLines(f).Select(s => DicItem.Parse(s)).ToDictionary(x => x.getKeyPos(), x => x)).ToList();
+            var ds = fs.Select(f => File.ReadAllLines(f).Select(s => DicItem.Parse(s)).ToDictionary(x => x.keyPos, x => x)).ToList();
             var ks = ds[0].Where(x => x.Value.rank <= 10000).Select(x => x.Key).Concat(ds[1].Keys).Distinct().ToList();
             var vs = ds.Select(d => d.ToDictionary(x => x.Key, x => string.Join("; ", x.Value.vals))).ToList();
             var rs = ks.Select(k => $"[ \"{k}\", [ \"" + string.Join("\", \"", Enumerable.Range(0, 4).Select(i => getDicVal(k, "-", vs[i]))) + "\" ] ],").ToList();
@@ -2460,7 +2469,7 @@ namespace ConApp {
             */
 
             /*
-            var fDic = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(s => DicItem.Parse(s)).ToDictionary(d => d.getKeyPos(), d => d);
+            var fDic = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(s => DicItem.Parse(s)).ToDictionary(d => d.keyPos, d => d);
             var path = @"d:\Projects\smalls\cefr.txt";
             var ss = File.ReadAllLines(path).ToList();
             var wordRe = new Regex(@"^([a-z][a-z\-]*[a-z]|[a-z])+$", RegexOptions.IgnoreCase | RegexOptions.Compiled);
