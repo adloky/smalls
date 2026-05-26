@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    .details { width: 70%; margin-right: -70%; position: fixed; right: 70%; height: 100%; background-color: white; }
+    .details td { width: 33%; }
+    .details table { width: 100%; }
+    .list div.sel { background-color: #ccf; }
+    td { vertical-align: top; }
+  </style>
+  <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+</head>
+
+<body>
+  <div class="details">
+    <table><tr><td colspan=99 style="padding-bottom: 10pt; "></td></tr><tr><td style=" width: 30%; ">td1</td><td style=" width: 30%; ">td2</td><td style=" width: 20%; ">td3</td><td style=" width: 20%; ">td4</td></tr></table>
+  </div>
+  
+  <div class="list">
+<div>the {артикль}</div>
+  </div>
+<script>
+  var ds = $(".details td").get();
+  
+  $(".list div").click(function () {
+      $(".list div.sel").removeClass("sel");
+      $(this).addClass("sel");
+      var ss = map.get($(this).text());
+      var re;
+      ds.forEach((x,i) => {
+          var r = ss[i];
+          if (i === 0) {
+              re = new RegExp("(" + r.split(" {")[0].replaceAll(", ", "|").replaceAll(")", ")?") + ")", "gi");
+              r = "<b>" + r.replace(" {", "</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{");
+          }
+          else {
+              r = r.replaceAll(";", ";</br>");
+              r = r.replaceAll(re, "<b>$1</b>");
+          }
+          $(x).html(r);
+      });
+  });
+  // ===
+  var map = new Map([
+[ "the {артикль}", [ "тот { (определенный артикль) [A1]; тот (самый) [A1] }", "тот [3]", "-", "-", "тот [3]" ] ],
+  ]);
+  
+</script>
+</body>

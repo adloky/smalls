@@ -2510,23 +2510,28 @@ namespace ConApp {
         static async Task Main(string[] args) {
             
             var labDelRe = new Regex(@"\[([ABC][12]|[123])\]", RegexOptions.Compiled);
-            var fs = new[] { "cefr", "freq-20k", "cefr-orig", @"d:\ya-dic.txt", @"freq-g" };
+            var fs = new[] { "cefr", "freq-20k", "cefr-orig", "d:/ya-dic.txt", "freq-g", "l-dic" };
             var ds = fs.Select(f =>loadDic(f)).ToList();
             ds[4].Values.ToList().ForEach(di => { di.vals = di.vals.Take(5).ToList(); });
+            ds[5].Values.ToList().ForEach(di => {
+                if (!ds[4].ContainsKey(di.keyPos)) ds[4][di.keyPos] = DicItem.Parse(di.keyPos);
+                ds[4][di.keyPos].vals.Add(string.Join(", ", di.vals) + " [L]");
+            });
+            ds.RemoveAt(5);
             var ks = ds[1].Where(x => x.Value.rank <= 10000).Select(x => x.Key).Concat(ds[2].Keys).Distinct().ToList();
-            var vs = ds.Select(d => d.ToDictionary(x => x.Key, x => string.Join("; ", x.Value.vals))).ToList();
+            var vs = ds.Select(d => d.ToDictionary(x => x.Key, x => string.Join("; ", x.Value.vals).Replace("\"", "\\\""))).ToList();
 
             ds[0].Values.ToList().ForEach(di => { di.vals = di.vals.Select(x => labDelRe.Replace(x, "[AI]")).ToList(); });
             ds[3].Values.ToList().ForEach(di => { di.vals = di.vals.Select(x => labDelRe.Replace(x, "[YA]")).ToList(); });
             
             ks.ForEach(k => {
-                var vals = Enumerable.Range(0, fs.Length).SelectMany(i => !ds[i].ContainsKey(k) ? new List<string> { } : ds[i][k].vals);
+                var vals = Enumerable.Range(0, ds.Count).SelectMany(i => !ds[i].ContainsKey(k) ? new List<string> { } : ds[i][k].vals);
                 if (!ds[0].ContainsKey(k)) return;
-                vs[0][k] = string.Join(", ", coinCalc(vals));
+                vs[0][k] = string.Join(", ", coinCalc(vals)) + $" {{ {vs[0][k]} }}";
             });
 
 
-            var rs = ks.Select(k => $"[ \"{k}\", [ \"" + string.Join("\", \"", Enumerable.Range(0, fs.Length).Select(i => getDicVal(k, "-", vs[i]))) + "\" ] ],").ToList();
+            var rs = ks.Select(k => $"[ \"{k}\", [ \"" + string.Join("\", \"", Enumerable.Range(0, ds.Count).Select(i => getDicVal(k, "-", vs[i]))) + "\" ] ],").ToList();
             File.WriteAllLines(@"d:/rs-js.txt", rs);
             
 
