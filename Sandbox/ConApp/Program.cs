@@ -410,7 +410,7 @@ namespace ConApp {
         static void loadLemmas() {
             _lemmas = new Dictionary<string, string>();
             _lemmaForms = new Dictionary<string, List<string>>();
-            File.ReadAllLines("d:/Projects/smalls/e_lemma.txt")
+            File.ReadAllLines("d:/Projects/smalls/lemmas.txt")
                 .Where(x => !x.StartsWith("["))
                 .Select(x => x.ToLower().Split(' ')).ToList()
                 .ForEach(x => {
@@ -2437,34 +2437,98 @@ namespace ConApp {
             }).ToList();
         }
 
+        static Regex coinDecomposeRe = new Regex(@"^(\([а-я]+\))?([а-я\- ]+)(\([а-я]+\))?$");
+
+        static IEnumerable<string> coinDecompose(string s) {
+            s = s.ToLower();
+            var ss = coinDecomposeRe.Match(s).Groups.Cast<Group>().Skip(1).Select(x => x.Value.Replace("(", "").Replace(")", "")).ToArray();
+            if (ss[1].Length == 0) throw new Exception();
+            if (ss[0].Length + ss[2].Length == 0) return Enumerable.Repeat(ss[1], 1);
+            return (new[] { $"{ss[1]}", $"{ss[1]}{ss[2]}", $"{ss[0]}{ss[1]}", $"{ss[0]}{ss[1]}{ss[2]}" }).Distinct();
+        }
+
+        static string coinMatch(string x, string y) {
+            var re = x.EndsWith("ся") ? $"{x.Substring(0, x.Length - 2)}(ся)?"
+                : x.EndsWith("(ся)") ? $"{x}?"
+                : $"{x}(ся)?";
+
+            return !Regex.IsMatch(y, $"^{re}$") ? null
+                : x == y ? x
+                : re.Substring(0, re.Length - 1);
+        }
+
+        static string coinCompare(string x, string y, ref bool isMatched) {
+            var status = x[0];
+            if (status != '!' && status != '?') {
+                status = '_';
+            }
+
+            var r = coinMatch(status == '_' ? x : x.Substring(1), y);
+            if (r == null) return x;
+
+            isMatched = true;
+            return status == '?' ? $"?{r}" : $"!{r}";
+        }
+
+        static void coinCycle(List<string> xs, IEnumerable<string> ys) {
+            foreach (var y in ys) {
+                var isMatched = false;
+                for (var i = 0; i < xs.Count; i++) {
+                    xs[i] = coinCompare(xs[i], y, ref isMatched);
+                }
+
+                if (!isMatched) xs.Add($"?{y}");
+            }
+
+            for (var i = 0; i < xs.Count; i++) {
+                if (xs[i][0] != '?') continue;
+                xs[i] = xs[i].Substring(1);
+            }
+        }
+
+        static Regex[] coinCalcRes = (new[] { "[ABC][123]", "AI", "L", "[0123]", "YA" }).Select(x => new Regex(@" \[" + x + @"\]$", RegexOptions.Compiled)).ToArray();
+        static Regex coinCalcLabDelRe = new Regex(@"\[([ABC][123]|AI|YA|[0123L])\]", RegexOptions.Compiled);
+        static Regex coinCalcBcRe = new Regex(@"\([^\)]*\)", RegexOptions.Compiled);
+        static Regex coinCalcBcDelRe = new Regex(@" \([^\)]*\) ", RegexOptions.Compiled);
+
+        static IEnumerable<string> coinCalc(IEnumerable<string> ss) {
+            
+            var rs = new List<string>();
+            foreach (var re in coinCalcRes) {
+                var ys = ss.Where(s => re.IsMatch(s)).Select(s => handleString(s, coinCalcBcRe, x => x.Replace(",", " ").Replace(";", " ")))
+                    .SelectMany(x => x.Split(new[] { ',', ';' }))
+                    .Select(x => { x = coinCalcBcDelRe.Replace($" {x} ", " "); return coinCalcLabDelRe.Replace(x, " ").Trim(); })
+                    .Where(x => coinDecomposeRe.IsMatch(x)).SelectMany(x => coinDecompose(x));
+                coinCycle(rs, ys);
+            }
+
+            return rs.Where(s => s.StartsWith("!")).Select(s => s.Substring(1));
+        }
 
         static volatile bool ctrlC = false;
 
         static async Task Main(string[] args) {
-            var del = loadDic(@"d:/del.txt");
-            var path = @"d:\Projects\smalls\freq-subs.txt";
-            var rs = File.ReadAllLines(path).Where(x => !del.ContainsKey(DicItem.Parse(x).keyPos)).ToList();
             
-            File.WriteAllLines(pathEx(path, "-2"), rs);
-
-            /*
-            var yaDic = loadDic("d:/ya-dic.txt");
-            var dic20k = loadDic("freq-20k");
-            var hs = new HashSet<string>(yaDic.Values.Concat(dic20k.Values).Select(x => x.key).Where(x => x == x.ToLower()));
-            var dic = dic20k.Values.Concat(yaDic.Values).Select(x => x.key).Where(x => x != x.ToLower() && !hs.Contains(x.ToLower())).Distinct().GroupBy(x => x.ToLower()).ToDictionary(g => g.Key, g => string.Join(", ", g));
-            var ups = loadDic("freq-subs").Values.Where(x => dic.ContainsKey(x.key)).Select(x => dic[x.key]).Distinct().ToList();
-            ups.ForEach(Console.WriteLine);
-            */
-            //Console.WriteLine(c);
-
-            /*
-            var fs = new[] { @"d:\Projects\smalls\freq-20k.txt", @"d:\Projects\smalls\cefr-orig.txt", @"d:\Projects\smalls\freq-g.txt", @"d:\ya-dic.txt", };
-            var ds = fs.Select(f => File.ReadAllLines(f).Select(s => DicItem.Parse(s)).ToDictionary(x => x.keyPos, x => x)).ToList();
-            var ks = ds[0].Where(x => x.Value.rank <= 10000).Select(x => x.Key).Concat(ds[1].Keys).Distinct().ToList();
+            var labDelRe = new Regex(@"\[([ABC][12]|[123])\]", RegexOptions.Compiled);
+            var fs = new[] { "cefr", "freq-20k", "cefr-orig", @"freq-g", @"d:\ya-dic.txt", };
+            var ds = fs.Select(f =>loadDic(f)).ToList();
+            ds[3].Values.ToList().ForEach(di => { di.vals = di.vals.Take(5).ToList(); });
+            var ks = ds[1].Where(x => x.Value.rank <= 10000).Select(x => x.Key).Concat(ds[2].Keys).Distinct().ToList();
             var vs = ds.Select(d => d.ToDictionary(x => x.Key, x => string.Join("; ", x.Value.vals))).ToList();
-            var rs = ks.Select(k => $"[ \"{k}\", [ \"" + string.Join("\", \"", Enumerable.Range(0, 4).Select(i => getDicVal(k, "-", vs[i]))) + "\" ] ],").ToList();
+
+            ds[0].Values.ToList().ForEach(di => { di.vals = di.vals.Select(x => labDelRe.Replace(x, "[AI]")).ToList(); });
+            ds[4].Values.ToList().ForEach(di => { di.vals = di.vals.Select(x => labDelRe.Replace(x, "[YA]")).ToList(); });
+            
+            ks.ForEach(k => {
+                var vals = Enumerable.Range(0, fs.Length).SelectMany(i => !ds[i].ContainsKey(k) ? new List<string> { } : ds[i][k].vals);
+                if (!ds[0].ContainsKey(k)) return;
+                vs[0][k] = string.Join(", ", coinCalc(vals));
+            });
+
+
+            var rs = ks.Select(k => $"[ \"{k}\", [ \"" + string.Join("\", \"", Enumerable.Range(0, fs.Length).Select(i => getDicVal(k, "-", vs[i]))) + "\" ] ],").ToList();
             File.WriteAllLines(@"d:/rs-js.txt", rs);
-            */
+            
 
             /*
             var fDic = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(s => DicItem.Parse(s)).ToDictionary(d => d.keyPos, d => d);
