@@ -2486,7 +2486,7 @@ namespace ConApp {
             }
         }
 
-        static Regex[] coinCalcRes = (new[] { "[ABC][123]", "AI", "L", "[0123]", "YA" }).Select(x => new Regex(@" \[" + x + @"\]$", RegexOptions.Compiled)).ToArray();
+        static Regex[] coinCalcRes = (new[] { "[ABC][123]", "AI", "L", "YA", "[0123]" }).Select(x => new Regex(@" \[" + x + @"\]$", RegexOptions.Compiled)).ToArray();
         static Regex coinCalcLabDelRe = new Regex(@"\[([ABC][123]|AI|YA|[0123L])\]", RegexOptions.Compiled);
         static Regex coinCalcBcRe = new Regex(@"\([^\)]*\)", RegexOptions.Compiled);
         static Regex coinCalcBcDelRe = new Regex(@" \([^\)]*\) ", RegexOptions.Compiled);
@@ -2510,14 +2510,14 @@ namespace ConApp {
         static async Task Main(string[] args) {
             
             var labDelRe = new Regex(@"\[([ABC][12]|[123])\]", RegexOptions.Compiled);
-            var fs = new[] { "cefr", "freq-20k", "cefr-orig", @"freq-g", @"d:\ya-dic.txt", };
+            var fs = new[] { "cefr", "freq-20k", "cefr-orig", @"d:\ya-dic.txt", @"freq-g" };
             var ds = fs.Select(f =>loadDic(f)).ToList();
-            ds[3].Values.ToList().ForEach(di => { di.vals = di.vals.Take(5).ToList(); });
+            ds[4].Values.ToList().ForEach(di => { di.vals = di.vals.Take(5).ToList(); });
             var ks = ds[1].Where(x => x.Value.rank <= 10000).Select(x => x.Key).Concat(ds[2].Keys).Distinct().ToList();
             var vs = ds.Select(d => d.ToDictionary(x => x.Key, x => string.Join("; ", x.Value.vals))).ToList();
 
             ds[0].Values.ToList().ForEach(di => { di.vals = di.vals.Select(x => labDelRe.Replace(x, "[AI]")).ToList(); });
-            ds[4].Values.ToList().ForEach(di => { di.vals = di.vals.Select(x => labDelRe.Replace(x, "[YA]")).ToList(); });
+            ds[3].Values.ToList().ForEach(di => { di.vals = di.vals.Select(x => labDelRe.Replace(x, "[YA]")).ToList(); });
             
             ks.ForEach(k => {
                 var vals = Enumerable.Range(0, fs.Length).SelectMany(i => !ds[i].ContainsKey(k) ? new List<string> { } : ds[i][k].vals);
