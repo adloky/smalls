@@ -30,13 +30,16 @@
       ds.forEach((x,i) => {
           var r = ss[i];
           if (i === 0) {
-              re = new RegExp("(" + r.split(" {")[0].replaceAll(", ", "|").replaceAll(")", ")?") + ")", "gi");
-              r = "<b>" + r.replace(" {", "</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{");
+              re = new RegExp("(?<!\\p{L})(" + r.split(" {")[0].replaceAll(", ", "|").replaceAll(")", ")?") + ")(?!\\p{L})", "gui");
+              r = "<b>" + r.replace(" {", "</b> &nbsp;&nbsp;&nbsp;&nbsp; {");
+              var sp = r.split(" {");
+              r = sp[0] + " {" + sp[1].replaceAll(re, "<b>$1</b>");
           }
           else {
               r = r.replaceAll(";", ";</br>");
               r = r.replaceAll(re, "<b>$1</b>");
           }
+          
           $(x).html(r);
       });
   });

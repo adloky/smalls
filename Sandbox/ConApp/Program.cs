@@ -2486,7 +2486,7 @@ namespace ConApp {
             }
         }
 
-        static Regex[] coinCalcRes = (new[] { "[ABC][123]", "AI", "L", "YA", "[0123]" }).Select(x => new Regex(@" \[" + x + @"\]$", RegexOptions.Compiled)).ToArray();
+        static Regex[] coinCalcRes = (new[] { "[ABC][123]", "AI", "L", "YA", "[0-3]" }).Select(x => new Regex(@" \[" + x + @"\]$", RegexOptions.Compiled)).ToArray();
         static Regex coinCalcLabDelRe = new Regex(@"\[([ABC][123]|AI|YA|[0123L])\]", RegexOptions.Compiled);
         static Regex coinCalcBcRe = new Regex(@"\([^\)]*\)", RegexOptions.Compiled);
         static Regex coinCalcBcDelRe = new Regex(@" \([^\)]*\) ", RegexOptions.Compiled);
@@ -2507,29 +2507,32 @@ namespace ConApp {
 
         static volatile bool ctrlC = false;
 
+        //File.ReadAllLines(@"d:\Projects\smalls\l-dic.txt").Where(x => DicItem.isValid(x)).Select(s => DicItem.Parse(s))
+        //        .GroupBy(di => di.keyPos).Where(g => g.Count() > 1).Select(g => g.Key).ToList().ForEach(Console.WriteLine);
+
         static async Task Main(string[] args) {
-            
-            var labDelRe = new Regex(@"\[([ABC][12]|[123])\]", RegexOptions.Compiled);
+            var labDelRe = new Regex(@"\[([ABC]?[0-3])\]", RegexOptions.Compiled);
             var fs = new[] { "cefr", "freq-20k", "cefr-orig", "d:/ya-dic.txt", "freq-g", "l-dic" };
+            Func<string, int> fi = s => Enumerable.Repeat("", 1).Concat(fs).Select((x, i) => (x, i)).Where(y => y.x.Contains(s)).Select(y => y.i).FirstOrDefault() - 1;
             var ds = fs.Select(f =>loadDic(f)).ToList();
-            ds[4].Values.ToList().ForEach(di => { di.vals = di.vals.Take(5).ToList(); });
-            ds[5].Values.ToList().ForEach(di => {
-                if (!ds[4].ContainsKey(di.keyPos)) ds[4][di.keyPos] = DicItem.Parse(di.keyPos);
-                ds[4][di.keyPos].vals.Add(string.Join(", ", di.vals) + " [L]");
-            });
+
+            ds[fi("-g")].Values.ToList().ForEach(di => { di.vals = di.vals.Take(5).ToList(); });
+            ds[fi("-g")] = ds[fi("-g")].Values.Concat(ds[fi("l-")].Values).GroupBy(di => di.keyPos)
+                .ToDictionary(g => g.Key, g => { var rDi = DicItem.Parse(g.Key); rDi.vals = g.SelectMany(di => di.vals).ToList(); return rDi; });
             ds.RemoveAt(5);
-            var ks = ds[1].Where(x => x.Value.rank <= 10000).Select(x => x.Key).Concat(ds[2].Keys).Distinct().ToList();
+
+            var ks = ds[fi("20k")].Where(x => x.Value.rank <= 10000).Select(x => x.Key).Concat(ds[fi("-orig")].Keys).Distinct().ToList();
             var vs = ds.Select(d => d.ToDictionary(x => x.Key, x => string.Join("; ", x.Value.vals).Replace("\"", "\\\""))).ToList();
 
-            ds[0].Values.ToList().ForEach(di => { di.vals = di.vals.Select(x => labDelRe.Replace(x, "[AI]")).ToList(); });
-            ds[3].Values.ToList().ForEach(di => { di.vals = di.vals.Select(x => labDelRe.Replace(x, "[YA]")).ToList(); });
-            
+            foreach (var il in new [] { (i: 0, l: "[AI]"), (i: fi("ya"), l: "[YA]") }) {
+                ds[il.i].Values.ToList().ForEach(di => { di.vals = di.vals.Select(x => labDelRe.Replace(x, il.l)).ToList(); });
+            }
+           
             ks.ForEach(k => {
-                var vals = Enumerable.Range(0, ds.Count).SelectMany(i => !ds[i].ContainsKey(k) ? new List<string> { } : ds[i][k].vals);
-                if (!ds[0].ContainsKey(k)) return;
-                vs[0][k] = string.Join(", ", coinCalc(vals)) + $" {{ {vs[0][k]} }}";
+                var emptyDi = DicItem.Parse("x {x}");
+                var vals = Enumerable.Range(0, ds.Count).SelectMany(i => getDicVal(k, emptyDi, ds[i]).vals);
+                vs[0][k] = string.Join(", ", coinCalc(vals)) + $" {{ {getDicVal(k, "-", vs[0])} }}";
             });
-
 
             var rs = ks.Select(k => $"[ \"{k}\", [ \"" + string.Join("\", \"", Enumerable.Range(0, ds.Count).Select(i => getDicVal(k, "-", vs[i]))) + "\" ] ],").ToList();
             File.WriteAllLines(@"d:/rs-js.txt", rs);
