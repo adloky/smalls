@@ -2517,53 +2517,11 @@ namespace ConApp {
 
         static async Task Main(string[] args) {
 
-            var labReplRe = new Regex(@"\[([ABC]?[0-3])\]", RegexOptions.Compiled);
-            var fs = new[] { "d:/cefr-fix.txt", "freq-20k", "cefr-orig", "d:/ya-dic.txt", "freq-g", "l-dic" };
-            Func<string, int> fi = s => Enumerable.Repeat("", 1).Concat(fs).Select((x, i) => (x, i)).Where(y => y.x.Contains(s)).Select(y => y.i).FirstOrDefault() - 1;
-            var ds = fs.Select(f => loadDic(f)).ToList();
-
-            ds[fi("-g")].Values.ToList().ForEach(di => { di.vals = di.vals.Take(5).ToList(); });
-            ds[fi("-g")] = ds[fi("-g")].Values.Concat(ds[fi("l-")].Values).GroupBy(di => di.keyPos)
-                .ToDictionary(g => g.Key, g => { var rDi = DicItem.Parse(g.Key); rDi.vals = g.SelectMany(di => di.vals).ToList(); return rDi; });
-            ds.RemoveAt(5);
-
-            var ks = new HashSet<string>(ds[fi("fix")].Keys.ToList());
-            var vs = ds.Select(d => d.ToDictionary(x => x.Key, x => string.Join("; ", x.Value.vals).Replace("\"", "\\\""))).ToList();
-
-            foreach (var il in new[] { (i: 0, l: "[AI]"), (i: fi("ya"), l: "[YA]") }) {
-                ds[il.i].Values.ToList().ForEach(di => { di.vals = di.vals.Select(x => labReplRe.Replace(x, il.l)).ToList(); });
-            }
-
-            var rs2 = new List<string>();
-
-            ks.ToList().ForEach(k => {
-                var emptyDi = DicItem.Parse("x {x}");
-                var vals = Enumerable.Range(0, ds.Count).SelectMany(i => getDicVal(k, emptyDi, ds[i]).vals).ToList();
-                var ais = vals.Where(x => x.Contains("[AI]")).ToList();
-                vals = ais.Select(x => x.Replace("[AI]", "[CF]")).Concat(vals).ToList();
-                var cs = coinCalc(vals).Select(x => $"{x} [S]").Concat(ais).ToList();
-                var os = coinCalc(cs, true).ToList();
-
-                if (os.Count == 0) {
-                    ks.Remove(k);
-                    return;
-                } 
-
-                var di = ds[0][k];
-                var oldVals = di.vals;
-                di.vals = oldVals.ToList();
-                di.vals = os.Select(x => $"{x} [C3]").ToList();
-                di.vals.Add("##########");
-                rs2.Add(di.ToString() + "; " + vs[0][k]);
-
-                vs[0][k] = string.Join("; ", os.Select(x => $"{x} [C3]")) + $" {{ {getDicVal(k, "-", vs[0])} }}";
-            });
-
-            var rs = ks.Select(k => $"[ \"{k}\", [ \"" + string.Join("\", \"", Enumerable.Range(0, ds.Count).Select(i => getDicVal(k, "-", vs[i]))) + "\" ] ],").ToList();
-            File.WriteAllLines(@"d:/rs-js.txt", rs);
-            File.WriteAllLines(@"d:/rs-html.txt", ks.Select(x => $"<div>{x}</div>"));
-            File.WriteAllLines(@"d:/ceft-fix-2.txt", rs2);
-
+            var rs = loadDic("cefr-fix").Values.Select(di => {
+                di.vals = di.vals.OrderBy(v => v.Substring(v.Length - 3, 2)).ToList();
+                return di.ToString();
+            }).ToList();
+            File.WriteAllLines("d:/Projects/smalls/cefr-fix-2.txt", rs);
 
             /*            
             var labReplRe = new Regex(@"\[([ABC]?[0-3])\]", RegexOptions.Compiled);
