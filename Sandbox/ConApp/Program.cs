@@ -2517,11 +2517,16 @@ namespace ConApp {
 
         static async Task Main(string[] args) {
 
-            var rs = loadDic("cefr-fix").Values.Select(di => {
-                di.vals = di.vals.OrderBy(v => v.Substring(v.Length - 3, 2)).ToList();
+            var fix = loadDic("cefr-fix");
+            var rs = File.ReadAllLines(@"d:\Projects\smalls\cefr.txt").Select(s => {
+                if (!DicItem.isValid(s)) return s;
+                var di = DicItem.Parse(s);
+                if (!fix.ContainsKey(di.keyPos)) return s;
+                di.vals = fix[di.keyPos].vals;
                 return di.ToString();
-            }).ToList();
-            File.WriteAllLines("d:/Projects/smalls/cefr-fix-2.txt", rs);
+            });
+            
+            File.WriteAllLines("d:/Projects/smalls/cefr-2.txt", rs);
 
             /*            
             var labReplRe = new Regex(@"\[([ABC]?[0-3])\]", RegexOptions.Compiled);
