@@ -2536,12 +2536,31 @@ namespace ConApp {
 
         static async Task Main(string[] args) {
             var path = @"d:\share\PhoneSim\freq-ru.txt";
-//            var rs = File.ReadAllLines(path).Where(s => !(new[] { "advpro", "apro", "anum", "conj", "intj", "part", "", "spro", "pr", "num" }).Contains(s.Split(' ')[1])).ToList();
-//            File.WriteAllLines(pathEx(path, "-2"), rs);
-            // s o a v adv
+            // var rs = File.ReadAllLines(path).Where(s => !(new[] { "advpro", "apro", "anum", "conj", "intj", "part", "", "spro", "pr", "num" }).Contains(s.Split(' ')[1])).ToList();
+            // File.WriteAllLines(pathEx(path, "-2"), rs);
 
-            //var posDic = new Dictionary<string, string>() { { "s", "сущ." }, { "o", "прочее" }, { "a", "прил." }, { "v", "гл." }, { "adv", "нар." } };
-            //var rs = File.ReadAllLines(path).Select(s => s.Split(' ')[1]).Distinct().ToList();
+            // var posDic = new Dictionary<string, string>() { { "s", "сущ" }, { "e", "имя" }, { "a", "прил" }, { "v", "гл" }, { "adv", "нар" } };
+            // var rs = File.ReadAllLines(path).Select(s => { var sp = s.Split(' '); return $"{sp[0]} {{{posDic[sp[1]]}}}"; }).ToList();
+
+            var cs = new Dictionary<string, string>() {
+                { "b", "б" }, { "d", "д" }, { "f", "ф" }, { "g", "г" }, { "k", "к" },
+                { "l", "л" }, { "m", "м" }, { "n", "н" }, { "p", "п" }, { "r", "р" },
+                { "s", "с" }, { "t", "т" }, { "v", "в" }, { "w", "у" }, { "z", "з" }
+             };
+
+
+            var hs = new HashSet<string>();
+            
+            var re = new Regex(@"^[а-я]+$", RegexOptions.Compiled);
+            var rs = File.ReadAllLines(path).Select(s => {
+                var di = DicItem.Parse(s);
+                di.pron = di.pron.Replace("йа", "я").Replace("йэ", "я").Replace("йу", "ю").Replace("йо", "ё");
+                
+                //di.pron = string.Join(" ", di.pron.Split(' ').Select(c => getDicVal(c, c, cs)));
+                return di.ToString();
+            }).Where(s => s != "").ToList();
+            
+            File.WriteAllLines(pathEx(path, "-2"), rs);
             //rs.ForEach(Console.WriteLine);
 
 
