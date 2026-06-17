@@ -252,6 +252,8 @@ namespace ConApp {
                 Phoneme p = GetPhoneme(seqA[i - 1]);
                 dp[i, 0] = dp[i - 1, 0] - SkipCost(p);
             }
+
+
             for (int j = 1; j <= n; j++) {
                 Phoneme q = GetPhoneme(seqB[j - 1]);
                 dp[0, j] = dp[0, j - 1] - SkipCost(q);
@@ -286,7 +288,10 @@ namespace ConApp {
                 }
             }
 
-            double rawScore = dp[m, n];
+            double rawScore = double.NegativeInfinity;
+            for (int j = 0; j <= n; j++) {
+                rawScore = Math.Max(rawScore, dp[m, j]);
+            }
 
             // Нормализация: делим на лучший из самосравнений
             double selfA = SelfScore(seqA);
@@ -295,7 +300,7 @@ namespace ConApp {
 
             if (normalizer <= 0.0) return rawScore > 0 ? 1.0 : 0.0;
 
-            double normalized = rawScore / normalizer;
+            double normalized = rawScore / selfA;
             return Math.Max(0.0, Math.Min(1.0, normalized));
         }
 

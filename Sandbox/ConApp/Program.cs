@@ -2539,10 +2539,11 @@ namespace ConApp {
 
             var ruDic = File.ReadAllLines(@"d:\Projects\smalls\pho-sim-ru.txt").Select(s => DicItem.Parse(s)).GroupBy(d => d.pron).ToDictionary(g => g.Key, g => g.Select(d => d.key));
             var enDic = File.ReadAllLines(@"d:\Projects\smalls\bins\pron-ru.txt").Select(s => s.Split(' ')).ToDictionary(sp => sp[0], sp => sp[1]);
-            var wa = enDic["afraid"];
-            //var rs = ruDic.Keys.Select(wb => (t: wb, sc: Aline.Compute(wa, wb))).OrderByDescending(x => x.sc).Take(30).SelectMany(x => ruDic[x.t]).ToList();
-            //rs.ForEach(Console.WriteLine);
-            Console.WriteLine(Aline.Compute(wa, "ефрейтор"));
+            var wa = enDic["apple"];
+            var rs = ruDic.Keys.Select(wb => (t: wb, sc: Aline.Compute(wa, wb))).OrderByDescending(x => x.sc).Take(5).SelectMany(x => ruDic[x.t]).ToList();
+            rs.ForEach(Console.WriteLine);
+            //Console.WriteLine(wa); // эфрЕйд
+            //Console.WriteLine(Aline.Compute(wa, "ефрейтор"));
             
             
 
