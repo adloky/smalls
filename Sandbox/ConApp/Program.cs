@@ -2536,32 +2536,25 @@ namespace ConApp {
 
         static async Task Main(string[] args) {
             var path = @"d:\Projects\smalls\pho-sim-ru.txt";
+
+            var ruDic = File.ReadAllLines(@"d:\Projects\smalls\pho-sim-ru.txt").Select(s => DicItem.Parse(s)).GroupBy(d => d.pron).ToDictionary(g => g.Key, g => g.Select(d => d.key));
+            var enDic = File.ReadAllLines(@"d:\Projects\smalls\bins\pron-ru.txt").Select(s => s.Split(' ')).ToDictionary(sp => sp[0], sp => sp[1]);
+            var wa = enDic["afraid"];
+            //var rs = ruDic.Keys.Select(wb => (t: wb, sc: Aline.Compute(wa, wb))).OrderByDescending(x => x.sc).Take(30).SelectMany(x => ruDic[x.t]).ToList();
+            //rs.ForEach(Console.WriteLine);
+            Console.WriteLine(Aline.Compute(wa, "ефрейтор"));
+            
+            
+
             // var rs = File.ReadAllLines(path).Where(s => !(new[] { "advpro", "apro", "anum", "conj", "intj", "part", "", "spro", "pr", "num" }).Contains(s.Split(' ')[1])).ToList();
             // File.WriteAllLines(pathEx(path, "-2"), rs);
 
             // var posDic = new Dictionary<string, string>() { { "s", "сущ" }, { "e", "имя" }, { "a", "прил" }, { "v", "гл" }, { "adv", "нар" } };
             // var rs = File.ReadAllLines(path).Select(s => { var sp = s.Split(' '); return $"{sp[0]} {{{posDic[sp[1]]}}}"; }).ToList();
 
-            var cs = new Dictionary<string, string>() {
-                { "b", "б" }, { "d", "д" }, { "f", "ф" }, { "g", "г" }, { "k", "к" },
-                { "l", "л" }, { "m", "м" }, { "n", "н" }, { "p", "п" }, { "r", "р" },
-                { "s", "с" }, { "t", "т" }, { "v", "в" }, { "w", "у" }, { "z", "з" }
-             };
 
 
-            var hs = new HashSet<string>();
-            
-            var re = new Regex(@"^[а-я]+$", RegexOptions.Compiled);
-            var rs = File.ReadAllLines(path).Select(s => {
-                var di = DicItem.Parse(s);
-                if (di.pos != "имя" && di.pos != "сущ" || !di.pron.EndsWith("я")) return s;
-                di.pron = Regex.Replace(di.pron, @"я$", "ия");
-                //di.pron = string.Join(" ", di.pron.Split(' ').Select(c => getDicVal(c, c, cs)));
-                return di.ToString();
-            }).Where(s => s != "").ToList();
-            
-            File.WriteAllLines(pathEx(path, "-2"), rs);
-            //rs.ForEach(Console.WriteLine);
+
 
 
             //var ssn = "Friends/S02"; for (var i = 16; i <= 24; i++) { Snapshots($"{ssn}/{ssn.Split('/')[1]}E{i:00}"); }

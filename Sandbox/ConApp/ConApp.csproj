@@ -160,6 +160,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Aline.cs" />
     <Compile Include="ClipboardAsync.cs" />
     <Compile Include="EnglishPorter2Stemmer.cs" />
     <Compile Include="LancasterStemmer.cs" />
