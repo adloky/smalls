@@ -2535,7 +2535,7 @@ namespace ConApp {
         //        .GroupBy(di => di.keyPos).Where(g => g.Count() > 1).Select(g => g.Key).ToList().ForEach(Console.WriteLine);
 
         static async Task Main(string[] args) {
-            var path = @"d:\share\PhoneSim\freq-ru.txt";
+            var path = @"d:\Projects\smalls\pho-sim-ru.txt";
             // var rs = File.ReadAllLines(path).Where(s => !(new[] { "advpro", "apro", "anum", "conj", "intj", "part", "", "spro", "pr", "num" }).Contains(s.Split(' ')[1])).ToList();
             // File.WriteAllLines(pathEx(path, "-2"), rs);
 
@@ -2554,8 +2554,8 @@ namespace ConApp {
             var re = new Regex(@"^[а-я]+$", RegexOptions.Compiled);
             var rs = File.ReadAllLines(path).Select(s => {
                 var di = DicItem.Parse(s);
-                di.pron = di.pron.Replace("йа", "я").Replace("йэ", "я").Replace("йу", "ю").Replace("йо", "ё");
-                
+                if (di.pos != "имя" && di.pos != "сущ" || !di.pron.EndsWith("я")) return s;
+                di.pron = Regex.Replace(di.pron, @"я$", "ия");
                 //di.pron = string.Join(" ", di.pron.Split(' ').Select(c => getDicVal(c, c, cs)));
                 return di.ToString();
             }).Where(s => s != "").ToList();
