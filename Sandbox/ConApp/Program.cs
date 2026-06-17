@@ -1659,6 +1659,7 @@ namespace ConApp {
             { "d", new [] { "d", "determiner", "определитель", "опред." } },
             { "t", new [] { "t", "particle", "частица", "частица" } },
             { "o", new [] { "o", "other", "прочее", "прочее" } },
+            { "s", new [] { "e", "name", "имя", "имя" } },
         };
 
         static Dictionary<string, List<(string, string)>> _posNameSearch;
@@ -2510,127 +2511,39 @@ namespace ConApp {
             return rs.Where(s => s.StartsWith("!") ^ outer).Select(s => s.Replace("!", ""));
         }
 
+        static void distrVideos() {
+            var disk = "f";
+            var temp = $"{disk}:/temp";
+            var ds = new Queue<string>(Enumerable.Range(0, 5).SelectMany(i => Enumerable.Range(0, 10).Select(j => $"{disk}:/TV/{i}/{j}")).Random().OrderBy(p => Directory.GetFiles(p).Length));
+            var fs = Directory.GetFiles(temp).Select(p => Path.GetFileName(p)).Random().ToList();
+            var rnd = new Random();
+            foreach (var f in fs) {
+                var d = ds.Dequeue();
+                ds.Enqueue(d);
+                var salt = (string)null;
+                do {
+                    salt = $"{rnd.Next(1000):000}";
+                } while (Directory.EnumerateFiles(d, $"{salt}-*.*").Any());
+
+                File.Move($"{temp}/{f}", $"{d}/{salt}-{f}");
+            }
+        }
+
         static volatile bool ctrlC = false;
 
         //File.ReadAllLines(@"d:\Projects\smalls\l-dic.txt").Where(x => DicItem.isValid(x)).Select(s => DicItem.Parse(s))
         //        .GroupBy(di => di.keyPos).Where(g => g.Count() > 1).Select(g => g.Key).ToList().ForEach(Console.WriteLine);
 
         static async Task Main(string[] args) {
+            var path = @"d:\share\PhoneSim\freq-ru.txt";
+//            var rs = File.ReadAllLines(path).Where(s => !(new[] { "advpro", "apro", "anum", "conj", "intj", "part", "", "spro", "pr", "num" }).Contains(s.Split(' ')[1])).ToList();
+//            File.WriteAllLines(pathEx(path, "-2"), rs);
+            // s o a v adv
 
-            var fix = loadDic("cefr-fix");
-            var rs = File.ReadAllLines(@"d:\Projects\smalls\cefr.txt").Select(s => {
-                if (!DicItem.isValid(s)) return s;
-                var di = DicItem.Parse(s);
-                if (!fix.ContainsKey(di.keyPos)) return s;
-                di.vals = fix[di.keyPos].vals;
-                return di.ToString();
-            });
-            
-            File.WriteAllLines("d:/Projects/smalls/cefr-2.txt", rs);
+            //var posDic = new Dictionary<string, string>() { { "s", "сущ." }, { "o", "прочее" }, { "a", "прил." }, { "v", "гл." }, { "adv", "нар." } };
+            //var rs = File.ReadAllLines(path).Select(s => s.Split(' ')[1]).Distinct().ToList();
+            //rs.ForEach(Console.WriteLine);
 
-            /*            
-            var labReplRe = new Regex(@"\[([ABC]?[0-3])\]", RegexOptions.Compiled);
-            var fs = new[] { "cefr", "freq-20k", "cefr-orig", "d:/ya-dic.txt", "freq-g", "l-dic" };
-            Func<string, int> fi = s => Enumerable.Repeat("", 1).Concat(fs).Select((x, i) => (x, i)).Where(y => y.x.Contains(s)).Select(y => y.i).FirstOrDefault() - 1;
-            var ds = fs.Select(f =>loadDic(f)).ToList();
-
-            ds[fi("-g")].Values.ToList().ForEach(di => { di.vals = di.vals.Take(5).ToList(); });
-            ds[fi("-g")] = ds[fi("-g")].Values.Concat(ds[fi("l-")].Values).GroupBy(di => di.keyPos)
-                .ToDictionary(g => g.Key, g => { var rDi = DicItem.Parse(g.Key); rDi.vals = g.SelectMany(di => di.vals).ToList(); return rDi; });
-            ds.RemoveAt(5);
-
-            var ks = ds[fi("20k")].Where(x => x.Value.rank <= 10000).Select(x => x.Key).Concat(ds[fi("-orig")].Keys).Distinct().ToList();
-            var vs = ds.Select(d => d.ToDictionary(x => x.Key, x => string.Join("; ", x.Value.vals).Replace("\"", "\\\""))).ToList();
-
-            foreach (var il in new [] { (i: 0, l: "[AI]"), (i: fi("ya"), l: "[YA]") }) {
-                ds[il.i].Values.ToList().ForEach(di => { di.vals = di.vals.Select(x => labReplRe.Replace(x, il.l)).ToList(); });
-            }
-           
-            ks.ForEach(k => {
-                var emptyDi = DicItem.Parse("x {x}");
-                var vals = Enumerable.Range(0, ds.Count).SelectMany(i => getDicVal(k, emptyDi, ds[i]).vals);
-                vs[0][k] = string.Join(", ", coinCalc(vals)) + $" {{ {getDicVal(k, "-", vs[0])} }}";
-            });
-
-            var rs = ks.Select(k => $"[ \"{k}\", [ \"" + string.Join("\", \"", Enumerable.Range(0, ds.Count).Select(i => getDicVal(k, "-", vs[i]))) + "\" ] ],").ToList();
-            File.WriteAllLines(@"d:/rs-js.txt", rs);
-            */
-
-            /*
-            var fDic = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(s => DicItem.Parse(s)).ToDictionary(d => d.keyPos, d => d);
-            var path = @"d:\Projects\smalls\cefr.txt";
-            var ss = File.ReadAllLines(path).ToList();
-            var wordRe = new Regex(@"^([a-z][a-z\-]*[a-z]|[a-z])+$", RegexOptions.IgnoreCase | RegexOptions.Compiled);
-            var levRe = new Regex(@"\[[ABC][12]\]", RegexOptions.IgnoreCase | RegexOptions.Compiled);
-            var rs = new List<string>();
-            var rs2 = new List<string>();
-            var def = new DicItem() { rank = 30000 };
-            ss.ForEach(s => {
-                var d = DicItem.Parse(s);
-            //if (!wordRe.IsMatch(d.key) && d.pos != "глагол" && d.pos != "фраза") {
-                if (d.pos == "фраза") {
-                    rs.Add(s);
-                }
-                else {
-                    rs2.Add(s);
-                }
-            });
-            rs.Sort();
-
-            if (rs2.Count > 0) {
-                rs2.Sort();
-                rs.Add("===");
-                rs.AddRange(rs2);
-            }
-            File.WriteAllLines(pathEx(path, "-2"), rs);
-            */
-
-            /*
-            ds.ForEach(d => {
-                if (getMatches(d.key, new Regex(@"[a-zA-Z'\-]+")).Count(x => x.m != null) > 1 && d.pos == "глагол") {
-                    Console.WriteLine(d.ToString());
-                }
-            });
-            */
-
-            /*
-            var path = @"d:\Projects\smalls\cefr-c2-cor.txt";
-            var path2 = pathEx(path, "-2");
-            if (!File.Exists(path2)) File.WriteAllText(path2, "");
-            var rs = File.ReadAllLines(path2).ToList();
-
-            var cs = File.ReadAllLines(path).Skip(rs.Count)
-                .Select((x, i) => new { x, i }).GroupBy(e => e.i / 60).Select(g => g.Select(e => e.x).ToArray());
-
-            foreach (var ss in cs) {
-                do {
-                    if (ctrlC) break;
-                    Console.WriteLine("TRY");
-                    var ss2 = ss.Select(s => {
-                        var sp = s.Split('|');
-                        var cx = string.Join(",", (new[] { sp[1], sp[4] }).Where(x => x != ""));
-                        if (cx != "") cx = " {context: " + cx + "}";
-                        return $"{sp[0]} [POS:{sp[3]}]{cx}";
-                    }).ToList();
-                    var qs = "Дан список словосочетаний на английском в формате 'словосочетание [POS] {context}', context может быть опущен. Нужны одно, в крайнем случае два значения этих словосочетаний на русском.\nВыведи только итоговый список значений в формате: 'словосочетание {POS} значения'. Сохраняй порядок слов и их колличество. Не добавляй объяснений, вводных фраз и заключений.\nДалее список словосочетаний:\n";
-                    var q = string.Join("\n", (new [] { qs }).Concat(ss2));
-                    var r = (string)null;
-                    while (r == null && !ctrlC) {
-                        try { r = DeepSeek.Get(q); } catch (Exception e) { Console.WriteLine(e.Message); }
-                        Thread.Sleep(2000);
-                    }
-                    Thread.Sleep(2000);
-                    if (ctrlC) break;
-                    var rs0 = Regex.Split(r.Replace("*", "").Replace("[", "{").Replace("]", "}"), $"\r?\n").ToArray();
-                    if (ss.Length != rs0.Length || rs0.Any(x => !Regex.IsMatch(x, @"^[^{]+\{[^}]+\}"))) continue;
-                    var ssl = ss.Select(s => s.Split('|')[2]).ToArray();
-                    rs0 = rs0.Select((s, i) => $"{s} [{ssl[i]}]").ToArray();
-
-                    Console.WriteLine(string.Join("\n", rs0));
-                    File.AppendAllLines(path2, rs0);
-                } while (false);
-            }
-            */
 
             //var ssn = "Friends/S02"; for (var i = 16; i <= 24; i++) { Snapshots($"{ssn}/{ssn.Split('/')[1]}E{i:00}"); }
 
@@ -2642,15 +2555,17 @@ namespace ConApp {
             //genStories(@"d:/stories-0.txt", 3);
 
             //checkQuotes(@"d:\english-reader\reader-999-orig.txt");
-            var adOpts = new AdaptEnglishOptions();
-            //adOpts.check = (o, r) => { throw new Exception(); };
+            var adOpts = new AdaptEnglishOptions(); //adOpts.check = (o, r) => { throw new Exception(); };
+
             //splitText(@"d:\english-reader\reader-099-orig.txt");
             //adaptEnglish(AdaptPoints.DeepSeek, @"d:\english-reader\reader-099.txt", adOpts, 11000); // "Correct the errors in the text in English."
 
             //mdMonitor(); return; // mdPostCom
 
             //srtOcr(@"d:\.temp\simps-tor\1\*.mp4");
-            //serRename(@"e:\videos\BoJack\S01");
+            //serRename($"e:/videos/~tt/S05");
+            //distrVideos();
+
 
             /*
             if (!File.Exists(@"d:\.temp\srt\all.srt")) 
@@ -2675,6 +2590,111 @@ namespace ConApp {
         }
     }
 }
+
+/*            
+var labReplRe = new Regex(@"\[([ABC]?[0-3])\]", RegexOptions.Compiled);
+var fs = new[] { "cefr", "freq-20k", "cefr-orig", "d:/ya-dic.txt", "freq-g", "l-dic" };
+Func<string, int> fi = s => Enumerable.Repeat("", 1).Concat(fs).Select((x, i) => (x, i)).Where(y => y.x.Contains(s)).Select(y => y.i).FirstOrDefault() - 1;
+var ds = fs.Select(f =>loadDic(f)).ToList();
+
+ds[fi("-g")].Values.ToList().ForEach(di => { di.vals = di.vals.Take(5).ToList(); });
+ds[fi("-g")] = ds[fi("-g")].Values.Concat(ds[fi("l-")].Values).GroupBy(di => di.keyPos)
+    .ToDictionary(g => g.Key, g => { var rDi = DicItem.Parse(g.Key); rDi.vals = g.SelectMany(di => di.vals).ToList(); return rDi; });
+ds.RemoveAt(5);
+
+var ks = ds[fi("20k")].Where(x => x.Value.rank <= 10000).Select(x => x.Key).Concat(ds[fi("-orig")].Keys).Distinct().ToList();
+var vs = ds.Select(d => d.ToDictionary(x => x.Key, x => string.Join("; ", x.Value.vals).Replace("\"", "\\\""))).ToList();
+
+foreach (var il in new [] { (i: 0, l: "[AI]"), (i: fi("ya"), l: "[YA]") }) {
+    ds[il.i].Values.ToList().ForEach(di => { di.vals = di.vals.Select(x => labReplRe.Replace(x, il.l)).ToList(); });
+}
+
+ks.ForEach(k => {
+    var emptyDi = DicItem.Parse("x {x}");
+    var vals = Enumerable.Range(0, ds.Count).SelectMany(i => getDicVal(k, emptyDi, ds[i]).vals);
+    vs[0][k] = string.Join(", ", coinCalc(vals)) + $" {{ {getDicVal(k, "-", vs[0])} }}";
+});
+
+var rs = ks.Select(k => $"[ \"{k}\", [ \"" + string.Join("\", \"", Enumerable.Range(0, ds.Count).Select(i => getDicVal(k, "-", vs[i]))) + "\" ] ],").ToList();
+File.WriteAllLines(@"d:/rs-js.txt", rs);
+*/
+
+/*
+var fDic = File.ReadAllLines(@"d:\Projects\smalls\freq-20k.txt").Select(s => DicItem.Parse(s)).ToDictionary(d => d.keyPos, d => d);
+var path = @"d:\Projects\smalls\cefr.txt";
+var ss = File.ReadAllLines(path).ToList();
+var wordRe = new Regex(@"^([a-z][a-z\-]*[a-z]|[a-z])+$", RegexOptions.IgnoreCase | RegexOptions.Compiled);
+var levRe = new Regex(@"\[[ABC][12]\]", RegexOptions.IgnoreCase | RegexOptions.Compiled);
+var rs = new List<string>();
+var rs2 = new List<string>();
+var def = new DicItem() { rank = 30000 };
+ss.ForEach(s => {
+    var d = DicItem.Parse(s);
+//if (!wordRe.IsMatch(d.key) && d.pos != "глагол" && d.pos != "фраза") {
+    if (d.pos == "фраза") {
+        rs.Add(s);
+    }
+    else {
+        rs2.Add(s);
+    }
+});
+rs.Sort();
+
+if (rs2.Count > 0) {
+    rs2.Sort();
+    rs.Add("===");
+    rs.AddRange(rs2);
+}
+File.WriteAllLines(pathEx(path, "-2"), rs);
+*/
+
+/*
+ds.ForEach(d => {
+    if (getMatches(d.key, new Regex(@"[a-zA-Z'\-]+")).Count(x => x.m != null) > 1 && d.pos == "глагол") {
+        Console.WriteLine(d.ToString());
+    }
+});
+*/
+
+/*
+var path = @"d:\Projects\smalls\cefr-c2-cor.txt";
+var path2 = pathEx(path, "-2");
+if (!File.Exists(path2)) File.WriteAllText(path2, "");
+var rs = File.ReadAllLines(path2).ToList();
+
+var cs = File.ReadAllLines(path).Skip(rs.Count)
+    .Select((x, i) => new { x, i }).GroupBy(e => e.i / 60).Select(g => g.Select(e => e.x).ToArray());
+
+foreach (var ss in cs) {
+    do {
+        if (ctrlC) break;
+        Console.WriteLine("TRY");
+        var ss2 = ss.Select(s => {
+            var sp = s.Split('|');
+            var cx = string.Join(",", (new[] { sp[1], sp[4] }).Where(x => x != ""));
+            if (cx != "") cx = " {context: " + cx + "}";
+            return $"{sp[0]} [POS:{sp[3]}]{cx}";
+        }).ToList();
+        var qs = "Дан список словосочетаний на английском в формате 'словосочетание [POS] {context}', context может быть опущен. Нужны одно, в крайнем случае два значения этих словосочетаний на русском.\nВыведи только итоговый список значений в формате: 'словосочетание {POS} значения'. Сохраняй порядок слов и их колличество. Не добавляй объяснений, вводных фраз и заключений.\nДалее список словосочетаний:\n";
+        var q = string.Join("\n", (new [] { qs }).Concat(ss2));
+        var r = (string)null;
+        while (r == null && !ctrlC) {
+            try { r = DeepSeek.Get(q); } catch (Exception e) { Console.WriteLine(e.Message); }
+            Thread.Sleep(2000);
+        }
+        Thread.Sleep(2000);
+        if (ctrlC) break;
+        var rs0 = Regex.Split(r.Replace("*", "").Replace("[", "{").Replace("]", "}"), $"\r?\n").ToArray();
+        if (ss.Length != rs0.Length || rs0.Any(x => !Regex.IsMatch(x, @"^[^{]+\{[^}]+\}"))) continue;
+        var ssl = ss.Select(s => s.Split('|')[2]).ToArray();
+        rs0 = rs0.Select((s, i) => $"{s} [{ssl[i]}]").ToArray();
+
+        Console.WriteLine(string.Join("\n", rs0));
+        File.AppendAllLines(path2, rs0);
+    } while (false);
+}
+*/
+
 
 /*
 Проанализируй список английских слов и отберите **только те**, которые являются **прямыми лексическими заимствованиями или общеязыковыми интернационализмами** в современном нормативном русском языке.
