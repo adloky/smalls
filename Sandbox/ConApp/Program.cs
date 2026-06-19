@@ -2571,12 +2571,18 @@ namespace ConApp {
             }
         }
 
+        static string pronSimplify(string s, bool hard = false) {
+            return s;
+        }
+
         static volatile bool ctrlC = false;
 
         //File.ReadAllLines(@"d:\Projects\smalls\l-dic.txt").Where(x => DicItem.isValid(x)).Select(s => DicItem.Parse(s))
         //        .GroupBy(di => di.keyPos).Where(g => g.Count() > 1).Select(g => g.Key).ToList().ForEach(Console.WriteLine);
 
         static async Task Main(string[] args) {
+
+            // əʊ
             var rs = new List<string>();
             var path = @"d:\Projects\smalls\pron.txt";
 
@@ -2594,8 +2600,10 @@ namespace ConApp {
                     }
                 }
                 var r = string.Join("", vs.Select((v, i) => i == st ? cmu[v] : cmu[v].ToLower()));
+                var v1 = false;
                 if (Regex.Matches(r, @"[аеиоуыэёюяəʊ]", RegexOptions.IgnoreCase).Count < 2) {
                     r = r.ToLower();
+                    v1 = true;
                 }
 
                 r = reYaou.Replace(r, m => {
@@ -2610,12 +2618,14 @@ namespace ConApp {
                     }
 
                     if (isLo) rc = char.ToLower(rc);
+                    if (rc == 'ё' && !v1) rc = 'о';
 
                     return rc.ToString();
                 }); 
 
                 rs.Add($"{k} {r}");
             });
+
             File.WriteAllLines(pathEx(path, "-ru"), rs);
 
             /*
