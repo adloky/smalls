@@ -17,7 +17,7 @@ namespace Sandbox {
             request.Method = "POST";
             request.ContentType = "application/json";
             //var model = "tngtech/deepseek-r1t2-chimera:free";
-            var model = "stepfun/step-3.5-flash:free";
+            var model = "openai/gpt-oss-120b";
             //var model = "nvidia/nemotron-3-nano-30b-a3b:free";
             //var model = "arcee-ai/trinity-large-preview:free";
             s = $"{{\"model\":\"{model}\",\"messages\":[{{\"role\":\"user\",\"content\":{s}}}]}}";

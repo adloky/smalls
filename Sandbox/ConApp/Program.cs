@@ -43,8 +43,8 @@ using Xabe.FFmpeg;
 
 namespace ConApp {
     public class Tag {
-        public static Regex tagRe { get; } = new Regex(@"<(?<close>/)?(?<name>[^/> ]+)(""[^""]*""|[^/>])*/?>");
-        private static Regex attrRe = new Regex(@" +(?<attr>[^=]+)=""(?<value>[^""]*)""");
+        public static Regex tagRe { get; } = new Regex(@"<(?<close>/)?(?<name>[^/> ]+)('[^']*'|""[^""]*""|[^/>])*/?>");
+        private static Regex attrRe = new Regex(@" +(?<attr>[^= ]+) *= *(""(?<value>[^""]*)""|'(?<value>[^']*)'|(?<value>[^ ]*))");
 
         public string name { get; set; }
 
@@ -71,7 +71,20 @@ namespace ConApp {
         }
 
         public static string Clear(string s, HashSet<string> names = null) {
-            return Program.handleString(s, tagRe, (x, m) => (names == null || names.Contains(m.Groups["name"].Value.ToLower())) ? "" : x);
+            return Clear(s, n => names == null || names.Contains(n));
+        }
+
+        public static string Clear(string s, Func<string, bool> clearFun) {
+            return Program.handleString(s, tagRe, (x, m) => clearFun(m.Groups["name"].Value.ToLower()) ? "" : x);
+        }
+
+        public static string ClearAttrs(string s) {
+            return Program.handleString(s, tagRe, (x, m) => {
+                var name = m.Groups["name"].Value;
+                var s0 = m.Value[1] == '/' ? "/" : "";
+                var s9 = m.Value[m.Value.Length-2] == '/' ? "/" : "";
+                return $"<{s0}{name}{s9}>";
+            });
         }
     }
 
@@ -618,14 +631,14 @@ namespace ConApp {
         #region RU PRON
 
         static Dictionary<string, string> cmu = new Dictionary<string, string>() {
-            { "AA", "А" }, { "AE", "Э" }, { "AH0", "Э" }, { "AH", "А" }, { "AO", "О" },
-            { "AW", "Ау" }, { "AY", "Ай" }, { "EH", "Е" }, { "ER", "Эр" }, { "EY", "Ей" },
-            { "IH", "Ы" }, { "IY", "И" }, { "OW", "Oу" }, { "OY", "Ой" }, { "UH", "У" }, { "UW", "У" },
-            { "B", "б" }, { "CH", "ч" }, { "D", "д" }, { "DH", "д" }, { "F", "ф" },
+            { "AA", "А" }, { "AE", "Э" }, { "AH0", "Ə" }, { "AH", "А" }, { "AO", "О" },
+            { "AW", "Ау" }, { "AY", "Ай" }, { "EH", "Е" }, { "ER0", "Ыр" }, { "ER", "Эр" }, { "EY", "Ей" },
+            { "IH", "Ы" }, { "IY", "И" }, { "OW", "Oу" }, { "OY", "Ой" }, { "UH", "Ʊ" }, { "UW", "У" },
+            { "B", "б" }, { "CH", "ч" }, { "D", "д" }, { "DH", "ð" }, { "F", "ф" },
             { "G", "г" }, { "HH", "х" }, { "JH", "дж" }, { "K", "к" }, { "L", "л" },
             { "M", "м" }, { "N", "н" }, { "NG", "н" }, { "P", "п" }, { "R", "р" },
-            { "S", "с" }, { "SH", "ш" }, { "T", "т" }, { "TH", "т" }, { "V", "в" },
-            { "W", "у" }, { "Y", "й" }, { "Z", "з" }, { "ZH", "ж" },
+            { "S", "с" }, { "SH", "ш" }, { "T", "т" }, { "TH", "θ" }, { "V", "в" },
+            { "W", "w" }, { "Y", "й" }, { "Z", "з" }, { "ZH", "ж" },
         };
 
         static Dictionary<string, string> _prons;
@@ -1710,7 +1723,8 @@ namespace ConApp {
         enum AdaptPoints { Gemini, DeepSeek, OpenRouter, OpenRouter2, Test }
 
         public class AdaptEnglishOptions {
-            public Action<string, string> check = (o, r) => { };
+            public Action<string[], string[]> check = (o, r) => { };
+            public bool handleFull { get; set; } = false;
             public static AdaptEnglishOptions Default = new AdaptEnglishOptions();
         }
 
@@ -1720,6 +1734,7 @@ namespace ConApp {
             var level = p.OfType<string>().Where(x => levRe.IsMatch(x)).FirstOrDefault();
             var alter = p.OfType<string>().Where(x => x != level).FirstOrDefault();
             var opts = p.OfType<AdaptEnglishOptions>().FirstOrDefault() ?? AdaptEnglishOptions.Default;
+            var handleFull = opts.handleFull ? true : level == null && freq == 0;
 
             var bs = new HashSet<string>();
             var dic = freq == 0 ? null : getFreqGroups(true, new[] { freq });
@@ -1744,7 +1759,7 @@ namespace ConApp {
             foreach (var _s in ss) {
                 if (ctrlC) break;
 
-                var pre = adaptKeepRe.Matches(_s).Cast<Match>().Select(m => m.Value).FirstOrDefault() ?? "";
+                var pre = handleFull ? "" : adaptKeepRe.Matches(_s).Cast<Match>().Select(m => m.Value).FirstOrDefault() ?? "";
                 var s = _s.Substring(pre.Length);
 
                 var pr = "";
@@ -1778,6 +1793,7 @@ namespace ConApp {
                 }
 
                 var pause = 4000;
+                var checkCount = 0;
 
                 var sr = (string)null;
                 if (_s == pre) {
@@ -1809,14 +1825,33 @@ namespace ConApp {
                                     Thread.Sleep(1000);
                                     break;
                             }
-                            sr = string.Join("\r\n", Regex.Split(sr, @"\r?\n").Select(x => x.Trim()).Where(x => x != "").Select(x => x == "---" ? "_" : x)).Replace("*", "");
 
-                            var diff = s.Length == 0 ? 0 : Math.Abs(sr.Length - s.Length) * 100 / s.Length;
-                            if (freqOnly && s.Length > 300 && pause <= 15000 && diff > 10) {
-                                throw new Exception("diff");
+                            sr = string.Join("\r\n", Regex.Split(sr, @"\r?\n").Select(x => x.Trim()).Where(x => x != "").Select(x => x == "---" ? "_" : x));
+
+                            // CHECK
+                            try {
+                                checkCount++;
+
+                                var diff = s.Length == 0 ? 0 : Math.Abs(sr.Length - s.Length) * 100 / s.Length;
+                                if (freqOnly && s.Length > 300 && pause <= 15000 && diff > 10) {
+                                    throw new Exception("diff");
+                                }
+
+                                if (!containsIdeographs(s) && containsIdeographs(sr)) {
+                                    throw new Exception("ideographs");
+                                }
+
+                                opts.check(s.Split(new[] { "\r\n" }, ssop), sr.Split(new[] { "\r\n" }, ssop));
+                            }
+                            catch (Exception e) {
+                                if (checkCount < 3) throw;
+
+                                var chNErr = $"CHECK COUNT ERROR ({e.Message})!";
+                                Console.WriteLine(chNErr);
+                                pr += $"\r\nAI-ERROR: {chNErr}";
                             }
 
-                            opts.check(s, sr);
+                            checkCount = 0;
                             pause = 4000;
                         }
                         catch (Exception e) {
@@ -2511,6 +2546,13 @@ namespace ConApp {
             return rs.Where(s => s.StartsWith("!") ^ outer).Select(s => s.Replace("!", ""));
         }
 
+        public static bool containsIdeographs(string s) {
+            return s.Any(c => (c >= 0x04E00 && c <= 0x09FFF)   // CJK Unified Ideographs
+                           || (c >= 0x03400 && c <= 0x04DBF)   // CJK Unified Ideographs Extension A
+                           || (c >= 0x20000 && c <= 0x2A6DF)   // CJK Unified Ideographs Extension B
+                           || (c >= 0x0F900 && c <= 0x0FAFF)); // CJK Compatibility Ideographs
+        }
+
         static void distrVideos() {
             var disk = "f";
             var temp = $"{disk}:/temp";
@@ -2535,17 +2577,82 @@ namespace ConApp {
         //        .GroupBy(di => di.keyPos).Where(g => g.Count() > 1).Select(g => g.Key).ToList().ForEach(Console.WriteLine);
 
         static async Task Main(string[] args) {
-            var path = @"d:\Projects\smalls\pho-sim-ru.txt";
+            var rs = new List<string>();
+            var path = @"d:\Projects\smalls\pron.txt";
 
+            var reYaou = new Regex(@"й[аоуʊ]", RegexOptions.IgnoreCase);
+
+            File.ReadAllLines(path).Select(x => x.Split(' ')).ToList().ForEach(ss => {
+                var k = ss[0];
+                var vs = ss.Skip(1).ToArray();
+                var st = -1;
+                for (var i = 0; i < vs.Length; i++) {
+                    var v = vs[i];
+                    if (v.Contains("2") && st == -1 || v.Contains("1")) {
+                        st = i;
+                        if (v.Contains("1")) break;
+                    }
+                }
+                var r = string.Join("", vs.Select((v, i) => i == st ? cmu[v] : cmu[v].ToLower()));
+                if (Regex.Matches(r, @"[аеиоуыэёюяəʊ]", RegexOptions.IgnoreCase).Count < 2) {
+                    r = r.ToLower();
+                }
+
+                r = reYaou.Replace(r, m => {
+                    var c = m.Value[1];
+                    var isLo = char.IsLower(c);
+                    var rc = (char)0;
+                    switch (char.ToUpper(c)) {
+                        case 'А': rc = 'Я'; break;
+                        case 'О': rc = 'Ё'; break;
+                        case 'У': case 'Ʊ': rc = 'Ю'; break;
+                        default: throw new Exception();
+                    }
+
+                    if (isLo) rc = char.ToLower(rc);
+
+                    return rc.ToString();
+                }); 
+
+                rs.Add($"{k} {r}");
+            });
+            File.WriteAllLines(pathEx(path, "-ru"), rs);
+
+            /*
+            var path = @"d:\Projects\smalls\pho-sim-ru.txt";
             var ruDic = File.ReadAllLines(@"d:\Projects\smalls\pho-sim-ru.txt").Select(s => DicItem.Parse(s)).GroupBy(d => d.pron).ToDictionary(g => g.Key, g => g.Select(d => d.key));
             var enDic = File.ReadAllLines(@"d:\Projects\smalls\bins\pron-ru.txt").Select(s => s.Split(' ')).ToDictionary(sp => sp[0], sp => sp[1]);
-            var wa = enDic["apple"];
-            var rs = ruDic.Keys.Select(wb => (t: wb, sc: Aline.Compute(wa, wb))).OrderByDescending(x => x.sc).Take(5).SelectMany(x => ruDic[x.t]).ToList();
+            var wa = enDic["issue"];
+            var rs = ruDic.Keys.Select(wb => (t: wb, sc: Aline.Compute(wa, wb))).OrderByDescending(x => x.sc).Take(10).SelectMany(x => ruDic[x.t]).ToList();
+            
             rs.ForEach(Console.WriteLine);
+            
             //Console.WriteLine(wa); // эфрЕйд
             //Console.WriteLine(Aline.Compute(wa, "ефрейтор"));
-            
-            
+            */
+
+            /*
+            var path = @"d:\english\etymonline\etym-short.md";
+            var txt = File.ReadAllText(path);
+            var sss = Regex.Split(txt, @"^## ", RegexOptions.Multiline).Where(s => s != "").Select(s => Regex.Split($"## {s}", @"\r?\n").Where(_s => _s != "").ToArray()).ToList();
+            var hNormRe = new Regex(@"^([a-z]|[a-z][a-z- ]*[a-z])$", RegexOptions.IgnoreCase);
+            var rs = new List<string>();
+            var sum = 0;
+            foreach (var ss in sss) {
+                var _sum = ss.Sum(s => s.Length);
+                if (sum + _sum > 4000) {
+                    rs.Add("---");
+                    sum = 0;
+                }
+                rs.AddRange(ss);
+                sum += _sum;
+            }
+
+            if (rs.Last() != "---") rs.Add("---");
+
+            File.WriteAllText(pathEx(path, "-2"), string.Join("\r\n\r\n", rs));
+            */
+
 
             // var rs = File.ReadAllLines(path).Where(s => !(new[] { "advpro", "apro", "anum", "conj", "intj", "part", "", "spro", "pr", "num" }).Contains(s.Split(' ')[1])).ToList();
             // File.WriteAllLines(pathEx(path, "-2"), rs);
@@ -2553,10 +2660,7 @@ namespace ConApp {
             // var posDic = new Dictionary<string, string>() { { "s", "сущ" }, { "e", "имя" }, { "a", "прил" }, { "v", "гл" }, { "adv", "нар" } };
             // var rs = File.ReadAllLines(path).Select(s => { var sp = s.Split(' '); return $"{sp[0]} {{{posDic[sp[1]]}}}"; }).ToList();
 
-
-
-
-
+            // =====================================================
 
             //var ssn = "Friends/S02"; for (var i = 16; i <= 24; i++) { Snapshots($"{ssn}/{ssn.Split('/')[1]}E{i:00}"); }
 
@@ -2568,10 +2672,18 @@ namespace ConApp {
             //genStories(@"d:/stories-0.txt", 3);
 
             //checkQuotes(@"d:\english-reader\reader-999-orig.txt");
-            var adOpts = new AdaptEnglishOptions(); //adOpts.check = (o, r) => { throw new Exception(); };
+            var adOpts = new AdaptEnglishOptions();
+            /*
+            adOpts.check = (o, r) => {
+                if (r.Any(s => s == "_")) throw new Exception();
+                var ho = string.Join("|", o.Where(s => s.StartsWith("## ")));
+                var hr = string.Join("|", r.Where(s => s.StartsWith("## ")));
+                if (ho != hr) throw new Exception("H diff");
+            };
 
             //splitText(@"d:\english-reader\reader-099-orig.txt");
-            //adaptEnglish(AdaptPoints.DeepSeek, @"d:\english-reader\reader-099.txt", adOpts, 11000); // "Correct the errors in the text in English."
+            adaptEnglish(AdaptPoints.DeepSeek, @"d:\english\etymonline\etym-origin.md", adOpts, "Translate a piece of text from the English etymological dictionary into Russian (dont'n translate headers)."); // "Correct the errors in the text in English."
+            */
 
             //mdMonitor(); return; // mdPostCom
 

@@ -15,6 +15,8 @@ namespace ConApp {
         private const double C_Sub = 35.0;   // макс. штраф за замену
         private const double C_Exp = 45.0;   // макс. штраф за расширение
         private const double C_Vwl = 5.0;    // штраф за несовпадение тип гласный/согласный
+        private const double C_Tail = 0.015;    // штраф за длину хвоста
+
 
         // Веса фонетических признаков
         private const double W_Place = 40.0;
@@ -289,9 +291,15 @@ namespace ConApp {
             }
 
             double rawScore = double.NegativeInfinity;
+            int rawJ = 0;
             for (int j = 0; j <= n; j++) {
-                rawScore = Math.Max(rawScore, dp[m, j]);
+                if (dp[m, j] > rawScore) {
+                    rawScore = dp[m, j];
+                    rawJ = j;
+                }
             }
+
+            var tailPenalty = (n - rawJ) * C_Tail;
 
             // Нормализация: делим на лучший из самосравнений
             double selfA = SelfScore(seqA);
@@ -300,8 +308,7 @@ namespace ConApp {
 
             if (normalizer <= 0.0) return rawScore > 0 ? 1.0 : 0.0;
 
-            double normalized = rawScore / selfA;
-            return Math.Max(0.0, Math.Min(1.0, normalized));
+            return Math.Max(0.0, Math.Min(1.0, rawScore / selfA - tailPenalty));
         }
 
         // ──────────────────────────────────────────────────────────────────────────
