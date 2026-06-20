@@ -2663,16 +2663,8 @@ namespace ConApp {
 
                 var keyEsc = Regex.Escape(key);
                 var re = new Regex(@"\([^\(\)]{1,15}\.\)", RegexOptions.Compiled);
-                rs[rs.Count - 1] = handleString(rs[rs.Count - 1], re, x => {
-                    try {
-                        return "(" + getPosName(x.Substring(1, x.Length - 2), PosNameTypes.RuAbbr) + ")";
-                    }
-                    catch {
-                        return x;
-                    }
-                });
-
-                if (isClear) {
+                if (s.Length < 20) {
+                    rs[rs.Count - 1] = "?! " + rs[rs.Count - 1];
                 }
 
                 isClear = false;
