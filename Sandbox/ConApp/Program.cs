@@ -949,8 +949,7 @@ namespace ConApp {
         }
 
         static Dictionary<string, DicItem> loadDic(string path, bool low = false) {
-            if (!path.Contains(":")) path = Path.Combine("d:/Projects/smalls", path);
-            if (!path.Contains(".")) path += ".txt";
+            path = findPath(path, "txt");
 
             return File.ReadAllLines(path).Where(x => DicItem.isValid(x))
                 .Select(x => { var di = DicItem.Parse(x); if (low) di.key = di.key.ToLower(); return (a: di.keyPos, b: di); })
@@ -1729,6 +1728,7 @@ namespace ConApp {
         }
 
         static void adaptEnglish(AdaptPoints ap, string path, params object[] p) {
+            path = findPath(path, "txt");
             var levRe = new Regex("^[ABC][12]$");
             var freq = p.OfType<int>().FirstOrDefault();
             var level = p.OfType<string>().Where(x => levRe.IsMatch(x)).FirstOrDefault();
@@ -2571,8 +2571,65 @@ namespace ConApp {
             }
         }
 
+        private static Regex pronSimpRe = new Regex(@"[ыwəʊðθ]", RegexOptions.Compiled | RegexOptions.IgnoreCase);
+
         static string pronSimplify(string s, bool hard = false) {
-            return s;
+            return pronSimpRe.Replace(s, m => {
+                var c = m.Value[0];
+                var isLo = char.IsLower(c);
+                var rc = (char)0;
+                if (hard) {
+                    switch (char.ToLower(c)) {
+                        case 'ы': rc = 'и'; break;
+                        case 'w': rc = 'в'; break;
+                        case 'ə': rc = 'э'; break;
+                        case 'ʊ': rc = 'у'; break;
+                        case 'ð': rc = 'з'; break;
+                        case 'θ': rc = 'с'; break;
+                        default: throw new Exception();
+                    }
+                }
+                else {
+                    switch (char.ToLower(c)) {
+                        case 'ы': rc = 'ы'; break;
+                        case 'w': rc = 'у'; break;
+                        case 'ə': rc = 'э'; break;
+                        case 'ʊ': rc = 'у'; break;
+                        case 'ð': rc = 'д'; break;
+                        case 'θ': rc = 'т'; break;
+                        default: throw new Exception();
+                    }
+                }
+
+                if (!isLo) rc = char.ToUpper(rc);
+
+                return rc.ToString();
+            });
+        }
+
+        static string findPath(string ptrn, string ext = "*") {
+            if (Path.GetExtension(ptrn) == string.Empty) {
+                ptrn += $".{ext}";
+            }
+
+            var ds = new [] { Path.GetDirectoryName(ptrn) };
+            if (ptrn.Skip(1).FirstOrDefault() == ':') {
+                ptrn = Path.GetFileName(ptrn);
+            }
+            else {
+                ds = SandboxConfig.Default["path"].Split(';');
+            }
+
+            var ps = ds.SelectMany(d => {
+                var p = Path.Combine(d, ptrn);
+                var dir = Path.GetDirectoryName(p);
+                var file = Path.GetFileName(p);
+                return Directory.GetFiles(dir, file);
+            }).ToList();
+
+            if (ps.Count != 1) throw new Exception();
+
+            return ps.First();
         }
 
         static volatile bool ctrlC = false;
@@ -2581,65 +2638,22 @@ namespace ConApp {
         //        .GroupBy(di => di.keyPos).Where(g => g.Count() > 1).Select(g => g.Key).ToList().ForEach(Console.WriteLine);
 
         static async Task Main(string[] args) {
-
-            // əʊ
-            var rs = new List<string>();
-            var path = @"d:\Projects\smalls\pron.txt";
-
-            var reYaou = new Regex(@"й[аоуʊ]", RegexOptions.IgnoreCase);
-
-            File.ReadAllLines(path).Select(x => x.Split(' ')).ToList().ForEach(ss => {
-                var k = ss[0];
-                var vs = ss.Skip(1).ToArray();
-                var st = -1;
-                for (var i = 0; i < vs.Length; i++) {
-                    var v = vs[i];
-                    if (v.Contains("2") && st == -1 || v.Contains("1")) {
-                        st = i;
-                        if (v.Contains("1")) break;
-                    }
-                }
-                var r = string.Join("", vs.Select((v, i) => i == st ? cmu[v] : cmu[v].ToLower()));
-                var v1 = false;
-                if (Regex.Matches(r, @"[аеиоуыэёюяəʊ]", RegexOptions.IgnoreCase).Count < 2) {
-                    r = r.ToLower();
-                    v1 = true;
-                }
-
-                r = reYaou.Replace(r, m => {
-                    var c = m.Value[1];
-                    var isLo = char.IsLower(c);
-                    var rc = (char)0;
-                    switch (char.ToUpper(c)) {
-                        case 'А': rc = 'Я'; break;
-                        case 'О': rc = 'Ё'; break;
-                        case 'У': case 'Ʊ': rc = 'Ю'; break;
-                        default: throw new Exception();
-                    }
-
-                    if (isLo) rc = char.ToLower(rc);
-                    if (rc == 'ё' && !v1) rc = 'о';
-
-                    return rc.ToString();
-                }); 
-
-                rs.Add($"{k} {r}");
-            });
-
-            File.WriteAllLines(pathEx(path, "-ru"), rs);
-
+            var path = @"d:\english\etymonline\etym-ru.md";
+            
+            var rs = File.ReadAllLines(path).Where(s => !s.StartsWith("## ") && s != "" && s.Length < 20 && !Regex.IsMatch(s, @"^\*\*\d\.\*\*$") && !Regex.IsMatch(s, @"^.{0,20} \(\d\)$"));
+            File.WriteAllLines(pathEx(path, "-9"), rs.Select(s => $"{s}"));
             /*
-            var path = @"d:\Projects\smalls\pho-sim-ru.txt";
             var ruDic = File.ReadAllLines(@"d:\Projects\smalls\pho-sim-ru.txt").Select(s => DicItem.Parse(s)).GroupBy(d => d.pron).ToDictionary(g => g.Key, g => g.Select(d => d.key));
-            var enDic = File.ReadAllLines(@"d:\Projects\smalls\bins\pron-ru.txt").Select(s => s.Split(' ')).ToDictionary(sp => sp[0], sp => sp[1]);
-            var wa = enDic["issue"];
+            var enDic = File.ReadAllLines(@"d:\Projects\smalls\bins\pron-ru.txt").Select(s => s.Split(' ')).ToDictionary(sp => sp[0], sp => pronSimplify(sp[1], true));
+            var wa = enDic["afraid"];
             var rs = ruDic.Keys.Select(wb => (t: wb, sc: Aline.Compute(wa, wb))).OrderByDescending(x => x.sc).Take(10).SelectMany(x => ruDic[x.t]).ToList();
             
             rs.ForEach(Console.WriteLine);
+            */
             
             //Console.WriteLine(wa); // эфрЕйд
-            //Console.WriteLine(Aline.Compute(wa, "ефрейтор"));
-            */
+            //Console.WriteLine(Aline.Compute(wa, "острейший"));
+            
 
             /*
             var path = @"d:\english\etymonline\etym-short.md";
@@ -2682,8 +2696,8 @@ namespace ConApp {
             //genStories(@"d:/stories-0.txt", 3);
 
             //checkQuotes(@"d:\english-reader\reader-999-orig.txt");
-            var adOpts = new AdaptEnglishOptions();
             /*
+            var adOpts = new AdaptEnglishOptions();
             adOpts.check = (o, r) => {
                 if (r.Any(s => s == "_")) throw new Exception();
                 var ho = string.Join("|", o.Where(s => s.StartsWith("## ")));
@@ -2694,6 +2708,7 @@ namespace ConApp {
             //splitText(@"d:\english-reader\reader-099-orig.txt");
             adaptEnglish(AdaptPoints.DeepSeek, @"d:\english\etymonline\etym-origin.md", adOpts, "Translate a piece of text from the English etymological dictionary into Russian (dont'n translate headers)."); // "Correct the errors in the text in English."
             */
+            
 
             //mdMonitor(); return; // mdPostCom
 
