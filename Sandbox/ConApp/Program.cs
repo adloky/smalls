@@ -2661,9 +2661,10 @@ namespace ConApp {
                     continue;
                 }
 
-                var m = Regex.Match(s, @"^(.+) \([^\)]+\d\)");
-                if (isClear && m.Success && key == m.Groups[1].Value) {
-                    rs[rs.Count - 1] = "?! " + rs[rs.Count - 1];
+                var keyEsc = Regex.Escape(key);
+                var m = Regex.Match(s, @"^K \(".Replace("K", keyEsc));
+                if (isClear && m.Success) {
+                    rs[rs.Count - 1] = rs[rs.Count - 1].Substring(key.Length).Trim();
                     //rs.RemoveAt(rs.Count - 1);
                 }
 
