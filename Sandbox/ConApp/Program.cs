@@ -2661,7 +2661,7 @@ namespace ConApp {
                     continue;
                 }
 
-                var m = Regex.Match(s, @"^(.+) \([^\d].{0,20}\)$");
+                var m = Regex.Match(s, @"^(.+) \([^\)]+\d\)");
                 if (isClear && m.Success && key == m.Groups[1].Value) {
                     rs[rs.Count - 1] = "?! " + rs[rs.Count - 1];
                     //rs.RemoveAt(rs.Count - 1);
