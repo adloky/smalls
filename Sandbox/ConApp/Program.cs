@@ -2645,24 +2645,29 @@ namespace ConApp {
             var key = (string)null;
             var n = 0;
             var rs = new List<string>();
+            var isClear = false;
             foreach (var s in File.ReadAllLines(path).Where(s => s != "")) {
                 rs.Add(s);
                 if (s.StartsWith("## ")) {
                     n = 0;
                     key = s.Substring(3);
+                    isClear = true;
                     continue;
                 }
 
                 if (Regex.IsMatch(s, @"^\*\*\d\.\*\*$")) {
                     n = int.Parse(s.Substring(2, 1));
+                    isClear = true;
                     continue;
                 }
-                var m = Regex.Match(s, @"^(.+) \(.{1,20}\)$");
-                if (m.Success && m.Groups[1].Value == key && n == 0) {
+
+                var m = Regex.Match(s, @"^(.+) \([^\d].{0,20}\)$");
+                if (isClear && m.Success && key == m.Groups[1].Value) {
                     rs[rs.Count - 1] = "?! " + rs[rs.Count - 1];
                     //rs.RemoveAt(rs.Count - 1);
                 }
 
+                isClear = false;
                 n = 0;
             }
             File.WriteAllLines(pathEx(path, "-2"), rs.Select(s => $"{s}\r\n"));
