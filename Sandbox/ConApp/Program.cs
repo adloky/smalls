@@ -2641,8 +2641,31 @@ namespace ConApp {
             var path = findPath(@"etym.md");
 
             //var rs = File.ReadAllLines(path).Where(s => !s.StartsWith("## ") && s != "" && s.Length < 20 && !Regex.IsMatch(s, @"^\*\*\d\.\*\*$") && !Regex.IsMatch(s, @"^.{0,20} \(\d\)$"));
-            var rs = File.ReadAllLines(path).Where(s => s.StartsWith("## ")).GroupBy(s => s).Where(g => g.Count() > 1).Select(g => g.Key).ToList();
-            File.WriteAllLines(pathEx(path, "-9"), rs.Select(s => $"{s}"));
+            //var rs = File.ReadAllLines(path).Where(s => s.StartsWith("## ")).GroupBy(s => s).Where(g => g.Count() > 1).Select(g => g.Key).ToList();
+            var key = (string)null;
+            var n = 0;
+            var rs = new List<string>();
+            foreach (var s in File.ReadAllLines(path).Where(s => s != "")) {
+                rs.Add(s);
+                if (s.StartsWith("## ")) {
+                    n = 0;
+                    key = s.Substring(3);
+                    continue;
+                }
+
+                if (Regex.IsMatch(s, @"^\*\*\d\.\*\*$")) {
+                    n = int.Parse(s.Substring(2, 1));
+                    continue;
+                }
+                var m = Regex.Match(s, @"^(.+) \(.{1,20}\)$");
+                if (m.Success && m.Groups[1].Value == key && n == 0) {
+                    rs[rs.Count - 1] = "?! " + rs[rs.Count - 1];
+                    //rs.RemoveAt(rs.Count - 1);
+                }
+
+                n = 0;
+            }
+            File.WriteAllLines(pathEx(path, "-2"), rs.Select(s => $"{s}\r\n"));
             /*
             var ruDic = File.ReadAllLines(@"d:\Projects\smalls\pho-sim-ru.txt").Select(s => DicItem.Parse(s)).GroupBy(d => d.pron).ToDictionary(g => g.Key, g => g.Select(d => d.key));
             var enDic = File.ReadAllLines(@"d:\Projects\smalls\bins\pron-ru.txt").Select(s => s.Split(' ')).ToDictionary(sp => sp[0], sp => pronSimplify(sp[1], true));
