@@ -2662,9 +2662,16 @@ namespace ConApp {
                 }
 
                 var keyEsc = Regex.Escape(key);
-                var m = Regex.Match(s, @"^K \(".Replace("K", keyEsc));
+                var m = Regex.Match(s, @"^\([^\)]+\)");
                 if (isClear && m.Success) {
-                    rs[rs.Count - 1] = rs[rs.Count - 1].Substring(key.Length).Trim();
+                    var pos = m.Value;
+                    try {
+                        var newPos = "(" + getPosName(pos.Substring(1, pos.Length - 2), PosNameTypes.RuAbbr) + ")";
+                    }
+                    catch {
+                        rs[rs.Count - 1] = "?! " + rs[rs.Count - 1];
+                    }
+                    
                     //rs.RemoveAt(rs.Count - 1);
                 }
 
