@@ -2662,17 +2662,17 @@ namespace ConApp {
                 }
 
                 var keyEsc = Regex.Escape(key);
-                var m = Regex.Match(s, @"^\([^\)]+\)");
-                if (isClear && m.Success) {
-                    var pos = m.Value;
+                var re = new Regex(@"\([^\(\)]{1,15}\.\)", RegexOptions.Compiled);
+                rs[rs.Count - 1] = handleString(rs[rs.Count - 1], re, x => {
                     try {
-                        var newPos = "(" + getPosName(pos.Substring(1, pos.Length - 2), PosNameTypes.RuAbbr) + ")";
+                        return "(" + getPosName(x.Substring(1, x.Length - 2), PosNameTypes.RuAbbr) + ")";
                     }
                     catch {
-                        rs[rs.Count - 1] = "?! " + rs[rs.Count - 1];
+                        return x;
                     }
-                    
-                    //rs.RemoveAt(rs.Count - 1);
+                });
+
+                if (isClear) {
                 }
 
                 isClear = false;
