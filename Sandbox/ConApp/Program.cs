@@ -2638,9 +2638,10 @@ namespace ConApp {
         //        .GroupBy(di => di.keyPos).Where(g => g.Count() > 1).Select(g => g.Key).ToList().ForEach(Console.WriteLine);
 
         static async Task Main(string[] args) {
-            var path = @"d:\english\etymonline\etym-ru.md";
-            
-            var rs = File.ReadAllLines(path).Where(s => !s.StartsWith("## ") && s != "" && s.Length < 20 && !Regex.IsMatch(s, @"^\*\*\d\.\*\*$") && !Regex.IsMatch(s, @"^.{0,20} \(\d\)$"));
+            var path = findPath(@"etym.md");
+
+            //var rs = File.ReadAllLines(path).Where(s => !s.StartsWith("## ") && s != "" && s.Length < 20 && !Regex.IsMatch(s, @"^\*\*\d\.\*\*$") && !Regex.IsMatch(s, @"^.{0,20} \(\d\)$"));
+            var rs = File.ReadAllLines(path).Where(s => s.StartsWith("## ")).GroupBy(s => s).Where(g => g.Count() > 1).Select(g => g.Key).ToList();
             File.WriteAllLines(pathEx(path, "-9"), rs.Select(s => $"{s}"));
             /*
             var ruDic = File.ReadAllLines(@"d:\Projects\smalls\pho-sim-ru.txt").Select(s => DicItem.Parse(s)).GroupBy(d => d.pron).ToDictionary(g => g.Key, g => g.Select(d => d.key));
@@ -2650,10 +2651,10 @@ namespace ConApp {
             
             rs.ForEach(Console.WriteLine);
             */
-            
+
             //Console.WriteLine(wa); // эфрЕйд
             //Console.WriteLine(Aline.Compute(wa, "острейший"));
-            
+
 
             /*
             var path = @"d:\english\etymonline\etym-short.md";
@@ -2708,7 +2709,7 @@ namespace ConApp {
             //splitText(@"d:\english-reader\reader-099-orig.txt");
             adaptEnglish(AdaptPoints.DeepSeek, @"d:\english\etymonline\etym-origin.md", adOpts, "Translate a piece of text from the English etymological dictionary into Russian (dont'n translate headers)."); // "Correct the errors in the text in English."
             */
-            
+
 
             //mdMonitor(); return; // mdPostCom
 
