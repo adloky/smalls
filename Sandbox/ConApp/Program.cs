@@ -232,6 +232,12 @@ namespace ConApp {
             return byFreq ? Math.Log10(n) :
                 (n <= 10) ? 7.545 + (10 - n) * 0.041 : 9 - 1.455 * Math.Log10(n);
         }
+
+        public static void obtainDic(Dictionary<string, DicItem> dic) {
+            var ds = dic.Values.ToList();
+            dic.Clear();
+            ds.ForEach(d => { dic[d.keyPos] = d; });
+        }
     }
 
     static class Program {
@@ -2652,9 +2658,18 @@ namespace ConApp {
         //        .GroupBy(di => di.keyPos).Where(g => g.Count() > 1).Select(g => g.Key).ToList().ForEach(Console.WriteLine);
 
         static async Task Main(string[] args) {
-            var dic = loadDic("cefr-9");
-            dic.Values.ToList().ForEach(d => { d.pos = getPosName(d.pos, PosNameTypes.RuFull); });
-            File.WriteAllLines(pathEx(findPath("cefr-9"), "-2"), dic.Values.Select(d => d.ToString()));
+            var path = findPath("cefr.txt");
+            var dic2 = loadDic("d:/2.txt");
+            dic2.Values.ToList().ForEach(d => { d.pos = getPosName(d.pos, PosNameTypes.RuFull); });
+            DicItem.obtainDic(dic2);
+            var rs = fileReadLines(path).Select(s => {
+                if (!DicItem.isValid(s)) return s;
+                var di = DicItem.Parse(s);
+                if (!dic2.ContainsKey(di.keyPos)) return s;
+                di.vals = dic2[di.keyPos].vals;
+                return di.ToString();
+            }).ToList();
+            File.WriteAllLines(pathEx(path, "-2"), rs);
             /*
             var cefrDic = loadDic("cefr");
             var subsDic = loadDic("freq-subs");
