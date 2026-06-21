@@ -2652,6 +2652,9 @@ namespace ConApp {
                     n = 0;
                     key = s.Substring(3);
                     isClear = true;
+                    if (!Regex.IsMatch(s, @"^## -?([$C]|[$C][$C\-']*[$C])[-\.]?$".Replace("$C", "éa-z"), RegexOptions.IgnoreCase)) {
+                        rs[rs.Count - 1] = "?! " + rs[rs.Count - 1];
+                    }
                     continue;
                 }
 
@@ -2664,7 +2667,7 @@ namespace ConApp {
                 var keyEsc = Regex.Escape(key);
                 var re = new Regex(@"\([^\(\)]{1,15}\.\)", RegexOptions.Compiled);
                 if (s.Length < 20) {
-                    rs[rs.Count - 1] = "?! " + rs[rs.Count - 1];
+                    // rs[rs.Count - 1] = "?! " + rs[rs.Count - 1];
                 }
 
                 isClear = false;
