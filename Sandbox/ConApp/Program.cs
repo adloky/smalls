@@ -219,6 +219,19 @@ namespace ConApp {
             }
             return sb.ToString();
         }
+
+        public double freqK {
+            get => getFreqK(rank.Value, rankPad == 9);
+        }
+
+        public static double getFreqDiff(double p) {
+            return Math.Log10(p);
+        }
+
+        static double getFreqK(int n, bool byFreq = false) {
+            return byFreq ? Math.Log10(n) :
+                (n <= 10) ? 7.545 + (10 - n) * 0.041 : 9 - 1.455 * Math.Log10(n);
+        }
     }
 
     static class Program {
@@ -1611,6 +1624,7 @@ namespace ConApp {
         static Regex adaptKeepRe = new Regex(@"^((Chapter|#+) [^\r\n]+|_)(\r?\n|$)", RegexOptions.IgnoreCase | RegexOptions.Compiled);
 
         static void splitText(string path, int size = 4000) {
+            path = findPath(path, "txt");
             var ss = File.ReadAllLines(path);
             var sz = 0;
             var rs = new List<string>();
@@ -2638,42 +2652,24 @@ namespace ConApp {
         //        .GroupBy(di => di.keyPos).Where(g => g.Count() > 1).Select(g => g.Key).ToList().ForEach(Console.WriteLine);
 
         static async Task Main(string[] args) {
-            var path = findPath(@"etym.md");
+            var dic = loadDic("cefr-9");
+            dic.Values.ToList().ForEach(d => { d.pos = getPosName(d.pos, PosNameTypes.RuFull); });
+            File.WriteAllLines(pathEx(findPath("cefr-9"), "-2"), dic.Values.Select(d => d.ToString()));
+            /*
+            var cefrDic = loadDic("cefr");
+            var subsDic = loadDic("freq-subs");
+            var f20kDic = loadDic("freq-20k");
+            var i = 1;
+            var ds = subsDic.Values.Take(6000).ToList();
+            ds.ForEach(d => { d.rank = i++; d.rankPad = 0; });
+            ds.AddRange(f20kDic.Values.Take(6000));
+            ds.ForEach(d => { d.rank += 900000; d.vals.Clear(); d.pron = null; });
+            ds = ds.GroupBy(d => d.keyPos).Select(g => g.Last()).ToList();
+            ds = ds.Where(d => !cefrDic.ContainsKey(d.keyPos)).OrderBy(d => d.rank).ToList();
+            ds.ForEach(d => { d.pos = getPosName(d.pos, PosNameTypes.EnFull); });
+            File.WriteAllLines(pathEx(findPath("cefr", "txt"), "-2"), ds.Select(d => d.ToString()));
+            */
 
-            //var rs = File.ReadAllLines(path).Where(s => !s.StartsWith("## ") && s != "" && s.Length < 20 && !Regex.IsMatch(s, @"^\*\*\d\.\*\*$") && !Regex.IsMatch(s, @"^.{0,20} \(\d\)$"));
-            //var rs = File.ReadAllLines(path).Where(s => s.StartsWith("## ")).GroupBy(s => s).Where(g => g.Count() > 1).Select(g => g.Key).ToList();
-            var key = (string)null;
-            var n = 0;
-            var rs = new List<string>();
-            var isClear = false;
-            foreach (var s in File.ReadAllLines(path).Where(s => s != "")) {
-                rs.Add(s);
-                if (s.StartsWith("## ")) {
-                    n = 0;
-                    key = s.Substring(3);
-                    isClear = true;
-                    if (!Regex.IsMatch(s, @"^## -?([$C]|[$C][$C\-']*[$C])[-\.]?$".Replace("$C", "éa-z"), RegexOptions.IgnoreCase)) {
-                        rs[rs.Count - 1] = "?! " + rs[rs.Count - 1];
-                    }
-                    continue;
-                }
-
-                if (Regex.IsMatch(s, @"^\*\*\d\.\*\*$")) {
-                    n = int.Parse(s.Substring(2, 1));
-                    isClear = true;
-                    continue;
-                }
-
-                var keyEsc = Regex.Escape(key);
-                var re = new Regex(@"\([^\(\)]{1,15}\.\)", RegexOptions.Compiled);
-                if (s.Length < 20) {
-                    // rs[rs.Count - 1] = "?! " + rs[rs.Count - 1];
-                }
-
-                isClear = false;
-                n = 0;
-            }
-            File.WriteAllLines(pathEx(path, "-2"), rs.Select(s => $"{s}\r\n"));
             /*
             var ruDic = File.ReadAllLines(@"d:\Projects\smalls\pho-sim-ru.txt").Select(s => DicItem.Parse(s)).GroupBy(d => d.pron).ToDictionary(g => g.Key, g => g.Select(d => d.key));
             var enDic = File.ReadAllLines(@"d:\Projects\smalls\bins\pron-ru.txt").Select(s => s.Split(' ')).ToDictionary(sp => sp[0], sp => pronSimplify(sp[1], true));
@@ -2731,14 +2727,16 @@ namespace ConApp {
             /*
             var adOpts = new AdaptEnglishOptions();
             adOpts.check = (o, r) => {
-                if (r.Any(s => s == "_")) throw new Exception();
-                var ho = string.Join("|", o.Where(s => s.StartsWith("## ")));
-                var hr = string.Join("|", r.Where(s => s.StartsWith("## ")));
-                if (ho != hr) throw new Exception("H diff");
+                var ds = r.Select(s => DicItem.Parse(s)).ToList();
+                ds.ForEach(d => { d.vals.Clear(); });
+                var os = string.Join("|", o);
+                var rs = string.Join("|", ds.Select(d => d.ToString()));
+                if (os != rs) throw new Exception();
             };
 
-            //splitText(@"d:\english-reader\reader-099-orig.txt");
-            adaptEnglish(AdaptPoints.DeepSeek, @"d:\english\etymonline\etym-origin.md", adOpts, "Translate a piece of text from the English etymological dictionary into Russian (dont'n translate headers)."); // "Correct the errors in the text in English."
+            //splitText(@"reader-999-orig.txt",500);
+            var q = "A list of English words is given in the format 'word [POS]'.  One, Two, or at most three, meanings of these word in Russian are required.\nPrint only the final list of meanings in the format: 'word {POS} meanings'. Preserve the word order and number. Do not add explanations, introductory phrases, or conclusions. ";
+            adaptEnglish(AdaptPoints.DeepSeek, @"reader-999-orig.txt", adOpts, q); // "Correct the errors in the text in English."
             */
 
 
