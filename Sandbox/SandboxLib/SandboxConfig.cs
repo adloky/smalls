@@ -10,7 +10,7 @@ namespace Sandbox {
     public class SandboxConfig {
         static Dictionary<string, string> _default;
 
-        static Regex commRe = new Regex(@" *//.*", RegexOptions.Compiled);
+        static Regex commRe = new Regex(@"^ *//.*| +// .*", RegexOptions.Compiled);
 
         public static void Reread() {
             var kvs = File.ReadAllLines(@"d:/.sandbox").ToList();
