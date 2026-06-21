@@ -117,11 +117,14 @@ namespace ConApp {
         public int characterOffsetBegin { get; set; }
         public int characterOffsetEnd { get; set; }
         public string pos { get; set; }
+        public string lemma { get; set; }
     }
 
     public class Pos {
         public string s { get; set; }
         public string pos { get; set; }
+
+        public string lemma { get; set; }
 
         public override string ToString() {
             return pos == null ? s : $"{s} {{{pos}}}";
@@ -575,7 +578,7 @@ namespace ConApp {
 
         static string fgAmp = "'’";
         static Regex freqGoupSRe = new Regex($"[{fgAmp}]s$", RegexOptions.IgnoreCase | RegexOptions.Compiled);
-        static Regex freqGoupSymRe = new Regex(@"[^a-z]", RegexOptions.IgnoreCase | RegexOptions.Compiled);
+        static Regex freqGroupSymRe = new Regex(@"[^a-z]", RegexOptions.IgnoreCase | RegexOptions.Compiled);
         static Regex freqGroupRe = new Regex(@"\t|[\w][\w'']+[\w]|[\w]+".Replace(@"\t", @"</?[a-z]('[^']*'|""[^""]*""|[^/>'""]+)*/?>").Replace(@"\w", "a-z0-9").Replace("''", fgAmp), RegexOptions.IgnoreCase | RegexOptions.Compiled);
         static string[][] freqGroupColors = new[] { new[] { "#ffbc8c", "#99ff99", "#99cbff", "#b399ff" }, new[] { "#cc5400", "#00b200", "#0079ff", "#8000ff" } };
 
@@ -583,7 +586,7 @@ namespace ConApp {
             return getMatches(str, freqGroupRe).SelectMany(t => {
                 if (t.m == null) return Enumerable.Repeat(new Pos() { s = t.x }, 1);
                 var xs = !freqGoupSRe.IsMatch(t.x) ? Enumerable.Repeat(t.x, 1) : new[] { t.x.Substring(0, t.x.Length - 2), t.x.Substring(t.x.Length - 2, 2) };
-                return xs.Select(x => new Pos() { s = x, pos = freqGoupSymRe.IsMatch(x) ? null : "прочее" });
+                return xs.Select(x => new Pos() { s = x, pos = freqGroupSymRe.IsMatch(x) ? null : "прочее" });
             });
         }
 
@@ -592,7 +595,7 @@ namespace ConApp {
             dic = dic ?? getFreqGroups(wPos);
             var xs = wPos ? getPos(s) : getNullPos(s);
             foreach (var x in xs) {
-                yield return posEx.Contains(x.pos) || freqGoupSymRe.IsMatch(x.s) || x.s.Length < 2 ? (x: x.s, g: -1, pos: null)
+                yield return posEx.Contains(x.pos) || freqGroupSymRe.IsMatch(x.s) || x.s.Length < 2 ? (x: x.s, g: -1, pos: null)
                     : (x: x.s, g: getDicVal((new DicItem() { key = x.s.ToLower(), pos = x.pos }).ToString(), wPos ? freqGroupColors[0].Length - 1 : -1, dic), pos: x.pos);
             }
         }
@@ -1972,7 +1975,7 @@ namespace ConApp {
 
         static IEnumerable<Pos> getPos(string str) {
             // "annotators":"tokenize,ssplit,pos","outputFormat":"json"
-            var url = $"http://localhost:9000/?properties={{{WebUtility.UrlEncode(@"""annotators"":""tokenize,ssplit,pos"",""outputFormat"":""json""")}}}";
+            var url = $"http://localhost:9000/?properties={{{WebUtility.UrlEncode(@"""annotators"":""tokenize,ssplit,pos,lemma"",""outputFormat"":""json""")}}}";
 
             var i = 0;
             foreach (var s in nSplit(str, 16 * 1024)) {
@@ -2006,7 +2009,7 @@ namespace ConApp {
                         yield return new Pos() { s = sub };
                     }
                     sub = s.Substring(t.characterOffsetBegin, t.characterOffsetEnd - t.characterOffsetBegin);
-                    yield return new Pos() { s = sub, pos = p };
+                    yield return new Pos() { s = sub, pos = p, lemma = t.lemma };
                     b = t.characterOffsetEnd;
                 }
 
@@ -2657,45 +2660,37 @@ namespace ConApp {
         //File.ReadAllLines(@"d:\Projects\smalls\l-dic.txt").Where(x => DicItem.isValid(x)).Select(s => DicItem.Parse(s))
         //        .GroupBy(di => di.keyPos).Where(g => g.Count() > 1).Select(g => g.Key).ToList().ForEach(Console.WriteLine);
 
+
+        // ===MAIN
         static async Task Main(string[] args) {
             var f20kDic = loadDic("freq-20k");
             var subsDic = loadDic("freq-subs");
             f20kDic.Values.ToList().ForEach(d => {
-                if (d.pos != "существительное" && d.pos != "глагол" && d.pos != "прилагательное" && d.pos != "наречие") f20kDic.Remove(d.keyPos);
-                d.pos = getPosName(d.pos, PosNameTypes.RuAbbr);
+                if (!"nvjr".Contains(getPosName(d.pos, PosNameTypes.EnAbbr))) f20kDic.Remove(d.keyPos);
             });
-            DicItem.obtainDic(f20kDic);
 
             var i = 1;
             subsDic.Values.ToList().ForEach(d => {
                 d.rank = i++;
                 d.rankPad = 0;
-                var oldKeyPos = d.keyPos;
-                d.pos = getPosName(d.pos, PosNameTypes.RuAbbr);
-                if (!f20kDic.ContainsKey(d.keyPos)) subsDic.Remove(oldKeyPos);
+                if (!f20kDic.ContainsKey(d.keyPos)) subsDic.Remove(d.keyPos);
             });
-            DicItem.obtainDic(subsDic);
 
             var rs = f20kDic.Values.Concat(subsDic.Values).GroupBy(d => d.keyPos)
-                .Select(g => (k: g.Key, f: g.Count() == 1 ? g.First().freqK - 2.0 : g.First().freqK / 2 + g.Last().freqK / 2))
-                .OrderByDescending(x => x.f).Take(6000).Select(x => $"{x.k} f{Math.Min(7, x.f * 5 - 16):0}".Replace(",", "")).ToList();
+                .Select(g => (k: g.Key, f: g.Count() == 1 ? g.First().freqK - 0.6 : g.First().freqK * 0.6 + g.Last().freqK * 0.4))
+                .OrderByDescending(x => x.f).Take(9000).Select(x => $"{x.k} {x.f:0.00000} [Fr]".Replace(",", ".")).ToList();
 
             i = 1;
-            File.WriteAllLines(@"d:/1.txt", rs.Select(r => $"{i++:0000} {r}"));
+            File.WriteAllLines(@"d:/1.txt", rs.Select(r => $"{i++:00000} {r}"));
 
             /*
-            var cefrDic = loadDic("cefr");
-            var subsDic = loadDic("freq-subs");
-            var f20kDic = loadDic("freq-20k");
-            var i = 1;
-            var ds = subsDic.Values.Take(6000).ToList();
-            ds.ForEach(d => { d.rank = i++; d.rankPad = 0; });
-            ds.AddRange(f20kDic.Values.Take(6000));
-            ds.ForEach(d => { d.rank += 900000; d.vals.Clear(); d.pron = null; });
-            ds = ds.GroupBy(d => d.keyPos).Select(g => g.Last()).ToList();
-            ds = ds.Where(d => !cefrDic.ContainsKey(d.keyPos)).OrderBy(d => d.rank).ToList();
-            ds.ForEach(d => { d.pos = getPosName(d.pos, PosNameTypes.EnFull); });
-            File.WriteAllLines(pathEx(findPath("cefr", "txt"), "-2"), ds.Select(d => d.ToString()));
+            var ss = loadDic("mnem-dic").Values
+                .Select(d => (w: d.key, b: getDicVal(d.key.ToLower(), d.key.ToLower(), families)))
+                .Where(wb => wb.w.ToLower() != wb.b.ToLower())
+                .Select(wb => $"{wb.w} ({wb.b})").ToList();
+
+            ss.Print();
+            Console.WriteLine(ss.Count);
             */
 
             /*
@@ -2709,38 +2704,6 @@ namespace ConApp {
 
             //Console.WriteLine(wa); // эфрЕйд
             //Console.WriteLine(Aline.Compute(wa, "острейший"));
-
-
-            /*
-            var path = @"d:\english\etymonline\etym-short.md";
-            var txt = File.ReadAllText(path);
-            var sss = Regex.Split(txt, @"^## ", RegexOptions.Multiline).Where(s => s != "").Select(s => Regex.Split($"## {s}", @"\r?\n").Where(_s => _s != "").ToArray()).ToList();
-            var hNormRe = new Regex(@"^([a-z]|[a-z][a-z- ]*[a-z])$", RegexOptions.IgnoreCase);
-            var rs = new List<string>();
-            var sum = 0;
-            foreach (var ss in sss) {
-                var _sum = ss.Sum(s => s.Length);
-                if (sum + _sum > 4000) {
-                    rs.Add("---");
-                    sum = 0;
-                }
-                rs.AddRange(ss);
-                sum += _sum;
-            }
-
-            if (rs.Last() != "---") rs.Add("---");
-
-            File.WriteAllText(pathEx(path, "-2"), string.Join("\r\n\r\n", rs));
-            */
-
-
-            // var rs = File.ReadAllLines(path).Where(s => !(new[] { "advpro", "apro", "anum", "conj", "intj", "part", "", "spro", "pr", "num" }).Contains(s.Split(' ')[1])).ToList();
-            // File.WriteAllLines(pathEx(path, "-2"), rs);
-
-            // var posDic = new Dictionary<string, string>() { { "s", "сущ" }, { "e", "имя" }, { "a", "прил" }, { "v", "гл" }, { "adv", "нар" } };
-            // var rs = File.ReadAllLines(path).Select(s => { var sp = s.Split(' '); return $"{sp[0]} {{{posDic[sp[1]]}}}"; }).ToList();
-
-            // =====================================================
 
             //var ssn = "Friends/S02"; for (var i = 16; i <= 24; i++) { Snapshots($"{ssn}/{ssn.Split('/')[1]}E{i:00}"); }
 
