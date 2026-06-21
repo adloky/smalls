@@ -228,7 +228,7 @@ namespace ConApp {
             return Math.Log10(p);
         }
 
-        static double getFreqK(int n, bool byFreq = false) {
+        public static double getFreqK(int n, bool byFreq = false) {
             return byFreq ? Math.Log10(n) :
                 (n <= 10) ? 7.545 + (10 - n) * 0.041 : 9 - 1.455 * Math.Log10(n);
         }
@@ -2658,18 +2658,31 @@ namespace ConApp {
         //        .GroupBy(di => di.keyPos).Where(g => g.Count() > 1).Select(g => g.Key).ToList().ForEach(Console.WriteLine);
 
         static async Task Main(string[] args) {
-            var path = findPath("cefr.txt");
-            var dic2 = loadDic("d:/2.txt");
-            dic2.Values.ToList().ForEach(d => { d.pos = getPosName(d.pos, PosNameTypes.RuFull); });
-            DicItem.obtainDic(dic2);
-            var rs = fileReadLines(path).Select(s => {
-                if (!DicItem.isValid(s)) return s;
-                var di = DicItem.Parse(s);
-                if (!dic2.ContainsKey(di.keyPos)) return s;
-                di.vals = dic2[di.keyPos].vals;
-                return di.ToString();
-            }).ToList();
-            File.WriteAllLines(pathEx(path, "-2"), rs);
+            var f20kDic = loadDic("freq-20k");
+            var subsDic = loadDic("freq-subs");
+            f20kDic.Values.ToList().ForEach(d => {
+                if (d.pos != "существительное" && d.pos != "глагол" && d.pos != "прилагательное" && d.pos != "наречие") f20kDic.Remove(d.keyPos);
+                d.pos = getPosName(d.pos, PosNameTypes.RuAbbr);
+            });
+            DicItem.obtainDic(f20kDic);
+
+            var i = 1;
+            subsDic.Values.ToList().ForEach(d => {
+                d.rank = i++;
+                d.rankPad = 0;
+                var oldKeyPos = d.keyPos;
+                d.pos = getPosName(d.pos, PosNameTypes.RuAbbr);
+                if (!f20kDic.ContainsKey(d.keyPos)) subsDic.Remove(oldKeyPos);
+            });
+            DicItem.obtainDic(subsDic);
+
+            var rs = f20kDic.Values.Concat(subsDic.Values).GroupBy(d => d.keyPos)
+                .Select(g => (k: g.Key, f: g.Count() == 1 ? g.First().freqK - 2.0 : g.First().freqK / 2 + g.Last().freqK / 2))
+                .OrderByDescending(x => x.f).Take(6000).Select(x => $"{x.k} f{Math.Min(7, x.f * 5 - 16):0}".Replace(",", "")).ToList();
+
+            i = 1;
+            File.WriteAllLines(@"d:/1.txt", rs.Select(r => $"{i++:0000} {r}"));
+
             /*
             var cefrDic = loadDic("cefr");
             var subsDic = loadDic("freq-subs");
