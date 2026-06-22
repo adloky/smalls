@@ -2663,34 +2663,48 @@ namespace ConApp {
 
         // ===MAIN
         static async Task Main(string[] args) {
-            var f20kDic = loadDic("freq-20k");
-            var subsDic = loadDic("freq-subs");
-            f20kDic.Values.ToList().ForEach(d => {
-                if (!"nvjr".Contains(getPosName(d.pos, PosNameTypes.EnAbbr))) f20kDic.Remove(d.keyPos);
+            var path = findPath("mnem-dic");
+            var mnemDic = loadDic(path);
+            var labReplRe = new Regex(@"\[([ABC]?[0-3])\]", RegexOptions.Compiled);
+            var fs = new[] { "cefr", "freq-20k", "cefr-orig", "ya-dic", "freq-g", "l-dic" };
+            Func<string, int> fi = s => Enumerable.Repeat("", 1).Concat(fs).Select((x, i) => (x, i)).Where(y => y.x.Contains(s)).Select(y => y.i).FirstOrDefault() - 1;
+            var ds = fs.Select(f => loadDic(f)).ToList();
+
+            ds[fi("-g")].Values.ToList().ForEach(di => { di.vals = di.vals.Take(5).ToList(); });
+            ds[fi("-g")] = ds[fi("-g")].Values.Concat(ds[fi("l-")].Values).GroupBy(di => di.keyPos)
+                .ToDictionary(g => g.Key, g => { var rDi = DicItem.Parse(g.Key); rDi.vals = g.SelectMany(di => di.vals).ToList(); return rDi; });
+            ds.RemoveAt(ds.Count-1);
+
+            var ks = mnemDic.Keys.ToList();
+            var vs = ds.Select(d => d.ToDictionary(x => x.Key, x => string.Join("; ", x.Value.vals).Replace("\"", "\\\""))).ToList();
+
+            foreach (var il in new[] { (i: 0, l: "[AI]"), (i: fi("ya"), l: "[YA]") }) {
+                ds[il.i].Values.ToList().ForEach(di => { di.vals = di.vals.Select(x => labReplRe.Replace(x, il.l)).ToList(); });
+            }
+
+            ks.ForEach(k => {
+                var emptyDi = DicItem.Parse("x {x}");
+                var vals = Enumerable.Range(0, ds.Count).SelectMany(i => getDicVal(k, emptyDi, ds[i]).vals);
+                var cs = string.Join(", ", coinCalc(vals));
+                vs[0][k] = cs == "" ? "-" : cs;
             });
 
-            var i = 1;
-            subsDic.Values.ToList().ForEach(d => {
-                d.rank = i++;
-                d.rankPad = 0;
-                if (!f20kDic.ContainsKey(d.keyPos)) subsDic.Remove(d.keyPos);
+            //getDicVal(k, "-", vs[i]);
+            ks.ForEach(k => {
+                if (vs[0][k] != "")
+                    mnemDic[k].vals.Add(vs[0][k]);
             });
 
-            var rs = f20kDic.Values.Concat(subsDic.Values).GroupBy(d => d.keyPos)
-                .Select(g => (k: g.Key, f: g.Count() == 1 ? g.First().freqK - 0.6 : g.First().freqK * 0.6 + g.Last().freqK * 0.4))
-                .OrderByDescending(x => x.f).Take(9000).Select(x => $"{x.k} {x.f:0.00000} [Fr]".Replace(",", ".")).ToList();
-
-            i = 1;
-            File.WriteAllLines(@"d:/1.txt", rs.Select(r => $"{i++:00000} {r}"));
+            File.WriteAllLines(pathEx(path, "-9"), mnemDic.Values.Select(x => x.ToString()));
 
             /*
-            var ss = loadDic("mnem-dic").Values
-                .Select(d => (w: d.key, b: getDicVal(d.key.ToLower(), d.key.ToLower(), families)))
-                .Where(wb => wb.w.ToLower() != wb.b.ToLower())
-                .Select(wb => $"{wb.w} ({wb.b})").ToList();
+            var f20kDic = loadDic("freq-20k");
+            var mDic = loadDic("mnem-dic");
+            var rs = mDic.Values.GroupBy(d => d.key)
+                .SelectMany(g => g.Where(d => g.First().freqK - d.freqK >= 1)).ToList();
 
-            ss.Print();
-            Console.WriteLine(ss.Count);
+            rs.Print();
+            Console.WriteLine(rs.Count);
             */
 
             /*
