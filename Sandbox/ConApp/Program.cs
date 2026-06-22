@@ -2664,7 +2664,13 @@ namespace ConApp {
         // ===MAIN
         static async Task Main(string[] args) {
             var path = findPath("mnem-dic");
-            var mnemDic = loadDic(path);
+            var mDic = loadDic(path);
+            var cDic = loadDic("consonants");
+
+            mDic.Values.Where(d => cDic.ContainsKey(d.keyPos)).ToList().ForEach(d => mDic.Remove(d.keyPos));
+
+
+            /*
             var labReplRe = new Regex(@"\[([ABC]?[0-3])\]", RegexOptions.Compiled);
             var fs = new[] { "cefr", "freq-20k", "cefr-orig", "ya-dic", "freq-g", "l-dic" };
             Func<string, int> fi = s => Enumerable.Repeat("", 1).Concat(fs).Select((x, i) => (x, i)).Where(y => y.x.Contains(s)).Select(y => y.i).FirstOrDefault() - 1;
@@ -2695,7 +2701,9 @@ namespace ConApp {
                     mnemDic[k].vals.Add(vs[0][k]);
             });
 
-            File.WriteAllLines(pathEx(path, "-9"), mnemDic.Values.Select(x => x.ToString()));
+            */
+
+            File.WriteAllLines(pathEx(path, "-9"), mDic.Values.Select(x => x.ToString()));
 
             /*
             var f20kDic = loadDic("freq-20k");
