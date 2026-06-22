@@ -2691,11 +2691,16 @@ namespace ConApp {
 
         // ===MAIN
         static async Task Main(string[] args) {
-            
+            var f20kDic = loadDic("freq-20k");
+            var subsDic = loadDic("freq-subs");
+
             var path = findPath("mnem-dic");
             var mDic = loadDic(path);
 
-            var f20kDic = loadDic("freq-20k");
+            var upDic = f20kDic.Keys.Where(s => s.ToLower() != s).ToDictionary(s => s.ToLower(), s => s);
+            subsDic.Values.Where(d => upDic.ContainsKey(d.keyPos)).Select(d => upDic[d.keyPos]).Print();
+
+            /*
             mDic.Values.GroupBy(d => d.key).Where(g => g.Count() > 1).ToList().ForEach(g => {
                 var ds = g.OrderByDescending(d => d.freqK).ToArray();
                 var vals = ds.Select((di, i) => $"({(i == 0 ? "" : di.pos + ", ")}{di.freqK:0.00000}) {di.vals[1]}").ToList();
@@ -2704,14 +2709,16 @@ namespace ConApp {
                 ds[0].vals.AddRange(vals);
                 ds.Skip(1).ToList().ForEach(d => mDic.Remove(d.keyPos));
             });
-            
 
-            File.WriteAllLines(pathEx(path, "-9"), mDic.Values.OrderByDescending(d => d.freqK).ToStringS());
+            //File.WriteAllLines(pathEx(path, "-9"), mDic.Values.OrderByDescending(d => d.freqK).ToStringS());
+            */
+
+
 
             //rs.Print();
-            
-            
-            
+
+
+
 
             /*
             var ruDic = File.ReadAllLines(@"d:\Projects\smalls\pho-sim-ru.txt").Select(s => DicItem.Parse(s)).GroupBy(d => d.pron).ToDictionary(g => g.Key, g => g.Select(d => d.key));
