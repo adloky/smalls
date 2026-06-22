@@ -223,8 +223,33 @@ namespace ConApp {
             return sb.ToString();
         }
 
+        static Regex freqKValRe = new Regex(@"^\d+\.\d+ \[Fr\]$", RegexOptions.Compiled);
+
+        private int getFreqKIndex() {
+            return vals.Select((v, i) => (v: v, i: i + 1))
+                .Where(vi => freqKValRe.IsMatch(vi.v))
+                .Select(vi => vi.i).FirstOrDefault() - 1;
+        }
+
         public double freqK {
-            get => getFreqK(rank.Value, rankPad == 9);
+            get {
+                var vi = getFreqKIndex();
+                if (vi < 0) return getFreqK(rank.Value, rankPad == 9);
+                var v = vals[vi];
+                v = v.Substring(0, v.Length - 5);
+                return double.Parse(v);
+            }
+
+            set {
+                var vi = getFreqKIndex();
+                if (vi < 0) throw new Exception();
+
+                vals[vi] = $"{value:0.00000} [Fr]";
+            }
+        }
+
+        public static double freqKSum(IEnumerable<double> fs) {
+            return Math.Log10(fs.Sum(f => Math.Pow(10.0, f)));
         }
 
         public static double getFreqDiff(double p) {
@@ -248,6 +273,9 @@ namespace ConApp {
         static Program() {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
+
+            CultureInfo.CurrentCulture = CultureInfo.InvariantCulture;
+            CultureInfo.DefaultThreadCurrentCulture = CultureInfo.InvariantCulture;
 
             // extend cmu
             cmu.Where(kv => kv.Key.Length == 2 && "AEIOU".Contains(kv.Key[0])).ToList().ForEach(kv => {
@@ -2663,20 +2691,26 @@ namespace ConApp {
 
         // ===MAIN
         static async Task Main(string[] args) {
+            
             var path = findPath("mnem-dic");
             var mDic = loadDic(path);
 
-            File.WriteAllLines(pathEx(path, "-9"), mDic.Values.Select(x => x.ToString()));
-
-            
             var f20kDic = loadDic("freq-20k");
-            var rs = mDic.Values.GroupBy(d => d.key)
-                .SelectMany(g => g.Where(d => g.OrderByDescending(x => x.freqK).First().freqK - d.freqK < 0.6)).OrderByDescending(d => d.freqK).ToList();
+            mDic.Values.GroupBy(d => d.key).Where(g => g.Count() > 1).ToList().ForEach(g => {
+                var ds = g.OrderByDescending(d => d.freqK).ToArray();
+                var vals = ds.Select((di, i) => $"({(i == 0 ? "" : di.pos + ", ")}{di.freqK:0.00000}) {di.vals[1]}").ToList();
+                ds[0].vals = new List<string> { $"{ds[0].freqK} [Fr]" };
+                ds[0].freqK = DicItem.freqKSum(ds.Select(d => d.freqK));
+                ds[0].vals.AddRange(vals);
+                ds.Skip(1).ToList().ForEach(d => mDic.Remove(d.keyPos));
+            });
+            
 
-            File.WriteAllLines(pathEx(path, "-9"), rs.ToStringS());
+            File.WriteAllLines(pathEx(path, "-9"), mDic.Values.OrderByDescending(d => d.freqK).ToStringS());
 
             //rs.Print();
-            Console.WriteLine(rs.Count);
+            
+            
             
 
             /*
