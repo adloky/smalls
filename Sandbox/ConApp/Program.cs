@@ -2665,55 +2665,19 @@ namespace ConApp {
         static async Task Main(string[] args) {
             var path = findPath("mnem-dic");
             var mDic = loadDic(path);
-            var cDic = loadDic("consonants");
-
-            mDic.Values.Where(d => cDic.ContainsKey(d.keyPos)).ToList().ForEach(d => mDic.Remove(d.keyPos));
-
-
-            /*
-            var labReplRe = new Regex(@"\[([ABC]?[0-3])\]", RegexOptions.Compiled);
-            var fs = new[] { "cefr", "freq-20k", "cefr-orig", "ya-dic", "freq-g", "l-dic" };
-            Func<string, int> fi = s => Enumerable.Repeat("", 1).Concat(fs).Select((x, i) => (x, i)).Where(y => y.x.Contains(s)).Select(y => y.i).FirstOrDefault() - 1;
-            var ds = fs.Select(f => loadDic(f)).ToList();
-
-            ds[fi("-g")].Values.ToList().ForEach(di => { di.vals = di.vals.Take(5).ToList(); });
-            ds[fi("-g")] = ds[fi("-g")].Values.Concat(ds[fi("l-")].Values).GroupBy(di => di.keyPos)
-                .ToDictionary(g => g.Key, g => { var rDi = DicItem.Parse(g.Key); rDi.vals = g.SelectMany(di => di.vals).ToList(); return rDi; });
-            ds.RemoveAt(ds.Count-1);
-
-            var ks = mnemDic.Keys.ToList();
-            var vs = ds.Select(d => d.ToDictionary(x => x.Key, x => string.Join("; ", x.Value.vals).Replace("\"", "\\\""))).ToList();
-
-            foreach (var il in new[] { (i: 0, l: "[AI]"), (i: fi("ya"), l: "[YA]") }) {
-                ds[il.i].Values.ToList().ForEach(di => { di.vals = di.vals.Select(x => labReplRe.Replace(x, il.l)).ToList(); });
-            }
-
-            ks.ForEach(k => {
-                var emptyDi = DicItem.Parse("x {x}");
-                var vals = Enumerable.Range(0, ds.Count).SelectMany(i => getDicVal(k, emptyDi, ds[i]).vals);
-                var cs = string.Join(", ", coinCalc(vals));
-                vs[0][k] = cs == "" ? "-" : cs;
-            });
-
-            //getDicVal(k, "-", vs[i]);
-            ks.ForEach(k => {
-                if (vs[0][k] != "")
-                    mnemDic[k].vals.Add(vs[0][k]);
-            });
-
-            */
 
             File.WriteAllLines(pathEx(path, "-9"), mDic.Values.Select(x => x.ToString()));
 
-            /*
+            
             var f20kDic = loadDic("freq-20k");
-            var mDic = loadDic("mnem-dic");
             var rs = mDic.Values.GroupBy(d => d.key)
-                .SelectMany(g => g.Where(d => g.First().freqK - d.freqK >= 1)).ToList();
+                .SelectMany(g => g.Where(d => g.OrderByDescending(x => x.freqK).First().freqK - d.freqK < 0.6)).OrderByDescending(d => d.freqK).ToList();
 
-            rs.Print();
+            File.WriteAllLines(pathEx(path, "-9"), rs.ToStringS());
+
+            //rs.Print();
             Console.WriteLine(rs.Count);
-            */
+            
 
             /*
             var ruDic = File.ReadAllLines(@"d:\Projects\smalls\pho-sim-ru.txt").Select(s => DicItem.Parse(s)).GroupBy(d => d.pron).ToDictionary(g => g.Key, g => g.Select(d => d.key));

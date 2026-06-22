@@ -15,5 +15,9 @@ namespace Sandbox {
                 Console.WriteLine(o);
             }
         }
+
+        public static IEnumerable<string> ToStringS(this IEnumerable<object> os) {
+            return os.Select(o => o.ToString());
+        }
     }
 }
