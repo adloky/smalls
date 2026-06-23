@@ -270,6 +270,8 @@ namespace ConApp {
 
     static class Program {
 
+        static volatile bool ctrlC = false;
+
         static Program() {
             Console.CancelKeyPress += (o, e) => { ctrlC = true; e.Cancel = true; };
             Console.OutputEncoding = Encoding.UTF8;
@@ -2683,7 +2685,94 @@ namespace ConApp {
             return ps.First();
         }
 
-        static volatile bool ctrlC = false;
+        #region Foreign to English
+
+        private static readonly Dictionary<char, string> gr2enDic = new Dictionary<char, string> {
+            {'Α', "A"},  {'Β', "B"},  {'Γ', "G"},  {'Δ', "D"},  {'Ε', "E"}, {'Ζ', "Z"},  {'Η', "E"},  {'Θ', "Th"}, {'Ι', "I"},  {'Κ', "K"},
+            {'Λ', "L"},  {'Μ', "M"},  {'Ν', "N"},  {'Ξ', "X"},  {'Ο', "O"}, {'Π', "P"},  {'Ρ', "R"},  {'Σ', "S"},  {'Τ', "T"},  {'Υ', "Y"},
+            {'Φ', "Ph"}, {'Χ', "Ch"}, {'Ψ', "Ps"}, {'Ω', "O"},
+            {'α', "a"},  {'β', "b"},  {'γ', "g"},  {'δ', "d"},  {'ε', "e"}, {'ζ', "z"},  {'η', "e"},  {'θ', "th"}, {'ι', "i"},  {'κ', "k"},
+            {'λ', "l"},  {'μ', "m"},  {'ν', "n"},  {'ξ', "x"},  {'ο', "o"}, {'π', "p"},  {'ρ', "r"},  {'σ', "s"},  {'ς', "s"},  {'τ', "t"},
+            {'υ', "y"},  {'φ', "ph"}, {'χ', "ch"}, {'ψ', "ps"}, {'ω', "o"}
+        };
+
+        public static string gr2en(string s) {
+            string norm = s.Normalize(NormalizationForm.FormD);
+
+            StringBuilder sb = new StringBuilder();
+
+            foreach (char c in norm) {
+                if (gr2enDic.TryGetValue(c, out string replacement)) {
+                    sb.Append(replacement);
+                }
+                else if (char.GetUnicodeCategory(c) != System.Globalization.UnicodeCategory.NonSpacingMark) {
+                    sb.Append(c);
+                }
+            }
+
+            return sb.ToString();
+        }
+
+
+        private static Dictionary<char, string> fn2enDic = new Dictionary<char, string> {
+            { 'þ', "th" }, { 'ð', "th" }, { 'œ', "oe" }, { 'ƿ', "w" }, { 'ȝ', "g" }, { 'ᵹ', "g" },
+            { 'Þ', "TH" }, { 'Ð', "TH" }, { 'Œ', "OE" }, { 'Ƿ', "W" }, { 'Ȝ', "G" }, { 'Ᵹ', "G" },
+            { 'ä', "ae" }, { 'ö', "oe" }, { 'ü', "ue" }, { 'å', "aa" }, { 'æ', "ae" }, { 'ø', "oe" }, { 'ł', "l" }, { 'đ', "d" },
+            { 'Ä', "AE" }, { 'Ö', "OE" }, { 'Ü', "UE" }, { 'Å', "AA" }, { 'Æ', "AE" }, { 'Ø', "OE" }, { 'Ł', "L" }, { 'Đ', "D" },
+            { 'ß', "ss" },
+        };
+
+        private static Regex fn2enRe = new Regex(@"[äöüßåæøłđþðœƿȝᵹ]", RegexOptions.IgnoreCase | RegexOptions.Compiled);
+
+        public static string fn2en(string s) {
+            s = gr2en(s);
+            s = handleString(s, fn2enRe, x => fn2enDic[x[0]]);
+            string norm = s.Normalize(NormalizationForm.FormD);
+            StringBuilder stringBuilder = new StringBuilder();
+
+            foreach (var c in norm) {
+                UnicodeCategory unicodeCategory = CharUnicodeInfo.GetUnicodeCategory(c);
+                if (unicodeCategory != UnicodeCategory.NonSpacingMark) {
+                    stringBuilder.Append(c);
+                }
+            }
+
+            return stringBuilder.ToString().Normalize(NormalizationForm.FormC);
+        }
+
+        #endregion
+
+        public class Etym {
+            static int count = 0;
+
+            public static Dictionary<string, List<string>> fromDic = new Dictionary<string, List<string>>();
+
+            public static string[] getRoots(string s) {
+                if (!fromDic.ContainsKey(s))
+                    return new string[] { };
+
+                var r = fromDic[s].OrderBy(x => x).ToArray();
+                var check = (string)null;
+                var prevCheck = (string)null;
+                while ((check = r.JoinStrings(" ")) != prevCheck) {
+                    prevCheck = check;
+                    r = r.SelectMany(x => !fromDic.ContainsKey(x) ? Enumerable.Repeat(x, 1) : fromDic[x]).Distinct().OrderBy(x => x).ToArray();
+                }
+
+                return r;
+            }
+
+            public static void from(string v, string p) {
+                if (!fromDic.TryGetValue(v, out var ps)) {
+                    ps = new List<string>();
+                    fromDic[v] = ps;
+                }
+
+                if (ps.Any(x => x == p)) return;
+                ps.Add(p);
+            }
+        }
+
 
         //File.ReadAllLines(@"d:\Projects\smalls\l-dic.txt").Where(x => DicItem.isValid(x)).Select(s => DicItem.Parse(s))
         //        .GroupBy(di => di.keyPos).Where(g => g.Count() > 1).Select(g => g.Key).ToList().ForEach(Console.WriteLine);
@@ -2691,14 +2780,72 @@ namespace ConApp {
 
         // ===MAIN
         static async Task Main(string[] args) {
+            // fra enm non grc ell
+
             var f20kDic = loadDic("freq-20k");
             var subsDic = loadDic("freq-subs");
+            var isSet = new HashSet<string>(f20kDic.Values.Select(x => x.key).Concat(subsDic.Values.Select(x => x.key)).Where(s => s.ToLower() == s && !s.Contains("-")));
+            // thebandofivIryuwsm'gclkpjAqMxRzCTVPDSBEFU-JGOLNKH/QYWZ
+            // \-'/âçèéêïñü
 
-            var path = findPath("mnem-dic");
-            var mDic = loadDic(path);
+            //var path = findPath("mnem-dic");
+            //var mDic = loadDic(path);
 
-            var upDic = f20kDic.Keys.Where(s => s.ToLower() != s).ToDictionary(s => s.ToLower(), s => s);
-            subsDic.Values.Where(d => upDic.ContainsKey(d.keyPos)).Select(d => upDic[d.keyPos]).Print();
+            var path = findPath("etymwn.tsv");
+            var rs = new List<string>();
+            var langSet = new HashSet<string>();
+            var exCSet = new HashSet<char>();
+
+            var nonEnRe = new Regex(@"[^\-'/_a-zA-Z]", RegexOptions.Compiled); 
+            var count = 0;
+            var relSet = new HashSet<string>();
+            var relDic = @"etym_related-30212 to-109264 from-14386 etym_to-66217 etym-20273"
+                .Split(' ').ToDictionary(x => x.Split('-')[0], x => int.Parse(x.Split('-')[1]));
+
+            /*
+            [etym_related, 30212]
+            [to, 109264]
+            [from, 14386]
+            [etym_to, 66217]
+            [etym, 20273]
+            */
+
+            /*
+            var hs = new HashSet<string>();
+            foreach (var s in fileReadLines(path)) {
+                var (a, rel, b, _, _) = s.SplitT5("[\t ]");
+                if (hs.Contains(s) || a == b) {
+                    Console.Write("*");
+                    continue;
+                }
+                hs.Add(s);
+                rs.Add($"{a} {rel} {b}");
+            }
+            */
+
+            var uniqeSet = new HashSet<string>();
+            foreach (var s in fileReadLines(path)) {
+                var (a, rel, b, _, _) = s.SplitT5(" ");
+                if (rel != "from") continue;
+                if (!isSet.Contains(a) || !isSet.Contains(b)) continue;
+                Etym.from(a, b);
+
+                var r = $"{a} {rel} {b}";
+                if (uniqeSet.Contains(r) || a == b) {
+                    Console.Write("*");
+                    continue;
+                }
+                uniqeSet.Add(r);
+                rs.Add(r);
+            }
+
+            rs = Etym.fromDic.Select(kv => (k: kv.Key, rs: Etym.getRoots(kv.Key))).Where(x => x.rs.Length > 1).OrderBy(x => x.k).Select(x => $"{x.k} < {x.rs.JoinStrings(", ")}").ToList();
+            rs.Print();
+            //var w = "extracurricular";
+            //Console.WriteLine($"{w} < {Etym.getRoots(w).JoinStrings(", ")}");
+
+
+            // File.WriteAllLines(pathEx(path, "-9"), rs);
 
             /*
             mDic.Values.GroupBy(d => d.key).Where(g => g.Count() > 1).ToList().ForEach(g => {
