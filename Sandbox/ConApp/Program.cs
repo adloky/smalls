@@ -2780,21 +2780,72 @@ namespace ConApp {
 
         // ===MAIN
         static async Task Main(string[] args) {
-            var path = findPath("freq-subs.txt");
-            var subsDic = loadDic(path);
-            subsDic.Values.Where(d => d.key != fn2en(d.key)).ToList().ForEach(d => {
-                var newKey = fn2en(d.key);
-                if (!subsDic.ContainsKey(newKey)) {
-                    d.key = newKey;
-                }
-                else {
-                    var d0 = subsDic[newKey];
-                    d0.rank += d.rank;
-                    subsDic.Remove(d.keyPos);
-                }
-            });
+            // fra enm non grc ell
 
-            File.WriteAllLines(pathEx(path, "-9"), subsDic.Values.OrderByDescending(d => d.rank).ToStringS());
+            var f20kDic = loadDic("freq-20k");
+            var subsDic = loadDic("freq-subs");
+            var isSet = new HashSet<string>(f20kDic.Values.Select(x => x.key).Concat(subsDic.Values.Select(x => x.key)).Where(s => s.ToLower() == s && !s.Contains("-")));
+            // thebandofivIryuwsm'gclkpjAqMxRzCTVPDSBEFU-JGOLNKH/QYWZ
+            // \-'/âçèéêïñü
+
+            //var path = findPath("mnem-dic");
+            //var mDic = loadDic(path);
+
+            var path = findPath("etymwn.tsv");
+            var rs = new List<string>();
+            var langSet = new HashSet<string>();
+            var exCSet = new HashSet<char>();
+
+            var nonEnRe = new Regex(@"[^\-'/_a-zA-Z]", RegexOptions.Compiled); 
+            var count = 0;
+            var relSet = new HashSet<string>();
+            var relDic = @"etym_related-30212 to-109264 from-14386 etym_to-66217 etym-20273"
+                .Split(' ').ToDictionary(x => x.Split('-')[0], x => int.Parse(x.Split('-')[1]));
+
+            /*
+            [etym_related, 30212]
+            [to, 109264]
+            [from, 14386]
+            [etym_to, 66217]
+            [etym, 20273]
+            */
+
+            /*
+            var hs = new HashSet<string>();
+            foreach (var s in fileReadLines(path)) {
+                var (a, rel, b, _, _) = s.SplitT5("[\t ]");
+                if (hs.Contains(s) || a == b) {
+                    Console.Write("*");
+                    continue;
+                }
+                hs.Add(s);
+                rs.Add($"{a} {rel} {b}");
+            }
+            */
+
+            var uniqeSet = new HashSet<string>();
+            foreach (var s in fileReadLines(path)) {
+                var (a, rel, b, _, _) = s.SplitT5(" ");
+                if (rel != "from") continue;
+                if (!isSet.Contains(a) || !isSet.Contains(b)) continue;
+                Etym.from(a, b);
+
+                var r = $"{a} {rel} {b}";
+                if (uniqeSet.Contains(r) || a == b) {
+                    Console.Write("*");
+                    continue;
+                }
+                uniqeSet.Add(r);
+                rs.Add(r);
+            }
+
+            rs = Etym.fromDic.Select(kv => (k: kv.Key, rs: Etym.getRoots(kv.Key))).Where(x => x.rs.Length > 1).OrderBy(x => x.k).Select(x => $"{x.k} < {x.rs.JoinStrings(", ")}").ToList();
+            rs.Print();
+            //var w = "extracurricular";
+            //Console.WriteLine($"{w} < {Etym.getRoots(w).JoinStrings(", ")}");
+
+
+            // File.WriteAllLines(pathEx(path, "-9"), rs);
 
             /*
             mDic.Values.GroupBy(d => d.key).Where(g => g.Count() > 1).ToList().ForEach(g => {
