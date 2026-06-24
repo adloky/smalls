@@ -2754,9 +2754,12 @@ namespace ConApp {
                 var r = fromDic[s].OrderBy(x => x).ToArray();
                 var check = (string)null;
                 var prevCheck = (string)null;
+                var i = 1;
                 while ((check = r.JoinStrings(" ")) != prevCheck) {
+                    i++;
                     prevCheck = check;
                     r = r.SelectMany(x => !fromDic.ContainsKey(x) ? Enumerable.Repeat(x, 1) : fromDic[x]).Distinct().OrderBy(x => x).ToArray();
+                    if (i > 100) Console.WriteLine(check);
                 }
 
                 return r;
@@ -2780,28 +2783,6 @@ namespace ConApp {
 
         // ===MAIN
         static async Task Main(string[] args) {
-            var path2 = findPath("freq-subs.txt");
-            var subsDic2 = loadDic(path2);
-            subsDic2.Values.Where(d => d.key != fn2en(d.key)).ToList().ForEach(d => {
-                var newKey = fn2en(d.key);
-                var newKeyPos = $"{newKey} {{{d.pos}}}";
-                if (!subsDic2.ContainsKey(newKeyPos)) {
-                    d.key = newKey;
-                }
-                else {
-                    var d0 = subsDic2[newKeyPos];
-                    d0.rank += d.rank;
-                    subsDic2.Remove(d.keyPos);
-                }
-            });
-            File.WriteAllLines(pathEx(path2, "-9"), subsDic2.Values.OrderByDescending(d => d.rank).ToStringS());
-
-            Console.WriteLine("PRESS ENTER");
-            Console.ReadLine();
-            return;
-
-
-
             // fra enm non grc ell
 
             var f20kDic = loadDic("freq-20k");
@@ -2848,8 +2829,10 @@ namespace ConApp {
             var uniqeSet = new HashSet<string>();
             foreach (var s in fileReadLines(path)) {
                 var (a, rel, b, _, _) = s.SplitT5(" ");
-                if (rel != "from") continue;
+                if (rel != "from" && rel != "rel") continue;
                 if (!isSet.Contains(a) || !isSet.Contains(b)) continue;
+
+                /*
                 Etym.from(a, b);
 
                 var r = $"{a} {rel} {b}";
@@ -2857,18 +2840,26 @@ namespace ConApp {
                     Console.Write("*");
                     continue;
                 }
-                uniqeSet.Add(r);
-                rs.Add(r);
+                */
+                uniqeSet.Add(s);
+                rs.Add(s);
             }
 
-            rs = Etym.fromDic.Select(kv => (k: kv.Key, rs: Etym.getRoots(kv.Key))).Where(x => x.rs.Length > 1).OrderBy(x => x.k)
-                .Select(x => $"{x.k} < {x.rs.JoinStrings(", ")}" + (rs.Select(x2 => getDicVal(x2, x2, families)).Distinct().Count() > 1 ? "" : $" // {x.rs[0]}, {x.rs[1]} from {families[x.rs[0]]}" )).ToList();
+            /*
+            var w = "troublemaker";
+            rs = Etym.fromDic
+                //.Where(x => x.Key == w)
+                .Select(kv => (k: kv.Key, rs: Etym.getRoots(kv.Key)))
+                .Where(x => x.rs.Length == 2)
+                .OrderBy(x => x.k)
+                .Select(x => $"{x.k} < {(x.rs.Length != 2 || x.rs[0].Substring(0, 2) == x.k.Substring(0, 2) ? x.rs : new[] { x.rs[1], x.rs[0] }).JoinStrings(", ")}")
+                .ToList();
             rs.Print();
-            //var w = "extracurricular";
-            //Console.WriteLine($"{w} < {Etym.getRoots(w).JoinStrings(", ")}");
+            */
 
 
-            // File.WriteAllLines(pathEx(path, "-9"), rs);
+            
+            File.WriteAllLines(pathEx(path, "-9"), rs);
 
             /*
             mDic.Values.GroupBy(d => d.key).Where(g => g.Count() > 1).ToList().ForEach(g => {
