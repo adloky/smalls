@@ -2755,11 +2755,18 @@ namespace ConApp {
                 var check = (string)null;
                 var prevCheck = (string)null;
                 var i = 1;
+                var q = new Queue<string>();
                 while ((check = r.JoinStrings(" ")) != prevCheck) {
+                    if (q.Count > 10) q.Dequeue();
+                    q.Enqueue(check);
                     i++;
                     prevCheck = check;
                     r = r.SelectMany(x => !fromDic.ContainsKey(x) ? Enumerable.Repeat(x, 1) : fromDic[x]).Distinct().OrderBy(x => x).ToArray();
-                    if (i > 100) Console.WriteLine(check);
+                    if (i > 100) {
+                        var last = q.Distinct().ToArray();
+                        var loop = last.SelectMany(x => x.Split(' ')).GroupBy(x => x).Where(g => g.Count() < last.Length).Select(x => x.Key).OrderBy(x => x.Length).ToArray();
+                        throw new Exception($"{loop[0]} from {loop[1]}");
+                    }
                 }
 
                 return r;
@@ -2776,6 +2783,16 @@ namespace ConApp {
             }
         }
 
+        public static IEnumerable<string> enumExceptions(Action fn) {
+            try {
+                fn();
+                return Enumerable.Empty<string>();
+            }
+            catch (Exception e) {
+                return Enumerable.Repeat<string>(e.Message, 1);
+            }
+        }
+
 
         //File.ReadAllLines(@"d:\Projects\smalls\l-dic.txt").Where(x => DicItem.isValid(x)).Select(s => DicItem.Parse(s))
         //        .GroupBy(di => di.keyPos).Where(g => g.Count() > 1).Select(g => g.Key).ToList().ForEach(Console.WriteLine);
@@ -2787,7 +2804,7 @@ namespace ConApp {
 
             var f20kDic = loadDic("freq-20k");
             var subsDic = loadDic("freq-subs");
-            var isSet = new HashSet<string>(f20kDic.Values.Select(x => x.key).Concat(subsDic.Values.Select(x => x.key)).Where(s => s.ToLower() == s && !s.Contains("-")));
+            var isSet = new HashSet<string>(f20kDic.Values.Select(x => x.key).Concat(subsDic.Values.Select(x => x.key).Concat(families.Keys)).Where(s => s.ToLower() == s && !s.Contains("-")));
             // thebandofivIryuwsm'gclkpjAqMxRzCTVPDSBEFU-JGOLNKH/QYWZ
             // \-'/âçèéêïñü
 
@@ -2832,19 +2849,23 @@ namespace ConApp {
                 if (rel != "from" && rel != "rel") continue;
                 if (!isSet.Contains(a) || !isSet.Contains(b)) continue;
 
-                /*
+                
                 Etym.from(a, b);
-
-                var r = $"{a} {rel} {b}";
-                if (uniqeSet.Contains(r) || a == b) {
+                if (lemmas.ContainsKey(a) && a != lemmas[a]) {
+                    continue;
+                }
+                //var r = $"{a} {rel} {b}";
+                if (uniqeSet.Contains(s) || a == b) {
                     Console.Write("*");
                     continue;
                 }
-                */
+                
                 uniqeSet.Add(s);
                 rs.Add(s);
             }
 
+            //rs = isSet.SelectMany(x => enumExceptions(() => Etym.getRoots(x))).Distinct().ToList();
+            //rs.Print();
             /*
             var w = "troublemaker";
             rs = Etym.fromDic
@@ -2857,9 +2878,7 @@ namespace ConApp {
             rs.Print();
             */
 
-
-            
-            File.WriteAllLines(pathEx(path, "-9"), rs);
+            File.WriteAllLines(pathEx(path, "-9"), rs.OrderBy(x => x));
 
             /*
             mDic.Values.GroupBy(d => d.key).Where(g => g.Count() > 1).ToList().ForEach(g => {
