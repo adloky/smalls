@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+<style>
+</style>
+</head>
+<body>
+<canvas id="canvas"></canvas>
+
+<script>
+
+var loom = (function () {
+    var m = { ax: 0, ay: 0, az: 0, w: 100, canvas: null };
+    var os = [];
+    var ps = [];
+    
+    function applyO(o, t) {
+        if (!t) t = "a";
+        os.push(o);
+        o.ps.forEach(p => { p.o = o; p.t = t; ps.push(p); });
+        return o;
+    }
+
+    var cx = 2.236;
+    var ox = applyO({ ps: [ { x: 1, y: 0, z: 0 } ] });
+    var oy = applyO({ ps: [ { x: 0, y: 1, z: 0 } ] });
+    var oz = applyO({ ps: [ { x: 0, y: 0, z: 1 } ] });
+    var c1 = applyO({ ps: [ { x:  cx, y: 0, z: -2 }, { x:  cx, y: 0, z: 0 }, { x:  cx, y: 2, z:  0 } ] }, "c");
+    var c2 = applyO({ ps: [ { x: -cx, y: 2, z:  0 }, { x: -cx, y: 0, z: 0 }, { x: -cx, y: 0, z: -2 } ] }, "c");
+    var f0 = applyO({ ps: [ { x: 0, y:   2, z: -2.5 }, { x:  0, y:  -4, z: -2.5 } ] });
+    var f1 = applyO({ ps: [ { x: 1.6, y:   0, z: -2.5 }, { x: -1.6, y:   0, z: -2.5 } ] });
+    var f2 = applyO({ ps: [ { x: 0.8, y:  -2, z: -2.5 }, { x: -0.8, y:  -2, z: -2.5 } ] });
+    var f3 = applyO({ ps: [ { x: 0.8, y:   2, z: -2.5 }, { x: -0.8, y:   2, z: -2.5 } ] });
+    var f4 = applyO({ ps: [ { x: 0.8, y:  -4, z: -2.5 }, { x: -0.8, y:  -4, z: -2.5 } ] });
+    //var f5 = applyO({ ps: [ { x: 2, y: -.5, z: -2   }, { x: -2, y: -.5, z: -2 } ] });
+    
+    function a2m(a, v) {
+        a = a * Math.PI / 180;
+        var c = Math.cos(a); var s = Math.sin(a); var t = 1 - c;
+        
+        return [
+            [ c + v.x * v.x * t,        v.x * v.y * t - v.z * s,  v.x * v.z * t + v.y * s ],
+            [ v.y * v.x * t + v.z * s,  c + v.y * v.y * t,        v.y * v.z * t - v.x * s ],
+            [ v.z * v.x * t - v.y * s,  v.z * v.y * t + v.x * s,  c + v.z * v.z * t       ]
+        ];        
+    };
+    
+    function mul(a,b) {
+        var isV = false;
+        if (!Array.isArray(a)) {
+            a = [[a.x,0,0],[a.y,0,0],[a.z,0,0]];
+            var t = a; a = b; b = t;
+            isV = true;
+        }
+    
+        var r  = [[0,0,0],[0,0,0],[0,0,0]];
+        for (var i = 0; i < 3; i++) {
+            for (var j = 0; j < 3; j++) {
+                r[i][j] = a[i][0] * b[0][j]
+                        + a[i][1] * b[1][j]
+                        + a[i][2] * b[2][j];
+            }
+        }
+        
+        if (!isV) return r;
+        
+        return { x: r[0][0], y: r[1][0], z: r[2][0] };
+    }
+    
+    function getElipse(ps) {
+        var A = { x: ps[0].sx - ps[1].sx, y: ps[0].sy - ps[1].sy };
+        var B = { x: ps[2].sx - ps[1].sx, y: ps[2].sy - ps[1].sy };
+        
+        var S = A.x * A.x + A.y * A.y + B.x * B.x + B.y * B.y;
+        var D = A.x * B.y - A.y * B.x;
+        
+        var core = Math.sqrt(Math.max(0, S * S - 4 * D * D));
+        var a = Math.sqrt((S + core) / 2);
+        var b = Math.sqrt((S - core) / 2);
+        
+        var num = 2 * (A.x * A.y + B.x * B.y);
+        var den = (A.x * A.x + B.x * B.x) - (A.y * A.y + B.y * B.y);
+        var alpha = 0.5 * Math.atan2(num, den);
+        var cw = Math.sign((ps[1].sx - ps[0].sx) * (ps[2].sy - ps[1].sy)
+                    - (ps[1].sy - ps[0].sy) * (ps[2].sx - ps[1].sx));
+                    
+        if (alpha < 0) alpha += Math.PI;
+
+        return { rx: a, ry: b, a: alpha, s: Math.abs(D), cw: cw };
+    }
+    
+    function draw(canvas) {
+        var a = a2m(m.ay, oy.ps[0]);
+        a = mul(a, a2m(m.ax, ox.ps[0]));
+        a = mul(a, a2m(m.az, oz.ps[0]));
+        
+        ps.forEach(p => {
+            var sp = mul(p, a);
+            p.sx = (3 + sp.x) / 6 * m.w;
+            p.sy = (3 - sp.y) / 6 * m.w;
+        });
+        
+        var c = m.canvas.getContext('2d');
+        os.forEach(o => {
+            if (o.ps[0].t === "c") {
+                var e = getElipse(o.ps);
+                console.log(e);
+                if (e.cw > 0 && e.s > 333) return;
+            
+                c.beginPath();
+                c.ellipse(o.ps[1].sx, o.ps[1].sy
+                    , e.rx, e.ry, e.a, 0, e.cw > 0 ? Math.PI : Math.PI * 2);
+            } else {
+                c.beginPath();
+                o.ps.forEach((p,i) => {
+                    if (i == 0) c.moveTo(p.sx, p.sy)
+                    else c.lineTo(p.sx, p.sy);
+                });
+            }
+            c.stroke();
+        });
+        
+        c.beginPath();
+        c.arc(m.w/2, m.w/2, m.w/2, 0, Math.PI * 2);
+        c.stroke(); 
+    }
+    
+    m.draw = draw;
+    
+    return m;
+})();
+
+loom.ay = 22;
+loom.ax = 30;
+loom.az = 10;
+loom.canvas = document.getElementById('canvas');
+
+loom.draw();
+
+</script>
+
+</body>
