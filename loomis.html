@@ -5,17 +5,17 @@
 </style>
 </head>
 <body>
-<canvas id="canvas"></canvas>
+<canvas id="canvas" width=500 height=700 ></canvas>
 
 <script>
 
 var loom = (function () {
-    var m = { ax: 0, ay: 0, az: 0, w: 100, canvas: null };
+    var m = { ax: 0, ay: 0, az: 0, w: 400, canvas: null };
     var os = [];
     var ps = [];
     
     function applyO(o, t) {
-        if (!t) t = "a";
+        if (!t) t = "l";
         os.push(o);
         o.ps.forEach(p => { p.o = o; p.t = t; ps.push(p); });
         return o;
@@ -23,16 +23,21 @@ var loom = (function () {
 
     var CL = 2.236;
     var SK = m.w / 6;
+    var FL = 3;
+    var EL = 3;
+    var s0 = applyO({ ps: [ { x: 0, y: 0, z: 0 }, { x: 3, y: 0, z: 0 } ] }, "s");
+    var s1 = applyO({ ps: [ { x:  1, y: -0.5, z: -EL+0.5 }, { x: 0.5, y: 0, z: 0 } ] }, "s");
+    var s2 = applyO({ ps: [ { x: -1, y: -0.5, z: -EL+0.5 }, { x: 0.5, y: 0, z: 0 } ] }, "s");
     var ox = applyO({ ps: [ { x: 1, y: 0, z: 0 } ] });
     var oy = applyO({ ps: [ { x: 0, y: 1, z: 0 } ] });
     var oz = applyO({ ps: [ { x: 0, y: 0, z: 1 } ] });
     var c1 = applyO({ ps: [ { x:  CL, y: 0, z: -2 }, { x:  CL, y: 0, z: 0 }, { x:  CL, y: 2, z:  0 } ] }, "c");
     var c2 = applyO({ ps: [ { x: -CL, y: 2, z:  0 }, { x: -CL, y: 0, z: 0 }, { x: -CL, y: 0, z: -2 } ] }, "c");
-    var f0 = applyO({ ps: [ { x: 0, y:   2, z: -2.5 }, { x:  0, y:  -4, z: -2.5 } ] });
-    var f1 = applyO({ ps: [ { x: 1.6, y:   0, z: -2.5 }, { x: -1.6, y:   0, z: -2.5 } ] });
-    var f2 = applyO({ ps: [ { x: 0.8, y:  -2, z: -2.5 }, { x: -0.8, y:  -2, z: -2.5 } ] });
-    var f3 = applyO({ ps: [ { x: 0.8, y:   2, z: -2.5 }, { x: -0.8, y:   2, z: -2.5 } ] });
-    var f4 = applyO({ ps: [ { x: 0.8, y:  -4, z: -2.5 }, { x: -0.8, y:  -4, z: -2.5 } ] });
+    var f0 = applyO({ ps: [ { x:   0, y:   2, z: -FL }, { x:    0, y:  -4, z: -FL } ] });
+    var f1 = applyO({ ps: [ { x: 1.6, y:   0, z: -FL }, { x: -1.6, y:   0, z: -FL } ] });
+    var f2 = applyO({ ps: [ { x: 0.8, y:  -2, z: -FL }, { x: -0.8, y:  -2, z: -FL } ] });
+    var f3 = applyO({ ps: [ { x: 0.8, y:   2, z: -FL }, { x: -0.8, y:   2, z: -FL } ] });
+    var f4 = applyO({ ps: [ { x: 0.8, y:  -4, z: -FL }, { x: -0.8, y:  -4, z: -FL } ] });
     //var f5 = applyO({ ps: [ { x: 2, y: -.5, z: -2   }, { x: -2, y: -.5, z: -2 } ] });
     
     function a2m(a, v) {
@@ -69,7 +74,7 @@ var loom = (function () {
     }
     
     // ps - три 3d точки круга [a,c,b], где c - центр; a, b - две точки на круге
-    // которые вместе с c образуют прямой угол.
+    // образующие вместе с c прямой угол.
     // CL - растояние от (0,0,0) до c.
     function elipse(ps) {
         var r = {};
@@ -79,9 +84,9 @@ var loom = (function () {
         r.cw = (_ =>  _.x1 * _.y2 - _.x2 * _.y1 < 0)(cwPs);
         
         var p = ps[1];
-        [r.x, r.y] = [ ps[1].x2, ps[1].y2 ];
+        [r.x, r.y, r.z] = [ ps[1].x2, ps[1].y2, ps[1].z2 ];
         r.a = 2;
-        r.b = r.a * Math.abs(p.z2 / CL);
+        r.b = r.a * Math.abs(r.z / CL);
         r.sw = Math.atan2(-r.y, r.x) + Math.PI / 2;
         r.sa = p.z2 < 0 ? 0 : Math.PI;
         r.s = Math.PI * r.a * r.b;
@@ -105,29 +110,33 @@ var loom = (function () {
         
         var c = m.canvas.getContext('2d');
         os.forEach(o => {
-            if (o.ps[0].t === "c") {
-                var e = elipse(o.ps);
-                if (e.cw && e.s > 3.3) return;
-                console.log(e);
-                
-                c.beginPath();
-                c.ellipse(o.ps[1].sx, o.ps[1].sy
-                    , e.a * SK, e.b * SK, e.sw
-                    , e.sa - Math.PI * 0.1
-                    , e.sa + Math.PI * 1.1);
-            } else { 
+            switch (o.ps[0].t) {
+            case "l":
                 c.beginPath();
                 o.ps.forEach((p,i) => {
                     if (i == 0) c.moveTo(p.sx, p.sy)
                     else c.lineTo(p.sx, p.sy);
                 });
+                break;
+            case "s":
+                c.beginPath();
+                var p = o.ps[0];
+                var r = o.ps[1].x;
+                c.arc(p.sx, p.sy, r * SK, 0, Math.PI * 2);
+                break;
+            case "c":
+                var e = elipse(o.ps);
+                if (e.cw && e.s > 5.5) return;
+               
+                c.beginPath();
+                c.ellipse(o.ps[1].sx, o.ps[1].sy
+                    , e.a * SK, e.b * SK, e.sw
+                    , !e.cw ?           0 : e.sa
+                    , !e.cw ? Math.PI * 2 : e.sa + Math.PI);
+                break;
             }
             c.stroke();
         });
-        
-        c.beginPath();
-        c.arc(m.w/2, m.w/2, m.w/2, 0, Math.PI * 2);
-        c.stroke(); 
     }
     
     m.draw = draw;
@@ -135,9 +144,9 @@ var loom = (function () {
     return m;
 })();
 
-loom.ay = 180 + 20;
-loom.ax = 20;
-loom.az = 30;
+loom.ay = 30;
+loom.ax = 0;
+loom.az = 0;
 loom.canvas = document.getElementById('canvas');
 
 loom.draw();
