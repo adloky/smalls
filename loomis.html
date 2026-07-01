@@ -14,7 +14,7 @@
 <script>
 
 var loom = (function () {
-    var m = { ax: 0, ay: 0, az: 0, w: 400, canvas: null };
+    var m = { w: 400, ma: [[1,0,0],[0,1,0],[0,0,1]], canvas: null };
     var os = [];
     var ps = [];
     
@@ -30,13 +30,12 @@ var loom = (function () {
         return o;
     }
     
-    function pCalcScreen(p2) {
-        if (!p2) {
-            var ma = getMatrix();
-            p2 = mul(this, ma);
+    function pCalcScreen(p) {
+        if (!p) {
+            p = mul(this, m.ma);
         }
-        this.sx = (3 + p2.x) * SK;
-        this.sy = (3 - p2.y) * SK;
+        this.sx = (3 + p.x) * SK;
+        this.sy = (3 - p.y) * SK;
     }
 
     var CL = 2.236;
@@ -125,8 +124,8 @@ var loom = (function () {
         
         // Если точка ИЗНАЧАЛЬНО внутри шара (коррекция не требуется)
         if (L2 <= R) {
-            var zSquared = R * R - (r.x * r.x + r.y * r.y);
-            r.z = zSquared > 0 ? -Math.sqrt(zSquared) : 0;
+            var zSq = R * R - (r.x * r.x + r.y * r.y);
+            r.z = zSq > 0 ? -Math.sqrt(zSq) : 0;
             return r;
         }
 
@@ -170,37 +169,53 @@ var loom = (function () {
         return r;
     }
     
-    function getShiftAngles(p1, p2) {
+    function getShiftMatrix(p1, p2) {
         p2 = resolveShift(p1, p2);
         
         var R = Math.abs(pc.ps[0].z); 
-        var L2xz = Math.sqrt(p2.x * p2.x + p2.z * p2.z);
-        
-        return { ax: Math.atan2(p2.y, L2xz), ay: -Math.atan2(p2.x, -p2.z) };
-    }    
+        var x = p2.x;
+        var y = p2.y;
+        var z = p2.z;
+
+        // 3. Если точки совпадают, возвращаем единичную матрицу
+        if (x === 0 && y === 0 && Math.abs(z - FL) < 1e-9)
+            return [[1,0,0],[0,1,0],[0,0,1]];
+
+        // 4. Вычисляем косинус угла между p1(0, 0, -R) и p2(x, y, z)
+        // Скалярное произведение: p1 . p2 = (-R) * z. 
+        // cos() = (-R * z) / R^2 = -z / R. Так как z отрицательный, cos() будет положительным.
+        var cos = -z / R;
+        var sin = Math.sqrt(x * x + y * y) / R;
+
+        // 5. Нормализованный вектор оси вращения (векторное произведение p1 x p2)
+        // p1 = (0, 0, -R). p1 x p2 = (0*z - (-R)*y, (-R)*x - 0*z, 0) = (R*y, -R*x, 0)
+        // Нормализуем этот вектор: (y / len, -x / len, 0)
+        var l = Math.sqrt(x * x + y * y);
+        var ux = y / l;
+        var uy = -x / l;
+        var t = 1 - cos;
+
+        // 6. Строим матрицу поворота 3x3 (Формула Родрига при uz = 0)
+        return [
+            [ cos + ux * ux * t,  ux * uy * t,        uy * sin  ],
+            [ ux * uy * t,        cos + uy * uy * t,  -ux * sin ],
+            [ -uy * sin,          ux * sin,           cos       ]
+        ];    
+    }
     
     function shift(x, y) {
         x = x / SK - 3;
         y = 3 - y / SK;
-        var ma = getMatrix();
-        var p1 = mul(pc.ps[0], ma);
+        var p1 = mul(pc.ps[0], m.ma);
         var p2 = { x: x, y: y };
         
-        var as = getShiftAngles(p1, p2);
+        var ma = getShiftMatrix(p1, p2);
         
-        return { ax: as.ax, ay: as.ay, az: m.az };
-    }
-    
-    function getMatrix(as) {
-        if (!as) as = { ax: m.ax, ay: m.ay, az: m.az };
-        var ma =     a2m(as.ax, ox);
-        ma = mul(ma, a2m(as.ay, oy));
-        ma = mul(ma, a2m(as.az, oz));
         return ma;
     }
     
-    function applyAngles(as) {
-        var ma = getMatrix(as);
+    function applyMatrix(ma) {
+        if (!ma) ma = m.ma;
         ps.forEach(p => {
             var p2 = mul(p, ma);
             p.x2 = p2.x;
@@ -210,8 +225,8 @@ var loom = (function () {
         });
     }
     
-    function draw(as) {
-        applyAngles(as);
+    function draw(ma) {
+        applyMatrix(ma);
         
         var c = m.canvas.getContext('2d');
         c.clearRect(0, 0, m.canvas.width, m.canvas.height);
@@ -257,7 +272,7 @@ var loom = (function () {
 (function() {
     var dragDiff;
     var dragPos;
-    var as;
+    var ma;
     
     function getXY(ev) {
         var elemPos = $(loom.canvas).offset();
@@ -279,18 +294,17 @@ var loom = (function () {
             ui.position.top = dragPos.y;
             
             var [x, y] = getXY(ev);
-            as = loom.shift(x, y);
-            loom.draw(as);
+            ma = loom.shift(x, y);
+            loom.draw(ma);
         },
         stop: function (ev) {
-            [loom.ax,loom.ay,loom.az] = [as.ax,as.ay,as.az];
+            loom.ma = ma;
         }
     });
 })();
 
 
 loom.canvas = document.getElementById('canvas');
-loom.shift(100,100);
 loom.draw();
 
 </script>
