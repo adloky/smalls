@@ -26,18 +26,31 @@ var loom = (function () {
             ps.push(p);
             p.o = o;
             p.t = t;
-            p.sc = pCalcScreen.bind(p);
+            p.calc = pCalc.bind(p);
         });
         return o;
     }
     
-    function pCalcScreen(p) {
-        if (!p) {
-            var mc = mul(m.ma, m.mb);
-            p = mul(this, mc);
+    function pCalc(p, back) {
+        if (typeof p == "boolean") { back = p; p = undefined; }
+        var self = this;
+        if (!self || !Object.hasOwn(self, "x")) {
+            self = {};
         }
-        this.sx = (3 + p.x) * SK;
-        this.sy = (3 - p.y) * SK;
+        
+        if (back) {
+            self.x2 = p.sx / SK - 3
+            self.y2 = 3 - p.sy / SK;
+        } else {
+            if (!p) { p = mul(m.ma, m.mb, self); }
+            self.x2 = p.x;
+            self.y2 = p.y;
+            self.z2 = p.z;
+            self.sx = (3 + p.x) * SK;
+            self.sy = (3 - p.y) * SK;
+        }
+        
+        return self;
     }
 
     var CL = 2.236;
@@ -53,13 +66,13 @@ var loom = (function () {
     var s2 = applyF({ ps: [ { x: -1, y: -0.5, z: -EL + 0.5 }, { x: 0.5, y: 0, z: 0 } ] }, "s");
     var c1 = applyF({ ps: [ { x:  CL, y: 0, z: -2 }, { x:  CL, y: 0, z: 0 }, { x:  CL, y: 2, z:  0 } ] }, "c");
     var c2 = applyF({ ps: [ { x: -CL, y: 2, z:  0 }, { x: -CL, y: 0, z: 0 }, { x: -CL, y: 0, z: -2 } ] }, "c");
-    var f0 = applyF({ ps: [ { x:   0, y:   2, z: -FL }, { x:    0, y:  -4, z: -FL } ] });
+    var f0 = applyF({ ps: [ { x: 0, y: 2, z: -FL }, { x: 0, y: 0, z: -FL }, { x: 0, y:  -4, z: -FL } ] });
     var f1 = applyF({ ps: [ { x: 1.6, y:   0, z: -FL }, { x: -1.6, y:   0, z: -FL } ] });
     var f2 = applyF({ ps: [ { x: 0.8, y:  -2, z: -FL }, { x: -0.8, y:  -2, z: -FL } ] });
     var f3 = applyF({ ps: [ { x: 0.8, y:   2, z: -FL }, { x: -0.8, y:   2, z: -FL } ] });
     var f4 = applyF({ ps: [ { x: 0.8, y:  -4, z: -FL }, { x: -0.8, y:  -4, z: -FL } ] });
     
-    m.pc = pc.ps[0];
+    m.pc = f0.ps[1];
 
     function a2m(a, v) {
         var c = Math.cos(a); var s = Math.sin(a); var t = 1 - c;
@@ -84,7 +97,10 @@ var loom = (function () {
 
         var r  = [[0,0,0],[0,0,0],[0,0,0]];
         for (var k = 0; k < 2; k++) {
-            if (k === 0 && !a) continue;
+            if (k === 0 && !a) {
+                a = b; b = c;
+                continue;
+            } 
             for (var i = 0; i < 3; i++) {
                 for (var j = 0; j < 3; j++) {
                     r[i][j] = a[i][0] * b[0][j]
@@ -212,11 +228,11 @@ var loom = (function () {
     }
     
     function shift(x, y) {
-        x = x / SK - 3;
-        y = 3 - y / SK;
-        var mc = mul(ma, mb);
-        var p1 = mul(m.pc, m.mc);
-        var p2 = { x: x, y: y };
+        _p2 = pCalc({sx: x, sy: y}, true);
+        var p2 = { x: _p2.x2, y: _p2.y2};
+        //x = x / SK - 3;
+        //y = 3 - y / SK;
+        var p1 = mul(m.ma, m.mb, m.pc);
         
         var ma = getShiftMatrix(p1, p2);
         
@@ -228,11 +244,11 @@ var loom = (function () {
             mc = mul(m.ma, m.mb);
         }
         ps.forEach(p => {
-            var p2 = mul(p, mc);
+            var p2 = mul(mc, p);
             p.x2 = p2.x;
             p.y2 = p2.y;
             p.z2 = p2.z;
-            p.sc(p2);
+            p.calc(p2);
         });
     }
     
@@ -263,6 +279,8 @@ var loom = (function () {
                
                 c.beginPath();
                 var a = !e.cw ? [0, Math.PI * 2] : [0, e.sa];
+                if (e.cw) { a[0] += e.s * 0.1; a[1] -= e.s * 0.1; }
+                //if (e.cw && e.s > 2.8) { a[0] += 0.2; a[1] -= 0.2; }
                 c.ellipse(o.ps[1].sx, o.ps[1].sy
                     , e.a * SK, e.b * SK, -e.sw, a[0], a[1]);
                 break;
@@ -275,6 +293,7 @@ var loom = (function () {
     m.draw = draw;
     m.mul = mul;
     m.shift = shift;
+    m.pCalc = pCalc;
     
     return m;
 })();
@@ -296,7 +315,7 @@ var loom = (function () {
             dragDiff = { x: 0, y: 0 };
             var [x, y] = getXY(ev);
             var p = loom.pc;
-            p.sc();
+            p.calc();
             dragDiff = { x: x - p.sx, y: y - p.sy };
         },
         drag: function (ev, ui) {
@@ -305,7 +324,7 @@ var loom = (function () {
             
             var [x, y] = getXY(ev);
             ma = loom.shift(x, y);
-            var mc = loom.mul(ma, loom.mb);
+            var mc = loom.mul(loom.mb, ma);
             loom.draw(mc);
         },
         stop: function (ev) {
@@ -317,6 +336,7 @@ var loom = (function () {
 
 loom.canvas = document.getElementById('canvas');
 loom.mb = loom.a2m(0.1, {x: 0, y: 0, z: 1 });
+loom.ma = loom.shift(120,200);
 loom.draw();
 
 </script>
