@@ -18,6 +18,7 @@ var loom = (function () {
     m.mxy = m.mz = [[1,0,0],[0,1,0],[0,0,1]];
     var os = [];
     var ps = [];
+    var mps = [];
     
     function applyF(o, t) {
         if (!t) t = "l";
@@ -27,6 +28,20 @@ var loom = (function () {
             p.o = o;
             p.t = t;
             p.calc = pCalc.bind(p);
+            
+            if (!p["m"]) return;
+
+            var mm = p.m.match(/^(.+)(\d)([bms])([xX][yY])?$/);
+            var m = p.m = {};
+            mps.push(p);
+            m.src = "img/loomis/mod-" + mm[1] + ".svg";
+            var sSize = mm[3];
+            m.size = sSize == "b" ? 40 : sSize == "m" ? 32 : 24;
+            var u = (Number(mm[2])-1) * Math.PI / 4; 
+            kx = Math.sin(u);
+            ky = -Math.cos(u);
+            m.dx = (m.size / 2 + 16) * kx - m.size / 2;
+            m.dy = (m.size / 2 + 16) * ky - m.size / 2;
         });
         return o;
     }
@@ -65,14 +80,15 @@ var loom = (function () {
     var s2 = applyF({ ps: [ { x: -1, y: -0.5, z: -EL + 0.5 }, { x: 0.5, y: 0, z: 0 } ] }, "s");
     var c1 = applyF({ ps: [ { x:  CL, y: 0, z: -2 }, { x:  CL, y: 0, z: 0 }, { x:  CL, y: 2, z:  0 } ] }, "c");
     var c2 = applyF({ ps: [ { x: -CL, y: 2, z:  0 }, { x: -CL, y: 0, z: 0 }, { x: -CL, y: 0, z: -2 } ] }, "c");
-    var f0 = applyF({ ps: [ { x: 0, y: 2, z: -FL }, { x: 0, y: 0, z: -FL }, { x: 0, y:  -4, z: -FL } ] });
-    var f1 = applyF({ ps: [ { x: 1.6, y:   0, z: -FL }, { x: -1.6, y:   0, z: -FL } ] });
+    var f0 = applyF({ ps: [ { x: 0, y: 2, z: -FL }, { x: 0, y:  -4, z: -FL, m: "r5m" } ] });
+    var f1 = applyF({ ps: [ { x: 1.6, y:   0, z: -FL }, { x: 0, y: 0, z: -FL, m: "sh1b" }, { x: -1.6, y:   0, z: -FL } ] });
     var f2 = applyF({ ps: [ { x: 0.8, y:  -2, z: -FL }, { x: -0.8, y:  -2, z: -FL } ] });
     var f3 = applyF({ ps: [ { x: 0.8, y:   2, z: -FL }, { x: -0.8, y:   2, z: -FL } ] });
     var f4 = applyF({ ps: [ { x: 0.8, y:  -4, z: -FL }, { x: -0.8, y:  -4, z: -FL } ] });
+    var sp = applyF({ ps: [ { x: 2.12, y: 2.12, z: 0, m: "du2s" }, { x: 2.12, y: -2.12, z: 0, m: "dd4s" }, { x: -2.12, y: -2.12, z: 0, m: "du6s" }, { x: -2.12, y: 2.12, z: 0, m: "dd8s" } ] }, "x");    
     
-    var pc = m.pc = f0.ps[1];
-    var pb = m.pb = f0.ps[2];
+    var pc = m.pc = f1.ps[1];
+    var pb = m.pb = f0.ps[1];
 
     function a2m(a, v) {
         var c = Math.cos(a); var s = Math.sin(a); var t = 1 - c;
@@ -236,63 +252,6 @@ var loom = (function () {
         m.mz = [[ cos, -sin, 0 ],
                 [ sin,  cos, 0 ],
                 [   0,    0, 1 ]];
-    
-        /*
-        // 1. Создаем трехмерную мировую точку для мыши.
-        // Так как мышь дает только x и y на экране, координату z берем от текущей p1
-        p2 = { x: p2.x, y: p2.y, z: mul(m.mxy, mz0, m.pb).z };
-
-        // 2. Переводим целевую точку мыши в локальное пространство объекта
-        var ma_i = trans(m.mxy);
-        var p2_local = mul(ma_i, p2);
-
-        // 3. Находим текущее локальное положение точки P1 (до наклонов M_xy)
-        // p1_initial имеет координаты (0, l, m). Нам нужна только ее проекция на плоскость вращения,
-        // поэтому высоту m (которая лежит на оси вращения) мы не учитываем и берем (0, l, 0)
-        var p1_xy = { x: 0, y: m.pb.y, z: 0 };
-        p1_xy = mul(mz0, p1_xy);
-
-        // 4. Считаем длины проекций на локальную плоскость XY
-        var len1 = Math.sqrt(p1_xy.x * p1_xy.x + p1_xy.y * p1_xy.y);
-        var len2 = Math.sqrt(p2_local.x * p2_local.x + p2_local.y * p2_local.y);
-
-        // Защита от деления на ноль, если мышь ушла на ось вращения
-        if (len1 < 1e-9 || len2 < 1e-9) {
-            m.mz = mz0;
-            return;
-        }
-
-        // 5. Вычисляем cos и sin дельта-угла, на который нужно повернуть M_z
-        // Мы ищем поворот от текущего локального положения p1_xy к целевому p2_local
-        var cos1 = p1_xy.x / len1;
-        var sin1 = p1_xy.y / len1;
-        var cos2 = p2_local.x / len2;
-        var sin2 = p2_local.y / len2;
-
-        // Формула разности углов (cos(a2 - a1) и sin(a2 - a1))
-        var cos_delta = cos2 * cos1 + sin2 * sin1;
-        var sin_delta = sin2 * cos1 - cos2 * sin1;
-
-        // 6. Извлекаем текущие абсолютные значения из старой матрицы Z
-        var cos_old = mz0[0][0];
-        var sin_old = mz0[1][0];
-
-        // 7. Вычисляем НОВЫЕ абсолютные косинус и синус (формулы сложения углов)
-        var cos = cos_old * cos_delta - sin_old * sin_delta;
-        var sin = sin_old * cos_delta + cos_old * sin_delta;
-
-        // 8. Нормализация вектора во избежание накопления погрешностей округления float
-        var len = Math.sqrt(cos * cos + sin * sin);
-        if (len > 0) {
-            cos /= len;
-            sin /= len;
-        }
-
-        // 9. Возвращаем обновленную чистую абсолютную матрицу Z
-        m.mz = [[ cos, -sin, 0 ]
-              , [ sin,  cos, 0 ]
-              , [   0,    0, 1 ]];
-        */
     }
 
     // ps - три 3d точки круга [a,c,b], где c - центр; a, b - две точки на круге
@@ -320,8 +279,11 @@ var loom = (function () {
         mc = mul(m.mxy, m.mz);
 
         ps.forEach(p => {
-            var p2 = mul(mc, p);
-            p.calc(p2);
+            if (p.o == sp) {
+                p.calc(p);
+                return;
+            };
+            p.calc(mul(mc, p));
         });
     }
     
@@ -330,7 +292,9 @@ var loom = (function () {
         
         var c = m.canvas.getContext('2d');
         c.clearRect(0, 0, m.canvas.width, m.canvas.height);
-        
+        c.globalAlpha = 1;
+        c.strokeStyle = '#000000'; 
+        c.lineWidth = 1;
         os.forEach(o => {
             switch (o.ps[0].t) {
             case "l":
@@ -349,21 +313,45 @@ var loom = (function () {
             case "c":
                 var e = elipse(o.ps);
                 if (e.cw && e.s > 5.5) return;
-               
+                
                 c.beginPath();
                 var [u1,u2] = !e.cw ? [0, Math.PI * 2]
                     : [e.s * 0.1, e.su - e.s * 0.1];
                 c.ellipse(o.ps[1].sx, o.ps[1].sy
                     , e.a * SK, e.b * SK, -e.sw, u1, u2);
+                
                 break;
             }
             c.stroke();
         });
+
+        c.fillStyle = '#FFFFFF88'; 
+        c.strokeStyle = '#00000066'; 
+        c.lineWidth = 1;
+        
+        mps.forEach(p => {
+            c.globalAlpha = 1;
+            var m = p.m;
+            c.beginPath();
+            c.arc(p.sx + m.dx + m.size * 0.5, p.sy + m.dy + m.size * 0.5, m.size * 0.6, 0, Math.PI * 2);
+            c.fill();
+            c.stroke();
+        
+            c.globalAlpha = 0.4;
+            c.drawImage(m.img, p.sx + m.dx, p.sy + m.dy, m.size, m.size);
+        });
     }
+
+    mps.forEach(p => {
+        var m = p.m;
+        m.img = new Image();
+        m.img.src = m.src;
+    });
     
     function test() {
     }
     
+    m.mps = mps;
     m.a2m = a2m;
     m.draw = draw;
     m.mul = mul;
@@ -373,6 +361,7 @@ var loom = (function () {
     m.pCalc = pCalc;
     m.test = test;
     
+    
     return m;
 })();
 
@@ -381,7 +370,6 @@ var loom = (function () {
     var dragPos;
     var p1;
     var rotate = true;
-    var mz;
     
     function getXY(ev) {
         var elemPos = $(loom.canvas).offset();
@@ -418,15 +406,13 @@ var loom = (function () {
     });
 })();
 
-// loom.mul(loom.mxy,{x:1,y:-2,z:0}).z
-// loom.mul(loom.trans(loom.mxy),x:1,y:-2,z:-1.33333)
-// z:-1.3333333333333333
-loom.canvas = document.getElementById('canvas');
-loom.shift(loom.pc, { x: -2, y: 1 });
-//loom.rotate(loom.mz, { x: -3, y: -3 });
-loom.draw();
-loom.test();
 
+$(document).ready(function() {
+    loom.canvas = document.getElementById('canvas');
+    loom.shift(loom.pc, { x: -2, y: 1 });
+    loom.rotate({ x: -3, y: -3 });
+    loom.draw();
+});
 
 
 
