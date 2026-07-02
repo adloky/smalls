@@ -15,7 +15,7 @@
 
 var loom = (function () {
     var m = { w: 400, canvas: null };
-    m.ma = m.mb = [[1,0,0],[0,1,0],[0,0,1]];
+    m.mxy = m.mz = [[1,0,0],[0,1,0],[0,0,1]];
     var os = [];
     var ps = [];
     
@@ -40,7 +40,7 @@ var loom = (function () {
             self.x2 = p.sx / SK - 3
             self.y2 = 3 - p.sy / SK;
         } else {
-            if (!p) { p = mul(m.ma, m.mb, self); }
+            if (!p) { p = mul(m.mxy, m.mz, self); }
             self.x2 = p.x;
             self.y2 = p.y;
             self.z2 = p.z;
@@ -48,17 +48,18 @@ var loom = (function () {
             self.sy = (3 - p.y) * SK;
         }
         
+        self.from2 = { x: self.x2, y: self.y2, z: self.z2 };
+        
         return self;
     }
 
     var CL = 2.236;
     var SK = m.w / 6;
-    var FL = 3;
-    var EL = 2.9;
+    var FL = 3; //2.8;
+    var EL = 3; //2.6;
     var ox = applyF({ ps: [ { x: 1, y: 0, z: 0 } ] });
     var oy = applyF({ ps: [ { x: 0, y: 1, z: 0 } ] });
     var oz = applyF({ ps: [ { x: 0, y: 0, z: 1 } ] });
-    var pc = applyF({ ps: [ { x: 0, y: 0, z: -FL } ] });
     var s0 = applyF({ ps: [ { x: 0, y: 0, z: 0 }, { x: 3, y: 0, z: 0 } ] }, "s");
     var s1 = applyF({ ps: [ { x:  1, y: -0.5, z: -EL + 0.5 }, { x: 0.5, y: 0, z: 0 } ] }, "s");
     var s2 = applyF({ ps: [ { x: -1, y: -0.5, z: -EL + 0.5 }, { x: 0.5, y: 0, z: 0 } ] }, "s");
@@ -70,8 +71,8 @@ var loom = (function () {
     var f3 = applyF({ ps: [ { x: 0.8, y:   2, z: -FL }, { x: -0.8, y:   2, z: -FL } ] });
     var f4 = applyF({ ps: [ { x: 0.8, y:  -4, z: -FL }, { x: -0.8, y:  -4, z: -FL } ] });
     
-    m.pc = f0.ps[1];
-    m.pb = f0.ps[2];
+    var pc = m.pc = f0.ps[1];
+    var pb = m.pb = f0.ps[2];
 
     function a2m(a, v) {
         var c = Math.cos(a); var s = Math.sin(a); var t = 1 - c;
@@ -180,14 +181,14 @@ var loom = (function () {
     function shift(p1, p2) {
         p2 = resolveShift(p1, p2);
         
-        var R = Math.abs(pc.ps[0].z); 
+        var R = Math.abs(pc.z); 
         var x = p2.x;
         var y = p2.y;
         var z = p2.z;
 
         // 3. Если точки совпадают, возвращаем единичную матрицу
         if (x === 0 && y === 0 && Math.abs(z - FL) < 1e-9) {
-            m.ma = [[1,0,0],[0,1,0],[0,0,1]];
+            m.mxy = [[1,0,0],[0,1,0],[0,0,1]];
             return;
         }
 
@@ -206,27 +207,50 @@ var loom = (function () {
         var t = 1 - cos;
 
         // 6. Строим матрицу поворота 3x3 (Формула Родрига при uz = 0)
-        m.ma = [
+        m.mxy = [
             [ cos + ux * ux * t,  ux * uy * t,        uy * sin  ],
             [ ux * uy * t,        cos + uy * uy * t,  -ux * sin ],
             [ -uy * sin,          ux * sin,           cos       ]
         ];    
     }
     
-    function rotate(mb0, p2) {
+    function rotate(p2) {
+        var p1 = pc.calc().from2;
+        p2.z = p1.z - (p1.x * (p2.x - p1.x) + p1.y * (p2.y - p1.y)) / p1.z;
+        p2 = mul(trans(m.mxy), p2);
+        
+        p1 = pb;
+        var L1 = Math.hypot(p1.x, p1.y);
+        var L2 = Math.hypot(p2.x, p2.y);
+
+        if (L1 === 0 || L2 === 0) {
+            return [[1,0,0],[0,1,0],[0,0,1]];
+        }
+
+        var sum = p1.x * p2.x + p1.y * p2.y;       // Скалярное произведение
+        var diff = p1.x * p2.y - p1.y * p2.x;     // Косое произведение
+
+        var cos = sum / (L1 * L2);
+        var sin = diff / (L1 * L2);
+
+        m.mz = [[ cos, -sin, 0 ],
+                [ sin,  cos, 0 ],
+                [   0,    0, 1 ]];
+    
+        /*
         // 1. Создаем трехмерную мировую точку для мыши.
         // Так как мышь дает только x и y на экране, координату z берем от текущей p1
-        p2 = { x: p2.x, y: p2.y, z: mul(m.ma, mb0, m.pb).z };
+        p2 = { x: p2.x, y: p2.y, z: mul(m.mxy, mz0, m.pb).z };
 
         // 2. Переводим целевую точку мыши в локальное пространство объекта
-        var ma_i = trans(m.ma);
+        var ma_i = trans(m.mxy);
         var p2_local = mul(ma_i, p2);
 
         // 3. Находим текущее локальное положение точки P1 (до наклонов M_xy)
         // p1_initial имеет координаты (0, l, m). Нам нужна только ее проекция на плоскость вращения,
         // поэтому высоту m (которая лежит на оси вращения) мы не учитываем и берем (0, l, 0)
         var p1_xy = { x: 0, y: m.pb.y, z: 0 };
-        p1_xy = mul(mb0, p1_xy);
+        p1_xy = mul(mz0, p1_xy);
 
         // 4. Считаем длины проекций на локальную плоскость XY
         var len1 = Math.sqrt(p1_xy.x * p1_xy.x + p1_xy.y * p1_xy.y);
@@ -234,7 +258,7 @@ var loom = (function () {
 
         // Защита от деления на ноль, если мышь ушла на ось вращения
         if (len1 < 1e-9 || len2 < 1e-9) {
-            m.mb = mb0;
+            m.mz = mz0;
             return;
         }
 
@@ -250,8 +274,8 @@ var loom = (function () {
         var sin_delta = sin2 * cos1 - cos2 * sin1;
 
         // 6. Извлекаем текущие абсолютные значения из старой матрицы Z
-        var cos_old = mb0[0][0];
-        var sin_old = mb0[1][0];
+        var cos_old = mz0[0][0];
+        var sin_old = mz0[1][0];
 
         // 7. Вычисляем НОВЫЕ абсолютные косинус и синус (формулы сложения углов)
         var cos = cos_old * cos_delta - sin_old * sin_delta;
@@ -265,9 +289,10 @@ var loom = (function () {
         }
 
         // 9. Возвращаем обновленную чистую абсолютную матрицу Z
-        m.mb = [[ cos, -sin, 0 ]
+        m.mz = [[ cos, -sin, 0 ]
               , [ sin,  cos, 0 ]
               , [   0,    0, 1 ]];
+        */
     }
 
     // ps - три 3d точки круга [a,c,b], где c - центр; a, b - две точки на круге
@@ -292,7 +317,7 @@ var loom = (function () {
     }
     
     function applyMatrix() {
-        mc = mul(m.ma, m.mb);
+        mc = mul(m.mxy, m.mz);
 
         ps.forEach(p => {
             var p2 = mul(mc, p);
@@ -336,12 +361,17 @@ var loom = (function () {
         });
     }
     
+    function test() {
+    }
+    
     m.a2m = a2m;
     m.draw = draw;
     m.mul = mul;
     m.shift = shift;
     m.rotate = rotate;
+    m.trans = trans;
     m.pCalc = pCalc;
+    m.test = test;
     
     return m;
 })();
@@ -351,7 +381,7 @@ var loom = (function () {
     var dragPos;
     var p1;
     var rotate = true;
-    var mb;
+    var mz;
     
     function getXY(ev) {
         var elemPos = $(loom.canvas).offset();
@@ -361,14 +391,15 @@ var loom = (function () {
     
     $("#canvas").draggable({
         start: function (ev, ui) {
+            rotate = ev.shiftKey;
             dragPos = { x: ui.position.left, y: ui.position.top };
             dragDiff = { x: 0, y: 0 };
             var [x, y] = getXY(ev);
             var p = rotate ? loom.pb : loom.pc;
-            p.calc();
+            p = p.calc();
             dragDiff = { x: x - p.sx, y: y - p.sy };
-            p1 = { x: p.x2, y: p.y2, z: p.z2 };
-            mb = loom.mb;
+            p1 = p.from2;
+            //mz = loom.mz;
         },
         drag: function (ev, ui) {
             ui.position.left = dragPos.x;
@@ -376,9 +407,9 @@ var loom = (function () {
             
             var [x, y] = getXY(ev);
             var p2 = loom.pCalc({ sx: x, sy: y }, true);
-            p2 = { x: p2.x2, y: p2.y2 };
+            p2 = p2.from2;
 
-            if (rotate) loom.rotate(mb, p2)
+            if (rotate) loom.rotate(p2)
             else loom.shift(p1, p2);
             
             loom.draw();
@@ -387,11 +418,17 @@ var loom = (function () {
     });
 })();
 
-
+// loom.mul(loom.mxy,{x:1,y:-2,z:0}).z
+// loom.mul(loom.trans(loom.mxy),x:1,y:-2,z:-1.33333)
+// z:-1.3333333333333333
 loom.canvas = document.getElementById('canvas');
-loom.mb = loom.a2m(0.2, {x: 0, y: 0, z: 1 });
 loom.shift(loom.pc, { x: -2, y: 1 });
+//loom.rotate(loom.mz, { x: -3, y: -3 });
 loom.draw();
+loom.test();
+
+
+
 
 </script>
 
