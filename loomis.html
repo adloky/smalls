@@ -9,69 +9,33 @@
 </head>
 <body>
 
-<canvas id="canvas" width=500 height=700 ></canvas>
+<div style="display: inline-block; float: left; width: 400pt; height: 400pt; position: relative">
+<canvas id="canvas" width=500 height=700 style="position: absolute; top: 0; left: 0; "></canvas>
+<img src="bins/loomis/girl.jpg"/>
+
+<div style="display: none">
+    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" id="mod_r" ><path style="color:#000;fill:#000;stroke:none;overflow:visible" d="M6.188 1033.675 5 1033.83l-3.594 5.125.657.906 2.343-.406c1.369 5.122 6.04 8.906 11.594 8.906 5.554 0 10.225-3.784 11.594-8.906l2.375.406.687-.906-3.593-5.125-1.188-.156-5.063 3.562.313 1.063 2.5.437c-1.013 3.257-4.035 5.625-7.625 5.625s-6.612-2.368-7.625-5.625l2.563-.437.312-1.063-5.063-3.562z" transform="translate(0 -1020.362)"/><path style="color:#000;fill:#000;stroke:none;overflow:visible" d="M20 14a3 3 0 1 1-6 0 3 3 0 1 1 6 0z" transform="matrix(1.33333 0 0 1.33333 -6.667 -6.667)"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" id="mod_sh"><path style="color:#000;fill:#000;stroke:none;overflow:visible" d="m15.344 1-4.5 6.844.75.75L14 8v3l1 1h2l1-1V8l2.406.594.75-.75L16.656 1h-1.312zm-7.5 9.844L1 15.344v1.312l6.844 4.5.75-.75L8 18h3l1-1v-2l-1-1H8l.594-2.406-.75-.75zm16.312 0-.75.75L24 14h-3l-1 1v2l1 1h3l-.594 2.406.75.75 6.844-4.5v-1.312l-6.844-4.5zM15 20l-1 1v3l-2.406-.594-.75.75 4.5 6.844h1.312l4.5-6.844-.75-.75L18 24v-3l-1-1h-2z"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" id="mod_dd"><path style="color:#000;fill:#000;stroke:none;overflow:visible" d="m4.957 1026.473 1.569 11.115 1.524-.022 1.879-3.071 8.22 8.22-3.072 1.878-.022 1.525 11.115 1.569 1.06-1.06-1.568-11.116-1.525.022-1.878 3.072-8.22-8.22 3.071-1.879.022-1.524-11.115-1.57-1.06 1.061z" transform="translate(0 -1020.362)"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" id="mod_du"><path style="color:#000;fill:#000;stroke:none;overflow:visible" d="m27.23 1026.473-1.568 11.115-1.525-.022-1.878-3.071-8.22 8.22 3.071 1.878.022 1.525-11.115 1.569-1.06-1.06 1.569-11.116 1.524.022 1.879 3.072 8.22-8.22-3.072-1.879-.022-1.524 11.115-1.57 1.06 1.061z" transform="translate(0 -1020.362)"/></svg>
+</div>
+
+</div>
 
 <script>
 
 var loom = (function () {
-    var m = { w: 400, canvas: null };
+    var m = { w: 400, canvas: null, pos: { x: 0, y: 0 } };
     m.mxy = m.mz = [[1,0,0],[0,1,0],[0,0,1]];
     var os = [];
     var ps = [];
     var mps = [];
+    initSvgs();
     
-    function applyF(o, t) {
-        if (!t) t = "l";
-        os.push(o);
-        o.ps.forEach(p => {
-            ps.push(p);
-            p.o = o;
-            p.t = t;
-            p.calc = pCalc.bind(p);
-            
-            if (!p["m"]) return;
-
-            var mm = p.m.match(/^(.+)(\d)([bms])([xX][yY])?$/);
-            var m = p.m = {};
-            mps.push(p);
-            m.src = "img/loomis/mod-" + mm[1] + ".svg";
-            var sSize = mm[3];
-            m.size = sSize == "b" ? 40 : sSize == "m" ? 32 : 24;
-            var u = (Number(mm[2])-1) * Math.PI / 4; 
-            kx = Math.sin(u);
-            ky = -Math.cos(u);
-            m.dx = (m.size / 2 + 16) * kx - m.size / 2;
-            m.dy = (m.size / 2 + 16) * ky - m.size / 2;
-        });
-        return o;
-    }
-    
-    function pCalc(p, back) {
-        if (typeof p == "boolean") { back = p; p = undefined; }
-        var self = this;
-        if (!self || ["x", "sx"].filter(s => Object.hasOwn(self, s)).length === 0) self = {};
-        
-        if (back) {
-            self.x2 = p.sx / SK - 3
-            self.y2 = 3 - p.sy / SK;
-        } else {
-            if (!p) { p = mul(m.mxy, m.mz, self); }
-            self.x2 = p.x;
-            self.y2 = p.y;
-            self.z2 = p.z;
-            self.sx = (3 + p.x) * SK;
-            self.sy = (3 - p.y) * SK;
-        }
-        
-        self.from2 = { x: self.x2, y: self.y2, z: self.z2 };
-        
-        return self;
-    }
-
     var CL = 2.236;
     var SK = m.w / 6;
-    var FL = 3; //2.8;
-    var EL = 3; //2.6;
+    var FL = 2.8;
+    var EL = 2.7;
     var ox = applyF({ ps: [ { x: 1, y: 0, z: 0 } ] });
     var oy = applyF({ ps: [ { x: 0, y: 1, z: 0 } ] });
     var oz = applyF({ ps: [ { x: 0, y: 0, z: 1 } ] });
@@ -85,10 +49,90 @@ var loom = (function () {
     var f2 = applyF({ ps: [ { x: 0.8, y:  -2, z: -FL }, { x: -0.8, y:  -2, z: -FL } ] });
     var f3 = applyF({ ps: [ { x: 0.8, y:   2, z: -FL }, { x: -0.8, y:   2, z: -FL } ] });
     var f4 = applyF({ ps: [ { x: 0.8, y:  -4, z: -FL }, { x: -0.8, y:  -4, z: -FL } ] });
-    var sp = applyF({ ps: [ { x: 2.12, y: 2.12, z: 0, m: "du2s" }, { x: 2.12, y: -2.12, z: 0, m: "dd4s" }, { x: -2.12, y: -2.12, z: 0, m: "du6s" }, { x: -2.12, y: 2.12, z: 0, m: "dd8s" } ] }, "x");    
+    var sp = applyF({ ps: [ { x: 2.12, y: 2.12, z: 0, m: "du2s" }, { x: 2.12, y: -2.12, z: 0, m: "dd4s" }, { x: -2.12, y: -2.12, z: 0, m: "du6s" }, { x: -2.12, y: 2.12, z: 0, m: "dd8s" } ] }, "m");
+    var pcc = applyF({ ps: [ { x: 0, y: 0, z: 0 } ] });
+    
     
     var pc = m.pc = f1.ps[1];
     var pb = m.pb = f0.ps[1];
+    var pcc = m.pcc = pcc.ps[0];
+    var imgs = {};
+    var modCount = $("svg").length;
+    var modReady = function () {};
+
+    function ready(f) {
+        if (modCount == 0) f();
+        else modReady = f;
+    }
+    
+    function initSvgs() {
+        $("svg").each((i,svg) => {
+            var svgStr = new XMLSerializer().serializeToString(svg);
+            var svgBlob = new Blob([svgStr], { type: 'image/svg+xml;charset=utf-8' });
+            var url = URL.createObjectURL(svgBlob);
+            var img = new Image();
+            img.src = url;
+            img.onload = function() {
+                imgs[$(svg).attr("id")] = img;
+                modCount--;
+                if (modCount == 0) modReady();
+            };
+        });
+    }
+
+    function applyF(o, t) {
+        if (!t) t = "l";
+        os.push(o);
+        o.ps.forEach(p => {
+            ps.push(p);
+            p.o = o;
+            p.t = t;
+            p.calc = pCalc.bind(p);
+            
+            if (!p["m"]) return;
+
+            var mm = p.m.match(/^(.+)(\d)([bms])([xX][yY])?$/);
+            var m = p.m = { src: p.m };
+            mps.push(p);
+            m.imgId = "mod_" + mm[1];
+            var sSize = mm[3];
+            m.size = sSize == "b" ? 40 : sSize == "m" ? 32 : 24;
+            var u = (Number(mm[2])-1) * Math.PI / 4; 
+            kx = Math.sin(u);
+            ky = -Math.cos(u);
+            m.dx = (m.size / 2 + 16) * kx;
+            m.dy = (m.size / 2 + 16) * ky;
+        });
+        return o;
+    }
+
+    function pCalc(p, back) {
+        if (typeof p == "boolean") { back = p; p = undefined; }
+        var self = this;
+        if (!self || typeof self != "object" || self == m
+            || ["x", "sx"].filter(s => Object.hasOwn(self, s)).length === 0) self = {};
+        
+        if (back) {
+            self.x2 = (p.sx - m.pos.x) / SK - 3
+            self.y2 = 3 - (p.sy - m.pos.y) / SK;
+        } else {
+            if (!p) { p = mul(m.mxy, m.mz, self); }
+            self.x2 = p.x;
+            self.y2 = p.y;
+            self.z2 = p.z;
+            self.sx = m.pos.x + (3 + p.x) * SK;
+            self.sy = m.pos.y + (3 - p.y) * SK;
+            if (self["m"]) {
+                self.ms = self.m.size;
+                self.mx = self.sx + self.m.dx;
+                self.my = self.sy + self.m.dy;
+            }
+        }
+        
+        self.from2 = { x: self.x2, y: self.y2, z: self.z2 };
+        
+        return self;
+    }
 
     function a2m(a, v) {
         var c = Math.cos(a); var s = Math.sin(a); var t = 1 - c;
@@ -203,10 +247,7 @@ var loom = (function () {
         var z = p2.z;
 
         // 3. Если точки совпадают, возвращаем единичную матрицу
-        if (x === 0 && y === 0 && Math.abs(z - FL) < 1e-9) {
-            m.mxy = [[1,0,0],[0,1,0],[0,0,1]];
-            return;
-        }
+        if (x === 0 && y === 0 && Math.abs(z - FL) < 1e-9) return;
 
         // 4. Вычисляем косинус угла между p1(0, 0, -R) и p2(x, y, z)
         // Скалярное произведение: p1 . p2 = (-R) * z. 
@@ -232,6 +273,8 @@ var loom = (function () {
     
     function rotate(p2) {
         var p1 = pc.calc().from2;
+        if (p1.z == 0) return;
+        
         p2.z = p1.z - (p1.x * (p2.x - p1.x) + p1.y * (p2.y - p1.y)) / p1.z;
         p2 = mul(trans(m.mxy), p2);
         
@@ -239,12 +282,10 @@ var loom = (function () {
         var L1 = Math.hypot(p1.x, p1.y);
         var L2 = Math.hypot(p2.x, p2.y);
 
-        if (L1 === 0 || L2 === 0) {
-            return [[1,0,0],[0,1,0],[0,0,1]];
-        }
+        if (L1 === 0 || L2 === 0) return;
 
-        var sum = p1.x * p2.x + p1.y * p2.y;       // Скалярное произведение
-        var diff = p1.x * p2.y - p1.y * p2.x;     // Косое произведение
+        var sum = p1.x * p2.x + p1.y * p2.y;
+        var diff = p1.x * p2.y - p1.y * p2.x;
 
         var cos = sum / (L1 * L2);
         var sin = diff / (L1 * L2);
@@ -292,16 +333,38 @@ var loom = (function () {
         
         var c = m.canvas.getContext('2d');
         c.clearRect(0, 0, m.canvas.width, m.canvas.height);
-        c.globalAlpha = 1;
-        c.strokeStyle = '#000000'; 
-        c.lineWidth = 1;
+        
+        for (var i = 0; i < 2; i++) {
+        
+        if (i == 0) {
+            c.globalAlpha = 0.15;
+            c.strokeStyle = c.fillStyle = '#FFFFFF'; 
+            c.lineWidth = 5;
+        } else {
+            c.globalAlpha = 1;
+            c.strokeStyle = c.fillStyle = '#003366';
+            c.lineWidth = 1;
+        }
+        
         os.forEach(o => {
-            switch (o.ps[0].t) {
+            var t = o.ps[0].t;
+            switch (t) {
             case "l":
+            case "m":
                 c.beginPath();
                 o.ps.forEach((p,i) => {
+                    if (t != "l") return;
+                    
                     if (i == 0) c.moveTo(p.sx, p.sy)
                     else c.lineTo(p.sx, p.sy);
+                });
+                c.stroke();
+                
+                o.ps.filter(p => p.m).forEach((p,i) => {
+                    c.beginPath();
+                    c.arc(p.sx, p.sy, 3, 0, Math.PI * 2);
+                    c.fill();
+                    c.stroke();
                 });
                 break;
             case "s":
@@ -309,6 +372,8 @@ var loom = (function () {
                 var p = o.ps[0];
                 var r = o.ps[1].x;
                 c.arc(p.sx, p.sy, r * SK, 0, Math.PI * 2);
+                
+                c.stroke();                
                 break;
             case "c":
                 var e = elipse(o.ps);
@@ -317,15 +382,18 @@ var loom = (function () {
                 c.beginPath();
                 var [u1,u2] = !e.cw ? [0, Math.PI * 2]
                     : [e.s * 0.1, e.su - e.s * 0.1];
+                    
                 c.ellipse(o.ps[1].sx, o.ps[1].sy
                     , e.a * SK, e.b * SK, -e.sw, u1, u2);
-                
+                    
+                c.stroke();
                 break;
             }
-            c.stroke();
         });
+        
+        }
 
-        c.fillStyle = '#FFFFFF88'; 
+        c.fillStyle = '#FFFFFF66'; 
         c.strokeStyle = '#00000066'; 
         c.lineWidth = 1;
         
@@ -333,21 +401,32 @@ var loom = (function () {
             c.globalAlpha = 1;
             var m = p.m;
             c.beginPath();
-            c.arc(p.sx + m.dx + m.size * 0.5, p.sy + m.dy + m.size * 0.5, m.size * 0.6, 0, Math.PI * 2);
+            c.arc(p.mx, p.my, p.ms * 0.6, 0, Math.PI * 2);
             c.fill();
             c.stroke();
         
             c.globalAlpha = 0.4;
-            c.drawImage(m.img, p.sx + m.dx, p.sy + m.dy, m.size, m.size);
+            c.drawImage(imgs[m.imgId], p.mx - p.ms/2, p.my - p.ms/2, p.ms, p.ms);
         });
     }
-
-    mps.forEach(p => {
-        var m = p.m;
-        m.img = new Image();
-        m.img.src = m.src;
-    });
     
+    function mp(sp) {
+        var isNear = false;
+        for (var p of mps) {
+            var dl2  = ((p.mx - sp.x) ** 2 + (p.my - sp.y) ** 2) ** 0.5;
+            var pdl2 = ((p.sx - sp.x) ** 2 + (p.sy - sp.y) ** 2) ** 0.5;
+            var sz = Math.max(p.ms, 32);
+            if (Math.min(dl2, pdl2) <= 1.2 * sz) return p;
+            if (Math.min(dl2, pdl2) <= 2.0 * sz) isNear = true;
+        }
+
+        if (isNear) return null;
+        
+        var p = pCalc(pcc); 
+        var l2 = ((p.sx - sp.x) ** 2 + (p.sy - sp.y) ** 2) ** 0.5;
+        if (l2 < m.w/2) return pcc;
+    }
+
     function test() {
     }
     
@@ -359,6 +438,8 @@ var loom = (function () {
     m.rotate = rotate;
     m.trans = trans;
     m.pCalc = pCalc;
+    m.mp = mp;
+    m.ready = ready;
     m.test = test;
     
     
@@ -369,7 +450,6 @@ var loom = (function () {
     var dragDiff;
     var dragPos;
     var p1;
-    var rotate = true;
     
     function getXY(ev) {
         var elemPos = $(loom.canvas).offset();
@@ -383,11 +463,16 @@ var loom = (function () {
             dragPos = { x: ui.position.left, y: ui.position.top };
             dragDiff = { x: 0, y: 0 };
             var [x, y] = getXY(ev);
-            var p = rotate ? loom.pb : loom.pc;
-            p = p.calc();
-            dragDiff = { x: x - p.sx, y: y - p.sy };
-            p1 = p.from2;
-            //mz = loom.mz;
+            p1 = loom.mp({ x: x, y: y });
+            if (!p1) return false;
+            
+            console.log(p1.m);
+            p1 = p1.calc();
+            dragDiff = { x: x - p1.sx, y: y - p1.sy };
+            
+            var src = p1;
+            p1 = p1.from2;
+            p1.src = src;
         },
         drag: function (ev, ui) {
             ui.position.left = dragPos.x;
@@ -397,17 +482,27 @@ var loom = (function () {
             var p2 = loom.pCalc({ sx: x, sy: y }, true);
             p2 = p2.from2;
 
-            if (rotate) loom.rotate(p2)
-            else loom.shift(p1, p2);
-            
+            switch(p1.src) {
+            case loom.pc:
+                loom.shift(p1, p2);
+                break;
+            case loom.pb:
+                loom.rotate(p2);
+                break;
+            case loom.pcc:
+                var p = p1.src;
+                loom.pos = { x: x - loom.w/2, y: y - loom.w/2 };
+                break;
+            }
+
             loom.draw();
         },
         //stop: function (ev) {}
     });
 })();
 
-
-$(document).ready(function() {
+loom.ready(function() {
+//$(document).ready(function() {
     loom.canvas = document.getElementById('canvas');
     loom.shift(loom.pc, { x: -2, y: 1 });
     loom.rotate({ x: -3, y: -3 });
