@@ -114,7 +114,11 @@ var loom = (function () {
             self.x2 = p.sx / m.SK - m.pos.x;
             self.y2 = -p.sy / m.SK - m.pos.y;
         } else {
-            if (!p) { p = mul(m.mxy, m.mz, self); }
+            if (!p) {
+                p = self;
+                if (p.o != sp)
+                    p = mul(m.mxy, m.mz, p);
+            }
             self.x2 = p.x;
             self.y2 = p.y;
             self.z2 = p.z;
@@ -448,7 +452,6 @@ var loom = (function () {
     var dragDiff;
     var dragPos;
     var p1;
-    var SK;
     
     function getXY(ev) {
         var elemPos = $(loom.canvas).offset();
