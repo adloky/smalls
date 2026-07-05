@@ -1,40 +1,5 @@
-<meta charset="utf-8">
-<style>
-* {font-size: 16pt; box-sizing: border-box; }
-input, button { padding: 3pt 8pt; min-width: 60pt; }
-.hidden { display: none; }
-
-.upload-area {
-    border: 4pt dashed #007bff; border-radius: 8pt; padding: 10pt; cursor: pointer;
-    background: no-repeat center/100pt url('img/loomis/icon-picture.svg');
-    width: 160pt; height: 160pt;
-}
-
-.upload-dialog { background-color: rgba(0, 0, 0, .5); width: 100%; height: 100%; position: fixed; left: 0; top: 0; }
-.upload-area.loaded { background-size: cover; border: 0; }
-.upload-area.dragover { background-color: #e9f5ff; border-color: #0056b3; }
-
-
-
-</style>
-
-<script src="jquery-3.3.1.js"></script>
-
-<button onclick=' $("#uploadDialog").removeClass("hidden")'>IMG</button>
-
-<div class="upload-dialog hidden" id="uploadDialog">
-    <div style=" top: 50%; left: 50%; margin-left: -100pt; margin-top: -140pt; position: absolute; background-color: white; padding: 20pt; ">
-        <div class="upload-area" id="uploadArea">
-                <input type="file" id="uploadInput" hidden multiple/>
-        </div>
-        <p align="center"><button>OK</button> <button>Cancel</button></p>
-    </div>
-</div>
-
-
-<script>
-    var m = {};
-
+var upload = (function() { var m = {};    
+$(document).ready(function() {
     var $uploadArea = $('#uploadArea');
     var $fileInput = $('#uploadInput');
     var $uploadDialog = $('#uploadDialog');
@@ -94,6 +59,7 @@ input, button { padding: 3pt 8pt; min-width: 60pt; }
     m.load = function(f) {
         m.onLoad = f;
     }
-   
-
-</script>
+    
+    
+}); return m;   
+})();

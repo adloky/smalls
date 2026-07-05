@@ -161,6 +161,7 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ComicsController.cs" />
     <Compile Include="Controllers\LisenController.cs" />
+    <Compile Include="Controllers\UtilsController.cs" />
     <Compile Include="Controllers\MemenController.cs" />
     <Compile Include="Controllers\MemenHtmlController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />

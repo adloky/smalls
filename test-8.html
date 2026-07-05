@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+</head>
+<body>
+  <button class="cache-btn">cache</button>
+  <button class="test-btn">test api</button>
+  <script>
+    $(".cache-btn").click(function() {
+        $.ajax({
+            url: "http://localhost:3000/yadisk/cache"
+          , method: "post"
+          , error: r => { alert("cache local: " + r.status); }
+        });
+        $.ajax({
+            url: "https://smalls.onrender.com/yadisk/cache"
+          , method: "post"
+          , error: r => { alert("cache render: " + r.status); }
+        });
+    });
+    
+    $(".test-btn").click(function() {
+        $.ajax({
+            url: "http://192.168.0.2/sandbox/api/proxy-ds"
+          , method: "post"
+          , contentType: "application/json"
+          , data: JSON.stringify("привет!")
+          , success: d => {
+              
+          }
+        });
+    });
+  </script>
+</body>

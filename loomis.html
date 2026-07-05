@@ -2,16 +2,47 @@
 <head>
 <meta charset="utf-8">
 <style>
+* {font-size: 16pt; box-sizing: border-box; }
+input, button { padding: 3pt 8pt; }
+button { min-width: 60pt; }
+.hidden { display: none; }
+
+.upload-area {
+    border: 4pt dashed #007bff; border-radius: 8pt; padding: 10pt; cursor: pointer;
+    background: no-repeat center/100pt url('img/loomis/icon-picture.svg');
+    width: 200pt; height: 200pt;
+}
+
+.upload-dialog { background-color: rgba(0, 0, 0, .5); width: 100%; height: 100%; position: fixed; left: 0; top: 0; }
+.upload-area.loaded { background-size: cover; border: 0; }
+.upload-area.dragover { background-color: #e9f5ff; border-color: #0056b3; }
+.tools button { min-width: initial; height: 32pt; }
+.abs { position: absolute; top: 0; left: 0; }
+.icon img { max-width: 24pt; max-height: 24pt; text-aligh: center; vertical-align: middle; }
+.icon { padding: 3pt; text-aligh: center; vertical-align: middle; }
+
+.picture {
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 800pt; height: 800pt;
+}
+
 </style>
 <script src="js/jquery-3.3.1.js"></script>
 <script src="js/jquery-ui.js"></script>
 <script src="js/jquery.ui.touch-punch.js"></script>
+<script src="js/loomis/upload.js"></script>
 </head>
 <body>
 
-<div style="display: inline-block; float: left; width: 400pt; height: 400pt; position: relative">
-<canvas id="canvas" width=1000 height=1000 style="position: absolute; top: 0; left: 0; "></canvas>
-<img src="bins/loomis/girl.jpg"/>
+<div class="tools" style="position: relative; padding-bottom: 10pt">
+    <button id="upload-btn" class="icon"><img src="img/loomis/icon-picture.svg"></button>
+</div>
+
+<div style="position: relative">
+    <div class="picture abs">&nbsp;</div>
+    <canvas class="abs" id="canvas" width=1920 height=1920></canvas>
+</div>
 
 <div style="display: none">
     <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" id="mod_r" ><path style="color:#000;fill:#000;stroke:none;overflow:visible" d="M6.188 1033.675 5 1033.83l-3.594 5.125.657.906 2.343-.406c1.369 5.122 6.04 8.906 11.594 8.906 5.554 0 10.225-3.784 11.594-8.906l2.375.406.687-.906-3.593-5.125-1.188-.156-5.063 3.562.313 1.063 2.5.437c-1.013 3.257-4.035 5.625-7.625 5.625s-6.612-2.368-7.625-5.625l2.563-.437.312-1.063-5.063-3.562z" transform="translate(0 -1020.362)"/><path style="color:#000;fill:#000;stroke:none;overflow:visible" d="M20 14a3 3 0 1 1-6 0 3 3 0 1 1 6 0z" transform="matrix(1.33333 0 0 1.33333 -6.667 -6.667)"/></svg>
@@ -20,12 +51,19 @@
     <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" id="mod_du"><path style="color:#000;fill:#000;stroke:none;overflow:visible" d="m27.23 1026.473-1.568 11.115-1.525-.022-1.878-3.071-8.22 8.22 3.071 1.878.022 1.525-11.115 1.569-1.06-1.06 1.569-11.116 1.524.022 1.879 3.072 8.22-8.22-3.072-1.879-.022-1.524 11.115-1.57 1.06 1.061z" transform="translate(0 -1020.362)"/></svg>
 </div>
 
+<div class="upload-dialog hidden" id="uploadDialog">
+    <div style=" top: 50%; left: 50%; margin-left: -120pt; margin-top: -180pt; position: absolute; background-color: white; padding: 20pt; ">
+        <div class="upload-area" id="uploadArea">
+            <input type="file" id="uploadInput" hidden multiple/>
+        </div>
+        <p style="margin-bottom: 0; " align=center><button>OK</button> <button>Cancel</button></p>
+    </div>
 </div>
 
 <script>
 
 var loom = (function () {
-    var m = { w: 400, canvas: null, pos: { x: 3, y: -3 }, SK: 100 };
+    var m = { pos: { x: 6, y: -6 }, SK: 100, scale: 100, url: null, canvas: null }; // "http://192.168.0.2/smalls/bins/uploads/e3bb9da9-1c80-457a-993c-449db2271182.jpg"
     m.mxy = m.mz = [[1,0,0],[0,1,0],[0,0,1]];
     var os = [];
     var ps = [];
@@ -185,6 +223,7 @@ var loom = (function () {
                 [a[0][2], a[1][2], a[2][2]]];
     }
     
+    /*
     function resolveShift(p1, p2) {
         var R = FL;
         
@@ -239,17 +278,27 @@ var loom = (function () {
         // Так как точка теперь на самом краю сферы (экваторе проекции), z равен 0
         return r;
     }
+    */
     
-    function shift(p1, p2) {
-        p2 = resolveShift(p1, p2);
-        
-        var R = Math.abs(pc.z); 
+    function shift(p2) {
+        //p2 = resolveShift(p1, p2);
+        var R = Math.abs(pc.z);
         var x = p2.x;
         var y = p2.y;
-        var z = p2.z;
-
+        
+        var l = Math.sqrt(x * x + y * y);
+        if (l > R) {
+            x = x * R / l;
+            y = y * R / l;
+            z = 0;
+            l = R;
+        }
+        else {
+            z = -Math.sqrt(R * R - x * x - y * y);
+        }
+        
         // 3. Если точки совпадают, возвращаем единичную матрицу
-        if (x === 0 && y === 0 && Math.abs(z - FL) < 1e-9) return;
+        if (x === 0 && y === 0 && Math.abs(z - pc.z) < 1e-9) return;
 
         // 4. Вычисляем косинус угла между p1(0, 0, -R) и p2(x, y, z)
         // Скалярное произведение: p1 . p2 = (-R) * z. 
@@ -260,7 +309,6 @@ var loom = (function () {
         // 5. Нормализованный вектор оси вращения (векторное произведение p1 x p2)
         // p1 = (0, 0, -R). p1 x p2 = (0*z - (-R)*y, (-R)*x - 0*z, 0) = (R*y, -R*x, 0)
         // Нормализуем этот вектор: (y / len, -x / len, 0)
-        var l = Math.sqrt(x * x + y * y);
         var ux = y / l;
         var uy = -x / l;
         var t = 1 - cos;
@@ -337,15 +385,16 @@ var loom = (function () {
         c.clearRect(0, 0, m.canvas.width, m.canvas.height);
         
         for (var i = 0; i < 2; i++) {
-        
+
+        c.lineWidth = 2;        
         if (i == 0) {
-            c.globalAlpha = 0.15;
-            c.strokeStyle = c.fillStyle = '#FFFFFF'; 
-            c.lineWidth = 5;
+            c.globalAlpha = 0.5;
+            c.strokeStyle = c.fillStyle = '#CCCCCC'; 
+            c.setLineDash([]);
         } else {
             c.globalAlpha = 1;
-            c.strokeStyle = c.fillStyle = '#004477';
-            c.lineWidth = 1;
+            c.strokeStyle = c.fillStyle = '#004422';
+            c.setLineDash([5, 3]);
         }
         
         os.forEach(o => {
@@ -361,13 +410,13 @@ var loom = (function () {
                     else c.lineTo(p.sx, p.sy);
                 });
                 c.stroke();
-                
-                o.ps.filter(p => p.m).forEach((p,i) => {
+               
+                o.ps.filter(p => p.m).forEach((p,_i) => {
                     c.beginPath();
-                    c.arc(p.sx, p.sy, 3, 0, Math.PI * 2);
+                    c.arc(p.sx, p.sy, i == 0 ? 4 : 3, 0, Math.PI * 2);
                     c.fill();
-                    c.stroke();
                 });
+                
                 break;
             case "s":
                 c.beginPath();
@@ -397,7 +446,7 @@ var loom = (function () {
 
         c.fillStyle = '#FFFFFF66'; 
         c.strokeStyle = '#00000066'; 
-        c.lineWidth = 1;
+        c.setLineDash([]);
         
         mps.forEach(p => {
             c.globalAlpha = 1;
@@ -415,18 +464,18 @@ var loom = (function () {
     function mp(sp) {
         var isNear = false;
         for (var p of mps) {
-            var dl2  = ((p.mx - sp.sx) ** 2 + (p.my - sp.sy) ** 2) ** 0.5;
-            var pdl2 = ((p.sx - sp.sx) ** 2 + (p.sy - sp.sy) ** 2) ** 0.5;
+            var dl2  = Math.hypot(p.mx - sp.sx, p.my - sp.sy);
+            var pdl2 = Math.hypot(p.sx - sp.sx, p.sy - sp.sy);
             var sz = Math.max(p.ms, 32);
-            if (Math.min(dl2, pdl2) <= 1.2 * sz) return p;
-            if (Math.min(dl2, pdl2) <= 2.0 * sz) isNear = true;
+            if (Math.min(dl2, pdl2) <= 1.0 * sz) return p;
+            if (Math.min(dl2, pdl2) <= 1.5 * sz) isNear = true;
         }
 
         if (isNear) return null;
         
         var p = pCalc(pcc); 
-        var l2 = ((p.sx - sp.sx) ** 2 + (p.sy - sp.sy) ** 2) ** 0.5;
-        if (l2 < 3 * m.SK) return pcc;
+        var l2 = Math.hypot(p.sx - sp.sx, p.sy - sp.sy);
+        if (l2 < 3 * m.SK + 24) return pcc;
     }
 
     function test() {
@@ -444,16 +493,16 @@ var loom = (function () {
     m.ready = ready;
     m.test = test;
     
-    
     return m;
 })();
 
-(function() {
+var acts = (function() {
+    var acts = {};
     var dragDiff;
     var dragPos;
     var p1;
     
-    function getXY(ev) {
+    function getEvXy(ev) {
         var elemPos = $(loom.canvas).offset();
         return [ Math.floor(ev.pageX - elemPos.left - dragDiff.sx)
             , Math.floor(ev.pageY - elemPos.top - dragDiff.sy) ];
@@ -464,28 +513,24 @@ var loom = (function () {
             rotate = ev.shiftKey;
             dragPos = { sx: ui.position.left, sy: ui.position.top };
             dragDiff = { sx: 0, sy: 0 };
-            var [sx, sy] = getXY(ev);
+            var [sx, sy] = getEvXy(ev);
             p1 = loom.mp({ sx: sx, sy: sy });
             if (!p1) return false;
             
             p1 = p1.calc();
             dragDiff = { sx: sx - p1.sx, sy: sy - p1.sy };
-            
-            var src = p1;
-            p1 = p1.from2;
-            p1.src = src;
         },
         drag: function (ev, ui) {
             ui.position.left = dragPos.sx;
             ui.position.top = dragPos.sy;
             
-            var [sx, sy] = getXY(ev);
+            var [sx, sy] = getEvXy(ev);
             var p2 = loom.pCalc({ sx: sx, sy: sy }, true);
             p2 = p2.from2;
 
-            switch(p1.src) {
+            switch(p1) {
             case loom.pc:
-                loom.shift(p1, p2);
+                loom.shift(p2);
                 break;
             case loom.pb:
                 loom.rotate(p2);
@@ -498,31 +543,116 @@ var loom = (function () {
                 loom.pos = { x: p.x2, y: p.y2 };
                 break;
             default:
-                if (p1.src.o.ps[0].t != "m") break;
+                if (p1.o.ps[0].t != "m") break;
                 
                 var [dsx, dsy] = [sx - loom.pcc.sx, sy - loom.pcc.sy];
                 loom.SK = Math.hypot(dsx, dsy) / 3;
                 loom.pos = { x: 0, y: 0 };
                 loom.pcc.calc(true);
                 loom.pos = { x: loom.pcc.x2, y: loom.pcc.y2 };
-                loom.pcc.calc();
             }
 
             loom.draw();
         },
-        //stop: function (ev) {}
+        stop: function (ev) {
+            save();
+        }
     });
+
+
+    // *** SAVE/LOAD
+
+    function cookie(k, v) {
+        if (v !== undefined) {
+            var d = (new Date()).getTime() + (300 * 24 * 60 * 60 * 1000);
+            expires = "; expires=" + (new Date(d)).toGMTString();
+            document.cookie = encodeURIComponent(k) + "=" + encodeURIComponent(v) + expires + "; path=/";
+        }
+        else {
+            n = encodeURIComponent(k) + "=";
+            var r = document.cookie.split(/; ?/).find(function(x) { return x.startsWith(n); });
+            if (r === null || r === undefined) return null;
+            return decodeURIComponent(r.split("=")[1]);
+        }
+    }
+
+    var getCircularReplacer = () => {
+        //var seen = new WeakSet();
+        return (key, value) => {
+            if (Array.isArray(value) || typeof value == "function") return;
+            if (typeof value === "object" && value !== null) {
+                if (value instanceof Element) return;
+                if (key && !copyRe.test(key)) return;
+                /*
+                if (seen.has(value)) {
+                    return; 
+                }
+                seen.add(value);
+                */
+            }
+            return value;
+        };
+    };
+    
+    var copyRe = /^(pos|SK|scale|url|pc|pb|from2)$/;
+
+    function copy(s, t, ins) {
+        var c = JSON.parse(JSON.stringify(s, getCircularReplacer()));
+        for (m in c) {
+            if (!copyRe.test(m)) continue;
+            t[m] = s[m];
+        }
+    }
+    
+    function save() {
+        r = {};
+        loom.pc.calc();
+        loom.pb.calc();
+        copy(loom, r);
+        r.shiftPs = { p2: r.pc.from2 }
+        r.rotatePs = { p2: r.pb.from2 }
+        delete r.pc;
+        delete r.pb;
+        cookie("loomis", JSON.stringify(r));
+    }
+    
+    function load() {
+        var x = cookie("loomis");
+        if (x === null) return;
+        
+        var s = JSON.parse(x);
+        var sh = s.shiftPs;
+        var rot = s.rotatePs;
+        copy(s, loom);
+        loom.shift(sh.p2);
+        loom.rotate(rot.p2);
+        $(".picture").css({backgroundImage: `url('${loom.url}')`});
+        
+    }
+    
+    acts.save = save;
+    acts.load = load;
+    
+    return acts;
 })();
 
 loom.ready(function() {
-//$(document).ready(function() {
+$(document).ready(function() {
+    $("#upload-btn").click(function() {
+        upload.show();
+    });
+    
+    upload.load(function(url) {
+        $(".picture").css({backgroundImage: `url('${url}')`});
+        loom.url = url;
+        acts.save();
+    });
+    
     loom.canvas = document.getElementById('canvas');
-    loom.shift(loom.pc, { x: -2, y: 1 });
-    loom.rotate({ x: -3, y: -3 });
+    acts.load();
     loom.draw();
 });
-
-
+});
 
 </script>
 
