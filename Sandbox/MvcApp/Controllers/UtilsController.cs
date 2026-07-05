@@ -36,7 +36,7 @@ namespace MvcApp.Controllers
             path = $"{path}/{Guid.NewGuid()}{ext}";
             File.Move(fileData.LocalFileName, path);
 
-            var url = path.Replace("d:/Projects", "http://localhost");
+            var url = path.Replace("d:/Projects", "http://192.168.0.2");
             
             return Ok(new { url = url });
         }

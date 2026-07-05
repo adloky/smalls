@@ -2,10 +2,11 @@
 <head>
 <meta charset="utf-8">
 <style>
-* {font-size: 16pt; box-sizing: border-box; }
+* {font-size: 14pt; box-sizing: border-box; }
 input, button { padding: 3pt 8pt; }
 button { min-width: 60pt; }
 .hidden { display: none; }
+textarea { resize: none; }
 
 .upload-area {
     border: 4pt dashed #007bff; border-radius: 8pt; padding: 10pt; cursor: pointer;
@@ -16,10 +17,14 @@ button { min-width: 60pt; }
 .upload-dialog { background-color: rgba(0, 0, 0, .5); width: 100%; height: 100%; position: fixed; left: 0; top: 0; }
 .upload-area.loaded { background-size: cover; border: 0; }
 .upload-area.dragover { background-color: #e9f5ff; border-color: #0056b3; }
-.tools button { min-width: initial; height: 32pt; }
+.tools button { min-width: initial; height: initial; }
 .abs { position: absolute; top: 0; left: 0; }
-.icon img { max-width: 24pt; max-height: 24pt; text-aligh: center; vertical-align: middle; }
-.icon { padding: 3pt; text-aligh: center; vertical-align: middle; }
+.hidden-input { position: absolute; width: 1px; height: 1px; opacity: 0; overflow: hidden; }
+
+.tools * { vertical-align: middle; margin: 0 2pt; min-height: 32pt; text-align: center; }
+.tools textarea { padding: 0 5pt; font-family: sans-serif; line-height: 32pt; width: 70pt; }
+.tools .icon img { max-width: 22pt; max-height: 22pt; }
+.tools .icon { width: 34pt; padding: 0; }
 
 .picture {
     background-repeat: no-repeat;
@@ -36,7 +41,8 @@ button { min-width: 60pt; }
 <body>
 
 <div class="tools" style="position: relative; padding-bottom: 10pt">
-    <button id="upload-btn" class="icon"><img src="img/loomis/icon-picture.svg"></button>
+    <button id="upload-btn" class="icon"><img src="img/loomis/icon-picture.svg"/></button>
+    <textarea id="scale-box" rows="1"></textarea>
 </div>
 
 <div style="position: relative">
@@ -54,7 +60,7 @@ button { min-width: 60pt; }
 <div class="upload-dialog hidden" id="uploadDialog">
     <div style=" top: 50%; left: 50%; margin-left: -120pt; margin-top: -180pt; position: absolute; background-color: white; padding: 20pt; ">
         <div class="upload-area" id="uploadArea">
-            <input type="file" id="uploadInput" hidden multiple/>
+            <input class="hidden-input" type="file" id="uploadInput" multiple/>
         </div>
         <p style="margin-bottom: 0; " align=center><button>OK</button> <button>Cancel</button></p>
     </div>
@@ -63,8 +69,8 @@ button { min-width: 60pt; }
 <script>
 
 var loom = (function () {
-    var m = { pos: { x: 6, y: -6 }, SK: 100, scale: 100, url: null, canvas: null }; // "http://192.168.0.2/smalls/bins/uploads/e3bb9da9-1c80-457a-993c-449db2271182.jpg"
-    m.mxy = m.mz = [[1,0,0],[0,1,0],[0,0,1]];
+    var loom = { pos: { x: 4, y: -4 }, SK: 100, scale: 1.0, url: null, canvas: null }; // "http://192.168.0.2/smalls/bins/uploads/e3bb9da9-1c80-457a-993c-449db2271182.jpg"
+    loom.mxy = loom.mz = [[1,0,0],[0,1,0],[0,0,1]];
     var os = [];
     var ps = [];
     var mps = [];
@@ -88,9 +94,9 @@ var loom = (function () {
     var f4 = applyF({ ps: [ { x: 0.8, y:  -4, z: -FL }, { x: -0.8, y:  -4, z: -FL } ] });
     var sp = applyF({ ps: [ { x: 0, y: 0, z: 0 }, { x: 2.12, y: 2.12, z: 0, m: "du2s" }, { x: 2.12, y: -2.12, z: 0, m: "dd4s" }, { x: -2.12, y: -2.12, z: 0, m: "du6s" }, { x: -2.12, y: 2.12, z: 0, m: "dd8s" } ] }, "m");
     
-    var pc = m.pc = f1.ps[1];
-    var pb = m.pb = f0.ps[1];
-    var pcc = m.pcc = sp.ps[0];
+    var pc = loom.pc = f1.ps[1];
+    var pb = loom.pb = f0.ps[1];
+    var pcc = loom.pcc = sp.ps[0];
     var imgs = {};
     var modCount = $("svg").length;
     var modReady = function () {};
@@ -126,12 +132,12 @@ var loom = (function () {
             
             if (!p["m"]) return;
 
-            var mm = p.m.match(/^(.+)(\d)([bms])([xX][yY])?$/);
+            var mm = p.m.match(/^(.+)(\d)([bms])$/);
             var m = p.m = { src: p.m };
             mps.push(p);
             m.imgId = "mod_" + mm[1];
-            var sSize = mm[3];
-            m.size = sSize == "b" ? 40 : sSize == "m" ? 32 : 24;
+            var szCode = mm[3];
+            m.size = szCode == "b" ? 40 : szCode == "m" ? 32 : 24;
             var u = (Number(mm[2])-1) * Math.PI / 4; 
             kx = Math.sin(u);
             ky = -Math.cos(u);
@@ -144,24 +150,24 @@ var loom = (function () {
     function pCalc(p, back) {
         if (typeof p == "boolean") { back = p; p = undefined; }
         var self = this;
-        if (!self || typeof self != "object" || self == m
+        if (!self || typeof self != "object" || self == loom
             || ["x", "sx"].filter(s => Object.hasOwn(self, s)).length === 0) self = {};
         
         if (back) {
             if (!p) p = self; 
-            self.x2 = p.sx / m.SK - m.pos.x;
-            self.y2 = -p.sy / m.SK - m.pos.y;
+            self.x2 = p.sx / loom.scale / loom.SK  - loom.pos.x;
+            self.y2 = -p.sy / loom.scale / loom.SK - loom.pos.y;
         } else {
             if (!p) {
                 p = self;
                 if (p.o != sp)
-                    p = mul(m.mxy, m.mz, p);
+                    p = mul(loom.mxy, loom.mz, p);
             }
             self.x2 = p.x;
             self.y2 = p.y;
             self.z2 = p.z;
-            self.sx = (m.pos.x + p.x) * m.SK;
-            self.sy = -(m.pos.y + p.y) * m.SK;
+            self.sx = (loom.pos.x + p.x) * loom.SK * loom.scale;
+            self.sy = -(loom.pos.y + p.y) * loom.SK * loom.scale;
             if (self["m"]) {
                 self.ms = self.m.size;
                 self.mx = self.sx + self.m.dx;
@@ -223,63 +229,6 @@ var loom = (function () {
                 [a[0][2], a[1][2], a[2][2]]];
     }
     
-    /*
-    function resolveShift(p1, p2) {
-        var R = FL;
-        
-        // Текущее расстояние p2 в плоскости xy от начала координат
-        var L2 = Math.sqrt(p2.x * p2.x + p2.y * p2.y);
-        
-        var r = { x: p2.x, y: p2.y, z: 0 };
-        
-        // Если точка ИЗНАЧАЛЬНО внутри шара (коррекция не требуется)
-        if (L2 <= R) {
-            var zSq = R * R - (r.x * r.x + r.y * r.y);
-            r.z = zSq > 0 ? -Math.sqrt(zSq) : 0;
-            return r;
-        }
-
-        // Если вышли за пределы шара, ищем пересечение луча p1->p2 с окружностью R
-        // Вектор направления прямой в плоскости xy
-        var dx = p2.x - p1.x;
-        var dy = p2.y - p1.y;
-        
-        // Коэффициенты квадратного уравнения: A*t^2 + B*t + C = 0
-        var A = dx * dx + dy * dy;
-        var B = 2 * (p1.x * dx + p1.y * dy);
-        var C = p1.x * p1.x + p1.y * p1.y - R * R;
-        
-        if (A === 0) throw new Error("p1 == p2 in 2d");
-        
-        // дискриминант
-        var d = B * B - 4 * A * C;
-        
-        if (d < 0) {
-            // Математически луч не пересекает окружность (например, p1 внутри, но луч смотрит наружу? 
-            // Нет, p1 всегда внутри/на сфере, так как R построен по p1. Значит дискриминант >= 0 всегда).
-            // На всякий случай делаем аварийный сброс на край окружности в направлении p2
-            var k = R / L2xy;
-            r.x = p2.x * k;
-            r.y = p2.y * k;
-        } else {
-            // Нам нужны два корня
-            var t1 = (-B + Math.sqrt(d)) / (2 * A);
-            var t2 = (-B - Math.sqrt(d)) / (2 * A);
-            
-            // Выбираем тот корень, который сонаправлен движению от p1 к p2 (t > 0).
-            // Если оба > 0, берем больший, чтобы уйти дальше в сторону p2.
-            var t = Math.max(t1, t2);
-            
-            // Вычисляем новые скорректированные координаты на окружности
-            r.x = p1.x + t * dx;
-            r.y = p1.y + t * dy;
-        }
-        
-        // Так как точка теперь на самом краю сферы (экваторе проекции), z равен 0
-        return r;
-    }
-    */
-    
     function shift(p2) {
         //p2 = resolveShift(p1, p2);
         var R = Math.abs(pc.z);
@@ -314,10 +263,9 @@ var loom = (function () {
         var t = 1 - cos;
 
         // 6. Строим матрицу поворота 3x3 (Формула Родрига при uz = 0)
-        m.mxy = [
-            [ cos + ux * ux * t,  ux * uy * t,        uy * sin  ],
-            [ ux * uy * t,        cos + uy * uy * t,  -ux * sin ],
-            [ -uy * sin,          ux * sin,           cos       ]
+        loom.mxy = [[ cos + ux * ux * t,  ux * uy * t,        uy * sin  ],
+                    [ ux * uy * t,        cos + uy * uy * t,  -ux * sin ],
+                    [ -uy * sin,          ux * sin,           cos       ]
         ];    
     }
     
@@ -326,7 +274,7 @@ var loom = (function () {
         if (p1.z == 0) return;
         
         p2.z = p1.z - (p1.x * (p2.x - p1.x) + p1.y * (p2.y - p1.y)) / p1.z;
-        p2 = mul(trans(m.mxy), p2);
+        p2 = mul(trans(loom.mxy), p2);
         
         p1 = pb;
         var L1 = Math.hypot(p1.x, p1.y);
@@ -340,9 +288,9 @@ var loom = (function () {
         var cos = sum / (L1 * L2);
         var sin = diff / (L1 * L2);
 
-        m.mz = [[ cos, -sin, 0 ],
-                [ sin,  cos, 0 ],
-                [   0,    0, 1 ]];
+        loom.mz = [[ cos, -sin, 0 ],
+                  [ sin,  cos, 0 ],
+                  [   0,    0, 1 ]];
     }
 
     // ps - три 3d точки круга [a,c,b], где c - центр; a, b - две точки на круге
@@ -367,7 +315,7 @@ var loom = (function () {
     }
     
     function applyMatrix() {
-        mc = mul(m.mxy, m.mz);
+        mc = mul(loom.mxy, loom.mz);
 
         ps.forEach(p => {
             if (p.o == sp) {
@@ -381,12 +329,12 @@ var loom = (function () {
     function draw() {
         applyMatrix();
         
-        var c = m.canvas.getContext('2d');
-        c.clearRect(0, 0, m.canvas.width, m.canvas.height);
+        var c = loom.canvas.getContext('2d');
+        c.clearRect(0, 0, loom.canvas.width, loom.canvas.height);
         
         for (var i = 0; i < 2; i++) {
 
-        c.lineWidth = 2;        
+        c.lineWidth = 1.5;        
         if (i == 0) {
             c.globalAlpha = 0.5;
             c.strokeStyle = c.fillStyle = '#CCCCCC'; 
@@ -422,7 +370,7 @@ var loom = (function () {
                 c.beginPath();
                 var p = o.ps[0];
                 var r = o.ps[1].x;
-                c.arc(p.sx, p.sy, r * m.SK, 0, Math.PI * 2);
+                c.arc(p.sx, p.sy, r * loom.SK * loom.scale, 0, Math.PI * 2);
                 
                 c.stroke();                
                 break;
@@ -435,7 +383,7 @@ var loom = (function () {
                     : [e.s * 0.1, e.su - e.s * 0.1];
                     
                 c.ellipse(o.ps[1].sx, o.ps[1].sy
-                    , e.a * m.SK, e.b * m.SK, -e.sw, u1, u2);
+                    , e.a * loom.SK * loom.scale, e.b * loom.SK * loom.scale, -e.sw, u1, u2);
                     
                 c.stroke();
                 break;
@@ -475,25 +423,25 @@ var loom = (function () {
         
         var p = pCalc(pcc); 
         var l2 = Math.hypot(p.sx - sp.sx, p.sy - sp.sy);
-        if (l2 < 3 * m.SK + 24) return pcc;
+        if (l2 < 3 * loom.SK * loom.scale + 24) return pcc;
     }
 
     function test() {
     }
     
-    m.mps = mps;
-    m.a2m = a2m;
-    m.draw = draw;
-    m.mul = mul;
-    m.shift = shift;
-    m.rotate = rotate;
-    m.trans = trans;
-    m.pCalc = pCalc;
-    m.mp = mp;
-    m.ready = ready;
-    m.test = test;
+    loom.mps = mps;
+    loom.a2m = a2m;
+    loom.draw = draw;
+    loom.mul = mul;
+    loom.shift = shift;
+    loom.rotate = rotate;
+    loom.trans = trans;
+    loom.pCalc = pCalc;
+    loom.mp = mp;
+    loom.ready = ready;
+    loom.test = test;
     
-    return m;
+    return loom;
 })();
 
 var acts = (function() {
@@ -546,7 +494,7 @@ var acts = (function() {
                 if (p1.o.ps[0].t != "m") break;
                 
                 var [dsx, dsy] = [sx - loom.pcc.sx, sy - loom.pcc.sy];
-                loom.SK = Math.hypot(dsx, dsy) / 3;
+                loom.SK = Math.hypot(dsx, dsy) / loom.scale / 3;
                 loom.pos = { x: 0, y: 0 };
                 loom.pcc.calc(true);
                 loom.pos = { x: loom.pcc.x2, y: loom.pcc.y2 };
@@ -559,6 +507,10 @@ var acts = (function() {
         }
     });
 
+    function applyUrl(url) {
+        loom.url = url;
+        $(".picture").css({backgroundImage: `url('${url}')`});
+    }
 
     // *** SAVE/LOAD
 
@@ -626,12 +578,62 @@ var acts = (function() {
         copy(s, loom);
         loom.shift(sh.p2);
         loom.rotate(rot.p2);
-        $(".picture").css({backgroundImage: `url('${loom.url}')`});
         
+        var picSize = Math.round(800 * loom.scale) + "pt";
+        $(".picture").css({ width: picSize, height: picSize });
+        
+        applyUrl(loom.url);
     }
     
+    // ====
+    
+    function bind(qs, f) {
+    
+        function onChange() {
+            var re = /^([1-9]\d*)(.*)$/;
+            var val1 = f();
+            var m = val1.match(re);
+            var u1 = m[2] || "";
+            
+            try {
+                var val2 = $(this).val();
+                var m = val2.match(re);
+                if (!m) throw new Error();
+                
+                var u2 = m[2] || "";
+                if (u2 && u2 !== u1) throw new Error();
+                
+                val2 = m[1] + u1;
+                f(Number(m[1]));
+                
+                $(this).val(val2);
+            }
+            catch {
+                $(this).val(val1);
+                return;
+            }
+        }
+
+        $(qs).val(f());
+        
+        $(qs).on("change", function() {
+            onChange.call(this);
+        });
+        
+        $(qs).on("input", function() {
+            var val1 = $(this).val();
+            var val2 = val1.replace(/\r?\n/, "");
+            if (val1 == val2) return;
+            
+            $(this).val(val2);
+            onChange.call(this);
+        });
+    }
+
     acts.save = save;
+    acts.bind = bind;
     acts.load = load;
+    acts.applyUrl = applyUrl;
     
     return acts;
 })();
@@ -644,13 +646,24 @@ $(document).ready(function() {
     
     upload.load(function(url) {
         $(".picture").css({backgroundImage: `url('${url}')`});
-        loom.url = url;
+        acts.applyUrl(url);
         acts.save();
     });
     
     loom.canvas = document.getElementById('canvas');
     acts.load();
     loom.draw();
+    
+    acts.bind("#scale-box", function(val) {
+        if (!val) return `${Math.round(loom.scale * 100)}%`;
+        if (val < 1 || val > 999) throw new Error();
+        loom.scale = val / 100;
+        var picSize = Math.round(800 * loom.scale) + "pt";
+        $(".picture").css({ width: picSize, height: picSize });
+        loom.draw();
+        acts.save();
+    });
+    
 });
 });
 

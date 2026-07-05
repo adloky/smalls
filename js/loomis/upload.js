@@ -13,10 +13,26 @@ $(document).ready(function() {
         e.preventDefault(); e.stopPropagation();
         $uploadArea.removeClass('dragover');
     });
+    
+    $uploadArea.on('click', function() {
+        $fileInput.trigger('click');
+    });
+    
+    $fileInput.on('click', function(e) {
+        e.stopPropagation();
+    });
+    
+    $fileInput.on('change', function() {
+        var file = this.files[0];
+        uploadFile(file);
+    });
 
     $uploadArea.on('drop', function(e) {
         var file = e.originalEvent.dataTransfer.files[0];
-
+        uploadFile(file);
+    });
+    
+    function uploadFile(file) {
         var formData = new FormData();
         formData.append('file', file); 
 
@@ -30,7 +46,7 @@ $(document).ready(function() {
                 $uploadArea.css({ backgroundImage: `url('${r.url}')` });
             }
         });
-    });
+    }
 
     $(".upload-dialog div").click(function(e) {
         e.stopPropagation();
