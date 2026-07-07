@@ -9,14 +9,15 @@ button { min-width: 60pt; }
 textarea { resize: none; }
 
 .upload-area {
+    width: 200pt; height: 200pt;
     border: 4pt dashed #007bff; border-radius: 8pt; padding: 10pt; cursor: pointer;
     background: no-repeat center/100pt url('img/loomis/icon-picture.svg');
-    width: 200pt; height: 200pt;
 }
 
-.upload-dialog { background-color: rgba(0, 0, 0, .5); width: 100%; height: 100%; position: fixed; left: 0; top: 0; }
+.dialog { background-color: rgba(0, 0, 0, .5); width: 100%; height: 100%; position: fixed; left: 0; top: 0; }
 .upload-area.loaded { background-size: cover; border: 0; }
 .upload-area.dragover { background-color: #e9f5ff; border-color: #0056b3; }
+
 .tools button { min-width: initial; height: initial; }
 .abs { position: absolute; top: 0; left: 0; }
 .hidden-input { position: absolute; width: 1px; height: 1px; opacity: 0; overflow: hidden; }
@@ -43,6 +44,7 @@ textarea { resize: none; }
 <div class="tools" style="position: relative; padding-bottom: 10pt">
     <button id="upload-btn" class="icon"><img src="img/loomis/icon-picture.svg"/></button>
     <textarea id="scale-box" rows="1"></textarea>
+    <button class="grid-btn icon"><img src="img/loomis/icon-grid.svg"/></button>
 </div>
 
 <div style="position: relative">
@@ -57,7 +59,7 @@ textarea { resize: none; }
     <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" id="mod_du"><path style="color:#000;fill:#000;stroke:none;overflow:visible" d="m27.23 1026.473-1.568 11.115-1.525-.022-1.878-3.071-8.22 8.22 3.071 1.878.022 1.525-11.115 1.569-1.06-1.06 1.569-11.116 1.524.022 1.879 3.072 8.22-8.22-3.072-1.879-.022-1.524 11.115-1.57 1.06 1.061z" transform="translate(0 -1020.362)"/></svg>
 </div>
 
-<div class="upload-dialog hidden" id="uploadDialog">
+<div class="upload-dialog dialog hidden" id="uploadDialog">
     <div style=" top: 50%; left: 50%; margin-left: -120pt; margin-top: -180pt; position: absolute; background-color: white; padding: 20pt; ">
         <div class="upload-area" id="uploadArea">
             <input class="hidden-input" type="file" id="uploadInput" multiple/>
@@ -66,10 +68,19 @@ textarea { resize: none; }
     </div>
 </div>
 
+<div class="grid-dialog dialog hidden">
+    <div style=" top: 50%; left: 50%; margin-left: -120pt; margin-top: -160pt; position: absolute; background-color: white; padding: 20pt; ">
+        <p>Diameter:<br/><input class="grid-box" style=" width: 80pt; " /></p>
+        <label><input class="grid-show-box" type="checkbox"/> Show</label>
+        <p style="margin-bottom: 0; " align=center><button>OK</button> <button>Cancel</button></p>
+    </div>
+</div>
+
 <script>
 
 var loom = (function () {
-    var loom = { pos: { x: 4, y: -4 }, SK: 100, scale: 1.0, url: null, canvas: null }; // "http://192.168.0.2/smalls/bins/uploads/e3bb9da9-1c80-457a-993c-449db2271182.jpg"
+    var loom = { pos: { x: 4, y: -4 }, SK: 100, scale: 1.0, grid: 150, url: null, canvas: null }; // "http://192.168.0.2/smalls/bins/uploads/e3bb9da9-1c80-457a-993c-449db2271182.jpg"
+    loom.show = { mod: true, picure: true, grid: false };
     loom.mxy = loom.mz = [[1,0,0],[0,1,0],[0,0,1]];
     var os = [];
     var ps = [];
@@ -78,7 +89,7 @@ var loom = (function () {
     
     var CL = 2.236;
     var FL = 2.8;
-    var EL = 2.7;
+    var EL = 2.6;
     var ox = applyF({ ps: [ { x: 1, y: 0, z: 0 } ] });
     var oy = applyF({ ps: [ { x: 0, y: 1, z: 0 } ] });
     var oz = applyF({ ps: [ { x: 0, y: 0, z: 1 } ] });
@@ -88,10 +99,10 @@ var loom = (function () {
     var c1 = applyF({ ps: [ { x:  CL, y: 0, z: -2 }, { x:  CL, y: 0, z: 0 }, { x:  CL, y: 2, z:  0 } ] }, "c");
     var c2 = applyF({ ps: [ { x: -CL, y: 2, z:  0 }, { x: -CL, y: 0, z: 0 }, { x: -CL, y: 0, z: -2 } ] }, "c");
     var f0 = applyF({ ps: [ { x: 0, y: 2, z: -FL }, { x: 0, y:  -4, z: -FL, m: "r5m" } ] });
-    var f1 = applyF({ ps: [ { x: 1.6, y:   0, z: -FL }, { x: 0, y: 0, z: -FL, m: "sh1b" }, { x: -1.6, y:   0, z: -FL } ] });
-    var f2 = applyF({ ps: [ { x: 0.8, y:  -2, z: -FL }, { x: -0.8, y:  -2, z: -FL } ] });
-    var f3 = applyF({ ps: [ { x: 0.8, y:   2, z: -FL }, { x: -0.8, y:   2, z: -FL } ] });
-    var f4 = applyF({ ps: [ { x: 0.8, y:  -4, z: -FL }, { x: -0.8, y:  -4, z: -FL } ] });
+    var f1 = applyF({ ps: [ { x: 2, y:   0, z: -FL }, { x: 0, y: 0, z: -FL, m: "sh1b" }, { x: -2, y:   0, z: -FL } ] });
+    var f2 = applyF({ ps: [ { x: 1, y:  -2, z: -FL }, { x: -1, y:  -2, z: -FL } ] });
+    var f3 = applyF({ ps: [ { x: 1, y:   2, z: -FL }, { x: -1, y:   2, z: -FL } ] });
+    var f4 = applyF({ ps: [ { x: 1, y:  -4, z: -FL }, { x: -1, y:  -4, z: -FL } ] });
     var sp = applyF({ ps: [ { x: 0, y: 0, z: 0 }, { x: 2.12, y: 2.12, z: 0, m: "du2s" }, { x: 2.12, y: -2.12, z: 0, m: "dd4s" }, { x: -2.12, y: -2.12, z: 0, m: "du6s" }, { x: -2.12, y: 2.12, z: 0, m: "dd8s" } ] }, "m");
     
     var pc = loom.pc = f1.ps[1];
@@ -334,7 +345,31 @@ var loom = (function () {
         
         for (var i = 0; i < 2; i++) {
 
-        c.lineWidth = 1.5;        
+        if (loom.show.grid) {
+            c.globalAlpha = 1;
+            c.strokeStyle = '#FFFFFF22'; 
+            if (i > 0) c.strokeStyle = '#000000';
+            var GK = 6 / loom.grid * 10 * loom.SK * loom.scale;
+            var GK = [GK, GK*5];
+            
+            c.beginPath();
+            for (var gi = 0; gi < 2; gi++) {
+                for (var k = pcc.sx % GK[gi]; k < 1920; k+=GK[gi]) {
+                    var rk = Math.floor(k-0.5)+0.5;
+                    c.moveTo(rk + (1-i) + gi, 0)
+                    c.lineTo(rk + (1-i) + gi, 1920);
+                }
+                for (var k = pcc.sy % GK[gi]; k < 1920; k+=GK[gi]) {
+                    var rk = Math.floor(k-0.5)+0.5;
+                    c.moveTo(0, rk + (1-i) + gi)
+                    c.lineTo(1920, rk + (1-i) + gi);
+                    
+                }
+            }
+            c.stroke();
+        }
+
+        c.lineWidth = 1.5;
         if (i == 0) {
             c.globalAlpha = 0.5;
             c.strokeStyle = c.fillStyle = '#CCCCCC'; 
@@ -546,7 +581,7 @@ var acts = (function() {
         };
     };
     
-    var copyRe = /^(pos|SK|scale|url|pc|pb|from2)$/;
+    var copyRe = /^(pos|SK|scale|url|pc|pb|from2|grid|show)$/;
 
     function copy(s, t, ins) {
         var c = JSON.parse(JSON.stringify(s, getCircularReplacer()));
@@ -565,6 +600,7 @@ var acts = (function() {
         r.rotatePs = { p2: r.pb.from2 }
         delete r.pc;
         delete r.pb;
+        delete r.show.picture;
         cookie("loomis", JSON.stringify(r));
     }
     
@@ -594,10 +630,12 @@ var acts = (function() {
             var val1 = f();
             var m = val1.match(re);
             var u1 = m[2] || "";
+
+            var val2 = $(this).val();
+            if (val1 === val2) return;
             
+            var m = val2.match(re);
             try {
-                var val2 = $(this).val();
-                var m = val2.match(re);
                 if (!m) throw new Error();
                 
                 var u2 = m[2] || "";
@@ -630,6 +668,53 @@ var acts = (function() {
         });
     }
 
+    // === Grid ===
+
+    var $gridDialog = $(".grid-dialog");
+    
+    var dialogGrid = loom.grid;
+    
+    $(".grid-btn").click(function () {
+        $(".grid-show-box")[0].checked = true;
+        dialogGrid = loom.grid;
+        $(".grid-box").val(dialogGrid + "mm");
+        $gridDialog.removeClass("hidden");
+    });
+    
+    $(".grid-dialog div").click(function(e) {
+        e.stopPropagation();
+    });
+    
+    $(".grid-dialog button").click(function() {
+        if ($(this).text() != "OK") return;
+        
+        loom.show.grid = $(".grid-show-box")[0].checked;
+        $(".grid-bix").trigger("change");
+        loom.grid = dialogGrid;
+        loom.draw();
+        acts.save();
+    });
+
+    var mouseDownTarget = null;
+    
+    $(".grid-dialog, .grid-dialog *").on('mousedown', function(e) {
+        mouseDownTarget = e.target;
+    });
+
+    $(".grid-dialog button, .grid-dialog").click(function() {
+        if (mouseDownTarget !== this) return;
+        $gridDialog.addClass("hidden");
+    });
+    
+    bind(".grid-box", function(val) {
+        if (val == null) return dialogGrid + "mm";
+        
+        if (val < 0 || val > 999) throw new Error();
+        dialogGrid = val;
+    });
+    
+    // ===
+
     acts.save = save;
     acts.bind = bind;
     acts.load = load;
@@ -649,14 +734,15 @@ $(document).ready(function() {
         acts.applyUrl(url);
         acts.save();
     });
-    
+
     loom.canvas = document.getElementById('canvas');
     acts.load();
     loom.draw();
     
     acts.bind("#scale-box", function(val) {
-        if (!val) return `${Math.round(loom.scale * 100)}%`;
-        if (val < 1 || val > 999) throw new Error();
+        if (val == null) return `${Math.round(loom.scale * 100)}%`;
+        
+        if (val < 10 || val > 999) throw new Error();
         loom.scale = val / 100;
         var picSize = Math.round(800 * loom.scale) + "pt";
         $(".picture").css({ width: picSize, height: picSize });
@@ -664,6 +750,12 @@ $(document).ready(function() {
         acts.save();
     });
     
+    
+    
+    // TODO:
+    // - при d&d не хватать весь canvas
+    // - выборочный d&d, чтобы работал скролинг на планшете
+    // - расстояния до mod-иконок и области от pt
 });
 });
 
