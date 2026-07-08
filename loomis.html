@@ -19,11 +19,12 @@ textarea { resize: none; }
 
 .abs { position: absolute; top: 0; left: 0; }
 
-.tools button { min-width: initial; height: initial; }
-.tools * { vertical-align: middle; margin: 0 2pt; min-height: 32pt; text-align: center; }
+.tools .icon { min-height: 34pt; }
+.tools * { vertical-align: middle; margin: 0 2pt; text-align: center; }
 .tools textarea { padding: 0 5pt; font-family: sans-serif; line-height: 32pt; width: 70pt; }
 .tools .icon img { max-width: 22pt; max-height: 22pt; }
-.tools .icon { width: 34pt; padding: 0; }
+.tools .icon { width: 34pt; padding: 0; min-width: initial; height: initial; }
+.tools label { margin: 0; padding: 0; }
 
 .picture {
     background-repeat: no-repeat;
@@ -44,6 +45,7 @@ textarea { resize: none; }
     <button class="upload-btn icon"><img src="img/loomis/icon-picture.svg"/></button>
     <textarea class="scale-box" rows="1"></textarea>
     <button class="grid-btn icon"><img src="img/loomis/icon-grid.svg"/></button>
+    <button class="show-btn icon"><img src="img/loomis/icon-show.svg"/></button>
 </div>
 
 <div style="position: relative">
@@ -69,11 +71,21 @@ textarea { resize: none; }
     <br/><br/><button class="dialog-close">OK</button> <button  class="dialog-close">Cancel</button>
 </dialog>
 
+<dialog class="show-dlg">
+    <div class="tools">
+        <label><input class="show-grid-box     " type="checkbox"/><button class="icon"><img src="img/loomis/icon-grid.svg"/></button></label>
+        <label><input class="show-picture-box  " type="checkbox"/><button class="icon"><img src="img/loomis/icon-picture.svg"/></button></label>
+        <label><input class="show-mod-box      " type="checkbox"/><button class="icon"><img src="img/loomis/icon-mod.svg"/></button></label>
+    </div>    
+    <br/><button class="dialog-close">OK</button>
+
+</dialog>
+
 <script>
 
 var loom = (function () {
     var loom = { pos: { x: 4, y: -4 }, SK: 100, scale: 1.0, grid: 150, url: null, canvas: null }; // "http://192.168.0.2/smalls/bins/uploads/e3bb9da9-1c80-457a-993c-449db2271182.jpg"
-    loom.show = { mod: true, picure: true, grid: false };
+    loom.show = { mod: true, picture: true, grid: false };
     loom.mxy = loom.mz = [[1,0,0],[0,1,0],[0,0,1]];
     var os = [];
     var ps = [];
@@ -331,6 +343,11 @@ var loom = (function () {
     }
     
     function draw() {
+        $picture = $(".picture");
+        if ($picture.hasClass("hidden") != !loom.show.picture) {
+            $picture.toggleClass("hidden");
+        }
+    
         applyMatrix();
         
         var c = loom.canvas.getContext('2d');
@@ -384,13 +401,12 @@ var loom = (function () {
                 c.setLineDash([5, 3]);
             }
             
-            c.beginPath();
             os.forEach(o => {
                 var t = o.ps[0].t;
                 switch (t) {
                 case "l":
                 case "m":
-                    
+                    c.beginPath();
                     o.ps.forEach((p,i) => {
                         if (t != "l") return;
                         
@@ -412,6 +428,11 @@ var loom = (function () {
                     var r = o.ps[1].x;
                     c.arc(p.sx, p.sy, r * loom.SK * loom.scale, 0, Math.PI * 2);
                     
+                    c.moveTo(p.sx, p.sy - 8);
+                    c.lineTo(p.sx, p.sy + 8);
+                    c.moveTo(p.sx - 8, p.sy);
+                    c.lineTo(p.sx + 8, p.sy);
+                    
                     c.stroke();                
                     break;
                 case "c":
@@ -424,12 +445,14 @@ var loom = (function () {
                         
                     c.ellipse(o.ps[1].sx, o.ps[1].sy
                         , e.a * loom.SK * loom.scale, e.b * loom.SK * loom.scale, -e.sw, u1, u2);
-                        
+                    c.stroke();
                     break;
                 }
             });
-            c.stroke();
+            
         }
+
+        if (!loom.show.mod) return;
 
         c.fillStyle = '#FFFFFF66'; 
         c.strokeStyle = '#00000066'; 
@@ -482,6 +505,20 @@ var loom = (function () {
     
     return loom;
 })();
+
+// === Checkbox hook ===
+
+$.valHooks.checkbox = {
+    get: function(el) {
+        return el.checked + "";
+    },
+    set: function(el, value) {
+        if (!["true", "false"].includes(value)) throw new Error();
+        el.checked = value == "true";
+    }
+};
+
+// === ACTS ===
 
 var acts = (function() {
     var acts = {};
@@ -591,7 +628,7 @@ var acts = (function() {
         var c = JSON.parse(JSON.stringify(s, getCircularReplacer()));
         for (m in c) {
             if (!copyRe.test(m)) continue;
-            t[m] = s[m];
+            t[m] = c[m];
         }
     }
     
@@ -615,6 +652,7 @@ var acts = (function() {
         var s = JSON.parse(x);
         var sh = s.shiftPs;
         var rot = s.rotatePs;
+        s.show.picture = true;
         copy(s, loom);
         loom.shift(sh.p2);
         loom.rotate(rot.p2);
@@ -635,12 +673,18 @@ var acts = (function() {
             var re = /^([1-9]\d*)(.*)$/;
             var val1 = f();
             var m = val1.match(re);
-            var u1 = m[2] || "";
-
             var val2 = $(this).val();
             if (val1 === val2) return;
+
+            if (!m) {
+                try { f(val2); }
+                catch { $(this).val(val1); }
+                return;
+            }
             
+            var u1 = m[2] || "";            
             var m = val2.match(re);
+            
             try {
                 if (!m) throw new Error();
                 
@@ -654,11 +698,11 @@ var acts = (function() {
             }
             catch {
                 $(this).val(val1);
-                return;
             }
         }
 
-        $(qs).val(f());
+        var _val = f();
+        $(qs).val(_val);
         
         $(qs).on("change", function() {
             onChange.call(this);
@@ -682,13 +726,11 @@ var acts = (function() {
         var picSize = Math.round(800 * loom.scale) + "pt";
         $(".picture").css({ width: picSize, height: picSize });
         loom.draw();
-        acts.save();
+        save();
     });
 
     // === Upload ===
     
-    // $area.addClass("uploaded");
-
     $uploadArea = $(".upload-area");
     
     $(".upload-btn").click(function() {
@@ -743,12 +785,25 @@ var acts = (function() {
         dialogGrid = val;
     });
     
+    // === Show ===
+    
+    dialog(".show-btn", ".show-dlg");
+    
+    $(".show-grid-box").on("change", function(ev) {
+        console.log($(this).val());
+    });
+    
+    ["picture", "grid", "mod"].forEach(function(x) {
+        bind(`.show-${x}-box`, function(val) {
+            if (!val) return loom.show[x] + "";
+            loom.show[x] = val == "true";
+            loom.draw();
+            save();
+        });
+    });    
+    
     // ===
 
-    acts.save = save;
-    acts.load = load;
-    acts.bind = bind;
-    
     return acts;
 })();
 
