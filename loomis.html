@@ -2,7 +2,7 @@
 <head>
 <meta charset="utf-8">
 <style>
-* {font-size: 14pt; box-sizing: border-box; }
+* {font-size: 14pt; box-sizing: border-box; font-family: sans-serif; }
 input, button { padding: 3pt 8pt; }
 button { min-width: 60pt; }
 .hidden { display: none; }
@@ -14,14 +14,12 @@ textarea { resize: none; }
     background: no-repeat center/100pt url('img/loomis/icon-picture.svg');
 }
 
-.dialog { background-color: rgba(0, 0, 0, .5); width: 100%; height: 100%; position: fixed; left: 0; top: 0; }
-.upload-area.loaded { background-size: cover; border: 0; }
+.upload-area.uploaded { background-size: contain; border: 0; }
 .upload-area.dragover { background-color: #e9f5ff; border-color: #0056b3; }
 
-.tools button { min-width: initial; height: initial; }
 .abs { position: absolute; top: 0; left: 0; }
-.hidden-input { position: absolute; width: 1px; height: 1px; opacity: 0; overflow: hidden; }
 
+.tools button { min-width: initial; height: initial; }
 .tools * { vertical-align: middle; margin: 0 2pt; min-height: 32pt; text-align: center; }
 .tools textarea { padding: 0 5pt; font-family: sans-serif; line-height: 32pt; width: 70pt; }
 .tools .icon img { max-width: 22pt; max-height: 22pt; }
@@ -37,13 +35,14 @@ textarea { resize: none; }
 <script src="js/jquery-3.3.1.js"></script>
 <script src="js/jquery-ui.js"></script>
 <script src="js/jquery.ui.touch-punch.js"></script>
-<script src="js/loomis/upload.js"></script>
+<script src="js/upload.js"></script>
+<script src="js/dialog.js"></script>
 </head>
 <body>
 
 <div class="tools" style="position: relative; padding-bottom: 10pt">
-    <button id="upload-btn" class="icon"><img src="img/loomis/icon-picture.svg"/></button>
-    <textarea id="scale-box" rows="1"></textarea>
+    <button class="upload-btn icon"><img src="img/loomis/icon-picture.svg"/></button>
+    <textarea class="scale-box" rows="1"></textarea>
     <button class="grid-btn icon"><img src="img/loomis/icon-grid.svg"/></button>
 </div>
 
@@ -59,22 +58,16 @@ textarea { resize: none; }
     <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" id="mod_du"><path style="color:#000;fill:#000;stroke:none;overflow:visible" d="m27.23 1026.473-1.568 11.115-1.525-.022-1.878-3.071-8.22 8.22 3.071 1.878.022 1.525-11.115 1.569-1.06-1.06 1.569-11.116 1.524.022 1.879 3.072 8.22-8.22-3.072-1.879-.022-1.524 11.115-1.57 1.06 1.061z" transform="translate(0 -1020.362)"/></svg>
 </div>
 
-<div class="upload-dialog dialog hidden" id="uploadDialog">
-    <div style=" top: 50%; left: 50%; margin-left: -120pt; margin-top: -180pt; position: absolute; background-color: white; padding: 20pt; ">
-        <div class="upload-area" id="uploadArea">
-            <input class="hidden-input" type="file" id="uploadInput" multiple/>
-        </div>
-        <p style="margin-bottom: 0; " align=center><button>OK</button> <button>Cancel</button></p>
-    </div>
-</div>
+<dialog class="upload-dlg">
+    <div class="upload-area"></div>
+    <br/><br/><button class="dialog-close">OK</button> <button class="dialog-close">Cancel</button>
+</dialog>
 
-<div class="grid-dialog dialog hidden">
-    <div style=" top: 50%; left: 50%; margin-left: -120pt; margin-top: -160pt; position: absolute; background-color: white; padding: 20pt; ">
-        <p>Diameter:<br/><input class="grid-box" style=" width: 80pt; " /></p>
-        <label><input class="grid-show-box" type="checkbox"/> Show</label>
-        <p style="margin-bottom: 0; " align=center><button>OK</button> <button>Cancel</button></p>
-    </div>
-</div>
+<dialog class="grid-dlg">
+    <br/>Main diameter<br/><input class="grid-box" style=" width: 80pt; "/>
+    <br/><br/><label><input class="grid-show-box" type="checkbox"/> Show grid</label>
+    <br/><br/><button class="dialog-close">OK</button> <button  class="dialog-close">Cancel</button>
+</dialog>
 
 <script>
 
@@ -344,87 +337,98 @@ var loom = (function () {
         c.clearRect(0, 0, loom.canvas.width, loom.canvas.height);
         
         for (var i = 0; i < 2; i++) {
+            if (loom.show.grid) {
+                c.globalAlpha = 1;
+                c.strokeStyle = '#FFFFFF33'; 
+                if (i > 0) c.strokeStyle = '#00000088';
+                var GK = 6 / loom.grid * 10 * loom.SK * loom.scale;
+                var GK = [GK*5, GK];
+                var l5Set = new Set();
+                
+                var line = function (a, xy) {
+                    if (a == "x") { c.moveTo(xy, 0); c.lineTo(xy, 1920); return; }
+                    c.moveTo(0, xy); c.lineTo(1920, xy);
+                }
+                
+                c.beginPath();
+                for (var gi = 0; gi < 2; gi++) {
+                    for (var a of ["x", "y"]) {
+                        var k0 = a == "x" ? pcc.sx % GK[gi] : pcc.sy % GK[gi];
+                        for (var k = k0; k < 1920; k+=GK[gi]) {
+                            if (gi == 1) {
+                                var x = 2+2;
+                            }
+                        
+                            var rk = Math.floor(k-0.5)+0.5;
+                            rk = rk + (1-i) + (1-gi);
+                            
+                            l5Key = a + (rk + gi);
+                            if (i == 0 && l5Set.has(l5Key)) continue;
+                            if (gi == 0) l5Set.add(l5Key);
+                            
+                            line(a, rk);
+                        }
+                    }
+                }
+                c.stroke();
+            }
 
-        if (loom.show.grid) {
-            c.globalAlpha = 1;
-            c.strokeStyle = '#FFFFFF22'; 
-            if (i > 0) c.strokeStyle = '#000000';
-            var GK = 6 / loom.grid * 10 * loom.SK * loom.scale;
-            var GK = [GK, GK*5];
+            c.lineWidth = 1.5;
+            if (i == 0) {
+                c.globalAlpha = 0.5;
+                c.strokeStyle = c.fillStyle = '#CCCCCC'; 
+                c.setLineDash([]);
+            } else {
+                c.globalAlpha = 1;
+                c.strokeStyle = c.fillStyle = '#004422';
+                c.setLineDash([5, 3]);
+            }
             
             c.beginPath();
-            for (var gi = 0; gi < 2; gi++) {
-                for (var k = pcc.sx % GK[gi]; k < 1920; k+=GK[gi]) {
-                    var rk = Math.floor(k-0.5)+0.5;
-                    c.moveTo(rk + (1-i) + gi, 0)
-                    c.lineTo(rk + (1-i) + gi, 1920);
-                }
-                for (var k = pcc.sy % GK[gi]; k < 1920; k+=GK[gi]) {
-                    var rk = Math.floor(k-0.5)+0.5;
-                    c.moveTo(0, rk + (1-i) + gi)
-                    c.lineTo(1920, rk + (1-i) + gi);
+            os.forEach(o => {
+                var t = o.ps[0].t;
+                switch (t) {
+                case "l":
+                case "m":
                     
-                }
-            }
-            c.stroke();
-        }
-
-        c.lineWidth = 1.5;
-        if (i == 0) {
-            c.globalAlpha = 0.5;
-            c.strokeStyle = c.fillStyle = '#CCCCCC'; 
-            c.setLineDash([]);
-        } else {
-            c.globalAlpha = 1;
-            c.strokeStyle = c.fillStyle = '#004422';
-            c.setLineDash([5, 3]);
-        }
-        
-        os.forEach(o => {
-            var t = o.ps[0].t;
-            switch (t) {
-            case "l":
-            case "m":
-                c.beginPath();
-                o.ps.forEach((p,i) => {
-                    if (t != "l") return;
+                    o.ps.forEach((p,i) => {
+                        if (t != "l") return;
+                        
+                        if (i == 0) c.moveTo(p.sx, p.sy)
+                        else c.lineTo(p.sx, p.sy);
+                    });
+                    c.stroke();
+                   
+                    o.ps.filter(p => p.m).forEach((p,_i) => {
+                        c.beginPath();
+                        c.arc(p.sx, p.sy, i == 0 ? 4 : 3, 0, Math.PI * 2);
+                        c.fill();
+                    });
                     
-                    if (i == 0) c.moveTo(p.sx, p.sy)
-                    else c.lineTo(p.sx, p.sy);
-                });
-                c.stroke();
-               
-                o.ps.filter(p => p.m).forEach((p,_i) => {
+                    break;
+                case "s":
                     c.beginPath();
-                    c.arc(p.sx, p.sy, i == 0 ? 4 : 3, 0, Math.PI * 2);
-                    c.fill();
-                });
-                
-                break;
-            case "s":
-                c.beginPath();
-                var p = o.ps[0];
-                var r = o.ps[1].x;
-                c.arc(p.sx, p.sy, r * loom.SK * loom.scale, 0, Math.PI * 2);
-                
-                c.stroke();                
-                break;
-            case "c":
-                var e = elipse(o.ps);
-                if (e.cw && e.s > 5.5) return;
-                
-                c.beginPath();
-                var [u1,u2] = !e.cw ? [0, Math.PI * 2]
-                    : [e.s * 0.1, e.su - e.s * 0.1];
+                    var p = o.ps[0];
+                    var r = o.ps[1].x;
+                    c.arc(p.sx, p.sy, r * loom.SK * loom.scale, 0, Math.PI * 2);
                     
-                c.ellipse(o.ps[1].sx, o.ps[1].sy
-                    , e.a * loom.SK * loom.scale, e.b * loom.SK * loom.scale, -e.sw, u1, u2);
+                    c.stroke();                
+                    break;
+                case "c":
+                    var e = elipse(o.ps);
+                    if (e.cw && e.s > 5.5) return;
                     
-                c.stroke();
-                break;
-            }
-        });
-        
+                    c.beginPath();
+                    var [u1,u2] = !e.cw ? [0, Math.PI * 2]
+                        : [e.s * 0.1, e.su - e.s * 0.1];
+                        
+                    c.ellipse(o.ps[1].sx, o.ps[1].sy
+                        , e.a * loom.SK * loom.scale, e.b * loom.SK * loom.scale, -e.sw, u1, u2);
+                        
+                    break;
+                }
+            });
+            c.stroke();
         }
 
         c.fillStyle = '#FFFFFF66'; 
@@ -621,7 +625,9 @@ var acts = (function() {
         applyUrl(loom.url);
     }
     
-    // ====
+    load();    
+    
+    // === Bind ===
     
     function bind(qs, f) {
     
@@ -667,10 +673,51 @@ var acts = (function() {
             onChange.call(this);
         });
     }
+    
+    bind(".scale-box", function(val) {
+        if (val == null) return `${Math.round(loom.scale * 100)}%`;
+        
+        if (val < 10 || val > 999) throw new Error();
+        loom.scale = val / 100;
+        var picSize = Math.round(800 * loom.scale) + "pt";
+        $(".picture").css({ width: picSize, height: picSize });
+        loom.draw();
+        acts.save();
+    });
+
+    // === Upload ===
+    
+    // $area.addClass("uploaded");
+
+    $uploadArea = $(".upload-area");
+    
+    $(".upload-btn").click(function() {
+        $uploadArea.removeClass("uploaded");
+        $uploadArea.css({ backgroundImage : "url('img/loomis/icon-picture.svg')" });
+        $uploadArea.data("url", "");
+    });
+    
+    dialog(".upload-btn", ".upload-dlg");
+    
+    upload(".upload-area", function(url) {
+        $uploadArea.data("url", url);
+        $uploadArea.addClass("uploaded");
+        $uploadArea.css({ backgroundImage: `url('${url}')` });
+    });
+
+    $(".upload-dlg button").click(function() {
+        if ($(this).text() != "OK") return;
+        
+        var url = $uploadArea.data("url");
+        if (!url) return;
+        
+        applyUrl(url);
+        save();
+    });
 
     // === Grid ===
 
-    var $gridDialog = $(".grid-dialog");
+    dialog(".grid-btn", ".grid-dlg");
     
     var dialogGrid = loom.grid;
     
@@ -678,34 +725,17 @@ var acts = (function() {
         $(".grid-show-box")[0].checked = true;
         dialogGrid = loom.grid;
         $(".grid-box").val(dialogGrid + "mm");
-        $gridDialog.removeClass("hidden");
     });
     
-    $(".grid-dialog div").click(function(e) {
-        e.stopPropagation();
-    });
-    
-    $(".grid-dialog button").click(function() {
+    $(".grid-dlg button").click(function() {
         if ($(this).text() != "OK") return;
         
         loom.show.grid = $(".grid-show-box")[0].checked;
-        $(".grid-bix").trigger("change");
         loom.grid = dialogGrid;
         loom.draw();
         acts.save();
     });
 
-    var mouseDownTarget = null;
-    
-    $(".grid-dialog, .grid-dialog *").on('mousedown', function(e) {
-        mouseDownTarget = e.target;
-    });
-
-    $(".grid-dialog button, .grid-dialog").click(function() {
-        if (mouseDownTarget !== this) return;
-        $gridDialog.addClass("hidden");
-    });
-    
     bind(".grid-box", function(val) {
         if (val == null) return dialogGrid + "mm";
         
@@ -716,42 +746,17 @@ var acts = (function() {
     // ===
 
     acts.save = save;
-    acts.bind = bind;
     acts.load = load;
-    acts.applyUrl = applyUrl;
+    acts.bind = bind;
     
     return acts;
 })();
 
 loom.ready(function() {
 $(document).ready(function() {
-    $("#upload-btn").click(function() {
-        upload.show();
-    });
-    
-    upload.load(function(url) {
-        $(".picture").css({backgroundImage: `url('${url}')`});
-        acts.applyUrl(url);
-        acts.save();
-    });
-
     loom.canvas = document.getElementById('canvas');
-    acts.load();
     loom.draw();
-    
-    acts.bind("#scale-box", function(val) {
-        if (val == null) return `${Math.round(loom.scale * 100)}%`;
-        
-        if (val < 10 || val > 999) throw new Error();
-        loom.scale = val / 100;
-        var picSize = Math.round(800 * loom.scale) + "pt";
-        $(".picture").css({ width: picSize, height: picSize });
-        loom.draw();
-        acts.save();
-    });
-    
-    
-    
+
     // TODO:
     // - при d&d не хватать весь canvas
     // - выборочный d&d, чтобы работал скролинг на планшете
