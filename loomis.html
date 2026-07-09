@@ -73,9 +73,9 @@ textarea { resize: none; }
 
 <dialog class="show-dlg">
     <div class="tools">
-        <label><input class="show-grid-box     " type="checkbox"/><button class="icon"><img src="img/loomis/icon-grid.svg"/></button></label>
-        <label><input class="show-picture-box  " type="checkbox"/><button class="icon"><img src="img/loomis/icon-picture.svg"/></button></label>
-        <label><input class="show-mod-box      " type="checkbox"/><button class="icon"><img src="img/loomis/icon-mod.svg"/></button></label>
+        <label><input class="show-grid-box    " type="checkbox"/><span class="icon"><img src="img/loomis/icon-grid.svg"/></span></label> &nbsp;
+        <label><input class="show-picture-box " type="checkbox"/><span class="icon"><img src="img/loomis/icon-picture.svg"/></span></label> &nbsp;
+        <label><input class="show-mod-box     " type="checkbox"/><span class="icon"><img src="img/loomis/icon-mod.svg"/></span></label> &nbsp;
     </div>    
     <br/><button class="dialog-close">OK</button>
 
@@ -428,10 +428,10 @@ var loom = (function () {
                     var r = o.ps[1].x;
                     c.arc(p.sx, p.sy, r * loom.SK * loom.scale, 0, Math.PI * 2);
                     
-                    c.moveTo(p.sx, p.sy - 8);
-                    c.lineTo(p.sx, p.sy + 8);
-                    c.moveTo(p.sx - 8, p.sy);
-                    c.lineTo(p.sx + 8, p.sy);
+                    c.moveTo(p.sx, p.sy - 5);
+                    c.lineTo(p.sx, p.sy + 5);
+                    c.moveTo(p.sx - 5, p.sy);
+                    c.lineTo(p.sx + 5, p.sy);
                     
                     c.stroke();                
                     break;
