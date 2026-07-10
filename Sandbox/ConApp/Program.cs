@@ -2795,33 +2795,33 @@ namespace ConApp {
             var f20kDic = loadDic("freq-20k");
             var subsDic = loadDic("freq-subs");
             var mDic = loadDic("mnem-dic");
+            var etymDic = File.ReadAllLines(findPath("mnem-etym")).Select(s => s.SplitT5(" ")).ToDictionary(x => x.Item1, x => x.Item3);
+            var etyms = etymDic.SelectMany(x => new[] { x.Key, x.Value } ).ToList();
+            var isSet = new HashSet<string>(mDic.Values.Select(x => x.key).Concat(etyms));
             //var isSet = new HashSet<string>(f20kDic.Values.Select(x => x.key).Concat(subsDic.Values.Select(x => x.key).Concat(families.Keys)).Where(s => s.ToLower() == s && !s.Contains("-")));
 
-            var path = findPath("mnem-etym.txt");
-            var mSet = new HashSet<string>(mDic.Values.Select(x => x.key));
             
+
             var rs = new List<string>();
 
             var uniqeSet = new HashSet<string>();
-            foreach (var s in fileReadLines(path)) {
+            foreach (var s in fileReadLines(findPath("etymwn.txt"))) {
                 var (a, bond, b, _, _) = s.SplitT5(" ");
-                //if (bond != "from" && bond != "rel") continue;
-                if (bond != "from") continue;
-                //if (!isSet.Contains(a) || !isSet.Contains(b)) continue;
+                //if (bond == "from") rs.Add(s);
+                if (bond != "rel") continue;
 
-                //Etym.from(a, b);
-                //if (lemmas.ContainsKey(a) && a != lemmas[a]) continue;
-                var bf = getDicVal(b, b, families);
-                if (!mSet.Contains(b) && b != bf) Console.WriteLine($"{bf} {b}");
+                a = getDicVal(a, a, etymDic);
+                b = getDicVal(b, b, etymDic);
 
-                if (uniqeSet.Contains(s) || a == b) {
-                    Console.Write("*");
-                    continue;
+                if (!isSet.Contains(a) || !isSet.Contains(b) || a == b) continue;
+
+                if (a.CompareTo(b) > 0) {
+                    var tmp = a; a = b; b = tmp;
                 }
-                
-                uniqeSet.Add(s);
-                rs.Add(s);
+
+                rs.Add($"{a} rel {b}");
             }
+
 
             //rs = isSet.SelectMany(x => enumExceptions(() => Etym.getRoots(x))).Distinct().ToList();
             //rs.Print();
@@ -2837,7 +2837,8 @@ namespace ConApp {
             rs.Print();
             */
 
-            //File.WriteAllLines(pathEx(path, "-2"), rs.OrderBy(x => x));
+            var path9 = pathEx(findPath("mnem-etym.txt"), "-9");
+            File.WriteAllLines(path9, rs.Distinct().OrderBy(x => x));
 
             /*
             mDic.Values.GroupBy(d => d.key).Where(g => g.Count() > 1).ToList().ForEach(g => {
