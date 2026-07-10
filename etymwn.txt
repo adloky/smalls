@@ -1064,6 +1064,7 @@ amaze rel amazing
 amazement rel amaze
 amazement rel amazing
 amazingly from amazing
+amazing from amaze
 ambassador rel embassy
 ambassadorships from ambassadorship
 amber rel ambergris
@@ -1595,6 +1596,7 @@ appear rel appearance
 appearance rel apparent
 appearance rel apparition
 appearance rel appear
+appearance from appear
 appease rel appeasement
 appease rel appeaser
 appeasement from appease
@@ -2543,6 +2545,7 @@ bake rel bakery
 bake rel roast
 baker rel bakery
 bakery from baker
+baker from bake
 bakery rel bake
 bakery rel baker
 bakery rel bakeshop
@@ -3879,7 +3882,6 @@ brutality rel atrocity
 brutality rel brutal
 brutalize from brutalise
 brutally rel brutal
-brute from bruit
 brute rel brutal
 brutish from brute
 brutish rel brutal
@@ -4078,7 +4080,6 @@ buyer from buy
 buyout from buy
 buzzword from buzz
 buzzword from word
-bye from bee
 byes from bye
 bygone rel bygones
 bylaw from law
@@ -4447,6 +4448,7 @@ career rel careerist
 careerist rel career
 carefull from careful
 carefully from careful
+careful from care
 caregiver rel caregiving
 caregiving from care
 careless rel carelessness
@@ -6416,7 +6418,8 @@ construct rel construction
 construct rel constructive
 construct rel constructivist
 construct rel construe
-construction from construe
+construction from construct
+construct from structure
 construction rel construct
 construction rel constructive
 construction rel construe
@@ -6553,6 +6556,7 @@ continuous rel continued
 continuous rel continuity
 continuous rel continuum
 continuously from continuous
+continuous from continue
 continuously rel continue
 continuum rel continual
 continuum rel continue
@@ -9838,11 +9842,13 @@ edit rel editorial
 edition rel edit
 editor rel edit
 editorial from editor
+editor from edit
 editorial rel edit
 educate rel education
 educate rel educator
 education rel educate
 educational from education
+education from educate
 educationalist from educational
 educationist from education
 educative from educate
@@ -10700,7 +10706,6 @@ esteem rel estimation
 esthetic from aesthetic
 esthetician from aesthetician
 estimable from estimate
-estimate from estimation
 estimation rel esteem
 estoppels from estoppel
 estrange rel estrangement
@@ -10916,6 +10921,8 @@ exception rel exceptional
 exception rel expostulation
 exceptional rel exception
 exceptionally from exceptional
+exceptional from exception
+exception from except
 excess rel exceed
 excess rel excessive
 excessive rel exceed
@@ -12396,7 +12403,6 @@ forger from forgery
 forger rel forgery
 forgery from forge
 forgery rel forger
-forget from get
 forgetful from forget
 forgetfully from forgetful
 forgetfulness from forgetful
@@ -12428,7 +12434,6 @@ formals from formal
 format rel form
 formation rel form
 formatting from format
-formerly from pigeon
 formers from former
 formula rel form
 formula rel formulaic
@@ -13457,6 +13462,7 @@ government rel govern
 government rel governance
 government rel governor
 governmental from government
+government from govern
 governor rel govern
 governor rel government
 governor rel gubernatorial
@@ -13628,6 +13634,7 @@ gravitas rel gravitate
 gravitas rel gravity
 gravitate rel gravitas
 gravitational from gravitation
+gravitation from gravity 
 gravitons from graviton
 gravity rel gravitas
 graybeard from gray
@@ -14121,7 +14128,6 @@ happenstances from happenstance
 happily from happy
 happiness from happy
 happiness rel enjoyment
-happy from hap
 harasser from harass
 harassment from harass
 harassments from harassment
@@ -15684,7 +15690,6 @@ impolitely from impolite
 impoliteness from impolite
 import rel important
 importance rel important
-important from import
 important rel import
 important rel importance
 importantly from important
@@ -15942,6 +15947,7 @@ indefatigably from indefatigable
 indefensibly from indefensible
 indefinite rel indeterminate
 indefinitely from indefinite
+indefinite from definite
 indemnification from indemnify
 indemnified from indemnify
 indemnifies from indemnify
@@ -16364,6 +16370,7 @@ insecticide rel insect
 insecticide rel insecticidal
 insecure rel insecurity
 insecurity from insecure
+insecure from secure
 insecurity rel insecure
 inseminations from insemination
 insensibility from insensible
@@ -16587,11 +16594,13 @@ intent rel intention
 intention rel intend
 intention rel intent
 intentional from intention
+intention from intent
 intentionally from intentional
 inter rel intermittent
 interact from act
 interact rel interaction
 interaction from interactive
+interactive from interact
 interaction rel interact
 interaction rel interactive
 interactive rel interaction
@@ -18271,7 +18280,6 @@ lover from love
 lovesick from love
 lovesick from sick
 lovingly rel lovely
-low from laugh
 lowbrow rel highbrow
 lowbrow rel middlebrow
 lowbrows from lowbrow
@@ -19645,6 +19653,7 @@ mistress rel maestro
 mistrustfully from mistrustful
 misty from mist
 misunderstanding from misunderstand
+misunderstand from understand
 misuse from use
 mitigate rel mitigated
 mitigate rel mitigating
@@ -19677,7 +19686,7 @@ mobile rel move
 mobilise rel mobilisation
 mobilises from mobilise
 mobilities from mobility
-mobility from immobility
+immobility from mobility
 mobility rel mobile
 mobility rel mobilization
 mobility rel mobilize
@@ -20863,7 +20872,6 @@ nondairy from dairy
 nondemocratic from democratic
 nondisclosure from disclosure
 nonentity from entity
-nonetheless from the
 nonexistence from existence
 nonfatal from fatal
 nonhuman from human
@@ -21177,6 +21185,7 @@ obligate rel obligatory
 obligate rel oblige
 obligate rel obligee
 obligation from obligate
+obligate from oblige
 obligation rel obligate
 obligation rel obligated
 obligation rel obligatory
@@ -21268,6 +21277,7 @@ obviousness from obvious
 occasion rel occasional
 occasional rel occasion
 occasionally from occasional
+occasional from occasion
 occipital rel occiput
 occluder from occlude
 occludes from occlude
@@ -21367,7 +21377,6 @@ oinked from oink
 oinking from oink
 oinks from oink
 ointment rel anoint
-okay from o
 old rel elderly
 olden rel eld
 olfactory rel olfaction
@@ -21446,6 +21455,7 @@ operation rel operate
 operation rel operative
 operation rel operator
 operational from operation
+operation from operate
 operational rel operative
 operational rel operator
 operationalize from operational
@@ -22003,6 +22013,7 @@ pain rel painfully
 pain rel punish
 painful rel pain
 painfully from painful
+painful from pain
 painfully rel pain
 painfulness from painful
 painkiller from pain
@@ -22238,6 +22249,7 @@ partial rel part
 partialities from partiality
 partiality from partial
 partially from partial
+partial from part
 partially rel partly
 partials from partial
 participant rel participate
@@ -22424,7 +22436,6 @@ pavilion rel papillon
 paw rel pa
 paw rel papa
 pawpaw from paw
-pay from rise
 pay rel payee
 pay rel payer
 pay rel payment
@@ -23904,6 +23915,7 @@ prefabricated rel prefabrication
 preface rel prefatory
 prefectures from prefecture
 preferably from preferable
+preferable from prefer
 preference from prefer
 preferential from prefer
 preferments from preferment
@@ -24058,7 +24070,7 @@ preview from view
 preview rel view
 previewed from preview
 previewing from preview
-previously from above
+previously from previous
 prevision from vision
 price rel precious
 prick rel pricker
@@ -24206,12 +24218,11 @@ procedure rel proceed
 procedure rel process
 procedure rel procession
 procedure rel processor
-proceed from procession
+procession from proceed
 proceed rel cede
 proceed rel procedure
 proceed rel process
 proceeding from proceed
-process from procession
 process rel procedure
 process rel proceed
 procession rel procedure
@@ -24316,7 +24327,7 @@ prohibit rel prohibition
 prohibit rel prohibitive
 prohibition rel prohibit
 prohibitive rel prohibit
-project from projection
+projection from project
 projection rel projective
 prolapses from prolapse
 prolapsing from prolapse
@@ -24448,6 +24459,7 @@ proselytize rel proselytism
 prosper rel prosperity
 prosper rel prosperous
 prosperity from prosperous
+prosperous from prosper
 prosperity rel prosper
 prosperity rel prosperous
 prosperous rel prosper
@@ -24843,7 +24855,7 @@ pushcart from cart
 pushrods from pushrod
 pushy rel push
 puss rel pussy
-pussy from pus
+pussy from puss
 pussy rel puss
 pussycat from pussy
 pussyfoot from pussy
@@ -24938,6 +24950,7 @@ quest rel question
 question rel query
 question rel quest
 questionable from question
+question from quest
 questioner from question
 questionnaire from question
 quick rel quickly
@@ -25282,6 +25295,7 @@ reality rel realize
 reality rel realty
 realizable from realize
 realization from realize
+realize from real
 realization rel real
 realization rel realism
 realization rel realistic
@@ -25832,6 +25846,7 @@ relate rel relative
 relation rel relate
 relation rel relative
 relationship from relation
+relation from relate
 relationship rel entity
 relationship rel relate
 relationship rel relative
@@ -25921,6 +25936,7 @@ remark from mark
 remark rel remarkable
 remarkable rel remark
 remarkably from remarkable
+remarkable from remark
 remarriage from marriage
 remarriage rel remarry
 remarriages from remarriage
@@ -25940,6 +25956,7 @@ remedy rel remediable
 remedy rel remedial
 remembrance from remember
 reminder from remind
+remind from mind
 reminisce rel reminiscence
 reminisce rel reminiscent
 reminiscence rel reminisce
@@ -25994,7 +26011,6 @@ renounce rel renunciation
 renouncement from renounce
 renovation from renovate
 renown rel renowned
-rent from rend
 rental from rent
 renunciation rel renounce
 renunciation rel renouncement
@@ -26167,7 +26183,6 @@ research rel recherche
 research rel search
 resection from resect
 resections from resection
-resent from resend
 resentfully from resentful
 resentfulness from resentful
 reservation rel reserve
@@ -26307,7 +26322,6 @@ resupplied from resupply
 resupplies from resupply
 resupplying from resupply
 resurgences from resurgence
-resurrect from resurrection
 resuscitate rel resuscitation
 resuscitation rel resuscitate
 resuscitations from resuscitation
@@ -26627,7 +26641,6 @@ roommate from room
 roomy from room
 roost rel rooster
 rooster rel roost
-root from rout
 rootkit from root
 rootstocks from rootstock
 rooves from roof
@@ -26973,6 +26986,7 @@ satirical from satire
 satirically from satire
 satirist from satire
 satisfaction from satisfactory
+satisfactory from satisfact
 satisfaction rel pleasing
 satisfaction rel satiate
 satisfaction rel satisfy
@@ -27467,7 +27481,6 @@ selfless rel self
 selflessness from selfless
 selflessness rel altruism
 selfsame rel self
-seller from cellar
 semantic rel semantics
 semantic rel seme
 semantic rel semiotic
@@ -27763,7 +27776,6 @@ sheepish from sheep
 sheepishly from sheepish
 sheepskin from sheep
 sheepskin from skin
-sheer from luck
 shelduck from duck
 shelf rel shelve
 shellac from lac
@@ -28092,7 +28104,6 @@ singer from sing
 singer rel caller
 singer rel cantor
 singer rel sing
-single from simple
 single rel simply
 single rel singly
 single rel singular
@@ -28469,7 +28480,6 @@ snuggle rel snug
 snuggly from snuggle
 snuggly rel snug
 snugly from snug
-so from ablative
 soapstone from stone
 soapy from soap
 sober rel sobriety
@@ -29129,7 +29139,7 @@ starveling from starve
 stasis rel homeostasis
 stasis rel static
 stat rel stats
-state from station
+station from state
 state rel estate
 state rel statistics
 state rel status
@@ -29993,7 +30003,7 @@ survive rel vital
 survive rel vitality
 survive rel vivid
 susceptibility from susceptible
-suspect from suspicion
+suspicion from suspect
 suspect rel suspicion
 suspect rel suspicious
 suspense rel cliffhanger
@@ -30006,7 +30016,7 @@ suspicious rel suspicion
 suspicious rel unsuspecting
 suspiciously from suspicious
 suss rel sussed
-sustain from sustenance
+sustenance from sustain
 sustain rel sustainability
 sustain rel sustenance
 sustainability rel sustain
@@ -30340,7 +30350,6 @@ tar rel macadam
 tardies from tardy
 tared from tare
 tares from tare
-target from targe
 tarmac from tar
 tarmac rel macadam
 tarmacadam from tar
@@ -30792,7 +30801,6 @@ theme rel thematic
 themself rel them
 themselves rel self
 themselves rel them
-then from than
 thence rel hence
 thence rel thenceforth
 thence rel whence
@@ -30998,7 +31006,6 @@ tide rel ebb
 tide rel tidal
 tidepool from pool
 tidewater from tide
-tidy from tide
 tidy rel tidily
 tidy rel tidiness
 tiered from tier
@@ -31172,7 +31179,6 @@ tomography from tomogram
 tomography from tomograph
 tomography rel tomogram
 tomography rel tomographic
-tomorrow from morrow
 tonal rel tonality
 tonal rel tone
 tonality rel tonal
@@ -31688,7 +31694,6 @@ triumphant rel triumph
 triumphantly from triumphant
 trivia from trivial
 trivia from trivium
-trivial from trivium
 triviality from trivia
 trivialize from trivia
 troglodytic from troglodyte
@@ -31940,7 +31945,6 @@ ultrasound from sound
 ultrasound rel ultrasonic
 ultrasound rel ultrasonics
 ultraviolet from violet
-umbrella from umbra
 umbrella rel brolly
 umpire rel referee
 umpteenth from umpteen
@@ -31960,6 +31964,7 @@ unaware rel unawares
 unawares from unaware
 unawares rel unaware
 unbearable from bearable
+bearable from bear
 unbelief from belief
 unbelievable from believe
 unbeliever from believe
@@ -32095,6 +32100,8 @@ undignified rel indignation
 undo from do
 undocking from undock
 undoubtedly from undoubted
+undoubted from doubted
+doubted from doubt
 undoubtedly rel unquestionably
 unduly from undue
 unearth from earth
@@ -32237,6 +32244,7 @@ unmarriageable from marriage
 unmask from mask
 unmentionables from unmentionable
 unnatural from natural
+natural from nature
 unnecessarily from unnecessary
 unnecessarily rel necessarily
 unnecessarily rel unnecessary
@@ -32253,6 +32261,7 @@ unpleasantnesses from unpleasantness
 unplug rel plug
 unpolished from polished
 unprecedented from precedent
+precedent from precede
 unprecedented rel precede
 unpredictability from unpredictable
 unpredictably from unpredictable
@@ -32817,8 +32826,7 @@ vicious rel vice
 vicious rel vitiate
 victimisation from victimization
 victimising from victimise
-victorious from victor
-victory from victor
+victorious from victory
 vicunas from vicuna
 video rel audio
 video rel audiovisual
@@ -33287,7 +33295,6 @@ webpages from webpage
 wedding from wed
 wedgie from wedge
 wedlock from lake
-weed from wee
 weedkiller rel herbicide
 weedkillers from weedkiller
 week rel weekday
@@ -33513,7 +33520,6 @@ whomever rel whomsoever
 whoosh rel swish
 whopper from whop
 whopping from whop
-whore from son
 whoremaster from master
 whoreson from son
 whorling from whorl
@@ -33614,7 +33620,6 @@ windless from wind
 windmill from mill
 windmill from wind
 windmill rel mill
-window from wind
 window rel wind
 window rel windowsill
 windowed from window
@@ -33690,7 +33695,6 @@ withdraw rel drawdown
 withstand rel notwithstanding
 withstand rel withstanding
 witless from wit
-witness from wit
 witted from wit
 witter from wit
 witticism from wit
@@ -33815,7 +33819,6 @@ worts from wort
 would rel could
 would rel will
 woulda from a
-wound from wind
 wowed from wow
 wowing from wow
 wows from wow
@@ -33893,7 +33896,6 @@ yeomanry from yeoman
 yer rel yerself
 yerself rel yer
 yeshivas from yeshiva
-yesterday from yester
 yesterday rel yester
 yesterday rel yesteryear
 yesterdays from yesterday

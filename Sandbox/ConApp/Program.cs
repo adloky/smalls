@@ -2754,19 +2754,9 @@ namespace ConApp {
                 var r = fromDic[s].OrderBy(x => x).ToArray();
                 var check = (string)null;
                 var prevCheck = (string)null;
-                var i = 1;
-                var q = new Queue<string>();
                 while ((check = r.JoinStrings(" ")) != prevCheck) {
-                    if (q.Count > 10) q.Dequeue();
-                    q.Enqueue(check);
-                    i++;
                     prevCheck = check;
                     r = r.SelectMany(x => !fromDic.ContainsKey(x) ? Enumerable.Repeat(x, 1) : fromDic[x]).Distinct().OrderBy(x => x).ToArray();
-                    if (i > 100) {
-                        var last = q.Distinct().ToArray();
-                        var loop = last.SelectMany(x => x.Split(' ')).GroupBy(x => x).Where(g => g.Count() < last.Length).Select(x => x.Key).OrderBy(x => x.Length).ToArray();
-                        throw new Exception($"{loop[0]} from {loop[1]}");
-                    }
                 }
 
                 return r;
@@ -2804,57 +2794,25 @@ namespace ConApp {
 
             var f20kDic = loadDic("freq-20k");
             var subsDic = loadDic("freq-subs");
-            var isSet = new HashSet<string>(f20kDic.Values.Select(x => x.key).Concat(subsDic.Values.Select(x => x.key).Concat(families.Keys)).Where(s => s.ToLower() == s && !s.Contains("-")));
-            // thebandofivIryuwsm'gclkpjAqMxRzCTVPDSBEFU-JGOLNKH/QYWZ
-            // \-'/âçèéêïñü
+            var mDic = loadDic("mnem-dic");
+            //var isSet = new HashSet<string>(f20kDic.Values.Select(x => x.key).Concat(subsDic.Values.Select(x => x.key).Concat(families.Keys)).Where(s => s.ToLower() == s && !s.Contains("-")));
 
-            //var path = findPath("mnem-dic");
-            //var mDic = loadDic(path);
-
-            var path = findPath("etymwn.tsv");
+            var path = findPath("etymwn.txt");
+            var mSet = new HashSet<string>(mDic.Values.Select(x => x.key));
+            
             var rs = new List<string>();
-            var langSet = new HashSet<string>();
-            var exCSet = new HashSet<char>();
-
-            var nonEnRe = new Regex(@"[^\-'/_a-zA-Z]", RegexOptions.Compiled); 
-            var count = 0;
-            var relSet = new HashSet<string>();
-            var relDic = @"etym_related-30212 to-109264 from-14386 etym_to-66217 etym-20273"
-                .Split(' ').ToDictionary(x => x.Split('-')[0], x => int.Parse(x.Split('-')[1]));
-
-            /*
-            [etym_related, 30212]
-            [to, 109264]
-            [from, 14386]
-            [etym_to, 66217]
-            [etym, 20273]
-            */
-
-            /*
-            var hs = new HashSet<string>();
-            foreach (var s in fileReadLines(path)) {
-                var (a, rel, b, _, _) = s.SplitT5("[\t ]");
-                if (hs.Contains(s) || a == b) {
-                    Console.Write("*");
-                    continue;
-                }
-                hs.Add(s);
-                rs.Add($"{a} {rel} {b}");
-            }
-            */
+            var rs2 = new List<string>();
 
             var uniqeSet = new HashSet<string>();
             foreach (var s in fileReadLines(path)) {
-                var (a, rel, b, _, _) = s.SplitT5(" ");
-                if (rel != "from" && rel != "rel") continue;
-                if (!isSet.Contains(a) || !isSet.Contains(b)) continue;
+                var (a, bond, b, _, _) = s.SplitT5(" ");
+                //if (bond != "from" && bond != "rel") continue;
+                if (bond != "from") continue;
+                //if (!isSet.Contains(a) || !isSet.Contains(b)) continue;
 
-                
                 Etym.from(a, b);
-                if (lemmas.ContainsKey(a) && a != lemmas[a]) {
-                    continue;
-                }
-                //var r = $"{a} {rel} {b}";
+                //if (lemmas.ContainsKey(a) && a != lemmas[a]) continue;
+
                 if (uniqeSet.Contains(s) || a == b) {
                     Console.Write("*");
                     continue;
@@ -2863,6 +2821,11 @@ namespace ConApp {
                 uniqeSet.Add(s);
                 rs.Add(s);
             }
+
+            rs = mSet.Select(x => (a: x, b: Etym.getRoots(x)))
+                .Where(x => x.b.Length == 1).Select(x => $"{x.a} from {x.b[0]}").OrderBy(x => x).ToList();
+
+            var etymSet = new HashSet<string>(rs.Select(x => x.Split(' ')[0]));
 
             //rs = isSet.SelectMany(x => enumExceptions(() => Etym.getRoots(x))).Distinct().ToList();
             //rs.Print();
@@ -2878,7 +2841,9 @@ namespace ConApp {
             rs.Print();
             */
 
-            File.WriteAllLines(pathEx(path, "-9"), rs.OrderBy(x => x));
+            rs2 = families.Where(x => x.Key != x.Value && etymSet.Contains(x.Key)).Select(x => $"{x.Key} from {x.Value}").ToList();
+            File.WriteAllLines(path.Replace("etymwn", "mnem-fam"), rs2.OrderBy(x => x));
+            File.WriteAllLines(path.Replace("etymwn", "mnem-etym"), rs.OrderBy(x => x));
 
             /*
             mDic.Values.GroupBy(d => d.key).Where(g => g.Count() > 1).ToList().ForEach(g => {
