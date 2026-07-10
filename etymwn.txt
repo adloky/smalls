@@ -3477,7 +3477,7 @@ bodysurfing from surfing
 bodywork from body
 boffed from boff
 bogeymen from bogeyman
-boil from boiler
+boiler from boil
 boil rel abscess
 boil rel ebullient
 boilerplate from boiler
@@ -14239,7 +14239,7 @@ havocs from havoc
 haw rel ha
 haw rel hee
 hawfinch from finch
-hawk from hawker
+hawker from hawk
 hawk rel goshawk
 hawk rel hawker
 hawkweed from weed
@@ -17080,7 +17080,7 @@ jellylike from jelly
 jeopardies from jeopardy
 jeopardises from jeopardise
 jeopardize from jeopardy
-jerk from jerky
+jerky from jerk
 jerk rel jerky
 jerky rel jerk
 jester from jest
@@ -18613,7 +18613,6 @@ mama rel mum
 mama rel mummy
 mambos from mambo
 mamma rel mammary
-mammal from mamma
 mammal rel mammary
 mammalian from mammal
 mammary from mamma
@@ -27707,6 +27706,7 @@ sexting from texting
 sexual rel sex
 sexual rel sexuality
 sexuality from sexual
+sexual from sex
 sexuality rel sex
 sexuality rel sexual
 sexualized from sexualize

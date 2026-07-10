@@ -2797,11 +2797,10 @@ namespace ConApp {
             var mDic = loadDic("mnem-dic");
             //var isSet = new HashSet<string>(f20kDic.Values.Select(x => x.key).Concat(subsDic.Values.Select(x => x.key).Concat(families.Keys)).Where(s => s.ToLower() == s && !s.Contains("-")));
 
-            var path = findPath("etymwn.txt");
+            var path = findPath("mnem-etym.txt");
             var mSet = new HashSet<string>(mDic.Values.Select(x => x.key));
             
             var rs = new List<string>();
-            var rs2 = new List<string>();
 
             var uniqeSet = new HashSet<string>();
             foreach (var s in fileReadLines(path)) {
@@ -2810,8 +2809,10 @@ namespace ConApp {
                 if (bond != "from") continue;
                 //if (!isSet.Contains(a) || !isSet.Contains(b)) continue;
 
-                Etym.from(a, b);
+                //Etym.from(a, b);
                 //if (lemmas.ContainsKey(a) && a != lemmas[a]) continue;
+                var bf = getDicVal(b, b, families);
+                if (!mSet.Contains(b) && b != bf) Console.WriteLine($"{bf} {b}");
 
                 if (uniqeSet.Contains(s) || a == b) {
                     Console.Write("*");
@@ -2821,11 +2822,6 @@ namespace ConApp {
                 uniqeSet.Add(s);
                 rs.Add(s);
             }
-
-            rs = mSet.Select(x => (a: x, b: Etym.getRoots(x)))
-                .Where(x => x.b.Length == 1).Select(x => $"{x.a} from {x.b[0]}").OrderBy(x => x).ToList();
-
-            var etymSet = new HashSet<string>(rs.Select(x => x.Split(' ')[0]));
 
             //rs = isSet.SelectMany(x => enumExceptions(() => Etym.getRoots(x))).Distinct().ToList();
             //rs.Print();
@@ -2841,9 +2837,7 @@ namespace ConApp {
             rs.Print();
             */
 
-            rs2 = families.Where(x => x.Key != x.Value && etymSet.Contains(x.Key)).Select(x => $"{x.Key} from {x.Value}").ToList();
-            File.WriteAllLines(path.Replace("etymwn", "mnem-fam"), rs2.OrderBy(x => x));
-            File.WriteAllLines(path.Replace("etymwn", "mnem-etym"), rs.OrderBy(x => x));
+            //File.WriteAllLines(pathEx(path, "-2"), rs.OrderBy(x => x));
 
             /*
             mDic.Values.GroupBy(d => d.key).Where(g => g.Count() > 1).ToList().ForEach(g => {
