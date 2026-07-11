@@ -34,23 +34,25 @@ textarea { resize: none; }
 
 </style>
 <script src="js/jquery-3.3.1.js"></script>
-<script src="js/jquery-ui.js"></script>
-<script src="js/jquery.ui.touch-punch.js"></script>
+<script src="js/interact.min.js"></script>
 <script src="js/upload.js"></script>
 <script src="js/dialog.js"></script>
 </head>
 <body>
 
-<div class="tools" style="position: relative; padding-bottom: 10pt">
+<div class="tools" style="position: relative; padding-bottom: 10pt; z-index: 1; ">
     <button class="upload-btn icon"><img src="img/loomis/icon-picture.svg"/></button>
     <textarea class="scale-box" rows="1"></textarea>
     <button class="grid-btn icon"><img src="img/loomis/icon-grid.svg"/></button>
     <button class="show-btn icon"><img src="img/loomis/icon-show.svg"/></button>
 </div>
 
-<div style="position: relative">
-    <div class="picture abs">&nbsp;</div>
-    <canvas class="abs" id="canvas" width=1920 height=1920></canvas>
+<div style="position: relative; ">
+    <div class="picture abs"></div>
+    <div class="canvas-wrapper" style=" width: 1920px; height: 1920px; ">
+        <canvas class="abs" id="canvas" width=1920 height=1920></canvas>
+        <div class="picture-drag abs" style=" touch-action: none; cursor: default !important; "></div>
+    </div>
 </div>
 
 <div style="display: none">
@@ -92,6 +94,7 @@ var loom = (function () {
     var mps = [];
     initSvgs();
     
+    var PK = Math.min(1.3, window.devicePixelRatio);
     var CL = 2.236;
     var FL = 2.8;
     var EL = 2.6;
@@ -108,11 +111,11 @@ var loom = (function () {
     var f2 = applyF({ ps: [ { x: 1, y:  -2, z: -FL }, { x: -1, y:  -2, z: -FL } ] });
     var f3 = applyF({ ps: [ { x: 1, y:   2, z: -FL }, { x: -1, y:   2, z: -FL } ] });
     var f4 = applyF({ ps: [ { x: 1, y:  -4, z: -FL }, { x: -1, y:  -4, z: -FL } ] });
-    var sp = applyF({ ps: [ { x: 0, y: 0, z: 0 }, { x: 2.12, y: 2.12, z: 0, m: "du2s" }, { x: 2.12, y: -2.12, z: 0, m: "dd4s" }, { x: -2.12, y: -2.12, z: 0, m: "du6s" }, { x: -2.12, y: 2.12, z: 0, m: "dd8s" } ] }, "m");
+    var sp = applyF({ ps: [ { x: 2.12, y: 2.12, z: 0, m: "du2s" }, { x: 2.12, y: -2.12, z: 0, m: "dd4s" }, { x: -2.12, y: -2.12, z: 0, m: "du6s" }, { x: -2.12, y: 2.12, z: 0, m: "dd8s" } ] }, "m");
     
     var pc = loom.pc = f1.ps[1];
     var pb = loom.pb = f0.ps[1];
-    var pcc = loom.pcc = sp.ps[0];
+    var pcc = loom.pcc = s0.ps[0];
     var imgs = {};
     var modCount = $("svg").length;
     var modReady = function () {};
@@ -153,12 +156,12 @@ var loom = (function () {
             mps.push(p);
             m.imgId = "mod_" + mm[1];
             var szCode = mm[3];
-            m.size = szCode == "b" ? 40 : szCode == "m" ? 32 : 24;
+            m.size = (szCode == "b" ? 40 : szCode == "m" ? 32 : 24) * PK;
             var u = (Number(mm[2])-1) * Math.PI / 4; 
             kx = Math.sin(u);
             ky = -Math.cos(u);
-            m.dx = (m.size / 2 + 16) * kx;
-            m.dy = (m.size / 2 + 16) * ky;
+            m.dx = (m.size / 2 + 16 * PK) * kx;
+            m.dy = (m.size / 2 + 16 * PK) * ky;
         });
         return o;
     }
@@ -347,17 +350,28 @@ var loom = (function () {
         if ($picture.hasClass("hidden") != !loom.show.picture) {
             $picture.toggleClass("hidden");
         }
-    
+        
         applyMatrix();
         
         var c = loom.canvas.getContext('2d');
         c.clearRect(0, 0, loom.canvas.width, loom.canvas.height);
         
+        var p1 = pCalc({x: -3, y:  3});
+        var p2 = pCalc({x:  3, y: -3});
+        p1.sx = Math.min(p1.sx, pb.sx) - 70 * PK;
+        p1.sy = Math.min(p1.sy, pb.sy) - 70 * PK;
+        p2.sx = Math.max(p2.sx, pb.sx) + 70 * PK;
+        p2.sy = Math.max(p2.sy, pb.sy) + 70 * PK;
+        $(".picture-drag").css({ left: p1.sx, top: p1.sy
+            , width: p2.sx - p1.sx, height: p2.sy - p1.sy });
+        
+        
         for (var i = 0; i < 2; i++) {
             if (loom.show.grid) {
                 c.globalAlpha = 1;
-                c.strokeStyle = '#FFFFFF33'; 
-                if (i > 0) c.strokeStyle = '#00000088';
+                c.strokeStyle = '#FFFFFF22'; 
+                c.lineWidth = 1;
+                if (i > 0) c.strokeStyle = '#22222288';
                 var GK = 6 / loom.grid * 10 * loom.SK * loom.scale;
                 var GK = [GK*5, GK];
                 var l5Set = new Set();
@@ -390,7 +404,7 @@ var loom = (function () {
                 c.stroke();
             }
 
-            c.lineWidth = 1.5;
+            c.lineWidth = 1.5 * PK;
             if (i == 0) {
                 c.globalAlpha = 0.5;
                 c.strokeStyle = c.fillStyle = '#CCCCCC'; 
@@ -428,10 +442,12 @@ var loom = (function () {
                     var r = o.ps[1].x;
                     c.arc(p.sx, p.sy, r * loom.SK * loom.scale, 0, Math.PI * 2);
                     
-                    c.moveTo(p.sx, p.sy - 5);
-                    c.lineTo(p.sx, p.sy + 5);
-                    c.moveTo(p.sx - 5, p.sy);
-                    c.lineTo(p.sx + 5, p.sy);
+                    if (o != s0) {
+                        c.moveTo(p.sx, p.sy - 5);
+                        c.lineTo(p.sx, p.sy + 5);
+                        c.moveTo(p.sx - 5, p.sy);
+                        c.lineTo(p.sx + 5, p.sy);
+                    }
                     
                     c.stroke();                
                     break;
@@ -454,6 +470,7 @@ var loom = (function () {
 
         if (!loom.show.mod) return;
 
+        c.lineWidth = PK; 
         c.fillStyle = '#FFFFFF66'; 
         c.strokeStyle = '#00000066'; 
         c.setLineDash([]);
@@ -471,14 +488,14 @@ var loom = (function () {
         });
     }
     
-    function mp(sp) {
+    function mod(sp) {
         var isNear = false;
         for (var p of mps) {
             var dl2  = Math.hypot(p.mx - sp.sx, p.my - sp.sy);
             var pdl2 = Math.hypot(p.sx - sp.sx, p.sy - sp.sy);
-            var sz = Math.max(p.ms, 32);
-            if (Math.min(dl2, pdl2) <= 1.0 * sz) return p;
-            if (Math.min(dl2, pdl2) <= 1.5 * sz) isNear = true;
+            var sz = Math.max(p.ms, 32 * PK);
+            if (Math.min(dl2, pdl2) <= 1.3 * sz) return p;
+            if (Math.min(dl2, pdl2) <= 2 * sz) isNear = true;
         }
 
         if (isNear) return null;
@@ -499,7 +516,7 @@ var loom = (function () {
     loom.rotate = rotate;
     loom.trans = trans;
     loom.pCalc = pCalc;
-    loom.mp = mp;
+    loom.mod = mod;
     loom.ready = ready;
     loom.test = test;
     
@@ -532,54 +549,53 @@ var acts = (function() {
             , Math.floor(ev.pageY - elemPos.top - dragDiff.sy) ];
     }
     
-    $("#canvas").draggable({
-        start: function (ev, ui) {
-            rotate = ev.shiftKey;
-            dragPos = { sx: ui.position.left, sy: ui.position.top };
-            dragDiff = { sx: 0, sy: 0 };
-            var [sx, sy] = getEvXy(ev);
-            p1 = loom.mp({ sx: sx, sy: sy });
-            if (!p1) return false;
-            
-            p1 = p1.calc();
-            dragDiff = { sx: sx - p1.sx, sy: sy - p1.sy };
-        },
-        drag: function (ev, ui) {
-            ui.position.left = dragPos.sx;
-            ui.position.top = dragPos.sy;
-            
-            var [sx, sy] = getEvXy(ev);
-            var p2 = loom.pCalc({ sx: sx, sy: sy }, true);
-            p2 = p2.from2;
-
-            switch(p1) {
-            case loom.pc:
-                loom.shift(p2);
-                break;
-            case loom.pb:
-                loom.rotate(p2);
-                break;
-            case loom.pcc:
-                var p = loom.pcc;
-                p.sx = sx; p.sy = sy;
-                loom.pos = { x: 0, y: 0 };
-                loom.pcc.calc(true);
-                loom.pos = { x: p.x2, y: p.y2 };
-                break;
-            default:
-                if (p1.o.ps[0].t != "m") break;
+    interact(".canvas-wrapper").draggable({
+        allowFrom: ".picture-drag",
+        listeners: {
+            start(ev) {
+                dragDiff = { sx: 0, sy: 0 };
+                var [sx, sy] = getEvXy(ev);
+                p1 = loom.mod({ sx: sx, sy: sy });
+                if (!p1) return false;
                 
-                var [dsx, dsy] = [sx - loom.pcc.sx, sy - loom.pcc.sy];
-                loom.SK = Math.hypot(dsx, dsy) / loom.scale / 3;
-                loom.pos = { x: 0, y: 0 };
-                loom.pcc.calc(true);
-                loom.pos = { x: loom.pcc.x2, y: loom.pcc.y2 };
-            }
+                p1 = p1.calc();
+                dragDiff = { sx: sx - p1.sx, sy: sy - p1.sy };
+                drawCounter = 0;
+            },
+            move(ev) {
+                var [sx, sy] = getEvXy(ev);
+                var p2 = loom.pCalc({ sx: sx, sy: sy }, true);
+                p2 = p2.from2;
 
-            loom.draw();
-        },
-        stop: function (ev) {
-            save();
+                switch(p1) {
+                case loom.pc:
+                    loom.shift(p2);
+                    break;
+                case loom.pb:
+                    loom.rotate(p2);
+                    break;
+                case loom.pcc:
+                    var p = loom.pcc;
+                    p.sx = sx; p.sy = sy;
+                    loom.pos = { x: 0, y: 0 };
+                    loom.pcc.calc(true);
+                    loom.pos = { x: p.x2, y: p.y2 };
+                    break;
+                default:
+                    if (!p1 || p1.o.ps[0].t != "m") break;
+                    
+                    var [dsx, dsy] = [sx - loom.pcc.sx, sy - loom.pcc.sy];
+                    loom.SK = Math.hypot(dsx, dsy) / loom.scale / 3;
+                    loom.pos = { x: 0, y: 0 };
+                    loom.pcc.calc(true);
+                    loom.pos = { x: loom.pcc.x2, y: loom.pcc.y2 };
+                }
+                
+                loom.draw();
+            },
+            end(ev) {
+                save();
+            }
         }
     });
 
@@ -789,8 +805,8 @@ var acts = (function() {
     
     dialog(".show-btn", ".show-dlg");
     
-    $(".show-grid-box").on("change", function(ev) {
-        console.log($(this).val());
+    $(".show-btn").click(function() {
+        $(".show-grid-box").val(loom.show.grid + "");
     });
     
     ["picture", "grid", "mod"].forEach(function(x) {
@@ -811,11 +827,6 @@ loom.ready(function() {
 $(document).ready(function() {
     loom.canvas = document.getElementById('canvas');
     loom.draw();
-
-    // TODO:
-    // - при d&d не хватать весь canvas
-    // - выборочный d&d, чтобы работал скролинг на планшете
-    // - расстояния до mod-иконок и области от pt
 });
 });
 
