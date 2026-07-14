@@ -98,6 +98,9 @@ var loom = (function () {
     var CL = 2.236;
     var FL = 2.8;
     var EL = 2.6;
+    //var FL = 2.8;
+    //var EL = 2.6;
+
     var ox = applyF({ ps: [ { x: 1, y: 0, z: 0 } ] });
     var oy = applyF({ ps: [ { x: 0, y: 1, z: 0 } ] });
     var oz = applyF({ ps: [ { x: 0, y: 0, z: 1 } ] });
@@ -369,11 +372,14 @@ var loom = (function () {
         for (var i = 0; i < 2; i++) {
             if (loom.show.grid) {
                 c.globalAlpha = 1;
-                c.strokeStyle = '#FFFFFF22'; 
+                c.strokeStyle = '#FFFFFF22';
+                c.setLineDash([]);
                 c.lineWidth = 1;
                 if (i > 0) c.strokeStyle = '#22222288';
+                
                 var GK = 6 / loom.grid * 10 * loom.SK * loom.scale;
-                var GK = [GK*5, GK];
+                GK  = Math.round(GK * 1000) / 1000;
+                GK = [GK*5, GK];
                 var l5Set = new Set();
                 
                 var line = function (a, xy) {
@@ -384,7 +390,8 @@ var loom = (function () {
                 c.beginPath();
                 for (var gi = 0; gi < 2; gi++) {
                     for (var a of ["x", "y"]) {
-                        var k0 = a == "x" ? pcc.sx % GK[gi] : pcc.sy % GK[gi];
+                        var k0 = a == "x" ? pcc.sx : pcc.sy;
+                        var k0 = k0 % GK[gi];
                         for (var k = k0; k < 1920; k+=GK[gi]) {
                             if (gi == 1) {
                                 var x = 2+2;

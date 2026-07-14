@@ -2783,6 +2783,47 @@ namespace ConApp {
             }
         }
 
+        static List<List<string>> FindWordIslands(List<(string, string)> pairs) {
+            var graph = new Dictionary<string, List<string>>();
+
+            foreach (var (u, v) in pairs) {
+                if (!graph.ContainsKey(u)) graph[u] = new List<string>();
+                if (!graph.ContainsKey(v)) graph[v] = new List<string>();
+
+                graph[u].Add(v);
+                graph[v].Add(u);
+            }
+
+            var visited = new HashSet<string>();
+            var islands = new List<List<string>>();
+
+            foreach (var node in graph.Keys) {
+                if (!visited.Contains(node)) {
+                    var island = new List<string>();
+                    var queue = new Queue<string>();
+
+                    queue.Enqueue(node);
+                    visited.Add(node);
+
+                    while (queue.Count > 0) {
+                        string current = queue.Dequeue();
+                        island.Add(current);
+
+                        foreach (var neighbor in graph[current]) {
+                            if (!visited.Contains(neighbor)) {
+                                visited.Add(neighbor);
+                                queue.Enqueue(neighbor);
+                            }
+                        }
+                    }
+
+                    islands.Add(island);
+                }
+            }
+
+            return islands;
+        }
+
 
         //File.ReadAllLines(@"d:\Projects\smalls\l-dic.txt").Where(x => DicItem.isValid(x)).Select(s => DicItem.Parse(s))
         //        .GroupBy(di => di.keyPos).Where(g => g.Count() > 1).Select(g => g.Key).ToList().ForEach(Console.WriteLine);
@@ -2792,19 +2833,25 @@ namespace ConApp {
         static async Task Main(string[] args) {
             // fra enm non grc ell
 
-            var f20kDic = loadDic("freq-20k");
-            var subsDic = loadDic("freq-subs");
-            var mDic = loadDic("mnem-dic");
-            var etymDic = File.ReadAllLines(findPath("mnem-etym")).Select(s => s.SplitT5(" ")).ToDictionary(x => x.Item1, x => x.Item3);
-            var etyms = etymDic.SelectMany(x => new[] { x.Key, x.Value } ).ToList();
-            var isSet = new HashSet<string>(mDic.Values.Select(x => x.key).Concat(etyms));
+//            var f20kDic = loadDic("freq-20k");
+//            var subsDic = loadDic("freq-subs");
+            var mDic = loadDic("mnem-dic").Values.ToDictionary(x => x.key, x => x);
+            //var etymDic = File.ReadAllLines(findPath("mnem-etym")).Select(s => s.SplitT5(" ")).Where(x => x.Item2 == "rel").ToDictionary(x => x.Item1, x => x.Item3);
+            var etyms = File.ReadAllLines(findPath("mnem-etym")).Select(s => s.SplitT5(" ")).Where(x => x.Item2 == "rel").Select(x => (x.Item1, x.Item3)).ToList();
+            //var isSet = new HashSet<string>(mDic.Values.Select(x => x.key).Concat(etymDic.Keys).Concat(etymDic.Values));
             //var isSet = new HashSet<string>(f20kDic.Values.Select(x => x.key).Concat(subsDic.Values.Select(x => x.key).Concat(families.Keys)).Where(s => s.ToLower() == s && !s.Contains("-")));
 
             
 
-            var rs = new List<string>();
+            //var rs = new List<string>();
 
-            var uniqeSet = new HashSet<string>();
+            var rs = FindWordIslands(etyms);
+            rs.ForEach(r => Console.WriteLine(r.OrderByDescending(x => getDicVal(x, mDic["flooding"], mDic).freqK).JoinStrings(",")));
+
+//            rs = mDic.Values.Select(x => x.key).Where(k => !etymDic.ContainsKey(k) && getDicVal(k, k, families) != k)
+//                .Select(x => $"{x} from {families[x]}").ToList();
+
+            /*
             foreach (var s in fileReadLines(findPath("etymwn.txt"))) {
                 var (a, bond, b, _, _) = s.SplitT5(" ");
                 //if (bond == "from") rs.Add(s);
@@ -2821,7 +2868,7 @@ namespace ConApp {
 
                 rs.Add($"{a} rel {b}");
             }
-
+            */
 
             //rs = isSet.SelectMany(x => enumExceptions(() => Etym.getRoots(x))).Distinct().ToList();
             //rs.Print();
@@ -2837,8 +2884,8 @@ namespace ConApp {
             rs.Print();
             */
 
-            var path9 = pathEx(findPath("mnem-etym.txt"), "-9");
-            File.WriteAllLines(path9, rs.Distinct().OrderBy(x => x));
+            //var path9 = pathEx(findPath("mnem-etym.txt"), "-9");
+            //File.WriteAllLines(path9, rs.Distinct().OrderBy(x => x));
 
             /*
             mDic.Values.GroupBy(d => d.key).Where(g => g.Count() > 1).ToList().ForEach(g => {
