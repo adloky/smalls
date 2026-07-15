@@ -2783,48 +2783,6 @@ namespace ConApp {
             }
         }
 
-        static List<List<string>> FindWordIslands(List<(string, string)> pairs) {
-            var graph = new Dictionary<string, List<string>>();
-
-            foreach (var (u, v) in pairs) {
-                if (!graph.ContainsKey(u)) graph[u] = new List<string>();
-                if (!graph.ContainsKey(v)) graph[v] = new List<string>();
-
-                graph[u].Add(v);
-                graph[v].Add(u);
-            }
-
-            var visited = new HashSet<string>();
-            var islands = new List<List<string>>();
-
-            foreach (var node in graph.Keys) {
-                if (!visited.Contains(node)) {
-                    var island = new List<string>();
-                    var queue = new Queue<string>();
-
-                    queue.Enqueue(node);
-                    visited.Add(node);
-
-                    while (queue.Count > 0) {
-                        string current = queue.Dequeue();
-                        island.Add(current);
-
-                        foreach (var neighbor in graph[current]) {
-                            if (!visited.Contains(neighbor)) {
-                                visited.Add(neighbor);
-                                queue.Enqueue(neighbor);
-                            }
-                        }
-                    }
-
-                    islands.Add(island);
-                }
-            }
-
-            return islands;
-        }
-
-
         //File.ReadAllLines(@"d:\Projects\smalls\l-dic.txt").Where(x => DicItem.isValid(x)).Select(s => DicItem.Parse(s))
         //        .GroupBy(di => di.keyPos).Where(g => g.Count() > 1).Select(g => g.Key).ToList().ForEach(Console.WriteLine);
 
@@ -2844,9 +2802,6 @@ namespace ConApp {
             
 
             //var rs = new List<string>();
-
-            var rs = FindWordIslands(etyms);
-            rs.ForEach(r => Console.WriteLine(r.OrderByDescending(x => getDicVal(x, mDic["flooding"], mDic).freqK).JoinStrings(",")));
 
 //            rs = mDic.Values.Select(x => x.key).Where(k => !etymDic.ContainsKey(k) && getDicVal(k, k, families) != k)
 //                .Select(x => $"{x} from {families[x]}").ToList();
